@@ -1,0 +1,143 @@
+Cover Page  Happy to join the PROGRAM COMMITTEE MEMBERS @ NLDB"23 THE 28TH INTERNATIONAL CONFERENCE ON NATURAL LANGUAGE & INFORMATION SYSTEMS (NLDB 2023)  
+ June 2023 
+
+ Authors:   
+      
+ Fouzi Harrag    
+ Ferhat Abbas University of Setif 
+
+   Request file PDF   To read the file of this research, you can request a copy directly from the author.  
+
+   Request file     
+   Download citation     
+   Copy link  Link copied      
+         
+      Request file   
+      Download citation   
+     Copy link  Link copied    
+
+ To read the file of this research, you can request a copy directly from the author.   
+
+ Abstract  
+   
+ The 28th International Conference on Natural Language and Information Systems will be held at the University of Derby, United Kingdom and will be a face to face. Since 1995, the Natural Language to Data Bases (NLDB) conference brings together researchers, industry practitioners, and potential users interested in various applications of Natural Language in the Database and Information Systems field. The term "Information Systems" has to be considered in the broader sense of Information and Communication Systems, including Big Data, Linked Data and Social Networks.   
+
+    Discover the world's research   
+ 25+ million members 
+  160+ million publication pages 
+  2.3+ billion citations 
+  Join for free     
+
+ No file available  
+
+ To read the file of this research,  
+  you can request a copy directly from the author.  
+   
+   Request file PDF     
+
+ Citations (0)  
+
+  References (0)  
+
+ ResearchGate has not been able to resolve any citations for this publication.   
+
+ ResearchGate has not been able to resolve any references for this publication.   
+
+ Recommended publications  
+   
+ Discover more    
+
+ Article    
+ Full-text available    
+   
+ Publishing and using parliamentary Linked Data on the Semantic Web: ParliamentSampo system for Parli...   
+ October 2024  · Semantic Web    
+ Eero Hyvönen 
+  Laura Sinikallio 
+  Petri Leskinen 
+  [...] 
+  Heikki Rantala 
+  This paper presents a new infrastructure and semantic portal called ParliamentSampo for studying parliamentary speeches, culture, language, and activities in Finland. For the first time, the entire time series of some million plenary speeches of the Parliament of Finland (PoF) since 1907 have been converted from text into knowledge graphs and data services in unified formats, including CSV, ... [Show full abstract]  Parla-CLARIN, ParlaMint, and RDF Linked Open Data (LOD). The speech data have been interlinked with a semi-automatically created ontology and a knowledge graph about the activities of over 2800 Members of Parliament (MP) and other speakers in the plenary sessions of the PoF. The data was enriched by data linking to external data sources and by reasoning into a broader LOD service. Knowledge extraction techniques based on Natural Language Processing (NLP) were used for automatic semantic annotations and topical classification of the speeches. The data and data services have been used in Digital Humanities (DH) research projects and for application development, especially for developing the in-use semantic portal ParliamentSampo. The infrastructure and the portal were published on February 14th 2023 on the Web using the open CC BY 4.0 license, and quickly gathered thousands of users, including citizens, media, politicians, and researchers of politics. ParliamentSampo is a new member in the “Sampo” series of over 20 interlinked LOD services and semantic portals in Finland, based on a national Semantic Web infrastructure. Although the paper uses Finnish parliamentary data as a case study, the approach, methods, and tools presented can be adapted also to other parliamentary datasets in other countries.    
+ View full-text    
+
+ Article    
+ Full-text available    
+   
+ Toward an Enrichment of Ontologies Inferred From RDF Documents   
+ October 2024  · IEEE Access    
+ Juan Collio 
+  Ana Isabel Aguilera 
+  [...] 
+  Irvin Dongo 
+  The Semantic Web emerged in response to the unprecedented growth of information and data sharing on the Web. It consists of a set of technologies that enable the automatic (machine) management and processing of linked data across hundreds of distributed repositories. To connect and interlink data, the SemanticWeb uses Resource Description Framework (RDF), which is a graph-based data model that ... [Show full abstract]  simplifies the description of resources using triples (subject, predicate, object). The representation of data in RDF usually follows an ontology, a knowledge base model that dictates the relationships and characteristics of the linked data. Ontologies play an important role in the Semantic Web and are a key component. However, ontologies might not be correct and, in some cases, might not be available. In general, ontologies are created manually by domain experts in collaboration with ontology engineers, which is a costly and error-prone task. In this study, we present a proposal to automatically generate ontologies from RDF datasets. We use summarization techniques to reduce triples and retain the most relevant ones. Subsequently, classes, datatype properties, object properties, as well as the domain and range of properties are identified for schema construction. In addition, an enrichment of the schema is performed by incorporating Object Property axioms. The result is the delivery of a serialized ontology document in OWL/XML format. Furthermore, we present an experimental evaluation of an RDF dataset of 16005 triples. Through application of our summarization technique the original dataset was decreased by 98%. The ontology was generated with a time of 148.73 seconds. Finally, 9 classes, 10 Object Properties, 6 Datatype Properties and 4 different types of Object Property axioms were identified.    
+ View full-text    
+
+ Article    
+ Full-text available    
+   
+ Improving availability and utilization of forest inventory and land use map data using Linked Open D...   
+ September 2024  · Frontiers in Forests and Global Change    
+ José M. Giménez-García 
+  Guillermo Vega-gorgojo 
+  Cristóbal Ordóñez 
+  [...] 
+  Felipe Bravo 
+  Introduction Modern forestry increasingly relies on the management of large datasets, such as forest inventories and land cover maps. Governments are typically in charge of publishing these datasets, but they typically employ disparate data formats (sometimes proprietary ones) and published datasets are commonly disconnected from other sources, including previous versions of such datasets. As a ... [Show full abstract]  result, the usage of forestry data is very challenging, especially if we need to combine multiple datasets. Methods and results Semantic Web technologies, standardized by the World Wide Web Consortium (W3C), have emerged in the last decades as a solution to publish heterogeneous data in an interoperable way. They enable the publication of self-describing data that can easily interlink with other sources. The concepts and relationships between them are described using ontologies, and the data can be published as Linked Data on the Web, which can be downloaded or queried online. National and international agencies promote the publication of governmental data as Linked Open Data, and research fields such as biosciences or cultural heritage make an extensive use of Semantic Web technologies. In this study, we present the result of the European Cross-Forest project, addressing the integration and publication of national forest inventories and land cover maps from Spain and Portugal using Semantic Web technologies. We used a bottom-up methodology to design the ontologies, with the goal of being generalizable to other countries and forestry datasets. First, we created an ontology for each dataset to describe the concepts (plots, trees, positions, measures, and so on) and relationships between the data in detail. We converted the source data into Linked Open Data by using the ontology to annotate the data such as species taxonomies. As a result, all the datasets are integrated into one place this is the Cross-Forest dataset and are available for querying and analysis through a SPARQL endpoint. These data have been used in real-world use cases such as (1) providing a graphical representation of all the data, (2) combining it with spatial planning data to reveal the forestry resources under the management of Spanish municipalities, and (3) facilitating data selection and ingestion to predict the evolution of forest inventories and simulate how different actions and conditions impact this evolution. Discussion The work started in the Cross-Forest project continues in current lines of research, including the addition of the temporal dimension to the data, aligning the ontologies and data with additional well-known vocabularies and datasets, and incorporating additional forestry resources.    
+ View full-text    
+
+ Article    
+ Full-text available    
+   
+ LPG Semantic Ontologies: A Tool for Interoperable Schema Creation and Management   
+ September 2024  · Information    
+ Eleonora Bernasconi 
+  Miguel Ceriani 
+  [...] 
+  Stefano Ferilli 
+  Ontologies are essential for the management and integration of heterogeneous datasets. This paper presents OntoBuilder, an advanced tool that leverages the structural capabilities of semantic labeled property graphs (SLPGs) in strict alignment with semantic web standards to create a sophisticated framework for data management. We detail OntoBuilder’s architecture, core functionalities, and ... [Show full abstract]  application scenarios, demonstrating its proficiency and adaptability in addressing complex ontological challenges. Our empirical assessment highlights OntoBuilder’s strengths in enabling seamless visualization, automated ontology generation, and robust semantic integration, thereby significantly enhancing user workflows and data management capabilities. The performance of the linked data tools across multiple metrics further underscores the effectiveness of OntoBuilder.    
+ View full-text    
+
+ Looking for the full-text?  
+ You can request the full-text of this cover page directly from the authors on ResearchGate.  
+ Request full-text     
+   
+ Already a member? Log in    
+
+ ResearchGate iOS App    
+   
+ Get it from the App Store now.   
+
+ Install     
+
+ Keep up with your stats and more   
+
+ Access scientific knowledge from anywhere   
+
+ or   
+   
+ Discover by subject area     
+
+ Recruit researchers 
+  Join for free 
+  Login      Email   Tip:  Most researchers use their institutional email address as their ResearchGate login         Password  Forgot password?      Keep me logged in   Log in    or    Continue with Google                
+ Welcome back! Please log in.        Email · Hint  Tip:  Most researchers use their institutional email address as their ResearchGate login          Password   Forgot password?       Keep me logged in    Log in    or    Continue with Google       No account? Sign up 
+
+ Company   
+ About us    
+ News    
+ Careers    
+
+ Support   
+ Help Center    
+
+ Business solutions   
+ Advertising    
+ Recruiting    
+
+ © 2008-2024 ResearchGate GmbH. All rights reserved.   
+   
+ Terms 
+  Privacy 
+  Copyright 
+  Imprint 
+  Consent preferences

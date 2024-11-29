@@ -1,0 +1,250 @@
+Advances in Database Technology - Volume 26  
+  Proceedings 26 th  International Conference on Extending Database Technology ( EDBT 2023 )  
+  Ioannina, Greece, March 28 - March 31   
+  
+ Series ISSN: 2367-2005   
+ Number 1 (July 30, 2022)  
+ Original publisher:  OpenProceedings.org, ISBN: 978-3-89318-088-2, Electronic Edition    
+ Research Track  
+     A simplified Architecture for Fast, Adaptive Compilation and Execution of SQL Queries   Immanuel Haffner, Jens Dittrich pp. 1–13   
+   
+     Efficient Maintenance of Agree-Sets Against Dynamic Datasets   Khalid Belhajjame pp. 14–26   
+   
+     Joint Source and Schema Evolution: Insights from a Study of 195 FOSS Projects   Panos Vassiliadis, Fation Shehaj, George Kalampokis, Apostolos V. Zarras pp. 27–39   
+   
+     Blue Elephants Inspecting Pandas: Inspection and Execution of Machine Learning Pipelines in SQL   Maximilian E. Schüle, Luca Scalerandi, Alfons Kemper, Thomas Neumann pp. 40–52   
+   
+     Workload-Aware Query Recommendation Using Deep Learning   Eugenie Y. Lai, Zainab Zolaktaf, Mostafa Milani, Omar AlOmeir, Jianhao Cao, Rachel Pottinger pp. 53–65   
+   
+     Relational Memory: Native In-Memory Accesses on Rows and Columns   Shahin Roozkhosh, Denis Hoornaert, Ju Hyoung Mun, Tarikul Islam Papon, Ahmed Sanaullah, Ulrich Drepper, Renato Mancuso, Manos Athanassoulis pp. 66–79   
+   
+     Progressive Entity Resolution over Incremental Data   Leonardo Gazzarri, Melanie Herschel pp. 80–91   
+   
+     Supporting Complex Query Time Enrichment For Analytics   Dhrubajyoti Ghosh, Peeyush Gupta, Sharad Mehrotra, Shantanu Sharma pp. 92–104   
+   
+     Example-Driven Exploratory Analytics over Knowledge Graphs   Matteo Lissandrini, Katja Hose, Torben Bach Pedersen pp. 105–117   
+   
+     Predictive Price-Performance Optimization for Serverless Query Processing   Rathijit Sen, Abhishek Roy, Alekh Jindal pp. 118–130   
+   
+     bloomRF: On Performing Range-Queries in Bloom-Filters with Piecewise-Monotone Hash Functions and Prefix Hashing   Bernhard Mößner, Christian Riegger, Arthur Bernhardt, Ilia Petrov pp. 131–143   
+   
+     Spatial Structure-Aware Road Network Embedding via Graph Contrastive Learning   Yanchuan Chang, Egemen Tanin, Xin Cao, Jianzhong Qi pp. 144–156   
+   
+     Maliva: Using Machine Learning to Rewrite Visualization Queries Under Time Constraints   Qiushi Bai, Sadeem Alsudais, Chen Li, Shuang Zhao pp. 157–170   
+   
+     GAM Forest Explanation   Claudio Lucchese, Salvatore Orlando, Raffaele Perego, Alberto Veneri pp. 171–182   
+   
+     Multi-Dimensional Data Publishing With Local Differential Privacy   Gaoyuan Liu, Peng Tang, Chengyu Hu, Chongshi Jin, Shanqing Guo pp. 183–194   
+   
+     EGG-SynC: Exact GPU-parallelized Grid-based Clustering by Synchronization   Jakob Rødsgaard Jørgensen, Ira Assent pp. 195–207   
+   
+     KWIQ: Answering k-core Window Queries in Temporal Networks   Mahdihusain Momin, Raj Kamal, Shantwana Dixit, Sayan Ranu, Amitabha Bagchi pp. 208–220   
+   
+     GraphTempo: An aggregation framework for evolving graphs   Evangelia Tsoukanara, Georgia Koloniari, Evaggelia Pitoura pp. 221–233   
+   
+     FLIRT: A Fast Learned Index for Rolling Time frames   Guang Yang, Liang Liang, Ali Hadian, Thomas Heinis pp. 234–246   
+
+ Experiments & Analysis Track  
+     Multi-Task Processing in Vertex-Centric Graph Systems: Evaluations and Insights   Siqiang Luo, Zichen Zhu, Xiaokui Xiao, Yin Yang, Chunbo Li, Ben Kao pp. 247–259   
+   
+     Comprehensive Evaluation of Unrestricted Graph Alignment Algorithms   Konstantinos Skitsas, Karol Orłowski, Judith Hermanns, Davide Mottin, Panagiotis Karras pp. 260–272   
+
+ Number 2 (November 02, 2022)  
+ Original publisher:  OpenProceedings.org, ISBN: 978-3-89318-093-6, Electronic Edition    
+ Research Track  
+     Enhanced Featurization of Queries with Mixed Combinations of Predicates for ML-based Cardinality Estimation   Magnus Müller, Lucas Woltmann, Wolfgang Lehner pp. 273–284   
+   
+     Data Provenance for SHACL   Thomas Delva, Anastasia Dimou, Maxime Jakubowski, Jan Van den Bussche pp. 285–297   
+   
+     Streaming Weighted Sampling over Join Queries   Michael Shekelyan, Graham Cormode, Qingzhi Ma, Ali Mohammadi Shanghooshabad, Peter Triantafillou pp. 298–310   
+   
+     Exploration of Approaches for In-Database ML   Steffen Kläbe, Stefan Hagedorn, Kai-Uwe Sattler pp. 311–323   
+   
+     Patched Multi-Key Partitioning for Robust Query Performance   Steffen Kläbe, Kai-Uwe Sattler pp. 324–336   
+   
+     Integration of Skyline Queries into Spark SQL   Lukas Grasmann, Reinhard Pichler, Alexander Selzer pp. 337–350   
+   
+     Unsupervised Space Partitioning for Nearest Neighbor Search   Abrar Fahim, Mohammed Eunus Ali, Muhammad Aamir Cheema pp. 351–363   
+   
+     Recommending Unanimously Preferred Items to Groups   Karim Benouaret, Kian-Lee Tan pp. 364–377   
+   
+     Density-Based Geometry Compression for LiDAR Point Clouds   Xibo Sun, Qiong Luo pp. 378–390   
+   
+     Subset Approach to Efficient Skyline Computation   Dominique H. Li pp. 391–403   
+   
+     Interactive Set Discovery   Arif Hasnat, Davood Rafiei pp. 404–416   
+
+ Vision Papers  
+     Stitcher: Learned Workload Synthesis from Historical Performance Footprints   Chengcheng Wan, Yiwen Zhu, Joyce Cahoon, Wenjing Wang, Katherine Lin, Sean Liu, Raymond Truong, Neetu Singh, Alexandra M Ciortea, Konstantinos Karanasos, Subru Krishnan pp. 417–423   
+
+ Experiments & Analysis Track  
+     An Experimental Analysis of Quantile Sketches over Data Streams   Lasantha Fernando, Harsh Bindra, Khuzaima Daudjee pp. 424–436   
+   
+     Implementing and Evaluating E2LSH on Storage   Yu Nakanishi, Kazuhiro Hiwada, Yosuke Bando, Tomoya Suzuki, Hirotsugu Kajihara, Shintarou Sano, Tatsuro Endo, Tatsuo Shiozawa pp. 437–449   
+
+ Number 3 (March 20, 2023)  
+ Original publisher:  OpenProceedings.org, ISBN: 978-3-89318-092-9, Electronic Edition    
+ Research Track  
+     Detecting Stale Data in Wikipedia Infoboxes   Malte Barth, Tibor Bleidt, Martin Büßemeyer, Fabian Heseding, Niklas Köhnecke, Tobias Bleifuß, Leon Bornemann, Dmitri V. Kalashnikov, Felix Naumann, Divesh Srivastava pp. 450–456   
+   
+     Efficient Multi-Model Management   Nils Straßenburg, Dominic Kupfer, Julia Kowal, Tilmann Rabl pp. 457–463   
+   
+     Offset-value coding in database query processing   Goetz Graefe, Thanh D Do pp. 464–470   
+   
+     UniCache: Efficient Log Replication through Learning Workload Patterns   Harald Ng, Kun Wu, Paris Carbone pp. 471–477   
+   
+     A Formal Design Framework for Practical Property Graph Schema Languages   Nimo Beeren, George Fletcher pp. 478–484   
+   
+     Auditing for Spatial Fairness   Dimitris Sacharidis, Giorgos Giannopoulos, George Papastefanatos, Kostas Stefanidis pp. 485–491   
+   
+     Learned Accelerator Framework for Angular-Distance-Based High-Dimensional DBSCAN   Yifan Wang, Daisy Zhe Wang pp. 492–498   
+   
+     REIN: A Comprehensive Benchmark Framework for Data Cleaning Methods in ML Pipelines   Mohamed Abdelaal, Christian Hammacher, Harald Schöning pp. 499–511   
+   
+     Frequency Estimation of Evolving Data Under Local Differential Privacy   Héber H. Arcolezi, Carlos A Pinzón, Catuscia Palamidessi, Sébastien Gambs pp. 512–525   
+   
+     WedgeBlock: An Off-Chain Secure Logging Platform for Blockchain Applications   Abhishek A Singh, YINAN ZHOU, Mohammad Sadoghi, Sharad Mehrotra, Shantanu Sharma, Faisal Nawab pp. 526–539   
+   
+     SonicJoin: Fast, Robust and Worst-case Optimal   Ahmad Khazaie, Holger Pirk pp. 540–551   
+   
+     Learned Selection Strategy for Lightweight Integer Compression Algorithms   Lucas Woltmann, Patrick Damme, Claudio Hartmann, Dirk Habich, Wolfgang Lehner pp. 552–564   
+   
+     Detecting Robustness against MVRC for Transaction Programs with Predicate Reads   Brecht Vandevoort, Bas Ketsman, Christoph Koch, Frank Neven pp. 565–577   
+   
+     E2-NVM: A Memory-Aware Write Scheme to Improve Energy Efficiency and Write Endurance of NVMs using Variational Autoencoders   Saeed Kargar, Binbin Gu, Sangeetha Abdu Jyothi, Faisal Nawab pp. 578–590   
+   
+     Efficiently Archiving Photos under Storage Constraints   Susan B Davidson, Shay Gershtein, Tova Milo, Slava Novgorodov, May Shoshan pp. 591–603   
+   
+     Incremental Stream Query Merging   Ankit Chaudhary, Steffen Zeuch, Volker Markl, Jeyhun Karimov pp. 604–617   
+   
+     Desis: Efficient Window Aggregation in Decentralized Networks   Wang Yue, Lawrence Benson, Tilmann Rabl pp. 618–631   
+   
+     An Efficient Approach for Indoor Facility Location Selection   Yeasir Rayhan, Tanzima Hashem, Muhammad Aamir Cheema, Hua Lu, Mohammed Eunus Ali pp. 632–644   
+   
+     An Intrinsically Interpretable Entity Matching System   Andrea Baraldi, Francesco Del Buono, Francesco Guerra, Matteo Paganelli, Maurizio Vincini pp. 645–657   
+   
+     User Customizable and Robust Geo-Indistinguishability for Location Privacy   Primal Pappachan, Chenxi Qiu, Anna Cinzia Squicciarini, Vishnu Sharma Hunsur Manjunath pp. 658–670   
+   
+     FELIP: A local Differentially Private approach to frequency estimation on multidimensional datasets   José Serafim da Costa Filho, Javam C Machado pp. 671–683   
+   
+     TransEdge: Supporting Efficient Read Queries Across Untrusted Edge Nodes   Abhishek A Singh, Aasim Khan, Sharad Mehrotra, Faisal Nawab pp. 684–696   
+   
+     Wrapper Methods for Multi-Objective Feature Selection   Uchechukwu F Njoku, Besim Bilalli, Alberto Abelló, Gianluca Bontempi pp. 697–709   
+   
+     Evaluating Hybrid Graph Pattern Queries Using Runtime Index Graphs   Xiaoying Wu, Dimitri Theodoratos, Nikos Mamoulis, Michael Lan pp. 710–722   
+   
+     Fast and Efficient Update Handling for Graph H2TAP   Muhammad Attahir Jibril, Hani Al-Sayeh, Alexander Baumstark, Kai-Uwe Sattler pp. 723–736   
+   
+     Consent Management in Data Workflows: A Graph Problem   Dorota Filipczuk, Enrico H Gerding, George Konstantinidis pp. 737–748   
+
+ Industrial & Applications Track  
+     ExtremeEarth: Managing Water Availability for Crops Using Earth Observation and Machine Learning   Florian Appel, Heike Bach, Silke Migdall, Manolis Koubarakis, George Stamoulis, Dimitris Bilidas, Despina-Athanasia Pantazi, Lorenzo Bruzzone, Claudia Paris, Giulio Weikmann pp. 749–756   
+   
+     COVIDKG.ORG - a Web-scale COVID-19 Interactive, Trustworthy Knowledge Graph, Constructed and Interrogated for Bias using Deep-Learning   Bhimesh Kandibedala, Anna Pyayt, Nickolas Piraino, Chris Caballero, Michael Gubanov pp. 757–764   
+   
+     Adaptive Real-time Virtualization of Legacy ETL Pipelines in Cloud Data Warehouses   Ehab Abdelhamid, Nikos Tsikoudis, Michael Duller, Marc Sugiyama, Nicholas E. Marino, Florian M. Waas pp. 765–772   
+   
+     Smart Derivative Contracts in DatalogMTL   Andrea Colombo, Luigi Bellomarini, Stefano Ceri, Eleonora Laurenza pp. 773–781   
+   
+     Reasoning over Financial Scenarios with the Vadalog System   Teodoro Baldazzi, Luigi Bellomarini, Emanuel Sallinger pp. 782–791   
+   
+     On Handling Catastrophic Forgetting for Incremental Learning of Human Physical Activity on the Edge   Jingwei Zuo, George Arvanitakis, Hakim Hacid pp. 792–798   
+
+ Demonstration Track  
+     Understanding crowd energy consumption behaviors   Xiufeng Liu, Xu Cheng, Yanyang Yang, Huan Huo, Yongping Liu, Per Nielsen pp. 799–802   
+   
+     Describing and Assessing Cubes Through Intentional Analytics   Matteo Francia, Matteo Golfarelli, Stefano Rizzi pp. 803–806   
+   
+     RDF-Analytics: Interactive Analytics over RDF Knowledge Graphs   Maria-Evaggelia Papadaki, Yannis Tzitzikas pp. 807–810   
+   
+     Demonstrating Interactive SPARQL Formulation through Positive and Negative Examples and Feedback   Akritas Akritidis, Yannis Tzitzikas pp. 811–814   
+   
+     VOYAGER: Automatic Computation of Visual Complexity and Aesthetics of Graph Query Interfaces   Duy Pham, Sourav S Bhowmick pp. 815–818   
+   
+     Topio Marketplace: Search and Discovery of Geospatial Data   Andra Ionescu, Alexandra Alexandridou, Leonidas Ikonomou, Kyriakos Psarakis, Kostas Patroumpas, Georgios Chatzigeorgakidis, Dimitrios Skoutas, Spiros Athanasiou, Rihan Hai, Asterios Katsifodimos pp. 819–822   
+   
+     REQUIRED: A Tool to Relax Queries through Relaxed Functional Dependencies   Loredana Caruccio, Stefano Cirillo, Vincenzo Deufemia, Giuseppe Polese, Roberto Stanzione pp. 823–826   
+   
+     Tagger: A Tool for the Discovery of Tagged Unions in JSON Schema Extraction   Stefan Klessinger, Michael Fruth, Valentin Gittinger, Meike Klettke, Uta Störl, Stefanie Scherzinger pp. 827–830   
+   
+     MM-quecat: A Tool for Unified Querying of Multi-Model Data   Pavel Koupil, Daniel Crha, Irena Holubova pp. 831–834   
+   
+     Pushing Edge Computing one Step Further: Resilient and Privacy-Preserving Processing on Personal Devices   Ludovic Javet, Nicolas Anciaux, Luc Bouganim, Léo Lamoureux, Philippe Pucheral pp. 835–838   
+   
+     Tuning the Utility-Privacy Trade-Off in Trajectory Data   Maja Schneider, Peter Christen, Erhard Rahm, Jonathan Schneider, Lea Löffelmann pp. 839–842   
+   
+     TempoGRAPHer: A Tool for Aggregating and Exploring Evolving Graphs   Evangelia Tsoukanara, Georgia Koloniari, Evaggelia Pitoura pp. 843–846   
+
+ Tutorial Track  
+     New Trends in Time Series Anomaly Detection   Paul Boniol, John Paparrizos, Themis Palpanas pp. 847–850   
+   
+     Mining Structures from Massive Texts by Exploring the Power of Pre-trained Language Models   Yu Zhang, Yunyi Zhang, Jiawei Han pp. 851–854   
+   
+     Data Narration for the People: Challenges and Opportunities   Sihem Amer-Yahia, Patrick Marcel, Veronika Peralta pp. 855–858   
+
+   Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License  .    
+
+ Menu   
+ Home 
+  Contact 
+  Code of Ethics 
+  Scientific Advisory Board 
+  Imprint 
+  Current Publications   
+ EDBT (2025) 
+  EDBT (2024) 
+  INOC (2024) 
+  Previous Publications   
+ 26. EDBT (2023) 
+  25. EDBT (2022) 
+  24. EDBT (2021) 
+  23. EDBT (2020) 
+  22. EDBT (2019) 
+  21. EDBT (2018) 
+  20. EDBT (2017) 
+  19. EDBT (2016) 
+  18. EDBT (2015) 
+  17. EDBT (2014) 
+  16. EDBT (2013) 
+  15. EDBT (2012) 
+  14. EDBT (2011) 
+  13. EDBT (2010) 
+  12. EDBT (2009) 
+  11. EDBT (2008) 
+  10. EDBT (2006) 
+  9. EDBT (2004) 
+  8. EDBT (2002) 
+  7. EDBT (2000) 
+  6. EDBT (1998) 
+  5. EDBT (1996) 
+  4. EDBT (1994) 
+  3. EDBT (1992) 
+  2. EDBT (1990) 
+  1. EDBT (1988) 
+  17. ICDT (2014) 
+  16. ICDT (2013) 
+  15. ICDT (2012) 
+  14. ICDT (2011) 
+  13. ICDT (2010) 
+  12. ICDT (2009) 
+  11. ICDT (2007) 
+  10. ICDT (2005) 
+  9. ICDT (2003) 
+  8. ICDT (2001) 
+  7. ICDT (1999) 
+  6. ICDT (1997) 
+  5. ICDT (1995) 
+  4. ICDT (1992) 
+  3. ICDT (1990) 
+  2. ICDT (1988) 
+  1. ICDT (1986) 
+  9. INOC (2022) 
+  9. INOC (2019) 
+
+ Related links   
+ EDBT 
+  ICDT 
+  University of Konstanz 
+  dblp 
+  Open Access 
+  Creative Commons

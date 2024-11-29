@@ -1,0 +1,322 @@
+input:
+1. FOSSACS_1 conference:
+ESOP 
+  FASE 
+  FoSSaCS 
+  TACAS 
+  Proceedings 
+  Policies 
+  Disclaimer 
+  Awards | Best Paper 
+  Test of Time 
+  Doctoral Dissertation 
+ Log in | Join us      
+ FoSSaCS  International Conference on Foundations of Software Science and Computation Structures  
+ General Information  
+ FoSSaCS seeks original papers on foundational research with a clear significance for software science. The conference invites submissions on theories and methods to support the analysis, integration, synthesis, transformation, and verification of programs and software systems.  
+ History  
+ 25 Anniversary Celebration  
+ In 2022, FoSSaCS celebrated its 25 anniversary. Watch the talk of Barbara König and Ugo dal Lago about the conference history!  
+  Sorry, your browser does not support the video tag.    
+ Scope of Interest  
+ The scope of FoSSaCS is broad. The specific topics covered by the conference include, but are not limited to, the following list.  
+ Categorical models and logics.
+2. FOSSACS_2 conference:
+Search by expertise, name or affiliation     
+ Foundations of Software Science and Computation Structures: 26th International Conference, FoSSaCS 2023, Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2023, Paris, France, April 22-27, 2023, Proceedings   
+ Orna Kupferman   (Editor), Pawel Sobocinski (Editor)  
+ State | Published -  2023 
+ Publication series  
+  Fingerprint   
+ Dive into the research topics of 'Foundations of Software Science and Computation Structures: 26th International Conference, FoSSaCS 2023, Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2023, Paris, France, April 22-27, 2023, Proceedings'. Together they form a unique fingerprint.    
+ Cite this  
+ APA 
+  Author 
+  BIBTEX 
+  Harvard 
+ title = "Foundations of Software Science and Computation Structures: 26th International Conference, FoSSaCS 2023, Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2023, Paris, France, April 22-27, 2023, Proceedings",   
+ editor = "Orna Kupferman and Pawel Sobocinski",   
+ year = "2023",   
+ language = "אנגלית",   
+ Foundations of Software Science and Computation Structures: 26th International Conference, FoSSaCS 2023, Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2023, Paris, France, April 22-27, 2023, Proceedings.    / Kupferman, Orna (Editor)   ; Sobocinski, Pawel (Editor).  
+ TY - BOOK  
+ T1 - Foundations of Software Science and Computation Structures  
+ T2 - 26th International Conference, FoSSaCS 2023, Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2023, Paris, France, April 22-27, 2023, Proceedings  
+ A2 - Kupferman, Orna  
+ A2 - Sobocinski, Pawel  
+ PY - 2023  
+ Y1 - 2023
+3. FOSSACS_3 conference:
+Top    
+ Open Access  2023 | Open Access | Book  
+ Foundations of Software Science and Computation Structures  
+ 26th International Conference, FoSSaCS 2023, Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2023, Paris, France, April 22–27, 2023, Proceedings  
+ Editors: Orna Kupferman, Pawel Sobocinski   
+ About this book  
+ This open access book constitutes the proceedings of the 26th International Conference on Foundations of Software Science and Computational Structures, FOSSACS 2023, which was held during April 22-27, 2023, in Paris, France, as part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2023.  
+ On the Existential Arithmetics with Addition and Bitwise Minimum  
+  Abstract   
+ This paper presents a similar approach for existential first-order characterizations of the languages recognizable by finite automata, by Parikh automata, and by multi-counter machines over the alphabet \(\left\{ 0,1,...,k-1\right\} ^{n}\)  for some \(k\ge 2\)  . The set of k  -FA-recognizable relations coincides with the set of relations, which are existentially definable in the structure  , where  corresponds to the bitwise minimum of base k  . In order to obtain an existential first-order description of k  -Parikh automata languages, we extend this structure with the predicate \( EqNZB _{k}(x,y)\)  which is true if and only if x  and y  have the same number of non-zero bits in k  -ary encoding. Using essentially the same ideas, we encode computations of k  -multi-counter machines and thus show that every recursively enumerable relation over the natural numbers is existentially definable in the aforementioned structure supplemented with concatenation \(z=x\smallfrown _{k} y\rightleftharpoons z = x + k^{l_{k}(x)}y\)  , where \(l_{k}(x)\)  is the bit-length of x  in base k  . This result gives us another proof of DPR-theorem.   
+ Mikhail R. Starchak   
+ Coverability in Petri nets finds applications in verification of safety properties of reactive systems. We study coverability in the equivalent model: Vector Addition Systems with States (VASS).   
+ A k  -VASS can be seen as k  counters and a finite automaton whose transitions are labelled with k  integers. Counter values are updated by adding the respective transition labels. A configuration in this system consists of a state and k  counter values. Importantly, the counters are never allowed to take negative values. The coverability problem asks whether one can traverse the k  -VASS from the initial configuration to a configuration with at least the counter values of the target.   
+ In a well-established line of work on k  -VASS, coverability in 2-VASS is already PSPACE  -hard when the integer updates are encoded in binary. This lower bound limits the practicality of applications, so it is natural to focus on restrictions. In this paper we initiate the study of 2-VASS with one unary counter. Here, one counter receives binary encoded updates and the other receives unary encoded updates. Our main result is that coverability in 2-VASS with one unary counter is in NP  . This improves upon the inherited state-of-the-art PSPACE  upper bound. Our main technical contribution is that one only needs to consider runs in a certain compressed linear form.   
+ Filip Mazowiecki, Henry Sinclair-Banks, Karol Węgrzycki   
+  Abstract   
+ In this paper, we address this question by returning to the definition of probabilistic bisimilarity distances proposed by Desharnais, Gupta, Jagadeesan, and Panangaden more than two decades ago. We use a slight variation of their logic to construct for each pair of states a sequence of formulas that explains the probabilistic bisimilarity distance of the states. Furthermore, we present an algorithm that computes those formulas and we show that each formula can be computed in polynomial time.   
+ We also prove that our logic is minimal. That is, if we leave out any operator from the logic, then the resulting logic no longer provides a logical characterization of the probabilistic bisimilarity distances.   
+  Abstract   
+ In the theory of coalgebras, distributive laws give a general perspective on determinisation and other automata constructions. This perspective has recently been extended to include so-called weak distributive laws, covering several constructions on state-based systems that are not captured by regular distributive laws, such as the construction of a belief-state transformer from a probabilistic automaton, and ultrafilter extensions of Kripke frames.   
+ In this paper we first observe that weak distributive laws give rise to the more general notion of what we call an invertible step: a pair of natural transformations that allows to move coalgebras along an adjunction. Our main result is that part of the construction induced by an invertible step preserves and reflects bisimilarity. This covers results that have previously been shown by hand for the instances of ultrafilter extensions and belief-state transformers.   
+ Ruben Turkenburg, Clemens Kupke, Jurriaan Rot, Ezra Schoen   
+ Compositional Learning for Interleaving Parallel Automata  
+  Abstract   
+ Active automata learning has been a successful technique to learn the behaviour of state-based systems by interacting with them through queries. In this paper, we develop a compositional algorithm for active automata learning in which systems comprising interleaving parallel components are learned compositionally. Our algorithm automatically learns the structure of systems while learning the behaviour of the components. We prove that our approach is sound and that it learns a maximal set of interleaving parallel components. We empirically evaluate the effectiveness of our approach and show that our approach requires significantly fewer numbers of input symbols and resets while learning systems. Our empirical evaluation is based on a large number of subject systems obtained from a case study in the automotive domain.   
+ Faezeh Labbaf, Jan Friso Groote, Hossein Hojjat, Mohammad Reza Mousavi   
+  Abstract   
+ Pebble transducers are nested two-way transducers which can drop marks (named “pebbles”) on their input word. Such machines can compute functions whose output size is polynomial in the size of their input. They can be seen as simple recursive programs whose recursion height is bounded. A natural problem is, given a pebble transducer, to compute an equivalent pebble transducer with minimal recursion height. This problem has been open since the introduction of the model.   
+ In this paper, we study two restrictions of pebble transducers, that cannot see the marks (“blind pebble transducers” introduced by Nguyên et al.), or that can only see the last mark dropped (“last pebble transducers” introduced by Engelfriet et al.). For both models, we provide an effective algorithm for minimizing the recursion height. The key property used in both cases is that a function whose output size is linear (resp. quadratic, cubic, etc.) can always be computed by a machine whose recursion height is 1 (resp. 2, 3, etc.). We finally show that this key property fails as soon as we consider machines that can see more than one mark.   
+ Gaëtan Douéneau-Tabot   
+ Fixed Points and Noetherian Topologies  
+  Abstract   
+ Noetherian spaces are a generalisation of well-quasi-orderings to topologies, that can be used to prove termination of programs. They find applications in the verification of transition systems, some of which are better described using topology. The goal of this paper is to allow the systematic description of computations using inductively defined datatypes via Noetherian spaces. This is achieved through a fixed point theorem based on a topological minimal bad sequence argument.   
+ Aliaume Lopez   
+  Abstract   
+ An efficient entailment proof system is essential to compositional verification using separation logic. Unfortunately, existing decision procedures are either inexpressive or inefficient. For example, Smallfoot is an efficient procedure but only works with hardwired lists and trees. Other procedures that can support general inductive predicates run exponentially in time as their proof search requires back-tracking to deal with a disjunction in the consequent.   
+ This paper presents a decision procedure to derive cyclic entailment proofs for general inductive predicates in polynomial time. Our procedure is efficient and does not require back-tracking; it uses normalisation rules that help avoid the introduction of disjunction in the consequent. Moreover, our decidable fragment is sufficiently expressive: It is based on compositional predicates and can capture a wide range of data structures, including sorted and nested list segments, skip lists with fast-forward pointers, and binary search trees. We implemented the proposal in a prototype tool, called \(\mathtt {S2S_{Lin}}\)  , and evaluated it over challenging problems from a recent separation logic competition. The experimental results confirm the efficiency of the proposed system.   
+ Quang Loc Le, Xuan-Bach D. Le   
+  Abstract   
+ Given a textual representation of a finite-state concurrent program \(P\)  , one can construct the corresponding Kripke structure \(\mathcal {M}\)  . However, the size of \(\mathcal {M}\)  can be exponentially larger than the textual size of \(P\)  . This state explosion can make model checking properties of \(P\)  via \(\mathcal {M}\)  expensive or even infeasible. The action of a symmetry group \(G\)  on \(\mathcal {M}\)  can be used to produce a smaller Kripke structure \(\overline{\mathcal {M}}\)  . Various authors have exploited the direct correspondence between \(\mathcal {M}\)  and \(\overline{\mathcal {M}}\)  to perform model checking. When the structure \(\mathcal {M}\)  does not satisfy a formula, one can look for a substructure that will satisfy the formula. We call this substructure-repair  : identifying a substructure \(\mathcal {N}\)  of \(\mathcal {M}\)  that satisfies a given temporal logic formula.   
+ In this paper we extend previous work by showing that repairs of \(\overline{\mathcal {M}}\)  lift to repairs of \(\mathcal {M}\)  . In other words, we can repair a computer program \(P\)  , which exhibits a high degree of symmetry, by repairing the smaller Kripke structure \(\overline{\mathcal {M}}\)  and then symmetrizing the corresponding program. To do this we arrange the substructures of \(\mathcal {M}\)  and \(\overline{\mathcal {M}}\)  into substructure lattices that are ordered by substructure inclusion. We show that the substructures of \(\mathcal {M}\)  preserved by \(G\)  form a (sub)lattice that maps to the substructure lattice of \(\overline{\mathcal {M}}\)  . When restricted to the lattice of substructures of \(\mathcal {M}\)  that are “maximal” with the action of \(G\)  on \(\mathcal {M}\)  , the above map is a lattice isomorphism.   
+ These results enable us to repair \(\overline{\mathcal {M}}\)  and then to lift the repair to \(\mathcal {M}\)  . In cases where a program has a high degree of symmetry, such as in many concurrent programs, we can repair the program by repairing the small Kripke structure \(\overline{\mathcal {M}}\)  .   
+  Pawel Sobocinski  
+ Copyright Year  2023    
+ Publisher  Springer Nature Switzerland
+4. FPGA_0 conference:
+Updates  
+ Nov 24: Hotel and booking information is now live. See: | Travel 
+  Nov 24: Workshop and tutorial proposal submission deadline extended to Dec 8, 2024 
+ Camera-Ready Submission Due | December 31, 2024 
+ Notification of Acceptance (All Papers) | November 30, 2024 
+ Rebuttal Period (All Papers) | November 11 – November 18, 2024 
+ Submissions Due (All Papers) | October 8, 2024 (No Extensions) 
+ Abstracts Due (All Papers) | October 1, 2024 (No Extensions) 
+  Organizing Committee
+5. FPGA_1 conference:
+Skip to content    International Symposium on Field-Programmable Gate Arrays   
+ FPGA 2023 
+  Program 
+  Attend | Registration 
+ Home  
+ The ACM/SIGDA International Symposium on Field-Programmable Gate Arrays is a premier conference for presentation of advances in FPGA technology. In 2023, the 31st edition of FPGA will be held in Monterey, California, USA. Accepted papers will be published in the conference proceedings and available in the ACM Digital Library. At least one of the authors of each accepted submission is required to present the work. Accommodations will be made for the authors who face travel restrictions or unforeseen difficulties with travel.  
+  February 12 – February 14, 2023  
+ Monterey Marriott  
+  Updates:  
+ Feb 14: Best Paper Award Announced 
+  January 1: | Travel Grant | Applications Open 
+  December 28: | Program | Announced, | Registration | Open! 
+  October 3: | Call for Workshops & Tutorials | posted 
+  August 3: | Submission site | opened 
+  June 28: | Call for Papers | posted 
+  June 17: FPGA 2023 Website live 
+  Best Paper Award Photo:  
+ DONGLE: Direct FPGA-Orchestrated NVMe Storage for HLS  (See Program for author info)  
+ Visa Application  :  
+ Important Dates:  
+ Conference | February 12 - February 14, 2023 
+ Early Registration Deadline | January 18, 2023 
+ Student Travel Grant  Deadline | January 11, 2023 
+ Camera-Ready Submission Due | December 28, 2022 
+ Notification of Acceptance (All Papers) | November 18, 2022 
+ Rebuttals Period | October 24 – November 3, 2022 
+ Submissions Due (All Papers) | September 23, 2022  (No Extensions) 
+ Abstracts Due (All Papers) | September 16, 2022 (No Extensions) 
+ Organizing Committee:
+6. FPGA_2 conference:
+O. Ragheb, J.H. Anderson, "CLUMAP: Clustered Mapper for CGRAs with Predication," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, 2024.  
+ E. Del Sozzo, X. Wang, B. Adhi C. Cortes, J.H. Anderson, K. Sano, "Exploration of Trade-offs Between General-Purpose and Specialized Processing Elements in HPC-Oriented CGRA," IEEE International Parallel and Distributed Processing Symposium (IPDPS), San Francisco, CA, 2024.  
+ J.H. Anderson, B. Adhi, C. Cortes E. Del Sozzo, O. Ragheb, K. Sano, "Exploration of Compute vs. Interconnect Tradeoffs in CGRAs for HPC," International Symposium on Highly Efficient Architectures and Reconfigurable Technologies (HEART), Lake Biwa, Japan, 2023.  
+ O. Ragheb, R. Beidas J.H. Anderson, "Statically Scheduled vs. Elastic CGRA Architectures: Impact on Mapping Feasibility," International Workshop on CGRAs for HPC (CGRA4HPC), St. Petersburg, FL, 2023.  
+ G. Zhou, M. Stojilovic J.H. Anderson, "GRAMM: Fast CGRA Application Mapping Based on A Heuristic for Finding Graph Minors," International Conference on Field-Programmable Logic and Applications (FPL), Gottenburg, Sweden 2023.  
+ G. Zhou, J.H. Anderson, "Area-Driven FPGA Logic Synthesis Using Reinforcement Learning," IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Yokohama, Japan, 2023.  
+ O. Ragheb, T. Yu, D. Ma J.H. Anderson, "Modeling and Exploration of Elastic CGRAs," International Conference on Field-Programmable Logic and Applications, Belfast, UK, August 2022.  
+ O. Ragheb, T. Yu, R. Beidas J.H. Anderson, "Elastic Multi-Context CGRAs," IEEE International Workshop on CGRAs for HPC (CGRA4HPC), Lyon France, May 2022.  
+ H. Hsiao, J. San Miguel J.H. Anderson, “Streaming Accuracy: Characterizing Early Termination in Stochastic Computing,” IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Taipei, Taiwan, January 2022.  
+ R. Beidas, J.H. Anderson, “CGRA Mapping Using Zero-Suppressed Binary Decision Diagrams,” IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Taipei Taiwan, January 2022.
+7. FPGA_3 conference:
+Education  Best Online Masters in Education  Doctorate Degree in Education  Master's Degree in Education  Educational Leadership Doctoral Programs Online  Best Online Physical Education Degree    
+ Social Work  Accelerated MSW Programs  Best Online Social Work Degree  LCSW Online Programs  Online MSW Programs No GRE Required  Masters Degree in Social Work Online    
+ Best Online MBA Programs  Best Accelerated MBA Programs  Online MBA Programs Cost  Best MBA Acceptance Rates  How Hard is it to Get an MBA  MBA in Information Technology  Is an Online MBA Worth It?  Best Accelerated MBA Programs Online  Best Online Executive MBA Programs  Easiest Online MBA Programs    
+ Popular Degree Programs  Best Doctorate Degree Online no Dissertation  Best Degrees That Make the Most Money  Best Online Certificate Programs That Pay Well  Best Online Degree Programs  Accelerated Online Degree Programs for Working Adults  Accredited Self-Paced Online Colleges?  Easiest Online Degrees That Pay Well  Easiest College Majors  Best Associate Degrees    
+ Additional Degrees  Library Science Degree  Supply Chain Management Degree  Finance Degree  Accredited Online Counseling Programs  Cyber Security Degree  Best Online Graphic Design Degree  History Degree  Human Resources Degree  Best Online Nutrition Degree  Nutrition Degree  Logistics Degree  Best Library Science Degree Online  Human Services Degree  Bookkeeping Certification  Masters in Forensic Accounting    
+ ACM/SIGDA International Symposium on Field-Programmable Gate Arrays  
+   Monterey, CA, United States  
+   Submission Deadline: Friday 16 Sep 2022   
+   Conference Dates: Feb 12, 2023 - Mar 14, 2023   
+ Research  
+  Impact Score 1.30   
+ OFFICIAL WEBSITE  Conference Organizers: Deadline extended?  
+  Click here to edit   
+   Conference Call for Papers  
+ The ACM/SIGDA International Symposium on Field-Programmable Gate Arrays is a premier conference for presentation of advances in FPGA technology. In 2023, the 31st edition of FPGA will be held in Monterey, California, USA. Accepted papers will be published in the conference proceedings and available in the ACM Digital Library. At least one of the authors of each accepted submission is required to present the work. Accommodations will be made for the authors who face travel restrictions or unforeseen difficulties with travel.  
+  Submission website: Link will be available soon  
+  Paper Submissions (with and without Artifacts)  
+  We solicit research papers related to the following areas:  
+  FPGA Architecture: Architectures for programmable logic fabrics or their components, including routing, flexible logic cells, embedded blocks (memory, DSP, processors), and I/O interfaces. Novel commercial architectures and architectural features.  
+  FPGA Circuit Design: Circuits and layout techniques for the design of FPGAs. Impact of future process and design technologies on FPGAs as well as novel memory or nano-scale devices. Methods for analyzing and improving static and dynamic power consumption, power and clock distribution, yield, manufacturability, security, reliability, and testability.  
+  CAD for FPGAs: Algorithms for synthesis, technology mapping, logic and timing optimization, clustering, placement, and routing of FPGAs. Novel design software for system-level partitioning, debug, and verification. Algorithms for modeling, analysis and optimization of timing and power.  
+  High-Level Abstractions and Tools for FPGAs: General-purpose and domain-specific languages, tools, and techniques to facilitate the design, debugging and verification of FPGA-based applications and systems. Novel hardware/software co-design and high-level synthesis methodologies enabling digital signal processing, compute acceleration, networking, machine learning, and embedded systems.  
+  FPGA-based and FPGA-like Computing Engines: Systems and software for compiled accelerators, reconfigurable/adaptive computing, and rapid-prototyping. Programmable overlay architectures implemented using FPGAs.  
+  Applications and Design Studies: Implementation of novel designs on FPGAs establishing state-of-the-art in high-performance, low-power, security, or high-reliability. Designs leveraging unique capabilities of FPGA architectures or demonstrating significant improvements over alternative programmable technologies (e.g., CPU, GPU). Design studies or architecture explorations enabling improvement of FPGA architectures.  
+  Research submissions can be in either of two categories:  
+  Regular — at most 10 pages (excluding references), for a regular presentation at the conference.  
+  Short — at most 6 pages (excluding references), for a brief presentation.   
+ Overview  
+  The foci of the conference are Field-programmable gate array, Embedded system, Parallel computing, Computer architecture and Computer hardware. The study on Field-programmable gate array featured in the event expounds on the topic of Reconfigurable computing in particular. In the conference, Electronic circuit, Interconnection and Control reconfiguration are investigated in conjunction with one another to address concerns in Embedded system research.  
+ The studies on Parallel computing discussed can also contribute to research in the domains of Lookup table, High-level synthesis, Scalability and Computation. Many of the studies tackled connect Computer architecture with a similar field of study like Compiler. The study on Session (computer science) presented in it intersects with the topics under Multimedia.  
+ What are the most cited papers published at the conference?  
+  Research areas of the most cited articles at Field Programmable Gate Arrays:  
+ The conference publications cover a variety of subjects, including Field-programmable gate array, Embedded system, Parallel computing, Computer architecture and Reconfigurable computing. Research in Field-programmable gate array tackled in falls within the umbrella of Computer hardware. The most cited articles explore topics in Embedded system which can be helpful for research in disciplines like CMOS and Control reconfiguration.  
+ What topics the last edition of the conference is best known for?  
+ Field-programmable gate array 
+  Operating system 
+  The previous edition focused in particular on these issues:  
+ The objective of Field Programmable Gate Arrays is to combine knowledge in the areas of Field-programmable gate array, Embedded system, Parallel computing, Computer architecture and Computer hardware. The work on Field-programmable gate array presented in the event focuses on Reconfigurable computing in particular. The event focuses on Embedded system but the discussions also offer insight into other areas such as Interconnection and Control reconfiguration.  
+ The conference discusses concepts in Speedup under Parallel computing and how they intertwine with disciplines like Throughput (business). The Computer architecture study featured in the conference draws connections with the study of Programmable logic device. The Electronic circuit study featured in Field Programmable Gate Arrays draws parallels with the field of Benchmark (computing).  
+ The most cited articles from the last conference are:  
+  Papers citation over time  
+ A key indicator for each conference is its effectiveness in reaching other researchers with the papers published at that venue.  
+ Jason Cong | (25 papers) | published 2 papers at the last edition the same number as at the previous edition, 
+  Guy G.F. Lemieux | (18 papers) | absent at the last edition, 
+  Jason H. Anderson | (15 papers) | published 1 paper at the last edition, 1 less than at the previous edition, 
+  George A. Constantinides | (15 papers) | published 3 papers at the last edition, 1 less than at the previous edition, 
+  Jonathan Rose | (15 papers) | published 1 paper at the last edition the same number as at the previous edition. 
+  The overall trend for top authors publishing at this conference is outlined below. The chart shows the number of publications at each edition of the conference for top authors.  
+ Research.com  
+  University of British Columbia | (23 papers) | published 1 paper at the last edition the same number as at the previous edition. 
+  The overall trend for top affiliations publishing at this conference is outlined below. The chart shows the number of publications at each edition of the conference for top affiliations.  
+ Research.com  
+ Publication chance based on affiliation  
+ The publication chance index shows the ratio of articles published by the best research institutions at the conference edition to all articles published within that conference. The best research institutions were selected based on the largest number of articles published during all editions of the conference.  
+ Returning Authors Index  
+ A very common phenomenon observed among researchers publishing scientific articles is the intentional selection of conferences they have already attended in the past. In particular, it is worth analyzing the case when the authors participate in the same conference from year to year.  
+ The Returning Authors Index presented below illustrates the ratio of authors who participated in both a given as well as the previous edition of the conference in relation to all participants in a given year.  
+ Research.com  
+ Returning Institution Index  
+ The graph below shows the Returning Institution Index, illustrating the ratio of institutions that participated in both a given and the previous edition of the conference in relation to all affiliations present in a given year.  
+ Research.com  
+ The experience to innovation index  
+ Our experience to innovation index was created to show a cross-section of the experience level of authors publishing at a conference. The index includes the authors publishing at the last edition of a conference  , grouped by total number of publications throughout their academic career (P) and the total number of citations of these publications ever received (C).  
+ The group intervals were selected empirically to best show the diversity of the authors' experiences, their labels were selected as a convenience, not as judgment. The authors were divided into the following groups:  
+ Novice - P < 5 or C < 25 (the number of publications less than 5 or the number of citations less than 25), 
+   Previous Editions  
+ FPGA 2022 : Symposium on Field Programmable Gate Arrays   
+ Feb 27, 2022 - Feb 27, 2022  
+ Monterey, CA, United States  
+ 31st ACM/SIGDA International Symposium on Field-Programmable Gate Arrays   
+ Feb 12, 2023 - Feb 14, 2023  
+ Monterey, United States  
+ ACM/SIGDA International Symposium on Field-Programmable Gate Arrays   
+ Feb 12, 2023 - Mar 14, 2023  
+ Monterey, CA, United States  
+ ACM/SIGDA International Symposium on Field-Programmable Gate Arrays   
+ Feb 13, 2023 - Feb 14, 2023  
+ Monterey, United States  
+  10 Healthcare Degree Programs You Can Earn in 2 Years or Less in 2024   
+ Edit Submission Deadline  
+ ACM/SIGDA International Symposium on Field-Programmable Gate Arrays  
+     Your email address      
+  New submission deadline      
+  Further information      
+ SEND MESSAGE
+8. FPL_0 conference:
+Call for Contributions | Regular Track and Journal Track 
+  PhD Forum and Demo Night 
+  FPL Events 
+  Workshops and Tutorials 
+  Author Resources | Submission Information 
+  Program | Agenda 
+  Keynotes 
+  Workshops and Tutorials 
+  Best Paper Awards 
+  Social Events 
+  Attend | Venue 
+  Call for Contributions | Regular Track and Journal Track 
+  PhD Forum and Demo Night 
+  FPL Events 
+  Workshops and Tutorials 
+  Author Resources | Submission Information 
+  Program | Agenda 
+  Keynotes 
+  Workshops and Tutorials 
+  Best Paper Awards 
+  Social Events 
+  Attend | Venue 
+  Call for Contributions | Regular Track and Journal Track 
+  PhD Forum and Demo Night 
+  FPL Events 
+  Workshops and Tutorials 
+  Author Resources | Submission Information 
+  Program | Agenda 
+  Keynotes 
+  Workshops and Tutorials 
+  Best Paper Awards 
+  Social Events 
+  Attend | Venue 
+  Prior Editions 
+ FPL 2023   
+  4 - 8  SEPTEMBER 2023   
+ GOTHENBURG, SWEDEN   
+ ➣  20  Oct 2023    The  photos  from  FPL2023  are available  here   .   
+ ➣  02   Oct  2023    The slides from the  Keynotes   are available  online  .   
+ ➣  1  8  Sep 2023    The slides from the  Research Projects Event  are available  online   .   
+ ➣  08  Sep 2023    Thank you all attendees for contributing to this amazing edition of #FPL2023. We hope you enjoyed the experience. See you in Torino for #FPL2024!  👋   
+ ➣  08  Sep 2023    FPL Community Award    announced. Congratulations to  Stefan and Cong!   
+ ➣  07   Sep  2023    Best paper awards    announced  . Congratulations to all the authors of the winning papers.   
+ ➣  30  Aug 2023    Welcome letters send out to all attendees.  Free 3-day  transportation  pass  for the Conference attendees  can be  picked up at the registration desk. Read more   here   .   
+ ➣  24  Aug 2023    Social Events   updated.   
+ ➣  17  Aug 2023    Best paper  award nominees    announced    
+   ➣  15   Aug  2023    Social links updated.  Follow us on  Twitter   and  LinkedIn   for updates.   
+ ➣  11  Jul 2023    Keynotes   updated.   
+ ➣  01   Jul  2023    Research Projects Event   updated.   
+ ➣  27   Jun  2023    Workshops and Tutorials    updated.   
+ ➣  23   Jun  2023    Early bird registration    d  eadline  EXTENDED  .   
+ ➣  09   Jun  2023    The list of accepted  Workshops and Tutorials   updated  .   
+ ➣  31  May 2023    Conference  Program   updated.   
+ ➣  26  May 2023    Registration   for FPL2023 is OPEN!   
+ ➣  24   May  2023    Submission Deadline for  Contributions to the PhD Forum and Demo Night    EXTENDED  .   
+ ➣  22   May  2023    Please note that the  workshops and tutorials are scheduled on the 4th and 5th Sep 2023, and the main conference is from the 6th to the 8th Sep 2023.   
+ ➣  12 Apr  2023    Call for Participation to the FPL  Industrial  Event    updated.   
+ ➣  06   Apr  2023    Call for  Contributions to the   PhD Forum and Demo Night    updated.   
+ ➣  30  Mar 2023    Call for  Workshop and Tutorial Proposals    updated.   
+ ➣  10   Mar  2023    Abstract  and Paper Submission  Deadline for  Regular  Track  EXTENDED  .   
+ ➣  14  Feb 2023    Submission Deadline for Journal Track  EXTENDED  .   
+ ➣  22   Dec  2022    Call for Papers   (Regular Track and Journal Track) updated.   
+ ➣  20  Oct 2022    FPL 2023 website is online!
+9. FPL_3 conference:
+September 4, 2023  - September 8, 2023   
+ Our community member VEDLIOT  presents at this event.  
+    Add to calendar
+10. FQAS_0 conference:
+Home 
+  FQAS Conferences 
+ Flexible Query Answering Systems     
+ Home 
+  FQAS Conferences 
+ Home  
+ International Conference on  
+  Flexible Query Answering Systems (FQAS)  
+ FQAS is the premier conference focusing on the key issue in the information society of providing flexible, easy, and (for human) intuitive access to information. In targeting this issue, the conference draws on several research areas, such as information retrieval, database management, data science, information filtering, knowledge representation, logics, uncertainty handling, knowledge discovery, analytics, soft computing, management of multimedia information, and human-computer interaction.  
+ The guiding topic of the FQAS conferences are innovative query systems aimed at providing easy, flexible and human-friendly access to information. Such systems are becoming increasingly important also due to the huge and always growing number of users as well as the growing amount of available information.  
+ Steering Committee
+
+output:1. FOSSACS_1 information:
+2. FOSSACS_2 information:
+3. FOSSACS_3 information:
+4. FPGA_0 information:
+5. FPGA_1 information:
+6. FPGA_2 information:
+7. FPGA_3 information:
+8. FPL_0 information:
+9. FPL_3 information:
+10. FQAS_0 information:

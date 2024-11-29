@@ -1,0 +1,137 @@
+Conference Partner   Home 
+  Conferences 
+  Journals 
+  Proofreading 
+  Login 
+
+  中文  |  English  |  Español  |  日本語     
+
+ Conference Partner  » Conferences  » PEPM    
+  Conference Information   
+   
+ PEPM 2025: ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation  
+ https://popl25.sigplan.org/home/pepm-2025   
+   
+ Submission Date: | 2024-10-14 
+ Notification Date: | 2024-11-18 
+ Conference Date: | 2025-01-19 
+ Location: | Denver, Colorado, USA 
+  
+ CCF: c  CORE: b  QUALIS: b1  Viewed: 23157  Tracked: 20  Attend: 5    
+
+  Call For Papers   
+   
+ About The ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation (PEPM) has a history going back to 1991 and has been held in conjunction with POPL every year since 2006. The origin of PEPM is in the discoveries of practically useful automated techniques for evaluating programs with only partial input. Over time, PEPM has broadened its scope to include a variety of research areas centered around semantics-based program manipulation — the systematic exploitation of treating programs not only as subject to black-box execution, but also as data structures that can be generated, analyzed, and transformed while establishing or maintaining important semantic properties. Scope In addition to the traditional PEPM topics (see below), PEPM 2025 welcomes submissions in new domains, in particular: Semantics based and machine-learning based program synthesis and program optimisation. Modeling, analysis, and transformation techniques for distributed and concurrent protocols and programs, such as session types, linear types, and contract specifications. More generally, topics of interest for PEPM 2024 include, but are not limited to: Program and model manipulation techniques such as: supercompilation, partial evaluation, fusion, on-the-fly program adaptation, active libraries, program inversion, slicing, symbolic execution, refactoring, decompilation, and obfuscation. Techniques that treat programs/models as data objects including metaprogramming, generative programming, embedded domain-specific languages, program synthesis by sketching and inductive programming, staged computation, and model-driven program generation and transformation. Program analysis techniques that are used to drive program/model manipulation such as: abstract interpretation, termination checking, binding-time analysis, constraint solving, type systems, automated testing and test case generation. Application of the above techniques including case studies of program manipulation in real-world (industrial, open-source) projects and software development processes, descriptions of robust tools capable of effectively handling realistic applications, benchmarking. Examples of application domains include legacy program understanding and transformation, DSL implementations, visual languages and end-user programming, scientific computing, middleware frameworks and infrastructure needed for distributed and web-based applications, embedded and resource-limited computation, and security. This list of categories is not exhaustive, and we encourage submissions describing new theories and applications related to semantics-based program manipulation in general. If you have a question as to whether a potential submission is within the scope of the workshop, please contact the programme co-chairs, Guillaume Allais (guillaume.allais@strath.ac.uk) and Annie Liu (liu@cs.stonybrook.edu). AUTHORS TAKE NOTE: The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to two weeks prior to the first day of the conference. The official publication date affects the deadline for any patent filings related to published work.  Last updated by Dou Sun  in 2024-09-15   
+
+  Acceptance Ratio   
+
+ Year | Submitted | Accepted | Accepted(%) 
+ 2004 | 29 | 13 | 44.8% 
+ 2002 | 22 | 11 | 50% 
+ 1999 | 20 | 11 | 55% 
+  
+ 1488  1487  1486    
+
+  Related Conferences   
+
+ CCF | CORE | QUALIS | Short | Full Name | Submission | Notification | Conference 
+ b | a* | a2 | ICFP | ACM SIGPLAN International Conference on Functional Programming | 2025-02-27 | 2025-06-27 | 2025-10-12 
+ b | a | b1 | CCC | IEEE Conference on Computational Complexity | 2024-02-16 | 2024-05-05 | 2024-07-22 
+ a | a* | a1 | PLDI | ACM SIGPLAN conference on Programming Language Design and Implementation | 2024-11-14 | 2025-06-16 
+ a | a* | a1 | POPL | ACM SIGACT-SIGPLAN Symposium on Principles of Programming Languages | 2024-07-11 | 2024-11-07 | 2025-01-19 
+ b4 | SocialCom | International Conference on Social Computing | 2014-04-30 | 2014-06-05 | 2014-08-04 
+ b3 | SIES | International Symposium on Industrial Embedded Systems | 2024-06-25 | 2024-07-28 | 2024-10-23 
+ ICWCSP | International Conference on Wireless Communication and Signal Processing | 2024-10-20 | 2024-11-10 | 2024-12-27 
+ ICESIP | IEEE International Conference on Energy, Systems and Information Processing | 2019-02-28 | 2019-03-15 | 2019-07-04 
+ a | a* | a1 | ASPLOS | International Conference on Architectural Support for Programming Languages and Operating Systems | 2024-10-18 | 2025-01-27 | 2025-04-27 
+ IEEE ICCA | International Conference on Control & Automation | 2020-01-31 | 2020-03-15 | 2020-07-06 
+  
+ 165  384  164  161  1287  598  4026  3117  322  1661    
+
+ Short | Full Name | Submission | Conference 
+ ICFP | ACM SIGPLAN International Conference on Functional Programming | 2025-02-27 | 2025-10-12 
+ CCC | IEEE Conference on Computational Complexity | 2024-02-16 | 2024-07-22 
+ PLDI | ACM SIGPLAN conference on Programming Language Design and Implementation | 2024-11-14 | 2025-06-16 
+ POPL | ACM SIGACT-SIGPLAN Symposium on Principles of Programming Languages | 2024-07-11 | 2025-01-19 
+ SocialCom | International Conference on Social Computing | 2014-04-30 | 2014-08-04 
+ SIES | International Symposium on Industrial Embedded Systems | 2024-06-25 | 2024-10-23 
+ ICWCSP | International Conference on Wireless Communication and Signal Processing | 2024-10-20 | 2024-12-27 
+ ICESIP | IEEE International Conference on Energy, Systems and Information Processing | 2019-02-28 | 2019-07-04 
+ ASPLOS | International Conference on Architectural Support for Programming Languages and Operating Systems | 2024-10-18 | 2025-04-27 
+ IEEE ICCA | International Conference on Control & Automation | 2020-01-31 | 2020-07-06 
+  
+ 165  384  164  161  1287  598  4026  3117  322  1661    
+
+  Related Journals   
+
+ CCF | Full Name | Impact Factor | Publisher | ISSN 
+ Journal of Object Technology | EtH Zurich | 1660-1769 
+ Studia Logica | 0.600 | Springer | 0039-3215 
+ c | Computer Communications | 4.500 | Elsevier | 0140-3664 
+ International Journal of Wireless and Mobile Networking | AR Publication | 2347-9078 
+ International Journal of Computer Science Applications & Information Technologies | AR Publication | 2347-453X 
+ b | IEEE Transactions on Automation Science and Engineering | 5.900 | IEEE | 1545-5955 
+ ACM Transactions on Parallel Computing | 0.900 | ACM | 2329-4949 
+ Applied Computational Intelligence and Soft Computing | 2.400 | Hindawi | 1687-9724 
+ Engineering Applications of Computational Fluid Mechanics | 5.900 | Taylor & Francis | 1994-2060 
+ Applied Mathematics and Sciences: An International Journal | AIRCC | 2349-6223 
+  
+ 952  546  42  553  552  702  598  636  836  1062    
+
+ Full Name | Impact Factor | Publisher 
+ Journal of Object Technology | EtH Zurich 
+ Studia Logica | 0.600 | Springer 
+ Computer Communications | 4.500 | Elsevier 
+ International Journal of Wireless and Mobile Networking | AR Publication 
+ International Journal of Computer Science Applications & Information Technologies | AR Publication 
+ IEEE Transactions on Automation Science and Engineering | 5.900 | IEEE 
+ ACM Transactions on Parallel Computing | 0.900 | ACM 
+ Applied Computational Intelligence and Soft Computing | 2.400 | Hindawi 
+ Engineering Applications of Computational Fluid Mechanics | 5.900 | Taylor & Francis 
+ Applied Mathematics and Sciences: An International Journal | AIRCC 
+  
+ 952  546  42  553  552  702  598  636  836  1062    
+
+  Recommendation   
+
+ Track It 20 
+  Attend It 5 
+  Edit CFP 
+
+ Tracker 
+ Haocheng Lee (55) 
+ Dongdong An (215) 
+ Li Chao (1012) 
+ Baosen Zhao (1638) 
+ Xiu Ma (669) 
+ Yanghong Han (891) 
+ Hongze Wang (1087) 
+ Yu Xin (834) 
+ Aaa Assddasd (390) 
+ Yufeng Lv (2388) 
+ Yuusuke Urameshi (344) 
+ Zechen Hou (202) 
+ Cindy Yuan (208) 
+ Hui Zhao (435) 
+ Bo ZHANG (230) 
+ Yucheng Fang (906) 
+ AY L (475) 
+ Zhenzhou Tian (414) 
+ Chen Yin (853) 
+ Jiajun Jiang (507) 
+  
+ 67892  18156  6902  43001  40423  37739  19944  29168  30441  17688  29785  25812  367  15271  11263  9963  9630  8415  4747  2656    
+
+ Attender | Year 
+ 肖 Li (101) | 2025 
+ Zhang Qianqian (303) | 2021 
+ Hongze Wang (1087) | 2021 
+ Zongkai Wu (823) | 2021 
+ Zechen Hou (202) | 2020 
+  
+ 68704  35292  19944  28859  25812    
+   
+  Advertisment   
+
+  4,942  Conferences | 1,179  Journals | 69,414  Researchers | 380,327,340 PV  
+  Copyright © 2011-2024 myhuiban.com. All Rights Reserved. About Us  | Facebook  | X  | Post CFP or Contact Us  | Promotion

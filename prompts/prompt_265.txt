@@ -1,0 +1,417 @@
+input:
+1. SOSP_3 conference:
+DATA PROTECTION 
+ SOSP 2023  
+ The 29th ACM Symposium on Operating Systems Principles  
+  October 23-26, 2023  
+ Home 
+ Call for Papers  
+ The 29th ACM Symposium on Operating Systems Principles (SOSP) seeks to present exciting, innovative research related to the design implementation, analysis, evaluation, and deployment of computer systems software.  
+ Topics  
+ SOSP takes a broad view of the systems area and solicits contributions from many fields of systems practice, including, but not limited to: operating systems, file and storage systems, distributed systems, cloud computing, mobile and edge systems, secure and reliable systems systems aspects of big data and machine learning, embedded and real-time systems, virtualization, and management and troubleshooting of complex systems. We also welcome work that explores the interaction of computer systems with related areas such as computer architecture networking, programming languages, verification, and databases. In keeping with SOSP tradition, we will favor work that explores new territory, continues a significant research dialogue, or reflects on experience with or measurements of state-of-the-art implementations.  
+ Important Dates  
+ Reviews available for author response | July 1, 2023 |  
+ Author response due | July 6, 2023 |  
+ Acceptance notification | July 16, 2023 |  
+ Camera ready due | September 11, 2023 | HotCRP Site 
+ Workshops | October 23, 2023 | Conference Site 
+ Conference | October 23-26, 2023 | Conference Site |  
+ Submission Criteria  
+ Papers will be judged on novelty, significance, interest, clarity relevance, and correctness. A good paper will:  
+ Motivate a significant problem; 
+  Propose and implement an interesting, compelling solution; 
+  Demonstrate the practicality and benefits of the solution; 
+  Draw appropriate conclusions; 
+  Clearly describe the paper's contributions; and 
+  Clearly articulate the advances beyond previous work. 
+ We encourage submission of groundbreaking work in significant new directions, with the understanding that evaluation criteria for papers addressing new problems may be different from those continuing a line of work in a more established area.  
+ Originality  
+ Submissions should contain original, unpublished material. Simultaneous submission of the same work to multiple venues, submission of previously published work, or plagiarism is not allowed.  
+ Submissions that extend the authors' previous work are welcome, but authors must explain the differences between the SOSP submission and the prior work, much in the same way as the authors are expected to articulate the contributions of their submission as they relate to prior work by others.  
+ Prior or concurrent workshop publication does not preclude publishing a related paper in SOSP. Authors should email the program co-chairs a copy of the related workshop paper and a short explanation of the new material in the conference paper beyond that published in the workshop version. As long as there is significant additional content in the submission compared to the prior workshop publication, the PC will evaluate the submission's entire contribution, not just the delta.  
+ Prior or concurrent publication in non-peer-reviewed contexts, like arXiv.org, technical reports, talks, and social media posts, is explicitly permitted.  
+ Author Response Period  
+ SOSP will provide an opportunity for authors to respond to reviews prior to final consideration of the papers at the program committee meeting. Authors must limit their responses to (a) correcting factual errors in the reviews or (b) directly addressing questions posed by reviewers. Responses should be limited to clarifying the submitted work. In particular, responses must not include new experiments or data, describe additional work completed since submission, or promise additional work to follow. As PC members are not required to review supplementary materials responses must not rely on the existence of those materials. (See details below.)  
+ Anonymity  
+ SOSP will use double-blind reviewing. Please make a good faith attempt to anonymize your submission. Avoid identifying yourself or your institution explicitly or by implication (e.g., through the references or acknowledgments). The first page should use the paper ID assigned during registration in place of the author names. If the name of your project or system is already known to the community (e.g., through technical reports, talks, social media posts, or other use), your SOSP submission must use an anonymized name.  
+ Use care in referring to your own related work. Do not omit references to your prior work, as this would make it difficult for reviewers to place your submission in its proper context. Instead, reference your past work in the third person, just as you would any other piece of related work. For example, you might say "Our system modifies the XYZ operating system built by Lee et al. [Lee17]". For concurrent submissions, cite an anonymized version of the concurrent submission and discuss the relation between the submissions, and email the PC chairs a copy of your other concurrent submission.  
+ Check with the program chairs if you are uncertain about the anonymity rules.  
+ Formatting  
+ Papers will be submitted electronically in PDF format via the web submission form  .  
+ Authors may optionally include supplementary material, such as formal proofs or analyses, as a separate document; PC members are not required to read this material, so the submission must stand alone without it. Supplementary material is intended for items that are not critical for evaluating the paper but may be of interest to some readers.  
+ Submissions violating these rules will not be considered for publication, and there will be no extensions for fixing violations. We encourage you to upload an early draft of the paper well before the deadline to check if the paper meets the formatting rules.  
+ Most of these rules are automatically applied when using the official SIGPLAN Latex or MS Word templates from the ACM  .  
+ Conflicts  
+ To avoid conflicts of interest in the review process, when you register and submit your paper, we ask that you provide information about conflicts between any of the authors of your submission and PC members. Use the following guidelines to determine conflicts:  
+ Institutional:  You are currently employed at the same institution, have been previously employed at the same institution within the past two years, or are going to begin employment at the same institution.  
+ The PC may review paper conflicts to ensure the integrity of the reviewing process, adding conflicts if necessary. Similarly if there is no basis for conflicts provided by authors, such conflicts may be removed (e.g., do not improperly identify PC members as a conflict in an attempt to avoid having an individual review your paper). If you have any questions about conflicts please contact the program co-chairs.  
+ PC members will not be able to review, read the reviews of or participate in discussions of papers they are conflicted with. The review process for papers conflicted with both PC chairs will be managed by another PC member designated as the "conflict chair". For any papers co-authored by the PC chairs the conflict chair will be asked to hold them to a higher standard of being a "clear accept".  
+ Submission Information  
+ Papers must be submitted electronically in PDF format via the web submission form   
+ Questions  
+ Any questions about paper submissions can be emailed to sosp23-pc-chairs@mpi-sws.org  .  
+   In cooperation with
+2. SOUPS_0 conference:
+Questions 
+ SOUPS 2023 Call for Papers  
+ Important Dates  
+ Mandatory Paper Registration Deadline: | Friday, February 10, 2023 
+  Paper Submission Deadline: | Thursday, February 16, 2023 
+  Early Rejection Notification: | Thursday, March 23, 2023 
+  Author Response Period: | Thursday, April 20–Thursday, April 27, 2023 
+  Paper Notifications: | Monday, May 15, 2023 
+  Final Paper Files Due: | Thursday, June 8, 2023 
+  Download Call for Papers PDF    
+ Symposium Organizers  
+ Overview  
+ The 2023 Symposium on Usable Privacy and Security (SOUPS) will bring together an interdisciplinary group of researchers and practitioners in human computer interaction, security, and privacy. The program will feature:  
+ Technical papers, including replication papers and systematization of knowledge papers 
+  Workshops and tutorials 
+  Replicating or extending important previously published studies and experiments 
+  Systematization of knowledge papers that integrate and systematize existing knowledge to provide new insight into a previously studied area 
+  Paper Registration:  Technical papers must be registered by February 10, 2023  . Registration is mandatory for all papers. Registering a paper in the submission system requires filling out all the fields of the online form that describe the submission, but does not require uploading a PDF of the paper. This information must describe the paper accurately, in sufficient detail to assign appropriate reviewers. Placeholder, incomplete, or inaccurate titles and abstracts may result in rejection without review.   
+ Paper Submission:  Technical papers must be uploaded as PDFs by February 16, 2023  (but note the mandatory February 10 registration deadline above). All submissions must follow the guidelines described below. Submissions that violate any of the requirements below may be rejected without review.   
+ Contact the program chairs prior to submission at soups23chairs@usenix.org  if you have any questions about these requirements.  
+ Format and Page Limits:  Papers must use the SOUPS formatting template (available for MS Word  or LaTeX  ) and be submitted as a PDF via the web submission system  . Submissions must be no more than 12 pages (excluding acknowledgments, bibliography, and appendices). For the body of your paper, brevity is appreciated, as evidenced by the fact that many published papers in prior years have been well under this limit.   
+ Submissions may include as many additional pages as needed for references and for supplementary material in appendices. The paper should stand alone without the supplementary material. We encourage authors to use the appendices for content that is peripheral to the main contributions of the paper but that may interest some readers or that may facilitate replication. Note that members of the program committee are free to not read this material when reviewing the paper. Camera-ready versions of accepted papers have an official limit of 12 pages (excluding acknowledgements, bibliography, and appendices) and 20 pages total including references and appendices. The program committee chairs will grant any extension they determine reasonable to accommodate references and supplemental material.  
+ Paper Content:  Papers need to describe the purpose and goals of the work, cite related work, show how the work effectively integrates usability or human factors with security or privacy, and clearly indicate the innovative aspects of the work or lessons learned as well as the contribution of the work to the field. The paper abstracts should contain a sentence summarizing the contribution to the field and literature.  
+ All submissions must clearly relate to the human aspects of security or privacy. Papers on security or privacy that do not address usability or human factors will not be considered. Likewise, papers on usability or human factors that do not address security or privacy will not be considered. The determination of whether a paper is within scope will be solely at the discretion of the program committee chairs.  
+ Your paper and research approach—including research instruments—should be inclusive and respectful. A variety  of guidance  exists  on this topic. Please be sure to follow guidance on language use from the USENIX Statement on Racism and Black, African-American, and African Diaspora Inclusion  .  
+ Systematization of Knowledge Papers:  We are soliciting Systematization of Knowledge (SoK) papers that integrate and systematize existing knowledge to provide new insight into a previously studied area of usable security or privacy. SoK papers should draw on prior work to put forth a new taxonomy, argument, or observation in an area in which substantial work has already been done. SoK papers should be more than a survey or summary of prior work in an area. SoK papers will be held to the same scientific and presentation standards as other technical papers. Please prefix the title of these papers with “SoK:” and check the SoK checkbox on the submission form to flag them for the review process.  
+ Replication Papers:  In addition to original work, we are soliciting well-executed replication studies that meaningfully confirm, question, or clarify the result under consideration. Please prefix the title of these papers with the word “Replication:” for the review process.  
+ Replication papers should aim to replicate important/influential findings from the literature. They may not necessarily offer new or unexpected findings; papers confirming previous findings are also considered contributions. Replication of a result that has already been replicated many times is less valuable. Replication of an obscure study that originally had only minimal influence on the community is less valuable. Authors should clearly state why they conducted a replication study, describe the methodological differences precisely, and compare their findings with the results from the original study.  
+ Replication papers will be held to the same scientific standards as other technical papers. They should use currently accepted methodologies and technologies. Authors should not reuse outdated methods/technologies simply because they were used in the original paper. Replications may follow the same protocol as the original study, or may vary one or more key variables to see whether the result is extensible (e.g., re-running a study with a sample from a different population).  
+ Anonymous Submission:  Reviewing is anonymous. No names or affiliations should appear on the title page or in the body of the paper, acknowledgments should be removed, and papers should avoid revealing the authors' identities in the text. Any references to the authors' own work should be made in the third person, as if it was work by someone else.  Appendices and figures should also be de-identified (e.g., do not leave logos or contact info on study materials, and remove identifying URLs from screenshots). Please ensure all author names, affiliations, URLs, etc. have been removed; even minor mistakes may result in rejection without review. Contact the program chairs at soups23chairs@usenix.org  if you have any questions.  
+ Overlap with Previous Papers:  USENIX policy  prohibits simultaneous submission of the same work to multiple venues, submission of previously published work, and plagiarism. SOUPS further prohibits the submission of substantially similar work to multiple venues. On the recommendation of a program chair, USENIX may take action against authors who have committed these practices. Any overlap between your submitted paper and other work either under submission, previously published, or submitted elsewhere before the SOUPS notification deadline must be documented in an explanatory note sent to the chairs. If a subsequent overlapping submission is made during the review process, the chairs should be notified. State precisely how the two works differ in their goals, share experiments or data sources, and offer unique contributions. If the other work is under submission elsewhere, the program committee may ask to review that work to evaluate the overlap. Please note that program committees frequently share information about papers under review and reviewers usually work on multiple conferences simultaneously. Technical reports, e.g., arXiv reports, are exempt from this rule. If in doubt, please contact the program chairs at soups23chairs@usenix.org  for advice.  
+ Self-plagiarism includes verbatim or near-verbatim use of one's own published work without citing the original source, and is generally not acceptable. In some cases, it may be acceptable to include a brief  portion of selected content from the introduction, background, related work, or methods of a closely related paper. In these cases, the original paper must be explicitly referenced and the overlap should be clear to the reader. The reused content must not be part of the main contributions of the paper and, where possible, rewriting the text is preferred. Papers with significant text reuse may be rejected because of too much overlap. If in doubt, please contact the program chairs at soups23chairs@usenix.org  for advice.  
+ Appendices:  Authors may attach to their paper supplementary appendices containing study materials (e.g., survey instruments, interview guides, etc.) that would not otherwise fit within the body of the paper. These appendices may also include any material that could assist reviewers with questions that fall outside the stated contribution of your paper on which your work is to be evaluated. Appendices can include links (e.g. to a working prototype or source code repository or data repository); please include full links (not shortened ones), and try to use long-term archives like osf.io or Dataverse for online appendices. Reviewers are not required to read any appendices, so your paper should be self-contained without them. We note that in recent years, inclusion of study materials as appendices has become very common, and reviewers may choose to refer to appendices for clarification or confirmation. Accepted papers will be published online with their supplementary appendices included.  
+ Conflicts of Interest:  The submission system will request information about conflicts of interest between the paper's authors and program committee (PC) members, including a brief explanation. It is the full responsibility of all authors of a paper to identify their potential conflict-of-interest PC members, according to the following definition. A paper author has a conflict of interest with a PC member when one or more of the following conditions holds:  
+ The PC member shared an institutional affiliation with the author in the prior two years. 
+  The PC member was the advisor or advisee of the author at any time. 
+  The PC member has collaborated or published with the author in the prior two years. 
+  The PC member is serving as the sponsor or administrator of a grant that funds the author's research. 
+  The PC member is a close personal friend or relative of the author. 
+  We recognize that special circumstances may exist, such as deep personal animosity. If you have any questions or concerns, please contact the program chairs at soups23chairs@usenix.org  .  
+ Ethical Research:  User studies should follow the basic principles of ethical research, including beneficence (maximizing the benefits to an individual or to society while minimizing harm to the individual), minimal risk (appropriateness of the risk versus benefit ratio), voluntary consent, respect for privacy, and limited deception. Studies that rely on crowdworkers can incur additional ethical obligations, including but not limited to paying a fair wage. If images of participants are included in the paper, make sure that these images will not create a potential risk for participants and that the informed consent covers the potential publication of participant images.  
+ All papers, especially those with human subjects studies, are expected to discuss ethical considerations. Risks and benefits of the presented research should be weighed. Methodological decisions should be justified. Authors may be asked to provide additional explanations should questions arise during the review process.  
+ If your organization or institution requires formal clearance for research with human subjects, your paper may be rejected if clearance was not obtained. However, such clearance alone does not guarantee acceptance and the program committee may reject a paper on ethical grounds.  
+ Early Rejections:  Papers that receive substantially negative initial reviews will be rejected early. The authors of early-rejected papers, and only such papers, will receive a copy of their initial reviews. At this point, papers are no longer considered under submission (except if authors appeal).  
+ Authors who substantively disagree with the reviews can appeal to the program committee chairs. Authors' appeals must clearly and explicitly identify concrete disagreements with factual statements in the initial reviews. Appealing a submission that was rejected early will keep it under consideration, and it cannot be withdrawn or resubmitted elsewhere until the final notification of acceptance or rejection.  
+ Response:  A response period will occur after the second round of reviews. Authors will be given a chance to see reviews, and they may provide a short response that will be considered in subsequent discussions. Due to time constraints, the response period is fairly short. Please ensure that you reserve enough time between April 20–27 for the response process. Late responses will not be accepted.   
+ Publication:  Accepted papers will be published by the USENIX Association, and will be freely available on the USENIX and SOUPS websites. Authors will retain copyright of their papers. Authors may also release pre-prints of their accepted work to the public at their discretion.  
+ Presentation:  For accepted papers, we encourage at least one of the paper authors to attend the conference and present the work. However, it will be possible for authors of accepted papers to present remotely with permission from the PC Co-Chairs. If global health concerns persist, alternative arrangements will be made on a case-by-case basis, in line with USENIX guidance  .  
+ Credits
+3. SOUPS_1 conference:
+Nineteenth Symposium on Usable Privacy and Security  
+ August 6–8, 2023   
+ Anaheim, CA, USA   
+ USENIX Security '23    
+  Thanks to those who joined us in Anaheim, CA, USA for the Nineteenth Symposium on Usable Privacy and Security (SOUPS 2023). We hope you enjoyed the event.  
+ SOUPS brings together an interdisciplinary group of researchers and practitioners in human-computer interaction, security, and privacy.  
+ As part of our commitment to open access to research, the full proceedings and presentation slides are free and open to the public on the technical sessions  page. Videos are posted within a few weeks of the end of the event.  
+ SOUPS 2023 Workshops  
+ The following events were held on Sunday, August 6, 2023. See the Call for Workshops Submissions  page for an overview of all of these events.  
+ DGASP 2023:  Workshop on Deconstructing Gamified Approaches to Security and Privacy   
+ PEP '23:  Privacy Engineering in Practice '23   
+ WSIW 2023  : 9th Workshop on Security Information Workers   
+ WPTM 2023  : 2nd Workshop on Privacy Threat Modeling   
+ The following workshop was held as a virtual event on Sunday, July 30, 2023.  
+ WIPS 2023  : 8th Workshop on Inclusive Privacy and Security   
+ Registration Information  
+ Early Bird Registration Deadline: Monday, July 17, 2023   
+ See the Registration Information page  for details.  
+ Authors and Speakers  
+ Please contact the Conference Department  for registration information.  
+ Discounts  
+ In addition to our member discounts  , USENIX offers several discounts  to help you to attend SOUPS 2023.  
+ Coronavirus/COVID-19 Health and Safety Plan  
+ Please review USENIX's Coronavirus/COVID-19 Health and Safety Plan  prior to registering for the event. We appreciate your willingness to help safeguard your fellow event attendees and respect their personal safety choices.  
+ We encourage you to learn more about USENIX's values  and how we put them into practice at our conferences.  
+ Accessibility Requests  
+ USENIX is committed to ensuring that our meetings are fully accessible to all attendees. Visit our accessibility information page  to find out about options and how to make a request. To ensure that we meet your needs, please make your request by Monday, July 17, 2023  . We cannot guarantee that we can meet requests received after this date, although we will make every reasonable effort to do so.  
+ Press Registration and Information  
+ If you are an accredited journalist, please contact Melanie Ensign, Discernible Inc., for a complimentary registration code: melanie@usenix.org  .  
+ Refunds and Cancellations  
+ The cancellation deadline is Monday, July 24, 2023  . Please review the USENIX Registration Substitution and Cancellation Policy  for more information.  
+ Venue  
+  USA  
+ Hotel Discount Deadline: Monday, July 17, 2023   
+ Special Attendee Room Rate  
+ The group rate is available until Monday, July 17, 2023,  or until the block sells out, whichever occurs first. After this date, contact the hotel directly to inquire about room availability.  
+ Room and Ride Sharing  
+ USENIX utilizes Google Groups  to facilitate room and ride sharing. You can sign up for free to find attendees with whom you can share a hotel room, taxi, shuttle, ride-share service, etc. Please include "SOUPS 2023"  in the subject line when posting a new request.  
+ About SOUPS 2023  
+ Conference Policies   
+  Code of Conduct   
+ Conference Sponsorship  
+ The acceptance of any organization as a sponsor does not imply explicit or implicit approval by USENIX of the donor organization’s values or actions. In addition, sponsorship does not provide any control over conference program content. Questions? Contact the Sponsorship Department  .  
+ Attend | Registration Information
+4. SOUPS_2 conference:
+In-cooperation with USENIX   
+  SOUPS   is now being managed by USENIX  . For more details and to stay up to date with SOUPS  , follow us on Facebook  , join the soups-announce mailing list  , and check out the new SOUPS  page at USENIX   .  
+ This page is now being maintained as an archive of past SOUPS  information. Scroll down for links to proceedings, photos, distinguished papers, and full conference site archives.  
+ June 22-24, Denver, Colorado  
+ Keynote: Lorrie Faith Cranor   
+  Informing (Public) Policy    
+ Distinguished Paper Award  
+ Snooping on Mobile Phones: Prevalence and Trends   Diogo Marques (Universidade de Lisboa), Ildar Muslukhov (University of British Columbia), Tiago Guerreiro (Universidade de Lisboa), Konstantin Beznosov (University of British Columbia), Luís Carriço (Universidade de Lisboa)   IAPP SOUPS  Privacy Award  
+ Follow My Recommendations: A Personalized Privacy Assistant for Mobile App Permissions   Bin Liu, Mads Schaarup Andersen, Florian Schaub, Hazim Almuhimedi, Shikun Zhang, Norman Sadeh, Alessandro Acquisti. and Yuvraj Agarwal (Carnegie Mellon University)   Proceedings from USENIX    
+ Photos   
+ July 22-25, Ottawa, Canada, hosted by Carleton University   
+ Keynote: Valerie Steeves   
+  Online Privacy For Kids: What Works, What Doesn't   
+ Distinguished Paper Award  
+ A Human Capital Model for Mitigating Security Analyst Burnout   Sathya Chandran Sundaramurthy, Alexandru G. Bardas, Jacob Case, Xinming Ou, and Michael Wesch (Kansas State University), John McHugh (RedJack LLC), and Siva Raj Rajagopalan (Honeywell ACS)   IAPP SOUPS  Privacy Award  
+ “My Data Just Goes Everywhere:” User Mental Models of the Internet and Implications for Privacy and Security   Ruogu Kang (HCII, CMU), Laura Dabbish (HCII & Heinz, CMU), Nathaniel Fruchter (Heinz, CMU), and Sara Kiesler (HCII, CMU)   Proceedings from USENIX    
+ Photos (1)   
+ July 9-11, Menlo Park, California, hosted by Facebook   
+ Keynote: Chris Soghoian   
+  Sharing the blame for the NSA's dragnet surveillance program  [ video  ]  
+ SOUPS  Impact Award  
+ Crowdsourcing Attacks on Biometric Systems   Saurabh Panjwani (Independent Consultant) and Achintya Prakash (University of Michigan)  Understanding and Specifying Social Access Control Lists   Mainack Mondal (MPI-SWS); Yabing Liu (Northeastern University); Bimal Viswanath, Krishna Gummadi (MPI-SWS); Alan Mislove (Northeastern University)   IAPP SOUPS  Privacy Paper Award  
+ Photos   
+ July 24-26, Newcastle, UK, hosted by Northumbria University   
+ Keynote: Harold Thimbleby   
+  Security & safety overlaps   
+ Distinguished Paper Awards  
+ Formal Definitions for Usable Access Control Rule Sets - From Goals to Metrics   Matthias Beckerle (Technische Universität Darmstadt) and Leonardo Augusto Martucci (Karlstad University)  Your Attention Please: Designing security-decision UIs to make genuine risks harder to ignore   Cristian Bravo-Lillo, Lorrie Faith Cranor, Julie Downs, Saranga Komanduri, and Robert W. Reeder (Carnegie Mellon University), Stuart Schechter (Microsoft Research), and Manya Sleeper (Carnegie Mellon University)   Proceedings from ACM    
+ Photos   
+ July 11-13, Washington DC, hosted by AAAS    
+ Invited talk: Julie Brill   
+  Privacy in the mobile world: A big task on a small screen   
+ Best Paper Award  
+ Android Permissions: User Attention, Comprehension, and Behavior   Adrienne Porter Felt, Elizabeth Ha, Serge Egelman, Ariel Haney, Erika Chin, David Wagner (UC Berkeley)   Proceedings from ACM    
+ Photos   
+ July 20-22, Pittsburgh, PA, hosted by Carnegie Mellon   
+ Invited talk: Edward Felten   
+  Privacy Policy as a Usability Problem   
+ Best Paper Award  
+ Heuristics for Evaluating IT Security Management Tools   Pooya Jaferian (University of British Columbia), Kirstie Hawkey (Dalhousie University), Andreas Sotirakopoulos (UBC), Maria Velez-Rojas (CA Technologies), and Konstantin Beznosov (UBC)   Proceedings from ACM    
+ Photos   
+ July 14-16, Redmond, WA, hosted by Microsoft   
+ Invited talk: Adam Shostack   
+  Engineers are People Too  [ slides (ppt)  ]  
+ Best Paper Award  
+ Where Do Security Policies Come From?   Dinei Florencio and Cormac Herley (Microsoft Research)   Proceedings from ACM    
+ July 15-17, Mountain View, CA, hosted by Google   
+ Invited talk: Eric Sachs   
+  Redirects to login pages are bad, or are they?  [ slides  ]  
+ Best Paper Award  
+ Ubiquitous Systems and the Family: Thoughts about the Networked Home   Linda Little, Elizabeth Sillence, and Pam Briggs (Northumbria University)   Proceedings from ACM    
+ July 23-25, Pittsburgh, PA, hosted by Carnegie Mellon   
+ Invited talk: Ross Anderson   
+  Towards a science of security and human behavior  [ slides (ppt)  ]  
+ Best Paper Award  
+ Expressions of Expertness: The Virtuous Circle of Natural Language for Access Control Policy Specification   Philip Inglesant, M. Angela Sasse, (University College London) David Chadwick, and Lei Lei Shi (University of Kent)   Proceedings from ACM    
+ July 18-20, Pittsburgh, PA, hosted by Carnegie Mellon   
+ Invited talk: Marcia Lausen   
+  Design for Democracy: Ballot + Election Design   
+ Best Paper Award  
+ A Second Look at the Usability of Click-Based Graphical Passwords   Sonia Chiasson, Robert Biddle, and P.C. van Oorschot (Carleton University)   Proceedings from ACM    
+ Photos   
+ July 12-14, Pittsburgh, PA, hosted by Carnegie Mellon   
+ Invited talk: Max Caceres   
+  Exploiting Usability: Client Side Penetration Testing   
+ July 23-25, Pittsburgh, PA, hosted by Carnegie Mellon   
+ Invited talk: Bill Cheswick   
+  My Dad's Computer, Microsoft, and the Future of Internet Security
+5. SPAA_0 conference:
+Menu  Organizations 
+  Awards | SPAA Best Paper Award 
+  SPAA Test-of-Time Award 
+  SPAA Parallel Computing Award 
+  Previous SPAAs 
+  SPAA Mailing List 
+  Call For Papers 
+ SPAA 2023  
+ Call for Papers 
+  Submission Guidelines 
+  Call for Workshops and Tutorials 
+  Organization 
+  The conference will run from June 17th to June 19th, 2023. Workshops and tutorials will be on June 16th. SPAA 2023 will be held as part of ACM FCRC  in Orlando, Florida.  
+  This is the link to the FCRC 2023 Hotel Information page  . The SPAA registration is via the FCRC website  . To get a visa support letter, please email ACMsupportletters@executivevents.com  with your name, affiliation, position, and address.  
+ News:  
+ Please submit your nominations for the | SPAA Parallel Computing Award | and | SPAA Test-of-Time Award | by | August 1st, 2023 | . 
+  The SPAA proceedings can be accessed | here | . 
+  Congratulations to | Guy Blelloch | for winning the inaugural | SPAA Parallel Computing Award | ! 
+  Congratulations to Charles Leiserson, Zahi Abuhamdeh, David Douglas, Carl Feynman, Mahesh Ganmukhi, Jeffrey Hill, Daniel Hillis, Bradley Kuszmaul, Margaret A. St. Pierre, David Wells, Monica Wong, Shaw-Wen Yang, and Robert Zak for winning the inaugural | SPAA Test-of-Time Award | for their paper “ | The network architecture of the Connection Machine CM-5 | .” 
+  The | list of accepted papers | is available! 
+  The list of accepted workshops and tutorials and the | schedule | are available now! This year we will have two tutorials and two workshops, and their titles are: | (Tutorial) | Approximate Nearest Neighbor Search (ANNS) – Techniques and Open Problems 
+  (Workshop) | Filters: From Bloom to Quotient and Everything in Between 
+  (Workshop) | Workshop on Highlights of Parallel Computing (HOPC) 
+  They will be on June 16th (Friday, see the | schedule | ), and please plan your trip to attend them! 
+  You are also welcome to subscribe to the SPAA Mailing List  for updated submission and conference information.   
+ Important Deadlines:  
+ Abstract registration: January 12, 2023 
+  Full papers submission: | January 16, 2023 | January 17, 2023 (changed due to MLK Day) 
+  SafeTOC:  
+ SPAA follows the  ACM anti-harassment policy  .  
+ Sponsors:
+6. SPAA_1 conference:
+中文  |  English  |  Español  |  日本語     
+ Conference Partner  » Conferences  » SPAA    
+  Conference Information   
+  Related Conferences   
+ CCF | CORE | QUALIS | Short | Full Name | Submission | Notification | Conference 
+ Short | Full Name | Submission | Conference
+7. SPAA_2 conference:
+SPAA 2023   
+ This site requires JavaScript.  Your browser does not support JavaScript.  
+ Sign in    
+  Submissions  
+ The deadline  for registering submissions has passed.  
+ HotCRP
+8. SPAA_3 conference:
+中文  |  English  |  Español  |  日本語     
+ Conference Partner  » Conferences  » SPAA    
+  Conference Information   
+  Related Conferences   
+ CCF | CORE | QUALIS | Short | Full Name | Submission | Notification | Conference 
+ Short | Full Name | Submission | Conference
+9. SPICE_0 conference:
+Agile, DevOps and software development methodologies 
+ Definition  Software Process Improvement and Capability Determination (SPICE)  
+ Share this item with your network: 
+ By  Rahul Awati 
+  What is Software Process Improvement and Capability Determination (SPICE)?  
+  The need for an international software standard  
+ The goal of any company developing software is to produce high-quality software  using a productive and efficient team. However, this doesn't always happen due to gaps or inefficiencies in existing development processes -- issues that development teams  are not always aware of.  
+ Lacking information about the what is  state, development teams cannot initiate improvements to reach a what should be  state. That is why undertaking a detailed assessment of the software development process is important. Ideally, this assessment should follow internationally accepted frameworks  and standards.  
+ Here are some benefits of adopting an international standard:  
+  Organizations can initiate and sustain | continuous improvements | in software processes. 
+  Program managers can ensure alignment between software in development and | organizational goals | and needs. 
+  ISO/IEC provides a suite of standards to undertake such an assessment in a systematic manner. These standards were developed under the SPICE project.  
+  SPICE goals, objectives and benefits  
+ People from more than 20 countries were involved in SPICE development. Their primary goal was to develop a consistent and validated framework for software process assessment to improve the quality and productivity of software development processes.  
+ The SPICE standard creates a way to measure process capability and describe the preferred order in which activities should occur in a software development project. At the same time, it avoids a specific improvement approach as in other models, like the Capability Maturity Model  . SPICE emphasizes an organization's management and process definition structures.  
+ For software suppliers, SPICE helps determine the capabilities of their own software processes. It helps them create a clear roadmap that highlights the gaps and areas of improvement in software processes. It also helps software suppliers  set priorities to better manage their improvement initiatives.  
+ Software acquirers can use SPICE to determine software suppliers' processes and gauge their overall current and potential capability before investing in a supplier or their software.  
+ For process assessors, SPICE provides a systematic and standardized framework to articulate the various aspects of assessments to be conducted on developed software.  
+  How different organizations can use SPICE  
+ Organizations can use the SPICE standard in three modes:  
+ Capability determination mode. | For purchasing organizations to determine the capability of a potential software supplier. 
+  Process improvement mode. | For software organizations to improve their development and | maintenance 
+  Self-assessment mode. | For software organizations to assess their ability to implement a new | software project | . 
+  Any company that uses the SPICE standard can get maximum benefits by first defining their why  :  
+ to understand a software process 
+  to initiate process improvement 
+  to determine process capability 
+    The SPICE reference model is divided into three modes and includes two dimensions: process and capability. Process is divided into five categories, and each process category is defined by six capability levels.     
+  SPICE explained  
+ Processes are divided into five categories:  
+  Project. | Processes that establish the project and coordinate and | manage its resources. 
+  Organization. | Processes that establish business goals and develop assets to meet those goals. 
+  Each process is also defined by capability levels. A capability level is a set of common features or activities that work together to enhance an organization's or development team's capability to perform a process. Under SPICE, these capability levels are numbered from levels 0 to 5:  
+ 0: Not performed 
+  1: Performed informally 
+  5: Continuously improving 
+  Process capabilities can also acquire process attributes, numbered c.x, where c is the capability level as mentioned above and x is a number associated with a specific, related attribute. Thus, 2.1 represents performance management, 2.2 represents work product management and so on.  
+ The SPICE standard provides a set of documents that are used as a framework to assess software processes. This SPICE document suite contains nine parts, which are explained below.  
+  The SPICE document suite  
+ The SPICE document suite consists of a number of documents organizations can use during various software development phases, including -- but not limited to -- planning, development, monitoring, controlling, supply, support, etc.  
+   Parts 1-6 of the SPICE document suite address process assessment, while parts 7 and 8 address process improvement or process capability determination.     
+  Of the nine SPICE documents, parts 1-6 address aspects related to process assessment. Parts 7 and 8 address the use of process assessment for process improvement or process  
+  capability determination. Here is a brief look at these documents.  
+ Part 1 -- Concepts and introductory guide  
+ This document lays down the requirements for constructing assessment instruments and provides guidance around the usability characteristics of these instruments. An assessment instrument is a tool to evaluate the adequacy or existence of practices. It enables an assessor to judge how well the practices have been implemented. It also helps them to record the collected information.  
+ Part 6 -- Qualification and training of assessors  
+ This document describes the assessor's competencies, education, training and experience. Whenever any software process is assessed using SPICE, at least one qualified assessor should be part of the assessment team. This person ensures that the assessment meets all requirements, checks the consistency of results, and confirms that other team members have the necessary specialized knowledge and skills  to carry out the assessment.  
+ Part 7 -- Guide for use in process improvement  
+ This document includes an overview of process improvement, a methodology for process improvement, the required cultural aspects for successful process improvement and the management perspective of process improvement. It acts as a guide to use process assessments to understand the current state of processes and to create process improvement plans.  
+ The guide presents approaches to determine both core process capability and extended process capability.  
+ Part 9 -- Vocabulary  
+ This document specifies the vocabulary, consisting of definitions, related terms and concepts used in the SPICE standard.  
+ See  software development trends to watch for   and how demand is increasing for  low-code app development platforms   . Also, explore  software development and testing tips   and ways to  balance app innovation with app security   .   
+ This was last updated in January 2022    
+  Continue Reading About Software Process Improvement and Capability Determination (SPICE)  
+ Tech giants foster green software engineering movement 
+  23 software development metrics to track today 
+ Related Terms  
+ What is a Waterfall model? Definition and guide   The Waterfall model is a linear, sequential approach to the software development lifecycle (SDLC) that is popular in software ... See complete definition    What is acceptance testing?   Acceptance testing is a quality assurance (QA) process that determines to what degree an application meets end users' approval. See complete definition    What is Jira?   Jira is an application lifecycle management (ALM) and Agile project management tool from Atlassian. See complete definition       
+  Dig Deeper on Agile, DevOps and software development methodologies  
+  AWS 
+   Cloud  Computing    12-step checklist for cloud migration success | Ready to move your on-premises apps to the cloud? From rehosting vs. redesigning to testing and monitoring, follow these key ... 
+  Microsoft Launches Azure Local for Hybrid Cloud, edge uses | Along with Azure Local, Microsoft launched a migration tool for enterprises that want to ditch their VMware by Broadcom VMs. 
+  How to migrate legacy applications to the cloud | Enticing as cloud benefits are, it takes a lot of research and planning to know all the risks and challenges before committing to... 
+ Search  App  Architecture    Webhooks explained simply, with examples | Webhooks make significant use of basic API call mechanisms and set event triggers in a few clicks of a button -- all without the ... 
+  Managing complexity: Event-driven architecture explained | Event-driven architecture is complex, but so are today's data challenges. Discover ways to manage dynamic and distributed ... 
+  8 microservices best practices to remember | From integrating domain-driven design to securing APIs, explore a range of microservices best practices for building a resilient ... 
+ Search  IT  Operations    WasmCloud makes strides with Wasm component model | After a stall in 2023, this year's WASI Preview 2 pushed server-side WebAssembly forward, turning heads at companies such as ... 
+  Rethinking 'secure by design' amid slippery SecOps shifts | An expert discusses the fallout from a CISA report that raised doubts about the last decade's DevSecOps trend, and where the ... 
+  IT pros revise pipelines for software supply chain security | Software supply chain security has reached an awkward stage for enterprise IT, as platform and security pros grapple with adding ...
+10. SPICE_1 conference:
+Home 
+  SPICE 
+  Certification | Current rules for online activities 
+  List of Working Groups 
+    Suchen      
+ SPICE Center  
+ Presents SPICE Assessment Models and Reference Models  
+ Aktuelle Seite: 
+  Startseite 
+  SPICE 
+ What is SPICE?  
+ Originally SPICE was a project funded by the European Union. The main goal of this project was to develop a counterpart to CMMI, especially focused on Small and Medium Enterprises.  
+ SPICE is an abbreviation and stands for " S  oftware P  rocess I  mprovement and C  apability d E  termination". Even if software development was the main driver of the initiative at that time, the "S" in SPICE is nowadays used for the entire system development.  
+ If you need access to original definition standards, you may follow this link to Automotivespice.com  and  
+ Automotive SPICE® Veröffentlichungen – VDA QMC (vda-qmc.de)   
+ Automotive SPICE ®  is a registered trademark of the VDA-QMC.  
+ intacs ®  Hardware SPICE PRM/PAM version 3.0 was created to support electronic hardware development. Its main goals were:  
+ Creation of a process reference and assessment model for electronic hardware development, which is  
+  Aligned with Automotive SPICE | ® | 4.0 
+ SPICE for Mechanical Engineering v2.0 PAM/PRM is designed to become the domain specific extension for Automotive SPICE ®  v4.0 for mechanical engineering. The process assessment model was completely revised and aligned with Automotive SPICE ®  4.0. In addition system-V and component-V of SPICE for Mechanical Engineering v1.x have been merged into the processes MEE:1 to MEE.5.  
+ The JP-version 1.7 is the Japanese version and that there is currently no more recent version in this language. We are working on new translation.  
+ Version 3.00 of Organization SPICE PRM/PAM has been released on 2024-04-19 and is now published.  
+ Organization SPICE_PRM_PAM_v3.00.pdf   
+ This PRM/PAM defines the fundamental business processes of data management capabilities. It is intended as a “state of the art” reference for process improvement. It defines a process assessment model (PAM) for the maturity of all types of data, data management, and for organizations processing data.  
+ Data Management SPICE PRM_PAM v1.1.pdf   
+ The purpose of this PRM/PAM is to provide a SPICE based Process Assessment Model for the Domain “IT Service Management”.  
+ To promote & establish the application of this model in the strongly growing area of “ connected car services   ”.  
+ For this purpose, we want to enhance the model with domain specific reference processes and performance indicators for area of “connected car services”. 
+ SPICE-for-IT-Services-V4.0-PRM_PAM_released.pdf   
+ Agile SPICE ®  shows a set of experiences collected in agile projects and being assessed following the Automotive SPICE ®  PRM/PAM.  
+ Intacs has worked out guidance and bridges on how to understand the Automotive SPICE ®  definitions into the agile field.  
+ Please note that the Japanese version 1.2. does not correspond to the current release status. The update will take place shortly - the master document is the English version 1.3.  
+ Agile SPICE PAM v1.3 released.pdf   
+ Agile SPICE PAM v1.3 released_JP.pdf   
+ This PRM/PAM is a model extension to Automotive SPICE ®  4.0.  
+ Test SPICE V4 has been released and is a strong PAM if you need to focus your Assessment to the testing area. Main benefits are:  
+  New process architecture allows scalability of assessments 
+ Modeling & Simulation SPICE is a domain-independent core PRM/PAM for systematic engineering of credible models and simulations within system development and operation. It is based on the Credible Simulation Process Framework (CSPF) from the prostep ivip association and is in line with Automotive SPICE ®  v4.0. Modeling & Simulation SPICE aims to:  
+ Ensure Compliance with relevant M&S standards and regulations 
+  Increase trust in M&S results and thus 
+  To enable and elevate industrial M&S use 
+ Modeling and Simulation SPICE PAM v09.pdf   
+ International SPICE Communities and Networks  
+  One of our main goals is to make intacs ®  visible all over the world. We have certified assessors in many countries, so we need an efficient way to keep them up to date with all the innovations and changes and to get feedback so we can continuously improve our scheme.  
+  Therefore, the Internationalization Working Group establishes contacts with companies, industry representatives and community members in all countries to promote the intacs ®  program.  
+  In addition, regional representatives are appointed to act as local contacts and communicate directly with the local intacs ®  assessors.  
+ Japanese / Nippon SPICE Network  
+ Articles of the Nippon SPICE Community   
+ 日本SPICEネットワーク - (nspice.net)   
+ Chinese SPICE Network  
+ Articles of the Chinese SPICE Community   
+ Korean SPICE Network  
+ Articles of the Korean SPICE Community   
+ Indian SPICE Network  
+ Articles of the Indian SPICE Community   
+ Italian SPICE Network  
+ Articles of the Italian SPICE Community   
+ Austrian SPICE Network  
+ Articles of the Austrian SPICE Community   
+ Slovenian Croatian Serbian SPICE Network  
+ Articles of the Slovenian, Croatian and Serbian SPICE Community   
+ France Belgium Switzerland SPICE Network  
+ Articles of the France, Belgium and Switzerland SPICE Community   
+ © 2023 intacs.info
+
+output:1. SOSP_3 information:
+2. SOUPS_0 information:
+3. SOUPS_1 information:
+4. SOUPS_2 information:
+5. SPAA_0 information:
+6. SPAA_1 information:
+7. SPAA_2 information:
+8. SPAA_3 information:
+9. SPICE_0 information:
+10. SPICE_1 information:

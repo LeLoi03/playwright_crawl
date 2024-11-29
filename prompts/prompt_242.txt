@@ -1,0 +1,476 @@
+input:
+1. RSS_2 conference:
+home | RSS Proceedings 
+  committees | Organizing Committee 
+  RSS Foundation 
+  information | Author Information 
+  Call for Papers and Demos 
+ Home   
+  RSS Proceedings   
+  information   
+  Author Information   
+  Call for Papers and Demos   
+  committees   
+  Organizing Committee   
+  RSS Foundation   
+  follow us   
+ RSS is a single-track conference that connects researchers working on all aspects of robotics including scientific foundations, mechanisms, algorithms, applications, and analysis of robotic systems. The single-track format gives attendees an opportunity to learn about state-of-the-art research in all areas of robotics. The conference will consist of oral and poster presentations of accepted papers, demonstrations, invited talks, and panels.  
+ The conference will preserve the RSS tradition of selecting excellent papers via a thorough and fair review process. Paper submissions will be evaluated in terms of their novelty, technical quality, significance, potential impact, and clarity.  
+ The conference will include the category of Demo contributions, similar to conferences in related research areas, resulting in a Demo Track during the main conference.  
+ Important Dates  
+ Detailed submission instructions are available here  .   
+  The review process will continue RSS’ strong tradition in emphasizing quality, fairness, and rigor. Reviews for RSS papers of all types, i.e., “science”, “systems” and “demo” papers, will remain blind. As in previous iterations of the conference, authors are encouraged to submit “systems” papers and the program committee will be encouraged to evaluate them by gauging their potential impact and usefulness to the community. 
+ The conference includes a rebuttal stage. The submissions will undergo an initial review process and initial decisions will be announced by March 17  . The submissions above the threshold will have one week to prepare a short rebuttal to address the reviewers’ and Area Chair’s concerns and provide clarifications. An Area Chair meeting will finalize decisions, taking into account both the initial reviews and the rebuttal, by April 10  . 
+  Subject Areas  
+ RSS seeks high-quality research papers and demos that introduce new ideas and stimulate future trends in robotics. We invite paper and demo submissions in all areas of robotics, including:  
+ Assembly, Logistics and Manufacturing; 
+  Assistive, Entertainment and Service Robots;
+2. RSS_3 conference:
+home | RSS Proceedings 
+  committees | Organizing Committee 
+  RSS Foundation 
+  information | Author Information 
+  Call for Papers and Demos 
+ Home   
+  RSS Proceedings   
+  information   
+  Author Information   
+  Call for Papers and Demos   
+  committees   
+  Organizing Committee   
+  RSS Foundation   
+  follow us   
+   Instagram   
+ Author Information  
+  There are two types of submissions to RSS: (i) Science/Systems papers, and (ii) Demo papers. Both types of papers appear in the RSS proceedings.  
+ Science/Systems papers report on novel scientific and systems contributions via a conference paper, and are reviewed via a double-blind review process. Demo papers must be accompanied by a conference demonstration (see details below), and can be reviewed via a single-blind review process as the demonstration content may reveal the affiliation of the authors.  
+ A single contribution should only be submitted as one type, either a Science/System paper or a Demo paper. If there is a novel robotic systems contribution that is properly evaluated against alternatives and does not obviously reveal the authors, the authors should submit it as a Science/System paper. If the authors’ contribution entails a demonstration and cannot be easily anonymized, authors should submit it as a Demo paper.  
+ Details on the two types of submission and guidance for preparation are provided below.  
+ Guidance for Demo Preparation  
+ useful new mechanisms or software packages for the robotics community, 
+  large-scale deployments of robotics technology that have not been achieved before, 
+  mature, production-ready industrial systems of note and lessons from their operation, 
+  new datasets and benchmarks that will advance robotics research, 
+  novel applications of robotics technology with important societal impact. 
+  What to Submit?  Each submitted Demo paper will include a manuscript describing the system (see format and length recommendations below) and demonstrations of the system itself, which can be accessed by reviewers via the supplementary material (e.g., executable software, multimedia showing the operation of robotic hardware, demonstrations of the achieved scalability, etc.), or via a link to a website that is accessible at the time of the review period.  
+ Single-blind:  Demo paper submissions are allowed (but not required) to be single-blind in contrast to Science/System papers, which must be double-blind. Demo paper submissions are understood to be demonstrating unique systems that will obviously reveal the authors or their affiliations. Demo papers are not opportunities to bypass the double-blind requirement of Science/System submissions. The reviewers will be asked to evaluate whether a submission was appropriately submitted under the Demo paper category.  
+ Submission Requirements:  The authors of Demo paper submissions are required to start the title of the submission with the word “Demonstrating” to communicate to the reviewers the type of the submission and that they are allowed to be single-blind. The authors of Demo papers are also asked to include a short 1-paragraph section at the time of the submission titled “Intended Demonstration” (e.g., before or after the introduction section of their submitted manuscript), of how they envision that the RSS live audience will experience the demonstrated system. See examples of ways to demonstrate a system below. This section can be removed at the time of the Camera-Ready submission, if the Demo paper is accepted.  
+ Conference Demonstration:  Authors of accepted demo papers will be asked to demonstrate their system to the RSS attendees. Examples of how this can be achieved include: (i) an interactive demonstration of a software package at the conference, (ii) live demonstration of robotic hardware brought at the conference, (iii) videoconferencing to demonstrate a remote real-world deployment of a robotic system’s abilities. The authors of demo papers are asked to describe at the time of the submission how the RSS live audience will experience the demonstrated system.  
+ Evaluating Demo Papers:  A Demo paper should outline the design of the system and provide sufficient details to allow the evaluation of its validity, quality, and relevance to RSS. A Demo paper can do this by addressing some of the following questions:  
+ What problem does the proposed system address? 
+  Why is the system important and what is its impact? 
+  How is the system licensed? 
+  Are there any additional concerns about the proposed system (e.g., ethical or environmental concerns)? 
+  Review and Camera-ready:  The review process for Demo paper submissions will take place in parallel with the review of Science/System paper submissions. It will be handled by the same Program Committee. The proposed demonstrated system needs to be ready at Camera-Ready time to allow the proposed demonstration to take place. Additional improvements are allowed but should not diverge significantly from the description in the submitted Demo paper.  
+ Examples of Demo Papers  The Demo paper category was introduced in RSS 2023 and examples of accepted submissions are the following:  
+ Demonstrating Mobile Manipulation in the Wild: A Metrics-Driven Approach 
+  Demonstrating Large Language Models on Robots 
+  Demonstrating RFUniverse: A Multiphysics Simulation Platform for Embodied AI 
+  Demonstrating Arena-Web: A Web-based Development and Benchmarking Platform for Autonomous Navigation Approaches 
+  Note:  Commercial sales and marketing activities are not appropriate for submissions in the RSS Demo Track and should be arranged instead via the RSS Sponsorship program.   
+ Paper and Demo Format  
+ A template for paper and demo submissions is available in LaTeX  and Word  . Do not modify the formatting provided in the templates. Any change to font sizes, page dimensions, line spacing, etc. may delay publication. Please do not include any additional markings such as Draft or To appear in…  on the pages. Make sure your paper does not contain page numbers.  
+ We only accept a PDF format for the main submission file. Delays in the production of proceedings are usually caused by PDF file submissions that do not embed all fonts.  
+ Before submitting your PDF file, please open it in Acrobat Reader. In the File menu under Document Properties, you will find information on the fonts used by your document. The PDF file must only contain Type-1 fonts (and Embedded True Type fonts if prepared under Word). On Linux, you may also use pdffonts  . Below are instructions to embed PDF fonts for various typesetting systems:  
+ Overleaf 
+  Acrobat 
+  dvips 
+  Paper and Demo Length  
+ The main PDF should contain a concise and lucid presentation of the merits of the paper, including a discussion of its contributions, prior work, and a description of key technical ideas and methods used. The paper must include a “Limitations” section, describing shortcomings and open problems related to the proposed contribution.  The paper should be self-contained and include all the material necessary for an expert to verify the central claims in the paper.  
+ Additional supplemental text, such as appendices, data listings, or expanded proofs, should be included as supplementary material (see below). Reviewers will review supplemental material at their discretion for Science/System papers. For Demo papers, the reviewers will be guided to prioritize the supplemental material if the system is primarily available through the corresponding files.  
+ Authors should anticipate that their papers may be rejected if the key technical result is not concisely presented. Reviewers may perceive a paper as too long if it is verbose, repetitive, or belabors obvious points. A paper that is 15 pages long is not necessarily going to be rejected, but the authors must make a compelling case that the length is essential to the key ideas in the paper. Moreover, the aesthetics of a paper also make the case for conciseness, since too much whitespace and poorly cropped figures are detrimental to the “feel” of a high-quality paper. Conversely, reviewers may perceive a paper as too short if it omits important details.  
+ Note:  RSS was inspired to make this decision following other conferences, such as SIGGRAPH and FOCS. Researchers have wasted untold hours massaging formatting rules, figure sizes, and trimming paragraphs to fit page limits. The nominal reason for page limits in the electronic era is an upper bound on reviewers’ effort since they are expected to review “all the material” in the submission. It is inevitable that reviewers do not review material uniformly and will skim over text that is uninteresting or too dense; hence, page length is a poor proxy for reviewer effort. We will trust that authors will recognize that respecting reviewers’ time is a necessary condition to get published.   
+ Double-Blind Submission for Papers  
+ The following principles should be applied for submissions in the Science/System paper category:  
+ Authors’ names and affiliations should not appear anywhere in the title or text of the submission. 
+  Acknowledgments to people or funding agencies should not appear in the submission. 
+  There should be no links to external websites (e.g. YouTube, github, authors institute pages) in the blinded submission. Links to external resources can be provided in the final camera-ready version of the paper. 
+  In self-citing authors previous work, avoid expressions such as “In the authors earlier work…”, rather use alternative expressions such as “In previous work…” or “In related work…”, in a manner that does not distinguish their own work from the work of others. Authors should otherwise cite work, including their own, as required for the completeness of the submission.  
+ In presentation of experimental work, avoid logos in pictures, or overt references to an individual laboratory. Use expressions such as “The experimental equipment…” rather than “The University of XYZ’s Robby the Robot…”. Otherwise, authors should include photographs, graphics and other presentation material as in the normal manner for a paper submission.  
+ Note:  Demo submissions are allowed (but not required) to be single-blind in contrast to science and systems papers, which must be double-blind.   
+ Supplementary Materials for Papers and Demos  
+ Authors may submit supplementary material such as a video or an expanded version of a proof. Especially in the context of Demo papers, authors are asked to provide supplementary material that allow the reviewers to experience and evaluate the demo. The deadline for supplementary material is a few days after the paper submission deadline.  
+ Note that reviewers of Science/System paper submissions are not required to view this material and include it in their assessment of the paper.  
+ Authors of Science/System papers must ensure that all external links are removed for the initial and revised submissions, to ensure that their identities are not revealed for regular papers.  External links are welcome to be included in the final camera-ready version of the paper.  
+ Multiple Submissions of Papers and Demos  
+ RSS submissions that are identical (or substantially similar) to versions that have been previously published, or accepted for publication, or that have been submitted in parallel to other conferences are not appropriate for RSS and violate the conference’s dual submission policy.  
+ Exceptions to this rule are the following:  
+ Submission is permitted for papers presented or to be presented at conferences or workshops that do not have published proceedings, or with only abstracts published. 
+  It is acceptable to submit to RSS work that has been made available as a technical report (or similar, e.g., in arXiv) without citing it. 
+  None of the above should be construed as overriding the requirements of other publishing venues. In addition, keep in mind that author anonymity to RSS reviewers might be compromised for authors availing themselves of exceptions 1 and 2.  
+ Plagiarism in Papers and Demos  
+ RSS is intolerant of plagiarism. Submitted papers are expected to contain original work executed by the authors with adequate, proper, and scholarly citations to the work of others. It is the job of the authors to clearly identify both their own contribution(s) and published results / techniques on which they depend or build. RSS reviewers are charged to ensure these standards are met. In cases of alleged plagiarism, the program chair will be guided by Section 8.2.4 Allegations of Misconduct as laid out by the IEEE in this document  .  
+ Policy on the Use of Large Language Models  
+ We are following the example of ICML  and adopt the following policy:  
+ Papers that include text generated from a large language model (LLM), such as ChatGPT, are prohibited unless the produced text is presented as a part of the paper’s experimental analysis. Note the following clarification on the above statement:  
+ The policy prohibits text produced entirely by LLMs (i.e., “generated”). This does not prohibit authors from using LLMs for editing or polishing author-written text. 
+  The policy is largely predicated on the principle of being conservative with respect to guarding against potential issues of using LLMs, including plagiarism. 
+  This policy may evolve in future conferences as society understands LLMs and their impacts on scientific publishing better. 
+  We plan to investigate any potential violation of the LLM policy when a submission is brought to our attention with a significant concern about a potential violation. Any submission flagged for the potential violation of this LLM policy will go through the same process as any other submission flagged for plagiarism.  
+  This website uses Google Analytics for page views.
+3. RTAS_0 conference:
+Skip to content  RTAS 2023   
+ 29th IEEE Real-Time and Embedded Technology and Applications Symposium. May 9-12, 2023. San Antonio, Texas.  
+ Home 
+  Brief Presentations 
+  Artifact Evaluation 
+  Author Information | Call for Papers 
+  Submissions 
+  Double-Blind Submission Requirements 
+  Author FAQ 
+  Double-Blind Policy FAQ 
+  Transparency 
+ Welcome  
+ RTAS is a top-tier conference with a focus on systems research related to embedded systems  and time-sensitive systems  . The broad scope of RTAS ranges from traditional hard real-time systems to embedded systems without explicit timing requirements, including latency-sensitive systems with informal or soft real-time requirements. RTAS’23 has two main tracks:  
+ Track 1: Systems and Applications; 
+  Track 2: Applied Methodologies and Foundations. 
+  RTAS’23 will be part of the CPS-IoT Week in San Antonio, Texas, from May 9-12, 2023.  
+ News  
+ RTAS’23 Best Paper Awards | May 12, 2023 | Best Paper  
+ G(IP)2C: Temporally Isolated Multiprocessor Real-Time IPC with Server-to-Server Invocations, Cédric Courtaud and Björn Brandenburg 
+  Best Student Paper  
+ Shedding Light on Static Partitioning Hypervisors for Arm-based Mixed-Criticality Systems, José Martins and Sandro Pinto 
+  Outstanding Paper  
+ Hardware Compute Partitioning on NVIDIA GPUs, Joshua Bakita and Jim Anderson 
+  Congratulations to the winners of RTAS’23 Best Paper Awards! 
+  RTAS’23 Best Reviewer Awards | May 12, 2023 | Best Reviewer  
+ Christian Dietrich | for his excellent contribution during the paper review. 
+  Congratulations to the winners of RTAS’23 Best Reviewer Award! 
+  Registration | February 9, 2023 | RTAS’23 Registration is now open. We urge the international participants to register early, as the visa support letters will only be issued by ACM with a registration. Please see the following page on CPS-IoT week website for details: Registration 
+  Artifact Evaluation | January 19, 2023 | The information on Artifact Evaluation is now available on this page  . 
+  Brief Presentation Call-for-Papers | January 5, 2023 | The Brief Presentations (BP) Track offers researchers and practitioners an opportunity to present their industry-relevant experience, ongoing work, published yet not presented papers, and demos, to the RTAS and broader CPS-IoT Week audience. Details on this page  . 
+  Sponsors  
+ RTAS is sponsored by the IEEE Computer Society Technical Committee on Real-Time Systems.  
+ Important Dates  
+ Main Conference  :  
+ Submission Deadline (firm): | October 31, 2022 
+ Rebuttal Period: | January 9-13, 2023 
+ Author Notification: | January 20, 2023 
+ Camera-ready: | March 17, 2023 
+ Conference Date: | May 9-12, 2023 
+  Brief Presentation  :  
+ BP Submission Deadline: | February 10, 2023  --> February 17, 2023 
+ BP Author Notification: | March 10, 2023 
+ BP Camera-ready: | March 17, 2023 
+  Artifacts Evaluation  :  
+ AE Submission Deadline: | March 2, 2023 
+ AE Notification: | March 14, 2023 (tentative) 
+ Copyright RTAS 2023  . All rights reserved. | Powered by WordPress  & Writers Blogily Theme
+4. RTAS_3 conference:
+Skip to content  RTAS 2023   
+ 29th IEEE Real-Time and Embedded Technology and Applications Symposium. May 9-12, 2023. San Antonio, Texas.  
+ Home 
+  Brief Presentations 
+  Artifact Evaluation 
+  Author Information | Call for Papers 
+  Submissions 
+  Double-Blind Submission Requirements 
+  Author FAQ 
+  Double-Blind Policy FAQ 
+  Transparency 
+ Call for Papers  
+ RTAS is a top-tier conference with a focus on systems research related to embedded systems and time-sensitive systems. RTAS’23 invites papers describing original systems, applications, case studies, methodologies, and algorithms that contribute to the state of practice in design, implementation, verification, and validation of embedded systems or time-sensitive systems. RTAS’23 consists of two tracks:  
+ Track 1. Systems and Applications; 
+  Track 2. Applied Methodologies and Foundations. 
+  The broad scope of RTAS’23 ranges from traditional hard real-time systems to embedded systems without explicit timing requirements. In both tracks, the timing requirements of interest include not only classical hard real-time constraints, but also time-sensitive applications in a broader sense, including applications subject to probabilistic, soft real-time, quality-of-service (QoS), or latency requirements. The application area can be either resource-constrained embedded systems or other time-sensitive systems of any size, including (but are not limited to): time-sensitive cloud/edge/fog computing systems, time-sensitive applications in the Internet of Things (IoT), time-sensitive mobile computing apps, timing aspects in robotics middleware and frameworks, machine learning in or for time-sensitive systems, real-time control in smart cities and other large cyber-physical systems (CPS), signal processing algorithms that must execute in real time, and real-time healthcare solutions.  
+ RTAS welcomes both papers backed by formal proofs as well as papers that focus exclusively on empirical validation of timing requirements. Track 1 further welcomes applied systems papers that focus on practical issues other than timing, such as security, energy-awareness, and fault tolerance, in the broader field of embedded/CPS/IoT systems and applications.  
+ RTAS’23 follows a double-blind peer reviewing process: author identities and affiliations will not be revealed to reviewers. Authors will have the opportunity to provide a rebuttal of reviews before acceptance decisions are made, solely to provide clarifications and correct misconceptions. The rebuttal will not allow authors to introduce new material beyond the original submission, or promise such material for the camera-ready version. There will be an optional evaluation process for accepted papers that assesses the reproducibility of the work.  
+ Track 1: Systems and Applications  
+ This track focuses on research of an empirical nature pertaining to applications, runtime software, and hardware architectures for time-sensitive or embedded systems. Applied systems papers that target embedded systems do not necessarily need to consider timing issues. Topics relevant to this track include, but are not limited to:  
+ Main Conference  :  
+ Submission Deadline (firm): | October 31, 2022 
+ Rebuttal Period: | January 9-13, 2023 
+ Author Notification: | January 20, 2023 
+ Camera-ready: | March 17, 2023 
+ Conference Date: | May 9-12, 2023 
+  Brief Presentation  :  
+ BP Submission Deadline: | February 10, 2023  --> February 17, 2023 
+ BP Author Notification: | March 10, 2023 
+ BP Camera-ready: | March 17, 2023 
+  Artifacts Evaluation  :  
+ AE Submission Deadline: | March 2, 2023 
+ AE Notification: | March 14, 2023 (tentative) 
+ Copyright RTAS 2023  . All rights reserved. | Powered by WordPress  & Writers Blogily Theme
+5. RTCSA_0 conference:
+Visa Support 
+  Accommodation 
+  Submit a paper 
+  Organizers 
+  Venue 
+  Menu      
+ IEEE RTCSA 2023  
+ The 29th IEEE International Conference on Embedded and  
+  Real-Time Computing Systems and Applications(RTCSA’23)  
+  Location: TOKI MESSE, Niigata, Japan  
+  Date: Aug.30-Spt.01, 2023  
+ Welcome to IEEE RTCSA 2023  
+ IEEE RTCSA 2023, the 29th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications, will be held physically on August 30th - September 1st, 2023. It will be co-located with NVMSA 2023. The physical conference will take place at the TOKI MESSE Conference Center in Niigata, Japan. The conference proceedings will be included in IEEE Xplore, and indexed by EI.”  
+ Venue  
+ Other Sponsors/Supporters  
+ © IEEE RTCSA 2023    
+ Back to top
+6. RTCSA_3 conference:
+Visa Support 
+  Accommodation 
+  Submit a paper 
+  Organizers 
+  Venue 
+  Menu      
+ IEEE RTCSA 2023  
+ The 29th IEEE International Conference on Embedded and  
+  Real-Time Computing Systems and Applications(RTCSA’23)  
+  Location: TOKI MESSE, Niigata, Japan  
+  Date: Aug.30-Spt.01, 2023  
+ Program  
+ RTCSA & NVMSA  
+  This browser does not support PDFs. Please download the PDF to view it: Download PDF  .  
+ </embed>  RTCSA  
+  This browser does not support PDFs. Please download the PDF to view it: Download PDF  .  
+ </embed>   
+ © IEEE RTCSA 2023    
+ Back to top
+7. RTNS_0 conference:
+search    expand     Skip to content    RTNS 2023   
+ The 31st International Conference on Real-Time Networks and Systems, June 7-8, 2023  
+ Menu  Call for papers | Submission Guidelines 
+  Evaluation Criteria 
+  Transparency 
+ Awarded Recipients   
+ Posted on June 12, 2023  June 22, 2023    by Kuan-Hsun Chen      
+ We are excited to announce again the awarded papers this year:  
+ Best Paper Award   
+  Minimizing Cache Usage for Real-time Systems  
+  by Binqi Sun, Tomasz Kloda, Sergio Arribas Garcia, Giovani Gracioli and Marco Caccamo   
+ Best Student Paper Award   
+  Dimensions of fixed-priority aperiodic servers  
+  by Abhishek Singh and Sanjoy Baruah   
+ Best JRWRTC Paper Award   
+  A first Network Calculus model for Cyclic Queing and Forwarding  
+  by Damien Guidolin-Pina and Marc Boyer   
+ Congratulations to all award recipients!  
+ Posted in RTNS'23    
+ Final List of Accepted Papers   
+ Posted on April 3, 2023  May 18, 2023    by Kuan-Hsun Chen      
+ Here is the list of accepted paper this year in an alphabetic order:  
+ Title | Authors 
+ Adding Empirical Real-Time Guarantees to LoRaWAN | Jose Mariano Finochietto, Ousmane Dieng, Daniel Mosse and Rodrigo Santos 
+ An Evaluation of Time-triggered Scheduling in the Linux Kernel | Paraskevas Karachatzis, Jan Ruh and Silviu S. Craciunas 
+ Analysis of Shared Cache Interference in Multi-Core Systems using Event-Arrival Curves | Thilo L. Fischer and Heiko Falk 
+ B-TSP: An Advanced Power Safe Management Strategy for modern Multi-core Platforms under Thermal-Aware Design | Javier Pérez Rodríguez, Patrick Meumeu Yomsi, Yilian Ribot González and Luis Javier Puente Lam 
+ Cache-Aware Allocation of Parallel Jobs on Multi-cores based on Learned Recency | Shuai Zhao, Xiaotian Dai, Benjamin Lesage and Iain Bate 
+ Dimensions of fixed-priority aperiodic servers | Abhishek Singh and Sanjoy Baruah 
+ Enabling timing predictability in the presence of store buffers | Alban Gruin, Thomas Carle, Christine Rochange and Pascal Sainrat 
+ Improved Uniprocessor Scheduling of Systems of Sporadic Constrained-Deadline Elastic Tasks | Sanjoy Baruah 
+ IPDeN 2.0: Real-time NoC with selective flit deflection and buffering | Yilian Ribot González, Geoffrey Nelissen and Eduardo Tovar 
+ Enabling multi-link data transmission for collaborative sensing in open road scenarios | Jonas Peeck and Rolf Ernst 
+ Congratulations to all the authors!  
+ Posted in RTNS'23    
+ JRWRTC Call for Paper is online!   
+ Posted on April 3, 2023  June 12, 2023    by Mario Günzel      
+ JRWRTC 2023   
+  The junior researchers of accepted papers in JRWRTC will be eligible to the early student registration fee (if they don’t have a paper in the main conference).  
+ If you are are a young researcher looking for opportunities to present your work at the conference, please consider submitting your work to the Junior Researcher Workshop on Real-Time Computing. The submission guidelines can be found here  !  
+ Posted in RTNS'23  , Workshop    
+ Information of Venue and Logistics are ready!   
+ Posted on March 22, 2023  March 28, 2023    by Kuan-Hsun Chen      
+ Logistics   
+ Please check the page above! We try to list down all the possible ways to reach the conference venue when you arrive Dortmund. In case you have questions, please feel free to contact the Local Organization chair  .   For your convenience, we have blocked 15-20 rooms at each hotel. Please be aware of the booking deadline of each hotel. Booking after that, we cannot guarantee the rooms are still available.  
+ Posted in RTNS'23    
+ Second Round is coming!   
+ Posted on November 29, 2022  January 27, 2023    by Kuan-Hsun Chen      
+ Please submit your papers by Jan 25th (Jan. 25th is included, AoE)!  
+ New contributions will be reviewed by at lest 3 reviewers. Papers marked at “major revisions” in the first round will be reviewed by the same reviewers as in the first round. Looking forward to your submissions!  
+ Posted in RTNS'23    
+ Posts pagination  
+ JRWRTC | Date 
+ Abstract Deadline | May 4th, 2023 
+ Submission Deadline  (Firmed) | May 9th, 2023 
+ Notification | May 22nd, 2023 
+ Cameraready Deadline | May 29th, 2023 
+ RTNS 1st Round | Date 
+ Abstract  Deadline | Sept. 25th, 2022 
+ Submission Deadline | Sept. 29th, 2022 
+ Notification | Nov. 10th, 2022 
+ Cameraready Deadline | May 3rd, 2023 
+ RTNS 2nd Round | Date 
+ Abstract Deadline | Jan. 23rd, 2023 
+ Submission Deadline | Jan. 25th, 2023 (AoE, firm deadline) 
+ Notification | Mar. 17th, 2023 
+ Cameraready Deadline | May 3rd, 2023 
+ Conference Date | June 7-8, 2023 
+ News  
+ Awarded Recipients 
+  Final List of Accepted Papers 
+  JRWRTC Call for Paper is online! 
+  Information of Venue and Logistics are ready! 
+  Second Round is coming! 
+ Copyright © RTNS'2023  
+ Background © Sonja Ludwig / TU Dortmund
+8. RTNS_1 conference:
+search    expand     Skip to content    RTNS 2023   
+ The 31st International Conference on Real-Time Networks and Systems, June 7-8, 2023  
+ Menu  Call for papers | Submission Guidelines 
+  Evaluation Criteria 
+  Transparency 
+  Keynote - Dirk Ziegenbein 
+ Tuesday June 6th  
+ Wednesday June 7th  
+ Enabling timing predictability in the presence of store buffers -- Alban Gruin, Thomas Carle, Christine Rochange and Pascal Sainrat 
+  WCET analysis with procedure arguments as parameters -- Sandro Grebant, Clement Ballabriga, Julien Forget and Giuseppe Lipari 
+  Analysis of Shared Cache Interference in Multi-Core Systems using Event-Arrival Curves -- Thilo L. Fischer and Heiko Falk 
+ B-TSP: An Advanced Power Safe Management Strategy for modern Multi-core Platforms under Thermal-Aware Design -- Javier Pérez Rodríguez, Patrick Meumeu Yomsi, Yilian Ribot González and Luis Javier Puente Lam 
+  Characterizing G-EDF scheduling tardiness with uniform instances on multiprocessors -- Giovanni Buzzega, Gianluca Nocetti and Manuela Montangero 
+  Dimensions of fixed-priority aperiodic servers -- Abhishek Singh and Sanjoy Baruah | (Best Student Paper Award) 
+  Improved Uniprocessor Scheduling of Systems of Sporadic Constrained-Deadline Elastic Tasks -- Sanjoy Baruah 
+  Session chairs: Mario Günzel and Alfonso Mascarenas-Gonzalez  
+ Best JRWRTC Paper Award   
+  A first Network Calculus model for Cyclic Queing and Forwarding  
+  Damien Guidolin-Pina and Marc Boyer 
+ Thursday June 8th  
+  Cache-Aware Allocation of Parallel Jobs on Multi-cores based on Learned Recency -- Shuai Zhao, Xiaotian Dai, Benjamin Lesage and Iain Bate 
+  Reducing Loss of Service for Mixed-Criticality Systems through Cache- and Stress-Aware Scheduling -- Benjamin Lesage, Xiaotian Dai, Shuai Zhao and Iain Bate 
+  Minimizing Cache Usage for Real-time Systems -- Binqi Sun, Tomasz Kloda, Sergio Arribas Garcia, Giovani Gracioli and Marco Caccamo | (Best Paper Award) 
+ JRWRTC | Date 
+ Abstract Deadline | May 4th, 2023 
+ Submission Deadline  (Firmed) | May 9th, 2023 
+ Notification | May 22nd, 2023 
+ Cameraready Deadline | May 29th, 2023 
+ RTNS 1st Round | Date 
+ Abstract  Deadline | Sept. 25th, 2022 
+ Submission Deadline | Sept. 29th, 2022 
+ Notification | Nov. 10th, 2022 
+ Cameraready Deadline | May 3rd, 2023 
+ RTNS 2nd Round | Date 
+ Abstract Deadline | Jan. 23rd, 2023 
+ Submission Deadline | Jan. 25th, 2023 (AoE, firm deadline) 
+ Notification | Mar. 17th, 2023 
+ Cameraready Deadline | May 3rd, 2023 
+ Conference Date | June 7-8, 2023 
+ News  
+ Awarded Recipients 
+  Final List of Accepted Papers 
+  JRWRTC Call for Paper is online! 
+  Information of Venue and Logistics are ready! 
+  Second Round is coming! 
+ Copyright © RTNS'2023  
+ Background © Sonja Ludwig / TU Dortmund
+9. RTNS_2 conference:
+This event has passed. 
+ RTNS 2023  
+ June 7, 2023  - June 8, 2023   
+ «  ITS European congress 
+ Details  
+ Start:  June 7, 2023   End:  June 8, 2023      
+ «  ITS European congress 
+  Follow 
+ © 2023 AIthena Project  
+ Privacy Policy
+10. RTNS_3 conference:
+Home    Categories    About    Call for Papers     
+ RTNS 2023 : International conference on Real-Time Networks and Systems   
+  Dortmund, Germany 
+ Event Date: | June 07, 2023 - June 08, 2023 
+ Abstract Submission Deadline: | January 13, 2023 
+ Submission Deadline: | January 17, 2023 
+ Notification of Acceptance: | February 25, 2023 
+ Camera Ready Version Due: | April 16, 2023 
+  GO TO WEBSITE        
+ Call for Papers 
+ RTNS is a friendly and inclusive conference with a great sense of community that presents excellent opportunities for discussion and collaboration.  
+  This 31st occurrence of RTNS is a special one. First, this 31st edition will be the first occurrence outside France. Second, RTNS offers now two deadlines: one in September, and a second in January (more details below).  
+  Important dates  
+  First round  
+  Abstract submission: Sept. 18th, 2022  
+  Paper submission: Sept. 22th, 2022  
+  Notification: Nov. 10th, 2022  
+  Second round  
+  Abstract submission: Jan. 13th, 2023  
+  Paper submission: Jan. 17th, 2023  
+  Notification: Feb. 25th, 2023  
+  Original unpublished papers on all aspects of real-time systems and networks are welcome. Note that RTNS prefers original results, raising questions and discussions, to technical advances understandable only by a few experts.  
+  RTNS covers a wide spectrum of topics in real-time and embedded systems, including, but not limited to:  
+  * Real-time applications design and evaluation: automotive, avionics, space, railways, telecommunications, process control, multimedia.  
+  * Hardware support for real-time systems: hardware/software co-design, power/temperature-aware techniques, design of predictable hardware, multi-core and many-core platforms, hardware accelerators, cache-related issues, interconnect, and memory.  
+  Double submission model  
+  --------------------------------------  
+  RTNS 2023 adopts a double submission model, with two rounds.  
+  Submissions done at the first round may be:  
+  Rejected: no re-submission possible to the second round  
+  Accepted: accepted papers will receive a DOI, the list will be published on the conference WEB site, and the author may put an author version on their own web page. The publication will occur after the conference.  
+  Under major revision: the paper may be re-submitted in the second round and will be evaluated again by the same reviewers.  
+  Submissions done in the second round may be only accepted or rejected.  
+  Submission Guidelines  
+  --------------------------------------------  
+  Authors are invited to submit English-language research and application papers representing original, previously unpublished work, not simultaneously submitted to another journal or conference. The papers are limited to 10 two-column pages (not including references) in ACM conference format. The proceedings will be published by well known editor (ongoing discussions). RTNS accepts only full papers. All accepted papers can extend to 11 pages (excluding references) with the extra page only to address reviewers’ comments but not to add new content.  
+  RTNS tends to be a community, not a bunch of individual experts. Then, authors are invited to present the results in a way such that the main ideas can be understood by any real-time researcher and lead to discussions and exchanges.  
+  As in previous editions, some specific proposal will be done to authors of outstanding papers (discussions still ongoing). Best papers and best student papers awards will be presented at the conference, along with an award for the best presentation. 
+ Summary 
+ RTNS 2023 : International conference on Real-Time Networks and Systems  will take place in Dortmund, Germany  . It’s a 2  days event starting on Jun 7, 2023 (Wednesday)  and will be winded up on Jun 8, 2023 (Thursday)  .  
+ RTNS 2023  falls under the following areas: REAL-TIME SYSTEMS, FORMAL METHODS, CYBER-PHYSICAL SYSTEMS,  etc. Submissions for this Conference  can be made by Jan 17, 2023  . Authors can expect the result of submission by Feb 25, 2023  . Upon acceptance, authors should submit the final version of the manuscript on or before Apr 16, 2023  to the official website of the Conference  .  
+ Please check the official event website for possible changes before you make any travelling arrangements. Generally, events are strict with their deadlines. It is advisable to check the official website for all the deadlines.  
+ Other Details of the RTNS 2023   
+ Short Name: | RTNS 2023 
+  Full Name: | International conference on Real-Time Networks and Systems 
+  Fees: | Check the official website of | RTNS 2023 
+  Event Type: | Conference 
+ Credits and Sources 
+ [1] RTNS 2023 : International conference on Real-Time Networks and Systems 
+  Check other Conferences, Workshops, Seminars, and Events  Search Here    
+ RTCSA 2024:   30th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications  
+  Sokcho, South Korea   
+  Aug 21, 2024 
+ RTAS 2024:   IEEE Real-Time and Embedded Technology and Applications Symposium  
+  Hong Kong   
+  May 13, 2024 
+ EMSA 2024:   13th International Conference on Embedded Systems and Applications  
+  Zurich, Switzerland   
+  May 18, 2024 
+ ISORC 2024:   International Symposium on Object/Component/Service-Oriented Real-Time Distributed Computing  
+  Carthage, Tunis, Tunisia   
+  May 22, 2024 
+ RT-Cloud 2023:   Second International Workshop on Real-Time Cloud Systems  
+  Vienna, Austria   
+  Jul 11, 2023 
+ SHOW ALL 
+ ICFEM 2024:   International Conference on Formal Engineering Methods  
+  Hiroshima , Japan   
+  Dec 2, 2024 
+ AFMAS 2024:   Science of Computer Programming special issue on Advances in Formal Methods for Autonomous Systems  
+  N/A 
+ SIMULTECH 2024:   14th International Conference on Simulation and Modeling Methodologies, Technologies and Applications  
+  Dijon, France   
+  Jul 10, 2024 
+ FMICS 2024:   29th International Conference on Formal Methods for Industrial Critical Systems  
+  Milano   
+  Sep 9, 2024 
+ SEC 2024:   10th International Conference on Software Engineering  
+  Melbourne, Australia   
+  Apr 20, 2024 
+ SHOW ALL 
+ GECPS 2024:   IEEE Cyber Physical System for Green Energy  
+  Los Angelos   
+  Jun 28, 2024 
+ EMSICC 2024:   International Workshop on Energy Management for Sustainable Internet-of-Things and Cloud Computing  
+  Vienna, Austria   
+  Aug 19, 2024 
+ RTCSA 2024:   30th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications  
+  Sokcho, South Korea   
+  Aug 21, 2024 
+ ICPS 2024:   7th IEEE International Conference on Industrial Cyber-Physical Systems  
+  St. Louis, MO, USA   
+  May 12, 2024 
+ CSCWD 2024:   2024 27th International Conference on Computer Supported Cooperative Work in Design  
+  Tianjin, China   
+  May 8, 2024 
+ SHOW ALL
+
+output:1. RSS_2 information:
+2. RSS_3 information:
+3. RTAS_0 information:
+4. RTAS_3 information:
+5. RTCSA_0 information:
+6. RTCSA_3 information:
+7. RTNS_0 information:
+8. RTNS_1 information:
+9. RTNS_2 information:
+10. RTNS_3 information:

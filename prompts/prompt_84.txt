@@ -1,0 +1,341 @@
+input:
+1. ESEM_1 conference:
+Home  History  Proceedings  Best Papers  Organizing ESEM  Sponsors  Steering Committee  Code Of Conduct  Contacts  Publishing Notes  Data Protection    
+ Tweets by @ESEM_conf  Timeline does not work with some privacy tools  
+ ESEM  
+ ESEM, the International Symposium on Empirical Software Engineering and Measurement, is the premier empirical software engineering and measurement conference.  
+ The objective of the International Symposium on Empirical Software Engineering and Measurement (ESEM) is to provide a forum where researchers, practitioners, and educators can report and discuss the most recent research results, innovations, trends, experiences, and concerns in the field of empirical software engineering and metrics.  
+ ESEM conference encourages the exchange of ideas that help explore, understand, and model phenomena in software engineering from an empirical viewpoint. The conference focuses on the processes, design and structure of empirical studies, and the results of specific studies. Studies may vary from controlled experiments to field studies and from quantitative to qualitative studies.  
+ ESEM committees care about fundamental ethical values related to diversity, as gender, ethnicity, disability, religion, and similar personal traits. Diversity will be sought at different levels, remarkably including conference committees' composition.  
+ ESEM conference organizers will set as highest priority to provide a welcoming, respectful and positive atmosphere to all attendees. Aggressive or offensive language will not be allowed in talks, questions or answers. Aggressive or offensive behaviour, including any type of harassing, will not be allowed in the event, being a justified reason for expulsion without any compensation.  
+ All ESEM conference committees as well as authors are obliged to follow and apply Ethical Guidelines as available at ACM  and IEEE  .  
+ On this web site you can find information about the ESEM conference series as well as useful information for organizing a future ESEM conference.  
+ ESEM - 18th edition - 2024
+2. ESOP_0 conference:
+Steering Committee 
+  Sustainability 
+  ESOP 
+  FASE 
+  FoSSaCS 
+  Policies 
+  Disclaimer 
+  Awards | Best Paper 
+  Test of Time 
+  Doctoral Dissertation 
+ Log in | Join us      
+ ESOP  European Symposium On Programming  
+ Scope  
+ The ESOP conference is a premier European venue devoted to fundamental issues in the specification, design, analysis and implementation of programming languages and systems. Covered areas include: Programming paradigms and styles; Methods and tools to write and specify programs and languages; Methods and tools for reasoning about programs; Programming systems design and implementation.  
+ History  
+ 25 Anniversary Celebration  
+ In 2022, ESOP celebrated its 25 anniversary. Watch the talk of Peter Müller about the conference history!  
+  Sorry, your browser does not support the video tag.    
+ Links  
+ ESOP Website 
+ Steering Committee
+3. ESOP_2 conference:
+ETAPS 2023 | Call for Papers 
+  Conferences 
+  Programme 
+  Steering Committee 
+  Sustainability 
+  ESOP 
+  FASE 
+  FoSSaCS 
+  Policies 
+  Disclaimer 
+  Awards | Best Paper 
+  Test of Time 
+  Doctoral Dissertation 
+ General information  
+ ESOP is an annual conference devoted to fundamental issues in the specification, design, analysis, and implementation of programming languages and systems. ESOP seeks contributions on all aspects of programming language research including but not limited to, the following areas:  
+ programming paradigms and styles: functional programming; object-oriented programming; probabilistic programming; logic programming; constraint programming; extensible programming languages; programming languages for systems code; novel programming paradigms; 
+  methods and tools to specify and reason about programs and languages: programming techniques; meta-programming; domain-specific languages; proof assistants; type systems; dependent types; program logics, static and dynamic program analysis; language-based security; model checking; testing; 
+  applications and emerging topics: programming languages and PL methods in education, security, privacy, database systems, computational biology, signal processing, graphics, human-computer interaction, computer-aided design artificial intelligence and machine learning; case studies in program analysis and verification. 
+  Contributions bridging the gap between theory and practice are particularly welcome.  
+ Important dates, paper submission and review  
+ See the ETAPS 2023 joint call for papers  .  
+ Submit your paper via the ESOP 2023 author interface  of EasyChair.  
+ The review process of ESOP 2023 is double-blind  , with a rebuttal phase  . In your submission, omit your names and institutions; refer to your prior work in the third person, just as you refer to prior work by others; do not include acknowledgements that might identify you.  
+ ESOP 2023 has just one paper category: regular research papers  of maximal 25 pages  using llncs.cls ( excluding bibliography  ).  
+ Additional material intended for reviewers but not for publication in the final version - for example, details of proofs - may be placed in a clearly marked appendix that is not included in the page limit. Reviewers are at liberty to ignore appendices and papers must be understandable without them.  
+ For the important dates, please check the important dates  .  
+ Artifact submission and evaluation  
+ ESOP 2023 and FoSSaCS 2023 will have a joint post-paper-acceptance voluntary artifact evaluation. Authors will be welcome to submit artifacts for evaluation after paper notification. The outcome will not alter the paper acceptance decision.  
+ The details of the Artifact Evaluation are available here  .  
+ Programme chair  
+  Keynote speaker  
+ We are pleased to announce Sven Apel (Saarland University, Germany) as keynote speaker.  
+ Important dates, paper submission and review  
+ The ETAPS 2023 joint call for papers is available here  .  
+ The review process of FASE 2023 is double-blind, without a rebuttal phase  . In your submission, omit your names and institutions; refer to your prior work in the third person, just as you refer to prior work by others; do not include acknowledgements that might identify you.  
+ Paper categories  
+ FASE 2023 solicits four types of submissions: research papers, empirical evaluation papers, new ideas and emerging results (NIER) papers and tool demonstration papers. Submissions must follow the formatting guidelines of Springer’s LNCS (use the llncs.cls class) and be submitted electronically in pdf through the Easychair author interface  .  
+ Research papers  clearly identify and justify a principled advance to the fundamentals of software engineering. Research papers should clearly articulate their contribution, and provide sufficient evidence for the soundness and applicability of the proposed approach. Research papers are expected to be 15-18 pp (excluding bibliography). Additional material intended for reviewers but not for publication in the final version may be included in a clearly marked appendix.  
+ Empirical evaluation papers  evaluate existing software challenges or critically validate current proposed solutions with scientific means, i.e., by empirical studies, controlled experiments, rigorous case studies, simulations, etc. Scientific reflection on problems and practices in the software industry also falls into this category. Empirical evaluation papers can be 15-18 pp (excluding bibliography). Additional material intended for reviewers but not for publication in the final version may be included in a clearly marked appendix.  
+ New Ideas and Emerging Results (NIER) papers  seek to disrupt the status quo with forward-looking, thought-provoking, innovative research on the foundations of software engineering, as well as lessons learned from the past. Our aim is to accelerate the exposure of the ETAPS community to early yet potentially ground-breaking research results, and to techniques and perspectives that challenge the status quo. To broadly capture this goal, the NIER track at FASE 2023 will publish the following types of papers:  
+ Innovative or groundbreaking new ideas | at early stages of research, supported by promising initial results and intuitions; 
+  Visions of new directions | : synergies with other fields or foundational approaches to problems that currently lack foundations in software engineering; 
+  Lessons from the past | : thoughtful observations on past or current research directions that may be somehow misguided or that let us see current research directions from a new perspective. 
+  NIER papers are expected to be 6-8 pp (excluding bibliography). NIER papers will be assessed primarily on their level of originality, relevance, and potential for impact on the field in terms of promoting innovative thinking. Hence, inadequacies in the state-of-the-art and the pertinence, correctness, and impact of the idea/vision/lesson must be described clearly. A full evaluation is not required for FASE NIER papers, but preliminary evaluation results may help the reviewers understand the scope of the work better.  
+ Tool demonstration papers  present a new tool, a new tool component, or novel extensions to an existing tool. They should provide a short description of the theoretical foundations and emphasize the design and implementation concerns, including software architecture. The paper should give a clear account of the tool’s functionality and discuss the tool’s practical capabilities with reference to the type and size of problems it can handle. Authors are strongly encouraged to make their tools publicly available, preferably on the web. Experimental evaluation is not required, however, a motivation as to why the tool is interesting and significant should be provided. Tool demonstration papers can have a maximum of 6 pp (excluding bibliography). They should have an appendix  of up to 6 additional pages with details on the actual demonstration.  
+ Artifact submission and evaluation  
+ After notification, authors of accepted papers may optionally submit an artifact for evaluation  by the artifact evaluation committee (AEC).  
+ During artifact evaluation the AEC assesses the quality of submitted artifacts while being constructive and helping authors to improve their submitted artifacts. The AEC evaluates artifacts independently of the paper according to the following criteria:  
+ consistent with the paper 
+  as complete as possible 
+  well-documented 
+  easy to (re)use 
+  publicly and persistently available. 
+  The result of the artifact evaluation will not alter the already made paper acceptance decision. However, papers whose artifacts are successfully evaluated will be awarded one or two artifact badges. In particular, FASE awards the Artifacts Available and Artifacts Evaluated badges from the EAPLS badging scheme  .  
+ Please check the detailed artifact submission and evaluation guidelines  .  
+ Special issue  
+ Selected regular papers as well as software artefacts will be invited by June 2023 to submit to a special issue of FASE 23 in Science of Computer Programming  .  
+ Competition on Software Testing (Test-Comp)  
+ FASE 2023 hosts the 5th edition of the Competition on Software Testing (Test-Comp 2023)  .  
+ Programme chairs  
+ Leen Lambers | (BTU Cottbus-Senftenberg) 
+  models of software security; 
+  logical foundations of data bases 
+  Important dates, paper submission and review  
+ For the important dates, please check the joint call for papers  .  
+ Artifact submission and evaluation  
+ ESOP 2023 and FoSSaCS 2023 will have a joint post-paper-acceptance voluntary artifact evaluation. Authors will be welcome to submit artifacts for evaluation after paper notification. The outcome will not alter the paper acceptance decision.  
+ The details of the Artifact Evaluation are available here  .  
+ Programme chairs  
+ General information  
+ TACAS is a forum for researchers, developers and users interested in rigorously based tools and algorithms for the construction and analysis of systems. The conference aims to bridge the gaps between different communities with this common interest and to support them in their quest to improve the utility, reliability, flexibility and efficiency of tools and algorithms for building systems.  
+ Theoretical papers with clear relevance for tool construction and analysis as well as tool descriptions and case studies with a conceptual message are all encouraged. The topics covered by the conference include, but are not limited to:  
+ specification and verification techniques; 
+  tool environments and tool architectures; 
+  applications and case studies. 
+  Important dates, paper submission and review  
+ The details about paper submission and important dates can be found in the ETAPS joint Call for Papers  .  
+ For the important dates, please check the important dates  .  
+ Competition on software verification  
+ TACAS 2023 will host the next, 12th instance of the Competition on Software Verification, SV-COMP 2023  .  
+ Programme chairs  
+ Natasha Sharygina (University of Lugano, Switzerland) 
+ more  less     
+ Co-located with ETAPS 2023 is the 29th International SPIN Symposium on Model Checking of Software  (SPIN 2023).  
+ SPIN 2023 will be held on 26 and 27 April 2023. SPIN 2023 is the latest in a successful series of workshops and symposia for practitioners and researchers interested in automated tool-based techniques to analyze and model software for the purpose of verification and validation. We invite submissions presenting theoretical results, novel algorithms, tool development, and empirical evaluation.  
+ The deadline for submission of scientific papers is 16 January 2023.  
+ The conference website is located here  .
+4. ESOP_3 conference:
+News 
+  Ph.D. Dissertation Award 
+  Best Paper Award 
+  Board 
+  Statutes 
+  Best Paper Awards Guidelines 
+  Sponsored conferences 
+  Artifact Badges 
+  Join EAPLS 
+ EAPLS  »  Research »  Conferences  »  ESOP 2023 - Call for Papers   
+ ESOP 2023 - Call for Papers  
+  by Thomas Wies, Sept. 6, 2022   
+ ESOP is an annual conference devoted to fundamental issues in the specification, design, analysis, and implementation of programming languages and systems. ESOP seeks contributions on all aspects of programming language research including, but not limited to, the following areas: programming paradigms and styles, methods and tools to specify and reason about programs and languages, programming language foundations, methods and tools for implementation, concurrency and distribution, applications and emerging topics.  
+ Contributions bridging the gap between theory and practice are particularly welcome.  
+  CALL FOR PAPERS  
+ ESOP 2023  
+ organized within  
+  ETAPS 2023  
+ Paris, France, 22-27 April 2023  
+  *******************************************************************************  
+ Scope   
+  ESOP is an annual conference devoted to fundamental issues in the specification, design, analysis, and implementation of programming languages and systems. ESOP seeks contributions on all aspects of programming language research including, but not limited to, the following areas: programming paradigms and styles, methods and tools to specify and reason about programs and languages, programming language foundations, methods and tools for implementation, concurrency and distribution, applications and emerging topics.  
+ Contributions bridging the gap between theory and practice are particularly welcome.  
+ Important Dates AoE (UTC-12)  
+   - Paper submission: October 13, 2022  
+  - Rebuttal: Tuesday 6 December - Thursday 8 December, 2022  
+  - Paper notification: December 22, 2022  
+  - Artifact submission: January 5, 2023  
+  - Paper final version: January 26, 2023  
+  - Artifact notification: February 9, 2023  
+ Conference Submission Link  
+ Submissions and Review Process  
+   ESOP 2023 has just one paper category: regular research papers of maximal 25 pages (excluding bibliography). Submissions are required to follow Springer's LNCS format. Formatting style files and further guidelines for formatting can be found at the Springer website:  
+ Additional material intended for reviewers but not for publication in the final version - for example, details of proofs - may be placed in a clearly marked appendix that is not included in the page limit. Reviewers are at liberty to ignore appendices and papers must be understandable without them.  
+ The review process is double-blind, with a rebuttal phase. In your submission, omit your names and institutions; refer to your prior work in the third person, just as you refer to prior work by others; do not include acknowledgements that might identify you.  
+  Accepted papers will be published in Springer's Lecture Notes in Computer Science series.  
+ Artifacts   
+  ESOP 2023 will have a post-paper-acceptance voluntary artifact evaluation. Authors will be welcome to submit artifacts for evaluation after paper notification. The outcome will not alter the paper acceptance decision.  
+ Program Chair   
+  Thomas Wies (New York University)  
+  News 
+  Ph.D. Dissertation Award 
+  Best Paper Award 
+  Board 
+  Statutes 
+  Best Paper Awards Guidelines 
+  Sponsored conferences 
+  Artifact Badges
+5. ESORICS_0 conference:
+Research in Computer Security  
+ The Hague, The Netherlands  
+ September 25-29, 2023  
+  Registration is open now and the registraion can be done online     
+ Welcome to ESORICS 2023!  
+  Computer security is concerned with the protection of information in environments where there is a possibility of intrusion or malicious action. The aim of ESORICS is to further the progress of research and development in computer security by establishing a European community for bringing together academia and industry in this area. Progressively organized in a series of European countries, the symposium is confirmed as one of the biggest European conferences in computer security. Nowadays, the symposium has also explored the R&D directions on AI, machine learning, privacy-enhancing technology, network security, software, and hardware security, blockchain, smart contract, and real-world applied cryptography.
+6. ESORICS_1 conference:
+Computer Security – ESORICS 2023 | springerprofessional.de  Skip to main content    Menu   Disciplines Chevron down icon     Chevron up icon        Automotive    Business IT + Informatics    Construction + Real Estate    Electrical Engineering + Electronics    Energy + Sustainability    Insurance + Risk    Finance + Banking    Management + Leadership    Marketing + Sales    Mechanical Engineering + Materials      
+ Events       
+ Read chapter  Read first chapter     
+ Computer Security – ESORICS 2023  
+ 28th European Symposium on Research in Computer Security, The Hague, The Netherlands, September 25–29, 2023, Proceedings, Part III  
+ Editors: Gene Tsudik, Mauro Conti, Kaitai Liang, Georgios Smaragdakis   
+ Layered Symbolic Security Analysis in  
+  Abstract   
+ While cryptographic protocols are often analyzed in isolation, they are typically deployed within a stack of protocols, where each layer relies on the security guarantees provided by the protocol layer below it, and in turn provides its own security functionality to the layer above. Formally analyzing the whole stack in one go is infeasible even for semi-automated verification tools, and impossible for pen-and-paper proofs. The \(\textsf {DY}^\star \)  protocol verification framework offers a modular and scalable technique that can reason about large protocols, specified as a set of \(\textsf {F}^\star \)  modules. However, it does not support the compositional  verification of layered protocols since it treats the global security invariants monolithically. In this paper, we extend \(\textsf {DY}^\star \)  with a new methodology that allows analysts to modularly analyze each layer in a way that compose to provide security for a protocol stack. Importantly, our technique allows a layer to be replaced by another implementation, without affecting the proofs of other layers. We demonstrate this methodology on two case studies. We also present a verified library of generic authenticated and confidential communication patterns that can be used in future protocol analyses and is of independent interest.   
+ Karthikeyan Bhargavan, Abhishek Bichhawat, Pedram Hosseyni, Ralf Küsters, Klaas Pruiksma, Guido Schmitz, Clara Waldmann, Tim Würtele   
+  Abstract   
+ The transient-execution attack Meltdown leaks sensitive information by transiently accessing inaccessible data during out-of-order execution. Although Meltdown is fixed in hardware for recent CPU generations, most currently-deployed CPUs have to rely on software mitigations, such as KPTI. Still, Meltdown is considered non-exploitable on current systems.   
+ In this paper, we show that adding another layer of indirection to Meltdown transforms a transient-execution attack into a side-channel attack, leaking metadata instead of data. We show that despite software mitigations, attackers can still leak metadata from other security domains by observing the success rate of Meltdown on non-secret data. With LeakIDT, we present the first cache-line granular monitoring of kernel addresses. LeakIDT allows an attacker to obtain cycle-accurate timestamps for attacker-chosen interrupts.   
+ We use our attack to get accurate inter-keystroke timings and fingerprint visited websites. While we propose a low-overhead software mitigation to prevent the exploitation of LeakIDT, we emphasize that the side-channel aspect of transient-execution attacks should not be underestimated.   
+ A Rowhammer Reproduction Study Using the Blacksmith Fuzzer  
+  Abstract   
+ Rowhammer is a hardware vulnerability that can be exploited to induce bit flips in dynamic random access memory (DRAM), compromising the security of a computer system. Multiple ways of exploiting Rowhammer have been shown and even in the presence of mitigations such as target row refresh (TRR), DRAM modules remain partially vulnerable. In this paper, we present a large-scale reproduction study on the Rowhammer vulnerability using the Blacksmith Rowhammer fuzzer. The main focus of our study is the impact of the fuzzing environment. Our study uses a diverse set of 10 DRAM chips from various manufacturers, with different capacities and memory frequencies. We show that the runtime, used seeds, and DRAM coverage of the fuzzer have been underestimated in previous work. Additionally, we study the entire hardware setup’s impact on the transferability of Rowhammer by fuzzing the same DRAM on 4 identical machines. The transferability study heavily relates to Rowhammer-based physically unclonable functions (PUFs) which rely on the stability of Rowhammer-induced bit flips. Our results confirm the findings of the Blacksmith fuzzer, showing that even modern DRAM chips are vulnerable to Rowhammer. In addition, we show that PUFs are challenging to achieve on commodity systems due to the high variability of Rowhammer bit flips.   
+ Lukas Gerlach, Fabian Thomas, Robert Pietsch, Michael Schwarz   
+  Abstract   
+ In this paper, we analyze Meltdown-CPL-REG on 19 different CPUs from different vendors using an automated tool. We observe that the impact is more diverse than documented and differs from CPU to CPU. Surprisingly, while the newest Intel CPUs do not seem affected by Meltdown-CPL-REG, the newest available AMD CPUs (Zen3+) are still affected by the vulnerability. Furthermore, given our attack primitive CounterLeak, we show that besides up-to-date patches, Meltdown-CPL-REG can still be exploited as we reenable performance-counter-based attacks on cryptographic algorithms, break KASLR, and mount Spectre attacks. Although Meltdown-CPL-REG is not as powerful as other transient-execution attacks, its attack surface should not be underestimated.   
+ Daniel Weber, Fabian Thomas, Lukas Gerlach, Ruiyi Zhang, Michael Schwarz   
+ Tamarin-Based Analysis of Bluetooth Uncovers Two Practical Pairing Confusion Attacks  
+  Abstract   
+ This paper provides a Tamarin-based formal analysis of all key-agreement protocols available in Bluetooth technologies, i.e.  , Bluetooth BR/EDR, Bluetooth Low Energy, and Bluetooth Mesh. The automated analysis found several unreported attacks, including two attacks that exploit the confusion of Pairing modes, which occurs when a communicating party uses the Secure Pairing mode while the other one uses the Legacy Pairing mode. They have been validated in practice using off-the-shelf implementations for the genuine communicating parties, and a custom BR/EDR machine-in-the-middle framework for the attacker. Our attacks have been reported by Bluetooth SIG as CVEs.   
+ Tristan Claverie, Gildas Avoine, Stéphanie Delaune, José Lopes Esteves   
+ Everlasting ROBOT: The Marvin Attack  
+  Abstract   
+ In this paper we show that Bleichenbacher-style attacks on RSA decryption are not only still possible, but also that vulnerable implementations are common. We have successfully attacked multiple implementations using only timing of decryption operation and shown that many others are vulnerable. To perform the attack we used more statistically rigorous techniques like the sign test, Wilcoxon signed-rank test, and bootstrapping of median of pairwise differences. We publish a set of tools for testing libraries that perform RSA decryption against timing side-channel attacks, including one that can test arbitrary TLS servers with no need to write a test harnesses. Finally, we propose a set of workarounds that implementations can employ if they can’t avoid the use of RSA.   
+ Hubert Kario   
+ Bijack: Breaking Bitcoin Network with TCP Vulnerabilities  
+  Abstract   
+ Recent studies have shown that compromising Bitcoin’s peer-to-peer network is an effective way to disrupt the Bitcoin service. While many attack vectors have been uncovered such as BGP hijacking in the network layer and eclipse attack in the application layer, one significant attack vector that resides in the transport layer is largely overlooked. In this paper, we investigate the TCP vulnerabilities of the Bitcoin system and their consequences. We present Bijack, an off-path TCP hijacking attack on the Bitcoin network that is able to terminate Bitcoin connections or inject malicious data into the connections with only a few prior requirements and a limited amount of knowledge. This results in the Bitcoin network topology leakage, and the Bitcoin nodes isolation.   
+ Secure Approximate Nearest Neighbor Search with Locality-Sensitive Hashing  
+  Abstract   
+ Ensuring both security and efficiency in Nearest Neighbor Search (NNS) on large datasets remains a formidable challenge, as it often leads to substantial computation and communication costs due to the resource-intensive nature of ciphertext computations. To date, there have been some solutions that are capable of handling privacy-preserving NNS queries on big datasets. However, these approaches either impose significant communication and computational burdens or compromise security. In this paper, we introduce a novel framework, namely SecureANNS, for secure approximate nearest neighbor search in the semi-honest setting. Our approach begins by enhancing the building blocks of secure NNS, specifically the multiplexer and comparison operations, through oblivious transfer. We then adapt the plaintext Locality-Sensitive Hashing algorithm to select a smaller subset, reducing the need for extensive two-party computation. Finally, we introduce a new bucket retrieval algorithm for efficient subset retrieval. Experimental results on various datasets demonstrate that our SecureANNS achieves a speedup of 4 \(\times \)  and 14 \(\times \)  compared to two state-of-the-art methods respectively.   
+ Shang Song, Lin Liu, Rongmao Chen, Wei Peng, Yi Wang   
+ ConGISATA: A Framework for Continuous Gamified Information Security Awareness Training and Assessment  
+  Abstract   
+ The incidence of cybersecurity attacks utilizing social engineering techniques has increased. Such attacks exploit the fact that in every secure system, there is at least one individual with the means to access sensitive information. Since it is easier to deceive a person than it is to bypass the defense mechanisms in place, these types of attacks have gained popularity. This situation is exacerbated by the fact that people are more likely to take risks in their passive form, i.e., risks that arise due to the failure to perform an action. Passive risk has been identified as a significant threat to cybersecurity. To address these threats, there is a need to strengthen individuals’ information security awareness (ISA). Therefore, we developed ConGISATA - a continuous gamified ISA training and assessment framework based on embedded mobile sensors; a taxonomy for evaluating mobile users’ security awareness served as the basis for the sensors’ design. ConGISATA’s continuous and gradual training process enables users to learn from their real-life mistakes and adapt their behavior accordingly. ConGISATA aims to transform passive risk situations (as perceived by an individual) into active risk situations, as people tend to underestimate the potential impact of passive risks. Our evaluation of the proposed framework demonstrates its ability to improve individuals’ ISA, as assessed by the sensors and in simulations of common attack vectors.   
+ Ofir Cohen, Ron Bitton, Asaf Shabtai, Rami Puzis   
+ Tactics for Account Access Graphs  
+  Abstract   
+ Account access graphs have been proposed as a way to model relationships between user credentials, accounts, and methods of access; they capture both multiple simultaneous access routes (e.g., for multi-factor authentication) as well as multiple alternative access routes (e.g., for account recovery). In this paper we extend the formalism with state transitions and tactics. State transitions capture how access may change over time as users or adversaries use access routes and add or remove credentials and accounts. Tactics allow us to model and document attacker techniques or resilience strategies, by writing small programs. We illustrate these ideas using some attacks against mobile authentication and banking applications which have been publicised in 2023.   
+ Luca Arnaboldi, David Aspinall, Christina Kolb, Saša Radomirović   
+ Metadata   
+ Title  Computer Security – ESORICS 2023    
+ Editors  Gene Tsudik  
+  Mauro Conti
+7. ESORICS_2 conference:
+European Symposium on Research in Computer Security  
+ Home Page  
+  Computer security is concerned with the protection of information in environments where there is a possibility of intrusion or malicious action. The aim of ESORICS is to further the progress of research in computer security by establishing a European forum for bringing together researchers in this area, by promoting the exchange of ideas with system developers and by encouraging links with researchers in related areas.  
+  Progressively organised in a series of European countries, the symposium is confirmed as the European research event in computer security.  
+  ESORICS STEERING COMMITTEE  
+ Joachim Biskup  
+  Frederic Cuppens  
+  Edgar Weippl  
+  ESORICS Steering Committee Terms of Reference  
+ Please download the ESORICS Steering Committee Terms of Reference here  .  
+ Please download the document describing the election process for the chair of the ESORICS Steering Committee here  .  
+ Please download the document describing the election process for new members of the ESORICS Steering Committee here  .  
+  ESORICS Awards  
+ Please download the document describing the ESORICS awards process here  .  
+  2024  
+ ESORICS 2024 Outstanding Research Award: Jaideep Vaidya  
+  ESORICS 2024 Outstanding Contribution Award: Josef Pieprzyk  
+ 2023 ESORICS 2023 Outstanding Research Award: Ronald Cramer  
+  ESORICS 2023 Outstanding Contribution Award: Elisa Bertino  
+ 2022 ESORICS 2022 Outstanding Research Award: Vijay Atluri  
+  ESORICS 2022 Outstanding Contribution Award: Jacques Stern  
+  ESORICS Workshops  
+ Please download the document describing the Guidelines for organizing ESORICS Workshops here  .  
+  Next Edition  
+ ESORICS IN THE FUTURE  
+ Call for Hosts  
+ The aim of ESORICS is to further the progress of research in computer, information and cyber security and in privacy, by establishing a European forum for bringing together researchers in this area, by promoting the exchange of ideas with system developers and by encouraging links with researchers in related areas.  
+  The ESORICS Steering Committee  are looking for prospective organizers (Universities Research centers) to host future editions of ESORICS. We would like to offer the opportunity to help us continue to make ESORICS a memorable experience for a large number of participants, while gaining visibility for your own institution. Joint bids are encouraged, as are applications from countries where ESORICS has not previously been held. The full list of previous ESORICS editions is available here  .  
+  This Call for Hosts is open to prospective organizers who are able to offer: An easily accessible location from across Europe (international airport hub) 
+  Technical support 
+  Support staff for the preparation of ESORICS 
+  Capacity to handle online registration payments 
+  ESORICS is a full-costing event, which means that all costs related to the organization are fully covered by the revenue it raises. In order to do so, the organizers and hosts will rely on two types of funding: revenue from registration fees and support from sponsors. It should be noted that the ESORICS organizers are not-for-profit organizations which means that the financial management will be entirely planned to enable costs to be covered at a minimal risk level with no intention of making a profit on the event. To receive further details on the conditions of hosting ESORICS and the process for submitting a bid, please contact Prof. Joaquin Garcia-Alfaro, chair of the ESORICS Steering Committee at  joaquin.garcia_alfaro@telecom-sudparis.eu  Email address protected by JavaScript.  
+  Please enable JavaScript to contact this user.   .  
+  Bids should provide information on the venue and its capacity in terms of rooms to be used during the conference; tentative dates; technical program, organizing and other committee members; the city/area where the conference is to be held; and accommodation options; and preliminary budget calculations. Bidders will be expected to attend ESORICS and present their bid to the ESORICS Steering Committee. 
+ ESORICS IN THE PAST  
+ Last Editions  
+  Full authors index 
+   Pages maintained by Christophe Zanon (  czanon@laas.fr  Email address protected by JavaScript.  
+  Please enable JavaScript to contact this user.   ), last updated October 2024.
+8. ESWC_0 conference:
+Skip to main content    2023 ESWC-Conferences   
+ Toggle navigation        
+ ESWC 2023 | About 
+  History 
+  Calls | Call for Contributions ESWC 2023 
+  Call for Papers: Research Track 
+  Call for Papers: In-use Track 
+ REGISTRATION    
+  ESWC 2024 General Chair   
+  26. July 2023  25. July 2023     Catia Pesquita      
+ We are very happy to announce the general chair for ESWC 2024: Albert Meroño Peñuela –  we wish Albert all the best with next years organization and are looking forward to see many people again on Crete at the Aldemar Knossos Royal again next year from 26th until 30th May 2024  !  
+  Best Paper Awards   
+  26. June 2023  24. June 2023     Catia Pesquita      
+ We are happy to announce the best paper winners in the different tracks below. Congratulations to all the winners, well deserved!  
+ Best Research  Paper Award Winners:  
+ A Framework to Include and Exploit Probabilistic Information in SHACL Validation Reports | by Rémi Felin, Catherine Faron and Andrea Tettamanzi 
+  Classifying sequences by combining context-free grammars and OWL ontologies | by Nicolas Lazzari, Andrea Poltronieri and Valentina Presutti 
+  Best Resource  Paper Award Winner: HHT: an approach for representing temporally-evolving historical territories  by William Charles, Nathalie Hernandez and Nathalie Aussenac-Gilles  
+ Best In Use  Paper Award Winner: Prototyping an End-User User Interface for the Solid Application Interoperability Specification under GDPR  by Hadrien Bailly, Anoop Papanna and Rob Brennan  
+ Best Poster  Award Winner: RoXi: a Framework for Reactive Reasoning  by Pieter Bonte and Femke Ongenae  
+ Best Demo  Award Winner: GLENDA: Querying over RDF Archives with SPARQL  by Olivier Pelgrin, Ruben Taelman, Luis Galárraga and Katja Hose  
+ Best PhD Symposium  Paper Award Winner: Formalizing Stream Reasoning for a Decentralized Semantic Web  by Mathijs van Noort  
+ Congratulations to everyone!  
+  Reviewer Awards at ESWC 2023   
+  24. June 2023  24. June 2023     Catia Pesquita      
+ We want to thank all PC members of all tracks for making this ESWC possible. A program cannot be put together without the help of all reviewers!  
+ Additionally, we are happy to announce the Reviewer awards for ESWC 2023 and special thanks for the researchers mentioned below for their contributions during the reviewing process!  
+ Research Track:  
+ Best PC member: | Hubert Naacke 
+  Gala Dinner Location/Time Change   
+  31. May 2023  31. May 2023     Catia Pesquita      
+  Mastodon 
+ ESWC 2023 – NEWS  
+ ESWC 2024 General Chair   
+ We are very happy to announce the general chair for... 
+  Best Paper Awards   
+ We are happy to announce the best paper winners in... 
+  Reviewer Awards at ESWC 2023   
+ We want to thank all PC members of all tracks... 
+ Extended Semantic Web Conference ESWC  
+ The ESWC  is a major venue for discussing the latest scientific results and technology innovations around semantic technologies. Building on its past success, ESWC is seeking to broaden its focus to span other relevant related research areas in which Web semantics plays an important role.  
+ Twitter
+9. ESWC_1 conference:
+Skip to main content    
+   European Semantic Web Conference ESWC   
+ Main Menu - Block  
+ Mission   
+  Leveraging the semantics of Web content - enriched with domain theories (ontologies), natural language and multimedia processing, as well as insights into Web usage - will add a qualitatively new level of functionality to the Web. Semantic technologies will weave together a large network of human knowledge and make this knowledge machine-processable as part of novel services and applications. Various automated services, based on reasoning with metadata and ontologies, will help the users to achieve their goals by accessing and processing information in machine-understandable form. This network of knowledge systems will ultimately lead to truly intelligent systems, which will be employed for various complex decision-making tasks. Research about Web semantics can benefit from ideas and cross-fertilization with many other areas: Artificial Intelligence, Natural Language Processing, Database and Information Systems, Information Retrieval, Multimedia, Distributed Systems, Social Networks, Web Engineering, and Web Science.   
+ The mission of the ESWC is to bring together researchers and practitioners in all these areas dealing with different aspects of semantics on the Web.  
+ Find us on
+10. ESWC_3 conference:
+News and Events  /   
+ Events  /   
+ IAS-9 @ Extended Semantic Web Conference (ESWC 2023)   
+ IAS-9 @ Extended Semantic Web Conference (ESWC 2023)  
+ The Extended Semantic Web Conference is a major venue for discussing the latest scientific results and technology innovations around semantic technologies. Building on its past success, ESWC is seeking to broaden its focus to span other relevant related research areas in which Web semantics plays an important role.  
+ Start   
+ The goal of the Semantic Web is to create a Web of knowledge and services in which the semantics of content is made explicit and content is linked to both other content and services allowing novel applications to combine content from heterogeneous sites in unforeseen ways and support enhanced matching between users needs and content. This network of knowledge-based functionality will weave together a large network of human knowledge, and make this knowledge machine-processable to support intelligent behaviour by machines. Creating such an interlinked Web of knowledge which spans unstructured text, structured data as well as multimedia content and services requires the collaboration of many disciplines, including but not limited to: Artificial Intelligence, Natural Language Processing, Databases and Information Systems, Information Retrieval, Machine Learning, Multimedia, Distributed Systems, Social Networks, Web Engineering, and Web Science. These complementarities are reflected in the outline of the technical program of the ESWC 2023  . ESWC 2023 will present the latest results in research, technologies and applications in its field. Besides the technical program organized over numerous tracks, the conference will feature a workshop and tutorial program, system descriptions and demos, a posters exhibition and a doctoral symposium.  
+ Dr. Said Fathalla will be presenting "An Upper Ontology for Modern Science Branches and Related Entities."  
+     Save to calendar (ICS)
+
+output:1. ESEM_1 information:
+2. ESOP_0 information:
+3. ESOP_2 information:
+4. ESOP_3 information:
+5. ESORICS_0 information:
+6. ESORICS_1 information:
+7. ESORICS_2 information:
+8. ESWC_0 information:
+9. ESWC_1 information:
+10. ESWC_3 information:

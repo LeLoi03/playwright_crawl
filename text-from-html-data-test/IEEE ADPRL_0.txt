@@ -1,0 +1,106 @@
+"     
+
+ Home 
+  Symposia 
+  Committee 
+  Author | Paper Submission 
+  Important Dates 
+  Call for Papers 
+  Video Presentation 
+  Program | Conference Program 
+  Plenary Talks 
+  Tutorial/Workshop 
+  Panel Session 
+  Student Activities 
+  Best Paper Awards 
+  Registration 
+  Attend | Venue and Hotel 
+  Travel Information 
+  Travel Grants 
+  Participation Grants 
+  About | Conference Photos 
+  Contract us 
+  History of SSCI 
+  Social Events 
+  IEEE Ethics Reporting 
+  AI Generated Text 
+
+ IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning (IEEE ADPRL)  
+  
+ Adaptive dynamic programming (ADP) and reinforcement learning (RL) are two related paradigms for solving decision making problems where a performance index must be optimized over time. ADP and RL methods are enjoying a growing popularity and success in applications, fueled by their ability to deal with general and complex problems, including features such as uncertainty, stochastic effects, and nonlinearity.  
+  ADP tackles these challenges by developing optimal control methods that adapt to uncertain systems over time. A user-defined cost function is optimized with respect to an adaptive control law, conditioned on prior knowledge of the system and its state, in the presence of uncertainties. A numerical search over the present value of the control minimizes a nonlinear cost function forward-in-time providing a basis for real-time, approximate optimal control. The ability to improve performance over time subject to new or unexplored objectives or dynamics has made ADP successful in applications from optimal control and estimation, operation research, and computational intelligence.  
+  RL takes the perspective of an agent that optimizes its behavior by interacting with its environment and learning from the feedback received. The long-term performance is optimized by learning a value function that predicts the future intake of rewards over time. A core feature of RL is that it does not require any a priori knowledge about the environment. Therefore, the agent must explore parts of the environment it does not know well, while at the same time exploiting its knowledge to maximize performance. RL thus provides a framework for learning to behave optimally in unknown environments, which has already been applied to robotics, game playing, network management and traffic control.  
+  The goal of the IEEE Symposium on ADPRL is to provide an outlet and a forum for interaction between researchers and practitioners in ADP and RL, in which the clear parallels between the two fields are brought together and exploited. We equally welcome contributions from control theory, computer science, operations research, computational intelligence, neuroscience, as well as other novel perspectives on ADPRL. We host original papers on methods, analysis, applications, and overviews of ADPRL. We are interested in applications from engineering, artificial intelligence, economics, medicine, and other relevant fields.  
+ Topics  
+ Deep learning combined with ADPRL 
+  Convergence and performance analysis 
+  RL and ADP-based control 
+  Function approximation and value function representation 
+  Complexity issues in RL and ADP 
+  Policy gradient and actor-critic methods 
+  Direct policy search 
+  Planning and receding-horizon methods 
+  Monte-Carlo tree search and other Monte-Carlo methods 
+  Adaptive feature discovery 
+  Parsimoneous function representation 
+  Statistical learning and PAC bounds for RL 
+  Learning rules and architectures 
+  Bandit techniques for exploration 
+  Bayesian RL and exploration 
+  Finite-sample analysis 
+  Partially observable Markov decision processes 
+  Neuroscience and biologically inspired control 
+  ADP and RL for multiplayer games and multiagent systems 
+  Distributed intelligent systems 
+  Multi-objective optimization for ADPRL 
+  Transfer learning 
+  Applications of ADP and RL 
+  Symposium Chairs  
+ Zhen Ni | zhenni@fau.edu | Florida Atlantic University, USA 
+  Jennie Si | si@asu.edu | Arizona State University, USA 
+  Chaoxu Mu | cxmu@tju.edu.cn | Tianjin University, China 
+  Programme Committee  
+ Ankush Chakrabarty, Mitsubishi Electric Research Labs 
+  Biao Luo, Central South University 
+  Boris Defourny, Lehigh University 
+  Daoyi Dong, University of New South Wales 
+  Derong Liu, Guangdong University of Technology 
+  Ding Wang, Chinese Academy of Sciences 
+  Don Wunsch, Missorui University of Science and Technology 
+  Dongbin Zhao, Chinese Academy of Sciences 
+  Mary He, Cranfield University 
+  Haibo He, University of Rhode Island 
+  Zeng-Guang Hou, Chinese Academy of Sciences 
+  Huaguang Zhang, Northeastern University 
+  Huang Tingwen, Texas A&M University at Qatar, 
+  Ivo Bukovsky, Czech Technical University in Prague 
+  Jens Kober, Delft University of Technology 
+  Jian Fu, Wuhan University of Technology 
+  Kang Li, Queen’s University Belfast 
+  Koichi Moriyama, Research Osaka University 
+  Kyriakos G. Vamvoudakis, Georgia Institute of Technology 
+  Lucian Busoniu, Technical University of Cluj-Napoca 
+  Luo Xiong, University of Science and Technology Beijing (USTB) 
+  Madalina Drugan, Vrije Universiteit Brussel 
+  Martijn Van Otterlo, Vrije Universiteit Amsterdam 
+  Zhen Ni, Florida Atlantic University 
+  Pau-Choo (Julia) Chung, National Cheng Kung University 
+  Qinglai Wei, Chinese Academy of Sciences 
+  Robert Babuska, Delft University of Technology 
+  Tansel Yucelen, Missouri University of Science & Technology 
+  Warren Dixon, University of Florida 
+  Warren Powell, Princeton University 
+  Wen Yu, National Polytechnic Institute 
+  Xiangjun Li, China Electric Power Research Institute 
+  Xiangnan Zhong, Florida Atlantic University 
+  Xin Xu, National University of Defense Technology 
+  Nian Zhang, University of the District of Columbia 
+  Yuanheng Zhu, Chinese Academy of Sciences 
+  Zhanshan Wang, Northeastern University 
+  Zhuo Wang, Hong Kong University of Science and Technology 
+  Chaoxu Mu, Tianjin University 
+  Avijit Das, Florida Atlantic University 
+  Wei Sun, University of Central Florida 
+  Hang Shuai, The University of Tennessee, Knoxville 
+
+ Copyright © 2024 | WordPress Theme by MH Themes

@@ -1,0 +1,1068 @@
+DROPS 
+  Series | LIPIcs – Leibniz International Proceedings in Informatics 
+  OASIcs – Open Access Series in Informatics 
+  Dagstuhl Follow-Ups 
+  Schloss Dagstuhl Jahresbericht 
+   Discontinued Series 
+  Journals | DARTS – Dagstuhl Artifacts Series 
+  Dagstuhl Reports 
+  Dagstuhl Manifestos 
+  LITES – Leibniz Transactions on Embedded Systems 
+  TGDK – Transactions on Graph Data and Knowledge 
+  Conferences | AFT 
+  AIB 
+  AofA 
+  APPROX 
+  ATMOS 
+  CALCO 
+  CCC 
+  CONCUR 
+  COSIT 
+  CP 
+  CPM 
+  CSL 
+  DISC 
+  DITAM 
+  DNA 
+  ECOOP 
+  ECRTS 
+  ESA 
+  FAB 
+  FMBC 
+   FORC 
+  FSCD 
+  FSTTCS 
+  FUN 
+  GD 
+  GIScience 
+  ICALP 
+  ICDT 
+  ICPEC 
+  IPEC 
+  iPMVM 
+  ISAAC 
+  ITC 
+  ITCS 
+  ITP 
+  LDK 
+  MFCS 
+  Microservices 
+  NG-RES 
+  OPODIS 
+   PARMA 
+  RANDOM 
+  SAND 
+  SAT 
+  SEA 
+  SLATE 
+  SNAPL 
+  SoCG 
+  STACS 
+  SWAT 
+  TIME 
+  Tokenomics 
+  TQC 
+  TYPES 
+  WABI 
+  WCET 
+  About DROPS 
+        
+  Metadata Export | Metadata Export 
+  OAI Interface 
+
+   Volume    Export XML 
+  Export ACM-XML 
+  Export DOAJ-XML 
+  Export Schema.org 
+  Export BibTeX 
+  Export HTML 
+
+  LIPIcs, Volume 281  
+ 37th International Symposium on Distributed Computing (DISC 2023)  
+   
+  Part of: | Series: | Leibniz International Proceedings in Informatics (LIPIcs) | Part of: | Conference: | International Symposium on Distributed Computing (DISC) 
+
+ Event  
+ DISC 2023, October 10-12, 2023, L'Aquila, Italy   
+ Editor  
+ Rotem Oshman          
+ Blavatnik School of Computer Science, Tel Aviv University, Israel 
+
+ Publication Details  
+ published at: 2023-10-05 
+  Publisher: Schloss Dagstuhl – Leibniz-Zentrum für Informatik 
+  ISBN: 978-3-95977-301-0 
+  DBLP: | db/conf/wdag/disc2023 
+
+  Access Numbers  
+ Detailed Access Statistics available here 
+  Total Document Accesses (updated on a weekly basis): | 0   PDF Downloads   0   Metadata Views 
+
+ Documents   
+ No documents found matching your filter selection.   
+  Document   
+ Complete Volume   
+ DOI: 10.4230/LIPIcs.DISC.2023    
+
+ LIPIcs, Volume 281, DISC 2023, Complete Volume   
+ Authors:  Rotem Oshman  
+  Abstract    
+ LIPIcs, Volume 281, DISC 2023, Complete Volume   
+
+  Cite as    
+ 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 1-836, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @Proceedings{oshman:LIPIcs.DISC.2023 title = {{LIPIcs, Volume 281, DISC 2023, Complete Volume}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {1--836}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023}, URN = {urn:nbn:de:0030-drops-191258}, doi = {10.4230/LIPIcs.DISC.2023}, annote = {Keywords: LIPIcs, Volume 281, DISC 2023, Complete Volume} }  @Proceedings{oshman:LIPIcs.DISC.2023 title = {{LIPIcs, Volume 281, DISC 2023, Complete Volume}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {1--836}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023}, URN = {urn:nbn:de:0030-drops-191258}, doi = {10.4230/LIPIcs.DISC.2023}, annote = {Keywords: LIPIcs, Volume 281, DISC 2023, Complete Volume} }    
+
+  Document   
+ Front Matter   
+ DOI: 10.4230/LIPIcs.DISC.2023.0    
+
+ Front Matter, Table of Contents, Preface, Conference Organization   
+ Authors:  Rotem Oshman  
+  Abstract    
+ Front Matter, Table of Contents, Preface, Conference Organization   
+
+  Cite as    
+ 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 0:i-0:xx, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{oshman:LIPIcs.DISC.2023.0 author = {Oshman, Rotem}, title = {{Front Matter, Table of Contents, Preface, Conference Organization}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {0:i--0:xx}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.0}, URN = {urn:nbn:de:0030-drops-191265}, doi = {10.4230/LIPIcs.DISC.2023.0}, annote = {Keywords: Front Matter, Table of Contents, Preface, Conference Organization} }  @InProceedings{oshman:LIPIcs.DISC.2023.0 author = {Oshman, Rotem}, title = {{Front Matter, Table of Contents, Preface, Conference Organization}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {0:i--0:xx}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.0}, URN = {urn:nbn:de:0030-drops-191265}, doi = {10.4230/LIPIcs.DISC.2023.0}, annote = {Keywords: Front Matter, Table of Contents, Preface, Conference Organization} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.1    
+
+ Colordag: An Incentive-Compatible Blockchain   
+ Authors:  Ittai Abraham, Danny Dolev, Ittay Eyal, and Joseph Y. Halpern  
+  Abstract    
+ We present Colordag, a blockchain protocol where following the prescribed strategy is, with high probability, a best response as long as all miners have less than 1/2 of the mining power. We prove the correctness of Colordag even if there is an extremely powerful adversary who knows future actions of the scheduler: specifically, when agents will generate blocks and when messages will arrive. The state-of-the-art protocol, Fruitchain, is an ε-Nash equilibrium as long as all miners have less than 1/2 of the mining power. However, there is a simple deviation that guarantees that deviators are never worse off than they would be by following Fruitchain, and can sometimes do better. Thus, agents are motivated to deviate. Colordag implements a solution concept that we call ε-sure Nash equilibrium and does not suffer from this problem. Because it is an ε-sure Nash equilibrium, Colordag is an ε-Nash equilibrium and with probability 1-ε is a best response.   
+
+  Cite as    
+ Ittai Abraham, Danny Dolev, Ittay Eyal, and Joseph Y. Halpern. Colordag: An Incentive-Compatible Blockchain. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 1:1-1:22, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{abraham_et_al:LIPIcs.DISC.2023.1 author = {Abraham, Ittai and Dolev, Danny and Eyal, Ittay and Halpern, Joseph Y.}, title = {{Colordag: An Incentive-Compatible Blockchain}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {1:1--1:22}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.1}, URN = {urn:nbn:de:0030-drops-191272}, doi = {10.4230/LIPIcs.DISC.2023.1}, annote = {Keywords: Game theory, incentives, blockchain} }  @InProceedings{abraham_et_al:LIPIcs.DISC.2023.1 author = {Abraham, Ittai and Dolev, Danny and Eyal, Ittay and Halpern, Joseph Y.}, title = {{Colordag: An Incentive-Compatible Blockchain}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {1:1--1:22}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.1}, URN = {urn:nbn:de:0030-drops-191272}, doi = {10.4230/LIPIcs.DISC.2023.1}, annote = {Keywords: Game theory, incentives, blockchain} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.2    
+
+ Certified Round Complexity of Self-Stabilizing Algorithms   
+ Authors:  Karine Altisen, Pierre Corbineau, and Stéphane Devismes  
+  Abstract    
+ A proof assistant is an appropriate tool to write sound proofs. The need of such tools in distributed computing grows over the years due to the scientific progress that leads algorithmic designers to consider always more difficult problems. In that spirit, the PADEC Coq library has been developed to certify self-stabilizing algorithms. Efficiency of self-stabilizing algorithms is mainly evaluated by comparing their stabilization times in rounds, the time unit that is primarily used in the self-stabilizing area. In this paper, we introduce the notion of rounds in the PADEC library together with several formal tools to help the certification of the complexity analysis of self-stabilizing algorithms. We validate our approach by certifying the stabilization time in rounds of the classical Dolev et al’s self-stabilizing Breadth-first Search spanning tree construction.   
+
+  Cite as    
+ Karine Altisen, Pierre Corbineau, and Stéphane Devismes. Certified Round Complexity of Self-Stabilizing Algorithms. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 2:1-2:22, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{altisen_et_al:LIPIcs.DISC.2023.2 author = {Altisen, Karine and Corbineau, Pierre and Devismes, St\'{e}phane}, title = {{Certified Round Complexity of Self-Stabilizing Algorithms}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {2:1--2:22}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.2}, URN = {urn:nbn:de:0030-drops-191284}, doi = {10.4230/LIPIcs.DISC.2023.2}, annote = {Keywords: Certification, proof assistant, Coq, self-stabilization, round complexity} }  @InProceedings{altisen_et_al:LIPIcs.DISC.2023.2 author = {Altisen, Karine and Corbineau, Pierre and Devismes, St\'{e}phane}, title = {{Certified Round Complexity of Self-Stabilizing Algorithms}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {2:1--2:22}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.2}, URN = {urn:nbn:de:0030-drops-191284}, doi = {10.4230/LIPIcs.DISC.2023.2}, annote = {Keywords: Certification, proof assistant, Coq, self-stabilization, round complexity} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.3    
+
+ Network Agnostic Perfectly Secure MPC Against General Adversaries   
+ Authors:  Ananya Appan, Anirudh Chandramouli, and Ashish Choudhury  
+  Abstract    
+ In this work, we study perfectly-secure multi-party computation (MPC) against general (non-threshold) adversaries. Known protocols are secure against 𝒬^{(3)} and 𝒬^{(4)} adversary structures in a synchronous and an asynchronous network respectively. We address the existence of a single protocol which remains secure against 𝒬^{(3)} and 𝒬^{(4)} adversary structures in a synchronous and in an asynchronous network respectively, where the parties are unaware of the network type. We design the first such protocol against general adversaries. Our result generalizes the result of Appan, Chandramouli and Choudhury (PODC 2022), which presents such a protocol against threshold adversaries.   
+
+  Cite as    
+ Ananya Appan, Anirudh Chandramouli, and Ashish Choudhury. Network Agnostic Perfectly Secure MPC Against General Adversaries. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 3:1-3:19, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{appan_et_al:LIPIcs.DISC.2023.3 author = {Appan, Ananya and Chandramouli, Anirudh and Choudhury, Ashish}, title = {{Network Agnostic Perfectly Secure MPC Against General Adversaries}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {3:1--3:19}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.3}, URN = {urn:nbn:de:0030-drops-191294}, doi = {10.4230/LIPIcs.DISC.2023.3}, annote = {Keywords: Verifiable Secret Sharing, Byzantine Agreement, Perfect Security} }  @InProceedings{appan_et_al:LIPIcs.DISC.2023.3 author = {Appan, Ananya and Chandramouli, Anirudh and Choudhury, Ashish}, title = {{Network Agnostic Perfectly Secure MPC Against General Adversaries}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {3:1--3:19}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.3}, URN = {urn:nbn:de:0030-drops-191294}, doi = {10.4230/LIPIcs.DISC.2023.3}, annote = {Keywords: Verifiable Secret Sharing, Byzantine Agreement, Perfect Security} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.4    
+
+ One Step Forward, One Step Back: FLP-Style Proofs and the Round-Reduction Technique for Colorless Tasks   
+ Authors:  Hagit Attiya, Pierre Fraigniaud, Ami Paz, and Sergio Rajsbaum  
+  Abstract    
+ The paper compares two generic techniques for deriving lower bounds and impossibility results in distributed computing. First, we prove a speedup theorem (a-la Brandt, 2019), for wait-free colorless algorithms, aiming at capturing the essence of the seminal round-reduction proof establishing a lower bound on the number of rounds for 3-coloring a cycle (Linial, 1992), and going by backward induction. Second, we consider FLP-style proofs, aiming at capturing the essence of the seminal consensus impossibility proof (Fischer, Lynch, and Paterson, 1985) and using forward induction. We show that despite their very different natures, these two forms of proof are tightly connected. In particular, we show that for every colorless task Π, if there is a round-reduction proof establishing the impossibility of solving Π using wait-free colorless algorithms, then there is an FLP-style proof establishing the same impossibility. For 1-dimensional colorless tasks (for an arbitrarily number n ≥ 2 of processes), we prove that the two proof techniques have exactly the same power, and more importantly, both are complete: if a 1-dimensional colorless task is not wait-free solvable by n ≥ 2 processes, then the impossibility can be proved by both proof techniques. Moreover, a round-reduction proof can be automatically derived, and an FLP-style proof can be automatically generated from it. Finally, we illustrate the use of these two techniques by establishing the impossibility of solving any colorless covering task of arbitrary dimension by wait-free algorithms.   
+
+  Cite as    
+ Hagit Attiya, Pierre Fraigniaud, Ami Paz, and Sergio Rajsbaum. One Step Forward, One Step Back: FLP-Style Proofs and the Round-Reduction Technique for Colorless Tasks. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 4:1-4:23, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{attiya_et_al:LIPIcs.DISC.2023.4 author = {Attiya, Hagit and Fraigniaud, Pierre and Paz, Ami and Rajsbaum, Sergio}, title = {{One Step Forward, One Step Back: FLP-Style Proofs and the Round-Reduction Technique for Colorless Tasks}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {4:1--4:23}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.4}, URN = {urn:nbn:de:0030-drops-191304}, doi = {10.4230/LIPIcs.DISC.2023.4}, annote = {Keywords: Wait-free computing, lower bounds} }  @InProceedings{attiya_et_al:LIPIcs.DISC.2023.4 author = {Attiya, Hagit and Fraigniaud, Pierre and Paz, Ami and Rajsbaum, Sergio}, title = {{One Step Forward, One Step Back: FLP-Style Proofs and the Round-Reduction Technique for Colorless Tasks}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {4:1--4:23}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.4}, URN = {urn:nbn:de:0030-drops-191304}, doi = {10.4230/LIPIcs.DISC.2023.4}, annote = {Keywords: Wait-free computing, lower bounds} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.5    
+
+ Topological Characterization of Task Solvability in General Models of Computation   
+ Authors:  Hagit Attiya, Armando Castañeda, and Thomas Nowak  
+  Abstract    
+ The famous asynchronous computability theorem (ACT) relates the existence of an asynchronous wait-free shared memory protocol for solving a task with the existence of a simplicial map from a subdivision of the simplicial complex representing the inputs to the simplicial complex representing the allowable outputs. The original theorem relies on a correspondence between protocols and simplicial maps in round-structured models of computation that induce a compact topology. This correspondence, however, is far from obvious for computation models that induce a non-compact topology, and indeed previous attempts to extend the ACT have failed. This paper shows that in every non-compact model, protocols solving tasks correspond to simplicial maps that need to be continuous. It first proves a generalized ACT for sub-IIS models, some of which are non-compact, and applies it to the set agreement task. Then it proves that in general models too, protocols are simplicial maps that need to be continuous, hence showing that the topological approach is universal. Finally, it shows that the approach used in ACT that equates protocols and simplicial complexes actually works for every compact model. Our study combines, for the first time, combinatorial and point-set topological aspects of the executions admitted by the computation model.   
+
+  Cite as    
+ Hagit Attiya, Armando Castañeda, and Thomas Nowak. Topological Characterization of Task Solvability in General Models of Computation. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 5:1-5:21, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{attiya_et_al:LIPIcs.DISC.2023.5 author = {Attiya, Hagit and Casta\~{n}eda, Armando and Nowak, Thomas}, title = {{Topological Characterization of Task Solvability in General Models of Computation}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {5:1--5:21}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.5}, URN = {urn:nbn:de:0030-drops-191315}, doi = {10.4230/LIPIcs.DISC.2023.5}, annote = {Keywords: task solvability, combinatorial topology, point-set topology} }  @InProceedings{attiya_et_al:LIPIcs.DISC.2023.5 author = {Attiya, Hagit and Casta\~{n}eda, Armando and Nowak, Thomas}, title = {{Topological Characterization of Task Solvability in General Models of Computation}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {5:1--5:21}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.5}, URN = {urn:nbn:de:0030-drops-191315}, doi = {10.4230/LIPIcs.DISC.2023.5}, annote = {Keywords: task solvability, combinatorial topology, point-set topology} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.6    
+
+ Base Fee Manipulation in Ethereum’s EIP-1559 Transaction Fee Mechanism   
+ Authors:  Sarah Azouvi, Guy Goren, Lioba Heimbach, and Alexander Hicks  
+  Abstract    
+ In 2021 Ethereum adjusted the transaction pricing mechanism by implementing EIP-1559, which introduces the base fee - a network fee that is burned and dynamically adjusts to the network demand. The authors of the Ethereum Improvement Proposal (EIP) noted that a miner with more than 50% of the mining power could be incentivized to deviate from the honest mining strategy. Instead, such a miner could propose a series of empty blocks to artificially lower demand and increase her future rewards. In this paper, we generalize this attack and show that under rational player behavior, deviating from the honest strategy can be profitable for a miner with less than 50% of the mining power. We show that even when miners do not collaborate, it is at times rational for smaller miners to join the attack. Finally, we propose a mitigation to address the identified vulnerability.   
+
+  Cite as    
+ Sarah Azouvi, Guy Goren, Lioba Heimbach, and Alexander Hicks. Base Fee Manipulation in Ethereum’s EIP-1559 Transaction Fee Mechanism. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 6:1-6:22, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{azouvi_et_al:LIPIcs.DISC.2023.6 author = {Azouvi, Sarah and Goren, Guy and Heimbach, Lioba and Hicks, Alexander}, title = {{Base Fee Manipulation in Ethereum’s EIP-1559 Transaction Fee Mechanism}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {6:1--6:22}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.6}, URN = {urn:nbn:de:0030-drops-191325}, doi = {10.4230/LIPIcs.DISC.2023.6}, annote = {Keywords: blockchain, Ethereum, transaction fee mechanism, EIP-1559} }  @InProceedings{azouvi_et_al:LIPIcs.DISC.2023.6 author = {Azouvi, Sarah and Goren, Guy and Heimbach, Lioba and Hicks, Alexander}, title = {{Base Fee Manipulation in Ethereum’s EIP-1559 Transaction Fee Mechanism}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {6:1--6:22}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.6}, URN = {urn:nbn:de:0030-drops-191325}, doi = {10.4230/LIPIcs.DISC.2023.6}, annote = {Keywords: blockchain, Ethereum, transaction fee mechanism, EIP-1559} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.7    
+
+ On the Node-Averaged Complexity of Locally Checkable Problems on Trees   
+ Authors:  Alkida Balliu, Sebastian Brandt, Fabian Kuhn, Dennis Olivetti, and Gustav Schmid  
+  Abstract    
+ Over the past decade, a long line of research has investigated the distributed complexity landscape of locally checkable labeling (LCL) problems on bounded-degree graphs, culminating in an almost-complete classification on general graphs and a complete classification on trees. The latter states that, on bounded-degree trees, any LCL problem has deterministic worst-case time complexity O(1), Θ(log^* n), Θ(log n), or Θ(n^{1/k}) for some positive integer k, and all of those complexity classes are nonempty. Moreover, randomness helps only for (some) problems with deterministic worst-case complexity Θ(log n), and if randomness helps (asymptotically), then it helps exponentially. In this work, we study how many distributed rounds are needed on average per node in order to solve an LCL problem on trees. We obtain a partial classification of the deterministic node-averaged complexity landscape for LCL problems. As our main result, we show that every problem with worst-case round complexity O(log n) has deterministic node-averaged complexity O(log^* n). We further establish bounds on the node-averaged complexity of problems with worst-case complexity Θ(n^{1/k}): we show that all these problems have node-averaged complexity Ω̃(n^{1 / (2^k - 1)}), and that this lower bound is tight for some problems.   
+
+  Cite as    
+ Alkida Balliu, Sebastian Brandt, Fabian Kuhn, Dennis Olivetti, and Gustav Schmid. On the Node-Averaged Complexity of Locally Checkable Problems on Trees. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 7:1-7:21, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{balliu_et_al:LIPIcs.DISC.2023.7 author = {Balliu, Alkida and Brandt, Sebastian and Kuhn, Fabian and Olivetti, Dennis and Schmid, Gustav}, title = {{On the Node-Averaged Complexity of Locally Checkable Problems on Trees}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {7:1--7:21}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.7}, URN = {urn:nbn:de:0030-drops-191330}, doi = {10.4230/LIPIcs.DISC.2023.7}, annote = {Keywords: distributed graph algorithms, locally checkable labelings, node-averaged complexity, trees} }  @InProceedings{balliu_et_al:LIPIcs.DISC.2023.7 author = {Balliu, Alkida and Brandt, Sebastian and Kuhn, Fabian and Olivetti, Dennis and Schmid, Gustav}, title = {{On the Node-Averaged Complexity of Locally Checkable Problems on Trees}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {7:1--7:21}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.7}, URN = {urn:nbn:de:0030-drops-191330}, doi = {10.4230/LIPIcs.DISC.2023.7}, annote = {Keywords: distributed graph algorithms, locally checkable labelings, node-averaged complexity, trees} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.8    
+
+ Treasure Hunt with Volatile Pheromones   
+ Authors:  Evangelos Bampas, Joffroy Beauquier, Janna Burman, and William Guy--Obé  
+  Abstract    
+ In the treasure hunt problem, a team of mobile agents need to locate a single treasure that is hidden in their environment. We consider the problem in the discrete setting of an oriented infinite rectangular grid, where agents are modeled as synchronous identical deterministic time-limited finite-state automata, originating at a rate of one agent per round from the origin. Agents perish τ rounds after their creation, where τ ≥ 1 is a parameter of the model. An algorithm solves the treasure hunt problem if every grid position at distance τ or less from the origin is visited by at least one agent. Agents may communicate only by leaving indistinguishable traces (pheromone) on the nodes of the grid, which can be sensed by agents in adjacent nodes and thus modify their behavior. The novelty of our approach is that, in contrast to existing literature that uses permanent pheromone markers, we assume that pheromone traces evaporate over μ rounds from the moment they were placed on a node, where μ ≥ 1 is another parameter of the model. We look for uniform algorithms that solve the problem without knowledge of the parameter values, and we investigate the implications of this very weak communication mechanism to the treasure hunt problem. We show that, if pheromone persists for at least two rounds (μ ≥ 2), then there exists a treasure hunt algorithm for all values of agent lifetime. We also develop a more sophisticated algorithm that works for all values of μ, hence also for the fastest possible pheromone evaporation of μ = 1, but only if agent lifetime is at least 16.   
+
+  Cite as    
+ Evangelos Bampas, Joffroy Beauquier, Janna Burman, and William Guy--Obé. Treasure Hunt with Volatile Pheromones. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 8:1-8:21, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{bampas_et_al:LIPIcs.DISC.2023.8 author = {Bampas, Evangelos and Beauquier, Joffroy and Burman, Janna and Guy--Ob\'{e}, William}, title = {{Treasure Hunt with Volatile Pheromones}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {8:1--8:21}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.8}, URN = {urn:nbn:de:0030-drops-191343}, doi = {10.4230/LIPIcs.DISC.2023.8}, annote = {Keywords: Mobile Agents, Exploration, Search, Treasure Hunt, Pheromone, Evaporation} }  @InProceedings{bampas_et_al:LIPIcs.DISC.2023.8 author = {Bampas, Evangelos and Beauquier, Joffroy and Burman, Janna and Guy--Ob\'{e}, William}, title = {{Treasure Hunt with Volatile Pheromones}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {8:1--8:21}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.8}, URN = {urn:nbn:de:0030-drops-191343}, doi = {10.4230/LIPIcs.DISC.2023.8}, annote = {Keywords: Mobile Agents, Exploration, Search, Treasure Hunt, Pheromone, Evaporation} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.9    
+
+ The FIDS Theorems: Tensions Between Multinode and Multicore Performance in Transactional Systems   
+ Authors:  Naama Ben-David, Gal Sela, and Adriana Szekeres  
+  Abstract    
+ Traditionally, distributed and parallel transactional systems have been studied in isolation, as they targeted different applications and experienced different bottlenecks. However, modern high-bandwidth networks have made the study of systems that are both distributed (i.e., employ multiple nodes) and parallel (i.e., employ multiple cores per node) necessary to truly make use of the available hardware. In this paper, we study the performance of these combined systems and show that there are inherent tradeoffs between a system’s ability to have fast and robust distributed communication and its ability to scale to multiple cores. More precisely, we formalize the notions of a fast deciding path of communication to commit transactions quickly in good executions, and seamless fault tolerance that allows systems to remain robust to server failures. We then show that there is an inherent tension between these two natural distributed properties and well-known multicore scalability properties in transactional systems. Finally, we show positive results; it is possible to construct a parallel distributed transactional system if any one of the properties we study is removed.   
+
+  Cite as    
+ Naama Ben-David, Gal Sela, and Adriana Szekeres. The FIDS Theorems: Tensions Between Multinode and Multicore Performance in Transactional Systems. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 9:1-9:24, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{bendavid_et_al:LIPIcs.DISC.2023.9 author = {Ben-David, Naama and Sela, Gal and Szekeres, Adriana}, title = {{The FIDS Theorems: Tensions Between Multinode and Multicore Performance in Transactional Systems}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {9:1--9:24}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.9}, URN = {urn:nbn:de:0030-drops-191355}, doi = {10.4230/LIPIcs.DISC.2023.9}, annote = {Keywords: transactions, distributed systems, parallel systems, impossibility results} }  @InProceedings{bendavid_et_al:LIPIcs.DISC.2023.9 author = {Ben-David, Naama and Sela, Gal and Szekeres, Adriana}, title = {{The FIDS Theorems: Tensions Between Multinode and Multicore Performance in Transactional Systems}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {9:1--9:24}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.9}, URN = {urn:nbn:de:0030-drops-191355}, doi = {10.4230/LIPIcs.DISC.2023.9}, annote = {Keywords: transactions, distributed systems, parallel systems, impossibility results} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.10    
+
+ Communication Lower Bounds for Cryptographic Broadcast Protocols   
+ Authors:  Erica Blum, Elette Boyle, Ran Cohen, and Chen-Da Liu-Zhang  
+  Abstract    
+ Broadcast protocols enable a set of n parties to agree on the input of a designated sender, even in the face of malicious parties who collude to attack the protocol. In the honest-majority setting, a fruitful line of work harnessed randomization and cryptography to achieve low-communication broadcast protocols with sub-quadratic total communication and with "balanced" sub-linear communication cost per party. However, comparatively little is known in the dishonest-majority setting. Here, the most communication-efficient constructions are based on the protocol of Dolev and Strong (SICOMP '83), and sub-quadratic broadcast has not been achieved even using randomization and cryptography. On the other hand, the only nontrivial ω(n) communication lower bounds are restricted to deterministic protocols, or against strong adaptive adversaries that can perform "after the fact" removal of messages. We provide communication lower bounds in this space, which hold against arbitrary cryptography and setup assumptions, as well as a simple protocol showing near tightness of our first bound. - Static adversary. We demonstrate a tradeoff between resiliency and communication for randomized protocols secure against n-o(n) static corruptions. For example, Ω(n⋅ polylog(n)) messages are needed when the number of honest parties is n/polylog(n); Ω(n√n) messages are needed for O(√n) honest parties; and Ω(n²) messages are needed for O(1) honest parties. Complementarily, we demonstrate broadcast with O(n⋅polylog(n)) total communication and balanced polylog(n) per-party cost, facing any constant fraction of static corruptions. - Weakly adaptive adversary. Our second bound considers n/2 + k corruptions and a weakly adaptive adversary that cannot remove messages "after the fact." We show that any broadcast protocol within this setting can be attacked to force an arbitrary party to send messages to k other parties. Our bound implies limitations on the feasibility of balanced low-communication protocols: For example, ruling out broadcast facing 51% corruptions, in which all non-sender parties have sublinear communication locality.   
+
+  Cite as    
+ Erica Blum, Elette Boyle, Ran Cohen, and Chen-Da Liu-Zhang. Communication Lower Bounds for Cryptographic Broadcast Protocols. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 10:1-10:19, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{blum_et_al:LIPIcs.DISC.2023.10 author = {Blum, Erica and Boyle, Elette and Cohen, Ran and Liu-Zhang, Chen-Da}, title = {{Communication Lower Bounds for Cryptographic Broadcast Protocols}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {10:1--10:19}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.10}, URN = {urn:nbn:de:0030-drops-191361}, doi = {10.4230/LIPIcs.DISC.2023.10}, annote = {Keywords: broadcast, communication complexity, lower bounds, dishonest majority} }  @InProceedings{blum_et_al:LIPIcs.DISC.2023.10 author = {Blum, Erica and Boyle, Elette and Cohen, Ran and Liu-Zhang, Chen-Da}, title = {{Communication Lower Bounds for Cryptographic Broadcast Protocols}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {10:1--10:19}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.10}, URN = {urn:nbn:de:0030-drops-191361}, doi = {10.4230/LIPIcs.DISC.2023.10}, annote = {Keywords: broadcast, communication complexity, lower bounds, dishonest majority} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.11    
+
+ Time and Space Optimal Massively Parallel Algorithm for the 2-Ruling Set Problem   
+ Authors:  Mélanie Cambus, Fabian Kuhn, Shreyas Pai, and Jara Uitto  
+  Abstract    
+ In this work, we present a constant-round algorithm for the 2-ruling set problem in the Congested Clique model. As a direct consequence, we obtain a constant round algorithm in the MPC model with linear space-per-machine and optimal total space. Our results improve on the O(log log log n)-round algorithm by [HPS, DISC'14] and the O(log log Δ)-round algorithm by [GGKMR, PODC'18]. Our techniques can also be applied to the semi-streaming model to obtain an O(1)-pass algorithm. Our main technical contribution is a novel sampling procedure that returns a small subgraph such that almost all nodes in the input graph are adjacent to the sampled subgraph. An MIS on the sampled subgraph provides a 2-ruling set for a large fraction of the input graph. As a technical challenge, we must handle the remaining part of the graph, which might still be relatively large. We overcome this challenge by showing useful structural properties of the remaining graph and show that running our process twice yields a 2-ruling set of the original input graph with high probability.   
+
+  Cite as    
+ Mélanie Cambus, Fabian Kuhn, Shreyas Pai, and Jara Uitto. Time and Space Optimal Massively Parallel Algorithm for the 2-Ruling Set Problem. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 11:1-11:12, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{cambus_et_al:LIPIcs.DISC.2023.11 author = {Cambus, M\'{e}lanie and Kuhn, Fabian and Pai, Shreyas and Uitto, Jara}, title = {{Time and Space Optimal Massively Parallel Algorithm for the 2-Ruling Set Problem}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {11:1--11:12}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.11}, URN = {urn:nbn:de:0030-drops-191378}, doi = {10.4230/LIPIcs.DISC.2023.11}, annote = {Keywords: Ruling Sets, Parallel Algorithms, Congested Clique, Massively Parallel Computing, Semi-Streaming} }  @InProceedings{cambus_et_al:LIPIcs.DISC.2023.11 author = {Cambus, M\'{e}lanie and Kuhn, Fabian and Pai, Shreyas and Uitto, Jara}, title = {{Time and Space Optimal Massively Parallel Algorithm for the 2-Ruling Set Problem}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {11:1--11:12}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.11}, URN = {urn:nbn:de:0030-drops-191378}, doi = {10.4230/LIPIcs.DISC.2023.11}, annote = {Keywords: Ruling Sets, Parallel Algorithms, Congested Clique, Massively Parallel Computing, Semi-Streaming} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.12    
+
+ Self-Stabilizing Clock Synchronization in Probabilistic Networks   
+ Authors:  Bernadette Charron-Bost and Louis Penet de Monterno  
+  Abstract    
+ We consider the fundamental problem of clock synchronization in a synchronous multi-agent system. Each agent holds a clock with an arbitrary initial value, and clocks must eventually indicate the same value, modulo some integer P. A known solution for this problem in dynamic networks is the self-stabilization SAP (for self-adaptive period) algorithm, which uses finite memory and relies solely on the assumption of a finite dynamic diameter in the communication network. This paper extends the results on this algorithm to probabilistic communication networks: We introduce the concept of strong connectivity with high probability and we demonstrate that in any probabilistic communication network satisfying this hypothesis, the SAP algorithm synchronizes clocks with high probability. The proof of such a probabilistic hyperproperty is based on novel tools and relies on weak assumptions about the probabilistic communication network, making it applicable to a wide range of networks, including the classical push model. We provide an upper bound on time and space complexity. Building upon previous works by Feige et al. and Pittel, the paper provides solvability results and evaluates the stabilization time and space complexity of SAP in two specific cases of communication topologies.   
+
+  Cite as    
+ Bernadette Charron-Bost and Louis Penet de Monterno. Self-Stabilizing Clock Synchronization in Probabilistic Networks. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 12:1-12:18, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{charronbost_et_al:LIPIcs.DISC.2023.12 author = {Charron-Bost, Bernadette and Penet de Monterno, Louis}, title = {{Self-Stabilizing Clock Synchronization in Probabilistic Networks}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {12:1--12:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.12}, URN = {urn:nbn:de:0030-drops-191389}, doi = {10.4230/LIPIcs.DISC.2023.12}, annote = {Keywords: Self-stabilization, Clock synchronization, Probabilistic networks} }  @InProceedings{charronbost_et_al:LIPIcs.DISC.2023.12 author = {Charron-Bost, Bernadette and Penet de Monterno, Louis}, title = {{Self-Stabilizing Clock Synchronization in Probabilistic Networks}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {12:1--12:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.12}, URN = {urn:nbn:de:0030-drops-191389}, doi = {10.4230/LIPIcs.DISC.2023.12}, annote = {Keywords: Self-stabilization, Clock synchronization, Probabilistic networks} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.13    
+
+ Every Bit Counts in Consensus   
+ Authors:  Pierre Civit, Seth Gilbert, Rachid Guerraoui, Jovan Komatovic, Matteo Monti, and Manuel Vidigueira  
+  Abstract    
+ Consensus enables n processes to agree on a common valid L-bit value, despite t < n/3 processes being faulty and acting arbitrarily. A long line of work has been dedicated to improving the worst-case communication complexity of consensus in partial synchrony. This has recently culminated in the worst-case word complexity of O(n²). However, the worst-case bit complexity of the best solution is still O(n²L + n²κ) (where κ is the security parameter), far from the Ω(nL + n²) lower bound. The gap is significant given the practical use of consensus primitives, where values typically consist of batches of large size (L > n). This paper shows how to narrow the aforementioned gap. Namely, we present a new algorithm, DARE (Disperse, Agree, REtrieve), that improves upon the O(n²L) term via a novel dispersal primitive. DARE achieves O(n^{1.5}L + n^{2.5}κ) bit complexity, an effective √n-factor improvement over the state-of-the-art (when L > nκ). Moreover, we show that employing heavier cryptographic primitives, namely STARK proofs, allows us to devise DARE-Stark, a version of DARE which achieves the near-optimal bit complexity of O(nL + n²poly(κ)). Both DARE and DARE-Stark achieve optimal O(n) worst-case latency.   
+
+  Cite as    
+ Pierre Civit, Seth Gilbert, Rachid Guerraoui, Jovan Komatovic, Matteo Monti, and Manuel Vidigueira. Every Bit Counts in Consensus. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 13:1-13:26, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{civit_et_al:LIPIcs.DISC.2023.13 author = {Civit, Pierre and Gilbert, Seth and Guerraoui, Rachid and Komatovic, Jovan and Monti, Matteo and Vidigueira, Manuel}, title = {{Every Bit Counts in Consensus}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {13:1--13:26}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.13}, URN = {urn:nbn:de:0030-drops-191399}, doi = {10.4230/LIPIcs.DISC.2023.13}, annote = {Keywords: Byzantine consensus, Bit complexity, Latency} }  @InProceedings{civit_et_al:LIPIcs.DISC.2023.13 author = {Civit, Pierre and Gilbert, Seth and Guerraoui, Rachid and Komatovic, Jovan and Monti, Matteo and Vidigueira, Manuel}, title = {{Every Bit Counts in Consensus}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {13:1--13:26}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.13}, URN = {urn:nbn:de:0030-drops-191399}, doi = {10.4230/LIPIcs.DISC.2023.13}, annote = {Keywords: Byzantine consensus, Bit complexity, Latency} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.14    
+
+ Efficient Collaborative Tree Exploration with Breadth-First Depth-Next   
+ Authors:  Romain Cosson, Laurent Massoulié, and Laurent Viennot  
+  Abstract    
+ We study the problem of collaborative tree exploration introduced by Fraigniaud, Gasieniec, Kowalski, and Pelc [Pierre Fraigniaud et al., 2006] where a team of k agents is tasked to collectively go through all the edges of an unknown tree as fast as possible and return to the root. Denoting by n the total number of nodes and by D the tree depth, the 𝒪(n/log(k)+D) algorithm of [Pierre Fraigniaud et al., 2006] achieves a 𝒪(k/log(k)) competitive ratio with respect to the cost of offline exploration which is at least max{{2n/k,2D}}. Brass, Cabrera-Mora, Gasparri, and Xiao [Peter Brass et al., 2011] study an alternative performance criterion, the competitive overhead with respect to the cost of offline exploration, with their 2n/k+𝒪((D+k)^k) guarantee. In this paper, we introduce "Breadth-First Depth-Next" (BFDN), a novel and simple algorithm that performs collaborative tree exploration in 2n/k+𝒪(D²log(k)) rounds, thus outperforming [Peter Brass et al., 2011] for all values of (n,D,k) and being order-optimal for trees of depth D = o(√n). Our analysis relies on a two-player game reflecting a problem of online resource allocation that could be of independent interest. We extend the guarantees of BFDN to: scenarios with limited memory and communication, adversarial setups where robots can be blocked, and exploration of classes of non-tree graphs. Finally, we provide a recursive version of BFDN with a runtime of 𝒪_𝓁(n/k^{1/𝓁}+log(k) D^{1+1/𝓁}) for parameter 𝓁 ≥ 1, thereby improving performance for trees with large depth.   
+
+  Cite as    
+ Romain Cosson, Laurent Massoulié, and Laurent Viennot. Efficient Collaborative Tree Exploration with Breadth-First Depth-Next. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 14:1-14:21, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{cosson_et_al:LIPIcs.DISC.2023.14 author = {Cosson, Romain and Massouli\'{e}, Laurent and Viennot, Laurent}, title = {{Efficient Collaborative Tree Exploration with Breadth-First Depth-Next}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {14:1--14:21}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.14}, URN = {urn:nbn:de:0030-drops-191409}, doi = {10.4230/LIPIcs.DISC.2023.14}, annote = {Keywords: collaborative exploration, online algorithms, trees, adversarial game, competitive analysis, robot swarms} }  @InProceedings{cosson_et_al:LIPIcs.DISC.2023.14 author = {Cosson, Romain and Massouli\'{e}, Laurent and Viennot, Laurent}, title = {{Efficient Collaborative Tree Exploration with Breadth-First Depth-Next}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {14:1--14:21}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.14}, URN = {urn:nbn:de:0030-drops-191409}, doi = {10.4230/LIPIcs.DISC.2023.14}, annote = {Keywords: collaborative exploration, online algorithms, trees, adversarial game, competitive analysis, robot swarms} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.15    
+
+ A Topology by Geometrization for Sub-Iterated Immediate Snapshot Message Adversaries and Applications to Set-Agreement   
+ Authors:  Yannis Coutouly and Emmanuel Godard  
+  Abstract    
+ The Iterated Immediate Snapshot model (IIS) is a central model in the message adversary setting. We consider general message adversaries whose executions are arbitrary subsets of the executions of the IIS message adversary. We present a complete and explicit characterization and lower bounds for solving set-agreement for general sub-IIS message adversaries. In order to have this characterization, we introduce a new topological approach for such general adversaries, closely associating executions to geometric simplicial complexes. This way, it is possible to define and explicitly construct a topology directly on the considered sets of executions. We believe this topology by geometrization to be of independent interest and a good candidate to investigate distributed computability in general sub-IIS message adversaries, as this could provide both simpler and more powerful ways of using topology for distributed computability.   
+
+  Cite as    
+ Yannis Coutouly and Emmanuel Godard. A Topology by Geometrization for Sub-Iterated Immediate Snapshot Message Adversaries and Applications to Set-Agreement. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 15:1-15:20, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{coutouly_et_al:LIPIcs.DISC.2023.15 author = {Coutouly, Yannis and Godard, Emmanuel}, title = {{A Topology by Geometrization for Sub-Iterated Immediate Snapshot Message Adversaries and Applications to Set-Agreement}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {15:1--15:20}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.15}, URN = {urn:nbn:de:0030-drops-191417}, doi = {10.4230/LIPIcs.DISC.2023.15}, annote = {Keywords: topological methods, geometric simplicial complex, set-agreement} }  @InProceedings{coutouly_et_al:LIPIcs.DISC.2023.15 author = {Coutouly, Yannis and Godard, Emmanuel}, title = {{A Topology by Geometrization for Sub-Iterated Immediate Snapshot Message Adversaries and Applications to Set-Agreement}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {15:1--15:20}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.15}, URN = {urn:nbn:de:0030-drops-191417}, doi = {10.4230/LIPIcs.DISC.2023.15}, annote = {Keywords: topological methods, geometric simplicial complex, set-agreement} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.16    
+
+ Send/Receive Patterns Versus Read/Write Patterns in Crash-Prone Asynchronous Distributed Systems   
+ Authors:  Mathilde Déprés, Achour Mostéfaoui, Matthieu Perrin, and Michel Raynal  
+  Abstract    
+ This paper is on the power and computability limits of messages patterns in crash-prone asynchronous message-passing systems. It proposes and investigates three basic messages patterns (encountered in all these systems) each involving two processes, and compares them to their Read/Write counterparts. It is first shown that one of these patterns has no Read/Write counterpart. The paper proposes then a new one-to-all broadcast abstraction, denoted Mutual Broadcast (in short MBroadcast), whose implementation relies on two of the previous messages patterns. This abstraction provides each pair of processes with the following property (called mutual ordering): for any pair of processes p and p', if p broadcasts a message m and p' broadcasts a message m', it is not possible for p to deliver first (its message) m and then m' while p' delivers first (its message) m' and then m. It is shown that MBroadcast and atomic Read/Write registers have the same computability power (independently of the number of crashes). Finally, in addition to its theoretical contribution, the practical interest of MBroadcast is illustrated by its (very simple) use to solve basic upper level coordination problems such as mutual exclusion and consensus. Last but not least, looking for simplicity was also a target of this article.   
+
+  Cite as    
+ Mathilde Déprés, Achour Mostéfaoui, Matthieu Perrin, and Michel Raynal. Send/Receive Patterns Versus Read/Write Patterns in Crash-Prone Asynchronous Distributed Systems. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 16:1-16:24, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{depres_et_al:LIPIcs.DISC.2023.16 author = {D\'{e}pr\'{e}s, Mathilde and Most\'{e}faoui, Achour and Perrin, Matthieu and Raynal, Michel}, title = {{Send/Receive Patterns Versus Read/Write Patterns in Crash-Prone Asynchronous Distributed Systems}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {16:1--16:24}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.16}, URN = {urn:nbn:de:0030-drops-191420}, doi = {10.4230/LIPIcs.DISC.2023.16}, annote = {Keywords: Asynchrony, Atomicity, Broadcast abstraction, Characterization, Consensus, Crash failure, Distributed Computability, Distributed software engineering, Computability, Lattice agreement, Message-passing, Message pattern, Mutual exclusion, Quorum, Read/write pattern, Read/Write register, Test\&Set, Simplicity, Two-process communication} }  @InProceedings{depres_et_al:LIPIcs.DISC.2023.16 author = {D\'{e}pr\'{e}s, Mathilde and Most\'{e}faoui, Achour and Perrin, Matthieu and Raynal, Michel}, title = {{Send/Receive Patterns Versus Read/Write Patterns in Crash-Prone Asynchronous Distributed Systems}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {16:1--16:24}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.16}, URN = {urn:nbn:de:0030-drops-191420}, doi = {10.4230/LIPIcs.DISC.2023.16}, annote = {Keywords: Asynchrony, Atomicity, Broadcast abstraction, Characterization, Consensus, Crash failure, Distributed Computability, Distributed software engineering, Computability, Lattice agreement, Message-passing, Message pattern, Mutual exclusion, Quorum, Read/write pattern, Read/Write register, Test\&Set, Simplicity, Two-process communication} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.17    
+
+ Modular Recoverable Mutual Exclusion Under System-Wide Failures   
+ Authors:  Sahil Dhoked, Wojciech Golab, and Neeraj Mittal  
+  Abstract    
+ Recoverable mutual exclusion (RME) is a fault-tolerant variation of Dijkstra’s classic mutual exclusion (ME) problem that allows processes to fail by crashing as long as they recover eventually. A growing body of literature on this topic, starting with the problem formulation by Golab and Ramaraju (PODC'16), examines the cost of solving the RME problem, which is quantified by counting the expensive shared memory operations called remote memory references (RMRs), under a variety of conditions. Published results show that the RMR complexity of RME algorithms, among other factors, depends crucially on the failure model used: individual process versus system-wide. Recent work by Golab and Hendler (PODC'18) also suggests that explicit failure detection can be helpful in attaining constant RMR solutions to the RME problem in the system-wide failure model. Follow-up work by Jayanti, Jayanti, and Joshi (SPAA'23) shows that such a solution exists even without employing a failure detector, albeit this solution uses a more complex algorithmic approach. In this work, we dive deeper into the study of RMR-optimal RME algorithms for the system-wide failure model, and present contributions along multiple directions. First, we introduce the notion of withdrawing from a lock acquisition rather than resetting the lock. We use this notion to design a withdrawable RME algorithm with optimal O(1) RMR complexity for both cache-coherent (CC) and distributed shared memory (DSM) models in a modular way without using an explicit failure detector. In some sense, our technique marries the simplicity of Golab and Hendler’s algorithm with Jayanti, Jayanti and Joshi’s weaker system model. Second, we present a variation of our algorithm that supports fully dynamic process participation (i.e., both joining and leaving) in the CC model, while maintaining its constant RMR complexity. We show experimentally that our algorithm is substantially faster than Jayanti, Jayanti, and Joshi’s algorithm despite having stronger correctness properties. Finally, we establish an impossibility result for fully dynamic RME algorithms with bounded RMR complexity in the DSM model that are adaptive with respect to space, and provide a wait-free withdraw section.   
+
+  Cite as    
+ Sahil Dhoked, Wojciech Golab, and Neeraj Mittal. Modular Recoverable Mutual Exclusion Under System-Wide Failures. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 17:1-17:24, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{dhoked_et_al:LIPIcs.DISC.2023.17 author = {Dhoked, Sahil and Golab, Wojciech and Mittal, Neeraj}, title = {{Modular Recoverable Mutual Exclusion Under System-Wide Failures}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {17:1--17:24}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.17}, URN = {urn:nbn:de:0030-drops-191431}, doi = {10.4230/LIPIcs.DISC.2023.17}, annote = {Keywords: mutual exclusion, shared memory, persistent memory, fault tolerance, system-wide failure, RMR complexity, dynamic joining, dynamic leaving} }  @InProceedings{dhoked_et_al:LIPIcs.DISC.2023.17 author = {Dhoked, Sahil and Golab, Wojciech and Mittal, Neeraj}, title = {{Modular Recoverable Mutual Exclusion Under System-Wide Failures}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {17:1--17:24}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.17}, URN = {urn:nbn:de:0030-drops-191431}, doi = {10.4230/LIPIcs.DISC.2023.17}, annote = {Keywords: mutual exclusion, shared memory, persistent memory, fault tolerance, system-wide failure, RMR complexity, dynamic joining, dynamic leaving} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.18    
+
+ Optimal Computation in Leaderless and Multi-Leader Disconnected Anonymous Dynamic Networks   
+ Authors:  Giuseppe A. Di Luna and Giovanni Viglietta  
+  Abstract    
+ We give a simple characterization of which functions can be computed deterministically by anonymous processes in dynamic networks, depending on the number of leaders in the network. In addition, we provide efficient distributed algorithms for computing all such functions assuming minimal or no knowledge about the network. Each of our algorithms comes in two versions: one that terminates with the correct output and a faster one that stabilizes on the correct output without explicit termination. Notably, these are the first deterministic algorithms whose running times scale linearly with both the number of processes and a parameter of the network which we call dynamic disconnectivity (meaning that our dynamic networks do not necessarily have to be connected at all times). We also provide matching lower bounds, showing that all our algorithms are asymptotically optimal for any fixed number of leaders. While most of the existing literature on anonymous dynamic networks relies on classical mass-distribution techniques, our work makes use of a recently introduced combinatorial structure called history tree, also developing its theory in new directions. Among other contributions, our results make definitive progress on two popular fundamental problems for anonymous dynamic networks: leaderless Average Consensus (i.e., computing the mean value of input numbers distributed among the processes) and multi-leader Counting (i.e., determining the exact number of processes in the network). In fact, our approach unifies and improves upon several independent lines of research on anonymous networks, including Nedić et al., IEEE Trans. Automat. Contr. 2009; Olshevsky, SIAM J. Control Optim. 2017; Kowalski-Mosteiro, ICALP 2019, SPAA 2021; Di Luna-Viglietta, FOCS 2022.   
+
+  Cite as    
+ Giuseppe A. Di Luna and Giovanni Viglietta. Optimal Computation in Leaderless and Multi-Leader Disconnected Anonymous Dynamic Networks. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 18:1-18:20, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{diluna_et_al:LIPIcs.DISC.2023.18 author = {Di Luna, Giuseppe A. and Viglietta, Giovanni}, title = {{Optimal Computation in Leaderless and Multi-Leader Disconnected Anonymous Dynamic Networks}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {18:1--18:20}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.18}, URN = {urn:nbn:de:0030-drops-191442}, doi = {10.4230/LIPIcs.DISC.2023.18}, annote = {Keywords: anonymous dynamic network, leaderless network, disconnected network, history tree} }  @InProceedings{diluna_et_al:LIPIcs.DISC.2023.18 author = {Di Luna, Giuseppe A. and Viglietta, Giovanni}, title = {{Optimal Computation in Leaderless and Multi-Leader Disconnected Anonymous Dynamic Networks}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {18:1--18:20}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.18}, URN = {urn:nbn:de:0030-drops-191442}, doi = {10.4230/LIPIcs.DISC.2023.18}, annote = {Keywords: anonymous dynamic network, leaderless network, disconnected network, history tree} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.19    
+
+ Fast Coloring Despite Congested Relays   
+ Authors:  Maxime Flin, Magnús M. Halldórsson, and Alexandre Nolin  
+  Abstract    
+ We provide a O(log⁶ log n)-round randomized algorithm for distance-2 coloring in CONGEST with Δ²+1 colors. For Δ≫polylog n, this improves exponentially on the O(logΔ+polylog log n) algorithm of [Halldórsson, Kuhn, Maus, Nolin, DISC'20].   
+
+  Cite as    
+ Maxime Flin, Magnús M. Halldórsson, and Alexandre Nolin. Fast Coloring Despite Congested Relays. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 19:1-19:24, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{flin_et_al:LIPIcs.DISC.2023.19 author = {Flin, Maxime and Halld\'{o}rsson, Magn\'{u}s M. and Nolin, Alexandre}, title = {{Fast Coloring Despite Congested Relays}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {19:1--19:24}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.19}, URN = {urn:nbn:de:0030-drops-191453}, doi = {10.4230/LIPIcs.DISC.2023.19}, annote = {Keywords: CONGEST model, distributed graph coloring, power graphs} }  @InProceedings{flin_et_al:LIPIcs.DISC.2023.19 author = {Flin, Maxime and Halld\'{o}rsson, Magn\'{u}s M. and Nolin, Alexandre}, title = {{Fast Coloring Despite Congested Relays}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {19:1--19:24}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.19}, URN = {urn:nbn:de:0030-drops-191453}, doi = {10.4230/LIPIcs.DISC.2023.19}, annote = {Keywords: CONGEST model, distributed graph coloring, power graphs} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.20    
+
+ Distributed Certification for Classes of Dense Graphs   
+ Authors:  Pierre Fraigniaud, Frédéric Mazoit, Pedro Montealegre, Ivan Rapaport, and Ioan Todinca  
+  Abstract    
+ A proof-labeling scheme (PLS) for a boolean predicate Π on labeled graphs is a mechanism used for certifying the legality with respect to Π of global network states in a distributed manner. In a PLS, a certificate is assigned to each processing node of the network, and the nodes are in charge of checking that the collection of certificates forms a global proof that the system is in a correct state, by exchanging the certificates once, between neighbors only. The main measure of complexity is the size of the certificates. Many PLSs have been designed for certifying specific predicates, including cycle-freeness, minimum-weight spanning tree, planarity, etc. In 2021, a breakthrough has been obtained, as a "meta-theorem" stating that a large set of properties have compact PLSs in a large class of networks. Namely, for every MSO₂ property Π on labeled graphs, there exists a PLS for Π with O(log n)-bit certificates for all graphs of bounded tree-depth. This result has been extended to the larger class of graphs with bounded tree-width, using certificates on O(log² n) bits. We extend this result even further, to the larger class of graphs with bounded clique-width, which, as opposed to the other two aforementioned classes, includes dense graphs. We show that, for every MSO₁ property Π on labeled graphs, there exists a PLS for Π with O(log² n)-bit certificates for all graphs of bounded clique-width. As a consequence, certifying families of graphs such as distance-hereditary graphs and (induced) P₄-free graphs (a.k.a., cographs) can be done using a PLS with O(log² n)-bit certificates, merely because each of these two classes can be specified in MSO₁. In fact, we show that certifying P₄-free graphs can be done with certificates on O(log n) bits only. This is in contrast to the class of C₄-free graphs (which does not have bounded clique-width) which requires Ω̃(√n)-bit certificates.   
+
+  Cite as    
+ Pierre Fraigniaud, Frédéric Mazoit, Pedro Montealegre, Ivan Rapaport, and Ioan Todinca. Distributed Certification for Classes of Dense Graphs. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 20:1-20:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{fraigniaud_et_al:LIPIcs.DISC.2023.20 author = {Fraigniaud, Pierre and Mazoit, Fr\'{e}d\'{e}ric and Montealegre, Pedro and Rapaport, Ivan and Todinca, Ioan}, title = {{Distributed Certification for Classes of Dense Graphs}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {20:1--20:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.20}, URN = {urn:nbn:de:0030-drops-191467}, doi = {10.4230/LIPIcs.DISC.2023.20}, annote = {Keywords: CONGEST, Proof Labelling Schemes, clique-width, MSO} }  @InProceedings{fraigniaud_et_al:LIPIcs.DISC.2023.20 author = {Fraigniaud, Pierre and Mazoit, Fr\'{e}d\'{e}ric and Montealegre, Pedro and Rapaport, Ivan and Todinca, Ioan}, title = {{Distributed Certification for Classes of Dense Graphs}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {20:1--20:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.20}, URN = {urn:nbn:de:0030-drops-191467}, doi = {10.4230/LIPIcs.DISC.2023.20}, annote = {Keywords: CONGEST, Proof Labelling Schemes, clique-width, MSO} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.21    
+
+ The Synchronization Power (Consensus Number) of Access-Control Objects: the Case of AllowList and DenyList   
+ Authors:  Davide Frey, Mathieu Gestin, and Michel Raynal  
+  Abstract    
+ This article studies the synchronization power of AllowList and DenyList objects under the lens provided by Herlihy’s consensus hierarchy. It specifies AllowList and DenyList as distributed objects and shows that, while they can both be seen as specializations of a more general object type, they inherently have different synchronization power. While the AllowList object does not require synchronization between participating processes, a DenyList object requires processes to reach consensus on a specific set of processes. These results are then applied to a more global analysis of anonymity-preserving systems that use AllowList and DenyList objects. First, a blind-signature-based e-voting is presented. Second, DenyList and AllowList objects are used to determine the consensus number of a specific decentralized key management system. Third, an anonymous money transfer algorithm using the association of AllowList and DenyList objects is presented. Finally, this analysis is used to study the properties of these application, and to highlight efficiency gains that they can achieve in message passing environment.   
+
+  Cite as    
+ Davide Frey, Mathieu Gestin, and Michel Raynal. The Synchronization Power (Consensus Number) of Access-Control Objects: the Case of AllowList and DenyList. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 21:1-21:23, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{frey_et_al:LIPIcs.DISC.2023.21 author = {Frey, Davide and Gestin, Mathieu and Raynal, Michel}, title = {{The Synchronization Power (Consensus Number) of Access-Control Objects: the Case of AllowList and DenyList}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {21:1--21:23}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.21}, URN = {urn:nbn:de:0030-drops-191473}, doi = {10.4230/LIPIcs.DISC.2023.21}, annote = {Keywords: Access control, AllowList/DenyList, Blockchain, Consensus number, Distributed objects, Modularity, Privacy, Synchronization power} }  @InProceedings{frey_et_al:LIPIcs.DISC.2023.21 author = {Frey, Davide and Gestin, Mathieu and Raynal, Michel}, title = {{The Synchronization Power (Consensus Number) of Access-Control Objects: the Case of AllowList and DenyList}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {21:1--21:23}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.21}, URN = {urn:nbn:de:0030-drops-191473}, doi = {10.4230/LIPIcs.DISC.2023.21}, annote = {Keywords: Access control, AllowList/DenyList, Blockchain, Consensus number, Distributed objects, Modularity, Privacy, Synchronization power} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.22    
+
+ List Defective Colorings: Distributed Algorithms and Applications   
+ Authors:  Marc Fuchs and Fabian Kuhn  
+  Abstract    
+ The distributed coloring problem is at the core of the area of distributed graph algorithms and it is a problem that has seen tremendous progress over the last few years. Much of the remarkable recent progress on deterministic distributed coloring algorithms is based on two main tools: a) defective colorings in which every node of a given color can have a limited number of neighbors of the same color and b) list coloring, a natural generalization of the standard coloring problem that naturally appears when colorings are computed in different stages and one has to extend a previously computed partial coloring to a full coloring. In this paper, we introduce list defective colorings, which can be seen as a generalization of these two coloring variants. Essentially, in a list defective coloring instance, each node v is given a list of colors x_{v,1},… ,x_{v,p} together with a list of defects d_{v,1},… ,d_{v,p} such that if v is colored with color x_{v, i}, it is allowed to have at most d_{v, i} neighbors with color x_{v, i}. We highlight the important role of list defective colorings by showing that faster list defective coloring algorithms would directly lead to faster deterministic (Δ+1)-coloring algorithms in the LOCAL model. Further, we extend a recent distributed list coloring algorithm by Maus and Tonoyan [DISC '20]. Slightly simplified, we show that if for each node v it holds that ∑_{i=1}^p (d_{v,i}+1)² > deg_G²(v)⋅ polylogΔ then this list defective coloring instance can be solved in a communication-efficient way in only O(logΔ) communication rounds. This leads to the first deterministic (Δ+1)-coloring algorithm in the standard CONGEST model with a time complexity of O(√{Δ}⋅ polylog Δ+log^* n), matching the best time complexity in the LOCAL model up to a polylogΔ factor.   
+
+  Cite as    
+ Marc Fuchs and Fabian Kuhn. List Defective Colorings: Distributed Algorithms and Applications. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 22:1-22:23, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{fuchs_et_al:LIPIcs.DISC.2023.22 author = {Fuchs, Marc and Kuhn, Fabian}, title = {{List Defective Colorings: Distributed Algorithms and Applications}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {22:1--22:23}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.22}, URN = {urn:nbn:de:0030-drops-191484}, doi = {10.4230/LIPIcs.DISC.2023.22}, annote = {Keywords: distributed coloring, list coloring, defective coloring} }  @InProceedings{fuchs_et_al:LIPIcs.DISC.2023.22 author = {Fuchs, Marc and Kuhn, Fabian}, title = {{List Defective Colorings: Distributed Algorithms and Applications}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {22:1--22:23}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.22}, URN = {urn:nbn:de:0030-drops-191484}, doi = {10.4230/LIPIcs.DISC.2023.22}, annote = {Keywords: distributed coloring, list coloring, defective coloring} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.23    
+
+ Conditionally Optimal Parallel Coloring of Forests   
+ Authors:  Christoph Grunau, Rustam Latypov, Yannic Maus, Shreyas Pai, and Jara Uitto  
+  Abstract    
+ We show the first conditionally optimal deterministic algorithm for 3-coloring forests in the low-space massively parallel computation (MPC) model. Our algorithm runs in O(log log n) rounds and uses optimal global space. The best previous algorithm requires 4 colors [Ghaffari, Grunau, Jin, DISC'20] and is randomized, while our algorithm are inherently deterministic. Our main technical contribution is an O(log log n)-round algorithm to compute a partition of the forest into O(log n) ordered layers such that every node has at most two neighbors in the same or higher layers. Similar decompositions are often used in the area and we believe that this result is of independent interest. Our results also immediately yield conditionally optimal deterministic algorithms for maximal independent set and maximal matching for forests, matching the state of the art [Giliberti, Fischer, Grunau, SPAA'23]. In contrast to their solution, our algorithms are not based on derandomization, and are arguably simpler.   
+
+  Cite as    
+ Christoph Grunau, Rustam Latypov, Yannic Maus, Shreyas Pai, and Jara Uitto. Conditionally Optimal Parallel Coloring of Forests. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 23:1-23:20, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{grunau_et_al:LIPIcs.DISC.2023.23 author = {Grunau, Christoph and Latypov, Rustam and Maus, Yannic and Pai, Shreyas and Uitto, Jara}, title = {{Conditionally Optimal Parallel Coloring of Forests}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {23:1--23:20}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.23}, URN = {urn:nbn:de:0030-drops-191494}, doi = {10.4230/LIPIcs.DISC.2023.23}, annote = {Keywords: massively parallel computation, coloring, forests, optimal} }  @InProceedings{grunau_et_al:LIPIcs.DISC.2023.23 author = {Grunau, Christoph and Latypov, Rustam and Maus, Yannic and Pai, Shreyas and Uitto, Jara}, title = {{Conditionally Optimal Parallel Coloring of Forests}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {23:1--23:20}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.23}, URN = {urn:nbn:de:0030-drops-191494}, doi = {10.4230/LIPIcs.DISC.2023.23}, annote = {Keywords: massively parallel computation, coloring, forests, optimal} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.24    
+
+ On the Inherent Anonymity of Gossiping   
+ Authors:  Rachid Guerraoui, Anne-Marie Kermarrec, Anastasiia Kucherenko, Rafael Pinot, and Sasha Voitovych  
+  Abstract    
+ Detecting the source of a gossip is a critical issue, related to identifying patient zero in an epidemic, or the origin of a rumor in a social network. Although it is widely acknowledged that random and local gossip communications make source identification difficult, there exists no general quantification of the level of anonymity provided to the source. This paper presents a principled method based on ε-differential privacy to analyze the inherent source anonymity of gossiping for a large class of graphs. First, we quantify the fundamental limit of source anonymity any gossip protocol can guarantee in an arbitrary communication graph. In particular, our result indicates that when the graph has poor connectivity, no gossip protocol can guarantee any meaningful level of differential privacy. This prompted us to further analyze graphs with controlled connectivity. We prove on these graphs that a large class of gossip protocols, namely cobra walks, offers tangible differential privacy guarantees to the source. In doing so, we introduce an original proof technique based on the reduction of a gossip protocol to what we call a random walk with probabilistic die out. This proof technique is of independent interest to the gossip community and readily extends to other protocols inherited from the security community, such as the Dandelion protocol. Interestingly, our tight analysis precisely captures the trade-off between dissemination time of a gossip protocol and its source anonymity.   
+
+  Cite as    
+ Rachid Guerraoui, Anne-Marie Kermarrec, Anastasiia Kucherenko, Rafael Pinot, and Sasha Voitovych. On the Inherent Anonymity of Gossiping. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 24:1-24:19, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{guerraoui_et_al:LIPIcs.DISC.2023.24 author = {Guerraoui, Rachid and Kermarrec, Anne-Marie and Kucherenko, Anastasiia and Pinot, Rafael and Voitovych, Sasha}, title = {{On the Inherent Anonymity of Gossiping}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {24:1--24:19}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.24}, URN = {urn:nbn:de:0030-drops-191504}, doi = {10.4230/LIPIcs.DISC.2023.24}, annote = {Keywords: Gossip protocol, Source anonymity, Differential privacy} }  @InProceedings{guerraoui_et_al:LIPIcs.DISC.2023.24 author = {Guerraoui, Rachid and Kermarrec, Anne-Marie and Kucherenko, Anastasiia and Pinot, Rafael and Voitovych, Sasha}, title = {{On the Inherent Anonymity of Gossiping}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {24:1--24:19}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.24}, URN = {urn:nbn:de:0030-drops-191504}, doi = {10.4230/LIPIcs.DISC.2023.24}, annote = {Keywords: Gossip protocol, Source anonymity, Differential privacy} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.25    
+
+ Durable Algorithms for Writable LL/SC and CAS with Dynamic Joining   
+ Authors:  Prasad Jayanti, Siddhartha Jayanti, and Sucharita Jayanti  
+  Abstract    
+ We present durable implementations for two well known universal primitives - CAS (compare-and-swap), and its ABA-free counter-part LLSC (load-linked, store-conditional). Our implementations satisfy method-based recoverable linearizability (MRL) and method-based detectability (M-detectability) - novel correctness conditions that require only a simple usage pattern to guarantee resilience to individual process crashes (and system-wide crashes), including in implementations with nesting. Additionally, our implementations are: writable, meaning they support a Write() operation; have constant time complexity per operation; allow for dynamic joining, meaning newly created processes (a.k.a. threads) of arbitrary names can join a protocol and access our implementations; and have adaptive space complexity, meaning the space use scales in the number of processes n that actually use the objects, as opposed to previous protocols whose space complexity depends on N, the maximum number of processes that the protocol is designed for. Our durable Writable-CAS implementation, DuraCAS, requires O(m + n) space to support m objects that get accessed by n processes, improving on the state-of-the-art O(m + N²). By definition, LLSC objects must store "contexts" in addition to object values. Our Writable-LLSC implementation, DuraLL, requires O(m + n + C) space, where C is the number of "contexts" stored across all the objects. While LLSC has an advantage over CAS due to being ABA-free, the object definition seems to require additional space usage. To address this trade-off, we define an External Context (EC) variant of LLSC. Our EC Writable-LLSC implementation is ABA-free and has a space complexity of just O(m + n). To our knowledge, our algorithms are the first durable CAS algorithms that allow for dynamic joining, and are the first to exhibit adaptive space complexity. To our knowledge, we are the first to implement any type of durable LLSC objects.   
+
+  Cite as    
+ Prasad Jayanti, Siddhartha Jayanti, and Sucharita Jayanti. Durable Algorithms for Writable LL/SC and CAS with Dynamic Joining. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 25:1-25:20, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{jayanti_et_al:LIPIcs.DISC.2023.25 author = {Jayanti, Prasad and Jayanti, Siddhartha and Jayanti, Sucharita}, title = {{Durable Algorithms for Writable LL/SC and CAS with Dynamic Joining}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {25:1--25:20}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.25}, URN = {urn:nbn:de:0030-drops-191510}, doi = {10.4230/LIPIcs.DISC.2023.25}, annote = {Keywords: durable, recoverable, detectable, persistent memory, dynamic joining, LL/SC, CAS} }  @InProceedings{jayanti_et_al:LIPIcs.DISC.2023.25 author = {Jayanti, Prasad and Jayanti, Siddhartha and Jayanti, Sucharita}, title = {{Durable Algorithms for Writable LL/SC and CAS with Dynamic Joining}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {25:1--25:20}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.25}, URN = {urn:nbn:de:0030-drops-191510}, doi = {10.4230/LIPIcs.DISC.2023.25}, annote = {Keywords: durable, recoverable, detectable, persistent memory, dynamic joining, LL/SC, CAS} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.26    
+
+ Cordial Miners: Fast and Efficient Consensus for Every Eventuality   
+ Authors:  Idit Keidar, Oded Naor, Ouri Poupko, and Ehud Shapiro  
+  Abstract    
+ Cordial Miners are a family of efficient Byzantine Atomic Broadcast protocols, with instances for asynchrony and eventual synchrony. They improve the latency of state-of-the-art DAG-based protocols by almost 2× and achieve optimal good-case complexity of O(n) by forgoing Reliable Broadcast as a building block. Rather, Cordial Miners use the blocklace - a partially-ordered counterpart of the totally-ordered blockchain data structure - to implement the three algorithmic components of consensus: Dissemination, equivocation-exclusion, and ordering.   
+
+  Cite as    
+ Idit Keidar, Oded Naor, Ouri Poupko, and Ehud Shapiro. Cordial Miners: Fast and Efficient Consensus for Every Eventuality. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 26:1-26:22, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{keidar_et_al:LIPIcs.DISC.2023.26 author = {Keidar, Idit and Naor, Oded and Poupko, Ouri and Shapiro, Ehud}, title = {{Cordial Miners: Fast and Efficient Consensus for Every Eventuality}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {26:1--26:22}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.26}, URN = {urn:nbn:de:0030-drops-191525}, doi = {10.4230/LIPIcs.DISC.2023.26}, annote = {Keywords: Byzantine Fault Tolerance, State Machine Replication, DAG, Consensus, Blockchain, Blocklace, Cordial Dissemination} }  @InProceedings{keidar_et_al:LIPIcs.DISC.2023.26 author = {Keidar, Idit and Naor, Oded and Poupko, Ouri and Shapiro, Ehud}, title = {{Cordial Miners: Fast and Efficient Consensus for Every Eventuality}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {26:1--26:22}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.26}, URN = {urn:nbn:de:0030-drops-191525}, doi = {10.4230/LIPIcs.DISC.2023.26}, annote = {Keywords: Byzantine Fault Tolerance, State Machine Replication, DAG, Consensus, Blockchain, Blocklace, Cordial Dissemination} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.27    
+
+ Fast Reconfiguration for Programmable Matter   
+ Authors:  Irina Kostitsyna, Tom Peters, and Bettina Speckmann  
+  Abstract    
+ The concept of programmable matter envisions a very large number of tiny and simple robot particles forming a smart material. Even though the particles are restricted to local communication, local movement, and simple computation, their actions can nevertheless result in the global change of the material’s physical properties and geometry. A fundamental algorithmic task for programmable matter is to achieve global shape reconfiguration by specifying local behavior of the particles. In this paper we describe a new approach for shape reconfiguration in the amoebot model. The amoebot model is a distributed model which significantly restricts memory, computing, and communication capacity of the individual particles. Thus the challenge lies in coordinating the actions of particles to produce the desired behavior of the global system. Our reconfiguration algorithm is the first algorithm that does not use a canonical intermediate configuration when transforming between arbitrary shapes. We introduce new geometric primitives for amoebots and show how to reconfigure particle systems, using these primitives, in a linear number of activation rounds in the worst case. In practice, our method exploits the geometry of the symmetric difference between input and output shape: it minimizes unnecessary disassembly and reassembly of the particle system when the symmetric difference between the initial and the target shapes is small. Furthermore, our reconfiguration algorithm moves the particles over as many parallel shortest paths as the problem instance allows.   
+
+  Cite as    
+ Irina Kostitsyna, Tom Peters, and Bettina Speckmann. Fast Reconfiguration for Programmable Matter. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 27:1-27:21, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{kostitsyna_et_al:LIPIcs.DISC.2023.27 author = {Kostitsyna, Irina and Peters, Tom and Speckmann, Bettina}, title = {{Fast Reconfiguration for Programmable Matter}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {27:1--27:21}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.27}, URN = {urn:nbn:de:0030-drops-191533}, doi = {10.4230/LIPIcs.DISC.2023.27}, annote = {Keywords: Programmable matter, amoebot model, shape reconfiguration} }  @InProceedings{kostitsyna_et_al:LIPIcs.DISC.2023.27 author = {Kostitsyna, Irina and Peters, Tom and Speckmann, Bettina}, title = {{Fast Reconfiguration for Programmable Matter}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {27:1--27:21}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.27}, URN = {urn:nbn:de:0030-drops-191533}, doi = {10.4230/LIPIcs.DISC.2023.27}, annote = {Keywords: Programmable matter, amoebot model, shape reconfiguration} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.28    
+
+ Quorum Subsumption for Heterogeneous Quorum Systems   
+ Authors:  Xiao Li, Eric Chan, and Mohsen Lesani  
+  Abstract    
+ Byzantine quorum systems provide higher throughput than proof-of-work and incur modest energy consumption. Further, their modern incarnations incorporate personalized and heterogeneous trust. Thus, they are emerging as an appealing candidate for global financial infrastructure. However, since their quorums are not uniform across processes anymore, the properties that they should maintain to support abstractions such as reliable broadcast and consensus are not well-understood. It has been shown that the two properties quorum intersection and availability are necessary. In this paper, we prove that they are not sufficient. We then define the notion of quorum subsumption, and show that the three conditions together are sufficient: we present reliable broadcast and consensus protocols, and prove their correctness for quorum systems that provide the three properties.   
+
+  Cite as    
+ Xiao Li, Eric Chan, and Mohsen Lesani. Quorum Subsumption for Heterogeneous Quorum Systems. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 28:1-28:19, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{li_et_al:LIPIcs.DISC.2023.28 author = {Li, Xiao and Chan, Eric and Lesani, Mohsen}, title = {{Quorum Subsumption for Heterogeneous Quorum Systems}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {28:1--28:19}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.28}, URN = {urn:nbn:de:0030-drops-191541}, doi = {10.4230/LIPIcs.DISC.2023.28}, annote = {Keywords: Distributed Systems, Impossibility Results, Byzantine fault tolerance} }  @InProceedings{li_et_al:LIPIcs.DISC.2023.28 author = {Li, Xiao and Chan, Eric and Lesani, Mohsen}, title = {{Quorum Subsumption for Heterogeneous Quorum Systems}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {28:1--28:19}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.28}, URN = {urn:nbn:de:0030-drops-191541}, doi = {10.4230/LIPIcs.DISC.2023.28}, annote = {Keywords: Distributed Systems, Impossibility Results, Byzantine fault tolerance} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.29    
+
+ Fast Deterministic Rendezvous in Labeled Lines   
+ Authors:  Avery Miller and Andrzej Pelc  
+  Abstract    
+ Two mobile agents, starting from different nodes of a network modeled as a graph, and woken up at possibly different times, have to meet at the same node. This problem is known as rendezvous. Agents move in synchronous rounds. In each round, an agent can either stay idle or move to an adjacent node. We consider deterministic rendezvous in the infinite line, i.e., the infinite graph with all nodes of degree 2. Each node has a distinct label which is a positive integer. An agent currently located at a node can see its label and both ports 0 and 1 at the node. The time of rendezvous is the number of rounds until meeting, counted from the starting round of the earlier agent. We consider three scenarios. In the first scenario, each agent knows its position in the line, i.e., each of them knows its initial distance from the smallest-labeled node, on which side of this node it is located, and the direction towards it. For this scenario, we design a rendezvous algorithm working in time O(D), where D is the initial distance between the agents. This complexity is clearly optimal. In the second scenario, each agent knows a priori only the label of its starting node and the initial distance D between them. In this scenario, we design a rendezvous algorithm working in time O(Dlog^*𝓁), where 𝓁 is the larger label of the starting nodes. We also prove a matching lower bound Ω(Dlog^*𝓁). Finally, in the most general scenario, where each agent knows a priori only the label of its starting node, we design a rendezvous algorithm working in time O(D²(log^*𝓁)³), which is thus at most cubic in the lower bound. All our results remain valid (with small changes) for arbitrary finite lines and for cycles. Our algorithms are drastically better than approaches that use graph exploration, which have running times that depend on the size or diameter of the graph. Our main methodological tool, and the main novelty of the paper, is a two way reduction: from fast colouring of the infinite labeled line using a constant number of colours in the LOCAL model to fast rendezvous in this line, and vice-versa. In one direction we use fast node colouring to quickly break symmetry between the identical agents. In the other direction, a lower bound on colouring time implies a lower bound on the time of breaking symmetry between the agents, and hence a lower bound on their meeting time.   
+
+  Cite as    
+ Avery Miller and Andrzej Pelc. Fast Deterministic Rendezvous in Labeled Lines. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 29:1-29:22, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{miller_et_al:LIPIcs.DISC.2023.29 author = {Miller, Avery and Pelc, Andrzej}, title = {{Fast Deterministic Rendezvous in Labeled Lines}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {29:1--29:22}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.29}, URN = {urn:nbn:de:0030-drops-191550}, doi = {10.4230/LIPIcs.DISC.2023.29}, annote = {Keywords: rendezvous, deterministic algorithm, mobile agent, labeled line, graph colouring} }  @InProceedings{miller_et_al:LIPIcs.DISC.2023.29 author = {Miller, Avery and Pelc, Andrzej}, title = {{Fast Deterministic Rendezvous in Labeled Lines}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {29:1--29:22}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.29}, URN = {urn:nbn:de:0030-drops-191550}, doi = {10.4230/LIPIcs.DISC.2023.29}, annote = {Keywords: rendezvous, deterministic algorithm, mobile agent, labeled line, graph colouring} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.30    
+
+ Null Messages, Information and Coordination   
+ Authors:  Raïssa Nataf, Guy Goren, and Yoram Moses  
+  Abstract    
+ This paper investigates the role that null messages play in synchronous systems with and without failures, and provides necessary and sufficient conditions on the structure of protocols for information transfer and coordination there. We start by introducing a new and more refined definition of null messages. A generalization of message chains that allow these null messages is provided, and is shown to be necessary and sufficient for information transfer in reliable systems. Coping with crash failures requires a much richer structure, since not receiving a message may be the result of the sender’s failure. We introduce a class of communication patterns called resilient message blocks, which impose a stricter condition on protocols than the silent choirs of Goren and Moses (2020). Such blocks are shown to be necessary for information transfer in crash-prone systems. Moreover, they are sufficient in several cases of interest, in which silent choirs are not. Finally, a particular combination of resilient message blocks is shown to be necessary and sufficient for solving the Ordered Response coordination problem.   
+
+  Cite as    
+ Raïssa Nataf, Guy Goren, and Yoram Moses. Null Messages, Information and Coordination. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 30:1-30:21, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{nataf_et_al:LIPIcs.DISC.2023.30 author = {Nataf, Ra\"{i}ssa and Goren, Guy and Moses, Yoram}, title = {{Null Messages, Information and Coordination}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {30:1--30:21}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.30}, URN = {urn:nbn:de:0030-drops-191564}, doi = {10.4230/LIPIcs.DISC.2023.30}, annote = {Keywords: null messages, fault tolerance, coordination, information flow, knowledge analysis} }  @InProceedings{nataf_et_al:LIPIcs.DISC.2023.30 author = {Nataf, Ra\"{i}ssa and Goren, Guy and Moses, Yoram}, title = {{Null Messages, Information and Coordination}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {30:1--30:21}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.30}, URN = {urn:nbn:de:0030-drops-191564}, doi = {10.4230/LIPIcs.DISC.2023.30}, annote = {Keywords: null messages, fault tolerance, coordination, information flow, knowledge analysis} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.31    
+
+ Gorilla: Safe Permissionless Byzantine Consensus   
+ Authors:  Youer Pu, Ali Farahbakhsh, Lorenzo Alvisi, and Ittay Eyal  
+  Abstract    
+ Nakamoto’s consensus protocol works in a permissionless model and tolerates Byzantine failures, but only offers probabilistic agreement. Recently, the Sandglass protocol has shown such weaker guarantees are not a necessary consequence of a permissionless model; yet, Sandglass only tolerates benign failures, and operates in an unconventional partially synchronous model. We present Gorilla Sandglass, the first Byzantine tolerant consensus protocol to guarantee, in the same synchronous model adopted by Nakamoto, deterministic agreement and termination with probability 1 in a permissionless setting. We prove the correctness of Gorilla by mapping executions that would violate agreement or termination in Gorilla to executions in Sandglass, where we know such violations are impossible. Establishing termination proves particularly interesting, as the mapping requires reasoning about infinite executions and their probabilities.   
+
+  Cite as    
+ Youer Pu, Ali Farahbakhsh, Lorenzo Alvisi, and Ittay Eyal. Gorilla: Safe Permissionless Byzantine Consensus. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 31:1-31:16, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{pu_et_al:LIPIcs.DISC.2023.31 author = {Pu, Youer and Farahbakhsh, Ali and Alvisi, Lorenzo and Eyal, Ittay}, title = {{Gorilla: Safe Permissionless Byzantine Consensus}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {31:1--31:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.31}, URN = {urn:nbn:de:0030-drops-191579}, doi = {10.4230/LIPIcs.DISC.2023.31}, annote = {Keywords: Consensus, Permissionless, Blockchains, Byzantine fault tolerance, Deterministic Safety} }  @InProceedings{pu_et_al:LIPIcs.DISC.2023.31 author = {Pu, Youer and Farahbakhsh, Ali and Alvisi, Lorenzo and Eyal, Ittay}, title = {{Gorilla: Safe Permissionless Byzantine Consensus}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {31:1--31:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.31}, URN = {urn:nbn:de:0030-drops-191579}, doi = {10.4230/LIPIcs.DISC.2023.31}, annote = {Keywords: Consensus, Permissionless, Blockchains, Byzantine fault tolerance, Deterministic Safety} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.32    
+
+ Distributed Sketching Lower Bounds for k-Edge Connected Spanning Subgraphs, BFS Trees, and LCL Problems   
+ Authors:  Peter Robinson  
+  Abstract    
+ We investigate graph problems in the distributed sketching model, where each node sends a single message to a referee who computes the output. We define a class of graphs and give a framework for proving lower bounds for certain embeddable problems, which leads to several new results: First, we present a tight lower bound of Ω(n) bits for the message size of computing a breadth-first search (BFS) tree. For locally-checkable labeling (LCL) problems, we show that verifying whether a given vertex labeling forms a weak 2-coloring requires messages of Ω(n^{1/3}log^{2/3}n) bits, and the same lower bound holds for verifying whether a subset of nodes forms a maximal independent set. We also prove that computing a k-edge connected spanning subgraph (k-ECSS) requires messages of size at least Ω(klog²(n/k)), which is tight up to a logarithmic factor. To show these results, we define a simultaneous multiparty (SMP) model of communication complexity, where the players obtain certain subgraphs as their input, and develop a generic embedding argument that allows us to prove lower bounds for the graph sketching model by using reductions from the SMP model. We point out that these results also extend to single-round algorithms in the broadcast congested clique. We also (nearly) settle the space complexity of the k-ECSS problem in the streaming model by extending the work of Kapralov, Nelson, Pachoki, Wang, and Woodruff (FOCS 2017): We prove a communication complexity lower bound for a direct sum variant of the UR^⊂_k problem and show that this implies Ω(k nlog²(n/k)) bits of memory for computing a k-ECSS. This is known to be optimal up to a logarithmic factor.   
+
+  Cite as    
+ Peter Robinson. Distributed Sketching Lower Bounds for k-Edge Connected Spanning Subgraphs, BFS Trees, and LCL Problems. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 32:1-32:21, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{robinson:LIPIcs.DISC.2023.32 author = {Robinson, Peter}, title = {{Distributed Sketching Lower Bounds for k-Edge Connected Spanning Subgraphs, BFS Trees, and LCL Problems}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {32:1--32:21}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.32}, URN = {urn:nbn:de:0030-drops-191589}, doi = {10.4230/LIPIcs.DISC.2023.32}, annote = {Keywords: Distributed graph algorithm, graph sketching, streaming} }  @InProceedings{robinson:LIPIcs.DISC.2023.32 author = {Robinson, Peter}, title = {{Distributed Sketching Lower Bounds for k-Edge Connected Spanning Subgraphs, BFS Trees, and LCL Problems}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {32:1--32:21}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.32}, URN = {urn:nbn:de:0030-drops-191589}, doi = {10.4230/LIPIcs.DISC.2023.32}, annote = {Keywords: Distributed graph algorithm, graph sketching, streaming} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.33    
+
+ Memory-Anonymous Starvation-Free Mutual Exclusion: Possibility and Impossibility Results   
+ Authors:  Gadi Taubenfeld  
+  Abstract    
+ In an anonymous shared memory system, all inter-process communications are via shared objects; however, unlike in standard systems, there is no a priori agreement between processes on the names of shared objects [G. Taubenfeld, 2017; G. Taubenfeld, 2022]. Furthermore, the algorithms are required to be symmetric; that is, the processes should execute precisely the same code, and the only way to distinguish processes is by comparing identifiers for equality. For such a system, read/write registers are called anonymous registers. It is known that symmetric deadlock-free mutual exclusion is solvable for any finite number of processes using anonymous registers [Z. Aghazadeh et al., 2019]. The main question left open in [G. Taubenfeld, 2017; G. Taubenfeld, 2022] is the existence of starvation-free mutual exclusion algorithms for two or more processes. We resolve this open question for memoryless algorithms, in which a process that tries to enter its critical section does not use any information about its previous attempts. Almost all known mutual exclusion algorithms are memoryless. We show that, 1) There is a symmetric memoryless starvation-free mutual exclusion algorithm for two processes using m ≥ 7 anonymous registers if and only if m is odd. 2) There is no symmetric memoryless starvation-free mutual exclusion algorithm for n ≥ 3 processes using (any number of) anonymous registers. Our impossibility result is the only example of a system with fault-free processes, where global progress (i.e., deadlock-freedom) can be ensured, while individual progress to each process (i.e., starvation-freedom) cannot. It complements a known result for systems with failure-prone processes, that there are objects with lock-free implementations but without wait-free implementations [H. Attiya et al., 2022; M. Herlihy, 1991].   
+
+  Cite as    
+ Gadi Taubenfeld. Memory-Anonymous Starvation-Free Mutual Exclusion: Possibility and Impossibility Results. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 33:1-33:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{taubenfeld:LIPIcs.DISC.2023.33 author = {Taubenfeld, Gadi}, title = {{Memory-Anonymous Starvation-Free Mutual Exclusion: Possibility and Impossibility Results}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {33:1--33:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.33}, URN = {urn:nbn:de:0030-drops-191599}, doi = {10.4230/LIPIcs.DISC.2023.33}, annote = {Keywords: anonymous shared memory, memory-anonymous algorithms, anonymous registers, starvation-free mutual exclusion} }  @InProceedings{taubenfeld:LIPIcs.DISC.2023.33 author = {Taubenfeld, Gadi}, title = {{Memory-Anonymous Starvation-Free Mutual Exclusion: Possibility and Impossibility Results}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {33:1--33:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.33}, URN = {urn:nbn:de:0030-drops-191599}, doi = {10.4230/LIPIcs.DISC.2023.33}, annote = {Keywords: anonymous shared memory, memory-anonymous algorithms, anonymous registers, starvation-free mutual exclusion} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.DISC.2023.34    
+
+ Improved and Partially-Tight Lower Bounds for Message-Passing Implementations of Multiplicity Queues   
+ Authors:  Anh Tran and Edward Talmage  
+  Abstract    
+ A multiplicity queue is a concurrently-defined data type which relaxes the conditions of a linearizable FIFO queue to allow concurrent Dequeue instances to return the same value. It would seem that this should allow faster message-passing implementations, as processes should not need to wait as long to learn about concurrent operations at remote processes and previous work has shown that multiplicity queues are computationally less complex than the unrelaxed version. Intriguingly, other work has shown that there is, in fact, not much speedup possible versus an unrelaxed queue implementation. Seeking to understand this difference between intuition and real behavior, we improve the existing lower bound for uniform algorithms. We also give an upper bound for a special case to show that our bound is tight at that point. To achieve our lower bounds, we use extended shifting arguments, which are rarely used. We use these techniques in series of inductive indistinguishability proofs, extending our proofs beyond the usual limitations of traditional shifting arguments. This proof structure is an interesting contribution independently of the main result, as new lower bound proof techniques may have many uses in future work.   
+
+  Cite as    
+ Anh Tran and Edward Talmage. Improved and Partially-Tight Lower Bounds for Message-Passing Implementations of Multiplicity Queues. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 34:1-34:20, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{tran_et_al:LIPIcs.DISC.2023.34 author = {Tran, Anh and Talmage, Edward}, title = {{Improved and Partially-Tight Lower Bounds for Message-Passing Implementations of Multiplicity Queues}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {34:1--34:20}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.34}, URN = {urn:nbn:de:0030-drops-191609}, doi = {10.4230/LIPIcs.DISC.2023.34}, annote = {Keywords: Distributed Data Structures, ADTs, Lower Bounds, Shifting Arguments, Multiplicity Queues} }  @InProceedings{tran_et_al:LIPIcs.DISC.2023.34 author = {Tran, Anh and Talmage, Edward}, title = {{Improved and Partially-Tight Lower Bounds for Message-Passing Implementations of Multiplicity Queues}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {34:1--34:20}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.34}, URN = {urn:nbn:de:0030-drops-191609}, doi = {10.4230/LIPIcs.DISC.2023.34}, annote = {Keywords: Distributed Data Structures, ADTs, Lower Bounds, Shifting Arguments, Multiplicity Queues} }    
+
+  Document   
+ Brief Announcement   
+ DOI: 10.4230/LIPIcs.DISC.2023.35    
+
+ Brief Announcement: BatchBoost: Universal Batching for Concurrent Data Structures   
+ Authors:  Vitaly Aksenov, Michael Anoprenko, Alexander Fedorov, and Michael Spear  
+  Abstract    
+ Batching is a technique that stores multiple keys/values in each node of a data structure. In sequential search data structures, batching reduces latency by reducing the number of cache misses and shortening the chain of pointers to dereference. Applying batching to concurrent data structures is challenging, because it is difficult to maintain the search property and keep contention low in the presence of batching. In this paper, we present a general methodology for leveraging batching in concurrent search data structures, called BatchBoost. BatchBoost builds a search data structure from distinct "data" and "index" layers. The data layer’s purpose is to store a batch of key/value pairs in each of its nodes. The index layer uses an unmodified concurrent search data structure to route operations to a position in the data layer that is "close" to where the corresponding key should exist. The requirements on the index and data layers are low: with minimal effort, we were able to compose three highly scalable concurrent search data structures based on three original data structures as the index layers with a batched version of the Lazy List as the data layer. The resulting BatchBoost data structures provide significant performance improvements over their original counterparts.   
+
+  Cite as    
+ Vitaly Aksenov, Michael Anoprenko, Alexander Fedorov, and Michael Spear. Brief Announcement: BatchBoost: Universal Batching for Concurrent Data Structures. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 35:1-35:7, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{aksenov_et_al:LIPIcs.DISC.2023.35 author = {Aksenov, Vitaly and Anoprenko, Michael and Fedorov, Alexander and Spear, Michael}, title = {{Brief Announcement: BatchBoost: Universal Batching for Concurrent Data Structures}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {35:1--35:7}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.35}, URN = {urn:nbn:de:0030-drops-191612}, doi = {10.4230/LIPIcs.DISC.2023.35}, annote = {Keywords: Concurrency, Synchronization, Locality} }  @InProceedings{aksenov_et_al:LIPIcs.DISC.2023.35 author = {Aksenov, Vitaly and Anoprenko, Michael and Fedorov, Alexander and Spear, Michael}, title = {{Brief Announcement: BatchBoost: Universal Batching for Concurrent Data Structures}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {35:1--35:7}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.35}, URN = {urn:nbn:de:0030-drops-191612}, doi = {10.4230/LIPIcs.DISC.2023.35}, annote = {Keywords: Concurrency, Synchronization, Locality} }    
+
+  Document   
+ Brief Announcement   
+ DOI: 10.4230/LIPIcs.DISC.2023.36    
+
+ Brief Announcement: Multi-Valued Connected Consensus: A New Perspective on Crusader Agreement and Adopt-Commit   
+ Authors:  Hagit Attiya and Jennifer L. Welch  
+  Abstract    
+ Algorithms to solve fault-tolerant consensus in asynchronous systems often rely on primitives such as crusader agreement, adopt-commit, and graded broadcast, which provide weaker agreement properties than consensus. Although these primitives have a similar flavor, they have been defined and implemented separately in ad hoc ways. We propose a new problem called connected consensus that has as special cases crusader agreement, adopt-commit, and graded broadcast, and generalizes them to handle multi-valued (non-binary) inputs. The generalization is accomplished by relating the problem to approximate agreement on graphs. We present three algorithms for multi-valued connected consensus in asynchronous message-passing systems, one tolerating crash failures and two tolerating malicious (unauthenticated Byzantine) failures. We extend the definition of binding, a desirable property recently identified as supporting binary consensus algorithms that are correct against adaptive adversaries, to the multi-valued input case and show that all our algorithms satisfy the property. Our crash-resilient algorithm has failure-resilience and time complexity that we show are optimal. When restricted to the case of binary inputs, the algorithm has improved time complexity over prior algorithms. Our two algorithms for malicious failures trade off failure resilience and time complexity. The first algorithm has time complexity that we prove is optimal but worse failure-resilience, while the second has failure-resilience that we prove is optimal but worse time complexity. When restricted to the case of binary inputs, the time complexity (as well as resilience) of the second algorithm matches that of prior algorithms.   
+
+  Cite as    
+ Hagit Attiya and Jennifer L. Welch. Brief Announcement: Multi-Valued Connected Consensus: A New Perspective on Crusader Agreement and Adopt-Commit. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 36:1-36:7, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{attiya_et_al:LIPIcs.DISC.2023.36 author = {Attiya, Hagit and Welch, Jennifer L.}, title = {{Brief Announcement: Multi-Valued Connected Consensus: A New Perspective on Crusader Agreement and Adopt-Commit}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {36:1--36:7}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.36}, URN = {urn:nbn:de:0030-drops-191620}, doi = {10.4230/LIPIcs.DISC.2023.36}, annote = {Keywords: graded broadcast, gradecast, binding, approximate agreement} }  @InProceedings{attiya_et_al:LIPIcs.DISC.2023.36 author = {Attiya, Hagit and Welch, Jennifer L.}, title = {{Brief Announcement: Multi-Valued Connected Consensus: A New Perspective on Crusader Agreement and Adopt-Commit}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {36:1--36:7}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.36}, URN = {urn:nbn:de:0030-drops-191620}, doi = {10.4230/LIPIcs.DISC.2023.36}, annote = {Keywords: graded broadcast, gradecast, binding, approximate agreement} }    
+
+  Document   
+ Brief Announcement   
+ DOI: 10.4230/LIPIcs.DISC.2023.37    
+
+ Brief Announcement: Relations Between Space-Bounded and Adaptive Massively Parallel Computations   
+ Authors:  Michael Chen, A. Pavan, and N. V. Vinodchandran  
+  Abstract    
+ In this work, we study the class of problems solvable by (deterministic) Adaptive Massively Parallel Computations in constant rounds from a computational complexity theory perspective. A language L is in the class AMPC⁰ if, for every ε > 0, there is a deterministic AMPC algorithm running in constant rounds with a polynomial number of processors, where the local memory of each machine s = O(N^ε). We prove that the space-bounded complexity class ReachUL is a proper subclass of AMPC⁰. The complexity class ReachUL lies between the well-known space-bounded complexity classes Deterministic Logspace (DLOG) and Nondeterministic Logspace (NLOG). In contrast, we establish that it is unlikely that PSPACE admits AMPC algorithms, even with polynomially many rounds. We also establish that showing PSPACE is a subclass of nonuniform-AMPC with polynomially many rounds leads to a significant separation result in complexity theory, namely PSPACE is a proper subclass of EXP^{Σ₂^{𝖯}}.   
+
+  Cite as    
+ Michael Chen, A. Pavan, and N. V. Vinodchandran. Brief Announcement: Relations Between Space-Bounded and Adaptive Massively Parallel Computations. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 37:1-37:7, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{chen_et_al:LIPIcs.DISC.2023.37 author = {Chen, Michael and Pavan, A. and Vinodchandran, N. V.}, title = {{Brief Announcement: Relations Between Space-Bounded and Adaptive Massively Parallel Computations}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {37:1--37:7}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.37}, URN = {urn:nbn:de:0030-drops-191634}, doi = {10.4230/LIPIcs.DISC.2023.37}, annote = {Keywords: Massively Parallel Computation, AMPC, Complexity Classes, LogSpace, NL, PSPACE} }  @InProceedings{chen_et_al:LIPIcs.DISC.2023.37 author = {Chen, Michael and Pavan, A. and Vinodchandran, N. V.}, title = {{Brief Announcement: Relations Between Space-Bounded and Adaptive Massively Parallel Computations}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {37:1--37:7}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.37}, URN = {urn:nbn:de:0030-drops-191634}, doi = {10.4230/LIPIcs.DISC.2023.37}, annote = {Keywords: Massively Parallel Computation, AMPC, Complexity Classes, LogSpace, NL, PSPACE} }    
+
+  Document   
+ Brief Announcement   
+ DOI: 10.4230/LIPIcs.DISC.2023.38    
+
+ Brief Announcement: On Implementing Wear Leveling in Persistent Synchronization Structures   
+ Authors:  Jakeb Chouinard, Kush Kansara, Xialin Liu, Nihal Potdar, and Wojciech Golab  
+  Abstract    
+ The last decade has witnessed an explosion of research on persistent memory, which combines the low access latency of dynamic random access memory (DRAM) with the durability of secondary storage. Intel’s implementation of persistent memory, called Optane, comes close to realizing the game-changing potential of persistent memory in terms of performance; however, it also suffers from limited endurance and relies on a proprietary wear leveling mechanism to mitigate memory cell wear-out. The traditional embedded approach to wear leveling, in which the storage device itself maps logical addresses to physical addresses, can be fast and energy-efficient, but it is also relatively inflexible and can lead to missed opportunities for optimization. An alternative school of thought, exemplified by "open channel" solid state drives (SSDs), delegates responsibility for wear leveling to software, where it can be tailored to specific applications. In this research, we consider a hypothetical hardware platform where the same paradigm is applied to the persistent memory device, and ask how the wear leveling mechanism can be co-designed with synchronization structures that generate highly skewed memory access patterns. Building on the recent work of Liu and Golab, we implement an improved wear leveling atomic counter by leveraging hardware transactional memory in a novel way. Our solution is close to optimal with respect to both space complexity and measured performance.   
+
+  Cite as    
+ Jakeb Chouinard, Kush Kansara, Xialin Liu, Nihal Potdar, and Wojciech Golab. Brief Announcement: On Implementing Wear Leveling in Persistent Synchronization Structures. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 38:1-38:7, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{chouinard_et_al:LIPIcs.DISC.2023.38 author = {Chouinard, Jakeb and Kansara, Kush and Liu, Xialin and Potdar, Nihal and Golab, Wojciech}, title = {{Brief Announcement: On Implementing Wear Leveling in Persistent Synchronization Structures}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {38:1--38:7}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.38}, URN = {urn:nbn:de:0030-drops-191640}, doi = {10.4230/LIPIcs.DISC.2023.38}, annote = {Keywords: persistent memory, transactional memory, wear leveling, atomic counter, concurrency, fault tolerance, theory} }  @InProceedings{chouinard_et_al:LIPIcs.DISC.2023.38 author = {Chouinard, Jakeb and Kansara, Kush and Liu, Xialin and Potdar, Nihal and Golab, Wojciech}, title = {{Brief Announcement: On Implementing Wear Leveling in Persistent Synchronization Structures}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {38:1--38:7}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.38}, URN = {urn:nbn:de:0030-drops-191640}, doi = {10.4230/LIPIcs.DISC.2023.38}, annote = {Keywords: persistent memory, transactional memory, wear leveling, atomic counter, concurrency, fault tolerance, theory} }    
+
+  Document   
+ Brief Announcement   
+ DOI: 10.4230/LIPIcs.DISC.2023.39    
+
+ Brief Announcement: Subquadratic Multivalued Asynchronous Byzantine Agreement WHP   
+ Authors:  Shir Cohen and Idit Keidar  
+  Abstract    
+ There have been several reductions from multivalued consensus to binary consensus over the past 20 years. To the best of our knowledge, none of them solved it for Byzantine asynchronous settings. In this short paper, we close this gap. Moreover, we do so in subquadratic communication, using newly developed subquadratic binary Byzantine Agreement techniques.   
+
+  Cite as    
+ Shir Cohen and Idit Keidar. Brief Announcement: Subquadratic Multivalued Asynchronous Byzantine Agreement WHP. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 39:1-39:6, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{cohen_et_al:LIPIcs.DISC.2023.39 author = {Cohen, Shir and Keidar, Idit}, title = {{Brief Announcement: Subquadratic Multivalued Asynchronous Byzantine Agreement WHP}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {39:1--39:6}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.39}, URN = {urn:nbn:de:0030-drops-191658}, doi = {10.4230/LIPIcs.DISC.2023.39}, annote = {Keywords: Byzantine agreement, subquadratic communication, fault tolerance in distributed systems} }  @InProceedings{cohen_et_al:LIPIcs.DISC.2023.39 author = {Cohen, Shir and Keidar, Idit}, title = {{Brief Announcement: Subquadratic Multivalued Asynchronous Byzantine Agreement WHP}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {39:1--39:6}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.39}, URN = {urn:nbn:de:0030-drops-191658}, doi = {10.4230/LIPIcs.DISC.2023.39}, annote = {Keywords: Byzantine agreement, subquadratic communication, fault tolerance in distributed systems} }    
+
+  Document   
+ Brief Announcement   
+ DOI: 10.4230/LIPIcs.DISC.2023.40    
+
+ Brief Announcement: Distributed Derandomization Revisited   
+ Authors:  Sameep Dahal, Francesco d'Amore, Henrik Lievonen, Timothé Picavet, and Jukka Suomela  
+  Abstract    
+ One of the cornerstones of the distributed complexity theory is the derandomization result by Chang, Kopelowitz, and Pettie [FOCS 2016]: any randomized LOCAL algorithm that solves a locally checkable labeling problem (LCL) can be derandomized with at most exponential overhead. The original proof assumes that the number of random bits is bounded by some function of the input size. We give a new, simple proof that does not make any such assumptions - it holds even if the randomized algorithm uses infinitely many bits. While at it, we also broaden the scope of the result so that it is directly applicable far beyond LCL problems.   
+
+  Cite as    
+ Sameep Dahal, Francesco d'Amore, Henrik Lievonen, Timothé Picavet, and Jukka Suomela. Brief Announcement: Distributed Derandomization Revisited. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 40:1-40:5, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{dahal_et_al:LIPIcs.DISC.2023.40 author = {Dahal, Sameep and d'Amore, Francesco and Lievonen, Henrik and Picavet, Timoth\'{e} and Suomela, Jukka}, title = {{Brief Announcement: Distributed Derandomization Revisited}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {40:1--40:5}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.40}, URN = {urn:nbn:de:0030-drops-191660}, doi = {10.4230/LIPIcs.DISC.2023.40}, annote = {Keywords: Distributed algorithm, Derandomization, LOCAL model} }  @InProceedings{dahal_et_al:LIPIcs.DISC.2023.40 author = {Dahal, Sameep and d'Amore, Francesco and Lievonen, Henrik and Picavet, Timoth\'{e} and Suomela, Jukka}, title = {{Brief Announcement: Distributed Derandomization Revisited}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {40:1--40:5}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.40}, URN = {urn:nbn:de:0030-drops-191660}, doi = {10.4230/LIPIcs.DISC.2023.40}, annote = {Keywords: Distributed algorithm, Derandomization, LOCAL model} }    
+
+  Document   
+ Brief Announcement   
+ DOI: 10.4230/LIPIcs.DISC.2023.41    
+
+ Brief Announcement: Byzantine Consensus Under Dynamic Participation with a Well-Behaved Majority   
+ Authors:  Eli Gafni and Giuliano Losa  
+  Abstract    
+ In a permissionless system like Ethereum, participation may fluctuate dynamically as some participants unpredictably go offline and some others come back online. In such an environment, traditional Byzantine fault-tolerant consensus algorithms may stall - even in the absence of failures - because they rely on the availability of fixed-sized quorums. The sleepy model formally captures the main requirements for solving consensus under dynamic participation, and several algorithms solve consensus with probabilistic safety in this model assuming that, at any time, more than half of the online participants are well behaved. However, whether safety can be ensured deterministically under these assumptions, especially with constant latency, remained an open question. Assuming a constant adversary, we answer in the positive by presenting a consensus algorithm that achieves deterministic safety and constant latency in expectation. In the full version of this paper, we also present a second algorithm which obtains both deterministic safety and liveness, but is likely only of theoretical interest because of its high round and message complexity. Both algorithms are striking in their simplicity.   
+
+  Cite as    
+ Eli Gafni and Giuliano Losa. Brief Announcement: Byzantine Consensus Under Dynamic Participation with a Well-Behaved Majority. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 41:1-41:7, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{gafni_et_al:LIPIcs.DISC.2023.41 author = {Gafni, Eli and Losa, Giuliano}, title = {{Brief Announcement: Byzantine Consensus Under Dynamic Participation with a Well-Behaved Majority}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {41:1--41:7}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.41}, URN = {urn:nbn:de:0030-drops-191675}, doi = {10.4230/LIPIcs.DISC.2023.41}, annote = {Keywords: Consensus, Sleepy Model, Dynamic Participation, Byzantine Failures} }  @InProceedings{gafni_et_al:LIPIcs.DISC.2023.41 author = {Gafni, Eli and Losa, Giuliano}, title = {{Brief Announcement: Byzantine Consensus Under Dynamic Participation with a Well-Behaved Majority}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {41:1--41:7}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.41}, URN = {urn:nbn:de:0030-drops-191675}, doi = {10.4230/LIPIcs.DISC.2023.41}, annote = {Keywords: Consensus, Sleepy Model, Dynamic Participation, Byzantine Failures} }    
+
+  Document   
+ Brief Announcement   
+ DOI: 10.4230/LIPIcs.DISC.2023.42    
+
+ Brief Announcement: Scalable Agreement Protocols with Optimal Optimistic Efficiency   
+ Authors:  Yuval Gelles and Ilan Komargodski  
+  Abstract    
+ Designing efficient distributed protocols for various agreement tasks such as Byzantine Agreement, Broadcast, and Committee Election is a fundamental problem. We are interested in scalable protocols for these tasks, where each (honest) party communicates a number of bits which is sublinear in n, the number of parties. The first major step towards this goal is due to King et al. (SODA 2006) who showed a protocol where each party sends only Õ(1) bits throughout Õ(1) rounds, but guarantees only that 1-o(1) fraction of honest parties end up agreeing on a consistent output, assuming constant < 1/3 fraction of static corruptions. Few years later, King et al. (ICDCN 2011) managed to get a full agreement protocol in the same model but where each party sends Õ(√n) bits throughout Õ(1) rounds. Getting a full agreement protocol with o(√n) communication per party has been a major challenge ever since. In light of this barrier, we propose a new framework for designing efficient agreement protocols. Specifically, we design Õ(1)-round protocols for all of the above tasks (assuming constant < 1/3 fraction of static corruptions) with optimistic and pessimistic guarantees: - Optimistic complexity: In an honest execution, all parties send only Õ(1) bits. - Pessimistic complexity: In any other case, (honest) parties send Õ(√n) bits. Thus, all an adversary can gain from deviating from the honest execution is that honest parties will need to work harder (i.e., transmit more bits) to reach agreement and terminate. Besides the above agreement tasks, we also use our new framework to get a scalable secure multiparty computation (MPC) protocol with optimistic and pessimistic complexities. Technically, we identify a relaxation of Byzantine Agreement (of independent interest) that allows us to fall-back to a pessimistic execution in a coordinated way by all parties. We implement this relaxation with Õ(1) communication bits per party and within Õ(1) rounds.   
+
+  Cite as    
+ Yuval Gelles and Ilan Komargodski. Brief Announcement: Scalable Agreement Protocols with Optimal Optimistic Efficiency. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 42:1-42:6, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{gelles_et_al:LIPIcs.DISC.2023.42 author = {Gelles, Yuval and Komargodski, Ilan}, title = {{Brief Announcement: Scalable Agreement Protocols with Optimal Optimistic Efficiency}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {42:1--42:6}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.42}, URN = {urn:nbn:de:0030-drops-191684}, doi = {10.4230/LIPIcs.DISC.2023.42}, annote = {Keywords: Byzantine Agreement, Consensus, Optimistic-Pessimistic, Secure Multi-Party Computation} }  @InProceedings{gelles_et_al:LIPIcs.DISC.2023.42 author = {Gelles, Yuval and Komargodski, Ilan}, title = {{Brief Announcement: Scalable Agreement Protocols with Optimal Optimistic Efficiency}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {42:1--42:6}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.42}, URN = {urn:nbn:de:0030-drops-191684}, doi = {10.4230/LIPIcs.DISC.2023.42}, annote = {Keywords: Byzantine Agreement, Consensus, Optimistic-Pessimistic, Secure Multi-Party Computation} }    
+
+  Document   
+ Brief Announcement   
+ DOI: 10.4230/LIPIcs.DISC.2023.43    
+
+ Brief Announcement: Let It TEE: Asynchronous Byzantine Atomic Broadcast with n ≥ 2f+1   
+ Authors:  Marc Leinweber and Hannes Hartenstein  
+  Abstract    
+ Asynchronous Byzantine Atomic Broadcast (ABAB) promises simplicity in implementation as well as increased performance and robustness in comparison to partially synchronous approaches. We adapt the recently proposed DAG-Rider approach to achieve ABAB with n ≥ 2f+1 processes, of which f are faulty, with only a constant increase in message size. We leverage a small Trusted Execution Environment (TEE) that provides a unique sequential identifier generator (USIG) to implement Reliable Broadcast with n > f processes and show that the quorum-critical proofs still hold when adapting the quorum size to ⌊ n/2 ⌋ + 1. This first USIG-based ABAB preserves the simplicity of DAG-Rider and serves as starting point for further research on TEE-based ABAB.   
+
+  Cite as    
+ Marc Leinweber and Hannes Hartenstein. Brief Announcement: Let It TEE: Asynchronous Byzantine Atomic Broadcast with n ≥ 2f+1. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 43:1-43:7, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{leinweber_et_al:LIPIcs.DISC.2023.43 author = {Leinweber, Marc and Hartenstein, Hannes}, title = {{Brief Announcement: Let It TEE: Asynchronous Byzantine Atomic Broadcast with n ≥ 2f+1}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {43:1--43:7}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.43}, URN = {urn:nbn:de:0030-drops-191694}, doi = {10.4230/LIPIcs.DISC.2023.43}, annote = {Keywords: Byzantine Fault Tolerance, Trusted Execution Environments, Asynchrony} }  @InProceedings{leinweber_et_al:LIPIcs.DISC.2023.43 author = {Leinweber, Marc and Hartenstein, Hannes}, title = {{Brief Announcement: Let It TEE: Asynchronous Byzantine Atomic Broadcast with n ≥ 2f+1}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {43:1--43:7}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.43}, URN = {urn:nbn:de:0030-drops-191694}, doi = {10.4230/LIPIcs.DISC.2023.43}, annote = {Keywords: Byzantine Fault Tolerance, Trusted Execution Environments, Asynchrony} }    
+
+  Document   
+ Brief Announcement   
+ DOI: 10.4230/LIPIcs.DISC.2023.44    
+
+ Brief Announcement: Recoverable and Detectable Self-Implementations of Swap   
+ Authors:  Tomer Lev Lehman, Hagit Attiya, and Danny Hendler  
+  Abstract    
+ Recoverable algorithms tolerate failures and recoveries of processes by using non-volatile memory. Of particular interest are self-implementations of key operations, in which a recoverable operation is implemented from its non-recoverable counterpart (in addition to reads and writes). This paper presents two self-implementations of the SWAP operation. One works in the system-wide failures model, where all processes fail and recover together, and the other in the independent failures model, where each process crashes and recovers independently of the other processes. Both algorithms are wait-free in crash-free executions, but their recovery code is blocking. We prove that this is inherent for the independent failures model. The impossibility result is proved for implementations of distinguishable operations using interfering functions, and in particular, it applies to a recoverable self-implementation of swap.   
+
+  Cite as    
+ Tomer Lev Lehman, Hagit Attiya, and Danny Hendler. Brief Announcement: Recoverable and Detectable Self-Implementations of Swap. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 44:1-44:7, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{levlehman_et_al:LIPIcs.DISC.2023.44 author = {Lev Lehman, Tomer and Attiya, Hagit and Hendler, Danny}, title = {{Brief Announcement: Recoverable and Detectable Self-Implementations of Swap}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {44:1--44:7}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.44}, URN = {urn:nbn:de:0030-drops-191704}, doi = {10.4230/LIPIcs.DISC.2023.44}, annote = {Keywords: Persistent memory, non-volatile memory, recoverable objects, detectablitly} }  @InProceedings{levlehman_et_al:LIPIcs.DISC.2023.44 author = {Lev Lehman, Tomer and Attiya, Hagit and Hendler, Danny}, title = {{Brief Announcement: Recoverable and Detectable Self-Implementations of Swap}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {44:1--44:7}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.44}, URN = {urn:nbn:de:0030-drops-191704}, doi = {10.4230/LIPIcs.DISC.2023.44}, annote = {Keywords: Persistent memory, non-volatile memory, recoverable objects, detectablitly} }    
+
+  Document   
+ Brief Announcement   
+ DOI: 10.4230/LIPIcs.DISC.2023.45    
+
+ Brief Announcement: Line Formation in Silent Programmable Matter   
+ Authors:  Alfredo Navarra and Francesco Piselli  
+  Abstract    
+ Programmable Matter (PM) has been widely investigated in recent years. One reference model is certainly Amoebot, with its recent canonical version (DISC 2021). Along this line, with the aim of simplification and to address concurrency, the SILBOT model has been introduced (AAMAS 2020). Within SILBOT, we consider the Line formation primitive in which particles are required to end up in a configuration where they are all aligned and connected. We propose a simple and elegant distributed algorithm, optimal in terms of number of movements.   
+
+  Cite as    
+ Alfredo Navarra and Francesco Piselli. Brief Announcement: Line Formation in Silent Programmable Matter. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 45:1-45:8, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{navarra_et_al:LIPIcs.DISC.2023.45 author = {Navarra, Alfredo and Piselli, Francesco}, title = {{Brief Announcement: Line Formation in Silent Programmable Matter}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {45:1--45:8}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.45}, URN = {urn:nbn:de:0030-drops-191715}, doi = {10.4230/LIPIcs.DISC.2023.45}, annote = {Keywords: Programmable Matter, Line formation, Asynchrony, Stigmergy} }  @InProceedings{navarra_et_al:LIPIcs.DISC.2023.45 author = {Navarra, Alfredo and Piselli, Francesco}, title = {{Brief Announcement: Line Formation in Silent Programmable Matter}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {45:1--45:8}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.45}, URN = {urn:nbn:de:0030-drops-191715}, doi = {10.4230/LIPIcs.DISC.2023.45}, annote = {Keywords: Programmable Matter, Line formation, Asynchrony, Stigmergy} }    
+
+  Document   
+ Brief Announcement   
+ DOI: 10.4230/LIPIcs.DISC.2023.46    
+
+ Brief Announcement: The Space Complexity of Set Agreement Using Swap   
+ Authors:  Sean Ovens  
+  Abstract    
+ We prove that any randomized wait-free n-process k-set agreement algorithm using only swap objects requires at least ⌈n/k⌉-1 objects. We also sketch a proof that any randomized wait-free consensus algorithm using only readable swap objects with domain size b requires at least (n-2)/(3b+1) objects.   
+
+  Cite as    
+ Sean Ovens. Brief Announcement: The Space Complexity of Set Agreement Using Swap. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 46:1-46:6, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{ovens:LIPIcs.DISC.2023.46 author = {Ovens, Sean}, title = {{Brief Announcement: The Space Complexity of Set Agreement Using Swap}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {46:1--46:6}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.46}, URN = {urn:nbn:de:0030-drops-191725}, doi = {10.4230/LIPIcs.DISC.2023.46}, annote = {Keywords: space complexity, consensus, set agreement, lower bound, shared memory} }  @InProceedings{ovens:LIPIcs.DISC.2023.46 author = {Ovens, Sean}, title = {{Brief Announcement: The Space Complexity of Set Agreement Using Swap}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {46:1--46:6}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.46}, URN = {urn:nbn:de:0030-drops-191725}, doi = {10.4230/LIPIcs.DISC.2023.46}, annote = {Keywords: space complexity, consensus, set agreement, lower bound, shared memory} }    
+
+  Document   
+ Brief Announcement   
+ DOI: 10.4230/LIPIcs.DISC.2023.47    
+
+ Brief Announcement: Grassroots Distributed Systems: Concept, Examples, Implementation and Applications   
+ Authors:  Ehud Shapiro  
+  Abstract    
+ Informally, a distributed system is grassroots if it is permissionless and can have autonomous, independently-deployed instances - geographically and over time - that may interoperate voluntarily once interconnected. More formally, in a grassroots system the set of all correct behaviors of a set of agents P is strictly included in the set of the correct behaviors of P when they are embedded within a larger set of agents P' ⊃ P. Grassroots systems are potentially important as they may allow communities to conduct their social, economic, civic, and political lives in the digital realm solely using their members' networked computing devices (e.g., smartphones), free of third-party control, surveillance, manipulation, coercion, or rent seeking (e.g., by global digital platforms such as Facebook or Bitcoin). Client-server/cloud computing systems are not grassroots, and neither are systems designed to have a single global instance (Bitcoin/Ethereum with hardwired seed miners/bootnodes), and systems that rely on a single global data structure (IPFS, DHTs). An example grassroots system would be a serverless smartphone-based social network supporting multiple independently-budding communities that can merge when a member of one community becomes also a member of another. Here, we formalize the notion of grassroots distributed systems; describe a grassroots dissemination protocol for the model of asynchrony and argue its safety, liveness, and being grassroots; extend the implementation to mobile (address-changing) devices that communicate via an unreliable network (e.g. smartphones using UDP); and discuss how grassroots dissemination can realize grassroots social networking and grassroots cryptocurrencies. The mathematical construction employs distributed multiagent transition systems to define the notions of grassroots protocols, to specify the grassroots dissemination protocols, and to prove their correctness. The protocols use the blocklace - a distributed, partially-ordered counterpart of the replicated, totally-ordered blockchain.   
+
+  Cite as    
+ Ehud Shapiro. Brief Announcement: Grassroots Distributed Systems: Concept, Examples, Implementation and Applications. In 37th International Symposium on Distributed Computing (DISC 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 281, pp. 47:1-47:7, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{shapiro:LIPIcs.DISC.2023.47 author = {Shapiro, Ehud}, title = {{Brief Announcement: Grassroots Distributed Systems: Concept, Examples, Implementation and Applications}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {47:1--47:7}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.47}, URN = {urn:nbn:de:0030-drops-191735}, doi = {10.4230/LIPIcs.DISC.2023.47}, annote = {Keywords: Grassroots Distributed Systems, Dissemination Protocol, Multiagent Transition Systems, Blocklace, Cordial Dissemination} }  @InProceedings{shapiro:LIPIcs.DISC.2023.47 author = {Shapiro, Ehud}, title = {{Brief Announcement: Grassroots Distributed Systems: Concept, Examples, Implementation and Applications}}, booktitle = {37th International Symposium on Distributed Computing (DISC 2023)}, pages = {47:1--47:7}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-301-0}, ISSN = {1868-8969}, year = {2023}, volume = {281}, editor = {Oshman, Rotem}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.47}, URN = {urn:nbn:de:0030-drops-191735}, doi = {10.4230/LIPIcs.DISC.2023.47}, annote = {Keywords: Grassroots Distributed Systems, Dissemination Protocol, Multiagent Transition Systems, Blocklace, Cordial Dissemination} }    
+
+ Filters  
+
+ Authors 
+   Show All  Collapse 
+  Show All 
+  A 
+  Abraham, Ittai 
+  Aksenov, Vitaly 
+  Altisen, Karine 
+  Alvisi, Lorenzo 
+  Anoprenko, Michael 
+  Appan, Ananya 
+  Attiya, Hagit 
+  Azouvi, Sarah 
+  B 
+  Balliu, Alkida 
+  Bampas, Evangelos 
+  Beauquier, Joffroy 
+  Ben-David, Naama 
+  Blum, Erica 
+  Boyle, Elette 
+  Brandt, Sebastian 
+  Burman, Janna 
+  C 
+  Cambus, Mélanie 
+  Castañeda, Armando 
+  Chan, Eric 
+  Chandramouli, Anirudh 
+  Charron-Bost, Bernadette 
+  Chen, Michael 
+  Choudhury, Ashish 
+  Chouinard, Jakeb 
+  Civit, Pierre 
+  Cohen, Ran 
+  Cohen, Shir 
+  Corbineau, Pierre 
+  Cosson, Romain 
+  Coutouly, Yannis 
+  D 
+  d'Amore, Francesco 
+  Dahal, Sameep 
+  Déprés, Mathilde 
+  Devismes, Stéphane 
+  Dhoked, Sahil 
+  Di Luna, Giuseppe A. 
+  Dolev, Danny 
+  E 
+  Eyal, Ittay 
+  F 
+  Farahbakhsh, Ali 
+  Fedorov, Alexander 
+  Flin, Maxime 
+  Fraigniaud, Pierre 
+  Frey, Davide 
+  Fuchs, Marc 
+  G 
+  Gafni, Eli 
+  Gelles, Yuval 
+  Gestin, Mathieu 
+  Gilbert, Seth 
+  Godard, Emmanuel 
+  Golab, Wojciech 
+  Goren, Guy 
+  Grunau, Christoph 
+  Guerraoui, Rachid 
+  Guy--Obé, William 
+  H 
+  Halldórsson, Magnús M. 
+  Halpern, Joseph Y. 
+  Hartenstein, Hannes 
+  Heimbach, Lioba 
+  Hendler, Danny 
+  Hicks, Alexander 
+  J 
+  Jayanti, Prasad 
+  Jayanti, Siddhartha 
+  Jayanti, Sucharita 
+  K 
+  Kansara, Kush 
+  Keidar, Idit 
+  Kermarrec, Anne-Marie 
+  Komargodski, Ilan 
+  Komatovic, Jovan 
+  Kostitsyna, Irina 
+  Kucherenko, Anastasiia 
+  Kuhn, Fabian 
+  L 
+  Latypov, Rustam 
+  Leinweber, Marc 
+  Lesani, Mohsen 
+  Lev Lehman, Tomer 
+  Li, Xiao 
+  Lievonen, Henrik 
+  Liu-Zhang, Chen-Da 
+  Liu, Xialin 
+  Losa, Giuliano 
+  M 
+  Massoulié, Laurent 
+  Maus, Yannic 
+  Mazoit, Frédéric 
+  Miller, Avery 
+  Mittal, Neeraj 
+  Montealegre, Pedro 
+  Monti, Matteo 
+  Moses, Yoram 
+  Mostéfaoui, Achour 
+  N 
+  Naor, Oded 
+  Nataf, Raïssa 
+  Navarra, Alfredo 
+  Nolin, Alexandre 
+  Nowak, Thomas 
+  O 
+  Olivetti, Dennis 
+  Oshman, Rotem 
+  Ovens, Sean 
+  P 
+  Pai, Shreyas 
+  Pavan, A. 
+  Paz, Ami 
+  Pelc, Andrzej 
+  Penet de Monterno, Louis 
+  Perrin, Matthieu 
+  Peters, Tom 
+  Picavet, Timothé 
+  Pinot, Rafael 
+  Piselli, Francesco 
+  Potdar, Nihal 
+  Poupko, Ouri 
+  Pu, Youer 
+  R 
+  Rajsbaum, Sergio 
+  Rapaport, Ivan 
+  Raynal, Michel 
+  Robinson, Peter 
+  S 
+  Schmid, Gustav 
+  Sela, Gal 
+  Shapiro, Ehud 
+  Spear, Michael 
+  Speckmann, Bettina 
+  Suomela, Jukka 
+  Szekeres, Adriana 
+  T 
+  Talmage, Edward 
+  Taubenfeld, Gadi 
+  Todinca, Ioan 
+  Tran, Anh 
+  U 
+  Uitto, Jara 
+  V 
+  Vidigueira, Manuel 
+  Viennot, Laurent 
+  Viglietta, Giovanni 
+  Vinodchandran, N. V. 
+  Voitovych, Sasha 
+  W 
+  Welch, Jennifer L. 
+
+  Subjects 
+   Show All  Collapse 
+  Show All 
+  Applied computing 
+  Applied computing → Economics 
+  Computer systems organization 
+  Computer systems organization → Availability 
+  Computer systems organization → Dependable and fault-tolerant systems and networks 
+  Computer systems organization → Fault-tolerant network topologies 
+  Computer systems organization → Peer-to-peer architectures 
+  Computer systems organization → Reliability 
+  Computing methodologies 
+  Computing methodologies → Concurrent algorithms 
+  Computing methodologies → Concurrent computing methodologies 
+  Computing methodologies → Distributed algorithms 
+  Computing methodologies → Distributed computing methodologies 
+  Computing methodologies → Massively parallel algorithms 
+  Computing methodologies → Reasoning about belief and knowledge 
+  Hardware 
+  Hardware → Fault tolerance 
+  Information systems 
+  Information systems → Data structures 
+  Mathematics of computing 
+  Mathematics of computing → Graph algorithms 
+  Mathematics of computing → Graph coloring 
+  Mathematics of computing → Probabilistic algorithms 
+  Networks 
+  Networks 
+  Networks → Formal specifications 
+  Networks → Network protocol design 
+  Networks → Programming interfaces 
+  Security and privacy 
+  Security and privacy → Access control 
+  Security and privacy → Distributed systems security 
+  Security and privacy → Information-theoretic techniques 
+  Security and privacy → Privacy-preserving protocols 
+  Security and privacy → Pseudonymity, anonymity and untraceability 
+  Software and its engineering 
+  Software and its engineering → Abstract data types 
+  Software and its engineering → Distributed systems organizing principles 
+  Theory of computation 
+  Theory of computation 
+  Theory of computation → Algorithmic game theory and mechanism design 
+  Theory of computation → Communication complexity 
+  Theory of computation → Complexity classes 
+  Theory of computation → Computational geometry 
+  Theory of computation → Concurrency 
+  Theory of computation → Concurrent algorithms 
+  Theory of computation → Cryptographic primitives 
+  Theory of computation → Cryptographic protocols 
+  Theory of computation → Data structures design and analysis 
+  Theory of computation → Design and analysis of algorithms 
+  Theory of computation → Distributed algorithms 
+  Theory of computation → Distributed computing models 
+  Theory of computation → Dynamic graph algorithms 
+  Theory of computation → Logic and verification 
+  Theory of computation → Massively parallel algorithms 
+  Theory of computation → Models of computation 
+  Theory of computation → Online algorithms 
+  Theory of computation → Parallel algorithms 
+  Theory of computation → Pseudorandomness and derandomization 
+  Theory of computation → Self-organization 
+  Theory of computation → Shared memory algorithms 
+  Theory of computation → Solution concepts in game theory 
+  Theory of computation → Streaming models 
+
+  Questions / Remarks / Feedback   X  Feedback for Dagstuhl Publishing  
+     
+  Send    
+   
+  Thanks for your feedback!  
+ Feedback submitted   
+ OK    
+  Could not send message  
+ Please try again later or send an E-mail    
+ OK    
+   About DROPS  
+ Schloss Dagstuhl - Leibniz Center for Informatics has been operating the Dagstuhl Research Online Publication Server (short: DROPS) since 2004. DROPS enables publication of the latest research findings in a fast, uncomplicated manner, in addition to providing unimpeded, open access to them. All the requisite metadata on each publication is administered in accordance with general guidelines pertaining to online publications (cf. Dublin Core). This enables the online publications to be authorized for citation and made accessible to a wide readership on a permanent basis. Access is free of charge for readers following the open access idea which fosters unimpeded access to scientific publications.  
+   
+ Instructions for Authors  
+ Dagstuhl Series   
+  LIPIcs 
+  OASIcs 
+  Dagstuhl Follow-Ups 
+    
+ Dagstuhl Journals   
+  DARTS – Dagstuhl Artifacts Series 
+  Dagstuhl Reports 
+  Dagstuhl Manifestos 
+  LITES 
+  TGDK – Transactions on Graph Data and Knowledge 
+
+ Instructions for Editors  
+ Dagstuhl Series   
+  LIPIcs 
+  OASIcs 
+  Dagstuhl Follow-Ups 
+    
+ Dagstuhl Journals   
+  DARTS – Dagstuhl Artifacts Series 
+  Dagstuhl Reports 
+  Dagstuhl Manifestos 
+  LITES 
+  TGDK – Transactions on Graph Data and Knowledge 
+
+ © 2023-2024 Schloss Dagstuhl – LZI GmbH  Imprint  Privacy  Contact

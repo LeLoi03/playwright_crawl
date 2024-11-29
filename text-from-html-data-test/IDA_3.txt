@@ -1,0 +1,389 @@
+You are viewing a javascript disabled version of the site. Please enable Javascript for this site to function properly.   
+   Go to header  Go to navigation  Go to search  Go to contents  Go to footer  In header section. Select this link to jump to navigation      
+ Help 
+  About us 
+  Contact us 
+
+ In navigation section. Select this link to jump to content  Menu    
+ Home 
+  Journals 
+  Cart    €  title="Change currency to USD - US Dollar"  $ 
+  Log in / Register 
+
+  Search   Search       
+   Published between:  Published from year:   and  Published to year:   Search syntax help     
+ Searching for just a few words should be enough to get started. If you need to make more complex queries, use the tips below to guide you.  
+ Boolean operators  This OR  that  
+  This AND  that  
+  This NOT  that  Must include "This" and "That"  This That  Must not include "That"  This -That  "This" is optional  This +That  Exact phrase "This That"  "This That"  Grouping  (this AND  that) OR  (that AND  other)     
+
+ In content section. Select this link to jump to navigation  Intelligent Data Analysis - Volume Pre-press, issue Pre-press  
+   
+ Purchase individual online access for 1 year to this journal.  
+ Price: EUR 135.00     Add to cart     
+  Enable new issue alert      
+    
+ ISSN 1088-467X (P)  
+  ISSN 1571-4128 (E)    
+   
+ Impact Factor 2024: 0.9   
+    
+ Intelligent Data Analysis  provides a forum for the examination of issues related to the research and applications of Artificial Intelligence techniques in data analysis across a variety of disciplines. These techniques include (but are not limited to): all areas of data visualization, data pre-processing (fusion, editing, transformation, filtering, sampling), data engineering, database mining techniques, tools and applications, use of domain knowledge in data analysis, big data applications, evolutionary algorithms, machine learning, neural nets, fuzzy logic, statistical pattern recognition, knowledge filtering, and post-processing.  
+
+ In particular, papers are preferred that discuss development of new AI related data analysis architectures, methodologies, and techniques and their applications to various domains.  
+   
+ Papers published in this journal are geared heavily towards applications, with an anticipated split of 70% of the papers published being applications-oriented, research and the remaining 30% containing more theoretical research. Manuscripts should be submitted in *.pdf format only. Please prepare your manuscripts in single space, and include figures and tables in the body of the text where they are referred to. For all enquiries regarding the submission of your manuscript please contact the IDA journal editor: [email protected]    
+   
+ Show more  Show less     
+   
+  Recommend this journal   Editorial board  Submissions  Subscribe   
+
+ Show:  10  50     
+ results per page    
+   
+  Mark all    Add marked to cart   Export marked citations     
+   
+ Select this result for bulk action   EFS-XGBoost: A robust framework for precision classification of COVID-19 cases   
+   
+ Authors:  Abidi, Mustufa Haider  | Khare, Neelu  | D., Preethi  | Alkhalefah, Hisham  | Umer, Usama   
+ Article Type:  Research Article  
+ Abstract:  The emergence of the novel COVID-19 virus has had a profound impact on global healthcare systems and economies, underscoring the imperative need for the development of precise and expeditious diagnostic tools. Machine learning techniques have emerged as a promising avenue for augmenting the capabilities of medical professionals in disease diagnosis and classification. In this research, the EFS-XGBoost classifier model, a robust approach for the classification of patients afflicted with COVID-19 is proposed. The key innovation in the proposed model lies in the Ensemble-based Feature Selection (EFS) strategy, which enables the judicious selection of relevant features from the expansive COVID-19 dataset.  …  Subsequently, the power of the eXtreme Gradient Boosting (XGBoost) classifier to make precise distinctions among COVID-19-infected patients is harnessed.The EFS methodology amalgamates five distinctive feature selection techniques, encompassing correlation-based, chi-squared, information gain, symmetric uncertainty-based, and gain ratio approaches. To evaluate the effectiveness of the model, comprehensive experiments were conducted using a COVID-19 dataset procured from Kaggle, and the implementation was executed using Python programming. The performance of the proposed EFS-XGBoost model was gauged by employing well-established metrics that measure classification accuracy, including accuracy, precision, recall, and the F1-Score. Furthermore, an in-depth comparative analysis was conducted by considering the performance of the XGBoost classifier under various scenarios: employing all features within the dataset without any feature selection technique, and utilizing each feature selection technique in isolation. The meticulous evaluation reveals that the proposed EFS-XGBoost model excels in performance, achieving an astounding accuracy rate of 99.8%, surpassing the efficacy of other prevailing feature selection techniques. This research not only advances the field of COVID-19 patient classification but also underscores the potency of ensemble-based feature selection in conjunction with the XGBoost classifier as a formidable tool in the realm of medical diagnosis and classification.  Show more   
+ Keywords:  COVID-19, machine learning, classification, ensemble-based feature selection, XGBoost  
+ DOI:  10.3233/IDA-230854  
+ Citation:  Intelligent Data Analysis  , vol. Pre-press, no. Pre-press, pp. 1-18, 2024  
+   
+ Price: EUR 27.50     Add to cart     
+
+ Select this result for bulk action   LaplaceConfidence: A graph-based approach for learning with noisy labels   
+   
+ Authors:  Chen, Mingcai  | Du, Yuntao  | Tang, Wei  | Zhang, Baoming  | Wang, Chongjun   
+ Article Type:  Research Article  
+ Abstract:  Real-world machine learning applications seldom provide perfect labeled data, posing a challenge in developing models robust to noisy labels. Recent methods prioritize noise filtering based on the discrepancies between model predictions and the provided noisy labels, assuming samples with minimal classification losses to be clean. In this work, we capitalize on the consistency between the learned model and the complete noisy dataset, employing the data’s rich representational and topological information. We introduce LaplaceConfidence, a method that to obtain label confidence (i.e., clean probabilities) utilizing the Laplacian energy. Specifically, it first constructs graphs based on the feature representations of all noisy  …  samples and minimizes the Laplacian energy to produce a low-energy graph. Clean labels should fit well into the low-energy graph while noisy ones should not, allowing our method to determine data’s clean probabilities. Furthermore, LaplaceConfidence is embedded into a holistic method for robust training, where co-training technique generates unbiased label confidence and label refurbishment technique better utilizes it. We also explore the dimensionality reduction technique to accommodate our method on large-scale noisy datasets. Our experiments demonstrate that LaplaceConfidence outperforms state-of-the-art methods on benchmark datasets under both synthetic and real-world noise. Code available at https://github.com/chenmc1996/LaplaceConfidence .  Show more   
+ Keywords:  Learning with noisy labels, graph energy, label refurbishment  
+ DOI:  10.3233/IDA-230818  
+ Citation:  Intelligent Data Analysis  , vol. Pre-press, no. Pre-press, pp. 1-17, 2024  
+   
+ Price: EUR 27.50     Add to cart     
+
+ Select this result for bulk action   Cracking black-box models: Revealing hidden machine learning techniques behind their predictions   
+   
+ Authors:  Fabra-Boluda, Raül  | Ferri, Cèsar  | Hernández-Orallo, José  | Ramírez-Quintana, M. José  | Martínez-Plumed, Fernando   
+ Article Type:  Research Article  
+ Abstract:  The quest for transparency in black-box models has gained significant momentum in recent years. In particular, discovering the underlying machine learning technique type (or model family) from the performance of a black-box model is a real important problem both for better understanding its behaviour and for developing strategies to attack it by exploiting the weaknesses intrinsic to the learning technique. In this paper, we tackle the challenging task of identifying which kind of machine learning model is behind the predictions when we interact with a black-box model. Our innovative method involves systematically querying a black-box model (oracle) to  …  label an artificially generated dataset, which is then used to train different surrogate models using machine learning techniques from different families (each one trying to partially approximate the oracle’s behaviour). We present two approaches based on similarity measures, one selecting the most similar family and the other using a conveniently constructed meta-model. In both cases, we use both crisp and soft classifiers and their corresponding similarity metrics. By experimentally comparing all these methods, we gain valuable insights into the explanatory and predictive capabilities of our model family concept. This provides a deeper understanding of the black-box models and increases their transparency and interpretability, paving the way for more effective decision making.  Show more   
+ Keywords:  Machine learning, family identification, adversarial, black-box, surrogate models  
+ DOI:  10.3233/IDA-230707  
+ Citation:  Intelligent Data Analysis  , vol. Pre-press, no. Pre-press, pp. 1-21, 2024  
+   
+  Get PDF     
+
+ Select this result for bulk action   Two-layer dynamic graph convolutional recurrent neural network for traffic flow prediction   
+   
+ Authors:  Lu, Xiangyi  | Tian, Feng  | Shen, Yumeng  | Zhang, Xuejun   
+ Article Type:  Research Article  
+ Abstract:  Traffic flow prediction can improve transportation efficiency, which is an important part of intelligent transportation systems. In recent years, the prediction method based on graph convolutional recurrent neural network has been widely used in traffic flow prediction. However, in real application scenarios, the spatial dependence of graph signals will change with time, and the filter using a fixed graph displacement operator cannot accurately predict traffic flow at the current moment. To improve the accuracy of traffic flow prediction, a two-layer graph convolutional recurrent neural network based on the dynamic graph displacement operator is proposed. The framework of our proposal is  …  to use the first layer of static graph convolutional recurrent neural network to generate the sequence wave vector of the graph displacement operator. The sequence wave vector is passed through the deconvolutional neural network to obtain the sequence dynamic graph displacement operator, and then the second layer dynamic graph convolutional recurrent neural network is used to predict the traffic flow at the next moment. The model is evaluated on the METR-LA and PEMS-BAY datasets. Experimental results demonstrate that our model signiï¬cantly outperforms other baseline models.  Show more   
+ Keywords:  Traffic flow prediction, graph convolution, deep neural network  
+ DOI:  10.3233/IDA-230174  
+ Citation:  Intelligent Data Analysis  , vol. Pre-press, no. Pre-press, pp. 1-17, 2024  
+   
+ Price: EUR 27.50     Add to cart     
+
+ Select this result for bulk action   Forecast combination with multivariate grey prediction for tourism demand forecasting   
+   
+ Authors:  Hu, Yi-Chung  | Wu, Geng   
+ Article Type:  Research Article  
+ Abstract:  Empirical evidence has shown that forecast combination can improve the prediction accuracy of tourism demand forecasting. This paper aimed to develop a more accurate grey forecast combination method (GFCM) with multivariate grey prediction models In light of the practical applicability of grey prediction, which is not required to apply any statistical test to examine data series this research features the use of multivariate grey models through the genetic algorithm to synthesize forecasts from univariate grey prediction models commonly used in tourism forecasting into composite forecasts Empirical results showed that the proposed GFCM significantly outperformed the other combination methods considered. The  …  results also suggested that the risk of forecast failures caused by selecting an inappropriate single model for tourism demand forecasting can be reduced by using the GFCM.  Show more   
+ Keywords:  Tourism demand, forecast combination, tourist arrivals, grey system, genetic algorithm  
+ DOI:  10.3233/IDA-230565  
+ Citation:  Intelligent Data Analysis  , vol. Pre-press, no. Pre-press, pp. 1-14, 2024  
+   
+ Price: EUR 27.50     Add to cart     
+
+ Select this result for bulk action   A pharmachain IoT with internal attack classification framework using PBFT-MI-RIB-RBF technique in healthcare   
+   
+ Authors:  Anbarasan, M.  | Ramesh, K.   
+ Article Type:  Research Article  
+ Abstract:  The pharmaceutical supply chain, which ensures that drugs are accessible to patients in a trusted process, is a complex arrangement in the healthcare industry. For that, a secure pharmachain framework is proposed. Primarily, the users register their details. Then, the details are converted into cipher text and stored in the blockchain. If a user requests an order, the manufacturer receives the request, and the order is handed to the distributor. Labeling is performed through Hypergeometric Distribution Centroid Selection K-Medoids Clustering (HDCS-KMC) to track the drugs. The healthcare Pharmachain architecture uses IoT to control the supply chain and provide safe medication  …  tracking. The framework includes security with a classifier and block mining consensus method, boosts performance with a decision controller, and protects user and medication information with encryption mechanisms. After that, the drugs are assigned to vehicles, where the vehicle ID and Internet of Things (IoT) sensor data are collected and pre-processed. Afterward, the pre-processed data is analyzed in the fog node by utilizing a decision controller. Now, the status ID is generated based on vehicle id and location. The generated status ID is meant for fragmentation, encryption, and block mining processes. If a user requests to view the drug’s status ID, then the user needs to get authentication. The user’s forking behavior and request activities were extracted and given to the classifier present in the block-mining consensus algorithm for authentication purposes. Block mining happens after authentication, thereby providing the status ID. Furthermore, the framework demonstrates an efficaciousness in identifying assaults with a low False Positive Rate (FPR) of 0.022483% and a low False Negative Rate (FNR) of 1.996008%. Additionally, compared to traditional methods, the suggested strategy exhibits good precision (97.869%), recall (97.0039%), accuracy (98%), and F-measure (97.999%).  Show more   
+ Keywords:  Double Transposed-Prime Key-Columnar Transposition Cipher (DT-PK-CTC), Internet of Things (IoT), Hypergeometric Distribution Centroid Selection K-Medoids Clustering (HDCS-KMC), healthcare, pharmachain, Radial Basis Function (RBF)  
+ DOI:  10.3233/IDA-240087  
+ Citation:  Intelligent Data Analysis  , vol. Pre-press, no. Pre-press, pp. 1-25, 2024  
+   
+ Price: EUR 27.50     Add to cart     
+
+ Select this result for bulk action   Spatio-temporal patterns assisted deep learning model for PM 2.5  prediction (STEEP)   
+   
+ Authors:  S, Sharmiladevi  | S, Siva Sathya   
+ Article Type:  Research Article  
+ Abstract:  Air pollution is an alarming problem in many cities and countries around the globe. The ability to forecast air pollutant levels plays a crucial role in implementing necessary prevention measures to curb its effects in advance. There are many statistical, machine learning, and deep learning models available to predict air pollutant values, but only a limited number of models take into account the spatio-temporal factors that influence pollution. In this study a novel Deep Learning model that is augmented with Spatio-Temporal Co-Occurrence Patterns (STEEP) is proposed. The deep learning model uses the Closed Spatio-Temporal Co-Occurrence Pattern mining (C-STCOP) algorithm to  …  extract non-redundant/closed patterns and the Diffusion Convolution Recurrent Neural Network (DCRNN) for time series prediction. By constructing a graph based on the co-occurrence patterns obtained from C-STCOP, the proposed model effectively addresses the spatio-temporal association among monitoring stations. Furthermore, the sequence-to-sequence encoder-decoder architecture captures the temporal dependencies within the time series data. The STEEP model is evaluated using the Delhi air pollutants dataset and shows an average improvement of 8%–13% in RMSE, MAE and MAPE metric compared to the baseline models.  Show more   
+ Keywords:  PM2.5 pollutant, spatio-temporal patterns, deep learning, time series prediction, delhi, air pollution  
+ DOI:  10.3233/IDA-240028  
+ Citation:  Intelligent Data Analysis  , vol. Pre-press, no. Pre-press, pp. 1-18, 2024  
+   
+ Price: EUR 27.50     Add to cart     
+
+ Select this result for bulk action   Machine learning and deep learning methods in brain tumor classification: A decade: Systematic literature review   
+   
+ Authors:  Jain, Sachin  | Jain, Vishal   
+ Article Type:  Research Article  
+ Abstract:  There has been extensive use of machine learning (ML) based tools for mathematical symbol and phrase categorization and prediction. Aiming to thoroughly analyze the existing methods for categorizing brain tumors, this paper considers both machine-learning and non-machine-learning approaches. From 2013 to 2023, the writers compiled and reviewed research papers on brain tumor detection. Wiley, IEEE-Explore, Science-Direct, Scopus, ACM-Digital Library, and others provide the relevant data. A systematic literature review examines the efficacy of research methodologies over the last ten years or more by compiling relevant publications and studies from various sources. Accuracy, sensitivity, specificity, and computing efficiency are some of  …  the criteria that researchers use to evaluate these methods. The availability of labeled data, the required degree of automation and accuracy in the classification process, and the unique dataset are generally the deciding factors in the method choice. This work integrates previous research findings to summarize the current state of brain tumor categorization. This paper summarizes the 169 research papers in brain tumor detection between 2013–2023 and explores the application and development of machine learning methods in brain tumor detection, which has significant research implications and value in the field of brain tumor classification research. All research findings of previous studies are arranged in this paper in the form of research questions and answers format.  Show more   
+ Keywords:  Brain tumor classification, machine learning, deep learning, SVM, CNN  
+ DOI:  10.3233/IDA-240069  
+ Citation:  Intelligent Data Analysis  , vol. Pre-press, no. Pre-press, pp. 1-32, 2024  
+   
+ Price: EUR 27.50     Add to cart     
+
+ Select this result for bulk action   HAGCN: A relation extraction model based on heterogeneous graph convolutional neural network and graph attention   
+   
+ Authors:  He, Xinyu  | Kan, Manfei  | Ren, Yonggong   
+ Article Type:  Research Article  
+ Abstract:  Relation extraction is one of the core tasks of natural language processing, which aims to identify entities in unstructured text and judge the semantic relationships between them. In the traditional methods, the extraction of rich features and the judgment of complex semantic relations are inadequate. Therefore, in this paper, we propose a relation extraction model, HAGCN, based on heterogeneous graph convolutional neural network and graph attention mechanism. We have constructed two different types of nodes, words and relations, in a heterogeneous graph convolutional neural network, which are used to extract different semantic types and attributes and further extract contextual semantic  …  representations. By incorporating the graph attention mechanism to distinguish the importance of different information, and the model has stronger representation ability. In addition, an information update mechanism is designed in the model. Relation extraction is performed after iteratively fusing the node semantic information to obtain a more comprehensive node representation. The experimental results show that the HAGCN model achieves good relation extraction performance, and its F1 value reaches 91.51% in the SemEval-2010 Task 8 dataset. In addition, the HAGCN model also has good results in the WebNLG dataset, verifying the generalization ability of the model.  Show more   
+ Keywords:  Relation extraction, heterogeneous graph convolution, graph attention, information update  
+ DOI:  10.3233/IDA-240083  
+ Citation:  Intelligent Data Analysis  , vol. Pre-press, no. Pre-press, pp. 1-17, 2024  
+   
+ Price: EUR 27.50     Add to cart     
+
+ Select this result for bulk action   Enhancing 3D medical image registration with cross attention, residual skips, and cascade attention   
+   
+ Authors:  Anwar, Muhammad  | He, Zhiquan  | Cao, Wenming   
+ Article Type:  Research Article  
+ Abstract:  At the core of Deep Learning-based Deformable Medical Image Registration (DMIR) lies a strong foundation. Essentially, this network compares features in two images to identify their mutual correspondence, which is necessary for precise image registration. In this paper, we use three novel techniques to increase the registration process and enhance the alignment accuracy between medical images. First, we propose cross attention over multi-layers of pairs of images, allowing us to take out the correspondences between them at different levels and improve registration accuracy. Second, we introduce a skip connection with residual blocks between the encoder and decoder, helping information flow  …  and enhancing overall performance. Third, we propose the utilization of cascade attention with residual block skip connections, which enhances information flow and empowers feature representation. Experimental results on the OASIS data set and the LPBA40 data set show the effectiveness and superiority of our proposed mechanism. These novelties contribute to the enhancement of 3D DMIR-based on unsupervised learning with potential implications in clinical practice and research.  Show more   
+ Keywords:  Deformable medical image registration, similarity measures, deep learning, convolutional neural networks  
+ DOI:  10.3233/IDA-230692  
+ Citation:  Intelligent Data Analysis  , vol. Pre-press, no. Pre-press, pp. 1-19, 2024  
+   
+ Price: EUR 27.50     Add to cart     
+
+ Display: 10  | 50  | 100  items per page   
+ 1 
+  2 
+  3 
+  4 
+  Next » 
+
+ Volume Pre-press | Issue Pre-press 
+  Volume 28 | Issue 6 
+  Issue 5 
+  Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+  Volume 27 | Issue 6 
+  Issue 5 
+  Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+  Issue S1 
+  Volume 26 | Issue 6 
+  Issue 5 
+  Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+  Volume 25 | Issue 6 
+  Issue 5 
+  Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+  Volume 24 | Issue 6 
+  Issue 5 
+  Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+  Issue S1 
+  Volume 23 | Issue 6 
+  Issue 5 
+  Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+  Issue S1 
+  Volume 22 | Issue 6 
+  Issue 5 
+  Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+  Volume 21 | Issue 6 
+  Issue 5 
+  Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+  Issue S1 
+  Volume 20 | Issue 6 
+  Issue 5 
+  Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+  Issue s1 
+  Volume 19 | Issue 6 
+  Issue 5 
+  Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+  Issue s1 
+  Volume 18 | Issue 6 
+  Issue 5 
+  Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+  Issue 6S 
+  Volume 17 | Issue 6 
+  Issue 5 
+  Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+  Volume 16 | Issue 6 
+  Issue 5 
+  Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+  Volume 15 | Issue 6 
+  Issue 5 
+  Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+  Volume 14 | Issue 6 
+  Issue 5 
+  Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+  Volume 13 | Issue 6 
+  Issue 5 
+  Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+  Volume 12 | Issue 6 
+  Issue 5 
+  Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+  Volume 11 | Issue 6 
+  Issue 5 
+  Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+  Volume 10 | Issue 6 
+  Issue 5 
+  Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+  Volume 9 | Issue 6 
+  Issue 5 
+  Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+  Volume 8 | Issue 6 
+  Issue 5 
+  Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+  Volume 7 | Issue 6 
+  Issue 5 
+  Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+  Volume 6 | Issue 6 
+  Issue 5 
+  Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+  Volume 5 | Issue 6 
+  Issue 5 
+  Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+  Volume 4 | Issue 6 
+  Issue 5 
+  Issue 3-4 
+  Issue 2 
+  Issue 1 
+  Volume 3 | Issue 6 
+  Issue 5 
+  Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+  Volume 2 | Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+  Volume 1 | Issue 4 
+  Issue 3 
+  Issue 2 
+  Issue 1 
+    
+ Show more    
+
+ Go to header  Go to navigation  Go to search  Go to contents  Go to footer  In footer section. Select this link to jump to content  Administrator log in | Shibboleth log in 
+  Journals 
+  Help 
+  About us 
+  Contact us 
+
+ Terms & conditions 
+  Privacy policy 
+  Copyright ©2024 IOS Press All rights reserved. 
+
+ Join our network: 
+  Twitter 
+  Facebook 
+  LinkedIn 
+
+ North America  
+ IOS Press, Inc.  
+  6751 Tepper Drive  
+  Clifton, VA 20124  
+  USA  
+   
+ Tel: +1 703 830 6300  
+  Fax: +1 703 830 2300  
+  [email protected]    
+   
+ For editorial issues, like the status of your submitted paper or proposals, write to [email protected]    
+
+ Europe  
+ IOS Press  
+  Nieuwe Hemweg 6B  
+  1013 BG Amsterdam  
+  The Netherlands  
+   
+ Tel: +31 20 688 3355  
+  Fax: +31 20 687 0091  
+  [email protected]    
+   
+ For editorial issues, permissions, book requests, submissions and proceedings, contact the Amsterdam office [email protected]    
+
+ Asia  
+ Inspirees International (China Office)  
+  Ciyunsi Beili 207(CapitaLand), Bld 1, 7-901  
+  100025, Beijing  
+  China  
+   
+  Free service line: 400 661 8717  
+  Fax: +86 10 8446 7947  
+  [email protected]    
+   
+ For editorial issues, like the status of your submitted paper or proposals, write to [email protected]    
+ 如果您在出版方面需要帮助或有任何建, 件至: [email protected]    
+
+ Built on the Scolaris platform by:

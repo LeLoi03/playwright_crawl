@@ -1,0 +1,95 @@
+HotOS  XIX    
+   
+ Home 
+  Attend 
+  Venue 
+  Program 
+  CFP 
+
+ Program  
+   
+ Note that this program is preliminary and changes may happen before the workshop.  
+ Thursday, June 22, 2023  
+ The CPU is dead! Long live the CPU! 8:50 - 10:15  Session Chair: Jon Howell (VMware Research)   
+  
+ Introductory Remarks 
+ A Blueprint for CPU-Free Computing | Animesh Trivedi (VU Amsterdam); Marco Spaziani Brunella (Axbryd/University of Rome Tor Vergata) 
+  Metal: An Open Architecture for Developing Processor Features | Siyao Zhao, Ali Mashtizadeh (University of Waterloo) 
+  Software-Defined CPU Modes | Michael Roitzsch, Till Miemietz (Barkhausen Institut); Christian von Elm (Technische Universität Dresden); Nils Asmussen (Barkhausen Institut) 
+  
+ The final showdown between hardware and software 10:45 - 12:00  Session Chair: Marios Kogias (Imperial College London & Azure Research Microsoft)   
+  
+ Out of Hand for Hardware? Within Reach for Software! | Zhihong Luo, Silvery Fu (UC Berkeley); Emmanuel Amaro (VMware Research); Amy Ousterhout (UC San Diego); Sylvia Ratnasamy (UC Berkeley); Scott Shenker (ICSI and UC Berkeley) 
+  The Case for Performance Interfaces for Hardware Accelerators | Rishabh Iyer, Jiacheng Ma, Katerina Argyraki, George Candea (EPFL); Sylvia Ratnasamy (UC Berkeley & Google) 
+  Putting out the hardware dumpster fire | Ben Fiedler, Daniel Schwyn (ETH Zurich); Constantin Gierczak-Galle (ENS Paris); David Cock, Timothy Roscoe (ETH Zurich) 
+
+ Lunch: 12:00–13:30 
+
+ 13:30–14:30: Panel on Future of Reproduction and Replication of Systems Research 
+ Panelists:  Shriram Krishnamurthi (Brown University), Margo Seltzer (University of British Columbia), Neeraja J. Yadwadkar (UT Austin and VMware Research)  
+  Organizers:  Roberta De Viti (MPI-SWS), Solal Pirelli (EPFL), Vaastav Anand (MPI-SWS) 
+  
+ Cache me if you can 14:30 - 15:45  Session Chair: Shan Lu (University of Chicago)   
+  
+ Prefetching Using Principles of Hippocampal-Neocortical Interaction | Michael Wu, Ketaki Joshi, Andrew Sheinberg (Yale University); Guilherme Cox (NVIDIA); Anurag Khandelwal Raghavendra Pradyumna Pothukuchi, Abhishek Bhattacharjee (Yale University) 
+  Degrading Data to Save the Planet | Aviad Zuck (Technion); Donald Porter (The University of North Carolina at Chapel Hill); Dan Tsafrir (Technion & VMware Research) 
+  FIFO can be Better than LRU: the Power of Lazy Promotion and Quick Demotion | Juncheng Yang, Ziyue Qiu (Carnegie Mellon University); Yazhuo Zhang (Emory University); Yao Yue (Pelikan Foundation); Rashmi Vinayak (Carnegie Mellon University) 
+  
+ When only the largest models will do 16:15 - 17:05  Session Chair: Donald Porter (The University of North Carolina at Chapel Hill)   
+  
+ System Virtualization for Neural Processing Units | Yuqi Xue, Yiqi Liu, Jian Huang (University of Illinois Urbana Champaign) 
+  HotGPT: How to Make Software Documentation More Useful with a Large Language Model | Yiming Su, Chengcheng Wan, Utsav Sethi, Shan Lu (University of Chicago); Madan Musuvathi, Suman Nath (Microsoft Research) 
+
+ 17:05–18:00: Systems Trivia Episode III: Revenge of the Bits! | Organizers: Roberta De Viti (MPI-SWS), Vaastav Anand (MPI-SWS) 
+
+ 18:30–21:00: Banquet | Mill's Tavern 
+  
+ Friday, June 23, 2023  
+ Fast & furious data processing 9:00 - 10:15  Session Chair: Neeraja J. Yadwadkar (UT Austin and VMware Research)   
+  
+ Skadi: Building a Distributed Runtime for Data Systems in Disaggregated Data Centers | Cunchen Hu, Chenxi Wang, Sa Wang, Ninghui Sun, Yungang Bao (ICT, CAS); Jieru Zhao (Shanghai Jiao Tong University); Sanidhya Kashyap (EPFL); Xiaoyang Deng, Pengfei Zuo Rongfeng He, Xushen Chen, Liangliang Xu, Qin Zhang, Hao Feng, Yizhou Shan (Huawei Cloud) 
+  Executing Shell Scripts in the Wrong Order, Correctly | Georgios Liargkovas (Brown University & AUEB); Konstantinos Kallas (University of Pennsylvania); Michael Greenberg (Stevens Institute of Technology); Nikos Vasilakis (Brown University & MIT) 
+  Towards Modern Development of Cloud Applications | Sanjay Ghemawat, Robert Grandl, Srdjan Petrovic, Michael Whittaker, Parveen Patel, Ivan Posva, Amin Vahdat (Google) 
+  
+ A trip down memory lane 10:45 - 12:00  Session Chair: Alain Tchana (Grenoble INP)   
+  
+ Fabric-Centric Computing | Ming Liu (UW-Madison) 
+  Towards Increased Datacenter Efficiency with Soft Memory | Megan Frisella, Shirley Loayza Sanchez, Malte Schwarzkopf (Brown University) 
+  NextGen-Malloc: Giving Memory Allocator Its Own Room in the House | Ruihao Li, Qinzhe Wu (The University of Texas at Austin); Krishna Kavi, Gayatri Mehta (University of North Texas); Neeraja J. Yadwadkar, Lizy John (The University of Texas at Austin) 
+
+ Lunch: 12:00–13:30 
+  
+ OS kernels: what do we want in them? 13:30 - 14:45  Session Chair: Andrew Baumann (Google)   
+  
+ Automatic kernel offload using BPF | Farbod Shahinfar (Politecnico di Milano); Sebastiano Miano (Queen May University of London); Giuseppe Siracusano Roberto Bifulco (NEC Laboratories Europe); Aurojit Panda (New York University); Gianni Antichi (Politecnico di Milano and Queen Mary University of London) 
+  Kernel extension verification is untenable | Jinghao Jia (University of Illinois Urbana-Champaign); Raj Sahu, Adam Oswald, Dan Williams (Virginia Tech); Michael V. Le (IBM Research); Tianyin Xu (University of Illinois at Urbana-Champaign) 
+  Beyond isolation: OS verification as a foundation for correct applications | Matthias Brun (ETH Zurich); Reto Achermann (University of British Columbia); Tej Chajed, Jon Howell, Gerd Zellweger Andrea Lattuada (VMware Research) 
+  
+ OS kernels: what don't we want in them? 15:15 - 16:30  Session Chair: Aurojit Panda (New York University)   
+  
+ Evolving OS kernels towards secure kernel-driver interfaces | Anton Burtsev, Vikram Narayanan (University of Utah); Yongzhe Huang, Kaiming Huang, Gang Tan, Trent Jaeger (Pennsylvania State University) 
+  Why write code when you can synthesize address translations? | Reto Achermann, Ilias Karimalis, Margo Seltzer (University of British Columbia) 
+  FBMM: Using the VFS for extensibility | Bijan Tabatabai, Mark Mansi, Michael M. Swift (University of Wisconsin-Madison) 
+
+ 16:45–18:00: Panel on Sustainable Systems 
+ Panelists:  Babak Falsafi (EPFL), Vijay Gadepally (MIT Lincoln Laboratory), Adam Belay (MIT CSAIL), Carole-Jean Wu (Meta), Andrew Chien (University of Chicago)  
+  Organizers:  Jaylen Wang (Carnegie Mellon University), Udit Gupta (Cornell University), Akshitha Sriraman (Carnegie Mellon University) 
+
+ 18:00–20:00: Dinner (on your own) – Restaurant Recommendations 
+
+ 20:30–22:00: Bar Night at the Grad Student Bar! 
+  
+ Saturday, June 24, 2023  
+ Let's get disaggregated! 9:00 - 10:15  Session Chair: Natacha Crooks (UC Berkeley)   
+  
+ Programming Fully Disaggregated Systems | Christoph Anneser, Lukas Vogel, Ferdinand Gruber Maximilian Bandle, Jana Giceva (Technical University of Munich) 
+  Unleashing True Utility Computing with Quicksand | Zhenyuan Ruan (MIT); Shihang Li (Brown University); Kaiyan Fan (MIT); Marcos K. Aguilera (VMware Research); Adam Belay (MIT CSAIL); Seo Jin Park (Google); Malte Schwarzkopf (Brown University) 
+  Towards a Manageable Intra-Host Network | Xinhao Kong (Duke University); Jiaqi Lou (UIUC); Wei Bai (Microsoft Research); Nam Sung Kim (UIUC); Danyang Zhuo (Duke University) 
+  
+ I see nothing. I know nothing. 10:45 - 12:00  Session Chair: Manos Kapritsos (University of Michigan)   
+  
+ Towards (Really) Safe and Fast Confidential I/O | Hugo Lefeuvre (The University of Manchester); David Chisnall (Azure Research Microsoft); Marios Kogias (Imperial College London & Azure Research Microsoft); Pierre Olivier (The University of Manchester) 
+  Access Control for Database Applications: Beyond Policy Enforcement | Wen Zhang (UC Berkeley); Aurojit Panda (New York University); Scott Shenker (ICSI AND UC Berkeley) 
+  Creating Trust by Abolishing Hierarchies | Charly Castes (EPFL); Adrien Ghosn (Microsoft Research); Neelu S. Kalani, Yuchen Qian (EPFL); Marios Kogias (Imperial College London & Microsoft Research); Mathias Payer, Edouard Bugnion (EPFL) 
+
+ Banner image © Macaolards on Wikimedia Commons  licensed under CC BY-SA 4.0  . Rest © SIGOPS, 2022.

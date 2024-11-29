@@ -1,0 +1,281 @@
+Progress in Cryptology – LATINCRYPT 2023 | springerprofessional.de  Skip to main content    Menü   Fachgebiete Chevron down icon     Chevron up icon        Automobil + Motoren    Bauwesen + Immobilien    Business IT + Informatik    Elektrotechnik + Elektronik    Energie + Nachhaltigkeit    Finance + Banking    Management + Führung    Marketing + Vertrieb    Maschinenbau + Werkstoffe    Versicherung + Risiko      
+   
+ DE     
+ EN      
+   
+ Bücher       
+   
+ Zeitschriften       
+   
+ Themenseiten Chevron down icon     Chevron up icon        Organisationspsychologie    Projektmanagement    Marketing    Smart Manufacturing      
+
+ Weitere Formate Chevron down icon     Chevron up icon        Podcasts    Webinare Technik    Webinare Wirtschaft    Kongresse    Veranstaltungskalender    Awards    MyNewsletter      
+
+ Jetzt Einzelzugang starten       
+   
+ Zugang für Unternehmen       
+   
+ Referenzkunden       
+   
+ Sustainability in Automotive       
+
+ Gesamtlebenszyklus wird immer wichtiger  
+ In der Digitalkonferenz am 5. Dezember 2024 geht es um die wachsende Bedeutung der Kreislaufwirtschaft in der Automobilindustrie und wie nachhaltige Werkstoffe sowie wiederverwendbare Komponenten dazu beitragen können.  
+
+ Springer Professional     
+   
+   Suche   Suchbegriffe eingeben       Suchen     
+  
+ Erweiterte Suche      
+
+  Anmelden      
+
+ Springer Professional  
+
+ JAVASCRIPT BENÖTIGT    
+ Bitte aktivieren Sie Java-Script in Ihrem Browser, damit Sie alle Vorteile und Funktionen dieser Website nutzen können.   
+
+  INTERNET EXPLORER WIRD NICHT MEHR UNTERSTÜZT    
+ Der Internet Explorer wird als Browser seitens Microsoft nicht mehr unterstützt. Für Ihr optimales Nutzungserlebnis wählen Sie bitte Microsoft Edge, Safari, Chrome oder Firefox als Browser.   
+
+ nach oben    
+
+ 2023 | Buch  
+
+ Kapitel lesen  Erstes Kapitel lesen     
+   
+ Progress in Cryptology – LATINCRYPT 2023  
+ 8th International Conference on Cryptology and Information Security in Latin America, LATINCRYPT 2023, Quito, Ecuador, October 3–6, 2023, Proceedings  
+ herausgegeben von: Abdelrahaman Aly, Mehdi Tibouchi   
+   
+ Verlag: Springer Nature Switzerland    
+ Buchreihe : Lecture Notes in Computer Science    
+ Enthalten in: Springer Professional "Wirtschaft+Technik"  ,   Springer Professional "Technik"  ,   Springer Professional "Wirtschaft"    
+   
+ Inhaltsverzeichnis    
+
+      Suchen      
+ insite    
+ SUCHEN    
+
+ Über dieses Buch  
+ This book constitutes the refereed proceedings of the 8th International Conference on Progress in Cryptology, LATINCRYPT 2023, held in Quito, Ecuador, in October 2023. The 19 full papers included in this book were carefully reviewed and selected from 59 submissions. They were organized in topical sections as follows: Symmetric-Key Cryptography; Multi-Party Computation; Isogeny-Based Cryptography; Discrete Logarithm Problem; Cryptographic Protocols; Real-World Cryptography; and Zero-Knowledge Proofs.  
+
+ MyTopic Alert   
+  Loggen Sie sich ein, um Ihre Alerts zu aktualisieren und Neue anzulegen.  
+
+ Anzeige   
+
+ Inhaltsverzeichnis  
+ Frontmatter  
+  
+ Symmetric-Key Cryptography  
+ Frontmatter  
+  
+ On the Algebraic Immunity of Weightwise Perfectly Balanced Functions  
+  Abstract   
+ In this article we study the Algebraic Immunity (AI) of Weightwise Perfectly Balanced (WPB) functions. After showing a lower bound on the AI of two classes of WPB functions from the previous literature, we prove that the minimal AI of a WPB n  -variables function is constant, equal to 2 for \(n\ge 4\)  . Then, we compute the distribution of the AI of WPB function in 4 variables, and estimate the one in 8 and 16 variables. For these values of n  we observe that a large majority of WPB functions have optimal AI, and that we could not obtain a WPB function with AI 2 by sampling at random. Finally, we address the problem of constructing WPB functions with bounded algebraic immunity, exploiting a construction from [ 12  ]. In particular, we present a method to generate multiple WPB functions with minimal AI, and we prove that the WPB functions with high nonlinearity exhibited in [ 12  ] also have minimal AI. We conclude with a construction giving WPB functions with lower bounded AI, and give as example a family with all elements with AI at least \(n/2-\log (n)+1\)  .   
+   
+ Agnese Gini, Pierrick Méaux   
+
+ ACE-HoT: Accelerating an Extreme Amount of Symmetric Cipher Evaluations for (High-order) Avalanche Tests  
+  Abstract   
+ In this work, we tackle the problem of estimating the security of iterated symmetric ciphers in an efficient manner, with tests that do not require a deep analysis of the internal structure of the cipher. This is particularly useful during the design phase of these ciphers, especially for quickly testing several combinations of possible parameters defining several cipher design variants.   
+ We consider a popular statistical test that allows us to determine the probability of flipping each cipher output bit, given a small variation in the input of the cipher. From these probabilities, one can compute three measurable metrics related to the well-known full diffusion, avalanche and strict avalanche criteria.   
+ This highly parallelizable testing process scales linearly with the number of samples, i.e., cipher inputs, to be evaluated and the number of design variants to be tested. But, the number of design variants might grow exponentially with respect to some parameters.   
+ The high cost of Central Processing Unit (CPU)s makes them a bad candidate for this kind of parallelization. As a main contribution, we propose a framework, ACE-HoT, to parallelize the testing process using multi-Graphics Processing Units (GPUs). Our implementation does not perform any intermediate CPU-GPU data transfers.   
+ The diffusion and avalanche criteria can be seen as an application of discrete first-order derivatives. As a secondary contribution, we generalize these criteria to their high-order  version. Our generalization requires an exponentially larger number of samples, in order to compute sufficiently accurate probabilities. As a case study, we apply ACE-HoT on most of the finalists of the National Institute of Standards and Technologies (NIST) lightweight standardization process, with a special focus on the winner ASCON.   
+   
+ Emanuele Bellini, Juan Grados, Mohamed Rachidi, Nitin Satpute, Joan Daemen, Solane El Hirch   
+
+ Multi-party Computation  
+ Frontmatter  
+  
+ On Fully-Secure Honest Majority MPC Without Round Overhead  
+  Abstract   
+ Fully secure multiparty computation (or guaranteed output delivery) among n  parties can be achieved with perfect security if the number of corruptions t  is less than n  /3, or with statistical security with the help of a broadcast channel if \(t<n/2\)  . In the case of \(t<n/3\)  , it is known that it is possible to achieve linear communication complexity, but at a cost of having a round count of \(\varOmega (\textsf{depth}(C) + n)\)  in the worst case. The number of rounds can be reduced to \(O(\textsf{depth}(C))\)  by either increasing communication, or assuming some correlated randomness (a setting also known as the preprocesing model). For \(t<n/2\)  it is also known that linear communication complexity is achievable, but at the cost of \(\varOmega (\textsf{depth}(C) + n^2)\)  rounds, due to the use of a technique called dispute control. However, in contrast to the \(t<n/3\)  setting, it is not known how to reduce this round count for \(t<n/2\)  to \(O(\textsf{depth}(C))\)  , neither allowing for larger communication, or by using correlated randomness.   
+ In this work we make progress in this direction by taking the second route above: we present a fully secure protocol for \(t<n/2\)  in the preprocessing model, that achieves linear communication complexity, and whose round complexity is only \(O(\textsf{depth}(C))\)  , without the additive \(n^2\)  term that appears from the use of dispute control. While on the \(t<n/3\)  such result requires circuits of width \(\varOmega (n)\)  , in our case circuits must be of width \(\varOmega (n^2)\)  , leaving it as an interesting future problem to reduce this gap. Our \(O(\textsf{depth}(C))\)  round count is achieved by avoiding the use of dispute control entirely, relying on a different tool for guaranteeing output. In the \(t<n/3\)  setting when correlated randomness is available, this is done by using error correction to reconstruct secret-shared values, but in the \(t<n/2\)  case the equivalent is robust secret-sharing, which guarantees the reconstruction of a secret in spite of errors. However, we note that a direct use of such tool would lead to quadratic  communication, stemming from the fact that each party needs to authenticate their share towards each other party. At the crux of our techniques lies a novel method for reconstructing a batch of robustly secret-shared values while involving only a linear amount of communication per secret, which may also be of independent interest.   
+   
+ Daniel Escudero, Serge Fehr   
+
+ Privacy-Preserving Edit Distance Computation Using Secret-Sharing Two-Party Computation  
+  Abstract   
+ The edit distance is a metric widely used in genomics to measure the similarity of two DNA chains. Motivated by privacy concerns, we propose a 2PC protocol to compute the edit distance while preserving the privacy of the inputs. Since the edit distance algorithm can be expressed as a mixed-circuit computation, our approach uses protocols based on secret-sharing schemes like Tinier and SPD \({\mathbb {Z}}_{2^k}\)  ; and also daBits to perform domain conversion and edaBits to perform arithmetic comparisons. We modify the Wagner-Fischer edit distance algorithm, aiming at reducing the number of rounds of the protocol, and achieve a flexible protocol with a trade-off between rounds and multiplications. We implement our proposal in the MP-SPDZ framework, and our experiments show that it reduces the execution time respectively by 81% and 54% for passive and active security with respect to a baseline implementation in a LAN. The experiments also show that our protocol reduces traffic by two orders of magnitude compared to a BMR-MASCOT implementation.   
+   
+ Hernán Vanegas, Daniel Cabarcas, Diego F. Aranha   
+
+ Broadcast-Optimal Two Round MPC with Asynchronous Peer-to-Peer Channels  
+  Abstract   
+ In this paper we continue the study of two-round broadcast-optimal MPC, where broadcast is used in one of the two rounds, but not in both. We consider the realistic scenario where the round that does not use broadcast is asynchronous  . Since a first asynchronous round (even when followed by a round of broadcast) does not admit any secure computation, we introduce a new notion of asynchrony which we call \((t_{d}, t_{m})\)  -asynchrony. In this new notion of asynchrony, an adversary can delay or drop up to \(t_{d}\)  of a given party’s incoming messages; we refer to \(t_{d}\)  as the deafness threshold  . Similarly, the adversary can delay or drop up to \(t_{m}\)  of a given party’s outgoing messages; we refer to \(t_{m}\)  as the muteness threshold  .   
+ We determine which notions of secure two-round computation are achievable when the first round is \((t_{d}, t_{m})\)  -asynchronous, and the second round is over broadcast. Similarly, we determine which notions of secure two-round computation are achievable when the first round is over broadcast, and the second round is (fully) asynchronous. We consider the cases where a PKI is available, when only a CRS is available but private communication in the first round is possible, and the case when only a CRS is available and no private communication is possible before the parties have had a chance to exchange public keys.   
+   
+ Ivan Damgård, Divya Ravi, Luisa Siniscalchi, Sophia Yakoubov   
+
+ Isogeny-Based Cryptography  
+ Frontmatter  
+  
+ Effective Pairings in Isogeny-Based Cryptography  
+  Abstract   
+ Pairings are useful tools in isogeny-based cryptography and have been used in SIDH/SIKE and other protocols. As a general technique, pairings can be used to move problems about points on curves to elements in finite fields. However, until now, their applicability was limited to curves over fields with primes of a specific shape and pairings seemed too costly for the type of primes that are nowadays often used in isogeny-based cryptography. We remove this roadblock by optimizing pairings for highly-composite degrees such as those encountered in CSIDH and SQISign. This makes the general technique viable again: We apply our low-cost pairing to problems of general interest, such as supersingularity verification and finding full-torsion points, and show that we can outperform current methods, in some cases up to four times faster than the state-of-the-art. Furthermore, we analyze how pairings can be used to improve deterministic and dummy-free CSIDH. Finally, we provide a constant-time implementation (in Rust) that shows the practicality of these algorithms.   
+   
+ Krijn Reijnders   
+
+ Fast and Frobenius: Rational Isogeny Evaluation over Finite Fields  
+  Abstract   
+ Consider the problem of efficiently evaluating isogenies \(\phi : \mathcal {E}\rightarrow \mathcal {E}/H\)  of elliptic curves over a finite field \(\mathbb {F}_q\)  , where the kernel \(H = \langle {G}\rangle \)  is a cyclic group of odd (prime) order: given \(\mathcal {E}\)  , \(G\)  , and a point (or several points) P  on \(\mathcal {E}\)  , we want to compute \(\phi (P)\)  . This problem is at the heart of efficient implementations of group-action- and isogeny-based post-quantum cryptosystems such as CSIDH. Algorithms based on Vélu’s formulæ give an efficient solution when the kernel generator G  is defined over \(\mathbb {F}_q\)  , but for general isogenies \(G\)  is only defined over some extension \(\mathbb {F}_{q^k}\)  , even though \(\langle {G}\rangle \)  as a whole (and thus \(\phi \)  ) is defined over the base field \(\mathbb {F}_q\)  ; and the performance of Vélu-style algorithms degrades rapidly as k  grows. In this article we revisit isogeny evaluation with a special focus on the case where \(1 \le k \le 12\)  . We improve Vélu-style evaluation for many cases where \(k = 1\)  using special addition chains, and combine this with the action of Galois to give greater improvements when \(k > 1\)  .   
+   
+ Gustavo Banegas, Valerie Gilchrist, Anaëlle Le Dévéhat, Benjamin Smith   
+
+ Towards a Quantum-Resistant Weak Verifiable Delay Function  
+  Abstract   
+ In this paper, we present a new quantum-resistant weak Verifiable Delay Function based on a purely algebraic construction. Its delay depends on computing a large-degree isogeny between elliptic curves, whereas its verification relies on the computation of isogenies between products of two elliptic curves. One of its major advantages is its expected fast verification time. However, it is important to note that the practical implementation of our theoretical framework poses significant challenges. We examine the strengths and weaknesses of our construction, analyze its security and provide a proof-of-concept implementation. (Author list in alphabetical order; see https://​www.​ams.​org/​/​profession/​leaders/​CultureStatement​04.​pdf    .)   
+   
+ Thomas Decru, Luciano Maino, Antonio Sanso   
+
+ Discrete Logarithm Problem  
+ Frontmatter  
+  
+ Making the Identity-Based Diffie–Hellman Key Exchange Efficiently Revocable  
+  Abstract   
+ We propose an efficient identity-based authenticated-key exchange (IB-AKE) protocol that is equipped with scalable key revocation. Our protocol builds upon the most efficient identity-based Diffie–Hellman key exchange (without revocation mechanisms) presented by Fiore and Gennaro at CT-RSA 2010, which can be constructed from pairing-free groups. The key revocation is essential for IB-AKE protocols in long-term practical operation. Our key revocation mechanism allows the key exchange protocol to remain comparable to the original Fiore–Gennaro identity-based key exchange, unlike other revocable schemes that require major (inefficient) modifications to their original IB-AKE protocols. Moreover, our revocation mechanism is scalable, in the sense that its computational cost is logarithmic, rather than linear, to the number of users. We provide a security proof in the identity-based extended Canetti–Krawczyk security model that is further extended in order to incorporate key revocation. The security of our scheme reduces to the well-established strong Diffie–Hellman assumption. For this proof, we devise a multi-forking lemma  , an extended version of the general forking lemma.   
+   
+ Kohei Nakagawa, Atsushi Fujioka, Akira Nagai, Junichi Tomida, Keita Xagawa, Kan Yasuda   
+
+ On the Discrete Logarithm Problem in the Ideal Class Group of Multiquadratic Fields  
+  Abstract   
+ In this work we show that the discrete logarithm problem in the ideal class group of the multiquadratic field \(K = \mathbb {Q}(\sqrt{d_1}, \ldots , \sqrt{d_n})\)  of degree \(m = 2^n\)  can be solved in classical time \(e^{\widetilde{\mathcal {O}}(\max (\log {m},\sqrt{\log {D}}))}\)  using an adaptation of Pohlig-Hellman approach, where \(D = d_1 \cdot \ldots \cdot d_n\)  . This complexity is for the case when the factorization of the target ideal norm is not given. Thanks to our implementation, we provide numerical examples of discrete logarithm computation in real and imaginary number fields.   
+   
+ S. A. Novoselov   
+
+ Cryptographic Protocols  
+ Frontmatter  
+  
+ Stronger Lower Bounds for Leakage-Resilient Secret Sharing  
+  Abstract   
+ Threshold secret sharing allows a dealer to split a secret s  into n  shares, such that any t  shares allow for reconstructing s  , but no \(t-1\)  shares reveal any information about s  . Leakage-resilient secret sharing requires that the secret remains hidden, even when an adversary additionally obtains a limited amount of leakage from every share. Benhamouda et al. (CRYPTO’18) proved that Shamir’s secret sharing scheme is one bit leakage-resilient for reconstruction threshold \(t\ge 0.85n\)  and conjectured that the same holds for \(t=c\cdot n\)  for any constant \(0\le c\le 1\)  . Nielsen and Simkin (EUROCRYPT’20) showed that this is the best one can hope for by proving that Shamir’s scheme is not secure against one-bit leakage when \(t=c\cdot n/\log (n)\)  .   
+ In this work, we strengthen the lower bound of Nielsen and Simkin. We consider noisy leakage-resilience, where a random subset of leakages is replaced by uniformly random noise. We prove a lower bound for Shamir’s secret sharing, similar to that of Nielsen and Simkin, which holds even when a constant fraction of leakages is replaced by random noise. To this end, we first prove a lower bound on the share size of any noisy-leakage-resilient sharing scheme. We then use this lower bound to show that there exist universal constants \(c_1,c_2\)  , such that for sufficiently large n  it holds that Shamir’s secret sharing scheme is not noisy-leakage-resilient for \(t\le c_1\cdot n/\log (n)\)  , even when a \(c_2\)  fraction of leakages are replaced by random noise.   
+   
+ Charlotte Hoffmann, Mark Simkin   
+
+ Folding Schemes with Selective Verification  
+  Abstract   
+ In settings such as delegation of computation where a prover is doing computation as a service for many verifiers, it is important to amortize the prover’s costs without increasing those of the verifier. We introduce folding schemes with selective verification  . Such a scheme allows a prover to aggregate m  NP statements \(x_i\in \mathcal {L}\)  in a single statement \(x\in \mathcal {L}\)  . Knowledge of a witness for x  implies knowledge of witnesses for all m  statements. Furthermore, each statement can be individually verified by asserting the validity of the aggregated statement and an individual proof \(\pi _i\)  with size sublinear in the number of aggregated statements  . In particular, verification of statement \(x_i\)  does not require reading (or even knowing) all the statements aggregated. We demonstrate natural folding schemes for various languages: inner product relations, vector and polynomial commitment openings and relaxed R1CS of NOVA. All these constructions incur a minimal overhead for the prover, comparable to simply reading the statements.   
+   
+ Carla Ráfols, Alexandros Zacharakis   
+
+ Composable Oblivious Pseudo-random Functions via Garbled Circuits  
+  Abstract   
+ Oblivious Pseudo-Random Functions (OPRFs) are a central tool for building modern protocols for authentication and distributed computation. For example, OPRFs enable simple login protocols that do not reveal the password to the provider, which helps to mitigate known shortcomings of password-based authentication such as password reuse or mix-up. Reliable treatment of passwords becomes more and more important as we login to a multitude of services with different passwords in our daily life.   
+ To ensure the security and privacy of such services in the long term, modern protocols should always consider the possibility of attackers with quantum computers. Therefore, recent research has focused on constructing post-quantum-secure OPRFs. Unfortunately, existing constructions either lack efficiency, or they are based on complex and relatively new cryptographic assumptions, some of which have lately been disproved.   
+ In this paper, we revisit the security and the efficiency of the well-known “OPRFs via Garbled Circuits” approach. Such an OPRF is presumably post-quantum-secure and built from well-understood primitives, namely symmetric cryptography and oblivious transfer. We investigate security in the strong Universal Composability model, which guarantees security even when multiple instances are executed in parallel and in conjunction with arbitrary other protocols, which is a realistic scenario in today’s internet. At the same time, it is faster than other current post-quantum-secure OPRFs. Our implementation and benchmarks demonstrate that our proposed OPRF is currently among the best choices if the privacy of the data has to be guaranteed for a long time.   
+   
+ Sebastian Faller, Astrid Ottenhues, Johannes Ottenhues   
+
+ Real-World Cryptography  
+ Frontmatter  
+  
+ Quotable Signatures for Authenticating Shared Quotes  
+  Abstract   
+ Quotable signature schemes are digital signature schemes with the additional property that from the signature for a message, any party can extract signatures for (allowable) quotes from the message, without knowing the secret key or interacting with the signer of the original message. Crucially, the extracted signatures are still signed with the original secret key. We define a notion of security for quotable signature schemes and construct a concrete example of a quotable signature scheme, using Merkle trees and classical digital signature schemes. The scheme is shown to be secure, with respect to the aforementioned notion of security. Additionally, we prove bounds on the complexity of the constructed scheme. Finally, concrete use cases of quotable signatures are considered, using them to combat misinformation by bolstering authentic content on social media. We consider both how quotable signatures can be used, and why using them could help mitigate the effects of fake news.   
+   
+ Joan Boyar, Simon Erfurth, Kim S. Larsen, Ruben Niederhagen   
+
+ Post-quantum Hybrid KEMTLS Performance in Simulated and Real Network Environments  
+  Abstract   
+ Integrating Post-Quantum Cryptography (PQC) in network protocols presents a significant challenge. The efficiency of the Transport Layer Security (TLS) protocol can be significantly impacted by adopting larger PQC public keys and signatures. In this context, the KEMTLS approach has emerged as a promising solution, leveraging PQC Key Encapsulation Mechanisms (KEMs) with smaller sizes to replace handshakes and signatures. Besides efficiency, security and reliability are also at risk when adopting new cryptographic primitives. Hybrid PQC methodologies minimize these risks by adding classical cryptographic schemes into the post-quantum protocols. This work introduces the incorporation of hybrid PQC into the KEMTLS and KEMTLS-PDK protocols, integrating elliptic curve-based KEMs. We perform a comprehensive benchmarking analysis across diverse network conditions, KEM types, and security parameters to evaluate the effectiveness of hybrid models. Moreover, we conduct a comparative assessment between our hybrid KEMTLS and a hybrid PQTLS variant, which uses handshake signatures. Our results demonstrate that the performance penalty incurred by hybrid KEMTLS, compared to PQC-only KEMTLS, remains negligible within specific security thresholds. Overall, our findings highlight the advantages of adopting hybrid protocols, outweighing the marginal performance trade-offs observed at higher security parameters. These results underscore the practical feasibility of employing hybrid PQC protocols, enhancing network security in an interconnected environment.   
+   
+ Alexandre Augusto Giron, João Pedro Adami do Nascimento, Ricardo Custódio, Lucas Pandolfo Perin, Víctor Mateu   
+
+ Zero-Knowledge Proofs  
+ Frontmatter  
+  
+ Physical Zero-Knowledge Proofs for Five Cells  
+  Abstract   
+ Five Cells is a logic puzzle consisting of a rectangular grid, with some cells containing a number. The player has to partition the grid into pentominoes such that the number in each cell must be equal to the number of edges of that cell that are borders of pentominoes. In this paper, we propose two physical zero-knowledge proof protocols for Five Cells using a deck of playing cards, which allow a prover to physically show that he/she knows a solution of the puzzle without revealing it. In the optimization of our first protocol, we also develop a technique to reduce the number of required cards from quadratic to linear in the number of cells, which can be used in other zero-knowledge proof protocols related to graph coloring as well.   
+   
+ Suthee Ruangwises   
+
+ : Linear Time Prover SNARKs with Constant Size Proofs and Square Root Size Universal Setup  
+  Abstract   
+ We present Testudo  , a new FFT-less SNARK with a near linear-time prover, constant-time verifier, constant-size proofs and a square-root-size universal setup. Testudo  is based on a variant of Spartan [ 28  ]–and hence does not require FFTs–as well as a new, fast multivariate polynomial commitment scheme (PCS) with a square-root-sized trusted setup that is derived from PST [ 25  ] and IPPs [ 9  ]. To achieve constant-size SNARK proofs in Testudo  we then combine our PCS openings proofs recursively with a Groth16 SNARK. We also evaluate Testudo  and its building blocks: to compute a PCS opening proof for a polynomial of size \(2^{25}\)  , our new scheme opening procedure achieves a 110x speed-up compared to PST and 3x compared to Gemini [ 6  ], since opening computations are heavily parallelizable and operate on smaller polynomials. Furthermore, a Testudo  proof for a witness of size \(2^{30} ({\approx } 1\,\text {GB})\)  requires a setup of size only \(2^{15}\)  ( \(\approx \)  tens of kilobytes). Finally, we show that a Testudo  variant for proving data-parallel computations is almost 10x faster at verifying \(2^{10}\)  Poseidon-based Merkle tree opening proofs than the regular version .   
+   
+ Matteo Campanelli, Nicolas Gailly, Rosario Gennaro, Philipp Jovanovic, Mara Mihali, Justin Thaler   
+
+ Set (Non-)Membership NIZKs from Determinantal Accumulators  
+  Abstract   
+ We construct a falsifiable set (non-)membership NIZK \(\mathbf {\Pi ^*}\)  that is considerably more efficient than known falsifiable set (non-)membership NIZKs. It also has a universal CRS. \(\mathbf {\Pi ^*}\)  is based on the novel concept of determinantal accumulators. Determinantal primitives have a similar relation to recent pairing-based (non-succinct) NIZKs of Couteau and Hartmann (Crypto 2020) and Couteau et al. (CLPØ, Asiacrypt 2021) that structure-preserving primitives have to the Groth-Sahai NIZK. We also extend CLPØ by proposing efficient (non-succinct) set non-  membership arguments for a large class of languages.   
+   
+ Helger Lipmaa, Roberto Parisella   
+
+ Benchmarking the Setup of Updatable Zk-SNARKs  
+  Abstract   
+ Subversion-resistant zk-SNARKs allow the provers to verify the Structured Reference String (SRS), via an SRS Verification (SV) algorithm and bypass the need for a Trusted Third Party (TTP). Pairing-based zk-SNARKs with updatable  and universal  SRS are an extension of subversion-resistant ones which additionally allow the verifiers to update the SRS, via an SRS Updating (SU) algorithm, and similarly bypass the need for a TTP. In this paper, we examine the setup of these zk-SNARKs by benchmarking the efficiency of the SV and SU algorithms within the Arkworks  library. The benchmarking covers a range of updatable zk-SNARKs, including Sonic, Plonk, Marlin, Lunar, and Basilisk. Our analysis reveals that relying solely on the standard Algebraic Group Model (AGM) may not be sufficient in practice, and we may need a model with weaker assumptions. Specifically, we find that while Marlin is secure in the AGM, additional elements need to be added to its SRS to formally prove certain security properties in the updatable CRS model. We demonstrate that the SV algorithms become inefficient for mid-sized circuits with over 20,000 multiplication gates and 100 updates. To address this, we introduce Batched SV algorithms (BSV) that leverage standard batching techniques and offer significantly improved performance. As a tool, we propose an efficient verification approach that allows the parties to identify a malicious SRS updater with logarithmic verification in the number of updates. In the case of Basilisk, for a circuit with \(2^{20}\)  multiplication gates, a 1000-time updated SRS can be verified in less than 30 s, a malicious updater can be identified in less than 4 min (improvable by pre-computation), and each update takes less than 6 min.   
+   
+ Karim Baghery, Axel Mertens, Mahdi Sedaghat   
+
+ Backmatter  
+
+ Metadaten   
+
+ Titel  Progress in Cryptology – LATINCRYPT 2023    
+ herausgegeben von  Abdelrahaman Aly  
+  Mehdi Tibouchi  
+     
+ Copyright-Jahr  2023    
+ Verlag  Springer Nature Switzerland     
+   
+ Electronic ISBN  978-3-031-44469-2    
+ Print ISBN  978-3-031-44468-5    
+ DOI  https://doi.org/10.1007/978-3-031-44469-2     
+
+ Premium Partner  
+
+ » zur Fachgebietsseite Business IT + Informatik 
+
+ Bildnachweise  Rittal/© Rittal, NTT Data/© NTT Data, Wildix/© Wildix, Ceyoniq Technology GmbH/© Ceyoniq Technology GmbH, arvato Systems GmbH/© arvato Systems GmbH, Ninox Software GmbH/© Ninox Software GmbH, Everyday Software S.L./© Everyday Software S.L., Redgate/© Redgate, CELONIS Labs GmbH, DC-Datacenter-Group GmbH/© DC-Datacenter-Group GmbH, all for one/© all for one, G Data CyberDefense/© G Data CyberDefense   
+
+ Weitere Formate | Podcasts 
+  Webinare Technik 
+  Webinare Wirtschaft 
+  Kongresse 
+  Veranstaltungskalender 
+  Awards 
+  MyNewsletter 
+  Fachgebiete | Automobil + Motoren 
+  Bauwesen + Immobilien 
+  Business IT + Informatik 
+  Elektrotechnik + Elektronik 
+  Energie + Nachhaltigkeit 
+  Finance + Banking 
+  Management + Führung 
+  Marketing + Vertrieb 
+  Maschinenbau + Werkstoffe 
+  Versicherung + Risiko 
+  Bücher 
+  Zeitschriften 
+  Themenseiten | Organisationspsychologie 
+  Projektmanagement 
+  Marketing 
+  Smart Manufacturing 
+  Jetzt Einzelzugang starten 
+  Zugang für Unternehmen 
+  Referenzkunden 
+  Sustainability in Automotive 
+   MyNewsletter 
+
+  Über uns:     
+  
+ In eigener Sache    Das Team    Redaktionelles Leitbild    Hilfe    Referenzen      
+ Unsere Produkte:     
+  
+ Einzelzugang    Zugang für Unternehmen    PatentFit    MyAlerts    Professional Book Archive    MyNewsletter    Carl Hanser Verlag - Bücher    KI-gestützte Suche      
+ Rechtliche Informationen:     
+  
+ Impressum    AGB    Datenschutzerklärung    Cookies    Cookies verwalten    Verträge hier kündigen    Zahlungsarten      
+ Weiterführende Links:     
+  
+ RSS-Feeds    Social Media    Mediadaten    Corporate Solutions    Whitepaper    Gabler Wirtschaftslexikon    Gabler Banklexikon    Versicherungsmagazin      
+   
+ Springer Nature Logo    © Springer Fachmedien Wiesbaden GmbH  
+   
+ Version: 0.3926.0

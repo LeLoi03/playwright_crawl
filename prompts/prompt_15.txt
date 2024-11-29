@@ -1,0 +1,273 @@
+input:
+1. ALENEX_1 conference:
+Proceedings  
+ Proceedings Series | Algorithm Engineering & Experiments (ALENEX) 
+  Algorithmic Principles of Computer Systems-APOCS 
+  Analytic Algorithmics and Combinatorics (ANALCO) 
+  Email 
+ Home  Proceedings  2023 Proceedings of the Symposium on Algorithm Engineering and Experiments (ALENEX)   
+ Description | The aim of ALENEX is to provide a forum for the presentation of original research in the design, implementation, and experimental evaluation of algorithms and data structures. Typical results include an extensive experimental analysis of nontrivial algorithmic results, ideally bridging the gap between theory and practice. ALENEX papers also address methodological issues and standards in the experimental evaluation of algorithms and data structures. Relevant areas of applied algorithmic research include but are not limited to databases; geometry; graphs and networks, including web applications; operations research; combinatorial aspects of scientific computing; and computational problems in the natural sciences or engineering. ALENEX also regularly welcomes papers that address algorithms and data structures for advanced models of computing, including memory hierarchies and parallel computing, ranging from instruction parallelism over multicore computing to high-performance and cloud computing. 
+ CHAPTERS  
+ Abstract 
+  PDF 
+  Abstract   Given a directed graph G  ( V  , A  ), the DIRECTED FEEDBACK VERTEX SET (DFVS) problem asks for the smallest sized subset of V  whose removal makes G  acyclic. The problem is NP-complete and efficient constant-factor approximation algorithms are ruled out under UGC. Attempting to get an exact DFVS in practice usually involves the application of reduction rules that decrease the instance size without compromising the optimal solution. If the reduced graph gets sufficiently small, the respective instance can then be solved to optimality e.g. by a branching algorithm. However, one might need to resort to heuristics in the end in case the reduced instance is still huge. In this paper, we propose novel reduction rules for DFVS with a special focus on lossy rules. Here, the idea is that an optimal solution on the reduced graph combined with the information gained in the reduction process provides an α-approximation for the original instance. We present several rules that ensure small α, and discuss how to combine and engineer them. We also propose a taxonomy to study general types of lossy rules. In an extensive experimental analysis, we evaluate the impact of exact and lossy rules on the running time, the size of the reduced instance, and the solution quality. It turns out that the lossy rules are indeed very effective and that it is often possible to solve instances by using reduction rules only.  
+  Full Access    
+  Abstract   Preferential attachment lies at the heart of many network models aiming to replicate features of real world networks. To simulate the attachment process, conduct statistical tests, or obtain input data for benchmarks, efficient algorithms are required that are capable of generating large graphs according to these models.  
+ Existing graph generators are optimized for the most simple model, where new nodes that arrive in the network are connected to earlier nodes with a probability P  ( h  ) ∝ d  that depends linearly on the degree d  of the earlier node h  . Yet, some networks are better explained by a more general attachment probability P  ( h  ) ∝ f  ( d  ) for some function f  : ℕ → ℝ. Here, the polynomial case f  ( d  ) = d  α  where α ∈ ℝ >0  is of particular interest.  
+ In this paper, we present efficient algorithms that generate graphs according to the more general models. We first design a simple yet optimal sequential algorithm for the polynomial model. We then parallelize the algorithm by identifying batches of independent samples and obtain a near-optimal speedup when adding many nodes. In addition, we present an I/O-efficient algorithm that can even be used for the fully general model. To showcase the efficiency and scalability of our algorithms, we conduct an experimental study and compare their performance to existing solutions.  
+ Abstract 
+  PDF 
+  Abstract   This paper introduces Search-optimized Packed Memory Arrays  (SPMAs), a collection of data structures based on Packed Memory Arrays (PMAs) that address suboptimal search via cache-optimized search layouts. Traditionally, PMAs and B-trees have tradeoffs between searches/inserts and scans: B-trees were faster for searches and inserts, while PMAs were faster for scans.  
+ Our empirical evaluation shows that SPMAs overcome this tradeoff for unsorted input distributions: on average, SPMAs are faster than B+-trees (a variant of B-trees optimized for scans) on all major operations. We generated datasets and search/insert workloads from the Yahoo! Cloud Serving Benchmark (YCSB) and found that SPMAs are about 2× faster than B+-trees regardless of the ratio of searches to inserts. On uniform random inputs, SPMAs are on average between 1.3× −2.3× faster than B+-trees on all operations. Finally, we vary the amount of sortedness in the inputs to stress the worst-case insert distribution in the PMA. We find that the worst-case B+-tree insertion throughput is about 1.5× faster than the worst-case PMA insertion throughput. However, the worst-case input for the PMA is sorted and highly unlikely to appear naturally in practice. The SPMAs maintain higher insertion throughput than the B+-tree when the input is up to 25% sorted.  
+ Abstract 
+  PDF 
+  Abstract   A Perfect Hash Function (PHF) is a hash function that has no collisions on a given input set. PHFs can be used for space efficient storage of data in an array, or for determining a compact representative of each object in the set. In this paper, we present the PHF construction algorithm SicHash - Small Irregular Cuckoo Tables for Perfect Hashing. At its core, SicHash uses a known technique: it places objects in a cuckoo hash table and then stores the final hash function choice of each object in a retrieval data structure. We combine the idea with irregular cuckoo hashing, where different objects can have a different number of hash functions. Additionally, we use many small tables that we overload beyond their asymptotic maximum load factor. The most space efficient competitors often use brute force methods to determine the PHFs. SicHash provides a more direct construction algorithm that only rarely needs to re-compute parts. Our implementation improves the state of the art in terms of space usage versus construction time for a wide range of configurations. For some configurations, SicHash is up to 4.3 times faster than the next best competitor. At the same time, it provides very fast queries.  
+  Full Access
+2. ALENEX_2 conference:
+Publications 
+  Publications at ALENEX  
+ Below you find the list of all publications of the Algorithm Engineering group presented at the SIAM Meeting on Algorithm Engineering and Experiments (ALENEX)  .  
+  You can view all  publications of the current members  of the Algorithm Engineering group. To view all dissertations, please click here  . For other listings, please see:  
+  researchers: | Prof. Dr. Tobias Friedrich | , | Dr. Samuel Baguley | , | Dr. Sarel Cohen | , | Dr. Andreas Göbel | , | Dr. Timo Kötzing | , | Dr. Pascal Lenzner | , | Dr. Kirill Simonov | , | Dr. George Skretas | , | Dr. Shaily Verma 
+  PhD students: | Panagiotis Aivasiliotis | , | Michelle Döring | , | Philipp Fischbeck | , | Hans Gawendowicz | , | Merlin de la Haye | , | Nicolas Klodt | , | Simon Krogmann | , | Xiaoyue Sherry Li | , | Paraskevi Machaira, | Nadym Mallek | , | Stefan Neubert | , | Aikaterini Niklanovits | , | Marcus Pappik | , | Aishwarya Radhakrishnan | , | Janosch Ruff | , | Farehe Soheil | , | Ziena Zeif 
+  theory conferences: | FOCS | , | ICALP | , | MFCS | , | SAGT | , | STACS | , | STOC | , | WINE | algorithm conferences: | ALENEX | , | ESA | , | GD | , | ISAAC | , | SODA | , | SPAA | , | SWAT | , | WAW 
+  artificial intelligence conferences: | AAAI | , | AAMAS | , | ALT | , | COLT | , | ECAI | , | ICAPS | , | IJCAI | , | SAT | evolutionary computation conferences: | CEC | , | EMO | , | EvoCOP | , | FOGA | , | GECCO | , | PPSN 
+ 2023  [ nach oben  ]   
+ 2022  [ nach oben  ]   
+ Bläsius, Thomas; Friedrich, Tobias; Stangl, David; Weyand, Christopher An Efficient Branch-and-Bound Solver for Hitting Set   Algorithm Engineering and Experiments (ALENEX) 2022 | [ Abstract  ]  [ BibTeX  ]  [ URL  ]  [ DOI  ]  [ Download  ] | The hitting set problem asks for a collection of sets over a universe \(U\) to find a minimum subset of \(U\) that intersects each of the given sets. It is NP-hard and equivalent to the problem set cover. We give a branch-and-bound algorithm to solve hitting set. Though it requires exponential time in the worst case, it can solve many practical instance from different domains in reasonable time. Our algorithm outperforms a modern ILP solver, the state-of-the-art for hitting set, by at least an order of magnitude on most instances. | @inproceedings{blasius2022efficient abstract = {The hitting set problem asks for a collection of sets over a universe \(U\) to find a minimum subset of \(U\) that intersects each of the given sets. It is NP-hard and equivalent to the problem set cover. We give a branch-and-bound algorithm to solve hitting set. Though it requires exponential time in the worst case, it can solve many practical instance from different domains in reasonable time. Our algorithm outperforms a modern ILP solver, the state-of-the-art for hitting set, by at least an order of magnitude on most instances.}, author = {Bläsius, Thomas and Friedrich, Tobias and Stangl, David and Weyand, Christopher}, booktitle = {Algorithm Engineering and Experiments (ALENEX)}, keywords = {alenex christopherweyand davidstangl thomasblaesius tobiasfriedrich year2022}, title = {An Efficient Branch-and-Bound Solver for Hitting Set}, year = 2022 } 
+  News   
+ 13.09.2024 | Best Paper awarded at IPEC    
+ We are very happy to announce to accepted papers at the International Symposium on Parameterized and Exact Computation … > Zum Artikel   
+ 11.09.2024 | PhD awarded to Philipp Fischbeck    
+ We are proud to announce that Philipp Fischbeck successfully defended his dissertation titled On Realistic Random … > Zum Artikel   
+ 05.09.2024 | Two Papers accepted at RANDOM and ESA    
+ Recently two papers of our group members were accepted: First, the paper Fast and Slow Mixing of the Kawasaki Dynamics … > Zum Artikel   
+ 01.08.2024 | PhD awarded to Gregor Lagodzinski    
+ We are happy to announce that Gregor Lagodzinski successfully defended his dissertation titled Counting Homomorphisms … > Zum Artikel   
+ 31.05.2024 | Two Papers accepted at SAND and IWOCA    
+ We have more good paper acceptance news! Together with researchers from the University of Liverpool, George Skretas … > Zum Artikel   
+  Contact
+3. ALENEX_3 conference:
+中文  |  English  |  Español  |  日本語     
+ Conference Partner  » Conferences  » ALENEX    
+  Conference Information   
+ Submission Date: | 2024-07-18 
+ Notification Date: |  
+ Location: | New Orleans, Louisiana,, USA 
+  Acceptance Ratio   
+ Year | Submitted | Accepted | Accepted(%) 
+  Related Conferences   
+ CCF | CORE | QUALIS | Short | Full Name | Submission | Notification | Conference 
+ BDE | International Conference on Big Data Engineering | 2022-02-10 | 2022-02-28 | 2022-05-26 
+ PCCNT | International Conference on Power, Communication, Computing and Networking Technologies | 2023-07-21 | 2023-09-19 | 2023-09-24 
+ CSoNet | International Conference on Computational Data and Social Networks | 2023-09-05 | 2023-11-05 | 2023-12-11 
+ Short | Full Name | Submission | Conference 
+ BDE | International Conference on Big Data Engineering | 2022-02-10 | 2022-05-26 
+ PCCNT | International Conference on Power, Communication, Computing and Networking Technologies | 2023-07-21 | 2023-09-24 
+ CSoNet | International Conference on Computational Data and Social Networks | 2023-09-05 | 2023-12-11
+4. Algosensors_0 conference:
+Skip to content    ALGO 2023   
+        Home  Home 
+  ALGOCLOUD 
+  ALGOWIN | (former ALGOSENSORS) 
+  ATMOS 
+  IPEC 
+ ALGOWIN  
+ 2023   
+ Starting from 2023 the ALGOSENSORS  event adopts a broader scope of wireless networks in general and its new acronym becomes ALGOWIN.  
+ Scope  
+ The International Symposium on Algorithmics of Wireless Networks  (ALGOWIN) is an international symposium dedicated to the algorithmic aspects of wireless networks. Originally focused on sensor networks, it now covers algorithmic issues arising in wireless networks of all types of computational entities, static or mobile, including sensor networks, sensor-actuator networks, autonomous robots. The focus is on the design and analysis of algorithms, models of computation, and experimental analysis.  
+  ALGOWIN 2023 will be held in Amsterdam, The Netherlands. It will be part of ALGO 2023  , which also hosts ALGOCLOUD  , ATMOS  , ESA  , IPEC  and WAOA  .  
+ Invited Speaker  
+ Sándor P. Fekete  , Technische Universität Braunschweig  
+ In this talk, we consider a number of different algorithmic results. Starting with a labeled set of robots on a grid, we aim to minimize the total time for letting each agent reach its destination. We show that we can always achieve constant stretch, i.e., compute a well-choreographed set of trajectories in which the total time until completion is within a multiplicative constant of the largest initial distance. For settings in which the swarm needs to stay connected at all time, there are two additional sets of results, based on different approaches. In addition, we sketch some results for reconfiguring a swarm when agents do not have individual control, but have to follow uniform global forces.  
+ Important Dates  
+ Full Paper Submission (EXTENDED DEADLINE): | June 11, 2023 (AoE) | , | June 26, 2023 (AoE) | June 30 2023 (AoE) 
+  Notification to authors: August 1, 2023 
+  Camera-ready submission: September 30, 2023 
+  Conference dates: AlgoWin September 7-8, 2023 
+  Call for Papers  
+ Original research contributions are solicited related to diverse algorithmic aspects of sensor networks, wireless networks, broadly construed, as well as distributed robotics, including the theoretical, experimental and application perspectives.  
+ Selected papers will be invited to a special issue of Theoretical Computer Science.  
+ Awards  
+ Awards will be given to the best paper and the best student paper. To be eligible for the best student paper award, at least one of the paper authors must be a full-time student at the time of submission, and the student(s) must have made a significant contribution to the paper. The program committee may decline to make these awards or may split them.  
+ Paper Submission  
+ Papers are to be submitted electronically using the EasyChair server  . The submissions must contain original results that have not already been published and are not concurrently submitted to a journal or conference with published proceedings. By submitting a paper, the authors acknowledge that in case of acceptance at least one of the authors will register for ALGO/ALGOWIN 2023 and present the paper.  
+ Each submission should consist of the main part of the paper, not exceeding 12 pages (including the title page and excluding the references), plus an optional clearly marked appendix (to be read at the discretion of the program committee). Any figure pertaining to the main part of the paper should be included therein (within the 12 page limit). The first page must include an indication of whether the paper is eligible for the best student paper award.  
+ ALGO 2023   
+ Imprint
+5. Algosensors_1 conference:
+Menu and widgets    
+ ALGOWIN 2023 
+  ALGOSENSORS 2022 
+  Sponsors 
+ ALGOWIN 2023 
+  ALGOSENSORS 2022 
+ Archives  
+ January 2023 
+  March 2022 
+ ALGOWIN   
+ International Symposium on Algorithmics of Wireless Networks 2023  
+ Note  : Starting from 2023 the event adopts a broader scope of wireless networks in general and its new acronym becomes ALGOWIN.  
+ Chairs:  
+ Evangelos Kranakis | , Carleton University, Canada 
+  Konstantinos Georgiou | , Toronto Metropolitan University, Canada 
+ Posted on  January 17, 2023  March 1, 2023     
+ International Symposium on Algorithmics of Wireless Networks 2022   
+ International Symposium on Algorithmics of Wireless Networks 2022 will be held September 5, 2022 – September 9, 2022 in Potsdam, Germany. It will be part of ALGO 2022.  
+ Chairs:  
+ Thomas Erlebach | , Durham University, UK 
+ Posted on  March 31, 2022  January 17, 2023     
+ ==============================  ========================  
+ AlgoSensors is an international symposium dedicated to the algorithmic aspects of wireless networks. Originally focused on sensor networks, it now covers algorithmic issues arising in wireless networks of all types of computational entities, static or mobile, including sensor networks, sensor-actuator networks, autonomous robots. The focus is on the design and analysis of algorithms, models of computation, and experimental analysis.  
+ Submissions are sought in all areas of wireless networking, broadly construed, including both theoretical and experimental perspectives. This year AlgoSensors has two tracks:  
+ – Algorithms & Theory  
+ – Experiments & Applications  
+ Each paper may be submitted only to one track.  
+ Topics of interest include, but are not limited to:  
+ – Ad Hoc Networks  
+ – Virtual Infrastructures  
+ – Wireless Networks  
+ Submission guidelines:  
+ Papers are to be submitted electronically using the EasyChair server. Original research papers must contain results that have not previously appeared and have not been concurrently submitted to a journal or conference with published proceedings. Each paper should select one of the two tracks (Algorithms & Theory or Experiments & Applications) for submission. Authors need to ensure that for each accepted paper at least one author will register and attend the symposium.  
+  Submissions are limited to twelve (12) single-column pages in the LNCS format. This includes figures, but excludes references and an optional appendix (to be read at the program committee’s discretion). Papers will be published by LNCS after the conference.  
+ Awards:  
+  The best paper from each track will be given a Best Paper Award.  
+ ==============================  ========================  
+ Conference Committee:
+6. Algosensors_2 conference:
+Menu and widgets    
+ ALGOWIN 2023 
+  ALGOSENSORS 2022 
+  Sponsors 
+ ALGOWIN 2023 
+  ALGOSENSORS 2022 
+ Archives  
+ January 2023 
+  March 2022 
+ Month: January 2023  
+ ALGOWIN   
+ International Symposium on Algorithmics of Wireless Networks 2023  
+ Note  : Starting from 2023 the event adopts a broader scope of wireless networks in general and its new acronym becomes ALGOWIN.  
+ Chairs:  
+ Evangelos Kranakis | , Carleton University, Canada 
+  Konstantinos Georgiou | , Toronto Metropolitan University, Canada 
+ Posted on  January 17, 2023  March 1, 2023     
+ Proudly powered by WordPress
+7. Algosensors_3 conference:
+Skip to content    ALGO 2023   
+        Home  Home 
+  ALGOCLOUD 
+  ALGOWIN | (former ALGOSENSORS) 
+  ATMOS 
+  IPEC 
+  Social Program 
+ ALGO 2023   
+ September 4-8, 2023, Amsterdam, the Netherlands  
+ General information   
+ ALGO is an annual meeting combining the premier algorithmic conference European Symposium on Algorithms  (ESA)  and a number of other specialized conferences and workshops, all related to algorithms and their applications, making ALGO the major European event for researchers, students and practitioners in algorithms.  
+ ALGO 2023 will be held at the Centrum Wiskunde & Informatica (CWI)   in Amsterdam, the Netherlands, which will also organize the conference.  
+ Amsterdam is a very busy city and rather expensive. We advise to reserve a hotel room as soon as possible. There are still some rooms available  at Hotel Casa Amsterdam  .    
+ Program at a Glance  :  
+ Monday  
+  4 Sep    
+ Tuesday  
+  5 Sep    
+ Wednesday  
+  6 Sep    
+ Thursday  
+  7 Sep    
+ Friday  
+  8 Sep    
+ ESA     
+ Co-Located Events:   
+ ALGOCLOUD 2023 | : | International Symposium on Algorithmic Aspects of Cloud Computing | . Chairs: | Ioannis Chatzigiannakis | , | Ioannis Karydis 
+  ALGOWIN 2023 | (former ALGOSENSORS): | International Symposium on Algorithmics of Wireless Networks | . Chairs: | Evangelos Kranakis | , | Konstantinos Georgiou 
+  ATMOS 2023: | International Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems | . Chairs: | Philine Schiewe | , | Daniele Frigioni 
+  ESA 2023 | : | European Symposium on Algorithms | . Chairs: | Inge Li Gørtz | (Track A), | Simon J. Puglisi | (Track B), | Martin Farach-Colton | (Track S) 
+  IPEC 2023 | : | International Symposium on Parameterized and Exact Computation | . Chairs: | Neeldhara Misra | , | Magnus Wahlström 
+  WAOA 2023 | : | Workshop on Approximation and Online Algorithms | . Chairs: | Jarosław Byrka | , | Andreas Wiese 
+ Invited speakers:   
+ Plenary speakers: | Rotem Oshman | , Tel-Aviv University 
+  Martin Dietzfelbinger | , Technische Universität Ilmenau 
+  ALGOCLOUD 2023 | : | Chris Schwiegelshohn | , Aarhus University 
+  ALGOWIN 2023 | : | Sándor P. Fekete | , Technische Universität Braunschweig 
+  ATMOS 2023 | : | Christos Zaroliagis | , University of Patras 
+  IPEC 2023 | : | Tuukka Korhonen | , University of Bergen 
+  WAOA 2023 | : | Nicole Megow | , University of Bremen 
+ Organizing Comittee:   
+  Hilde Verbeek | , CWI 
+  Wiktor Zuba | , CWI 
+  Should you have any queries about the organization of ALGO 2023, please drop us a line at algo2023@cwi.nl  .  
+ History  :  
+ The webpages of previous editions of ALGO conference:  
+ ALGO 2022: Potsdam, Germany (hybrid), September 5-9, 2022 
+ Sponsors:   
+ ALGO 2023   
+ Imprint
+8. ALIFE_0 conference:
+KEYNOTE SPEAKERS 
+  STUDENT LITERATURE CONTEST 
+  ALIFE 2023 Public Event 
+  Art Exhibition: unconscious relationship 
+  Satellite Workshop: Machine Love and Human Flourishing 
+ MENU  
+ The 2023 Conference on Artificial Life  
+  24-28th July, 2023   
+  Sapporo, Japan  
+ UPDATES  
+  Timetable  and Programme  are now ready.  
+  Student scholarship application is now closed  .  
+  Registration is now open on Registration  .  
+  IMPORTANT:  Attendees planning to participate in the conference are urged to make hotel reservations promptly. Although some hotel accommodations will be available for booking during registration, please be aware that the number of rooms is limited.  
+  Hotel information is now available on Venue  page!  
+ Important Dates  
+  1 May :  Paper and Abstract Notification 
+  11 May :  Registration Open 
+  2 June :  Early Bird Registration Close 
+  20 July : | Registration Close 
+  THEME  
+  These ghosts are however elusive, and difficult to identify or even just define at times. To try and learn more about the mind, research in artificial life and other related fields has more recently focused on studies of complexity, emergence,agency, autonomy, or information theory. As a results, this has led to major advancements in robotics, synthetic biology and artificial intelligence, among others. The main research programs in these areas however seem to be simply forgetting about the mind, rather than trying to explain it.  
+  At the same time, with the advent of new technologies such as brain-machine interface, cyborgization, virtual/augmented reality and the metaverse, the boundaries between agents/living organisms and their environment have began fluctuating. Minds are no longer in our (living organism) shells, expanding beyond current spatial boundaries and into a new form of the “extended mind” hypothesis. At ALIFE 2023, we will bring back the focus to studies of the mind, facing the challenges and embracing the opportunities that come with studies of an often neglected but ever so important concept in both artificial life research and our daily lives.  
+ Tweets by ALifeConf    
+ ALIFE conference   
+ KEYNOTE SPEAKERS  
+ Supporters  
+ ALIFE 2023 is generously supported by  
+ Contact Information  
+ alife2023@googlegroups.com   
+ © 2023.alife. All Rights Reserved.  
+ This website uses cookies by Google and other affiliated services for the convenience of customers using the website and track browsing. By continuing to use this website you agree to us placing cookies on your computer.  Accept  Reject
+9. ALIFE_1 conference:
+Skip Nav Destination  Artificial Life Conference Proceedings - All Years  
+ ALIFE 2024: Proceedings of the 2024 Artificial Life Conference (isal2024)    
+ ALIFE 2023: Ghost in the Machine: Proceedings of the 2023 Artificial Life Conference (isal2023)    
+ ALIFE 2022: The 2022 Conference on Artificial Life (isal2022)
+10. ALIFE_2 conference:
+Board of Directors 
+  ISAL Award Winners 
+  Emerging Researchers in ALife 
+  DEI Committee 
+  Code of Conduct 
+ Conference | Title | Proceedings | Location | Dates |  
+ ALife 2024 | The 2024 Conference on Artificial Life | Copenhagen, Denmark (hybrid) | July 22nd, 2024 - July 26th, 2024 
+ Conferences 
+  Other (non-ISAL) upcoming conferences 
+  Previous non-ISAL conferences related to ALife 
+  Previous ISAL-supported conferences 
+  Board of Directors 
+  ISAL Award Winners 
+  Emerging Researchers in ALife 
+  DEI Committee 
+  Code of Conduct
+
+output:1. ALENEX_1 information:
+2. ALENEX_2 information:
+3. ALENEX_3 information:
+4. Algosensors_0 information:
+5. Algosensors_1 information:
+6. Algosensors_2 information:
+7. Algosensors_3 information:
+8. ALIFE_0 information:
+9. ALIFE_1 information:
+10. ALIFE_2 information:

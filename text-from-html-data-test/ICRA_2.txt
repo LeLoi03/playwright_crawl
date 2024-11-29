@@ -1,0 +1,1077 @@
+Skip to main content          
+ Home 
+  About | Committee 
+  Venue 
+  Partners | Confirmed Partners 
+  Endorsing Societies 
+  Satellite Conference Centres 
+  Programme | Daily Digest 
+  Programme at a Glance 
+  Programme 
+  Virtual Programme 
+  Plenary and Keynote Sessions 
+  Workshops and Tutorials 
+  Forums 
+  Awards and Finalists 
+  Competitions 
+  Highlights of the Day 
+  Conference Digest 
+  Outreach | The Challenge 
+  Give a Hand Workshop 
+  Art in Robotics 
+
+   29 May – 2 June 2023  
+  ExCeL London  
+
+ 29 May – 2 June 2023 | ExCeL London  
+
+   Home 
+  About | Committee 
+  Venue 
+  Partners | Confirmed Partners 
+  Endorsing Societies 
+  Satellite Conference Centres 
+  Programme | Daily Digest 
+  Programme at a Glance 
+  Programme 
+  Virtual Programme 
+  Plenary and Keynote Sessions 
+  Workshops and Tutorials 
+  Forums 
+  Awards and Finalists 
+  Competitions 
+  Highlights of the Day 
+  Conference Digest 
+  Outreach | The Challenge 
+  Give a Hand Workshop 
+  Art in Robotics 
+
+ 29 May – 2 June 2023 | ExCeL London  
+
+   Home 
+  About | Committee 
+  Venue 
+  Partners | Confirmed Partners 
+  Endorsing Societies 
+  Satellite Conference Centres 
+  Programme | Daily Digest 
+  Programme at a Glance 
+  Programme 
+  Virtual Programme 
+  Plenary and Keynote Sessions 
+  Workshops and Tutorials 
+  Forums 
+  Awards and Finalists 
+  Competitions 
+  Highlights of the Day 
+  Conference Digest 
+  Outreach | The Challenge 
+  Give a Hand Workshop 
+  Art in Robotics 
+
+ Workshops and Tutorials  
+
+ Please see below a list of workshops and tutorials taking place on Monday 29th May and Friday 2nd June 2023. You can find more information on each session by clicking on the title. All workshops/tutorials will be full day unless otherwise stated. You will be able to book onto the workshops/tutorials once registration opens. If you have any questions please contact Programme.ICRA2023@TFILodestar.com  .   
+
+  Monday 29th May 2023   
+
+  MW01: The robotics and neuroscience of supernumerary limbs  
+   
+ Organisers:  
+ Jonathan Eden, University of Melbourne 
+  Yanpei Huang, Imperial College London 
+  Giovanni Di Pino, Campus Bio-Medico Di Roma 
+  Etienne Burdet, Imperial College London 
+  Abstract:  
+ Robotic supernumerary limbs that can be controlled as intuitively as the natural limbs are a common depiction of science fiction that recent technological advances attempt to implement. By increasing a user’s degrees of freedom, these devices could enable them to perform complex tasks such as robotic surgery or industrial assembly. This full-day workshop will provide a platform to discuss the development of supernumerary limbs and their integration with human users. Complementing previous workshops on this topic that focused on hardware and control, this workshop will integrate aspects of human-robot interaction, such as the necessary robotics developments to make a supernumerary limb act/feel like a body part and the human factors that need to be considered to ensure safe and effective user integration. Through a series of presentations, 12 experts in neuroscience and robotics will present the current state of the art on topics including (i) interface development; (ii) supernumerary limb control; (iii) feedback and embodiment; and (iv) the learning of impact of augmentation on motor control. Moderated live Q&A panel discussions and device demonstrations will then allow the audience to join the discussion on the open questions and challenges facing this field in future research and industrial collaboration.  
+ Workshop Length: Full Day  
+ Location: South Gallery Room 23  
+ For more information please click here.   
+
+  MW02: Soft Growing Robots: From Search-and-Rescue to Intraluminal Interventions  
+   
+ Organisers:  
+ Christos Bergeles, Associate Professor, King's College London, | christos.bergeles@kcl.ac.uk 
+  Tania Morimoto, Assistant Professor, University of California San Diego, | tkmorimoto@eng.ucsd.edu 
+  S.M.Hadi Sadati, Research Fellow, King's College London, | smh_sadati@kcl.ac.uk 
+  Zicong Wu, PhD Student, Robotics and Vision in Medicine (RViM) Lab, King's College London, | zicong.wu@kcl.ac.uk 
+  Shamsa Al Harthy, Visiting Research Assistant, Robotics and Vision in Medicine (RViM) Lab, King's College London, | shamsa.al_harthy@kcl.ac.uk 
+  Abstract:  
+ Growing robots are inspired by the ability of vine plants to navigate via growth. They demonstrate unique capabilities such as tip extension, maneuvrability in narrow openings or complex environments, and the possibility of passing tools along a hollow central channel or via a functionalized tip. Example applications for these robots include medical robotics for minimally invasive surgery, search-and-rescue, archaeological inspection, burrowing, and also plant monitoring.  
+ However, with the topic being relatively new, many challenges associated with their design, sensing, perception, modelling and control have been identified along the way. It has been frequently demonstrated that growing robots have limited steerability, complex control, non-trivial quasistatic and dynamic modelling, while they risk buckling and deforming as they extend to greater lengths. Their miniaturisation and fit-for-purpose design and manufacturing represent additional complexities for this class of robots. These challenges make growing robots a fascinating research topic but hinder their deployment in real-world applications. Inspiration to address them can be found in adjacent domains, such in industry for pipeline repair, and a commonly used approach called trenching.  
+ In this workshop, we will bring together industrial and academic experts to discuss the challenges they have faced, the solutions they have created, and the remaining questions that must be addressed to enable real-world deployment of growing robots. Their seminars will cover design limitations as well as the modelling and control challenges. Additionally, the academic experts will discuss the requirements and features of their robots. By cross-referencing both the features and limitations, we aim to facilitate discussions that move the field forward and catalyse the development of new models, controllers and manufacturing approaches for soft growing robots. Furthermore, the in-depth seminars and discussions will give those who are new to the field an insight into the topic and inspire the next generation of students and early career researchers.  
+ Workshop Length: Full Day  
+ Location: South Gallery Room 24  
+ For more information please click here.   
+
+  MW03: Communicating Robot Learning across Human-Robot Interaction  
+   
+ Organisers:  
+ Dylan Losey, Assistant Professor, Virginia Tech 
+  Laura Blumenschein, Assistant Professor, Purdue University 
+  Sandy Huang, Research Scientist, DeepMind 
+  Dana Kulic, Professor, Monash University 
+  Domenico Prattichizzo, Professor, University of Siena 
+  Abstract:  
+ Today’s robots are increasingly able to learn. From robot arms that learn from experience to autonomous cars that learn from demonstration, these systems fundamentally change their behaviors over time. While this learning improves the robot’s performance, it also presents a black box to nearby humans: what has the robot learned correctly, what is the robot still confused about, and how will the robot behave in the future? For seamless human-robot interaction we must communicate the robot’s learning to human partners.  
+ This workshop explores communication by bringing together diverse experts from three perspectives. From a robot learning perspective, we must understand how to create algorithms that are inherently explainable and intuitive to human collaborators. From a communication interfaces perspective, we must develop haptics, augmented reality, nonverbal, and soft robotics mechanisms that convey information from the robot to the human. Finally, from a human modeling perspective, we must understand how humans perceive and interpret this feedback to construct mental models of learning robots. The main objectives of this workshop are i) to understand how each of these communities is separately trying to communicate robot learning, and then ii) to discuss how these separate advances should be combined in the future.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 9  
+ For more information please click here.   
+
+  MW04: Bio-inspired, Biomimetics and Biohybrid (Cyborg) Systems  
+   
+ Organisers:  
+ T. Thang Vo-Doan, Postdoctoral researcher, Institute of Biology, University of Freiburg, Germany 
+  Hirotaka Sato, Professor, Provost’s Chair, School of Mechanical & Aerospace Engineering, Nanyang Technological University, Singapore 
+  Barani Raman, Professor, Washington University in St. Louis, USA 
+  Ritu Raman, Assistant Professor, Department of Mechanical Engineering, Massachusetts Institute of Technology, USA 
+  Thanh Nho Do, Scientia Senior Lecturer, Graduate School of Biomedical Engineering, University of New South Wales, Australia 
+  Toshio Fukuda, Professor, Nagoya University 
+  Victoria Webster-Wood, Assistant Professor, Department of Mechanical Engineering, Carnegie Mellon University, Pittsburgh, PA, USA 
+  Pablo Valdivia y Alvarado, Assistant Professor, Deputy Head, Digital Manufacturing and Design (DManD) Research Centre, Singapore 
+  Shinjiro Umezu, Professor, Waseda University, Japan 
+  Alper Bozkurt, Professor, University Scholar, North Carolina State University, USA 
+  Tahmid Latif, Assistant Professor, School of Engineering, Wentworth Institute of Technology, USA 
+  Yao Li, Assistant Professor, Harbin Institute of Technology, Shenzhen, China 
+  Kan Shoji, Associate Professor, Department of Mechanical Engineering, Nagaoka University of Technology, Japan 
+  Abstract:  
+ Living organisms have been a great source of inspiration for engineers to develop actuators, sensors, devices, and robots. Studying the natural phenomena of living organisms allows us to understand and copy their structures and functions at different scales. Ideas gleaned from the principles of biological systems can also be used to develop new technologies and devices that mimic or even surpass biological models. Advances in biofabrication are fostering the development of biohybrid systems based on extracted or engineered tissues. The merging of physiology and miniature electronics allows us to use living organisms as biohybrid robots by tapping into their sensing capabilities, and/or stimulating their neuromuscular or neural areas to drive motor actions for desired behaviors. The development of the fields of biomimetics, bioinspired and biohybrid systems requires the collaboration of scientists and engineers from different disciplines, as well as the training of a new generation of interdisciplinary researchers with expertise in different disciplines such as biology, chemistry, medicine, materials science, nanotechnology, electrical engineering, mechanical engineering, optics and robotics. Therefore, the goal of this workshop is to foster interaction between scientists and engineers from different fields and different career stages. In particular, we hope to provide the audience with a general picture of how biological subjects are investigated, how systems can be developed at different scales using various approaches such as bioinspiration, biomimetics, and biohybrid. We will also provide information on current trends and future directions through keynote presentations and panel discussions.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 1  
+ For more information please click here.   
+
+  MW05: Shrinking the Cutting Edge: Making Small-Scale Medical Robots for Humans  
+   
+ Organisers:  
+ Veronica Iacovacci, The BioRobotics Institute, Scuola Superiore Sant’Anna 
+  Stefano Palagi, The BioRobotics Institute, Scuola Superiore Sant’Anna 
+  Li Zhang, Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong 
+  Aaron T. Becker, Electrical and Computer Engineering Department, University of Houston 
+  Abstract:  
+ This workshop brings together experienced researchers and students to discuss the state of the art, the technical problems, and the challenges of small-scale medical robots. From a science fiction vision of miniaturizing robots to access remote regions in the human body, the field of small-scale robotics has witnessed an astonishing evolution in the last decade. This evolution has been fostered by a highly interdisciplinary approach involving roboticists, material scientists, physicists, computer scientists, and medical doctors.  
+ It is time for the small-scale medical robotics community to identify the issues preventing applications on real medical challenges. In this framework, the workshop will bring together this community to explore both the scientific and the robotic core of small-scale medical robotics.  
+ Workshop Length: Full Day  
+ Location: South Gallery Room 27  
+ For more information please click here.   
+
+  MW06: Explainable Robotics  
+   
+ Organisers:  
+ Senka Krivic, University of Sarajevo, Bosnia and Herzegovina 
+  Gerard Canal, King’s College London, UK 
+  Martim Brandao, King’s College London, UK 
+  Anais Garrell, Institut de Robòtica i Informàtica Industrial (IRI), CSIC-UPC, 
+  Matthew Gombolay, Georgia Institute of Technology 
+  Jean Oh, Carnegie Mellon University 
+  Rohan Paleja, Georgia Institute of Technology 
+  Silvia Tulli, Instituto Superior Técnico and Sorbonne University 
+  Miguel Faria, GAIPS@INESC-ID and Instituto Superior Técnico 
+  Tanmay Shankar, Carnegie Mellon University 
+  Abstract:  
+ There is a growing interest in the research and development of AI algorithms capable of generating explanations for their output. Explanations could play an essential role in robot systems to improve predictability, user-friendliness, debugging effectiveness, and overall transparency and trustworthiness of robots. This workshop aims to put forth a diversity of viewpoints from experts in robotics, from AI and technical to social perspectives. The workshop will provide a venue for robotics and AI researchers, philosophers, psychologists, and social scientists to exchange research, ideas, and opinions on the use of explanations in robotics, from methods and requirements to metrics, interaction, and qualitative findings. In this workshop, we aim to bring together researchers to explore 1) how HRI researchers seek to design human-interpretable or legible robot behaviors, 2) how xAI researchers have applied their techniques to robotics, 3) how robotics researchers generate explanations that allow robots to operate at different levels of autonomy, and 4) how roboticists have needed to augment or develop their own xAI techniques especially suited for robotics (xAI for "agents" may not be good for "robots”).  
+ The topics that are relevant to this workshop include, but are not limited to: explainable AI algorithms for robotics; explainable decision making; ethical use of robotics; explainable motion planning; user studies for evaluation of explanations; social human-robot interaction; transparency and explainability in AI; benchmarks use cases for robotic explainability.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 10  
+ For more information please click here.   
+
+  MW07: Energy Efficient Aerial Robotic Systems  
+   
+ Organisers:  
+ Anibal Ollero, GRVC Robotics Lab, University of Seville (Spain), Co-Chair IEEE TC Aerial Robotics and Unmanned Aerial Vehicles. 
+  Pauline Pounds, University of Queensland, Associate Professor, School of Information Technology and Electrical Engineering, Faculty of Engineering, Architecture and Information Technology (Australia). 
+  Giuseppe Loianno, New York University (USA), Director of the Agile Robotics and Perception Lab. 
+  H. Jin Kim, Seoul National University, Department of Aerospace Engineering and the Automation and Systems Research Institute (Korea). 
+  Abstract:  
+ The Workshop will be devoted to the research and development related to the energy management in unmanned aerial systems and aerial robotics. This includes the energy sources, the design and development of platforms to decrease energy consumption and improve flight endurance and range, the energy aware planning and control of the aerial platform, energy efficient aerial manipulation, autonomous recharging, multiple robotic systems and applications, including operations in urban air mobility, highly cluttered environments and confined spaces.  
+ Energy management is today a critical component in many unmanned aerial vehicles and aerial robots. Thus, increasing flight endurance and range of operation is a must in many applications that cannot be solved with few tens of minutes flights and hundreds of meters range. These applications include obviously transportation and logistics, surveillance, environment monitoring, agriculture and forestry, large infrastructure inspection and many others. The problem can be solved from many different perspectives, including on-board generation of energy, on-board processing design and development of new aerial platforms and subsystems.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 6  
+ For more information please click here.   
+
+  MW08: Pretraining for Robotics  
+   
+ Organisers:  
+ Rogerio Bonatti, Microsoft 
+  Sai Vemprala, Microsoft 
+  Mustafa Mukadam, Facebook AI Research 
+  Luis Figueredo, Technical University of Munich 
+  Antonio Loquercio, University of California Berkeley 
+  Xingyu Liu, Carnegie Mellon University 
+  Valts Blukis, NVIDIA 
+  Abstract:  
+ Recent advances in machine learning have started a paradigm shift from task-specific models towards large general-purpose architectures. In the domains of language and vision we see large models such as GPT3, BERT, and CLIP that have opened avenues towards solving several applications and continue to cause an explosion of new ideas and possibilities. What does it take to bring the same level of advancements to the field of robotics - in order to build versatile agents that can be deployed in challenging environments? The goal of this workshop is to analyze how we can scale robotics towards the complexity of real world by leveraging pretrained models. We will discuss how to apply the concept of large scale pretraining to robotics, so as to enable models to learn how to process diverse, multimodal perception inputs, connect perception with action, and generalize across scenarios and form factors.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 7  
+ For more information please click here.   
+
+  MW09: 5th Workshop on Long-term Human Motion Prediction  
+   
+ Organisers:  
+ Luigi Palmieri, Robert Bosch GmbH 
+  Andrey Rudenko, Robert Bosch GmbH 
+  Boris Ivanovic, NVIDIA 
+  Alexandre Alahi, EPFL 
+  Jiachen Li, Stanford University 
+  Kai O. Arras, Robert Bosch GmbH 
+  Achim J. Lilienthal, TU Munchen 
+  Abstract:  
+ Anticipating human motion is a key skill for intelligent systems that share a space or interact with humans. Accurate long-term predictions of human movement trajectories, body poses, actions or activities may significantly improve the ability of robots to plan ahead, anticipate the effects of their actions or to foresee hazardous situations. The topic has received increasing attention in recent years across several scientific communities with a growing spectrum of applications in service robots, self-driving cars, collaborative manipulators or tracking and surveillance.  
+ This workshop is the fifth in a series of ICRA 2019-2023 events. The aim of this workshop is to bring together researchers and practitioners from different communities and to discuss recent developments in this field, promising approaches, their limitations, benchmarking techniques and open challenges.  
+ Workshop Length: Full Day  
+ Location: South Gallery Room 19  
+ For more information please click here.   
+
+  MW10: Origami-based structures for designing soft robots with new capabilities  
+   
+ Organisers:  
+ Stéphane Viollet, Institute of Movement Sciences, CNRS/Aix-Marseille University, France 
+  Jamie Paik, Reconfigurable Robotics Lab, EPFL, Switzerland 
+  Kanty Rabenorosoa, Femto-ST institute, CNRS/UBFC, France 
+  Cynthia Sung, GRASP Lab, University of Pennsylvania, USA 
+  Pierre Renaud, ICube Lab, INSA Strasbourg, France 
+  Mirko Kovac, Aerial Robotics Lab, Imperial College of London, UK 
+  Abstract:  
+ Origami has undergone several revolutions: the development of a novel visual language in the art of paper folding in the 20th century, that of a mathematical language for modeling 3-D folding and recently, that of self-folding mechanical structures. The design of origami-based structures has indeed entered a new era when micro-actuators such as electro-active polymers (EAP), and shape-memory alloys (SMA) or polymers (SMP) were introduced to make structures self-deployable or to enable them to change their shapes dynamically, for example by combining elastic bands and tendon. In a recent focus published in Science Robotics, Rus and Sung predict that origami robots will be autonomous machines with increased customizability and adaptability. The versatility and diversity of folding structures can lead to the development of cutting-edge innovations by combining them with micro-actuators.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 17  
+ For more information please click here.   
+
+  MW11: Unconventional spatial representations: Opportunities for robotics  
+   
+ Organisers:  
+ Tomasz Piotr Kucner, Aalto Unviersity 
+  Francesco Amigoni, Politecnico di Milano 
+  Matteo Luperto, Università degli Studi di Milano, Italy 
+  Martin Magnusson, Örebro University 
+  Francesco Verdoja, Aalto Unviersity 
+  Jan Faigl, Czech Technical University in Prague 
+  Abstract:  
+ The successful operation of any autonomous agent heavily depends on capturing and understanding the complex nature of the environment, including its volatile or implicit characteristics. Even though robotics is undergoing rapid development, several application areas are still hindered by limitations in how the environmental information is represented. Qualities that might be missing from state-of-the-art representations include the relations between environment features, meta-information describing the quality and applicability of the representation itself, etc. Considering these needs, in this workshop, we go beyond the discussion on traditional semantic maps and aim to initiate the development and application of novel implicit and explicit knowledge representations for robotics. We bring together researchers with versatile expertise and backgrounds to achieve this goal.  
+ Workshop Length: Full Day  
+ Location: South Gallery Room 22  
+ For more information please click here.   
+
+  MW12: Robot Software Architectures  
+   
+ Organisers:  
+ Prof. Davide Brugali (Università degli Studi di Bergamo, Italy) 
+  Prof. Nico Hochgeschwender (Bonn-Rhein-Sieg University, Germany) 
+  Dr. Luciana Rebelo (Gran Sasso Science Institute - GSSI, Italy) 
+  Abstract:  
+ The proposed workshop is intended to create a forum where researchers, practitioners, and professionals can discuss on principles and practice in the use of advanced software development techniques for building robot software architectures.  
+ The Robotics community is aware of the importance that software development principles have in building advanced robotics systems. Several interesting initiatives are taking place in the field of open source development, distributed middleware, and standard architectures.  
+ The nature of the workshop is quite concrete. It is not a tutorial on abstract Software Engineering methodologies and does not present yet another software development process built on proprietary technologies or robotic projects. Instead, it shows how the state-of-the-art software development practice in robotics meet the principles of software engineering.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 13  
+ Please click here for more information.   
+
+  MW13: Life-Long Learning with Human Help (L3H2)  
+   
+ Organisers:  
+ Zlatan Ajanović, TU Delft 
+  Jens Kober, TU Delft 
+  Jana Tumova, KTH Royal Institute of Technology 
+  Christian Pek, KTH Royal Institute of Technology 
+  Selma Musić, Stanford University 
+  Abstract:  
+ Autonomous robots often need to operate with and around humans, to provide added value to the collaborative team, to earn-and-prove trustworthiness, as well as to utilize the support from the human team-mates. The presence of humans brings additional challenges for robot decision-making, but also opportunities for improving the decision-making capabilities with human help. Two major computational paradigms for sequential decision-making are planning and learning.  
+ Planning in multi-stage robotic problems is not trivial, mainly due to computational efficiency (due to the curse of dimensionality) and the need for accurate models. To plan more efficiently, researchers use hierarchical abstractions (e.g. Task and Motion Planning - TAMP). Representing the problem as TAMP enables to incorporate declarative knowledge and to achieve predictable and interpretable behavior. However, creating declarative models requires significant engineering effort and it is practically impossible to account in advance for all possible cases robots might face in the long-term operations in the wild. Therefore, life-long learning presents itself as a necessity and human help as a dependable source of knowledge!  
+ Learning methods achieved impressive capabilities, solely by improving performance based on the experience (e.g. trial-and-error, human demonstrations, corrections, etc.). However, they generally struggle with the long-term consequences of actions and the problems with the combinatorial structure. They can sometimes give solutions which are contradicting “common sense”, ignore causal effects, and forget previously learned skills (e.g. catastrophic forgetting). These issues are particularly prominent when it comes to life-long learning. Some of these issues might be avoided by using deliberate long-horizon reasoning (e.g. planning methods) and explicit human help.  
+ Recently, a lot of research interest was shown in combined approaches utilizing synergies of planning and learning (e.g. neuro-symbolic AI). But still, principled integration of human input into these combined approaches is missing. Human input can play an important role in bridging planning and learning and enable reliable and trustworthy life-long learning with human help. It can be used for grounding learned models, providing “common sense” knowledge, teaching skills, setting goals, etc.  
+ In this workshop, we aim to bring together researchers from the field of robot learning, symbolic AI (planning), and human-robot interaction to discuss emerging trends and define common challenges and new opportunities for cross-fertilization in these fields. The workshop schedule includes invited talks, spotlight presentations, and interdisciplinary panel discussions.  
+ Workshop Length: Full Day  
+ Location: South Gallery Room 18  
+ For more information please click here.   
+
+  MW14: SOLAR – Socially-acceptable robots: concepts, techniques, and applications  
+   
+ Organisers:  
+ Valeria Villani, University of Modena and Reggio Emilia (IT) 
+  Lorenzo Sabattini, University of Modena and Reggio Emilia (IT) 
+  Oya Celiktutan, King’s College London (UK) 
+  Alessandro Giusti, Università della Svizzera italiana (USI) and University of Applied Sciences and Arts of Southern Switzerland (SUPSI) (CH) 
+  Abstract:  
+ Recent advances in robotics have allowed the introduction of robots assisting and working together with human subjects. To promote their use and widespread adoption, social acceptance of robots should be ensured. Social acceptance can be defined as the capability of a technology to be used in diverse social contexts (such as a postal office or a rehabilitation institute) in such a way that it does not make users feel uncomfortable or out of place following the norms of human social communication, while assisting them effectively.  
+   
+  The aim of this workshop is to bring together roboticists from academia as well as from industry to share their latest developments and vision on socially acceptable robots. To this end, we have identified four main pathways for enhancing social acceptance in the design of next generation robotic systems: user profiling, modeling and understanding, interaction and communication modalities, implementation of socially acceptable behaviors, and characterization of relevant application scenarios.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 15  
+ For more information please click here.   
+
+  MW15: Robot-Assisted Medical Imaging. ICRA-RAMI  
+   
+ Organisers:  
+ Zhongliang Jiang (Contact person, zl.jiang@tum.de) Technical University of Munich, Germany 
+  Stamatia (Matina) Giannarou (stamatia.giannarou@imperial.ac.uk) Imperial College London, UK 
+  Hongen Liao (liao@tsinghua.edu.cn) Tsinghua University, China 
+  Septimiu E. Salcudean (tims@ece.ubc.ca) University of British Columbia, Canada 
+  Nassir Navab (nassir.navab@tum.de) Technical University of Munich, Germany 
+  Abstract:  
+ Medical imaging plays a vital role in modern clinical practice, which provides valuable information to physicians for medical diagnosis, image-guided surgeries, etc. The use of a robot acquires images and enables the controlled trajectory of the imaging system with high precision and reproducibility. Due to the boom of machine learning, the development of autonomous imaging systems gained increasing attention recently. To develop intelligent systems that robustly work in unknown environments, fundamental research continues to emerge, investigating novel approaches of visual seroving, share-control, object segmentation, scene understanding, and learning from experts' experiences.  
+ The aim of this workshop is to bring together active research groups and clinicians, sharing the latest technological achievements in the field of robot-assisted medical imaging. By gathering world-class technical and clinical researchers, the meaningful discussion on the remaining challenges beyond technical developments like ethical issues and clinical acceptance will also be discussed during the one-day workshop.  
+ Workshop Length: Full Day  
+ Location: South Gallery Room 25  
+ For more information please click here.   
+
+  MW16: Advancing Robot Manipulation Through Open-Source Ecosystems  
+   
+ Organisers:  
+ Adam Norton, University of Massachusetts Lowell 
+  Holly Yanco, University of Massachusetts Lowell 
+  Berk Calli, Worcester Polytechnic Institute 
+  Aaron Dollar, Yale University 
+  Abstract:  
+ Advancement in robot manipulation is limited by a lack of systematic development and benchmarking methodologies, causing inefficiencies and even stagnation. There are several assets available in the robotics literature (e.g., YCB, NIST-ATB), yet an active and effective mechanism to disseminate and use them is lacking, which significantly reduces their impact and utility. This workshop will take a step towards removing the roadblocks to the development and assessment of robot manipulation hardware and software by reviewing, discussing, and laying the groundwork for an open-source ecosystem. The workshop aims to determine the needs and wants of robot manipulation researchers regarding open-source asset development, utilization, and dissemination. As such, the workshop will play a crucial role for identifying the preconditions and requirements to develop an open-source ecosystem that provides physical, digital, instructional, and functional assets for performance benchmarking and comparison. Discussions will include ways for maintaining ecosystem activity over time and identifying methods and principles to achieve a sustainable open-source effort. Accordingly, the invited speakers of this workshop includes experts that led well-established, successful open-source efforts (e.g., Robotarium, ROS-Industrial) along with experimentation experts and developers of newer open-source assets (e.g., NIST-MOAD, Household Cloth Object Set). The overarching goal is to learn from the successful examples and open communication channels between new and experienced researchers.  
+ Workshop Length: Full Day  
+ Location: South Gallery Room 21  
+ For more information please click here.   
+
+  MW17: Effective representations, abstractions, and priors for robot learning (RAP4Robots)  
+   
+ Organisers:  
+ Georgia Chalvatzaki, Assistant Professor, Computer Science Dpt., TU Darmstadt, Germany 
+  Jeannette Bohg, Assistant Professor, Computer Science Dpt., Stanford, USA 
+  Takayuki Osa, Associate Professor, University of Tokyo, Japan 
+  Oliver Kroemer, Assistant Professor, Robotics Institute, Carnegie Mellon University, USA 
+  Fabio Ramos, Professor, School of Computer Science, University of Sydney/ NVIDIA, Australia 
+  Snehal Jauhri, Ph.D. Student, Computer Science Dpt., TU Darmstadt, Germany 
+  Ali Younes, Ph.D. Student, Computer Science Dpt., TU Darmstadt, Germany 
+  Mohit Sharma, Ph.D. Student, Robotics Institute, Carnegie Mellon University, USA 
+  Abstract:  
+ Recent advances in robot learning have opened new avenues for research toward general-purpose, open-world intelligent robots. However, we are still far from achieving such intelligent robot behavior, and challenges persist in perception, planning, control, and interaction. We are still struggling to find good representations that leverage information from different sources and help us generalize to different domains and tasks. Moreover, skill transfer between tasks and across robotic platforms is an open problem, making us revisit ideas of applying structured priors to learning. Priors can also help perform sample-efficient learning on different robotic platforms, which is fundamental for robot learning. Furthermore, the composability of skills depends on using good abstractions, whose definition remains an open research question in robot learning. This workshop will try to identify connections in the above topics and discuss a unified framework that bridges robotic priors, representations, and abstractions towards a principled approach to scalable robot learning. This workshop will bring together AI and robotics researchers from various fields to share knowledge and debate these hot topics, while we will create a forum for the participants to interact and communicate their ideas.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 8  
+ For more information please click here.   
+
+  MW18: ICRA 2023 Workshop on Multi-Robot Learning  
+   
+ Organisers:  
+ Amanda Prorok, University of Cambridge, Department of Computer Science & Technology 
+  Javier Alonso Mora, Delft University of Technology, Autonomous Multi-Robots Lab 
+  Mac Schwager, Stanford University, Department of Aeronautics and Astronautics Director of the Multi-Robot Systems Lab 
+  Maria Santos, Princeton University, Department of Mechanical and Aerospace Engineering 
+  Abstract:  
+ Although learning-based methods have become common-place for solving single-robot problems, they have only recently gained traction within the multi-robot domain. Practical multi-robot solutions lean on the progress of methods that provide scalability, that accommodate partial observability, and that can deal with imperfect information exchange. However, solving these problems is not only computationally hard, but also often involves hand-designing at least a part of the solution. By following a data-driven paradigm, learning-based methods allow us to offload the online computational burden to an offline learning procedure, thus not only alleviating the design task, but also promising to find solutions that balance optimality and real-world efficiency.  
+ Work on multi-robot learning is nascent. In this workshop, we aim to bring together multi-robot, multi-agent, and machine learning researchers with varying theoretical foci (e.g., motion planning, game theory, POMDPs) who are applying a broad range of learning paradigms (e.g., reinforcement learning, imitation learning, federated learning, graph neural networks). The aim is to foster interaction and facilitate the communication of new insights. The program will consist of invited talks, spotlight presentations, a poster session, and a round-table discussion, allowing ample time for discussion.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 11  
+ For more information please click here.   
+
+  MW19: Neuromechanics meet deep learning: robotics and human-robot interaction  
+   
+ Organisers:  
+ Guillaume Durandau 
+  Seungmoon Song 
+  Vikash Kumar 
+  Huawei Wang 
+  Massimo Sartori 
+  Vittorio Caggiano 
+  Abstract:  
+ The ICRA 2023 motto is “Embracing the future – Making robots for humans” but Building robots for humans (exoskeleton, prosthesis or cobot) is complex as the neuromusculoskeletal system is able to elaborate dexterous movements and interact with complicated environments with ease.  
+ Synthesis of such diverse behaviours in humans requires effective coordination between the central nervous system – where intelligent controllers are created by networks of billions of neurons – and the peripheral musculoskeletal system which translates the intentions into actions. Akin to the central nervous system, the field of Artificial Intelligence has been pursuing the emulation of intelligent behaviours via neural structures (Neural Networks). At the same time, and mostly independently, the biomechanics community has been developing in silico musculoskeletal model to understand peripheral actuation.  
+ These new developments offer new avenues to better understand how movement is generated through these complex pathways in silico and how machines could seamlessly be integrated with it.  
+ Via this workshop, we seek a platform for the experts in the field of artificial intelligence, neuromechanics and robotics to come together to share respective progress and deliberate joint opportunities.  
+ Workshop Length: Half Day (AM) - 09:00-13:00  
+ Location: South Gallery Room 29  
+ For more information please click here.   
+
+  MW20: 3rd Workshop on Representing and Manipulating Deformable Objects  
+   
+ Organisers:  
+ Martina Lippi, Roma Tre University, Italy 
+  Daniel Seita, Carnegie Mellon University, USA 
+  Michael C. Welle, KTH Royal Institute of Technology, Sweden 
+  Fangyi Zhang, Queensland University of Technology (QUT), Australia 
+  Co-Organizers: Hang Yin, KTH Royal Institute of Technology, Sweden 
+  Danica Kragic, KTH Royal Institute of Technology, Sweden 
+  Alessandro Marino, University of Cassino and Southern Lazio, Italy 
+  David Held, Carnegie Mellon University, USA 
+  Peter Corke, Queensland University of Technology (QUT), Australia 
+  Abstract:  
+ Clothes, food, cables, and body tissue are just a few examples of deformable objects (DO) involved in both everyday and specialized tasks. Although humans are able to reliably manipulate them, automating this process using robotic platforms is still unsolved. Indeed, the high number of degrees of freedom involved in DOs undermines the effectiveness of traditional modelling, planning and control methods developed for rigid object manipulation. This paves the way for exciting questions from a research and application perspective. i) How to tractably represent the state of a deformable object? ii) How to model and simulate its highly complex and non-linear dynamics? iii) What hardware tools and platforms are best suited for grasping and manipulating? We aim to discuss these and more challenges that arise from handling deformable objects by connecting scientists from different subfields of robotics, including perception, simulation, control, and mechanics. Following the previous editions of the workshop at ICRA 2021 and ICRA 2022, the objective for the proposed third edition is to further identify promising research directions and analyze current state-of-the-art solutions with an emphasis on highlighting recent results since the 2022 workshop. We plan to facilitate this through invited talks and will foster new collaborations to connect young researchers with senior ones.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 12  
+ For more information please click here.   
+
+  MW21: Configurable Collaborative Robot Technologies in Construction  
+   
+ Organisers:  
+ Nikos Tsagarakis, IIT 
+  Andrea Giusti, Fraunhofer Italia Research 
+  Abstract:  
+ CONCERT focuses on the development of robotics technologies aiming at a novel concept of configurable robot platforms, which can be explored in application domains with unstructured, variable and evolving workspace settings and tasks.  
+ It targets to make a step transition from the current general-purpose lower power collaborative robots to a new generation of collaborative platforms that can safely collaborate in tasks with demanding human-scale forces while ensuring safety on the fly, implement efficient collaboration principles and demonstrate quick adaptability to address less standardized and more unstructured environment and task settings.  
+ It proposes the development of a new paradigm of high power/strength, adaptable, collaborative robots, which leverages on modular and configurable robot hardware with adaptive physical capabilities.  
+ automatic deployment of control and online safety verification methods. Multimodal, multistate perception and supervision tools provides enhanced human, robot and task execution awareness enabling the implementation of adaptive shared autonomy and role allocation planning in human robot collaboration.  
+ The development of the CONCERT technologies is steered by use-case scenarios from the construction industry, a sector with significantly high socio-economic impact, offering at the same time an extremely challenging, yet highly motivating and pertinent domain for demonstrating and validating the quick deployment and interoperability features of the CONCERT configurable collaborative robotic solutions.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 3  
+ For more information please click here.   
+
+  MW22: Multidisciplinary Approaches to Co-Creating Trustworthy Autonomous Systems (MACTAS)  
+   
+ Organisers:  
+ Lars Kunze, University of Oxford 
+  Sinem Getir Yaman, University of York 
+  Mohammad Naiseh, University of Southampton 
+  Ayse Kucukyilmaz, University of Nottingham 
+  Hugo Araujo, King's College London 
+  Baris Serhan, University of Manchester 
+  Zhengxin Yu, Lancaster University 
+  Abstract:  
+ Our joint ICRA 2023 Workshop on Multidisciplinary Approaches to Co-Creating Trustworthy Autonomous Systems will bring together academics and industry practitioners from a wide range of disciplines and backgrounds (including robotics, engineering, AI, computer science, social science, humanities, design, and law). We will organise a workshop which will be open and welcoming to researchers from the autonomous agents and multi-agent systems community.  
+ Defining autonomous systems as systems involving software applications, machines, and people, which are able to take actions with little or no human supervision, the workshop will explore different definitions of TAS and individual aspects of trust from a multidisciplinary perspective.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 16  
+ For more information please click here.   
+
+  MW23: Heterogeneity in Multi-Robot Systems: Theory, Practice and Applications  
+   
+ Organisers:  
+ Nare Karapetyan, Postdoctoral Associate, UMD 
+  Pratap Tokekar, Associate Professor, UMD 
+  Dinesh Manocha, Professor, UMD 
+  Abstract:  
+ Multi-robot collaborative systems are an integral part of any large scale operation. Even more the heterogeneity of the team while opening up great opportunities - different viewpoints, traversability constraints, battery life extension, at the same time creates a new dimensionality of difficulty. Increasing interest in using heterogeneous systems has resulted in numerous works in the literature, nevertheless these solutions tend to divide and conquer - divide tasks for each type of robot and solve for a homogenous system. Moreover, we see very few real world demonstrations in academia and the industry of deploying teams of heterogeneous robots.  
+ The main questions we want to address in this workshop are: is it possible to mathematically define heterogeneity of the system, what is the role of learning in such systems, what does heterogeneity bring into the table, what are the successful real world examples of these systems and what we can learn from these case studies. This workshop aims to bring together a group of researchers both from academia and industry to discuss these problems. We want to open a conversation between industry practitioners and researchers to highlight the fundamental issues faced in the heterogeneous multi-robot system design and deployment.  
+ Workshop Length: Full Day  
+ Location: South Gallery Room 17  
+ For more information please click here.   
+
+  MW24: Distributed Graph Algorithms for Robotics  
+   
+ Organisers:  
+ Andrew Davison, Imperial College London 
+  Joseph Ortiz, Imperial College London 
+  Abstract:  
+ At several scales in robotics, there are good reasons to distribute computation across graphs. Networks of many robots need to coordinate or collaborate, with peer-to-peer mesh communication preferable to a single master hub for robustness, scalability and security. Or a single complex robot could gain efficiency, low latency and modularity by locating multiple graph-connected processing units close to its multiple actuators and sensors. At the smallest scale, new graph processor chips enable internal distribution of storage and processing across many cores connected in flexible patterns, promising high throughput and low power usage.  
+ At all scales, while computing becomes more distributed, the goals of computation usually remain global. A robot team may have the joint goal of providing efficient coverage of an area; or a graph processor implements a vision algorithm to estimate the motion of a single robot. This workshop will therefore focus on the emerging research area of algorithms which can compute global properties via distributed computation. Researchers are currently investigating many different types of distributed algorithms, for varied tasks such as inference, planning or learning, but we believe that there is a timely opportunity to attempt to distill common principles.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 4  
+ For more information please click here.   
+
+  MW25: Avatar-Symbiotic Society  
+   
+ Organisers:  
+ Takahiro Miyashita (ATR) 
+  Takashi Yoshimi (Shibaura Institute of Technology) 
+  Abdelghani Chibani (UPEC) 
+  Yacine Amirat (UPEC) 
+  Abstract:  
+ This workshop aims at presenting the ongoing progress of the Moonshot (MS) human-centered long-term R&D program. It will discuss by focusing to deal with the future realization of an avatar-symbiotic society and cybernetic avatars (CAs). In the workshop, semi-autonomous tele-operated robots and CG agents are called CAs. We discuss the suitable way of an avatar-symbiotic society and the direction of future R&D. CAs are expected to offer humans a myriad of virtual and physical services to free us from limitations of body, brain, space, and time in order to perform active social roles without constraint. The goal for the field of CAs’ study is to develop and implement avatar-symbiosis within a harmonious future society. The technologies and services will enable a diverse range of social activities via remote operation where users interacting or teleoperating CAs in the cyber and the physical worlds seamlessly. These services are expected to augment capabilities and sometimes compensate for disabilities of people from various social backgrounds, in particular those related to the physical, cognitive, perceptual even gender domains. The discussion of the workshop will help us to adapt and adjust to a new human-centered ‘Cybernetic Avatar Life.’  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 2  
+ Please click here for more information.   
+
+  MW26: Embodied Neuromorphic AI for Robotic Perception  
+   
+ Organisers:  
+ Jorge Dias, Professor, Center for Robotics and Autonomous Systems (KUCARS), Khalifa University 
+  Mario Molinara, Assistant Professor, Head of the Artificial Intelligence and Data Analysis Lab- DIEI 
+  Naoufel Werghi, Professor, Center for Robotics and Autonomous Systems (KUCARS), Khalifa University 
+  Fakhreddine Zayer, Center for Robotics and Autonomous Systems (KUCARS), Khalifa University 
+  Abstract:  
+ The design of robots that interact autonomously with the environment and exhibit complex behaviors is an open challenge that can benefit from understanding what makes living beings fit to act in the world. Neuromorphic engineering studies neural computational principles to develop technologies that can provide a computing substrate for building compact and low-power processing systems. In this workshop we aim to discuss why endowing robots with neuromorphic technologies – from perception to motor control – represents a promising approach for the creation of robots which can seamlessly integrate in society. Highlighting open challenges in this direction, we propose community participations and actions required to overcome current limitations.  
+ Workshop Length: Full Day  
+ Location: South Gallery Room 28  
+ For more information please click here.   
+
+  MW27: Towards a Balanced Cyberphysical Society: A Focus on Group Social Dynamics  
+   
+ Organisers:  
+ Randy Gomez, Chief Scientist, Honda Research Institute Japan 
+  Selma Sabanovic, Professor, Informatics and Cognitive Science, Indiana University Bloomington 
+  Vicky Charisi, Research Specialist, European Commission– Joint Research Center 
+  Georgios Andrikopoulos, Assistant Professor, Mechatronics and Embedded Control Systems, KTH Royal Institute of Technology, Sweden 
+  Deborah Szapiro, Media Arts and Production Program, University of Technology Sydney 
+  Angelo Cangelosi, Professor, Department of Computer Science, The University of Manchester, UK 
+  Nawid Jamali, Senior Scientist, Honda Research Institute USA 
+  Natasha Randall, Indiana University Bloomington, Informatics, Indiana University Bloomington 
+  Luis Merino, Universidad Pablo de Olavide, Spain 
+  Abstract:  
+ The advancement in technology and robot functionalities have brought significant successes in robotics. In recent years, we have witnessed a slew of household robots introduced to the market, be it in the form of an embodied personal assistant or a service robot. The adoption of robots in the home will continue as humans are getting comfortable having them around. Human-robot interaction and social robotics have so far commonly focused on attracting people to interact with robots directly and measuring engagement with the robot as a main aspect of interaction success. But this is not always the case, as robots can also be used as mediators and instigators of interaction among people, rather than replacing them in the interaction. With this in mind, we aim to explore how robots can assist people in interacting more with each other in a society in which robots and humans co-exist.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 5  
+ For more information please click here.   
+
+  MT28: All about ROS 2 and the new Gazebo  
+   
+ Organisers:  
+ Mabel Zhang, Open Robotics team at Intrinsic 
+  Chris Lalancette, Open Robotics team at Intrinsic 
+  Abstract:  
+ Software development, an end in itself in industry, is often a means to an end in academic robotics research, where the goal is to create a prototype, which happens to require software, to illustrate that a novel method works in most cases, downscoped by its assumptions.  
+ Whereas academic users expect software to "just work" out of the box, including sophisticated features such as advanced mathematics, to demonstrate a "good enough" nominal case, industry users require all corner cases of vanilla features to be robust or even guaranteed by certification for mission-critical production software. On the other hand, academic research has lately imposed stronger requirements on robustness in simulation, for large-scale long-duration machine learning training.  
+ While industry users can afford the engineering to exactly suit their needs, academic users are motivated by factors such as a timeline characterized by transient student graduation cycles and limited software development time between short publication cycles, development toward software prototypes as opposed to robust long-term reliable or mission-critical production software, sophisticated algorithmic developments that potentially depend on multiple large existing packages simultaneously (for example, ROS, Gazebo, MoveIt, and OpenAI Gym) to create cutting-edge research innovations, typically smaller software packages and development teams, and smaller fleets of robots compared to large warehouse logistic operations, to name a few.  
+ These factors mean that academic users have less time to understand the foundations of software tools, for example, network communications underlying middleware, physics and rendering underlying robotics simulation, software design paradigms and performance, and proper development process for open source software. As a concrete example, Data Distribution Service (DDS) is a critical building block of ROS 2 when it comes to basic usage and performance. For Gazebo, it means understanding how physics engines differ and choosing the one with the numerical stability or performance best for the specific robotics sub-domain. These choices can affect simulation and real robot results dramatically. Without understanding these differences and choices, it could make a software appear unsuitable or even unusable, when the solution is simply proper configuration.  
+ After 8 distribution releases of ROS 2 and with ROS 1 official support coming to an end in 2025, at ICRA 2022 Philadelphia, we found that many current ROS 1 users in academia still had questions about whether and when they should migrate to ROS 2.  
+ While ROS 2 has seen wide industry adoption, including mission-critical space applications and autonomous vehicles, academic users have been uncertain. In this tutorial, we hope to address the uncertainty by exposing attendees to new features in ROS 2 and the new Gazebo (formerly Ignition) through hands-on exercises using examples developed for real-world applications.  
+ Tutorial Length: Full Day  
+ Location: ICC Capital Suite 14  
+ For more information please click here.   
+ PLEASE READ IF YOU PLAN ON ATTENDING THIS TUTORIAL    
+ If you plan on doing either hands-on session (two 1.5-hour slots), please please please set up your environment (Ubuntu 22.04 (Jammy), ROS 2 Humble, and Gazebo Garden) BEFORE the conference, as time and conference WiFi bandwidth will be limited.  
+   
+  Ubuntu 22.04 (Jammy) (host or VM) is strongly preferred and is the tutorial’s tested platform. If you bring macOS or Windows, our ability to help will be limited.  
+   
+  Option 1. Pull from DockerHub  
+  To make it easy, we created a Docker image (2 GB) that has the environment we ask for:  
+  https://hub.docker.com/r/osrf/icra2023_ros2_gz_tutorial/tags   
+ Please download this BEFORE the conference, as we cannot rely on the conference WiFi to accommodate everyone downloading a 2 GB file.  
+  Instructions to install Docker and run the image https://github.com/osrf/icra2023_ros2_gz_tutorial/blob/main/docker/README.md   
+ (We may still update the image from now till May 26, but it's better to have something rather than nothing.)  
+  
+  Option 2. Build the Docker image locally  
+  https://github.com/osrf/icra2023_ros2_gz_tutorial/blob/main/docker/README.md   
+  Please do this BEFORE the conference, as network connection is required for fetching Ubuntu, ROS, and Gazebo packages.  
+  (Caveat: For the Gazebo hands-on, you may still need conference WiFi for up to 350 MB of model data, depending on what you choose to run. The DockerHub image has this data burned in.)  
+   
+  Option 3. Set up ROS 2 Humble and Gazebo Garden locally  
+  If you prefer to set up the environment on your host machine as opposed to using Docker, please use our documentation for these specific distributions:  
+  ROS 2 Humble https://docs.ros.org/en/humble/Installation.html   
+  Gazebo Garden https://gazebosim.org/docs   
+   
+  *************************************************************************************  
+ If you would like us to include your project that uses ROS 2 or new Gazebo in a list, you may still do so before May 26: https://github.com/osrf/icra2023_ros2_gz_tutorial#contributing   
+
+  MT29: Autonomous Maritime Robotics: Digital Twins with Simulations & Cloud-enabled Massive Datasets  
+   
+ Organisers:  
+ Christian Berger, Professor at University of Gothenburg, Sweden 
+  Ola Benderius, Associate Professor at Chalmers University of Technology, Sweden 
+  Fausto Ferreira, Leading Researcher at the University of Zagreb, Croatia 
+  Juraj Obradović, Researcher at the University of Zagreb, Croatia 
+  Ivan Lončar, Researcher at the University of Zagreb, Croatia 
+  Abstract:  
+ Digital Twins support various aspects during the development of software-intensive system functions: Retrospective system analysis using collected data from the past, system experimentation using simulators with high-fidelity system models, as well as prediction of system properties based on a combination of data and simulations.  
+ In this tutorial, we are presenting and experimenting with two essential aspects for Digital Twins: (A) open-loop and (B) closed-loop verification & validation (V&V) instruments.  
+ We introduce the high-quality and high-resolution dataset Reeds to overcome present challenges in existing datasets such as low situational variability or poor annotations. This dataset originates from an instrumented 13m boat with six high-performance vision sensors, two three LIDARs lidars, a 360° radar, a 360° documentation camera system, and a three-antenna RTK-enabled GNSS system as well as a fiber optic gyro IMU used for ground truth measurements, an advanced weather sensor, and an AIS receiver.  
+ Next to the data, we are presenting the high-fidelity simulator MARUS that offers advanced capabilities of generating realistic maritime environments allowing for closer-to-reality V&V of applications developed for maritime vehicles. The simulator offers synthetic dataset generation with perfect annotations for various sensors (cameras, LIDARlidar, sonar, radar) and allows for interaction with the environment for closed loop simulation.  
+ Tutorial Length: Half Day (PM) - 14:00 - 18:00  
+ Location: South Gallery Room 29  
+ For more information please click here.   
+ PLEASE READ IF YOU PLAN ON ATTENDING THIS TUTORIAL    
+ Please install the MARUS simulator, so you can follow the tutorial we have prepared for you.  
+ https://github.com/MARUSimulator/marus-example/wiki/Installation   
+ If you have any questions or issues with the installation, please feel free to contact us via email: juraj.obradovic@fer.hr  .  
+
+  Friday 2nd June 2023   
+
+  FW01: Workshop on Robot Execution Failures and Failure Management Strategies  
+   
+ Organisers:  
+ Alex Mitrevski, PhD, Research Associate b-it and MigrAVE 
+  Santosh Thoduka, PhD student/Research Associate Project METRICS/Team member 
+  Paul G. Plöger, Professor for Autonomous Systems 
+  Karinne Ramirez-Amaro, Docent (Associate professor), Electrical Engineering 
+  Maximilian Diehl, PhD Student, Electrical Engineering 
+  Abstract:  
+ An important aspect of autonomous robot behaviour is the ability to recognise failures and take steps to correct those, both during online operation (so that the ongoing activity can be continued) and over long-term deployment (so that failures are not constantly repeated). Failure awareness is important in different contexts: to prevent the propagation of failures in autonomous operation (particularly for mobile manipulators) and thus avoid downtime as much as possible without requiring constant human intervention, to enable a robot to communicate its failures to users and thus be more trustworthy, or to guide learning so that scenarios that lead to failures can be avoided.  
+   
+  This workshop provides a forum for discussing robot execution failures, strategies for failure modelling, avoidance, and analysis, as well as techniques for learning from failures. A combination of invited talks, paper presentations, and interactive sessions will provide participants with an opportunity to analyse failure management strategies in different robot applications and to discuss open challenges for dealing with robot execution failures in order to make autonomous robots more reliable and suitable for use in human-centered applications.  
+ Workshop Length: Full Day  
+ Location: South Gallery Room 24  
+ For more information please click here.   
+
+  FW02: Computer Vision for Wearable Robotics  
+   
+ Organisers:  
+ Letizia Gionfrida, Harvard Paulson School of Engineering and Applied Sciences 
+  Robert D. Howe, Harvard Paulson School of Engineering and Applied Sciences 
+  Daekyum Kim, Harvard Paulson School of Engineering and Applied Sciences 
+  Brokoslaw Laschowski, Temerty Faculty of Medicine, University of Toronto 
+  Michele Xiloyannis, Sensory-Motor Systems Lab, ETH 
+  Abstract:  
+ As wearable robotic devices used for movement assistance and rehabilitation start to populate our daily environments, their ability to autonomously and seamlessly adapt to recover motor control in persons with impairments based on environmental states changes becomes more critical. Wearable robotics that assists the lower limbs, for example, should autonomously change the assistance profiles depending on the environment and locomotor activity such as level-ground walking or stair climbing. Similarly, wearable robotics for the upper limbs should adapt the powered assistance depending on the user's body segment parameters and the weight of manipulated objects. To achieve such versatility, it is important to not only recognize user intention but also obtain information about the surroundings. Computer vision can provide rich, direct, and interpretable information while interacting with the environment compared to information from non-visual sensors like tactile sensors. This workshop will uniquely focus on the challenges and opportunities of integrating contextual awareness into automated high-level control and decision-making of wearable robotic devices based on state-of-the-art advances in computer vision, machine learning, and sensor fusion techniques. This workshop will discuss technical engineering solutions for vision-based rehabilitation and assistive robotics by bridging the gaps between researchers in wearable robots and computer vision, as well as academia and industry.  
+ Worksop Length: Half Day (AM) - 09:00-13:00  
+ Location: ICC Capital Suite 9  
+ For more information please click here.   
+
+  FW03: 2nd Workshop on Compliant Robot Manipulation: Challenges and New Opportunities  
+   
+ Organisers:  
+ Shenli Yuan, Robotics Research Engineer, SRI International 
+  Andrew Morgan, PhD Candidate, Yale University 
+  Kaiyu Hang, Assistant Professor, Rice University 
+  Maximo Roa, Senior Research Scientist, German Aerospace Center (DLR) 
+  Weiwei Wan, Associate Professor, Osaka University 
+  Aaron Dollar, Professor, Yale University 
+  Abstract:  
+ Robust, dexterous manipulation in unstructured environments remains a research problem for those working in both academia and industry. Encapsulating a plethora of potential use cases—from logistics-based packing problems to human-robot service settings—the interactions between a robot and its environment are often difficult to plan and execute precisely, as there will always be some degree of uncertainty in the model of the robot or its environment. This uncertainty has historically elicited conflict within the robot’s internal control schema, as it required both position and forces of the actuators to be balanced appropriately as to satisfy task requirements. System compliance—either in a software-based or a hardware-based solution—has been largely the key to enabling a robot to overcome such environmental or system-modeling uncertainties. This inherent adaptability in the robot’s kinematic structure can generally simplify planning and control of the robot, which has in turn enabled fundamental advancements in robot manipulation. In this workshop, we will explore the state-of-the in compliance-enabled robot manipulation on numerous fronts. Panelists and speakers will discuss how compliance, and other similar paradigms, have changed formulations and processes for planning, control, design, sensing, learning, optimization, etc. for such robot systems.  
+ Workshop Length: Full Day  
+ Location: South Gallery Room 18  
+ For more information please click here.   
+
+  FW04: Robot assisted safe manipulation of hazardous materials  
+   
+ Organisers:  
+ Thrishantha Nanayakkara, Dyson School of Design Engineering, Imperial College London. 
+  Sarah Harding, Microbiology and Aerosol Sciences Group, CBR Division, DSTL Porton Down, Salisbury 
+  Perla Maiolino, Oxford Robotics Institute, University of Oxford. 
+  Kaspar Althoefer, School of Engineering and Materials Science, Queen Mary University of London 
+  Edward Johns, Imperial College London 
+  Abstract:  
+ This workshop aims to bring together experts in robotics with those who handle hazardous materialm to identify critical challenges and future opportunities to reduce the risk to personnel of processing hazardous samples. These tasks can involve dangerous pathogens (up to Containment Level 4) chemicals and explosives, therefore the challenges are far more complex compared to robotic manipulation of stable objects in other environments eg factories. We aim to identify specific challenges in unimanual and bi-manual manipulation, realtime multimodal (i.e. haptic, visual, odor, etc.) perception, human-robot interaction and human augmentation, and semi-autonomous telemanipulation.. We will bring in defence experts to provide further detail on the risk associated withdifferent classes of samples, the diversity of mechanical and chemical properties of typical hazardous materials processed in a defence lab and future needs and challenges that can be addressed by the robotics community. The multidisciplinary approach to this workshop will help to build a better understanding leading to fruitful collaborations that are currently limited.  
+ Multiple streams in robotics such as grasping, bimanual object manipulation, realtime multimodal perception, and semi-autonomous human robot interaction have made important advances in diverse areas from factories, to agriculture, and medicine. However still there are still existing challenges to overcome including uncertainty in the samples being manipulated. These range from dangerous pathogens to toxic chemicals and explosive materials, all with differing issues and risks. In some instances, the properties of the sample are not completely known until analysis is completed. Therefore the demand for realtime decision making is higher than normal. The robotics community will benefit from understanding the context from defence experts who have experience in these areas handling hazardous materials often within limited and restricted environments The interactive sessions will open up opportunities to draw principles from multiple areas of robotics and automation to solve future grand challenges to improve safety and efficiency for this application domain.  
+ Workshop Length: Full Day  
+ Location: South Gallery Room 27  
+ For more information please click here.   
+
+  FW05: Heterogeneous multi-robot cooperation for exploration and science in extreme environments  
+
+ Organisers:  
+ Prof. Miguel Olivares Mendez, University of Luxembourg, SpaceR 
+  Prof. Raj Thilak Rajan, Delft university of Technology (TUD), Delft Sensor AI Lab 
+  Prof. Alexis Kostas, NTNU, Autonomous Robot Lab 
+  Dr. David Rodríguez, EPFL Space Center 
+  Abstract:  
+ Despite promising developments in robotics and automation, we are reliant on humans and single-agent systems for some of the most dangerous scientific tasks on Earth and beyond. Environmental monitoring and sampling of rivers, oceans, and glaciers, spatio-temporal mapping of arctic regions, the characterization of off-Earth planetary environments, and the realization of space-based astronomy, are but some examples. Heterogeneous teams of robots have the potential to adapt to and thrive in these extreme, unstructured, and dynamic environments. Understanding the mechanisms by which teams of robots can be successfully deployed and autonomously cooperate to assist, augment, and eventually alleviate the need for large groups of humans in these regions is at the forefront of today’s robotics research and technology development. This workshop will bring together a community of roboticists, environmental scientists, machine learning experts, and space researchers with the goal of redefining the state of the art in the field of heterogeneous multi-robot cooperation for exploration and science in extreme environments.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 12  
+ For more information please click here.   
+
+  FW06: Communication Challenges in Multi-Robot Systems: Perception, Coordination, and Learning  
+   
+ Organisers:  
+ Dr. Ramviyas Parasuraman, Assistant Professor, University of Georgia 
+  Dr. Michael Otte, Assistant Professor, University of Maryland 
+  Dr. Karthik Dantu, Associate Professor, University at Buffalo 
+  Dr. Geoffery Hollinger, Associate Professor, Oregon Staten University 
+  Dr. Robert Fitch, Professor, University of Technology Sydney 
+  Donald Sofge, Section Head, U.S. Naval Research Laboratory 
+  Abstract:  
+ Wireless networking is crucial in achieving efficient missions with mobile robots and multi-robot systems. Robots use communication to facilitate data sharing, coordination, and cooperation with other robots and human users. However, real-world communication is often unreliable, expensive, non-ideal, and/or otherwise challenging in a variety of ways, as evident by the recent post-disaster deployments of robotic and multi-robot solutions. These challenges have even more significance and ramifications when it comes to multi-robot systems, where communication is key to achieving successful coordination, joint perception, and cooperative planning. In fact, many robotic challenges, including the DARPA robotics and subT challenges, often involve variations of such communication challenges in their objectives. This workshop will offer an excellent and timely venue to discuss these challenges along with their solutions. The workshop will gather an excellent lineup of invited talks from academia, government, and industry who are leading experts, as well as budding and early-career researchers from different research domains (e.g., mobile networking, field robotics, multi-robot systems). The workshop will engage the researchers at the intersection of disciplines in an effort to obtain a unification of the required solutions to address these challenges in an effective and informed manner.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 13  
+ For more information please click here.   
+
+  FW07: Task-Informed Grasping IV (TIG-IV): From Farm to Fork  
+   
+ Organisers:  
+ Taeyeong Choi, AI Institute for Food Systems, University of California, Davis 
+  Soran Parsa, Department of Computer Science, University of Huddersfield 
+  Nived Chebrolu, Oxford Robotics Institute, University of Oxford 
+  Gert Kootstra, Farm Technology Group, Wageningen University and Research 
+  Marija Popović, Cluster of Excellence "PhenoRob", Institute of Geodesy and Geoinformation, University of Bonn 
+  Amir Masoud Ghalamzan Esfahani, Lincoln Institute for Agri-Food Technology, University of Lincoln 
+  Abstract:  
+ As the world population rapidly grows [from 7.5 billion today] to 9.6 billion in 2050, it is becoming more important to build sustainable supply chains to keep producing high-quality foods. Improved sustainability could be achieved by methods that are highly productive, cost-effective, and environment-friendly whilst foods are processed from acquisition to consumption. Although recent advances in AI and robotics have shown significant potential, many tasks in the current design of food production still rely heavily on human labours and capabilities only. The aim of this workshop is thus to bring together world-leading roboticists and AI practitioners to discuss novel approaches to deploying robotic solutions in the food system throughout the sessions focused on (1) farming, (2) postharvest handling, (3) retail & consumption, and (4) legislation. These will help not only obtain a holistic understanding of the entire supply chain but also find related research questions from different domains (e.g., manipulating soft objects in fruit picking or sandwich making) at one venue. Therefore, TIG-IV will offer a great overview of the state-of-theart through a series of invited talks and paper/poster presentations. Moreover, active participation will be encouraged to collectively identify useful insights and desired directions for future research in the community.  
+ Workshop Length: Full Day  
+ Location: South Gallery Room 29  
+ For more information please click here.   
+
+  FW08: The Role of Robotics Simulators for Unmanned Aerial Vehicles  
+   
+ Organisers:  
+ Kimberly McGuire, Bitcraze A.B. 
+  Giuseppe Silano, RSE S.p.A. and CTU Prague 
+  Chiara Gabellieri, TU Twente 
+  Wolfgang Hönig, TU Berlin 
+  Steering Committee:  
+ Antonio Franchi, TU Twente 
+  Martin Saska, Czech Technical University in Prague 
+  Gianluca Antonelli, University of Cassino and Southern Lazio 
+  Vincenzo Lippiello, University of Naples Federico II 
+  Gaurav Sukhatme, University of Southern California 
+  Stefano Stramigioli, TU Twente 
+  Abstract:  
+ The workshop aims to provide the participants with the knowledge and experience of researchers who have struggled to find, customize, or design a robotic simulator for their own purposes or specific application. The focus is on aerial vehicles, especially multi-rotor aircraft, where we expect simulation solutions to be of continued importance for both research and industrial applications. Simulating UAVs is a specialized task, because of aerodynamic interactions (with the environment or other robots), the fast operating speed compared to other robots (e.g., mobile, legged), and the potentially large number of interacting robots in three dimensions (e.g., swarms of delivery drones).  
+ Workshop Length: Half Day (PM) 14:00-18:00  
+ Location: South Gallery Room 25  
+ For more information please click here.   
+
+  FW09: Embracing contacts. Making robots physically interact with our world  
+   
+ Organisers:  
+ Joao Moura, University of Edinburgh 
+  Todor Davchev, DeepMind 
+  Mario Selvaggio, University of Naples Federico II 
+  Theodoros Stouraitis, Honda Research Institute EU 
+  Sethu Vijayakumar, University of Edinburgh 
+  Bruno Siciliano, University of Naples Federico II 
+  Abstract:  
+ We, humans, utilize our potential to physically interact with the world by employing a diverse set of contact-rich strategies, such as pushing, throwing, catching, sliding, rolling, and pivoting. However, we are yet to empower robots with such ability of embracing contacts during manipulation. In this workshop, we would like to discuss the unique challenges that handling contacts bring in the presence of under-actuated, hybrid, and uncertain dynamics, raising questions such as:  
+ 1) How to model hybrid contact dynamics in planning and control; with constraints (phase-based vs contact implicit) or via learned contact dynamics?  
+ 2) How to handle errors in the timing of contact-mode switches that might trigger impacts?  
+ 3) How to address model mis-match and generalize beyond training data; in scenarios with different numbers and types of contact events?  
+ 4) How effective can novel tools and gripper designs be?  
+ 5) What is the role of tactile and geometric information when handling contacts?  
+ Amid a growing interest in making robots manipulate in human-centered environments, e.g. homecare, logistics, healthcare, we aim at gathering researchers from mechanical design, perception, control, planning and learning, to tackle, among others, some of the above questions and to discuss the future of contact-rich manipulation.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 7  
+ For more information please click here.   
+
+  FW10: Transferability in Robotics  
+   
+ Organisers:  
+ Michael C. Welle, KTH Royal Institute of Technology (KTH), Stockholm, Sweden 
+  Andrej Gams, Jozef Stefan Institute (JSI), Ljubljana, Slovenia 
+  Ahalya Prabhakar, École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland 
+  Rainer Kartmann, Karlsruhe Institute of Technology (KIT), 7 Karlsruhe, Germany 
+  Daniel Leidner, German Aerospace Center (DLR), Weßling, Germany 
+  Danica Kragic, KTH Royal Institute of Technology (KTH), Stockholm, Sweden 
+  Abstract:  
+ Transferability in Robotics is a key step to achieving sufficient scale and robustness in order to make robots unambiguous in our everyday lives. The concept of transferability covers a wide range of topics such as i) Embodiment transfer - transferring from one robotic platform to another while considering their different embodiments, ii) Task/skill transfer - transferring methods or capabilities from one task to another, and iii) Knowledge transfer - transferring high-level concepts from one to another. These different areas also have different definitions of transferability and employ different approaches (e.g., representation learning, reinforcement learning, meta-learning, sim2real, interactive learning) for the respective task. While each of these fields has made headway in its own right, to really push forward the state of the art in transferability, a combination of contributions from the different fields is needed. The EU Horizon project euRobin aims to achieve transferability by not focusing on any specific sub-category but to share knowledge in a higher/more abstract way. The goal of this workshop is to combine the advances made in the individual fields into a more global picture by facilitating a common understanding of transferability, as well as highlighting contributions and encouraging collaborations between the different areas.  
+ Workshop Length: Full Day  
+ Location: South Gallery Room 23  
+ For more information please click here.   
+
+  FW11: Emerging paradigms for assistive robotic manipulation: from research labs to the real world  
+   
+ Organisers:  
+ Maria Pozzi, University of Siena, Italy 
+  Jihong Zhu, University of York, the UK 
+  Fan Zhang, Imperial College London, the UK 
+  Virginia Ruiz Garate, University of the West of England, Bristol, the UK 
+  Zackory Erickson, Robotics Institute Carnegie Mellon University, the US 
+  Maximo A. Roa, German Aerospace Center (DLR), Germany 
+  Jens Kober, TU Delft, the Netherlands 
+  Michael Gienger, Honda Research Institute EU, Germany 
+  Yiannis Demiris, Imperial College London, the UK 
+  Abstract:  
+ The capability to grasp and manipulate objects allows people to interact with their surrounding environment, and is key in daily working and social activities. Assistive technologies such as wheelchair-mounted robotic arms, prostheses, and supernumerary limbs have already shown their capability in providing more independence to people lacking manipulation skills due to an innate or acquired upper-limb motor disability. This workshop aims at connecting developers, distributors, and end-users of assistive robots with expert researchers in the field of robotic manipulation to discuss how new and advanced grasp planning and control algorithms (e.g., techniques for grasping deformable objects), as well as new design paradigms for robotic hands (e.g., soft/smart materials, innovative sensing/actuation systems), have already been, or have the potential to be, adopted in assistive applications. A special focus will also be the analysis of guidelines and best practices for a user-centric design, development and transfer of new approaches in the field from the research labs to the assistive world. For the transfer to be successful, not only the robotic solutions should work effectively and reliably, but they should, above all, be accepted by the end-users and the society.  
+ Workshop Length: Full Day  
+ Location: South Gallery Room 22  
+ For more information please click here.   
+
+  FW12: Geometric Representations: The Roles of Screw Theory, Lie algebra, & Geometric Algebra  
+   
+ Organisers:  
+ Luis Figueredo, Technical University of Munich 
+  Riddhiman Laha, Technical University of Munich 
+  Tobias Loew, Idiap Research Institute 
+  Bruno Vilhena Adorno, The University of Manchester 
+  Sylvain Calinon, Idiap Research Institute 
+  Nilanjan Chakraborty, Stony Brook University 
+  Sami Haddadin, Technical University of Munich 
+  Abstract:  
+ The scope and goal of the proposed workshop is to focus on geometric algebra, differential geometry, and related methods and applications of geometric tools to robotics. Although the theoretical origins of these tools can be traced back to Descartes’s introduction of coordinated systems, Ball’s designs of screws motion, and Clifford’s and Study’s studies (pun intended), contemporary applications have changed drastically. Indeed, screw theory along with its multifarious manifestations such as Plücker coordinates and unit dual quaternions, coupled with Riemannian geometry and Lie algebra, have re-emerged and become fundamental in the shaping and formalization of the latest problems in robot mechanics, multi-body dynamics, mechanical design, robot control, optimization and robot learning.  
+ The overall theme of the workshop is aligned with multiple fields of robotics research and aims to build a roadmap towards a sound and unified theoretical basis for addressing elaborated robotics problems, scaling and leveraging data-driven methods from Euclidean domains to proper geometric groups, and improving overall human-robot co-existence through geometric methods and tools. Furthermore, recent studies which will be presented by selected keynote speakers have shown that the exploitation of geometric properties within Lie groups and Riemannian manifolds has led to better exploration of the human-environment. The results to be presented in this event as well as the theoretical machinery plays an important role in making robots that can operate around humans (ICRA 2023 theme).  
+ In this context, the main objective of this full-day workshop is to stimulate and revisit the latest developments and applications concerning algebraic and differential geometry concepts, and to understand how models, algorithms and data-driven methods initially developed for Euclidean spaces can be further extended to special geometric groups. We also expect this workshop to be instrumental in inspiring the junior researchers in the community to understand and include these fundamental geometrical concepts, paving the foundation for new applications, and reinforcing the cross-pollination and exchange of ideas between stakeholders, researchers and practitioners within our increasingly thriving community.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 8  
+ For more information please click here.   
+
+  FW13: Working towards Ontology-based Standards for Robotics and Automation (WOSRA) - 2nd edition  
+   
+ Organisers:  
+ Daniel Beßler, Institute for Artificial Intelligence, University of Bremen, Germany 
+  Julita Bermejo-Alonso, Autonomous Systems Laboratory, Universidad Politécnica de Madrid, Spain 
+  Paulo J.S. Gonçalves, IDMEC - Center of Intelligent Systems, University of Lisbon/ Instituto Politecnico de Castelo Branco, Portugal 
+  Howard Li, University of New Brunswick, New Brunswick, Canada 
+  Alberto Olivares-Alarcos, Institut de Robòtica i Informàtica Industrial, CSIC-UPC, Spain 
+  Abstract:  
+ Robotics is becoming a mainstream domain with a wide range of applications with a medium and long term impact on everyone’s lives. Current systems rely more and more on robot–robot communication and robot–human interaction. In terms of communication, a vocabulary with clear and concise definitions is a sine qua non component to enable information exchange among any group of agents, which can be human or non-human actors. This need for a well-defined knowledge representation is becoming evident if one considers the growing complexity of behaviors that robots are expected to perform as well as the rise of multi-robot and human–robot collaboration. This workshop has the purpose to increase interest in standardization for the Robotics and Automation (R&A) domain, as well as the ethical challenges involved with the interaction with humans.  
+ The existence of a standard knowledge representation would: define precisely concepts and relations in the robot’s knowledge representation that could include, but is not limited to, robot hardware and software, environment, cause and effects of performing actions, relationship among other robots and people; ensure common understanding among members of the community; facilitate efficient data integration and transfer of information among robotic systems.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 16  
+ For more information please click here.   
+
+  FW14: Compositional Robotics: Mathematics and Tools  
+   
+ Organisers:  
+ Gioele Zardini, ETH Zurich 
+  Andrea Censi, ETH Zurich 
+  Dejan Milojevic, ETH Zurich 
+  Emilio Frazzoli, ETH Zurich 
+  Abstract:  
+ In the last decade the research on embodied intelligence has observed important developments. While the complexity of robotic systems has dramatically increased, both from the perspective of the single robot design and the one of interacting multi-robot systems (e.g., autonomous vehicles and mobility systems), the design methods have not kept up.  
+  The standard answer to dealing with complexity is exploiting compositionality, but  
+  there are no well-established mathematical modeling and design tools that have the reach  
+  for compositional analysis and design at the level of a complex robotic system.  
+   
+  The goal of this workshop is to integrate mathematical principles and practical tools for compositional robotics.  
+ Workshop Length: Full Day  
+ Location: South Gallery Room 21  
+ For more information please click here.   
+
+  FW15: Cognitive Modeling in Robot Learning for Adaptive Human-Robot Interactions  
+   
+ Organisers:  
+ Anany Dwivedi, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) 
+  Chenxu Hao, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) 
+  Gustavo J. G. Lahr, Istituto Italiano di Tecnologia 
+  Marta Lorenzini, Istituto Italiano di Tecnologia 
+  Abstract:  
+ Our interdisciplinary workshop focuses on the human-centered design of adaptive robotic behavior from the lens of cognitive science. In this workshop, we invite researchers from different backgrounds, including engineering, human-machine interaction, and cognitive science, to discuss how cognitive modeling can be exploited to enhance adaptive human-robot interaction (HRI) frameworks. We aim to provide participants diverse theoretical perspectives and potential research directions through interactive talks and panel discussions.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 4  
+ For more information please click here.   
+
+  FW16: Soft Robotics: Fusing function with structure  
+   
+ Organisers:  
+ Dr. Hareesh Godaba, (CORRESPONDING ORGANIZER), University of Sussex, UK. 
+  Dr. Ahmad Ataka, Universitas Gadjah Mada, Yogyakarta, Indonesia. 
+  Prof. Kaspar Althoefer, Queen Mary University of London, UK. 
+  Abstract:  
+ The advent of soft material technologies in robotics has brought many distinct advantages, such as inherent compliance, safety, high manoeuvrability, and reconfigurability. Along with these advantages, the past years have seen many interesting applications for soft robots in areas such as surgical robotics, extreme environments, and logistics and material handling. Despite these rapid developments, many challenges that are key to the widespread adoption and efficient utilization of novel soft material technologies are still outstanding.  
+ A major challenge that lies at the core of the field of soft robots is the fusion and integration of different functions with the soft robot body. The ability of different structures in a soft robot to seamlessly carry out different functions, for example, an actuator that is also a self-sensing element or the backbone of a robot body, will produce numerous advantages. Such a fusion is underpinned by many aspects, such as design methodologies, the development of multifunctional components, manufacturing techniques to cofabricate functional structures, sensing and perception of data, and morphological computation.  
+ The main objective of this workshop is to serve as a focal point for discussing this grand challenge of “Fusing Function with Structure in Soft Robotics’’. The workshop will host talks, short presentations, an Early Career Researchers Showcase and a panel discussion and will involve soft robotics researchers specializing in the broad domains of soft actuation, sensing, functional materials, manufacturing, and physical intelligence.  
+ Workshop Length: Full Day  
+ Location: South Gallery Room 17  
+ For more information please click here.   
+
+  FW17: Quality and Reliability Assessment of Robotic Software Architectures and Components  
+   
+ Organisers:  
+ Alcino Cunha, INESC TEC, University of Minho, Portugal  
+  Michael Fisher, Dept. of Computer Sciences, University of Manchester, UK  
+  Charles Lesire, ONERA/DTIS, University of Toulouse, France  
+ Abstract:  
+ The development of intelligent robotic systems, both at present and in the future, will require greatly strengthened capabilities across sensing, reasoning, information management, and acting. The innovations required in these fields will primarily rely on the development of enhanced software components, software connectivity, and software architectures. This need is further emphasized by the increasing adoption of modular, open-source, and open-data contributions both within the research community and across the industry, for example, the widespread use of open-source modular middleware such as ROS. Although many significant research contributions deal with the analysis of correctness, robustness, or reliability of algorithms and theoretical formulations of robotic capabilities, relatively few deals with design and analysis concerning the quality and reliability of the software that supports the execution of these capabilities. This workshop aims to bridge the gap between practical software engineering, program verification, and applicable robotics by bringing the topics of quality and reliability assessment of software to the fore. The workshop will achieve this through a combination of talks from invited speakers that have relevant contributions and projects, together with contributions from the research community to welcome the latest ideas and contributions relevant to this topic.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 5  
+ For more information please click here.   
+
+  FW18: Bridging the Lab-to-Real Gap: Conversations with Academia, Industry, and Government  
+   
+ Organisers:  
+ Anirudha Majumdar, Princeton University 
+  Alexandra Bodrova, Princeton University 
+  Meghan Booker, Princeton University 
+  Alec Farid, Princeton University 
+  Vincent Pacelli, Princeton University 
+  Abstract:  
+ Deploying robots and other autonomous systems on a large scale requires that both its designers and the general public trust that they behave as intended. Establishing this trust requires being able to certify properties and behaviors of robots — including both traditional attributes in robotics like safety or robustness and emerging concepts like fairness and privacy — at scale and across a wide range of operating environments. How can we validate that robots are operating safely in the real, uncertain, and interactive world?  
+ There are many state-of-the-art approaches working towards answering this question, including reachability analysis, rare-event simulation, fault detection, risk-aware decision making, and others. These tools are beginning to make the transition from proof of concept to scalable solutions. The goal of this workshop is to foster communication between academic researchers, industry entities, and regulatory agencies on the topic of large-scale verification and deployment of robots in real-world applications. The program will expose academic researchers to the problems and workflows used in industry, and industry professionals and regulatory agencies to emerging theoretical and practical tools from academia. Our hope is that such a dialogue will accelerate the safe and widespread deployment of robotic systems in the long term.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 3  
+ For more information please click here.   
+
+  FW19: Robot Teammates in Dynamic Unstructured Environments (RT-DUNE)  
+   
+ Organisers:  
+ Carlos Nieto-Granda, Army Research Laboratory 
+  Liubove (Liuba) Orlov Savko, Rice University 
+  Karinne Ramirez Amaro, Chalmers University of Technology 
+  Henrik Christensen, University of California San Diego 
+  Nicholas Roy, Massachusetts Institute of Technology 
+  Ethan Stump, Army Research Laboratory 
+  David Baran, Army Research Laboratory 
+  Brett Piekarski, Army Research Laboratory 
+  Abstract:  
+ Human interaction is fundamental to robotics but is difficult to actually test in a way that supports development and design. Traditional behavioral studies can help to quantify the performance of a complete system but often fail to adequately capture the multi-part, contextual interactions required for assessing complex tasks. Operational datasets provide a static snapshot of the interaction but cannot tell the story of the reactivity at the heart of any interaction. There are many open questions about what the future of testing and iterative design looks like for robots that need to team with humans. For instance, large-scale experiments and operations are generating tremendous amounts of data about interactive systems, but does this data actually support the creation of these complex, reactive, and dynamic interactions or does it merely give us an opaque measure of success and failure? Will robotics progress be limited by how quickly we can design and get approval for nuanced human studies?  
+ Answers to these questions lie somewhere in the intersection of traditional behavioral studies and data-driven modeling, matched against the available problems and experiment opportunities. This workshop will bring experts in human-robot interaction and learning together with practitioners with operationally-focused experiments and datasets to address this gap and discuss how data and experiments could enable the design and verification of systems that rely on human-robot interaction. The explicit goal is to develop a deeper understanding of what the robotics community can actually do with operational data and how data might inform not only the tuning but also the design of complex, interactive systems.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 1  
+ For more information, please click here.   
+
+  FW20: ViTac 2023: Blending Virtual and Real Visuo-Tactile Perception  
+   
+ Organisers:  
+ Shan Luo, King’s College London 
+  Nathan Lepora, University of Bristol 
+  Wenzhen Yuan, Carnegie Mellon University 
+  Kaspar Althoefer, Queen Mary University of London 
+  Gordon Cheng, Technische Universität München 
+  Abstract:  
+ This is the 4th time for us to organise the ViTac workshop in the ICRA conferences, after ICRA 2019, 2020 and 2021 ViTac Workshops, and will be the first time for us to have a hybrid ViTac workshop. The past years have witnessed the fast development of simulation models of optical tactile sensors, Sim2Real and Sim2Real2Sim learning for visuo-tactile perception. It will be timely to bring together the experts and young researchers in the field to discuss how to blend virtual and real visuo-tactile perception. This proposed full-day workshop will cover the recent advancements in the area of visuo-tactile sensing and perception, with the aim to bridge the gap between the simulations and real world for optical tactile sensing and robot perception with vision and tactile sensing. It will further enhance active collaboration and address challenges for this important topic and applications.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 6  
+ For more information please click here.   
+
+  FW21: Future of Construction: Perception, Mapping, Navigation, Control in Unstructured Environments  
+   
+ Organisers:  
+ Dr. Jingdao Chen, Mississippi State University 
+  Dr. Yong K. Cho, Georgia Institute of Technology 
+  Dr. Inbae Jeong, North Dakota State University 
+  Dr. Chen Feng, New York University 
+  Dr. Liangjun Zhang, Baidu Research 
+  Dr. Maurice Fallon, University of Oxford 
+  Michael Helmberger, HILTI 
+  Kristian Morin, HILTI 
+  Ashish-Devadas Nair, HILTI 
+  Abstract:  
+ The $10 trillion global construction industry has traditionally been a labor-intensive industry, yet it stands to benefit from autonomous robots that promise to deliver construction work that is more accurate and efficient compared to manual or conventional methods. However, the integration of automation and robotic technology into the construction workplace is faced with significant barriers including high cost of entry, safety concerns, inadequate training and knowledge about robotics, and poor performance of robots in dynamic, cluttered and unpredictable environments such as construction sites.  
+ To tackle these challenging issues, this workshop aims to facilitate discussion on technology that will enable advanced robotics for future construction workplaces with an emphasis on robust perception and navigation methods, learning-based task and motion planning, and safety-focused robot-worker interactions. In line with the ICRA 2023 Embracing the Future: Making Robots for Humans theme, this workshop will provide a venue for academics and industry practitioners to create a vision for robotics in construction work and ensure equitable participation in planning for the future of construction workplaces. The full-day workshop will feature presentations by distinguished speakers from both industry and academia as well as interactive activities in the form of a SLAM challenge, poster sessions, debate, and panel discussions  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 14  
+ For more information please click here.   
+
+  FW22: Force and shape perception for surgical instruments and robots  
+   
+ Organisers:  
+ Dr. Lin Cao, Lecturer (Assistant Professor), the University of Sheffield 
+  Prof. Sanja Dogramadzi, Director of Sheffield Robotics, the University of Sheffield 
+  Prof. Chaoyang Shi, Tianjin University, China 
+  Abstract:  
+ Minimally invasive surgery (MIS) involves performing delicate operations on anatomical structures through small incisions or natural orifices along tortuous paths inside the human body. Thus, such operations give rise to constraints in accessing and operation and further technical challenges. These demand the development trends to be diverted from straight and rigid operational arms to flexible and continuum manipulators, which support broad applications with minimal trauma and facilitate the demanding clinical procedures with miniaturized instrumentation and highly curvilinear access capabilities. However, the lack of sufficient force and shape sensing/estimation techniques poses great challenges to precise and reliable motion/force control of continuum manipulators, resulting in risks for patients. Developing force and shape sensing, estimation, and display (e.g., haptic/tactile feedback interfaces) techniques is crucial for safe clinical procedures. New results and breakthroughs towards these challenges can encourage the advances in closely associated techniques of closed-loop control, path planning, surgeon–robot interaction, and safety concerns in MIS.  
+ This workshop will bring both leading engineering and clinical experts to discuss the associated clinical needs, engineering challenges, and recent progress in the field. The results of this workshop will be to identify a list of potential techniques as well as a list of technical and clinical challenges to be resolved. A white paper based on these results will be developed and submitted to a relevant journal, e.g., Endoscopy, or Medical Robotics and Computer Assisted Surgery. A Special Issue call will also be arranged.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 15  
+ For more information please click here.   
+
+  FW23: Scalable Autonomous Driving  
+   
+ Organisers:  
+ Long Chen, Applied Scientist, Wayve 
+  Corina Gurau, Applied Scientist, Wayve 
+  Xinshuo Weng, Research Scientist, NVIDIA Research 
+  Blazej Osinski, Visiting Researcher, UC Berkeley 
+  Oleg Sinavski, Principal Scientist, Wayve 
+  Fergal Cotter, Head of Perception, Wayve 
+  Luca Del Pero, Engineering Manager, Woven Planet 
+  Peter Ondruska, CTO, Orca Mobility 
+  Abstract:  
+ Autonomous vehicles (AVs) have long been regarded as a future product that can improve traffic efficiency, contribute to environmental protection, and reduce road accidents. While we see sufficient maturity and improvement recently in the self-driving stack, the large-scale deployment of fully self-driving cars is still at its early stage. In the past years, ML-first solutions have been showing promising results scaling with the amount of data, not only in simulation but also in real-world, complex environments. We want to open up the discussion on the challenges that need to be solved in order to enable the scaling of AVs in the real world and to encourage new ideas regarding their interpretability and safety.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 11  
+ For more information please click here.   
+
+  FW24: 2nd Workshop on Learning from Diverse Offline Data (L-DOD)  
+   
+ Organisers:  
+ Ted Xiao, Google Brain 
+  Victoria Dean, CMU 
+  Siddharth Karamcheti, Stanford University 
+  Jackie Kay, DeepMind 
+  Suraj Nair, Stanford University 
+  Dhruv Shah, UC Berkeley 
+  Fei Xia, Google Brain 
+  Jeff Clune, University of British Columbia, Vector Institute 
+  Dorsa Sadigh, Stanford University 
+  Ed Johns, Imperial College London 
+  Abstract:  
+ A grand challenge for robotics is generalization; operating in unstructured, real world environments requires household robots that can quickly learn to perform tasks in unseen kitchens, mobile manipulators and drones that can navigate novel spaces, and autonomous vehicles that can safely maneuver through unseen roads with varying conditions, all while minimizing dependence on humans. Recent breakthroughs in natural language processing and vision suggest the secret to generalization is data — not just the amount of data collected, but its diversity, and how to best leverage it while learning. Especially challenging is that most large-scale sources of data are collected offline, from varied sources. How do we use this diverse, offline data to build generalizable robotic systems? Furthermore, foundation models trained on massive non-robotics datasets have transformed areas including natural language processing and computer vision - can we use them to bootstrap robot learning?  
+ Workshop Length: Full Day  
+ Location: South Gallery Room 19  
+ For more information please click here.   
+
+  FW25: Workshop on Collaborative Perception and Learning  
+   
+ Organisers:  
+ Chen Feng, NYU 
+  Siheng Chen, SJTU 
+  Jiaqi Ma, UCLA 
+   
+ Student Organisers:  
+  
+ Yiming Li, NYU 
+  Yue Hu, SJTU 
+  Runsheng Xu, UCLA 
+  Abstract:  
+
+ Perception, which involves organization, identification, and interpretation of sensory streams, has been a long-standing problem in robotics, and has been rapidly promoted by modern deep learning techniques. Traditional research in this field generally lies in single-robot scenarios, such as object detection, tracking, and semantic/panoptic segmentation. However, single-robot perception suffers from long-range and occlusion issues due to the limited sensing capability and dense traffic situations, and the imperfect perception could severely degrade the later planning and control modules.  
+ Collaborative perception has been proposed to fundamentally solve the aforementioned problem, yet it is still faced with challenges including lack of real-world dataset, extra computational burden, high communication bandwidth, and subpar performance in adversarial scenarios. To tackle these challenging issues and to promote more research in collaborative perception and learning, this workshop aims to stimulate discussion on techniques that will enable better multi-agent autonomous systems with an emphasis on robust collaborative perception and learning methods, perception-based multi-robot planning and control, cooperative and competitive multi-agent systems, and safety-critical connected autonomous driving.  
+ In line with the ICRA 2023 Making Robots for Humans theme, this workshop will provide a venue for academics and industry practitioners to create a vision for connected robots to promote the safety and intelligence for humans. The half-day workshop will feature presentations by distinguished speakers as well as interactive activities in the form of poster sessions and panel discussions.  
+ Workshop Length: Half Day (AM) - 09:00-13:00  
+ Location: South Gallery Room 25  
+ For more information please click here.   
+
+  FW26: 2nd Workshop Toward Robot Avatars  
+   
+ Organisers:  
+ Sven Behnke, University of Bonn, Germany 
+  Serena Ivaldi, INRIA Nancy Grand-Est and LORIA, France 
+  Kris Hauser, University of Illinois, USA 
+  Abstract:  
+ The ANA Avatar XPRIZE was an international, $10 million competition to build a telerobotic “avatar” system that allows human operators to transport their senses, actions, and presence across long distances. Potential applications of avatars are diverse and include telecommuting, emergency response, service, healthcare, space, and tourism sectors.  
+  Telepresence through avatars is a relevant and topical area in robotics research because avatars represent a next generation of telecommuting devices that enable workers to not only communicate through audio and video, but also navigate remotely and manipulate objects in the distant environment. The process of developing a robotic avatar touches on many areas of robotics research, including telerobotics, haptics, tactile sensing, robot hands, VR/AR, and human robot-interaction.  
+  In November 2022, 17 teams from ten countries competed in the ANA Avatar XPRIZE Finals. The workshop is an opportune time for XPRIZE teams, observers, and researchers in related areas to discuss and reflect on their perspectives on the current state of avatar technology, as well as future research challenges in the areas of telerobotics, haptics, VR/AR, and human-robot interaction. The program will consist of invited presentations, contributed talks and demos, and a panel discussion.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 2  
+ For more information please click here.   
+
+  FW27: Agile Movements: Animal Behaviour, Biomechanics, and Robot Devices  
+   
+ Organisers:  
+ Xiangyu Chu, The Chinese University of Hong Kong, Hong Kong SAR, China 
+  Tianyu Wang, Georgia Institute of Technology, USA 
+  Ryuki Sato, The University of Electro-Communications, Japan 
+  Daniel Goldman, Georgia Institute of Technology, USA 
+  Kwok Wai Samuel Au, The Chinese University of Hong Kong, Hong Kong SAR, China 
+  Abstract:  
+ Robotic movements are becoming more agile. Although there is no unified definition of agility, agile movements have been interpreted in many ways – performing exotic motions, utilizing natural dynamics, moving across unstructured terrain, resolving survival issues, and more. Nonetheless, these agile behaviours still cannot reach those of animals, wherein biological systems outperform in many aspects – delicate body structure with passive mechanics/dynamics, complex neuromechanical motion planning and control systems, and advanced sensing capabilities like vision and haptics. Such discrepancy degenerates the robot's performance in real-world scenarios and prevents the robots from performing tasks that require quick response and overall stability. Thus, leveraging integrative biological studies of body physiology, neuroscience, and biomechanics, and robotic studies of mechanism design and manufacturing, planning and control, and lower- and higher-level kinematic and dynamic models appears to be the key to revealing the general mechanism and principle of agile movements. Specifically, this workshop wants to discuss:  
+ 1. What is the essence of agility in animals and robots? Do fast movements fully represent agile motion? If not, what other elements should be complementary?  
+ 2. After having a more comprehensive understanding of agility, how should we integrate it into applications like robot locomotion with current or other envisioning techniques?  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 17  
+ For more information please click here.   
+
+  FW28: New Evolutions in Surgical Robotics: Embracing Multimodal Imaging Guidance, Intelligence, and Bio-inspired Mechanisms  
+   
+ Organisers:  
+ Xiaomei Wang, Multi-scale Medical Robotics Center Ltd., The University of Hong Kong 
+  Ka-Wai Kwok, The University of Hong Kong 
+  Qi Dou, The Chinese University of Hong Kong 
+  Iulian I. Iordachita, Johns Hopkins University 
+  Peter Kazanzides, Johns Hopkins University 
+  Abstract:  
+ Surgical robotics has gradually become one of the fastest developing and most promising sectors in the industry of surgical devices. Despite more and more specific mechanisms designed for various types of surgeries, the navigation and autonomous strategies are also attracting increasing research and development (R&D) efforts. The trend toward clinical translation of surgical robotics increases the need for clinical requirements to motivate and guide research innovations. However, some scientific research contributions are detached from the surgical market and have inherent difficulties to boost the commercialization and marketization of surgical robots. To this end, this workshop aims to discuss feasible ideas from the aspect of advanced image guidance techniques (e.g., augmented reality), novel mechanical designs, and the role of machine intelligence in surgery autonomy, with the expectation of bridging the gap between academic research and industrial approval. Another goal of this workshop is to build a worldwide collaboration focused on the collection and sharing of data and algorithms for machine learning in robotic minimally-invasive surgery, from projects on similar topics funded by multiple national and international agencies.  
+ Workshop Length: Full Day  
+ Location: ICC Capital Suite 10  
+ For more information please click here.   
+
+  FT29: Towards an accessible soft robotics toolbox and validation test rig  
+   
+ Organisers:  
+ Dr Sara Adela Abad Guaman, UCL, UK 
+  Prof. Laura Blumenschein, Purdue University, USA 
+  Mr Jialei Shi, UCL, UK 
+  Mr Jan Peters, Leibniz University Hannover, Germany 
+  Prof. Annika Raatz, Leibniz University Hannover, Germany 
+  Prof. Helge Wurdemann, UCL, UK 
+  Abstract:  
+ There is an increasing number of analytical and numerical modelling approaches and frameworks for soft robotic manipulators emerging. Some of these modelling techniques offer design optimisation with regards to application-driven requirements, a thorough kinematic, stiffness, force analysis of the system, or an evaluation of a control strategy, to name a few. These mathematical tools in combination with experimental evaluation test rigs can be extremely powerful tools to gain detailed understanding of a soft robotic system.  
+ The tutorial aims to bring together experts active in the field of creating modelling approaches for soft robotic systems, early-career researchers who have developed a keen interest in soft robotics and software industry. This full-day event will provide a platform to researchers, who have created soft robotic toolboxes and experimental test rigs,  
+ (i) to give hands-on tutorial sessions,  
+ (ii) to explore requirements for a joint, soft robotic toolbox together with the soft robotic community,  
+ (iii) to explore synergies of current toolboxes, and  
+ (iv) through a plenary discussion, identify what hurdles remain to advance this project of developing a joint toolbox resulting in a roadmap.  
+ Early-career researchers will also be given the opportunity to present a poster.  
+ Tutorial Length: Full Day  
+ Location: South Gallery Room 28  
+ For more information please click here.   
+
+  FW30: Active methods in autonomous navigation  
+   
+ Organisers:  
+ Konstantinos A. Tsintotas, Postdoctoral researcher, Democritus University of Thrace 
+  Nitin J. Sanket, Assistant Professor, Worcester Polytechnic Institute 
+  Antonios Gasteratos, Professor, Democritus University of Thrace 
+  Yiannis Aloimonos, Professor, University of Maryland 
+  Abstract:  
+ In applications involving the deployment of robots with locomotion capabilities, e.g., humanoids, drones, and automated guided vehicles (AGVs), it is a fundamental requirement that the robot can perceive its environment and decide about it being navigable and the affordances it provides for navigation in general. Nowadays, almost every moving robot is equipped with sensors to observe its working space and gather rich information. However, when robots are starved of computational and sensing resources, simple passive perception approaches, such as building a 3D map before one can act, fall apart. To this end, the active vision, which involves building algorithmic engines around the perception-action synergy loop, offers a promising solution. Active vision endows the robot to actively aim the sensor towards several viewpoints according to a specific scanning strategy. Thus, a vital issue in the active vision systems is that the agent has to decide “where to look” following a plan; that is, the vision sensor must be purposefully configured and placed at several positions to observe a target by taking actions in robotic perception. The intentional acts in purposive perception planning introduce active and purposeful behaviors. In particular, four modes of activeness have been formally identified: by moving the agent itself, by employing an active sensor, by moving a part of the agent’s body, and by hallucinating active movements.  
+ Workshop Length: Half Day (PM) - 14:00-18:00  
+ Location: ICC Capital Suite 9  
+ For more information please click here.   
+
+ ICRA 2023   
+ TFI Lodestar, 24 Patcham Terrace, Battersea Exchange, SW8 4EY  
+ General Enquiries:   
+  enquiries_icra2023@tfilodestar.com   
+  Phone: +44 (0)207 381 7855  
+ Sponsorship Enquiries:   
+  partnerships_icra2023@tfilodestar.com   
+  Phone: +44 (0) 7904 615673  
+
+ Opening Times  
+   
+ Monday 29 May 2023  
+ Tuesday 30 May 2023  
+ Wednesday 31 May 2023  
+ Thursday 1 June 2023  
+ Friday 2 June 2023  
+
+ Location  
+   
+ ExCeL London  
+  Royal Victoria Dock  
+  1 Western Gateway, London E16 1XL  
+
+ © Copyright 2022 
+    
+   Exhibition Website by ASP    
+
+  Search   
+
+ Search    
+
+  Username *    
+
+ Password *    
+
+ Login

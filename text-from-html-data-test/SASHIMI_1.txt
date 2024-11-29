@@ -1,0 +1,56 @@
+Toggle navigation          
+ Home 
+  Call for papers 
+  Important dates 
+  Keynote speaker 
+  Topics 
+  Submission 
+  Program 
+  Gallery 
+  Organization 
+  Previous editions 
+  Media | ScienceDirect 
+  Twitter 
+
+  Call for papers  
+
+ SASHIMI: Simulation and Synthesis in Medical Imaging  
+ A MICCAI 2023 Workshop  
+   October 8, 2023   
+ Website: https://2023.sashimi-workshop.org    
+ In conjunction with MICCAI 2023 ( https://conferences.miccai.org/2023/en/  )   
+ Important Dates:  
+ Regular paper submission due: July 7, 2023    
+  Notification of acceptance: August 8, 2023   
+     
+ Camera ready: August 18, 2023     
+   
+ Workshop event: October 8, 2023 (afternoon)   
+    
+ Scope of the Workshop:  
+ The MICCAI community needs data with known ground truth to develop, evaluate, and validate computerized image analytic tools, as well as to facilitate clinical training. Since synthetic data are ideally suited for this purpose, a full range of models underpinning image simulation and synthesis, also referred to as image translation, cross-modality synthesis, image completion, etc. have been developed over the years: (i) machine and deep learning methods based on generative models; (ii) simplified mathematical models to test segmentation, tracking, restoration, and registration algorithms; (iii) detailed mechanistic models (top–down), which incorporate priors on the geometry and physics of image acquisition and formation processes; and (iv) complex spatio-temporal computational models of anatomical variability, organ physiology, and morphological changes in tissues or disease progression.  
+ The goal of SASHIMI is to bring together all those interested in such problems in order to engage in invigorating research, discuss current approaches, and stimulate new ideas and scientific directions in this field. The objectives are to (a) bring together experts on image synthesis to raise the state of the art; (b) hear from invited speakers outside of the MICCAI community, for example in the areas of transfer learning, generative adversarial networks, or variational autoencoders, to cross-fertilize these fields; and (c) identify challenges and opportunities for further research. We also want to identify the suitable approaches to evaluate the plausibility of synthetic data and to collect benchmark data that could help with the development of future algorithms.  
+ In order to make their research transparent and reproducible, authors are encouraged to make the code of the proposed methods and algorithms freely available for the community, e.g. via GitHub. This year, we introduce a reproducibility award  (sponsored by Atos  ) which will be given to the paper with publicly available, well documented, and easy to use source code. This encouragement is however not obligatory as there may appear situations (security reasons, project rules, …) that may disallow publishing the source code.  
+ Topics:  
+ Specific topics of interest include, but are not limited to, the following:  
+ Fundamental methods for image-based biophysical modelling and image synthesis 
+  Biophysical and data-driven models of disease progression, organ development, motion and deformation, image formation and acquisition 
+  Virtual cell imaging 
+  Segmentation/registration across or within modalities to aid model parameter learning 
+  Imaging protocol harmonization approaches across imaging systems, sites and time points 
+  Cross-modality image synthesis 
+  Image synthesis for normalization and spatio-temporal intensity correction 
+  Simulation and synthesis from large-scale databases 
+  Machine and deep learning techniques in image simulation and synthesis 
+  Handling uncertainty and incomplete data via simulation and synthesis techniques 
+  Automated techniques for quality assessment of simulations and synthetic images 
+  Evaluation and benchmarking of state-of-the-art approaches in simulation and synthesis 
+  Novel ideas on evaluation metrics and methods in image-based simulation and image synthesis 
+  Normative and annotated datasets for benchmarking and learning models 
+  Applications of image synthesis/simulation in super resolution imaging and multi/cross-scale regression, registration, segmentation, denoising, fusion reconstruction and real-time simulation of biophysical properties 
+  Submission types:  
+ This year, all papers submitted to SASHIMI will be split into two categories: papers introducing new methods and application-oriented papers. During the submission process, the authors will be asked to choose one of the following options:  
+ Method-oriented paper | : The main emphasis during the review process will be put on the novelty, correctness of the presented method, and proper validation of the results. The authors are expected to submit a full-length paper which will be (upon acceptance) included in the conference proceedings. 
+  Application-oriented paper | : The main focus will be put on the novel application of an existing theoretical image synthesis method and the data which the given method is applied to. The data should be described in detail. For new data collected, the collection process should be described (experimental setup, device(s) used, image acquisition parameters, subjects/objects involved, instructions to annotators, methods for quality control). For existing datasets, citations, as well as descriptions if they are not publicly available, should be specified. If public, a link to a downloadable version of the dataset should be included. The authors are expected to submit a full-length paper which will be (upon acceptance) included in the conference proceedings. 
+  Further Information and Submission Guidelines:  
+ The SASHIMI 2023 workshop will accept 10-page papers (LNCS-Springer format, including references). Accepted papers will be published in a Lecture Notes in Computer Science volume published by Springer. Check the Submission page  for more details.

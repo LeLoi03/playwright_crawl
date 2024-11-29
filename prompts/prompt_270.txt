@@ -1,0 +1,222 @@
+input:
+1. STACS_0 conference:
+Mar 7 – 9, 2023   
+ Europe/Berlin timezone   
+  Impressum 
+  Local Information 
+  Contact (www.stacs-conf.org)  
+ petra.berenbrink@uni-hamburg.de 
+  For the first time, STACS 2023 will consist of two tracks, A and B, to facilitate the work of the program committee(s).  
+  Track A is dedicated to algorithms and data structures, complexity and games.  
+  Track B will cover automata, logic, semantics and theory of programming.  
+ The STACS 2023 proceedings  are online  .   
+ LISTS OF TOPICS  
+ Authors are invited to submit papers presenting original and unpublished research on theoretical aspects of computer science. Typical areas include:
+2. STACS_1 conference:
+STACS |  
+ Symposium on Theoretical Aspects of Computer Science 
+ About STACS    
+ Steering committee    
+ Aim and scope  
+ Starting from 2023, STACS will consist of two tracks, A and B, to facilitate the work of the program committee(s). Typical topics of the conference include:  
+ Track A:  
+ algorithms and data structures including: design of parallel, distributed, approximation, parameterized and randomized algorithms; analysis of algorithms and combinatorics of data structures; computational geometry, cryptography, algorithms for machine learning, algorithmic game theory, quantum algorithms 
+ Proceedings  
+ STACS code of conduct  
+ STACS is committed to be a respectful forum for its participants, free from any violence, discrimination or harassment of any nature. All STACS attendees are expected to behave accordingly.  
+ If you experience or witness violence, discrimination, harassment or other unethical behaviour at the conference, we encourage you to seek advice and remedy through one or more of the following options:  
+ Consult with the SafeToC counsellors of STACS (to be named before the conference). 
+  Report to the conference chair, the PC chairs or the Steering Committee chair. The chairs are entitled to remove registered participants from the conference (without refunding the conference fees) if they are deemed to pose an ethical risk to other participants. The conference chair may contact the university committee ALEX dedicated to violence, unethical behaviour or harassment of any kind. Besides having an appointment with the victim, people in this committee can help for a medical support or for engaging any legal pursuit. 
+  For any questions or remarks on this page, please contact the chairs of the steering committee  .
+3. STACS_3 conference:
+SNAPL 
+  SoCG 
+  STACS 
+  SWAT 
+  TIME 
+  Part of: | Series: | Leibniz International Proceedings in Informatics (LIPIcs) | Part of: | Conference: | Symposium on Theoretical Aspects of Computer Science (STACS) 
+ Event  
+ STACS 2023, March 7-9, 2023, Hamburg, Germany   
+ Editors  
+ Petra Berenbrink          
+ Publication Details  
+ published at: 2023-03-03 
+  Publisher: Schloss Dagstuhl – Leibniz-Zentrum für Informatik 
+  DBLP: | db/conf/stacs/stacs2023 
+  Access Numbers  
+ Authors:  Thomas Bläsius, Tobias Friedrich, Maximilian Katzmann, and Daniel Stephan  
+  Abstract    
+ The class of Euclidean unit disk graphs is one of the most fundamental and well-studied graph classes with underlying geometry. In this paper, we identify this class as a special case in the broader class of hyperbolic unit disk graphs and introduce strongly hyperbolic unit disk graphs as a natural counterpart to the Euclidean variant. In contrast to the grid-like structures exhibited by Euclidean unit disk graphs, strongly hyperbolic networks feature hierarchical structures, which are also observed in complex real-world networks. We investigate basic properties of strongly hyperbolic unit disk graphs, including adjacencies and the formation of cliques, and utilize the derived insights to demonstrate that the class is useful for the development and analysis of graph algorithms. Specifically, we develop a simple greedy routing scheme and analyze its performance on strongly hyperbolic unit disk graphs in order to prove that routing can be performed more efficiently on such networks than in general.   
+  Cite as    
+ Authors:  Édouard Bonnet, Ugo Giocanti, Patrice Ossona de Mendez, and Stéphan Thomassé  
+  Abstract    
+ We continue developing the theory around the twin-width of totally ordered binary structures (or equivalently, matrices over a finite alphabet), initiated in the previous paper of the series. We first introduce the notion of parity and linear minors of a matrix, which consists of iteratively replacing consecutive rows or consecutive columns with a linear combination of them. We show that a matrix class (i.e., a set of matrices closed under taking submatrices) has bounded twin-width if and only if its linear-minor closure does not contain all matrices. We observe that the fixed-parameter tractable (FPT) algorithm for first-order model checking on structures given with an O(1)-sequence (certificate of bounded twin-width) and the fact that first-order transductions of bounded twin-width classes have bounded twin-width, both established in Twin-width I, extend to first-order logic with modular counting quantifiers. We make explicit a win-win argument obtained as a by-product of Twin-width IV, and somewhat similar to bidimensionality, that we call rank-bidimensionality. This generalizes the seminal work of Guillemot and Marx [SODA '14], which builds on the Marcus-Tardos theorem [JCTA '04]. It works on general matrices (not only on classes of bounded twin-width) and, for example, yields FPT algorithms deciding if a small matrix is a parity or a linear minor of another matrix given in input, or exactly computing the grid or mixed number of a given matrix (i.e., the maximum integer k such that the row set and the column set of the matrix can be partitioned into k intervals, with each of the k² defined cells containing a non-zero entry, or two distinct rows and two distinct columns, respectively). Armed with the above-mentioned extension to modular counting, we show that the twin-width of the product of two conformal matrices A, B (i.e., whose dimensions are such that AB is defined) over a finite field is bounded by a function of the twin-width of A, of B, and of the size of the field. Furthermore, if A and B are n × n matrices of twin-width d over F_q, we show that AB can be computed in time O_{d,q}(n² log n). We finally present an ad hoc algorithm to efficiently multiply two matrices of bounded twin-width, with a single-exponential dependence in the twin-width bound. More precisely, pipelined to observations and results of Pilipczuk et al. [STACS '22], we obtain the following. If the inputs are given in a compact tree-like form (witnessing twin-width at most d), called twin-decomposition of width d, then two n × n matrices A, B over F₂ can be multiplied in time 4^{d+o(d)}n, in the sense that a twin-decomposition of their product AB, with width 2^{d+o(d)}, is output within that time, and each entry of AB can be queried in time O_d(log log n). Furthermore, for every ε > 0, the query time can be brought to constant time O(1/ε) if the running time is increased to near-linear 4^{d+o(d)}n^{1+ε}. Notably, the running time is sublinear (essentially square root) in the number of (non-zero) entries.   
+  Cite as    
+ Authors:  Massimo Cairo, Shahbaz Khan, Romeo Rizzi, Sebastian Schmidt, Alexandru I. Tomescu, and Elia C. Zirondelli  
+  Abstract    
+ In a strongly connected graph G = (V,E), a cut arc (also called strong bridge) is an arc e ∈ E whose removal makes the graph no longer strongly connected. Equivalently, there exist u,v ∈ V, such that all u-v walks contain e. Cut arcs are a fundamental graph-theoretic notion, with countless applications, especially in reachability problems. In this paper we initiate the study of cut paths, as a generalisation of cut arcs, which we naturally define as those paths P for which there exist u,v ∈ V, such that all u-v walks contain P as subwalk. We first prove various properties of cut paths and define their remainder structures, which we use to present a simple O(m)-time verification algorithm for a cut path (|V| = n, |E| = m). Secondly, we apply cut paths and their remainder structures to improve several reachability problems from bioinformatics, as follows. A walk is called safe if it is a subwalk of every node-covering closed walk of a strongly connected graph. Multi-safety is defined analogously, by considering node-covering sets of closed walks instead. We show that cut paths provide simple O(m)-time algorithms verifying if a walk is safe or multi-safe. For multi-safety, we present the first linear time algorithm, while for safety, we present a simple algorithm where the state-of-the-art employed complex data structures. Finally we show that the simultaneous computation of remainder structures of all subwalks of a cut path can be performed in linear time, since they are related in a structured way. These properties yield an O(mn)-time algorithm outputting all maximal multi-safe walks, improving over the state-of-the-art algorithm running in time O(m²+n³). The results of this paper only scratch the surface in the study of cut paths, and we believe a rich structure of a graph can be revealed, considering the perspective of a path, instead of just an arc.   
+  Cite as    
+ Authors:  Florent Capelli and Yann Strozecki  
+  Abstract    
+ In this paper, we introduce a technique we call geometric amortization for enumeration algorithms, which can be used to make the delay of enumeration algorithms more regular with little overhead on the space it uses. More precisely, we consider enumeration algorithms having incremental linear delay, that is, algorithms enumerating, on input x, a set A(x) such that for every t ≤ ♯ A(x), it outputs at least t solutions in time O(t⋅p(|x|)), where p is a polynomial. We call p the incremental delay of the algorithm. While it is folklore that one can transform such an algorithm into an algorithm with maximal delay O(p(|x|)), the naive transformation may use exponential space. We show that, using geometric amortization, such an algorithm can be transformed into an algorithm with delay O(p(|x|)log(♯A(x))) and space O(s log(♯A(x))) where s is the space used by the original algorithm. In terms of complexity, we prove that classes DelayP and IncP₁ with polynomial space coincide. We apply geometric amortization to show that one can trade the delay of flashlight search algorithms for their average delay up to a factor of O(log(♯A(x))). We illustrate how this tradeoff is advantageous for the enumeration of solutions of DNF formulas.   
+  Cite as    
+ Authors:  Arnaud Carayol, Philippe Duchon, Florent Koechlin, and Cyril Nicaud  
+  Abstract    
+ Every language recognized by a non-deterministic finite automaton can be recognized by a deterministic automaton, at the cost of a potential increase of the number of states, which in the worst case can go from n states to 2ⁿ states. In this article, we investigate this classical result in a probabilistic setting where we take a deterministic automaton with n states uniformly at random and add just one random transition. These automata are almost deterministic in the sense that only one state has a non-deterministic choice when reading an input letter. In our model each state has a fixed probability to be final. We prove that for any d ≥ 1, with non-negligible probability the minimal (deterministic) automaton of the language recognized by such an automaton has more than n^d states; as a byproduct, the expected size of its minimal automaton grows faster than any polynomial. Our result also holds when each state is final with some probability that depends on n, as long as it is not too close to 0 and 1, at distance at least Ω(1/√n) to be precise, therefore allowing models with a sublinear number of final states in expectation.   
+  Cite as    
+ Authors:  Marek Chrobak, Samuel Haney, Mehraneh Liaee, Debmalya Panigrahi, Rajmohan Rajaraman, Ravi Sundaram, and Neal E. Young  
+  Abstract    
+ It is natural to generalize the online k-Server problem by allowing each request to specify not only a point p, but also a subset S of servers that may serve it. To initiate a systematic study of this generalization, we focus on uniform and star metrics. For uniform metrics, the problem is equivalent to a generalization of Paging in which each request specifies not only a page p, but also a subset S of cache slots, and is satisfied by having a copy of p in some slot in S. We call this problem Slot-Heterogenous Paging. In realistic settings only certain subsets of cache slots or servers would appear in requests. Therefore we parameterize the problem by specifying a family 𝒮 ⊆ 2^[k] of requestable slot sets, and we establish bounds on the competitive ratio as a function of the cache size k and family 𝒮. If all request sets are allowed (𝒮 = 2^[k]), the optimal deterministic and randomized competitive ratios are exponentially worse than for standard Paging (𝒮 = {[k]}). As a function of |𝒮| and k, the optimal deterministic ratio is polynomial: at most O(k²|𝒮|) and at least Ω(√{|𝒮|}). For any laminar family {𝒮} of height h, the optimal ratios are O(hk) (deterministic) and O(h²log k) (randomized). The special case that we call All-or-One Paging extends standard Paging by allowing each request to specify a specific slot to put the requested page in. For All-or-One Paging the optimal competitive ratios are Θ(k) (deterministic) and Θ(log k) (randomized), while the offline problem is NP-hard. We extend the deterministic upper bound to the weighted variant of All-or-One Paging (a generalization of standard Weighted Paging), showing that it is also Θ(k). Some results for the laminar case are shown via a reduction to the generalization of Paging in which each request specifies a set P of pages, and is satisfied by fetching any page from P into the cache. The optimal ratios for the latter problem (with laminar family of height h) are at most hk (deterministic) and hH_k (randomized).   
+  Cite as    
+ Authors:  Lorenzo Clemente, Maria Donten-Bury, Filip Mazowiecki, and Michał Pilipczuk  
+  Abstract    
+ We study the class of rational recursive sequences (ratrec) over the rational numbers. A ratrec sequence is defined via a system of sequences using mutually recursive equations of depth 1, where the next values are computed as rational functions of the previous values. An alternative class is that of simple ratrec sequences, where one uses a single recursive equation, however of depth k: the next value is defined as a rational function of k previous values. We conjecture that the classes ratrec and simple ratrec coincide. The main contribution of this paper is a proof of a variant of this conjecture where the initial conditions are treated symbolically, using a formal variable per sequence, while the sequences themselves consist of rational functions over those variables. While the initial conjecture does not follow from this variant, we hope that the introduced algebraic techniques may eventually be helpful in resolving the problem. The class ratrec strictly generalises a well-known class of polynomial recursive sequences (polyrec). These are defined like ratrec, but using polynomial functions instead of rational ones. One can observe that if our conjecture is true and effective, then we can improve the complexities of the zeroness and the equivalence problems for polyrec sequences. Currently, the only known upper bound is Ackermanian, which follows from results on polynomial automata. We complement this observation by proving a PSPACE lower bound for both problems for polyrec. Our lower bound construction also implies that the Skolem problem is PSPACE-hard for the polyrec class.   
+  Cite as    
+ Authors:  Monika Henzinger, Stefan Neumann, Harald Räcke, and Stefan Schmid  
+  Abstract    
+ Dynamic programming (DP) is one of the fundamental paradigms in algorithm design. However, many DP algorithms have to fill in large DP tables, represented by two-dimensional arrays, which causes at least quadratic running times and space usages. This has led to the development of improved algorithms for special cases when the DPs satisfy additional properties like, e.g., the Monge property or total monotonicity. In this paper, we consider a new condition which assumes (among some other technical assumptions) that the rows of the DP table are monotone. Under this assumption, we introduce a novel data structure for computing (1+ε)-approximate DP solutions in near-linear time and space in the static setting, and with polylogarithmic update times when the DP entries change dynamically. To the best of our knowledge, our new condition is incomparable to previous conditions and is the first which allows to derive dynamic algorithms based on existing DPs. Instead of using two-dimensional arrays to store the DP tables, we store the rows of the DP tables using monotone piecewise constant functions. This allows us to store length-n DP table rows with entries in [0,W] using only polylog(n,W) bits, and to perform operations, such as (min,+)-convolution or rounding, on these functions in polylogarithmic time. We further present several applications of our data structure. For bicriteria versions of k-balanced graph partitioning and simultaneous source location, we obtain the first dynamic algorithms with subpolynomial update times, as well as the first static algorithms using only near-linear time and space. Additionally, we obtain the currently fastest algorithm for fully dynamic knapsack.   
+  Cite as    
+ Authors:  Charles Paperman, Sylvain Salvati, and Claire Soyez-Martin  
+  Abstract    
+ Vectorial programming, the combination of SIMD instructions with usual processor instructions, is known to speed-up many standard algorithms. Simple regular languages have benefited from this technology. This paper is a first step towards pushing these benefits further. We take advantage of the inner algebraic structure of regular languages and produce high level representations of efficient vectorial programs that recognize certain classes of regular languages. As a technical ingredient, we establish equivalences between classes of vectorial circuits and logical formalisms, namely unary temporal logic and first order logic. The main result is the construction of compilation procedures that turns syntactic semigroups into vectorial circuits. The circuits we obtain are small in that they improve known upper-bounds on representations of automata within the logical formalisms. The gain is mostly due to a careful sharing of sub-formulas based on algebraic tools.   
+  Cite as    
+ Authors:  Yaniv Sadeh and Haim Kaplan  
+  Abstract    
+ Binary search trees (BSTs) are one of the most basic and widely used data structures. The best static tree for serving a sequence of queries (searches) can be computed by dynamic programming. In contrast, when the BSTs are allowed to be dynamic (i.e. change by rotations between searches), we still do not know how to compute the optimal algorithm (OPT) for a given sequence. One of the candidate algorithms whose serving cost is suspected to be optimal up-to a (multiplicative) constant factor is known by the name Greedy Future (GF). In an equivalent geometric way of representing queries on BSTs, GF is in fact equivalent to another algorithm called Geometric Greedy (GG). Most of the results on GF are obtained using the geometric model and the study of GG. Despite this intensive recent fruitful research, the best lower bound we have on the competitive ratio of GF is 4/3. Furthermore, it has been conjectured that the additive gap between the cost of GF and OPT is only linear in the number of queries. In this paper we prove a lower bound of 2 on the competitive ratio of GF, and we prove that the additive gap between the cost of GF and OPT can be Ω(m ⋅ log log n) where n is the number of items in the tree and m is the number of queries.   
+  Cite as    
+  TGDK – Transactions on Graph Data and Knowledge 
+ © 2023-2024 Schloss Dagstuhl – LZI GmbH  Imprint  Privacy  Contact
+4. STOC_1 conference:
+STOC 2023 is part of the ACM Federated Computing Research Conference (FCRC)   
+ Other conferences of interest to members of the STOC community will also take place at FCRC including SPAA and PODC.  
+ Important Dates  
+ Submitted Papers Notification:  February 6, 2023  
+ Final STOC Papers Version Due:  March 27, 2023. 14 page limit (including all references and appendices)  
+ Early Registration Deadline:  May 19, 2023. Registration is now open.   
+ Conference Dates: June 20-23, 2023   
+ STOC Paper Submission  
+ Typical but not exclusive topics of interest include algorithms and data structures, computational complexity, randomness in computing, algorithmic graph theory and combinatorics, analysis of Boolean functions, approximation algorithms, cryptography, computational learning theory, continuous and discrete optimization, economics and computation, parallel and distributed algorithms, quantum computing, algorithmic coding theory, computational geometry, computational applications of logic, algebraic computation, and computational and foundational aspects of areas such as machine learning, fairness, privacy, networks, data management, databases and computational biology. Papers that extend the reach of the theory of computing, or raise important problems that can benefit from theoretical investigation and analysis, are encouraged.  
+ Organizers:
+5. STOC_2 conference:
+STOC Paper Submission  
+ Typical but not exclusive topics of interest include algorithms and data structures, computational complexity, randomness in computing, algorithmic graph theory and combinatorics, analysis of Boolean functions, approximation algorithms, cryptography, computational learning theory, continuous and discrete optimization, economics and computation, parallel and distributed algorithms, quantum computing, algorithmic coding theory, computational geometry, computational applications of logic, algebraic computation, and computational and foundational aspects of areas such as machine learning, fairness, privacy, networks, data management, databases and computational biology. Papers that extend the reach of the theory of computing, or raise important problems that can benefit from theoretical investigation and analysis, are encouraged.  
+ Important Dates  
+  Submitted Papers Notification: | February 6, 2023 
+  Early Registration Deadline: | TBA 
+  Conference Dates: June 20-23, 2023 
+ More Information  
+ In-Person   
+ Call For Papers Deadline   
+ Nov 4, 2022   
+ Event URL
+6. SYNASC_0 conference:
+SYNASC 2023   
+   25th International Symposium on Symbolic and Numeric Algorithms for Scientific Computing  
+  Menu  
+ General Information  
+ SYNASC 2023  
+ SYNASC aims to stimulate the interaction among multiple communities focusing on defining, optimizing and executing complex algorithms in several application areas. The focus of the conference then ranges from symbolic and numeric computation to formal methods applied to programming, artificial intelligence, distributed computing and computing theory. The interplay between these areas, in fact, is essential in the current scenario where economy and society demand for the development of complex, data intensive, trustable and high performant computational systems.  
+ In this context we invite for research paper submissions.  
+ SYNASC 2023 is organized by:  
+ LORIA (Lorraine Research Laboratory in Computer Science and its Applications) | , Nancy, France; 
+  Department of Computer Science | , | West University of Timisoara | , Romania; 
+  Research Institute e-Austria | , Timisoara, Romania. 
+  and it is held September 11-14 2023 in Nancy, France  .  
+ Previous SYNASC editions   
+ Navigation  
+  Call for Papers 
+  Important Dates 
+  Submission 
+  Publication 
+  Conference Fees 
+  Special Sessions | Special Session for PhD students 
+  Special Session in honor of Professor James Davenport 
+  Workshops | DIPMAI 2023 
+  IAFP 2023 
+  ACSys 2023 
+  NCA 2023 
+  TOSCA 2023 
+  Contact 
+  Sponsors
+7. SYNASC_1 conference:
+SYNASC   
+   International Symposium on Symbolic and Numeric Algorithms for Scientific Computing  
+  Menu  
+ Skip to content  SYNASC 2024 
+  SYNASC 2023 
+  SYNASC 2022 
+ Welcome  
+ International Symposium on Symbolic and Numeric Algorithms for Scientific Computing ( SYNASC  ) is a an annual conference  that aims to stimulate the interaction between the two scientific communities of symbolic and numeric computing and to exhibit interesting applications of the areas both in theory and in practice.   
+  SYNASC 2024   
+ Timișoara, Romania, 16-19 September 2024  
+   SYNASC 2023   
+ Nancy, France, 11-14 September 2023  
+   SYNASC 2022   
+ Linz, Austria, 12-15 September 2022
+8. SYSTOR_0 conference:
+ACM Conference  
+ Toggle menu    SYSTOR 2023 | Organizers 
+  Program Committee 
+  Past Conferences 
+  Highlights Track 
+  Posters Track 
+  Submission Instructions 
+  Sponsors | Our sponsors 
+  Become a Sponsor 
+  Add to calendar 
+     The 16th ACM International System and Storage Conference   SYSTOR 2023   June 5-7, Technion campus, Haifa, Israel     Share your work   Share your innovation with researchers in the field of systems and storage   June 5-7, Technion campus, Haifa, Israel   CFP       Support SYSTOR   Join some of the most influential firms in the field   June 5-7, Technion campus, Haifa, Israel   Our Sponsors         
+ SYSTOR 2023  
+ Join us  
+ SYSTOR 2023  
+ The ACM International Systems and Storage Conference (SYSTOR) is an excellent international forum for interaction across the systems research community. The program includes both innovative, peer-reviewed research papers in the broad area of systems and storage, as well as distinguished keynote lecturers, a poster session, and social events. ACM SYSTOR is designed to appeal to academic and industrial researchers and practitioners, welcoming both students and seasoned professionals.  
+ Best Paper:   
+ F3: Serving Files Efficiently in Serverless Computing      
+ Alex Merenstein, Stony Brook University;  Vasily Tarasov, IBM Research;  Ali Anwar, University of Minnesota;  Scott Guthridge, IBM Research;  Erez Zadok, Stony Brook University   
+ Contact us    
+ June 5-7, 2023   
+  Acceptane notification: | Thursday, April 13, 2023 
+  For other important dates, please visit our Call for Papers  .  
+ // Silver Sponsors  
+ Join us in Haifa for SYSTOR 2023!  
+ Contact us  
+  Sponsorship     
+ Copyright © 2024 SYSTOR  . All rights reserved
+9. SYSTOR_1 conference:
+ACM Conference  
+ Toggle menu    SYSTOR 2023 | Organizers 
+  Program Committee 
+  Past Conferences 
+  Highlights Track 
+  Posters Track 
+  Submission Instructions 
+  Sponsors | Our sponsors 
+  Become a Sponsor 
+ // Social Media and Photos  
+ Photos from SYSTOR 2022    
+ Day 1 
+ // Silver Sponsors  
+ Join us in Haifa for SYSTOR 2023!  
+ Contact us  
+  Sponsorship     
+ Copyright © 2024 SYSTOR  . All rights reserved
+10. TABLEAUX_0 conference:
+JavaScript is disabled for your browser. Some features of this site may not work without it.   
+ Automated Reasoning with Analytic Tableaux and Related Methods  
+ Keywords  
+ tableaux; tableaux calculus; sequent calculus; proof theory; theorem proving; proof assistant; natural deduction; formalized proof; decision procedures; automated deduction; SMT; resolution; cut-elimination; non-classical logics; modal logic; intuitionistic; inear logic; substructural logic; separation logic   
+ DOI  
+ Publication date and place  
+ Cham, 2023   
+ Imprint  
+ Springer Nature Switzerland
+
+output:1. STACS_0 information:
+2. STACS_1 information:
+3. STACS_3 information:
+4. STOC_1 information:
+5. STOC_2 information:
+6. SYNASC_0 information:
+7. SYNASC_1 information:
+8. SYSTOR_0 information:
+9. SYSTOR_1 information:
+10. TABLEAUX_0 information:

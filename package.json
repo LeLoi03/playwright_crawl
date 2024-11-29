@@ -1,0 +1,27 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crawler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node crawler.js"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "@playwright/test": "^1.49.0",
+    "csv-parser": "^3.0.0",
+    "date-fns": "^4.1.0",
+    "datefinder": "^1.0.4",
+    "dotenv": "^16.4.5",
+    "jsdom": "^25.0.1",
+    "node-cron": "^3.0.3",
+    "p-limit": "^6.1.0",
+    "p-queue": "^8.0.1",
+    "playwright": "^1.49.0",
+    "puppeteer": "^23.5.3"
+  }
+}

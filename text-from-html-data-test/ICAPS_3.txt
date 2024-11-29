@@ -1,0 +1,214 @@
+Skip to main content  Skip to main navigation menu  Skip to site footer   
+ Open Menu   Proceedings of the International Conference on Automated Planning and Scheduling    
+   
+  Current 
+  Archives 
+  About | About the Journal 
+  Submissions 
+  Privacy Statement 
+  Contact 
+    Search  Search      
+
+ Login 
+    
+   Search  Search      
+
+  Home | / 
+  Archives | / 
+  Vol. 33 (2023): Proceedings of the Thirty-Third International Conference on Automated Planning and Scheduling 
+   
+ Vol. 33 (2023): Proceedings of the Thirty-Third International Conference on Automated Planning and Scheduling  
+   Edited by Sven Koenig, Roni Stern, Mauro Vallati   
+  July 8–13, 2023, Prague, Czech Republic.  
+ Published by AAAI Press, Palo Alto, California USA  
+  Copyright © 2023, Association for the Advancement of Artificial Intelligence  
+  1900 Embarcadero Road, Suite 101, Palo Alto, California 94303  
+  All Rights Reserved  
+  ISSN 2334-0843 (online)  
+  ISSN 2334-0835 (print)  
+  ISBN-10 1-57735-881-3  
+  ISBN-13 978-1-57735-881-7  
+ ICAPS 2023, the 33rd International Conference on Automated Planning and Scheduling, was held in Prague, Czech Republic, from July 8-13, 2023.  
+ For 2023, ICAPS invited paper submissions related to the theory and applications of intelligent planning and scheduling technology. The papers included in this issue have been organized into four tracks — a main conference track and three special tracks, consisting of industry and applications, planning and learning, and robotics. This year, ICAPS 2023 was collocated with the International Symposium on Combinatorial Search (SoCS 2023) and the International Workshop on Planning & Scheduling for Space (IWPSS 2023).  
+   
+ Published:  2023-07-02    
+   
+ Frontmatter  
+ Frontmatter   
+ Roman Barták, Andrea Orlandini, Mauro Vallati, Sven Koenig, Roni Stern   PDF 
+    
+ Main Track  
+ Falsification of Cyber-Physical Systems Using PDDL+ Planning   
+ Diego Aineto, Enrico Scala, Eva Onaindia, Ivan Serina  2-6   PDF 
+  Explainable Goal Recognition: A Framework Based on Weight of Evidence   
+ Abeer Alshehri, Tim Miller, Mor Vered  7-16   PDF 
+  Exploiting Geometric Constraints in Multi-Agent Pathfinding   
+ Dor Atzmon, Sara Bernardini, Fabio Fagnani, David Fairbairn  17-25   PDF 
+  W-restrained Bidirectional Bounded-Suboptimal Heuristic Search   
+ Dor Atzmon, Shahaf S. Shperberg, Netanel Sabah, Ariel Felner, Nathan R. Sturtevant  26-30   PDF 
+  Runahead A*: Speculative Parallelism for A* with Slow Expansions   
+ Mohammad Bakhshalipour, Mohamad Qadri, Dominic Guri, Seyed Borna Ehsani, Maxim Likhachev, Phillip B. Gibbons  31-41   PDF 
+  On Partial Satisfaction Planning with Total-Order HTNs   
+ Gregor Behnke, David Speck, Michael Katz, Shirin Sohrabi  42-51   PDF 
+  Convexity Hierarchies in Grid Networks   
+ Johannes Blum, Ruoying Li, Sabine Storandt  52-60   PDF 
+  Planning for Temporally Extended Goals in Pure-Past Linear Temporal Logic   
+ Luigi Bonassi, Giuseppe De Giacomo, Marco Favorito, Francesco Fuggitti, Alfonso Emilio Gerevini, Enrico Scala  61-69   PDF 
+  Landmark Progression in Heuristic Search   
+ Clemens Büchner, Thomas Keller, Salomé Eriksson, Malte Helmert  70-79   PDF 
+  Safety Shielding under Delayed Observation   
+ Filip Cano Córdoba, Alexander Palmisano, Martin Fränzle, Roderick Bloem, Bettina Könighofer  80-85   PDF 
+  Planning for Attacker Entrapment in Adversarial Settings   
+ Brittany Cates, Anagha Kulkarni, Sarath Sreedharan  86-94   PDF 
+  Sensitivity Analysis for Dynamic Control of PSTNs with Skewed Distributions   
+ Rosy Chen, Yiran Ma, Siqi Wu, James C. Boerkoel Jr.  95-99   PDF 
+  Grounding Planning Tasks Using Tree Decompositions and Iterated Solving   
+ Augusto B. Corrêa, Markus Hecher, Malte Helmert, Davide Mario Longo, Florian Pommerening, Stefan Woltran  100-108   PDF 
+  Automatic Metamorphic Test Oracles for Action-Policy Testing   
+ Jan Eisenhut, Álvaro Torralba, Maria Christakis, Jörg Hoffmann  109-117   PDF 
+  Operator Pruning Using Lifted Mutex Groups via Compilation on Lifted Level   
+ Daniel Fišer  118-127   PDF 
+  Cost Splitting for Multi-Objective Conflict-Based Search   
+ Cheng Ge, Han Zhang, Jiaoyang Li, Sven Koenig  128-137   PDF 
+  Efficient Evaluation of Large Abstractions for Decoupled Search: Merge-and-Shrink and Symbolic Pattern Databases   
+ Daniel Gnad, Silvan Sievers, Álvaro Torralba  138-147   PDF 
+  Planning over Integers: Compilations and Undecidability   
+ Daniel Gnad, Malte Helmert, Peter Jonsson, Alexander Shleyfman  148-152   PDF 
+  A Planning Approach to Repair Domains with Incomplete Action Effects   
+ Alba Gragera, Raquel Fuentetaja, Ángel García-Olaya, Fernando Fernández  153-161   PDF 
+  Model Checking for Adversarial Multi-Agent Reinforcement Learning with Reactive Defense Methods   
+ Dennis Gross, Christoph Schmidl, Nils Jansen, Guillermo A. Pérez  162-170   PDF 
+  Parallel Batch Processing for the Coating Problem   
+ Matthias Horn, Emir Demirović, Neil Yorke-Smith  171-179   PDF 
+  Planning with Multi-Agent Belief Using Justified Perspectives   
+ Guang Hu, Tim Miller, Nir Lipovetzky  180-188   PDF 
+  Deadline-Aware Multi-Agent Tour Planning   
+ Taoan Huang, Vikas Shivashankar, Michael Caldara, Joseph Durham, Jiaoyang Li, Bistra Dilkina, Sven Koenig  189-197   PDF 
+  Online Planning for Constrained POMDPs with Continuous Spaces through Dual Ascent   
+ Arec Jamgochian, Anthony Corso, Mykel J. Kochenderfer  198-202   PDF 
+  A Theory of Merge-and-Shrink for Stochastic Shortest Path Problems   
+ Thorsten Klößner, Álvaro Torralba, Marcel Steinmetz, Silvan Sievers  203-211   PDF 
+  Act-Then-Measure: Reinforcement Learning for Partially Observable Environments with Active Measuring   
+ Merlijn Krale, Thiago D. Simão, Nils Jansen  212-220   PDF 
+  Computing Domain Abstractions for Optimal Classical Planning with Counterexample-Guided Abstraction Refinement   
+ Raphael Kreft, Clemens Büchner, Silvan Sievers, Malte Helmert  221-226   PDF 
+  Using Simple Incentives to Improve Two-Sided Fairness in Ridesharing Systems   
+ Ashwin Kumar, Yevgeniy Vorobeychik, William Yeoh  227-235   PDF 
+  Domain-Independent Dynamic Programming: Generic State Space Search for Combinatorial Optimization   
+ Ryo Kuroiwa, J. Christopher Beck  236-244   PDF 
+  Solving Domain-Independent Dynamic Programming Problems with Anytime Heuristic Search   
+ Ryo Kuroiwa, J. Christopher Beck  245-253   PDF 
+  Exact Anytime Multi-Agent Path Finding Using Branch-and-Cut-and-Price and Large Neighborhood Search   
+ Edward Lam, Daniel D. Harabor, Peter J. Stuckey, Jiaoyang Li  254-258   PDF 
+  On Using Action Inheritance and Modularity in PDDL Domain Modelling   
+ Alan Lindsay  259-267   PDF 
+  Efficient Reasoning about Infeasible One Machine Sequencing   
+ Raúl Mencía, Carlos Mencía, Joao Marques-Silva  268-276   PDF 
+  A Best-First Search Algorithm for FOND Planning and Heuristic Functions to Optimize Decompressed Solution Size   
+ Frederico Messa, André Grahl Pereira  277-285   PDF 
+  Optimality Certificates for Classical Planning   
+ Esther Mugdan, Remo Christen, Salomé Eriksson  286-294   PDF 
+  A Column Generation Approach to Correlated Simple Temporal Networks   
+ Andrew Murray, Ashwin Arulselvan, Michael Cashmore, Marc Roper, Jeremy Frank  295-303   PDF 
+  The Small Solution Hypothesis for MAPF on Strongly Connected Directed Graphs Is True   
+ Bernhard Nebel  304-313   PDF 
+  Can They Come Together? A Computational Complexity Analysis of Conjunctive Possible Effects of Compound HTN Planning Tasks   
+ Conny Olz, Pascal Bercher  314-323   PDF 
+  Fixing Plans for PDDL+ Problems: Theoretical and Practical Implications   
+ Francesco Percassi, Enrico Scala, Mauro Vallati  324-333   PDF 
+  Planning in Multi-Agent Domains with Untruthful Announcements   
+ Loc Pham, Tran Cao Son, Enrico Pontelli  334-342   PDF 
+  An Efficient Hybrid Genetic Algorithm for the Quadratic Traveling Salesman Problem   
+ Quang Anh Pham, Hoong Chuin Lau, Minh Hoàng Hà, Lam Vu  343-351   PDF 
+  A Constraint Programming Solution to the Guillotine Rectangular Cutting Problem   
+ Sergey Polyakovskiy, Peter J. Stuckey  352-360   PDF 
+  Binary Branching Multi-Objective Conflict-Based Search for Multi-Agent Path Finding   
+ Zhongqiang Ren, Jiaoyang Li, Han Zhang, Sven Koenig, Sivakumar Rathinam, Howie Choset  361-369   PDF 
+  Lifted Stackelberg Planning   
+ Philipp Sauer, Marcel Steinmetz, Robert Künnemann, Jörg Hoffmann  370-374   PDF 
+  Robust Metric Hybrid Planning in Stochastic Nonlinear Domains Using Mathematical Optimization   
+ Buser Say  375-383   PDF 
+  Beyond Pairwise Reasoning in Multi-Agent Path Finding   
+ Bojie Shen, Zhe Chen, Jiaoyang Li, Muhammad Aamir Cheema, Daniel D. Harabor, Peter J. Stuckey  384-392   PDF 
+  Symmetry Detection and Breaking in Linear Cost-Optimal Numeric Planning   
+ Alexander Shleyfman, Ryo Kuroiwa, J. Christopher Beck  393-401   PDF 
+  Multi Agent Path Finding under Obstacle Uncertainty   
+ Bar Shofer, Guy Shani, Roni Stern  402-410   PDF 
+  Finding Matrix Multiplication Algorithms with Classical Planning   
+ David Speck, Paul Höft, Daniel Gnad, Jendrik Seipp  411-416   PDF 
+  Generalizing Action Justification and Causal Links to Policies   
+ Sarath Sreedharan, Christian Muise, Subbarao Kambhampati  417-426   PDF 
+  Planning with Multiple Action-Cost Estimates   
+ Eyal Weiss, Gal A. Kaminka  427-437   PDF 
+  Improving Zero-Shot Coordination Performance Based on Policy Similarity   
+ Lebin Yu, Yunbo Qiu, Quanming Yao, Xudong Zhang, Jian Wang  438-442   PDF 
+  Goal Recognition with Timing Information   
+ Chenyuan Zhang, Charles Kemp, Nir Lipovetzky  443-451   PDF 
+  Efficient Multi-Query Bi-Objective Search via Contraction Hierarchies   
+ Han Zhang, Oren Salzman, Ariel Felner, T. K. Satish Kumar, Carlos Hernández Ulloa, Sven Koenig  452-461   PDF 
+  Adaptation and Communication in Human-Robot Teaming to Handle Discrepancies in Agents’ Beliefs about Plans   
+ Yuening Zhang, Brian Williams  462-471   PDF 
+  Priority-Based Search for the Virtual Network Embedding Problem   
+ Yi Zheng, Hang Ma, Sven Koenig, Erik Kline, T. K. Satish Kumar  472-480   PDF 
+    
+ Industry and Applications Track  
+ Moving Trains like Pebbles: A Feasibility Study on Tree Yards   
+ Issa K. Hanou, Mathijs M. de Weerdt, Jesse Mulderij  482-490   PDF 
+  Solving the Multi-Choice Two Dimensional Shelf Strip Packing Problem with Time Windows   
+ Matthias Horn, Emir Demirović, Neil Yorke-Smith  491-499   PDF 
+  Automated Planning to Prioritise Digital Forensics Investigation Cases Containing Indecent Images of Children   
+ Saad Khan, Simon Parkinson, Monika Roopak, Rachel Armitage, Andrew Barlow  500-508   PDF 
+  Dynamic Weight Setting for Personnel Scheduling with Many Objectives   
+ Lucas Kletzander, Nysret Musliu  509-517   PDF 
+  Heuristic Search for Physics-Based Problems: Angry Birds in PDDL+   
+ Wiktor Piotrowski, Yoni Sher, Sachin Grover, Roni Stern, Shiwali Mohan  518-526   PDF 
+  Combining Heuristic Search and Linear Programming to Compute Realistic Financial Plans   
+ Alberto Pozanco, Kassiani Papasotiriou, Daniel Borrajo, Manuela Veloso  527-531   PDF 
+  Combining Clinical and Spatial Constraints into Temporal Planning to Personalize Physical Rehabilitation   
+ Alessandro Umbrico, Marco Benadduci, Roberta Bevilacqua, Amedeo Cesta, Francesca Fracasso, Elvira Maranesi, Andrea Orlandini, Gabriella Cortellessa  532-540   PDF 
+    
+ Planning and Learning Track  
+ Task Phasing: Automated Curriculum Learning from Demonstrations   
+ Vaibhav Bajaj, Guni Sharon, Peter Stone  542-550   PDF 
+  Imitation Improvement Learning for Large-Scale Capacitated Vehicle Routing Problems   
+ Viet Bui, Tien Mai  551-559   PDF 
+  Goal Recognition as a Deep Learning Task: The GRNet Approach   
+ Mattia Chiari, Alfonso Emilio Gerevini, Francesco Percassi, Luca Putelli, Ivan Serina, Matteo Olivato  560-568   PDF 
+  Exploration Policies for On-the-Fly Controller Synthesis: A Reinforcement Learning Approach   
+ Tomás Delgado, Marco Sánchez Sorondo, Víctor Braberman, Sebastián Uchitel  569-577   PDF 
+  Reinforcement Learning for Omega-Regular Specifications on Continuous-Time MDP   
+ Amin Falah, Shibashis Guha, Ashutosh Trivedi  578-586   PDF 
+  Deceptive Reinforcement Learning in Model-Free Domains   
+ Alan Lewis, Tim Miller  587-595   PDF 
+  Safe MDP Planning by Learning Temporal Patterns of Undesirable Trajectories and Averting Negative Side Effects   
+ Siow Meng Low, Akshat Kumar, Scott Sanner  596-604   PDF 
+  Automaton-Guided Curriculum Generation for Reinforcement Learning Agents   
+ Yash Shukla, Abhishek Kulkarni, Robert Wright, Alvaro Velasquez, Jivko Sinapov  605-613   PDF 
+  An End-to-End Reinforcement Learning Approach for Job-Shop Scheduling Problems Based on Constraint Programming   
+ Pierre Tassel, Martin Gebser, Konstantin Schekotihin  614-622   PDF 
+  Fast and Robust Resource-Constrained Scheduling with Graph Neural Networks   
+ Florent Teichteil-Königsbuch, Guillaume Povéda, Guillermo González de Garibay Barba, Tim Luchterhand, Sylvie Thiébaux  623-633   PDF 
+  Learning Local Heuristics for Search-Based Navigation Planning   
+ Rishi Veerapaneni, Muhammad Suhail Saleem, Maxim Likhachev  634-638   PDF 
+  Timed Partial Order Inference Algorithm   
+ Kandai Watanabe, Georgios Fainekos, Bardh Hoxha, Morteza Lahijanian, Danil Prokhorov, Sriram Sankaranarayanan, Tomoya Yamaguchi  639-647   PDF 
+    
+ Robotics Track  
+ Planning for Automated Testing of Implicit Constraints in Behavior Trees   
+ Uwe Köckemann, Daniele Calisi, Guglielmo Gemignani, Jennifer Renoux, Alessandro Saffiotti  649-658   PDF 
+  Understanding Natural Language in Context   
+ Avichai Levy, Erez Karpas  659-667   PDF 
+  Planning for Manipulation among Movable Objects: Deciding Which Objects Go Where, in What Order, and How   
+ Dhruv Saxena, Maxim Likhachev  668-676   PDF 
+  Approximating the Value of Collaborative Team Actions for Efficient Multiagent Navigation in Uncertain Graphs   
+ Martina Stadler, Jacopo Banfi, Nicholas Roy  677-685   PDF 
+
+ Information  
+ For Readers 
+  For Authors 
+  For Librarians 
+
+ Part of the  
+  PKP Publishing Services Network 
+
+  Copyright © 2019, Association for the Advancement of Artificial Intelligence. All rights reserved.

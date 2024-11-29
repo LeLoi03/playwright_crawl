@@ -1,0 +1,99 @@
+Organization 
+  Call 
+  Submission Process 
+  Program 
+  Attending 
+
+ WELCOME TO ACM NOSSDAV 2023   
+
+ The 33rd edition of the Workshop on Network and Operating System Support for Digital Audio and Video will take place in Vancouver, BC, Canada in June 10, 2023  
+
+ Organization  
+  Program Chairs  
+ Wei Cai (The Chinese University of Hong Kong, Shenzhen, China) [caiwei AT cuhk.edu.cn] 
+  Yao Liu (Rutgers University, USA) [yao.liu AT rutgers.edu] 
+  Program Committee  
+ Amr Rizk, University of Duisburg-Essen, Germany 
+  Bo Han, George Mason University, USA 
+  Carsten Griwodz, University of Oslo, Norway 
+  Cheng-Hsin Hsu, National Tsing Hua University, Taiwan 
+  Débora C. Muchaluat-Saade, Universidade Federal Fluminense, Brazil 
+  Di Wu, Sun Yat-sen University, China 
+  Guanyu Gao, Nanjing University of Science and Technology, China 
+  Gwendal Simon, Synamedia, France 
+  Haihan Duan, The Chinese University of Hong Kong, Shenzhen, China 
+  Huaming Wu, Tianjin University, China 
+  Jesús Gutiérrez, Universidad Politécnica de Madrid, Spain 
+  Jiasi Chen, UC Riverside, USA 
+  Laura Toni, UCL, USA 
+  Mallesham Dasari, Carnegie Mellon University, USA 
+  Maria Torres Vega, University of Ghent, Belgium 
+  Matti Siekkinen, Alato University, Finland 
+  Mea Wang, University of Calgary, Canada 
+  Mengbai Xiao, Shandong University, China 
+  Mohamed Hefeeda, Simon Fraser University, Canada 
+  Ravi Prakash, UT Dallas, USA 
+  Roberto Azevedo, Disney Research, Switzerland 
+  Songqing Chen, George Mason University, USA 
+  Stefano Petrangeli, Adobe, USA 
+  Sheng Wei, Rutgers University, USA 
+  Takuya Fujihashi, Osaka University, Japen 
+  Wei Tsang Ooi, National University of Singapore, Singapore 
+  Xinggong Zhang, Peking University, China 
+  Yi Zhao, Tsinghua University, China 
+  Yong Liu, New York University, USA 
+  Zhisheng Yan, George Mason University, USA 
+
+ Call for Papers  
+ [ Download PDF Version ]   
+  Since 1990, the International Workshop on Network and Operating Systems Support for Digital Audio and Video (NOSSDAV) has been serving as an outstanding forum for researchers and developers involved in building innovative multimedia systems, networks, and applications. NOSSDAV is strategically positioned at the boundaries of applications and the operating systems/network, bridging the gap between highly demanding applications and the infrastructure. The 33rd NOSSDAV will continue to focus on both established and emerging research topics, high-risk, high-return ideas and proposals, and future research directions in multimedia networking and systems, in a single-track format that encourages active participation and discussions among academic and industry researchers and practitioners. Out-of-the-box ideas are particularly welcome; NOSSDAV prefers exciting-even-if-incomplete papers over complete-but-boring papers.  
+ The workshop seeks papers in all areas of multimedia systems with an emphasis on the systems and networking aspects. Authors are especially encouraged to submit papers with real-world experimental results and datasets. Topics of interest include (but are not limited to):  
+ Networking and Systems Support for Multimedia | Multimedia Computing 
+  Multimedia Coding and Processing 
+  Multimedia Storage 
+  Multimedia System Architectures 
+  Network-distributed Multimedia Processing 
+  Networked GPUs/TPUs, Graphics and Virtual Environments 
+  Wireless, Mobile, IoT and Embedded Systems for Multimedia 
+  Cloud, Edge, and Fog Architectures for Multimedia 
+  Blockchain Support for Multimedia 
+  Security and Privacy in Multimedia Systems 
+  Multimedia Applications: Systems, QoS/QoE and Human Factors | Multimedia Streaming Applications 
+  Audio/Image/Video Analytics Systems 
+  Medical Multimedia Systems 
+  Surveillance Multimedia Systems 
+  Autonomous Driving Multimedia Systems 
+  Interactive Multimedia Systems and Networked/Online Games 
+  Immersive Multimedia Systems: Virtual Reality, Augmented Reality, Mixed Reality 
+  Metaverse, Web3 Multimedia, NFT 
+
+ Submission Process  
+  Prospective authors are invited to submit an electronic version of full papers, in PDF format, up to six (6) printed pages plus one (1) page solely for references in length (double column ACM style format  ) at the workshop website. Authors must prepare their papers in a way that preserves the anonymity of the authors.  Please do NOT include the author names under the title. The workshop proceedings will be published by ACM Digital Library.  
+ Submission deadline: 10th March, 2023 
+  Acceptance notification: 31st March, 2023 
+  Camera-ready deadline: 17th April, 2023 
+  Online submission: | https://nossdav2023.hotcrp.com/ 
+
+ Program  
+  Keynote   
+ Title: Networked Immersive Media: For Human and For Machine 
+  Speaker: Prof. Jiangchuan Liu (Simon Fraser University) 
+  Abstract: Cyberspace has long had an ambitious goal --- connecting the world, understanding the world, and interacting with the world, both physically and virtually, for human beings and machines, anytime and anywhere. This remained a dream a decade ago. With the unprecedented development in the Information and Communication Technology (ICT) sector in the past decade, however, it is now solid and reachable to a great extent, if not all. In this talk, we will discuss our recent works on immersive media over the Internet and advanced mobile networks, from synergized neuro and traditional compression, to personalized distribution, and to multi-modal interaction. Besides human beings as consumers, we will further explore the new world when machines act as consumers, with a focus on mobile video analytics. We will also examine their applications in extreme environments as well as the opportunities and challenges from the latest advances in communication and computing infrastructures, including streaming over low earth orbit (LEO) satellite constellations, batteryless spatial acoustic sensing, and cross-region analytics. 
+  Paper Session 1: Video Analytics and Media Representations   
+ RepCaM: Re-parameterization Content-aware Modulation for Neural Video Delivery | Rongyu Zhang, Lixuan Du, Jiaming Liu, Congcong Song, Fangxin Wang, Xiaoqi Li, Ming Lu, Yandong Guo, Shanghang Zhang 
+  Latency-Aware 360-Degree Video Analytics Framework for First Responders Situational Awareness | Jiaxi Li, Jingwei Liao, Bo Chen, Anh Nguyen, Aditi Tiwari, Qian Zhou, Zhisheng Yan, Klara Nahrstedt 
+  DMGC:Deep Triangle Mesh Geometry Compression via Connectivity Prediction | Xudong Zhao, Xinyao Zeng, Linyao Gao, Yiling Xu, Yanfeng Wang 
+  A Low Cost Cross-Platform Video/Image Process Framework Empowers Heterogeneous Edge Application | Danyang Song, Cong Zhang, Yifei Zhu, Jiangchuan Liu 
+  Paper Session 2: Immersive Media and Emerging Networks   
+ Will Dynamic Foveation Boost the Gaming Experience in Cloud VR? | Jia-Wei Fang, Kuan-You Lee, Teemu Kämäräinen, Matti Siekkinen, Cheng-Hsin Hsu 
+  Implementing Partial Atlas Selector for Viewport-dependent MPEG Immersive Video Streaming | Soonbin Lee, Jong-Beom Jenong,Eun-Seok Ryu 
+  Realtime Multimedia Services over Starlink: A Reality Check | Haoyuan Zhao, Hao Fang, Feng Wang, Jiangchuan Liu 
+  Paper Session 3: Adaptive Video Streaming   
+ Cross that boundary: Investigating the feasibility of cross-layer information sharing for enhancing ABR decision logic over QUIC | Joris Herbots, Arno Verstraete, Maarten Wijnants, Peter Quax, Wim Lamotte 
+  Improving ABR Performance for Short Video Streaming Using Multi-Agent Reinforcement Learning with Expert Guidance | Yueheng Li, Qianyuan Zheng, Zicheng Zhang, Hao Chen, Zhan Ma 
+  iStream Player: A Versatile Video Player Framework | Akram Ansari, Mea Wang 
+
+ Attending  
+  NOSSDAV'23 will be co-located with MMSys'23. Venue information will be posted later in the year.  
+
+  Registration is to be completed on MMSys'23 Web site  for both the authors and attendees.

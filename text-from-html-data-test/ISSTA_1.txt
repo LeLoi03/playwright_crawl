@@ -1,0 +1,1576 @@
+ISSTA 2023   Mon 17 - Fri 21 July 2023 Seattle (University of Washington campus), Washington, United States    
+ co-located with ECOOP and ISSTA 2023    
+
+ Toggle navigation        
+ Attending | Venue: Seattle 
+  Travel Support 
+  ECOOP and ISSTA 2023 
+  Conduct 
+  Covid-19 
+  Accommodation 
+  Registration 
+  Visas 
+  Program | ISSTA Program 
+  Your Program 
+  Schedule Overview 
+   Mon 17 Jul 
+  Tue 18 Jul 
+  Wed 19 Jul 
+  Thu 20 Jul 
+  Fri 21 Jul 
+  Tracks | ISSTA 2023 
+  Technical Papers 
+  Artifact Evaluation 
+  Tool Demonstrations 
+  Keynotes 
+  ECOOP and ISSTA 2023 
+  Doctoral Symposium 
+  Keynotes 
+  Sponsorships 
+  Student Research Competition 
+  Student Volunteers 
+  Workshops 
+   Workshops 
+  COP 
+  DEBT 
+  FTfJP 
+  FUZZING 
+  ICOOOLPS 
+  VORTEX 
+  Organization | ISSTA 2023 Committees 
+  Organizing Committee 
+  Track Committees 
+  Technical Papers 
+  Artifact Evaluation 
+  Tool Demonstrations 
+  ECOOP and ISSTA 
+  Doctoral Symposium 
+  Sponsorships 
+  Student Research Competition 
+  Student Volunteers 
+  Workshops 
+  Contributors 
+  People Index 
+   Workshops 
+  COP | Organizing Committee 
+  Program Committee 
+  DEBT | Organizing Committee 
+  Program Committee 
+  FTfJP | Organizing Committee 
+  Program Committee 
+  FUZZING | Organizing Committee 
+  Program Committee 
+  ICOOOLPS | Organizing Committee 
+  Program Committee 
+  VORTEX | Organizing Committee 
+  Program Committee 
+  Search 
+  Series | Series 
+   ISSTA 2025 
+  ISSTA 2024 
+  ISSTA 2023 
+  ISSTA 2022 
+  ISSTA 2021 
+  ISSTA 2020 
+  ISSTA 2019 
+  ISSTA 2018 
+  ISSTA 2017 
+  Sign in 
+  Sign up 
+
+  ECOOP and ISSTA 2023  ( series  ) /   ISSTA 2023  ( series  ) /  Technical Papers ISSTA 2023   
+   
+ About 
+  Program 
+  Accepted Papers 
+  Call for Papers 
+  The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) is the leading research symposium on software testing and analysis, bringing together academics, industrial researchers, and practitioners to exchange new ideas, problems, and experience on how to analyze and test software systems.  
+ New for ISSTA 2023: Dual submission deadlines   
+ ISSTA 2023 will feature two submission deadlines: An early submission deadline (November 10, 2022) and a regular submission deadline (February 16, 2023). You can choose to submit at either deadline, but papers submitted to the first deadline may  receive a chance to submit a major revision  of the initial submission to the regular deadline, addressing the reviewer comments. Papers submitted to the regular deadline will be decided using only the traditional paper outcomes of accept or reject.  
+   
+ Dates    
+
+ Plenary    
+
+   Program Display Configuration  
+   
+   Time Zone   
+   
+ The program is currently displayed in (GMT-07:00) Pacific Time (US & Canada)  .   Use conference time zone: (GMT-07:00) Pacific Time (US & Canada)    Select other time zone   (GMT-12:00) AoE (Anywhere On Earth)  (GMT-11:00) Midway Island, Samoa  (GMT-09:00) Hawaii-Aleutian  (GMT-10:00) Hawaii  (GMT-09:30) Marquesas Islands  (GMT-09:00) Gambier Islands  (GMT-08:00) Alaska  (GMT-07:00) Tijuana, Baja California  (GMT-08:00) Pitcairn Islands  (GMT-07:00) Pacific Time (US & Canada)  (GMT-06:00) Mountain Time (US & Canada)  (GMT-06:00) Chihuahua, La Paz, Mazatlan  (GMT-07:00) Arizona  (GMT-06:00) Saskatchewan, Central America  (GMT-05:00) Guadalajara, Mexico City, Monterrey  (GMT-06:00) Easter Island  (GMT-05:00) Central Time (US & Canada)  (GMT-04:00) Eastern Time (US & Canada)  (GMT-04:00) Cuba  (GMT-05:00) Bogota, Lima, Quito, Rio Branco  (GMT-04:00) Caracas  (GMT-04:00) Santiago  (GMT-04:00) La Paz  (GMT-03:00) Faukland Islands  (GMT-04:00) Manaus, Amazonas, Brazil  (GMT-03:00) Atlantic Time (Goose Bay)  (GMT-03:00) Atlantic Time (Canada)  (GMT-02:30) Newfoundland  (GMT-03:00) UTC-3  (GMT-03:00) Montevideo  (GMT-02:00) Miquelon, St. Pierre  (GMT-02:00) Greenland  (GMT-03:00) Buenos Aires  (GMT-03:00) Brasilia, Distrito Federal, Brazil  (GMT-02:00) Mid-Atlantic  (GMT-01:00) Cape Verde Is.  (GMT) Azores  (UTC) Coordinated Universal Time  (GMT+01:00) Belfast  (GMT+01:00) Dublin  (GMT+01:00) Lisbon  (GMT+01:00) London  (GMT) Monrovia, Reykjavik  (GMT+02:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna  (GMT+02:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague  (GMT+02:00) Brussels, Copenhagen, Madrid, Paris  (GMT+01:00) West Central Africa  (GMT+02:00) Windhoek  (GMT+03:00) Athens  (GMT+03:00) Beirut  (GMT+02:00) Cairo  (GMT+03:00) Gaza  (GMT+02:00) Harare, Pretoria  (GMT+03:00) Jerusalem  (GMT+03:00) Minsk  (GMT+03:00) Syria  (GMT+03:00) Moscow, St. Petersburg, Volgograd  (GMT+03:00) Nairobi  (GMT+03:30) Tehran  (GMT+04:00) Abu Dhabi, Muscat  (GMT+04:00) Yerevan  (GMT+04:30) Kabul  (GMT+05:00) Ekaterinburg  (GMT+05:00) Tashkent  (GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi  (GMT+05:45) Kathmandu  (GMT+06:00) Astana, Dhaka  (GMT+07:00) Novosibirsk  (GMT+06:30) Yangon (Rangoon)  (GMT+07:00) Bangkok, Hanoi, Jakarta  (GMT+07:00) Krasnoyarsk  (GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi  (GMT+08:00) Irkutsk, Ulaan Bataar  (GMT+08:00) Perth  (GMT+08:45) Eucla  (GMT+09:00) Osaka, Sapporo, Tokyo  (GMT+09:00) Seoul  (GMT+09:00) Yakutsk  (GMT+09:30) Adelaide  (GMT+09:30) Darwin  (GMT+10:00) Brisbane  (GMT+10:00) Hobart  (GMT+10:00) Vladivostok  (GMT+10:30) Lord Howe Island  (GMT+11:00) Solomon Is., New Caledonia  (GMT+11:00) Magadan  (GMT+11:00) Norfolk Island  (GMT+12:00) Anadyr, Kamchatka  (GMT+12:00) Auckland, Wellington  (GMT+12:00) Fiji, Kamchatka, Marshall Is.  (GMT+12:45) Chatham Islands  (GMT+13:00) Nuku'alofa  (GMT+14:00) Kiritimati     
+
+   The GMT offsets shown reflect the offsets at the moment of the conference  .     
+   
+ Time Band   
+   
+ By setting a time band, the program will dim events that are outside this time window. This is useful for (virtual) conferences with a continuous program (with repeated sessions).  
+  The time band will also limit the events that are included in the personal iCalendar subscription service.   Display full program    Specify a time band   -      
+
+  Save    
+
+  Close    
+
+ ×    You're viewing the program in a time zone which is different from your device's time zone change time zone     
+
+ Tue 18 Jul   
+  
+ Displayed time zone: Pacific Time (US & Canada)  change      
+
+ 08:00 - 08:30 | Coffee and Light Breakfast ECOOP and ISSTA Catering   at Microsoft Atrium (Allen Center) 
+ 08:00   
+ 30m    
+ Coffee break | Break   ECOOP and ISSTA Catering 
+
+ 08:30 - 09:00 | Opening ECOOP and ISSTA Keynotes   at Amazon Auditorium (Gates G20) 
+
+ 09:00 - 10:00 | Keynote ECOOP and ISSTA Keynotes   at Amazon Auditorium (Gates G20) 
+ 09:00   
+ 60m    
+ Keynote | Towards Code-Aware Code Models   ECOOP and ISSTA Keynotes   
+ K:  Baishakhi Ray  Columbia University 
+
+ 10:00 - 10:30 | Coffee Break ECOOP and ISSTA Catering   at Microsoft Atrium (Allen Center) 
+ 10:00   
+ 30m    
+ Coffee break | Break   ECOOP and ISSTA Catering 
+
+ 10:30 - 12:00 | ISSTA 1: Program Repair and Debugging Technical Papers   at Amazon Auditorium (Gates G20)   
+  Chair(s): Andreas Zeller  CISPA Helmholtz Center for Information Security 
+ 10:30   
+ 15m    
+ Talk | Improving Spectrum-Based Localization of Multiple Faults by Iterative Test Suite Reduction   Technical Papers   
+ Dylan Callaghan  Stellenbosch University  , Bernd Fischer  Stellenbosch University    
+  DOI 
+ 10:45   
+ 15m    
+ Talk | A Bayesian Framework for Automated Debugging   Technical Papers   
+ Sungmin Kang  KAIST  , Wonkeun Choi  KAIST  , Shin Yoo  KAIST    
+  DOI   Pre-print 
+ 11:00   
+ 15m    
+ Talk | ConfFix: Repairing Configuration Compatibility Issues in Android Apps   Technical Papers   
+ Huaxun Huang  Hong Kong University of Science and Technology  , Chi Xu  The Hong Kong University of Science and Technology  , Ming Wen  Huazhong University of Science and Technology  , Yepang Liu  Southern University of Science and Technology  , Shing-Chi Cheung  Hong Kong University of Science and Technology    
+  DOI 
+ 11:15   
+ 15m    
+ Talk | Quantitative Policy Repair for Access Control on the Cloud   Technical Papers   
+ William Eiers  University of California at Santa Barbara  , Ganesh Sankaran  University of California at Santa Barbara  , Tevfik Bultan  University of California at Santa Barbara    
+  DOI 
+ 11:30   
+ 15m    
+ Talk | Automated Program Repair from Fuzzing Perspective   Technical Papers   
+ YoungJae Kim  Ulsan National Institute of Science and Technology  , Seungheon Han  Ulsan National Institute of Science and Technology  , Askar Yeltayuly Khamit  Ulsan National Institute of Science and Technology  , Jooyong Yi  UNIST (Ulsan National Institute of Science and Technology)    
+  DOI 
+
+ 10:30 - 12:00 | ISSTA 2: Fuzzing 1 Technical Papers   at Smith Classroom (Gates G10)   
+  Chair(s): Jonathan Bell  Northeastern University 
+ 10:30   
+ 15m    
+ Talk | Icicle: A Re-designed Emulator for Grey-Box Firmware Fuzzing   Technical Papers   
+ Michael Chesser  University of Adelaide  , Surya Nepal  CSIRO’s Data61  , Damith C. Ranasinghe  University of Adelaide    
+  DOI 
+ 10:45   
+ 15m    
+ Talk | Green Fuzzing: A Saturation-Based Stopping Criterion using Vulnerability Prediction   Technical Papers   
+ Stephan Lipp  TU Munich  , Daniel Elsner  TU Munich  , Severin Kacianka  TU Munich  , Alexander Pretschner  TU Munich  , Marcel Böhme  MPI-SP; Monash University  , Sebastian Banescu  TU Munich    
+  DOI 
+ 11:00   
+ 15m    
+ Talk | ItyFuzz: Snapshot-Based Fuzzer for Smart Contract   Technical Papers   
+ Chaofan Shou  University of California at Santa Barbara  , Shangyin Tan  University of California at Berkeley  , Koushik Sen  University of California at Berkeley    
+  DOI 
+ 11:15   
+ 15m    
+ Talk | Large Language Models Are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models   Technical Papers   
+ Yinlin Deng  University of Illinois at Urbana-Champaign  , Chunqiu Steven Xia  University of Illinois at Urbana-Champaign  , Haoran Peng  University of Science and Technology of China  , Chenyuan Yang  University of Illinois at Urbana-Champaign  , Lingming Zhang  University of Illinois at Urbana-Champaign    
+  DOI 
+ 11:30   
+ 15m    
+ Talk | Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing   Technical Papers   
+ Mingxi Ye  Sun Yat-sen University  , Yuhong Nan  Sun Yat-sen University  , Zibin Zheng  Sun Yat-sen University  , Dongpeng Wu  Sun Yat-sen University  , Huizhong Li  WeBank    
+  DOI 
+ 11:45   
+ 15m    
+ Talk | Green Fuzzer Benchmarking   Technical Papers   
+ Jiradet Ounjai  MPI-SWS  , Valentin Wüstholz  ConsenSys  , Maria Christakis  TU Wien    
+  DOI 
+
+ 12:00 - 13:30 | Lunch ECOOP and ISSTA Catering   at Zillow Commons (Gates 4th Floor) 
+ 12:00   
+ 90m    
+ Lunch | Lunch   ECOOP and ISSTA Catering 
+
+ 13:30 - 15:00 | ISSTA 3: Deep-Learning for Software Analysis Technical Papers   at Amazon Auditorium (Gates G20)   
+  Chair(s): Shiyi Wei  University of Texas at Dallas 
+ 13:30   
+ 15m    
+ Talk | API2Vec: Learning Representations of API Sequences for Malware Detection   Technical Papers   
+ Lei Cui  Zhongguancun Laboratory  , Jiancong Cui  University of Chinese Academy of Sciences; Institute of Information Engineering at Chinese Academy of Sciences  , Yuede Ji  University of North Texas  , Zhiyu Hao  Zhongguancun Laboratory  , Lun Li  Institute of Information Engineering at Chinese Academy of Sciences  , Zhenquan Ding  Institute of Information Engineering at Chinese Academy of Sciences    
+  DOI 
+ 13:45   
+ 15m    
+ Talk | CONCORD: Clone-Aware Contrastive Learning for Source Code ACM SIGSOFT Distinguished Paper      Technical Papers   
+ Yangruibo Ding  Columbia University  , Saikat Chakraborty  Microsoft Research  , Luca Buratti  IBM Research  , Saurabh Pujar  IBM  , Alessandro Morari  IBM Research  , Gail Kaiser  Columbia University  , Baishakhi Ray  Columbia University    
+  DOI 
+ 14:00   
+ 15m    
+ Talk | Type Batched Program Reduction   Technical Papers   
+ Golnaz Gharachorlu  Simon Fraser University  , Nick Sumner  Simon Fraser University    
+  DOI 
+ 14:15   
+ 15m    
+ Talk | CodeGrid: A Grid Representation of Code   Technical Papers   
+ Abdoul Kader Kaboré  University of Luxembourg  , Earl T. Barr  University College London; Google DeepMind  , Jacques Klein  University of Luxembourg  , Tegawendé F. Bissyandé  University of Luxembourg    
+  DOI 
+ 14:30   
+ 15m    
+ Talk | Guided Retraining to Enhance the Detection of Difficult Android Malware   Technical Papers   
+ Nadia Daoudi  University of Luxembourg  , Kevin Allix  CentraleSupélec  , Tegawendé F. Bissyandé  University of Luxembourg  , Jacques Klein  University of Luxembourg    
+  DOI 
+ 14:45   
+ 15m    
+ Talk | Automatically Reproducing Android Bug Reports using Natural Language Processing and Reinforcement Learning   Technical Papers   
+ Zhaoxu Zhang  University of Southern California  , Robert Winn  University of Southern California  , Yu Zhao  University of Central Missouri  , Tingting Yu  University of Cincinnati  , William G.J. Halfond  University of Southern California    
+  DOI 
+
+ 13:30 - 15:00 | ISSTA 4: Static Analysis Technical Papers   at Smith Classroom (Gates G10)   
+  Chair(s): Christian Hammer  University of Passau 
+ 13:30   
+ 15m    
+ Talk | Detecting Vulnerabilities in Linux-Based Embedded Firmware with SSE-Based On-Demand Alias Analysis   Technical Papers   
+ Kai Cheng  Shenzhen Institute of Advanced Technology at Chinese Academy of Sciences; Sangfor Technologies  , Yaowen Zheng  Nanyang Technological University  , Tao Liu  Pennsylvania State University  , Le Guan  University of Georgia  , Peng Liu  Pennsylvania State University  , Hong Li  Institute of Information Engineering at Chinese Academy of Sciences  , Hongsong Zhu  Institute of Information Engineering at Chinese Academy of Sciences; University of Chinese Academy of Sciences  , Kejiang Ye  Shenzhen Institute of Advanced Technology at Chinese Academy of Sciences  , Limin Sun  Institute of Information Engineering at Chinese Academy of Sciences; University of Chinese Academy of Sciences    
+  DOI 
+ 13:45   
+ 15m    
+ Talk | Beware of the Unexpected: Bimodal Taint Analysis ACM SIGSOFT Distinguished Paper      Technical Papers   
+ Yiu Wai Chow  University of Stuttgart  , Max Schaefer  GitHub  , Michael Pradel  University of Stuttgart    
+  DOI 
+ 14:00   
+ 15m    
+ Talk | OCFI: Make Function Entry Identification Hard Again   Technical Papers   
+ Chengbin Pang  Nanjing University  , Tiantai Zhang  Nanjing University  , Xuelan Xu  Nanjing University  , Linzhang Wang  Nanjing University  , Bing Mao  Nanjing University    
+  DOI 
+ 14:15   
+ 15m    
+ Talk | Tai-e: A Developer-Friendly Static Analysis Framework for Java by Harnessing the Good Designs of Classics   Technical Papers   
+ Tian Tan  Nanjing University  , Yue Li  Nanjing University    
+  DOI   Pre-print 
+ 14:30   
+ 15m    
+ Talk | That’s a Tough Call: Studying the Challenges of Call Graph Construction for WebAssembly ACM SIGSOFT Distinguished Artifact      Technical Papers   
+ Daniel Lehmann  University of Stuttgart  , Michelle Thalakottur  Northeastern University  , Frank Tip  Northeastern University  , Michael Pradel  University of Stuttgart    
+  DOI 
+ 14:45   
+ 15m    
+ Talk | Eunomia: Enabling User-Specified Fine-Grained Search in Symbolically Executing WebAssembly Binaries ACM SIGSOFT Distinguished Paper      Technical Papers   
+ Ningyu He  Peking University  , Zhehao Zhao  Peking University  , Jikai Wang  Huazhong University of Science and Technology  , Yubin Hu  Beijing University of Posts and Telecommunications  , Shengjian (Daniel) Guo  Baidu Security  , Haoyu Wang  Huazhong University of Science and Technology  , Guangtai Liang  Huawei Cloud Computing Technologies  , Ding Li  Peking University  , Xiangqun Chen  Peking University  , Yao Guo  Peking University    
+  DOI 
+
+ 15:00 - 15:30 | Coffee Break ECOOP and ISSTA Catering   at Microsoft Atrium (Allen Center) 
+ 15:00   
+ 30m    
+ Coffee break | Break   ECOOP and ISSTA Catering 
+
+ 15:30 - 17:00 | ISSTA Online 1: SE and Deep Learning Technical Papers   at Smith Classroom (Gates G10)   
+  Chair(s): Myra Cohen  Iowa State University 
+ 15:30   
+ 10m    
+ Talk | COME: Commit Message Generation with Modification Embedding   Technical Papers   
+ Yichen He  Beihang University  , Liran Wang  Beihang University  , Kaiyi Wang  Beihang University  , Yupeng Zhang  Beihang University  , Hang Zhang  Beihang University  , Zhoujun Li  Beihang University    
+  DOI 
+ 15:40   
+ 10m    
+ Talk | CODEP: Grammatical Seq2Seq Model for General-Purpose Code Generation   Technical Papers   
+ Yihong Dong  Peking University  , Ge Li  Peking University  , Zhi Jin  Peking University    
+  DOI   Pre-print 
+ 15:50   
+ 10m    
+ Talk | Towards More Realistic Evaluation for Neural Test Oracle Generation   Technical Papers   
+ Zhongxin Liu  Zhejiang University  , Kui Liu  Huawei  , Xin Xia  Huawei  , Xiaohu Yang  Zhejiang University    
+  DOI   Pre-print 
+ 16:00   
+ 10m    
+ Talk | Detecting Condition-Related Bugs with Control Flow Graph Neural Network   Technical Papers   
+ Jian Zhang  Beihang University  , Xu Wang  Beihang University  , Hongyu Zhang  Chongqing University  , Hailong Sun  Beihang University  , Xudong Liu  Beihang University  , Chunming Hu  Beihang University  , Yang Liu  Nanyang Technological University    
+  DOI 
+ 16:10   
+ 10m    
+ Talk | RefBERT: A Two-Stage Pre-trained Framework for Automatic Rename Refactoring   Technical Papers   
+ Hao Liu  Xiamen University  , Yanlin Wang  Sun Yat-sen University  , Zhao Wei  Tencent  , Yong Xu  Tencent  , Juhong Wang  Tencent  , Hui Li  Xiamen University  , Rongrong Ji  Xiamen University    
+  DOI   Pre-print 
+ 16:20   
+ 10m    
+ Talk | Interpreters for GNN-Based Vulnerability Detection: Are We There Yet?   Technical Papers   
+ Yutao Hu  Huazhong University of Science and Technology  , Suyuan Wang  Huazhong University of Science and Technology  , Wenke Li  Huazhong University of Science and Technology  , Junru Peng  Wuhan University  , Yueming Wu  Nanyang Technological University  , Deqing Zou  Huazhong University of Science and Technology  , Hai Jin  Huazhong University of Science and Technology    
+  DOI 
+ 16:30   
+ 10m    
+ Talk | Towards Efficient Fine-Tuning of Pre-trained Code Models: An Experimental Study and Beyond   Technical Papers   
+ Ensheng Shi  Xi’an Jiaotong University  , Yanlin Wang  Sun Yat-sen University  , Hongyu Zhang  Chongqing University  , Lun Du  Microsoft Research  , Shi Han  Microsoft Research  , Dongmei Zhang  Microsoft Research  , Hongbin Sun  Xi’an Jiaotong University    
+  DOI 
+
+ 15:30 - 17:00 | ISSTA Online 2: Static Analysis Technical Papers   at Habib Classroom (Gates G01)   
+  Chair(s): Julian Dolby  IBM Research 
+ 15:30   
+ 10m    
+ Talk | Fine-Grained Code Clone Detection with Block-Based Splitting of Abstract Syntax Tree   Technical Papers   
+ Tiancheng Hu  Huazhong University of Science and Technology  , Zijing Xu  Huazhong University of Science and Technology  , Yilin Fang  Huazhong University of Science and Technology  , Yueming Wu  Nanyang Technological University  , Bin Yuan  Huazhong University of Science and Technology  , Deqing Zou  Huazhong University of Science and Technology  , Hai Jin  Huazhong University of Science and Technology    
+  DOI 
+ 15:40   
+ 10m    
+ Talk | Hybrid Inlining: A Framework for Compositional and Context-Sensitive Static Analysis   Technical Papers   
+ Jiangchao Liu  Ant Group; ByteDance  , Jierui Liu  Ant Group  , Peng Di  Ant Group  , Diyu Wu  Ant Group  , Hengjie Zheng  Ant Group  , Alex X. Liu  Ant Group  , Jingling Xue  UNSW    
+  DOI 
+ 15:50   
+ 10m    
+ Talk | CGuard: Scalable and Precise Object Bounds Protection for C   Technical Papers   
+ Piyus Kedia  IIIT Delhi  , Rahul Purandare  University of Nebraska-Lincoln  , Udit Kumar Agarwal  University of British Columbia  , Rishabh  GGSIPU    
+  DOI 
+ 16:00   
+ 10m    
+ Talk | Reducing the Memory Footprint of IFDS-Based Data-Flow Analyses using Fine-Grained Garbage Collection ACM SIGSOFT Distinguished Artifact      Technical Papers   
+ Dongjie He  UNSW  , Yujiang Gui  UNSW  , Yaoqing Gao  Huawei Toronto Research Center  , Jingling Xue  UNSW    
+  DOI 
+ 16:10   
+ 10m    
+ Talk | GenCoG: A DSL-Based Approach to Generating Computation Graphs for TVM Testing   Technical Papers   
+ Zihan Wang  Shanghai Jiao Tong University  , Pengbo Nie  Shanghai Jiao Tong University  , Xinyuan Miao  Shanghai Jiao Tong University  , Yuting Chen  Shanghai Jiao Tong University  , Chengcheng Wan  East China Normal University  , Lei Bu  Nanjing University  , Jianjun Zhao  Kyushu University    
+  DOI 
+ 16:20   
+ 10m    
+ Talk | Splendor: Static Detection of Stored XSS in Modern Web Applications   Technical Papers   
+ He Su  Institute of Information Engineering at Chinese Academy of Sciences  , Feng Li  Institute of Information Engineering at Chinese Academy of Sciences  , Lili Xu  Institute of Information Engineering at Chinese Academy of Sciences  , Wenbo Hu  Institute of Information Engineering at Chinese Academy of Sciences  , Yujie Sun  Institute of Information Engineering at Chinese Academy of Sciences  , Qing Sun  Institute of Information Engineering at Chinese Academy of Sciences  , Huina Chao  Institute of Information Engineering at Chinese Academy of Sciences  , Wei Huo  Institute of Information Engineering at Chinese Academy of Sciences    
+  DOI 
+ 16:30   
+ 10m    
+ Talk | Improving Bit-Blasting for Nonlinear Integer Constraints ACM SIGSOFT Distinguished Paper      Technical Papers   
+ Fuqi Jia  Institute of Software at Chinese Academy of Sciences; University of Chinese Academy of Sciences  , Rui Han  Institute of Software at Chinese Academy of Sciences; University of Chinese Academy of Sciences  , Pei Huang  Stanford University  , Minghao Liu  Institute of Software at Chinese Academy of Sciences; University of Chinese Academy of Sciences  , Feifei Ma  Institute of Software at Chinese Academy of Sciences; University of Chinese Academy of Sciences  , Jian Zhang  Institute of Software at Chinese Academy of Sciences; University of Chinese Academy of Sciences    
+  DOI 
+ 16:40   
+ 10m    
+ Talk | Loop Invariant Inference through SMT Solving Enhanced Reinforcement Learning   Technical Papers   
+ Shiwen Yu  National University of Defense Technology  , Ting Wang  National University of Defense Technology  , Ji Wang  National University of Defense Technology    
+  DOI 
+
+ 15:30 - 17:00 | ISSTA Online 3: Empirical Studies Technical Papers   at Bezos Seminar Room (Gates G04)   
+  Chair(s): Jordan Samhi  University of Luxembourg 
+ 15:30   
+ 10m    
+ Talk | Understanding Breaking Changes in the Wild   Technical Papers   
+ Dhanushka Jayasuriya  University of Auckland  , Valerio Terragni  University of Auckland  , Jens Dietrich  Victoria University of Wellington  , Samuel Ou  University of Auckland  , Kelly Blincoe  University of Auckland    
+  DOI 
+ 15:40   
+ 10m    
+ Talk | LiResolver: License Incompatibility Resolution for Open Source Software   Technical Papers   
+ Sihan Xu  Nankai University  , Ya Gao  Nankai University  , Lingling Fan  Nankai University  , Linyu Li  Nankai University  , Xiangrui Cai  Nankai University  , Zheli Liu  Nankai University    
+  DOI 
+ 15:50   
+ 10m    
+ Talk | An Empirical Study on Concurrency Bugs in Interrupt-Driven Embedded Software   Technical Papers   
+ Chao Li  Beijing Institute of Control Engineering; Beijing Sunwise Information Technology  , Rui Chen  Beijing Institute of Control Engineering; Beijing Sunwise Information Technology  , Boxiang Wang  Beijing Institute of Control Engineering; Beijing Sunwise Information Technology  , Zhixuan Wang  Xidian University  , Tingting Yu  Beijing Institute of Control Engineering; Beijing Sunwise Information Technology  , Yunsong Jiang  Beijing Institute of Control Engineering; Beijing Sunwise Information Technology  , Mengfei Yang  China Academy of Space Technology    
+  DOI 
+ 16:00   
+ 10m    
+ Talk | An Empirical Study of Functional Bugs in Android Apps ACM SIGSOFT Distinguished Paper      Technical Papers   
+ Yiheng Xiong  East China Normal University  , Mengqian Xu  East China Normal University  , Ting Su  East China Normal University  , Jingling Sun  East China Normal University  , Jue Wang  Nanjing University  , He Wen  East China Normal University  , Geguang Pu  East China Normal University  , Jifeng He  East China Normal University  , Zhendong Su  ETH Zurich    
+  DOI 
+ 16:10   
+ 10m    
+ Talk | Testing the Compiler for a New-Born Programming Language: An Industrial Case Study (Experience Paper)   Technical Papers   
+ Yingquan Zhao  Tianjin University  , Junjie Chen  Tianjin University  , Ruifeng Fu  Tianjin University  , Haojie Ye  Huawei  , Zan Wang  Tianjin University    
+  DOI 
+ 16:20   
+ 10m    
+ Talk | An Empirical Study on the Effects of Obfuscation on Static Machine Learning-Based Malicious JavaScript Detectors   Technical Papers   
+ Kunlun Ren  Huazhong University of Science and Technology  , Qiang Weizhong  Huazhong University of Science and Technology  , Yueming Wu  Nanyang Technological University  , yi zhou  Huazhong University of Science and Technology  , Deqing Zou  Huazhong University of Science and Technology  , Hai Jin  Huazhong University of Science and Technology    
+  DOI 
+ 16:30   
+ 10m    
+ Talk | Security Checking of Trigger-Action-Programming Smart Home Integrations   Technical Papers   
+ Lei Bu  Nanjing University  , Qiuping Zhang  Nanjing University  , Suwan Li  Nanjing University  , Jinglin Dai  Nanjing University  , Guangdong Bai  University of Queensland  , Kai Chen  Institute of Information Engineering at Chinese Academy of Sciences  , Xuandong Li  Nanjing University    
+  DOI 
+ 16:40   
+ 10m    
+ Talk | Third-Party Library Dependency for Large-Scale SCA in the C/C++ Ecosystem: How Far Are We?   Technical Papers   
+ Ling Jiang  Southern University of Science and Technology  , Hengchen Yuan  Southern University of Science and Technology  , Qiyi Tang  Tencent Security Keen Lab  , Sen Nie  Tencent Security Keen Lab  , Shi Wu  Tencent Security Keen Lab  , Yuqun Zhang  Southern University of Science and Technology    
+  DOI 
+ 16:50   
+ 10m    
+ Talk | Who Judges the Judge: An Empirical Study on Online Judge Tests   Technical Papers   
+ Kaibo Liu  Peking University  , Yudong Han  Peking University  , Jie M. Zhang  King’s College London  , Zhenpeng Chen  University College London  , Federica Sarro  University College London  , Mark Harman  University College London  , Gang Huang  Peking University; National Key Laboratory of Data Space Technology and System  , Yun Ma  Peking University    
+  DOI 
+
+ 17:30 - 20:30 | Reception ECOOP and ISSTA Catering   at HUB Games 
+
+ Wed 19 Jul   
+  
+ Displayed time zone: Pacific Time (US & Canada)  change      
+
+ 08:00 - 08:30 | Coffee and Light Breakfast ECOOP and ISSTA Catering   at Microsoft Atrium (Allen Center) 
+ 08:00   
+ 30m    
+ Coffee break | Break   ECOOP and ISSTA Catering 
+
+ 08:30 - 09:15 | ISSTA Impact Paper Award ECOOP and ISSTA Keynotes   at Amazon Auditorium (Gates G20) 
+ 08:30   
+ 45m    
+ Keynote | Reflections on the Impact of Calculating Source Line Level Energy Information for Android Applications   ECOOP and ISSTA Keynotes   
+ K:  William G.J. Halfond  University of Southern California 
+
+ 09:15 - 10:00 | AITO Test of Time Award ECOOP and ISSTA Keynotes   at Amazon Auditorium (Gates G20) 
+ 09:15   
+ 45m    
+ Keynote | AITO Test of Time Award: Why Programming Languages Matter: Reflections on 45 Years of Language Design   ECOOP and ISSTA Keynotes   
+ K:  Andrew P. Black     
+  Pre-print   Media Attached 
+
+ 10:00 - 10:30 | Coffee Break ECOOP and ISSTA Catering   at Microsoft Atrium (Allen Center) 
+ 10:00   
+ 30m    
+ Coffee break | Break   ECOOP and ISSTA Catering 
+
+ 10:30 - 12:00 | ISSTA 5: Improving Deep Learning Systems Technical Papers   at Smith Classroom (Gates G10)   
+  Chair(s): Michael Pradel  University of Stuttgart 
+ 10:30   
+ 15m    
+ Talk | Understanding and Tackling Label Errors in Deep Learning-Based Vulnerability Detection (Experience Paper)   Technical Papers   
+ XuNie  Huazhong University of Science and Technology; Beijing University of Posts and Telecommunications  , Ningke Li  Huazhong University of Science and Technology  , Kailong Wang  Huazhong University of Science and Technology  , Shangguang Wang  Beijing University of Posts and Telecommunications  , Xiapu Luo  Hong Kong Polytechnic University  , Haoyu Wang  Huazhong University of Science and Technology    
+  DOI 
+ 10:45   
+ 15m    
+ Talk | Improving Binary Code Similarity Transformer Models by Semantics-Driven Instruction Deemphasis   Technical Papers   
+ Xiangzhe Xu  Purdue University  , Shiwei Feng  Purdue University  , Yapeng Ye  Purdue University  , Guangyu Shen  Purdue University  , Zian Su  Purdue University  , Siyuan Cheng  Purdue University  , Guanhong Tao  Purdue University  , Qingkai Shi  Purdue University  , Zhuo Zhang  Purdue University  , Xiangyu Zhang  Purdue University    
+  DOI 
+ 11:00   
+ 15m    
+ Talk | CILIATE: Towards Fairer Class-Based Incremental Learning by Dataset and Training Refinement   Technical Papers   
+ Xuanqi Gao  Xi’an Jiaotong University  , Juan Zhai  University of Massachusetts Amherst  , Shiqing Ma  UMass Amherst  , Chao Shen  Xi’an Jiaotong University  , Yufei Chen  Xi’an Jiaotong University; City University of Hong Kong  , Shiwei Wang  Xi’an Jiaotong University    
+  DOI   Pre-print 
+ 11:15   
+ 15m    
+ Talk | DeepAtash: Focused Test Generation for Deep Learning Systems   Technical Papers   
+ Tahereh Zohdinasab  USI Lugano  , Vincenzo Riccio  University of Udine  , Paolo Tonella  USI Lugano    
+  DOI 
+ 11:30   
+ 15m    
+ Talk | Systematic Testing of the Data-Poisoning Robustness of KNN   Technical Papers   
+ Yannan Li  University of Southern California  , Jingbo Wang  University of Southern California  , Chao Wang  University of Southern California    
+  DOI 
+ 11:45   
+ 15m    
+ Talk | Semantic-Based Neural Network Repair   Technical Papers   
+ Richard Schumi  Singapore Management University  , Jun Sun  Singapore Management University    
+  DOI 
+
+ 10:30 - 12:00 | ISSTA 6: Testing 1 Technical Papers   at Habib Classroom (Gates G01)   
+  Chair(s): Karine Even-Mendoza  King’s College London 
+ 10:30   
+ 15m    
+ Talk | Synthesizing Speech Test Cases with Text-to-Speech? An Empirical Study on the False Alarms in Automated Speech Recognition Testing   Technical Papers   
+ Julia Kaiwen Lau  Monash University Malaysia  , Kelvin Kai Wen Kong  Monash University Malaysia  , Julian Hao Yong  Monash University Malaysia  , Per Hoong Tan  Monash University Malaysia  , Zhou Yang  Singapore Management University  , Zi Qian Yong  Monash University Malaysia  , Joshua Chern Wey Low  Monash University Malaysia  , Chun Yong Chong  Monash University Malaysia  , Mei Kuan Lim  Monash University Malaysia  , David Lo  Singapore Management University    
+  DOI 
+ 10:45   
+ 15m    
+ Talk | PhysCov: Physical Test Coverage for Autonomous Vehicles   Technical Papers   
+ Carl Hildebrandt  University of Virginia  , Meriel von Stein  University of Virginia  , Sebastian Elbaum  University of Virginia    
+  Link to publication   DOI   Pre-print 
+ 11:00   
+ 15m    
+ Talk | BehAVExplor: Behavior Diversity Guided Testing for Autonomous Driving Systems   Technical Papers   
+ Mingfei Cheng  Singapore Management University  , Yuan Zhou  Nanyang Technological University  , Xiaofei Xie  Singapore Management University    
+  DOI 
+ 11:15   
+ 15m    
+ Talk | Building Critical Testing Scenarios for Autonomous Driving from Real Accidents   Technical Papers   
+ Xudong Zhang  Institute of Software at Chinese Academy of Sciences  , Yan Cai  Institute of Software at Chinese Academy of Sciences    
+  DOI 
+ 11:30   
+ 15m    
+ Talk | Virtual Reality (VR) Automated Testing in the Wild: A Case Study on Unity-Based VR Applications   Technical Papers   
+ Dhia Elhaq Rzig  University of Michigan - Dearborn  , Nafees Iqbal  University of Michigan at Dearborn  , Isabella Attisano  Villanova University  , Xue Qin  Villanova University  , Foyzul Hassan  University of Michigan at Dearborn    
+  DOI 
+ 11:45   
+ 15m    
+ Talk | Concept-Based Automated Grading of CS-1 Programming Assignments   Technical Papers   
+ Zhiyu Fan  National University of Singapore  , Shin Hwei Tan  Concordia University, Canada  , Abhik Roychoudhury  National University of Singapore    
+  DOI 
+
+ 12:00 - 13:30 | Lunch ECOOP and ISSTA Catering   at Zillow Commons (Gates 4th Floor) 
+ 12:00   
+ 90m    
+ Lunch | Lunch   ECOOP and ISSTA Catering 
+
+ 13:30 - 15:00 | ISSTA 7: Testing and Analysis of Machine-Learning Systems Technical Papers   at Smith Classroom (Gates G10)   
+  Chair(s): Vincenzo Riccio  University of Udine 
+ 13:30   
+ 15m    
+ Talk | FairRec: Fairness Testing for Deep Recommender Systems   Technical Papers   
+ Huizhong Guo  Zhejiang University  , Jinfeng Li  Alibaba Group  , Jingyi Wang  Zhejiang University  , Xiangyu Liu  Alibaba Group  , Dongxia Wang  Zhejiang University  , Zehong Hu  Alibaba Group  , Rong Zhang  Alibaba Group  , Hui Xue  Alibaba Group    
+  DOI 
+ 13:45   
+ 15m    
+ Talk | DyCL: Dynamic Neural Network Compilation Via Program Rewriting and Graph Optimization   Technical Papers   
+ Simin Chen  University of Texas at Dallas  , Shiyi Wei  University of Texas at Dallas  , Cong Liu  University of California at Riverside  , Wei Yang  University of Texas at Dallas    
+  DOI 
+ 14:00   
+ 15m    
+ Talk | Validating Multimedia Content Moderation Software via Semantic Fusion   Technical Papers   
+ Wenxuan Wang  Chinese University of Hong Kong  , Jingyuan Huang  Chinese University of Hong Kong  , Chang Chen  Chinese University of Hong Kong  , Jiazhen Gu  Chinese University of Hong Kong  , Jianping Zhang  Chinese University of Hong Kong  , Weibin Wu  Sun Yat-sen University  , Pinjia He  Chinese University of Hong Kong  , Michael Lyu  Chinese University of Hong Kong    
+  DOI 
+ 14:15   
+ 15m    
+ Talk | What You See Is What You Get? It Is Not the Case! Detecting Misleading Icons for Mobile Applications   Technical Papers   
+ Linlin Li  Southern University of Science and Technology  , Ruifeng Wang  Northeastern University  , Xian Zhan  Southern University of Science and Technology  , Ying Wang  Northeastern University  , Cuiyun Gao  Harbin Institute of Technology  , Sinan Wang  Southern University of Science and Technology  , Yepang Liu  Southern University of Science and Technology    
+  DOI 
+ 14:30   
+ 15m    
+ Talk | How Effective Are Neural Networks for Fixing Security Vulnerabilities   Technical Papers   
+ Yi Wu  Purdue University  , Nan Jiang  Purdue University  , Hung Viet Pham  University of Waterloo  , Thibaud Lutellier  University of Alberta  , Jordan Davis  Purdue University  , Lin Tan  Purdue University  , Petr Babkin  J.P. Morgan AI Research  , Sameena Shah  J.P. Morgan AI Research    
+  DOI 
+ 14:45   
+ 15m    
+ Talk | ModelObfuscator: Obfuscating Model Information to Protect Deployed ML-Based Systems   Technical Papers   
+ Mingyi Zhou  Monash University  , Xiang Gao  Beihang University  , Jing Wu  Monash University  , John Grundy  Monash University  , Xiao Chen  Monash University  , Chunyang Chen  Monash University  , Li Li  Beihang University    
+  DOI 
+
+ 13:30 - 15:00 | ISSTA 8: Fuzzing 2 Technical Papers   at Habib Classroom (Gates G01)   
+  Chair(s): Marcel Böhme  MPI-SP; Monash University 
+ 13:30   
+ 15m    
+ Talk | Guiding Greybox Fuzzing with Mutation Testing ACM SIGSOFT Distinguished Paper      Technical Papers   
+ Vasudev Vikram  Carnegie Mellon University  , Isabella Laybourn  Carnegie Mellon University  , Ao Li  Carnegie Mellon University  , Nicole Nair  Swarthmore College  , Kelton OBrien  University of Minnesota  , Rafaello Sanna  University of Rochester  , Rohan Padhye  Carnegie Mellon University    
+  DOI   Pre-print   Media Attached 
+ 13:45   
+ 15m    
+ Talk | Rare Path Guided Fuzzing   Technical Papers   
+ Seemanta Saha  University of California at Santa Barbara  , Laboni Sarker  University of California at Santa Barbara  , Md Shafiuzzaman  University of California at Santa Barbara  , Chaofan Shou  University of California at Santa Barbara  , Albert Li  University of California at Santa Barbara  , Ganesh Sankaran  University of California at Santa Barbara  , Tevfik Bultan  University of California at Santa Barbara    
+  DOI 
+ 14:00   
+ 15m    
+ Talk | Finding Short Slow Inputs Faster with Grammar-Based Search   Technical Papers   
+ Ziyad Alsaeed  Qassim University  , Michal Young  University of Oregon    
+  DOI 
+ 14:15   
+ 15m    
+ Talk | Fuzzing Embedded Systems using Debug Interfaces   Technical Papers   
+ Max Eisele  Robert Bosch; Saarland University  , Daniel Ebert  Robert Bosch  , Christopher Huth  Robert Bosch  , Andreas Zeller  CISPA Helmholtz Center for Information Security    
+  DOI   Pre-print 
+ 14:30   
+ 15m    
+ Talk | GrayC: Greybox Fuzzing of Compilers and Analysers for C ACM SIGSOFT Distinguished Paper      Technical Papers   
+ Karine Even-Mendoza  King’s College London  , Arindam Sharma  Imperial College London  , Alastair F. Donaldson  Imperial College London  , Cristian Cadar  Imperial College London    
+  DOI 
+ 14:45   
+ 15m    
+ Talk | Fuzzing Deep Learning Compilers with HirGen   Technical Papers   
+ Haoyang Ma  Hong Kong University of Science and Technology  , Qingchao Shen  Tianjin University  , Yongqiang Tian  University of Waterloo  , Junjie Chen  Tianjin University  , Shing-Chi Cheung  Hong Kong University of Science and Technology    
+  DOI 
+
+ 15:00 - 15:30 | Coffee Break ECOOP and ISSTA Catering   at Microsoft Atrium (Allen Center) 
+ 15:00   
+ 30m    
+ Coffee break | Break   ECOOP and ISSTA Catering 
+
+ 15:30 - 17:00 | ISSTA Online 4: Testing and Analysis of DL Systems Technical Papers   at Smith Classroom (Gates G10)   
+  Chair(s): Elena Sherman  Boise State University 
+ 15:30   
+ 10m    
+ Talk | A Tale of Two Approximations: Tightening Over-Approximation for DNN Robustness Verification via Under-Approximation   Technical Papers   
+ Zhiyi Xue  East China Normal University  , Si Liu  ETH Zurich  , Zhaodi Zhang  East China Normal University  , Yiting Wu  East China Normal University  , Min Zhang  East China Normal University    
+  DOI 
+ 15:40   
+ 10m    
+ Talk | In Defense of Simple Techniques for Neural Network Test Case Selection   Technical Papers   
+ Shenglin Bao  Fudan University  , Chaofeng Sha  Fudan University  , Bihuan Chen  Fudan University  , Xin Peng  Fudan University  , Wenyun Zhao  Fudan University    
+  DOI 
+ 15:50   
+ 10m    
+ Talk | ROME: Testing Image Captioning Systems via Recursive Object Melting   Technical Papers   
+ BoXi Yu  Chinese University of Hong Kong  , Zhiqing Zhong  Chinese University of Hong Kong  , Jiaqi Li  Chinese University of Hong Kong  , Yixing Yang  Chinese University of Hong Kong  , Shilin He  Microsoft Research  , Pinjia He  Chinese University of Hong Kong    
+  DOI 
+ 16:00   
+ 10m    
+ Talk | ACETest: Automated Constraint Extraction for Testing Deep Learning Operators   Technical Papers   
+ Jingyi Shi  Institute of Information Engineering at Chinese Academy of Sciences; University of Chinese Academy of Sciences  , Yang Xiao  Institute of Information Engineering at Chinese Academy of Sciences; University of Chinese Academy of Sciences  , Yuekang Li  University of New South Wales  , Yeting Li  Institute of Information Engineering at Chinese Academy of Sciences; University of Chinese Academy of Sciences  , DongSong Yu  Zhongguancun Laboratory  , Chendong Yu  Institute of Information Engineering at Chinese Academy of Sciences; University of Chinese Academy of Sciences  , Hui Su  Institute of Information Engineering at Chinese Academy of Sciences; University of Chinese Academy of Sciences  , Yufeng Chen  Institute of Information Engineering at Chinese Academy of Sciences; University of Chinese Academy of Sciences  , Wei Huo  Institute of Information Engineering at Chinese Academy of Sciences    
+  DOI 
+ 16:10   
+ 10m    
+ Talk | Latent Imitator: Generating Natural Individual Discriminatory Instances for Black-Box Fairness Testing   Technical Papers   
+ Yisong Xiao  Beihang University  , Aishan Liu  Beihang University; Institute of Dataspace  , Li Tianlin  Nanyang Technological University  , Xianglong Liu  Beihang University; Institute of Dataspace; Zhongguancun Laboratory    
+  DOI 
+ 16:20   
+ 10m    
+ Talk | CoopHance: Cooperative Enhancement for Robustness of Deep Learning Systems   Technical Papers   
+ Quan Zhang  Tsinghua University  , Yongqiang Tian  University of Waterloo  , Yifeng Ding  University of Illinois at Urbana-Champaign  , Shanshan Li  National University of Defense Technology  , Chengnian Sun  University of Waterloo  , Yu Jiang  Tsinghua University  , Jiaguang Sun  Tsinghua University    
+  DOI 
+ 16:30   
+ 10m    
+ Talk | Back Deduction Based Testing for Word Sense Disambiguation Ability of Machine Translation Systems   Technical Papers   
+ Jun Wang  Nanjing University  , Yanhui Li  Nanjing University  , Xiang Huang  Nanjing University  , Lin Chen  Nanjing University  , Xiaofang Zhang  Soochow University  , Yuming Zhou  Nanjing University    
+  DOI 
+ 16:40   
+ 10m    
+ Talk | CydiOS: A Model-Based Testing Framework for iOS Apps   Technical Papers   
+ Shuohan Wu  Hong Kong Polytechnic University  , Jianfeng Li  Xi’an Jiaotong University  , Hao Zhou  Hong Kong Polytechnic University  , Yongsheng Fang  Beijing University of Posts and Telecommunications  , Kaifa ZHAO  Hong Kong Polytechnic University  , Haoyu Wang  Huazhong University of Science and Technology  , Chenxiong Qian  University of Hong Kong  , Xiapu Luo  Hong Kong Polytechnic University    
+  DOI 
+
+ 15:30 - 17:00 | ISSTA Online 5: Domain-Specific Testing Technical Papers   at Habib Classroom (Gates G01)   
+  Chair(s): Michal Young  University of Oregon 
+ 15:30   
+ 10m    
+ Talk | DeUEDroid: Detecting Underground Economy Apps Based on UTG Similarity   Technical Papers   
+ Zhuo Chen  Zhejiang University; Ant Group  , Jie Liu  Ant Group  , Yubo Hu  Xidian University  , Lei Wu  Zhejiang University  , Yajin Zhou  Zhejiang University  , Yiling He  Zhejiang University  , Xianhao Liao  Ant Group  , Ke Wang  Ant Group  , Jinku Li  Xidian University  , Zhan Qin  Zhejiang University    
+  DOI 
+ 15:40   
+ 10m    
+ Talk | Precise and Efficient Patch Presence Test for Android Applications against Code Obfuscation   Technical Papers   
+ Zifan Xie  Huazhong University of Science and Technology  , Ming Wen  Huazhong University of Science and Technology  , Haoxiang Jia  Huazhong University of Science and Technology  , Xiaochen Guo  Huazhong University of Science and Technology  , Xiaotong Huang  Huazhong University of Science and Technology  , Deqing Zou  Huazhong University of Science and Technology  , Hai Jin  Huazhong University of Science and Technology    
+  DOI 
+ 15:50   
+ 10m    
+ Talk | DDLDroid: Efficiently Detecting Data Loss Issues in Android Apps   Technical Papers   
+ Yuhao Zhou  Nanjing University of Science and Technology  , Wei Song  Nanjing University of Science and Technology    
+  DOI 
+ 16:00   
+ 10m    
+ Talk | Exploring Missed Optimizations in WebAssembly Optimizers   Technical Papers   
+ Zhibo Liu  Hong Kong University of Science and Technology  , Dongwei Xiao  Hong Kong University of Science and Technology  , Li Zongjie  Hong Kong University of Science and Technology  , Shuai Wang  Hong Kong University of Science and Technology  , Wei Meng  Chinese University of Hong Kong    
+  DOI 
+ 16:10   
+ 10m    
+ Talk | Vectorizing Program Ingredients for Better JVM Testing   Technical Papers   
+ Tianchang Gao  Tianjin University  , Junjie Chen  Tianjin University  , Yingquan Zhao  Tianjin University  , Yuqun Zhang  Southern University of Science and Technology  , Lingming Zhang  University of Illinois at Urbana-Champaign    
+  DOI 
+ 16:20   
+ 10m    
+ Talk | 1dFuzz: Reproduce 1-Day Vulnerabilities with Directed Differential Fuzzing   Technical Papers   
+ Songtao Yang  Tsinghua University  , Yubo He  Information Engineering University  , Kaixiang Chen  Tsinghua University  , Zheyu Ma  Tsinghua University  , Xiapu Luo  Hong Kong Polytechnic University  , Yong Xie  Qinghai University  , Jianjun Chen  Tsinghua University  , Chao Zhang  Tsinghua University    
+  DOI 
+ 16:30   
+ 10m    
+ Talk | SBDT: Search-Based Differential Testing of Certificate Parsers in SSL/TLS Implementations   Technical Papers   
+ Chu Chen  Qufu Normal University  , Pinghong Ren  Qufu Normal University  , Zhenhua Duan  Xidian University  , Cong Tian  Xidian University  , Xu Lu  Xidian University  , Bin Yu  Xidian University    
+  DOI 
+ 16:40   
+ 10m    
+ Talk | Silent Compiler Bug De-duplication via Three-Dimensional Analysis   Technical Papers   
+ Chen Yang  Tianjin University  , Junjie Chen  Tianjin University  , Xingyu Fan  Tianjin University  , Jiajun Jiang  Tianjin University  , Jun Sun  Singapore Management University    
+  DOI 
+ 16:50   
+ 10m    
+ Talk | Alligator in Vest: A Practical Failure-Diagnosis Framework via Arm Hardware Features   Technical Papers   
+ Yiming Zhang  Southern University of Science and Technology; Hong Kong Polytechnic University  , Yuxin Hu  Southern University of Science and Technology  , Haonan Li  Southern University of Science and Technology  , Wenxuan Shi  Southern University of Science and Technology  , Zhenyu Ning  Hunan University; Southern University of Science and Technology  , Xiapu Luo  Hong Kong Polytechnic University  , Fengwei Zhang  Southern University of Science and Technology    
+  DOI 
+
+ 15:30 - 17:00 | ISSTA Online 6: Smart Contracts and Automotive Technical Papers   at Bezos Seminar Room (Gates G04)   
+  Chair(s): Alex Groce  Northern Arizona University 
+ 15:30   
+ 10m    
+ Talk | SmartState: Detecting State-Reverting Vulnerabilities in Smart Contracts via Fine-Grained State-Dependency Analysis   Technical Papers   
+ Zeqin Liao  Sun Yat-sen University  , Sicheng Hao  Sun Yat-sen University  , Yuhong Nan  Sun Yat-sen University  , Zibin Zheng  Sun Yat-sen University    
+  DOI 
+ 15:40   
+ 10m    
+ Talk | DeFiTainter: Detecting Price Manipulation Vulnerabilities in DeFi Protocols   Technical Papers   
+ Queping Kong  Sun Yat-sen University  , Jiachi Chen  Sun Yat-sen University  , Yanlin Wang  Sun Yat-sen University  , Zigui Jiang  Sun Yat-sen University  , Zibin Zheng  Sun Yat-sen University    
+  DOI 
+ 15:50   
+ 10m    
+ Talk | Beyond “Protected” and “Private”: An Empirical Security Analysis of Custom Function Modifiers in Smart Contracts   Technical Papers   
+ Yuzhou Fang  Hong Kong University of Science and Technology  , Daoyuan Wu  Chinese University of Hong Kong  , Xiao Yi  Chinese University of Hong Kong  , Shuai Wang  Hong Kong University of Science and Technology  , Yufan Chen  Xidian University  , Mengjie Chen  Mask Network  , Yang Liu  Nanyang Technological University  , Lingxiao Jiang  Singapore Management University    
+  DOI 
+ 16:00   
+ 10m    
+ Talk | Testing Automated Driving Systems by Breaking Many Laws Efficiently   Technical Papers   
+ Xiaodong Zhang  Xidian University  , Zhao Wei  Tencent  , Yang Sun  Singapore Management University  , Jun Sun  Singapore Management University  , Yulong Shen  Xidian University  , Xuewen Dong  Xidian University  , Zijiang Yang  GuardStrike    
+  DOI 
+ 16:10   
+ 10m    
+ Talk | Simulation-Based Validation for Autonomous Driving Systems   Technical Papers   
+ Changwen Li  Institute of Software at Chinese Academy of Sciences; University of Chinese Academy of Sciences  , Joseph Sifakis  University Grenoble Alpes; CNRS; Grenoble INP; VERIMAG  , Qiang Wang  Academy of Military Sciences  , Rongjie Yan  Institute of Software at Chinese Academy of Sciences; University of Chinese Academy of Sciences  , Jian Zhang  Institute of Software at Chinese Academy of Sciences; University of Chinese Academy of Sciences    
+  DOI 
+ 16:20   
+ 10m    
+ Talk | Data Constraint Mining for Automatic Reconciliation Scripts Generation   Technical Papers   
+ Tianxiao Wang  Zhejiang University; Alibaba-Zhejiang University Joint Institute of Frontier Technologies  , Chen Zhi  Zhejiang University; Alibaba-Zhejiang University Joint Institute of Frontier Technologies  , Xiaoqun Zhou  Alibaba Group  , Jinjie Wu  Alibaba Group  , Jianwei Yin  Zhejiang University  , Shuiguang Deng  Zhejiang University; Alibaba-Zhejiang University Joint Institute of Frontier Technologies    
+  DOI 
+
+ 17:30 - 20:30 | Banquet ECOOP and ISSTA Catering   at HUB Ballroom 
+
+ Thu 20 Jul   
+  
+ Displayed time zone: Pacific Time (US & Canada)  change      
+
+ 08:00 - 08:30 | Coffee and Light Breakfast ECOOP and ISSTA Catering   at Microsoft Atrium (Allen Center) 
+ 08:00   
+ 30m    
+ Coffee break | Break   ECOOP and ISSTA Catering 
+
+ 08:30 - 09:00 | Dahl-Nygaard Prize Ceremony and Awards ECOOP and ISSTA Keynotes   at Amazon Auditorium (Gates G20) 
+ 08:30   
+ 30m    
+ Awards | ECOOP: Dahl-Nygaard Prize Ceremony and Awards   ECOOP and ISSTA Keynotes 
+
+ 09:00 - 10:00 | Keynote ECOOP and ISSTA Keynotes   at Amazon Auditorium (Gates G20) 
+ 09:00   
+ 60m    
+ Keynote | Dahl-Nygaard Senior Prize: Safe Journeys into the Unknown – Object Capabilities   ECOOP and ISSTA Keynotes   
+ K:  Sophia Drossopoulou  Imperial College London    
+  Media Attached 
+
+ 10:00 - 10:30 | Coffee Break ECOOP and ISSTA Catering   at Microsoft Atrium (Allen Center) 
+ 10:00   
+ 30m    
+ Coffee break | Break   ECOOP and ISSTA Catering 
+
+ 10:30 - 12:00 | ISSTA 9: Testing 2 Technical Papers   at Amazon Auditorium (Gates G20)   
+  Chair(s): Cristian Cadar  Imperial College London 
+ 10:30   
+ 15m    
+ Talk | A Comprehensive Study on Quality Assurance Tools for Java   Technical Papers   
+ Han Liu  East China Normal University  , Sen Chen  Tianjin University  , Ruitao Feng  UNSW  , Chengwei Liu  Nanyang Technological University  , Kaixuan Li  East China Normal University  , Zhengzi Xu  Nanyang Technological University  , Liming Nie  Nanyang Technological University  , Yang Liu  Nanyang Technological University  , Yixiang Chen  East China Normal University    
+  DOI 
+ 10:45   
+ 15m    
+ Talk | Transforming Test Suites into Croissants   Technical Papers   
+ Yang Chen  University of Illinois at Urbana-Champaign  , Alperen Yildiz  Sabanci University  , Darko Marinov  University of Illinois at Urbana-Champaign  , Reyhaneh Jabbarvand  University of Illinois at Urbana-Champaign    
+  DOI 
+ 11:00   
+ 15m    
+ Talk | SlipCover: Near Zero-Overhead Code Coverage for Python   Technical Papers   
+ Juan Altmayer Pizzorno  University of Massachusetts Amherst  , Emery D. Berger  University of Massachusetts Amherst    
+  DOI 
+ 11:15   
+ 15m    
+ Talk | To Kill a Mutant: An Empirical Study of Mutation Testing Kills   Technical Papers   
+ Hang Du  University of California at Irvine  , Vijay Krishna Palepu  Microsoft  , James Jones  University of California at Irvine    
+  DOI 
+ 11:30   
+ 15m    
+ Talk | Systematically Producing Test Orders to Detect Order-Dependent Flaky Tests   Technical Papers   
+ Chengpeng Li  University of Texas at Austin  , M. Mahdi Khosravi  Middle East Technical University  , Wing Lam  George Mason University  , August Shi  University of Texas at Austin    
+  DOI 
+ 11:45   
+ 15m    
+ Talk | Extracting Inline Tests from Unit Tests   Technical Papers   
+ Yu Liu  University of Texas at Austin  , Pengyu Nie  University of Texas at Austin  , Anna Guo  University of Texas at Austin  , Milos Gligoric  University of Texas at Austin  , Owolabi Legunsen  Cornell University    
+  DOI 
+
+ 10:30 - 12:00 | ISSTA 10: Test Optimizations Technical Papers   at Smith Classroom (Gates G10)   
+  Chair(s): Wing Lam  University of Illinois at Urbana-Champaign 
+ 10:30   
+ 15m    
+ Talk | More Precise Regression Test Selection via Reasoning about Semantics-Modifying Changes ACM SIGSOFT Distinguished Paper      Technical Papers   
+ Yu Liu  University of Texas at Austin  , Jiyang Zhang  University of Texas at Austin  , Pengyu Nie  University of Texas at Austin  , Milos Gligoric  University of Texas at Austin  , Owolabi Legunsen  Cornell University    
+  DOI 
+ 10:45   
+ 15m    
+ Talk | Catamaran: Low-Overhead Memory Safety Enforcement via Parallel Acceleration   Technical Papers   
+ Yiyu Zhang  Nanjing University  , Tianyi Liu  Nanjing University  , Zewen Sun  Nanjing University  , Zhe Chen  Nanjing University of Aeronautics and Astronautics  , Xuandong Li  Nanjing University  , Zhiqiang Zuo  Nanjing University    
+  DOI 
+ 11:00   
+ 15m    
+ Talk | Applying and Extending the Delta Debugging Algorithm for Elevator Dispatching Algorithms (Experience Paper)   Technical Papers   
+ Pablo Valle  Mondragon University  , Aitor Arrieta  Mondragon University  , Maite Arratibel  Orona    
+  DOI   Pre-print 
+ 11:15   
+ 15m    
+ Talk | June: A Type Testability Transformation for Improved ATG Performance   Technical Papers   
+ Dan Bruce  University College London  , David Kelly  King’s College London  , Hector Menendez  King’s College London  , Earl T. Barr  University College London; Google DeepMind  , David Clark  University College London    
+  DOI 
+ 11:30   
+ 15m    
+ Talk | Pattern-Based Peephole Optimizations with Java JIT Tests   Technical Papers   
+ Zhiqiang Zang  University of Texas at Austin  , Aditya Thimmaiah  University of Texas at Austin  , Milos Gligoric  University of Texas at Austin    
+  DOI   Pre-print 
+ 11:45   
+ 15m    
+ Talk | GPUHarbor: Testing GPU Memory Consistency at Large (Experience Paper) ACM SIGSOFT Distinguished Artifact      Technical Papers   
+ Reese Levine  University of California at Santa Cruz  , Mingun Cho  University of California at Davis  , Devon McKee  University of California at Santa Cruz  , Andrew Quinn  University of California at Santa Cruz  , Tyler Sorensen  University of California at Santa Cruz    
+  DOI 
+
+ 12:00 - 13:30 | Lunch ECOOP and ISSTA Catering   at Zillow Commons (Gates 4th Floor) 
+ 12:00   
+ 90m    
+ Lunch | Lunch   ECOOP and ISSTA Catering 
+
+ 13:30 - 15:00 | ISSTA 11: Testing 3 Technical Papers   at Amazon Auditorium (Gates G20)   
+  Chair(s): Marcelo d'Amorim  North Carolina State University 
+ 13:30   
+ 15m    
+ Talk | Dependency-Aware Metamorphic Testing of Datalog Engines   Technical Papers   
+ Muhammad Numair Mansur  Amazon Web Services  , Valentin Wüstholz  ConsenSys  , Maria Christakis  TU Wien    
+  DOI 
+ 13:45   
+ 15m    
+ Talk | GDsmith: Detecting Bugs in Cypher Graph Database Engines   Technical Papers   
+ Ziyue Hua  Peking University  , Wei Lin  Peking University  , Luyao Ren  Peking University  , Zongyang Li  Peking University  , Lu Zhang  Peking University  , Wenpin Jiao  Peking University  , Tao Xie  Peking University    
+  DOI 
+ 14:00   
+ 15m    
+ Talk | Testing Graph Database Engines via Query Partitioning   Technical Papers   
+ Matteo Kamm  ETH Zurich  , Manuel Rigger  National University of Singapore  , Chengyu Zhang  ETH Zurich  , Zhendong Su  ETH Zurich    
+  DOI 
+ 14:15   
+ 15m    
+ Talk | Toward Automated Detecting Unanticipated Price Feed in Smart Contract   Technical Papers   
+ Yifan Mo  Sun Yat-sen University  , Jiachi Chen  Sun Yat-sen University  , Yanlin Wang  Sun Yat-sen University  , Zibin Zheng  Sun Yat-sen University    
+  DOI 
+ 14:30   
+ 15m    
+ Talk | Definition and Detection of Defects in NFT Smart Contracts   Technical Papers   
+ Shuo Yang  Sun Yat-sen University  , Jiachi Chen  Sun Yat-sen University  , Zibin Zheng  Sun Yat-sen University    
+  DOI 
+
+ 13:30 - 15:00 | ISSTA 12: Web and Smart Contracts Technical Papers   at Smith Classroom (Gates G10)   
+  Chair(s): Martin Kellogg  New Jersey Institute of Technology 
+ 13:30   
+ 15m    
+ Talk | Enhancing REST API Testing with NLP Techniques   Technical Papers   
+ Myeongsoo Kim  Georgia Institute of Technology  , Davide Corradini  University of Verona  , Saurabh Sinha  IBM Research  , Alessandro Orso  Georgia Institute of Technology  , Michele Pasqua  University of Verona  , Rachel Tzoref-Brill  IBM Research  , Mariano Ceccato  University of Verona    
+  DOI 
+ 13:45   
+ 15m    
+ Talk | AGORA: Automated Generation of Test Oracles for REST APIs ACM SIGSOFT Distinguished Artifact      Technical Papers   
+ Juan C. Alonso  University of Seville  , Sergio Segura  University of Seville  , Antonio Ruiz-Cortés  University of Seville    
+  DOI 
+ 14:00   
+ 15m    
+ Talk | ωTest: WebView-Oriented Testing for Android Applications   Technical Papers   
+ Jiajun Hu  Hong Kong University of Science and Technology  , Lili Wei  McGill University  , Yepang Liu  Southern University of Science and Technology  , Shing-Chi Cheung  Hong Kong University of Science and Technology    
+  DOI 
+ 14:15   
+ 15m    
+ Talk | NodeRT: Detecting Races in Node.js Applications Practically   Technical Papers   
+ Jingyao Zhou  Nanjing University  , Lei Xu  Nanjing University  , Gongzheng Lu  Suzhou City University  , Weifeng Zhang  Nanjing University of Posts and Telecommunications  , Xiangyu Zhang  Purdue University    
+  DOI 
+ 14:30   
+ 15m    
+ Talk | iSyn: Semi-automated Smart Contract Synthesis from Legal Financial Agreements   Technical Papers   
+ Pengcheng Fang  Case Western Reserve University  , Zhenhua Zou  Tsinghua University  , Xusheng Xiao  Arizona State University  , Zhuotao Liu  Tsinghua University    
+  DOI 
+ 14:45   
+ 15m    
+ Talk | Automated Generation of Security-Centric Descriptions for Smart Contract Bytecode ACM SIGSOFT Distinguished Paper      Technical Papers   
+ Yu Pan  University of Utah  , Zhichao Xu  University of Utah  , Levi Taiji Li  University of Utah  , Yunhe Yang  University of Utah  , Mu Zhang  University of Utah    
+  DOI 
+
+ 15:00 - 15:30 | Coffee Break ECOOP and ISSTA Catering   at Microsoft Atrium (Allen Center) 
+ 15:00   
+ 30m    
+ Coffee break | Break   ECOOP and ISSTA Catering 
+
+ 15:30 - 17:00 | Keynote – ISSTA'24 Preview – Closing ECOOP and ISSTA Keynotes   at Amazon Auditorium (Gates G20) 
+ 15:30   
+ 60m    
+ Keynote | Machine Learning for Software Engineering   ECOOP and ISSTA Keynotes   
+ K:  Satish Chandra  Meta Platforms 
+ 16:30   
+ 15m    
+ Day closing | ISSTA'24 Preview   ECOOP and ISSTA Keynotes 
+ 16:45   
+ 15m    
+ Day closing | ISSTA Closing   ECOOP and ISSTA Keynotes 
+
+ 17:30 - 18:30 | Reception ECOOP and ISSTA Catering   at Microsoft Atrium (Allen Center) 
+
+ Accepted Papers  
+  
+ Title 
+ 1dFuzz: Reproduce 1-Day Vulnerabilities with Directed Differential Fuzzing  Technical Papers   
+ Songtao Yang  , Yubo He  , Kaixiang Chen  , Zheyu Ma  , Xiapu Luo  , Yong Xie  , Jianjun Chen  , Chao Zhang    
+  DOI 
+ A Bayesian Framework for Automated Debugging  Technical Papers   
+ Sungmin Kang  , Wonkeun Choi  , Shin Yoo    
+  DOI   Pre-print 
+ ACETest: Automated Constraint Extraction for Testing Deep Learning Operators  Technical Papers   
+ Jingyi Shi  , Yang Xiao  , Yuekang Li  , Yeting Li  , DongSong Yu  , Chendong Yu  , Hui Su  , Yufeng Chen  , Wei Huo    
+  DOI 
+ A Comprehensive Study on Quality Assurance Tools for Java  Technical Papers   
+ Han Liu  , Sen Chen  , Ruitao Feng  , Chengwei Liu  , Kaixuan Li  , Zhengzi Xu  , Liming Nie  , Yang Liu  , Yixiang Chen    
+  DOI 
+ AGORA: Automated Generation of Test Oracles for REST APIs ACM SIGSOFT Distinguished Artifact     Technical Papers   
+ Juan C. Alonso  , Sergio Segura  , Antonio Ruiz-Cortés    
+  DOI 
+ Alligator in Vest: A Practical Failure-Diagnosis Framework via Arm Hardware Features  Technical Papers   
+ Yiming Zhang  , Yuxin Hu  , Haonan Li  , Wenxuan Shi  , Zhenyu Ning  , Xiapu Luo  , Fengwei Zhang    
+  DOI 
+ An Empirical Study of Functional Bugs in Android Apps ACM SIGSOFT Distinguished Paper     Technical Papers   
+ Yiheng Xiong  , Mengqian Xu  , Ting Su  , Jingling Sun  , Jue Wang  , He Wen  , Geguang Pu  , Jifeng He  , Zhendong Su    
+  DOI 
+ An Empirical Study on Concurrency Bugs in Interrupt-Driven Embedded Software  Technical Papers   
+ Chao Li  , Rui Chen  , Boxiang Wang  , Zhixuan Wang  , Tingting Yu  , Yunsong Jiang  , Mengfei Yang    
+  DOI 
+ An Empirical Study on the Effects of Obfuscation on Static Machine Learning-Based Malicious JavaScript Detectors  Technical Papers   
+ Kunlun Ren  , Qiang Weizhong  , Yueming Wu  , yi zhou  , Deqing Zou  , Hai Jin    
+  DOI 
+ API2Vec: Learning Representations of API Sequences for Malware Detection  Technical Papers   
+ Lei Cui  , Jiancong Cui  , Yuede Ji  , Zhiyu Hao  , Lun Li  , Zhenquan Ding    
+  DOI 
+ Applying and Extending the Delta Debugging Algorithm for Elevator Dispatching Algorithms (Experience Paper)  Technical Papers   
+ Pablo Valle  , Aitor Arrieta  , Maite Arratibel    
+  DOI   Pre-print 
+ A Tale of Two Approximations: Tightening Over-Approximation for DNN Robustness Verification via Under-Approximation  Technical Papers   
+ Zhiyi Xue  , Si Liu  , Zhaodi Zhang  , Yiting Wu  , Min Zhang    
+  DOI 
+ Automated Generation of Security-Centric Descriptions for Smart Contract Bytecode ACM SIGSOFT Distinguished Paper     Technical Papers   
+ Yu Pan  , Zhichao Xu  , Levi Taiji Li  , Yunhe Yang  , Mu Zhang    
+  DOI 
+ Automated Program Repair from Fuzzing Perspective  Technical Papers   
+ YoungJae Kim  , Seungheon Han  , Askar Yeltayuly Khamit  , Jooyong Yi    
+  DOI 
+ Automatically Reproducing Android Bug Reports using Natural Language Processing and Reinforcement Learning  Technical Papers   
+ Zhaoxu Zhang  , Robert Winn  , Yu Zhao  , Tingting Yu  , William G.J. Halfond    
+  DOI 
+ Back Deduction Based Testing for Word Sense Disambiguation Ability of Machine Translation Systems  Technical Papers   
+ Jun Wang  , Yanhui Li  , Xiang Huang  , Lin Chen  , Xiaofang Zhang  , Yuming Zhou    
+  DOI 
+ BehAVExplor: Behavior Diversity Guided Testing for Autonomous Driving Systems  Technical Papers   
+ Mingfei Cheng  , Yuan Zhou  , Xiaofei Xie    
+  DOI 
+ Beware of the Unexpected: Bimodal Taint Analysis ACM SIGSOFT Distinguished Paper     Technical Papers   
+ Yiu Wai Chow  , Max Schaefer  , Michael Pradel    
+  DOI 
+ Beyond “Protected” and “Private”: An Empirical Security Analysis of Custom Function Modifiers in Smart Contracts  Technical Papers   
+ Yuzhou Fang  , Daoyuan Wu  , Xiao Yi  , Shuai Wang  , Yufan Chen  , Mengjie Chen  , Yang Liu  , Lingxiao Jiang    
+  DOI 
+ Building Critical Testing Scenarios for Autonomous Driving from Real Accidents  Technical Papers   
+ Xudong Zhang  , Yan Cai    
+  DOI 
+ Catamaran: Low-Overhead Memory Safety Enforcement via Parallel Acceleration  Technical Papers   
+ Yiyu Zhang  , Tianyi Liu  , Zewen Sun  , Zhe Chen  , Xuandong Li  , Zhiqiang Zuo    
+  DOI 
+ CGuard: Scalable and Precise Object Bounds Protection for C  Technical Papers   
+ Piyus Kedia  , Rahul Purandare  , Udit Kumar Agarwal  , Rishabh    
+  DOI 
+ CILIATE: Towards Fairer Class-Based Incremental Learning by Dataset and Training Refinement  Technical Papers   
+ Xuanqi Gao  , Juan Zhai  , Shiqing Ma  , Chao Shen  , Yufei Chen  , Shiwei Wang    
+  DOI   Pre-print 
+ CodeGrid: A Grid Representation of Code  Technical Papers   
+ Abdoul Kader Kaboré  , Earl T. Barr  , Jacques Klein  , Tegawendé F. Bissyandé    
+  DOI 
+ CODEP: Grammatical Seq2Seq Model for General-Purpose Code Generation  Technical Papers   
+ Yihong Dong  , Ge Li  , Zhi Jin    
+  DOI   Pre-print 
+ COME: Commit Message Generation with Modification Embedding  Technical Papers   
+ Yichen He  , Liran Wang  , Kaiyi Wang  , Yupeng Zhang  , Hang Zhang  , Zhoujun Li    
+  DOI 
+ Concept-Based Automated Grading of CS-1 Programming Assignments  Technical Papers   
+ Zhiyu Fan  , Shin Hwei Tan  , Abhik Roychoudhury    
+  DOI 
+ CONCORD: Clone-Aware Contrastive Learning for Source Code ACM SIGSOFT Distinguished Paper     Technical Papers   
+ Yangruibo Ding  , Saikat Chakraborty  , Luca Buratti  , Saurabh Pujar  , Alessandro Morari  , Gail Kaiser  , Baishakhi Ray    
+  DOI 
+ ConfFix: Repairing Configuration Compatibility Issues in Android Apps  Technical Papers   
+ Huaxun Huang  , Chi Xu  , Ming Wen  , Yepang Liu  , Shing-Chi Cheung    
+  DOI 
+ CoopHance: Cooperative Enhancement for Robustness of Deep Learning Systems  Technical Papers   
+ Quan Zhang  , Yongqiang Tian  , Yifeng Ding  , Shanshan Li  , Chengnian Sun  , Yu Jiang  , Jiaguang Sun    
+  DOI 
+ CydiOS: A Model-Based Testing Framework for iOS Apps  Technical Papers   
+ Shuohan Wu  , Jianfeng Li  , Hao Zhou  , Yongsheng Fang  , Kaifa ZHAO  , Haoyu Wang  , Chenxiong Qian  , Xiapu Luo    
+  DOI 
+ Data Constraint Mining for Automatic Reconciliation Scripts Generation  Technical Papers   
+ Tianxiao Wang  , Chen Zhi  , Xiaoqun Zhou  , Jinjie Wu  , Jianwei Yin  , Shuiguang Deng    
+  DOI 
+ DDLDroid: Efficiently Detecting Data Loss Issues in Android Apps  Technical Papers   
+ Yuhao Zhou  , Wei Song    
+  DOI 
+ DeepAtash: Focused Test Generation for Deep Learning Systems  Technical Papers   
+ Tahereh Zohdinasab  , Vincenzo Riccio  , Paolo Tonella    
+  DOI 
+ Definition and Detection of Defects in NFT Smart Contracts  Technical Papers   
+ Shuo Yang  , Jiachi Chen  , Zibin Zheng    
+  DOI 
+ DeFiTainter: Detecting Price Manipulation Vulnerabilities in DeFi Protocols  Technical Papers   
+ Queping Kong  , Jiachi Chen  , Yanlin Wang  , Zigui Jiang  , Zibin Zheng    
+  DOI 
+ Dependency-Aware Metamorphic Testing of Datalog Engines  Technical Papers   
+ Muhammad Numair Mansur  , Valentin Wüstholz  , Maria Christakis    
+  DOI 
+ Detecting Condition-Related Bugs with Control Flow Graph Neural Network  Technical Papers   
+ Jian Zhang  , Xu Wang  , Hongyu Zhang  , Hailong Sun  , Xudong Liu  , Chunming Hu  , Yang Liu    
+  DOI 
+ Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing  Technical Papers   
+ Mingxi Ye  , Yuhong Nan  , Zibin Zheng  , Dongpeng Wu  , Huizhong Li    
+  DOI 
+ Detecting Vulnerabilities in Linux-Based Embedded Firmware with SSE-Based On-Demand Alias Analysis  Technical Papers   
+ Kai Cheng  , Yaowen Zheng  , Tao Liu  , Le Guan  , Peng Liu  , Hong Li  , Hongsong Zhu  , Kejiang Ye  , Limin Sun    
+  DOI 
+ DeUEDroid: Detecting Underground Economy Apps Based on UTG Similarity  Technical Papers   
+ Zhuo Chen  , Jie Liu  , Yubo Hu  , Lei Wu  , Yajin Zhou  , Yiling He  , Xianhao Liao  , Ke Wang  , Jinku Li  , Zhan Qin    
+  DOI 
+ DyCL: Dynamic Neural Network Compilation Via Program Rewriting and Graph Optimization  Technical Papers   
+ Simin Chen  , Shiyi Wei  , Cong Liu  , Wei Yang    
+  DOI 
+ Enhancing REST API Testing with NLP Techniques  Technical Papers   
+ Myeongsoo Kim  , Davide Corradini  , Saurabh Sinha  , Alessandro Orso  , Michele Pasqua  , Rachel Tzoref-Brill  , Mariano Ceccato    
+  DOI 
+ Eunomia: Enabling User-Specified Fine-Grained Search in Symbolically Executing WebAssembly Binaries ACM SIGSOFT Distinguished Paper     Technical Papers   
+ Ningyu He  , Zhehao Zhao  , Jikai Wang  , Yubin Hu  , Shengjian (Daniel) Guo  , Haoyu Wang  , Guangtai Liang  , Ding Li  , Xiangqun Chen  , Yao Guo    
+  DOI 
+ Exploring Missed Optimizations in WebAssembly Optimizers  Technical Papers   
+ Zhibo Liu  , Dongwei Xiao  , Li Zongjie  , Shuai Wang  , Wei Meng    
+  DOI 
+ Extracting Inline Tests from Unit Tests  Technical Papers   
+ Yu Liu  , Pengyu Nie  , Anna Guo  , Milos Gligoric  , Owolabi Legunsen    
+  DOI 
+ FairRec: Fairness Testing for Deep Recommender Systems  Technical Papers   
+ Huizhong Guo  , Jinfeng Li  , Jingyi Wang  , Xiangyu Liu  , Dongxia Wang  , Zehong Hu  , Rong Zhang  , Hui Xue    
+  DOI 
+ Finding Short Slow Inputs Faster with Grammar-Based Search  Technical Papers   
+ Ziyad Alsaeed  , Michal Young    
+  DOI 
+ Fine-Grained Code Clone Detection with Block-Based Splitting of Abstract Syntax Tree  Technical Papers   
+ Tiancheng Hu  , Zijing Xu  , Yilin Fang  , Yueming Wu  , Bin Yuan  , Deqing Zou  , Hai Jin    
+  DOI 
+ Fuzzing Deep Learning Compilers with HirGen  Technical Papers   
+ Haoyang Ma  , Qingchao Shen  , Yongqiang Tian  , Junjie Chen  , Shing-Chi Cheung    
+  DOI 
+ Fuzzing Embedded Systems using Debug Interfaces  Technical Papers   
+ Max Eisele  , Daniel Ebert  , Christopher Huth  , Andreas Zeller    
+  DOI   Pre-print 
+ GDsmith: Detecting Bugs in Cypher Graph Database Engines  Technical Papers   
+ Ziyue Hua  , Wei Lin  , Luyao Ren  , Zongyang Li  , Lu Zhang  , Wenpin Jiao  , Tao Xie    
+  DOI 
+ GenCoG: A DSL-Based Approach to Generating Computation Graphs for TVM Testing  Technical Papers   
+ Zihan Wang  , Pengbo Nie  , Xinyuan Miao  , Yuting Chen  , Chengcheng Wan  , Lei Bu  , Jianjun Zhao    
+  DOI 
+ GPUHarbor: Testing GPU Memory Consistency at Large (Experience Paper) ACM SIGSOFT Distinguished Artifact     Technical Papers   
+ Reese Levine  , Mingun Cho  , Devon McKee  , Andrew Quinn  , Tyler Sorensen    
+  DOI 
+ GrayC: Greybox Fuzzing of Compilers and Analysers for C ACM SIGSOFT Distinguished Paper     Technical Papers   
+ Karine Even-Mendoza  , Arindam Sharma  , Alastair F. Donaldson  , Cristian Cadar    
+  DOI 
+ Green Fuzzer Benchmarking  Technical Papers   
+ Jiradet Ounjai  , Valentin Wüstholz  , Maria Christakis    
+  DOI 
+ Green Fuzzing: A Saturation-Based Stopping Criterion using Vulnerability Prediction  Technical Papers   
+ Stephan Lipp  , Daniel Elsner  , Severin Kacianka  , Alexander Pretschner  , Marcel Böhme  , Sebastian Banescu    
+  DOI 
+ Guided Retraining to Enhance the Detection of Difficult Android Malware  Technical Papers   
+ Nadia Daoudi  , Kevin Allix  , Tegawendé F. Bissyandé  , Jacques Klein    
+  DOI 
+ Guiding Greybox Fuzzing with Mutation Testing ACM SIGSOFT Distinguished Paper     Technical Papers   
+ Vasudev Vikram  , Isabella Laybourn  , Ao Li  , Nicole Nair  , Kelton OBrien  , Rafaello Sanna  , Rohan Padhye    
+  DOI   Pre-print   Media Attached 
+ How Effective Are Neural Networks for Fixing Security Vulnerabilities  Technical Papers   
+ Yi Wu  , Nan Jiang  , Hung Viet Pham  , Thibaud Lutellier  , Jordan Davis  , Lin Tan  , Petr Babkin  , Sameena Shah    
+  DOI 
+ Hybrid Inlining: A Framework for Compositional and Context-Sensitive Static Analysis  Technical Papers   
+ Jiangchao Liu  , Jierui Liu  , Peng Di  , Diyu Wu  , Hengjie Zheng  , Alex X. Liu  , Jingling Xue    
+  DOI 
+ Icicle: A Re-designed Emulator for Grey-Box Firmware Fuzzing  Technical Papers   
+ Michael Chesser  , Surya Nepal  , Damith C. Ranasinghe    
+  DOI 
+ Improving Binary Code Similarity Transformer Models by Semantics-Driven Instruction Deemphasis  Technical Papers   
+ Xiangzhe Xu  , Shiwei Feng  , Yapeng Ye  , Guangyu Shen  , Zian Su  , Siyuan Cheng  , Guanhong Tao  , Qingkai Shi  , Zhuo Zhang  , Xiangyu Zhang    
+  DOI 
+ Improving Bit-Blasting for Nonlinear Integer Constraints ACM SIGSOFT Distinguished Paper     Technical Papers   
+ Fuqi Jia  , Rui Han  , Pei Huang  , Minghao Liu  , Feifei Ma  , Jian Zhang    
+  DOI 
+ Improving Spectrum-Based Localization of Multiple Faults by Iterative Test Suite Reduction  Technical Papers   
+ Dylan Callaghan  , Bernd Fischer    
+  DOI 
+ In Defense of Simple Techniques for Neural Network Test Case Selection  Technical Papers   
+ Shenglin Bao  , Chaofeng Sha  , Bihuan Chen  , Xin Peng  , Wenyun Zhao    
+  DOI 
+ Interpreters for GNN-Based Vulnerability Detection: Are We There Yet?  Technical Papers   
+ Yutao Hu  , Suyuan Wang  , Wenke Li  , Junru Peng  , Yueming Wu  , Deqing Zou  , Hai Jin    
+  DOI 
+ iSyn: Semi-automated Smart Contract Synthesis from Legal Financial Agreements  Technical Papers   
+ Pengcheng Fang  , Zhenhua Zou  , Xusheng Xiao  , Zhuotao Liu    
+  DOI 
+ ItyFuzz: Snapshot-Based Fuzzer for Smart Contract  Technical Papers   
+ Chaofan Shou  , Shangyin Tan  , Koushik Sen    
+  DOI 
+ June: A Type Testability Transformation for Improved ATG Performance  Technical Papers   
+ Dan Bruce  , David Kelly  , Hector Menendez  , Earl T. Barr  , David Clark    
+  DOI 
+ Large Language Models Are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models  Technical Papers   
+ Yinlin Deng  , Chunqiu Steven Xia  , Haoran Peng  , Chenyuan Yang  , Lingming Zhang    
+  DOI 
+ Latent Imitator: Generating Natural Individual Discriminatory Instances for Black-Box Fairness Testing  Technical Papers   
+ Yisong Xiao  , Aishan Liu  , Li Tianlin  , Xianglong Liu    
+  DOI 
+ LiResolver: License Incompatibility Resolution for Open Source Software  Technical Papers   
+ Sihan Xu  , Ya Gao  , Lingling Fan  , Linyu Li  , Xiangrui Cai  , Zheli Liu    
+  DOI 
+ Loop Invariant Inference through SMT Solving Enhanced Reinforcement Learning  Technical Papers   
+ Shiwen Yu  , Ting Wang  , Ji Wang    
+  DOI 
+ ModelObfuscator: Obfuscating Model Information to Protect Deployed ML-Based Systems  Technical Papers   
+ Mingyi Zhou  , Xiang Gao  , Jing Wu  , John Grundy  , Xiao Chen  , Chunyang Chen  , Li Li    
+  DOI 
+ More Precise Regression Test Selection via Reasoning about Semantics-Modifying Changes ACM SIGSOFT Distinguished Paper     Technical Papers   
+ Yu Liu  , Jiyang Zhang  , Pengyu Nie  , Milos Gligoric  , Owolabi Legunsen    
+  DOI 
+ NodeRT: Detecting Races in Node.js Applications Practically  Technical Papers   
+ Jingyao Zhou  , Lei Xu  , Gongzheng Lu  , Weifeng Zhang  , Xiangyu Zhang    
+  DOI 
+ OCFI: Make Function Entry Identification Hard Again  Technical Papers   
+ Chengbin Pang  , Tiantai Zhang  , Xuelan Xu  , Linzhang Wang  , Bing Mao    
+  DOI 
+ Pattern-Based Peephole Optimizations with Java JIT Tests  Technical Papers   
+ Zhiqiang Zang  , Aditya Thimmaiah  , Milos Gligoric    
+  DOI   Pre-print 
+ PhysCov: Physical Test Coverage for Autonomous Vehicles  Technical Papers   
+ Carl Hildebrandt  , Meriel von Stein  , Sebastian Elbaum    
+  Link to publication   DOI   Pre-print 
+ Precise and Efficient Patch Presence Test for Android Applications against Code Obfuscation  Technical Papers   
+ Zifan Xie  , Ming Wen  , Haoxiang Jia  , Xiaochen Guo  , Xiaotong Huang  , Deqing Zou  , Hai Jin    
+  DOI 
+ Quantitative Policy Repair for Access Control on the Cloud  Technical Papers   
+ William Eiers  , Ganesh Sankaran  , Tevfik Bultan    
+  DOI 
+ Rare Path Guided Fuzzing  Technical Papers   
+ Seemanta Saha  , Laboni Sarker  , Md Shafiuzzaman  , Chaofan Shou  , Albert Li  , Ganesh Sankaran  , Tevfik Bultan    
+  DOI 
+ Reducing the Memory Footprint of IFDS-Based Data-Flow Analyses using Fine-Grained Garbage Collection ACM SIGSOFT Distinguished Artifact     Technical Papers   
+ Dongjie He  , Yujiang Gui  , Yaoqing Gao  , Jingling Xue    
+  DOI 
+ RefBERT: A Two-Stage Pre-trained Framework for Automatic Rename Refactoring  Technical Papers   
+ Hao Liu  , Yanlin Wang  , Zhao Wei  , Yong Xu  , Juhong Wang  , Hui Li  , Rongrong Ji    
+  DOI   Pre-print 
+ ROME: Testing Image Captioning Systems via Recursive Object Melting  Technical Papers   
+ BoXi Yu  , Zhiqing Zhong  , Jiaqi Li  , Yixing Yang  , Shilin He  , Pinjia He    
+  DOI 
+ SBDT: Search-Based Differential Testing of Certificate Parsers in SSL/TLS Implementations  Technical Papers   
+ Chu Chen  , Pinghong Ren  , Zhenhua Duan  , Cong Tian  , Xu Lu  , Bin Yu    
+  DOI 
+ Security Checking of Trigger-Action-Programming Smart Home Integrations  Technical Papers   
+ Lei Bu  , Qiuping Zhang  , Suwan Li  , Jinglin Dai  , Guangdong Bai  , Kai Chen  , Xuandong Li    
+  DOI 
+ Semantic-Based Neural Network Repair  Technical Papers   
+ Richard Schumi  , Jun Sun    
+  DOI 
+ Silent Compiler Bug De-duplication via Three-Dimensional Analysis  Technical Papers   
+ Chen Yang  , Junjie Chen  , Xingyu Fan  , Jiajun Jiang  , Jun Sun    
+  DOI 
+ Simulation-Based Validation for Autonomous Driving Systems  Technical Papers   
+ Changwen Li  , Joseph Sifakis  , Qiang Wang  , Rongjie Yan  , Jian Zhang    
+  DOI 
+ SlipCover: Near Zero-Overhead Code Coverage for Python  Technical Papers   
+ Juan Altmayer Pizzorno  , Emery D. Berger    
+  DOI 
+ SmartState: Detecting State-Reverting Vulnerabilities in Smart Contracts via Fine-Grained State-Dependency Analysis  Technical Papers   
+ Zeqin Liao  , Sicheng Hao  , Yuhong Nan  , Zibin Zheng    
+  DOI 
+ Splendor: Static Detection of Stored XSS in Modern Web Applications  Technical Papers   
+ He Su  , Feng Li  , Lili Xu  , Wenbo Hu  , Yujie Sun  , Qing Sun  , Huina Chao  , Wei Huo    
+  DOI 
+ Synthesizing Speech Test Cases with Text-to-Speech? An Empirical Study on the False Alarms in Automated Speech Recognition Testing  Technical Papers   
+ Julia Kaiwen Lau  , Kelvin Kai Wen Kong  , Julian Hao Yong  , Per Hoong Tan  , Zhou Yang  , Zi Qian Yong  , Joshua Chern Wey Low  , Chun Yong Chong  , Mei Kuan Lim  , David Lo    
+  DOI 
+ Systematically Producing Test Orders to Detect Order-Dependent Flaky Tests  Technical Papers   
+ Chengpeng Li  , M. Mahdi Khosravi  , Wing Lam  , August Shi    
+  DOI 
+ Systematic Testing of the Data-Poisoning Robustness of KNN  Technical Papers   
+ Yannan Li  , Jingbo Wang  , Chao Wang    
+  DOI 
+ Tai-e: A Developer-Friendly Static Analysis Framework for Java by Harnessing the Good Designs of Classics  Technical Papers   
+ Tian Tan  , Yue Li    
+  DOI   Pre-print 
+ Testing Automated Driving Systems by Breaking Many Laws Efficiently  Technical Papers   
+ Xiaodong Zhang  , Zhao Wei  , Yang Sun  , Jun Sun  , Yulong Shen  , Xuewen Dong  , Zijiang Yang    
+  DOI 
+ Testing Graph Database Engines via Query Partitioning  Technical Papers   
+ Matteo Kamm  , Manuel Rigger  , Chengyu Zhang  , Zhendong Su    
+  DOI 
+ Testing the Compiler for a New-Born Programming Language: An Industrial Case Study (Experience Paper)  Technical Papers   
+ Yingquan Zhao  , Junjie Chen  , Ruifeng Fu  , Haojie Ye  , Zan Wang    
+  DOI 
+ ωTest: WebView-Oriented Testing for Android Applications  Technical Papers   
+ Jiajun Hu  , Lili Wei  , Yepang Liu  , Shing-Chi Cheung    
+  DOI 
+ That’s a Tough Call: Studying the Challenges of Call Graph Construction for WebAssembly ACM SIGSOFT Distinguished Artifact     Technical Papers   
+ Daniel Lehmann  , Michelle Thalakottur  , Frank Tip  , Michael Pradel    
+  DOI 
+ Third-Party Library Dependency for Large-Scale SCA in the C/C++ Ecosystem: How Far Are We?  Technical Papers   
+ Ling Jiang  , Hengchen Yuan  , Qiyi Tang  , Sen Nie  , Shi Wu  , Yuqun Zhang    
+  DOI 
+ To Kill a Mutant: An Empirical Study of Mutation Testing Kills  Technical Papers   
+ Hang Du  , Vijay Krishna Palepu  , James Jones    
+  DOI 
+ Toward Automated Detecting Unanticipated Price Feed in Smart Contract  Technical Papers   
+ Yifan Mo  , Jiachi Chen  , Yanlin Wang  , Zibin Zheng    
+  DOI 
+ Towards Efficient Fine-Tuning of Pre-trained Code Models: An Experimental Study and Beyond  Technical Papers   
+ Ensheng Shi  , Yanlin Wang  , Hongyu Zhang  , Lun Du  , Shi Han  , Dongmei Zhang  , Hongbin Sun    
+  DOI 
+ Towards More Realistic Evaluation for Neural Test Oracle Generation  Technical Papers   
+ Zhongxin Liu  , Kui Liu  , Xin Xia  , Xiaohu Yang    
+  DOI   Pre-print 
+ Transforming Test Suites into Croissants  Technical Papers   
+ Yang Chen  , Alperen Yildiz  , Darko Marinov  , Reyhaneh Jabbarvand    
+  DOI 
+ Type Batched Program Reduction  Technical Papers   
+ Golnaz Gharachorlu  , Nick Sumner    
+  DOI 
+ Understanding and Tackling Label Errors in Deep Learning-Based Vulnerability Detection (Experience Paper)  Technical Papers   
+ XuNie  , Ningke Li  , Kailong Wang  , Shangguang Wang  , Xiapu Luo  , Haoyu Wang    
+  DOI 
+ Understanding Breaking Changes in the Wild  Technical Papers   
+ Dhanushka Jayasuriya  , Valerio Terragni  , Jens Dietrich  , Samuel Ou  , Kelly Blincoe    
+  DOI 
+ Validating Multimedia Content Moderation Software via Semantic Fusion  Technical Papers   
+ Wenxuan Wang  , Jingyuan Huang  , Chang Chen  , Jiazhen Gu  , Jianping Zhang  , Weibin Wu  , Pinjia He  , Michael Lyu    
+  DOI 
+ Vectorizing Program Ingredients for Better JVM Testing  Technical Papers   
+ Tianchang Gao  , Junjie Chen  , Yingquan Zhao  , Yuqun Zhang  , Lingming Zhang    
+  DOI 
+ Virtual Reality (VR) Automated Testing in the Wild: A Case Study on Unity-Based VR Applications  Technical Papers   
+ Dhia Elhaq Rzig  , Nafees Iqbal  , Isabella Attisano  , Xue Qin  , Foyzul Hassan    
+  DOI 
+ What You See Is What You Get? It Is Not the Case! Detecting Misleading Icons for Mobile Applications  Technical Papers   
+ Linlin Li  , Ruifeng Wang  , Xian Zhan  , Ying Wang  , Cuiyun Gao  , Sinan Wang  , Yepang Liu    
+  DOI 
+ Who Judges the Judge: An Empirical Study on Online Judge Tests  Technical Papers   
+ Kaibo Liu  , Yudong Han  , Jie M. Zhang  , Zhenpeng Chen  , Federica Sarro  , Mark Harman  , Gang Huang  , Yun Ma    
+  DOI 
+
+ Call for Papers  
+  
+ ISSTA invites three kinds of submissions. The clear majority of submissions is expected to be “Research Papers”, but submissions that best fit the description of “Experience Papers” or “Replicability Studies” should be submitted as such.  
+ Research Papers   
+ Authors are invited to submit research papers describing original contributions in testing or analysis of computer software. Papers describing original theoretical or empirical research, new techniques, methods for emerging systems, in-depth case studies, infrastructures of testing and analysis, or tools are welcome.  
+ Experience Papers   
+ Authors are invited to submit experience papers describing a significant experience in applying software testing and analysis methods or tools and should carefully identify and discuss important lessons learned so that other researchers and/or practitioners can benefit from the experience. Of special interest are experience papers that report on industrial applications of software testing and analysis methods or tools.  
+ Replicability Studies   
+ ISSTA would like to encourage researchers to replicate results from previous papers. A replicability study must go beyond simply re-implementing an algorithm and/or re-running the artifacts provided by the original paper. It should at the very least apply the approach to new, significantly broadened inputs. Particularly, replicability studies are encouraged to target techniques that previously were evaluated only on proprietary subject programs or inputs. A replicability study should clearly report on results that the authors were able to replicate as well as on aspects of the work that were not replicable. In the latter case, authors are encouraged to make an effort to communicate or collaborate with the original paper’s authors to determine the cause for any observed discrepancies and, if possible, address them (e.g., through minor implementation changes). We explicitly encourage authors to not focus on a single paper/artifact only, but instead to perform a comparative experiment of multiple related approaches.  
+ In particular, replicability studies should follow the ACM guidelines on replicability (different team, different experimental setup): The measurement can be obtained with stated precision by a different team, a different measuring system, in a different location on multiple trials. For computational experiments, this means that an independent group can obtain the same result using artifacts which they develop completely independently. This means that it is also insufficient to focus on reproducibility (i.e., different team, same experimental setup) alone. Replicability Studies will be evaluated according to the following standards:  
+ Depth and breadth of experiments 
+  Clarity of writing 
+  Appropriateness of conclusions 
+  Amount of useful, actionable insights 
+  Availability of artifacts 
+  We expect replicability studies to clearly point out the artifacts the study is built on, and to submit those artifacts to artifact evaluation (see below). Artifacts evaluated positively will be eligible to obtain the prestigious Results Reproduced badge.  
+ Dual Submission Deadlines and Major Revisions   
+ ISSTA 2023 features two submission deadlines: An early submission deadline (November 10, 2022) and a regular submission deadline (February 16, 2023). The instructions in this call apply to both deadlines. You can choose to submit at either deadline, but only papers submitted to the first deadline may  receive a chance to submit a major revision  of the initial submission to the regular deadline, addressing the reviewer comments. Papers submitted to the regular deadline will be decided using only the traditional paper outcomes of accept or reject.  
+ Submission Guidelines   
+ Submissions must be original and should not have been published previously or be under consideration for publication while being evaluated for ISSTA. Authors are required to adhere to the ACM Policy and Procedures on Plagiarism  and the ACM Policy on Prior Publication and Simultaneous Submissions  .  
+ Research Papers, Experience Papers, and Replicability Studies should be at most 10 pages in length, with at most 2 additional pages for references. Experience papers and replicability studies should clearly specify their category in the paper title upon submission, e.g., “XXX (Experience Paper)”. All authors should use the official “ACM Master article template”, which can be obtained from the ACM Proceedings Template  pages. Latex users should use the “sigconf” option, as well as the “review” (to produce line numbers for easy reference by the reviewers) and “anonymous” (omitting author names) options. To that end, the following Latex code can be placed at the start of the Latex document:  
+ \documentclass[sigconf,review, anonymous]{acmart} \acmConference[ISSTA 2023]{ACM SIGSOFT International Symposium on Software Testing and Analysis}{17-21 July, 2023}{Seattle, USA}   Submit your papers via the HotCRP ISSTA 2023 submission website  .  
+ Each submission will be reviewed by at least three members of the program committee. Authors will have an opportunity to respond to reviews during a rebuttal period. Submissions will be evaluated on the basis of originality, importance of contribution, soundness, evaluation, quality of presentation and appropriate comparison to related work. Some papers may have more than three reviews, as the PC chair may solicit additional reviews based on factors such as reviewer expertise and strong disagreement between reviewers. The authors will have a chance to read the additional reviews and respond to them during the additional short response period. The program committee as a whole will make final decisions about which submissions to accept for presentation at the conference.  
+ Double-blind Reviewing   
+ ISSTA 2023 will conduct double-blind reviewing. Submissions should not reveal the identity of the authors in any way. Authors should leave out author names and affiliations from the body of their submission. They should also ensure that any citations to related work by themselves are written in third person, that is, “the prior work of XYZ” as opposed to “our prior work”.  
+ Double-blind reviewing should not hinder the usual communication of results. But, during the review period, please don’t broadcast the work on social media. Also, to the extent possible, consider not publishing preprints of your work during or right before the review period. If the authors have already published a version of their paper to arXiv or similar sites, we request authors to use a different title for their submission, so that author names are not inadvertently disclosed, e.g., via a notification on Google Scholar.  
+ Authors with further questions on double-blind reviewing are encouraged to contact the Program Chair by email.  
+ Open Science Policy   
+ ISSTA has adopted an open science policy. Openness in science is key to fostering scientific progress via transparency, reproducibility, and replicability. The steering principle is that all research results should be accessible to the public, if possible, and that empirical studies should be reproducible. In particular, we actively support the adoption of open data and open source principles and encourage all contributing authors to disclose (anonymized and curated) data to increase reproducibility and replicability.  
+ Upon submission, authors are asked to make their data available to the program committee (via upload of anonymized supplemental material or a link to an anonymized private or public repository) or to comment on why this is not possible or desirable. While sharing such a repository is not mandatory for submission or acceptance, this information will be passed to the program committee to inform its decision. Furthermore, authors are asked to indicate whether they intend to make their data publicly available upon acceptance.  
+ Authors Take Note:   
+ The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to two weeks prior to the first day of your conference. The official publication date affects the deadline for any patent filings related to published work.  
+
+ Important Dates   AoE (UTC-12h)     
+
+ Wed 3 May 2023  
+  Second round paper notification 
+ Tue 11 - Thu 13 Apr 2023  
+  Second round author response 
+ Thu 16 Feb 2023  
+  Second round submission deadline 
+ Mon 16 Jan 2023  
+  First round paper notification 
+ Tue 20 - Thu 22 Dec 2022  
+  First round author response 
+ Thu 10 Nov 2022  
+  First round submission deadline 
+
+ Submission Link   
+   
+   https://issta2023.hotcrp.com     
+   
+ Technical Papers    
+   
+ Gordon Fraser PC Chair    
+ University of Passau 
+  Nazareno Aguirre    
+ University of Rio Cuarto and CONICET, Argentina 
+  Sébastien Bardin    
+ CEA LIST, University Paris-Saclay   
+ France 
+  Earl T. Barr    
+ University College London; Google DeepMind   
+ United Kingdom 
+  Jonathan Bell    
+ Northeastern University   
+ United States 
+  Alexandre Bergel    
+ University of Chile   
+ Chile 
+  Domenico Bianculli    
+ University of Luxembourg   
+ Luxembourg 
+  Tegawendé F. Bissyandé    
+ University of Luxembourg   
+ Luxembourg 
+  Tegan Brennan    
+ Stevens Institute of Technology   
+ United States 
+  Marcel Böhme    
+ MPI-SP; Monash University   
+ Germany 
+  Cristian Cadar    
+ Imperial College London   
+ United Kingdom 
+  Junjie Chen    
+ Tianjin University   
+ China 
+  Shing-Chi Cheung    
+ Hong Kong University of Science and Technology   
+ China 
+  Myra Cohen    
+ Iowa State University   
+ United States 
+  Elisabetta Di Nitto    
+ Politecnico di Milano   
+ Italy 
+  Julian Dolby    
+ IBM Research   
+ United States 
+  Alastair F. Donaldson    
+ Imperial College London   
+ United Kingdom 
+  Yang Feng    
+ Nanjing University   
+ China 
+  Fabiano Ferrari    
+ Federal University of São Carlos   
+ Brazil 
+  Bernd Fischer    
+ Stellenbosch University   
+ South Africa 
+  Juan Pablo Galeotti    
+ University of Buenos Aires   
+ Argentina 
+  Alessio Gambi    
+ IMC University of Applied Sciences Krems   
+ Austria 
+  Rahul Gopinath    
+ University of Sydney   
+ Australia 
+  Alex Groce    
+ Northern Arizona University   
+ United States 
+  William G.J. Halfond    
+ University of Southern California   
+ United States 
+  Sylvain Hallé    
+ Université du Québec à Chicoutimi   
+ Canada 
+  Christian Hammer    
+ University of Passau   
+ Germany 
+  Reyhaneh Jabbarvand    
+ University of Illinois at Urbana-Champaign   
+ United States 
+  Gunel Jahangirova    
+ King's College London   
+ United Kingdom 
+  James Jones    
+ University of California at Irvine   
+ United States 
+  Gregory Kapfhammer    
+ Allegheny College   
+ United States 
+  Martin Kellogg    
+ New Jersey Institute of Technology   
+ United States 
+  Moonzoo Kim    
+ KAIST / VPlusLab Inc.   
+ South Korea 
+  Jacques Klein    
+ University of Luxembourg   
+ Luxembourg 
+  Wing Lam    
+ George Mason University   
+ United States 
+  Owolabi Legunsen    
+ Cornell University   
+ United States 
+  Caroline Lemieux    
+ University of British Columbia   
+ Canada 
+  Sherlock A. Licorish    
+ University of Otago   
+ New Zealand 
+  Mario Linares-Vásquez    
+ Universidad de los Andes   
+ Colombia 
+  David Lo    
+ Singapore Management University   
+ Singapore 
+  Jian-Guang Lou    
+ Microsoft Research   
+ China 
+  Linghui Luo    
+ Amazon Web Services   
+ Germany 
+  Jie M. Zhang    
+ King’s College London   
+ United Kingdom 
+  Leonardo Mariani    
+ University of Milano-Bicocca   
+ Italy 
+  Anastasia Mavridou    
+ KBR / NASA Ames Research Center 
+  Phil McMinn    
+ University of Sheffield   
+ United Kingdom 
+  Ali Mesbah    
+ University of British Columbia (UBC) 
+  Chandrakana Nandi    
+ Certora   
+ United States 
+  ThanhVu Nguyen    
+ George Mason University   
+ United States 
+  Yannic Noller    
+ National University of Singapore   
+ Singapore 
+  Hakjoo Oh    
+ Korea University   
+ South Korea 
+  Alex Orso    
+ Georgia Institute of Technology   
+ United States 
+  Hila Peleg    
+ Technion   
+ Israel 
+  Mauro Pezze    
+ USI Lugano; Schaffhausen Institute of Technology   
+ Switzerland 
+  Andy Podgurski    
+ Case Western University 
+  Michael Pradel    
+ University of Stuttgart   
+ Germany 
+  Han Qiu    
+ Tsinghua University   
+ China 
+  Ajitha Rajan    
+ University of Edinburgh   
+ United Kingdom 
+  Baishakhi Ray    
+ Columbia University   
+ United States 
+  José Miguel Rojas    
+ The University of Sheffield   
+ United Kingdom 
+  Abhik Roychoudhury    
+ National University of Singapore   
+ Singapore 
+  Guido Salvaneschi    
+ University of St. Gallen   
+ Switzerland 
+  Sergio Segura    
+ University of Seville   
+ Spain 
+  Koushik Sen    
+ University of California at Berkeley   
+ United States 
+  Elena Sherman    
+ Boise State University   
+ United States 
+  August Shi    
+ University of Texas at Austin   
+ United States 
+  Saurabh Sinha    
+ IBM Research   
+ United States 
+  Manu Sridharan    
+ University of California at Riverside   
+ United States 
+  Jun Sun    
+ Singapore Management University   
+ Singapore 
+  Shin Hwei Tan    
+ Concordia University, Canada   
+ Canada 
+  Valerio Terragni    
+ University of Auckland   
+ New Zealand 
+  Rachel Tzoref-Brill    
+ IBM Research   
+ Israel 
+  Willem Visser    
+ Stellenbosch University   
+ South Africa 
+  Neil Walkinshaw    
+ University of Sheffield   
+ United Kingdom 
+  Shuai Wang    
+ Hong Kong University of Science and Technology   
+ China 
+  Shiyi Wei    
+ University of Texas at Dallas   
+ United States 
+  Stefan Winter    
+ LMU Munich   
+ Germany 
+  Shin Yoo    
+ KAIST   
+ South Korea 
+  Michal Young    
+ University of Oregon   
+ United States 
+  Tingting Yu    
+ University of Cincinnati   
+ United States 
+  Andreas Zeller    
+ CISPA Helmholtz Center for Information Security   
+ Germany 
+  Chao Zhang    
+ Tsinghua University   
+ China 
+  Charles Zhang    
+ Hong Kong University of Science and Technology   
+ China 
+  Lingming Zhang    
+ University of Illinois at Urbana-Champaign   
+ United States 
+  Lu Zhang    
+ Peking University   
+ China 
+  Marcelo d'Amorim    
+ North Carolina State University   
+ United States 
+  Arie van Deursen    
+ Delft University of Technology   
+ Netherlands 
+
+ x  Mon 25 Nov 09:41    
+
+  ISSTA 2023   
+  using conf.researchr.org  ( v1.67.1  )  
+   Support page    
+     
+ Tracks  
+ Technical Papers   
+  Artifact Evaluation   
+  Tool Demonstrations   
+  Keynotes   
+   
+  ECOOP and ISSTA 2023  
+ Doctoral Symposium   
+  Keynotes   
+  Sponsorships   
+  Student Research Competition   
+  Student Volunteers   
+  Workshops    
+ Workshops  
+ COP 2023   
+  DEBT 2023   
+  FTfJP 2023   
+  FUZZING 2023   
+  ICOOOLPS 2023   
+  VORTEX 2023    
+
+ Attending  
+ Venue: Seattle   
+  Travel Support   
+  ECOOP/ISSTA Code of Conduct   
+  ECOOP/ISSTA Covid-19 Disclosure & Liability Waiver   
+  Accommodation   
+  ECOOP / ISSTA 2023 Registration Is Open   
+  Visas

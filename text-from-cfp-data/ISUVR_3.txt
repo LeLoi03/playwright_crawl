@@ -1,0 +1,859 @@
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    
+
+
+<div class="page-container">
+
+          <div class="header-container">
+
+                      <div class="clearfix header-top-highlighted region--dark-typography region--white-background region--no-paddings">
+          <div class="container">
+                        <div class="clearfix header-top-highlighted__container">
+              <div class="row">
+                                  <div class="col-12">
+                                        <div class="clearfix header-top-highlighted__section header-top-highlighted-first">
+                        <div class="region region-header-top-highlighted-first">
+    <div id="block-secondarymenucustom" class="clearfix block block-block-content block-block-content69d4d2a9-539a-4116-9578-74cf936b01cb">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><nav class="navbar-expand-sm">
+<ul class="navbar-nav justify-content-center secondary-menu">
+	<li><a class="nav-link secondary-menu-a" href="./../../librarytour">Library Tour</a></li>
+	<li><a class="nav-link secondary-menu-a" href="./../../our-team">Our Team</a></li>
+	<li><a class="nav-link secondary-menu-a" href="http://libcat.iitd.ac.in" target="_blank">Web OPAC</a></li>
+	<li><a class="nav-link secondary-menu-a" href="./../../our-location">Contact Us</a></li>
+	<li><a class="nav-link secondary-menu-a" href="https://library.iitd.ac.in/LibraryLiteraryClub">Library Literary Club</a></li>
+	<li><a class="nav-link secondary-menu-a" href="./../../imp-links">Imp. Links/FAQs</a></li>
+	<li><a class="nav-link secondary-menu-a" href="http://ird.iitd.ac.in">IRD</a></li>
+	<li><a class="nav-link secondary-menu-a" href="https://play.google.com/store/apps/details?id=com.iitd.cl">Library App</a> <!--<li><a class="nav-link secondary-menu-a" href=" https://play.google.com/store/apps/details?id=com.iitdelhieds&amp;hl=en">Single Window Search for Central Library</a></li>--></li>
+	<li><a class="nav-link secondary-menu-a" href="http://www.iitd.ac.in">IITD Home</a></li>
+</ul>
+</nav>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+                    </div>
+                                      </div>
+                                              </div>
+            </div>
+                      </div>
+        </div>
+              
+      
+                      <header role="banner" class="clearfix header region--light-typography region--colored-background fixed-width three-columns">
+          <div class="container">
+                        <div class="clearfix header__container">
+              <div class="row">
+                                                  <div class="col-md-5">                    <div class="clearfix header__section header-first">
+                        <div class="region region-header-first">
+    <div id="block-conference-lite-branding" class="clearfix site-branding block block-system block-system-branding-block">
+  
+    
+    <div class="logo-and-site-name-wrapper clearfix">
+          <div class="logo">
+        <a href="/" title="Home" rel="home" class="site-branding__logo">
+          <img src="/sites/default/files/merge_from_ofoct.png" alt="Home" class="newlogo">
+        </a>
+      </div>
+              <div class="site-name site-branding__name">
+        <a href="/" title="Home" rel="home">Central Library, Indian Institute of Technology Delhi</a>
+      </div>
+              <div class="site-slogan site-branding__slogan">केंद्रीय पुस्तकालय, भारतीय प्रौद्योगिकी संस्थान दिल्ली</div>
+      </div>
+</div>
+
+  </div>
+
+                    </div>
+                                      </div>
+                                                  <div class="col-md-5">                    <div class="clearfix header__section header-second">
+                        <div class="region region-header">
+    <div id="block-mainnavigation-2" class="clearfix block block-superfish block-superfishmain">
+  
+    
+      <div class="content">
+      
+<ul id="superfish-main" class="menu sf-menu sf-main sf-horizontal sf-style-none">
+  
+<li id="main-standardfront-page" class="sf-depth-1 sf-no-children"><a href="/" class="sf-depth-1">Home</a></li><li id="main-menu-link-contentb0a0cfbe-89fe-4a5e-8c17-35d836b42227" class="sf-depth-1 menuparent"><span title="About us" class="sf-depth-1 menuparent nolink">About us</span><ul><li id="main-menu-link-content78b8daec-9ecc-4804-a388-f1edb4ce38e2" class="sf-depth-2 sf-no-children"><a href="/library-collection" title="Collection" class="sf-depth-2">Collection</a></li><li id="main-menu-link-content6b22ce8d-2c0d-4911-99b2-e47d3005011a" class="sf-depth-2 sf-no-children"><a href="https://library.iitd.ac.in/pdf/BestPrac-IITDLibrarySystem2024.pdf" class="sf-depth-2 sf-external">Best Practices</a></li><li id="main-menu-link-content7d8d6695-7bc8-4016-b578-bcd67786c0c0" class="sf-depth-2 sf-no-children"><a href="/digitization-of-PhD-theses" class="sf-depth-2">Digitization of PhD Theses</a></li><li id="main-menu-link-contentf27271e8-f367-4520-a12b-1b04657698c8" class="sf-depth-2 sf-no-children"><a href="https://library.iitd.ac.in/pdf/ACL-2023-24.pdf" class="sf-depth-2 sf-external">ACL Members</a></li><li id="main-menu-link-contentb93b1c43-f003-4e60-b573-6f8a899411ed" class="sf-depth-2 sf-no-children"><a href="/general-rules" class="sf-depth-2">General Rules</a></li><li id="main-menu-link-content4b92f640-5190-47ec-a9ce-2a1322882b6e" class="sf-depth-2 sf-no-children"><a href="/service-hours" class="sf-depth-2">Service Hours</a></li><li id="main-menu-link-content34f406c0-bb37-42ed-8bdd-3e1abff14a9e" class="sf-depth-2 sf-no-children"><a href="/layout-floor-plan" class="sf-depth-2">Layout Floor Plan</a></li></ul></li><li id="main-menu-link-content2699f066-78b7-4e2f-8bc6-299924f27116" class="sf-depth-1 menuparent"><span class="sf-depth-1 menuparent nolink">Intranet Services</span><ul><li id="main-menu-link-contentf21958eb-5eb8-4df5-90fc-353faaaa73d1" class="sf-depth-2 sf-no-children"><a href="http://libcat.iitd.ac.in" class="sf-depth-2 sf-external">Web OPAC</a></li><li id="main-menu-link-content8be7b08c-04a1-49ef-adbd-f82c7585235f" class="sf-depth-2 sf-no-children"><a href="https://internal.iitd.ernet.in/" class="sf-depth-2 sf-external">Internal Website</a></li><li id="main-menu-link-content8d8b2a25-835e-4a19-a698-712cd0ae40ac" class="sf-depth-2 sf-no-children"><a href="https://idp.iitd.ac.in/" class="sf-depth-2 sf-external">Remote Access</a></li><li id="main-menu-link-content816aa380-8e8d-4dea-89b1-9e11f4fcff4d" class="sf-depth-2 sf-no-children"><a href="https://webmail.iitd.ac.in/roundcube/" class="sf-depth-2 sf-external">IITD Roundcube Email</a></li><li id="main-menu-link-content8ac24e2a-e439-43c7-8104-4e6317779c31" class="sf-depth-2 sf-no-children"><a href="https://webmail.iitd.ac.in/webmail/src/login.php" class="sf-depth-2 sf-external">IITD Squirrelmail Email</a></li><li id="main-menu-link-content36685794-e100-4f1d-8eb3-f36f139bcce5" class="sf-depth-2 sf-no-children"><a href="https://library.iitd.ac.in/obrs" class="sf-depth-2 sf-external"> Online Book Recommendation System (New)</a></li><li id="main-menu-link-content88c1b0e1-b90b-448e-ac82-bfdf755f6358" class="sf-depth-2 sf-no-children"><a href="https://libstaff.iitd.ac.in/" title="LMS Login (Staff)" class="sf-depth-2 sf-external">LMS Login (Staff)</a></li><li id="main-menu-link-content94782257-68a7-49d8-b3ad-be43aa67eb9c" class="sf-depth-2 menuparent"><a href="/Office%20Orders" class="sf-depth-2 menuparent">Office Orders</a><ul><li id="main-menu-link-contente822a93f-c18d-465f-9f08-ed48620958a8" class="sf-depth-3 sf-no-children"><a href="/Duty_Roster" class="sf-depth-3">Duty Roster</a></li><li id="main-menu-link-content2277411f-cbf3-4bc5-ad75-a2185d703cde" class="sf-depth-3 sf-no-children"><a href="/../../orders/OfficeOrder20240401.pdf" class="sf-depth-3">Major Duties, Sections and Inchargeship</a></li></ul></li></ul></li><li id="main-menu-link-content13b747aa-2127-461f-97df-1567d9fcc9ff" class="sf-depth-1 sf-no-children"><a href="/node/83255" class="sf-depth-1">Our Vision &amp; Mission </a></li><li id="main-menu-link-contentd15764b7-8dca-43d1-b608-cee9be439fea" class="sf-depth-1 menuparent"><span class="sf-depth-1 menuparent nolink">Services</span><ul><li id="main-menu-link-content6924b514-2d36-4557-adbd-82153e42ed61" class="sf-depth-2 sf-no-children"><a href="/bindery-service" class="sf-depth-2">Bindery Service</a></li><li id="main-menu-link-content853651b2-5092-4e83-8dc1-3ad1d7d3a0ef" class="sf-depth-2 sf-no-children"><a href="/ILL" class="sf-depth-2">Inter Library Loan</a></li><li id="main-menu-link-content54791ecb-8070-42e7-9a02-f731a3f87029" class="sf-depth-2 sf-no-children"><a href="/membership" class="sf-depth-2">Membership</a></li><li id="main-menu-link-contentcf924c23-6778-4e54-8c0e-5cba876db9fa" class="sf-depth-2 sf-no-children"><a href="/photocopy-service" class="sf-depth-2">Photocopy Service</a></li><li id="main-menu-link-content68399bc1-c5a4-4256-80f9-cac5c8e1b0ac" class="sf-depth-2 sf-no-children"><a href="/ref-services" class="sf-depth-2">Reference Services</a></li><li id="main-menu-link-content199b4510-6bc2-485d-a261-5164203a38cc" class="sf-depth-2 sf-no-children"><a href="https://library.iitd.ac.in/rss-and-outreach-program" title="Research Support Services and Outreach Programs" class="sf-depth-2 sf-external">Research Support Services and Outreach Programs</a></li></ul></li>
+</ul>
+
+    </div>
+  </div>
+
+  </div>
+
+                    </div>
+                                      </div>
+                              </div>
+            </div>
+                      </div>
+        </header>
+              
+    </div>
+      
+    
+  
+      <div class="system-messages clearfix">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-12">
+              <div class="region region-system-messages">
+    <div id="block-conference-lite-breadcrumbs" class="clearfix block block-system block-system-breadcrumb-block">
+  
+    
+      <div class="content">
+      
+  <nav class="breadcrumb" role="navigation" aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+    <ol class="breadcrumb__items">
+          <li class="breadcrumb__item">
+        <span class="breadcrumb__item-separator fas fa-angle-right"></span>
+                  <a href="/">
+            <span>Home</span>
+          </a>
+              </li>
+          <li class="breadcrumb__item">
+        <span class="breadcrumb__item-separator fas fa-angle-right"></span>
+                  <a href="/node">
+            <span>Node</span>
+          </a>
+              </li>
+          <li class="breadcrumb__item">
+        <span class="breadcrumb__item-separator fas fa-angle-right"></span>
+                  <span>Ubiquitous Virtual Reality, ISUVR, International Symposium on</span>
+              </li>
+        </ol>
+  </nav>
+
+    </div>
+  </div>
+<div data-drupal-messages-fallback="" class="hidden"></div>
+
+  </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  
+  
+  
+            <div id="main-content" class="clearfix main-content region--dark-typography region--white-background  region--no-separator">
+      <div class="container">
+        <div class="clearfix main-content__container">
+          <div class="row">
+          <section class="col-lg-8 order-lg-2">
+                            <div class="clearfix main-content__section">
+                                    <div class="region region-content">
+    <div id="block-conference-lite-page-title" class="clearfix block block-core block-page-title-block">
+  
+    
+      <div class="content">
+      
+  <h1 class="title page-title"><span class="field field--name-title field--type-string field--label-hidden">Ubiquitous Virtual Reality, ISUVR, International Symposium on</span>
+</h1>
+
+
+    </div>
+  </div>
+<div id="block-conference-lite-content" class="clearfix block block-system block-system-main-block">
+  
+    
+      <div class="content">
+      
+
+<article data-history-node-id="24789" role="article" about="/node/24789" class="node node--type-a-to-z-resources node--promoted node--view-mode-full clearfix">
+  <div class="node__container">
+            <div class="node__main-content clearfix">
+      <header class="node__header">
+                  
+                    
+                      <div class="node__meta">
+              <article typeof="schema:Person" about="/user/1" class="profile">
+  </article>
+
+              <span class="node__submitted-info">
+                <span class="node__submitted-info-text">By</span> <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="/user/1" typeof="schema:Person" property="schema:name" datatype="">clibrary</span></span>
+ on 
+                  <span class="node__submitted-date">
+                    <span class="field field--name-created field--type-created field--label-hidden">Fri, 10/22/2021 - 19:58</span>
+
+                  </span>              </span>
+              
+            </div>
+                        </header>
+              
+  <div class="clearfix text-formatted field field--name-field-publisher field--type-text field--label-above">
+    <div class="field__label">Publisher</div>
+              <div class="field__item"><p>IEEE</p>
+</div>
+          </div>
+
+  <div class="clearfix text-formatted field field--name-field-subject field--type-text field--label-above">
+    <div class="field__label">Subject</div>
+              <div class="field__item"><p>Computing and Processing; Signal Processing and Analysis</p>
+</div>
+          </div>
+
+  <div class="clearfix text-formatted field field--name-field-access-from field--type-text field--label-above">
+    <div class="field__label">Access From</div>
+              <div class="field__item"><p>2008</p>
+</div>
+          </div>
+
+  <div class="field field--name-field-url field--type-link field--label-above">
+    <div class="field__label">URL</div>
+              <div class="field__item"><a href="https://ieeexplore.ieee.org/servlet/opac?punumber=1002009">https://ieeexplore.ieee.org/servlet/opac?punumber=1002009</a></div>
+          </div>
+
+  <div class="clearfix text-formatted field field--name-field-collection field--type-text field--label-above">
+    <div class="field__label">Collection</div>
+              <div class="field__item"><p>IEL Online</p>
+</div>
+          </div>
+
+          </div>
+  </div>
+</article>
+
+    </div>
+  </div>
+
+  </div>
+
+                              </div>
+                          </section>
+                        <aside class="col-lg-2 order-lg-1">
+                                <section class="sidebar__section sidebar-first clearfix">
+                    <div class="region region-sidebar-first">
+    <nav role="navigation" aria-labelledby="block-sections-menu" id="block-sections" class="clearfix block block-menu navigation menu--sections">
+      
+  <h2 id="block-sections-menu">SECTIONS</h2>
+  
+
+        
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="/computer-application-division" title="Computer Applications Division" data-drupal-link-system-path="node/45">Computer Applications Division</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/membership" title="Reader Services Division" data-drupal-link-system-path="node/22">Reader Services Division</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/membership" title="Membership" data-drupal-link-system-path="node/22">Membership</a>
+              </li>
+                <li class="menu-item">
+        <a href="/ILL" title="Inter Library Loan" data-drupal-link-system-path="node/21">Inter Library Loan</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/CDD" title="Collection Development Division" data-drupal-link-system-path="node/46">Collection Development Division</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/book-exhibition" title="Book Exhibition" data-drupal-link-system-path="node/13639">Book Exhibition</a>
+              </li>
+                <li class="menu-item">
+        <a href="/book-recommendation" title="Book Recommendation Form" data-drupal-link-system-path="node/4259">Book Recommendation Form</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://library.iitd.ac.in/obrs">Online Book Recommendation System (New)</a>
+              </li>
+                <li class="menu-item">
+        <a href="/new-arrivals" title="New Arrivals" data-drupal-link-system-path="new-arrivals">List of New Arrivals (Books)</a>
+              </li>
+                <li class="menu-item">
+        <a href="/approved-vendors" title="List of Approved Vendors" data-drupal-link-system-path="node/47">List of Approved Vendors</a>
+              </li>
+                <li class="menu-item">
+        <a href="/Pathfinder" title="Pathfinder" data-drupal-link-system-path="node/83026">Pathfinder</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item">
+        <a href="/TPD" title="Technical Processing Division" data-drupal-link-system-path="node/79923">Technical Processing Division</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/ERD" title="Electronic Resources Division" data-drupal-link-system-path="node/48">Electronic Resources Division</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/new_resources_24" data-drupal-link-system-path="node/83211">New Resources Added in 2024</a>
+              </li>
+                <li class="menu-item">
+        <a href="/new_resources_23" data-drupal-link-system-path="node/83060">New Resources Added in 2023</a>
+              </li>
+                <li class="menu-item">
+        <a href="/mospi-data" title="Data access:MoSPI" data-drupal-link-system-path="node/83274">Data access:MoSPI</a>
+              </li>
+                <li class="menu-item">
+        <a href="/E-Resources-User-Guidelines" title="E-Resources Guidelines" data-drupal-link-system-path="node/50">E-Resources User-Guidelines</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/rss-and-outreach-program" title="Research Support Services and Outreach Programs" data-drupal-link-system-path="node/52">Research Support Services and Outreach Programs</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/workshop-recording" title="Workshop Recording" data-drupal-link-system-path="node/53">Outreach Programmes</a>
+              </li>
+                <li class="menu-item">
+        <a href="/know-your-resources" title="Know your Resources" data-drupal-link-system-path="node/54">Self help guides/tools/services</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/TB-BB-Theses" data-drupal-link-system-path="node/60">Text Book, Book Bank &amp; Theses</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/Book_Bank" title="Titles in Book Bank" data-drupal-link-system-path="node/83126">Titles in Book Bank</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item">
+        <a href="/HUSS" title="HUSS" data-drupal-link-system-path="node/61">Humanities and Social Science (HUSS)</a>
+              </li>
+                <li class="menu-item">
+        <a href="/hindi-collection" title="Hindi Collection" data-drupal-link-system-path="node/62">Hindi Collection</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://library.iitd.ac.in/iitdauthors">IITD Faculty Authored Books</a>
+              </li>
+                <li class="menu-item">
+        <a href="/store-and-purchase" title="Store and Purchase" data-drupal-link-system-path="node/63">Store and Purchase</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://library.iitd.ac.in/dss" title="Data Support Service (DSS)">Data Support Service (DSS)</a>
+              </li>
+                <li class="menu-item">
+        <a href="/library-internship" title="Library Internship" data-drupal-link-system-path="node/83140">Library Internship</a>
+              </li>
+                <li class="menu-item">
+        <a href="/alumniinterns" data-drupal-link-system-path="node/81617">CĹAN (Central Library-interns Alumni Network)</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://library.iitd.ac.in/hrdd" title="Human Resources Development Division (HRDD)">Human Resources Development Division (HRDD)</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-downloads-menu" id="block-downloads" class="clearfix block block-menu navigation menu--downloads">
+      
+  <h2 id="block-downloads-menu">Downloads</h2>
+  
+
+        
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="/bank-exchange-rates" title="Bank Exchange Rate" data-drupal-link-system-path="bank-exchange-rates">Bank Exchange Rate</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://library.iitd.ac.in/book-recommendation" title="Book Recommendation Form">Book Recommendation Form</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://library.iitd.ac.in/pdf/corporate.pdf" title="Corporate Membership">Corporate Membership</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://library.iitd.ac.in/pdf/LibraryHandbook.pdf" title="Library Handbook">Library Handbook</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://bsw.iitd.ac.in/questionpaper.php" title="Previous IITD Question Papers">Previous IITD Question Papers</a>
+              </li>
+                <li class="menu-item">
+        <a href="/image-gallery" title="Image Gallery" data-drupal-link-system-path="image-gallery">Image Gallery</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div class="views-element-container clearfix block block-views block-views-blocklib-vir-tour-block-1" id="block-views-block-lib-vir-tour-block-1">
+  
+    
+      <div class="content">
+      <div><div class="view view-lib-vir-tour view-id-lib_vir_tour view-display-id-block_1 js-view-dom-id-50491ad4dca5941b707f47cbc0a6985f12224de1bebe8fadcacb415c5995feed">
+  
+    
+      
+      <div class="view-content">
+      <div class="item-list item-list--blazy item-list--blazy-column"><ul data-blazy="" class="blazy blazy--view blazy--view--lib-vir-tour blazy--view--lib-vir-tour--block-1 blazy--grid block-column block-count-1 small-block-column-1 medium-block-column-1 large-block-column-1" id="blazy-views-lib-vir-tour-block-1-1"><li class="grid"><div class="grid__content"><div class="views-field views-field-title"><span class="field-content"><a href="/node/83055" hreflang="en">Library Orientation Video for the New Students</a></span></div><div class="views-field views-field-field-lib-vir-tour"><div class="field-content"><figure class="youtube-container">
+  <iframe src="https://www.youtube.com/embed/XqTnzmJvPOI?theme=light&amp;wmode=opaque" width="450" height="315" id="youtube-field-player" class="youtube-field-player" title="Embedded video for Library Orientation Video for the New Students" aria-label="Embedded video for Library Orientation Video for the New Students: https://www.youtube.com/embed/XqTnzmJvPOI?theme=light&amp;wmode=opaque" frameborder="0" allowfullscreen=""></iframe>
+</figure>
+</div></div></div>
+</li></ul></div>
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+
+                </section>
+                              </aside>
+                                    <aside class="col-lg-2 order-lg-3">
+                                <section class="sidebar__section sidebar-second clearfix">
+                    <div class="region region-sidebar-second">
+    <div class="search-block-form clearfix block block-search container-inline" data-drupal-selector="search-block-form" id="block-conference-lite-search" role="search">
+  
+      <h2>Search</h2>
+    
+      <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search</label>
+        <input title="Enter the terms you wish to search for." placeholder="Search..." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search">
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--2"><input class="search-form__submit button js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search">
+</div>
+
+</form>
+
+  </div>
+<nav role="navigation" aria-labelledby="block-libraryhours-menu" id="block-libraryhours" class="clearfix block block-menu navigation menu--library-hours">
+      
+  <h2 id="block-libraryhours-menu">Library Hours</h2>
+  
+
+        
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="/" title="8:00 am to 3:00 am (Next Day)" data-drupal-link-system-path="<front>">8:00 am to 3:00 am (Next Day)</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-services-menu" id="block-services" class="clearfix block block-menu navigation menu--services">
+      
+  <h2 id="block-services-menu">Services</h2>
+  
+
+        
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="https://idp.iitd.ac.in/" title="Off-Campus Access of E-Resources">Off-Campus Access of E-Resources</a>
+              </li>
+                <li class="menu-item">
+        <a href="/news-clipping-services" title="News Clipping Services" data-drupal-link-system-path="news-clipping-services">News Clipping Services</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://libcat.iitd.ac.in" title="Web OPAC">Web OPAC (Book Search)</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://iitd.irins.org/" title="IITD Faculty Profiling System">IITD Faculty Profiling System</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://play.google.com/store/apps/details?id=com.iitd.cl" title="Library App">Library App</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://10.17.5.2/">CORAL@IITD</a>
+              </li>
+                <li class="menu-item">
+        <a href="/video-library-service" title="Video Library Services" data-drupal-link-system-path="node/166">Video Library Services</a>
+              </li>
+                <li class="menu-item">
+        <a href="/research-publications" title="Research Publication" data-drupal-link-system-path="node/167">Research Publications</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://jgateplus.com/search/journalFinder/" title="J-Gate Search">J-Gate Search</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://164.100.247.26/" title="DELNET Databases">DELNET Databases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/archives" title="Archives" data-drupal-link-system-path="node/168">Archives</a>
+              </li>
+                <li class="menu-item">
+        <a href="/library-location" title="How to reach IIT Delhi/Central Library" data-drupal-link-system-path="node/181">How to reach IIT Delhi/Central Library</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-eresources-menu" id="block-eresources" class="clearfix block block-menu navigation menu--e-resources">
+      
+  <h2 id="block-eresources-menu">E-Resources</h2>
+  
+
+        
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="/a-z-journals2024" data-drupal-link-system-path="node/83242">A-Z Journal List 2024</a>
+              </li>
+                <li class="menu-item">
+        <a href="/a-to-z-archive" data-drupal-link-system-path="a-to-z-archive">A to Z List of Archive</a>
+              </li>
+                <li class="menu-item">
+        <a href="/a-z-list" data-drupal-link-system-path="a-z-list">A to Z List of E-Journals</a>
+              </li>
+                <li class="menu-item">
+        <a href="/a-to-z-list-ebooks" data-drupal-link-system-path="a-to-z-list-ebooks">A to Z List of eBooks </a>
+              </li>
+                <li class="menu-item">
+        <a href="/Bib-DB" data-drupal-link-system-path="node/176">Bibliographic Database</a>
+              </li>
+                <li class="menu-item">
+        <a href="/Fulltext-resources-packages-tab" data-drupal-link-system-path="node/175">Fulltext Resources (Packages)</a>
+              </li>
+                <li class="menu-item">
+        <a href="/ebooks" title="ebooks" data-drupal-link-system-path="node/189">eBooks</a>
+              </li>
+                <li class="menu-item">
+        <a href="/standards-tab" data-drupal-link-system-path="node/178">Standards</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://library.iitd.ac.in/journal_archives">Journal Archives</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://10.17.50.243:4000/home">Institutional Repository</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://idp.iitd.ac.in">Off-Campus Access of E-Resources</a>
+              </li>
+                <li class="menu-item">
+        <a href="/arpit2019" data-drupal-link-system-path="node/177">ARPIT MOOCS Videos/Content (ETTIS) - Library Science</a>
+              </li>
+                <li class="menu-item">
+        <a href="/nptel2024" data-drupal-link-system-path="node/83200">NPTEL 2024- Videos/Content- Science Communication: Research Productivity and Data Analytics using Open Source Software</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://library.iitd.ac.in/pdf/UserGuide20240521.pdf">User Guide for accessing E-Resources</a>
+              </li>
+                <li class="menu-item">
+        <a href="/vrc" data-drupal-link-system-path="node/83175">Virtual Reference Collections</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-academicwritingtools-menu" id="block-academicwritingtools" class="clearfix block block-menu navigation menu--academic-writing-tools">
+      
+  <h2 id="block-academicwritingtools-menu">Academic Tools</h2>
+  
+
+        
+              <ul class="clearfix menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="https://www.drillbitplagiarism.com/">DrillBit Plagiarism Software</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://forms.gle/8QAmvbmo8Z4S6RRa8">Account Creation Request</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://library.iitd.ac.in/pdf/202401DrillBitGuide.pdf">User Guide</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="https://www.grammarly.com/edu">Grammarly@edu Software/Tool</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://library.iitd.ac.in/pdf/GrammarlyRegistrationProcess202407.pdf">Grammarly Registration</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://library.iitd.ac.in/pdf/HowtoUseGramarly202407.pdf" title="Students Registrartion">How to Use</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="https://informatics.perkinelmer.com/sitesubscription/" title="ChemmDraw Professional">ChemDraw Professional</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://library.iitd.ac.in/pdf/ChemDrawGuide20240514.pdf" title="How to Use">How to Use</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="https://library.iitd.ac.in" title="Endnote 21">Endnote 21</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://clarivate.com/WEBOFSCIENCEGROUP/SUPPORT/ENDNOTE/" title="How to Use">How to Use</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://forms.gle/aNP23vrRYPiQx1Wt8" title="Expression of Interest Form">Expression of Interest Form</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="https://quillbot.com/" title="Quillbot Premium">Quillbot Premium</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://library.iitd.ac.in/pdf/QuillBot20240509.pdf" title="How to Use">How to Use</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-standards-menu" id="block-standards" class="clearfix block block-menu navigation menu--standards">
+      
+  <h2 id="block-standards-menu">Standards</h2>
+  
+
+        
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="https://compass.astm.org/">ASTM</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="https://standardsbis.bsbedge.com/">BIS</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://library.iitd.ac.in/pdf/HABIS.pdf">How to Access</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="https://standards.bsbedge.com/">IEC</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="http://10.17.10.8/iec">IEC Archive</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://standards.bsbedge.com/userregistration.aspx">Registration for Remote Access</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="https://standards.bsbedge.com/" title="ISO Standards">ISO Standards</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://standards.bsbedge.com/userregistration.aspx">Registration for Remote Access</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div class="views-element-container clearfix block block-views block-views-blockyoutube-thumb-block-1" id="block-views-block-youtube-thumb-block-1">
+  
+    
+      <div class="content">
+      <div><div class="view view-youtube-thumb view-id-youtube_thumb view-display-id-block_1 js-view-dom-id-53b9a7f1e4d925bfc09e5b3f7caf7feba872cf50e70ca519996abaa1bf7c3d89">
+  
+    
+      
+      <div class="view-content">
+      <div class="item-list item-list--blazy item-list--blazy-column"><ul data-blazy="" class="blazy blazy--view blazy--view--youtube-thumb blazy--view--youtube-thumb--block-1 blazy--grid block-column block-count-1 large-block-column-1" id="blazy-views-youtube-thumb-block-1-2"><li class="grid"><div class="grid__content"><div class="views-field views-field-body"><div class="field-content"><h6>IIT Delhi: a short film</h6>
+</div></div><div class="views-field views-field-field-ytvideo"><div class="field-content"><figure class="youtube-container">
+  <iframe src="https://www.youtube.com/embed/aEgnRafIlfY?theme=light&amp;wmode=opaque" width="230" height="250" id="youtube-field-player--2" class="youtube-field-player" title="Embedded video for IIT Delhi: a short film" aria-label="Embedded video for IIT Delhi: a short film: https://www.youtube.com/embed/aEgnRafIlfY?theme=light&amp;wmode=opaque" frameborder="0" allowfullscreen=""></iframe>
+</figure>
+</div></div></div>
+</li></ul></div>
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+
+                </section>
+                              </aside>
+                      </div>
+        </div>
+      </div>
+    </div>
+    
+  
+  
+  
+  
+  
+  
+  
+  
+          <footer style="background-color:rgb(33, 35, 49);" id="footer" class="clearfix footer region--light-typography region--colored-background region--no-separator ">
+      <div class="container">
+        <div class="clearfix footer__container">
+          <div class="row">
+                          <div class="col-md-6 col-lg-3">
+                                <div class="clearfix footer__section footer-first">
+                    <div class="region region-footer-first">
+    <div id="block-logoandname" class="clearfix block block-block-content block-block-content5429dd4a-365a-4394-9925-3b5a709be227">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div>
+<div class="centertext"><img alt="IIT" class="footerlogo" data-entity-type="file" data-entity-uuid="190e550b-ec4e-4f54-b5f8-9299fcf67d59" src="/sites/default/files/inline-images/rediitd.png" width="200" height="200" loading="lazy">
+<h6>Central Library, IIT Delhi</h6>
+
+<p>Hauz Khas, New Delhi, Delhi 110016</p>
+<span><svg class="bi bi-telephone-fill" fill="#980a00" height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.885.511a1.745 1.745 0 0 1 2.61.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.678.678 0 0 0 .178.643l2.457 2.457a.678.678 0 0 0 .644.178l2.189-.547a1.745 1.745 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.634 18.634 0 0 1-7.01-4.42 18.634 18.634 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877L1.885.511z" fill-rule="evenodd"></path> </svg>&nbsp;<a href="tel:011-26597017">011-26597017</a></span><br>
+<span><svg class="bi bi-envelope-fill" fill="#980a00" height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"></path> </svg>&nbsp;<a href="mailto:rsd@library.iitd.ac.in">rsd@library.iitd.ac.in</a></span><br>
+<span><svg class="bi bi-globe" fill="#980a00" height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm7.5-6.923c-.67.204-1.335.82-1.887 1.855A7.97 7.97 0 0 0 5.145 4H7.5V1.077zM4.09 4a9.267 9.267 0 0 1 .64-1.539 6.7 6.7 0 0 1 .597-.933A7.025 7.025 0 0 0 2.255 4H4.09zm-.582 3.5c.03-.877.138-1.718.312-2.5H1.674a6.958 6.958 0 0 0-.656 2.5h2.49zM4.847 5a12.5 12.5 0 0 0-.338 2.5H7.5V5H4.847zM8.5 5v2.5h2.99a12.495 12.495 0 0 0-.337-2.5H8.5zM4.51 8.5a12.5 12.5 0 0 0 .337 2.5H7.5V8.5H4.51zm3.99 0V11h2.653c.187-.765.306-1.608.338-2.5H8.5zM5.145 12c.138.386.295.744.468 1.068.552 1.035 1.218 1.65 1.887 1.855V12H5.145zm.182 2.472a6.696 6.696 0 0 1-.597-.933A9.268 9.268 0 0 1 4.09 12H2.255a7.024 7.024 0 0 0 3.072 2.472zM3.82 11a13.652 13.652 0 0 1-.312-2.5h-2.49c.062.89.291 1.733.656 2.5H3.82zm6.853 3.472A7.024 7.024 0 0 0 13.745 12H11.91a9.27 9.27 0 0 1-.64 1.539 6.688 6.688 0 0 1-.597.933zM8.5 12v2.923c.67-.204 1.335-.82 1.887-1.855.173-.324.33-.682.468-1.068H8.5zm3.68-1h2.146c.365-.767.594-1.61.656-2.5h-2.49a13.65 13.65 0 0 1-.312 2.5zm2.802-3.5a6.959 6.959 0 0 0-.656-2.5H12.18c.174.782.282 1.623.312 2.5h2.49zM11.27 2.461c.247.464.462.98.64 1.539h1.835a7.024 7.024 0 0 0-3.072-2.472c.218.284.418.598.597.933zM10.855 4a7.966 7.966 0 0 0-.468-1.068C9.835 1.897 9.17 1.282 8.5 1.077V4h2.355z"></path> </svg>&nbsp;<a href="https://library.iitd.ac.in">library.iitd.ac.in</a></span></div>
+&nbsp;
+
+<div class="centertext"><a href="https://facebook.com/cliitd"><svg class="bi bi-facebook" fill="#980a00" height="25" viewBox="0 0 16 16" width="25" xmlns="http://www.w3.org/2000/svg"> <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"></path> </svg></a>&nbsp;&nbsp;&nbsp; &nbsp;<a href="https://twitter.com/cliitd"> <svg class="bi bi-twitter-x" fill="#980a00" height="24" viewBox="0 0 16 16" width="24" xmlns="http://www.w3.org/2000/svg"> <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"></path> </svg><!-- <svg class="bi bi-twitter" fill="#980a00" height="25" viewbox="0 0 16 16" width="25" xmlns="http://www.w3.org/2000/svg"> <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"></path> </svg></a> -->&nbsp;&nbsp;&nbsp; &nbsp;</a><a href="https://www.youtube.com/channel/UCjSc62EJcg7L1SGm_94onjA"><svg class="bi bi-youtube" fill="#980a00" height="25" viewBox="0 0 16 16" width="25" xmlns="http://www.w3.org/2000/svg"> <path d="M8.051 1.999h.089c.822.003 4.987.033 6.11.335a2.01 2.01 0 0 1 1.415 1.42c.101.38.172.883.22 1.402l.01.104.022.26.008.104c.065.914.073 1.77.074 1.957v.075c-.001.194-.01 1.108-.082 2.06l-.008.105-.009.104c-.05.572-.124 1.14-.235 1.558a2.007 2.007 0 0 1-1.415 1.42c-1.16.312-5.569.334-6.18.335h-.142c-.309 0-1.587-.006-2.927-.052l-.17-.006-.087-.004-.171-.007-.171-.007c-1.11-.049-2.167-.128-2.654-.26a2.007 2.007 0 0 1-1.415-1.419c-.111-.417-.185-.986-.235-1.558L.09 9.82l-.008-.104A31.4 31.4 0 0 1 0 7.68v-.123c.002-.215.01-.958.064-1.778l.007-.103.003-.052.008-.104.022-.26.01-.104c.048-.519.119-1.023.22-1.402a2.007 2.007 0 0 1 1.415-1.42c.487-.13 1.544-.21 2.654-.26l.17-.007.172-.006.086-.003.171-.007A99.788 99.788 0 0 1 7.858 2h.193zM6.4 5.209v4.818l4.157-2.408L6.4 5.209z"></path> </svg></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/iitd-library/"><svg class="bi bi-linkedin" fill="#980a00" height="25" viewBox="0 0 16 16" width="25" xmlns="http://www.w3.org/2000/svg"> <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z"></path> </svg></a></div>
+</div>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+                </div>
+                              </div>
+                                      <div class="col-md-6 col-lg-3">
+                                <div class="clearfix footer__section footer-second">
+                    <div class="region region-footer-second">
+    <div id="block-services-2" class="clearfix block block-block-content block-block-contenta9107d0c-118d-4d83-9dc0-c8ae63450ea8">
+  
+      <h2 class="title">Services</h2>
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><ul class="dotrem">
+	<li class="footer-li-dashed"><a href="https://idp.iitd.ac.in/">Off-Campus Access of E-Resources</a></li>
+	<li class="footer-li-dashed"><a href="./../../news-clipping-services">News Clipping Services</a></li>
+	<li class="footer-li-dashed"><a href="http://libcat.iitd.ac.in">Web OPAC (Book Search)</a></li>
+	<li class="footer-li-dashed"><a href="http://iitd.irins.org/">IITD Faculty Profiling System</a></li>
+    <li class="footer-li-dashed"><a href="https://play.google.com/store/apps/details?id=com.iitd.cl">Library App</a></li>
+	<li class="footer-li-dashed"><a href="./../../video-library-service">Video Library Services</a></li>
+	<li class="footer-li-dashed"><a href="./../../research-publications">Research Publications</a></li>
+	<li class="footer-li-dashed"><a href="https://jgateplus.com/search/journalFinder/">J-Gate Search</a></li>
+	<li class="footer-li-dashed"><a href="http://164.100.247.26/">DELNET Databases</a></li>
+	<li class="footer-li-dashed"><a href="./../../archives">Archives</a></li>
+	<li class="footer-li-dashed"><a href="./../../library-location">Central Library Navigation</a></li>
+</ul>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+                </div>
+                              </div>
+                        <div class="clearfix d-none d-md-block d-lg-none"></div>
+                          <div class="col-md-6 col-lg-3">
+                                <div class="clearfix footer__section footer-third">
+                    <div class="region region-footer-third">
+    <div id="block-eresources-2" class="clearfix block block-block-content block-block-content038fd0e6-8fc3-4c1e-a492-dfb1aa4b6bc4">
+  
+      <h2 class="title">E-Resources</h2>
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><ul class="dotrem">
+	<li class="footer-li-dashed"><a href="./../../Bib-DB">Bibliographic Database</a></li>
+	<li class="footer-li-dashed"><a href="./../../Fulltext-resources-packages-tab">Fulltext Resources (Packages)</a></li>
+	<li class="footer-li-dashed"><a href="./../../standards-tab">Standards</a></li>
+	<li class="footer-li-dashed"><a href="./../../a-z-list">A to Z List of E-Journals</a></li>
+	<li class="footer-li-dashed"><a href="./../../a-to-z-archive">E-Journals Backfiles</a></li>
+	<li class="footer-li-dashed"><a href="./../../ebooks">eBooks@Library</a></li>
+	<li class="footer-li-dashed"><a href="http://ir.iitd.ac.in/home">Institutional Repository@IIT Delhi</a></li>
+	<li class="footer-li-dashed"><a href="./../../arpit2019">ARPIT MOOCS Videos/Content (ETTIS) - Library Science</a></li>
+	<li class="footer-li-dashed"><a href="https://idp.iitd.ac.in">Off-Campus Access of E-Resources</a></li>
+</ul>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+                </div>
+                              </div>
+                        <div class="clearfix d-none d-sm-block d-md-none d-none d-sm-block d-md-none"></div>
+                          <div class="col-md-6 col-lg-3">
+                                <div class="clearfix footer__section footer-fourth">
+                    <div class="region region-footer-fourth">
+    <div id="block-extra" class="clearfix block block-block-content block-block-content87e1e69b-7188-4c1b-8c53-70c401b80f8a">
+  
+      <h2 class="title">Important Links</h2>
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><marquee behavior="scroll" direction="up" scrollamount="1">To Pay Late fee <a href="https://home.iitd.ac.in/icollect/epay/index.html">Click Here</a><br>
+To Know complete Process <a href="https://library.iitd.ac.in/pdf/late_fees.pdf">Click Here</a><br>
+Please e-mail your payment slip to <b>rsd@library.iitd.ac.in</b></marquee></p>
+
+<p><marquee behavior="scroll" class="mobile_align" direction="up" scrollamount="1">For Queries related Turnitin Contact:<br>
+Head, Educational Technology Services Centre<br>
+hodetsc@admin.iitd.ac.in </marquee></p>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+                </div>
+                              </div>
+                                  </div>
+        </div>
+      </div>
+    </footer>
+      
+  
+          <div id="subfooter" class="clearfix subfooter region--dark-typography region--white-background region--separator-border-top ">
+      <div class="container">
+                <div class="clearfix subfooter__container">
+          <div class="row">
+                                      <div class="col-12 text-center">
+                                <div class="clearfix subfooter__section subfooter-second">
+                    <div class="region region-footer">
+    <div id="block-disclaimer" class="clearfix block block-block-content block-block-content1282589f-3ff1-489b-b14e-a3c5f0a2856e">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Copyright © 2021&nbsp;Central Library, Indian Institute of Technology Delhi. All Rights Reserved.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Developed by <a href="https://library.iitd.ac.in/alumniinterns">Mr. Satbir Chauhan</a>&nbsp;under the Guidance&nbsp;<a href="./../../computer-application-division">CAD Central Library</a></p>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+                </div>
+                              </div>
+                      </div>
+        </div>
+              </div>
+    </div>
+    <div style="margin:8px 0;background-color:#f6f7f9;">
+    </div>
+      
+
+            <div class="to-top"><img src="./../../bootstrap-icons/chevron-bar-up.svg"></div>
+    
+</div>
+
+  </div>

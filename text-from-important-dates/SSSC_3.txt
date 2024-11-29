@@ -1,0 +1,537 @@
+9 July – 14 July 2023 (8 July - 9 July 2023 Workshops & Tutorials)   
+   Contact 
+      
+ Home 
+  About | Greetings 
+  About IFAC 
+  IFAC World Congress 
+  Organizing Committee 
+  Program Committee 
+  Industry Group 
+  Diversity and Inclusion 
+  Contact 
+  Submission | Instructions to Authors and Chair Persons 
+  Instructions for Presenters (Interactive/Video) 
+  Submission 
+  Call for papers 
+  Important Dates 
+  Submit a contribution 
+  Submit a Final Manuscript 
+  Invited Sessions and Open Invited Tracks 
+  Demonstrator Papers 
+  Dissemination Papers 
+  Call for Workshops and Tutorials 
+  Call for Competition Proposals 
+  IFAC World Congress Awards 
+  Developing Countries - Young Author Support 
+  D&I Travel Support 
+  Program | Online Programs and Participation 
+  Program at a Glance | Floor Plan 
+  Plenary Talks 
+  Workshops and Tutorials 
+  Forums 
+  Citizens' Forum: Kwon Award Lecture 
+  Citizens' Forums (市民フォーラム) 
+  Student Activity 
+  Social Program | Marine Robot Night Festival 
+  IFAC Control Orchestra 
+  Competitions 
+  Award Ceremonies 
+  Meeting Schedule 
+  Registration | Registration 
+  Childcare Support Program 
+  Travel & Tours | Venue | Floor Plan 
+  Transportation and Accommodation 
+  Visa and Travel Documents 
+  Getting Around Yokohama 
+  Technical Tours 
+  Social Tours 
+  Yokohama Special Tours 
+  Sponsors and Exhibitors | Organizers/Sponsors/Supporters 
+  Sponsor Details 
+  Exhibition | Seminars 
+  Call for Sponsors and Exhibitors 
+  Call for Special Event Co-Sponsors for Competitions 
+  Media and Resources | IFAC 2023 Final Report 
+  IFAC App 
+  Photo Album 
+  Media Resources 
+  Flyers and CFPs 
+  About IFAC and the World Congresses 
+  IFAC 2023 Call for Papers 
+  IFAC 2023 Banner 
+  Inquiry | Inquiry 
+  FAQ 
+  Health and Safety 
+
+ Workshops and Tutorials  
+
+ Home 
+  Program 
+  Workshops and Tutorials 
+
+ Notice:   
+  [15, April]  Detailed workshop information (speaker, abstract) added.  
+  [6, April]  Detailed tutorial information (speaker, abstract) added.   
+
+ Workshop and Tutorials    
+ The workshops and tutorials will be held on 8th and 9th July, prior to the main congress schedule.  
+ All the workshops/tutorials are given on-site and there is no arrangement for on-line access. By registering for the workshops/tutorials, the registrants are entitled to attend multiple workshops/tutorials at the same rate shown in the registration page. For any inquiry concerning the workshops/tutorials, please send email to <e-mail address closed> .  
+ All the information below is tentative  at the moment of 17 March, 2023.  
+  
+ Duration | Room | Type | Title 
+ Saturday, 8th July 
+ 1 day | 414* | Workshop | Modeling and Data Integration for Control and Optimization of Chemical and Biological Systems 
+ 1 day | 415* | Workshop | Advanced Topics in PID Control System Design, Automatic Tuning and Applications 
+ 1 day | 416* | Workshop | Workshop on Port-Hamiltonian Systems and Applications 
+ half day (PM) | 417* | Workshop | Data Analytics, Causality Inference, and Deep Learning Techniques for Intelligent Alarm Monitoring 
+ half day (AM) | 417* | Tutorial | Estimation of Noise Parameters in State Space Models 
+ Sunday, 9th July 
+ 1 day | 511* | Workshop | Emerging Trends in Resilient Control of Networked Systems 
+ 1 day | 411* | Workshop | Workshop on Quantum Systems Theory 
+ 1 day | 414* | Workshop | Gaussian Process Learning for Systems and Control 
+ 1 day | 415* | Workshop | A Showcase of LMI-Based Methods for Analysis, Control and Estimation of PDEs 
+ 1 day | 416* | Workshop | Data-Driven Verification and Control of Cyber-Physical Systems 
+ 1 day | 501* | Workshop | Distributed Control, Optimization and Learning for Network Systems 
+ 1 day | 502* | Workshop | Data-driven Predictive Control: Whence and Whither? 
+ 1 day | 412* | Workshop | Robust and Resilient Autonomy: Progress and Challenges 
+ 1 day | 417* | Workshop | Encrypted Control Workshop 
+ half day (AM) | 413* | Workshop | Grid at the Edge (GATE): Towards the net-zero carbon grid with improved resilience 
+ half day (AM) | 512* | Tutorial | Mechatronics and robotics for manipulation: design and control 
+ half day (PM) | 512* | Tutorial | Control Systems in Synthetic Biology 
+ half day (PM) | 413* | Tutorial | Ecologically-Inspired Multi-Robot Systems 
+
+ * Due to security reasons, you cannot go directly to the room. Check-in at the registration desk with your Photo ID to obtain and wear an appropriate badge.   
+
+ Workshops   
+ Saturday, 8th July   
+ Modeling and Data Integration for Control and Optimization of Chemical and Biological Systems     
+ Date:  Saturday, 8:30-12:00; 13:30-17:00, 8th July 2023 ( Full-day  Workshop)  
+  Room:  414   
+ Organizers:    
+  Nirav Pravinbhai Bhatt (IIT Madras, India)  
+  Hyun-Seob Song (University of Nebraska-Lincoln, USA)  
+  Sridharakumar Narasimhan (IIT Madras, India)  
+  Manokaran V. (University of Nebraska-Lincoln, USA)  
+ Speakers:    
+  Nirav Pravinbhai Bhatt (IIT Madras, India)  
+  Hyun-Seob Song (University of Nebraska-Lincoln, USA)  
+  Sridharakumar Narasimhan (IIT Madras, India)  
+  Manokaran V. (University of Nebraska-Lincoln, USA)  
+  
+  Abstract:    
+  Study of chemical/metabolic reaction systems is an interdisciplinary area of research involving understanding of chemical interactions using tools from systems biology, chemical engineering, biotechnology, and chemistry. Models of reaction systems are important for process development and control, optimization and monitoring during production in industries. Hence, it is important to build reliable mathematical models of reaction systems by integrating experimental data. Advances in measurement techniques and process identification methods allow us to build high fidelity dynamical models of reaction systems. Identification of dynamical models of chemical and biological systems is an iterative process involving (i) generating informative data and (ii) fitting a proposed model (or a set of proposed models) to generated data until a reliable model is identified. Kinetic modeling and cybernetic modeling approaches are examples of dynamical models of reaction and metabolic systems. While genome-scale metabolic models (GEMs) are commonly available for different organisms including those currently used for industrial applications, building large-scale dynamical models of metabolism describing the intracellular reactions in biological systems is still challenging. Extension of GEMs for dynamic simulations accounting for microbial regulation requires special techniques that enable integrating phenotype and molecular data, e.g., through the cybernetic approach.  
+  The objective of this workshop is to introduce systematic approaches for identifying dynamical and steady state models of reaction systems from data and their applications in model-based monitoring, control and optimization of systems through interactive lectures and hands-on practices. The following topics will be introduced in the manner of a tutorial. (1) Modeling of chemical and biological systems using first-principles models and system identification approaches, (2) Dynamic models of biological systems such as dynamic flux balance analysis and cybernetic modeling, (3) Practical structural and parameter identifiability of reaction models from data, and (4) applications of these approaches in process control, estimation and metabolic engineering for biotechnology. The participant will be able to learn theoretical concepts and methods for developing dynamical and steady-state models from experimental data during the lectures and implementation of methods (algorithms) through hands-on sessions. Graduate students, postdocs, senior researchers who are interested in areas of process control, systems biology, chemical reaction networks, nonlinear model identification and their applications can attend this workshop. Basic knowledge of dynamical systems and optimization is adequate to follow the material.  
+ Website:    
+  https://bisect-group.github.io/ifac2023/about   
+
+  Advanced Topics in PID Control System Design, Automatic Tuning and Applications     
+ Date:  Saturday, 8:30-12:00; 13:30-17:00, 8th July 2023 ( Full-day  Workshop)  
+  Room:  415   
+ Organizers:    
+  Liuping Wang (RMIT University, Australia)  
+  Toru Yamamoto (Hiroshima University, Japan)  
+  Julio Elias Normey-Rico (Federal University of Santa Catarina (UFSC), Brazil)  
+ Speakers:    
+  Kevin Moore (Colorado School of Mines, USA)  
+  Antonio Visioli (University of Brescia, Italy)  
+  Eric Rogers and Bing Chu (University of Southampton, UK)  
+  Julio Elias Normey-Rico (Federal University of Santa Catarina (UFSC), Brazil )  
+  Liuping Wang (RMIT University, Australia)  
+  YangQuan Chen (University of California, Merced (UCM), USA)  
+  Kazushige Koiwai (Kobelco Construction Machinery co., ltd., Japan)  
+  Shin Wakitani (Tokyo University of Agriculture and Technology, Japan)  
+  Ramon Vilanova (Universitat Autònoma de Barcelona, Barcelona, Spain)  
+  José Luis Guzmán Sánchez (University of Almería, Spain)  
+ Abstract:    
+  PID control systems are the fundamental building blocks of classical and modern control systems. They have been used in the majority of industrial control systems from chemical process control, mechanical process control, electromechanical process control, aerial vehicle control to electrical drive control and power converter control.  
+  This workshop gathers together eleven internationally renowned professors in the field of PID control systems to discuss the advanced topics in PID control system design, automatic tuning and applications. The speakers of this workshop are enthusiastic in both teaching and research. The presentations will be delivered in tutorial style. It is suitable for engineers, students and researchers who wish to gain basic and advanced knowledge about design, automatic tuning and applications of PID control systems.  
+
+  Workshop on Port-Hamiltonian Systems and Applications     
+ Date:  Saturday, 8:30-12:00; 13:30-17:00, 8th July 2023 ( Full-day  Workshop)  
+  Room:  416   
+ Organizers:    
+  Joel Ferguson (The University of Newcastle, Australia)  
+ Speakers:    
+  Joel Ferguson (The University of Newcastle, Australia)  
+  Alejandro Donaire (The University of Newcastle, Australia)  
+  Kenji Fujimoto (Kyoto University, Japan)  
+  Romeo Ortega (Mexico Autonomous Institute of Technology, Mexico)  
+  Jacquelien Scherpen (The University of Groningen, Netherlands)  
+ Abstract:    
+  In recent decades, port-Hamiltonian systems have emerged as a useful tool for analysis of interconnected physical systems and control design. The framework emphasises the role of energy and power in system dynamics by highlighting the role of interconnection between components, dissipation and stored energy. As energy and power are common across all domains of physics, the port-Hamiltonian framework provides a unified approach to modelling and control design for multi-domain systems.  
+  This one-day workshop will provide an introductory overview of the port-Hamiltonian approach to modelling and control design, as well as expose attendees to some contemporary applications. The workshop is aimed at PhD students and researchers unfamiliar with the topic and is broken into two sessions:  
+ Morning session:  Dr. Joel Ferguson and Dr. Alejandro Donaire will introduce the basic principles of modelling and control using the port-Hamiltonian formalism. This session will provide the theoretical foundations of the approach, including many worked examples, and is targeted at PhD students and researchers unfamiliar with the topic.  
+ Afternoon session:  Several prominent researchers will give an introduction into emerging methods and applications of port-Hamiltonian systems theory. The covered topics include the unification of energy-shaping and sliding mode control structures, stabilisation controllers for nonholonomic systems, adaptive observers for electro-mechanical systems and applications to networked system. This session is targeted at researchers who are familiar with the basics of port-Hamiltonian or those who attended the morning session.  
+
+  Data Analytics, Causality Inference, and Deep Learning Techniques for Intelligent Alarm Monitoring     
+ Date:  Saturday afternoon, 13:30-17:00, 8th July 2023 (Half -day  Workshop)  
+  Room:  417   
+ Organizers:    
+  Wenkai Hu (China University of Geosciences, China)  
+  Jiandong Wang (Shandong University of Science and Technology, China)  
+  Masaru Noda (Fukuoka University, Japan)  
+  Tongwen Chen (University of Alberta, Canada)  
+ Speakers:    
+  Tongwen Chen (University of Alberta, Canada)  
+  Sirish L. Shah (University of Alberta, Canada)  
+  Masaru Noda (Fukuoka University, Japan)  
+  Fan Yang (Tsinghua University, China)  
+  Jiandong Wang (Shandong University of Science and Technology, China)  
+  Wenkai Hu (China University of Geosciences, China)  
+ Abstract:    
+  The objective of this workshop is to introduce participants to concepts, methods, applications, as well as recent advances of data analytics, causality inference, and deep learning techniques for intelligent alarm monitoring in complex industrial facilities. In practice, most real alarm systems suffer from common problems, such as the alarm overloading, missed/false alarms, and alarm flood issues, which severely impair the performance of alarm systems and compromise the safety of system operations. Therefore, intelligent alarm monitoring is of critical importance to the safety and efficiency of process operations in modern large-scale industries. The advanced techniques that will be presented at this workshop are able to detect and reduce nuisance alarms, discover hidden alarm patterns, and identify the root causes based on seamless integration of information from process and alarm databases complemented with process connectivity information.  
+  The expected goals are to present recent advances on intelligent industrial alarm monitoring, to demonstrate the applicability and practicality of developed techniques, and to show how alarm management problems can be effectively solved using new tools. More specifically, the emphasis in this workshop will be on how to conduct advanced data analytics to extract useful information from data to help in designing optimal alarm systems, finding out problems, and discovering hidden patterns. This workshop will cover a variety of interesting topics, including the design of univariate/multivariate alarm systems, identification and reduction of nuisance alarms, root cause analysis by causality inference, pattern recognition and deep learning for alarm flood analysis, alarm data visualization, and alarm system performance evaluation. The talks will be accompanied by industrial case studies to convey the practical utility of advanced industrial alarm monitoring tools. Specifically, the topics and speakers of this workshop are as follows:  
+  1)  Intelligent Alarm Management Toolbox Developed at the University of Alberta (Dr. Tongwen Chen)  
+  2)  Process Analytics Tools for Sensor Data, Alarm Data, and Operator Actions (Dr. Sirish L. Shah)  
+  3)  Identification of Nuisance Alarms and Logical Alarm Processing for Safe Plant Operations (Dr. Masaru Noda)  
+  4)  Causality and Root Cause Analysis Based on Data Analytics (Dr. Fan Yang)  
+  5)  Optimal Design of Industrial Alarm Systems Based on Process Knowledge and Historical Data (Dr. Jiandong Wang)  
+  6)  Pattern Recognition and Deep Learning Techniques for Alarm Flood Analysis (Dr. Wenkai Hu)  
+
+ Sunday, 9th July   
+  Emerging Trends in Resilient Control of Networked Systems     
+ Date:  Sunday, 8:30-12:00; 13:30-17:00, 9th July 2023 ( Full-day  Workshop)  
+  Room:  511   
+ Organizers:    
+  Luca Ballotta (University of Padova, Italy)  
+  Ruggero Carli (University of Padova, Italy)  
+ Speakers:    
+  Dimitra Panagou (University of Michigan, USA)  
+  Subhrakanti Dey (Uppsala University, Sweden)  
+  Vaibhav Katewa (Indian Institute of Science, India)  
+  Angelia Nedić (Arizona State University, USA)  
+  Sivaranjani Seetharaman (Purdue University, USA)  
+  Giacomo Como (Politecnico di Torino, Italy)  
+ Abstract:    
+  Networked control systems are one of the major control paradigms, by virtue of design flexibility, modularity, and scalability. Yet, their modular and interconnected structure that is the source of these benefits can also lead to vulnerability, by allowing local faults to spread to neighboring locations and even to the whole system. This problem is outside the scope of robust and adaptive control, where the controller typically assumes prior knowledge about disturbances affecting the model. This is especially true for adversarial disturbances, which cannot be modeled with confidence and may fatally disrupt a control task at global level.  
+  Nonetheless, propagating failures are a crucial issue in several application domains, from multi-robot systems prone to unexpected changes in perceived environment, to vehicular networks dealing with unpredictable behavior of human drivers, to power grids subject to power outages or cyber-attacks. These cases require proactive, resilient strategies that can restore the system functionalities on-the-fly in the face of unexpected or adversarial conditions that fall outside of the design assumptions.  
+  Attack-proneness of networked systems has been recently gaining attention in literature, with a huge body of work dealing with cascading failures in vehicular networks, cyber-attacks in smart grids, collaborative multi-robot systems, resilient distributed algorithms. Yet, a unifying framework for resilience in network systems is still lacking, and the complexity of large-scale systems may prevent applicability of several proposed approaches. Ultimately, the path towards resilient networked control systems is still long, and further research and technological effort is needed to cope with adversities of any kind and increasing sophistication.  
+
+  Workshop on Quantum Systems Theory     
+ Date:  Sunday, 8:30-12:00; 13:30-17:00, 9th July 2023 ( Full-day  Workshop)  
+  Room:  411   
+ Organizers:    
+  Ian R. Petersen (Australian National University, Australia)  
+  Valery Ugrinovskii (University of New South Wales, Australia)  
+ Speakers:    
+  Matthew R. James (Australian National University, Australia)  
+  Ian R. Petersen (Australian National University, Australia)  
+  Valery Ugrinovskii (University of New South Wales, Australia)  
+  Guofeng Zhang (Hong Kong Polytechnic University, China)  
+  Naoki Yamamoto (Keio University, Japan)  
+  Zibo Miao (Harbin Institute of Technology, Shenzhen, China)  
+  Yu Pan (Zhejiang University, China)  
+  Peter M. Dower (University of Melbourne, Australia)  
+ Abstract:    
+  This workshop will cover a tutorial introduction and some recent results in the area of quantum systems theory from a control theory point of view using the Heisenberg picture of quantum mechanics. The workshop will mainly concentrate on linear quantum systems which arise in areas such as quantum optics but consideration will also be given to finite level quantum systems as well, which are important in quantum computing. The topics covered will include modeling, physical realizability, quantum system structure, estimation and observers for quantum systems and quantum feedback control. As well as covering the theory, the workshop will also discuss applications and experiments involving quantum systems.  
+
+  Gaussian Process Learning for Systems and Control     
+ Date:  Sunday, 8:30-12:00; 13:30-17:00, 9th July 2023 ( Full-day  Workshop)  
+  Room:  414   
+ Organizers:    
+  Rolf Findeisen (Technical University of Darmstadt, Germany)  
+  Thomas Beckers (University of Pennsylvania, USA)  
+  Sandra Hirche (Technical University of Munich, Germany)  
+  Maik Pfefferkorn (Otto-von-Guericke University Magdeburg, Germany)  
+  Colin Jones (Ecole Polytechnique Federale de Lausanne (EPFL), Switzerland)  
+  Karl Berntorp (Mitsubishi Electric Research Laboratories (MERL), Cambridge, USA)  
+  
+  Speakers:    
+  Rolf Findeisen (Technical University of Darmstadt, Germany)  
+  Thomas Beckers (University of Pennsylvania, USA)  
+  Sandra Hirche (Technical University of Munich, Germany)  
+  Maik Pfefferkorn (Otto-von-Guericke University Magdeburg, Germany)  
+  Colin Jones (Ecole Polytechnique Federale de Lausanne (EPFL), Switzerland)  
+  Karl Berntorp (Mitsubishi Electric Research Laboratories (MERL), Cambridge, USA)  
+ Abstract:    
+  Controller design faces the challenge of ensuring desired performance and safe operation while managing uncertainties, which can arise from unknown system dynamics, external disturbances, or interactions with unknown entities. Machine learning techniques, like Gaussian processes, can estimate these uncertainties and provide valuable insights.  
+  Gaussian processes have gained popularity in the past two decades due to their bias-variance trade-off and connection to Bayesian mathematics. Unlike many methods, Gaussian processes offer a regression function and an uncertainty measure for predictions. This unique feature makes them ideal for various control applications, such as model predictive control, robust control, reinforcement learning, and optimization tasks. The uncertainty measure enables convergence, performance, and safety guarantees. However, incorporating Gaussian processes into closed-loop control systems presents challenges like closed-loop uncertainty propagation and real-time feasible online learning.  
+ This tutorial-style workshop aims to introduce the fundamentals of Gaussian processes for modeling and control, highlighting open challenges and opportunities. Experienced experts from academia and industry will cover the basics of Gaussian processes, showcasing their potential for the control community and recent advancements in learning-based control under uncertainties. The workshop targets graduate-level students and experienced theoretical and practical control engineers interested in enhancing their controller design knowledge using Gaussian processes and machine learning.  
+ Website:    
+  https://sites.google.com/view/ifacwcgpworkshop   
+   
+  A Showcase of LMI-Based Methods for Analysis, Control and Estimation of PDEs     
+ Date:  Sunday, 8:30-12:00; 13:30-17:00, 9th July 2023 ( Full-day  Workshop)  
+  Room:  415   
+ Organizers:    
+  Amritam Das (Eindhoven University of Technology, Netherlands)  
+  Matthew Peet (Arizona State University, USA)  
+ Speakers:    
+  Emilia Fridman (Tel Aviv University, Israel)  
+  Masashi Wakaiki (Kobe University, Japan)  
+  Jun-Wei Wang (University of Science and Technology Beijing, China)  
+  Giorgio Valmorbida (CentraleSupélec, France)  
+  Amrtiam Das (Eindhoven University of Technology, Netherlands)  
+  Sergei Chernyshenko (Imperial College London, UK)  
+  Christophe Prieur (GIPSA-lab, France)  
+  Matthew Peet (Arizona State University, USA)  
+  Mathieu Bajodek (CentraleSupélec, France)  
+  
+  Abstract:    
+  The last 5 years have seen the emergence of several research groups focused on the use of optimization and Linear Matrix Inequality (LMI) methods for the analysis, control, and estimation of systems governed by Partial Differential Equations (PDEs). The development of efficient numerical methods for the analysis and control of PDE systems has applications in fields such as drag reduction; controlled nuclear fusion; wind generation; industrial printing; and process control, to name a few. Unlike older, 'lumping'-based work, these newly emerging research groups have focused on using optimization-based tools to design controllers without the use of discretization. As a result, the tools being developed have provable stability and optimality properties. The goal of this workshop is to bring together representatives from each of the newly emerging research groups in order to compare results and propose a vision for the future of this rapidly evolving field.  
+ Website:    
+  https://sites.google.com/view/ifacworkshop-pdes/home   
+
+  Data-Driven Verification and Control of Cyber-Physical Systems     
+ Date:  Sunday, 8:30-12:00; 13:30-17:00, 9th July 2023 ( Full-day  Workshop)  
+  Room:  416   
+ Organizers:    
+  Abolfazl Lavaei (Newcastle University, United Kingdom)  
+  Sadegh Soudjani (Newcastle University, United Kingdom)  
+  Majid Zamani (University of Colorado Boulder, USA)  
+ Speakers:    
+  Pietro Tesi (University of Florence, Italy)  
+  Necmiye Ozay (University of Michigan, USA)  
+  Raphael Jungers (UCLouvain, Belgium)  
+  Sofie Haesaert (Eindhoven University of Technology, The Netherlands)  
+  Chuchu Fan (MIT, USA)  
+  Mahyar Fazlyab (Johns Hopkins University, USA)  
+  Abolfazl Lavaei (Newcastle University, United Kingdom)  
+  Sadegh Soudjani (Newcastle University, United Kingdom)  
+ Abstract:    
+  The framework of cyber-physical systems (CPS) that captures the tight interaction of computational systems with the physical world is believed to carry great promises for analysis and design of systems in many safety-critical industrial applications. Examples of such applications include aerospace, automotive, transportation systems, robotics, chemical process, energy, and healthcare. Within CPS, embedded control software plays a significant role by monitoring and adjusting several physical variables through feedback loops where physical processes affect computation and vice versa. Although CPS have become ubiquitous in modern technology due to significant advances in computational devices, closed-form mathematical models for those complex systems are either not available or equally complex to be constructed. Consequently, one cannot employ model-based techniques to analyze and design this type of complex unknown systems. Hence, data-driven techniques are essential to provide formal analysis for CPS with unknown dynamics.  
+  Over the past decade, two types of direct and indirect data-driven techniques have been proposed in the relevant literature for the formal analysis and design of unknown CPS. More specifically, indirect data-driven techniques are those which leverage system identification to learn approximate models of unknown systems, followed by model-based controller analysis approaches. Their advantage is that once the identification phase is achieved, one may rely on the powerful armada of techniques available in model-based control. On the downside, most identification techniques are mainly limited to linear or some specific class of nonlinear systems, and accordingly, acquiring an accurate model for complex systems via those indirect techniques could be expensive. In comparison, direct data-driven techniques are those that bypass the system identification phase and directly employ system measurements for the verification and controller design of unknown CPS.  
+  In this workshop, we bring together a number of researchers active in the area of data-driven verification and control of CPS. The contributions will describe recently developed efforts towards new frontiers on the subject. Along with cherishing the exchange of ideas between researchers in the field, we aim to achieve the following goals for the audience attending the workshop:  
+  Provide to the researchers new to these topics an updated view of the state of the art on data-driven verification and control of CPS including indirect and direct techniques;  
+  Discuss scalable directions and areas to mitigate the, so-called, sample complexity;  
+  Suggest novel applications of these data-driven techniques.  
+  Additionally, we hope the active discussions of the participants will lead to fruitful collaborations.  
+
+  Distributed Control, Optimization and Learning for Network Systems     
+ Date:  Sunday, 8:30-12:00; 13:30-17:00, 9th July 2023 ( Full-day  Workshop)  
+  Room:  501   
+ Organizers:    
+  Tengfei Liu (Northeastern University, China)  
+  Zhong-Ping Jiang (New York University, USA)  
+ Speakers:    
+  Tiago Roux Oliveira (State University of Rio de Janeiro - UERJ, Brazil)  
+  Miroslav Krstic (University of California, San Diego - UCSD, USA)  
+  Kaiwen Chen (Imperial College London, UK)  
+  Alessandro Astolfi (Imperial College London, UK)  
+  Zhong-Ping Jiang (New York University, USA)  
+  Karl Henrik Johansson (KTH Royal Institute of Technology, Sweden)  
+  Tengfei Liu (Northeastern University, China)  
+  Zhixin Liu (Academy of Mathematics and Systems Science, Chinese Academy of Sciences, China)  
+  Lei Guo (Academy of Mathematics and Systems Science, Chinese Academy of Sciences, China)  
+ Abstract:    
+  Control and optimization are two topics that can be traced back the earliest stages of human civilization, have been systematically developed based on rigorous mathematical tools and are widely recognized as the central components of many enabling engineering technologies. There have always been strong interactions between the two areas. The perspectives of dynamics and feedback from control theory have been used for the analysis of optimization algorithms, and optimization methods are promising for performance improvement of control systems. Recent cross-fertilizations between the control systems and artificial intelligence communities have seen a renewed interest in control, optimization and learning for network systems, and indeed have created numerous new research opportunities. This full-day workshop brings together several renowned researchers who will share some of the most recent developments in their respective field, and is aimed to foster further interactions between these closely related exciting research areas.  
+
+  Data-driven Predictive Control: Whence and Whither?     
+ Date:  Sunday, 8:30-12:00; 13:30-17:00, 9th July 2023 ( Full-day  Workshop)  
+  Room:  502   
+ Organizers:    
+  Timm Faulwasser (TU Dortmund, Germany)  
+  Karl Worthmann (TU Ilmenau, Germany)  
+ Speakers:    
+  Jeremy Coulson (University of Wisconsin-Madison, USA)  
+  Timm Faulwasser (TU Dortmund, Germany)  
+  Paolo Rapisarda (U Southampton, UK)  
+  Karl Worthmann (TU Ilmenau, Germany)  
+  Henk van Waarde (U Groningen, The Netherlands)  
+  Zhong-Ping Jiang (NYU, USA)  
+  Sébastien Gros (NTNU Trondheim, Norway)  
+  Rolf Findeisen (TU Darmstadt, Germany)  
+  Johannes Köhler (ETH Zurich, Switzerland)  
+ Abstract:    
+  Data-driven methods have been in use for model order reduction and control for decades. Likewise, data-driven techniques for feedback design are common in adaptive and model predictive control. The unifying idea is to use data to fit or improve a model. With the ever increasing availability of both data and computing resources as well as with the recent trend towards the inclusion of machine learning, data-driven methods have gained new interest and application fields in systems and control. In contrast to the aforementioned, more classic approaches, the recently proposed techniques are often entirely data-driven and, thus, easily applicable based on measurements without any prior knowledge.  
+  In this workshop, we bring together experts from the fields of control, data science, and machine learning combining seemingly classical methods with recently developed, data-driven methodologies. Thereby, we aim at understanding underlying patterns and theoretical foundations based on the current state of research and in view of future applications. To this end, we propose a full-day workshop on data-driven predictive control consisting of four parts.  
+  The first part is centered around Willems et al.’ fundamental lemma and key extensions addressing, e.g., robustness and stochasticity within the framework of data informativity. In the second part, we are concerned with learning-based control of complex, nonlinear systems. Here, we also recall approximation techniques like extended dynamic mode decomposition within the Koopman framework as well as key concepts from systems and control like incremental dissipativity using also kernel-based approaches. In the third part of the workshop, methods like reinforcement learning and Gaussian-process-based control is considered before the workshop is concluded by a panel discussion, in which we ask, among other questions, whether state-space model are complicating safe data-driven controller design.  
+ Website:    
+  https://ie3.etit.tu-dortmund.de/events-1/pre-conference-workshop-at-the-ifac-world-congress-2023/   
+
+  Robust and Resilient Autonomy: Progress and Challenges     
+ Date:  Sunday, 8:30-12:00; 13:30-17:00, 9th July 2023 ( Full-day  Workshop)  
+  Room:  412   
+ Organizers:    
+  Melkior Ornik (University of Illinois Urbana-Champaign, USA)  
+  Sheng Cheng (University of Illinois Urbana-Champaign, USA)  
+  Pan Zhao (University of Illinois Urbana-Champaign, USA)  
+  Hyung-Jin Yoon (University of Nevada, Reno, USA)  
+  Naira Hovakimyan (University of Illinois Urbana-Champaign, USA)  
+  Sayan Mitra (University of Illinois Urbana-Champaign, USA)  
+  Aditya Gahlawat (University of Illinois Urbana-Champaign, USA)  
+ Speakers:    
+  Marco Pavone (NVIDIA and Stanford University, USA)  
+  Davide Scaramuzza (University of Zurich, Switzerland)  
+  Chen Lv (Nanyang Technological University, China)  
+  Kostas Alexis (Norwegian University of Science and Technology, Norway)  
+  Shaoshuai Mou (Purdue University, USA)  
+ Abstract:    
+  The goal of this workshop is to discuss recent advances and research trends in the design of provably robust and resilient autonomy for safety-critical systems. The last decade has witnessed a dramatic increase in the presence of autonomous systems in many domains, including advanced air mobility, autonomous driving, and defense systems. Many of these systems are built using costly hardware and might operate in uncertain and off-nominal environments while interacting with humans and other agents. As potential failures can have catastrophic economic and societal consequences, the reliable deployment of these autonomous systems critically depends on the systems’ robustness and resilience in the presence of uncertain and off-nominal conditions.  
+  Ensuring safe, robust and resilient autonomy faces a number of challenges. The broad topics that will be discussed in this workshop include, but are not limited to, (i) robust, adaptive, and learning-based control; (ii) integrated perception, planning, and control under uncertainties; (iii) runtime monitoring, fault detection, and mission (re-)planning; (iv) fast reachability analysis; (v) scalable verification and validation methods; and (vi) platforms and experiments design for robustness and resilience evaluation.  
+  The workshop will cover current progress and challenges in developing robust and resilient autonomous systems across different domains spanning from autonomous driving to aerial robots. The exchange among speakers and attendees will help bring attention to this crucial issue of assured and reliable autonomy from different communities that may include control, artificial intelligence, perception, and formal verification. It will also help identify specific key problems and breakthroughs that need to be made in different areas, providing guidelines for related researchers. Finally, we believe this workshop will also be beneficial to administrative people such as policymakers and funding program managers in autonomy by providing background information. The conference website is https://sites.google.com/view/robust-and-resilient-autonomy/  .  
+ Website:    
+  https://sites.google.com/view/robust-and-resilient-autonomy/   
+
+  Encrypted Control Workshop     
+ Date:  Sunday, 8:30-12:00; 13:30-17:00, 9th July 2023 ( Full-day  Workshop)  
+  Room:  417   
+ Organizers:    
+  Kiminao Kogiso (The University of Electro-Communications, Japan)  
+  Kenji Sawada (The University of Electro-Communications, Japan)  
+ Speakers:    
+  Kiminao Kogiso (The University of Electro-Communications, Japan)  
+  Moritz Schulze Darup (Technische Universität Dortmund, Germany)  
+  Jun Ueda (Georgia Institute of Technology, USA)  
+  Ping Zhang (Technische Universitaet Kaiserslautern, Germany)  
+  Junsoo Kim (Seoul National University of Science and Technology, Korea)  
+  Takashi Tanaka (The University of Texas at Austin, USA)  
+  Tetsuro Miyazaki (The University of Tokyo, Japan)  
+  Kaoru Teranishi (The University of Electro-Communications, Japan)  
+  Seungbeom Lee (Seoul National University, Korea)  
+ Abstract:    
+  The Encrypted Control Workshop is a one-day IFAC WC workshop focused on Encrypted Control, the recently emerging cryptography-integrated control reconstruction methodology for secure cyber-physical systems. The security threats to cyber-physical systems are increasing by the day; therefore, the importance of control engineering in enabling the safe operation of automation and control systems is growing. Within the field of control engineering, security measures for cyber-physical systems have begun to be more actively discussed in terms of implementing information security (confidentiality, integrity, and availability). This has resulted in several theoretical and practical approaches that have successfully demonstrated the ability to develop secure control systems and improve the detection of cyber-attacks to enhance security. The encrypted control methodology includes the ability to maintain confidentiality and integrity by integrating homomorphic encryption into controller processing. Equally important is supporting the availability of control systems and their security to discuss a next-generation secure control theory. The organizers have invited nine pioneering researchers who are actively working at the forefront of control system security. The workshop will start from the foundations of secure control methodology with the introduction of partially and fully homomorphic encryption and will present recent advances in secure control, such as power system operation using encrypted data, networked robot control, and industrial control. In addition, as a new application study of cryptography, the workshop will introduce verifiable computation, which allows verification of outsourced computation related to the control system. Presenters and session participants will be able to share theoretical and technical security challenges through constructive, multidisciplinary discussions.  
+   
+ Website:    
+  https://sites.google.com/gl.cc.uec.ac.jp/encrypted-control/   
+
+  Grid at the Edge (GATE): Towards the net-zero carbon grid with improved resilience     
+ Date:  Sunday morning, 8:30-12:00, 9th July 2023 (Half -day  Workshop)  
+  Room:  413   
+ Organizers:    
+  Mladen Kezunovic (Texas A&M University, USA)  
+  Hiroshi Okamoto (TEPCO Power Grid, Japan)  
+ Speakers:    
+  Mladen Kezunovic (Texas A&M University, USA)  
+  Hiroshi Okamoto (TEPCO Power Grid, Japan)  
+  Sleiman Mhanna (The University of Melbourne, Australia)  
+  Shmuel S. Oren (University of California at Berkeley, USA)  
+  Anuradha Annaswamy (MIT, USA)  
+ Abstract:    
+  The next generation grid will depend heavily on the expansion of the legacy grid, the addition of bulk renewable generation at the transmission level, the interfacing of a distributed energy resource (DER) at the consumer premises with the distribution grid, and the integration of DER energy resources into the wholesale market through aggregators. This trend, called the “Grid at the Edge - GATE”, encompasses an unprecedented need for multidisciplinary and interdisciplinary research and new engineering skills and tools. A holistic view is considered by many in the industry and research community largely undefined. The Workshop discussion will focus on defining new practical solutions and fundamental research areas that may lead to new concepts for transmission and distribution management systems and the expansion of the market management systems.  
+  The FERC Order 2222 in the USA has paved the way for the DER owners and aggregators to work with the utility and market operators in achieving the reliable and safe operation of the integrated grid. Renewables regulatory framework has also been the focus of the grid development in Japan, Europe, Australia, and other parts of the world for quite some time, and a variety of demonstration projects have been undertaken over the last decade. The Workshop goal is to explore how the use of technology may contribute to integrated grid visibility and controllability, ultimately leading to improved future grid safety, reliability, resilience, and net zero-carbon operation.  
+  The Workshop discussions will also address open research questions and the vision of how the advancement in monitoring, control, and protection decision-making tools needs to evolve to meet the future needs of a net zero-carbon integrated grid. By identifying the research gaps, associated barriers, and diverse workforce development, the Workshop participants will also reflect on industry needs for innovative solutions in response to the new societal expectations.  
+
+ Tutorials   
+ Saturday, 8th July   
+  Estimation of Noise Parameters in State Space Models     
+ Date:  Saturday morning 8:30-12:00, 8th July 2023 (Half-day Tutorial)  
+  Room:  417   
+ Organizers:    
+  Ondřej Straka (University of West Bohemia, Czech Republic)  
+  Jindřich Duník (University of West Bohemia, Czech Republic)  
+ Speakers:    
+  Ondřej Straka (University of West Bohemia, Czech Republic)  
+  Jindřich Duník (University of West Bohemia, Czech Republic)  
+ Abstract:    
+  Knowledge of a system model is crucial for many state estimation, signal processing, fault detection, and optimal control problems. The model is often designed to be consistent with the random behavior of the system quantities and properties of the measurements. While the deterministic part of the model often arises from mathematical modeling based on physical, chemical, or biological laws governing the system's behavior, the stochastic part's statistics are often challenging to find by the modeling and must be identified using the measured data. Incorrect description of the noise statistics may significantly worsen estimation, signal processing, detection, control quality, or even failure of the underlying algorithms. The tutorial introduces a more than six decades-long history, recent advances, and state-of-the-art methods for estimating the properties of the noises, including implementation issues. In particular, the estimation of state-space model noise means, covariance matrices, and other parameters are treated.  
+
+ Sunday, 9th July   
+  Mechatronics and robotics for manipulation: design and control     
+ Date:  Sunday morning 8:30-12:00, 9th July 2023 (Half-day Tutorial)  
+  Room:  512   
+ Organizers:    
+  Micky Rakotondrabe (ENIT, University of Toulouse, France)  
+  Huichan Zhao (Tsinghua University, China)  
+ Speakers:    
+  Micky Rakotondrabe (ENIT, University of Toulouse, France)  
+  Huichan Zhao (Tsighua University, China)  
+  Thibaut Raharijaona (ENIM, University of Lorraine, France)  
+  Mourad Benoussaad (ENIT, University of Toulouse, France)  
+  Gerardo Flores (Centro de Investigaciones en Optico, Mexico)  
+  Sofiane Khadraoui (University of Sharjah, UAE)  
+ Abstract:    
+  Micky RAKOTONDRABE presents the use of smart materials, specifically piezoelectric materials, for manipulation. After presentation of classical developments of piezoelectric devices for manipulation, their modeling and control are given in a lecture way, along with measurement/estimation through the self-sensing approach.  
+  In her talk, Huichan ZHAO presents existing soft manipulators which are either precisely controlled with multiple degrees of freedom or underactuated but more passive. The former puts a lot of effort into control, while the latter exhibits an inadequate gripping configuration. Huichan Zhao combines the advantages of these two strategies to develop a soft-rigid hybrid gripper with active skin and semi-active endoskeleton. This gripper achieves multiple poses by simply changing the sequential states of endoskeletal joints and successfully grasps various objects in a robust and diverse manner. It combines a simple control scheme and diverse grasping degrees of freedom that facilitates more robust and precise grasping in the areas.  
+  The third lecture is by Thibaut RAHARIJAONA. In a world where automation is becoming increasingly prevalent in industry, medicine, and even households, the ability for robots to manipulate deformable objects with precision and repeatability has become a crucial skill. The talk is about a breakthrough implementation of shape control using vision tracking and finite element inverse simulation to bring this capability to reality.  
+  Mourad BENOUSSAAD will give the fifth lecture. Physical Human-robot Interaction is a promising and challenging robotics field but requires to be improved to achieve more complex tasks. One of these complex tasks can be a co-manipulation between human and robot of heavy, bulky or flexible object. To consider a certain number of issues related to the interaction stability, safety and human ergonomics and comfort, the human should be considered more deeply as system than just an external perturbation force. This lecture will introduce to physical human-robotics manipulation where the human-object-robot interaction is considered as a whole system, which can be entirely modeled, measured and partially or completely controlled.  
+  Gerardo FLORES will introduce to aerial manipulation, i.e. manipulation of objects by using aerial vehicles equipped with manipulators. Such approach to manipulation has several advantages like modularity of the manipulators, large positioning of the object, unlimited size of the object.  
+  The final lecture will be given by Sofiane KHADRAOUI. His talk will introduce the modeling of manipulators and the controllers design by considering the challenges raised when manipulating objects: nonlinearities, models uncertainties, objects deformation, sides effects of the environment.  
+ Website:    
+  http://m.rakoton.net/tuto-IFACWC23/   
+
+  Control Systems in Synthetic Biology     
+ Date:  Sunday afternoon 13:30-17:00, 9th July 2023 (Half-day Tutorial)  
+  Room:  512   
+ Organizers:    
+  Mustafa Khammash (ETH Zurich, Switzerland)  
+  Yutaka Hori (Keio University, Japan)   
+ Speakers:    
+  Mustafa Khammash (ETH Zurich, Switzerland)  
+  Yutaka Hori (Keio University, Japan)   
+ Abstract:    
+  Genetic engineering has had a revolutionary impact on biological sciences, biomedicine, and biotechnology, enabling the construction of novel genetic circuits with new functions through the engineering of genes into living cells. Against this background, genetically engineered control systems offer exciting opportunities to control biological processes and steer their behavior, with applications in diverse fields. This tutorial aims to provide an accessible introduction to a new, emerging field that focuses on creating theoretical and experimental methodologies and technologies for engineering genetic control systems and deploying them in living cell. During the course of this presentation, we will introduce the tools of genetic engineering and demonstrate how the reactions that underlie gene circuits can be mathematically modeled and analyzed. This will enable us to illustrate how to design, build, and test genetic feedback control systems in living cells. We will highlight some of the exciting potential applications in industrial biotechnology and medical therapy.   
+ Website:    
+  https://sites.google.com/keio.jp/control-synbio-tutorial/   
+
+  Ecologically-Inspired Multi-Robot Systems     
+ Date:  Sunday afternoon 13:30-17:00, 9th July 2023 (Half-day Tutorial)  
+  Room:  413   
+ Organizers:    
+  Logan E. Beaver (Boston University, USA)  
+  Gennaro Notomista (University of Waterloo, Canada)  
+ Speakers:    
+  Logan E. Beaver (Boston University, USA)  
+  Gennaro Notomista (University of Waterloo, Canada)  
+ Abstract:    
+  Recent advances in robotics and control systems have motivated a push for long-duration autonomy, where agents are left to operate in uncertain environments for days, weeks, or even months at a time. At the same time, the miniaturization of computer hardware has made the deployment of multi-agent systems for engineering applications economically feasible. These factors have motivated the development of a new framework for the design of autonomous systems: ecologically-inspired robotics. In this tutorial, we will cover the theoretical foundations, software implementation, and several recent case studies that apply the ecologically-inspired robotics framework to control problems. Under this framework, agent interactions, tasks, and safety requirements are embedded as constraints in an optimization problem where each agent minimizes its energy consumption. The resulting agent behavior is interpretable and data-driven; agent actions are determined by the active constraints, and the boundary of the feasible action space is constructed through sensing and communication. Problems in this domain are closely related to control barrier functions and viability theory; many are amenable to real-time algorithms, including quadratic programming. This enables many ecologically-inspired robotics problems to be solved efficiently using modest hardware, and as an added benefit, the resulting system behavior is robust to the addition, removal, and failure of agents during operation. The tutorial will consist of two parts: a series of lectures, and two interactive activities. The organizers will present an overview and motivation for ecologically-inspired robotics, which will be followed by a theoretical overview of the topic and several case studies with implementation details. We will close the tutorial with a coding challenge and experimental demonstration to foster discussion and give attendees the opportunity to apply the framework directly.  
+  The program consists of 6 topics: An Introduction to Ecologically-Inspired Robotics, Case Studies in Designing Behaviors as Constraints, Decentralized Control Algorithms and System-Level Convergence, Resilience, Robustness and Adaptivity, a coding tutorial, and a hardware demonstration.  
+ Website:    
+  https://sites.google.com/bu.edu/ifac2023   
+
+ Workshops and Tutorials  
+
+ About | Greetings 
+  About IFAC 
+  IFAC World Congress 
+  Organizing Committee 
+  Program Committee 
+  Industry Group 
+  Diversity and Inclusion 
+  Contact 
+  Submission | Instructions to Authors and Chair Persons 
+  Instructions for Presenters (Interactive/Video) 
+  Submission 
+  Call for papers 
+  Important Dates 
+  Submit a contribution 
+  Submit a Final Manuscript 
+  Invited Sessions and Open Invited Tracks 
+  Demonstrator Papers 
+  Dissemination Papers 
+  Call for Workshops and Tutorials 
+  Call for Competition Proposals 
+  IFAC World Congress Awards 
+  Developing Countries - Young Author Support 
+  D&I Travel Support 
+  Program | Online Programs and Participation 
+  Program at a Glance | Floor Plan 
+  Plenary Talks 
+  Workshops and Tutorials 
+  Forums 
+  Citizens' Forum: Kwon Award Lecture 
+  Citizens' Forums (市民フォーラム) 
+  Student Activity 
+  Social Program | Marine Robot Night Festival 
+  IFAC Control Orchestra 
+  Competitions 
+  Award Ceremonies 
+  Meeting Schedule 
+  Registration | Registration 
+  Childcare Support Program 
+  Travel & Tours | Venue | Floor Plan 
+  Transportation and Accommodation 
+  Visa and Travel Documents 
+  Getting Around Yokohama 
+  Technical Tours 
+  Social Tours 
+  Yokohama Special Tours 
+  Sponsors and Exhibitors | Organizers/Sponsors/Supporters 
+  Sponsor Details 
+  Exhibition | Seminars 
+  Call for Sponsors and Exhibitors 
+  Call for Special Event Co-Sponsors for Competitions 
+  Media and Resources | IFAC 2023 Final Report 
+  IFAC App 
+  Photo Album 
+  Media Resources 
+  Flyers and CFPs 
+  About IFAC and the World Congresses 
+  IFAC 2023 Call for Papers 
+  IFAC 2023 Banner 
+  Inquiry | Inquiry 
+  FAQ 
+  Health and Safety 
+    © Copyright 2020 – IFAC 2023-Yokohama  
+ Page Top

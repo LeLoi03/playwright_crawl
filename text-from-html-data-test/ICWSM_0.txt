@@ -1,0 +1,740 @@
+Home 
+  Submit 
+  Attend | Attending ICWSM-23 
+  Conference Logistics 
+  Code of Conduct 
+  Registration 
+  Scholarships & Grants 
+  Awards 
+  Schedule | Workshops Schedule 
+  Tutorials Schedule 
+  Data Challenge Schedule 
+  Accepted Papers 
+  Organization | Organizing Committee 
+  Steering Committee 
+  Program Committee 
+  About/Contact | Previous ICWSMs 
+  Contact 
+
+ The 17th International  
+ AAAI Conference  
+ on Web and Social Media  
+  
+   June 5th – 8th 2023  
+ Limassol, Cyprus  
+
+  Conference Program   Conference Proceedings   Workshop Proceedings     
+
+  Web Chair Announcement:  Conference Program has been announced. View the schedule by clicking the "Conference Program" button on the ICWSM's website homepage. (May 25, 2023)  
+   
+  Past Announcements   
+ Accepted papers have been announced. A new element has been added at the home page and under the Schedule navigation link. (May 16, 2023) 
+  Updates on Accepted Workshops and ICWSM-23 Late Registration Prices. (May 15, 2023) 
+  Bronze Sponsors and Adamic-Glance Plenary Talk have been announced. (May 12, 2023) 
+  New Keynote Speaker has been announced. PC Members list has been updated. (May 5, 2023) 
+  New Call for Papers: Special Section of | JQD:DM | in Collaboration with ICWSM 2024 has been added to the CFP. (April 12, 2023) 
+  Information for Attending ICWSM-23, Registration, Scholarships & Grants, and Travel & Conference Logistics have been announced. (March 6, 2023) 
+  Workshops, Tutorials and Data Challenge Schedules have been announced. (February 24, 2023) 
+  Details about the ICWSM Adamic-Glance Distinguished Young Researcher Award have been announced in the home page. (January 31, 2023) 
+  Dataset Paper and Posters & Demos Notification Acceptance dates have been added to the CFP. (January 10, 2023) 
+  Detailed Guidelines for Paper Submission of the CFP have been updated. (December 16, 2022) 
+  We have recently updated the information under the following website sections: Call For Submissions (Data Challenge Website Announced, AAAI Updated Author Kit information), the Steering and Program Committee Members (SPC & PC) of the ICWSM-2023. (December 13, 2022) 
+  We have recently updated the information under the following website sections: Call For Submissions (Dataset Papers, Workshops, Tutorials, Data Challenge) and the Organizing Committee Members of the ICWSM-2023. (November 10, 2022) 
+
+ Accepted Papers have been announced  
+ Full Papers, Posters and Dataset Track Posters   
+ View the list     
+
+ COVID-19 Safety  
+ We are excited to move towards a fully in-person event for our community in 2023! That said, it is our priority to ensure the safety and health of all participants. The organizers are monitoring the COVID-19 pandemic closely and will take measures as needed, including the possibility of enabling those who cannot travel to participate remotely.  
+  For inquiries about the ICWSM Code of Conduct  , please contact icwsm23@aaai.org.   
+
+  The International AAAI Conference on Web and Social Media (ICWSM) is a forum for researchers from multiple disciplines to come together to share knowledge, discuss ideas, exchange information, and learn about cutting-edge research in diverse fields with the common theme of online social media. This overall theme includes research in new perspectives in social theories, as well as computational algorithms for analyzing social media. ICWSM is a singularly fitting venue for research that blends social science and computational approaches to answer important and challenging questions about human social behavior through social media while advancing computational tools for vast and unstructured data.  
+  
+  ICWSM, now in its seventeenth year, has become one of the premier venues for computational social science, and previous years of ICWSM  have featured papers, posters, and demos that draw upon network science, machine learning, computational linguistics, sociology, communication, and political science. The uniqueness of the venue and the quality of submissions have contributed to a rapidly growing conference, and a competitive acceptance rate of approximately 20% for full-length research papers published in the proceedings by the Association for the Advancement of Artificial Intelligence (AAAI)  .  
+  
+  ICWSM-2023 will be held from June 5th – 8th at the St. Raphael Resort and Marina  in Limassol, Cyprus.  
+
+  Disciplines  
+ Computational approaches to social media research including: Natural Language Processing 
+  Text / Data Mining 
+  Machine Learning 
+  Image / Multimedia Processing 
+  Graphics and Visualization 
+  Distributed Computing 
+  Graph Theory and Network Science 
+  Human-computer Interaction 
+  Social science approaches to social media research including: Psychology 
+  Sociology and social network analysis 
+  Communication 
+  Political Science 
+  Economics 
+  Anthropology 
+  Media Studies and Journalism 
+  Digital Humanities 
+  Interdisciplinary approaches to social media research combining computational algorithms and social science methodologies 
+
+  Topics Include (But Are Not Limited To)  
+ Studies of digital humanities (culture, history, arts) using social media 
+  Psychological, personality-based and ethnographic studies of social media 
+  Analysis of the relationship between social media and mainstream media 
+  Qualitative and quantitative studies of social media 
+  Centrality/influence of social media publications and authors 
+  Ranking/relevance of social media content and users 
+  Credibility of online content 
+  Social network analysis; communities identification; expertise and authority discovery 
+  Trust; reputation; recommendation systems 
+  Human computer interaction; social media tools; navigation and visualization 
+  Subjectivity in textual data; sentiment analysis; polarity/opinion identification and extraction, linguistic analyses of social media behavior 
+  Text categorization; topic recognition; demographic/gender/age identification 
+  Trend identification and tracking; time series forecasting 
+  Measuring predictability of real world phenomena based on social media, e.g., spanning politics, finance, and health 
+  New social media applications; interfaces; interaction techniques 
+  Engagement, motivations, incentives, and gamification. 
+  Social innovation and effecting change through social media 
+  Social media usage on mobile devices; location, human mobility, and behavior 
+  Organizational and group behavior mediated by social media; interpersonal communication mediated by social media 
+
+  Example Data Sources (Web and Social Media)  
+ Social networking sites (e.g., Facebook, LinkedIn) 
+  Microblogs (e.g., Twitter, Tumblr) 
+  Wiki-based knowledge sharing sites (e.g., Wikipedia) 
+  Social news sites and websites of news media (e.g., Huffington Post) 
+  Forums, mailing lists, newsgroups 
+  Community media sites (e.g., YouTube, Flickr, Instagram) 
+  Social Q&A sites (e.g., Quora, Yahoo Answers) 
+  User reviews (e.g., Yelp, Amazon.com) 
+  Social curation sites (e.g., Reddit, Pinterest) 
+  Location-based social networks (e.g., Foursquare) 
+
+  ICWSM-2023 Keynotes new   
+
+ The Shortcut - Why Intelligent Machines do not Think Like Us  
+ by Nello Cristianini  
+  
+  Abstract:  The key to address our social anxieties in the face of Intelligent Machines is understanding how they “think”, what we can expect of them, and what can be the consequences of the specific type of intelligence that they exhibit, and the specific position we have chosen for them in our global data infrastructure, particularly web and social media. In order to do that, we will examine the fundamental steps that took us to the present form of AI, in particular the idea of the Shortcut. This will allow us to consider what we can expect from modern AI, and how we can manage our relation with it. (This talk will be based on the book “The Shortcut” by Nello Cristianini  ).  
+ Bio:  Nello Cristianini is a Professor of Artificial Intelligence at the University of Bath, and a researcher in many areas of Artificial Intelligence, including machine learning theory, natural language processing, social implications of AI, philosophical foundations of AI, computational social science. He is the author of “The Shortcut” published by CRC Press (2023).  
+
+ Digital Inequality During COVID-19 Lockdowns  
+ by Eszter Hargittai  
+  
+  Abstract:  Rarely is access to information as important as during a global health crisis. During the initial COVID-19 lockdowns, at a time when information could mean the difference between life and death, information inequalities were of paramount significance. Drawing on national survey data collected in the early days of the pandemic in three countries (US, Italy, Switzerland), this talk shares how people’s digital privilege related to their knowledge and misconceptions about the virus with consequences for whether they stayed safe during lockdowns.  
+ Bio:  Eszter Hargittai is Professor and holds the Chair of Internet Use and Society at the Institute of Communication and Media Research of the University of Zurich. She is Fellow of the International Communication Association and an External Member of the Hungarian Academy of Sciences. Hargittai's research looks at how people may benefit from or be left behind as a result of their varied digital media skills and uses. Her work has received awards from several professional associations. Her latest book is Connected in Isolation: Digital Privilege in Unsettled Times published by The MIT Press in 2022.  
+
+ Research on Wikipedia Reading and Writing: a Random Walk Adamic-Glance Plenary Talk   
+ by Robert West  
+  
+  Bio:  Robert West is a tenure-track assistant professor of computer science at EPFL (the Swiss Federal Institute of Technology, Lausanne), where he heads the Data Science Lab (dlab). His research aims to make sense of large amounts of data by developing and applying algorithms and techniques in natural language processing, machine learning, and computational social science. Typically, the data he works with is generated by humans (e.g., natural language or behavioral traces), and frequently it is collected on the Web (e.g., using wikis, online news, social media, server logs, online games). Bob received his PhD in Computer Science from Stanford University (2016), his MSc from McGill University (2010), and his undergraduate degree from Technische Universität München (2007). He is a Wikimedia Foundation Research Fellow, an Associate Editor of ICWSM and EPJ Data Science, and a co-founder of the Wiki Workshop and the Applied Machine Learning Days. His work has won several awards, including best/outstanding paper awards at ICWSM’21, ICWSM’19, and WWW’13, a Google Faculty Research Award, a Facebook Research Award, and the ICWSM’22 Adamic–Glance Distinguished Young Researcher Award.  
+
+ Stay tuned  
+ More coming soon...  
+
+ Attending ICWSM-2023 new   
+
+ The 17th International Conference on Web & Social Media will be hosted at the St. Raphael Resort and Marina  in Limassol, Cyprus, from June 5th to June 8th, 2023. Please reserve before May 6, 2023.   
+  
+  St. Raphael Resort & Marina  
+  Amathus Avenue 502  
+  4534 Pyrgos, Limassol, CYPRUS   
+  
+  Click on the link below to book your reservation at the conference special rate:  
+  https://book.straphael.com/?checkin=2023-06-01&rooms=1&nights=3&adults=2&bkcode=ICWSM   
+  
+  Please note that all guestrooms are non-smoking and the group rate is on a bed and breakfast basis. For any other requests or inquiries, please enter this information within the appropriate request boxes during the reservation process or call or email the hotel directly at +357 25 834 200 - reservations@straphael.com   
+  
+  For those attendees driving to the hotel, free parking is available.  
+  
+  For more information about the venue, transportation, and conference logistics, click here  .  
+
+ ICWSM Code of Conduct  
+
+ All persons, organizations and entities that attend AAAI conferences and events are subject to the standards of conduct set forth on the AAAI Code of Conduct for Events and Conferences.  AAAI expects all community members to formally endorse this code of conduct, and to actively prevent and discourage any undesired behaviors. Everyone should feel empowered to politely engage when they or others are disrespected, and to raise awareness and understanding of this code of conduct. AAAI event participants asked to stop their unacceptable behavior are expected to comply immediately. Sponsors are also subject to this code of conduct in their participation in AAAI events.  
+  
+  Additionally, participants are encouraged to be courteous when sharing screen captures and photographs of conference events. Seek permission when possible and respect requests to take down images if those featured ask. Concerns around code of conduct or inclusion may be sent to icwsm23@aaai.org  . If you have any concerns or items to report, please reach out to the General Chair, Jahna Otterbacher.  
+
+ Registration new   
+
+ ICWSM-23 Registration  
+  
+  We are excited to welcome everyone back to a fully in-person ICWSM this year! It is extremely important to the health and sustainability of our community that we “get back to normal” and resume our annual face-to-face meeting, strengthening our ICWSM community both scientifically and socially. For this reason, all accepted papers to the technical program must be presented by one of its authors in person at the conference.   
+ Workshops and Tutorials held in-person will also be streamed virtually. Workshops and Tutorials that are virtual-only will not be available in-person and must be attended virtually. Please contact the respective organizers for any further information.  
+ In addition, we will be offering a limited virtual experience via Zoom exclusively for participants from developing countries (please see the list of eligible countries here  ). Participants will be able to follow the ICWSM Technical Program, with the ability to interact via the Zoom chat. Please complete our application form  should you wish to apply for complementary virtual participation.  
+ AAAI ICWSM-23 registration site  
+ Register at the following link: https://aaaiconf.cventevents.com/event/6c74faca-5593-40eb-be72-e0572e2b7578/summary   
+ The ICWSM-23 technical conference registration fee includes admission to the Workshop/Tutorial Day, all technical sessions, and access to the electronic version of the ICWSM-23 Conference Proceedings.   
+  
+  ICWSM-23 Registration Fees  
+ Early Registration Deadline: May 5   passed   
+ Standard Registration - Technical Program   
+  $625 | now $725 | AAAI Member 
+  $360 | now $410 | AAAI Student Member 
+  $735 | now $835 | Non-member 
+  $420 | now $500 | Non-member Student 
+   
+  Silver Registration - Technical Program   
+  Includes discounted conference registration, plus a one-year online new or renewed membership in AAAI.  $724 | now $824 | Silver Regular 
+  $409 | now $459 | Silver Student 
+
+  Workshop / Tutorials  
+ ICWSM-23 workshops and tutorials will be held on Monday, June 5th, just prior to the technical conference. Please also note that some sessions may only be offered virtually. Technical registrants may sign up for any combination of workshops and/or tutorials on June 5th as part of their technical registration. For those wishing to attend only the Workshop/Tutorial Day, a Workshop/Tutorial Day Only registration is offered. PARTICIPANTS SHOULD NOT SIGN UP FOR CONCURRENT EVENTS, so please consult the schedule carefully before making your selections.  
+ In-Person and Virtual Workshop/Tutorial Day Only:  $75 Regular 
+  $50 Student 
+
+  Registration / Proof of Student Status  
+ Students will be required to submit proof of student status during the registration process.  
+ Refund Requests  
+ The deadline for refund requests is May 17, 2023. All refund requests must be made in writing to AAAI at icwsm23@aaai.org  . A $100 processing fee will be assessed for all refunds.  
+  
+  Visa Information  
+ During the registration process, you will be able to request a visa letter. The letter will be automatically generated and available to you along with the registration confirmation.  
+
+ Workshops Schedule  
+    
+ Full-Day Workshops:  
+ Disrupt, Ally, Resist, Embrace (DARE): Action Items for Computational Social Scientists in a Changing World   
+ Organizers:  Kokil Jaidka  , Eni Mustafaraj  , David Schoch  , and Kenny Joseph  .  
+  
+  Images in Online Political Communication (PhoMemes 2023)   
+ Organizers:  Cody Buntain  , Erik Bucy  , Keng-Chi Chang  , Jungseock Joo  , Navin Kumar  , and Dhavan Shah  .  
+
+  Half-Day Workshops:  
+ Data for the Wellbeing of Most Vulnerable   
+ Organizers:  Kyriaki Kalimeri  , Yelena Mejova  , and Daniela Paolotti  .  
+  
+  Novel Evaluation Approaches for Text Classification Systems (NEATCLasS)   
+ Organizers:  Björn Ross  , Roberto Navigli  , Agostina Calabrese  , and Sheikh Muhammad Sarwar  .  
+  
+  Mediate 2023: News Media and Computational Journalism Workshop   
+ Organizers:  Talia Tseriotou  , Dina Pisarevskaya  , Elena Kochkina  , Marya Bazzi  , Maria Liakata  , and Arkaitz Zubiaga  .  
+  
+  TrueHealth 2023: Combating Health Misinformation for Social Well-being   
+ Organizers:  Gabriella Pasi  , Rishabh Upadhyay  , and Marco Viviani  .  
+
+ Tutorials Schedule  
+
+ Prevalence Estimation in Social Media Using Black Box Classifiers  
+  
+  Abstract:  Many problems in computational social science require estimating the proportion of items with a particular property. This counting task is called prevalence estimation or quantification. Frequently, researchers have a pre-trained classifier available to them. However, it is usually not safe to simply apply the classifier to all items and count the predictions of each class, because the test dataset may differ in important ways from the dataset on which the classifier was trained, a phenomenon called distribution shift. In addition, a second type of distribution shift may occur when one wishes to compare the prevalence between multiple datasets, such as tracking changes over time. To cope with that, some assumptions need to be made about the nature of possible distribution shifts across datasets, a process that we call extrapolation.   
+  
+  This tutorial will introduce an end-to-end framework for prevalence estimation using black box (pre-trained) classifiers, with a focus on social media datasets. The framework consists of a calibration phase and an extrapolation phase, aiming to address the two types of distribution shifts described above. We will provide hands-on exercises that walk the participants through solving a real world problem of quantifying positive tweets in datasets from two separate time periods. All datasets, pre-trained models, and example codes will be provided in a Jupyter notebook. After attending this tutorial, participants will be able to understand the basics of the prevalence estimation problem in social media, and construct a data analysis pipeline to conduct prevalence estimation for their projects.   
+  
+  Organizers:  Siqi Wu  , and Paul Resnick   
+  
+  Computational Approaches to Studying Anti-Social Behaviour in Social Media  
+  
+  Abstract:  In less than a generation, social media has moved into the center of modern life. It has altered many aspects of our daily lives, from how we form and maintain social relationships to how we discover, access and share information online. However, the same platforms have also given way to troublesome anti-social behaviours such as online trolling, cyberbullying, and expressions of hate speech. In some online communities, what is commonly referred to as ‘anti-social’ may be a communal norm and a way to socialize. However, that is not the case in most online communities where such behaviour may negatively affect the overall group cohesion and may have psychological and emotional consequences for individual social media users.   
+  
+  This tutorial will demonstrate how to use automated content analysis to detect and study anti-social behaviours in social media. The session will introduce and discuss advantages and disadvantages of two common approaches often used to detect instances of ‘anti-social’ behaviour in online discourse: lexicon-based and machine learning approaches. As part of the hands-on part, the tutorial will introduce Communalytic, a new online research tool for studying online communities. The participants will then use Communalytic to analyze a sample dataset using a toxicity analysis.   
+  
+  Organizers:  Anatoliy Gruzd  , and Philip Mai   
+  
+  Collecting and Sharing Twitter Data for Academic Research: A hands-on tutorial using twarc2 and the Social Media Archive at ICPSR (SOMAR)  
+  
+  Abstract:  This hands-on tutorial will walk participants through the data lifecycle of a social media data research project. Participants will learn how to collect data from Twitter using the twarc2 command line tool, how to share Twitter data using the Social Media Archive at ICPSR, and how to “hydrate” Twitter data shared by other researchers. After completing this tutorial, participants will be able to collect or reuse social media data in their own projects and share that data with others to verify, reproduce, and extend their work.   
+  
+  Organizers:  Anmol Panda  , Marley Kalt, and Libby Hemphill   
+  
+  A hitchhiker’s guide to user-centric browsing data  Cancelled   
+  
+  Abstract:  Digital traces come in two rather different forms, depending on whether they are venue-centric or user-centric. Venue-centric data consists of everything users did on a given site or platform in a given context (e.g. all ‘stop the steal’ tweets published on Twitter over a certain period). User-centric data consists of everything a certain population of users did in a given context (e.g. monitoring data from wearable devices for a set of people who agreed to share their data for a specific research). Venue-centric data typically is massive, anonymous and full of blind spots, when user-centric data typically is more scarce but richer in external knowledge about people involved (social demographics but also possibly complementary survey data) and more thorough (because they are not limited to what people did on a specific platform). The aim of the present tutorial is to introduce researchers to opportunities and challenges associated with using user-centric data for research on web behavior, showing focusing on a specific kind of such data, namely browsing trace data collected via passive metering devices installed on personal mobile and laptops supplemented with extra survey data. We aim at presenting both methods (starting from data cleaning and preprocessing to data analysis and statistical modeling) and potential research questions (in terms of broad social science interests) that are specially relevant to user-centric browsing data.   
+  
+  Organizers:  Denis Bonnay  , and Juhi Kulshrestha   
+
+ Data Challenge  
+
+ ICWSM-2023 is hosting the fourth ICWSM data challenge with the goal of bringing together researchers to analyze and understand emerging societal issues. The data challenge is a space where researchers can exchange ideas, discuss ongoing work, and foster collaboration, grounded on open data. This year’s data challenge theme is Dynamics of social data: Temporal characteristic of social tasks.   
+  
+  Visit the ICWSM-2023 Data Challenge Website  for more details.   
+  
+  Important Dates  
+   
+ Data Challenge opens: | Feb 15th, 2023 
+  Paper Submission Deadline: | April 1, 2023 (AoE) 
+  Data Challenge notification: | May 1, 2023 
+  ICWSM Data Challenge Full-day Workshop: | June 5, 2023 
+   
+  Abeer Aldayel, Debora Nozza, and Steve Wilson    
+  (ICWSM-2023 Data Challenge Chairs |  data.challenge@icwsm.org   )   
+
+ Scholarships & Grants new   
+
+ ICWSM Scholarships   
+ We are pleased to announce the availability of a number of scholarships to help support student attendance at ICWSM-23. These scholarships are made possible through the engagement with, and kind contribution of, AAAI and our company sponsors.  
+  
+  Student Travel Grant   
+ The student travel grant assists student participants both with travel to Limassol, Cyprus, as well as with conference expenses (such as housing, local transportation to/from the airport, conference registration, etc.). Please note that it intends to subsidize student participation in ICWSM-23, but does not intend to cover all travel and conference expenses. The final amount will vary depending on the cost of the travel, the available funds, and the number and type of applicants. The eligibility of this travel grant includes both active student program enrollment and physical presence at ICWSM-23 or any of the associated workshops.  
+  
+  ICWSM 2023 Student Travel Grant application form (Deadline: March 31): https://aaaiforms.wufoo.com/forms/z1bx9chk0gyonyf/   
+  
+  Virtual Grant for Underrepresented Groups   
+ The virtual grant provides complimentary conference registration for virtual participants who are from underrepresented groups and/or regions. Please find the AAAI list of developing countries here: https://aaai.org/membership/developing-country-list/   
+ Note that this virtual grant is not limited to students, it is open to anyone from underrepresented groups (e.g., women, persons with disabilities, etc.) and/or regions (e.g., African countries). There are no conditions for accepting this grant. We only ask that you attend the event and enjoy the sessions. We would, of course, also be happy if you decide to join our ICWSM and Computational Social Science community.  
+  
+  Virtual Participation application form (Deadline: March 31): https://aaaiforms.wufoo.com/forms/z8zi0t912hoc62/   
+
+ ICWSM Awards  
+
+ ICWSM Adamic-Glance Distinguished Young Researcher Award  
+ This annual award is presented to a young researcher who has distinguished themself through innovative research in the area of social computing/computational social science in the early stage of their independent research career. The award is named after Lada Adamic  and Natalie Glance  , two outstanding researchers who have made significant contributions to the International AAAI Conference on Web and Social Media (ICWSM) in particular and social computing/computational social science in general. The ICWSM research community at large has greatly impacted this field, through identifying the connections between online digital behaviors and critical societal questions and issues. From misinformation and fake news to how we can use social media and social networks to gain insight into political polarization, mental health, and social movements, the range of topics addressed by the community is continuously expanding. We want to recognize and celebrate the young researchers who are making these contributions today.  
+  
+  The award was established in 2021, at the 15th anniversary mark of the AAAI ICWSM conference  . Prior winners of the award are Dr. Tanu Mitra  (2021) and Dr. Robert West  (2022).  
+  
+  Nomination Process and Eligibility  
+ Self-nominations, nominations, and letters of support are elicited. ICWSM strongly encourages individuals from underrepresented groups in research (based on gender identity, race, ethnicity, geographical location, etc.) to self-nominate, and urges the wide community to nominate young researchers who have distinguished themselves for their creativity and rigor in identifying and addressing important research topics of societal impact. Nominations are open from February 1st to March 1st 2023. Use this Google Form  for submission.  
+  
+  Eligibility Criteria  
+ The award is open to individuals who:  
+  
+  Have received their PhD within the past 7 years. Career interruptions and other special circumstances will be considered and should be mentioned in the nomination justification document. 
+  Perform research that is recognizably within the broad field of social computing/computational social science in terms of their thematic and methodological approaches. 
+  Have published their research in the top venues for social computing or computational social science, including active participation in ICWSM. 
+  As long as a candidate is eligible based on the three criteria above, they will be considered even if they were nominated or self-nominated in prior years.  
+  
+  Selection Process  
+ The selection committee consists of three to five members and is appointed by the AAAI ICWSM Steering Committee Chair. The committee solicits self-nominations, nominations, and letters of support from the social computing/computational social science community. The selection is based on the impact of the candidate's work in the field: in identifying significant new problems, creating promising new ideas, paradigms, and tools related to data-driven understanding of human behavior, which may be quantitative or qualitative in nature. Depth and impact are valued over breadth of contribution for this award. A strong regard for considering the ethical aspects of the data/methods used in social computing/computational social science is expected of the research record of the nominees.  
+  
+  The nomination form  asks the following questions:  
+  
+  Nominator’s information (name, affiliation, email, a link to their webpage). 
+  Nominee’s information (name, affiliation, email, year of PhD, a link to their webpage that contains additional information, for example their CV/resume). 
+  A one-page statement explaining why the nominee deserves the award in question, especially highlighting the novelty and strength of their contributions in the area of computational social science / social computing, and providing evidence of their academic and societal impact. A second page can be included to contain information about career interruption or any special considerations. 
+  Citations for up to three representative publications and/or links to other artefacts documenting the contribution or impact. 
+  Note for letters of support:  The form makes it easy to submit letters of support from people other than the nominators or self-nominators. Such individuals will not need to complete the details of the nomination, they will simply upload their letter.  
+  
+  Form accessibility:  The nomination form requires Google authentication. If for any reason this is a problem for the nominator, please send the nomination materials via email to: adamic-glance-award@icwsm.org  .  
+  
+  Conflict of interest:  The awards committee takes conflict of interest seriously. If an nominated individual is a former or current collaborator of one or more of the committee members, such member(s) recuse themselves from evaluating and voting on these nominations.  
+  
+  2023 Awards Committee  
+ Brooke Foucault Welles (Northeastern University) 
+  Bernie Hogan (University of Oxford) 
+  Eni Mustafaraj (Wellesley College) 
+  Jason R.C. Nurse (University of Kent) 
+  Tanu Mitra (University of Washington) 
+   
+  Award recipients will be joining the award selection committee within two years of their award win, to replace members who rotate off the committee.  
+   
+  Contact the committee: adamic-glance-award@icwsm.org   
+  
+  Award Ceremony  
+ The award will be presented annually during the AAAI ICWSM conference. The awardee will be given the opportunity to give a plenary talk at the next year conference and announce the new recipient. Each recipient will be listed with a citation for their award on the ICWSM Adamic-Glance Distinguished Young Researcher Award web page. Financial support for attending the conference will be provided.  
+
+  Organizing Committee  
+
+ Jahna Otterbacher  
+ General Chair  
+
+ Miriam Redi  
+ Program Co-Chair  
+
+ Robert West  
+ Program Co-Chair  
+
+ Kiran Garimella  
+ Program Co-Chair  
+
+ Styliani Kleanthous  
+ Workshops Co-Chair  
+
+ Oren Tsur  
+ Workshops Co-Chair  
+
+ Minsu Park  
+ Workshop Co-Chair  
+
+ Gianluca Demartini  
+ Tutorial Co-Chair  
+
+ Dakuo Wang  
+ Tutorial Co-Chair  
+
+ Srijan Kumar  
+ Tutorial Co-Chair  
+
+ Kokil Jaidka  
+ Dataset Co-Chair  
+
+ Michael Sirivianos  
+ Dataset Co-Chair  
+
+ Francielle Vargas  
+ Dataset Co-Chair  
+
+ Siqi Wu  
+ Dataset Co-Chair  
+
+ Abeer Aldayel  
+ Data Challenge Co-Chair  
+
+ Steven Wilson  
+ Data Challenge Co-Chair  
+
+ Debora Nozza  
+ Data Challenge Co-Chair  
+
+ Kyriakos Kyriakou  
+ Web Co-Chair  
+
+ Pınar Barlas  
+ Web Co-Chair  
+
+ Savvas Zannettou  
+ Publicity Co-Chair  
+
+ Tun LU  
+ Publicity Co-Chair  
+
+ Kalia Orphanou  
+ Local Co-Chair  
+
+ Evgenia Christoforou  
+ Local Co-Chair  
+
+ Neil Shah  
+ Sponsorship Co-Chair  
+
+ Hemank Lamba  
+ Sponsorship Co-Chair  
+
+ Orestis Papakyriakopoulos   
+ Diversity & Inclusion Chair  
+
+ Maria Kasinidou  
+ Student Scholarship Chair  
+
+ Xiaojuan Ma  
+ Global Equity Chair  
+
+  Editors-in-Chief  
+
+ Yu-Ru Lin  
+
+ Daniele Quercia  
+
+ Meeyoung Cha  
+
+  Steering Committee  
+
+ Ingmar Weber  
+
+ Jeff Hancock  
+
+ Kate Starbird  
+
+ Ceren Budak  
+
+ Fred Morstatter  
+
+ Jürgen Pfeffer  
+
+ Yu-Ru Lin  
+
+ Munmun De Choudhury  
+
+ Rumi Chunara  
+
+ Aron Culotta  
+
+ Brooke F. Wells  
+
+ Daniele Quercia  
+
+ Meeyoung Cha  
+
+ Jason Nurse  
+
+ Afra Mashhadi  
+
+ Kenny Joseph  
+
+ Ella Haig  
+
+ Diyi Yang  
+
+ Yelena Mejova  
+
+ Jisun An  
+
+ Luca Maria Aiello  
+
+ Tanu Mitra  
+
+  Program Committees  
+
+  Senior Program Commitee   
+
+  Pablo Aragon  
+  Siqi Wu  
+  Andreas Spitz  
+  Jeremy Blackburn  
+  Savvas Zannettou  
+  Arkaitz Zubiaga  
+  Giovanni Luca Ciampaglia  
+  Kokil Jaidka  
+  Michele Coscia  
+  Aron Culotta  
+  Martin Saveski  
+  Renaud Lambiotte  
+  Sarita Schoenebeck  
+  Sanja Scepanovic  
+    
+ Walid Magdy  
+  Tyler Derr  
+  Hemant Purohit  
+  Tim Althoff  
+  Gianmarco De Francisci Morales  
+  Kenneth Joseph  
+  Xing Xie  
+  Oren Tsur  
+  Ingmar Weber  
+  Emre Kiciman  
+  Tim Weninger  
+  Haewoon Kwak  
+  Luca Rossi  
+  Afra Mashhadi  
+    
+ Koustuv Saha  
+  Emma Spiro  
+  Hemank Lamba  
+  Daniel Romero  
+  Juhi Kulshrestha  
+  Palakorn Achananuparp  
+  Subhayan Mukerjee  
+  Cody Buntain  
+  Mainack Mondal  
+  Soroush Vosoughi  
+  Rossano Schifanella  
+  Shaomei Wu  
+  Jisun An  
+
+  Program Commitee   
+
+  Abeer ALDayel  
+  Abhishek Ray  
+  Aiping Xiong  
+  Akshith Ullal  
+  Aleksandra Urman  
+  Alexander Liu  
+  Alexandre Bovet  
+  Alexandros Efstratiou  
+  Alexey Malyshev  
+  Alexi Quintana Mathe  
+  Allison Morgan  
+  Amanda Hughes  
+  Amir Karami  
+  Andres Abeliuk  
+  Andrew Beers  
+  Anjalie Field  
+  Anmol Panda  
+  Antonis Papasavva  
+  Arshia Arya  
+  Ashish Sharma  
+  Barry Bradlyn  
+  Bing He  
+  Brianna Dym  
+  Byoungjip Kim  
+  Carlos Toxtli  
+  Changtao Zhong  
+  Charalampos Chelmis  
+  Chen Wang  
+  Chiara Boldrini  
+  Chiyu Zhang  
+  Cristina Menghini  
+  David Corney  
+  David Holtz  
+  Deepak Kumar  
+  Desheng Hu  
+  Despoina Chatzakou  
+  Diego Saez-Trumper  
+  Dominik Baer  
+  Dong Nguyen  
+    
+ Ehsan-Ul Haq  
+  Ellen Simpson  
+  Emily Tseng  
+  Farshad Kooti  
+  Faysal Hossain Shezan  
+  Flavio Figueiredo  
+  Francesco Pierri  
+  Galen Weld  
+  Gareth Tyson  
+  Gaurav Verma  
+  Gianluca Stringhini  
+  Hamidreza Alvari  
+  Hans Hanley  
+  Ihab AbuHilal  
+  Indira Sen  
+  Isaac Johnson  
+  Jacob Thebault-Spieker  
+  Jalehsadat Mahdavimoghaddam  
+  Jamie Mahoney  
+  Joel Nishimura  
+  Joobin Gharibshah  
+  Joshua Uyheng  
+  Julie Jiang  
+  Kai-Cheng Yang  
+  Kareem Darwish  
+  Kaylea Champion  
+  Keiichi Ochiai  
+  Keith Burghardt  
+  Kristen Engel  
+  Kristina Gligoric  
+  Kunihiro Miyazaki  
+  Laura Dilley  
+  lele sha  
+  Li Qiwei  
+  Lingzi Hong  
+  Lisa Friedland  
+  Lisette Espin Noboa  
+  Luc Rocher  
+  Lucas Oliveira  
+    
+ Manas Gaur  
+  Manoel Horta Ribeiro  
+  Marco Brambilla  
+  Marco Viviani  
+  Maria Antoniak  
+  Marianne Aubin Le  
+  Mark Whiting  
+  Matthew Facciani  
+  Matthew Mauriello  
+  Michael Sirivianos  
+  Mikey Cohen  
+  Minje Choi  
+  Mirco Schoenfeld  
+  Mirko Marras  
+  Morgan Frank  
+  Neil Johnson  
+  Nicholas Vincent  
+  Noveen Sachdeva  
+  Orestis Papakyriakopoulos  
+  Patrick Gildersleve  
+  Pedro Vaz-de-Melo  
+  Ponnurangam Kumaraguru  
+  Priyanka Sinha  
+  Qiwei Han  
+  Rahul Singh  
+  Raiyan Abdul Baten  
+  Rakibul Hasan  
+  Régis Ebeling  
+  Reid Priedhorsky  
+  Rishabh Misra  
+  Ryota Kobayashi  
+  Sabirat Rubya  
+  Sagar Joglekar  
+  Saket Gurukar  
+  Sameera Horawalavithana  
+  Sanjana Mendu  
+  Satrio Yudhoatmojo  
+  Shangbang Long  
+  Shangbin Feng  
+    
+ Sharath Chandra Guntuku  
+  Sho Tsugawa  
+  Shreyansh Bhatt  
+  Sohyeon Hwang  
+  Song Jiang  
+  Stefan Feuerriegel  
+  Stevie Chancellor  
+  Suhang Wang  
+  Teng Ye  
+  Thomas Davidson  
+  Tiziano Piccardi  
+  Tomu Tominaga  
+  Tuğrulcan Elmas  
+  Tuan-Anh Hoang  
+  Tunazzina Islam  
+  Usman Naseem  
+  Veniamin Veselovsky  
+  Vibhor Agarwal  
+  Viktor Pekar  
+  Vipul Raheja  
+  Weizhi Meng  
+  Wenqi Wei  
+  Xingzhi Guo  
+  Yelena Mejova  
+  Yichen Wang  
+  Yifang Ma  
+  Yilei Zeng  
+  Yiming Liao  
+  Yingjie Li  
+  Yonas Mitike Kassa  
+  Youssef Al Hariri  
+  Yu Tian  
+  Yunhe Feng  
+  Yuying Zhao  
+  Zhengxiong Li  
+  Zhijun Yin  
+  Zhuoran Lu  
+  Zijian Wang  
+
+   Previous ICWSMs  
+
+  Boulder, U.S. (2007)  
+
+  Seattle, U.S. (2008)  
+
+  San Jose, U.S. (2009)  
+
+  Washington D.C., U.S. (2010)  
+
+  Barcelona, Spain (2011)  
+
+  Dublin, Ireland (2012)  
+
+  Boston, U.S. (2013)  
+
+  Ann Arbor, U.S. (2014)  
+
+  Oxford, U.K. (2015)  
+
+  Cologne, Germany (2016)  
+
+  Montreal, Canada (2017)  
+
+  Stanford, U.S. (2018)  
+
+  Munich, Germany (2019)  
+
+  Virtual Conference (2020)  
+
+  Virtual Conference (2021)  
+
+  Atlanta, Georgia and Online (2022)  
+
+   Top ICWSM papers by citation (Google Scholar h5)   
+  AAAI Digital Library   
+
+  Contact Us  
+
+ Email  
+ Drop us an email at icwsm23@aaai.org  . For anything particularly related to social media and publicity, contact us at communications@icwsm.org  .  
+
+ Twitter  
+ You can just send a message to @icwsm,  if you're talking about ICWSM include the hashtag #icwsm  so we can track all the chatter.  
+
+ Facebook  
+ We're at facebook.com/icwsm  .  
+
+ Instagram  
+ Stay updated with our Instagram  feed.  
+
+ Silver Sponsors  
+
+  Bronze Sponsors  
+
+ Navigation Links  
+  Home 
+  Submit 
+  Attend 
+  Organization 
+    
+ Sponsorship 
+  Previous ICWSMs 
+  Contact 
+
+  Tweets by icwsm    
+
+ Copyright © 2024 All rights reserved | This template is made with  by Colorlib   
+  Modified by Kyriakos Kyriakou  to meet the conference needs and branding identity of the ICWSM 2023.  
+  Icons made by Yannick  , Gregor Cresnar  , Freepik  , Pixel perfect  from www.flaticon.com  messages.attribution.is_licensed_by CC 3.0 BY

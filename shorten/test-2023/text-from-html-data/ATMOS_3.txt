@@ -1,0 +1,70 @@
+  AofA 
+  APPROX 
+  ATMOS 
+  CALCO 
+  CCC 
+ 23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)  
+  Part of: | Series: | Open Access Series in Informatics (OASIcs) | Part of: | Conference: | Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS) 
+ Event  
+ ATMOS 2023, September 7-8, 2023, Amsterdam, The Netherlands   
+ Editors  
+ Daniele Frigioni            
+ Publication Details  
+ published at: 2023-08-31 
+  Publisher: Schloss Dagstuhl – Leibniz-Zentrum für Informatik 
+  DBLP: | db/conf/atmos/atmos2023 
+  Access Numbers  
+ Authors:  Ekkehard Köhler, Markus Rogge, Robert Scheffler, and Martin Strehler  
+  Abstract    
+ With the increasing popularity of cycling as a mode of transportation, there is a growing need for efficient routing algorithms that consider the specific requirements of cyclists. This paper studies the optimization of bicycle routes while minimizing the number of stops at traffic signals. In particular, we consider three different types of stopping strategies and three types of routes, namely paths, trails, and walks. We present hardness results as well as a pseudo-polynomial algorithm for the problem of computing an optimal route with respect to a pre-defined stop bound.   
+  Cite as    
+  Document   
+ Short Paper   
+ Convergence Properties of Newton’s Method for Globally Optimal Free Flight Trajectory Optimization (Short Paper)   
+ Authors:  Ralf Borndörfer, Fabian Danecker, and Martin Weiser  
+  Abstract    
+ Authors:  Berenike Masing, Niels Lindner, and Christian Liebchen  
+  Abstract    
+ We consider maintenance sites for urban rail systems, where unavailable tracks typically require changes to the regular timetable, and often even to the line plan. In this paper, we present an integrated mixed-integer linear optimization model to compute an optimal line plan that makes best use of the available tracks, together with a periodic timetable, including its detailed routing on the tracks within the stations. The key component is a flexible, turn-sensitive event-activity network that allows to integrate line planning and train routing using a track choice extension of the Periodic Event Scheduling Problem (PESP). Major goals are to maintain as much of the regular service as possible, and to keep the necessary changes rather local. Moreover, we present computational results on real construction site scenarios on the S-Bahn Berlin network. We demonstrate that this integrated problem is indeed solvable on practically relevant instances.   
+  Cite as    
+ Authors:  Enrico Bortoletto, Niels Lindner, and Berenike Masing  
+  Abstract    
+ Periodic timetabling for highly utilized railway networks is a demanding challenge. We formulate an infrastructure-aware extension of the Periodic Event Scheduling Problem (PESP) by requiring that not only events, but also activities using the same infrastructure must be separated by a minimum headway time. This extended problem can be modeled as a mixed-integer program by adding constraints on the sum of periodic tensions along certain cycles, so that it shares some structural properties with standard PESP. We further refine this problem by fixing cyclic orders at each infrastructure element. Although the computational complexity remains unchanged, the mixed-integer programming model then becomes much smaller. Furthermore, we also discuss how to find a minimal subset of infrastructure elements whose cyclic order already prescribes the order for the remaining parts of the network, and how cyclic order information can be modeled in a mixed-integer programming context. In practice, we evaluate the impact of cyclic orders on a real-world instance on the S-Bahn Berlin network, which turns out to be computationally fruitful.   
+  Cite as    
+ Authors:  Peerawit Suriya, Vorapong Suppakitpaisarn, Supanut Chaidee, and Phapaengmueng Sukkasem  
+  Abstract    
+ This paper considers facility location problems within dynamic flow networks, shifting the focus from minimizing evacuation time to handling situations with a constrained evacuation timeframe. Our study sets two main goals: 1) Determining a fixed-size set of locations that can maximize the number of evacuees, and 2) Identifying the smallest set of locations capable of accommodating all evacuees within the time constraint. We introduce flow_t(S) to represent the number of evacuees for given locations S within a fixed time limit t. We prove that flow_t functions is a monotone submodular function, which allows us to apply an approximation algorithm specifically designed for maximizing such functions with size restrictions. For the second objective, we implement an approximation algorithm tailored to solving the submodular cover problem. We conduct experiments on the real datasets of Chiang Mai, and demonstrate that the approximation algorithms give solutions which are close to optimal for all of the experiments we have conducted.   
+  Cite as    
+ Authors:  Akira Matsubayashi and Yushi Saito  
+  Abstract    
+ Braess’s paradox is a counterintuitive and undesirable phenomenon, in which for a given graph with prescribed source and sink vertices and cost functions for all edges, removal of edges decreases the cost of a Nash flow from source to sink. The problem of deciding if the phenomenon occurs is generally NP-hard. In this paper, we consider the problem of deciding if, for a given graph with prescribed source and sink vertices, Braess’s paradox does not occur for any cost functions. It is known that this problem can be solved in O(nm²) time for directed graphs, where n and m are the numbers of vertices and edges of the input graph, respectively. In this paper, we propose a faster O(m²) time algorithm solving this problem for directed graphs. Our approach is based on a simple implementation of a known characterization that the subgraph of a given graph induced by all source-sink paths is series-parallel. The faster running time is achieved by speeding up the simple implementation using another characterization that a certain structure is embedded in the given graph. Combined with a known technique, the proposed algorithm can also be used to design a faster O(km²) time algorithm for directed graphs with k source-sink pairs, which improves the previous O(knm²) time algorithm.   
+  Cite as    
+ Authors:  Philip de Bruin, Marjan van den Akker, Han Hoogeveen, and Marcel van Kooten Niekerk  
+  Abstract    
+ To try to make the world more sustainable and reduce air pollution, diesel buses are being replaced with electric buses. This leads to challenges in scheduling, as electric buses need recharging during the day. Moreover, buses encounter varying traffic conditions and passenger demands, leading to delays. Scheduling electric buses with these stochastic driving times is also called the Stochastic Vehicle Scheduling Problem. The classical approach to make a schedule more robust against these delays, is to add slack to the driving time. However, this approach doesn't capture the variance of a distribution well, and it doesn't account for dependencies between trips. We use discrete event simulation in order to evaluate the robustness of a schedule. Then, to create a schedule, we use a hybrid approach, where we combine integer linear programming and simulated annealing with the use of these simulations. We show that with the use of our hybrid algorithm, the punctuality of the buses increase, and they also have a more timely arrival. However, we also see a slight increase in operating cost, as we need slightly more buses compared to when we use deterministic driving times.   
+  Cite as    
+  Document   
+ Short Paper   
+ Non-Linear Charge Functions for Electric Vehicle Scheduling with Dynamic Recharge Rates (Short Paper)   
+ Authors:  Fabian Löbel, Ralf Borndörfer, and Steffen Weider  
+  Abstract    
+ Authors:  Aigerim Saken and Stephen J. Maher  
+  Abstract    
+ Subproblem separation is a common strategy for the acceleration of the logic-based Benders' decomposition (LBBD). However, it has only been applied to problems with an inherently separable subproblem structure. This paper proposes a new method to separate the subproblem using the connected components algorithm. The subproblem separation is applied to the vehicle routing problem with local congestion (VRPLC). Accordingly, new Benders' cuts are derived for the new subproblem formulation. The computational experiments evaluate the effectiveness of subproblem separation for different methods applying new cuts. It is shown that subproblem separation significantly benefits the LBBD scheme.   
+  Cite as    
+  Document   
+ Short Paper   
+ Optimizing Fairness over Time with Homogeneous Workers (Short Paper)   
+ Authors:  Bart van Rossum, Rui Chen, and Andrea Lodi  
+  Abstract    
+ There is growing interest in including fairness in optimization models. In particular, the concept of fairness over time, or, long-term fairness, is gaining attention. In this paper, we focus on fairness over time in online optimization problems involving the assignment of work to multiple homogeneous workers. This encompasses many real-life problems, including variants of the vehicle routing problem and the crew scheduling problem. The online assignment problem with fairness over time is formally defined. We propose a simple and interpretable assignment policy with some desirable properties. In addition, we perform a case study on the capacitated vehicle routing problem. Empirically, we show that the most cost-efficient solution usually results in unfair assignments while much more fair solutions can be attained with minor efficiency loss using our policy.   
+  Cite as    
+  Document   
+ Short Paper   
+ Simple Policies for Capacitated Resupply Problems (Short Paper)   
+ Authors:  Mette Wagenvoort, Martijn van Ee, Paul Bouman, and Kerry M. Malone  
+  Abstract    
+ We consider the Capacitated Resupply Problem in which locations with a given demand rate should be resupplied by vehicles such that they do not run out of stock and the number of vehicles is minimised. Compared to related problems, we consider the scenario where the payload of the vehicles may not suffice to bring the stock level back to full capacity. We focus on the Homogeneous Capacitated Resupply Problem and present both simple policies that provide 2-approximations and an optimal greedy policy that runs in pseudo-polynomial time.   
+  Cite as    
+  TGDK – Transactions on Graph Data and Knowledge 
+ © 2023-2024 Schloss Dagstuhl – LZI GmbH  Imprint  Privacy  Contact

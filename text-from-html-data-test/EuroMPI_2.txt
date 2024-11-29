@@ -1,0 +1,131 @@
+Skip to main content    Menu          Navigation   Research | Arrow | Research Index 
+  Scientific Publications 
+  National User Facilities 
+  Collaborative Research 
+  Research Organizations 
+  Research Facilities 
+  Research Highlights 
+  Work with Us | Arrow | Available Technologies 
+  Capabilities 
+  Collaborative Partnerships 
+  Contracts and Agreements 
+  Discovery to Impact 
+  Economic Impact 
+  Procurement 
+  Community | Arrow | Take a Tour of Argonne 
+  Educational Programs 
+  Office of Community Engagement 
+  Argonne in Chicago 
+  OutLoud Lecture Series 
+  Community Round Table 
+  Speakers Bureau 
+  Sustainability 
+  Subscribe to Argonne 
+  About Us | Arrow | Our Leadership 
+  Our Core Values 
+  Our History 
+  Our Commitment to Safety 
+  Diversity & Inclusion 
+  Awards & Recognition 
+  Visiting Argonne 
+   
+ Careers 
+  News 
+  Events 
+  Staff Directory 
+
+                Argonne National Laboratory    
+   
+ Search    Search        
+
+ Awards and Recognition  |  Mathematics and Computer Science  Researchers receive Best Paper Award at European MPI  users meeting  
+
+ MCS Menu  
+ MCS Division 
+  About MCS | Open Sublist | Leadership 
+  Our History 
+  Career Opportunities 
+  Staff Directory 
+  For Employees 
+  Awards & Recognition 
+  Visiting MCS 
+  Research | Open Sublist | Focus Areas 
+  Research Groups 
+  Projects 
+  Research Highlights 
+  Software 
+  Centers and Institutes 
+  Collaborative Research 
+  Computing Resources 
+  J. H. Wilkinson Prize 
+  News 
+  Events 
+  Publications 
+
+ Share  
+ Facebook 
+  LinkedIn 
+  X (formerly Twitter) 
+  Email 
+
+ By Gail Pieper   
+  |  November 1, 2023    
+    
+ Hui Zhou, a principal software development specialist in the MCS  division at Argonne, was co-author of  ​ “  MPI  Application Binary Interface Standardization,” which received the Best Paper award at the EuroMPI  ​ ’  23 conference in September 2023.   
+
+    MPI  , or the Message Passing Interface, is widely used for high-performance computing workloads. While it is standardized in terms of the C and Fortran programming languages, however, it is not implementation agnostic; and the increasing adoption of MPI  by applications written in languages other than C and Fortran has motivated the development of an application binary interface ( ABI  ).  
+ The proposal presented in this award-winning paper represents recent efforts by the MPI  Forum’s ABI  working group to develop a standard ABI  for MPI  that effectively addresses this issue.  
+ “  We successfully tested our prototype implementation both within MPICH  and as an independent abstraction layer,” Zhou said.  
+ The researchers acknowledge that realizing the full potential of a standard ABI  will likely take some time. The ABI  must be standardized by the MPI  Forum and implemented by the major implementations such as MPICH  ; and MPI  users will have to recompile everything against the MPI  ABI  .  
+ Nevertheless, Zhou and his colleagues say that they are confident that ultimately having a standard MPI  ABI  will  ​ “  significantly reduce the pain of using MPI  in a variety of contexts and will encourage greater use of MPI  in new domains.”  
+ For the full paper, see J. Hammond, L. D, Dalcin, Erik Schnetter, M. PéRache, J.-B. Besnard, J. Brown, G. B. Gadeschi, S. Byrne, J. Schuchart, and H. Zhou,  ​ “  MPI  Application Binary Interface Standardization  ,” in EuroMPI  ​ ’  23: Proceedings of the 30 th  European MPI  Users’ Group Meeting, September 2023, Article No.: 1, Pages 1–12.  
+
+ Tags:  MPI   
+  
+ CONTACT US   
+  
+ Mathematics and Computer Science General Inquiries  
+ info@mcs.anl.gov    
+
+ Related people  
+ Hui Zhou    
+ Principal Specialist, Research Software Engineering 
+    
+ Related Organizations  
+ Mathematics and Computer Science 
+
+ Argonne National Laboratory  9700 S. Cass Avenue 
+  Lemont, IL 60439 
+  +1-630-252-2000 | Facebook 
+  Flickr 
+  Instagram 
+  LinkedIn 
+  X (formerly Twitter) 
+  YouTube 
+  Footer menu  
+ Connect with Us   Tour the Laboratory 
+  Attend an OutLoud Lecture 
+  Subscribe to Argonne 
+  Find an Argonne Researcher 
+  Website Feedback 
+  Website Accessibility 
+  Contact Us 
+   Conduct Research With Us   Apply to Use Our User Facilities 
+  Collaborate with Our Centers, Institutes and Programs 
+  Become a Lab Technologist 
+  Conduct Thesis Research 
+  Apply for a Postdoc Appointment 
+   Partner with Us   Secure Our Nation 
+  Increase Manufacturing Competitiveness 
+  Unlock Energy Storage Potential 
+  Develop or License Technologies 
+  Gain Entrepreneurial Support 
+   Newsroom   Feature Stories 
+  In the News 
+  Press Releases 
+  Media Contacts 
+
+ U.S. Department of Energy Office of Science 
+  Vulnerability Disclosure Program 
+  Privacy & Security Notice 
+  For Employees

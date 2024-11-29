@@ -1,0 +1,1294 @@
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    
+<div id="page-wrapper">
+	<div id="page">
+
+					    <div data-drupal-messages-fallback="" class="hidden"></div>
+
+
+		
+		<header class="site-header" role="banner" aria-label="Site header">
+
+							<div class="site-header--header">
+					<div class="container">
+						<div class="row">
+							<div class="col">
+								<div class="d-flex align-items-stretch">
+									<div class="mr-auto d-flex align-items-center">
+										  
+<div id="block-nci-branding" class="clearfix block block-system block-system-branding-block">
+  
+    
+            <a href="/" title="Home" rel="home" class="brand">
+                  <img src="/themes/custom/nci/logo.svg" alt="Home">
+                <span class="sr-only">NCI</span>
+      </a>
+          </div>
+
+
+									</div>
+									<div class="d-none d-sm-flex align-items-end align-items-lg-stretch flex-column flex-lg-row">
+										  <nav role="navigation" aria-labelledby="block-secondarynavigation-menu" id="block-secondarynavigation" class="block block-menu navigation menu--secondary order-1 d-flex mt-auto mt-lg-0">
+            
+  <h2 class="sr-only" id="block-secondarynavigation-menu">Secondary navigation</h2>
+  
+
+        
+              <ul class="nav">
+                    <li class="align-items-center d-flex">
+        
+        
+        <a href="/about-us" data-drupal-link-system-path="node/43">          About us
+        </a>
+
+              </li>
+                <li class="menu-item--active-trail align-items-center d-flex">
+        
+        
+        <a href="/news-events" class="menu-item--active-trail" data-drupal-link-system-path="node/31">          News &amp; Events
+        </a>
+
+              </li>
+                <li class="align-items-center d-flex">
+        
+        
+        <a href="/media" data-drupal-link-system-path="node/16">          Media
+        </a>
+
+              </li>
+                <li class="align-items-center d-flex">
+        
+        
+        <a href="/contact" data-drupal-link-system-path="node/28">          Contact
+        </a>
+
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-searchnavigation-menu" id="block-searchnavigation" class="block block-menu navigation menu--search order-0 order-lg-2 d-flex">
+            
+  <h2 class="sr-only" id="block-searchnavigation-menu">Search navigation</h2>
+  
+
+        
+              <ul class="nav">
+                    <li class="align-items-center d-flex">
+        
+        
+        <a href="https://opus.nci.org.au/" class="text-primary" target="_blank" rel="nofollow noreferrer" data-icon="custom-icon custom-icon--document">          <i class="custom-icon custom-icon--document"></i><span>User guides</span>
+        </a>
+
+              </li>
+                <li class="align-items-center d-flex">
+        
+        
+        <a href="http://my.nci.org.au" class="text-primary no-upper" target="_blank" rel="nofollow noreferrer" data-icon="custom-icon custom-icon--user">          <i class="custom-icon custom-icon--user"></i><span>MyNCI</span>
+        </a>
+
+              </li>
+                <li class="align-items-center d-flex">
+        
+        
+        <a href="/search" class="search-link btn btn-info" data-icon="fal fa-search" data-drupal-link-system-path="search">          <i class="fal fa-search"></i><span>Search</span>
+        </a>
+
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div class="views-exposed-form block block-views block-views-exposed-filter-blocksite-search-page" data-drupal-selector="views-exposed-form-site-search-page" id="block-search-site-header">
+  
+    
+      <div class="content">
+      <form action="/search" method="get" id="views-exposed-form-site-search-page" accept-charset="UTF-8">
+  
+
+<div class="form-group">
+  <h2 class="sr-only">Site search</h2>
+  <div class="input-group flex-nowrap">
+
+    <div class="keywords-wrap"><input placeholder="Site search" data-drupal-selector="keywords-form-kegwsxckdbwteku4flmouucxmy1db7yq9q32oq85ke0" type="text" id="keywords__form-KeGWSxcKDbWtekU4fLMOuUcXMY1db7Yq9Q32Oq85KE0" name="keywords" value="" size="30" maxlength="128" class="form-text form-control">
+
+<label for="keywords__form-KeGWSxcKDbWtekU4fLMOuUcXMY1db7Yq9Q32Oq85KE0">Search</label>
+</div>
+
+    <div class="input-group-append">
+      <button data-drupal-selector="edit-submit-site-search-form-kegwsxckdbwteku4flmouucxmy1db7yq9q32oq85ke0" type="submit" id="edit-submit-site-search__form-KeGWSxcKDbWtekU4fLMOuUcXMY1db7Yq9Q32Oq85KE0" value="Search" class="button js-form-submit form-submit btn btn-primary"><i class="fal fa-search"></i><span>Search</span></button>
+
+
+    </div>
+  </div>
+
+  
+</div>
+
+
+</form>
+    </div>
+  </div>
+
+
+									</div>
+									<div class="d-flex align-items-center d-sm-none">
+																				<button id="mobile-menu-button" class="hamburger hamburger--spin d-block d-sm-none" type="button" aria-hidden="true" hidden="" aria-controls="mobile-menu">
+											<span class="label">
+												<span class="sr-only">Mobile</span>
+												Menu
+											</span>
+											<span class="hamburger-box">
+												<span class="hamburger-inner"></span>
+											</span>
+																						<span class="spinner"></span>
+										</button>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			
+												<div class="site-header--menu d-none d-sm-block">
+						  <nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation" class="block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-menu">Main navigation</h2>
+  
+
+        
+
+<div class="container main-menus-container">
+        <ul class="clearfix main-menu d-flex flex-nowrap justify-content-center">
+                <li>
+        
+                
+        <a href="/" data-drupal-link-system-path="<front>">          <span>Home</span>        </a>
+
+              </li>
+                <li>
+        
+                
+        <a href="/our-services" data-drupal-link-system-path="node/4">          <span>Our services</span><i class="fas fa-caret-down" data-fa-transform="shrink-3"></i>        </a>
+
+                  <button class="js-submenu-expand visually-hidden focusable btn btn-warning btn-sm">Expand <em>Our services</em> sub menu</button>
+
+          <div class="js-submenu">
+            <div class="container">
+              <div class="row">
+                <div class="offset-lg-1 col-lg-10 offset-xl-2 col-xl-8">
+                    <div class="row" role="list">
+              <div class="col-sm-4" role="group">
+                      <div role="listitem">
+          
+          
+          <a href="/our-services/supercomputing" data-drupal-link-system-path="node/70">            <i class="fal fa-long-arrow-right"></i><span>Supercomputing</span>
+          </a>
+        </div>
+                      <div role="listitem">
+          
+          
+          <a href="/our-services/data-services" data-drupal-link-system-path="node/66">            <i class="fal fa-long-arrow-right"></i><span>Data Services</span>
+          </a>
+        </div>
+                      <div role="listitem">
+          
+          
+          <a href="/our-services/data-collections-management" data-drupal-link-system-path="node/65">            <i class="fal fa-long-arrow-right"></i><span>Data Collections Management</span>
+          </a>
+        </div>
+            </div>
+          <div class="col-sm-4" role="group">
+                      <div role="listitem">
+          
+          
+          <a href="/our-services/virtual-research-environments" data-drupal-link-system-path="node/71">            <i class="fal fa-long-arrow-right"></i><span>Virtual Research Environments</span>
+          </a>
+        </div>
+                      <div role="listitem">
+          
+          
+          <a href="/our-services/data-storage" data-drupal-link-system-path="node/67">            <i class="fal fa-long-arrow-right"></i><span>Data Storage</span>
+          </a>
+        </div>
+                      <div role="listitem">
+          
+          
+          <a href="/our-services/visualisation" data-drupal-link-system-path="node/72">            <i class="fal fa-long-arrow-right"></i><span>Visualisation</span>
+          </a>
+        </div>
+            </div>
+          <div class="col-sm-4" role="group">
+                      <div role="listitem">
+          
+          
+          <a href="/our-services/hpc-optimisation" data-drupal-link-system-path="node/68">            <i class="fal fa-long-arrow-right"></i><span>HPC Optimisation</span>
+          </a>
+        </div>
+            </div>
+      </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+              </li>
+                <li>
+        
+                
+        <a href="/our-systems" data-drupal-link-system-path="node/80">          <span>Our systems</span><i class="fas fa-caret-down" data-fa-transform="shrink-3"></i>        </a>
+
+                  <button class="js-submenu-expand visually-hidden focusable btn btn-warning btn-sm">Expand <em>Our systems</em> sub menu</button>
+
+          <div class="js-submenu">
+            <div class="container">
+              <div class="row">
+                <div class="offset-lg-1 col-lg-10 offset-xl-2 col-xl-8">
+                    <div class="row" role="list">
+              <div class="col-sm-4" role="group">
+                      <div role="listitem">
+          
+          
+          <a href="/our-systems/hpc-systems" data-drupal-link-system-path="node/76">            <i class="fal fa-long-arrow-right"></i><span>HPC Systems</span>
+          </a>
+        </div>
+                      <div role="listitem">
+          
+          
+          <a href="/our-systems/cloud-systems" data-drupal-link-system-path="node/73">            <i class="fal fa-long-arrow-right"></i><span>Cloud Systems</span>
+          </a>
+        </div>
+            </div>
+          <div class="col-sm-4" role="group">
+                      <div role="listitem">
+          
+          
+          <a href="/our-systems/storage-systems" data-drupal-link-system-path="node/77">            <i class="fal fa-long-arrow-right"></i><span>Storage Systems</span>
+          </a>
+        </div>
+                      <div role="listitem">
+          
+          
+          <a href="/our-systems/status" data-drupal-link-system-path="node/166">            <i class="fal fa-long-arrow-right"></i><span>Live Status</span>
+          </a>
+        </div>
+            </div>
+      </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+              </li>
+                <li>
+        
+                
+        <a href="/users" data-drupal-link-system-path="node/88">          <span>For users</span><i class="fas fa-caret-down" data-fa-transform="shrink-3"></i>        </a>
+
+                  <button class="js-submenu-expand visually-hidden focusable btn btn-warning btn-sm">Expand <em>For users</em> sub menu</button>
+
+          <div class="js-submenu">
+            <div class="container">
+              <div class="row">
+                <div class="offset-lg-1 col-lg-10 offset-xl-2 col-xl-8">
+                    <div class="row" role="list">
+              <div class="col-sm-4" role="group">
+                      <div role="listitem">
+          
+          
+          <a href="/users/nci-helpdesk" data-drupal-link-system-path="node/83">            <i class="fal fa-long-arrow-right"></i><span>NCI Helpdesk</span>
+          </a>
+        </div>
+                      <div role="listitem">
+          
+          
+          <a href="/users/nci-terms-and-conditions-access" data-drupal-link-system-path="node/75">            <i class="fal fa-long-arrow-right"></i><span>Terms and Conditions of Access</span>
+          </a>
+        </div>
+            </div>
+          <div class="col-sm-4" role="group">
+                      <div role="listitem">
+          
+          
+          <a href="/users/how-access-nci" data-drupal-link-system-path="node/79">            <i class="fal fa-long-arrow-right"></i><span>How to Access NCI</span>
+          </a>
+        </div>
+                      <div role="listitem">
+          
+          
+          <a href="/users/specialised-support" data-drupal-link-system-path="node/84">            <i class="fal fa-long-arrow-right"></i><span>Specialised Support</span>
+          </a>
+        </div>
+            </div>
+          <div class="col-sm-4" role="group">
+                      <div role="listitem">
+          
+          
+          <a href="/users/user-training" title="Information on training opportunities for NCI users" data-drupal-link-system-path="node/87">            <i class="fal fa-long-arrow-right"></i><span>User Training</span>
+          </a>
+        </div>
+            </div>
+      </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+              </li>
+                <li>
+        
+                
+        <a href="/research" class="no-upper" data-drupal-link-system-path="node/19">          <span>RESEARCH at NCI</span><i class="fas fa-caret-down" data-fa-transform="shrink-3"></i>        </a>
+
+                  <button class="js-submenu-expand visually-hidden focusable btn btn-warning btn-sm">Expand <em>RESEARCH at NCI</em> sub menu</button>
+
+          <div class="js-submenu">
+            <div class="container">
+              <div class="row">
+                <div class="offset-lg-1 col-lg-10 offset-xl-2 col-xl-8">
+                    <div class="row" role="list">
+              <div class="col-sm-4" role="group">
+                      <div role="listitem">
+          
+          
+          <a href="/research/case-studies" data-drupal-link-system-path="taxonomy/term/4">            <i class="fal fa-long-arrow-right"></i><span>Case Studies</span>
+          </a>
+        </div>
+                      <div role="listitem">
+          
+          
+          <a href="/research/research-collaborations" data-drupal-link-system-path="taxonomy/term/6">            <i class="fal fa-long-arrow-right"></i><span>Research Collaborations</span>
+          </a>
+        </div>
+            </div>
+          <div class="col-sm-4" role="group">
+                      <div role="listitem">
+          
+          
+          <a href="/research/research-highlights" data-drupal-link-system-path="taxonomy/term/5">            <i class="fal fa-long-arrow-right"></i><span>Research Highlights</span>
+          </a>
+        </div>
+                      <div role="listitem">
+          
+          
+          <a href="/research/publications" data-drupal-link-system-path="node/54">            <i class="fal fa-long-arrow-right"></i><span>Publications</span>
+          </a>
+        </div>
+            </div>
+          <div class="col-sm-4" role="group">
+                      <div role="listitem">
+          
+          
+          <a href="/research/humans" data-drupal-link-system-path="node/571">            <i class="fal fa-long-arrow-right"></i><span>Humans of NCI</span>
+          </a>
+        </div>
+            </div>
+      </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+              </li>
+        </ul>
+  
+</div>
+
+
+
+
+
+
+  </nav>
+
+
+					</div>
+									</header>
+
+		<section class="site-content">
+										
+					<header role="banner" class="is-custom site-content--header">
+
+												
+																				    
+
+
+<div class="header--page-banner has-bg d-flex align-items-center" style="background-image: url(/sites/default/files/styles/page_banner/public/banners/2019-07/conference-presentations.png?h=e1f26a64&amp;itok=GAexgmj9)">
+  <div class="container">
+    <div class="row">
+      <div class="col-xl-10 offset-xl-1 above-bg">
+        
+<div class="fields-inline tag-orange">
+    <div class="field field-name-field-date-range"><div class="field field-name-field-date-range field-label-visually-hidden visually-hidden">Event date</div><div class="nci-date-range-formatted"><span class="date">27 February - 02 March 2023</span>
+<span class="time" data-toggle="tooltip" data-placement="left" title="27 February 2023 9:00am until 02 March 2023 5:00pm">9am - 5pm</span>
+</div>
+</div><div class="field field-name-nci-simple-link"><a href="/news-events/events">Events</a></div>
+  </div>
+  <h1 class="title">
+  Supercomputing Asia 2023
+</h1>
+
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+					
+				</header>
+						
+				
+						
+
+			
+
+						<div class="site-content--main">
+				<div class="container site-content--main--wrap">
+					<div class="row">
+
+																				<main class="main-content col order-first col-xl-7 offset-xl-1 pr-lg-5" id="content" role="main">
+								<a id="main-content" tabindex="-1"></a>
+								  <div id="block-nci-content" class="block block-system block-system-main-block">
+  
+    
+      <div class="content">
+      <article class="node node--type-event node--view-mode-full ds-1col clearfix">
+
+  
+
+  <div class="field field-name-body text-formatted">
+      <h2 class="h3 field-label-above">Description</h2>
+  
+      <p>The SupercomputingAsia (SCA) conference aims to be a major supercomputing conference in Asia, where top supercomputers in the world are located. Co-organised by supercomputing centres of the region including those in Australia, Japan, Singapore and Thailand and anchored by the National Supercomputing Centre (NSCC) Singapore, it incorporates a number of important supercomputing and allied events that together aim to promote a vibrant and shared high-performance computing (HPC) ecosystem, for both the public and private sectors, in Asia.</p>
+
+<p>The International Conference on High Performance Computing in the Asia-Pacific Region (HPC Asia) is an international conference series for the Asia Pacific region on HPC technologies that fosters exchange of ideas, research results and case studies related to all issues of HPC. For the first time ever, HPC Asia 2023 will be co-located with SCA23 in Singapore. The HPC Asia and SCA events synergise the collaborative and collective strengths from two of Asia’s established conferences by bringing together key HPC researchers, academics, technology specialists and industry leaders from across the region and beyond.</p>
+
+<p>In addition, Conference on Next Generation Arithmetic (CoNGA), the leading conference on emerging technologies for computer arithmetic, will also be back once again and will be held in conjunction with SCA23. Gain the latest news and updates on the developments of breakthroughs with next generation data formats and their corresponding hardware, tools, applications and services and exchange ideas on what next generation arithmetic should be.</p>
+  </div>
+
+            <div class="field field--name-nci-next-prev field--type-ds field--label-hidden field__item">
+
+
+<nav aria-labelledby="prev-next-navigation">
+  <h3 id="prev-next-navigation" class="sr-only">Next and previous article navigation</h3>
+
+  <div class="row">
+
+    
+            
+            
+      <div class="col-md-6 prev text-left">
+        <a href="/news-events/events/symposium-advanced-materials-and-sustainable-technology-2022" class="d-flex align-items-center">
+          <div class="text flex-grow-1">
+            <h4 class="tag">Previous</h4>
+            Symposium on Advanced Materials and Sustainable Technology 2022
+          </div>
+
+                                <div class="image order-last">
+              <img alt="Previous article" src="/sites/default/files/styles/thumbnail/public/images/2022-08/Artboard%201.png?h=a2c3ad49&amp;itok=4I2DDftn">
+            </div>
+                            </a>
+      </div>
+
+    
+    
+            
+            
+      <div class="col-md-6 next text-right">
+        <a href="/news-events/events/cmip7-workshop-updates-and-new-challenges" class="d-flex align-items-center">
+
+          <div class="text flex-grow-1">
+            <h4 class="tag">Next</h4>
+            CMIP7 Workshop: updates and new challenges 
+          </div>
+
+                                <div class="image order-first">
+              <img alt="Next article" src="/sites/default/files/styles/thumbnail/public/images/2019-07/southern-ocean-change.png?h=4ca97f87&amp;itok=KY8a1qwe">
+            </div>
+                            </a>
+      </div>
+    
+  </div>
+
+</nav>
+</div>
+      
+
+</article>
+
+
+    </div>
+  </div>
+<div class="share-event block-content-basic block-block-content--basic block block-block-content block-block-content345dddb0-5d4c-408a-8db8-7f78abf49906" id="block-block-content-345dddb0-5d4c-408a-8db8-7f78abf49906">
+  
+      <h2>Share this event</h2>
+    
+      <div class="content">
+      <div class="block-content block-content--type-basic block-content--view-mode-full ds-1col clearfix">
+
+  
+
+  
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><ul class="social-share">
+	<li><a href="https://twitter.com/home?status=Supercomputing%20Asia%202023%0A%0Ahttps%3A%2F%2Fnci.org.au%2Fnews-events%2Fevents%2Fsupercomputing-asia-2023" target="_blank"><i class="fab fa-twitter"></i><span class="sr-only">Share via Twitter</span></a></li>
+        <li><a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fnci.org.au%2Fnews-events%2Fevents%2Fsupercomputing-asia-2023&amp;title=Supercomputing%20Asia%202023" target="_blank"><i class="fab fa-linkedin-in"></i><span class="sr-only">Share via LinkedIn</span></a></li>
+	<li><a href="mailto:?body=https%3A%2F%2Fnci.org.au%2Fnews-events%2Fevents%2Fsupercomputing-asia-2023&amp;subject=Supercomputing%20Asia%202023"><i class="fas fa-envelope"></i><span class="sr-only">Share via Email</span></a></li>
+</ul>
+</div>
+      
+
+</div>
+
+
+    </div>
+  </div>
+
+
+							</main>
+						
+																					<aside class="site-section--sidebar col-lg-3 mt-5 mt-lg-0" role="complementary">
+									  <div id="block-nci-menu-parent-defined" class="block block-nci-menu-parent block-nci-menu-parent-defined">
+  
+    
+      <div class="content">
+      <h4 class="tag back-link"><a href="/news-events/events"><i class="fal fa-long-arrow-left"></i>Back to Events</a></h4>
+    </div>
+  </div>
+<div id="block-entityviewcontent-2" class="block block-ctools block-entity-viewnode">
+  
+    
+      <div class="content">
+      <div class="node node--type-event node--view-mode-sidebar ds-1col clearfix">
+
+  
+<div>
+  <h3>Event details</h3>
+    <div class="field field-name-field-event-price">
+      <div class="field-label-above">Cost</div>
+  
+  <div class="content">
+
+    <i class="custom-icon custom-icon--coins"></i>
+
+          FREE
+      </div>
+</div>
+<div class="stacked-fields">
+    <div class="field field-name-field-date-range">
+      <div class="field-label-above">Date and time</div>
+  
+  <div class="content">
+
+    <i class="custom-icon custom-icon--calendar"></i>
+
+          <div class="nci-date-range-formatted"><span class="date">27 February - 02 March 2023</span>
+<span class="time" data-toggle="tooltip" data-placement="left" title="27 February 2023 9:00am until 02 March 2023 5:00pm">9am - 5pm</span>
+<span class="timezone">Asia/Singapore</span>
+</div>
+
+      </div>
+</div><div class="field field-name-nci-event-google"><a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;dates=20230227T090000/20230302T170000&amp;ctz=Asia/Singapore&amp;text=Supercomputing+Asia+2023" target="_blank">Google Calendar</a></div><div class="field field-name-nci-event-ics"><a href="data:text/calendar;charset=utf8;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOlNwYXRpZSBjYWxlbmRhci1saW5rcw0KQkVHSU46VkVWRU5UDQpVSUQ6YTcxZGQwZjQ5NDhlOTJmMTVmOWEzODlmZDAzOTEzOTYNClNVTU1BUlk6U3VwZXJjb21wdXRpbmcgQXNpYSAyMDIzDQpEVFNUQU1QOjIwMjMwMjI3VDAxMDAwMFoNCkRUU1RBUlQ6MjAyMzAyMjdUMDEwMDAwWg0KRFRFTkQ6MjAyMzAzMDJUMDkwMDAwWg0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg==" target="_blank">iCal export</a></div>
+  </div><div class="field field-name-field-link">
+      <div class="field-label-above">Event website</div>
+  
+  <div class="content">
+
+    <i class="custom-icon custom-icon--website"></i>
+
+          <a href="https://www.sc-asia.org/" rel="nofollow" target="_blank">sc-asia.org</a>
+      </div>
+</div>
+  </div>
+
+</div>
+
+
+    </div>
+  </div>
+
+
+								</aside>
+																		</div>
+				</div>
+			</div>
+		</section>
+
+		<footer class="site-footer">
+							
+									<div class="site-footer--second">
+						<div class="container">
+							<div class="row">
+								  <div id="block-needassistance" class="block-content-footer_icons block-block-content--footer_icons block block-block-content block-block-content5c989ccb-f06a-46a1-ba4c-34e8838a63c8 col-12 col-lg-8 col-xl-7 mb-2 mb-sm-4 mb-lg-0">
+  
+      <h2 class="mb-3 mb-lg-4">Need assistance?</h2>
+    
+      <div class="content d-md-flex">
+      
+  <div class="paragraph paragraph--type-footer-link-with-icon paragraph--view-mode-default mb-3 mb-md-0">
+
+  
+
+  <a href="/contact" target="" class="field-group-link d-flex">
+            <div class="field field--name-field-icon field--type-entity-reference field--label-hidden field__item"><div class="media media--type-icon media--view-mode-default">
+    <img width="500" height="500" src="/sites/default/files/icons/enquiries-dark.svg" alt="Enquiries" loading="lazy" typeof="foaf:Image">
+
+
+</div>
+
+</div>
+      
+<div class="flex-grow-1">
+    
+            <div class="field field--name-field-link-prefix field--type-string field--label-hidden field__item">General enquiries</div>
+      
+            <div class="field field--name-field-link field--type-link field--label-hidden field__item">(02) 6125 9800</div>
+      
+  </div></a>
+
+</div>
+
+
+  <div class="paragraph paragraph--type-footer-link-with-icon paragraph--view-mode-default mb-3 mb-md-0">
+
+  
+
+  <a href="/contact" target="" class="field-group-link d-flex">
+            <div class="field field--name-field-icon field--type-entity-reference field--label-hidden field__item"><div class="media media--type-icon media--view-mode-default">
+    <img width="500" height="500" src="/sites/default/files/icons/building-dark_0.svg" alt="Contact details" loading="lazy" typeof="foaf:Image">
+
+
+</div>
+
+</div>
+      
+<div class="flex-grow-1">
+    
+            <div class="field field--name-field-link-prefix field--type-string field--label-hidden field__item">See our</div>
+      
+            <div class="field field--name-field-link field--type-link field--label-hidden field__item">Contact details</div>
+      
+  </div></a>
+
+</div>
+
+
+  <div class="paragraph paragraph--type-footer-link-with-icon paragraph--view-mode-default mb-3 mb-md-0">
+
+  
+
+  <a href="https://help.nci.org.au" target="_blank" class="field-group-link d-flex">
+            <div class="field field--name-field-icon field--type-entity-reference field--label-hidden field__item"><div class="media media--type-icon media--view-mode-default">
+    <img width="500" height="500" src="/sites/default/files/icons/helpdesk-dark.svg" alt="Helpdesk" loading="lazy" typeof="foaf:Image">
+
+
+</div>
+
+</div>
+      
+<div class="flex-grow-1">
+    
+            <div class="field field--name-field-link-prefix field--type-string field--label-hidden field__item">Visit our</div>
+      
+            <div class="field field--name-field-link field--type-link field--label-hidden field__item">Helpdesk</div>
+      
+  </div></a>
+
+</div>
+
+
+
+
+
+    </div>
+  </div>
+<div id="block-stayuptodate" class="block-content-footer_icons block-block-content--footer_icons block block-block-content block-block-content2224b53d-1847-4906-b6aa-c02853948976 col-12 col-lg-4 col-xl-5">
+  
+      <h2 class="mb-3 mb-lg-4">Stay up to date</h2>
+    
+      <div class="content d-md-flex d-lg-block d-xl-flex align-items-end">
+
+      
+  <div class="paragraph paragraph--type-footer-link-with-icon paragraph--view-mode-default mb-3 mb-md-0">
+
+  
+
+  <a href="http://eepurl.com/dbZPIT" target="_blank" class="field-group-link d-flex">
+            <div class="field field--name-field-icon field--type-entity-reference field--label-hidden field__item"><div class="media media--type-icon media--view-mode-default">
+    <img width="500" height="500" src="/sites/default/files/icons/subscribe-dark_0.svg" alt="Subscribe" loading="lazy" typeof="foaf:Image">
+
+
+</div>
+
+</div>
+      
+<div class="flex-grow-1">
+    
+            <div class="field field--name-field-link-prefix field--type-string field--label-hidden field__item">NCI E-Newsletter</div>
+      
+            <div class="field field--name-field-link field--type-link field--label-hidden field__item">Subscribe</div>
+      
+  </div></a>
+
+</div>
+
+
+
+
+
+
+      <div class="social-icons ml-auto mt-4 mt-md-0 mt-lg-4 mt-xl-0">
+        <ul>
+          <li><a href="https://twitter.com/NCInews" rel="nofollow noreferrer" target="_blank"><i class="fab fa-2x fa-twitter"></i><span class="sr-only">Twitter</span></a></li>
+          <li><a href="https://www.youtube.com/user/NCINationalFacility" rel="nofollow noreferrer" target="_blank"><i class="fab fa-2x fa-youtube"></i><span class="sr-only">YouTube</span></a></li>
+          <li><a href="https://au.linkedin.com/company/national-computational-infrastructure" rel="nofollow noreferrer" target="_blank"><i class="fab fa-2x fa-linkedin-in"></i><span class="sr-only">LinkedIn</span></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+
+							</div>
+						</div>
+					</div>
+				
+									<div class="site-footer--third">
+						<div class="container">
+							<div class="row">
+								<div class="col">
+									  <nav role="navigation" aria-labelledby="block-footer-menu" id="block-footer" class="block block-menu navigation menu--footer">
+            
+  <h2 class="visually-hidden" id="block-footer-menu">Footer</h2>
+  
+
+        
+
+<div class="row align-items-lg-center">
+  <div class="col-sm-8 col-lg-9">
+            <ul class="nav">
+                <li>
+        
+        <a href="/privacy" data-drupal-link-system-path="node/157">Privacy</a>
+                </li><li>
+        
+        <a href="/copyright" data-drupal-link-system-path="node/159">Copyright</a>
+                </li><li>
+        
+        <a href="/disclaimer" data-drupal-link-system-path="node/160">Disclaimer</a>
+                </li><li>
+        
+        <a href="/contact" data-drupal-link-system-path="node/28">Contact us</a>
+                </li><li>
+        
+        <a href="/acknowledgment-country" target="_blank" data-drupal-link-system-path="node/709">Acknowledgement of Country</a>
+                </li><li>
+        
+        <a href="https://iconagency.com.au/" target="_blank">Site by Icon Agency</a>
+        </li></ul>
+  
+  </div>
+  <div class="d-none d-sm-block col-sm-4 col-lg-3 text-right">
+    <button class="btn btn-lg btn-outline-info collapsed" type="button" data-toggle="collapse" data-target="#block-sitemap" aria-expanded="false" aria-controls="block-sitemap">
+      <span class="d-sm-none d-md-inline">NCI</span> Sitemap
+      <i class="fal fa-bars fa-fw"></i>
+      <i class="fal fa-times fa-fw"></i>
+    </button>
+  </div>
+</div>
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-sitemap-menu" id="block-sitemap" class="block block-menu navigation menu--sitemap collapse">
+            
+  <h2 class="sr-only" id="block-sitemap-menu">Sitemap</h2>
+  
+
+        
+
+
+
+<div role="list" class="row sitemap-nav">
+
+      
+  
+          <div role="listitem" class="sitemap-col col-12 col-sm-6 col-lg-3">
+      <ul>
+  
+                  
+      <li>
+        <a href="/our-systems" data-drupal-link-system-path="node/80">        <span>Our Systems</span>
+      </a>
+
+        
+                          <ul>
+          <li>
+        
+                
+        <a href="/our-systems/hpc-systems" data-drupal-link-system-path="node/76">          <span>HPC Systems</span>
+        </a>
+              </li>
+          <li>
+        
+                
+        <a href="/our-systems/cloud-systems" data-drupal-link-system-path="node/73">          <span>Cloud Systems</span>
+        </a>
+              </li>
+          <li>
+        
+                
+        <a href="/our-systems/storage-systems" data-drupal-link-system-path="node/77">          <span>Storage Systems</span>
+        </a>
+              </li>
+          <li>
+        
+                
+        <a href="/our-systems/status" data-drupal-link-system-path="node/166">          <span>Live Status</span>
+        </a>
+              </li>
+        </ul>
+    
+              </li>
+
+            </ul>
+    </div>
+  
+      
+  
+          <div role="listitem" class="sitemap-col col-12 col-sm-6 col-lg-3">
+      <ul>
+  
+                  
+      <li>
+        <a href="/our-services" data-drupal-link-system-path="node/4">        <span>Our Services</span>
+      </a>
+
+        
+                          <ul>
+          <li>
+        
+                
+        <a href="/our-services/supercomputing" data-drupal-link-system-path="node/70">          <span>Supercomputing</span>
+        </a>
+              </li>
+          <li>
+        
+                
+        <a href="/our-services/data-services" data-drupal-link-system-path="node/66">          <span>Data Services</span>
+        </a>
+              </li>
+          <li>
+        
+                
+        <a href="/our-services/data-collections-management" data-drupal-link-system-path="node/65">          <span>Data Collections Management</span>
+        </a>
+              </li>
+          <li>
+        
+                
+        <a href="/our-services/virtual-research-environments" data-drupal-link-system-path="node/71">          <span>Virtual Research Environments</span>
+        </a>
+              </li>
+          <li>
+        
+                
+        <a href="/our-services/data-storage" data-drupal-link-system-path="node/67">          <span>Data Storage</span>
+        </a>
+              </li>
+          <li>
+        
+                
+        <a href="/our-services/visualisation" data-drupal-link-system-path="node/72">          <span>Visualisation</span>
+        </a>
+              </li>
+          <li>
+        
+                
+        <a href="/our-services/hpc-optimisation" data-drupal-link-system-path="node/68">          <span>HPC Optimisation</span>
+        </a>
+              </li>
+          <li>
+        
+                
+        <a href="/our-services/rd-activities" data-drupal-link-system-path="node/69">          <span>R+D Activities</span>
+        </a>
+              </li>
+        </ul>
+    
+              </li>
+
+            </ul>
+    </div>
+  
+      
+  
+          <div role="listitem" class="sitemap-col col-12 col-sm-6 col-lg-3">
+      <ul>
+  
+                  
+      <li>
+        <a href="/users" data-drupal-link-system-path="node/88">        <span>For Users</span>
+      </a>
+
+        
+                          <ul>
+          <li>
+        
+                
+        <a href="/users/nci-helpdesk" data-drupal-link-system-path="node/83">          <span>NCI Helpdesk</span>
+        </a>
+              </li>
+          <li>
+        
+                
+        <a href="/users/nci-terms-and-conditions-access" data-drupal-link-system-path="node/75">          <span>Access and Use Policies</span>
+        </a>
+              </li>
+          <li>
+        
+                
+        <a href="/users/how-access-nci" data-drupal-link-system-path="node/79">          <span>How to access NCI</span>
+        </a>
+              </li>
+          <li>
+        
+                
+        <a href="/users/specialised-support" data-drupal-link-system-path="node/84">          <span>Specialised Support</span>
+        </a>
+              </li>
+          <li>
+        
+                
+        <a href="/users/user-training" data-drupal-link-system-path="node/87">          <span>Training</span>
+        </a>
+              </li>
+          <li>
+        
+                
+        <a href="https://opus.nci.org.au/" target="_blank">          <span>User Guides</span>
+        </a>
+              </li>
+        </ul>
+    
+              </li>
+
+            </ul>
+    </div>
+  
+      
+  
+          <div role="listitem" class="sitemap-col col-12 col-sm-6 col-lg-3">
+      <ul>
+  
+                  
+      <li>
+        <a href="/research" data-drupal-link-system-path="node/19">        <span>Research at NCI</span>
+      </a>
+
+        
+                          <ul>
+          <li>
+        
+                
+        <a href="/research/research-highlights">          <span>Research Highlights</span>
+        </a>
+              </li>
+          <li>
+        
+                
+        <a href="/research/case-studies">          <span>Case Studies</span>
+        </a>
+              </li>
+          <li>
+        
+                
+        <a href="/research/research-collaborations">          <span>Research Collaborations</span>
+        </a>
+              </li>
+        </ul>
+    
+              </li>
+
+            </ul>
+    </div>
+  
+      
+  
+          <div role="listitem" class="sitemap-col col-12 col-sm-6 col-lg-3">
+      <ul>
+  
+                  
+      <li>
+        <a href="/news-events" data-drupal-link-system-path="node/31">        <span>News &amp; Events</span>
+      </a>
+
+        
+                          <ul>
+          <li>
+        
+                
+        <a href="/news" data-drupal-link-system-path="node/59">          <span>News</span>
+        </a>
+              </li>
+          <li>
+        
+                
+        <a href="/news-events/events" data-drupal-link-system-path="node/32">          <span>Events</span>
+        </a>
+              </li>
+          <li>
+        
+                
+        <a href="http://eepurl.com/dbZPIT" target="_blank">          <span>Newsletter</span>
+        </a>
+              </li>
+        </ul>
+    
+              </li>
+
+            </ul>
+    </div>
+  
+      
+  
+          <div role="listitem" class="sitemap-col col-12 col-sm-6 col-lg-3">
+      <ul>
+  
+                  
+      <li>
+        <a href="/about-us" data-drupal-link-system-path="node/43">        <span>About Us</span>
+      </a>
+
+        
+                          <ul>
+          <li>
+        
+                
+        <a href="/about-us/who-we-are" data-drupal-link-system-path="node/49">          <span>Who we are</span>
+        </a>
+              </li>
+          <li>
+        
+                
+        <a href="/about-us/governance" data-drupal-link-system-path="node/44">          <span>Governance</span>
+        </a>
+              </li>
+          <li>
+        
+                
+        <a href="/about-us/nci-staff" data-drupal-link-system-path="node/41">          <span>NCI Staff</span>
+        </a>
+              </li>
+          <li>
+        
+                
+        <a href="/about-us/history" data-drupal-link-system-path="node/82">          <span>History</span>
+        </a>
+              </li>
+          <li>
+        
+                
+        <a href="/about-us/annual-reports" data-drupal-link-system-path="node/47">          <span>Annual Reports</span>
+        </a>
+              </li>
+          <li>
+        
+                
+        <a href="/about-us/data-centre" data-drupal-link-system-path="node/81">          <span>Data Centre</span>
+        </a>
+              </li>
+          <li>
+        
+                
+        <a href="/about-us/working-nci" data-drupal-link-system-path="node/50">          <span>Working at NCI</span>
+        </a>
+              </li>
+          <li>
+        
+                
+        <a href="/about-us/collaborators" data-drupal-link-system-path="node/181">          <span>Collaborators</span>
+        </a>
+              </li>
+        </ul>
+    
+              </li>
+
+            </ul>
+    </div>
+  
+      
+  
+          <div role="listitem" class="sitemap-col col-12 col-sm-6 col-lg-3">
+      <ul>
+  
+                  
+      <li>
+        <a href="/media" data-drupal-link-system-path="node/16">        <span>Galleries</span>
+      </a>
+
+        
+              </li>
+
+  
+      
+  
+  
+                  
+      <li>
+        <a href="/contact" data-drupal-link-system-path="node/28">        <span>Contact Us</span>
+      </a>
+
+        
+              </li>
+
+  
+      
+  
+  
+                  
+      <li>
+        <a href="https://opus.nci.org.au/" target="_blank">        <span>User Guides</span>
+      </a>
+
+        
+              </li>
+
+  
+      
+  
+  
+                  
+      <li>
+        <a href="http://my.nci.org.au" target="_blank">        <span>MyNCI</span>
+      </a>
+
+        
+              </li>
+
+  
+      
+            </ul>
+    </div>
+  
+          <div role="listitem" class="sitemap-col col-12 col-sm-6 col-lg-3">
+      <ul>
+  
+                  
+      <li>
+        <a href="/search" data-drupal-link-system-path="search">        <span>Search</span>
+      </a>
+
+                  <div class="search-form">
+            <form action="/search" method="get" accept-charset="UTF-8">
+              <div class="form-group">
+                <div class="input-group flex-nowrap">
+                  <label for="footer-search-keywords" class="sr-only">Search</label>
+                  <input id="footer-search-keywords" name="keywords" placeholder="Enter keywords" maxlength="128" class="form-text form-control">
+                  <button type="submit" class="form-submit btn">
+                    <i class="fal fa-search"></i>
+                    <span>Search</span>
+                  </button>
+                </div>
+              </div>
+            </form>
+          </div>
+        
+              </li>
+
+  
+    </ul>
+  </div>
+
+</div>
+
+
+
+
+
+  </nav>
+
+
+								</div>
+							</div>
+						</div>
+					</div>
+									</footer>
+	</div>
+</div>
+
+	<div id="page-end">
+		  <div id="block-needsupport" class="block-content-side_support block-block-content--side_support block block-block-content block-block-content46b3b30a-23a6-4259-bdc7-6f10a29d66d9 Fixed sidebar-fixed-support">
+  
+      <h2>Need support?</h2>
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h3>Need help from one of our NCI support staff?</h3></div>
+      <div class="field field-name-field-link-sections"><div class="paragraph paragraph--type-link-sections paragraph--view-mode-default ds-1col clearfix">
+
+  
+
+  <div class="field field-name-field-title"><h4>Help desk</h4>
+</div>
+      <div class="field field--name-field-links-with-icons field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item"><div class="paragraph paragraph--type-link-with-icon paragraph--view-mode-default ds-1col clearfix">
+
+  
+
+  <a href="https://help.nci.org.au" target="_blank" class="field-group-link d-flex align-items-center flex-row">
+            <div class="field field--name-nci-icon-or-social field--type-ds field--label-hidden field__item">
+            <div class="field field--name-field-icon field--type-entity-reference field--label-hidden field__item"><div class="media media--type-icon media--view-mode-default">
+    <img width="500" height="500" src="/sites/default/files/icons/helpdesk-dark.svg" alt="Helpdesk" loading="lazy" typeof="foaf:Image">
+
+
+</div>
+
+</div>
+      </div>
+      
+            <div class="field field--name-field-link field--type-link field--label-hidden field__item">If you are an existing user, submit a help request at <span>help.nci.org.au</span></div>
+      </a>
+
+</div>
+
+</div>
+              <div class="field__item"><div class="paragraph paragraph--type-link-with-icon paragraph--view-mode-default ds-1col clearfix">
+
+  
+
+  <a href="mailto:help@nci.org.au" class="field-group-link d-flex align-items-center flex-row">
+            <div class="field field--name-nci-icon-or-social field--type-ds field--label-hidden field__item">
+            <div class="field field--name-field-icon field--type-entity-reference field--label-hidden field__item"><div class="media media--type-icon media--view-mode-default">
+    <img width="500" height="500" src="/sites/default/files/icons/subscribe-dark_0.svg" alt="Subscribe" loading="lazy" typeof="foaf:Image">
+
+
+</div>
+
+</div>
+      </div>
+      
+            <div class="field field--name-field-link field--type-link field--label-hidden field__item">help@nci.org.au</div>
+      </a>
+
+</div>
+
+</div>
+          </div>
+  
+
+</div>
+
+</div>
+
+
+    </div>
+  </div>
+
+
+	</div>
+
+	<nav id="mobile-menu" role="navigation" aria-hidden="true" hidden="" tabindex="-1"></nav>
+
+  </div>

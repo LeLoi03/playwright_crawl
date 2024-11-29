@@ -1,0 +1,76 @@
+IEEE websites place cookies on your device to give you the best user experience. By using our websites, you agree to the placement of these cookies. To learn more, read our Privacy Policy.   Accept & Close    
+
+  SEC 2023 – Trustworthy Edge Computing Workshop  
+  Organized in conjunction with ACM SEC 2023, Wilmington, DE, USA, Dec. 9th 2023  
+   
+  Edge computing has become a topic of significant interest in academic and industrial research, driven by the fundamental improvements in latency, bandwidth savings and energy efficiency it offers with respect to offloading application workloads. While many envisioned applications in edge computing are relevant in the context of real-time analytics and feedback, most of the research today approaches edge computing from a “best effort” perspective, focusing on expected/average system behavior.  
+
+  Nevertheless, in order to make edge computing appealing for consumer applications, trustworthiness must be considered as a key design objective. Thus, depending on the application, systems must go beyond the provisioning of average system behavior assurances. In this way, trustworthiness directly relates to predictability, latency as well as availability/reliability. However, beyond such standard metrics for networked systems, security and safety of edge-based applications will also play an important role, while relating properties of the edge infrastructure and of the associated applications running on top of the infrastructure.  
+  
+  We solicit contributions towards trustworthy edge computing systems and applications, such as (but not limited to):   
+ Theoretical and/or practical results targeting at predictability of edge computing systems with respect to computational and communication aspects 
+  Models and algorithms to determine trustworthiness of edge computing systems and corresponding applications 
+  Orchestration mechanisms to integrate edge and cloud computing resources 
+  Security, privacy and safety mechanisms for assurance of edge computing systems 
+  General theoretical and/or practical results on integrated communication and computation aspects of edge computing systems and applications 
+  Volunteer edge computing with distributed resource brokering 
+  Federated learning via edge systems in relation to safety, security and privacy 
+  Trustworthy edge -assisted artificial intelligence 
+  Application-oriented resource allocation and cross-layer optimization 
+  Software engineering aspects towards trustworthy edge systems and applications 
+  Consumer applications for trustworthy edge computing in residential, industry, or government sectors 
+  Service level agreements, contracts or similar approaches for handling multiple users/tenants settings in heterogeneous mixed criticality applications 
+  Social, economic and behavioral considerations for building sustainable edge computing systems and applications 
+  AI for trustworthy systems 
+  Distributed ledger technology (DLT) & blockchain for trustworthy edge computing 
+   
+  KEY DATES & Submission Instructions    
+  
+  Submission Deadline: July 21, 2023  August 20, 2023  hard deadline   
+  
+  Notification: September 22, 2023   
+  
+  Camera-ready paper deadline: October 6, 2023   
+  
+  Workshop: December 9, 2023   
+  
+  Only electronic submissions in PDF will be accepted. Submitted papers must be written in English and must render without error using standard PDF viewing tools. Submitted papers must be no longer than 6 single-spaced 8.5" x 11" pages including figures and tables, but excluding references, and using 10-point type on 12-point (single-spaced) leading, two-column format, Times Roman, or a similar font, within a text block 7.14" wide x 9.22" deep. IEEE Standard template for Latex and Word meet these specifications and can be found at: https://www.ieee.org/conferences/publishing/templates.html  . Papers not meeting these criteria will be rejected without review, and no deadline extensions will be granted for reformatting. Pages should be numbered, and figures and tables should be legible in black and white, without requiring magnification.  
+  
+  At least one author for each accepted paper for the TEC Workshop 2023 must register for the workshop.  
+  
+  Submission website: https://tec23.hotcrp.com    
+  
+  Organization    
+ TEC 2023 will be a half-day workshop with two paper presentation sessions, one keynote and potentially a poster / short-paper presentation session.  
+  
+  TPC co-chairs    
+ Jaya Prakash Champati, IMDEA Networks Institute, Madrid  
+ Prasad Calyam, University of Missouri-Columbia  
+  
+  Organizing Chair    
+ James Gross, KTH Stockholm  
+  
+  Technical Program Committee   
+ Baek-Young Choi, University of Missouri - Kansas City  
+ Wei Bao, University of Sydney  
+ Saptarshi Debroy, City University of New York  
+ Aaron Ding, TU Delft  
+ Paul Pop, DTU Kopenhagen  
+ Klaus Wehrle, RWTH Aachen University  
+ Liyao Xiang, Shanghai Jiao Tong University  
+ Hongwei Zhang, Iowa State University  
+ Michael Zink, University of Massachusetts  
+ Jianli Pan, George Mason University  
+ Roberto Morabito, University of Helsinki  
+ Li Chen, University of Louisiana at Lafayette  
+ Ing-Ray Chen, Virginia Tech  
+
+ Navigation bar  
+  
+  Important Dates   
+  
+  Workshop Organizers   
+  
+  Instructions for authors   
+  
+  Workshop Program

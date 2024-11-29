@@ -1,0 +1,60 @@
+Vol-3609   
+  urn:nbn:de:0074-3609-1  Copyright © 2023 for the individual papers by the papers' authors. Copyright © 2023  for the volume as a collection by its editors. This volume and its papers are published under the Creative Commons License Attribution 4.0 International ( CC BY 4.0  )  . 
+
+  IDDM 2023    
+  Informatics & Data-Driven Medicine 2023   
+  
+  Proceedings of the 6th International Conference on Informatics & Data-Driven Medicine   
+   
+ Bratislava, Slovakia, November 17-19, 2023  .  
+  
+  Edited by   
+ Nataliia Shakhovska  *  
+  Michal Kovac  **  
+  Ivan Izonin  ***  
+  Stephane Chretien  ****  
+   
+ * Lviv Polytechnic National University  , Institute of Computer Science and Information Technologies, 28a Bandery St., Building 5, Lviv, Ukraine  
+  ** Slovak University of Technology in Bratislava  , Faculty of Informatics and Information Technologies Ilkovičova 2 SK-842 16 Bratislava 4, Slovac Republic  
+  *** Lviv Polytechnic National University  , Institute of Computer Science and Information Technologies, 28a Bandery St., Building 5, Lviv, Ukraine  
+  **** Université Lumiere Lyon 2  , Faculty of Anthropology, Sociology and Political Science, 5 avenue Pierre Mendès-France Campus Porte des Alpes - Lyon 69676, France  
+
+  Table of Contents  
+ Preface | Summary: There were | 105 | papers submitted for peer-review to this conference. Out of these, | 31 | papers were accepted for this volume, | 22 | as regular papers and | 9 | as short papers. 
+   
+  Session 1   
+ Robust R-peak Detection using Deep Learning based on Integrating Domain Knowledge | 1-14 | Oleksii Kovalchuk | , | Pavlo Radiuk | , | Olexander Barmak | , | Iurii Krak 
+  Method and Software Tool for Generating Artificial Databases of Biomedical Images Based on Deep Neural Networks | 15-26 | Oleh Berezsky | , | Petro Liashchynskyi | , | Oleh Pitsun | , | Grygoriy Melnyk 
+  Mobile Cyber-Physical System for Diabetic Patients' Health Status Monitoring | 27-36 | Tetiana Hovorushchenko | , | Maksym Pytlyak | , | Olha Hovorushchenko | , | Illya Paionk | , | Vitaliy Osyadlyi | , | Artem Boyarchuk 
+  Open Public Data and Early Factor Analysis in a Developing Public Health Event | 37-47 | Serge Dolgikh 
+  Applying Convolutional Neural Network for Cancer Disease Diagnosis Based on Gene Expression Data | 48-61 | Sergii Babichev | , | Ihor Liakh | , | Vasyl Morokhovych | , | Andrii Honcharuk | , | Anatolii Balanda | , | Oleksandr Zaitsev 
+  Two-Stage Approach for Semantic Image Segmentation of Breast Cancer: Deep Learning and Mass Detection in Mammographic Images | 62-76 | Faycal Touazi | , | Djamel Gaceb | , | Marouane Chirane | , | Selma Hеrzallah 
+  Myocardium Segmentation using Two-Step Deep Learning with Smoothed Masks by Gaussian Blur | 77-91 | Vitalii Slobodzian | , | Pavlo Radiuk | , | Anastasiia Zingailo | , | Olexander Barmak | , | Iurii Krak 
+  A Data-Driven Simulation of Ukrainian Refugee Flows Impact on COVID-19 Dynamics in the UK | 92-102 | Dmytro Chumachenko | , | Vasyl Chomko | , | Ievgen Meniailov | , | Serhii Krivtsov | , | Halyna Padalko 
+  Health and Fitness Apps: An Analysis of Gamification Elements in Austria | 103-114 | Ana D. Domuta | , | Otilia Libal | , | Christine Strauss 
+  FedDDR: A Federated Improved DenseNet for Classification of Diabetic Retinopathy | 115-125 | Akansha Singh | , | Krishna Kant Singh 
+  Adaptive Metaheuristic Methods Based on the Covid-19 Virus’ Behavior and Measures for Fight It | 126-137 | Eugene Fedorov | , | Olga Nechyporenko | , | Maryna Leshchenko | , | Tetyana Utkina | , | Kostiantyn Rudakov | , | Nataliia Lada 
+  Generalizing the Antiviral Immune Response Model to Account for Adsorption Therapy in Conditions of Diffusion Perturbations and the Organism’s Temperature Response | 138-144 | Serhii Baranovsky | , | Andrii Bomba | , | Oksana Pryshchepa 
+  IoT Smart Implants: Information Security and the Implementation of Lightweight Cryptography | 145-156 | Inna Rozlomii | , | Andrii Yarmilko | , | Serhii Naumenko | , | Pavlo Mykhailovskyi 
+  Formation of Indicators for Evaluating the Model Based on a Set of Interconnected Data Sets in the Tasks of Communication Technologies in Healthcare | 157-166 | Alexander Trunov 
+  Identification of Personality Based on the Sphenoid Sinus Structure Using Machine Learning | 167-173 | Alina Nechyporenko | , | Marcus Frohme | , | Vladyslav Omelchenko | , | Victoriia Alekseeva | , | Andrii Lupyr | , | Vitaliy Gargin 
+  Session 2   
+ New CNN Stacking Model for Classification of Medical Imaging Modalities and Anatomical Organs on Medical Images | 174-188 | Mamar Khaled | , | Djamel Gaceb | , | Fayçal Touazi | , | Chakib Ammar Aouchiche | , | Youcef Bellouche | , | Ayoub Titoun 
+  Parallel Algorithms for Interpolation with Bezier Curves and B-Splines for Medical Data Recovery | 189-197 | Lesia Mochurad | , | Yulianna Mochurad 
+  Classification of Patients with the Development of Alzheimer's Disease using an Ensemble of Machne Learning Models | 198-216 | Mariia Nykoniuk | , | Nataliia Melnykova | , | Yurii Patereha | , | Dariusz Sala | , | Dariusz Cichoń 
+  HelpDiabeto: A user-friendly Tool for Diabetes Tracking and Monitoring | 217-228 | Houda El Bouhissi | , | Wissam Aitousekhri | , | Lahna Asbai 
+  Uncertain Model for Classification of Children's Neurological Diseases | 229-240 | Olga Rybytska | , | Ivanna Dronyuk | , | Andriy Pushnyk 
+  MLOps Approach for Automatic Segmentation of Biomedical Images | 241-248 | Oleh Berezsky | , | Oleh Pitsun | , | Grygoriy Melnyk | , | Yuriy Batko | , | Petro Liashchynskyi | , | Mykola Berezkyi 
+  The Peculiarities of Measuring Bone Density in Males and Females Using Uncertainty Calculation | 249-254 | Alina Nechyporenko | , | Viktor Reshetnik | , | Alla Dzyza | , | Victoriia Alekseeva | , | Andrii Lupyr | , | Vitaliy Gargin 
+  Indicators of the Course Remote Procedures Correction according to IoMT the Patient State Assessments in Restorative Medicine | 255-264 | Aleksander Trunov | , | Ivanna Dronyuk | , | Ivan Skopenko 
+  Enhanced Classification Models for Heart Disease Prediction in Precision Medicine | 265-278 | Nataliya Boyko | , | Iryna Dosiak 
+  Enhancing the Quality of Medical Services Through the QMS Medical Cloud Platform | 279-291 | Igor Pavliv | , | Volodymyr Pasichnyk 
+  Design Approaches and Tools for the Implementation of a Medicinal Cocktails Recommendation System | 292-302 | Sviatoslav Tyskyi | , | Solomiia Liaskovska | , | Andy T. Augousti 
+  Teaching Assistant Robots in Various Fields: Natural Sciences, Medicine and Specific Non-Deterministic Conditions | 303-309 | Roman Hasko | , | Oleksandra Hasko | , | Hakan Kutucu 
+  Genome Compression Using Program Synthesis | 310-321 | Denys Maletskyi | , | Volodymyr Shymanskyi 
+  A Hybrid Two-ML-based Classifier to Predict the Survival of Kidney Transplants One Month after Transplantation | 322-331 | Ivan Izonin | , | Yaroslav Tolstyak | , | Veronika Kachmar | , | Roman Tkachenko | , | Mariia Rashkevych | , | Valentyna Chopyak 
+  Multimodal Medical Data Learning Approaches for Digital Healthcare | 332-337 | Oleh Basystiuk | , | Nataliia Melnykova 
+  Investigation of PNN Optimization Methods to Improve Classification Performance in Transplantation Medicine | 338-345 | Myroslav Havryliuk | , | Nazarii Hovdysh | , | Yaroslav Tolstyak | , | Valentyna Chopyak | , | Natalya Kustra 
+    
+  2023-11-23: submitted by Ivan Izonin, metadata incl. bibliographic data published under Creative Commons CC0   
+  2024-01-07  : published on CEUR Workshop Proceedings (CEUR-WS.org, ISSN 1613-0073) | valid HTML5  |

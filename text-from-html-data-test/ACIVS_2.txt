@@ -1,0 +1,296 @@
+Advanced Concepts for Intelligent Vision Systems | springerprofessional.de  Skip to main content    Menü   Fachgebiete Chevron down icon     Chevron up icon        Automobil + Motoren    Bauwesen + Immobilien    Business IT + Informatik    Elektrotechnik + Elektronik    Energie + Nachhaltigkeit    Finance + Banking    Management + Führung    Marketing + Vertrieb    Maschinenbau + Werkstoffe    Versicherung + Risiko      
+   
+ DE     
+ EN      
+   
+ Bücher       
+   
+ Zeitschriften       
+   
+ Themenseiten Chevron down icon     Chevron up icon        Organisationspsychologie    Projektmanagement    Marketing    Smart Manufacturing      
+
+ Weitere Formate Chevron down icon     Chevron up icon        Podcasts    Webinare Technik    Webinare Wirtschaft    Kongresse    Veranstaltungskalender    Awards    MyNewsletter      
+
+ Jetzt Einzelzugang starten       
+   
+ Zugang für Unternehmen       
+   
+ Referenzkunden       
+   
+ Sustainability in Automotive       
+
+ Gesamtlebenszyklus wird immer wichtiger  
+ In der Digitalkonferenz am 5. Dezember 2024 geht es um die wachsende Bedeutung der Kreislaufwirtschaft in der Automobilindustrie und wie nachhaltige Werkstoffe sowie wiederverwendbare Komponenten dazu beitragen können.  
+
+ Springer Professional     
+   
+   Suche   Suchbegriffe eingeben       Suchen     
+  
+ Erweiterte Suche      
+
+  Anmelden      
+
+ Springer Professional  
+
+ JAVASCRIPT BENÖTIGT    
+ Bitte aktivieren Sie Java-Script in Ihrem Browser, damit Sie alle Vorteile und Funktionen dieser Website nutzen können.   
+
+  INTERNET EXPLORER WIRD NICHT MEHR UNTERSTÜZT    
+ Der Internet Explorer wird als Browser seitens Microsoft nicht mehr unterstützt. Für Ihr optimales Nutzungserlebnis wählen Sie bitte Microsoft Edge, Safari, Chrome oder Firefox als Browser.   
+
+ nach oben    
+
+ 2023 | Buch  
+
+ Kapitel lesen  Erstes Kapitel lesen     
+   
+ Advanced Concepts for Intelligent Vision Systems  
+ 21st International Conference, ACIVS 2023 Kumamoto, Japan, August 21–23, 2023 Proceedings  
+ herausgegeben von: Jaques Blanc-Talon, Patrice Delmas, Wilfried Philips, Paul Scheunders   
+   
+ Verlag: Springer Nature Switzerland    
+ Buchreihe : Lecture Notes in Computer Science    
+ Enthalten in: Springer Professional "Wirtschaft+Technik"  ,   Springer Professional "Technik"  ,   Springer Professional "Wirtschaft"    
+   
+ Inhaltsverzeichnis    
+
+      Suchen      
+ insite    
+ SUCHEN    
+
+ Über dieses Buch  
+ This book constitutes the proceedings of the 21st International Conference on Advanced Concepts for Intelligent Vision Systems, ACIVS 2023, held in Kumamoto, Japan, during August 2023.  
+  The 31 papers presented in this volume were carefully reviewed and selected from a total of 48 submissions. They were organized in topical sections named: Computer Vision, Affective Computing and Human Interactions, Managing the Biodiversity, Robotics and Drones, Machine Learning.  
+
+ MyTopic Alert   
+  Loggen Sie sich ein, um Ihre Alerts zu aktualisieren und Neue anzulegen.  
+
+ Anzeige   
+
+ Inhaltsverzeichnis  
+   
+ Frontmatter  
+  
+ A Hybrid Quantum-Classical Segment-Based Stereo Matching Algorithm  
+  Our contribution introduces a hybrid quantum-classical Stereo Matching algorithm that demonstrates the potential of using Quantum Annealing in Computer Vision in the future once quantum processors have enough qubits to support practical, real-world Computer Vision applications. The classical component of our approach involves dividing the input image into homogeneous color segments and using a local Stereo Matching technique to estimate their respective initial disparity planes. In the quantum component, we assign a label to each segment by the estimated disparity planes. Such a labeling problem is classically intractable. The outcomes of our experiments on the D-Wave quantum computer indicate that our method produces results that compare well with the ground truth. Nonetheless, the precision of our approach is greatly influenced by the quality of the initial image segmentation, which is a common challenge for all classical Stereo Matching methods that rely on segmentation-based techniques.  
+   
+ Shahrokh Heidari, Patrice Delmas   
+
+ Adaptive Enhancement of Extreme Low-Light Images  
+  Existing methods for enhancing dark images captured in a very low-light environment assume that the intensity level of the optimal output image is known and already included in the training set. However, this assumption often does not hold, leading to output images that contain visual imperfections such as dark regions or low contrast. To facilitate the training and evaluation of adaptive models that can overcome this limitation, we have created a dataset of 1500 raw images taken in both indoor and outdoor low-light conditions. Based on our dataset, we introduce a deep learning model capable of enhancing input images with a wide range of intensity levels at runtime, including ones that are not seen during training. Our experimental results demonstrate that our proposed dataset combined with our model can consistently and effectively enhance images across a wide range of diverse and challenging scenarios. Code is available at https://github.com/mklyu/CEL-net .  
+   
+ Evgeny Hershkovitch Neiterman, Michael Klyuchka, Gil Ben-Artzi   
+
+ Semi-supervised Classification and Segmentation of Forest Fire Using Autoencoders  
+  Forests play a crucial role in sustaining life on earth by providing vital ecosystem services and supporting a wide range of species. The unprecedented increase in forest fires aka ‘infernos’ due to global warming i.e. rising temperatures and changing weather patterns, is quite alarming. Recently, machine learning and computer vision-based techniques are leveraged to proactively analyze forest fire events. To this end, we propose novel semi-supervised classification and segmentation techniques using autoencoders to analyse forest fires, that require significantly less labelling effort in contrast to the fully-supervised methods. In particular, semi-supervised classification of forest fire using Convolutional autoencoders is proposed. Further, Class Activation Map-based techniques and patch-wise extraction methods are envisaged for the segmentation task. Extensive experiments are carried out on two publicly available large datasets i.e. FLAME and Corsican datasets. The proposed models are found to be outperforming the state-of-the-art approaches.  
+   
+ Akash Koottungal, Shailesh Pandey, Athira Nambiar   
+
+ Descriptive and Coherent Paragraph Generation for Image Paragraph Captioning Using Vision Transformer and Post-processing  
+  The task of visual paragraph generation involves generating a descriptive and coherent paragraph based on an input image. The current state-of-the-art approaches use Regions of Interest (RoI) identification to generate paragraphs. The proposed approach eliminates the need for RoI identification. A transformer-based encoder-decoder model is used for paragraph generation. A post-processing step is introduced to enhance the semantic relevance of the generated paragraphs. This is achieved by incorporating the image-text similarity scores and related-classes similarity scores. The results of our studies demonstrate that the proposed model generates paragraphs with improved coherence and a higher Flesch reading ease score.  
+   
+ Naveen Vakada, C. Chandra Sekhar   
+
+ Pyramid Swin Transformer for Multi-task: Expanding to More Computer Vision Tasks  
+  We presented the Pyramid Swin Transformer, a versatile and efficient architecture tailored for object detection and image classification. This time we applied it to a wider range of tasks, such as object detection, image classification, semantic segmentation, and video recognition tasks. Our architecture adeptly captures local and global contextual information by employing more shift window operations and integrating diverse window sizes. The Pyramid Swin Transformer for Multi-task is structured in four stages, each consisting of layers with varying window sizes, facilitating a robust hierarchical representation. Different numbers of layers with distinct windows and window sizes are utilized at the same scale. Our architecture has been extensively evaluated on multiple benchmarks, including achieving 85.4% top-1 accuracy on ImageNet for image classification, 51.6 $$AP^{box}$$ A P box with Mask R-CNN and 54.3 $$AP^{box}$$ A P box with Cascade Mask R-CNN on COCO for object detection, 49.0 mIoU on ADE20K for semantic segmentation, and 83.4% top-1 accuracy on Kinetics-400 for video recognition. The Pyramid Swin Transformer for Multi-task outperforms state-of-the-art models in all tasks, demonstrating its effectiveness, adaptability, and scalability across various vision tasks. This breakthrough in multi-task learning architecture opens the door to new research and applications in the field.  
+   
+ Chenyu Wang, Toshio Endo, Takahiro Hirofuchi, Tsutomu Ikegami   
+
+ Person Activity Classification from an Aerial Sensor Based on a Multi-level Deep Features  
+  The intelligent surveillance system is considered as an important research field since it provides continuous personal security solution. In fact, this surveillance system support security guards by warning them in suspicious situations such as recognize the abnormal person activity. In this context, we introduced a new method for person activity classification that includes offline and inference phases. Based on convolutional neural networks, the offline phase aims to generate the person activity model. Whereas, the inference phase relies on the generate model to classify the person’s activity. The main contribution of the proposed method is to introduce a multi-level deep features to handle inter- and intra-class variation. Through a comparative study, performed on the UCF-ARG dataset, we assessed the performance of our method compared to the state-of-the-art works.  
+   
+ Fatma Bouhlel, Hazar Mliki, Mohamed Hammami   
+
+ Person Quick-Search Approach Based on a Facial Semantic Attributes Description  
+  Person search based on semantic attributes description presents an interest task for intelligent video surveillance applications. The main objective is to locate a suspect or to find a missing person in public areas using a semantic description (e.g. a 40-year-old asian woman) provided by an eyewitness. Such a description provides the facial soft biometric related to the facial semantic attributes (i.e. age, gender and ethnicity). In this paper, we introduced a new approach for person search named “Quick-Search” based on a facial semantic attributes description to enhance the person search task in an unconstrained environment. The main contribution of the paper is to introduce a multi-attributes score fusion method which relies on soft biometric features (age, gender, ethnicity) to improve the person search in a large dataset. An experimental study was conducted on the challenging FairFace dataset to validate the effectiveness of the proposed person search approach.  
+   
+ Sahar Dammak, Hazar Mliki, Emna Fendri   
+
+ Age-Invariant Face Recognition Using Face Feature Vectors and Embedded Prototype Subspace Classifiers  
+  One of the major difficulties in face recognition while comparing photographs of individuals of different ages is the influence of age progression on their facial features. As a person ages, the face undergoes many changes, such as geometrical changes, changes in facial hair, and the presence of glasses, among others. Although biometric markers like computed face feature vectors should ideally remain unchanged by such factors, face recognition becomes less reliable as the age range increases. Therefore, this investigation was carried out to examine how the use of Embedded Prototype Subspace Classifiers could improve face recognition accuracy when dealing with age-related variations using face feature vectors only.  
+   
+ Anders Hast   
+
+ BENet: A Lightweight Bottom-Up Framework for Context-Aware Emotion Recognition  
+  Emotion recognition from images is a challenging task. The latest and most common approach to solve this problem is to fuse information from different contexts, such as person-centric features, scene features, object features, interactions features and so on. This requires specialized pre-trained models, and multiple pre-processing steps, resulting in long and complex frameworks, not always practicable in real time scenario with limited resources. Moreover, these methods do not deal with person detection, and treat each subject sequentially, which is even slower for scenes with many people. Therefore, we propose a new approach, based on a single end-to-end trainable architecture that can both detect and process all subjects simultaneously by creating emotion maps. We also introduce a new multitask training protocol which enhances the model predictions. Finally, we present a new baseline for emotion recognition on EMOTIC dataset, which considers the detection of the agents. Our code and more illustrations are available at https://github.com/TristanCladiere/BENet.git.  
+   
+ Tristan Cladière, Olivier Alata, Christophe Ducottet, Hubert Konik, Anne-Claire Legrand   
+
+ YOLOPoint: Joint Keypoint and Object Detection  
+  Intelligent vehicles of the future must be capable of understanding and navigating safely through their surroundings. Camera-based vehicle systems can use keypoints as well as objects as low- and high-level landmarks for GNSS-independent SLAM and visual odometry. To this end we propose YOLOPoint, a convolutional neural network model that simultaneously detects keypoints and objects in an image by combining YOLOv5 and SuperPoint to create a single forward-pass network that is both real-time capable and accurate. By using a shared backbone and a light-weight network structure, YOLOPoint is able to perform competitively on both the HPatches and KITTI benchmarks.  
+   
+ Anton Backhaus, Thorsten Luettel, Hans-Joachim Wuensche   
+
+ Less-than-One Shot 3D Segmentation Hijacking a Pre-trained Space-Time Memory Network  
+  In this paper, we propose a semi-supervised setting for semantic segmentation of a whole volume from only a tiny portion of one slice annotated using a memory-aware network pre-trained on video object segmentation without additional fine-tuning. The network is modified to transfer annotations of one partially annotated slice to the whole slice, then to the whole volume. This method discards the need for training the model. Applied to Electron Tomography, where manual annotations are time-consuming, it achieves good segmentation results considering a labeled area of only a few percent of a single slice. The source code is available at https://github.com/licyril1403/hijacked-STM .  
+   
+ Cyril Li, Christophe Ducottet, Sylvain Desroziers, Maxime Moreaud   
+
+ Segmentation of Range-Azimuth Maps of FMCW Radars with a Deep Convolutional Neural Network  
+  In this paper, we propose a novel deep convolutional neural network for the segmentation of Range-Azimuth (RA) maps produced by a low-power Frequency Modulated Continuous Wave (FMCW) radar to facilitate autonomous operation on a moving platform in a dense, feature-rich environment such as warehouses, storage and industrial sites. Our key contribution is a compact neural network architecture that estimates the extent of free space with high distance and azimuth resolution, yielding high-quality navigation cues at a much lower computational cost than full 2D space segmentation techniques. We demonstrate our method on a unmanned aerial vehicle (UAV) in an industrial warehouse environment.  
+   
+ Pieter Meiresone, David Van Hamme, Wilfried Philips   
+
+ Upsampling Data Challenge: Object-Aware Approach for 3D Object Detection in Rain  
+  Lidar-based 3D object detection has been widely adopted for autonomous vehicles. However, adverse weather conditions, such as rain, pose significant challenges by reducing both detection distance and accuracy. Intuitively, one could adopt upsampling to improve detection accuracy. Nevertheless, the task of increasing the number of target points, especially the key detection points crucial for object detection, remains an open issue. In this paper, we explore how an additional data upsampling pre-processing stage to increase the density of the point cloud can potentially benefit deep-learning object detection. Unlike the state-of-the-art upsampling approaches which aim to improve point cloud appearance and uniformity, we are interested in object detection. The object of interest, rather than full scenarios or small patches, is used to train the network - we call it object-aware learning. Additionally, data collection and labelling are time-consuming and expensive, especially for rain scenarios. To tackle this challenge, we propose a semi-supervised upsampling network that can be trained using a relatively small number of labelled simulated objects. Lastly, we verify a well-established sensor/rain simulator, using a publicly available database. The experimental results on a database generated by this simulator are promising and have shown that our object-aware networks can extend the detection range in rainy scenarios and can achieve improvements in Bird’s-eye-View Intersection-over-Union (BEV IoU) detection accuracy.  
+   
+ Richard Capraru, Jian-Gang Wang, Boon Hee Soong   
+
+ A Single Image Neuro-Geometric Depth Estimation  
+  This paper introduces a novel neuro-geometric methodology for single image object depth estimation, abbreviated as NGDE. The proposed methodology can be described as a hybrid methodology since it combines a geometrical and a deep learning component. NGDE leverages the geometric camera model to initially estimate a set of probable depth values between the camera and the object. Then, these probable depth values along with the pixel coordinates that define the boundaries of an object, are propagated to a deep learning component, appropriately trained to output the final object depth estimation. Unlike previous approaches, NGDE does not require any prior information about the scene, such as the horizon line or reference objects. Instead, NGDE uses a virtual 3D point cloud projected to the 2D image plane that is used to estimate probable depth values indicated by 3D-2D point correspondences. Then by leveraging a multilayer perceptron (MLP) that considers both the probable depth values and the 2D bounding box of the object, NGDE is capable of accurately estimating the depth of an object. A major advantage of NGDE over the state-of-the-art deep learning-based methods is that it utilizes a simple MLP instead of computationally complex Convolutional Neural Networks (CNNs). The evaluation of NGDE on KITTI indicates its advantageous performance over relevant state-of-the-art approaches.  
+   
+ George Dimas, Panagiota Gatoula, Dimitris K. Iakovidis   
+
+ Wave-Shaping Neural Activation for Improved 3D Model Reconstruction from Sparse Point Clouds  
+  The quality of a 3D model depends on the object digitization process, which is usually characterized by a tradeoff between volume resolution and scanning speed, i.e., higher resolution scans require longer scanning times. Aiming to improve the quality of lower resolution 3D models, this paper proposes a novel approach to 3D model reconstruction from an initially coarse point cloud (PC) representation of an object. The main contribution of this paper is the introduction of a novel periodic activation function, named Wave-shaping Neural Activation (WNA), in the context of implicit neural representations (INRs). The use of the WNA function in a multilayer perceptron (MLP) can enhance the learning of continuous functions describing object surfaces given their coarse 3D representation. Then, the trained MLP can be regarded as a continuous implicit representation of the 3D representation of the object, and it can be used to reconstruct the originally coarse 3D model with higher detail. The proposed methodology is experimentally evaluated by two case studies in different application domains: a) reconstruction of complex human tissue structures for medical applications; b) reconstruction of ancient artifacts for cultural heritage applications. The experimental evaluation, which includes comparisons with state-of-the-art approaches, verifies the effectiveness and improved performance of the WNA-based INR for 3D object reconstruction.  
+   
+ Georgios Triantafyllou, George Dimas, Panagiotis G. Kalozoumis, Dimitris K. Iakovidis   
+
+ A Deep Learning Approach to Segment High-Content Images of the E. coli Bacteria  
+  High-content imaging (HCI) has been used to study antimicrobial resistance in bacteria. Although cell segmentation is critical for accurately analyzing bacterial populations, existing HCI platforms were not optimized for bacterial cells. This study proposes a convolutional neural network-based approach utilizing transfer learning and fine-tuning to perform instance segmentation on fluorescence images of E. coli. The method uses the pre-trained EfficientNet as the encoder for feature extraction and U-Net for reconstructing the segmentation maps containing the cell cytoplasm and the cell instance boundary. Next, individual cells are separated using a marker-controlled watershed transformation. The EffNetB7-UNet yields the best performance with the highest F1-Score of 0.91 compared to other methods.  
+   
+ Dat Q. Duong, Tuan-Anh Tran, Phuong Nhi Nguyen Kieu, Tien K. Nguyen, Bao Le, Stephen Baker, Binh T. Nguyen   
+
+ Multimodal Emotion Recognition System Through Three Different Channels (MER-3C)  
+  The field of machine learning and computer science known as “affective computing” focuses on how to recognize and analyze human emotions. Different modalities can complement or enhance one another. This paper focuses on merging three modalities, face, text, and speech, for detecting a user’s emotion. To do this and obtain a multimodal emotion recognition system, we use deep-learning techniques. Among these are (a) Convolutional Neural Network (CNN) which is used in our case to detect emotion from both modalities speech and face. Then, we adopt (b) Bidirectional Long Short-Term Memory (Bi-LSTM) for predicting emotions from text information. Our experiments show that our proposed decision fusion method gives a good accuracy of 93% on the three modalities.  
+   
+ Nouha Khediri, Mohammed Ben Ammar, Monji Kherallah   
+
+ Multi-modal Obstacle Avoidance in USVs via Anomaly Detection and Cascaded Datasets  
+  We introduce a novel strategy for obstacle avoidance in aquatic settings, using anomaly detection for quick deployment of autonomous water vehicles in limited geographic areas. The unmanned surface vehicle (USV) is initially manually navigated to collect training data. The learning phase involves three steps: learning imaging modality specifics, learning the obstacle-free environment using collected data, and setting obstacle detector sensitivity with images containing water obstacles. This approach, which we call cascaded datasets, works with different image modalities and environments without extensive marine-specific data. Results are demonstrated with LWIR and RGB images from river missions.  
+   
+ Tilen Cvenkel, Marija Ivanovska, Jon Muhovič, Janez Perš   
+
+ A Contrario Mosaic Analysis for Image Forensics  
+  With the advent of recent technologies, image editing has become accessible even without expertise. However, this ease of manipulation has given rise to malicious manipulation of images, resulting in the creation and dissemination of visually-realistic fake images to spread disinformation online, wrongfully incriminate someone, or commit fraud. The detection of such forgeries is paramount in exposing those deceitful acts. One promising approach involves unveiling the underlying mosaic of an image, which indicates in which colour each pixel was originally sampled prior to demosaicing. As image manipulation will alter the mosaic as well, exposing the mosaic enables the detection and localization of forgeries. The recent introduction of positional learning has facilitated the identification of the image mosaic. Nevertheless, the clues leading to the mosaic are subtle and frail against common operation such as JPEG compression. The pixelwise estimation of the mosaic is thus often imprecise, and a comprehensive analysis and aggregation of the results are necessary to effectively detect and localize forged areas. In this work, we propose mimic: Mosaic Integrity Monitoring for Image a Contrario forensics. an a contrario method to analyse a pixelwise mosaic estimation. We show that despite the weakness of these traces, the sole analysis of mosaic consistency is enough to beat the state of the art in forgery detection and localization on uncompressed images. Moreover, results are promising even on slightly-compressed images. The a contrario framework ensures robustness against false positives, and the complementary nature of mosaic consistency analysis to other forensic tools makes our method highly relevant for detecting forgeries in high-quality images.  
+   
+ Quentin Bammey   
+
+ IRIS Segmentation Technique Using IRIS-UNet Method  
+  Precise segmentation of the iris from the eye images is an essential task in iris diagnosis. Most of the predictions fail due to improper segmentation of iris images, which results in false predictions of the patient’s disease. However, the traditional methods for segmenting the iris are not suitable for iris diagnosis applications. In the field of medical purposes. The iris of the eye could be separated from the eye using deep learning techniques. To overcome this issue, we design a model called Iris-UNet which can effectively segment the limbic and pupillary boundary from the eye images. Using the Iris-UNet model, high-level features are extracted in the encoder path, and segmentation of limbic and pupillary boundaries takes place in the decoder path. We have evaluated our Iris-UNet model on real patient datasets: CASIA, MMU, and PEC datasets. Our Iris-UNet model shows an outperforming solution through the experimental results compared with other traditional methods.  
+   
+ M. Poovayar Priya, M. Ezhilarasan   
+
+ Image Acquisition by Image Retrieval with Color Aesthetics  
+  The objective of this work is to obtained aesthetically pleasing images related based on the location information. To achieve this, we develop a system that can acquire photos using the geographic information and cloud data by image retrieval. This system comprises an insertion module and a search module. The insertion module recognizes the weather conditions, reads the image information and stores the image data in the cloud database. On the other hand, the search module reads the location information of the onboard sensors, searches for images with the similar location from the cloud database using the proposed optimal image selection algorithm. The search module then provides multiple photos with similar geographic information, selects the best image, and provides feedback suggestions. In addition to the software development, we also implement the proposed system on a hardware device that can directly retrieve the outdoor images for display and storage. The experiments with real scenes have demonstrated the feasibility of the proposed system.  
+   
+ Huei-Fang Lin, Huei-Yung Lin   
+
+ Improved Obstructed Facial Feature Reconstruction for Emotion Recognition with Minimal Change CycleGANs  
+  Comprehending facial expressions is essential for human interaction and closely linked to facial muscle understanding. Typically, muscle activation measurement involves electromyography (EMG) surface electrodes on the face. Consequently, facial regions are obscured by electrodes, posing challenges for computer vision algorithms to assess facial expressions. Conventional methods are unable to assess facial expressions with occluded features due to lack of training on such data. We demonstrate that a CycleGAN-based approach can restore occluded facial features without fine-tuning models and algorithms. By introducing the minimal change regularization term to the optimization problem for CycleGANs, we enhanced existing methods, reducing hallucinated facial features. We reached a correct emotion classification rate up to $$90\%$$ 90 % for individual subjects. Furthermore, we overcome individual model limitations by training a single model for multiple individuals. This allows for the integration of EMG-based expression recognition with existing computer vision algorithms, enriching facial understanding and potentially improving the connection between muscle activity and expressions.  
+   
+ Tim Büchner, Orlando Guntinas-Lichius, Joachim Denzler   
+
+ Quality Assessment for High Dynamic Range Stereoscopic Omnidirectional Image System  
+  This paper focuses on visual experience of high dynamic range (HDR) stereoscopic omnidirectional image (HSOI) system, which includes such as HSOI generation, encoding/decoding, tone mapping (TM) and terminal visualization. From the perspective of quantifying coding distortion and TM distortion in HSOI system, a “no-reference (NR) plus reduced-reference (RR)” HSOI quality assessment method is proposed by combining Retinex theory and two-layer distortion simulation of HSOI system. The NR module quantizes coding distortion for HDR images only with coding distortion. The RR module mainly measures the effect of TM operator based on the HDR image only with coding distortion and the mixed distorted image after TM. Experimental results show that the objective prediction of the proposed method is better compared some representative method and more consistent with users’ visual perception.  
+   
+ Liuyan Cao, Hao Jiang, Zhidi Jiang, Jihao You, Mei Yu, Gangyi Jiang   
+
+ Genetic Programming with Convolutional Operators for Albatross Nest Detection from Satellite Imaging  
+  Conservation efforts in remote areas, such as population monitoring, are expensive and laborious. Recent advances in satellite resolution have made it possible to achieve sub-40 cm resolution and see small objects. This study aimed to count potential southern royal albatross nests based on the remote Campbell Island, 700 km south of New Zealand. The southern royal albatross population is declining, and due to its remoteness, there is an urgent need to develop new remote sensing methods for assessing the population. This paper proposes a new tree-based genetic programming (GP) approach for binary image segmentation by extracting shallow convolutional features. An ensemble of these GP segmentation models and individual GP models were compared with a state-of-the-art nnU-Net segmentation model trained on manually labelled images. The ensemble of shallow GP segmentation trees provided significantly more interpretable models, using <1% the number of convolutions while achieving performance similar to that of the nnU-Net models. Overall, the GP ensemble achieved a per-pixel F1 score of 75.44% and 123 out of 166 correctly identified nest-like points in the test set compared with the nnU-Net methods, which achieved a per-pixel F1 score of 74.49% and 129 out of 166 correctly identified nest-like points. This approach improves the practicality of machine learning and remote sensing for monitoring endangered species in hard-to-reach regions.  
+   
+ Mitchell Rogers, Igor Debski, Johannes Fischer, Peter McComb, Peter Frost, Bing Xue, Mengjie Zhang, Patrice Delmas   
+
+ Reinforcement Learning for Truck Eco-Driving: A Serious Game as Driving Assistance System  
+  Making fuel-economy for vehicles is an important and current challenge in particular for professionals of transportation. In this article, we address the challenge of providing a driving serious game based on artificial intelligence in order to significantly reduce the fuel consumption for trucks. Our proposition is based on a machine learning process consisting of a Self-Organizing Network (SOM) for clustering and subsequent reinforcement learning to deliver precise recommendations for eco-driving. Driving experts provide us knowledge in order to model the actions-rewards process. Experiments conducted on simulated data demonstrate that the recommendations are coherent and enable drivers to adopt eco-driving behavior.  
+   
+ Mohamed Fassih, Anne-Sophie Capelle-Laizé, Philippe Carré, Pierre-Yves Boisbunon   
+
+ Underwater Mussel Segmentation Using Smoothed Shape Descriptors with Random Forest  
+  Segmentation of objects of interest is no longer a massive challenge with the adoption of machine learning and AI. However, feature selection and extraction are not trivial tasks in these approaches, and it is often necessary to introduce new methods for the creation of such features. Due to the lack of control over environmental conditions, for example turbidity and light scatter for underwater data, it is difficult to acquire color and texture features. However, it is still possible to obtain satisfactory shape features. This has led to the development of methods that can generate shape descriptors for use as features for data segmentation using machine learning methods such as random forest. In this work, we introduce a smoothed shape descriptor, which is the basis for a set of features used for the segmentation of underwater mussel structures with an accuracy of almost $$90\%$$ 90 % based on manually labeled and measured mussel clusters by professional divers.  
+   
+ David Arturo Soriano Valdez, Mihailo Azhar, Alfonso Gastelum Strozzi, Jen Hillman, Simon Thrush, Patrice Delmas   
+
+ A 2D Cortical Flat Map Space for Computationally Efficient Mammalian Brain Simulation  
+  We present a method for computationally efficient cortical brain simulation by constructing a 2D cortical flat map space on a regular grid. Neuroscience data can be mapped into this space to provide experimental information and constraints for the simulation. Neuron locations can be determined probabilistically by treating neuron densities as empirical probability distributions that can be sampled from. Therefore, this approach can be used for specifying parameters for small-scale to large-scale brain simulations (that could simulate the true number of neurons in the brain). The spatial warping of the cortical surface, when going between the flattened 2D space back into 3D, is accounted for by an estimated scale factor. This can be used to scale properties such as diffusion rates of neural activity across the flat map. We demonstrate the approach using neuroimaging data of the common marmoset, a New World primate.  
+   
+ Alexander Woodward, Rui Gong, Ken Nakae, Patrice Delmas   
+
+ Construction of a Novel Data Set for Pedestrian Tree Species Detection Using Google Street View Data  
+  Cities of the future will carefully manage their ecological environment, including parks and trees, as critical resources to balance the effects of climate change. As such, tree health has become an integral part of well-managed cities and urban areas, where tree censuses provide a critical source of ecological data. This data provides information to improve the ecological status of these areas; however, gathering this data is laborious and requires expert knowledge to accurately register each tree species included in the census. With recent advances in object-detection methods, automating this type of census is now possible. However, these approaches require training data to be gathered, labelled, and validated. This study merged data from a tree census in the Auckland region (New Zealand) with Google Street View image data and used a pre-trained model on specialised datasets released by prior authors to create a training dataset for pedestrian-view tree species detection. This approach can be used as the basis for wider data collection and labelling of New Zealand urban tree species, crucial for inventorying the state and health of its urban forests. Here, we demonstrated that training and deploying a fine-grained object detection model to an edge device for real-time inference on a video stream can achieve speeds of 25 frames per second (fps).  
+   
+ Martin Ooi, David Arturo Soriano Valdez, Mitchell Rogers, Rachel Ababou, Kaiqi Zhao, Patrice Delmas   
+
+ Texture-Based Data Augmentation for Small Datasets  
+  This paper proposes a texture-based domain-specific data augmentation technique applicable when training on small datasets for deep learning classification tasks. Our method focuses on label-preservation to improve generalization and optimization robustness over data-dependent augmentation methods using textures. We generate a small perturbation in an image based on a randomly sampled texture image. The textures we use are naturally occurring and domain-independent of the training dataset: regular, near regular, irregular, near stochastic and stochastic classes. Our method uses the textures to apply sparse, patterned occlusion to images and a penalty regularization term during training to help ensure label preservation. We evaluate our method against the competitive soft-label Mixup and RICAP data augmentation methods with the ResNet-50 architecture using the unambiguous “Bird or Bicyle” and Oxford-IIT-Pet datasets, as well as a random sampling of the Open Images dataset. We experimentally validate the importance of label-preservation and improved generalization by using out-of-distribution examples and show that our method improves over competitive methods.  
+   
+ Amanda Dash, Alexandra Branzan Albu   
+
+ Multimodal Representations for Teacher-Guided Compositional Visual Reasoning  
+  Neural Module Networks (NMN) are a compelling method for visual question answering, enabling the translation of a question into a program consisting of a series of reasoning sub-tasks that are sequentially executed on the image to produce an answer. NMNs provide enhanced explainability compared to integrated models, allowing for a better understanding of the underlying reasoning process. To improve the effectiveness of NMNs we propose to exploit features obtained by a large-scale cross-modal encoder. Also, the current training approach of NMNs relies on the propagation of module outputs to subsequent modules, leading to the accumulation of prediction errors and the generation of false answers. To mitigate this, we introduce an NMN learning strategy involving scheduled teacher guidance. Initially, the model is fully guided by the ground-truth intermediate outputs, but gradually transitions to an autonomous behavior as training progresses. This reduces error accumulation, thus improving training efficiency and final performance. We demonstrate that by incorporating cross-modal features and employing more effective training techniques for NMN, we achieve a favorable balance between performance and transparency in the reasoning process.  
+   
+ Wafa Aissa, Marin Ferecatu, Michel Crucianu   
+
+ Enhanced Color QR Codes with Resilient Error Correction for Dirt-Prone Surfaces  
+  This study focuses on overcoming the limitations of traditional QR codes, specifically their vulnerability to damage and insufficient error correction capabilities. We introduce an innovative approach, the Enhanced Color QR (CQR) code, which strengthens the error correction ability of QR codes by employing red, green, and blue color channels. This pioneering technology removes critical zones, enabling damage tolerance anywhere on the code and allowing for up to 50% damage to the code area, considerably surpassing the performance of existing QR code systems. Importantly, our CQR code maintains backward compatibility, ensuring readability by current QR code scanners. This state-of-the-art improvement is especially useful in scenarios where conventional 2D barcodes face challenges, such as on non-flat or reflective surfaces frequently encountered on fruits, cans, bottles, and medical equipment like blood test sample tubes and syringes. Furthermore, our CQR code’s four corners and boundary can be estimated without requiring corner visibility, offering potential advantages for augmented reality applications. By addressing the key issues associated with traditional QR codes, our research presents a significant advancement in the field of computer vision and provides a more resilient and versatile solution for a wide range of real-world applications.  
+   
+ Minh Nguyen   
+
+ Backmatter  
+
+ Metadaten   
+
+ Titel  Advanced Concepts for Intelligent Vision Systems    
+ herausgegeben von  Jaques Blanc-Talon  
+  Patrice Delmas  
+  Wilfried Philips  
+  Paul Scheunders  
+     
+ Copyright-Jahr  2023    
+ Verlag  Springer Nature Switzerland     
+   
+ Electronic ISBN  978-3-031-45382-3    
+ Print ISBN  978-3-031-45381-6    
+ DOI  https://doi.org/10.1007/978-3-031-45382-3     
+
+ Premium Partner  
+
+ » zur Fachgebietsseite Business IT + Informatik 
+
+ Bildnachweise  Rittal/© Rittal, NTT Data/© NTT Data, Wildix/© Wildix, Ceyoniq Technology GmbH/© Ceyoniq Technology GmbH, arvato Systems GmbH/© arvato Systems GmbH, Ninox Software GmbH/© Ninox Software GmbH, Everyday Software S.L./© Everyday Software S.L., Redgate/© Redgate, CELONIS Labs GmbH, DC-Datacenter-Group GmbH/© DC-Datacenter-Group GmbH, all for one/© all for one, G Data CyberDefense/© G Data CyberDefense   
+
+ Weitere Formate | Podcasts 
+  Webinare Technik 
+  Webinare Wirtschaft 
+  Kongresse 
+  Veranstaltungskalender 
+  Awards 
+  MyNewsletter 
+  Fachgebiete | Automobil + Motoren 
+  Bauwesen + Immobilien 
+  Business IT + Informatik 
+  Elektrotechnik + Elektronik 
+  Energie + Nachhaltigkeit 
+  Finance + Banking 
+  Management + Führung 
+  Marketing + Vertrieb 
+  Maschinenbau + Werkstoffe 
+  Versicherung + Risiko 
+  Bücher 
+  Zeitschriften 
+  Themenseiten | Organisationspsychologie 
+  Projektmanagement 
+  Marketing 
+  Smart Manufacturing 
+  Jetzt Einzelzugang starten 
+  Zugang für Unternehmen 
+  Referenzkunden 
+  Sustainability in Automotive 
+   MyNewsletter 
+
+  Über uns:     
+  
+ In eigener Sache    Das Team    Redaktionelles Leitbild    Hilfe    Referenzen      
+ Unsere Produkte:     
+  
+ Einzelzugang    Zugang für Unternehmen    PatentFit    MyAlerts    Professional Book Archive    MyNewsletter    Carl Hanser Verlag - Bücher    KI-gestützte Suche      
+ Rechtliche Informationen:     
+  
+ Impressum    AGB    Datenschutzerklärung    Cookies    Cookies verwalten    Verträge hier kündigen    Zahlungsarten      
+ Weiterführende Links:     
+  
+ RSS-Feeds    Social Media    Mediadaten    Corporate Solutions    Whitepaper    Gabler Wirtschaftslexikon    Gabler Banklexikon    Versicherungsmagazin      
+   
+ Springer Nature Logo    © Springer Fachmedien Wiesbaden GmbH  
+   
+ Version: 0.3926.0

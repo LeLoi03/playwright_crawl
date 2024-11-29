@@ -1,0 +1,980 @@
+DROPS 
+  Series | LIPIcs – Leibniz International Proceedings in Informatics 
+  OASIcs – Open Access Series in Informatics 
+  Dagstuhl Follow-Ups 
+  Schloss Dagstuhl Jahresbericht 
+   Discontinued Series 
+  Journals | DARTS – Dagstuhl Artifacts Series 
+  Dagstuhl Reports 
+  Dagstuhl Manifestos 
+  LITES – Leibniz Transactions on Embedded Systems 
+  TGDK – Transactions on Graph Data and Knowledge 
+  Conferences | AFT 
+  AIB 
+  AofA 
+  APPROX 
+  ATMOS 
+  CALCO 
+  CCC 
+  CONCUR 
+  COSIT 
+  CP 
+  CPM 
+  CSL 
+  DISC 
+  DITAM 
+  DNA 
+  ECOOP 
+  ECRTS 
+  ESA 
+  FAB 
+  FMBC 
+   FORC 
+  FSCD 
+  FSTTCS 
+  FUN 
+  GD 
+  GIScience 
+  ICALP 
+  ICDT 
+  ICPEC 
+  IPEC 
+  iPMVM 
+  ISAAC 
+  ITC 
+  ITCS 
+  ITP 
+  LDK 
+  MFCS 
+  Microservices 
+  NG-RES 
+  OPODIS 
+   PARMA 
+  RANDOM 
+  SAND 
+  SAT 
+  SEA 
+  SLATE 
+  SNAPL 
+  SoCG 
+  STACS 
+  SWAT 
+  TIME 
+  Tokenomics 
+  TQC 
+  TYPES 
+  WABI 
+  WCET 
+  About DROPS 
+        
+  Metadata Export | Metadata Export 
+  OAI Interface 
+
+   Volume    Export XML 
+  Export ACM-XML 
+  Export DOAJ-XML 
+  Export Schema.org 
+  Export BibTeX 
+  Export HTML 
+
+  LIPIcs, Volume 284  
+ 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)  
+   
+  Part of: | Series: | Leibniz International Proceedings in Informatics (LIPIcs) | Part of: | Conference: | IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS) 
+
+ Event  
+ FSTTCS 2023, December 18-20, 2023, IIIT Hyderabad, Telangana, India   
+ Editors  
+ Patricia Bouyer            
+ Université Paris-Saclay, CNRS, ENS Paris-Saclay, LMF, Gif-sur-Yvette, France 
+    
+ Srikanth Srinivasan            
+ Aarhus University, Denmark 
+  University of Copenhagen, Denmark 
+
+ Publication Details  
+ published at: 2023-12-12 
+  Publisher: Schloss Dagstuhl – Leibniz-Zentrum für Informatik 
+  ISBN: 978-3-95977-304-1 
+  DBLP: | db/conf/fsttcs/fsttcs2023 
+
+  Access Numbers  
+ Detailed Access Statistics available here 
+  Total Document Accesses (updated on a weekly basis): | 0   PDF Downloads   0   Metadata Views 
+
+ Documents   
+ No documents found matching your filter selection.   
+  Document   
+ Complete Volume   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023    
+
+ LIPIcs, Volume 284, FSTTCS 2023, Complete Volume   
+ Authors:  Patricia Bouyer and Srikanth Srinivasan  
+  Abstract    
+ LIPIcs, Volume 284, FSTTCS 2023, Complete Volume   
+
+  Cite as    
+ 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 1-784, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @Proceedings{bouyer_et_al:LIPIcs.FSTTCS.2023 title = {{LIPIcs, Volume 284, FSTTCS 2023, Complete Volume}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {1--784}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023}, URN = {urn:nbn:de:0030-drops-193724}, doi = {10.4230/LIPIcs.FSTTCS.2023}, annote = {Keywords: LIPIcs, Volume 284, FSTTCS 2023, Complete Volume} }  @Proceedings{bouyer_et_al:LIPIcs.FSTTCS.2023 title = {{LIPIcs, Volume 284, FSTTCS 2023, Complete Volume}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {1--784}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023}, URN = {urn:nbn:de:0030-drops-193724}, doi = {10.4230/LIPIcs.FSTTCS.2023}, annote = {Keywords: LIPIcs, Volume 284, FSTTCS 2023, Complete Volume} }    
+
+  Document   
+ Front Matter   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.0    
+
+ Front Matter, Table of Contents, Preface, Conference Organization   
+ Authors:  Patricia Bouyer and Srikanth Srinivasan  
+  Abstract    
+ Front Matter, Table of Contents, Preface, Conference Organization   
+
+  Cite as    
+ 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 0:i-0:xvi, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{bouyer_et_al:LIPIcs.FSTTCS.2023.0 author = {Bouyer, Patricia and Srinivasan, Srikanth}, title = {{Front Matter, Table of Contents, Preface, Conference Organization}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {0:i--0:xvi}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.0}, URN = {urn:nbn:de:0030-drops-193737}, doi = {10.4230/LIPIcs.FSTTCS.2023.0}, annote = {Keywords: Front Matter, Table of Contents, Preface, Conference Organization} }  @InProceedings{bouyer_et_al:LIPIcs.FSTTCS.2023.0 author = {Bouyer, Patricia and Srinivasan, Srikanth}, title = {{Front Matter, Table of Contents, Preface, Conference Organization}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {0:i--0:xvi}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.0}, URN = {urn:nbn:de:0030-drops-193737}, doi = {10.4230/LIPIcs.FSTTCS.2023.0}, annote = {Keywords: Front Matter, Table of Contents, Preface, Conference Organization} }    
+
+  Document   
+ Invited Talk   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.1    
+
+ Reachability Games and Friends: A Journey Through the Lens of Memory and Complexity (Invited Talk)   
+ Authors:  Thomas Brihaye, Aline Goeminne, James C. A. Main, and Mickael Randour  
+  Abstract    
+ Reachability objectives are arguably the most basic ones in the theory of games on graphs (and beyond). But far from being bland, they constitute the cornerstone of this field. Reachability is everywhere, as are the tools we use to reason about it. In this invited contribution, we take the reader on a journey through a zoo of models that have reachability objectives at their core. Our goal is to illustrate how model complexity impacts the complexity of strategies needed to play optimally in the corresponding games and computational complexity.   
+
+  Cite as    
+ Thomas Brihaye, Aline Goeminne, James C. A. Main, and Mickael Randour. Reachability Games and Friends: A Journey Through the Lens of Memory and Complexity (Invited Talk). In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 1:1-1:26, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{brihaye_et_al:LIPIcs.FSTTCS.2023.1 author = {Brihaye, Thomas and Goeminne, Aline and Main, James C. A. and Randour, Mickael}, title = {{Reachability Games and Friends: A Journey Through the Lens of Memory and Complexity}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {1:1--1:26}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.1}, URN = {urn:nbn:de:0030-drops-193747}, doi = {10.4230/LIPIcs.FSTTCS.2023.1}, annote = {Keywords: Games on graphs, reachability, finite-memory strategies, complexity} }  @InProceedings{brihaye_et_al:LIPIcs.FSTTCS.2023.1 author = {Brihaye, Thomas and Goeminne, Aline and Main, James C. A. and Randour, Mickael}, title = {{Reachability Games and Friends: A Journey Through the Lens of Memory and Complexity}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {1:1--1:26}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.1}, URN = {urn:nbn:de:0030-drops-193747}, doi = {10.4230/LIPIcs.FSTTCS.2023.1}, annote = {Keywords: Games on graphs, reachability, finite-memory strategies, complexity} }    
+
+  Document   
+ Invited Talk   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.2    
+
+ On Measuring Average Case Complexity via Sum-Of-Squares Degree (Invited Talk)   
+ Authors:  Prasad Raghavendra  
+  Abstract    
+ Sum-of-squares semidefinite programming hierarchy is a sequence of increasingly complex semidefinite programs to reason about systems of polynomial inequalities. The k-th-level of the sum-of-squares SDP hierarchy is a semidefinite program that can be solved in time n^O(k). Sum-of-squares SDP hierarchies subsume fundamental algorithmic techniques such as linear programming and spectral methods. Many state-of-the-art algorithms for approximating NP-hard optimization problems are captured in the first few levels of the hierarchy. More recently, sum-of-squares SDPs have been applied extensively towards designing algorithms for average case problems. These include planted problems, random constraint satisfaction problems, and computational problems arising in statistics. From the standpoint of complexity theory, sum-of-squares SDPs can be applied towards measuring the average-case hardness of a problem. Most natural optimization problems can often be shown to be solvable by degree n sum-of-squares SDP, which corresponds to an exponential time algorithm. The smallest degree of the sum-of-squares relaxation needed to solve a problem can be used as a measure of the computational complexity of the problem. This approach seems especially useful for understanding average-case complexity under natural distributions. For example, the sum-of-squares degree has been used to nearly characterize the computational complexity of refuting random CSPs as a function of the number of constraints. Using the sum-of-squares degree as a proxy measure for average case complexity opens the door to formalizing certain computational phase transitions that have been conjectured for average case problems such as recovery in stochastic block models. In this talk, we discuss applications of this approach to average-case complexity and present some open problems.   
+
+  Cite as    
+ Prasad Raghavendra. On Measuring Average Case Complexity via Sum-Of-Squares Degree (Invited Talk). In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, p. 2:1, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{raghavendra:LIPIcs.FSTTCS.2023.2 author = {Raghavendra, Prasad}, title = {{On Measuring Average Case Complexity via Sum-Of-Squares Degree}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {2:1--2:1}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.2}, URN = {urn:nbn:de:0030-drops-193750}, doi = {10.4230/LIPIcs.FSTTCS.2023.2}, annote = {Keywords: semidefinite programming, sum-of-squares SDP, average case complexity, random SAT, stochastic block models} }  @InProceedings{raghavendra:LIPIcs.FSTTCS.2023.2 author = {Raghavendra, Prasad}, title = {{On Measuring Average Case Complexity via Sum-Of-Squares Degree}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {2:1--2:1}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.2}, URN = {urn:nbn:de:0030-drops-193750}, doi = {10.4230/LIPIcs.FSTTCS.2023.2}, annote = {Keywords: semidefinite programming, sum-of-squares SDP, average case complexity, random SAT, stochastic block models} }    
+
+  Document   
+ Invited Talk   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.3    
+
+ Computational and Information-Theoretic Questions from Causal Inference (Invited Talk)   
+ Authors:  Leonard J. Schulman  
+  Abstract    
+ Data, for the most part, is used in order to inform potential interventions: whether by individuals (decisions about education or employment), government (public health, environmental regulation, infrastructure investment) or business. The most common data analysis tools are those which identify correlations among variables - think of regression or of clustering. However, some famous paradoxes illustrate the futility of relying on correlations alone without a model for the causal relationships between variables. Historically, causality has been teased apart from correlation through controlled experiments. But for a variety of reasons - cost, ethical constraints, or uniqueness of the system - we must often make do with passive observation alone. A theory based upon directed graphical models has been developed over the past three decades, which in some situations, enables statistically defensible causal inference even in the absence of controlled experiments. Yet "some situations" is rather fewer than one would like. This limitation spurs a range of research questions. In this talk I will describe a couple of causality paradoxes along with how they are captured within the graphical model framework; this will lead naturally toward some of the computational and information-theoretic questions which arise in the theory.   
+
+  Cite as    
+ Leonard J. Schulman. Computational and Information-Theoretic Questions from Causal Inference (Invited Talk). In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, p. 3:1, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{schulman:LIPIcs.FSTTCS.2023.3 author = {Schulman, Leonard J.}, title = {{Computational and Information-Theoretic Questions from Causal Inference}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {3:1--3:1}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.3}, URN = {urn:nbn:de:0030-drops-193769}, doi = {10.4230/LIPIcs.FSTTCS.2023.3}, annote = {Keywords: Causal Inference, Bayesian Networks} }  @InProceedings{schulman:LIPIcs.FSTTCS.2023.3 author = {Schulman, Leonard J.}, title = {{Computational and Information-Theoretic Questions from Causal Inference}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {3:1--3:1}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.3}, URN = {urn:nbn:de:0030-drops-193769}, doi = {10.4230/LIPIcs.FSTTCS.2023.3}, annote = {Keywords: Causal Inference, Bayesian Networks} }    
+
+  Document   
+ Invited Talk   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.4    
+
+ From Concept Learning to SAT-Based Invariant Inference (Invited Talk)   
+ Authors:  Sharon Shoham  
+  Abstract    
+ In recent years SAT-based invariant inference algorithms such as interpolation-based model checking and PDR/IC3 have proven to be extremely successful in practice. However, the essence of their practical success and their performance guarantees are far less understood. This talk surveys results that establish formal connections and distinctions between SAT-based invariant inference and exact concept learning with queries, showing that learning techniques and algorithms can clarify foundational questions, illuminate existing algorithms, and suggest new directions for efficient invariant inference.   
+
+  Cite as    
+ Sharon Shoham. From Concept Learning to SAT-Based Invariant Inference (Invited Talk). In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, p. 4:1, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{shoham:LIPIcs.FSTTCS.2023.4 author = {Shoham, Sharon}, title = {{From Concept Learning to SAT-Based Invariant Inference}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {4:1--4:1}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.4}, URN = {urn:nbn:de:0030-drops-193771}, doi = {10.4230/LIPIcs.FSTTCS.2023.4}, annote = {Keywords: invariant inference, complexity, exact learning, interpolation, IC3} }  @InProceedings{shoham:LIPIcs.FSTTCS.2023.4 author = {Shoham, Sharon}, title = {{From Concept Learning to SAT-Based Invariant Inference}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {4:1--4:1}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.4}, URN = {urn:nbn:de:0030-drops-193771}, doi = {10.4230/LIPIcs.FSTTCS.2023.4}, annote = {Keywords: invariant inference, complexity, exact learning, interpolation, IC3} }    
+
+  Document   
+ Invited Talk   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.5    
+
+ Algorithms in the Presence of Biased Inputs (Invited Talk)   
+ Authors:  Nisheeth K. Vishnoi  
+  Abstract    
+ Algorithms for optimization problems such as selection, ranking, and classification typically assume that the inputs are what they are promised to be. However, in several real-world applications of these problems, the input may contain systematic biases along socially salient attributes associated with inputs such as race, gender, or political opinion. Such biases can not only lead the outputs of the current algorithms to output sub-optimal solutions with respect to true inputs but may also adversely affect opportunities for individuals in disadvantaged socially salient groups. This talk will consider the question of using optimization to solve the aforementioned problems in the presence of biased inputs. It will start with models of biases in inputs and discuss alternate ways to design algorithms for the underlying problem that can mitigate the effects of biases by taking into account knowledge about biases. This talk is based on several joint works with a number of co-authors.   
+
+  Cite as    
+ Nisheeth K. Vishnoi. Algorithms in the Presence of Biased Inputs (Invited Talk). In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 5:1-5:2, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{vishnoi:LIPIcs.FSTTCS.2023.5 author = {Vishnoi, Nisheeth K.}, title = {{Algorithms in the Presence of Biased Inputs}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {5:1--5:2}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.5}, URN = {urn:nbn:de:0030-drops-193788}, doi = {10.4230/LIPIcs.FSTTCS.2023.5}, annote = {Keywords: Algorithmic Bias} }  @InProceedings{vishnoi:LIPIcs.FSTTCS.2023.5 author = {Vishnoi, Nisheeth K.}, title = {{Algorithms in the Presence of Biased Inputs}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {5:1--5:2}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.5}, URN = {urn:nbn:de:0030-drops-193788}, doi = {10.4230/LIPIcs.FSTTCS.2023.5}, annote = {Keywords: Algorithmic Bias} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.6    
+
+ Online Facility Location with Weights and Congestion   
+ Authors:  Arghya Chakraborty and Rahul Vaze  
+  Abstract    
+ The classic online facility location problem deals with finding the optimal set of facilities in an online fashion when demand requests arrive one at a time and facilities need to be opened to service these requests. In this work, we study two variants of the online facility location problem; (1) weighted requests and (2) congestion. Both of these variants are motivated by their applications to real life scenarios and the previously known results on online facility location cannot be directly adapted to analyse them. - Weighted requests: In this variant, each demand request is a pair (x,w) where x is the standard location of the demand while w is the corresponding weight of the request. The cost of servicing request (x,w) at facility F is w⋅ d(x,F). For this variant, given n requests, we present an online algorithm attaining a competitive ratio of 𝒪(log n) in the secretarial model for the weighted requests and show that it is optimal. -Congestion: The congestion variant considers the case when there is a congestion cost that grows with the number of requests served by each facility. For this variant, when the congestion cost is a monomial, we show that there exists an algorithm attaining a constant competitive ratio. This constant is a function of the exponent of the monomial and the facility opening cost but independent of the number of requests.   
+
+  Cite as    
+ Arghya Chakraborty and Rahul Vaze. Online Facility Location with Weights and Congestion. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 6:1-6:22, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{chakraborty_et_al:LIPIcs.FSTTCS.2023.6 author = {Chakraborty, Arghya and Vaze, Rahul}, title = {{Online Facility Location with Weights and Congestion}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {6:1--6:22}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.6}, URN = {urn:nbn:de:0030-drops-193797}, doi = {10.4230/LIPIcs.FSTTCS.2023.6}, annote = {Keywords: online algorithms, online facility location, probabilistic method, weighted-requests, congestion} }  @InProceedings{chakraborty_et_al:LIPIcs.FSTTCS.2023.6 author = {Chakraborty, Arghya and Vaze, Rahul}, title = {{Online Facility Location with Weights and Congestion}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {6:1--6:22}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.6}, URN = {urn:nbn:de:0030-drops-193797}, doi = {10.4230/LIPIcs.FSTTCS.2023.6}, annote = {Keywords: online algorithms, online facility location, probabilistic method, weighted-requests, congestion} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.7    
+
+ An Optimal Algorithm for Sorting in Trees   
+ Authors:  Jishnu Roychoudhury and Jatin Yadav  
+  Abstract    
+ Sorting is a foundational problem in computer science that is typically employed on sequences or total orders. More recently, a more general form of sorting on partially ordered sets (or posets), where some pairs of elements are incomparable, has been studied. General poset sorting algorithms have a lower-bound query complexity of Ω(wn + n log n), where w is the width of the poset. We consider the problem of sorting in trees, a particular case of partial orders. This problem is equivalent to the problem of reconstructing a rooted directed tree from path queries. We parametrize the complexity with respect to d, the maximum degree of an element in the tree, as d is usually much smaller than w in trees. For example, in complete binary trees, d = Θ(1), w = Θ(n). The previous known upper bounds are O(dn log² n) [Wang and Honorio, 2019] and O(d² n log n) [Ramtin Afshar et al., 2020], and a recent paper proves a lower bound of Ω(dn log_d n) [Paul Bastide, 2023] for any Las Vegas randomized algorithm. In this paper, we settle the complexity of the problem by presenting a randomized algorithm with worst-case expected O(dnlog_d n) query and time complexity.   
+
+  Cite as    
+ Jishnu Roychoudhury and Jatin Yadav. An Optimal Algorithm for Sorting in Trees. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 7:1-7:14, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{roychoudhury_et_al:LIPIcs.FSTTCS.2023.7 author = {Roychoudhury, Jishnu and Yadav, Jatin}, title = {{An Optimal Algorithm for Sorting in Trees}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {7:1--7:14}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.7}, URN = {urn:nbn:de:0030-drops-193807}, doi = {10.4230/LIPIcs.FSTTCS.2023.7}, annote = {Keywords: Sorting, Trees} }  @InProceedings{roychoudhury_et_al:LIPIcs.FSTTCS.2023.7 author = {Roychoudhury, Jishnu and Yadav, Jatin}, title = {{An Optimal Algorithm for Sorting in Trees}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {7:1--7:14}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.7}, URN = {urn:nbn:de:0030-drops-193807}, doi = {10.4230/LIPIcs.FSTTCS.2023.7}, annote = {Keywords: Sorting, Trees} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.8    
+
+ Parameterized Complexity of Biclique Contraction and Balanced Biclique Contraction   
+ Authors:  R. Krithika, V. K. Kutty Malu, Roohani Sharma, and Prafullkumar Tale  
+  Abstract    
+ A bipartite graph is called a biclique if it is a complete bipartite graph and a biclique is called a balanced biclique if it has equal number of vertices in both parts of its bipartition. In this work, we initiate the complexity study of Biclique Contraction and Balanced Biclique Contraction. In these problems, given as input a graph G and an integer k, the objective is to determine whether one can contract at most k edges in G to obtain a biclique and a balanced biclique, respectively. We first prove that these problems are NP-complete even when the input graph is bipartite. Next, we study the parameterized complexity of these problems and show that they admit single exponential-time FPT algorithms when parameterized by the number k of edge contractions. Then, we show that Balanced Biclique Contraction admits a quadratic vertex kernel while Biclique Contraction does not admit any polynomial compression (or kernel) unless NP ⊆ coNP/poly.   
+
+  Cite as    
+ R. Krithika, V. K. Kutty Malu, Roohani Sharma, and Prafullkumar Tale. Parameterized Complexity of Biclique Contraction and Balanced Biclique Contraction. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 8:1-8:18, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{krithika_et_al:LIPIcs.FSTTCS.2023.8 author = {Krithika, R. and Malu, V. K. Kutty and Sharma, Roohani and Tale, Prafullkumar}, title = {{Parameterized Complexity of Biclique Contraction and Balanced Biclique Contraction}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {8:1--8:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.8}, URN = {urn:nbn:de:0030-drops-193811}, doi = {10.4230/LIPIcs.FSTTCS.2023.8}, annote = {Keywords: contraction, bicliques, balanced bicliques, parameterized complexity} }  @InProceedings{krithika_et_al:LIPIcs.FSTTCS.2023.8 author = {Krithika, R. and Malu, V. K. Kutty and Sharma, Roohani and Tale, Prafullkumar}, title = {{Parameterized Complexity of Biclique Contraction and Balanced Biclique Contraction}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {8:1--8:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.8}, URN = {urn:nbn:de:0030-drops-193811}, doi = {10.4230/LIPIcs.FSTTCS.2023.8}, annote = {Keywords: contraction, bicliques, balanced bicliques, parameterized complexity} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.9    
+
+ Towards Identity Testing for Sums of Products of Read-Once and Multilinear Bounded-Read Formulae   
+ Authors:  Pranav Bisht, Nikhil Gupta, and Ilya Volkovich  
+  Abstract    
+ An arithmetic formula is an arithmetic circuit where each gate has fan-out one. An arithmetic read-once formula (ROF in short) is an arithmetic formula where each input variable labels at most one leaf. In this paper we present several efficient blackbox polynomial identity testing (PIT) algorithms for some classes of polynomials related to read-once formulas. Namely, for polynomial of the form: - f = Φ_1 ⋅ … ⋅ Φ_m + Ψ₁ ⋅ … ⋅ Ψ_r, where Φ_i,Ψ_j are ROFs for every i ∈ [m], j ∈ [r]. - f = Φ_1^{e₁} + Φ₂^{e₂} + Φ₃^{e₃}, where each Φ_i is an ROF and e_i-s are arbitrary positive integers. Earlier, only a whitebox polynomial-time algorithm was known for the former class by Mahajan, Rao and Sreenivasaiah (Algorithmica 2016). In the same paper, they also posed an open problem to come up with an efficient PIT algorithm for the class of polynomials of the form f = Φ_1^{e₁} + Φ_2^{e₂} + … + Φ_k^{e_k}, where each Φ_i is an ROF and k is some constant. Our second result answers this partially by giving a polynomial-time algorithm when k = 3. More generally, when each Φ₁,Φ₂,Φ₃ is a multilinear bounded-read formulae, we also give a quasi-polynomial-time blackbox PIT algorithm. Our main technique relies on the hardness of representation approach introduced in Shpilka and Volkovich (Computational Complexity 2015). Specifically, we show hardness of representation for the resultant polynomial of two ROFs in our first result. For our second result, we lift hardness of representation for a sum of three ROFs to sum of their powers.   
+
+  Cite as    
+ Pranav Bisht, Nikhil Gupta, and Ilya Volkovich. Towards Identity Testing for Sums of Products of Read-Once and Multilinear Bounded-Read Formulae. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 9:1-9:23, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{bisht_et_al:LIPIcs.FSTTCS.2023.9 author = {Bisht, Pranav and Gupta, Nikhil and Volkovich, Ilya}, title = {{Towards Identity Testing for Sums of Products of Read-Once and Multilinear Bounded-Read Formulae}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {9:1--9:23}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.9}, URN = {urn:nbn:de:0030-drops-193829}, doi = {10.4230/LIPIcs.FSTTCS.2023.9}, annote = {Keywords: Identity Testing, Derandomization, Bounded-Read Formulae, Arithmetic Formulas} }  @InProceedings{bisht_et_al:LIPIcs.FSTTCS.2023.9 author = {Bisht, Pranav and Gupta, Nikhil and Volkovich, Ilya}, title = {{Towards Identity Testing for Sums of Products of Read-Once and Multilinear Bounded-Read Formulae}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {9:1--9:23}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.9}, URN = {urn:nbn:de:0030-drops-193829}, doi = {10.4230/LIPIcs.FSTTCS.2023.9}, annote = {Keywords: Identity Testing, Derandomization, Bounded-Read Formulae, Arithmetic Formulas} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.10    
+
+ Bandwidth of Timed Automata: 3 Classes   
+ Authors:  Eugene Asarin, Aldric Degorre, Cătălin Dima, and Bernardo Jacobo Inclán  
+  Abstract    
+ Timed languages contain sequences of discrete events ("letters") separated by real-valued delays, they can be recognized by timed automata, and represent behaviors of various real-time systems. The notion of bandwidth of a timed language defined in [Jacobo Inclán et al., 2022] characterizes the amount of information per time unit, encoded in words of the language observed with some precision ε. In this paper, we identify three classes of timed automata according to the asymptotics of the bandwidth of their languages with respect to this precision ε: automata are either meager, with an O(1) bandwidth, normal, with a Θ(log(1/ε)) bandwidth, or obese, with Θ(1/ε) bandwidth. We define two structural criteria and prove that they partition timed automata into these 3 classes of bandwidth, implying that there are no intermediate asymptotic classes. The classification problem of a timed automaton is PSPACE-complete. Both criteria are formulated using morphisms from paths of the timed automaton to some finite monoids extending Puri’s orbit graphs; the proofs are based on Simon’s factorization forest theorem.   
+
+  Cite as    
+ Eugene Asarin, Aldric Degorre, Cătălin Dima, and Bernardo Jacobo Inclán. Bandwidth of Timed Automata: 3 Classes. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 10:1-10:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{asarin_et_al:LIPIcs.FSTTCS.2023.10 author = {Asarin, Eugene and Degorre, Aldric and Dima, C\u{a}t\u{a}lin and Jacobo Incl\'{a}n, Bernardo}, title = {{Bandwidth of Timed Automata: 3 Classes}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {10:1--10:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.10}, URN = {urn:nbn:de:0030-drops-193838}, doi = {10.4230/LIPIcs.FSTTCS.2023.10}, annote = {Keywords: timed automata, information theory, bandwidth, entropy, orbit graphs, factorization forests} }  @InProceedings{asarin_et_al:LIPIcs.FSTTCS.2023.10 author = {Asarin, Eugene and Degorre, Aldric and Dima, C\u{a}t\u{a}lin and Jacobo Incl\'{a}n, Bernardo}, title = {{Bandwidth of Timed Automata: 3 Classes}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {10:1--10:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.10}, URN = {urn:nbn:de:0030-drops-193838}, doi = {10.4230/LIPIcs.FSTTCS.2023.10}, annote = {Keywords: timed automata, information theory, bandwidth, entropy, orbit graphs, factorization forests} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.11    
+
+ Monotone Classes Beyond VNP   
+ Authors:  Prerona Chatterjee, Kshitij Gajjar, and Anamay Tengse  
+  Abstract    
+ In this work, we study the natural monotone analogues of various equivalent definitions of VPSPACE: a well studied class (Poizat 2008, Koiran & Perifel 2009, Malod 2011, Mahajan & Rao 2013) that is believed to be larger than VNP. We observe that these monotone analogues are not equivalent unlike their non-monotone counterparts, and propose monotone VPSPACE (mVPSPACE) to be defined as the monotone analogue of Poizat’s definition. With this definition, mVPSPACE turns out to be exponentially stronger than mVNP and also satisfies several desirable closure properties that the other analogues may not. Our initial goal was to understand the monotone complexity of transparent polynomials, a concept that was recently introduced by Hrubeš & Yehudayoff (2021). In that context, we show that transparent polynomials of large sparsity are hard for the monotone analogues of all the known definitions of VPSPACE, except for the one due to Poizat.   
+
+  Cite as    
+ Prerona Chatterjee, Kshitij Gajjar, and Anamay Tengse. Monotone Classes Beyond VNP. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 11:1-11:23, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{chatterjee_et_al:LIPIcs.FSTTCS.2023.11 author = {Chatterjee, Prerona and Gajjar, Kshitij and Tengse, Anamay}, title = {{Monotone Classes Beyond VNP}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {11:1--11:23}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.11}, URN = {urn:nbn:de:0030-drops-193846}, doi = {10.4230/LIPIcs.FSTTCS.2023.11}, annote = {Keywords: Algebraic Complexity, Monotone Computation, VPSPACE, Transparent Polynomials} }  @InProceedings{chatterjee_et_al:LIPIcs.FSTTCS.2023.11 author = {Chatterjee, Prerona and Gajjar, Kshitij and Tengse, Anamay}, title = {{Monotone Classes Beyond VNP}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {11:1--11:23}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.11}, URN = {urn:nbn:de:0030-drops-193846}, doi = {10.4230/LIPIcs.FSTTCS.2023.11}, annote = {Keywords: Algebraic Complexity, Monotone Computation, VPSPACE, Transparent Polynomials} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.12    
+
+ Approximate Maximum Rank Aggregation: Beyond the Worst-Case   
+ Authors:  Yan Hong Yao Alvin and Diptarka Chakraborty  
+  Abstract    
+ The fundamental task of rank aggregation is to combine multiple rankings on a group of candidates into a single ranking to mitigate biases inherent in individual input rankings. This task has a myriad of applications, such as in social choice theory, collaborative filtering, web search, statistics, databases, sports, and admission systems. One popular version of this task, maximum rank aggregation (or the center ranking problem), aims to find a ranking (not necessarily from the input set) that minimizes the maximum distance to the input rankings. However, even for four input rankings, this problem is NP-hard (Dwork et al., WWW'01, and Biedl et al., Discrete Math.'09), and only a (folklore) polynomial-time 2-approximation algorithm is known for finding an optimal aggregate ranking under the commonly used Kendall-tau distance metric. Achieving a better approximation factor in polynomial time, ideally, a polynomial time approximation scheme (PTAS), is one of the major challenges. This paper presents significant progress in solving this problem by considering the Mallows model, a classical probabilistic model. Our proposed algorithm outputs an (1+ε)-approximate aggregate ranking for any ε > 0, with high probability, as long as the input rankings come from a Mallows model, even in a streaming fashion. Furthermore, the same approximation guarantee is achieved even in the presence of outliers, presumably a more challenging task.   
+
+  Cite as    
+ Yan Hong Yao Alvin and Diptarka Chakraborty. Approximate Maximum Rank Aggregation: Beyond the Worst-Case. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 12:1-12:21, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{alvin_et_al:LIPIcs.FSTTCS.2023.12 author = {Alvin, Yan Hong Yao and Chakraborty, Diptarka}, title = {{Approximate Maximum Rank Aggregation: Beyond the Worst-Case}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {12:1--12:21}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.12}, URN = {urn:nbn:de:0030-drops-193857}, doi = {10.4230/LIPIcs.FSTTCS.2023.12}, annote = {Keywords: Rank Aggregation, Center Problem, Mallows Model, Approximation Algorithms, Clustering with Outliers} }  @InProceedings{alvin_et_al:LIPIcs.FSTTCS.2023.12 author = {Alvin, Yan Hong Yao and Chakraborty, Diptarka}, title = {{Approximate Maximum Rank Aggregation: Beyond the Worst-Case}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {12:1--12:21}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.12}, URN = {urn:nbn:de:0030-drops-193857}, doi = {10.4230/LIPIcs.FSTTCS.2023.12}, annote = {Keywords: Rank Aggregation, Center Problem, Mallows Model, Approximation Algorithms, Clustering with Outliers} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.13    
+
+ Reinforcement Planning for Effective ε-Optimal Policies in Dense Time with Discontinuities   
+ Authors:  Léo Henry, Blaise Genest, and Alexandre Drewery  
+  Abstract    
+ Lately, the model of (Decision) Stochastic Timed Automata (DSTA) has been proposed, to model those Cyber Physical Systems displaying dense time (physical part), discrete actions and discontinuities such as timeouts (cyber part). The state of the art results on controlling DSTAs are however not ideal: in the case of infinite horizon, optimal controllers do not exist, while for timed bounded behaviors, we do not know how to build such controllers, even ε-optimal ones. In this paper, we develop a theory of Reinforcement Planning in the setting of DSTAs, for discounted infinite horizon objectives. We show that optimal controllers do exist in general. Further, for DSTAs with 1 clock (which already generalize Continuous Time MDPs with e.g. timeouts), we provide an effective procedure to compute ε-optimal controllers. It is worth noting that we do not rely on the discretization of the time space, but consider symbolic representations instead. Evaluation on a DSTA shows that this method can be more efficient. Last, we show on a counterexample that this is the furthest this construction can go, as it cannot be extended to 2 or more clocks.   
+
+  Cite as    
+ Léo Henry, Blaise Genest, and Alexandre Drewery. Reinforcement Planning for Effective ε-Optimal Policies in Dense Time with Discontinuities. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 13:1-13:18, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{henry_et_al:LIPIcs.FSTTCS.2023.13 author = {Henry, L\'{e}o and Genest, Blaise and Drewery, Alexandre}, title = {{Reinforcement Planning for Effective \epsilon-Optimal Policies in Dense Time with Discontinuities}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {13:1--13:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.13}, URN = {urn:nbn:de:0030-drops-193866}, doi = {10.4230/LIPIcs.FSTTCS.2023.13}, annote = {Keywords: reinforcement planning, timed automata, planning} }  @InProceedings{henry_et_al:LIPIcs.FSTTCS.2023.13 author = {Henry, L\'{e}o and Genest, Blaise and Drewery, Alexandre}, title = {{Reinforcement Planning for Effective \epsilon-Optimal Policies in Dense Time with Discontinuities}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {13:1--13:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.13}, URN = {urn:nbn:de:0030-drops-193866}, doi = {10.4230/LIPIcs.FSTTCS.2023.13}, annote = {Keywords: reinforcement planning, timed automata, planning} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.14    
+
+ Parameterized Complexity of Incomplete Connected Fair Division   
+ Authors:  Harmender Gahlawat and Meirav Zehavi  
+  Abstract    
+ Fair division of resources among competing agents is a fundamental problem in computational social choice and economic game theory. It has been intensively studied on various kinds of items (divisible and indivisible) and under various notions of fairness. We focus on Connected Fair Division (CFD), the variant of fair division on graphs, where the resources are modeled as an item graph. Here, each agent has to be assigned a connected subgraph of the item graph, and each item has to be assigned to some agent. We introduce a generalization of CFD, termed Incomplete CFD (ICFD), where exactly p vertices of the item graph should be assigned to the agents. This might be useful, in particular when the allocations are intended to be "economical" as well as fair. We consider four well-known notions of fairness: PROP, EF, EF1, EFX. First, we prove that EF-ICFD, EF1-ICFD, and EFX-ICFD are W[1]-hard parameterized by p plus the number of agents, even for graphs having constant vertex cover number (vcn). In contrast, we present a randomized FPT algorithm for PROP-ICFD parameterized only by p. Additionally, we prove both positive and negative results concerning the kernelization complexity of ICFD under all four fairness notions, parameterized by p, vcn, and the total number of different valuations in the item graph (val).   
+
+  Cite as    
+ Harmender Gahlawat and Meirav Zehavi. Parameterized Complexity of Incomplete Connected Fair Division. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 14:1-14:18, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{gahlawat_et_al:LIPIcs.FSTTCS.2023.14 author = {Gahlawat, Harmender and Zehavi, Meirav}, title = {{Parameterized Complexity of Incomplete Connected Fair Division}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {14:1--14:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.14}, URN = {urn:nbn:de:0030-drops-193877}, doi = {10.4230/LIPIcs.FSTTCS.2023.14}, annote = {Keywords: Fair Division, Kernelization, Connected Fair Allocation, Fixed parameter tractability} }  @InProceedings{gahlawat_et_al:LIPIcs.FSTTCS.2023.14 author = {Gahlawat, Harmender and Zehavi, Meirav}, title = {{Parameterized Complexity of Incomplete Connected Fair Division}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {14:1--14:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.14}, URN = {urn:nbn:de:0030-drops-193877}, doi = {10.4230/LIPIcs.FSTTCS.2023.14}, annote = {Keywords: Fair Division, Kernelization, Connected Fair Allocation, Fixed parameter tractability} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.15    
+
+ Regular Separators for VASS Coverability Languages   
+ Authors:  Chris Köcher and Georg Zetzsche  
+  Abstract    
+ We study regular separators of vector addition systems (VASS, for short) with coverability semantics. A regular language R is a regular separator of languages K and L if K ⊆ R and L ∩ R = ∅. It was shown by Czerwiński, Lasota, Meyer, Muskalla, Kumar, and Saivasan (CONCUR 2018) that it is decidable whether, for two given VASS, there exists a regular separator. In fact, they show that a regular separator exists if and only if the two VASS languages are disjoint. However, they provide a triply exponential upper bound and a doubly exponential lower bound for the size of such separators and leave open which bound is tight. We show that if two VASS have disjoint languages, then there exists a regular separator with at most doubly exponential size. Moreover, we provide tight size bounds for separators in the case of fixed dimensions and unary/binary encodings of updates and NFA/DFA separators. In particular, we settle the aforementioned question. The key ingredient in the upper bound is a structural analysis of separating automata based on the concept of basic separators, which was recently introduced by Czerwiński and the second author. This allows us to determinize (and thus complement) without the powerset construction and avoid one exponential blowup.   
+
+  Cite as    
+ Chris Köcher and Georg Zetzsche. Regular Separators for VASS Coverability Languages. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 15:1-15:19, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{kocher_et_al:LIPIcs.FSTTCS.2023.15 author = {K\"{o}cher, Chris and Zetzsche, Georg}, title = {{Regular Separators for VASS Coverability Languages}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {15:1--15:19}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.15}, URN = {urn:nbn:de:0030-drops-193883}, doi = {10.4230/LIPIcs.FSTTCS.2023.15}, annote = {Keywords: Vector Addition System, Separability, Regular Language} }  @InProceedings{kocher_et_al:LIPIcs.FSTTCS.2023.15 author = {K\"{o}cher, Chris and Zetzsche, Georg}, title = {{Regular Separators for VASS Coverability Languages}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {15:1--15:19}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.15}, URN = {urn:nbn:de:0030-drops-193883}, doi = {10.4230/LIPIcs.FSTTCS.2023.15}, annote = {Keywords: Vector Addition System, Separability, Regular Language} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.16    
+
+ Acyclic Petri and Workflow Nets with Resets   
+ Authors:  Dmitry Chistikov, Wojciech Czerwiński, Piotr Hofman, Filip Mazowiecki, and Henry Sinclair-Banks  
+  Abstract    
+ In this paper we propose two new subclasses of Petri nets with resets, for which the reachability and coverability problems become tractable. Namely, we add an acyclicity condition that only applies to the consumptions and productions, not the resets. The first class is acyclic Petri nets with resets, and we show that coverability is PSPACE-complete for them. This contrasts the known Ackermann-hardness for coverability in (not necessarily acyclic) Petri nets with resets. We prove that the reachability problem remains undecidable for acyclic Petri nets with resets. The second class concerns workflow nets, a practically motivated and natural subclass of Petri nets. Here, we show that both coverability and reachability in acyclic workflow nets with resets are PSPACE-complete. Without the acyclicity condition, reachability and coverability in workflow nets with resets are known to be equally hard as for Petri nets with resets, that being Ackermann-hard and undecidable, respectively.   
+
+  Cite as    
+ Dmitry Chistikov, Wojciech Czerwiński, Piotr Hofman, Filip Mazowiecki, and Henry Sinclair-Banks. Acyclic Petri and Workflow Nets with Resets. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 16:1-16:18, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{chistikov_et_al:LIPIcs.FSTTCS.2023.16 author = {Chistikov, Dmitry and Czerwi\'{n}ski, Wojciech and Hofman, Piotr and Mazowiecki, Filip and Sinclair-Banks, Henry}, title = {{Acyclic Petri and Workflow Nets with Resets}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {16:1--16:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.16}, URN = {urn:nbn:de:0030-drops-193892}, doi = {10.4230/LIPIcs.FSTTCS.2023.16}, annote = {Keywords: Petri nets, Workflow Nets, Resets, Acyclic, Reachability, Coverability} }  @InProceedings{chistikov_et_al:LIPIcs.FSTTCS.2023.16 author = {Chistikov, Dmitry and Czerwi\'{n}ski, Wojciech and Hofman, Piotr and Mazowiecki, Filip and Sinclair-Banks, Henry}, title = {{Acyclic Petri and Workflow Nets with Resets}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {16:1--16:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.16}, URN = {urn:nbn:de:0030-drops-193892}, doi = {10.4230/LIPIcs.FSTTCS.2023.16}, annote = {Keywords: Petri nets, Workflow Nets, Resets, Acyclic, Reachability, Coverability} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.17    
+
+ Robust Positivity Problems for Linear Recurrence Sequences: The Frontiers of Decidability for Explicitly Given Neighbourhoods   
+ Authors:  Mihir Vahanwala  
+  Abstract    
+ Linear Recurrence Sequences (LRS) are a fundamental mathematical primitive for a plethora of applications such as the verification of probabilistic systems, model checking, computational biology, and economics. Positivity (are all terms of the given LRS non-negative?) and Ultimate Positivity (are all but finitely many terms of the given LRS non-negative?) are important open number-theoretic decision problems. Recently, the robust versions of these problems, that ask whether the LRS is (Ultimately) Positive despite small perturbations to its initialisation, have gained attention as a means to model the imprecision that arises in practical settings. However, the state of the art is ill-equipped to reason about imprecision when its extent is explicitly specified. In this paper, we consider Robust Positivity and Ultimate Positivity problems where the neighbourhood of the initialisation, expressed in a natural and general format, is also part of the input. We contribute by proving sharp decidability results: decision procedures at orders our techniques are unable to handle for general LRS would entail significant number-theoretic breakthroughs.   
+
+  Cite as    
+ Mihir Vahanwala. Robust Positivity Problems for Linear Recurrence Sequences: The Frontiers of Decidability for Explicitly Given Neighbourhoods. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 17:1-17:21, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{vahanwala:LIPIcs.FSTTCS.2023.17 author = {Vahanwala, Mihir}, title = {{Robust Positivity Problems for Linear Recurrence Sequences: The Frontiers of Decidability for Explicitly Given Neighbourhoods}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {17:1--17:21}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.17}, URN = {urn:nbn:de:0030-drops-193909}, doi = {10.4230/LIPIcs.FSTTCS.2023.17}, annote = {Keywords: Dynamical Systems, Verification, Robustness, Linear Recurrence Sequences, Positivity, Ultimate Positivity} }  @InProceedings{vahanwala:LIPIcs.FSTTCS.2023.17 author = {Vahanwala, Mihir}, title = {{Robust Positivity Problems for Linear Recurrence Sequences: The Frontiers of Decidability for Explicitly Given Neighbourhoods}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {17:1--17:21}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.17}, URN = {urn:nbn:de:0030-drops-193909}, doi = {10.4230/LIPIcs.FSTTCS.2023.17}, annote = {Keywords: Dynamical Systems, Verification, Robustness, Linear Recurrence Sequences, Positivity, Ultimate Positivity} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.18    
+
+ Nash Equilibria of Two-Player Matrix Games Repeated Until Collision   
+ Authors:  Aniket Murhekar and Eklavya Sharma  
+  Abstract    
+ We introduce and initiate the study of a natural class of repeated two-player matrix games, called Repeated-Until-Collision (RUC) games. In each round, both players simultaneously pick an action from a common action set {1, 2, … , n}. Depending on their chosen actions, they derive payoffs given by n × n matrices A and B, respectively. If their actions collide (i.e., they pick the same action), the game ends, otherwise, it proceeds to the next round. Both players want to maximize their total payoff until the game ends. RUC games can be interpreted as pursuit-evasion games or repeated hide-and-seek games. They also generalize hand cricket, a popular game among children in India. We show that under mild assumptions on the payoff matrices, every RUC game admits a Nash equilibrium (NE). Moreover, we show the existence of a stationary NE, where each player chooses their action according to a probability distribution over the action set that does not change across rounds. Remarkably, we show that all NE are effectively the same as the stationary NE, thus showing that RUC games admit an almost unique NE. Lastly, we also show how to compute (approximate) NE for RUC games.   
+
+  Cite as    
+ Aniket Murhekar and Eklavya Sharma. Nash Equilibria of Two-Player Matrix Games Repeated Until Collision. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 18:1-18:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{murhekar_et_al:LIPIcs.FSTTCS.2023.18 author = {Murhekar, Aniket and Sharma, Eklavya}, title = {{Nash Equilibria of Two-Player Matrix Games Repeated Until Collision}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {18:1--18:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.18}, URN = {urn:nbn:de:0030-drops-193913}, doi = {10.4230/LIPIcs.FSTTCS.2023.18}, annote = {Keywords: Two player games, Nash equilibrium, Repeated games} }  @InProceedings{murhekar_et_al:LIPIcs.FSTTCS.2023.18 author = {Murhekar, Aniket and Sharma, Eklavya}, title = {{Nash Equilibria of Two-Player Matrix Games Repeated Until Collision}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {18:1--18:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.18}, URN = {urn:nbn:de:0030-drops-193913}, doi = {10.4230/LIPIcs.FSTTCS.2023.18}, annote = {Keywords: Two player games, Nash equilibrium, Repeated games} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.19    
+
+ Synchronized CTL over One-Counter Automata   
+ Authors:  Shaull Almagor, Daniel Assa, and Udi Boker  
+  Abstract    
+ We consider the model-checking problem of Synchronized Computation-Tree Logic (CTL+Sync) over One-Counter Automata (OCAs). CTL+Sync augments CTL with temporal operators that require several paths to satisfy properties in a synchronous manner, e.g., the property "all paths should eventually see p at the same time". The model-checking problem for CTL+Sync over finite-state Kripke structures was shown to be in 𝖯^{NP^NP}. OCAs are labelled transition systems equipped with a non-negative counter that can be zero-tested. Thus, they induce infinite-state systems whose computation trees are not regular. The model-checking problem for CTL over OCAs was shown to be PSPACE-complete. We show that the model-checking problem for CTL+Sync over OCAs is decidable. However, the upper bound we give is non-elementary. We therefore proceed to study the problem for a central fragment of CTL+Sync, extending CTL with operators that require all paths to satisfy properties in a synchronous manner, and show that it is in EXP^NEXP (and in particular in EXPSPACE), by exhibiting a certain "segmented periodicity" in the computation trees of OCAs.   
+
+  Cite as    
+ Shaull Almagor, Daniel Assa, and Udi Boker. Synchronized CTL over One-Counter Automata. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 19:1-19:22, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{almagor_et_al:LIPIcs.FSTTCS.2023.19 author = {Almagor, Shaull and Assa, Daniel and Boker, Udi}, title = {{Synchronized CTL over One-Counter Automata}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {19:1--19:22}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.19}, URN = {urn:nbn:de:0030-drops-193921}, doi = {10.4230/LIPIcs.FSTTCS.2023.19}, annote = {Keywords: CTL, Synchronization, One Counter Automata, Model Checking} }  @InProceedings{almagor_et_al:LIPIcs.FSTTCS.2023.19 author = {Almagor, Shaull and Assa, Daniel and Boker, Udi}, title = {{Synchronized CTL over One-Counter Automata}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {19:1--19:22}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.19}, URN = {urn:nbn:de:0030-drops-193921}, doi = {10.4230/LIPIcs.FSTTCS.2023.19}, annote = {Keywords: CTL, Synchronization, One Counter Automata, Model Checking} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.20    
+
+ A Class of Rational Trace Relations Closed Under Composition   
+ Authors:  Dietrich Kuske  
+  Abstract    
+ Rational relations on words form a well-studied and often applied notion. While the definition in trace monoids is immediate, they have not been studied in this more general context. A possible reason is that they do not share the main useful properties of rational relations on words. To overcome this unfortunate limitation, this paper proposes a restricted class of rational relations, investigates its properties, and applies the findings to systems equipped with a pushdown that does not hold a word but a trace.   
+
+  Cite as    
+ Dietrich Kuske. A Class of Rational Trace Relations Closed Under Composition. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 20:1-20:20, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{kuske:LIPIcs.FSTTCS.2023.20 author = {Kuske, Dietrich}, title = {{A Class of Rational Trace Relations Closed Under Composition}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {20:1--20:20}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.20}, URN = {urn:nbn:de:0030-drops-193935}, doi = {10.4230/LIPIcs.FSTTCS.2023.20}, annote = {Keywords: rational relations, Mazurkiewicz traces, preservation of rationality and recognizability} }  @InProceedings{kuske:LIPIcs.FSTTCS.2023.20 author = {Kuske, Dietrich}, title = {{A Class of Rational Trace Relations Closed Under Composition}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {20:1--20:20}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.20}, URN = {urn:nbn:de:0030-drops-193935}, doi = {10.4230/LIPIcs.FSTTCS.2023.20}, annote = {Keywords: rational relations, Mazurkiewicz traces, preservation of rationality and recognizability} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.21    
+
+ Towards a Practical, Budget-Oblivious Algorithm for the Adwords Problem Under Small Bids   
+ Authors:  Vijay V. Vazirani  
+  Abstract    
+ Motivated by recent insights into the online bipartite matching problem (OBM), our goal was to extend the optimal algorithm for it, namely Ranking, all the way to the special case of adwords problem, called Small, in which bids are small compared to budgets; the latter has been of considerable practical significance in ad auctions [Mehta et al., 2007]. The attractive feature of our approach was that it would yield a budget-oblivious algorithm, i.e., the algorithm would not need to know budgets of advertisers and therefore could be used in autobidding platforms. We were successful in obtaining an optimal, budget-oblivious algorithm for Single-Valued, under which each advertiser can make bids of one value only. However, our next extension, to Small, failed because of a fundamental reason, namely failure of the No-Surpassing Property. Since the probabilistic ideas underlying our algorithm are quite substantial, we have stated them formally, after assuming the No-Surpassing Property, and we leave the open problem of removing this assumption. With the help of two undergrads, we conducted extensive experiments on our algorithm on randomly generated instances. Our findings are that the No-Surpassing Property fails less than 2% of the time and that the performance of our algorithms for Single-Valued and Small are comparable to that of [Mehta et al., 2007]. If further experiments confirm this, our algorithm may be useful as such in practice, especially because of its budget-obliviousness.   
+
+  Cite as    
+ Vijay V. Vazirani. Towards a Practical, Budget-Oblivious Algorithm for the Adwords Problem Under Small Bids. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 21:1-21:14, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{vazirani:LIPIcs.FSTTCS.2023.21 author = {Vazirani, Vijay V.}, title = {{Towards a Practical, Budget-Oblivious Algorithm for the Adwords Problem Under Small Bids}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {21:1--21:14}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.21}, URN = {urn:nbn:de:0030-drops-193941}, doi = {10.4230/LIPIcs.FSTTCS.2023.21}, annote = {Keywords: Adwords problem, ad auctions, online bipartite matching, competitive analysis} }  @InProceedings{vazirani:LIPIcs.FSTTCS.2023.21 author = {Vazirani, Vijay V.}, title = {{Towards a Practical, Budget-Oblivious Algorithm for the Adwords Problem Under Small Bids}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {21:1--21:14}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.21}, URN = {urn:nbn:de:0030-drops-193941}, doi = {10.4230/LIPIcs.FSTTCS.2023.21}, annote = {Keywords: Adwords problem, ad auctions, online bipartite matching, competitive analysis} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.22    
+
+ Languages Given by Finite Automata over the Unary Alphabet   
+ Authors:  Wojciech Czerwiński, Maciej Dębski, Tomasz Gogasz, Gordon Hoi, Sanjay Jain, Michał Skrzypczak, Frank Stephan, and Christopher Tan  
+  Abstract    
+ This paper studies the complexity of operations on finite automata and the complexity of their decision problems when the alphabet is unary and n the number of states of the finite automata considered. The following main results are obtained: 1) Equality and inclusion of NFAs can be decided within time 2^O((n log n)^{1/3}); previous upper bound 2^O((n log n)^{1/2}) was by Chrobak (1986) via DFA conversion. 2) The state complexity of operations of UFAs (unambiguous finite automata) increases for complementation and union at most by quasipolynomial; however, for concatenation of two n-state UFAs, the worst case is an UFA of at least 2^Ω(n^{1/6}) states. Previously the upper bounds for complementation and union were exponential-type and this lower bound for concatenation is new.   
+
+  Cite as    
+ Wojciech Czerwiński, Maciej Dębski, Tomasz Gogasz, Gordon Hoi, Sanjay Jain, Michał Skrzypczak, Frank Stephan, and Christopher Tan. Languages Given by Finite Automata over the Unary Alphabet. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 22:1-22:20, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{czerwinski_et_al:LIPIcs.FSTTCS.2023.22 author = {Czerwi\'{n}ski, Wojciech and D\k{e}bski, Maciej and Gogasz, Tomasz and Hoi, Gordon and Jain, Sanjay and Skrzypczak, Micha{\l} and Stephan, Frank and Tan, Christopher}, title = {{Languages Given by Finite Automata over the Unary Alphabet}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {22:1--22:20}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.22}, URN = {urn:nbn:de:0030-drops-193959}, doi = {10.4230/LIPIcs.FSTTCS.2023.22}, annote = {Keywords: Nondeterministic Finite Automata, Unambiguous Finite Automata, Upper Bounds on Runtime, Conditional Lower Bounds, Languages over the Unary Alphabet} }  @InProceedings{czerwinski_et_al:LIPIcs.FSTTCS.2023.22 author = {Czerwi\'{n}ski, Wojciech and D\k{e}bski, Maciej and Gogasz, Tomasz and Hoi, Gordon and Jain, Sanjay and Skrzypczak, Micha{\l} and Stephan, Frank and Tan, Christopher}, title = {{Languages Given by Finite Automata over the Unary Alphabet}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {22:1--22:20}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.22}, URN = {urn:nbn:de:0030-drops-193959}, doi = {10.4230/LIPIcs.FSTTCS.2023.22}, annote = {Keywords: Nondeterministic Finite Automata, Unambiguous Finite Automata, Upper Bounds on Runtime, Conditional Lower Bounds, Languages over the Unary Alphabet} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.23    
+
+ Bounded Simultaneous Messages   
+ Authors:  Andrej Bogdanov, Krishnamoorthy Dinesh, Yuval Filmus, Yuval Ishai, Avi Kaplan, and Sruthi Sekar  
+  Abstract    
+ We consider the following question of bounded simultaneous messages (BSM) protocols: Can computationally unbounded Alice and Bob evaluate a function f(x,y) of their inputs by sending polynomial-size messages to a computationally bounded Carol? The special case where f is the mod-2 inner-product function and Carol is bounded to AC⁰ has been studied in previous works. The general question can be broadly motivated by applications in which distributed computation is more costly than local computation. In this work, we initiate a more systematic study of the BSM model, with different functions f and computational bounds on Carol. In particular, we give evidence against the existence of BSM protocols with polynomial-size Carol for naturally distributed variants of NP-complete languages.   
+
+  Cite as    
+ Andrej Bogdanov, Krishnamoorthy Dinesh, Yuval Filmus, Yuval Ishai, Avi Kaplan, and Sruthi Sekar. Bounded Simultaneous Messages. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 23:1-23:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{bogdanov_et_al:LIPIcs.FSTTCS.2023.23 author = {Bogdanov, Andrej and Dinesh, Krishnamoorthy and Filmus, Yuval and Ishai, Yuval and Kaplan, Avi and Sekar, Sruthi}, title = {{Bounded Simultaneous Messages}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {23:1--23:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.23}, URN = {urn:nbn:de:0030-drops-193961}, doi = {10.4230/LIPIcs.FSTTCS.2023.23}, annote = {Keywords: Simultaneous Messages, Instance Hiding, Algebraic degree, Preprocessing, Lower Bounds} }  @InProceedings{bogdanov_et_al:LIPIcs.FSTTCS.2023.23 author = {Bogdanov, Andrej and Dinesh, Krishnamoorthy and Filmus, Yuval and Ishai, Yuval and Kaplan, Avi and Sekar, Sruthi}, title = {{Bounded Simultaneous Messages}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {23:1--23:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.23}, URN = {urn:nbn:de:0030-drops-193961}, doi = {10.4230/LIPIcs.FSTTCS.2023.23}, annote = {Keywords: Simultaneous Messages, Instance Hiding, Algebraic degree, Preprocessing, Lower Bounds} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.24    
+
+ Interval Selection in Data Streams: Weighted Intervals and the Insertion-Deletion Setting   
+ Authors:  Jacques Dark, Adithya Diddapur, and Christian Konrad  
+  Abstract    
+ We study the Interval Selection problem in data streams: Given a stream of n intervals on the line, the objective is to compute a largest possible subset of non-overlapping intervals using O(|OPT|) space, where |OPT| is the size of an optimal solution. Previous work gave a 3/2-approximation for unit-length and a 2-approximation for arbitrary-length intervals [Emek et al., ICALP'12]. We extend this line of work to weighted intervals as well as to insertion-deletion streams. Our results include: 1) When considering weighted intervals, a (3/2+ε)-approximation can be achieved for unit intervals, but any constant factor approximation for arbitrary-length intervals requires space Ω(n). 2) In the insertion-deletion setting where intervals can both be added and deleted, we prove that, even without weights, computing a constant factor approximation for arbitrary-length intervals requires space Ω(n), whereas in the weighted unit-length intervals case a (2+ε)-approximation can be obtained. Our lower bound results are obtained via reductions to the recently introduced Chained-Index communication problem, further demonstrating the strength of this problem in the context of streaming geometric independent set problems.   
+
+  Cite as    
+ Jacques Dark, Adithya Diddapur, and Christian Konrad. Interval Selection in Data Streams: Weighted Intervals and the Insertion-Deletion Setting. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 24:1-24:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{dark_et_al:LIPIcs.FSTTCS.2023.24 author = {Dark, Jacques and Diddapur, Adithya and Konrad, Christian}, title = {{Interval Selection in Data Streams: Weighted Intervals and the Insertion-Deletion Setting}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {24:1--24:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.24}, URN = {urn:nbn:de:0030-drops-193976}, doi = {10.4230/LIPIcs.FSTTCS.2023.24}, annote = {Keywords: Streaming Algorithms, Interval Selection, Weighted Intervals, Insertion-deletion Streams} }  @InProceedings{dark_et_al:LIPIcs.FSTTCS.2023.24 author = {Dark, Jacques and Diddapur, Adithya and Konrad, Christian}, title = {{Interval Selection in Data Streams: Weighted Intervals and the Insertion-Deletion Setting}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {24:1--24:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.24}, URN = {urn:nbn:de:0030-drops-193976}, doi = {10.4230/LIPIcs.FSTTCS.2023.24}, annote = {Keywords: Streaming Algorithms, Interval Selection, Weighted Intervals, Insertion-deletion Streams} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.25    
+
+ Listing 4-Cycles   
+ Authors:  Amir Abboud, Seri Khoury, Oree Leibowitz, and Ron Safier  
+  Abstract    
+ We study the fine-grained complexity of listing all 4-cycles in a graph on n nodes, m edges, and t such 4-cycles. The main result is an Õ(min(n²,m^{4/3})+t) upper bound, which is best-possible up to log factors unless the long-standing O(min(n²,m^{4/3})) upper bound for detecting a 4-cycle can be broken. Moreover, it almost-matches recent 3-SUM-based lower bounds for the problem by Abboud, Bringmann, and Fischer (STOC 2023) and independently by Jin and Xu (STOC 2023). Notably, our result separates 4-cycle listing from the closely related triangle listing for which higher conditional lower bounds exist, and rule out such a "detection plus t" bound. We also show by simple arguments that our bound cannot be extended to mild generalizations of the problem such as reporting all pairs of nodes that participate in a 4-cycle. [Independent work: Jin and Xu [Ce Jin and Yinzhan Xu, 2023] also present an algorithm with the same time bound.]   
+
+  Cite as    
+ Amir Abboud, Seri Khoury, Oree Leibowitz, and Ron Safier. Listing 4-Cycles. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 25:1-25:16, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{abboud_et_al:LIPIcs.FSTTCS.2023.25 author = {Abboud, Amir and Khoury, Seri and Leibowitz, Oree and Safier, Ron}, title = {{Listing 4-Cycles}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {25:1--25:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.25}, URN = {urn:nbn:de:0030-drops-193985}, doi = {10.4230/LIPIcs.FSTTCS.2023.25}, annote = {Keywords: Graph algorithms, cycles listing, subgraph detection, fine-grained complexity} }  @InProceedings{abboud_et_al:LIPIcs.FSTTCS.2023.25 author = {Abboud, Amir and Khoury, Seri and Leibowitz, Oree and Safier, Ron}, title = {{Listing 4-Cycles}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {25:1--25:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.25}, URN = {urn:nbn:de:0030-drops-193985}, doi = {10.4230/LIPIcs.FSTTCS.2023.25}, annote = {Keywords: Graph algorithms, cycles listing, subgraph detection, fine-grained complexity} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.26    
+
+ Monotonicity Characterizations of Regular Languages   
+ Authors:  Yoav Feinstein and Orna Kupferman  
+  Abstract    
+ Each language L ⊆ Σ^* induces an infinite sequence Pr(L,n)_{n=1}^∞, where for all n ≥ 1, the value Pr(L,n) ∈ [0,1] is the probability of a word of length n to be in L, assuming a uniform distribution on the letters in Σ. Previous studies of Pr(L,n)_{n=1}^∞ for a regular language L, concerned zero-one laws, density, and accumulation points. We study monotonicity of Pr(L,n)_{n=1}^∞, possibly in the limit. We show that monotonicity may depend on the distribution of letters, study how operations on languages affect monotonicity, and characterize classes of languages for which the sequence is monotonic. We extend the study to languages L of infinite words, where we study the probability of lasso-shaped words to be in L and consider two definitions for Pr(L,n). The first refers to the probability of prefixes of length n to be extended to words in L, and the second to the probability of word w of length n to be such that w^ω is in L. Thus, in the second definition, monotonicity depends not only on the length of w, but also on the words being periodic.   
+
+  Cite as    
+ Yoav Feinstein and Orna Kupferman. Monotonicity Characterizations of Regular Languages. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 26:1-26:19, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{feinstein_et_al:LIPIcs.FSTTCS.2023.26 author = {Feinstein, Yoav and Kupferman, Orna}, title = {{Monotonicity Characterizations of Regular Languages}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {26:1--26:19}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.26}, URN = {urn:nbn:de:0030-drops-193998}, doi = {10.4230/LIPIcs.FSTTCS.2023.26}, annote = {Keywords: Regular Languages, Probability, Monotonicity, Automata} }  @InProceedings{feinstein_et_al:LIPIcs.FSTTCS.2023.26 author = {Feinstein, Yoav and Kupferman, Orna}, title = {{Monotonicity Characterizations of Regular Languages}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {26:1--26:19}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.26}, URN = {urn:nbn:de:0030-drops-193998}, doi = {10.4230/LIPIcs.FSTTCS.2023.26}, annote = {Keywords: Regular Languages, Probability, Monotonicity, Automata} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.27    
+
+ Decision Tree Complexity Versus Block Sensitivity and Degree   
+ Authors:  Rahul Chugh, Supartha Podder, and Swagato Sanyal  
+  Abstract    
+ Relations between the decision tree complexity and various other complexity measures of Boolean functions is a thriving topic of research in computational complexity. While decision tree complexity is long known to be polynomially related with many other measures, the optimal exponents of many of these relations are not known. It is known that decision tree complexity is bounded above by the cube of block sensitivity, and the cube of polynomial degree. However, the widest separation between decision tree complexity and each of block sensitivity and degree that is witnessed by known Boolean functions is quadratic. Proving quadratic relations between these measures would resolve several open questions in decision tree complexity. For example, it will imply a tight relation between decision tree complexity and square of randomized decision tree complexity and a tight relation between zero-error randomized decision tree complexity and square of fractional block sensitivity, resolving an open question raised by Aaronson [Aaronson, 2008]. In this work, we investigate the tightness of the existing cubic upper bounds. We improve the cubic upper bounds for many interesting classes of Boolean functions. We show that for graph properties and for functions with a constant number of alternations, the cubic upper bounds can be improved to quadratic. We define a class of Boolean functions, which we call the zebra functions, that comprises Boolean functions where each monotone path from 0ⁿ to 1ⁿ has an equal number of alternations. This class contains the symmetric and monotone functions as its subclasses. We show that for any zebra function, decision tree complexity is at most the square of block sensitivity, and certificate complexity is at most the square of degree. Finally, we show using a lifting theorem of communication complexity by Göös, Pitassi and Watson [Göös et al., 2017] that the task of proving an improved upper bound on the decision tree complexity for all functions is in a sense equivalent to the potentially easier task of proving a similar upper bound on communication complexity for each bi-partition of the input variables, for all functions. In particular, this implies that to bound the decision tree complexity it suffices to bound smaller measures like parity decision tree complexity, subcube decision tree complexity and decision tree rank, that are defined in terms of models that can be efficiently simulated by communication protocols.   
+
+  Cite as    
+ Rahul Chugh, Supartha Podder, and Swagato Sanyal. Decision Tree Complexity Versus Block Sensitivity and Degree. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 27:1-27:23, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{chugh_et_al:LIPIcs.FSTTCS.2023.27 author = {Chugh, Rahul and Podder, Supartha and Sanyal, Swagato}, title = {{Decision Tree Complexity Versus Block Sensitivity and Degree}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {27:1--27:23}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.27}, URN = {urn:nbn:de:0030-drops-194001}, doi = {10.4230/LIPIcs.FSTTCS.2023.27}, annote = {Keywords: Query complexity, Graph Property, Boolean functions} }  @InProceedings{chugh_et_al:LIPIcs.FSTTCS.2023.27 author = {Chugh, Rahul and Podder, Supartha and Sanyal, Swagato}, title = {{Decision Tree Complexity Versus Block Sensitivity and Degree}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {27:1--27:23}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.27}, URN = {urn:nbn:de:0030-drops-194001}, doi = {10.4230/LIPIcs.FSTTCS.2023.27}, annote = {Keywords: Query complexity, Graph Property, Boolean functions} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.28    
+
+ FPT Approximations for Packing and Covering Problems Parameterized by Elimination Distance and Even Less   
+ Authors:  Tanmay Inamdar, Lawqueen Kanesh, Madhumita Kundu, M. S. Ramanujan, and Saket Saurabh  
+  Abstract    
+ For numerous graph problems in the realm of parameterized algorithms, using the size of a smallest deletion set (called a modulator) into well-understood graph families as parameterization has led to a long and successful line of research. Recently, however, there has been an extensive study of structural parameters that are potentially much smaller than the modulator size. In particular, recent papers [Jansen et al. STOC 2021; Agrawal et al. SODA 2022] have studied parameterization by the size of the modulator to a graph family ℋ(mod_ℋ(⋅)), elimination distance to ℋ(ed_ℋ(⋅)), and ℋ-treewidth (tw_ℋ(⋅)). These parameters are related by the fact that tw_ℋ lower bounds ed_ℋ, which in turn lower bounds mod_ℋ. While these new parameters have been successfully exploited to design fast exact algorithms their utility (especially that of ed_ℋ and tw_ℋ) in the context of approximation algorithms is mostly unexplored. The conceptual contribution of this paper is to present novel algorithmic meta-theorems that expand the impact of these structural parameters to the area of FPT Approximation, mirroring their utility in the design of exact FPT algorithms. Precisely, we show that if a covering or packing problem is definable in Monadic Second Order Logic and has a property called Finite Integer Index (FII), then the existence of an FPT Approximation Scheme (FPT-AS, i.e., (1±ε)-approximation) parameterized by mod_ℋ(⋅), ed_ℋ(⋅), and tw_ℋ(⋅) is in fact equivalent. As a consequence, we obtain FPT-ASes for a wide range of covering, packing, and domination problems on graphs with respect to these parameters. In the process, we show that several graph problems, that are W[1]-hard parameterized by mod_ℋ, admit FPT-ASes not only when parameterized by mod_ℋ, but even when parameterized by the potentially much smaller parameter tw_ℋ(⋅). In the spirit of [Agrawal et al. SODA 2022], our algorithmic results highlight a broader connection between these parameters in the world of approximation. As concrete exemplifications of our meta-theorems, we obtain FPT-ASes for well-studied graph problems such as Vertex Cover, Feedback Vertex Set, Cycle Packing and Dominating Set, parameterized by tw_ℋ(⋅) (and hence, also by mod_ℋ(⋅) or ed_ℋ(⋅)), where ℋ is any family of minor free graphs.   
+
+  Cite as    
+ Tanmay Inamdar, Lawqueen Kanesh, Madhumita Kundu, M. S. Ramanujan, and Saket Saurabh. FPT Approximations for Packing and Covering Problems Parameterized by Elimination Distance and Even Less. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 28:1-28:16, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{inamdar_et_al:LIPIcs.FSTTCS.2023.28 author = {Inamdar, Tanmay and Kanesh, Lawqueen and Kundu, Madhumita and Ramanujan, M. S. and Saurabh, Saket}, title = {{FPT Approximations for Packing and Covering Problems Parameterized by Elimination Distance and Even Less}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {28:1--28:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.28}, URN = {urn:nbn:de:0030-drops-194013}, doi = {10.4230/LIPIcs.FSTTCS.2023.28}, annote = {Keywords: FPT-AS, F-Deletion, Packing, Elimination Distance, Elimination Treewidth} }  @InProceedings{inamdar_et_al:LIPIcs.FSTTCS.2023.28 author = {Inamdar, Tanmay and Kanesh, Lawqueen and Kundu, Madhumita and Ramanujan, M. S. and Saurabh, Saket}, title = {{FPT Approximations for Packing and Covering Problems Parameterized by Elimination Distance and Even Less}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {28:1--28:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.28}, URN = {urn:nbn:de:0030-drops-194013}, doi = {10.4230/LIPIcs.FSTTCS.2023.28}, annote = {Keywords: FPT-AS, F-Deletion, Packing, Elimination Distance, Elimination Treewidth} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.29    
+
+ Leakage Resilience, Targeted Pseudorandom Generators, and Mild Derandomization of Arthur-Merlin Protocols   
+ Authors:  Dieter van Melkebeek and Nicollas Mocelin Sdroievski  
+  Abstract    
+ Many derandomization results for probabilistic decision processes have been ported to the setting of Arthur-Merlin protocols. Whereas the ultimate goal in the first setting consists of efficient simulations on deterministic machines (BPP vs. P problem), in the second setting it is efficient simulations on nondeterministic machines (AM vs. NP problem). Two notable exceptions that have not yet been ported from the first to the second setting are the equivalence between whitebox derandomization and leakage resilience (Liu and Pass, 2023), and the equivalence between whitebox derandomization and targeted pseudorandom generators (Goldreich, 2011). We develop both equivalences for mild derandomizations of Arthur-Merlin protocols, i.e., simulations on Σ₂-machines. Our techniques also apply to natural simulation models that are intermediate between nondeterministic machines and Σ₂-machines.   
+
+  Cite as    
+ Dieter van Melkebeek and Nicollas Mocelin Sdroievski. Leakage Resilience, Targeted Pseudorandom Generators, and Mild Derandomization of Arthur-Merlin Protocols. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 29:1-29:22, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{vanmelkebeek_et_al:LIPIcs.FSTTCS.2023.29 author = {van Melkebeek, Dieter and Mocelin Sdroievski, Nicollas}, title = {{Leakage Resilience, Targeted Pseudorandom Generators, and Mild Derandomization of Arthur-Merlin Protocols}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {29:1--29:22}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.29}, URN = {urn:nbn:de:0030-drops-194024}, doi = {10.4230/LIPIcs.FSTTCS.2023.29}, annote = {Keywords: Hardness versus randomness tradeoff, leakage resilience, Arthur-Merlin protocol, targeted hitting set generator} }  @InProceedings{vanmelkebeek_et_al:LIPIcs.FSTTCS.2023.29 author = {van Melkebeek, Dieter and Mocelin Sdroievski, Nicollas}, title = {{Leakage Resilience, Targeted Pseudorandom Generators, and Mild Derandomization of Arthur-Merlin Protocols}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {29:1--29:22}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.29}, URN = {urn:nbn:de:0030-drops-194024}, doi = {10.4230/LIPIcs.FSTTCS.2023.29}, annote = {Keywords: Hardness versus randomness tradeoff, leakage resilience, Arthur-Merlin protocol, targeted hitting set generator} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.30    
+
+ Randomized and Quantum Query Complexities of Finding a King in a Tournament   
+ Authors:  Nikhil S. Mande, Manaswi Paraashar, and Nitin Saurabh  
+  Abstract    
+ A tournament is a complete directed graph. It is well known that every tournament contains at least one vertex v such that every other vertex is reachable from v by a path of length at most 2. All such vertices v are called kings of the underlying tournament. Despite active recent research in the area, the best-known upper and lower bounds on the deterministic query complexity (with query access to directions of edges) of finding a king in a tournament on n vertices are from over 20 years ago, and the bounds do not match: the best-known lower bound is Ω(n^{4/3}) and the best-known upper bound is O(n^{3/2}) [Shen, Sheng, Wu, SICOMP'03]. Our contribution is to show tight bounds (up to logarithmic factors) of Θ̃(n) and Θ̃(√n) in the randomized and quantum query models, respectively. We also study the randomized and quantum query complexities of finding a maximum out-degree vertex in a tournament.   
+
+  Cite as    
+ Nikhil S. Mande, Manaswi Paraashar, and Nitin Saurabh. Randomized and Quantum Query Complexities of Finding a King in a Tournament. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 30:1-30:19, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{mande_et_al:LIPIcs.FSTTCS.2023.30 author = {Mande, Nikhil S. and Paraashar, Manaswi and Saurabh, Nitin}, title = {{Randomized and Quantum Query Complexities of Finding a King in a Tournament}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {30:1--30:19}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.30}, URN = {urn:nbn:de:0030-drops-194039}, doi = {10.4230/LIPIcs.FSTTCS.2023.30}, annote = {Keywords: Query complexity, quantum computing, randomized query complexity, tournament solutions, search problems} }  @InProceedings{mande_et_al:LIPIcs.FSTTCS.2023.30 author = {Mande, Nikhil S. and Paraashar, Manaswi and Saurabh, Nitin}, title = {{Randomized and Quantum Query Complexities of Finding a King in a Tournament}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {30:1--30:19}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.30}, URN = {urn:nbn:de:0030-drops-194039}, doi = {10.4230/LIPIcs.FSTTCS.2023.30}, annote = {Keywords: Query complexity, quantum computing, randomized query complexity, tournament solutions, search problems} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.31    
+
+ A Generalized Quantum Branching Program   
+ Authors:  Debajyoti Bera and Tharrmashastha SAPV  
+  Abstract    
+ Classical branching programs are studied to understand the space complexity of computational problems. Prior to this work, Nakanishi and Ablayev had separately defined two different quantum versions of branching programs that we refer to as NQBP and AQBP. However, none of them, to our satisfaction, captures the intuitive idea of being able to query different variables in superposition in one step of a branching program traversal. Here, we propose a quantum branching program model, referred to as GQBP, with that ability. To motivate our definition, we explicitly give examples of GQBP for n-bit Deutsch-Jozsa, n-bit Parity, and 3-bit Majority with optimal lengths. We then show several equivalences, namely, between GQBP and AQBP, GQBP and NQBP, and GQBP and query complexities (using either oracle gates or a QRAM to query input bits). In a way, this unifies the different results that we have for the two earlier branching programs and also connects them to query complexity. We hope that GQBP can be used to prove space and space-time lower bounds for quantum solutions to combinatorial problems.   
+
+  Cite as    
+ Debajyoti Bera and Tharrmashastha SAPV. A Generalized Quantum Branching Program. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 31:1-31:21, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{bera_et_al:LIPIcs.FSTTCS.2023.31 author = {Bera, Debajyoti and SAPV, Tharrmashastha}, title = {{A Generalized Quantum Branching Program}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {31:1--31:21}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.31}, URN = {urn:nbn:de:0030-drops-194043}, doi = {10.4230/LIPIcs.FSTTCS.2023.31}, annote = {Keywords: Quantum computing, quantum branching programs, quantum algorithms, query complexity} }  @InProceedings{bera_et_al:LIPIcs.FSTTCS.2023.31 author = {Bera, Debajyoti and SAPV, Tharrmashastha}, title = {{A Generalized Quantum Branching Program}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {31:1--31:21}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.31}, URN = {urn:nbn:de:0030-drops-194043}, doi = {10.4230/LIPIcs.FSTTCS.2023.31}, annote = {Keywords: Quantum computing, quantum branching programs, quantum algorithms, query complexity} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.32    
+
+ Tight Bounds for the Randomized and Quantum Communication Complexities of Equality with Small Error   
+ Authors:  Olivier Lalonde, Nikhil S. Mande, and Ronald de Wolf  
+  Abstract    
+ We investigate the randomized and quantum communication complexities of the well-studied Equality function with small error probability ε, getting the optimal constant factors in the leading terms in various different models. The following are our results in the randomized model: - We give a general technique to convert public-coin protocols to private-coin protocols by incurring a small multiplicative error at a small additive cost. This is an improvement over Newman’s theorem [Inf. Proc. Let.'91] in the dependence on the error parameter. - As a consequence we obtain a (log(n/ε²) + 4)-cost private-coin communication protocol that computes the n-bit Equality function, to error ε. This improves upon the log(n/ε³) + O(1) upper bound implied by Newman’s theorem, and matches the best known lower bound, which follows from Alon [Comb. Prob. Comput.'09], up to an additive log log(1/ε) + O(1). The following are our results in various quantum models: - We exhibit a one-way protocol with log(n/ε) + 4 qubits of communication for the n-bit Equality function, to error ε, that uses only pure states. This bound was implicitly already shown by Nayak [PhD thesis'99]. - We give a near-matching lower bound: any ε-error one-way protocol for n-bit Equality that uses only pure states communicates at least log(n/ε) - log log(1/ε) - O(1) qubits. - We exhibit a one-way protocol with log(√n/ε) + 3 qubits of communication that uses mixed states. This is tight up to additive log log(1/ε) + O(1), which follows from Alon’s result. - We exhibit a one-way entanglement-assisted protocol achieving error probability ε with ⌈log(1/ε)⌉ + 1 classical bits of communication and ⌈log(√n/ε)⌉ + 4 shared EPR-pairs between Alice and Bob. This matches the communication cost of the classical public coin protocol achieving the same error probability while improving upon the amount of prior entanglement that is needed for this protocol, which is ⌈log(n/ε)⌉ + O(1) shared EPR-pairs. Our upper bounds also yield upper bounds on the approximate rank, approximate nonnegative-rank, and approximate psd-rank of the Identity matrix. As a consequence we also obtain improved upper bounds on these measures for a function that was recently used to refute the randomized and quantum versions of the log-rank conjecture (Chattopadhyay, Mande and Sherif [J. ACM'20], Sinha and de Wolf [FOCS'19], Anshu, Boddu and Touchette [FOCS'19]).   
+
+  Cite as    
+ Olivier Lalonde, Nikhil S. Mande, and Ronald de Wolf. Tight Bounds for the Randomized and Quantum Communication Complexities of Equality with Small Error. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 32:1-32:18, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{lalonde_et_al:LIPIcs.FSTTCS.2023.32 author = {Lalonde, Olivier and Mande, Nikhil S. and de Wolf, Ronald}, title = {{Tight Bounds for the Randomized and Quantum Communication Complexities of Equality with Small Error}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {32:1--32:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.32}, URN = {urn:nbn:de:0030-drops-194055}, doi = {10.4230/LIPIcs.FSTTCS.2023.32}, annote = {Keywords: Communication complexity, quantum communication complexity} }  @InProceedings{lalonde_et_al:LIPIcs.FSTTCS.2023.32 author = {Lalonde, Olivier and Mande, Nikhil S. and de Wolf, Ronald}, title = {{Tight Bounds for the Randomized and Quantum Communication Complexities of Equality with Small Error}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {32:1--32:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.32}, URN = {urn:nbn:de:0030-drops-194055}, doi = {10.4230/LIPIcs.FSTTCS.2023.32}, annote = {Keywords: Communication complexity, quantum communication complexity} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.33    
+
+ Revisiting Mulmuley: Simple Proof That Maxflow Is Not in the Algebraic Version of NC   
+ Authors:  Ulysse Léchine  
+  Abstract    
+ We give an alternate and simpler proof of the fact that PRAM without bit operations (shortened to iPRAM for integer PRAM) as considered in paper [Mulmuley, 1999] cannot solve the maxflow problem. To do so we consider the model of PRAM working over real number (rPRAM) which is at least as expressive as the iPRAM models when considering integer inputs. We then show that the rPRAM model is as expressive as the algebraic version of NC : algebraic circuits of fan-in 2 and of polylog depth noted NC^alg. We go on to show limitations of the NC^alg model using basic facts from real analysis : those circuits compute low degree piece wise polynomials. Then, using known results we show that the maxflow function is not a low-degree piece-wise polynomial. Finally we argue that NC^alg is actually a really limited class which limits our hope of extending our results to the boolean version of NC.   
+
+  Cite as    
+ Ulysse Léchine. Revisiting Mulmuley: Simple Proof That Maxflow Is Not in the Algebraic Version of NC. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 33:1-33:12, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{lechine:LIPIcs.FSTTCS.2023.33 author = {L\'{e}chine, Ulysse}, title = {{Revisiting Mulmuley: Simple Proof That Maxflow Is Not in the Algebraic Version of NC}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {33:1--33:12}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.33}, URN = {urn:nbn:de:0030-drops-194061}, doi = {10.4230/LIPIcs.FSTTCS.2023.33}, annote = {Keywords: Algebraic complexity, P vs NC, algebraic NC, GCT program} }  @InProceedings{lechine:LIPIcs.FSTTCS.2023.33 author = {L\'{e}chine, Ulysse}, title = {{Revisiting Mulmuley: Simple Proof That Maxflow Is Not in the Algebraic Version of NC}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {33:1--33:12}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.33}, URN = {urn:nbn:de:0030-drops-194061}, doi = {10.4230/LIPIcs.FSTTCS.2023.33}, annote = {Keywords: Algebraic complexity, P vs NC, algebraic NC, GCT program} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.34    
+
+ Solving Odd-Fair Parity Games   
+ Authors:  Irmak Sağlam and Anne-Kathrin Schmuck  
+  Abstract    
+ This paper discusses the problem of efficiently solving parity games where player Odd has to obey an additional strong transition fairness constraint on its vertices - given that a player Odd vertex v is visited infinitely often, a particular subset of the outgoing edges (called live edges) of v has to be taken infinitely often. Such games, which we call Odd-fair parity games, naturally arise from abstractions of cyber-physical systems for planning and control. In this paper, we present a new Zielonka-type algorithm for solving Odd-fair parity games. This algorithm not only shares the same worst-case time complexity as Zielonka’s algorithm for (normal) parity games but also preserves the algorithmic advantage Zielonka’s algorithm possesses over other parity solvers with exponential time complexity. We additionally introduce a formalization of Odd player winning strategies in such games, which were unexplored previous to this work. This formalization serves dual purposes: firstly, it enables us to prove our Zielonka-type algorithm; secondly, it stands as a noteworthy contribution in its own right, augmenting our understanding of additional fairness assumptions in two-player games.   
+
+  Cite as    
+ Irmak Sağlam and Anne-Kathrin Schmuck. Solving Odd-Fair Parity Games. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 34:1-34:24, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{saglam_et_al:LIPIcs.FSTTCS.2023.34 author = {Sa\u{g}lam, Irmak and Schmuck, Anne-Kathrin}, title = {{Solving Odd-Fair Parity Games}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {34:1--34:24}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.34}, URN = {urn:nbn:de:0030-drops-194077}, doi = {10.4230/LIPIcs.FSTTCS.2023.34}, annote = {Keywords: parity games, strong transition fairness, algorithmic game theory} }  @InProceedings{saglam_et_al:LIPIcs.FSTTCS.2023.34 author = {Sa\u{g}lam, Irmak and Schmuck, Anne-Kathrin}, title = {{Solving Odd-Fair Parity Games}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {34:1--34:24}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.34}, URN = {urn:nbn:de:0030-drops-194077}, doi = {10.4230/LIPIcs.FSTTCS.2023.34}, annote = {Keywords: parity games, strong transition fairness, algorithmic game theory} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.35    
+
+ New Lower Bounds for Reachability in Vector Addition Systems   
+ Authors:  Wojciech Czerwiński, Ismaël Jecker, Sławomir Lasota, Jérôme Leroux, and Łukasz Orlikowski  
+  Abstract    
+ We investigate the dimension-parametric complexity of the reachability problem in vector addition systems with states (VASS) and its extension with pushdown stack (pushdown VASS). Up to now, the problem is known to be F_d-hard for VASS of dimension 3d+2 (the complexity class F_d corresponds to the kth level of the fast-growing hierarchy), and no essentially better bound is known for pushdown VASS. We provide a new construction that improves the lower bound for VASS: F_d-hardness in dimension 2d+3. Furthermore, building on our new insights we show a new lower bound for pushdown VASS: F_d-hardness in dimension d/2 + 6. This dimension-parametric lower bound is strictly stronger than the upper bound for VASS, which suggests that the (still unknown) complexity of the reachability problem in pushdown VASS is higher than in plain VASS (where it is Ackermann-complete).   
+
+  Cite as    
+ Wojciech Czerwiński, Ismaël Jecker, Sławomir Lasota, Jérôme Leroux, and Łukasz Orlikowski. New Lower Bounds for Reachability in Vector Addition Systems. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 35:1-35:22, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{czerwinski_et_al:LIPIcs.FSTTCS.2023.35 author = {Czerwi\'{n}ski, Wojciech and Jecker, Isma\"{e}l and Lasota, S{\l}awomir and Leroux, J\'{e}r\^{o}me and Orlikowski, {\L}ukasz}, title = {{New Lower Bounds for Reachability in Vector Addition Systems}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {35:1--35:22}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.35}, URN = {urn:nbn:de:0030-drops-194088}, doi = {10.4230/LIPIcs.FSTTCS.2023.35}, annote = {Keywords: vector addition systems, reachability problem, pushdown vector addition system, lower bounds} }  @InProceedings{czerwinski_et_al:LIPIcs.FSTTCS.2023.35 author = {Czerwi\'{n}ski, Wojciech and Jecker, Isma\"{e}l and Lasota, S{\l}awomir and Leroux, J\'{e}r\^{o}me and Orlikowski, {\L}ukasz}, title = {{New Lower Bounds for Reachability in Vector Addition Systems}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {35:1--35:22}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.35}, URN = {urn:nbn:de:0030-drops-194088}, doi = {10.4230/LIPIcs.FSTTCS.2023.35}, annote = {Keywords: vector addition systems, reachability problem, pushdown vector addition system, lower bounds} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.36    
+
+ Approximately Interpolating Between Uniformly and Non-Uniformly Polynomial Kernels   
+ Authors:  Akanksha Agrawal and M. S. Ramanujan  
+  Abstract    
+ The problem of computing a minimum set of vertices intersecting a finite set of forbidden minors in a given graph is a fundamental graph problem in the area of kernelization with numerous well-studied special cases. A major breakthrough in this line of research was made by Fomin et al. [FOCS 2012], who showed that the ρ-Treewidth Modulator problem (delete minimum number of vertices to ensure that treewidth is at most ρ) has a polynomial kernel of size k^g(ρ) for some function g. A second standout result in this line is that of Giannapoulou et al. [ACM TALG 2017], who obtained an f(η)k^𝒪(1)-size kernel (for some function f) for the η-Treedepth Modulator problem (delete fewest number of vertices to make treedepth at most η) and showed that some dependence of the exponent of k on ρ in the result of Fomin et al. for the ρ-Treewidth Modulator problem is unavoidable under reasonable complexity hypotheses. In this work, we provide an approximate interpolation between these two results by giving, for every ε > 0, a (1+ε)-approximate kernel of size f'(η,ρ,1/ε)⋅ k^g'(ρ) (for some functions f' and g') for the problem of deciding whether k vertices can be deleted from a given graph to obtain a graph that has elimination distance at most η to the class of graphs that have treewidth at most ρ. Graphs of treedepth η are precisely the graphs with elimination distance at most η-1 to the graphs of treewidth 0 and graphs of treewidth ρ are simply graphs with elimination distance 0 to graphs of treewidth ρ. Consequently, our result "approximately" interpolates between these two major results in this active line of research.   
+
+  Cite as    
+ Akanksha Agrawal and M. S. Ramanujan. Approximately Interpolating Between Uniformly and Non-Uniformly Polynomial Kernels. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 36:1-36:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{agrawal_et_al:LIPIcs.FSTTCS.2023.36 author = {Agrawal, Akanksha and Ramanujan, M. S.}, title = {{Approximately Interpolating Between Uniformly and Non-Uniformly Polynomial Kernels}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {36:1--36:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.36}, URN = {urn:nbn:de:0030-drops-194096}, doi = {10.4230/LIPIcs.FSTTCS.2023.36}, annote = {Keywords: Lossy Kernelization, Treewidth Modulator, Vertex Deletion Problems} }  @InProceedings{agrawal_et_al:LIPIcs.FSTTCS.2023.36 author = {Agrawal, Akanksha and Ramanujan, M. S.}, title = {{Approximately Interpolating Between Uniformly and Non-Uniformly Polynomial Kernels}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {36:1--36:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.36}, URN = {urn:nbn:de:0030-drops-194096}, doi = {10.4230/LIPIcs.FSTTCS.2023.36}, annote = {Keywords: Lossy Kernelization, Treewidth Modulator, Vertex Deletion Problems} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.37    
+
+ Hardness of Learning Boolean Functions from Label Proportions   
+ Authors:  Venkatesan Guruswami and Rishi Saket  
+  Abstract    
+ In recent years the framework of learning from label proportions (LLP) has been gaining importance in machine learning. In this setting, the training examples are aggregated into subsets or bags and only the average label per bag is available for learning an example-level predictor. This generalizes traditional PAC learning which is the special case of unit-sized bags. The computational learning aspects of LLP were studied in recent works [R. Saket, 2021; R. Saket, 2022] which showed algorithms and hardness for learning halfspaces in the LLP setting. In this work we focus on the intractability of LLP learning Boolean functions. Our first result shows that given a collection of bags of size at most 2 which are consistent with an OR function, it is NP-hard to find a CNF of constantly many clauses which satisfies any constant-fraction of the bags. This is in contrast with the work of [R. Saket, 2021] which gave a (2/5)-approximation for learning ORs using a halfspace. Thus, our result provides a separation between constant clause CNFs and halfspaces as hypotheses for LLP learning ORs. Next, we prove the hardness of satisfying more than 1/2 + o(1) fraction of such bags using a t-DNF (i.e. DNF where each term has ≤ t literals) for any constant t. In usual PAC learning such a hardness was known [S. Khot and R. Saket, 2008] only for learning noisy ORs. We also study the learnability of parities and show that it is NP-hard to satisfy more than (q/2^{q-1} + o(1))-fraction of q-sized bags which are consistent with a parity using a parity, while a random parity based algorithm achieves a (1/2^{q-2})-approximation.   
+
+  Cite as    
+ Venkatesan Guruswami and Rishi Saket. Hardness of Learning Boolean Functions from Label Proportions. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 37:1-37:15, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{guruswami_et_al:LIPIcs.FSTTCS.2023.37 author = {Guruswami, Venkatesan and Saket, Rishi}, title = {{Hardness of Learning Boolean Functions from Label Proportions}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {37:1--37:15}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.37}, URN = {urn:nbn:de:0030-drops-194106}, doi = {10.4230/LIPIcs.FSTTCS.2023.37}, annote = {Keywords: Learning from label proportions, Computational learning, Hardness, Boolean functions} }  @InProceedings{guruswami_et_al:LIPIcs.FSTTCS.2023.37 author = {Guruswami, Venkatesan and Saket, Rishi}, title = {{Hardness of Learning Boolean Functions from Label Proportions}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {37:1--37:15}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.37}, URN = {urn:nbn:de:0030-drops-194106}, doi = {10.4230/LIPIcs.FSTTCS.2023.37}, annote = {Keywords: Learning from label proportions, Computational learning, Hardness, Boolean functions} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.38    
+
+ Dependency Schemes in CDCL-Based QBF Solving: A Proof-Theoretic Study   
+ Authors:  Abhimanyu Choudhury and Meena Mahajan  
+  Abstract    
+ In Quantified Boolean Formulas QBFs, dependency schemes help to detect spurious or superfluous dependencies that are implied by the variable ordering in the quantifier prefix but are not essential for constructing countermodels. This detection can provably shorten refutations in specific proof systems, and is expected to speed up runs of QBF solvers. The proof system QCDCL recently defined by Beyersdorff and Böhm (LMCS 2023) abstracts the reasoning employed by QBF solvers based on conflict-driven clause-learning (CDCL) techniques. We show how to incorporate the use of dependency schemes into this proof system, either in a preprocessing phase, or in the propagations and clause learning, or both. We then show that when the reflexive resolution path dependency scheme 𝙳^rrs is used, a mixed picture emerges: the proof systems that add 𝙳^rrs to QCDCL in these three ways are not only incomparable with each other, but are also incomparable with the basic QCDCL proof system that does not use 𝙳^rrs at all, as well as with several other resolution-based QBF proof systems. A notable fact is that all our separations are achieved through QBFs with bounded quantifier alternation.   
+
+  Cite as    
+ Abhimanyu Choudhury and Meena Mahajan. Dependency Schemes in CDCL-Based QBF Solving: A Proof-Theoretic Study. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 38:1-38:18, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{choudhury_et_al:LIPIcs.FSTTCS.2023.38 author = {Choudhury, Abhimanyu and Mahajan, Meena}, title = {{Dependency Schemes in CDCL-Based QBF Solving: A Proof-Theoretic Study}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {38:1--38:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.38}, URN = {urn:nbn:de:0030-drops-194116}, doi = {10.4230/LIPIcs.FSTTCS.2023.38}, annote = {Keywords: QBF, CDCL, Resolution, Dependency schemes} }  @InProceedings{choudhury_et_al:LIPIcs.FSTTCS.2023.38 author = {Choudhury, Abhimanyu and Mahajan, Meena}, title = {{Dependency Schemes in CDCL-Based QBF Solving: A Proof-Theoretic Study}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {38:1--38:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.38}, URN = {urn:nbn:de:0030-drops-194116}, doi = {10.4230/LIPIcs.FSTTCS.2023.38}, annote = {Keywords: QBF, CDCL, Resolution, Dependency schemes} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.39    
+
+ Weighted One-Deterministic-Counter Automata   
+ Authors:  Prince Mathew, Vincent Penelle, Prakash Saivasan, and A.V. Sreejith  
+  Abstract    
+ We introduce weighted one-deterministic-counter automata (odca). These are weighted one-counter automata (oca) with the property of counter-determinacy, meaning that all paths labelled by a given word starting from the initial configuration have the same counter-effect. Weighted odcas are a strict extension of weighted visibly ocas, which are weighted ocas where the input alphabet determines the actions on the counter. We present a novel problem called the co-VS (complement to a vector space) reachability problem for weighted odcas over fields, which seeks to determine if there exists a run from a given configuration of a weighted odca to another configuration whose weight vector lies outside a given vector space. We establish two significant properties of witnesses for co-VS reachability: they satisfy a pseudo-pumping lemma, and the lexicographically minimal witness has a special form. It follows that the co-VS reachability problem is in 𝖯. These reachability problems help us to show that the equivalence problem of weighted odcas over fields is in 𝖯 by adapting the equivalence proof of deterministic real-time ocas [Stanislav Böhm and Stefan Göller, 2011] by Böhm et al. This is a step towards resolving the open question of the equivalence problem of weighted ocas. Finally, we demonstrate that the regularity problem, the problem of checking whether an input weighted odca over a field is equivalent to some weighted automaton, is in 𝖯. We also consider boolean odcas and show that the equivalence problem for (non-deterministic) boolean odcas is in PSPACE, whereas it is undecidable for (non-deterministic) boolean ocas.   
+
+  Cite as    
+ Prince Mathew, Vincent Penelle, Prakash Saivasan, and A.V. Sreejith. Weighted One-Deterministic-Counter Automata. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 39:1-39:23, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{mathew_et_al:LIPIcs.FSTTCS.2023.39 author = {Mathew, Prince and Penelle, Vincent and Saivasan, Prakash and Sreejith, A.V.}, title = {{Weighted One-Deterministic-Counter Automata}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {39:1--39:23}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.39}, URN = {urn:nbn:de:0030-drops-194129}, doi = {10.4230/LIPIcs.FSTTCS.2023.39}, annote = {Keywords: One-counter automata, Equivalence, Weighted automata, Reachability} }  @InProceedings{mathew_et_al:LIPIcs.FSTTCS.2023.39 author = {Mathew, Prince and Penelle, Vincent and Saivasan, Prakash and Sreejith, A.V.}, title = {{Weighted One-Deterministic-Counter Automata}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {39:1--39:23}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.39}, URN = {urn:nbn:de:0030-drops-194129}, doi = {10.4230/LIPIcs.FSTTCS.2023.39}, annote = {Keywords: One-counter automata, Equivalence, Weighted automata, Reachability} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.40    
+
+ Comparing Infinitary Systems for Linear Logic with Fixed Points   
+ Authors:  Anupam Das, Abhishek De, and Alexis Saurin  
+  Abstract    
+ Extensions of Girard’s linear logic by least and greatest fixed point operators (μMALL) have been an active field of research for almost two decades. Various proof systems are known viz. finitary and non-wellfounded, based on explicit and implicit (co)induction respectively. In this paper, we compare the relative expressivity, at the level of provability, of two complementary infinitary proof systems: finitely branching non-wellfounded proofs (μMALL^∞) vs. infinitely branching well-founded proofs (μMALL_{ω,∞}). Our main result is that μMALL^∞ is strictly contained in μMALL_{ω,∞}. For inclusion, we devise a novel technique involving infinitary rewriting of non-wellfounded proofs that yields a wellfounded proof in the limit. For strictness of the inclusion, we improve previously known lower bounds on μMALL^∞ provability from Π⁰₁-hard to Σ¹₁-hard, by encoding a sort of Büchi condition for Minsky machines.   
+
+  Cite as    
+ Anupam Das, Abhishek De, and Alexis Saurin. Comparing Infinitary Systems for Linear Logic with Fixed Points. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 40:1-40:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{das_et_al:LIPIcs.FSTTCS.2023.40 author = {Das, Anupam and De, Abhishek and Saurin, Alexis}, title = {{Comparing Infinitary Systems for Linear Logic with Fixed Points}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {40:1--40:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.40}, URN = {urn:nbn:de:0030-drops-194131}, doi = {10.4230/LIPIcs.FSTTCS.2023.40}, annote = {Keywords: linear logic, fixed points, non-wellfounded proofs, omega-branching proofs, analytical hierarchy} }  @InProceedings{das_et_al:LIPIcs.FSTTCS.2023.40 author = {Das, Anupam and De, Abhishek and Saurin, Alexis}, title = {{Comparing Infinitary Systems for Linear Logic with Fixed Points}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {40:1--40:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.40}, URN = {urn:nbn:de:0030-drops-194131}, doi = {10.4230/LIPIcs.FSTTCS.2023.40}, annote = {Keywords: linear logic, fixed points, non-wellfounded proofs, omega-branching proofs, analytical hierarchy} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.41    
+
+ Constraint LTL with Remote Access   
+ Authors:  Ashwin Bhaskar and M. Praveen  
+  Abstract    
+ Constraint Linear Temporal Logic (CLTL) is an extension of LTL that is interpreted on sequences of valuations of variables over an infinite domain. The atomic formulas are interpreted as constraints on the valuations. The atomic formulas can constrain valuations at the current position and positions that are a fixed distance apart (e.g., the previous position or the second previous position and so on). The satisfiability problem for CLTL is known to be Pspace-complete. We generalize CLTL to let atomic formulas access positions that are unboundedly far away in the past. We annotate the sequence of valuations with letters from a finite alphabet and use regular expressions on the finite alphabet to control how atomic formulas access past positions. We prove that the satisfiability problem for this extension of the logic is decidable in cases where the domain is dense and open with respect to a linear order (e.g., rational numbers with the usual linear order). We prove that it is also decidable over integers with linear order and equality.   
+
+  Cite as    
+ Ashwin Bhaskar and M. Praveen. Constraint LTL with Remote Access. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 41:1-41:21, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{bhaskar_et_al:LIPIcs.FSTTCS.2023.41 author = {Bhaskar, Ashwin and Praveen, M.}, title = {{Constraint LTL with Remote Access}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {41:1--41:21}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.41}, URN = {urn:nbn:de:0030-drops-194142}, doi = {10.4230/LIPIcs.FSTTCS.2023.41}, annote = {Keywords: Constraint LTL, Regular Expressions, MSO formulas, Satisfiability, B\"{u}chi automata} }  @InProceedings{bhaskar_et_al:LIPIcs.FSTTCS.2023.41 author = {Bhaskar, Ashwin and Praveen, M.}, title = {{Constraint LTL with Remote Access}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {41:1--41:21}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.41}, URN = {urn:nbn:de:0030-drops-194142}, doi = {10.4230/LIPIcs.FSTTCS.2023.41}, annote = {Keywords: Constraint LTL, Regular Expressions, MSO formulas, Satisfiability, B\"{u}chi automata} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.42    
+
+ Counter Machines with Infrequent Reversals   
+ Authors:  Alain Finkel, Shankara Narayanan Krishna, Khushraj Madnani, Rupak Majumdar, and Georg Zetzsche  
+  Abstract    
+ Bounding the number of reversals in a counter machine is one of the most prominent restrictions to achieve decidability of the reachability problem. Given this success, we explore whether this notion can be relaxed while retaining decidability. To this end, we introduce the notion of an f-reversal-bounded counter machine for a monotone function f: ℕ → ℕ. In such a machine, every run of length n makes at most f(n) reversals. Our first main result is a dichotomy theorem: We show that for every monotone function f, one of the following holds: Either (i) f grows so slowly that every f-reversal bounded counter machine is already k-reversal bounded for some constant k or (ii) f belongs to Ω(log(n)) and reachability in f-reversal bounded counter machines is undecidable. This shows that classical reversal bounding already captures the decidable cases of f-reversal bounding for any monotone function f. The key technical ingredient is an analysis of the growth of small solutions of iterated compositions of Presburger-definable constraints. In our second contribution, we investigate whether imposing f-reversal boundedness improves the complexity of the reachability problem in vector addition systems with states (VASS). Here, we obtain an analogous dichotomy: We show that either (i) f grows so slowly that every f-reversal-bounded VASS is already k-reversal-bounded for some constant k or (ii) f belongs to Ω(n) and the reachability problem for f-reversal-bounded VASS remains Ackermann-complete. This result is proven using run amalgamation in VASS. Overall, our results imply that classical restriction of reversal boundedness is a robust one.   
+
+  Cite as    
+ Alain Finkel, Shankara Narayanan Krishna, Khushraj Madnani, Rupak Majumdar, and Georg Zetzsche. Counter Machines with Infrequent Reversals. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 42:1-42:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{finkel_et_al:LIPIcs.FSTTCS.2023.42 author = {Finkel, Alain and Krishna, Shankara Narayanan and Madnani, Khushraj and Majumdar, Rupak and Zetzsche, Georg}, title = {{Counter Machines with Infrequent Reversals}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {42:1--42:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.42}, URN = {urn:nbn:de:0030-drops-194152}, doi = {10.4230/LIPIcs.FSTTCS.2023.42}, annote = {Keywords: Counter machines, reversal-bounded, reachability, decidability, complexity} }  @InProceedings{finkel_et_al:LIPIcs.FSTTCS.2023.42 author = {Finkel, Alain and Krishna, Shankara Narayanan and Madnani, Khushraj and Majumdar, Rupak and Zetzsche, Georg}, title = {{Counter Machines with Infrequent Reversals}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {42:1--42:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.42}, URN = {urn:nbn:de:0030-drops-194152}, doi = {10.4230/LIPIcs.FSTTCS.2023.42}, annote = {Keywords: Counter machines, reversal-bounded, reachability, decidability, complexity} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.FSTTCS.2023.43    
+
+ Perfect Matchings and Popularity in the Many-To-Many Setting   
+ Authors:  Telikepalli Kavitha and Kazuhisa Makino  
+  Abstract    
+ We consider a matching problem in a bipartite graph G where every vertex has a capacity and a strict preference list ranking its neighbors. We assume that G admits a perfect matching, i.e., one that fully matches all vertices. It is only perfect matchings that are feasible here and we seek one that is popular within the set of perfect matchings - it is known that such a matching exists in G and can be efficiently computed. Now we are in the weighted setting, i.e., there is a cost function on the edge set, and we seek a min-cost popular perfect matching in G. We show that such a matching can be computed in polynomial time. Our main technical result shows that every popular perfect matching in a hospitals/residents instance G can be realized as a popular perfect matching in the marriage instance obtained by cloning vertices. Interestingly, it is known that such a mapping does not hold for popular matchings in a hospitals/residents instance.   
+
+  Cite as    
+ Telikepalli Kavitha and Kazuhisa Makino. Perfect Matchings and Popularity in the Many-To-Many Setting. In 43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 284, pp. 43:1-43:16, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{kavitha_et_al:LIPIcs.FSTTCS.2023.43 author = {Kavitha, Telikepalli and Makino, Kazuhisa}, title = {{Perfect Matchings and Popularity in the Many-To-Many Setting}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {43:1--43:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.43}, URN = {urn:nbn:de:0030-drops-194167}, doi = {10.4230/LIPIcs.FSTTCS.2023.43}, annote = {Keywords: Bipartite graphs, Matchings under preferences, Capacities, Dual certificates} }  @InProceedings{kavitha_et_al:LIPIcs.FSTTCS.2023.43 author = {Kavitha, Telikepalli and Makino, Kazuhisa}, title = {{Perfect Matchings and Popularity in the Many-To-Many Setting}}, booktitle = {43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2023)}, pages = {43:1--43:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-304-1}, ISSN = {1868-8969}, year = {2023}, volume = {284}, editor = {Bouyer, Patricia and Srinivasan, Srikanth}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.43}, URN = {urn:nbn:de:0030-drops-194167}, doi = {10.4230/LIPIcs.FSTTCS.2023.43}, annote = {Keywords: Bipartite graphs, Matchings under preferences, Capacities, Dual certificates} }    
+
+ Filters  
+
+ Authors 
+   Show All  Collapse 
+  Show All 
+  A 
+  Abboud, Amir 
+  Agrawal, Akanksha 
+  Almagor, Shaull 
+  Alvin, Yan Hong Yao 
+  Asarin, Eugene 
+  Assa, Daniel 
+  B 
+  Bera, Debajyoti 
+  Bhaskar, Ashwin 
+  Bisht, Pranav 
+  Bogdanov, Andrej 
+  Boker, Udi 
+  Bouyer, Patricia 
+  Brihaye, Thomas 
+  C 
+  Chakraborty, Arghya 
+  Chakraborty, Diptarka 
+  Chatterjee, Prerona 
+  Chistikov, Dmitry 
+  Choudhury, Abhimanyu 
+  Chugh, Rahul 
+  Czerwiński, Wojciech 
+  D 
+  Dark, Jacques 
+  Das, Anupam 
+  de Wolf, Ronald 
+  De, Abhishek 
+  Dębski, Maciej 
+  Degorre, Aldric 
+  Diddapur, Adithya 
+  Dima, Cătălin 
+  Dinesh, Krishnamoorthy 
+  Drewery, Alexandre 
+  F 
+  Feinstein, Yoav 
+  Filmus, Yuval 
+  Finkel, Alain 
+  G 
+  Gahlawat, Harmender 
+  Gajjar, Kshitij 
+  Genest, Blaise 
+  Goeminne, Aline 
+  Gogasz, Tomasz 
+  Gupta, Nikhil 
+  Guruswami, Venkatesan 
+  H 
+  Henry, Léo 
+  Hofman, Piotr 
+  Hoi, Gordon 
+  I 
+  Inamdar, Tanmay 
+  Ishai, Yuval 
+  J 
+  Jacobo Inclán, Bernardo 
+  Jain, Sanjay 
+  Jecker, Ismaël 
+  K 
+  Kanesh, Lawqueen 
+  Kaplan, Avi 
+  Kavitha, Telikepalli 
+  Khoury, Seri 
+  Köcher, Chris 
+  Konrad, Christian 
+  Krishna, Shankara Narayanan 
+  Krithika, R. 
+  Kundu, Madhumita 
+  Kupferman, Orna 
+  Kuske, Dietrich 
+  L 
+  Lalonde, Olivier 
+  Lasota, Sławomir 
+  Léchine, Ulysse 
+  Leibowitz, Oree 
+  Leroux, Jérôme 
+  M 
+  Madnani, Khushraj 
+  Mahajan, Meena 
+  Main, James C. A. 
+  Majumdar, Rupak 
+  Makino, Kazuhisa 
+  Malu, V. K. Kutty 
+  Mande, Nikhil S. 
+  Mathew, Prince 
+  Mazowiecki, Filip 
+  Mocelin Sdroievski, Nicollas 
+  Murhekar, Aniket 
+  O 
+  Orlikowski, Łukasz 
+  P 
+  Paraashar, Manaswi 
+  Penelle, Vincent 
+  Podder, Supartha 
+  Praveen, M. 
+  R 
+  Raghavendra, Prasad 
+  Ramanujan, M. S. 
+  Randour, Mickael 
+  Roychoudhury, Jishnu 
+  S 
+  Safier, Ron 
+  Sağlam, Irmak 
+  Saivasan, Prakash 
+  Saket, Rishi 
+  Sanyal, Swagato 
+  SAPV, Tharrmashastha 
+  Saurabh, Nitin 
+  Saurabh, Saket 
+  Saurin, Alexis 
+  Schmuck, Anne-Kathrin 
+  Schulman, Leonard J. 
+  Sekar, Sruthi 
+  Sharma, Eklavya 
+  Sharma, Roohani 
+  Shoham, Sharon 
+  Sinclair-Banks, Henry 
+  Skrzypczak, Michał 
+  Sreejith, A.V. 
+  Srinivasan, Srikanth 
+  Stephan, Frank 
+  T 
+  Tale, Prafullkumar 
+  Tan, Christopher 
+  Tengse, Anamay 
+  V 
+  Vahanwala, Mihir 
+  van Melkebeek, Dieter 
+  Vaze, Rahul 
+  Vazirani, Vijay V. 
+  Vishnoi, Nisheeth K. 
+  Volkovich, Ilya 
+  Y 
+  Yadav, Jatin 
+  Z 
+  Zehavi, Meirav 
+  Zetzsche, Georg 
+
+  Subjects 
+   Show All  Collapse 
+  Show All 
+  Applied computing 
+  Applied computing → Economics 
+  Computing methodologies 
+  Computing methodologies 
+  Computing methodologies → Bayesian network models 
+  Computing methodologies → Causal reasoning and diagnostics 
+  Human-centered computing 
+  Human-centered computing 
+  Mathematics of computing 
+  Mathematics of computing → Graph algorithms 
+  Software and its engineering 
+  Software and its engineering 
+  Software and its engineering → Formal methods 
+  Theory of computation 
+  Theory of computation 
+  Theory of computation → Algebraic complexity theory 
+  Theory of computation → Algorithmic mechanism design 
+  Theory of computation → Approximation algorithms analysis 
+  Theory of computation → Automata extensions 
+  Theory of computation → Automata over infinite objects 
+  Theory of computation → Communication complexity 
+  Theory of computation → Computational complexity and cryptography 
+  Theory of computation → Concurrency 
+  Theory of computation → Design and analysis of algorithms 
+  Theory of computation → Facility location and clustering 
+  Theory of computation → Formal languages and automata theory 
+  Theory of computation → Linear logic 
+  Theory of computation → Logic and verification 
+  Theory of computation → Modal and temporal logics 
+  Theory of computation → Models of computation 
+  Theory of computation → Online algorithms 
+  Theory of computation → Oracles and decision trees 
+  Theory of computation → Parameterized complexity and exact algorithms 
+  Theory of computation → Probabilistic computation 
+  Theory of computation → Problems, reductions and completeness 
+  Theory of computation → Program verification 
+  Theory of computation → Proof complexity 
+  Theory of computation → Proof theory 
+  Theory of computation → Pseudorandomness and derandomization 
+  Theory of computation → Quantitative automata 
+  Theory of computation → Quantum complexity theory 
+  Theory of computation → Quantum computation theory 
+  Theory of computation → Quantum query complexity 
+  Theory of computation → Regular languages 
+  Theory of computation → Semidefinite programming 
+  Theory of computation → Solution concepts in game theory 
+  Theory of computation → Streaming models 
+  Theory of computation → Streaming, sublinear and near linear time algorithms 
+  Theory of computation → Theory and algorithms for application domains 
+  Theory of computation → Timed and hybrid models 
+  Theory of computation → Verification by model checking 
+
+  Questions / Remarks / Feedback   X  Feedback for Dagstuhl Publishing  
+     
+  Send    
+   
+  Thanks for your feedback!  
+ Feedback submitted   
+ OK    
+  Could not send message  
+ Please try again later or send an E-mail    
+ OK    
+   About DROPS  
+ Schloss Dagstuhl - Leibniz Center for Informatics has been operating the Dagstuhl Research Online Publication Server (short: DROPS) since 2004. DROPS enables publication of the latest research findings in a fast, uncomplicated manner, in addition to providing unimpeded, open access to them. All the requisite metadata on each publication is administered in accordance with general guidelines pertaining to online publications (cf. Dublin Core). This enables the online publications to be authorized for citation and made accessible to a wide readership on a permanent basis. Access is free of charge for readers following the open access idea which fosters unimpeded access to scientific publications.  
+   
+ Instructions for Authors  
+ Dagstuhl Series   
+  LIPIcs 
+  OASIcs 
+  Dagstuhl Follow-Ups 
+    
+ Dagstuhl Journals   
+  DARTS – Dagstuhl Artifacts Series 
+  Dagstuhl Reports 
+  Dagstuhl Manifestos 
+  LITES 
+  TGDK – Transactions on Graph Data and Knowledge 
+
+ Instructions for Editors  
+ Dagstuhl Series   
+  LIPIcs 
+  OASIcs 
+  Dagstuhl Follow-Ups 
+    
+ Dagstuhl Journals   
+  DARTS – Dagstuhl Artifacts Series 
+  Dagstuhl Reports 
+  Dagstuhl Manifestos 
+  LITES 
+  TGDK – Transactions on Graph Data and Knowledge 
+
+ © 2023-2024 Schloss Dagstuhl – LZI GmbH  Imprint  Privacy  Contact

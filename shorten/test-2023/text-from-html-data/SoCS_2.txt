@@ -1,0 +1,6 @@
+So CS    
+ International Symposium on Combinatorial Search (SoCS)   
+ Welcome!  
+ Heuristic search and combinatorial optimization  are currently very active areas of research. For example, researchers investigate how to search in real-time, how to search with limited (possibly external) memory, how to solve sequences of similar search problems faster than with isolated searches, how to improve the runtime of the searches over time, how to trade-off between the runtime and memory consumption of the search and the resulting solution quality, and how to focus the searches with sophisticated heuristics such as pattern databases. Their results are published in different conferences such as IJCAI, AAAI, ICAPS, NIPS, ICRA, and IROS.  
+ The International Symposium on Combinatorial Search (SoCS) is meant to bring these researchers together to exchange their ideas and cross-fertilize the field. Thus, in addition to seeking separate answers to questions like how to design more accurate memory-based heuristics, more I/O-efficient disk-based search algorithms, or more efficient clause-learning strategies, the symposium is intended to stimulate thoughts on combining various techniques that originated in different areas of search.  
+ To stay informed on search-related events, please join the search-list on Google groups  .  

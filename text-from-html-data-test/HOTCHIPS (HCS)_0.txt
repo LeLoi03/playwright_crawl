@@ -1,0 +1,153 @@
+Skip to primary navigation 
+  Skip to content 
+  Skip to footer 
+   
+    In The News 
+  Sponsors Courtyard 
+  Committees 
+  Toggle menu    
+
+ HC2023 Sponsors   
+  Platinum:   
+       
+  Gold:   
+               
+  Silver:   
+
+ Hot Chips 2023 has concluded. Thank you to the speakers, attendees, sponsors, press, and volunteers!  
+ latest program zipfile  (~162 MB)  
+ Tutorials: Sunday, August 27, 2023  
+  
+ Time (PDT) | Title | Presenters 
+ 7:45AM-8:30AM | Breakfast/Registration |  
+ 8:30AM-10:30AM | ML Inference   
+   
+  Chair: Tom St. John |  
+ ML Inference Overview | Micah Villmow, NVIDIA 
+ Quantization Methods for Efficient ML Inference | Amir Gholami, UC Berkeley 
+ ML Inference at the Edge | Felix Baum, Qualcomm 
+ 10:30AM-11:00AM | Coffee Break (1/2 hr) |  
+ 11:00AM-12:15PM | ML Inference   
+   
+  Chair: Tom St. John |  
+ PyTorch 2.0 | Elias Ellison, Meta 
+ Hardware Requirements for Exploiting Sparsity in ML Inference | Zhibin Xiao, Moffett AI 
+ 12:15PM-1:30PM | Lunch (1 hr 15 min) |  
+ 1:30PM-3:30PM | Chiplets/UCI   
+   
+  Chair: Debendra Das Sharma & Nathan Kalyansundharam |  
+ UCIe Overview & Usage Models | Debendra Das Sharma, Intel & Nathan Kalyansundharam, AMD 
+ UCIe Protocol | Swadesh Choudhary, Intel & Marvin Denman, NVIDIA 
+ 3:30PM-4:00PM | Coffee Break (1/2 hr) |  
+ 4:00PM-5:30PM | Chiplets/UCI   
+   
+  Chair: Debendra Das Sharma & Nathan Kalyansundharam |  
+ Electrical, Form Factor and Compliance | Anwar Kashem, AMD & Gerald Pasdast, Intel 
+ Software, Manageability & Security | Jérôme Glisse, Google & Sridhar Muthrasanallur, Intel 
+ 5:30PM-7:00PM | Reception |  
+  
+ Conference Day 1: Monday, August 28, 2023  
+  
+ Time (PDT) | Title | Presenters 
+ 7:45AM-8:45AM | Breakfast/Registration |  
+ 8:45AM-9:00AM | Opening Remarks |  
+ General Chair Welcome | Gabriel Southern & Ron Diamant 
+ Progam Co-Chairs Welcome | Natalia Vassilieva & Heiner Litz 
+ 9:00AM-10:00AM | Keynote #1   
+   
+  Chair: Natalia Vassilieva |  
+ Exciting Directions for ML Models and the Implications for Computing Hardware | Jeff Dean & Amin Vahdat, Google 
+ 10:00AM-11:00AM | Processing in Memory   
+   
+  Chair: Jae W. Lee |  
+ Memory-centric Computing with SK Hynix’s Domain-Specific Memory | Yongkee Kwon, SK Hynix 
+ Samsung AI-cluster system with HBM-PIM and CXL-based Processing-near-Memory for transformer-based LLMs | Jin Hyun Kim, Samsung 
+ 11:00AM-11:05AM | Sachs Memorial |  
+ Sachs Memorial | Alan J Smith, UC Berkeley 
+ 11:05AM-11:30AM | Coffee Break |  
+ 11:30AM-1:00PM | CPU 1   
+   
+  Chair: Pradeep K. Dubey |  
+ ARM’s Neoverse V2 platform: leadership performance and power efficiency for next-generation cloud computing, ML and HPC workloads | Magnus Bruce, ARM 
+ AMD Next Generation “Zen 4” Core and 4th Gen AMD EPYCTM 9004 Server CPU | Kai Troester & Ravi Bhargava, AMD 
+ Ventana’s Veyron V1 Data Center-Class RISC-V Processor | Greg Favor, Ventana 
+ 1:00PM-2:15PM | Lunch (1 hr 15 min) |  
+ 2:15PM-4:15PM | Platforms   
+   
+  Chair: Mark D. Hill |  
+ Architecting for Flexibility and Value with future Intel® Xeon® processors | Chris Gianos, Intel 
+ CSS-Genesis: Arm’s Neoverse N2 platform, delivered to partners as a fully verified, customizable compute sub-system | Anitha Kona, ARM 
+ Intel® Energy Efficiency Architecture | Efraim Rotem, Intel 
+ Caliptra: An Open-Source Root of Trust for Measurements | Bharat Pillilli, Microsoft 
+ 4:15PM-4:45PM | Coffee Break (1/2 hr) |  
+ 4:45PM-6:15PM | CPU 2   
+   
+  Chair: Ralph Wittig |  
+ Intel® Xeon® processors built on Efficient-core (E-Core): The Next Generation of High Performance, Energy-Efficient Computing | Don Soltis, Intel 
+ AMD Ryzen 7040 Series Mobile Processor | Mahesh Subramony & David Kramer, AMD 
+ Detailed Architecture Analysis and Key Features of SiFive’s latest high-performance out-of-order Vector Processor | Brad Burgess, SiFive 
+ 6:15PM-7:45PM | Reception |  
+  
+ Conference Day 2: Tuesday, August 29, 2023  
+  
+ Time (PDT) | Title | Presenters 
+ 7:45AM-8:30AM | Breakfast/Registration |  
+ 8:30AM-9:00AM | Poster Lighting Talks (2 minutes/poster)   
+   
+  Chair: Priyanka Raina |  
+ Poster Lighting Talks |  
+ 9:00AM-10:00AM | Keynote #2   
+   
+  Chair: Heiner Litz |  
+ Hardware for Deep Learning | Bill Dally, NVIDIA 
+ 10:00AM-11:00AM | ML-Training   
+   
+  Chair: Dave Ditzel |  
+ A Machine Learning Supercomputer With An Optically Reconfigurable Interconnect and Embeddings Support | Norman Jouppi & Andy Swing, Google 
+ Inside the Cerebras Wafer-Scale Cluster | Sean Lie, Cerebras 
+ 11:00AM-11:30AM | Coffee Break (1/2 hr) |  
+ 11:30AM-1:00PM | Interconnects   
+   
+  Chair: Yasuo Ishii |  
+ NVIDIA’s Resource Transmutable Network Processing ASIC | Kevin Deierling, NVIDIA 
+ Hummingbird Low-Latency Computing Engine | Maurice Steinman, Lightelligence 
+ The First Direct Mesh-to-Mesh Photonic Fabric | Jason Howard, Intel 
+ 1:00PM-2:15PM | Lunch (1 hr 15 min) |  
+ 2:15PM-4:15PM | ML-Inference   
+   
+  Chair: Grant Ayers |  
+ IBM NorthPole Neural Inference Machine | Dharmendra Modha, IBM 
+ Moffett Antoum: A Deep-Sparse AI Inference System-on-Chip for Vision and Large Language Models | Zhibin Xiao, Moffet AI 
+ Qualcomm® Hexagon™ NPU | Eric Mahurin, Qualcomm 
+ Supercharged AI inference on modern CPUs | Lawrence Spracklen & Subutai Ahmad, Numenta 
+ 4:15PM-4:45PM | Coffee Break (1/2 hr) |  
+ 4:45PM-6:15PM | FPGAs & Cooling   
+   
+  Chair: Forest Baskett |  
+ AMD Next Generation FPGA Built From Chiplets | Dinesh Gaitonde, AMD 
+ Intel’s Agilex-9 Direct RF FPGAs with Integrated 64 GSPS Data Converters | Benjamin Esposito, Intel 
+ High Performance Cold Plates for Data Center Thermal Management via Electrochemical Additive Manufacturing (ECAM) | Ian Winfield, Fabric8Labs 
+ 6:15PM-6:30PM | Closing Remarks |  
+ Closing Remarks | Gabriel Southern & Ron Diamant 
+  
+ Posters  
+    (NOTE: Not all posters have videos)  
+  
+ Title | Authors & Affiliation 
+ TrustForge: A Cryptographically Secure Enclave for Azure and AWS | Todd Austin, Valeria Bertacco and Alex Kisil; Agita Labs 
+ An Open-Source 130-nm Fusion-Enabled Deconvolution Kernel Generator IC For Real-Time mmWave Radar Platform Motion Compensation | Nikhil Poole, Priyanka Raina and Amin Arbabian; Stanford University 
+ A Scalable Multi-Chiplet Deep Learning Accelerator with Hub-Side 2.5D Heterogeneous Integration | Zhanhong Tan, Yifu Wu, Yannian Zhang, Haobing Shi, Wuke Zhang and Kaisheng Ma; Tsinghua University 
+ PHEP: Paillier Homomorphic Encryption Processors for Privacy-Preserving Applications in Cloud Computing | Guiming Shi, Yi Li, Xueqiang Wang, Zhanhong Tan, Dapeng Cao, Jingwei Cai, Yuchen Wei, Zehua Li, Wuke Zhang, Yifu Wu, Wei Xu and Kaisheng Ma; Tsinghua University 
+ HyperAccel LPU: Accelerating Hyperscale Models for Generative AI | Seungjae Moon, Junsoo Kim, Jung-Hoon Kim, Junseo Cha, Gyubin Choi, Seongmin Hong and Joo-Young Kim; HyperAccel / KAIST 
+ An Abstract of SiMa.ai’s MLSoC Architecture | Srivi Dhruvanarayan; SiMa.ai 
+ Shaheen: An Open, Secure, and Scalable RV64 SoC for Autonomous Nano-UAVs. | Luca Valente, Asif Hussain Chiralil Veeran, Mattia Sinigaglia, Yvan Tortorella, Alessandro Nadalini, Nils Wistoff, Bruno Sà, Angelo Garofalo, Rafail Psiakis, Mohammed Tolba, Ari Kulmala, Nimisha Limaye, Ozgur Sinanoglu, Sandro Pinto, Daniele Palossi, Luca Benini, Baker Mohammad and Davide Rossi; University of Bologna 
+ A Heterogeneous SoC for Bluetooth LE in 28nm | Felicia Guo, Nayiri Krzysztofowicz, Alex Moreno, Jeffrey Ni, Daniel Lovell, Yufeng Chi, Kareem Ahmad, Sherwin Afshar, Josh Alexander, Dylan Brater, Cheng Cao, Daniel Fan, Ryan Lund, Jackson Paddock, Griffin Prechter, Troy Sheldon, Shreesha Sreedhara, Anson Tsai, Eric Wu, Kerry Yu, Daniel Fritchman, Aviral Pandey, Ali Niknejad, Kristofer Pister and Borivoje Nikolic; University of California Berkeley 
+ Driving Compute Scale-out Performance with Optical I/O Chiplets in Advanced System-in-Package Platforms | Mark Wade, Chen Sun, Matt Sysak, Vladimir Stojanović, Pooya Tadayon, Ravi Mahajan and Babak Sabi; Ayar Labs 
+ A Heterogeneous RISC-V SoC for ML Applications in Intel 16 Technology | Yufeng Chi, Franklin Huang, Raghav Gupta, Ella Schwarz, Jennifer Zhou, Reza Sajadiany, Animesh Agrawal, Max Banister, Michelle Boulos, Jason Chandran, Jessica Dowdall, Leena Elzeiny, Claire Gantan, Anthony Han, Roger Hsiao, Chadwick Leung, Edwin Lim, Jose Rodriguez, Tushar Sondhi, Mitchell Twu, Rongyi Wang, Mike Xiao, Ruohan Yan, Paul Kwon, Zhaokai Liu, Jerry Zhao, Bob Zhou, Ali Niknejad, Kristofer Pister and Borivoje Nikolić; University of California, Berkeley 
+
+ Follow: 
+  Twitter 
+  Linkedin 
+  Facebook 
+    
+ © 2023 Hot Chips.

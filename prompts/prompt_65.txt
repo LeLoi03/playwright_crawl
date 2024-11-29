@@ -1,0 +1,447 @@
+input:
+1. DISC_1 conference:
+CPM 
+  CSL 
+  DISC 
+  DITAM 
+  DNA 
+  Part of: | Series: | Leibniz International Proceedings in Informatics (LIPIcs) | Part of: | Conference: | International Symposium on Distributed Computing (DISC) 
+ Event  
+ DISC 2023, October 10-12, 2023, L'Aquila, Italy   
+ Editor  
+ Rotem Oshman          
+ Publication Details  
+ published at: 2023-10-05 
+  Publisher: Schloss Dagstuhl – Leibniz-Zentrum für Informatik 
+ Authors:  Karine Altisen, Pierre Corbineau, and Stéphane Devismes  
+  Abstract    
+ A proof assistant is an appropriate tool to write sound proofs. The need of such tools in distributed computing grows over the years due to the scientific progress that leads algorithmic designers to consider always more difficult problems. In that spirit, the PADEC Coq library has been developed to certify self-stabilizing algorithms. Efficiency of self-stabilizing algorithms is mainly evaluated by comparing their stabilization times in rounds, the time unit that is primarily used in the self-stabilizing area. In this paper, we introduce the notion of rounds in the PADEC library together with several formal tools to help the certification of the complexity analysis of self-stabilizing algorithms. We validate our approach by certifying the stabilization time in rounds of the classical Dolev et al’s self-stabilizing Breadth-first Search spanning tree construction.   
+  Cite as    
+ Authors:  Hagit Attiya, Armando Castañeda, and Thomas Nowak  
+  Abstract    
+ The famous asynchronous computability theorem (ACT) relates the existence of an asynchronous wait-free shared memory protocol for solving a task with the existence of a simplicial map from a subdivision of the simplicial complex representing the inputs to the simplicial complex representing the allowable outputs. The original theorem relies on a correspondence between protocols and simplicial maps in round-structured models of computation that induce a compact topology. This correspondence, however, is far from obvious for computation models that induce a non-compact topology, and indeed previous attempts to extend the ACT have failed. This paper shows that in every non-compact model, protocols solving tasks correspond to simplicial maps that need to be continuous. It first proves a generalized ACT for sub-IIS models, some of which are non-compact, and applies it to the set agreement task. Then it proves that in general models too, protocols are simplicial maps that need to be continuous, hence showing that the topological approach is universal. Finally, it shows that the approach used in ACT that equates protocols and simplicial complexes actually works for every compact model. Our study combines, for the first time, combinatorial and point-set topological aspects of the executions admitted by the computation model.   
+  Cite as    
+ Authors:  Evangelos Bampas, Joffroy Beauquier, Janna Burman, and William Guy--Obé  
+  Abstract    
+ In the treasure hunt problem, a team of mobile agents need to locate a single treasure that is hidden in their environment. We consider the problem in the discrete setting of an oriented infinite rectangular grid, where agents are modeled as synchronous identical deterministic time-limited finite-state automata, originating at a rate of one agent per round from the origin. Agents perish τ rounds after their creation, where τ ≥ 1 is a parameter of the model. An algorithm solves the treasure hunt problem if every grid position at distance τ or less from the origin is visited by at least one agent. Agents may communicate only by leaving indistinguishable traces (pheromone) on the nodes of the grid, which can be sensed by agents in adjacent nodes and thus modify their behavior. The novelty of our approach is that, in contrast to existing literature that uses permanent pheromone markers, we assume that pheromone traces evaporate over μ rounds from the moment they were placed on a node, where μ ≥ 1 is another parameter of the model. We look for uniform algorithms that solve the problem without knowledge of the parameter values, and we investigate the implications of this very weak communication mechanism to the treasure hunt problem. We show that, if pheromone persists for at least two rounds (μ ≥ 2), then there exists a treasure hunt algorithm for all values of agent lifetime. We also develop a more sophisticated algorithm that works for all values of μ, hence also for the fastest possible pheromone evaporation of μ = 1, but only if agent lifetime is at least 16.   
+  Cite as    
+ Authors:  Naama Ben-David, Gal Sela, and Adriana Szekeres  
+  Abstract    
+ Traditionally, distributed and parallel transactional systems have been studied in isolation, as they targeted different applications and experienced different bottlenecks. However, modern high-bandwidth networks have made the study of systems that are both distributed (i.e., employ multiple nodes) and parallel (i.e., employ multiple cores per node) necessary to truly make use of the available hardware. In this paper, we study the performance of these combined systems and show that there are inherent tradeoffs between a system’s ability to have fast and robust distributed communication and its ability to scale to multiple cores. More precisely, we formalize the notions of a fast deciding path of communication to commit transactions quickly in good executions, and seamless fault tolerance that allows systems to remain robust to server failures. We then show that there is an inherent tension between these two natural distributed properties and well-known multicore scalability properties in transactional systems. Finally, we show positive results; it is possible to construct a parallel distributed transactional system if any one of the properties we study is removed.   
+  Cite as    
+ Authors:  Mélanie Cambus, Fabian Kuhn, Shreyas Pai, and Jara Uitto  
+  Abstract    
+ In this work, we present a constant-round algorithm for the 2-ruling set problem in the Congested Clique model. As a direct consequence, we obtain a constant round algorithm in the MPC model with linear space-per-machine and optimal total space. Our results improve on the O(log log log n)-round algorithm by [HPS, DISC'14] and the O(log log Δ)-round algorithm by [GGKMR, PODC'18]. Our techniques can also be applied to the semi-streaming model to obtain an O(1)-pass algorithm. Our main technical contribution is a novel sampling procedure that returns a small subgraph such that almost all nodes in the input graph are adjacent to the sampled subgraph. An MIS on the sampled subgraph provides a 2-ruling set for a large fraction of the input graph. As a technical challenge, we must handle the remaining part of the graph, which might still be relatively large. We overcome this challenge by showing useful structural properties of the remaining graph and show that running our process twice yields a 2-ruling set of the original input graph with high probability.   
+  Cite as    
+ Authors:  Bernadette Charron-Bost and Louis Penet de Monterno  
+  Abstract    
+ We consider the fundamental problem of clock synchronization in a synchronous multi-agent system. Each agent holds a clock with an arbitrary initial value, and clocks must eventually indicate the same value, modulo some integer P. A known solution for this problem in dynamic networks is the self-stabilization SAP (for self-adaptive period) algorithm, which uses finite memory and relies solely on the assumption of a finite dynamic diameter in the communication network. This paper extends the results on this algorithm to probabilistic communication networks: We introduce the concept of strong connectivity with high probability and we demonstrate that in any probabilistic communication network satisfying this hypothesis, the SAP algorithm synchronizes clocks with high probability. The proof of such a probabilistic hyperproperty is based on novel tools and relies on weak assumptions about the probabilistic communication network, making it applicable to a wide range of networks, including the classical push model. We provide an upper bound on time and space complexity. Building upon previous works by Feige et al. and Pittel, the paper provides solvability results and evaluates the stabilization time and space complexity of SAP in two specific cases of communication topologies.   
+  Cite as    
+ Authors:  Pierre Civit, Seth Gilbert, Rachid Guerraoui, Jovan Komatovic, Matteo Monti, and Manuel Vidigueira  
+  Abstract    
+ Consensus enables n processes to agree on a common valid L-bit value, despite t < n/3 processes being faulty and acting arbitrarily. A long line of work has been dedicated to improving the worst-case communication complexity of consensus in partial synchrony. This has recently culminated in the worst-case word complexity of O(n²). However, the worst-case bit complexity of the best solution is still O(n²L + n²κ) (where κ is the security parameter), far from the Ω(nL + n²) lower bound. The gap is significant given the practical use of consensus primitives, where values typically consist of batches of large size (L > n). This paper shows how to narrow the aforementioned gap. Namely, we present a new algorithm, DARE (Disperse, Agree, REtrieve), that improves upon the O(n²L) term via a novel dispersal primitive. DARE achieves O(n^{1.5}L + n^{2.5}κ) bit complexity, an effective √n-factor improvement over the state-of-the-art (when L > nκ). Moreover, we show that employing heavier cryptographic primitives, namely STARK proofs, allows us to devise DARE-Stark, a version of DARE which achieves the near-optimal bit complexity of O(nL + n²poly(κ)). Both DARE and DARE-Stark achieve optimal O(n) worst-case latency.   
+  Cite as    
+ Authors:  Mathilde Déprés, Achour Mostéfaoui, Matthieu Perrin, and Michel Raynal  
+  Abstract    
+ This paper is on the power and computability limits of messages patterns in crash-prone asynchronous message-passing systems. It proposes and investigates three basic messages patterns (encountered in all these systems) each involving two processes, and compares them to their Read/Write counterparts. It is first shown that one of these patterns has no Read/Write counterpart. The paper proposes then a new one-to-all broadcast abstraction, denoted Mutual Broadcast (in short MBroadcast), whose implementation relies on two of the previous messages patterns. This abstraction provides each pair of processes with the following property (called mutual ordering): for any pair of processes p and p', if p broadcasts a message m and p' broadcasts a message m', it is not possible for p to deliver first (its message) m and then m' while p' delivers first (its message) m' and then m. It is shown that MBroadcast and atomic Read/Write registers have the same computability power (independently of the number of crashes). Finally, in addition to its theoretical contribution, the practical interest of MBroadcast is illustrated by its (very simple) use to solve basic upper level coordination problems such as mutual exclusion and consensus. Last but not least, looking for simplicity was also a target of this article.   
+  Cite as    
+ Authors:  Maxime Flin, Magnús M. Halldórsson, and Alexandre Nolin  
+  Abstract    
+ We provide a O(log⁶ log n)-round randomized algorithm for distance-2 coloring in CONGEST with Δ²+1 colors. For Δ≫polylog n, this improves exponentially on the O(logΔ+polylog log n) algorithm of [Halldórsson, Kuhn, Maus, Nolin, DISC'20].   
+  Cite as    
+ Authors:  Marc Fuchs and Fabian Kuhn  
+  Abstract    
+ The distributed coloring problem is at the core of the area of distributed graph algorithms and it is a problem that has seen tremendous progress over the last few years. Much of the remarkable recent progress on deterministic distributed coloring algorithms is based on two main tools: a) defective colorings in which every node of a given color can have a limited number of neighbors of the same color and b) list coloring, a natural generalization of the standard coloring problem that naturally appears when colorings are computed in different stages and one has to extend a previously computed partial coloring to a full coloring. In this paper, we introduce list defective colorings, which can be seen as a generalization of these two coloring variants. Essentially, in a list defective coloring instance, each node v is given a list of colors x_{v,1},… ,x_{v,p} together with a list of defects d_{v,1},… ,d_{v,p} such that if v is colored with color x_{v, i}, it is allowed to have at most d_{v, i} neighbors with color x_{v, i}. We highlight the important role of list defective colorings by showing that faster list defective coloring algorithms would directly lead to faster deterministic (Δ+1)-coloring algorithms in the LOCAL model. Further, we extend a recent distributed list coloring algorithm by Maus and Tonoyan [DISC '20]. Slightly simplified, we show that if for each node v it holds that ∑_{i=1}^p (d_{v,i}+1)² > deg_G²(v)⋅ polylogΔ then this list defective coloring instance can be solved in a communication-efficient way in only O(logΔ) communication rounds. This leads to the first deterministic (Δ+1)-coloring algorithm in the standard CONGEST model with a time complexity of O(√{Δ}⋅ polylog Δ+log^* n), matching the best time complexity in the LOCAL model up to a polylogΔ factor.   
+  Cite as    
+ Authors:  Christoph Grunau, Rustam Latypov, Yannic Maus, Shreyas Pai, and Jara Uitto  
+  Abstract    
+ We show the first conditionally optimal deterministic algorithm for 3-coloring forests in the low-space massively parallel computation (MPC) model. Our algorithm runs in O(log log n) rounds and uses optimal global space. The best previous algorithm requires 4 colors [Ghaffari, Grunau, Jin, DISC'20] and is randomized, while our algorithm are inherently deterministic. Our main technical contribution is an O(log log n)-round algorithm to compute a partition of the forest into O(log n) ordered layers such that every node has at most two neighbors in the same or higher layers. Similar decompositions are often used in the area and we believe that this result is of independent interest. Our results also immediately yield conditionally optimal deterministic algorithms for maximal independent set and maximal matching for forests, matching the state of the art [Giliberti, Fischer, Grunau, SPAA'23]. In contrast to their solution, our algorithms are not based on derandomization, and are arguably simpler.   
+  Cite as    
+ Authors:  Rachid Guerraoui, Anne-Marie Kermarrec, Anastasiia Kucherenko, Rafael Pinot, and Sasha Voitovych  
+  Abstract    
+ Detecting the source of a gossip is a critical issue, related to identifying patient zero in an epidemic, or the origin of a rumor in a social network. Although it is widely acknowledged that random and local gossip communications make source identification difficult, there exists no general quantification of the level of anonymity provided to the source. This paper presents a principled method based on ε-differential privacy to analyze the inherent source anonymity of gossiping for a large class of graphs. First, we quantify the fundamental limit of source anonymity any gossip protocol can guarantee in an arbitrary communication graph. In particular, our result indicates that when the graph has poor connectivity, no gossip protocol can guarantee any meaningful level of differential privacy. This prompted us to further analyze graphs with controlled connectivity. We prove on these graphs that a large class of gossip protocols, namely cobra walks, offers tangible differential privacy guarantees to the source. In doing so, we introduce an original proof technique based on the reduction of a gossip protocol to what we call a random walk with probabilistic die out. This proof technique is of independent interest to the gossip community and readily extends to other protocols inherited from the security community, such as the Dandelion protocol. Interestingly, our tight analysis precisely captures the trade-off between dissemination time of a gossip protocol and its source anonymity.   
+  Cite as    
+ Authors:  Prasad Jayanti, Siddhartha Jayanti, and Sucharita Jayanti  
+  Abstract    
+ We present durable implementations for two well known universal primitives - CAS (compare-and-swap), and its ABA-free counter-part LLSC (load-linked, store-conditional). Our implementations satisfy method-based recoverable linearizability (MRL) and method-based detectability (M-detectability) - novel correctness conditions that require only a simple usage pattern to guarantee resilience to individual process crashes (and system-wide crashes), including in implementations with nesting. Additionally, our implementations are: writable, meaning they support a Write() operation; have constant time complexity per operation; allow for dynamic joining, meaning newly created processes (a.k.a. threads) of arbitrary names can join a protocol and access our implementations; and have adaptive space complexity, meaning the space use scales in the number of processes n that actually use the objects, as opposed to previous protocols whose space complexity depends on N, the maximum number of processes that the protocol is designed for. Our durable Writable-CAS implementation, DuraCAS, requires O(m + n) space to support m objects that get accessed by n processes, improving on the state-of-the-art O(m + N²). By definition, LLSC objects must store "contexts" in addition to object values. Our Writable-LLSC implementation, DuraLL, requires O(m + n + C) space, where C is the number of "contexts" stored across all the objects. While LLSC has an advantage over CAS due to being ABA-free, the object definition seems to require additional space usage. To address this trade-off, we define an External Context (EC) variant of LLSC. Our EC Writable-LLSC implementation is ABA-free and has a space complexity of just O(m + n). To our knowledge, our algorithms are the first durable CAS algorithms that allow for dynamic joining, and are the first to exhibit adaptive space complexity. To our knowledge, we are the first to implement any type of durable LLSC objects.   
+  Cite as    
+ Authors:  Irina Kostitsyna, Tom Peters, and Bettina Speckmann  
+  Abstract    
+ The concept of programmable matter envisions a very large number of tiny and simple robot particles forming a smart material. Even though the particles are restricted to local communication, local movement, and simple computation, their actions can nevertheless result in the global change of the material’s physical properties and geometry. A fundamental algorithmic task for programmable matter is to achieve global shape reconfiguration by specifying local behavior of the particles. In this paper we describe a new approach for shape reconfiguration in the amoebot model. The amoebot model is a distributed model which significantly restricts memory, computing, and communication capacity of the individual particles. Thus the challenge lies in coordinating the actions of particles to produce the desired behavior of the global system. Our reconfiguration algorithm is the first algorithm that does not use a canonical intermediate configuration when transforming between arbitrary shapes. We introduce new geometric primitives for amoebots and show how to reconfigure particle systems, using these primitives, in a linear number of activation rounds in the worst case. In practice, our method exploits the geometry of the symmetric difference between input and output shape: it minimizes unnecessary disassembly and reassembly of the particle system when the symmetric difference between the initial and the target shapes is small. Furthermore, our reconfiguration algorithm moves the particles over as many parallel shortest paths as the problem instance allows.   
+  Cite as    
+ Authors:  Xiao Li, Eric Chan, and Mohsen Lesani  
+  Abstract    
+ Byzantine quorum systems provide higher throughput than proof-of-work and incur modest energy consumption. Further, their modern incarnations incorporate personalized and heterogeneous trust. Thus, they are emerging as an appealing candidate for global financial infrastructure. However, since their quorums are not uniform across processes anymore, the properties that they should maintain to support abstractions such as reliable broadcast and consensus are not well-understood. It has been shown that the two properties quorum intersection and availability are necessary. In this paper, we prove that they are not sufficient. We then define the notion of quorum subsumption, and show that the three conditions together are sufficient: we present reliable broadcast and consensus protocols, and prove their correctness for quorum systems that provide the three properties.   
+  Cite as    
+ Authors:  Avery Miller and Andrzej Pelc  
+  Abstract    
+ Two mobile agents, starting from different nodes of a network modeled as a graph, and woken up at possibly different times, have to meet at the same node. This problem is known as rendezvous. Agents move in synchronous rounds. In each round, an agent can either stay idle or move to an adjacent node. We consider deterministic rendezvous in the infinite line, i.e., the infinite graph with all nodes of degree 2. Each node has a distinct label which is a positive integer. An agent currently located at a node can see its label and both ports 0 and 1 at the node. The time of rendezvous is the number of rounds until meeting, counted from the starting round of the earlier agent. We consider three scenarios. In the first scenario, each agent knows its position in the line, i.e., each of them knows its initial distance from the smallest-labeled node, on which side of this node it is located, and the direction towards it. For this scenario, we design a rendezvous algorithm working in time O(D), where D is the initial distance between the agents. This complexity is clearly optimal. In the second scenario, each agent knows a priori only the label of its starting node and the initial distance D between them. In this scenario, we design a rendezvous algorithm working in time O(Dlog^*𝓁), where 𝓁 is the larger label of the starting nodes. We also prove a matching lower bound Ω(Dlog^*𝓁). Finally, in the most general scenario, where each agent knows a priori only the label of its starting node, we design a rendezvous algorithm working in time O(D²(log^*𝓁)³), which is thus at most cubic in the lower bound. All our results remain valid (with small changes) for arbitrary finite lines and for cycles. Our algorithms are drastically better than approaches that use graph exploration, which have running times that depend on the size or diameter of the graph. Our main methodological tool, and the main novelty of the paper, is a two way reduction: from fast colouring of the infinite labeled line using a constant number of colours in the LOCAL model to fast rendezvous in this line, and vice-versa. In one direction we use fast node colouring to quickly break symmetry between the identical agents. In the other direction, a lower bound on colouring time implies a lower bound on the time of breaking symmetry between the agents, and hence a lower bound on their meeting time.   
+  Cite as    
+ Authors:  Vitaly Aksenov, Michael Anoprenko, Alexander Fedorov, and Michael Spear  
+  Abstract    
+ Batching is a technique that stores multiple keys/values in each node of a data structure. In sequential search data structures, batching reduces latency by reducing the number of cache misses and shortening the chain of pointers to dereference. Applying batching to concurrent data structures is challenging, because it is difficult to maintain the search property and keep contention low in the presence of batching. In this paper, we present a general methodology for leveraging batching in concurrent search data structures, called BatchBoost. BatchBoost builds a search data structure from distinct "data" and "index" layers. The data layer’s purpose is to store a batch of key/value pairs in each of its nodes. The index layer uses an unmodified concurrent search data structure to route operations to a position in the data layer that is "close" to where the corresponding key should exist. The requirements on the index and data layers are low: with minimal effort, we were able to compose three highly scalable concurrent search data structures based on three original data structures as the index layers with a batched version of the Lazy List as the data layer. The resulting BatchBoost data structures provide significant performance improvements over their original counterparts.   
+  Cite as    
+ Authors:  Shir Cohen and Idit Keidar  
+  Abstract    
+ There have been several reductions from multivalued consensus to binary consensus over the past 20 years. To the best of our knowledge, none of them solved it for Byzantine asynchronous settings. In this short paper, we close this gap. Moreover, we do so in subquadratic communication, using newly developed subquadratic binary Byzantine Agreement techniques.   
+  Cite as    
+ Authors:  Eli Gafni and Giuliano Losa  
+  Abstract    
+ In a permissionless system like Ethereum, participation may fluctuate dynamically as some participants unpredictably go offline and some others come back online. In such an environment, traditional Byzantine fault-tolerant consensus algorithms may stall - even in the absence of failures - because they rely on the availability of fixed-sized quorums. The sleepy model formally captures the main requirements for solving consensus under dynamic participation, and several algorithms solve consensus with probabilistic safety in this model assuming that, at any time, more than half of the online participants are well behaved. However, whether safety can be ensured deterministically under these assumptions, especially with constant latency, remained an open question. Assuming a constant adversary, we answer in the positive by presenting a consensus algorithm that achieves deterministic safety and constant latency in expectation. In the full version of this paper, we also present a second algorithm which obtains both deterministic safety and liveness, but is likely only of theoretical interest because of its high round and message complexity. Both algorithms are striking in their simplicity.   
+  Cite as    
+ Authors:  Tomer Lev Lehman, Hagit Attiya, and Danny Hendler  
+  Abstract    
+ Recoverable algorithms tolerate failures and recoveries of processes by using non-volatile memory. Of particular interest are self-implementations of key operations, in which a recoverable operation is implemented from its non-recoverable counterpart (in addition to reads and writes). This paper presents two self-implementations of the SWAP operation. One works in the system-wide failures model, where all processes fail and recover together, and the other in the independent failures model, where each process crashes and recovers independently of the other processes. Both algorithms are wait-free in crash-free executions, but their recovery code is blocking. We prove that this is inherent for the independent failures model. The impossibility result is proved for implementations of distinguishable operations using interfering functions, and in particular, it applies to a recoverable self-implementation of swap.   
+  Cite as    
+  TGDK – Transactions on Graph Data and Knowledge 
+ © 2023-2024 Schloss Dagstuhl – LZI GmbH  Imprint  Privacy  Contact
+2. DISC_2 conference:
+Skip to primary content    
+ International Symposium on Distributed Computing    
+ October 28 – November 1, 2024, Madrid, Spain  
+    Search     Main menu  
+ Home 
+  DISC 2024 
+  Past Conferences 
+  Steering Committee 
+ Home  
+ Welcome to the main web site of The International Symposium on DIStributed Computing (DISC)   .  
+ DISC is an international symposium on the theory, design, analysis, implementation and application of distributed systems and networks. DISC is organized in cooperation with the European Association for Theoretical Computer Science (EATCS)   .  
+ DISC 2024  will be held in Madrid, Spain on October 28 – November 1, 2024.  
+ Search
+3. DIS_0 conference:
+Skip to the content    DIS 2023    
+ ACM Designing Interactive Systems. 10-14 July 2023   
+    Menu      
+ Email 
+  @ACMDIS2023 
+  DIS on Mastodon 
+ ACM DIS2023  
+ Taking place  in person and  at Carnegie Mellon University in Pittsburgh, Pennsylvania  , USA  , 10-14th July 2023   
+ We invite you to submit to ACM Designing Interactive Systems (DIS) 2023. The conference chairs are Nik Martelaro  and Daragh Byrne  (Carnegie Mellon University). Our technical program committee includes Sarah Fox  (Carnegie Mellon University), Sarah Fdili Alaoui  (LISN-Université Paris Saclay), Cayley MacArthur  (University of Waterloo), Andy Boucher  (Northumbria University), David Chatting  (Goldsmiths, University of London), and Iohanna Nicenboim  (Delft University of Technology).  
+ Attending DIS2023  
+ A summary  and searchable version  of DIS 2023 Program is available online with a summary. Information on attending DIS  in person and remote is now online. Registration for DIS 2023 is open. Visit the registration page  for details.  
+ Important Dates:  
+ Papers and Pictorials deadline  : | Abstract 2 February 2023   
+  Final paper 9 February 13 February 2023 
+ Workshop Proposals deadline | 23 February 2023 
+ Work in Progress/Provocations,  Demo  , Doctoral Consortium  deadlines | 17 March, 2023 
+ Arts Exhibition  deadline: extended | 12 April 2023 
+ Deadlines specified as midnight Anywhere on Earth  time.   About the Conference  
+ The ACM SIGCHI Conference on Designing Interactive Systems (DIS) is the premier international arena where designers, artists, psychologists, user experience researchers, systems engineers, and many more, come together to debate and shape the future of interactive systems design and practice. DIS is ranked 12th in HCI on Google Scholar  and a Tier A publication venue  , partly due to an average acceptance rate of 25%  over the years.  
+ Note from the Chairs  
+ We are delighted that DIS 2023 will return to in-person conference programming and will be hosted by Carnegie Mellon in Pittsburgh, Pennsylvania, USA  . For those who cannot attend in person, there will be opportunities to present online and engage with conference goers.  
+ After three years of online programming, Pittsburgh is an ideal city to host our return to in-person conference experiences. Pittsburgh has a long history of reinvention, revival, and resilience. Once the largest steel producing region in the world, it is now a booming hub for AI, automation, creativity, and culture. Pittsburgh has reinvented itself through investments in education, health care, technology and advanced manufacturing alongside huge investments into cultural institutions such as the Carnegie Museum of Art  and the Andy Warhol Museum  . Additionally, Carnegie Mellon – the host institution — stands at the intersection of technology, design, art, creativity, and innovation. The city offers an excellent backdrop for discussions around technology, design and art.  
+ With the return to an in-person conference, we are also excited that many tracks, formats, and experiences that have been missing from DIS during the pandemic will return. This year, we’ll reintroduce demos, works in progress, and an arts exhibition to make place in the program to showcase emerging ideas, processes, and expressions. Two days of workshops  will also precede the main three-day conference. This — along with the reintroduction of panels and evening events — we hope will create rich space for conversation, provocation, and debate about the design, research and practice for interactive systems.  
+ We are looking forward to seeing you in Pittsburgh in Summer 2023,  
+ Nik and Daragh  
+ DIS 2023 Theme: Resilience   
+ “Everything is chaos and always becoming, The only thing that we know is that it will always change.”  
+ In recent years, we have been forcefully reminded of the importance of resilient design and resilient systems. Between pandemics, changing climates, and local and global upheavals, events have led many in the design world to reconsider how robust the things we are designing really are and how robust they could be. Despite recognition of how important resilience is to society, systems, and interactions, achieving this in practice requires many new and alternative ways of thinking and rethinking, knowing and unknowing, making and unmaking.  
+ […] research was accepted by and received a Best Paper Award during ACM Designing Interactive Systems (DIS) 2023, which is dedicated to advancing the field of user-centered system […]  
+ […] analysis was accepted by and obtained a Best Paper Award throughout ACM Designing Interactive Systems (DIS) 2023, which is devoted to advancing the sector of user-centered system […]  
+ Thinking beyond audio: Augmenting headphones for everyday digital interactions – Pin System  says:     
+ […] research was accepted by and received a Best Paper Award during ACM Designing Interactive Systems (DIS) 2023, which is dedicated to advancing the field of user-centered system […]  
+ DIS Steering committee 
+  Organisers 
+ Email 
+  @ACMDIS2023 
+  DIS on Mastodon 
+ More information  
+ More details of events, tracks and attending DIS2023 will be announced in the run up to the conference. Please contact track chairs for additional details.  
+ Contact DIS2023  
+ web@dis2023.acm.org   
+ © 2024 DIS 2023   
+ Privacy Policy   
+ Powered by WordPress
+4. DIS_2 conference:
+PhD supervision statement 
+  Planning on joining the lab 
+  Workshops  & Events | DIS 2024: Why Movement-Based Design!? Exploring Methods and Experiences in MBD 
+  Ubicomp/ISWC 2024: Multimodal Sports Interaction 
+  AH 2024: Shared Control 
+  Exertion Games Lab  
+ Search this website       Home  Exertion Games Lab  DIS’23   
+ DIS’23   
+ We have the following works at DIS’23, the ACM Designing Interactive Systems conference 2023:  
+ Coming up  
+ Dagstuhl “Designing Computers’ Control Over Our Bodies”, 2-7 Jun 2024  
+  DIS, 1-5 Jul 2024   
+ Link    
+ We will be co-organizing a workshop on sports interactions at Ubicomp'24: Workshop proposal: van Rheden, V., Montoya,...   
+ DIS 2024   
+ We are presenting the following works at DIS 2024: Patibanda, R., Overdevest, N., Nisal, S., Saini, A., Elvitigala, D...   
+ Follow us
+5. DIS_3 conference:
+We are going to Designing Interactive Systems  
+ The Interactive Technologies Institute is once again marking its presence at one of the most relevant conferences in Computer Science. The Designing Interactive Systems (DIS) 2023 takes place at Carnegie Mellon University in Pittsburgh (USA) from the 10th to the 14th of July. The DIS conference is “ the premier international arena where designers, artists, psychologists, user experience researchers, systems engineers, and many more  , come together to debate and shape the future of interactive systems design and practice.  “  
+ We are participating in DIS 2023 with three research papers by Valentina Nisi, Marta Ferreira, and Shuhao Ma. Additionally, these researchers represent the Interactive Technologies Institute and the Portuguese research community since there are no other research institutions from Portugal at DIS this year. Below we list our participation in the conference.  
+ Interactions with Climate Change: a Data Humanism Design Approach  
+ Authors:  Marta Ferreira, Valentina Nisi, Nuno Jardim Nunes  
+ Uncovering Gig Worker-Centered Design Opportunities in Food Delivery Work  
+ Authors:  Shuhao Ma, Paulo Bala, Valentina Nisi, John Zimmerman, Nuno Jardim Nunes  
+ The gig economy and digital labor platforms, such as food delivery, have become essential while also troubling the current socioeconomic landscape. Delivery platforms promise entry-level work, flexibility, and other benefits. However, researchers remain divided on if these platforms benefit workers and society at large. This study aims to shed light on the comprehensive challenges in food delivery work, uncovering gig worker-centered design opportunities to improve the lives of food couriers. Adopting an exploratory research process, we analyzed 19 ride-along food delivery videos and performed nine semi-structured interviews with food couriers in Portugal. The team’s findings illustrated the complexity and challenging nature of delivery work due to the entangled physical, digital, social, natural, and human factors. They captured and discussed gig worker-centered opportunities that surfaced from work challenges, echoing the needs of food couriers about supporting work, justice, inclusion, and work vision.  
+ In adition to the research papers, Beatriz Severes, doctoral student, has won the conference T-Shirt Design Contest. The full programme of the conference is available on DIS 2023 website  .  
+ Team
+6. DLS_0 conference:
+Membership 
+ Dynamic Languages Symposium (DLS)  
+  The Dynamic Languages Symposium (DLS) is a forum for discussion of dynamic languages, their implementation and application. While mature dynamic languages including Smalltalk, Lisp, Scheme, Self, Prolog, and APL continue to grow and inspire new converts, a new generation of dynamic scripting languages such as JavaScript, Python, Ruby, PHP, Tcl Lua, and Clojure are successful in a wide range of applications. DLS provides a place for researchers and practitioners to come together and share their knowledge, experience, and ideas for future research and development.  
+ DLS 2023  
+ Cascais, Portugal, October, 2023 
+  Co-located with SPLASH 2023 
+  PC chair: Stefan Marr, University of Kent, UK 
+  Citation: This paper explored the costs, both at micro and macro scale of various strategies for protecting gradual types in a gradually-typed programming language, examining how different strategies affected untyped typed, or both components of code. It is a seminal contribution to understanding the performance of gradual typing, which since then has been an area of important research. The strategies used in gradually-typed languages today can trace their lineage back to the strategies described and proposed in this paper. In particular, the proposed hybrid approach has been adapted time and time again by many systems, giving this work a lasting impact beyond its original scope. 
+  Title: Self-optimizing AST interpreters 
+  Citation: Over the past decade, the authors and their collaborators have taken the ideas from this paper and turned it into the Truffle and GraalVM system which has revolutionized how we implement languages on the JVM. Today, the GraalVM is a major product and Truffle is a language implementation technology producing high-performance implementations of everything from Ruby to C all built upon the ideas of AST rewriting in the interpreter. 
+  Title: Bootstrapping a Self-Hosted Research Virtual Machine for JavaScript: An Experience Report 
+  Past Events  
+ DLS 2023 | Cascais, Portugal, October 24, 2023 
+  Co-located with SPLASH 2023 
+  PC chairs: Stefan Marr, University of Kent, UK 
+  DLS 2022 | Auckland, New Zealand, Dec 6, 2022 
+  Co-located with SPLASH 2022 
+  PC chairs: Arjun Guha, Northeastern University, USA; Wolfgang De Meuter, Vrije Universiteit Brussel, Belgium
+7. DLS_1 conference:
+SPLASH 2023   Sun 22 - Fri 27 October 2023 Cascais, Portugal    
+ Toggle navigation        
+  Program | SPLASH Program 
+  Your Program 
+   Sun 22 Oct 
+  Mon 23 Oct 
+  Tue 24 Oct 
+  Wed 25 Oct 
+  Thu 26 Oct 
+  Fri 27 Oct 
+  Tracks | SPLASH 2023 
+  Awards 
+  OOPSLA 
+  Sponsored Talks 
+   Co-hosted Conferences 
+  DLS 
+  GPCE 
+  LOPSTR 
+  ST30 
+  VMIL 
+  Organization | SPLASH 2023 Committees 
+  Organizing Committee 
+  Steering Committee 
+  People Index 
+   Co-hosted Conferences 
+  DLS | Program Committee 
+  Steering Committee 
+  GPCE | Organizing Committee 
+  SAS | Invited Speakers 
+  Organizing Committee 
+  SAS 2023 
+  SAS 2023 Artifacts 
+  SLE | Organizing Committee 
+  Program Committee 
+  SPLASH 2024 
+  SPLASH 2023 
+  SPLASH 2022 
+  Sign up 
+  SPLASH 2023  ( series  ) /  DLS 2023 ( series  ) /  DLS 2023  
+ About 
+ Title 
+ All Languages are Dynamic  DLS   
+ James Noble 
+ Are we Heading Towards a Dynamic Language Winter?  DLS   
+ Maxime Chevalier-Boisvert 
+ Going Static, Gradually: Semantic Soundness and Telling the Truth at Scale  DLS   
+ Maxwell Heiber 
+ Is Polyglot Programming Really a Thing?  DLS   
+ Walter Cazzola 
+ JITs are Nice, but Why Aren’t We Using Them?  DLS   
+ Kevin Menard 
+ Keeping the asm in Wasm – Running high-level languages on a low-level VM  DLS   
+ Andreas Rossberg 
+ Language Runtimes for the New Cloud Era  DLS   
+ Rodrigo Bruno 
+ Prof. Strangelove or: How I Learned to Stop Worrying and Love Dynamic Languages  DLS   
+ Jan Vitek 
+ Programming Languages for AI Programing Agents  DLS   
+ Mark Marron 
+ The Bright Future of Debuggers: Challenges and Opportunities  DLS   
+ Christophe Scholliers 
+ The importance of facing outwards: why dynamic languages can and should address the world  DLS   
+ Stephen Kell 
+ Call for Contributions  
+ The Dynamic Languages Symposium (DLS) is the premier forum for researchers and practitioners to share research and experience on all aspects on dynamic languages.  
+ After two decades of dynamic language research and DLS, it is time to reflect and look forward to what the next two decades will bring. This year’s DLS will therefore be a special DLS focusing on the Future of Dynamic Languages. To do the notion of “symposium” justice, we will actively invite speakers to present their opinions on where Dynamic Languages might be, will be, or should be going in the next twenty years.  
+ Speakers will be announced step by step over the coming weeks.  
+ As a research venue, we also invite high quality papers reporting original research and experience related to the design, implementation, and applications of dynamic languages. Areas of interest include, but are not limited to:  
+  semantics of dynamic languages 
+  frameworks and languages for the Cloud and the IoT 
+  Submission Details   
+ Submissions must neither be previously published nor under review at other events. DLS 2023 uses a lightweight double-blind reviewing process.  
+ Papers are assumed to be in one of the following categories:  
+ Research Papers  : describe work that advances the current state of the art  
+ Experience Papers  : describe insights gained from substantive practical applications that should be of a broad interest  
+ Dynamic Pearls  : describe a known idea in an appealing way to remind the community and capture a reader’s interest  
+ The program committee will evaluate each paper based on its relevance, significance, clarity, and originality. The paper category needs to be indicated during submission, and papers are judged accordingly.  
+ Papers must be submitted electronically in PDF format. Submissions must be in the ACM SIGPLAN conference acmart format, 10 point font, and should not exceed 12 pages. Please see full details in the Instructions for Authors.  
+ DLS 2023 will run a single-phase reviewing process with shepherding to help authors make their final papers the best that they can be. Accepted papers will be published in the ACM Digital Library (TBC) and will be freely available for one month, starting two weeks before the event.  
+ Plenary    
+   The GMT offsets shown reflect the offsets at the moment of the conference  .     
+ Time Band   
+ ×    You're viewing the program in a time zone which is different from your device's time zone change time zone     
+ Tue 24 Oct   
+ Displayed time zone: Lisbon  change      
+ 30m    
+ Talk | Is Polyglot Programming Really a Thing?   DLS   
+ Walter Cazzola  Università degli Studi di Milano 
+ 30m    
+ Talk | The importance of facing outwards: why dynamic languages can and should address the world   DLS   
+ Stephen Kell  King's College London 
+ 30m    
+ Talk | Going Static, Gradually: Semantic Soundness and Telling the Truth at Scale   DLS   
+ Maxwell Heiber  Meta 
+ 30m    
+ Talk | All Languages are Dynamic   DLS   
+ James Noble  Research & Programming 
+ 30m    
+ Talk | Are we Heading Towards a Dynamic Language Winter?   DLS   
+ Maxime Chevalier-Boisvert  Shopify 
+ 30m    
+ Talk | Prof. Strangelove or: How I Learned to Stop Worrying and Love Dynamic Languages   DLS   
+ Jan Vitek  Northeastern University 
+ 30m    
+ Talk | JITs are Nice, but Why Aren’t We Using Them?   DLS   
+ Kevin Menard  Shopify 
+ 30m    
+ Talk | Keeping the asm in Wasm – Running high-level languages on a low-level VM   DLS   
+ Andreas Rossberg  Independent 
+ 30m    
+ Talk | Language Runtimes for the New Cloud Era   DLS   
+ Rodrigo Bruno  INESC-ID - IST-ULisboa 
+ 30m    
+ Talk | Programming Languages for AI Programing Agents   DLS   
+ Mark Marron  University of Kentucky 
+ 30m    
+ Talk | The Bright Future of Debuggers: Challenges and Opportunities   DLS   
+ Christophe Scholliers  Universiteit Gent, Belgium 
+ 5m    
+ Awards | Most Notable Paper Award   DLS   
+ Stefan Marr  University of Kent 
+ Questions? Use the DLS contact form  .    
+ Important Dates   AoE (UTC-12h)     
+ Tue 24 Oct 2023   
+  Symposium 
+ Wed 26 Jul 2023  
+  Author notification 
+ Wed 28 Jun 2023   
+  Paper submission deadline 
+ Submission Link   
+  SPLASH 2023   
+   Support page    
+  Sponsored Talks    
+ Co-hosted Conferences  
+ DLS 2023   
+  GPCE 2023   
+  LOPSTR 2023   
+  MPLR 2023   
+  PPDP 2023   
+  SAS 2023   
+  SLE 2023   
+  Workshops  
+ CONFLANG 2023   
+  FTSCS 2023   
+  HATRA 2023   
+  IWACO 2023   
+  LIVE 2023   
+  PAINT 2023   
+  PLF 2023   
+  REBLS 2023   
+  ST30   
+  VMIL 2023    
+ Attending
+8. DLS_2 conference:
+DLS 2023   Dates to be announced Cascais, Portugal    
+ co-located with SPLASH 2023    
+ Toggle navigation        
+ Series 
+  DLS 2023 
+  All Editions | DLS 2023 
+  DLS 2022 
+  DLS 
+  Sign up 
+ DLS  
+ All Editions   
+ Dates to be announced Cascais, Portugal  DLS 2023  with SPLASH 2023 
+ Mon 5 - Sat 10 December 2022 Auckland, New Zealand  DLS 2022  with SPLASH 2022    
+ The 18th Dynamic Languages Symposium (DLS) at SPLASH 2022 is the premier forum for researchers and practitioners to share research and experience on all aspects on dynamic languages. 
+ The Dynamic Languages Symposium (DLS) is a forum for discussion of dynamic languages, their implementation and application. While mature dynamic languages including Smalltalk, Lisp, Scheme, Self, Prolog, and APL continue to grow and inspire new converts, a new generation of dynamic scripting languages such as JavaScript, Python, Ruby, PHP, Tcl, Lua, and Clojure are successful in a wide range of applications. DLS ... 
+ Steering Committee (DLS 2023)   
+ Stefan Marr
+9. DLS_3 conference:
+DLS    
+ DLS-23    
+ Program    
+ Call for papers    
+ DLS-22    
+ DLS-21    
+ DLS-20    
+ DLS-19    
+ DLS-18    
+ DLS-17    
+ DLS-16    
+ DLS-15    
+ DLS-14    
+ DLS-13    
+ DLS-12    
+ DLS-11    
+ DLS-10    
+ DLS-09    
+ DLS-08    
+ DLS-07    
+ DLS-06    
+ DLS-05    
+ Imprint    
+ Dynamic Languages Symposium (DLS)   
+ Dynamic Languages Symposium 2023     
+ Co-located with SPLASH 2023    
+ In association with ACM SIGPLAN    
+ DLS 2023 | Co-located with SPLASH 2023 
+  PC chairs: Stefan Marr, University of Kent, UK 
+  2023.splashcon.org/home/dls-2023 
+  Cascais, Portugal, October 24, 2023  
+  Citation: This paper explored the costs, both at micro and macro scale of various strategies for protecting gradual types in a gradually-typed programming language, examining how different strategies affected untyped typed, or both components of code. It is a seminal contribution to understanding the performance of gradual typing, which since then has been an area of important research. The strategies used in gradually-typed languages today can trace their lineage back to the strategies described and proposed in this paper. In particular, the proposed hybrid approach has been adapted time and time again by many systems, giving this work a lasting impact beyond its original scope. 
+  Certificate: | pdf 
+  Abstracts for the DLS 2023 invited talks are available on the conference website and in the | ACM Digital Library | ! 
+ It is our pleasure to welcome you to the 19th edition of the Dynamic Language Symposium (DLS 2023), co-located with SPLASH 2023 in Cascais, Portugal. After about two decades of dynamic language research and DLS, it is time to reflect and look forward to what the next two decades will bring. This year’s DLS is therefore a special one focusing on the Future of Dynamic Languages. To do the notion of symposium  justice, we invited speakers to present their opinions on where dynamic languages might be, will be, or should be in the next twenty years.  
+ We have 11 invited takes covering a wide range of areas including how dynamic languages should change how they can be used at scale from the perspective of tooling and performance how to interact with other language ecosystems and new developments such as generative artificial intelligence.  
+ We warmly thank the Program Committee, the SPLASH organization, the speakers, and, last but not least, the audience.  
+ Stefan Marr  
+  DLS 2023 Program Chair
+10. DLT_0 conference:
+DLT & WORDS 2023  
+ Developments in Language Theory 2023 and WORDS 2023  
+ Home 
+  Call for Papers | DLT 2023 – Call for Papers 
+  WORDS 2023 – Call for Papers 
+  Committees | DLT 2023 – Committees 
+  WORDS 2023 – Committees 
+  Accepted papers | DLT 2023 – Accepted papers 
+  WORDS 2023 – Accepted papers 
+  Invited Talks 
+  Program 
+  Best Paper Awards 
+  Conference Dinner 
+  Venue 
+ Search for:       
+   Welcome to the homepage of the international conferences Developments in Language Theory 2023  and WORDS 2023  , which will be held in Umeå, Sweden, from June 12 to June 16, one week before the Swedish midsummer celebrations. The two conferences have individual calls for papers, submission processes and program committees, but synchronized deadlines and a combined program. The conference fee will cover both conferences.  
+ During DLT the Salomaa Prize  in Automata Theory, Formal Languages and Related Topics will be awarded to Moshe Vardi  . The award ceremony will be on Wednesday, 14th June.  
+ Please use the top menu to navigate to the individual information items that interest you.  
+ Free electronic access to proceedings
+
+output:1. DISC_1 information:
+2. DISC_2 information:
+3. DIS_0 information:
+4. DIS_2 information:
+5. DIS_3 information:
+6. DLS_0 information:
+7. DLS_1 information:
+8. DLS_2 information:
+9. DLS_3 information:
+10. DLT_0 information:

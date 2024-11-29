@@ -1,0 +1,122 @@
+search    expand     Skip to content    RTNS 2023   
+ The 31st International Conference on Real-Time Networks and Systems, June 7-8, 2023  
+
+ Menu  Call for papers | Submission Guidelines 
+  Evaluation Criteria 
+  Transparency 
+  JRWRTC 
+  Organizers 
+  Program | Registration 
+  Logistics 
+  Privacy Policy 
+  Gallery 
+  Search for:      Search 
+
+ Program  
+
+ Conference Program 
+  Keynote - Dirk Ziegenbein 
+   
+ Tuesday June 6th  
+ Reception at 18:00, HÖVELS Hausbrauerei:  
+
+ Wednesday June 7th  
+
+ 8:30-8:50 | Registration opens 
+ 8:50-9:20 | Welcome session  and announcements 
+ 9:20-10:10 | Keynote by  Dirk Ziegenbein (Robert Bosch Research) 
+ 10:10-10:45 | Break 
+ 10:45-12:00 | Session 1:  Processor and Cache (1/2)  
+  Session chair: Selma Saidi  
+ Enabling timing predictability in the presence of store buffers -- Alban Gruin, Thomas Carle, Christine Rochange and Pascal Sainrat 
+  WCET analysis with procedure arguments as parameters -- Sandro Grebant, Clement Ballabriga, Julien Forget and Giuseppe Lipari 
+  Analysis of Shared Cache Interference in Multi-Core Systems using Event-Arrival Curves -- Thilo L. Fischer and Heiko Falk 
+ 12:00-13:20 | Lunch 
+ 13:20-15:00 | Session 2:  Task Scheduling (1/2)  
+  Session chair: Enrico Bini  
+ B-TSP: An Advanced Power Safe Management Strategy for modern Multi-core Platforms under Thermal-Aware Design -- Javier Pérez Rodríguez, Patrick Meumeu Yomsi, Yilian Ribot González and Luis Javier Puente Lam 
+  Characterizing G-EDF scheduling tardiness with uniform instances on multiprocessors -- Giovanni Buzzega, Gianluca Nocetti and Manuela Montangero 
+  Dimensions of fixed-priority aperiodic servers -- Abhishek Singh and Sanjoy Baruah | (Best Student Paper Award) 
+  Improved Uniprocessor Scheduling of Systems of Sporadic Constrained-Deadline Elastic Tasks -- Sanjoy Baruah 
+ 15:00-15:30 | Break 
+ 15:30-16:30 | Junior Workshop   
+  Session chairs: Mario Günzel and Alfonso Mascarenas-Gonzalez  
+ Best JRWRTC Paper Award   
+  A first Network Calculus model for Cyclic Queing and Forwarding  
+  Damien Guidolin-Pina and Marc Boyer 
+ 16:30-17:00 | Discussion on the RTNS organization 
+ 18:30 | Banquet at BVB Stadion Dortmund 
+
+ Thursday June 8th  
+
+ 8:50-10:30 | Session 3:  Real-time Communication and Networks  
+  Session chair: Niklas Ueter  
+ Enabling multi-link data transmission for collaborative sensing in open road scenarios -- Jonas Peeck and Rolf Ernst 
+  IPDeN 2.0: Real-time NoC with selective flit deflection and buffering | -- Yilian Ribot González, Geoffrey Nelissen and Eduardo Tovar 
+  A | dding Empirical Real-Time Guarantees to LoRaWAN -- Jose Mariano Finochietto, Ousmane Dieng, Daniel Mosse and Rodrigo Santos 
+  On the Reliability of Credit-Based Shaper Delay Guarantees in Decentralized Reservation Protocols -- Lisa Maile, Dominik Voitlein, Alexej Grigorjew, Kai-Steffen Hielscher and Reinhard German | (Best Presentation Award) 
+ 10:30-11:00 | Break 
+ 11:00-11:50 | Session 4:  Task Scheduling (2/2)  
+  Session chair: Junjie Shi  
+ An Evaluation of Time-triggered Scheduling in the Linux Kernel -- Paraskevas Karachatzis, Jan Ruh and Silviu S. Craciunas 
+  Procrastinating Control-Flow Integrity Framework for Periodic Real-Time Systems -- Tanmaya Mishra, Jinwen Wang, Thidapat Chantem, Ryan Gerdes and Ning Zhang 
+ 11:50-12:40 | Session 5:  Classification Systems  
+  Session chair: Georg von der Brueggen  
+ Scheduling Classifiers for Real-Time Hazard Perception Considering Functional Uncertainty -- Tarek Abdelzaher, Sanjoy Baruah, Iain Bate, Alan Burns, Robert Davis and Yigong Hu 
+  Multi-Model Specifications and their application to Classification Systems -- Alan Burns and Sanjoy Baruah 
+ 12:40-14:00 | Lunch 
+ 14:00-15:40 | Session 6:  Processor and Cache (2/2)  
+  Session chair: Risheng Xu  
+ Task and Memory Mapping of Large Size Embedded Applications over NUMA architecture -- Alessandro Druetto, Enrico Bini, Andrea Grosso, Stefano Puri, Silvio Bacci, Marco Di Natale and Francesco Paladino 
+  Cache-Aware Allocation of Parallel Jobs on Multi-cores based on Learned Recency -- Shuai Zhao, Xiaotian Dai, Benjamin Lesage and Iain Bate 
+  Reducing Loss of Service for Mixed-Criticality Systems through Cache- and Stress-Aware Scheduling -- Benjamin Lesage, Xiaotian Dai, Shuai Zhao and Iain Bate 
+  Minimizing Cache Usage for Real-time Systems -- Binqi Sun, Tomasz Kloda, Sergio Arribas Garcia, Giovani Gracioli and Marco Caccamo | (Best Paper Award) 
+ 15:40-16:00 | Break 
+ 16:00-16:50 | Session 7:  System Level  
+  Session chair: Peter Ulbrich  
+ Reducing Overall Path Latency in Automotive LET Scheduling via Reinforcement Learning -- Risheng Xu, Marvin Kühl, Hermann von Hasseln and Dirk Nowotka 
+  Timing Analysis of Cause-Effect Chains with Heterogeneous Communication Mechanisms -- Mario Günzel, Niklas Ueter, Kuan-Hsun Chen and Jian-Jia Chen 
+ 16:50-17:00 | Closing session 
+
+ Building a Cyber-Physical Metaverse  
+ The Metaverse has first been coined in literature as a virtual world for humans to interact. More recently, this term has been used for a new form of social network, connecting people around the world through Extended Reality (XR). This talk will propose a Metaverse for Cyber-Physical Systems (CPS), not only enabling interaction of humans with humans, but broadening the concept to include sensors, actuators, and physical machines, represented in the form of interconnected digital twins (DTs). This Cyber-Physical Metaverse (CPM) need not and likely will not be distinct from the Metaverse humans are interacting in. However, the focus is rather on interconnecting devices to enable functionality, including those with real-time and safety requirements, on a scale never seen before. The talk will outline the technical challenges and solutions paving the way towards this vision.  
+   
+ Dirk Ziegenbein  
+ is chief expert for cyber-physical systems engineering and leads a program developing methods and technologies for dynamic distributed systems at Bosch Corporate Research in Stuttgart, Germany. Dirk received a Master’s degree from Virginia Tech and a Ph.D. from Technical University of Braunschweig for his dissertation on modeling and design of embedded systems. He held several positions in R&D (software component technology, scheduling analysis, software architectures for multi-cores, autonomous systems design) and product management (embedded software engineering tools).  
+
+ Important Dates  
+  
+ JRWRTC | Date 
+ Abstract Deadline | May 4th, 2023 
+ Submission Deadline  (Firmed) | May 9th, 2023 
+ Notification | May 22nd, 2023 
+ Cameraready Deadline | May 29th, 2023 
+
+ RTNS 1st Round | Date 
+ Abstract  Deadline | Sept. 25th, 2022 
+ Submission Deadline | Sept. 29th, 2022 
+ Notification | Nov. 10th, 2022 
+ Cameraready Deadline | May 3rd, 2023 
+
+ RTNS 2nd Round | Date 
+ Abstract Deadline | Jan. 23rd, 2023 
+ Submission Deadline | Jan. 25th, 2023 (AoE, firm deadline) 
+ Notification | Mar. 17th, 2023 
+ Cameraready Deadline | May 3rd, 2023 
+
+ Conference Date | June 7-8, 2023 
+
+ News  
+ Awarded Recipients 
+  Final List of Accepted Papers 
+  JRWRTC Call for Paper is online! 
+  Information of Venue and Logistics are ready! 
+  Second Round is coming! 
+
+ Copyright © RTNS'2023  
+
+ Background © Sonja Ludwig / TU Dortmund  
+
+ Skyline © ITMC / TU Dortmund  
+
+ Powered by Miniva WordPress Theme

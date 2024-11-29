@@ -1,0 +1,3163 @@
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    
+
+
+<div class="container-fluid-no-gutters top-lr-bar" role="heading">
+	<div class="row row-no-gutters">
+				<div class="col-sm-6 col-xs-10">
+												  <div class="region region-header-left">
+    <nav role="navigation" aria-labelledby="block-ualgmenutopoesq-menu" id="block-ualgmenutopoesq">
+            
+  <h2 class="visually-hidden" id="block-ualgmenutopoesq-menu">UAlg - Menu Topo Esq</h2>
+  
+
+        
+      <ul class="menu menu--top-left-menu-ualg nav">
+                      <li class="first">
+                                        <a href="/en/about-ualg" data-drupal-link-system-path="node/266">Institution</a>
+              </li>
+                      <li>
+                                        <a href="/en/schoolsfaculties" data-drupal-link-system-path="node/238151">Faculties and schools</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/services" data-drupal-link-system-path="node/278">Services</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+
+									</div>
+
+				<div class="col-sm-6 col-xs-2">
+												  <div class="region region-header-right">
+    <nav role="navigation" aria-labelledby="block-menudeutilizador-menu" id="block-menudeutilizador">
+            
+  <h2 class="visually-hidden" id="block-menudeutilizador-menu">Menu de utilizador</h2>
+  
+
+        
+      <ul class="menu menu--account nav navbar-nav navbar-right">
+                      <li class="first">
+                                        <a href="/en/student-desk" data-drupal-link-system-path="node/1404">Student desk</a>
+              </li>
+                      <li class="last">
+                                        <a href="https://academico.ualg.pt/netpa/page" target="_blank">Academic portal</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-ualgmenutopodir-menu" id="block-ualgmenutopodir">
+            
+  <h2 class="visually-hidden" id="block-ualgmenutopodir-menu">UAlg - Menu Topo Dir</h2>
+  
+
+        
+      <ul class="menu menu--top-right-menu-ualg nav">
+                      <li class="first last">
+                                        <a href="https://ualgnet.ualg.pt/" target="_blank">Intranet</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-ualgmenutopoesqloja-menu" id="block-ualgmenutopoesqloja">
+            
+  <h2 class="visually-hidden" id="block-ualgmenutopoesqloja-menu">UAlg - Menu Topo Esq Loja</h2>
+  
+
+        
+      <ul class="menu menu--top-special-menu-ualg nav">
+                      <li class="first last">
+                                        <a href="/en/university-algarve-store" data-drupal-link-system-path="node/240018">Store</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+
+									</div>
+	</div>
+</div>
+
+	<div class="container-fluid-no-gutters mainnav-custom Fixed" role="heading">
+		  <div class="region region-navigation-custom">
+          <a class="logo navbar-btn pull-left" href="/en" title="Home" rel="home">
+      <img src="/sites/default/files/theme-logos/ualg_branco.svg" alt="Home">
+    </a>
+      <section id="block-ualgletrasualgemtexto" class="logo-ualg-texto block--type-basic-full block block-block-content block-block-contentd61d2d16-bf60-433d-96ae-88b946c01c71 clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><a href="/">UAlg</a></p>
+</div>
+      
+		</div>
+	</section>
+        <a class="name navbar-brand" href="/en" title="Home" rel="home">University of Algarve</a>
+        <p class="navbar-text">UAlg</p>
+  <section class="views-exposed-form bef-exposed-form block block-views block-views-exposed-filter-blockconteudo-search-api-page-2 clearfix" data-drupal-selector="views-exposed-form-conteudo-search-api-page-2" id="block-ualg-formularioexpostoconteudo-search-apipage-2">
+	
+		
+
+	
+
+			<div class="content">
+			
+			<form action="/en/search2" method="get" id="views-exposed-form-conteudo-search-api-page-2" accept-charset="UTF-8">
+  <div class="form--inline form-inline clearfix">
+  <div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-s js-form-item-s form-group">
+      
+  
+  
+  <input data-drupal-selector="edit-s" class="form-text form-control" data-msg-maxlength="This field field has a maximum length of 128." type="text" id="edit-s" name="s" value="" size="30" maxlength="128" placeholder="Pesquisar">
+
+  
+  
+  </div>
+<div data-drupal-selector="edit-actions" class="form-actions form-group js-form-wrapper form-wrapper" id="edit-actions"><button data-drupal-selector="edit-submit-conteudo-search-api" class="button js-form-submit form-submit btn-default btn" type="submit" id="edit-submit-conteudo-search-api" value="Aplicar">Aplicar</button></div>
+
+</div>
+
+</form>
+
+		</div>
+	</section>
+<section id="block-ualgmainmenuwrapper" class="block--type-custom-full block block-block-content block-block-content4b73bf56-0851-421a-ac6a-1b24d7110db5 clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p>MENU</p></div>
+      
+		</div>
+	</section>
+<section id="block-responsivemenumobileicon" class="responsive-menu-toggle-wrapper responsive-menu-toggle block block-responsive-menu block-responsive-menu-toggle clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			<a id="toggle-icon" class="toggle responsive-menu-toggle-icon" title="Menu" href="#off-canvas">
+  <span class="icon"></span><span class="label">Menu</span>
+</a>
+		</div>
+	</section>
+<nav role="navigation" aria-labelledby="block-ualgofertaformativa-menu" id="block-ualgofertaformativa">
+            
+  <h2 class="visually-hidden" id="block-ualgofertaformativa-menu">UAlg - Oferta Formativa</h2>
+  
+
+        
+      <ul class="menu menu--oferta-formativa-menu-ualg nav">
+                      <li class="first last">
+                                        <a href="/en/oferta-formativa" data-drupal-link-system-path="node/232303"><i class="fal fa-graduation-cap fa-2x" aria-hidden="true"></i> <span class="link-text">Courses</span></a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section class="language-switcher-language-url block block-language block-language-blocklanguage-interface clearfix" id="block-seletordeidioma" role="navigation">
+	
+		
+
+	
+
+			<div class="content">
+			
+			<ul class="links"><li hreflang="pt-pt" data-drupal-link-system-path="node/127258" class="pt-pt"><a href="/computability-and-complexity-analysis" class="language-link" hreflang="pt-pt" data-drupal-link-system-path="node/127258">PT</a></li><li hreflang="en" data-drupal-link-system-path="<front>" class="en"><span class="language-link is-active">EN</span></li></ul>
+		</div>
+	</section>
+
+  </div>
+
+	</div>
+
+<div class="header-spacer"></div>
+
+			  <div class="region region-navigation">
+      	
+	<ol class="breadcrumb">
+		<a class="home-icon" href="/en">
+			<i class="fad fa-home-lg"></i>
+		</a>
+					<li>
+									<a href="/en">Home</a>
+							</li>
+					<li class="active">
+									Computability and Complexity in Analysis
+							</li>
+			</ol>
+
+
+  </div>
+
+	
+
+
+	<div role="main" class="main-container container-fluid-no-gutters js-quickedit-main-content">
+		<div class="row">
+
+						
+									<section class="col-sm-12">
+
+																			<div class="highlighted">  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback="" class="hidden"></div>
+
+  </div>
+</div>
+									
+								
+													<a id="main-content"></a>
+					  <div class="region region-content">
+      
+  
+<article class="article full clearfix">
+
+  
+    
+
+  
+  <div class="content">
+    <div class="container adj3-bs-1col">
+  
+
+  <div class="row bs-region bs-region--inside">
+      <div class="col-sm-12 bs-region bs-region--main">
+        <section class="block block-layout-builder block-field-blocknodearticletitle clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+  
+            <div class="field field--name-title field--type-string field--label-hidden field--item"><h1>Computability and Complexity in Analysis</h1></div>
+      
+		</div>
+	</section>
+
+    </div>
+    </div>
+
+</div>
+<div class="container adj3-bs-2col">
+  
+
+  <div class="row bs-region bs-region--inside">
+    <div class="col-sm-10 bs-region bs-region--left">
+    <section class="body-summary block block-layout-builder block-field-blocknodearticlebody clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><span><span><strong>International Conference</strong></span></span></p></div>
+      
+		</div>
+	</section>
+
+  </div>
+  
+    </div>
+
+</div>
+<div class="container adj3-bs-2col">
+  
+
+  <div class="row bs-region bs-region--inside">
+    <div class="col-sm-6 bs-region bs-region--left">
+    
+  </div>
+  
+    <div class="col-sm-6 bs-region bs-region--right">
+    <section class="block block-layout-builder block-extra-field-blocknodearticleaddtoany clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			<span class="a2a_kit a2a_kit_size_26 addtoany_list" data-a2a-url="https://www.ualg.pt/en/computability-and-complexity-analysis" data-a2a-title="Computability and Complexity in Analysis"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.ualg.pt%2Fen%2Fcomputability-and-complexity-analysis&amp;title=Computability%20and%20Complexity%20in%20Analysis"><img src="/sites/default/files/theme-logos/botao_share.svg" alt="Share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_mastodon"></a><a class="a2a_button_email"></a></span>
+		</div>
+	</section>
+
+  </div>
+    </div>
+
+</div>
+<div class="row bs-1col">
+  
+  <div class="col-sm-12 bs-region bs-region--main">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-media-single clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+
+  </div>
+</div>
+<div class="container adj3-bs-2col">
+  
+
+  <div class="row bs-region bs-region--inside">
+    <div class="col-md-1 col-lg-2 bs-region bs-region--left">
+    <section class="block--type-custom-full block block-block-content block-block-content025f5ade-d066-4496-904c-f6ef8a65fecb clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item">&nbsp;</div>
+      
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-md-10 col-lg-8 bs-region bs-region--right">
+    <section class="block block-layout-builder block-field-blocknodearticlebody clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><span><span><strong><img alt="" src="/sites/ualg.pt/files/gcp/eventos/cca2016.png">The Thirteenth International Conference on&nbsp;Computability and Complexity in Analysis (CCA 2016) will be held at the University of Algarve next June 15th - 17th, 2016.&nbsp;</strong></span></span></p>
+
+<p><span><span><strong>Topics:</strong><br>
+* Computable analysis;<br>
+* Complexity on real numbers;<br>
+* Constructive analysis;<br>
+* Domain theory and analysis;<br>
+* Theory of representations;<br>
+* Computable numbers, subsets and functions;<br>
+* Randomness and computable measure theory;<br>
+* Models of computability on real numbers;<br>
+* Realizability theory and analysis;<br>
+* Reverse analysis;<br>
+* Real number algorithms;<br>
+* Implementation of exact real number arithmetic.</span></span></p>
+
+<p><span><span>More information at <a href="http://cca-net.de/cca2016/" target="_blank">http://cca-net.de/cca2016/&nbsp;</a></span></span></p></div>
+      
+		</div>
+	</section>
+
+  </div>
+    </div>
+
+</div>
+<div class="bs-1col">
+  
+  <div class="bs-region bs-region--main">
+    <section class="block block-ctools block-entity-viewnode clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+<article class="article footer clearfix">
+
+  
+    
+
+  
+  <div class="content">
+    <div class="adj3-bs-1col">
+  
+
+  <div class="row bs-region bs-region--inside">
+      <div class="col-sm-12 bs-region bs-region--main">
+        <section class="views-element-container block block-views block-views-blocknoticias-block-11 clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			<div class="form-group"><div class="view--blazy view view-noticias view-id-noticias view-display-id-block_11 js-view-dom-id-5cd12241dbcfdaaadfaf43ec478848aa0b237a2c4ba787aa555aa4f44dbc8ff2">
+  
+    
+      <div class="view-header">
+      <p>Relacionadas</p>
+
+    </div>
+      
+      <div class="view-content">
+      <div class="slick blazy slick--view slick--view--noticias slick--view--noticias--block-11 slick--view--noticias-block-block-11 slick--optionset--slider-4-horiz slick--multiple-view" data-blazy=""><div id="slick-47d0d18c6a4" data-slick="{&quot;count&quot;:16,&quot;total&quot;:16,&quot;autoplay&quot;:true,&quot;pauseOnHover&quot;:false,&quot;pauseOnFocus&quot;:false,&quot;lazyLoad&quot;:&quot;blazy&quot;,&quot;slidesToShow&quot;:4,&quot;swipe&quot;:false,&quot;responsive&quot;:[{&quot;breakpoint&quot;:1200,&quot;settings&quot;:{&quot;slidesToShow&quot;:3,&quot;swipe&quot;:false,&quot;waitForAnimate&quot;:false}},{&quot;breakpoint&quot;:992,&quot;settings&quot;:{&quot;slidesToShow&quot;:2,&quot;swipe&quot;:false,&quot;waitForAnimate&quot;:false}},{&quot;breakpoint&quot;:768,&quot;settings&quot;:{&quot;swipeToSlide&quot;:true,&quot;waitForAnimate&quot;:false}}]}" class="slick__slider">  <div class="slick__slide slide slide--0">
+<article class="small normal article listing-basic clearfix">
+
+  
+    
+
+  
+  <div class="content">
+    <div class="row bs-1col-stacked">
+  
+
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--top">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-largura clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlefield-layout clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--main">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-media-base clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div data-content-gallery="" class="blazy is-b-bg blazy--content blazy--field blazy--field-media-base blazy--field-media-base---custom field field--name-field-media-base field--type-entity-reference field--label-hidden field--item" data-blazy=""><a href="https://www.ualg.pt/en/october-employability-month-ualg" class="b-link b-link--bg">    <div class="media media--blazy b-lazy b-bg media--switch media--switch--content media--bundle--image-crop media--image is-b-loading" data-src="/sites/default/files/styles/imagem_base_list/public/nodes/images/2024-09/mempregabilidade24poral.jpg?itok=PnmDTEQr" data-b-bg="{&quot;500&quot;:{&quot;src&quot;:&quot;\/sites\/default\/files\/styles\/imagem_base_list\/public\/nodes\/images\/2024-09\/mempregabilidade24poral.jpg?itok=PnmDTEQr&quot;,&quot;ratio&quot;:100}}" data-b-token="b-1d973d862b1">        </div></a>
+        
+  </div>
+      
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--bottom">
+    <section class="block block-layout-builder block-field-blocknodearticletitle clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+  
+            <div class="field field--name-title field--type-string field--label-hidden field--item"><h4><a href="/en/october-employability-month-ualg" hreflang="en">October is "Employability Month" at UAlg</a></h4></div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlebody clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item">  In order to clarify possible doubts to UAlg students and graduates about active job search, the Academy...
+
+  <div class="more-link"><a href="/en/october-employability-month-ualg" class="more-link" aria-label="Read more about October is &amp;quot;Employability Month&amp;quot; at UAlg" hreflang="en">Ver mais +</a></div>
+</div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-extra-field-blocknodearticleaddtoany clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			<span class="a2a_kit a2a_kit_size_26 addtoany_list" data-a2a-url="https://www.ualg.pt/en/october-employability-month-ualg" data-a2a-title="October is &quot;Employability Month&quot; at UAlg"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.ualg.pt%2Fen%2Foctober-employability-month-ualg&amp;title=October%20is%20%22Employability%20Month%22%20at%20UAlg"><img src="/sites/default/files/theme-logos/botao_share.svg" alt="Share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_mastodon"></a><a class="a2a_button_email"></a></span>
+		</div>
+	</section>
+
+  </div>
+  
+</div>
+
+  </div>
+
+</article>
+</div>
+  <div class="slick__slide slide slide--1">
+<article class="small normal article listing-basic clearfix">
+
+  
+    
+
+  
+  <div class="content">
+    <div class="row bs-1col-stacked">
+  
+
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--top">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-largura clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlefield-layout clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--main">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-media-base clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div data-content-gallery="" class="blazy is-b-bg blazy--content blazy--field blazy--field-media-base blazy--field-media-base---custom field field--name-field-media-base field--type-entity-reference field--label-hidden field--item" data-blazy=""><a href="https://www.ualg.pt/en/training-school-family-support-and-research-social-impact" class="b-link b-link--bg">    <div class="media media--blazy b-lazy b-bg media--switch media--switch--content media--bundle--image-crop media--image is-b-loading" data-src="/sites/default/files/styles/imagem_base_list/public/nodes/images/2024-07/adobestock319141849-portal-2560x1440-crop.jpeg?itok=EX58gyL2" data-b-bg="{&quot;500&quot;:{&quot;src&quot;:&quot;\/sites\/default\/files\/styles\/imagem_base_list\/public\/nodes\/images\/2024-07\/adobestock319141849-portal-2560x1440-crop.jpeg?itok=EX58gyL2&quot;,&quot;ratio&quot;:100}}" data-b-token="b-27cfd5ccb89">        </div></a>
+        
+  </div>
+      
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--bottom">
+    <section class="block block-layout-builder block-field-blocknodearticletitle clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+  
+            <div class="field field--name-title field--type-string field--label-hidden field--item"><h4><a href="/en/training-school-family-support-and-research-social-impact" hreflang="en">Training School “Family Support and Research for Social Impact”</a></h4></div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlebody clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item">  On the 4th and 5th of July, the University of Algarve will host the Training School “Family Support and...
+
+  <div class="more-link"><a href="/en/training-school-family-support-and-research-social-impact" class="more-link" aria-label="Read more about Training School “Family Support and Research for Social Impact”" hreflang="en">Ver mais +</a></div>
+</div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-extra-field-blocknodearticleaddtoany clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			<span class="a2a_kit a2a_kit_size_26 addtoany_list" data-a2a-url="https://www.ualg.pt/en/training-school-family-support-and-research-social-impact" data-a2a-title="Training School “Family Support and Research for Social Impact”"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.ualg.pt%2Fen%2Ftraining-school-family-support-and-research-social-impact&amp;title=Training%20School%20%E2%80%9CFamily%20Support%20and%20Research%20for%20Social%20Impact%E2%80%9D"><img src="/sites/default/files/theme-logos/botao_share.svg" alt="Share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_mastodon"></a><a class="a2a_button_email"></a></span>
+		</div>
+	</section>
+
+  </div>
+  
+</div>
+
+  </div>
+
+</article>
+</div>
+  <div class="slick__slide slide slide--2">
+<article class="small normal article listing-basic clearfix">
+
+  
+    
+
+  
+  <div class="content">
+    <div class="row bs-1col-stacked">
+  
+
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--top">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-largura clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlefield-layout clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--main">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-media-base clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div data-content-gallery="" class="blazy is-b-bg blazy--content blazy--field blazy--field-media-base blazy--field-media-base---custom field field--name-field-media-base field--type-entity-reference field--label-hidden field--item" data-blazy=""><a href="https://www.ualg.pt/en/10th-advances-tourism-marketing-atmc-conference" class="b-link b-link--bg">    <div class="media media--blazy b-lazy b-bg media--switch media--switch--content media--bundle--image-crop media--image is-b-loading" data-src="/sites/default/files/styles/imagem_base_list/public/nodes/images/2024-07/atmc2025.jpg?itok=7CkITtG6" data-b-bg="{&quot;500&quot;:{&quot;src&quot;:&quot;\/sites\/default\/files\/styles\/imagem_base_list\/public\/nodes\/images\/2024-07\/atmc2025.jpg?itok=7CkITtG6&quot;,&quot;ratio&quot;:100}}" data-b-token="b-46e69b26d23">        </div></a>
+        
+  </div>
+      
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--bottom">
+    <section class="block block-layout-builder block-field-blocknodearticletitle clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+  
+            <div class="field field--name-title field--type-string field--label-hidden field--item"><h4><a href="/en/10th-advances-tourism-marketing-atmc-conference" hreflang="en">10th Advances in Tourism Marketing (ATMC) Conference</a></h4></div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlebody clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item">  ATMC celebrates its 10th edition and 20th anniversary by analyzing the past and present to help build...
+
+  <div class="more-link"><a href="/en/10th-advances-tourism-marketing-atmc-conference" class="more-link" aria-label="Read more about 10th Advances in Tourism Marketing (ATMC) Conference" hreflang="en">Ver mais +</a></div>
+</div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-extra-field-blocknodearticleaddtoany clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			<span class="a2a_kit a2a_kit_size_26 addtoany_list" data-a2a-url="https://www.ualg.pt/en/10th-advances-tourism-marketing-atmc-conference" data-a2a-title="10th Advances in Tourism Marketing (ATMC) Conference"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.ualg.pt%2Fen%2F10th-advances-tourism-marketing-atmc-conference&amp;title=10th%20Advances%20in%20Tourism%20Marketing%20%28ATMC%29%20Conference"><img src="/sites/default/files/theme-logos/botao_share.svg" alt="Share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_mastodon"></a><a class="a2a_button_email"></a></span>
+		</div>
+	</section>
+
+  </div>
+  
+</div>
+
+  </div>
+
+</article>
+</div>
+  <div class="slick__slide slide slide--3">
+<article class="small normal article listing-basic clearfix">
+
+  
+    
+
+  
+  <div class="content">
+    <div class="row bs-1col-stacked">
+  
+
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--top">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-largura clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlefield-layout clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--main">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-media-base clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div data-content-gallery="" class="blazy is-b-bg blazy--content blazy--field blazy--field-media-base blazy--field-media-base---custom field field--name-field-media-base field--type-entity-reference field--label-hidden field--item" data-blazy=""><a href="https://www.ualg.pt/en/summer-concert-zofia-kiniorska-dirige-emilie-mayer" class="b-link b-link--bg">    <div class="media media--blazy b-lazy b-bg media--switch media--switch--content media--bundle--image-crop media--image is-b-loading" data-src="/sites/default/files/styles/imagem_base_list/public/nodes/images/2024-05/orquestraredes2.jpg?itok=E3P4tERU" data-b-bg="{&quot;500&quot;:{&quot;src&quot;:&quot;\/sites\/default\/files\/styles\/imagem_base_list\/public\/nodes\/images\/2024-05\/orquestraredes2.jpg?itok=E3P4tERU&quot;,&quot;ratio&quot;:100}}" data-b-token="b-d9471eae479">        </div></a>
+        
+  </div>
+      
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--bottom">
+    <section class="block block-layout-builder block-field-blocknodearticletitle clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+  
+            <div class="field field--name-title field--type-string field--label-hidden field--item"><h4><a href="/en/summer-concert-zofia-kiniorska-dirige-emilie-mayer" hreflang="en">Summer Concert - "Zofia Kiniorska dirige Émilie Mayer"</a></h4></div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlebody clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item">  On 15 June, at 9pm, the Caixa Geral de Depósitos Grand Auditorium, Gambelas Campus, will host the UAlg Summer...
+
+  <div class="more-link"><a href="/en/summer-concert-zofia-kiniorska-dirige-emilie-mayer" class="more-link" aria-label="Read more about Summer Concert - &amp;quot;Zofia Kiniorska dirige Émilie Mayer&amp;quot;" hreflang="en">Ver mais +</a></div>
+</div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-extra-field-blocknodearticleaddtoany clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			<span class="a2a_kit a2a_kit_size_26 addtoany_list" data-a2a-url="https://www.ualg.pt/en/summer-concert-zofia-kiniorska-dirige-emilie-mayer" data-a2a-title="Summer Concert - &quot;Zofia Kiniorska dirige Émilie Mayer&quot;"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.ualg.pt%2Fen%2Fsummer-concert-zofia-kiniorska-dirige-emilie-mayer&amp;title=Summer%20Concert%20-%20%22Zofia%20Kiniorska%20dirige%20%C3%89milie%20Mayer%22"><img src="/sites/default/files/theme-logos/botao_share.svg" alt="Share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_mastodon"></a><a class="a2a_button_email"></a></span>
+		</div>
+	</section>
+
+  </div>
+  
+</div>
+
+  </div>
+
+</article>
+</div>
+  <div class="slick__slide slide slide--4">
+<article class="small normal article listing-basic clearfix">
+
+  
+    
+
+  
+  <div class="content">
+    <div class="row bs-1col-stacked">
+  
+
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--top">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-largura clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlefield-layout clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--main">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-media-base clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div data-content-gallery="" class="blazy is-b-bg blazy--content blazy--field blazy--field-media-base blazy--field-media-base---custom field field--name-field-media-base field--type-entity-reference field--label-hidden field--item" data-blazy=""><a href="https://www.ualg.pt/en/ualg-organizes-summer-school-about-emotional-intelligence-and-combating-discrimination" class="b-link b-link--bg">    <div class="media media--blazy b-lazy b-bg media--switch media--switch--content media--bundle--image-crop media--image is-b-loading" data-src="/sites/default/files/styles/imagem_base_list/public/nodes/images/2024-04/equni.jpg?itok=ZgvqGPcT" data-b-bg="{&quot;500&quot;:{&quot;src&quot;:&quot;\/sites\/default\/files\/styles\/imagem_base_list\/public\/nodes\/images\/2024-04\/equni.jpg?itok=ZgvqGPcT&quot;,&quot;ratio&quot;:100}}" data-b-token="b-342b9cbc3e0">        </div></a>
+        
+  </div>
+      
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--bottom">
+    <section class="block block-layout-builder block-field-blocknodearticletitle clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+  
+            <div class="field field--name-title field--type-string field--label-hidden field--item"><h4><a href="/en/ualg-organizes-summer-school-about-emotional-intelligence-and-combating-discrimination" hreflang="en"> UAlg organizes Summer School about emotional intelligence and combating discrimination</a></h4></div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlebody clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item">  As part of the project "Implementation of effective practices for the development of students' emotional...
+
+  <div class="more-link"><a href="/en/ualg-organizes-summer-school-about-emotional-intelligence-and-combating-discrimination" class="more-link" aria-label="Read more about  UAlg organizes Summer School about emotional intelligence and combating discrimination" hreflang="en">Ver mais +</a></div>
+</div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-extra-field-blocknodearticleaddtoany clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			<span class="a2a_kit a2a_kit_size_26 addtoany_list" data-a2a-url="https://www.ualg.pt/en/ualg-organizes-summer-school-about-emotional-intelligence-and-combating-discrimination" data-a2a-title=" UAlg organizes Summer School about emotional intelligence and combating discrimination"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.ualg.pt%2Fen%2Fualg-organizes-summer-school-about-emotional-intelligence-and-combating-discrimination&amp;title=%20UAlg%20organizes%20Summer%20School%20about%20emotional%20intelligence%20and%20combating%20discrimination"><img src="/sites/default/files/theme-logos/botao_share.svg" alt="Share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_mastodon"></a><a class="a2a_button_email"></a></span>
+		</div>
+	</section>
+
+  </div>
+  
+</div>
+
+  </div>
+
+</article>
+</div>
+  <div class="slick__slide slide slide--5">
+<article class="small normal article listing-basic clearfix">
+
+  
+    
+
+  
+  <div class="content">
+    <div class="row bs-1col-stacked">
+  
+
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--top">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-largura clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlefield-layout clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--main">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-media-base clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div data-content-gallery="" class="blazy is-b-bg blazy--content blazy--field blazy--field-media-base blazy--field-media-base---custom field field--name-field-media-base field--type-entity-reference field--label-hidden field--item" data-blazy=""><a href="https://www.ualg.pt/en/2nd-inclusive-and-solidarity-runwalk-organized-alliance-sea-eu-and-ualg" class="b-link b-link--bg">    <div class="media media--blazy b-lazy b-bg media--switch media--switch--content media--bundle--image-crop media--image is-b-loading" data-src="/sites/default/files/styles/imagem_base_list/public/nodes/images/2024-04/foto.jpg?itok=2cpwTj6P" data-b-bg="{&quot;500&quot;:{&quot;src&quot;:&quot;\/sites\/default\/files\/styles\/imagem_base_list\/public\/nodes\/images\/2024-04\/foto.jpg?itok=2cpwTj6P&quot;,&quot;ratio&quot;:100}}" data-b-token="b-2203d7300a7">        </div></a>
+        
+  </div>
+      
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--bottom">
+    <section class="block block-layout-builder block-field-blocknodearticletitle clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+  
+            <div class="field field--name-title field--type-string field--label-hidden field--item"><h4><a href="/en/2nd-inclusive-and-solidarity-runwalk-organized-alliance-sea-eu-and-ualg" hreflang="en">2nd Inclusive and Solidarity Run/Walk Organized by Alliance SEA-EU and UALG</a></h4></div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlebody clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item">  The 2nd Inclusive and Solidarity Run/Walk organized by GDAAUAlg (Sports Office) and ESEC (Sports Course) in...
+
+  <div class="more-link"><a href="/en/2nd-inclusive-and-solidarity-runwalk-organized-alliance-sea-eu-and-ualg" class="more-link" aria-label="Read more about 2nd Inclusive and Solidarity Run/Walk Organized by Alliance SEA-EU and UALG" hreflang="en">Ver mais +</a></div>
+</div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-extra-field-blocknodearticleaddtoany clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			<span class="a2a_kit a2a_kit_size_26 addtoany_list" data-a2a-url="https://www.ualg.pt/en/2nd-inclusive-and-solidarity-runwalk-organized-alliance-sea-eu-and-ualg" data-a2a-title="2nd Inclusive and Solidarity Run/Walk Organized by Alliance SEA-EU and UALG"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.ualg.pt%2Fen%2F2nd-inclusive-and-solidarity-runwalk-organized-alliance-sea-eu-and-ualg&amp;title=2nd%20Inclusive%20and%20Solidarity%20Run%2FWalk%20Organized%20by%20Alliance%20SEA-EU%20and%20UALG"><img src="/sites/default/files/theme-logos/botao_share.svg" alt="Share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_mastodon"></a><a class="a2a_button_email"></a></span>
+		</div>
+	</section>
+
+  </div>
+  
+</div>
+
+  </div>
+
+</article>
+</div>
+  <div class="slick__slide slide slide--6">
+<article class="small normal article listing-basic clearfix">
+
+  
+    
+
+  
+  <div class="content">
+    <div class="row bs-1col-stacked">
+  
+
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--top">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-largura clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlefield-layout clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--main">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-media-base clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div data-content-gallery="" class="blazy is-b-bg blazy--content blazy--field blazy--field-media-base blazy--field-media-base---custom field field--name-field-media-base field--type-entity-reference field--label-hidden field--item" data-blazy=""><a href="https://www.ualg.pt/en/ualg-hosts-national-chemistry-meetings" class="b-link b-link--bg">    <div class="media media--blazy b-lazy b-bg media--switch media--switch--content media--bundle--image-crop media--image is-b-loading" data-src="/sites/default/files/styles/imagem_base_list/public/nodes/images/2024-01/quim20.JPG?itok=LybQvvNU" data-b-bg="{&quot;500&quot;:{&quot;src&quot;:&quot;\/sites\/default\/files\/styles\/imagem_base_list\/public\/nodes\/images\/2024-01\/quim20.JPG?itok=LybQvvNU&quot;,&quot;ratio&quot;:100}}" data-b-token="b-f8829f931ce">        </div></a>
+        
+  </div>
+      
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--bottom">
+    <section class="block block-layout-builder block-field-blocknodearticletitle clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+  
+            <div class="field field--name-title field--type-string field--label-hidden field--item"><h4><a href="/en/ualg-hosts-national-chemistry-meetings" hreflang="en">UAlg hosts national chemistry meetings</a></h4></div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlebody clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item">  From 22 to 24 January, the University of the Algarve is hosting the 15th National Organic Chemistry Meeting...
+
+  <div class="more-link"><a href="/en/ualg-hosts-national-chemistry-meetings" class="more-link" aria-label="Read more about UAlg hosts national chemistry meetings" hreflang="en">Ver mais +</a></div>
+</div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-extra-field-blocknodearticleaddtoany clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			<span class="a2a_kit a2a_kit_size_26 addtoany_list" data-a2a-url="https://www.ualg.pt/en/ualg-hosts-national-chemistry-meetings" data-a2a-title="UAlg hosts national chemistry meetings"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.ualg.pt%2Fen%2Fualg-hosts-national-chemistry-meetings&amp;title=UAlg%20hosts%20national%20chemistry%20meetings"><img src="/sites/default/files/theme-logos/botao_share.svg" alt="Share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_mastodon"></a><a class="a2a_button_email"></a></span>
+		</div>
+	</section>
+
+  </div>
+  
+</div>
+
+  </div>
+
+</article>
+</div>
+  <div class="slick__slide slide slide--7">
+<article class="small normal article listing-basic clearfix">
+
+  
+    
+
+  
+  <div class="content">
+    <div class="row bs-1col-stacked">
+  
+
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--top">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-largura clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlefield-layout clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--main">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-media-base clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div data-content-gallery="" class="blazy is-b-bg blazy--content blazy--field blazy--field-media-base blazy--field-media-base---custom field field--name-field-media-base field--type-entity-reference field--label-hidden field--item" data-blazy=""><a href="https://www.ualg.pt/en/orquestra-do-algarve-performs-concert-part-sea-eu-congress" class="b-link b-link--bg">    <div class="media media--blazy b-lazy b-bg media--switch media--switch--content media--bundle--image-crop media--image is-b-loading" data-src="/sites/default/files/styles/imagem_base_list/public/nodes/images/2024-01/site.jpg?itok=XIzbPLKk" data-b-bg="{&quot;500&quot;:{&quot;src&quot;:&quot;\/sites\/default\/files\/styles\/imagem_base_list\/public\/nodes\/images\/2024-01\/site.jpg?itok=XIzbPLKk&quot;,&quot;ratio&quot;:100}}" data-b-token="b-cb524f7ca97">        </div></a>
+        
+  </div>
+      
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--bottom">
+    <section class="block block-layout-builder block-field-blocknodearticletitle clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+  
+            <div class="field field--name-title field--type-string field--label-hidden field--item"><h4><a href="/en/orquestra-do-algarve-performs-concert-part-sea-eu-congress" hreflang="en">Orquestra do Algarve performs concert as part of SEA-EU Congress</a></h4></div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlebody clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item">  As part of the SEA-EU Congress, the Orquestral Concert of the Seas by the Orquestra do Algarve (OA) will take...
+
+  <div class="more-link"><a href="/en/orquestra-do-algarve-performs-concert-part-sea-eu-congress" class="more-link" aria-label="Read more about Orquestra do Algarve performs concert as part of SEA-EU Congress" hreflang="en">Ver mais +</a></div>
+</div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-extra-field-blocknodearticleaddtoany clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			<span class="a2a_kit a2a_kit_size_26 addtoany_list" data-a2a-url="https://www.ualg.pt/en/orquestra-do-algarve-performs-concert-part-sea-eu-congress" data-a2a-title="Orquestra do Algarve performs concert as part of SEA-EU Congress"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.ualg.pt%2Fen%2Forquestra-do-algarve-performs-concert-part-sea-eu-congress&amp;title=Orquestra%20do%20Algarve%20performs%20concert%20as%20part%20of%20SEA-EU%20Congress"><img src="/sites/default/files/theme-logos/botao_share.svg" alt="Share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_mastodon"></a><a class="a2a_button_email"></a></span>
+		</div>
+	</section>
+
+  </div>
+  
+</div>
+
+  </div>
+
+</article>
+</div>
+  <div class="slick__slide slide slide--8">
+<article class="medium normal article listing-basic clearfix">
+
+  
+    
+
+  
+  <div class="content">
+    <div class="row bs-1col-stacked">
+  
+
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--top">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-largura clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlefield-layout clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--main">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-media-base clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div data-content-gallery="" class="blazy is-b-bg blazy--content blazy--field blazy--field-media-base blazy--field-media-base---custom field field--name-field-media-base field--type-entity-reference field--label-hidden field--item" data-blazy=""><a href="https://www.ualg.pt/en/concert-celebrate-day-university-algarve" class="b-link b-link--bg">    <div class="media media--blazy b-lazy b-bg media--switch media--switch--content media--bundle--image-crop media--image is-b-loading" data-src="/sites/default/files/styles/imagem_base_list/public/nodes/images/2023-11/concertooa3bruno-borralhinho.jpg?itok=DuqJC_oA" data-b-bg="{&quot;500&quot;:{&quot;src&quot;:&quot;\/sites\/default\/files\/styles\/imagem_base_list\/public\/nodes\/images\/2023-11\/concertooa3bruno-borralhinho.jpg?itok=DuqJC_oA&quot;,&quot;ratio&quot;:100}}" data-b-token="b-13785aca151">        </div></a>
+        
+  </div>
+      
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--bottom">
+    <section class="block block-layout-builder block-field-blocknodearticletitle clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+  
+            <div class="field field--name-title field--type-string field--label-hidden field--item"><h4><a href="/en/concert-celebrate-day-university-algarve" hreflang="en">Concert to celebrate the Day of the University of the Algarve</a></h4></div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlebody clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item">  As part of the University Day celebrations, the Caixa Geral de Depósitos Grand Auditorium on the Gambelas...
+
+  <div class="more-link"><a href="/en/concert-celebrate-day-university-algarve" class="more-link" aria-label="Read more about Concert to celebrate the Day of the University of the Algarve" hreflang="en">Ver mais +</a></div>
+</div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-extra-field-blocknodearticleaddtoany clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			<span class="a2a_kit a2a_kit_size_26 addtoany_list" data-a2a-url="https://www.ualg.pt/en/concert-celebrate-day-university-algarve" data-a2a-title="Concert to celebrate the Day of the University of the Algarve"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.ualg.pt%2Fen%2Fconcert-celebrate-day-university-algarve&amp;title=Concert%20to%20celebrate%20the%20Day%20of%20the%20University%20of%20the%20Algarve"><img src="/sites/default/files/theme-logos/botao_share.svg" alt="Share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_mastodon"></a><a class="a2a_button_email"></a></span>
+		</div>
+	</section>
+
+  </div>
+  
+</div>
+
+  </div>
+
+</article>
+</div>
+  <div class="slick__slide slide slide--9">
+<article class="small normal article listing-basic clearfix">
+
+  
+    
+
+  
+  <div class="content">
+    <div class="row bs-1col-stacked">
+  
+
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--top">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-largura clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlefield-layout clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlefield-subtitulo clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-field-subtitulo field--type-string field--label-hidden field--item">Penha Campus</div>
+      
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--main">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-media-base clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div data-content-gallery="" class="blazy is-b-bg blazy--content blazy--field blazy--field-media-base blazy--field-media-base---custom field field--name-field-media-base field--type-entity-reference field--label-hidden field--item" data-blazy=""><a href="https://www.ualg.pt/en/opening-academic-year-20232024-celebrated-sound-trumpets" class="b-link b-link--bg">    <div class="media media--blazy b-lazy b-bg media--switch media--switch--content media--bundle--image-crop media--image is-b-loading" data-src="/sites/default/files/styles/imagem_base_list/public/nodes/images/2023-09/ao-som-dos-trompetes.jpg?h=d1cb525d&amp;itok=OuTwlWv_" data-b-bg="{&quot;500&quot;:{&quot;src&quot;:&quot;\/sites\/default\/files\/styles\/imagem_base_list\/public\/nodes\/images\/2023-09\/ao-som-dos-trompetes.jpg?h=d1cb525d\u0026itok=OuTwlWv_&quot;,&quot;ratio&quot;:100}}" data-b-token="b-ad7532aa969">        </div></a>
+        
+  </div>
+      
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--bottom">
+    <section class="block block-layout-builder block-field-blocknodearticletitle clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+  
+            <div class="field field--name-title field--type-string field--label-hidden field--item"><h4><a href="/en/opening-academic-year-20232024-celebrated-sound-trumpets" hreflang="en">Opening of the Academic Year 2023/2024 is celebrated "To the Sound of Trumpets"</a></h4></div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlebody clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item">  The University of the Algarve is marking the opening of the Academic Year 2023/24 with the concert "Ao Som dos...
+
+  <div class="more-link"><a href="/en/opening-academic-year-20232024-celebrated-sound-trumpets" class="more-link" aria-label="Read more about Opening of the Academic Year 2023/2024 is celebrated &amp;quot;To the Sound of Trumpets&amp;quot;" hreflang="en">Ver mais +</a></div>
+</div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-extra-field-blocknodearticleaddtoany clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			<span class="a2a_kit a2a_kit_size_26 addtoany_list" data-a2a-url="https://www.ualg.pt/en/opening-academic-year-20232024-celebrated-sound-trumpets" data-a2a-title="Opening of the Academic Year 2023/2024 is celebrated &quot;To the Sound of Trumpets&quot;"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.ualg.pt%2Fen%2Fopening-academic-year-20232024-celebrated-sound-trumpets&amp;title=Opening%20of%20the%20Academic%20Year%202023%2F2024%20is%20celebrated%20%22To%20the%20Sound%20of%20Trumpets%22"><img src="/sites/default/files/theme-logos/botao_share.svg" alt="Share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_mastodon"></a><a class="a2a_button_email"></a></span>
+		</div>
+	</section>
+
+  </div>
+  
+</div>
+
+  </div>
+
+</article>
+</div>
+  <div class="slick__slide slide slide--10">
+<article class="small normal article listing-basic clearfix">
+
+  
+    
+
+  
+  <div class="content">
+    <div class="row bs-1col-stacked">
+  
+
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--top">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-largura clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlefield-layout clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--main">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-media-base clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div data-content-gallery="" class="blazy is-b-bg blazy--content blazy--field blazy--field-media-base blazy--field-media-base---custom field field--name-field-media-base field--type-entity-reference field--label-hidden field--item" data-blazy=""><a href="https://www.ualg.pt/en/icarehb-dialogues-returns-theme-humanity-and-climate-change" class="b-link b-link--bg">    <div class="media media--blazy b-lazy b-bg media--switch media--switch--content media--bundle--image-crop media--image is-b-loading" data-src="/sites/default/files/styles/imagem_base_list/public/nodes/images/2023-09/microsoftteams-image-15.png?itok=4YRmRwrg" data-b-bg="{&quot;500&quot;:{&quot;src&quot;:&quot;\/sites\/default\/files\/styles\/imagem_base_list\/public\/nodes\/images\/2023-09\/microsoftteams-image-15.png?itok=4YRmRwrg&quot;,&quot;ratio&quot;:100}}" data-b-token="b-97f3906e148">        </div></a>
+        
+  </div>
+      
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--bottom">
+    <section class="block block-layout-builder block-field-blocknodearticletitle clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+  
+            <div class="field field--name-title field--type-string field--label-hidden field--item"><h4><a href="/en/icarehb-dialogues-returns-theme-humanity-and-climate-change" hreflang="en">ICArEHB Dialogues returns with a theme on "Humanity and Climate Change"</a></h4></div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlebody clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item">  Another season of ICArEHB’s Dialogues Series will begin October 17th 2023 at 17:00 PT with a new completely...
+
+  <div class="more-link"><a href="/en/icarehb-dialogues-returns-theme-humanity-and-climate-change" class="more-link" aria-label="Read more about ICArEHB Dialogues returns with a theme on &amp;quot;Humanity and Climate Change&amp;quot;" hreflang="en">Ver mais +</a></div>
+</div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-extra-field-blocknodearticleaddtoany clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			<span class="a2a_kit a2a_kit_size_26 addtoany_list" data-a2a-url="https://www.ualg.pt/en/icarehb-dialogues-returns-theme-humanity-and-climate-change" data-a2a-title="ICArEHB Dialogues returns with a theme on &quot;Humanity and Climate Change&quot;"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.ualg.pt%2Fen%2Ficarehb-dialogues-returns-theme-humanity-and-climate-change&amp;title=ICArEHB%20Dialogues%20returns%20with%20a%20theme%20on%20%22Humanity%20and%20Climate%20Change%22"><img src="/sites/default/files/theme-logos/botao_share.svg" alt="Share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_mastodon"></a><a class="a2a_button_email"></a></span>
+		</div>
+	</section>
+
+  </div>
+  
+</div>
+
+  </div>
+
+</article>
+</div>
+  <div class="slick__slide slide slide--11">
+<article class="small normal article listing-basic clearfix">
+
+  
+    
+
+  
+  <div class="content">
+    <div class="row bs-1col-stacked">
+  
+
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--top">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-largura clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlefield-layout clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--main">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-media-base clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div data-content-gallery="" class="blazy is-b-bg blazy--content blazy--field blazy--field-media-base blazy--field-media-base---custom field field--name-field-media-base field--type-entity-reference field--label-hidden field--item" data-blazy=""><a href="https://www.ualg.pt/en/ualg-hosts-humanity-summit" class="b-link b-link--bg">    <div class="media media--blazy b-lazy b-bg media--switch media--switch--content media--bundle--image-crop media--image is-b-loading" data-src="/sites/default/files/styles/imagem_base_list/public/nodes/images/2023-09/hsummit1.jpg?itok=u7Vls24s" data-b-bg="{&quot;500&quot;:{&quot;src&quot;:&quot;\/sites\/default\/files\/styles\/imagem_base_list\/public\/nodes\/images\/2023-09\/hsummit1.jpg?itok=u7Vls24s&quot;,&quot;ratio&quot;:100}}" data-b-token="b-6f0711c0aa2">        </div></a>
+        
+  </div>
+      
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--bottom">
+    <section class="block block-layout-builder block-field-blocknodearticletitle clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+  
+            <div class="field field--name-title field--type-string field--label-hidden field--item"><h4><a href="/en/ualg-hosts-humanity-summit" hreflang="en">UAlg hosts Humanity Summit</a></h4></div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlebody clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item">  The University of Algarve is hosting the "Humanity Summit" on 19 and 20 September at the Caixa Geral de...
+
+  <div class="more-link"><a href="/en/ualg-hosts-humanity-summit" class="more-link" aria-label="Read more about UAlg hosts Humanity Summit" hreflang="en">Ver mais +</a></div>
+</div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-extra-field-blocknodearticleaddtoany clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			<span class="a2a_kit a2a_kit_size_26 addtoany_list" data-a2a-url="https://www.ualg.pt/en/ualg-hosts-humanity-summit" data-a2a-title="UAlg hosts Humanity Summit"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.ualg.pt%2Fen%2Fualg-hosts-humanity-summit&amp;title=UAlg%20hosts%20Humanity%20Summit"><img src="/sites/default/files/theme-logos/botao_share.svg" alt="Share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_mastodon"></a><a class="a2a_button_email"></a></span>
+		</div>
+	</section>
+
+  </div>
+  
+</div>
+
+  </div>
+
+</article>
+</div>
+  <div class="slick__slide slide slide--12">
+<article class="small normal article listing-basic clearfix">
+
+  
+    
+
+  
+  <div class="content">
+    <div class="row bs-1col-stacked">
+  
+
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--top">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-largura clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlefield-layout clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--main">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-media-base clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div data-content-gallery="" class="blazy is-b-bg blazy--content blazy--field blazy--field-media-base blazy--field-media-base---custom field field--name-field-media-base field--type-entity-reference field--label-hidden field--item" data-blazy=""><a href="https://www.ualg.pt/en/blue-route-project-ualg-has-open-enrolment-online-short-courses" class="b-link b-link--bg">    <div class="media media--blazy b-lazy b-bg media--switch media--switch--content media--bundle--image-crop media--image is-b-loading" data-src="/sites/default/files/styles/imagem_base_list/public/nodes/images/2023-07/v3site.jpg?itok=LumEidKv" data-b-bg="{&quot;500&quot;:{&quot;src&quot;:&quot;\/sites\/default\/files\/styles\/imagem_base_list\/public\/nodes\/images\/2023-07\/v3site.jpg?itok=LumEidKv&quot;,&quot;ratio&quot;:100}}" data-b-token="b-864c8679d96">        </div></a>
+        
+  </div>
+      
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--bottom">
+    <section class="block block-layout-builder block-field-blocknodearticletitle clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+  
+            <div class="field field--name-title field--type-string field--label-hidden field--item"><h4><a href="/en/blue-route-project-ualg-has-open-enrolment-online-short-courses" hreflang="en">Blue Route Project - UAlg has open enrolment for online short courses</a></h4></div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlebody clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item">  Within the scope of the Blue Route 2030 Project (EEA Grant PT-INNOVATION-0072 Call 5: Education Blue growth)...
+
+  <div class="more-link"><a href="/en/blue-route-project-ualg-has-open-enrolment-online-short-courses" class="more-link" aria-label="Read more about Blue Route Project - UAlg has open enrolment for online short courses" hreflang="en">Ver mais +</a></div>
+</div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-extra-field-blocknodearticleaddtoany clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			<span class="a2a_kit a2a_kit_size_26 addtoany_list" data-a2a-url="https://www.ualg.pt/en/blue-route-project-ualg-has-open-enrolment-online-short-courses" data-a2a-title="Blue Route Project - UAlg has open enrolment for online short courses"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.ualg.pt%2Fen%2Fblue-route-project-ualg-has-open-enrolment-online-short-courses&amp;title=Blue%20Route%20Project%20-%20UAlg%20has%20open%20enrolment%20for%20online%20short%20courses"><img src="/sites/default/files/theme-logos/botao_share.svg" alt="Share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_mastodon"></a><a class="a2a_button_email"></a></span>
+		</div>
+	</section>
+
+  </div>
+  
+</div>
+
+  </div>
+
+</article>
+</div>
+  <div class="slick__slide slide slide--13">
+<article class="small normal article listing-basic clearfix">
+
+  
+    
+
+  
+  <div class="content">
+    <div class="row bs-1col-stacked">
+  
+
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--top">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-largura clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlefield-layout clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--main">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-media-base clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div data-content-gallery="" class="blazy is-b-bg blazy--content blazy--field blazy--field-media-base blazy--field-media-base---custom field field--name-field-media-base field--type-entity-reference field--label-hidden field--item" data-blazy=""><a href="https://www.ualg.pt/en/penha-campus-hosts-2nd-edition-algarve-tech-hub-summit" class="b-link b-link--bg">    <div class="media media--blazy b-lazy b-bg media--switch media--switch--content media--bundle--image-crop media--image is-b-loading" data-src="/sites/default/files/styles/imagem_base_list/public/nodes/images/2023-06/algarve-tech-hub-summit.png?itok=qz4BAeJV" data-b-bg="{&quot;500&quot;:{&quot;src&quot;:&quot;\/sites\/default\/files\/styles\/imagem_base_list\/public\/nodes\/images\/2023-06\/algarve-tech-hub-summit.png?itok=qz4BAeJV&quot;,&quot;ratio&quot;:100}}" data-b-token="b-dac23f16ef0">        </div></a>
+        
+  </div>
+      
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--bottom">
+    <section class="block block-layout-builder block-field-blocknodearticletitle clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+  
+            <div class="field field--name-title field--type-string field--label-hidden field--item"><h4><a href="/en/penha-campus-hosts-2nd-edition-algarve-tech-hub-summit" hreflang="en">Penha Campus hosts 2nd Edition of Algarve Tech Hub Summit</a></h4></div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlebody clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item">  The 2nd Edition of the Algarve Tech Hub Summit will take place between 21st and 23rd June, at the Penha Campus...
+
+  <div class="more-link"><a href="/en/penha-campus-hosts-2nd-edition-algarve-tech-hub-summit" class="more-link" aria-label="Read more about Penha Campus hosts 2nd Edition of Algarve Tech Hub Summit" hreflang="en">Ver mais +</a></div>
+</div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-extra-field-blocknodearticleaddtoany clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			<span class="a2a_kit a2a_kit_size_26 addtoany_list" data-a2a-url="https://www.ualg.pt/en/penha-campus-hosts-2nd-edition-algarve-tech-hub-summit" data-a2a-title="Penha Campus hosts 2nd Edition of Algarve Tech Hub Summit"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.ualg.pt%2Fen%2Fpenha-campus-hosts-2nd-edition-algarve-tech-hub-summit&amp;title=Penha%20Campus%20hosts%202nd%20Edition%20of%20Algarve%20Tech%20Hub%20Summit"><img src="/sites/default/files/theme-logos/botao_share.svg" alt="Share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_mastodon"></a><a class="a2a_button_email"></a></span>
+		</div>
+	</section>
+
+  </div>
+  
+</div>
+
+  </div>
+
+</article>
+</div>
+  <div class="slick__slide slide slide--14">
+<article class="small normal article listing-basic clearfix">
+
+  
+    
+
+  
+  <div class="content">
+    <div class="row bs-1col-stacked">
+  
+
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--top">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-largura clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlefield-layout clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--main">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-media-base clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div data-content-gallery="" class="blazy is-b-bg blazy--content blazy--field blazy--field-media-base blazy--field-media-base---custom field field--name-field-media-base field--type-entity-reference field--label-hidden field--item" data-blazy=""><a href="https://www.ualg.pt/en/nutrisafe-organises-workshop-about-valorization-invasive-seaweed-biomass" class="b-link b-link--bg">    <div class="media media--blazy b-lazy b-bg media--switch media--switch--content media--bundle--image-crop media--image is-b-loading" data-src="/sites/default/files/styles/imagem_base_list/public/nodes/images/2023-06/microsoftteams-image-6.png?itok=ptI-V6K-" data-b-bg="{&quot;500&quot;:{&quot;src&quot;:&quot;\/sites\/default\/files\/styles\/imagem_base_list\/public\/nodes\/images\/2023-06\/microsoftteams-image-6.png?itok=ptI-V6K-&quot;,&quot;ratio&quot;:100}}" data-b-token="b-c9973c11241">        </div></a>
+        
+  </div>
+      
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--bottom">
+    <section class="block block-layout-builder block-field-blocknodearticletitle clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+  
+            <div class="field field--name-title field--type-string field--label-hidden field--item"><h4><a href="/en/nutrisafe-organises-workshop-about-valorization-invasive-seaweed-biomass" hreflang="en">Nutrisafe organises workshop about the Valorization of invasive seaweed biomass</a></h4></div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlebody clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item">  In the scope of the Nutrisafe project, the Workshop "Valorization of invasive seaweed biomass to develop new...
+
+  <div class="more-link"><a href="/en/nutrisafe-organises-workshop-about-valorization-invasive-seaweed-biomass" class="more-link" aria-label="Read more about Nutrisafe organises workshop about the Valorization of invasive seaweed biomass" hreflang="en">Ver mais +</a></div>
+</div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-extra-field-blocknodearticleaddtoany clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			<span class="a2a_kit a2a_kit_size_26 addtoany_list" data-a2a-url="https://www.ualg.pt/en/nutrisafe-organises-workshop-about-valorization-invasive-seaweed-biomass" data-a2a-title="Nutrisafe organises workshop about the Valorization of invasive seaweed biomass"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.ualg.pt%2Fen%2Fnutrisafe-organises-workshop-about-valorization-invasive-seaweed-biomass&amp;title=Nutrisafe%20organises%20workshop%20about%20the%20Valorization%20of%20invasive%20seaweed%20biomass"><img src="/sites/default/files/theme-logos/botao_share.svg" alt="Share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_mastodon"></a><a class="a2a_button_email"></a></span>
+		</div>
+	</section>
+
+  </div>
+  
+</div>
+
+  </div>
+
+</article>
+</div>
+  <div class="slick__slide slide slide--15">
+<article class="small normal article listing-basic clearfix">
+
+  
+    
+
+  
+  <div class="content">
+    <div class="row bs-1col-stacked">
+  
+
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--top">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-largura clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlefield-layout clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--main">
+    <section class="block block-layout-builder block-field-blocknodearticlefield-media-base clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div data-content-gallery="" class="blazy is-b-bg blazy--content blazy--field blazy--field-media-base blazy--field-media-base---custom field field--name-field-media-base field--type-entity-reference field--label-hidden field--item" data-blazy=""><a href="https://www.ualg.pt/en/summer-concert-lyrical-symphonic-orquestra-do-algarve" class="b-link b-link--bg">    <div class="media media--blazy b-lazy b-bg media--switch media--switch--content media--bundle--image-crop media--image is-b-loading" data-src="/sites/default/files/styles/imagem_base_list/public/nodes/images/2023-05/maestro.jpg?itok=-buKmEoz" data-b-bg="{&quot;500&quot;:{&quot;src&quot;:&quot;\/sites\/default\/files\/styles\/imagem_base_list\/public\/nodes\/images\/2023-05\/maestro.jpg?itok=-buKmEoz&quot;,&quot;ratio&quot;:100}}" data-b-token="b-49da66f9a82">        </div></a>
+        
+  </div>
+      
+		</div>
+	</section>
+
+  </div>
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--bottom">
+    <section class="block block-layout-builder block-field-blocknodearticletitle clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+  
+            <div class="field field--name-title field--type-string field--label-hidden field--item"><h4><a href="/en/summer-concert-lyrical-symphonic-orquestra-do-algarve" hreflang="en">Summer Concert: "From Lyrical to Symphonic" by the Orquestra do Algarve </a></h4></div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-field-blocknodearticlebody clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item">  On June 8, at 18h30, the Grand Auditorium Caixa Geral de Depósitos, Gambelas Campus, hosts the UAlg Summer...
+
+  <div class="more-link"><a href="/en/summer-concert-lyrical-symphonic-orquestra-do-algarve" class="more-link" aria-label="Read more about Summer Concert: &amp;quot;From Lyrical to Symphonic&amp;quot; by the Orquestra do Algarve " hreflang="en">Ver mais +</a></div>
+</div>
+      
+		</div>
+	</section>
+<section class="block block-layout-builder block-extra-field-blocknodearticleaddtoany clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			<span class="a2a_kit a2a_kit_size_26 addtoany_list" data-a2a-url="https://www.ualg.pt/en/summer-concert-lyrical-symphonic-orquestra-do-algarve" data-a2a-title="Summer Concert: &quot;From Lyrical to Symphonic&quot; by the Orquestra do Algarve "><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.ualg.pt%2Fen%2Fsummer-concert-lyrical-symphonic-orquestra-do-algarve&amp;title=Summer%20Concert%3A%20%22From%20Lyrical%20to%20Symphonic%22%20by%20the%20Orquestra%20do%20Algarve%20"><img src="/sites/default/files/theme-logos/botao_share.svg" alt="Share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_mastodon"></a><a class="a2a_button_email"></a></span>
+		</div>
+	</section>
+
+  </div>
+  
+</div>
+
+  </div>
+
+</article>
+</div>
+</div>
+          <nav role="navigation" class="slick__arrow">
+        <button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0">Previous</button><button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0">Next</button>
+      </nav>
+    </div>
+
+    </div>
+  
+          </div>
+</div>
+
+		</div>
+	</section>
+
+    </div>
+    </div>
+
+</div>
+
+  </div>
+
+</article>
+
+		</div>
+	</section>
+
+  </div>
+</div>
+
+  </div>
+
+</article>
+
+
+  </div>
+
+							</section>
+
+								</div>
+	</div>
+
+
+			<footer class="footer" role="contentinfo">
+			<div class="footer-inside container">
+				  <div class="region region-footer">
+    <section id="block-contactos" class="col-sm-3 block--type-basic-full block block-block-content block-block-contentd0e2ee6f-1e6f-4091-8dcf-6cb37c93dfe0 clearfix">
+	
+			<h2 class="block-title">Contactos</h2>
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><span class="fontawesome-icon-inline"><i class="fas fa-mailbox fa-sm fa-fw"></i>&nbsp;</span>&nbsp;Campus da Penha, 8005-139 Faro<br>
+<span class="fontawesome-icon-inline"><i class="fas fa-phone-alt fa-sm fa-fw"></i>&nbsp;</span>&nbsp;289 800100/900<br>
+<span class="fontawesome-icon-inline"><i class="fas fa-envelope fa-sm fa-fw"></i>&nbsp;&nbsp;</span><a href="mailto:info@ualg.pt">info@ualg.pt</a></p>
+</div>
+      
+		</div>
+	</section>
+<section id="block-comochegar" class="col-sm-3 block--type-basic-full block block-block-content block-block-content829e3c94-e8b0-4149-a584-51339e6cc13e clearfix">
+	
+			<h2 class="block-title">Como chegar</h2>
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><span class="fontawesome-icon-inline"><i class="fas fa-map-marker-alt fa-sm fa-fw"></i>&nbsp;</span>&nbsp;<a href="http://novo.ualg.pt/node/1436">Location</a><br>
+<span class="fontawesome-icon-inline"><i class="fas fa-map fa-sm fa-fw"></i>&nbsp;</span>&nbsp;<a href="http://novo.ualg.pt/node/240109" target="_blank" title="Mapa dos Campi">Campi Map</a></p>
+</div>
+      
+		</div>
+	</section>
+<section id="block-socialmedialinks" class="col-sm-3 block-social-media-links block block-social-media-links-block clearfix">
+	
+			<h2 class="block-title">Segue-nos</h2>
+		
+
+	
+
+			<div class="content">
+			
+			
+
+<ul class="social-media-links--platforms platforms inline horizontal">
+      <li>
+      <a class="social-media-link-icon--instagram" href="https://www.instagram.com/ualg_universidadedoalgarve">
+        <span class="fab fa-instagram fa-2x"></span>
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--youtube" href="https://www.youtube.com/user/universidadealgarve">
+        <span class="fab fa-youtube fa-2x"></span>
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--facebook" href="https://www.facebook.com/universidade.algarve">
+        <span class="fab fa-facebook fa-2x"></span>
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--twitter" href="https://x.com/ualg">
+        <span class="fab fa-x-twitter fa-2x"></span>
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--linkedin" href="https://www.linkedin.com/school/universidade-do-algarve/">
+        <span class="fab fa-linkedin fa-2x"></span>
+      </a>
+
+          </li>
+  </ul>
+
+		</div>
+	</section>
+<section id="block-ouveonline" class="col-sm-3 block--type-basic-full block block-block-content block-block-content5af873b6-c249-4881-a628-d914d24fdf01 clearfix">
+	
+			<h2 class="block-title">Ouve Online</h2>
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><a href="https://www.rua.pt/"><img alt="Logo RUA" data-entity-type="file" data-entity-uuid="43474596-8836-48d4-86e2-bd637ee65a8b" src="/sites/default/files/inline-images/rua_logo.png" width="152" height="75" loading="lazy"></a></p></div>
+      
+		</div>
+	</section>
+
+  </div>
+
+			</div>
+		</footer>
+	
+			<div class="footer-pos" role="contentinfo">
+			<div class="footer-pos-inside container">
+				  <div class="region region-footer-pos">
+    <nav role="navigation" aria-labelledby="block-ualgmenurodapeesq-menu" id="block-ualgmenurodapeesq">
+            
+  <h2 class="visually-hidden" id="block-ualgmenurodapeesq-menu">UAlg - Menu Rodapé Esq</h2>
+  
+
+        
+      <ul class="menu menu--footer-left-menu-ualg nav">
+                      <li class="first">
+                                        <a href="/en/data-and-privacy-protection-policy" target="_self" title="Data and Privacy Protection Policy" data-drupal-link-system-path="node/338358">Privacy</a>
+              </li>
+                      <li>
+                                        <a href="https://ualg.wiretrust.pt" target="_blank" title="Canal de Denúncias">Reporting Channel</a>
+              </li>
+                      <li>
+                                        <a href="/en/credits" data-drupal-link-system-path="node/240110">Credits</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/node/386588" data-drupal-link-system-path="node/386588">Acessibilidade</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-feedback" class="block--type-basic-full block block-block-content block-block-contentc897012c-61a3-43bb-beff-6180c45c1487 clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p>How satisfied are you with the experience of using the new ualg.pt?</p>
+
+<p><a class="btn btn-default btn-lg" href="form/formulario-de-feedback-novo-port" target="_blank"><span class="text">Answer</span></a></p>
+</div>
+      
+		</div>
+	</section>
+<section id="block-ualgcopyright" class="block--type-basic-full block block-block-content block-block-content066aeb91-6ed6-4418-a4dc-7a40e994bacb clearfix">
+	
+		
+
+	
+
+			<div class="content">
+			
+			
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p>Universidade do Algarve&nbsp;© 1994 - 2023&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a aria-label="" data-entity-substitution="" data-entity-type="" data-entity-uuid="" href="https://sea-eu.org/" id="" rel=" noopener" target="_blank" title=""><img alt="sea-eu" data-entity-type="file" data-entity-uuid="262d6be0-ce3d-4be9-9f90-e9c3bd48781e" src="/sites/default/files/inline-images/seaeulogo-s.png" width="153" height="40" loading="lazy"></a>&nbsp; <img alt="cgd" data-entity-type="file" data-entity-uuid="c7850d31-c8e4-4b5b-b3bd-37d42168c507" src="/sites/default/files/inline-images/cgd_1_0.png" width="49" height="40" loading="lazy">&nbsp;<img alt="ue" data-entity-type="file" data-entity-uuid="ddb32326-16ac-4871-a436-d2182584746e" src="/sites/default/files/inline-images/ue_0_1.png" width="90" height="40" loading="lazy"></p>
+</div>
+      
+		</div>
+	</section>
+
+  </div>
+
+			</div>
+		</div>
+	
+			<div class="helpers">
+			  <div class="region region-helpers">
+    <nav role="navigation" aria-labelledby="block-ualgmenuprincipal-menu" id="block-ualgmenuprincipal" class="hidden main-menu-source">
+            
+  <h2 class="visually-hidden" id="block-ualgmenuprincipal-menu">UAlg - Menu Principal</h2>
+  
+
+        
+      <ul class="menu menu--main-menu-ualg nav">
+                      <li class="expanded dropdown first">
+                                                                    <span class="navbar-text dropdown-toggle" data-toggle="dropdown">Study <span class="caret"></span></span>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/oferta-formativa" data-drupal-link-system-path="node/232303">Courses</a>
+              </li>
+                      <li class="menu-firstchild expanded dropdown">
+                                        <a href="/en/national-call">National Applicants</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/national-call" data-drupal-link-system-path="node/137">National Call</a>
+              </li>
+                      <li>
+                                        <a href="/en/candidates-over-23-years-old" data-drupal-link-system-path="node/281">Candidates Over 23 Years Old</a>
+              </li>
+                      <li>
+                                        <a href="/en/professional-courses-contest" data-drupal-link-system-path="node/1408">Professional Courses Contest</a>
+              </li>
+                      <li>
+                                        <a href="/en/special-contests" data-drupal-link-system-path="node/142">Special Contests</a>
+              </li>
+                      <li>
+                                        <a href="/en/change-institutioncourse-pair" data-drupal-link-system-path="node/143">Change of Institution/Course Pair</a>
+              </li>
+                      <li>
+                                        <a href="/en/special-access-regimes" data-drupal-link-system-path="node/239045">Special Access Regimes</a>
+              </li>
+                      <li>
+                                        <a href="/en/re-entry-and-reinscriptions" data-drupal-link-system-path="node/144">Re-entry and Reinscriptions</a>
+              </li>
+                      <li>
+                                        <a href="/en/higher-professional-technical-courses-ctesp" data-drupal-link-system-path="node/238579">Higher Professional Technical Courses</a>
+              </li>
+                      <li>
+                                        <a href="/en/ctesp-and-cet-diploma-evidence" data-drupal-link-system-path="node/148">CTeSP and CET Diploma Evidence</a>
+              </li>
+                      <li>
+                                        <a href="/en/isolated-curricular-units" data-drupal-link-system-path="node/150">Isolated Curricular Units</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/masters-and-doctorates" data-drupal-link-system-path="node/1438">Masters and Doctorates</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="menu-firstchild expanded dropdown">
+                                        <a href="/en/international-student-brazil">International Applicants</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/international-student-brazil" data-drupal-link-system-path="node/196">Brazil</a>
+              </li>
+                      <li>
+                                        <a href="/en/international-student-china" data-drupal-link-system-path="node/285">China</a>
+              </li>
+                      <li>
+                                        <a href="/en/international-student-colombia" data-drupal-link-system-path="node/289">Colombia</a>
+              </li>
+                      <li>
+                                        <a href="/en/international-student-ecuador" data-drupal-link-system-path="node/295">Ecuador</a>
+              </li>
+                      <li>
+                                        <a href="/en/international-student-macau" data-drupal-link-system-path="node/296">Macao</a>
+              </li>
+                      <li>
+                                        <a href="/en/international-student-other-countries" data-drupal-link-system-path="node/297">Other Countries</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/why-choose-ualg" data-drupal-link-system-path="node/1409">Why Choose UAlg?</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="menu-firstchild expanded dropdown">
+                                        <a href="/en/certification">Academic Information</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/certification" data-drupal-link-system-path="node/166">Certification</a>
+              </li>
+                      <li>
+                                        <a href="/en/degree-and-diploma-recognition" data-drupal-link-system-path="node/169">Degree and Diploma Recognition</a>
+              </li>
+                      <li>
+                                        <a href="/en/accreditation-skills-training-and-professional-experience" data-drupal-link-system-path="node/170">Accreditation of Skills, Training and Professional Experience</a>
+              </li>
+                      <li>
+                                        <a href="/en/tuition-and-fees" data-drupal-link-system-path="node/168">Tuition and Fees</a>
+              </li>
+                      <li>
+                                        <a href="/en/aggregation" data-drupal-link-system-path="node/151">Aggregation</a>
+              </li>
+                      <li>
+                                        <a href="/en/specialist-title" data-drupal-link-system-path="node/239046">Specialist Title</a>
+              </li>
+                      <li>
+                                        <a href="/en/school-calendar" data-drupal-link-system-path="node/255">School Calendar</a>
+              </li>
+                      <li>
+                                        <a href="/en/masters-examination-jury" data-drupal-link-system-path="node/216">Master Examination Jury</a>
+              </li>
+                      <li>
+                                        <a href="/en/doctoral-examination-jury" data-drupal-link-system-path="node/217">Doctoral Examination Jury</a>
+              </li>
+                      <li>
+                                        <a href="/en/node/386177" data-drupal-link-system-path="node/386177">Júris de Provas de Agregação</a>
+              </li>
+                      <li>
+                                        <a href="/en/foreign-qualification-recognition-juries" data-drupal-link-system-path="node/239044">Foreign Qualification Recognition Juries</a>
+              </li>
+                      <li>
+                                        <a href="/en/regulations" data-drupal-link-system-path="node/218">Regulations</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/student-desk" data-drupal-link-system-path="node/1404">Student Desk</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="menu-firstchild expanded dropdown">
+                                        <a href="/en/language-courses">Language Courses</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/language-courses" data-drupal-link-system-path="node/238984">Language Courses</a>
+              </li>
+                      <li>
+                                        <a href="/en/cambridge-english-exams" data-drupal-link-system-path="node/240">Cambridge English Exams</a>
+              </li>
+                      <li>
+                                        <a href="/en/caple-exams" data-drupal-link-system-path="node/241">CAPLE Exams</a>
+              </li>
+                      <li>
+                                        <a href="/en/ielts-and-aptis-exams" data-drupal-link-system-path="node/242">IELTS and APTIS&nbsp;Exams</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/language-center" data-drupal-link-system-path="node/252">Language Center</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="menu-firstchild expanded dropdown">
+                                        <a href="/en/node/338620">Formação Financiada</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/node/338620" data-drupal-link-system-path="node/338620">Impulsos PRR</a>
+              </li>
+                      <li>
+                                        <a href="/en/node/392237" data-drupal-link-system-path="node/392237">Impulso Mais Digital</a>
+              </li>
+                      <li>
+                                        <a href="/en/node/384173" data-drupal-link-system-path="node/384173">Plano Interno de Formação</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/node/243738" data-drupal-link-system-path="node/243738">Programa de Formação e Capacitação da UAlg</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="/en/pedagogical-innovation" data-drupal-link-system-path="node/141">Pedagogical Innovation</a>
+              </li>
+                      <li class="menu-firstchild expanded dropdown">
+                                        <a href="/en/node/327173">Scholarships and Awards</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/node/327173" data-drupal-link-system-path="node/327173">Bolsas e Incentivos - Impulsos PRR</a>
+              </li>
+                      <li>
+                                        <a href="/en/node/393443" data-drupal-link-system-path="node/393443">Bolsas de Promoção do Sucesso SOUAlg2.0</a>
+              </li>
+                      <li>
+                                        <a href="/en/santander-university-scholarships" data-drupal-link-system-path="node/384211">Santander University Scholarships</a>
+              </li>
+                      <li>
+                                        <a href="/en/social-action-scholarships" data-drupal-link-system-path="node/101">Social Action Scholarships</a>
+              </li>
+                      <li>
+                                        <a href="/en/merit-scholarships" data-drupal-link-system-path="node/123">Merit Scholarships</a>
+              </li>
+                      <li>
+                                        <a href="/en/excellence-scholarships" data-drupal-link-system-path="node/124">Excellence Scholarships</a>
+              </li>
+                      <li>
+                                        <a href="/en/sports-scholarships" data-drupal-link-system-path="node/120">Sports Scholarships</a>
+              </li>
+                      <li>
+                                        <a href="/en/three-minute-thesis-competition" data-drupal-link-system-path="node/385960">Three Minute Thesis Competition</a>
+              </li>
+                      <li>
+                                        <a href="/en/social-support-fund" data-drupal-link-system-path="node/126">Social Support Fund</a>
+              </li>
+                      <li>
+                                        <a href="/en/bpi-award" data-drupal-link-system-path="node/129">BPI Award</a>
+              </li>
+                      <li>
+                                        <a href="/en/caixa-geral-de-depositos-award" data-drupal-link-system-path="node/132">Caixa Geral de Depósitos Award</a>
+              </li>
+                      <li>
+                                        <a href="/en/good-practices-award" data-drupal-link-system-path="node/134">Good Practices Award</a>
+              </li>
+                      <li>
+                                        <a href="/en/ualg-alumni-career-award" data-drupal-link-system-path="node/327025">Alumni Career Award</a>
+              </li>
+                      <li>
+                                        <a href="/en/teaching-learning-award" data-drupal-link-system-path="node/314998">Teaching Learning Award</a>
+              </li>
+                      <li>
+                                        <a href="/en/service-excellence-award" data-drupal-link-system-path="node/392219">Service Excellence Award</a>
+              </li>
+                      <li>
+                                        <a href="/en/ualg-researcher-award" data-drupal-link-system-path="node/341170">UAlg Researcher Award</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/manuel-gomes-guerreiro-award" data-drupal-link-system-path="node/136">Manuel Gomes Guerreiro Award</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="/en/library" data-drupal-link-system-path="node/181">Library</a>
+              </li>
+                      <li class="menu-firstchild expanded dropdown">
+                                        <a href="/en/summer-courses">UAlg Experience</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/summer-courses" data-drupal-link-system-path="node/109">Summer Courses</a>
+              </li>
+                      <li>
+                                        <a href="/en/open-day" data-drupal-link-system-path="node/100">Open Day</a>
+              </li>
+                      <li>
+                                        <a href="/en/ualg-team-lectures" data-drupal-link-system-path="node/110">UAlg Team / Lectures</a>
+              </li>
+                      <li class="last">
+                                        <a href="https://www.ualg.pt/webform/agendar-visita-plan-visit">Plan a visit</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="/en/ualg-rankings" data-drupal-link-system-path="node/324810">Rankings</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/study" title="(Landing ESTUDAR)" data-drupal-link-system-path="node/14">More Info...</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <span class="navbar-text dropdown-toggle" data-toggle="dropdown">Research <span class="caret"></span></span>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/about-us" data-drupal-link-system-path="node/114">About us</a>
+              </li>
+                      <li>
+                                        <a href="/en/research-units" data-drupal-link-system-path="node/290">Research Units</a>
+              </li>
+                      <li>
+                                        <a href="/en/2minutosdeciencia" data-drupal-link-system-path="node/325311">2 Minutes of Science</a>
+              </li>
+                      <li>
+                                        <a href="/en/impact" data-drupal-link-system-path="node/236">Impact</a>
+              </li>
+                      <li>
+                                        <a href="/en/media-ramp" data-drupal-link-system-path="node/222">Media R&amp;D</a>
+              </li>
+                      <li>
+                                        <a href="/en/research-projects" data-drupal-link-system-path="node/221">Research Projects</a>
+              </li>
+                      <li>
+                                        <a href="/en/research-grants" data-drupal-link-system-path="node/238683">Scientific Jobs and Scholarships</a>
+              </li>
+                      <li>
+                                        <a href="/en/doctoral-college" data-drupal-link-system-path="node/243645">Doctoral College</a>
+              </li>
+                      <li class="menu-firstchild expanded dropdown">
+                                        <a href="/en/intellectual-property">Research Support</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/intellectual-property" data-drupal-link-system-path="node/112">Intellectual Property</a>
+              </li>
+                      <li>
+                                        <a href="/en/technology-transfer-and-entrepreneurship" data-drupal-link-system-path="node/113">Technology Transfer and Entrepreneurship</a>
+              </li>
+                      <li>
+                                        <a href="/en/incubation" data-drupal-link-system-path="node/1440">Incubation</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/research-support-unit-uaic" data-drupal-link-system-path="node/104">Research Support Unit - UAIC</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="menu-firstchild expanded dropdown">
+                                        <a href="/en/lab-it-itinerant-laboratory">Outreach Activities</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/lab-it-itinerant-laboratory" data-drupal-link-system-path="node/264">Lab-It - Itinerant Laboratory</a>
+              </li>
+                      <li>
+                                        <a href="/en/ualgoritmo-magazine" data-drupal-link-system-path="node/265">UAlgoritmo Magazine</a>
+              </li>
+                      <li class="expanded dropdown">
+                                        <a href="/en" data-drupal-link-system-path="<front>"> Living Science Centers</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/algarve-living-science-center" data-drupal-link-system-path="node/117">Algarve Living Science Center</a>
+              </li>
+                      <li>
+                                        <a href="/en/tavira-living-science-center" data-drupal-link-system-path="node/119">Tavira Living Science Center</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/lagos-living-science-center" data-drupal-link-system-path="node/118">Lagos Living Science Center</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="last">
+                                        <a href="/en/out-doors-research" data-drupal-link-system-path="node/115">More Info...</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="last">
+                                        <a href="/en/research" title="(Landing INVESTIGAR)" data-drupal-link-system-path="node/3">More Info…</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <span class="navbar-text dropdown-toggle" data-toggle="dropdown">International <span class="caret"></span></span>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/why-choose-ualg" data-drupal-link-system-path="node/1409">Why Choose UAlg?</a>
+              </li>
+                      <li class="menu-firstchild expanded dropdown">
+                                        <a href="/en/international-student-brazil">International Applicants</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/international-student-brazil" data-drupal-link-system-path="node/196">Brazil</a>
+              </li>
+                      <li>
+                                        <a href="/en/international-student-china" data-drupal-link-system-path="node/285">China</a>
+              </li>
+                      <li>
+                                        <a href="/en/international-student-colombia" data-drupal-link-system-path="node/289">Colombia</a>
+              </li>
+                      <li>
+                                        <a href="/en/international-student-ecuador" data-drupal-link-system-path="node/295">Ecuador</a>
+              </li>
+                      <li>
+                                        <a href="/en/international-student-macau" data-drupal-link-system-path="node/296">Macao</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/international-student-other-countries" data-drupal-link-system-path="node/297">Other Countries</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="/en/european-university-seas" data-drupal-link-system-path="node/386130">European University of the Seas</a>
+              </li>
+                      <li class="menu-firstchild expanded dropdown">
+                                        <a href="/en/student">Mobility</a>
+                        <ul class="dropdown-menu">
+                      <li class="expanded dropdown first">
+                                        <a href="/en/student" data-drupal-link-system-path="node/156">Incoming Mobility</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/student" data-drupal-link-system-path="node/156">Incoming Student</a>
+              </li>
+                      <li>
+                                        <a href="/en/incoming-staff" data-drupal-link-system-path="node/157">Incoming Staff</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/incoming-researchervisitor" data-drupal-link-system-path="node/158">Incoming Researcher/Visitor</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                        <span class="navbar-text">Outgoing Mobility</span>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/teaching-and-non-teaching-staff-out" data-drupal-link-system-path="node/1406">Outgoing Staff</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/outgoing-students" data-drupal-link-system-path="node/1405">Outgoing Student</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="/en/agreements-and-protocols" data-drupal-link-system-path="node/1410">Agreements and Protocols</a>
+              </li>
+                      <li>
+                                        <a href="/en/projects" data-drupal-link-system-path="node/238686">Projects</a>
+              </li>
+                      <li>
+                                        <a href="/en/fulbright" data-drupal-link-system-path="node/299">Fulbright</a>
+              </li>
+                      <li>
+                                        <a href="/en/euraxess" data-drupal-link-system-path="node/1407">Euraxess</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/international-credit-mobility" data-drupal-link-system-path="node/238629">International Credit Mobility</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="menu-firstchild expanded dropdown">
+                                        <a href="/en/erasmus-charter-higher-education-eche-2021-2027">Erasmus</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/erasmus-charter-higher-education-eche-2021-2027" data-drupal-link-system-path="node/238642">ECHE 2021-2027</a>
+              </li>
+                      <li>
+                                        <a href="/en/erasmus-policy-statement" data-drupal-link-system-path="node/238643">Erasmus Policy Statement</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/erasmus-mundus" data-drupal-link-system-path="node/238641">Erasmus Mundus</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="/en/doctorates-cotutelle" data-drupal-link-system-path="node/298">Doctorates in Cotutela</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/International" title="(Landing INTERNACIONAL)" data-drupal-link-system-path="node/4">More Info...</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <span class="navbar-text dropdown-toggle" data-toggle="dropdown">Live <span class="caret"></span></span>
+                        <ul class="dropdown-menu">
+                      <li class="menu-firstchild expanded dropdown first">
+                                        <a href="/en/accommodation-applications">Accommodation</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/accommodation-applications" data-drupal-link-system-path="node/211">Accommodation Applications</a>
+              </li>
+                      <li>
+                                        <a href="/en/accommodation-international-student" data-drupal-link-system-path="node/212">Accommodation - International Student</a>
+              </li>
+                      <li>
+                                        <a href="/en/university-residences" data-drupal-link-system-path="node/210">University Residences</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/about-our-accommodation" data-drupal-link-system-path="node/209">About Accommodation</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="menu-firstchild expanded dropdown">
+                                        <a href="/en/menus">Food and Menu</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/menus" data-drupal-link-system-path="node/215">Menu</a>
+              </li>
+                      <li>
+                                        <a href="/en/bars-canteens-and-restaurants" data-drupal-link-system-path="node/214">Bars, Canteens and Restaurants</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/food" data-drupal-link-system-path="node/213">About Food</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="/en/sport" data-drupal-link-system-path="node/131">Sports</a>
+              </li>
+                      <li class="menu-firstchild expanded dropdown">
+                                        <a href="/en/it-support">UAlg Student Support</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/it-support" data-drupal-link-system-path="node/155">IT Support</a>
+              </li>
+                      <li>
+                                        <a href="/en/study-areas" data-drupal-link-system-path="node/373106">Study Areas</a>
+              </li>
+                      <li>
+                                        <a href="/en/special-educational-needs-nee" data-drupal-link-system-path="node/139">Special Educational Needs</a>
+              </li>
+                      <li>
+                                        <a href="/en/peer-mentoring" data-drupal-link-system-path="node/338961">Peer Mentoring</a>
+              </li>
+                      <li>
+                                        <a href="/en/soft-skills-life" data-drupal-link-system-path="node/372247">Soft Skills for Life</a>
+              </li>
+                      <li>
+                                        <a href="/en/interculturality-and-mindfulness" data-drupal-link-system-path="node/372387">Interculturality and Mindfulness</a>
+              </li>
+                      <li>
+                                        <a href="/en/alumni-job-opportunities" data-drupal-link-system-path="node/145">Alumni - Career Opportunities</a>
+              </li>
+                      <li>
+                                        <a href="/en/student-ombudsman" data-drupal-link-system-path="node/138">Student Ombudsman</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/chaplaincy" data-drupal-link-system-path="node/130">Chaplaincy</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="/en/students-union-tuna-groups" data-drupal-link-system-path="node/125">Students Union &amp; Tunas</a>
+              </li>
+                      <li class="expanded dropdown">
+                                        <a href="/en" data-drupal-link-system-path="<front>">Culture</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/coral-group" data-drupal-link-system-path="node/128">Coral Group</a>
+              </li>
+                      <li>
+                                        <a href="/en/jazzualg" data-drupal-link-system-path="node/384517">JazzUAlg</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/sin-cera" data-drupal-link-system-path="node/127">Sin-Cera</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="/en/node/383952" data-drupal-link-system-path="node/383952">SoUAlg</a>
+              </li>
+                      <li>
+                                        <a href="/en/node/392231" data-drupal-link-system-path="node/392231">WeCare@UAlg</a>
+              </li>
+                      <li>
+                                        <a href="/en/volunteering" data-drupal-link-system-path="node/133">Volunteering</a>
+              </li>
+                      <li>
+                                        <a href="https://ualg.jobteaser.com/" target="_blank">Careers Portal</a>
+              </li>
+                      <li>
+                                        <a href="/en/health-and-well-being" data-drupal-link-system-path="node/140">Health and wellness</a>
+              </li>
+                      <li>
+                                        <a href="/en/participatory-budget" data-drupal-link-system-path="node/372949">Participatory Budget</a>
+              </li>
+                      <li>
+                                        <a href="/en/gender-equality-inclusivity-plan" data-drupal-link-system-path="node/338050">Gender Equality Inclusivity Plan</a>
+              </li>
+                      <li>
+                                        <a href="/en/about-our-campuses" data-drupal-link-system-path="node/1436">About the Campi</a>
+              </li>
+                      <li>
+                                        <a href="/en/sustainability" data-drupal-link-system-path="node/356752">Sustainability</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/live" title="(Landing VIVER)" data-drupal-link-system-path="node/5">More Info…</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <span class="navbar-text dropdown-toggle" data-toggle="dropdown">Communicate <span class="caret"></span></span>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/noticias" data-drupal-link-system-path="node/238164">News</a>
+              </li>
+                      <li>
+                                        <a href="/en/agenda" data-drupal-link-system-path="node/238165">Events</a>
+              </li>
+                      <li>
+                                        <a href="/en/press-releases" data-drupal-link-system-path="node/238716">Press Releases</a>
+              </li>
+                      <li class="menu-firstchild expanded dropdown">
+                                        <a href="/en/how-communicate-academic-community">Communicate with the Media</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/how-communicate-academic-community" data-drupal-link-system-path="node/165">How to Communicate - To the Academic Community</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/press-kit-journalists" data-drupal-link-system-path="node/161">Press Kit for Journalists</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="menu-firstchild expanded dropdown">
+                                        <a href="/en/books">Publications</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/books" data-drupal-link-system-path="node/232299">Books</a>
+              </li>
+                      <li>
+                                        <a href="/en/science-journals" data-drupal-link-system-path="node/371430">Science Journals</a>
+              </li>
+                      <li>
+                                        <a href="/en/ualgzine-magazine" data-drupal-link-system-path="node/232300">UALGzine Magazine</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/ualg-publisher" data-drupal-link-system-path="node/171">UAlg Publisher</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="/en/galeria-de-imagens" data-drupal-link-system-path="galeria-de-imagens">Gallery</a>
+              </li>
+                      <li>
+                                        <a href="/en/identidade-visual" data-drupal-link-system-path="node/243728">Visual Identity</a>
+              </li>
+                      <li>
+                                        <a href="/en/ualg-documents" data-drupal-link-system-path="node/199">UAlg Documents</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/comunicar" title="(Landing COMUNICAR)" data-drupal-link-system-path="node/268">More Info...</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <span class="navbar-text dropdown-toggle" data-toggle="dropdown">Services <span class="caret"></span></span>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/university-algarve-store" data-drupal-link-system-path="node/240018">UAlg Store</a>
+              </li>
+                      <li class="expanded dropdown">
+                                        <a href="/en/space-rental" data-drupal-link-system-path="node/197">Community Services</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/space-rental" data-drupal-link-system-path="node/197">Space Rental</a>
+              </li>
+                      <li>
+                                        <a href="/en/general-archive" data-drupal-link-system-path="node/195">General Archive</a>
+              </li>
+                      <li>
+                                        <a href="/en/animal-facility" data-drupal-link-system-path="node/188">Animal Facility</a>
+              </li>
+                      <li>
+                                        <a href="/en/centre-clinical-simulation" data-drupal-link-system-path="node/386555">Centre for Clinical Simulation</a>
+              </li>
+                      <li>
+                                        <a href="/en/maritime-station" data-drupal-link-system-path="node/190">Maritime Station</a>
+              </li>
+                      <li>
+                                        <a href="/en/chemical-analysis-laboratory" data-drupal-link-system-path="node/263">Chemical Analysis Laboratory</a>
+              </li>
+                      <li>
+                                        <a href="/en/laboratory-hearing-and-speech-therapy-lilia-brinca" data-drupal-link-system-path="node/258731">Laboratory of Hearing and Speech Therapy</a>
+              </li>
+                      <li>
+                                        <a href="/en/sports-centre" data-drupal-link-system-path="node/356798">Sports centre</a>
+              </li>
+                      <li>
+                                        <a href="/en/document-reproduction" data-drupal-link-system-path="node/187">Document Reproduction</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/psychology-service" data-drupal-link-system-path="node/194">Psychology Service</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                        <a href="/en/technology-transfer-and-entrepreneurship" data-drupal-link-system-path="node/113">Companies</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/technology-transfer-and-entrepreneurship" data-drupal-link-system-path="node/113">Technology Transfer</a>
+              </li>
+                      <li>
+                                        <a href="/en/entrepreneurship" data-drupal-link-system-path="node/201">Entrepreneurship</a>
+              </li>
+                      <li>
+                                        <a href="/en/industrial-property" data-drupal-link-system-path="node/206">Industrial Property</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/companies" data-drupal-link-system-path="node/207">More Info...</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="/en/skills-and-services-catalog" data-drupal-link-system-path="node/238186">Service Catalog</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/services" title="(Landing SERVIÇOS)" data-drupal-link-system-path="node/278">More Info...</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <span class="navbar-text dropdown-toggle" data-toggle="dropdown"> Institutional <span class="caret"></span></span>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/general-council" data-drupal-link-system-path="node/183">General Council</a>
+              </li>
+                      <li>
+                                        <a href="/en/rectorate" data-drupal-link-system-path="node/260">Rectorate</a>
+              </li>
+                      <li class="menu-firstchild expanded dropdown">
+                                        <a href="/en/academics">UAlg Central Services</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/academics" data-drupal-link-system-path="node/198">Academics</a>
+              </li>
+                      <li>
+                                        <a href="/en/social-action" data-drupal-link-system-path="node/200">Social Support</a>
+              </li>
+                      <li>
+                                        <a href="/en/finance-and-assets" data-drupal-link-system-path="node/202">Financeiros e Patrimoniais</a>
+              </li>
+                      <li>
+                                        <a href="/en/informatics-and-computing" data-drupal-link-system-path="node/204">IT Support</a>
+              </li>
+                      <li>
+                                        <a href="/en/human-resources" data-drupal-link-system-path="node/203">Human Resources</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/technical" data-drupal-link-system-path="node/205">Technical</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="/en/academic-senate" data-drupal-link-system-path="node/186">Academic Senate</a>
+              </li>
+                      <li>
+                                        <a href="/en/management-council" data-drupal-link-system-path="node/184">Management Council</a>
+              </li>
+                      <li>
+                                        <a href="/en/education-staff" data-drupal-link-system-path="node/324094">Education Staff</a>
+              </li>
+                      <li>
+                                        <a href="/en/cybersecurity-csirt" data-drupal-link-system-path="node/315676">Cybersecurity - CSiRT</a>
+              </li>
+                      <li>
+                                        <a href="/en/ethics-committee" data-drupal-link-system-path="node/182">Ethics Committee</a>
+              </li>
+                      <li>
+                                        <a href="/en/workers-committee" data-drupal-link-system-path="node/386166">Workers' Committee</a>
+              </li>
+                      <li>
+                                        <a href="/en/honoris-causa" data-drupal-link-system-path="node/261">Honoris Causa</a>
+              </li>
+                      <li>
+                                        <a href="/en/emeritus-professors" data-drupal-link-system-path="node/262">Emeritus Professors</a>
+              </li>
+                      <li>
+                                        <a href="/en/recruitment" data-drupal-link-system-path="node/238696">Recruitment</a>
+              </li>
+                      <li>
+                                        <a href="/en/quality" data-drupal-link-system-path="node/193">Quality</a>
+              </li>
+                      <li>
+                                        <a href="/en/ualg-best-practices" data-drupal-link-system-path="node/314996">UAlg Best Practices</a>
+              </li>
+                      <li>
+                                        <a href="/en/compliments-suggestions-and-complaints" data-drupal-link-system-path="node/238649">Suggestions and Complaints</a>
+              </li>
+                      <li>
+                                        <a href="https://ualg.wiretrust.pt/" target="_blank">Reporting Channel</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/about-ualg" title="(Landing INSTITUCIONAL)" data-drupal-link-system-path="node/266">About Us</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown last">
+                                                                    <span class="navbar-text dropdown-toggle" data-toggle="dropdown">Schools/Faculties <span class="caret"></span></span>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="https://fchs.ualg.pt/">Faculty of Human and Social Sciences</a>
+              </li>
+                      <li>
+                                        <a href="https://fct.ualg.pt/">Faculty of Sciences and Technology</a>
+              </li>
+                      <li>
+                                        <a href="https://fe.ualg.pt/">Faculty of Economics</a>
+              </li>
+                      <li>
+                                        <a href="https://fmcb.ualg.pt/">Faculty of Medicine and Biomedical Sciences</a>
+              </li>
+                      <li>
+                                        <a href="https://esec.ualg.pt/">School of Education and Communication</a>
+              </li>
+                      <li>
+                                        <a href="https://esght.ualg.pt/">School of Management, Hospitality and Tourism</a>
+              </li>
+                      <li>
+                                        <a href="https://ess.ualg.pt/">School of Health</a>
+              </li>
+                      <li class="last">
+                                        <a href="https://ise.ualg.pt/">Institute of Engineering</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+
+		</div>
+	
+  </div>

@@ -1,0 +1,618 @@
+DROPS 
+  Series | LIPIcs – Leibniz International Proceedings in Informatics 
+  OASIcs – Open Access Series in Informatics 
+  Dagstuhl Follow-Ups 
+  Schloss Dagstuhl Jahresbericht 
+   Discontinued Series 
+  Journals | DARTS – Dagstuhl Artifacts Series 
+  Dagstuhl Reports 
+  Dagstuhl Manifestos 
+  LITES – Leibniz Transactions on Embedded Systems 
+  TGDK – Transactions on Graph Data and Knowledge 
+  Conferences | AFT 
+  AIB 
+  AofA 
+  APPROX 
+  ATMOS 
+  CALCO 
+  CCC 
+  CONCUR 
+  COSIT 
+  CP 
+  CPM 
+  CSL 
+  DISC 
+  DITAM 
+  DNA 
+  ECOOP 
+  ECRTS 
+  ESA 
+  FAB 
+  FMBC 
+   FORC 
+  FSCD 
+  FSTTCS 
+  FUN 
+  GD 
+  GIScience 
+  ICALP 
+  ICDT 
+  ICPEC 
+  IPEC 
+  iPMVM 
+  ISAAC 
+  ITC 
+  ITCS 
+  ITP 
+  LDK 
+  MFCS 
+  Microservices 
+  NG-RES 
+  OPODIS 
+   PARMA 
+  RANDOM 
+  SAND 
+  SAT 
+  SEA 
+  SLATE 
+  SNAPL 
+  SoCG 
+  STACS 
+  SWAT 
+  TIME 
+  Tokenomics 
+  TQC 
+  TYPES 
+  WABI 
+  WCET 
+  About DROPS 
+        
+  Metadata Export | Metadata Export 
+  OAI Interface 
+
+   Volume    Export XML 
+  Export ACM-XML 
+  Export DOAJ-XML 
+  Export Schema.org 
+  Export BibTeX 
+  Export HTML 
+
+  LIPIcs, Volume 273  
+ 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)  
+   
+  Part of: | Series: | Leibniz International Proceedings in Informatics (LIPIcs) | Part of: | Conference: | International Workshop on Algorithms in Bioinformatics (WABI) 
+
+ Event  
+ WABI 2023, September 4-6, 2023, Houston, TX, USA   
+ Editors  
+ Djamal Belazzougui          
+ CERIST, Algeria 
+    
+ Aïda Ouangraoua            
+ University of Sherbrooke, Canada 
+
+ Publication Details  
+ published at: 2023-08-29 
+  Publisher: Schloss Dagstuhl – Leibniz-Zentrum für Informatik 
+  ISBN: 978-3-95977-294-5 
+  DBLP: | db/conf/wabi/wabi2023 
+
+  Access Numbers  
+ Detailed Access Statistics available here 
+  Total Document Accesses (updated on a weekly basis): | 0   PDF Downloads   0   Metadata Views 
+
+ Documents   
+ No documents found matching your filter selection.   
+  Document   
+ Complete Volume   
+ DOI: 10.4230/LIPIcs.WABI.2023    
+
+ LIPIcs, Volume 273, WABI 2023, Complete Volume   
+ Authors:  Djamal Belazzougui and Aïda Ouangraoua  
+  Abstract    
+ LIPIcs, Volume 273, WABI 2023, Complete Volume   
+
+  Cite as    
+ 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 273, pp. 1-400, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @Proceedings{belazzougui_et_al:LIPIcs.WABI.2023 title = {{LIPIcs, Volume 273, WABI 2023, Complete Volume}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {1--400}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023}, URN = {urn:nbn:de:0030-drops-186250}, doi = {10.4230/LIPIcs.WABI.2023}, annote = {Keywords: LIPIcs, Volume 273, WABI 2023, Complete Volume} }  @Proceedings{belazzougui_et_al:LIPIcs.WABI.2023 title = {{LIPIcs, Volume 273, WABI 2023, Complete Volume}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {1--400}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023}, URN = {urn:nbn:de:0030-drops-186250}, doi = {10.4230/LIPIcs.WABI.2023}, annote = {Keywords: LIPIcs, Volume 273, WABI 2023, Complete Volume} }    
+
+  Document   
+ Front Matter   
+ DOI: 10.4230/LIPIcs.WABI.2023.0    
+
+ Front Matter, Table of Contents, Preface, Conference Organization   
+ Authors:  Djamal Belazzougui and Aïda Ouangraoua  
+  Abstract    
+ Front Matter, Table of Contents, Preface, Conference Organization   
+
+  Cite as    
+ 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 273, pp. 0:i-0:xiv, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{belazzougui_et_al:LIPIcs.WABI.2023.0 author = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, title = {{Front Matter, Table of Contents, Preface, Conference Organization}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {0:i--0:xiv}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.0}, URN = {urn:nbn:de:0030-drops-186267}, doi = {10.4230/LIPIcs.WABI.2023.0}, annote = {Keywords: Front Matter, Table of Contents, Preface, Conference Organization} }  @InProceedings{belazzougui_et_al:LIPIcs.WABI.2023.0 author = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, title = {{Front Matter, Table of Contents, Preface, Conference Organization}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {0:i--0:xiv}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.0}, URN = {urn:nbn:de:0030-drops-186267}, doi = {10.4230/LIPIcs.WABI.2023.0}, annote = {Keywords: Front Matter, Table of Contents, Preface, Conference Organization} }    
+
+  Document   
+ Invited Talk   
+ DOI: 10.4230/LIPIcs.WABI.2023.1    
+
+ Algorithmic Approaches to Study Mutational Processes in Cancer (Invited Talk)   
+ Authors:  Teresa M. Przytycka  
+  Abstract    
+ Mutations are the driving force of evolution, yet they underlie many diseases and, in particular, cancer. They are thought to arise from a combination of stochastic errors in DNA processing, naturally occurring DNA damage (e.g., the spontaneous deamination of methylated CpG sites), replication errors, carcinogenic exposures or cancer related aberrations of DNA maintenance machinery. These processes often lead to distinctive patterns of mutations, called "mutational signatures". Starting with the seminal work of Alexandrov at al. [Ludmil B Alexandrov et al., 2013] several computational approaches have been developed to uncover such mutational signatures. However connecting mutational signatures to mutational processes is not always easy [Kim et al., 2021]. To gain insights into the relationships between mutational processes and computationally derived somatic mutation patterns (mutational signatures), we developed several complementary approaches that leverage different algorithmic techniques allowing us to link such patterns to their potential causes. For example, to investigate the genetic aberrations associated with mutational signatures, we took a network-based approach considering mutational signatures as phenotypes. Specifically, our analysis aims to answer the following two complementary questions: (i) what are functional pathways whose gene expression activities correlate with the strengths of mutational signatures, and (ii) are there pathways whose genetic alterations might have led to specific mutational signatures? To identify mutated pathways, we adopted an optimization method based on integer linear programming. Analyzing a breast cancer dataset, we identified pathways associated with mutational signatures on both expression and mutation levels. Our analysis captured important differences in the etiology of the APOBEC related signatures and the two clock-like signatures. In particular, it revealed that clustered and dispersed APOBEC mutations may be caused by different mutagenic processes. In addition, our analysis elucidated differences between two age related signatures - one of the signatures is correlated with the expression of cell cycle genes while the other has no such correlation but shows patterns consistent with the exposure to environmental/external processes [Kim et al., 2020]. Complementing this approach, we also developed a network-based method, named GENESIGNET that constructs an influence/information flow network connecting genes and mutational signatures [Amgalan et al., 2023]. The approach leverages sparse partial correlation among other statistical techniques to uncover dominant influence relations between the activities of network nodes. Applying GENESIGNET to cancer data sets, we uncovered important relations between mutational signatures and several cellular processes that can shed light on cancer-related processes. In particular, GENESIGNET exposed a link between the SBS8 signature of unknown etiology and the Nucleotide Excision Repair (NER) pathway. Linking mutational signatures to molecular features can help understand the etiology and develop personalized cancer therapy. However, due to the complex and dynamic nature of tumor evolution, untangling the cause and effect relationship can be challenging and requires further integrated and comprehensive analyses.   
+
+  Cite as    
+ Teresa M. Przytycka. Algorithmic Approaches to Study Mutational Processes in Cancer (Invited Talk). In 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 273, pp. 1:1-1:2, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{przytycka:LIPIcs.WABI.2023.1 author = {Przytycka, Teresa M.}, title = {{Algorithmic Approaches to Study Mutational Processes in Cancer}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {1:1--1:2}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.1}, URN = {urn:nbn:de:0030-drops-186278}, doi = {10.4230/LIPIcs.WABI.2023.1}, annote = {Keywords: Biological Networks, Cancer, Mutational Signatures, DNA Damage, DNA Repair} }  @InProceedings{przytycka:LIPIcs.WABI.2023.1 author = {Przytycka, Teresa M.}, title = {{Algorithmic Approaches to Study Mutational Processes in Cancer}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {1:1--1:2}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.1}, URN = {urn:nbn:de:0030-drops-186278}, doi = {10.4230/LIPIcs.WABI.2023.1}, annote = {Keywords: Biological Networks, Cancer, Mutational Signatures, DNA Damage, DNA Repair} }    
+
+  Document   
+ Abstract   
+ DOI: 10.4230/LIPIcs.WABI.2023.2    
+
+ EMMA: Adding Sequences into a Constraint Alignment with High Accuracy and Scalability (Abstract)   
+ Authors:  Chengze Shen, Baqiao Liu, Kelly P. Williams, and Tandy Warnow  
+  Abstract    
+ Multiple sequence alignment (MSA) is a crucial precursor to many downstream biological analyses, such as phylogeny estimation [Morrison, 2006], RNA structure prediction [Shapiro et al., 2007], protein structure prediction [Jumper et al., 2021], etc. Obtaining an accurate MSA can be challenging, especially when the dataset is large (i.e., more than 1000 sequences). A key technique for large-scale MSA estimation is to add sequences into an existing alignment. For example, biological knowledge can be used to form a reference alignment on a subset of the sequences, and then the remaining sequences can be added to the reference alignment. Another case where adding sequences into an existing alignment occurs is when new sequences or genomes are added to databases, leading to the opportunity to add the new sequences for each gene in the genome into a growing alignment. A third case is for de novo multiple sequence alignment, where a subset of the sequences is selected and aligned, and then the remaining sequences are added into this "backbone alignment" [Nguyen et al., 2015; Park et al., 2023; Shen et al., 2022; Liu and Warnow, 2023; Park and Warnow, 2023; Yamada et al., 2016]. Thus, adding sequences into existing alignments is a natural problem with multiple applications to biological sequence analysis. A few methods have been developed to add sequences into an existing alignment, with MAFFT--add [Katoh and Frith, 2012] perhaps the most well-known. However, several multiple sequence alignment methods that operate in two steps (first extract and align the backbone sequences and then add the remaining sequences into this backbone alignment) also provide utilities for adding sequences into a user-provided alignment. We present EMMA, a new approach for adding "query" sequences into an existing "constraint" alignment. By construction, EMMA never changes the constraint alignment, except through the introduction of additional sites to represent homologies between the query sequences. EMMA uses a divide-and-conquer technique combined with MAFFT--add (using the most accurate setting, MAFFT-linsi--add) to add sequences into a user-provided alignment. We evaluate EMMA by comparing it to MAFFT-linsi--add, MAFFT--add (the default setting), and WITCH-ng-add. We include a range of biological and simulated datasets (nucleotides and proteins) ranging in size from 1000 to almost 200,000 sequences and evaluate alignment accuracy and scalability. MAFFT-linsi--add was the slowest and least scalable method, only able to run on datasets with at most 1000 sequences in this study, but had excellent accuracy (often the best) on those datasets. We also see that EMMA has better recall than WITCH-ng-add and MAFFT--add on large datasets, especially when the backbone alignment is small or clade-based.   
+
+  Cite as    
+ Chengze Shen, Baqiao Liu, Kelly P. Williams, and Tandy Warnow. EMMA: Adding Sequences into a Constraint Alignment with High Accuracy and Scalability (Abstract). In 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 273, pp. 2:1-2:2, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{shen_et_al:LIPIcs.WABI.2023.2 author = {Shen, Chengze and Liu, Baqiao and Williams, Kelly P. and Warnow, Tandy}, title = {{EMMA: Adding Sequences into a Constraint Alignment with High Accuracy and Scalability}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {2:1--2:2}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.2}, URN = {urn:nbn:de:0030-drops-186285}, doi = {10.4230/LIPIcs.WABI.2023.2}, annote = {Keywords: Multiple sequence alignment, constraint alignment, MAFFT} }  @InProceedings{shen_et_al:LIPIcs.WABI.2023.2 author = {Shen, Chengze and Liu, Baqiao and Williams, Kelly P. and Warnow, Tandy}, title = {{EMMA: Adding Sequences into a Constraint Alignment with High Accuracy and Scalability}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {2:1--2:2}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.2}, URN = {urn:nbn:de:0030-drops-186285}, doi = {10.4230/LIPIcs.WABI.2023.2}, annote = {Keywords: Multiple sequence alignment, constraint alignment, MAFFT} }    
+
+  Document   
+ Abstract   
+ DOI: 10.4230/LIPIcs.WABI.2023.3    
+
+ BATCH-SCAMPP: Scaling Phylogenetic Placement Methods to Place Many Sequences (Abstract)   
+ Authors:  Eleanor Wedell, Chengze Shen, and Tandy Warnow  
+  Abstract    
+ Phylogenetic placement is the problem of placing one or more query sequences into a phylogenetic "backbone" tree, which may be a maximum likelihood tree on a multiple sequence alignment for a single gene, a taxonomy with leaves labeled by sequences for a single gene [Nidhi Shah et al., 2021], or a species tree [Jiang et al., 2023]. When the backbone tree is a tree estimated on a single gene, the most accurate techniques for phylogenetic placement are likelihood-based, and can be computationally intensive when the backbone trees are large [Chu and Warnow, 2023]. Phylogenetic placement into gene trees occurs when updating existing gene trees with newly observed sequences, but can also be applied in the "bulk" context, where many sequences are placed at the same time into the backbone tree. For example, phylogenetic placement can be used to taxonomically characterize shotgun sequencing reads generated for an environmental sample in metagenomic analysis [Nidhi Shah et al., 2021; Barbera et al., 2019]. The two most well known maximum likelihood phylogenetic placement methods are pplacer [Chu and Warnow, 2023] and EPA-ng [Barbera et al., 2019]. Of these two, EPA-ng is optimized for scaling the number of query sequences and is capable of placing millions of sequences into phylogenetic trees of up to a few thousand sequences [Barbera et al., 2019], and achieves sublinear runtime in the number of query sequences (see Figure 2 from [Balaban et al., 2022]). Previously we introduced the SCAMPP framework [Wedell et al., 2022] to enable both pplacer and EPA-ng to perform phylogenetic placement into ultra-large backbone trees, and we demonstrated its utility for placing into backbone trees with up to 200,000 sequences. By using maximum likelihood methods pplacer or EPA-ng within the SCAMPP framework, the resulting placements are more accurate than with APPLES-2 [Balaban et al., 2022], with the most notable accuracy improvement for fragmentary sequences, and are computationally similar for single query sequence placement [Wedell et al., 2022]. However, SCAMPP was designed to incrementally update a large tree, one query sequence at a time, and was not optimized for the other uses of phylogenetic placement, where batch placement of many sequencing reads is required. Here we introduce BATCH-SCAMPP, a technique that improves scalability in both dimensions: the number of query sequences being placed into the backbone tree and the size of the backbone tree. Furthermore, BATCH-SCAMPP is specifically designed to improve EPA-ng’s scalability to large backbone trees. Although BATCH-SCAMPP is based on SCAMPP, it uses a substantially modified design in order to be able to take advantage of EPA-ng’s ability to place many query sequences efficiently. The BATCH-SCAMPP method operates by allowing the input set of query sequences to suggest and then vote on placement subtrees, thus enabling many query sequences to select the same placement subtree. We pair BATCH-SCAMPP with EPA-ng to explore the capability of this approach for scaling to many query sequences. We show that this combination of techniques (which we call BSCAMPP+EPA-ng, or BSCAMPP(e)) not only provides high accuracy and scalability to large backbone trees, matching that of SCAMPP used with EPA-ng (i.e., SCAMPP(e)), but also achieves the goal of scaling sublinearly in the number of query sequences. Moreover, it is much more scalable than EPA-ng and faster than SCAMPP+EPA-ng: when placing 10,000 sequences into a backbone tree of 50,000 leaves, EPA-ng is unable to run due to memory issues, SCAMPP+EPA-ng requires 1421 minutes, and BSCAMPP(e) places all sequences in 7 minutes (all given the same computational resources. Figure 1 gives an example of this performance advantage on the nt78 [Chu and Warnow, 2023] simulated dataset.   
+
+  Cite as    
+ Eleanor Wedell, Chengze Shen, and Tandy Warnow. BATCH-SCAMPP: Scaling Phylogenetic Placement Methods to Place Many Sequences (Abstract). In 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 273, pp. 3:1-3:2, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{wedell_et_al:LIPIcs.WABI.2023.3 author = {Wedell, Eleanor and Shen, Chengze and Warnow, Tandy}, title = {{BATCH-SCAMPP: Scaling Phylogenetic Placement Methods to Place Many Sequences}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {3:1--3:2}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.3}, URN = {urn:nbn:de:0030-drops-186296}, doi = {10.4230/LIPIcs.WABI.2023.3}, annote = {Keywords: Phylogenetic Placement, EPA-ng, Phylogenetics} }  @InProceedings{wedell_et_al:LIPIcs.WABI.2023.3 author = {Wedell, Eleanor and Shen, Chengze and Warnow, Tandy}, title = {{BATCH-SCAMPP: Scaling Phylogenetic Placement Methods to Place Many Sequences}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {3:1--3:2}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.3}, URN = {urn:nbn:de:0030-drops-186296}, doi = {10.4230/LIPIcs.WABI.2023.3}, annote = {Keywords: Phylogenetic Placement, EPA-ng, Phylogenetics} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.WABI.2023.4    
+
+ Optimal Subtree Prune and Regraft for Quartet Score in Sub-Quadratic Time   
+ Authors:  Shayesteh Arasti and Siavash Mirarab  
+  Abstract    
+ Finding a tree with the minimum total distance to a given set of trees (the median tree) is increasingly needed in phylogenetics. Defining tree distance as the number of induced four-taxon unrooted (i.e., quartet) trees with different topologies, the median of a set of gene trees is a statistically consistent estimator of the species tree under several models of gene tree species tree discordance. Because of this, median trees defined with quartet distance are widely used in practice for species tree inference. Nevertheless, the problem is NP-Hard and the widely-used solutions are heuristics. In this paper, we pave the way for a new type of heuristic solution to this problem. We show that the optimal place to add a subtree of size m onto a tree with n leaves can be found in time that grows quasi-linearly with n and is nearly independent of m. This algorithm can be used to perform subtree prune and regraft (SPR) moves efficiently, which in turn enables the hill-climbing heuristic search for the optimal tree. In exploratory experiments, we show that our algorithm can improve the quartet score of trees obtained using the existing widely-used methods.   
+
+  Cite as    
+ Shayesteh Arasti and Siavash Mirarab. Optimal Subtree Prune and Regraft for Quartet Score in Sub-Quadratic Time. In 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 273, pp. 4:1-4:20, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{arasti_et_al:LIPIcs.WABI.2023.4 author = {Arasti, Shayesteh and Mirarab, Siavash}, title = {{Optimal Subtree Prune and Regraft for Quartet Score in Sub-Quadratic Time}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {4:1--4:20}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.4}, URN = {urn:nbn:de:0030-drops-186309}, doi = {10.4230/LIPIcs.WABI.2023.4}, annote = {Keywords: Phylogenetics, Gene tree discordance, Quartet score, Quartet distance, Subtree prune and regraft, Tree search, ASTRAL} }  @InProceedings{arasti_et_al:LIPIcs.WABI.2023.4 author = {Arasti, Shayesteh and Mirarab, Siavash}, title = {{Optimal Subtree Prune and Regraft for Quartet Score in Sub-Quadratic Time}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {4:1--4:20}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.4}, URN = {urn:nbn:de:0030-drops-186309}, doi = {10.4230/LIPIcs.WABI.2023.4}, annote = {Keywords: Phylogenetics, Gene tree discordance, Quartet score, Quartet distance, Subtree prune and regraft, Tree search, ASTRAL} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.WABI.2023.5    
+
+ Leveraging Constraints Plus Dynamic Programming for the Large Dollo Parsimony Problem   
+ Authors:  Junyan Dai, Tobias Rubel, Yunheng Han, and Erin K. Molloy  
+  Abstract    
+ The last decade of phylogenetics has seen the development of many methods that leverage constraints plus dynamic programming. The goal of this algorithmic technique is to produce a phylogeny that is optimal with respect to some objective function and that lies within a constrained version of tree space. The popular species tree estimation method ASTRAL, for example, returns a tree that (1) maximizes the quartet score computed with respect to the input gene trees and that (2) draws its branches (bipartitions) from the input constraint set. This technique has yet to be used for classic parsimony problems where the input are binary characters, sometimes with missing values. Here, we introduce the clade-constrained character parsimony problem and present an algorithm that solves this problem in polynomial time for the Dollo criterion score. Dollo parsimony, which requires traits/mutations to be gained at most once but allows them to be lost any number of times, is widely used for tumor phylogenetics as well as species phylogenetics, for example analyses of low-homoplasy retroelement insertions across the vertebrate tree of life. Thus, we implement our algorithm in a software package, called Dollo-CDP, and evaluate its utility in the context of species phylogenetics using both simulated and real data sets. Our results show that Dollo-CDP can improve upon heuristic search from a single starting tree, often recovering a better scoring tree. Moreover, Dollo-CDP scales to data sets with much larger numbers of taxa than branch-and-bound while still having an optimality guarantee, albeit a more restricted one. Lastly, we show that our algorithm for Dollo parsimony can easily be adapted to Camin-Sokal parsimony but not Fitch parsimony.   
+
+  Cite as    
+ Junyan Dai, Tobias Rubel, Yunheng Han, and Erin K. Molloy. Leveraging Constraints Plus Dynamic Programming for the Large Dollo Parsimony Problem. In 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 273, pp. 5:1-5:23, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{dai_et_al:LIPIcs.WABI.2023.5 author = {Dai, Junyan and Rubel, Tobias and Han, Yunheng and Molloy, Erin K.}, title = {{Leveraging Constraints Plus Dynamic Programming for the Large Dollo Parsimony Problem}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {5:1--5:23}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.5}, URN = {urn:nbn:de:0030-drops-186312}, doi = {10.4230/LIPIcs.WABI.2023.5}, annote = {Keywords: phylogenetics, parsimony, Dollo, Camin-Sokal, dynamic programming, constraints} }  @InProceedings{dai_et_al:LIPIcs.WABI.2023.5 author = {Dai, Junyan and Rubel, Tobias and Han, Yunheng and Molloy, Erin K.}, title = {{Leveraging Constraints Plus Dynamic Programming for the Large Dollo Parsimony Problem}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {5:1--5:23}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.5}, URN = {urn:nbn:de:0030-drops-186312}, doi = {10.4230/LIPIcs.WABI.2023.5}, annote = {Keywords: phylogenetics, parsimony, Dollo, Camin-Sokal, dynamic programming, constraints} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.WABI.2023.6    
+
+ Simultaneous Reconstruction of Duplication Episodes and Gene-Species Mappings   
+ Authors:  Paweł Górecki, Natalia Rutecka, Agnieszka Mykowiecka, and Jarosław Paszek  
+  Abstract    
+ We present a novel problem, called MetaEC, which aims to infer gene-species assignments in a collection of gene trees with missing labels by minimizing the size of duplication episode clustering (EC). This problem is particularly relevant in metagenomics, where incomplete data often poses a challenge in the accurate reconstruction of gene histories. To solve MetaEC, we propose a polynomial time dynamic programming (DP) formulation that verifies the existence of a set of duplication episodes from a predefined set of episode candidates. We then demonstrate how to use DP to design an algorithm that solves MetaEC. Although the algorithm is exponential in the worst case, we introduce a heuristic modification of the algorithm that provides a solution with the knowledge that it is exact. To evaluate our method, we perform two computational experiments on simulated and empirical data containing whole genome duplication events, showing that our algorithm is able to accurately infer the corresponding events.   
+
+  Cite as    
+ Paweł Górecki, Natalia Rutecka, Agnieszka Mykowiecka, and Jarosław Paszek. Simultaneous Reconstruction of Duplication Episodes and Gene-Species Mappings. In 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 273, pp. 6:1-6:18, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{gorecki_et_al:LIPIcs.WABI.2023.6 author = {G\'{o}recki, Pawe{\l} and Rutecka, Natalia and Mykowiecka, Agnieszka and Paszek, Jaros{\l}aw}, title = {{Simultaneous Reconstruction of Duplication Episodes and Gene-Species Mappings}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {6:1--6:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.6}, URN = {urn:nbn:de:0030-drops-186329}, doi = {10.4230/LIPIcs.WABI.2023.6}, annote = {Keywords: Genomic Duplication, Gene-Species Mapping, Duplication Episode, Gene Tree, Species Tree} }  @InProceedings{gorecki_et_al:LIPIcs.WABI.2023.6 author = {G\'{o}recki, Pawe{\l} and Rutecka, Natalia and Mykowiecka, Agnieszka and Paszek, Jaros{\l}aw}, title = {{Simultaneous Reconstruction of Duplication Episodes and Gene-Species Mappings}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {6:1--6:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.6}, URN = {urn:nbn:de:0030-drops-186329}, doi = {10.4230/LIPIcs.WABI.2023.6}, annote = {Keywords: Genomic Duplication, Gene-Species Mapping, Duplication Episode, Gene Tree, Species Tree} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.WABI.2023.7    
+
+ Making a Network Orchard by Adding Leaves   
+ Authors:  Leo van Iersel, Mark Jones, Esther Julien, and Yukihiro Murakami  
+  Abstract    
+ Phylogenetic networks are used to represent the evolutionary history of species. Recently, the new class of orchard networks was introduced, which were later shown to be interpretable as trees with additional horizontal arcs. This makes the network class ideal for capturing evolutionary histories that involve horizontal gene transfers. Here, we study the minimum number of additional leaves needed to make a network orchard. We demonstrate that computing this proximity measure for a given network is NP-hard and describe a tight upper bound. We also give an equivalent measure based on vertex labellings to construct a mixed integer linear programming formulation. Our experimental results, which include both real-world and synthetic data, illustrate the efficiency of our implementation.   
+
+  Cite as    
+ Leo van Iersel, Mark Jones, Esther Julien, and Yukihiro Murakami. Making a Network Orchard by Adding Leaves. In 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 273, pp. 7:1-7:20, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{vaniersel_et_al:LIPIcs.WABI.2023.7 author = {van Iersel, Leo and Jones, Mark and Julien, Esther and Murakami, Yukihiro}, title = {{Making a Network Orchard by Adding Leaves}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {7:1--7:20}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.7}, URN = {urn:nbn:de:0030-drops-186333}, doi = {10.4230/LIPIcs.WABI.2023.7}, annote = {Keywords: Phylogenetics, Network, Orchard Networks, Proximity Measures, NP-hardness} }  @InProceedings{vaniersel_et_al:LIPIcs.WABI.2023.7 author = {van Iersel, Leo and Jones, Mark and Julien, Esther and Murakami, Yukihiro}, title = {{Making a Network Orchard by Adding Leaves}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {7:1--7:20}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.7}, URN = {urn:nbn:de:0030-drops-186333}, doi = {10.4230/LIPIcs.WABI.2023.7}, annote = {Keywords: Phylogenetics, Network, Orchard Networks, Proximity Measures, NP-hardness} }    
+
+  Document   
+ Abstract   
+ DOI: 10.4230/LIPIcs.WABI.2023.8    
+
+ Quartets Enable Statistically Consistent Estimation of Cell Lineage Trees Under an Unbiased Error and Missingness Model (Abstract)   
+ Authors:  Yunheng Han and Erin K. Molloy  
+  Abstract    
+ Cancer progression and treatment can be informed by reconstructing its evolutionary history from tumor cells [Lim et al., 2020]. Although many methods exist to estimate evolutionary trees (called phylogenies) from molecular sequences, traditional approaches assume the input data are error-free and the output tree is fully resolved. These assumptions are challenged in tumor phylogenetics because single-cell sequencing produces sparse, error-ridden data and because tumors evolve clonally [Jahn et al., 2016; Schwartz and Schäffer, 2017]. Here, we study the theoretical utility of methods based on quartets (four-leaf, unrooted phylogenetic trees) and triplets (three-leaf, rooted phylogenetic trees), in light of these barriers. Quartets and triplets have long been used as the building blocks for reconstructing the evolutionary history of species [Wilkinson et al., 2005]. The reason triplet-based methods (e.g., MP-EST [Liu et al., 2010]) and quartet-based methods (e.g., ASTRAL [Mirarab et al., 2014]) have garnered such success in species phylogenetics is their good statistical properties under the Multi-Species Coalescent (MSC) model [Pamilo and Nei, 1988; Rannala and Yang, 2003]; see Allman et al. (2011) and Degnan (2006) for identifiability results under the MSC model for quartets and triplets, respectively. Inspired by these efforts, we study the utility of quartets and triplets for estimating cell lineage trees under a popular tumor phylogenetics model [Jahn et al., 2016; Ross and Markowetz, 2016; Wu, 2019; Kizilkale et al., 2022] with two phases. First, mutations arise on a (highly unresolved) cell lineage tree according to the infinite sites model, and second, errors (false positives and false negatives) and missing values are introduced to the resulting mutation data in an unbiased fashion, mimicking data produced by single-cell sequencing protocols. This infinite sites plus unbiased error and missingness (IS+UEM) model generates mutations (rather than gene genealogies like the MSC model). However, a quartet (with leaves bijectively labeled by four cells) is implied by a mutation being present in two cells and absent from two cells [Molloy et al., 2021; Springer et al., 2019]; similarly, a triplet (on three cells) is implied by a mutation being present in two cells and absent from one cell. Our main result is that under the IS+UEM, the most probable quartet identifies the unrooted model cell lineage tree on four cells, with a mild assumption: the probability of false negatives and the probability of false positives must not sum to one. Somewhat surprisingly, our identifiability result for quartets does not extend to triplets, with more restrictive assumptions being required for identifiability. These results motivate seeking an unrooted cell lineage tree such that the number of quartets shared between it and the input mutations is maximized. We prove an optimal solution to this problem is a consistent estimator of the unrooted cell lineage tree under the IS+UEM model; this guarantee includes the case where the model tree is highly unresolved, provided that tree error is defined as the number of false negative branches. We therefore conclude by outlining how quartet-based methods might be employed for tumor phylogenetics given other important challenges like copy number aberrations and doublets.   
+
+  Cite as    
+ Yunheng Han and Erin K. Molloy. Quartets Enable Statistically Consistent Estimation of Cell Lineage Trees Under an Unbiased Error and Missingness Model (Abstract). In 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 273, pp. 8:1-8:2, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{han_et_al:LIPIcs.WABI.2023.8 author = {Han, Yunheng and Molloy, Erin K.}, title = {{Quartets Enable Statistically Consistent Estimation of Cell Lineage Trees Under an Unbiased Error and Missingness Model}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {8:1--8:2}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.8}, URN = {urn:nbn:de:0030-drops-186347}, doi = {10.4230/LIPIcs.WABI.2023.8}, annote = {Keywords: Tumor Phylogenetics, Cell Lineage Trees, Quartets, Supertrees, ASTRAL} }  @InProceedings{han_et_al:LIPIcs.WABI.2023.8 author = {Han, Yunheng and Molloy, Erin K.}, title = {{Quartets Enable Statistically Consistent Estimation of Cell Lineage Trees Under an Unbiased Error and Missingness Model}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {8:1--8:2}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.8}, URN = {urn:nbn:de:0030-drops-186347}, doi = {10.4230/LIPIcs.WABI.2023.8}, annote = {Keywords: Tumor Phylogenetics, Cell Lineage Trees, Quartets, Supertrees, ASTRAL} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.WABI.2023.9    
+
+ Inferring Temporally Consistent Migration Histories   
+ Authors:  Mrinmoy Saha Roddur, Sagi Snir, and Mohammed El-Kebir  
+  Abstract    
+ Not only do many biological populations undergo evolution, but population members may also migrate from one location to another. For example, tumor cells may migrate from the primary tumor and seed a new metastasis, and pathogens may migrate from one host to another. One may represent a population’s migration history by labeling the vertices of a given phylogeny T with locations such that an edge incident to vertices with distinct locations represents a migration. Additionally, in some biological populations, taxa from distinct lineages may comigrate from one location to another in a single event, a phenomenon known as a comigration. Here, we show that a previous problem statement for inferring migration histories that are parsimonious in terms of migrations and comigrations may lead to temporally inconsistent solutions. To remedy this deficiency, we introduce precise definitions of temporal consistency of comigrations in a phylogeny, leading to three successive problems. First, we formulate the Temporally Consistent Comigrations (TCC) problem to check if a set of comigrations is temporally consistent and provide a linear time algorithm for solving this problem. Second, we formulate the Parsimonious Consistent Comigration (PCC) problem, which aims to find comigrations given a location labeling of a phylogeny. We show that PCC is NP-hard. Third, we formulate the Parsimonious Consistent Comigration History (PCCH) problem, which infers the migration history given a phylogeny and locations of its extant vertices only. We show that PCCH is NP-hard as well. On the positive side, we propose integer linear programming models to solve the PCC and PCCH problems. We apply our approach to real and simulated data.   
+
+  Cite as    
+ Mrinmoy Saha Roddur, Sagi Snir, and Mohammed El-Kebir. Inferring Temporally Consistent Migration Histories. In 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 273, pp. 9:1-9:22, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{roddur_et_al:LIPIcs.WABI.2023.9 author = {Roddur, Mrinmoy Saha and Snir, Sagi and El-Kebir, Mohammed}, title = {{Inferring Temporally Consistent Migration Histories}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {9:1--9:22}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.9}, URN = {urn:nbn:de:0030-drops-186357}, doi = {10.4230/LIPIcs.WABI.2023.9}, annote = {Keywords: Metastasis, Migration, Integer Linear Programming, Maximum parsimony} }  @InProceedings{roddur_et_al:LIPIcs.WABI.2023.9 author = {Roddur, Mrinmoy Saha and Snir, Sagi and El-Kebir, Mohammed}, title = {{Inferring Temporally Consistent Migration Histories}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {9:1--9:22}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.9}, URN = {urn:nbn:de:0030-drops-186357}, doi = {10.4230/LIPIcs.WABI.2023.9}, annote = {Keywords: Metastasis, Migration, Integer Linear Programming, Maximum parsimony} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.WABI.2023.10    
+
+ Finding Maximal Exact Matches in Graphs   
+ Authors:  Nicola Rizzo, Manuel Cáceres, and Veli Mäkinen  
+  Abstract    
+ We study the problem of finding maximal exact matches (MEMs) between a query string Q and a labeled graph G. MEMs are an important class of seeds, often used in seed-chain-extend type of practical alignment methods because of their strong connections to classical metrics. A principled way to speed up chaining is to limit the number of MEMs by considering only MEMs of length at least κ (κ-MEMs). However, on arbitrary input graphs, the problem of finding MEMs cannot be solved in truly sub-quadratic time under SETH (Equi et al., ICALP 2019) even on acyclic graphs. In this paper we show an O(n⋅ L ⋅ d^{L-1} + m + M_{κ,L})-time algorithm finding all κ-MEMs between Q and G spanning exactly L nodes in G, where n is the total length of node labels, d is the maximum degree of a node in G, m = |Q|, and M_{κ,L} is the number of output MEMs. We use this algorithm to develop a κ-MEM finding solution on indexable Elastic Founder Graphs (Equi et al., Algorithmica 2022) running in time O(nH² + m + M_κ), where H is the maximum number of nodes in a block, and M_κ is the total number of κ-MEMs. Our results generalize to the analysis of multiple query strings (MEMs between G and any of the strings). Additionally, we provide some preliminary experimental results showing that the number of graph MEMs is an order of magnitude smaller than the number of string MEMs of the corresponding concatenated collection.   
+
+  Cite as    
+ Nicola Rizzo, Manuel Cáceres, and Veli Mäkinen. Finding Maximal Exact Matches in Graphs. In 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 273, pp. 10:1-10:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{rizzo_et_al:LIPIcs.WABI.2023.10 author = {Rizzo, Nicola and C\'{a}ceres, Manuel and M\"{a}kinen, Veli}, title = {{Finding Maximal Exact Matches in Graphs}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {10:1--10:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.10}, URN = {urn:nbn:de:0030-drops-186364}, doi = {10.4230/LIPIcs.WABI.2023.10}, annote = {Keywords: Sequence to graph alignment, bidirectional BWT, r-index, suffix tree, founder graphs} }  @InProceedings{rizzo_et_al:LIPIcs.WABI.2023.10 author = {Rizzo, Nicola and C\'{a}ceres, Manuel and M\"{a}kinen, Veli}, title = {{Finding Maximal Exact Matches in Graphs}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {10:1--10:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.10}, URN = {urn:nbn:de:0030-drops-186364}, doi = {10.4230/LIPIcs.WABI.2023.10}, annote = {Keywords: Sequence to graph alignment, bidirectional BWT, r-index, suffix tree, founder graphs} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.WABI.2023.11    
+
+ Revisiting the Complexity of and Algorithms for the Graph Traversal Edit Distance and Its Variants   
+ Authors:  Yutong Qiu, Yihang Shen, and Carl Kingsford  
+  Abstract    
+ The graph traversal edit distance (GTED), introduced by Ebrahimpour Boroojeny et al. (2018), is an elegant distance measure defined as the minimum edit distance between strings reconstructed from Eulerian trails in two edge-labeled graphs. GTED can be used to infer evolutionary relationships between species by comparing de Bruijn graphs directly without the computationally costly and error-prone process of genome assembly. Ebrahimpour Boroojeny et al. (2018) propose two ILP formulations for GTED and claim that GTED is polynomially solvable because the linear programming relaxation of one of the ILPs will always yield optimal integer solutions. The claim that GTED is polynomially solvable is contradictory to the complexity of existing string-to-graph matching problems. We resolve this conflict in complexity results by proving that GTED is NP-complete and showing that the ILPs proposed by Ebrahimpour Boroojeny et al. do not solve GTED but instead solve for a lower bound of GTED and are not solvable in polynomial time. In addition, we provide the first two, correct ILP formulations of GTED and evaluate their empirical efficiency. These results provide solid algorithmic foundations for comparing genome graphs and point to the direction of heuristics that estimate GTED efficiently.   
+
+  Cite as    
+ Yutong Qiu, Yihang Shen, and Carl Kingsford. Revisiting the Complexity of and Algorithms for the Graph Traversal Edit Distance and Its Variants. In 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 273, pp. 11:1-11:22, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{qiu_et_al:LIPIcs.WABI.2023.11 author = {Qiu, Yutong and Shen, Yihang and Kingsford, Carl}, title = {{Revisiting the Complexity of and Algorithms for the Graph Traversal Edit Distance and Its Variants}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {11:1--11:22}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.11}, URN = {urn:nbn:de:0030-drops-186374}, doi = {10.4230/LIPIcs.WABI.2023.11}, annote = {Keywords: Integer Linear Programming, Genome Graphs, Flow Network, Graph Comparison} }  @InProceedings{qiu_et_al:LIPIcs.WABI.2023.11 author = {Qiu, Yutong and Shen, Yihang and Kingsford, Carl}, title = {{Revisiting the Complexity of and Algorithms for the Graph Traversal Edit Distance and Its Variants}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {11:1--11:22}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.11}, URN = {urn:nbn:de:0030-drops-186374}, doi = {10.4230/LIPIcs.WABI.2023.11}, annote = {Keywords: Integer Linear Programming, Genome Graphs, Flow Network, Graph Comparison} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.WABI.2023.12    
+
+ Co-Linear Chaining on Pangenome Graphs   
+ Authors:  Jyotshna Rajput, Ghanshyam Chandra, and Chirag Jain  
+  Abstract    
+ Pangenome reference graphs are useful in genomics because they compactly represent the genetic diversity within a species, a capability that linear references lack. However, efficiently aligning sequences to these graphs with complex topology and cycles can be challenging. The seed-chain-extend based alignment algorithms use co-linear chaining as a standard technique to identify a good cluster of exact seed matches that can be combined to form an alignment. Recent works show how the co-linear chaining problem can be efficiently solved for acyclic pangenome graphs by exploiting their small width [Makinen et al., TALG'19] and how incorporating gap cost in the scoring function improves alignment accuracy [Chandra and Jain, RECOMB'23]. However, it remains open on how to effectively generalize these techniques for general pangenome graphs which contain cycles. Here we present the first practical formulation and an exact algorithm for co-linear chaining on cyclic pangenome graphs. We rigorously prove the correctness and computational complexity of the proposed algorithm. We evaluate the empirical performance of our algorithm by aligning simulated long reads from the human genome to a cyclic pangenome graph constructed from 95 publicly available haplotype-resolved human genome assemblies. While the existing heuristic-based algorithms are faster, the proposed algorithm provides a significant advantage in terms of accuracy.   
+
+  Cite as    
+ Jyotshna Rajput, Ghanshyam Chandra, and Chirag Jain. Co-Linear Chaining on Pangenome Graphs. In 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 273, pp. 12:1-12:18, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{rajput_et_al:LIPIcs.WABI.2023.12 author = {Rajput, Jyotshna and Chandra, Ghanshyam and Jain, Chirag}, title = {{Co-Linear Chaining on Pangenome Graphs}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {12:1--12:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.12}, URN = {urn:nbn:de:0030-drops-186389}, doi = {10.4230/LIPIcs.WABI.2023.12}, annote = {Keywords: Sequence alignment, variation graph, genome sequencing, path cover} }  @InProceedings{rajput_et_al:LIPIcs.WABI.2023.12 author = {Rajput, Jyotshna and Chandra, Ghanshyam and Jain, Chirag}, title = {{Co-Linear Chaining on Pangenome Graphs}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {12:1--12:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.12}, URN = {urn:nbn:de:0030-drops-186389}, doi = {10.4230/LIPIcs.WABI.2023.12}, annote = {Keywords: Sequence alignment, variation graph, genome sequencing, path cover} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.WABI.2023.13    
+
+ Acceleration of FM-Index Queries Through Prefix-Free Parsing   
+ Authors:  Aaron Hong, Marco Oliva, Dominik Köppl, Hideo Bannai, Christina Boucher, and Travis Gagie  
+  Abstract    
+ FM-indexes are a crucial data structure in DNA alignment, but searching with them usually takes at least one random access per character in the query pattern. Ferragina and Fischer [Ferragina and Fischer, 2007] observed in 2007 that word-based indexes often use fewer random accesses than character-based indexes, and thus support faster searches. Since DNA lacks natural word-boundaries, however, it is necessary to parse it somehow before applying word-based FM-indexing. Last year, Deng et al. [Deng et al., 2022] proposed parsing genomic data by induced suffix sorting, and showed the resulting word-based FM-indexes support faster counting queries than standard FM-indexes when patterns are a few thousand characters or longer. In this paper we show that using prefix-free parsing - which takes parameters that let us tune the average length of the phrases - instead of induced suffix sorting, gives a significant speedup for patterns of only a few hundred characters. We implement our method and demonstrate it is between 3 and 18 times faster than competing methods on queries to GRCh38. And was consistently faster on queries made to 25,000, 50,000 and 100,000 SARS-CoV-2 genomes. Hence, it is very clear that our method accelerates the performance of count over all state-of-the-art methods with a minor increase in the memory.   
+
+  Cite as    
+ Aaron Hong, Marco Oliva, Dominik Köppl, Hideo Bannai, Christina Boucher, and Travis Gagie. Acceleration of FM-Index Queries Through Prefix-Free Parsing. In 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 273, pp. 13:1-13:16, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{hong_et_al:LIPIcs.WABI.2023.13 author = {Hong, Aaron and Oliva, Marco and K\"{o}ppl, Dominik and Bannai, Hideo and Boucher, Christina and Gagie, Travis}, title = {{Acceleration of FM-Index Queries Through Prefix-Free Parsing}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {13:1--13:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.13}, URN = {urn:nbn:de:0030-drops-186390}, doi = {10.4230/LIPIcs.WABI.2023.13}, annote = {Keywords: FM-index, pangenomics, scalability, word-based indexing, random access} }  @InProceedings{hong_et_al:LIPIcs.WABI.2023.13 author = {Hong, Aaron and Oliva, Marco and K\"{o}ppl, Dominik and Bannai, Hideo and Boucher, Christina and Gagie, Travis}, title = {{Acceleration of FM-Index Queries Through Prefix-Free Parsing}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {13:1--13:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.13}, URN = {urn:nbn:de:0030-drops-186390}, doi = {10.4230/LIPIcs.WABI.2023.13}, annote = {Keywords: FM-index, pangenomics, scalability, word-based indexing, random access} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.WABI.2023.14    
+
+ Exact Sketch-Based Read Mapping   
+ Authors:  Tizian Schulz and Paul Medvedev  
+  Abstract    
+ Given a sequencing read, the broad goal of read mapping is to find the location(s) in the reference genome that have a "similar sequence". Traditionally, "similar sequence" was defined as having a high alignment score and read mappers were viewed as heuristic solutions to this well-defined problem. For sketch-based mappers, however, there has not been a problem formulation to capture what problem an exact sketch-based mapping algorithm should solve. Moreover, there is no sketch-based method that can find all possible mapping positions for a read above a certain score threshold. In this paper, we formulate the problem of read mapping at the level of sequence sketches. We give an exact dynamic programming algorithm that finds all hits above a given similarity threshold. It runs in {O}(|t| + |p| + 𝓁²) time and Θ(𝓁²) space, where |t| is the number of k-mers inside the sketch of the reference, |p| is the number of k-mers inside the read’s sketch and 𝓁 is the number of times that k-mers from the pattern sketch occur in the sketch of the text. We evaluate our algorithm’s performance in mapping long reads to the T2T assembly of human chromosome Y, where ampliconic regions make it desirable to find all good mapping positions. For an equivalent level of precision as minimap2, the recall of our algorithm is 0.88, compared to only 0.76 of minimap2.   
+
+  Cite as    
+ Tizian Schulz and Paul Medvedev. Exact Sketch-Based Read Mapping. In 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 273, pp. 14:1-14:19, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{schulz_et_al:LIPIcs.WABI.2023.14 author = {Schulz, Tizian and Medvedev, Paul}, title = {{Exact Sketch-Based Read Mapping}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {14:1--14:19}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.14}, URN = {urn:nbn:de:0030-drops-186403}, doi = {10.4230/LIPIcs.WABI.2023.14}, annote = {Keywords: Sequence Sketching, Long-read Mapping, Exact Algorithm, Dynamic Programming} }  @InProceedings{schulz_et_al:LIPIcs.WABI.2023.14 author = {Schulz, Tizian and Medvedev, Paul}, title = {{Exact Sketch-Based Read Mapping}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {14:1--14:19}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.14}, URN = {urn:nbn:de:0030-drops-186403}, doi = {10.4230/LIPIcs.WABI.2023.14}, annote = {Keywords: Sequence Sketching, Long-read Mapping, Exact Algorithm, Dynamic Programming} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.WABI.2023.15    
+
+ Fractional Hitting Sets for Efficient and Lightweight Genomic Data Sketching   
+ Authors:  Timothé Rouzé, Igor Martayan, Camille Marchet, and Antoine Limasset  
+  Abstract    
+ The exponential increase in publicly available sequencing data and genomic resources necessitates the development of highly efficient methods for data processing and analysis. Locality-sensitive hashing techniques have successfully transformed large datasets into smaller, more manageable sketches while maintaining comparability using metrics such as Jaccard and containment indices. However, fixed-size sketches encounter difficulties when applied to divergent datasets. Scalable sketching methods, such as Sourmash, provide valuable solutions but still lack resource-efficient, tailored indexing. Our objective is to create lighter sketches with comparable results while enhancing efficiency. We introduce the concept of Fractional Hitting Sets, a generalization of Universal Hitting Sets, which uniformly cover a specified fraction of the k-mer space. In theory and practice, we demonstrate the feasibility of achieving such coverage with simple but highly efficient schemes. By encoding the covered k-mers as super-k-mers, we provide a space-efficient exact representation that also enables optimized comparisons. Our novel tool, SuperSampler, implements this scheme, and experimental results with real bacterial collections closely match our theoretical findings. In comparison to Sourmash, SuperSampler achieves similar outcomes while utilizing an order of magnitude less space and memory and operating several times faster. This highlights the potential of our approach in addressing the challenges presented by the ever-expanding landscape of genomic data.   
+
+  Cite as    
+ Timothé Rouzé, Igor Martayan, Camille Marchet, and Antoine Limasset. Fractional Hitting Sets for Efficient and Lightweight Genomic Data Sketching. In 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 273, pp. 15:1-15:27, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{rouze_et_al:LIPIcs.WABI.2023.15 author = {Rouz\'{e}, Timoth\'{e} and Martayan, Igor and Marchet, Camille and Limasset, Antoine}, title = {{Fractional Hitting Sets for Efficient and Lightweight Genomic Data Sketching}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {15:1--15:27}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.15}, URN = {urn:nbn:de:0030-drops-186414}, doi = {10.4230/LIPIcs.WABI.2023.15}, annote = {Keywords: k-mer, subsampling, sketching, Jaccard, containment, metagenomics} }  @InProceedings{rouze_et_al:LIPIcs.WABI.2023.15 author = {Rouz\'{e}, Timoth\'{e} and Martayan, Igor and Marchet, Camille and Limasset, Antoine}, title = {{Fractional Hitting Sets for Efficient and Lightweight Genomic Data Sketching}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {15:1--15:27}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.15}, URN = {urn:nbn:de:0030-drops-186414}, doi = {10.4230/LIPIcs.WABI.2023.15}, annote = {Keywords: k-mer, subsampling, sketching, Jaccard, containment, metagenomics} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.WABI.2023.16    
+
+ Fast, Parallel, and Cache-Friendly Suffix Array Construction   
+ Authors:  Jamshed Khan, Tobias Rubel, Laxman Dhulipala, Erin Molloy, and Rob Patro  
+  Abstract    
+ String indexes such as the suffix array (SA) and the closely related longest common prefix (LCP) array are fundamental objects in bioinformatics and have a wide variety of applications. Despite their importance in practice, few scalable parallel algorithms for constructing these are known, and the existing algorithms can be highly non-trivial to implement and parallelize. In this paper we present CaPS-SA, a simple and scalable parallel algorithm for constructing these string indexes inspired by samplesort. Due to its design, CaPS-SA has excellent memory-locality and thus incurs fewer cache misses and achieves strong performance on modern multicore systems with deep cache hierarchies. We show that despite its simple design, CaPS-SA outperforms existing state-of-the-art parallel SA and LCP-array construction algorithms on modern hardware. Finally, motivated by applications in modern aligners where the query strings have bounded lengths, we introduce the notion of a bounded-context SA and show that CaPS-SA can easily be extended to exploit this structure to obtain further speedups.   
+
+  Cite as    
+ Jamshed Khan, Tobias Rubel, Laxman Dhulipala, Erin Molloy, and Rob Patro. Fast, Parallel, and Cache-Friendly Suffix Array Construction. In 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 273, pp. 16:1-16:21, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{khan_et_al:LIPIcs.WABI.2023.16 author = {Khan, Jamshed and Rubel, Tobias and Dhulipala, Laxman and Molloy, Erin and Patro, Rob}, title = {{Fast, Parallel, and Cache-Friendly Suffix Array Construction}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {16:1--16:21}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.16}, URN = {urn:nbn:de:0030-drops-186424}, doi = {10.4230/LIPIcs.WABI.2023.16}, annote = {Keywords: Suffix Array, Longest Common Prefix, Data Structures, Indexing, Parallel Algorithms} }  @InProceedings{khan_et_al:LIPIcs.WABI.2023.16 author = {Khan, Jamshed and Rubel, Tobias and Dhulipala, Laxman and Molloy, Erin and Patro, Rob}, title = {{Fast, Parallel, and Cache-Friendly Suffix Array Construction}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {16:1--16:21}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.16}, URN = {urn:nbn:de:0030-drops-186424}, doi = {10.4230/LIPIcs.WABI.2023.16}, annote = {Keywords: Suffix Array, Longest Common Prefix, Data Structures, Indexing, Parallel Algorithms} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.WABI.2023.17    
+
+ Compression Algorithm for Colored de Bruijn Graphs   
+ Authors:  Amatur Rahman, Yoann Dufresne, and Paul Medvedev  
+  Abstract    
+ A colored de Bruijn graph (also called a set of k-mer sets), is a set of k-mers with every k-mer assigned a set of colors. Colored de Bruijn graphs are used in a variety of applications, including variant calling, genome assembly, and database search. However, their size has posed a scalability challenge to algorithm developers and users. There have been numerous indexing data structures proposed that allow to store the graph compactly while supporting fast query operations. However, disk compression algorithms, which do not need to support queries on the compressed data and can thus be more space-efficient, have received little attention. The dearth of specialized compression tools has been a detriment to tool developers, tool users, and reproducibility efforts. In this paper, we develop a new tool that compresses colored de Bruijn graphs to disk, building on previous ideas for compression of k-mer sets and indexing colored de Bruijn graphs. We test our tool, called ESS-color, on various datasets, including both sequencing data and whole genomes. ESS-color achieves better compression than all evaluated tools and all datasets, with no other tool able to consistently achieve less than 44% space overhead.   
+
+  Cite as    
+ Amatur Rahman, Yoann Dufresne, and Paul Medvedev. Compression Algorithm for Colored de Bruijn Graphs. In 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 273, pp. 17:1-17:14, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{rahman_et_al:LIPIcs.WABI.2023.17 author = {Rahman, Amatur and Dufresne, Yoann and Medvedev, Paul}, title = {{Compression Algorithm for Colored de Bruijn Graphs}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {17:1--17:14}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.17}, URN = {urn:nbn:de:0030-drops-186434}, doi = {10.4230/LIPIcs.WABI.2023.17}, annote = {Keywords: colored de Bruijn graphs, disk compression, k-mer sets, simplitigs, spectrum-preserving string sets} }  @InProceedings{rahman_et_al:LIPIcs.WABI.2023.17 author = {Rahman, Amatur and Dufresne, Yoann and Medvedev, Paul}, title = {{Compression Algorithm for Colored de Bruijn Graphs}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {17:1--17:14}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.17}, URN = {urn:nbn:de:0030-drops-186434}, doi = {10.4230/LIPIcs.WABI.2023.17}, annote = {Keywords: colored de Bruijn graphs, disk compression, k-mer sets, simplitigs, spectrum-preserving string sets} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.WABI.2023.18    
+
+ Fulgor: A Fast and Compact {k-mer} Index for Large-Scale Matching and Color Queries   
+ Authors:  Jason Fan, Noor Pratap Singh, Jamshed Khan, Giulio Ermanno Pibiri, and Rob Patro  
+  Abstract    
+ The problem of sequence identification or matching - determining the subset of reference sequences from a given collection that are likely to contain a short, queried nucleotide sequence - is relevant for many important tasks in Computational Biology, such as metagenomics and pan-genome analysis. Due to the complex nature of such analyses and the large scale of the reference collections a resource-efficient solution to this problem is of utmost importance. This poses the threefold challenge of representing the reference collection with a data structure that is efficient to query, has light memory usage, and scales well to large collections. To solve this problem, we describe how recent advancements in associative, order-preserving, k-mer dictionaries can be combined with a compressed inverted index to implement a fast and compact colored de Bruijn graph data structure. This index takes full advantage of the fact that unitigs in the colored de Bruijn graph are monochromatic (all k-mers in a unitig have the same set of references of origin, or "color"), leveraging the order-preserving property of its dictionary. In fact, k-mers are kept in unitig order by the dictionary, thereby allowing for the encoding of the map from k-mers to their inverted lists in as little as 1+o(1) bits per unitig. Hence, one inverted list per unitig is stored in the index with almost no space/time overhead. By combining this property with simple but effective compression methods for inverted lists, the index achieves very small space. We implement these methods in a tool called Fulgor. Compared to Themisto, the prior state of the art, Fulgor indexes a heterogeneous collection of 30,691 bacterial genomes in 3.8× less space, a collection of 150,000 Salmonella enterica genomes in approximately 2× less space, is at least twice as fast for color queries, and is 2-6 × faster to construct.   
+
+  Cite as    
+ Jason Fan, Noor Pratap Singh, Jamshed Khan, Giulio Ermanno Pibiri, and Rob Patro. Fulgor: A Fast and Compact {k-mer} Index for Large-Scale Matching and Color Queries. In 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 273, pp. 18:1-18:21, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{fan_et_al:LIPIcs.WABI.2023.18 author = {Fan, Jason and Singh, Noor Pratap and Khan, Jamshed and Pibiri, Giulio Ermanno and Patro, Rob}, title = {{Fulgor: A Fast and Compact \{k-mer\} Index for Large-Scale Matching and Color Queries}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {18:1--18:21}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.18}, URN = {urn:nbn:de:0030-drops-186446}, doi = {10.4230/LIPIcs.WABI.2023.18}, annote = {Keywords: k-mers, Colored de Bruijn Graph, Compression, Read-mapping} }  @InProceedings{fan_et_al:LIPIcs.WABI.2023.18 author = {Fan, Jason and Singh, Noor Pratap and Khan, Jamshed and Pibiri, Giulio Ermanno and Patro, Rob}, title = {{Fulgor: A Fast and Compact \{k-mer\} Index for Large-Scale Matching and Color Queries}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {18:1--18:21}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.18}, URN = {urn:nbn:de:0030-drops-186446}, doi = {10.4230/LIPIcs.WABI.2023.18}, annote = {Keywords: k-mers, Colored de Bruijn Graph, Compression, Read-mapping} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.WABI.2023.19    
+
+ SparseRNAFolD: Sparse RNA Pseudoknot-Free Folding Including Dangles   
+ Authors:  Mateo Gray, Sebastian Will, and Hosna Jabbari  
+  Abstract    
+ Motivation. Computational RNA secondary structure prediction by free energy minimization is indispensable for analyzing structural RNAs and their interactions. These methods find the structure with the minimum free energy (MFE) among exponentially many possible structures and have a restrictive time and space complexity (O(n³) time and O(n²) space for pseudoknot-free structures) for longer RNA sequences. Furthermore, accurate free energy calculations, including dangles contributions can be difficult and costly to implement, particularly when optimizing for time and space requirements. Results. Here we introduce a fast and efficient sparsified MFE pseudoknot-free structure prediction algorithm, SparseRNAFolD, that utilizes an accurate energy model that accounts for dangle contributions. While the sparsification technique was previously employed to improve the time and space complexity of a pseudoknot-free structure prediction method with a realistic energy model, SparseMFEFold, it was not extended to include dangle contributions due to the complexity of computation. This may come at the cost of prediction accuracy. In this work, we compare three different sparsified implementations for dangles contributions and provide pros and cons of each method. As well, we compare our algorithm to LinearFold, a linear time and space algorithm, where we find that in practice, SparseRNAFolD has lower memory consumption across all lengths of sequence and a faster time for lengths up to 1000 bases. Conclusion. Our SparseRNAFolD algorithm is an MFE-based algorithm that guarantees optimality of result and employs the most general energy model, including dangle contributions. We provide a basis for applying dangles to sparsified recursion in a pseudoknot-free model that has the ability to be extended to pseudoknots.   
+
+  Cite as    
+ Mateo Gray, Sebastian Will, and Hosna Jabbari. SparseRNAFolD: Sparse RNA Pseudoknot-Free Folding Including Dangles. In 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 273, pp. 19:1-19:18, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{gray_et_al:LIPIcs.WABI.2023.19 author = {Gray, Mateo and Will, Sebastian and Jabbari, Hosna}, title = {{SparseRNAFolD: Sparse RNA Pseudoknot-Free Folding Including Dangles}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {19:1--19:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.19}, URN = {urn:nbn:de:0030-drops-186454}, doi = {10.4230/LIPIcs.WABI.2023.19}, annote = {Keywords: RNA, MFE, Secondary Structure Prediction, Dangle, Sparsification, Space Complexity, Time Complexity} }  @InProceedings{gray_et_al:LIPIcs.WABI.2023.19 author = {Gray, Mateo and Will, Sebastian and Jabbari, Hosna}, title = {{SparseRNAFolD: Sparse RNA Pseudoknot-Free Folding Including Dangles}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {19:1--19:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.19}, URN = {urn:nbn:de:0030-drops-186454}, doi = {10.4230/LIPIcs.WABI.2023.19}, annote = {Keywords: RNA, MFE, Secondary Structure Prediction, Dangle, Sparsification, Space Complexity, Time Complexity} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.WABI.2023.20    
+
+ Automatic Exploration of the Natural Variability of RNA Non-Canonical Geometric Patterns with a Parameterized Sampling Technique   
+ Authors:  Théo Boury, Yann Ponty, and Vladimir Reinharz  
+  Abstract    
+ Motivation. Recurrent substructures in RNA, known as 3D motifs, consist of networks of base pair interactions and are critical to understanding the relationship between structure and function. Their structure is naturally expressed as a graph which has led to many graph-based algorithms to automatically catalog identical motifs found in 3D structures. Yet, due to the complexity of the problem, state-of-the-art methods are often optimized to find exact matches, limiting the search to a subset of potential solutions, or do not allow explicit control over the desired variability. Results. We developed FuzzTree, a method able to efficiently sample approximate instances of an RNA motif, abstracted as a subgraph within a target RNA structure. It is the first method that allows explicit control over (1) the admissible geometric variability in the interactions; (2) the number of missing edges; and (3) the introduction of discontinuities in the backbone given close distances in the 3D structure. Our tool relies on a multidimensional Boltzmann sampling, having complexity parameterized by the treewidth of the requested motif. We applied our method to the well-known internal loop Kink-Turn motif, which can be divided into 12 subgroups. Given only the graph representing the main Kink-Turn subgroup, FuzzTree retrieved over 3/4 of all kink-turns. We also highlighted two occurrences of new sampled patterns. Our tool is available as free software and can be customized for different parameters and types of graphs.   
+
+  Cite as    
+ Théo Boury, Yann Ponty, and Vladimir Reinharz. Automatic Exploration of the Natural Variability of RNA Non-Canonical Geometric Patterns with a Parameterized Sampling Technique. In 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 273, pp. 20:1-20:22, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{boury_et_al:LIPIcs.WABI.2023.20 author = {Boury, Th\'{e}o and Ponty, Yann and Reinharz, Vladimir}, title = {{Automatic Exploration of the Natural Variability of RNA Non-Canonical Geometric Patterns with a Parameterized Sampling Technique}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {20:1--20:22}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.20}, URN = {urn:nbn:de:0030-drops-186460}, doi = {10.4230/LIPIcs.WABI.2023.20}, annote = {Keywords: Subgraph Isomorphism, 3D RNA, Parameterized Complexity, Tree Decomposition, Boltzmann sampling, Neighborhood metrics, Kink-Turn family} }  @InProceedings{boury_et_al:LIPIcs.WABI.2023.20 author = {Boury, Th\'{e}o and Ponty, Yann and Reinharz, Vladimir}, title = {{Automatic Exploration of the Natural Variability of RNA Non-Canonical Geometric Patterns with a Parameterized Sampling Technique}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {20:1--20:22}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.20}, URN = {urn:nbn:de:0030-drops-186460}, doi = {10.4230/LIPIcs.WABI.2023.20}, annote = {Keywords: Subgraph Isomorphism, 3D RNA, Parameterized Complexity, Tree Decomposition, Boltzmann sampling, Neighborhood metrics, Kink-Turn family} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.WABI.2023.21    
+
+ Balancing Minimum Free Energy and Codon Adaptation Index for Pareto Optimal RNA Design   
+ Authors:  Xinyu Gu, Yuanyuan Qi, and Mohammed El-Kebir  
+  Abstract    
+ The problem of designing an RNA sequence v that encodes for a given target protein w plays an important role in messenger RNA (mRNA) vaccine design. Due to codon degeneracy, there exist exponentially many RNA sequences for a single target protein. These candidate RNA sequences may adopt different secondary structure conformations with varying minimum free energy (MFE), affecting their thermodynamic stability and consequently mRNA half-life. In addition, species-specific codon usage bias, as measured by the codon adaptation index (CAI), also plays an essential role in translation efficiency. While previous works have focused on optimizing either MFE or CAI, more recent works have shown the merits of optimizing both objectives. Importantly, there is a trade-off between MFE and CAI, i.e. optimizing one objective is at the expense of the other. Here, we formulate the Pareto Optimal RNA Design problem, seeking the set of Pareto optimal solutions for which no other solution exists that is better in terms of both MFE and CAI. We introduce DERNA (DEsign RNA), which uses the weighted sum method to enumerate the Pareto front by optimizing convex combinations of both objectives. DERNA uses dynamic programming to solve each convex combination in O(|w|³) time and O(|w|²) space. Compared to a previous approach that only optimizes MFE, we show on a benchmark dataset that DERNA obtains solutions with identical MFE but superior CAI. Additionally, we show that DERNA matches the performance in terms of solution quality of LinearDesign, a recent approach that similarly seeks to balance MFE and CAI. Finally, we demonstrate our method’s potential for mRNA vaccine design using SARS-CoV-2 spike as the target protein.   
+
+  Cite as    
+ Xinyu Gu, Yuanyuan Qi, and Mohammed El-Kebir. Balancing Minimum Free Energy and Codon Adaptation Index for Pareto Optimal RNA Design. In 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 273, pp. 21:1-21:20, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{gu_et_al:LIPIcs.WABI.2023.21 author = {Gu, Xinyu and Qi, Yuanyuan and El-Kebir, Mohammed}, title = {{Balancing Minimum Free Energy and Codon Adaptation Index for Pareto Optimal RNA Design}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {21:1--21:20}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.21}, URN = {urn:nbn:de:0030-drops-186479}, doi = {10.4230/LIPIcs.WABI.2023.21}, annote = {Keywords: Multi-objective optimization, dynamic programming, RNA sequence design, reverse translation, mRNA vaccine design} }  @InProceedings{gu_et_al:LIPIcs.WABI.2023.21 author = {Gu, Xinyu and Qi, Yuanyuan and El-Kebir, Mohammed}, title = {{Balancing Minimum Free Energy and Codon Adaptation Index for Pareto Optimal RNA Design}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {21:1--21:20}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.21}, URN = {urn:nbn:de:0030-drops-186479}, doi = {10.4230/LIPIcs.WABI.2023.21}, annote = {Keywords: Multi-objective optimization, dynamic programming, RNA sequence design, reverse translation, mRNA vaccine design} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.WABI.2023.22    
+
+ Bridging Disparate Views on the DCJ-Indel Model for a Capping-Free Solution to the Natural Distance Problem   
+ Authors:  Leonard Bohnenkämper  
+  Abstract    
+ One of the most fundamental problems in genome rearrangement is the (genomic) distance problem. It is typically formulated as finding the minimum number of rearrangements under a model that are needed to transform one genome into the other. A powerful multi-chromosomal model is the Double Cut and Join (DCJ) model. While the DCJ model is not able to deal with some situations that occur in practice, like duplicated or lost regions, it was extended over time to handle these cases. First, it was extended to the DCJ-indel model, solving the issue of lost markers. Later ILP-solutions for so called natural genomes, in which each genomic region may occur an arbitrary number of times, were developed, enabling in theory to solve the distance problem for any pair of genomes. However, some theoretical and practical issues remained unsolved. On the theoretical side of things, there exist two disparate views of the DCJ-indel model, motivated in the same way, but with different conceptualizations that could not be reconciled so far. On the practical side, while the solutions for natural genomes typically perform well on telomere to telomere resolved genomes, they have been shown in recent years to quickly loose performance on genomes with a large number of contigs or linear chromosomes. This has been linked to a particular technique increasing the solution space superexponentially named capping. Recently, we introduced a new conceptualization of the DCJ-indel model within the context of another rearrangement problem. In this manuscript, we will apply this new conceptualization to the distance problem. In doing this, we uncover the relation between the disparate conceptualizations of the DCJ-indel model. We are also able to derive an ILP solution to the distance problem that does not rely on capping and therefore significantly improves upon the performance of previous solutions for genomes with high numbers of contigs while still solving the problem exactly. To the best of our knowledge, our approach is the first allowing for an exact computation of the DCJ-indel distance for natural genomes with large numbers of linear chromosomes. We demonstrate the performance advantage as well as limitations in comparison to an existing solution on simulated genomes as well as showing its practical usefulness in an analysis of 11 Drosophila genomes.   
+
+  Cite as    
+ Leonard Bohnenkämper. Bridging Disparate Views on the DCJ-Indel Model for a Capping-Free Solution to the Natural Distance Problem. In 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 273, pp. 22:1-22:18, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{bohnenkamper:LIPIcs.WABI.2023.22 author = {Bohnenk\"{a}mper, Leonard}, title = {{Bridging Disparate Views on the DCJ-Indel Model for a Capping-Free Solution to the Natural Distance Problem}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {22:1--22:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.22}, URN = {urn:nbn:de:0030-drops-186484}, doi = {10.4230/LIPIcs.WABI.2023.22}, annote = {Keywords: Comparative Genomics, Genome Rearrangement, Double-Cut-And-Join, Indels, Integer Linear Programming, Capping} }  @InProceedings{bohnenkamper:LIPIcs.WABI.2023.22 author = {Bohnenk\"{a}mper, Leonard}, title = {{Bridging Disparate Views on the DCJ-Indel Model for a Capping-Free Solution to the Natural Distance Problem}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {22:1--22:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.22}, URN = {urn:nbn:de:0030-drops-186484}, doi = {10.4230/LIPIcs.WABI.2023.22}, annote = {Keywords: Comparative Genomics, Genome Rearrangement, Double-Cut-And-Join, Indels, Integer Linear Programming, Capping} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.WABI.2023.23    
+
+ Reinforcement Learning for Robotic Liquid Handler Planning   
+ Authors:  Mohsen Ferdosi, Yuejun Ge, and Carl Kingsford  
+  Abstract    
+ Robotic liquid handlers play a crucial role in automating laboratory tasks such as sample preparation, high-throughput screening, and assay development. Manually designing protocols takes significant effort, and can result in inefficient protocols and involve human error. We investigates the application of reinforcement learning to automate the protocol design process resulting in reduced human labor and further automation in liquid handling. We develop a reinforcement learning agent that can automatically output the step-by-step protocol based on the initial state of the deck, reagent types and volumes, and the desired state of the reagents after the protocol is finished. We show that finding the optimal protocol for solving a liquid handler instance is NP-complete, and we present a reinforcement learning algorithm that can solve the planning problem practically for cases with a deck of up to 20 × 20 wells and four different types of reagents. We design and implement an actor-critic approach, and we train our agent using the Impala algorithm. Our findings demonstrate that reinforcement learning can be used to automatically program liquid handler robotic arms, enabling more precise and efficient planning for the liquid handler and laboratory automation.   
+
+  Cite as    
+ Mohsen Ferdosi, Yuejun Ge, and Carl Kingsford. Reinforcement Learning for Robotic Liquid Handler Planning. In 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 273, pp. 23:1-23:16, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{ferdosi_et_al:LIPIcs.WABI.2023.23 author = {Ferdosi, Mohsen and Ge, Yuejun and Kingsford, Carl}, title = {{Reinforcement Learning for Robotic Liquid Handler Planning}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {23:1--23:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.23}, URN = {urn:nbn:de:0030-drops-186494}, doi = {10.4230/LIPIcs.WABI.2023.23}, annote = {Keywords: Liquid Handler, Reinforcement Learning, Planning} }  @InProceedings{ferdosi_et_al:LIPIcs.WABI.2023.23 author = {Ferdosi, Mohsen and Ge, Yuejun and Kingsford, Carl}, title = {{Reinforcement Learning for Robotic Liquid Handler Planning}}, booktitle = {23rd International Workshop on Algorithms in Bioinformatics (WABI 2023)}, pages = {23:1--23:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-294-5}, ISSN = {1868-8969}, year = {2023}, volume = {273}, editor = {Belazzougui, Djamal and Ouangraoua, A\"{i}da}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2023.23}, URN = {urn:nbn:de:0030-drops-186494}, doi = {10.4230/LIPIcs.WABI.2023.23}, annote = {Keywords: Liquid Handler, Reinforcement Learning, Planning} }    
+
+ Filters  
+
+ Authors 
+   Show All  Collapse 
+  Show All 
+  A 
+  Arasti, Shayesteh 
+  B 
+  Bannai, Hideo 
+  Belazzougui, Djamal 
+  Bohnenkämper, Leonard 
+  Boucher, Christina 
+  Boury, Théo 
+  C 
+  Cáceres, Manuel 
+  Chandra, Ghanshyam 
+  D 
+  Dai, Junyan 
+  Dhulipala, Laxman 
+  Dufresne, Yoann 
+  E 
+  El-Kebir, Mohammed 
+  F 
+  Fan, Jason 
+  Ferdosi, Mohsen 
+  G 
+  Gagie, Travis 
+  Ge, Yuejun 
+  Górecki, Paweł 
+  Gray, Mateo 
+  Gu, Xinyu 
+  H 
+  Han, Yunheng 
+  Hong, Aaron 
+  J 
+  Jabbari, Hosna 
+  Jain, Chirag 
+  Jones, Mark 
+  Julien, Esther 
+  K 
+  Khan, Jamshed 
+  Kingsford, Carl 
+  Köppl, Dominik 
+  L 
+  Limasset, Antoine 
+  Liu, Baqiao 
+  M 
+  Mäkinen, Veli 
+  Marchet, Camille 
+  Martayan, Igor 
+  Medvedev, Paul 
+  Mirarab, Siavash 
+  Molloy, Erin 
+  Molloy, Erin K. 
+  Murakami, Yukihiro 
+  Mykowiecka, Agnieszka 
+  O 
+  Oliva, Marco 
+  Ouangraoua, Aïda 
+  P 
+  Paszek, Jarosław 
+  Patro, Rob 
+  Pibiri, Giulio Ermanno 
+  Ponty, Yann 
+  Przytycka, Teresa M. 
+  Q 
+  Qi, Yuanyuan 
+  Qiu, Yutong 
+  R 
+  Rahman, Amatur 
+  Rajput, Jyotshna 
+  Reinharz, Vladimir 
+  Rizzo, Nicola 
+  Roddur, Mrinmoy Saha 
+  Rouzé, Timothé 
+  Rubel, Tobias 
+  Rutecka, Natalia 
+  S 
+  Schulz, Tizian 
+  Shen, Chengze 
+  Shen, Yihang 
+  Singh, Noor Pratap 
+  Snir, Sagi 
+  V 
+  van Iersel, Leo 
+  W 
+  Warnow, Tandy 
+  Wedell, Eleanor 
+  Will, Sebastian 
+  Williams, Kelly P. 
+
+  Subjects 
+   Show All  Collapse 
+  Show All 
+  Applied computing 
+  Applied computing → Bioinformatics 
+  Applied computing → Biological networks 
+  Applied computing → Computational biology 
+  Applied computing → Computational genomics 
+  Applied computing → Genomics 
+  Applied computing → Life and medical sciences 
+  Applied computing → Molecular evolution 
+  Applied computing → Molecular structural biology 
+  Computing methodologies 
+  Computing methodologies → Sequential decision making 
+  Mathematics of computing 
+  Mathematics of computing → Combinatorial optimization 
+  Mathematics of computing → Discrete mathematics 
+  Mathematics of computing → Graph algorithms 
+  Mathematics of computing → Information theory 
+  Mathematics of computing → Trees 
+  Theory of computation 
+  Theory of computation → Design and analysis of algorithms 
+  Theory of computation → Graph algorithms analysis 
+  Theory of computation → Pattern matching 
+  Theory of computation → Sorting and searching 
+
+  Questions / Remarks / Feedback   X  Feedback for Dagstuhl Publishing  
+     
+  Send    
+   
+  Thanks for your feedback!  
+ Feedback submitted   
+ OK    
+  Could not send message  
+ Please try again later or send an E-mail    
+ OK    
+   About DROPS  
+ Schloss Dagstuhl - Leibniz Center for Informatics has been operating the Dagstuhl Research Online Publication Server (short: DROPS) since 2004. DROPS enables publication of the latest research findings in a fast, uncomplicated manner, in addition to providing unimpeded, open access to them. All the requisite metadata on each publication is administered in accordance with general guidelines pertaining to online publications (cf. Dublin Core). This enables the online publications to be authorized for citation and made accessible to a wide readership on a permanent basis. Access is free of charge for readers following the open access idea which fosters unimpeded access to scientific publications.  
+   
+ Instructions for Authors  
+ Dagstuhl Series   
+  LIPIcs 
+  OASIcs 
+  Dagstuhl Follow-Ups 
+    
+ Dagstuhl Journals   
+  DARTS – Dagstuhl Artifacts Series 
+  Dagstuhl Reports 
+  Dagstuhl Manifestos 
+  LITES 
+  TGDK – Transactions on Graph Data and Knowledge 
+
+ Instructions for Editors  
+ Dagstuhl Series   
+  LIPIcs 
+  OASIcs 
+  Dagstuhl Follow-Ups 
+    
+ Dagstuhl Journals   
+  DARTS – Dagstuhl Artifacts Series 
+  Dagstuhl Reports 
+  Dagstuhl Manifestos 
+  LITES 
+  TGDK – Transactions on Graph Data and Knowledge 
+
+ © 2023-2024 Schloss Dagstuhl – LZI GmbH  Imprint  Privacy  Contact

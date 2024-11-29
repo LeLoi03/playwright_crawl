@@ -1,0 +1,145 @@
+Search         
+  Browse   
+
+ Support Community 
+    
+ About 
+  Developer Software Forums | Developer Software Forums 
+  Software Development Tools 
+  Toolkits & SDKs 
+  Software Development Topics 
+  Software Development Technologies 
+  oneAPI Registration, Download, Licensing and Installation 
+  GPU Compute Software 
+  Intel® Tiber Developer Cloud 
+  Software Archive 
+  Edge Software Catalog 
+  Product Support Forums | Product Support Forums 
+  FPGA 
+  Memory & Storage 
+  Visual Computing 
+  Embedded Products 
+  Graphics 
+  Processors 
+  Wireless 
+  Ethernet Products 
+  Server Products 
+  Intel vPro® Platform 
+  Intel® Enpirion® Power Solutions 
+  Intel® Unison™ App 
+  Intel® QuickAssist Technology (Intel® QAT) 
+  Intel® Trusted Execution Technology (Intel® TXT) 
+  Thunderbolt™ Share 
+  Intel® Gaudi® AI Accelerator 
+  Gaming Forums | Gaming Forums 
+  Intel® ARC™ Graphics 
+  Gaming on Intel® Processors with Intel® Graphics 
+  Developing Games on Intel Graphics 
+  Blogs | Blogs 
+  @Intel 
+  Products and Solutions 
+  Tech Innovation 
+  Thought Leadership 
+  Intel Foundry 
+  Private Forums | Private Forums 
+  Intel oneAPI Toolkits Private Forums 
+  Intel AI Software - Private Forums 
+  Intel® Connectivity Research Program (Private) 
+  Intel-Habana Gaudi Technology Forum 
+  HARP (Private Forum) 
+  Neural Object Cloning Beta 
+
+ Data Center   
+ Participate in insightful discussions regarding Data Center topics   
+
+  Success! Subscription added.   
+
+ Success! Subscription removed.   
+
+ Sorry, you must verify to complete this action. Please click the verification link in your email. You may re-send via your profile  .   
+
+ Intel Community 
+   Blogs 
+   Tech Innovation 
+   Data Center 
+   Intel’s Leading Contributions at SIGMOD’s Data Management on New Hardware (DaMoN) Workshop 
+
+ 78 Discussions    
+
+ Intel’s Leading Contributions at SIGMOD’s Data Management on New Hardware (DaMoN) Workshop   
+
+ Subscribe    
+ Article Options  Subscribe to RSS Feed 
+   Mark as New 
+  Mark as Read 
+   Bookmark 
+  Subscribe 
+   Printer Friendly Page 
+  Report Inappropriate Content 
+
+ Nesime_Tatbul    Employee   
+   
+  ‎06-30-2023  08:46 AM     
+
+ 0  0  7,811    
+
+ Nesime Tatbul is a senior research scientist in the   Parallel Computing Lab at     Intel Labs    and acts as Intel’s lead PI for DSAIL.     
+  
+ Highlights:    
+ The 19th International Workshop on Data Management on New Hardware (DaMoN) was co-located with the 2023 ACM SIGMOD/PODS Conference and took place on June 19, 2023, in Seattle, Washington. 
+  Intel researchers contributed to this year’s workshop both as co-organizers as well as | co-authors of two papers among the 17 that were presented at the workshop. 
+  Intel fellow Frank Hady delivered a keynote talk on “Memory: The DaMoN Demon.” 
+    
+ The 19th International Workshop on Data Management on New Hardware (DaMoN)  was co-located with the 2023 ACM SIGMOD/PODS Conference  and took place on June 19, 2023, in Seattle, Washington. DaMoN is the premier venue for hardware-software co-design research in the database community. With a focus on strengthening communication between the database community and broader computer systems communities, this workshop aims at researchers from data management, computer architecture, compilers, operating systems, and storage systems who are interested in optimizing database performance on modern computing infrastructure by designing new data management techniques and tools.  
+ In the last two decades, DaMoN has established itself as the primary venue for researchers to exchange information, learn from one another, and improve the interaction between the database software and the underlying hardware and devices, as well as discovering and understanding hardware trends and building strong data management systems for the future. Nesime Tatbul, co-chair of this year’s workshop and senior research scientist at Intel Labs proudly stated that “with over 200 official registrants, this was the largest DaMoN Workshop yet.”  
+
+ Nesime Tatbul (Intel Labs) and Norman May (SAP) co-chairing DaMoN 2023   
+  
+ This year’s DaMoN Workshop  , fully in-person again after a four year of virtual and hybrid instances, featured17 long and short paper presentations organized into three sessions: Accelerators, Query Processing, and Memory & Storage. Furthermore, Intel fellow Frank Hady delivered the opening keynote on “Memory: The DaMoN Demon,” while Huanchen Zhang from Tsinghua University gave an invited talk on “Cost-Intelligent Data Analytics in the Cloud.”  
+
+ Frank Hady delivering the DaMoN 2023 opening keynote   
+  
+ In recognition of exceptional work, the workshop also extended Best Paper Awards to the following works: “ The Difficult Balance Between Modern Hardware and Conventional CPUs  ,” by Fabio Maschi and Gustavo Alonso (ETH Zurich), and “ Microarchitectural Analysis of Graph BI Queries on RDBMS  ”, by Rathijit Sen and Yuanyuan Tian (Microsoft Gray Systems Lab).  
+
+ Left to right: Nesime Tatbul, Fabio Maschi, Gustavo Alonso, Norman May;   
+ Nesime Tatbul, Yuanyuan Tian, Rathijit Sen, Norman May   
+  
+ Find the online workshop proceedings  on the ACM Digital Library. Read on for more information about Intel’s contributions at the workshop.  
+   
+ Keynote    
+ Memory: The DaMoN Demon    
+ Frank Hady, Intel Fellow, Intel’s Office of the CTO Systems Architecture and Engineering Group   
+ Memory technology limitations bedevil current computing systems and data management does not escape. As silicon scaling delivers ever faster compute, memory falls further behind exposing capacity, bandwidth, and power deficiencies in our systems. Seeing these issues, computer architects propose memory hierarchy changes only to find most applications shrink-wrapped to the current hierarchy and unable to change. Data management applications provide an innovation bright-spot with researchers and developers ready to co-optimize from application-to-hardware to deliver improved performance. Hierarchy improvements often matter here first. Sitting squarely at this confluence, DaMoN serves to engender such co-optimizations. With this in mind, we set a memory technology baseline using memory silicon trends and constraints. Additionally, we set a memory system baseline summarizing current system memory architectures and issues. Next, we look at the undeniable influence AI is exerting on the hierarchy. Taking memory technology, systems, and applications together, we speculate on memory hierarchy changes to expect – potentially creating opportunities for future data management applications. One such change is already visible in CXL-enabled memory hierarchies envisioned to deliver higher capacity and perhaps more. Finally, we speculate further on system optimizations around memory that are the subject of current research, like memory sharing and near memory computing.  
+  
+ Co-Authored Workshop Papers    
+  KeRRaS: Sort-Based Database Query Processing on Wide Tables Using FPGAs    
+ Sorting is an important operation in database query processing. Complex pipeline-breaking operators (e.g., aggregation and equi-join) become single-pass algorithms on sorted tables. Therefore, sort-based query processing is a popular method for FPGA-based database system acceleration. However, most accelerators have a limit on the table width or the number of columns they can sort. This limit is often set by the width of the data path or the amount of BRAM present on the FPGA. This paper proposes KeRRaS, an abstract sorting algorithm that enables existing sort-based query processors to support arbitrarily wide tables while offering scalability, preserving modularity, and having low resource overhead. Moreover, the researchers present an implementation of KeRRaS based on morphing sort-merge, a resource-efficient FPGA-based query accelerator. The implementation behaves similarly to morphing sort-merge on narrow tables, and scales well as the number of key columns increases.  
+  
+ Elastic Use of Far Memory for In-Memory Database Management Systems    
+ The separation and independent scalability of compute and memory is one of the crucial aspects for modern in-memory database systems (IMDBMSs) in the cloud. The new, cache-coherent memory interconnect Compute Express Link (CXL) promises elastic memory capacity through memory pooling. This work adapts the well-known IMDBMS, SAP HANA, for memory pools by features of table data placement and operational heap memory allocation on far memory, and studies the impact of the limited bandwidth and higher latency of CXL. The results show negligible performance degradation for TPC-C. For the analytical workloads of TPC-H, a notable impact on query processing is observed due to the limited bandwidth and long latency of our early CXL implementation. However, the emulation shows it would be acceptably smaller with the improved CXL memory devices.  
+
+ Tags (1)     
+   
+ Tags: 
+  Intel_Labs 
+
+ 0  Kudos     
+
+ About the Author    
+   
+  Nesime Tatbul is a senior research scientist at Intel's Parallel Computing Lab (PCL) and MIT's Computer Science and Artificial Intelligence Lab (CSAIL). Since 2013, she has been Intel's research lead and industry co-PI for the Intel Science and Technology Center for Big Data (ISTC-BigData), followed by the Data Systems and AI Lab (DSAIL) based at MIT. Previously, she served on the computer science faculty of ETH Zurich after receiving a Ph.D. degree from Brown University. Her research interests are broadly in large-scale data management systems and modern data-intensive applications, with a recent focus on learned data systems, time series analytics, and observability data management.   
+
+   You must be a registered user to add a comment. If you've already registered, sign in. Otherwise, register and sign in.  
+ Comment 
+
+  Community support is provided Monday to Friday. Other contact methods are available here  .   
+ Intel does not verify all solutions, including but not limited to any file transfers that may appear in this community. Accordingly, Intel disclaims all express and implied warranties, including without limitation, the implied warranties of merchantability, fitness for a particular purpose, and non-infringement, as well as any warranty arising from course of performance, course of dealing, or usage in trade.  
+ For more complete information about compiler optimizations, see our Optimization Notice  .  
+
+ ©Intel Corporation 
+  Terms of Use 
+  *Trademarks 
+  Cookies 
+  Privacy 
+  Supply Chain Transparency 
+  Site Map

@@ -1,0 +1,5914 @@
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+          <div class="container com-blocks-generic">
+              
+
+
+
+  
+
+
+    
+  
+ 
+
+  
+  
+
+<div id="block-adsblock" data-bem="com_blocks_top adsblock" class="block block--provider-ios-press-journalsite-ads block--ads-block block--id-adsblock block--region-com-blocks-top block-ios_press_journalsite_ads" aria-label="Ads block">
+
+  
+      
+
+      <div class="ioscom-block ioscom-region-header align-vertical vertical-label" data-region="header" data-limit="1">
+  <div class="image-placeholder">
+    <span class="placeholder-text">Loading...</span>
+  </div>
+</div>
+
+  </div>
+
+  
+    </div>
+  <div class="page-wrapper">
+
+  <div class="sticky-spacer"></div>
+
+      <div class="wrapper--page-top">
+                                
+  
+              
+            <header role="banner" class="wrapper--headers">
+            <div class="header-top">
+  <div class="container">
+                  
+
+
+
+  
+
+
+    
+  
+ 
+
+  
+  
+
+<div id="block-searchredirectblock" data-bem="header_top searchredirectblock" class="block block--provider-rocketship-blocks block--search-redirect-block block--id-searchredirectblock block--region-header-top block-rocketship_blocks" aria-label="Search redirect block">
+
+  
+      
+
+      <form class="search-api-fulltext-facet-form" data-drupal-selector="search-api-fulltext-facet-form" action="/catalog/journals/intelligent-data-analysis" method="post" id="search-api-fulltext-facet-form" accept-charset="UTF-8">
+  
+
+<div class="form__element form-item js-form-item js-form-type-textfield form-type-textfield js-form-item-search form-item-search form-type--textfield form__element--search form-no-label">
+
+      
+  
+  
+    
+    
+    
+
+  
+  
+  <input placeholder="Search" data-drupal-selector="edit-search" type="text" id="edit-search" name="search" value="" size="60" maxlength="128" class="form__input--text form-text">
+
+
+    
+    
+  
+      
+    </div>
+
+
+        
+  
+        
+  <button data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Search" class="button js-form-submit form-submit" aria-label="button">
+    Search
+  </button>
+
+
+  
+  
+  <input autocomplete="off" data-drupal-selector="form-gbadpzsshm7x-mmfo-qywvb569l06soapdxv-9yjwyo" type="hidden" name="form_build_id" value="form-gbaDPZsShm7x_mMFo_QYwVb569L06SoaPDXV-9YJWyo" class="form__input--hidden">
+
+
+  
+  
+  <input data-drupal-selector="edit-search-api-fulltext-facet-form" type="hidden" name="form_id" value="search_api_fulltext_facet_form" class="form__input--hidden">
+
+</form>
+
+  </div>
+
+
+
+
+  
+
+
+      
+  
+ 
+
+  
+  
+
+<div id="block-socialmedia" data-bem="header_top socialmedia social_media" class="block block--view-mode-full block--provider-block-content block--block-contentc554fe80-eabd-451f-8ee9-f886ace99fff block--id-socialmedia block--region-header-top block--type-social-media block-block_content" aria-label="Social media">
+
+  
+      
+
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-social-link-facebook field--type-link field--label-hidden field-social-link-facebook">
+
+        
+    
+                  <a href="https://facebook.com/publisheriospress" target="_blank">Facebook</a>
+          
+  
+</div>
+
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-social-link-twitter field--type-link field--label-hidden field-social-link-twitter">
+
+        
+    
+                  <a href="https://twitter.com/iospress_stm" target="_blank">Twitter</a>
+          
+  
+</div>
+
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-social-link-linkedin field--type-link field--label-hidden field-social-link-linkedin">
+
+        
+    
+                  <a href="https://linkedin.com/company/iospress" target="_blank">LinkedIn</a>
+          
+  
+</div>
+
+
+  </div>
+
+  
+      </div>
+</div>
+      
+      <div class="header header--primary">
+  <div class="container">
+
+                    <div class="header__section--primary">
+                          
+
+        
+
+
+
+
+
+   
+
+  
+  
+<div id="block-rocketship-theme-starter-branding" data-bem="header rocketship_theme_starter_branding" class="block__branding block__branding--header block__branding--provider-system block__branding--system-branding-block block__branding--region-header block-system">
+  
+  
+            <a class="block__branding__image block__branding__image--header block__branding__image--provider-system block__branding__image--system-branding-block block__branding__image--region-header" href="/" title="Home" rel="home">
+        <img src="/themes/custom/rocketship_theme_starter/logo.svg" alt="Home">
+      </a>
+              </div>
+
+
+  
+              </div>
+          
+        <div class="header__section--secondary">
+                      <div class="wrapper--navigation">
+  <a href="#" id="toggle-expand" class="navigation__toggle-expand">
+    <span class="visually-hidden">
+      Mobile menu expand icon
+    </span>
+    <span class="navigation__toggle-expand__group navigation__toggle-expand__group--open">
+      <span class="navigation__toggle-expand__icon navigation__toggle-expand__icon--open"></span>
+      <span class="navigation__toggle-expand__text navigation__toggle-expand__text--open">Menu</span>
+    </span>
+    <span class="navigation__toggle-expand__group navigation__toggle-expand__group--closed">
+      <span class="navigation__toggle-expand__icon navigation__toggle-expand__icon--closed"></span>
+      <span class="navigation__toggle-expand__text navigation__toggle-expand__text--closed">Close</span>
+    </span>
+  </a>
+  <div class="wrapper--navigation__content">
+    
+                  <div class="nav-section nav-section--primary">
+                          
+
+
+
+  
+     
+  
+ 
+  
+
+
+  
+  
+<nav id="block-rocketship-theme-starter-main-menu" data-bem="nav_primary rocketship_theme_starter_main_menu" class="nav nav--system-menu-block nav--main nav--provider-system nav--system-menu-blockmain nav--region-nav-primary block--menu block-system" aria-label="Main navigation" role="navigation">
+
+  
+      
+      
+
+
+
+
+
+  
+  
+    
+        
+    
+    
+    
+        
+
+<ul class="menu menu--main clearfix">
+          
+                                        
+          
+
+
+
+
+        
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item menu__item--main menu__item--active menu__item--with-sub has-sub">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link menu__link--main menu__link--active menu__link--with-sub" href="/products">
+
+        Products
+    </a>
+          <i class="expand-sub"></i>
+            
+  
+  
+    
+        
+    
+    
+              
+        
+
+<ul class="menu menu--main menu--sub menu--sub-1">
+          
+                                        
+          
+
+
+
+
+      
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item menu__item--main menu__item--sub menu__item--sub-1 menu__item--active">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link menu__link--main menu__link--sub menu__link--sub-1 menu__link--active" href="/catalog">
+
+        Catalog
+    </a>
+      </li>
+        
+                                        
+          
+
+
+
+
+    
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item menu__item--main menu__item--sub menu__item--sub-1">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link menu__link--main menu__link--sub menu__link--sub-1" href="/products#books">
+
+        Books
+    </a>
+      </li>
+        
+                                        
+          
+
+
+
+
+    
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item menu__item--main menu__item--sub menu__item--sub-1">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link menu__link--main menu__link--sub menu__link--sub-1" href="/products#journals">
+
+        Journals
+    </a>
+      </li>
+        
+                                        
+          
+
+
+
+
+    
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item menu__item--main menu__item--sub menu__item--sub-1">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link menu__link--main menu__link--sub menu__link--sub-1" target="_self" href="/products#ldconnect">
+
+        LD Connect
+    </a>
+      </li>
+              </ul>
+
+  
+      </li>
+        
+                                        
+          
+
+
+
+
+      
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item menu__item--main menu__item--with-sub has-sub">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link menu__link--main menu__link--with-sub" href="/services">
+
+        Services
+    </a>
+          <i class="expand-sub"></i>
+            
+  
+  
+    
+        
+    
+    
+              
+        
+
+<ul class="menu menu--main menu--sub menu--sub-1">
+          
+                                        
+          
+
+
+
+
+    
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item menu__item--main menu__item--sub menu__item--sub-1">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link menu__link--main menu__link--sub menu__link--sub-1" href="/authors">
+
+        Authors
+    </a>
+      </li>
+        
+                                        
+          
+
+
+
+
+    
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item menu__item--main menu__item--sub menu__item--sub-1">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link menu__link--main menu__link--sub menu__link--sub-1" href="/librarians">
+
+        Librarians
+    </a>
+      </li>
+        
+                                        
+          
+
+
+
+
+    
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item menu__item--main menu__item--sub menu__item--sub-1">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link menu__link--main menu__link--sub menu__link--sub-1" href="/reviewers">
+
+        Reviewers
+    </a>
+      </li>
+        
+                                        
+          
+
+
+
+
+    
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item menu__item--main menu__item--sub menu__item--sub-1">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link menu__link--main menu__link--sub menu__link--sub-1" href="/policies">
+
+        Policies
+    </a>
+      </li>
+              </ul>
+
+  
+      </li>
+        
+                                        
+          
+
+
+
+
+      
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item menu__item--main menu__item--with-sub has-sub">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link menu__link--main menu__link--with-sub" href="/initiatives">
+
+        Initiatives
+    </a>
+          <i class="expand-sub"></i>
+            
+  
+  
+    
+        
+    
+    
+              
+        
+
+<ul class="menu menu--main menu--sub menu--sub-1">
+          
+                                        
+          
+
+
+
+
+    
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item menu__item--main menu__item--sub menu__item--sub-1">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link menu__link--main menu__link--sub menu__link--sub-1" href="/open-science">
+
+        Open Science
+    </a>
+      </li>
+        
+                                        
+          
+
+
+
+
+    
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item menu__item--main menu__item--sub menu__item--sub-1">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link menu__link--main menu__link--sub menu__link--sub-1" href="/sustainability">
+
+        Sustainability
+    </a>
+      </li>
+        
+                                        
+          
+
+
+
+
+    
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item menu__item--main menu__item--sub menu__item--sub-1">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link menu__link--main menu__link--sub menu__link--sub-1" href="/partnerships">
+
+        Partnerships
+    </a>
+      </li>
+        
+                                        
+          
+
+
+
+
+    
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item menu__item--main menu__item--sub menu__item--sub-1">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link menu__link--main menu__link--sub menu__link--sub-1" href="/research-and-development">
+
+        R&amp;D
+    </a>
+      </li>
+        
+                                        
+          
+
+
+
+
+    
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item menu__item--main menu__item--sub menu__item--sub-1">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link menu__link--main menu__link--sub menu__link--sub-1" href="/initiatives#labs">
+
+        Labs
+    </a>
+      </li>
+              </ul>
+
+  
+      </li>
+        
+                                        
+          
+
+
+
+
+      
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item menu__item--main menu__item--with-sub has-sub">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link menu__link--main menu__link--with-sub" href="/about">
+
+        About
+    </a>
+          <i class="expand-sub"></i>
+            
+  
+  
+    
+        
+    
+    
+              
+        
+
+<ul class="menu menu--main menu--sub menu--sub-1">
+          
+                                        
+          
+
+
+
+
+    
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item menu__item--main menu__item--sub menu__item--sub-1">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link menu__link--main menu__link--sub menu__link--sub-1" href="/about#companystory">
+
+        Company Story
+    </a>
+      </li>
+        
+                                        
+          
+
+
+
+
+    
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item menu__item--main menu__item--sub menu__item--sub-1">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link menu__link--main menu__link--sub menu__link--sub-1" href="/core-values">
+
+        Core Values
+    </a>
+      </li>
+        
+                                        
+          
+
+
+
+
+    
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item menu__item--main menu__item--sub menu__item--sub-1">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link menu__link--main menu__link--sub menu__link--sub-1" href="/memberships">
+
+        Memberships
+    </a>
+      </li>
+        
+                                        
+          
+
+
+
+
+    
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item menu__item--main menu__item--sub menu__item--sub-1">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link menu__link--main menu__link--sub menu__link--sub-1" href="/news">
+
+        News
+    </a>
+      </li>
+              </ul>
+
+  
+      </li>
+        
+                                        
+          
+
+
+
+
+  
+
+
+  
+
+              
+    
+
+
+
+
+
+
+
+<li class="menu__item menu__item--main cta">
+  
+    
+    
+
+
+
+
+
+
+
+
+
+    
+    <a class="menu__link menu__link--main cta" href="/contact">
+
+        Contact
+    </a>
+      </li>
+              </ul>
+
+  
+
+
+  </nav>
+
+  
+              </div>
+      
+            
+            
+      </div>
+</div>
+          </div>
+    
+  </div>
+</div>
+  </header>
+          </div>
+  
+  <div class="page">
+
+                <div class="highlighted">
+        <div class="container">
+                  <div data-drupal-messages-fallback="" class="hidden"></div>
+
+  
+          
+        </div>
+      </div>
+          
+                  <div class="breadcrumbs">
+          <div class="container">
+                    
+
+
+
+  
+
+
+    
+  
+ 
+
+  
+  
+
+<div id="block-rocketship-theme-starter-breadcrumbs" data-bem="breadcrumb rocketship_theme_starter_breadcrumbs" class="block block--provider-system block--system-breadcrumb-block block--id-rocketship-theme-starter-breadcrumbs block--region-breadcrumb block-system" aria-label="Breadcrumbs">
+
+  
+      
+
+      
+  <nav role="navigation" aria-labelledby="system-breadcrumb">
+        <h2 class="visually-hidden" id="system-breadcrumb">Breadcrumb</h2>
+    <ol class="breadcrumb">
+          <li class="breadcrumb__item">
+                  <a class="breadcrumb__element breadcrumb__link" href="/">Home</a>
+              </li>
+          <li class="breadcrumb__item">
+                  <a class="breadcrumb__element breadcrumb__link" href="/catalog">Catalog</a>
+              </li>
+          <li class="breadcrumb__item">
+                  <a class="breadcrumb__element breadcrumb__link" href="/catalog/journals">Journals</a>
+              </li>
+          <li class="breadcrumb__item">
+                  <span class="breadcrumb__element">Intelligent Data Analysis</span>
+              </li>
+        </ol>
+  </nav>
+
+  </div>
+
+  
+          </div>
+        </div>
+          
+    
+      
+                    
+    <main role="main" class="main no-sidebars">
+
+      <div class="container">
+
+        <a id="main-content" tabindex="-1"></a>
+                <div class="main__content">
+                              
+
+
+
+  
+
+
+    
+  
+ 
+
+  
+  
+
+<div id="block-rocketship-theme-starter-content" data-bem="content rocketship_theme_starter_content" class="block block--provider-system block--system-main-block block--id-rocketship-theme-starter-content block--region-content block-system" aria-label="Main page content">
+
+  
+      
+
+      
+
+
+    
+          
+  
+          
+<article about="/catalog/journals/intelligent-data-analysis" class="node node--view-mode-full node--journal node--journal--full journal--full">
+  
+    
+
+  
+  
+  <div class="node__content node__content--view-mode-full node__content--journal node__content--journal--full">
+        
+
+
+
+
+
+
+
+
+    <div class="rs-intro-paragraphs layout--rs-top layout layout-section layout--label-intro-paragraphs">
+        
+    <div class="layout-builder__region layout__region">
+
+      
+      
+      
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodejournalfield-intro-paragraphs block-layout_builder" aria-label="Intro paragraphs">
+
+  
+      
+
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-intro-paragraphs field--type-entity-reference-revisions field--label-hidden field-intro-paragraphs">
+
+        
+    
+    
+      <div class="field__items field__items--name-field-intro-paragraphs">
+                        
+        
+                      
+<div class="field__item field__item--name-field-intro-paragraphs field__item--type-entity-reference-revisions field__item--label-hidden">
+      
+
+
+  <div class="has-bg-stretched has-bg bg--spot-1 p--view-mode--left p-003--view-mode--left p-003--bg--spot-1 paragraph paragraph--view-mode-default paragraph--type-p-003">
+    
+    
+          
+
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-p-text field--type-text-long field--label-hidden text-long field-p-text">
+
+        
+    
+                  <p><span><strong>Call for papers for a Special Issue:</strong> </span><a href="https://www.iospress.com/news/call-for-papers-for-a-special-issue-on-convergence-of-federated-learning-for-big-data" target="_blank"><span>Convergence of Federated Learning for Big Data Analytics in High-Performance 6G Networks</span></a><span> (</span><em><span><strong>submission deadline: December 25, 2023</strong></span></em><span>)</span></p>
+
+          
+  
+</div>
+
+      </div>
+
+  </div>
+                        </div>
+    
+  
+</div>
+
+
+  </div>
+
+
+      
+      
+    </div>
+    </div>
+
+
+
+
+
+
+
+<div class="layout--rs-two-col layout layout-section layout--2col layout--sidebar layout--sidebar-primary layout--label-rocketship-2-col">
+  <div class="layout__cols layout__cols--sidebar layout__cols--sidebar-primary">
+
+              <div class="layout__region layout-builder__region layout__sidebar layout__sidebar--sidebar layout__sidebar--sidebar-primary layout__sidebar--sidebar-primary--left">
+                            <div class="layout__sidebar__row layout__sidebar__row--primary layout__sidebar__row--top layout__sidebar__row--top--primary">
+            
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodejournaltitle block-layout_builder" aria-label="Title">
+
+  
+      
+
+        
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-title field--type-string field--label-hidden title">
+
+        
+    
+                  <h1><a href="/catalog/journals/intelligent-data-analysis" hreflang="en">Intelligent Data Analysis</a></h1>
+          
+  
+</div>
+
+
+  </div>
+
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodejournalfield-journal-subtitle block-layout_builder" aria-label="Subtitle">
+
+  
+      
+
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-journal-subtitle field--type-string field--label-hidden field-journal-subtitle">
+
+        
+    
+                  <h4><a href="/catalog/journals/intelligent-data-analysis" hreflang="en">An International Journal</a></h4>
+          
+  
+</div>
+
+
+  </div>
+
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-iospress-journal block--node-journal-impact-factor-cite-score block-iospress_journal" aria-label="Node Journal - Impact Factor &amp; Cite score">
+
+  
+      
+
+      
+
+
+  
+  
+  
+          
+
+
+  
+
+<div class="group impact-factor-and-cite-score-wrapper">
+  
+
+
+  
+  
+  
+          
+
+
+  
+
+<div class="group impact-factor-wrapper">
+  
+
+
+  
+  
+  
+          
+
+
+  
+
+<div class="group impact-factor-year">
+  <h5 class="field-label">Impact Factor</h5>
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-impact-factor-year field--type-string field--label-hidden field-impact-factor-year">
+
+        
+    
+                  2024
+          
+  
+</div>
+
+
+</div>
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-impact-factor field--type-string field--label-hidden field-impact-factor">
+
+        
+    
+                  0.9
+          
+  
+</div>
+
+
+</div>
+
+
+
+  
+  
+  
+          
+
+
+  
+
+<div class="group cite-score-wrapper">
+  
+
+
+  
+  
+  
+          
+
+
+  
+
+<div class="group cite-score-year">
+  <h5 class="field-label">CiteScore</h5>
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-cite-score-year field--type-string field--label-hidden field-cite-score-year">
+
+        
+    
+                  2024
+          
+  
+</div>
+
+
+</div>
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-cite-score field--type-string field--label-hidden field-cite-score">
+
+        
+    
+                  2.2
+          
+  
+</div>
+
+
+</div>
+
+</div>
+
+  </div>
+
+          </div>
+                                    <div class="layout__sidebar__row layout__sidebar__row--primary layout__sidebar__row--main layout__sidebar__row--main--primary">
+            
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodejournalfield-volume block-layout_builder" aria-label="Volume">
+
+  
+      
+
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-volume field--type-string field--label-inline field-volume">
+
+      
+      
+                  
+      
+      
+
+
+
+
+
+  
+  <h3 class="h h3">
+          Volume
+      </h3>
+
+
+      
+    
+                  28, 6 issues
+          
+  
+</div>
+
+
+  </div>
+
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodejournalfield-last-issue block-layout_builder" aria-label="Last issue">
+
+  
+      
+
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-last-issue field--type-string field--label-inline field-last-issue">
+
+      
+      
+                  
+      
+      
+
+
+
+
+
+  
+  <h3 class="h h3">
+          Latest issue
+      </h3>
+
+
+      
+    
+                  28:6 online 15 November 2024
+          
+  
+</div>
+
+
+  </div>
+
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodejournalfield-next-issue block-layout_builder" aria-label="Next issue">
+
+  
+      
+
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-next-issue field--type-string field--label-inline field-next-issue">
+
+      
+      
+                  
+      
+      
+
+
+
+
+
+  
+  <h3 class="h h3">
+          Next issue
+      </h3>
+
+
+      
+    
+                  29:1 scheduled for January 2025
+          
+  
+</div>
+
+
+  </div>
+
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodejournalfield-backvolume-description block-layout_builder" aria-label="Back volumes">
+
+  
+      
+
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-backvolume-description field--type-string field--label-inline field-backvolume-description">
+
+      
+      
+                  
+      
+      
+
+
+
+
+
+  
+  <h3 class="h h3">
+          Back volumes
+      </h3>
+
+
+      
+    
+                  From volume 1, 1997
+          
+  
+</div>
+
+
+  </div>
+
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodejournalfield-issn-print block-layout_builder" aria-label="ISSN print">
+
+  
+      
+
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-issn-print field--type-string field--label-inline field-issn-print">
+
+      
+      
+                  
+      
+      
+
+
+
+
+
+  
+  <h3 class="h h3">
+          ISSN print
+      </h3>
+
+
+      
+    
+                  1088-467X
+          
+  
+</div>
+
+
+  </div>
+
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodejournalfield-issn-online block-layout_builder" aria-label="ISSN online">
+
+  
+      
+
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-issn-online field--type-string field--label-inline field-issn-online">
+
+      
+      
+                  
+      
+      
+
+
+
+
+
+  
+  <h3 class="h h3">
+          ISSN online
+      </h3>
+
+
+      
+    
+                  1571-4128
+          
+  
+</div>
+
+
+  </div>
+
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodejournalfield-imprint block-layout_builder" aria-label="Imprint">
+
+  
+      
+
+      
+  </div>
+
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodejournalfield-language block-layout_builder" aria-label="Language">
+
+  
+      
+
+      
+  </div>
+
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodejournalfield-subjects block-layout_builder" aria-label="Subjects">
+
+  
+      
+
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-subjects field--type-entity-reference field--label-inline field-subjects">
+
+      
+      
+                  
+      
+      
+
+
+
+
+
+  
+  <h3 class="h h3">
+          Subjects
+      </h3>
+
+
+      
+    
+    
+      <div class="field__items field__items--name-field-subjects">
+                        
+        
+                      
+<div class="field__item field__item--name-field-subjects field__item--type-entity-reference field__item--label-inline">
+      <a href="/subjects/data-science" hreflang="en">Data Science,</a>
+  </div>
+                      
+<div class="field__item field__item--name-field-subjects field__item--type-entity-reference field__item--label-inline">
+      <a href="/subjects/computer-sciences-mathematics-statistics" hreflang="en">Computer Sciences, Mathematics &amp; Statistics,</a>
+  </div>
+                      
+<div class="field__item field__item--name-field-subjects field__item--type-entity-reference field__item--label-inline">
+      <a href="/subjects/computer-sciences" hreflang="en">Computer Sciences,</a>
+  </div>
+                      
+<div class="field__item field__item--name-field-subjects field__item--type-entity-reference field__item--label-inline">
+      <a href="/subjects/artificial-intelligence" hreflang="en">Artificial Intelligence</a>
+  </div>
+                        </div>
+    
+  
+</div>
+
+
+  </div>
+
+          </div>
+                                    <div class="layout__sidebar__row layout__sidebar__row--primary layout__sidebar__row--bottom layout__sidebar__row--bottom--primary">
+            
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodejournalfield-open-access block-layout_builder" aria-label="Open access">
+
+  
+      
+
+      
+  </div>
+
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodejournalfield-online-only block-layout_builder" aria-label="Online only">
+
+  
+      
+
+      
+  </div>
+
+          </div>
+              </div>
+    
+    <div class="layout__region layout-builder__region layout__content layout__content--sidebar layout__content--sidebar-primary layout__content--sidebar-primary--right">
+                      <div class="layout__content__row layout__content__row--top">
+          
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodejournalfield-media-canonical-image block-layout_builder" aria-label="Image">
+
+  
+      
+
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-media-canonical-image field--type-entity-reference field--label-hidden field-media-canonical-image">
+
+        
+    
+                  <article class="media media--type-image media--view-mode-cover-image">
+  
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-media-image field--type-image field--label-hidden field-media-image">
+
+        
+    
+                    <img loading="lazy" src="/sites/default/files/styles/image_style_scale_width_xs/public/media/images/2021-11/IDA_21_web.jpg?itok=YKccVg2R" width="320" height="427" alt="Intelligent Data Analysis Cover" typeof="foaf:Image" class="image-style-image-style-scale-width-xs">
+
+
+
+          
+  
+</div>
+
+
+  </article>
+
+          
+  
+</div>
+
+
+  </div>
+
+        </div>
+                            <div class="layout__content__row layout__content__row--main">
+          
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodejournalfield-content-url block-layout_builder" aria-label="Content URL">
+
+  
+      
+
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-content-url field--type-link field--label-hidden field-content-url">
+
+        
+    
+                  <a href="https://content.iospress.com/journals/intelligent-data-analysis" target="_blank">View Content</a>
+          
+  
+</div>
+
+
+  </div>
+
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-iospress-journal block--node-journal-pricing-info-link block-iospress_journal" aria-label="Node Journal - Pricing info">
+
+  
+      
+
+      <a href="/journal-pricing?id=25638#1088-467X" target="_blank" hreflang="en">Info about pricing</a>
+  </div>
+
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-iospress-journal block--node-journal-librarian-link block-iospress_journal" aria-label="Node Journal - Librarian link">
+
+  
+      
+
+      <a href="/recommend-to-your-librarian?id=25638" hreflang="en">Recommend this title to librarian</a>
+  </div>
+
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-iospress-journal block--node-journal-newsletter-link block-iospress_journal" aria-label="Node Journal - newsletter signup link">
+
+  
+      
+
+      <a href="https://www.surveymonkey.com/r/ios-journal-info?id=25638" target="_blank">Sign up for news</a>
+  </div>
+
+        </div>
+                </div>
+
+        
+  </div>
+</div>
+      <div class="layout layout--tabs">
+    <div class="layout__region layout__region--tabs tabs-region">
+                    
+        <!-- Nav tabs -->
+        <ul class="tabs tab--primary layout-tabs">
+                                                                        <li class="tabs__tab">
+              <a class="nav-item nav-link " href="#aims-scope" id="tab-aims-scope">
+                <div class="label"> Aims &amp; Scope</div>
+              </a>
+            </li>
+                                                                        <li class="tabs__tab">
+              <a class="nav-item nav-link " href="#editorial-board" id="tab-editorial-board">
+                <div class="label"> Editorial Board</div>
+              </a>
+            </li>
+                                                                        <li class="tabs__tab">
+              <a class="nav-item nav-link " href="#author-guidelines" id="tab-author-guidelines">
+                <div class="label"> Author Guidelines</div>
+              </a>
+            </li>
+                                                                        <li class="tabs__tab">
+              <a class="nav-item nav-link " href="#abstractedindexed-in" id="tab-abstractedindexed-in">
+                <div class="label"> Abstracted/Indexed in</div>
+              </a>
+            </li>
+                                              <li class="tabs__tab">
+              <a class="nav-item nav-link " href="#open-access" id="tab-open-access">
+                <div class="label"> Open Access</div>
+              </a>
+            </li>
+                  </ul>
+
+        <!-- Tab panes -->
+        <div class="tab-content-wrapper">
+          <div class="tab-content">
+                          <div class="tab-pane active" id="aims-scope">
+                
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div data-panel-id="aims-scope" class="block block--provider-layout-builder block--field-blocknodejournalfield-aims-and-scope block-layout_builder" aria-label="Aims &amp; Scope">
+
+  
+      
+
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-aims-and-scope field--type-text-long field--label-above field-aims-and-scope">
+
+  
+    
+            
+    
+    
+
+
+
+
+
+  
+  <h2 class="h h2">
+          Aims &amp; Scope
+      </h2>
+
+
+  
+    
+                  <p><em>Intelligent Data Analysis</em> provides a forum for the examination of issues related to the research and applications of Artificial Intelligence techniques in data analysis across a variety of disciplines. These techniques include (but are not limited to): all areas of data visualization, data pre-processing (fusion, editing, transformation, filtering, sampling), data engineering, database mining techniques, tools and applications, use of domain knowledge in data analysis, big data applications, evolutionary algorithms, machine learning, neural nets, fuzzy logic, statistical pattern recognition, knowledge filtering, and post-processing. In particular, papers are preferred that discuss the development of new AI-related data analysis architectures, methodologies, and techniques and their applications to various domains.</p>
+<p>Papers published in this journal are geared heavily towards applications, with an anticipated split of 70% of the papers published being applications-oriented, research and the remaining 30% containing more theoretical research. Manuscripts should be submitted in PDF format only. Please prepare your manuscripts in single-space, and include figures and tables in the body of the text where they are referred to. For all enquiries regarding the submission of your manuscript please contact the IDA journal editor: <a href="mailto:editor1@ida-ij.com">editor1@ida-ij.com</a></p>
+
+          
+  
+</div>
+
+  </div>
+
+              </div>
+                          <div class="tab-pane " id="editorial-board">
+                
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div data-panel-id="editorial-board" class="block block--provider-layout-builder block--field-blocknodejournalfield-journal-edbo block-layout_builder" aria-label="Editorial Board">
+
+  
+      
+
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-journal-edbo field--type-text-long field--label-above field-journal-edbo">
+
+  
+    
+            
+    
+    
+
+
+
+
+
+  
+  <h2 class="h h2">
+          Editorial Board
+      </h2>
+
+
+  
+    
+    
+      <div class="field__items field__items--name-field-journal-edbo">
+                        
+        
+                      
+<div class="field__item field__item--name-field-journal-edbo field__item--type-text-long field__item--label-above">
+      <h3>Editor-in-Chief</h3>
+<p>JM. Peña<br>Lurtis Ltd, Oxford<br>Wood Centre for Innovation Stansfeld Park,&nbsp;Quarry Rd<br>PO Box 1658, Oxford<br>Oxfordshire, OX4 9PW, United Kingdom</p>
+<p dir="auto">Center for Computer Simulation<br>Technical University of Madrid<br>Campus de Montegancedo / Scientific and Technological Park<br>N/N Montepríncipe Avenue<br>28660 Boadilla del Monte, Madrid, Spain<br>Email:&nbsp;<a href="mailto:jmpena@ida-ij.com">jmpena@ida-ij.com</a></p>
+<h3>Founding Editor</h3>
+<p>A. Famili<br>1696 Des Sapins Gardens<br>Ottawa, ON K1C8E3<br>Canada</p>
+<h3>Editorial Board</h3>
+<p>Rina Azulay<br>Computer Science Department<br>Jerusalem College of Technology, Israel</p>
+<p>Muthu Bala Anand<br>INTI International University, Malaysia<br>Department of Computer Science &amp; Engineering,<br>Tagore Institute of Engineering and Technology, Attur, India</p>
+<p>Márcio P. Basgalupp<br>Institute of Science and Technology, Federal University of Sao Paulo<br>Sao Paulo, Brazil</p>
+<p>Elena Bellodi<br>Department of Engineering<br>University of Ferrara, Ferrara, Italy</p>
+<p>Petr Berka<br>Department of Information and Knowledge Engineering, University of Economics<br>Prague, Czech Republic</p>
+<p>Carmen Camara<br>Computer Science Department, Carlos III University of Madrid<br>Madrid, Spain</p>
+<p>Juana Canul-Reich<br>División Académica de Ciencias y Tecnologías de la Información (DACyTI)<br>Universidad Juarez Autonoma de Tabasco<br>Villahermosa, Mexico</p>
+<p>Mu-Yen Chen<br>Department of Engineering Science, National Cheng Kung University<br>Tainan, Taiwan</p>
+<p>Lin Chi<br>Institute of Intelligent System, School of Software<br>Dalian University of Technology, Dalian, China</p>
+<p>Boris Cule<br>Department of Cognitive Science and Artificial Intelligence, Tilburg University<br>Tilburg, the Netherlands</p>
+<p>Tiziana D'Alessandro<br>Artificial Intelligence and Data Analysis Laboratory<br>Università degli Studi di Cassino e del Lazio Meridionale, Italy</p>
+<p>Sujata Dash<br>Department of Information Technology, Nagaland University<br>Lumami, India</p>
+<p>Wouter Duivesteijn<br>Department of Mathematics and Computer Science, Technische Universiteit Eindhoven<br>Eindhoven, Netherlands</p>
+<p>Ad Feelders<br>Institute of Information &amp; Computing Sciences, University of Utrecht<br>Utrecht, The Netherlands</p>
+<p>Carlos Fernandez<br>Department of Computer Science and Information Technologies, University of A Coruña,<br>A Coruña, Spain</p>
+<p>Benoît Frenay<br>Faculty of Computer Science / HuMaLearn / NaDI, Université de Namur<br>Namur, Belgium</p>
+<p>Joao Gama<br>Artificial Intelligence and Computer Science Laboratory, University of Porto<br>Porto, Portugal</p>
+<p>Luís Paulo F. Garcia<br>Department of Computer Science<br>University of Brasilia, Brasilia, Brazil</p>
+<p>Jelena Graovac<br>Department of Computer Science, Faculty of Mathematics, University of Belgrade<br>Belgrade, Serbia</p>
+<p>Dan Guo<br>School of Computer Science and Information Engineering / School of Artificial Intelligence Hefei University of Technology<br>China</p>
+<p>Achim G. Hoffmann<br>School of Computer Science &amp; Engineering, University of South Wales<br>Sydney, NSW, Australia</p>
+<p>Tamás Horváth<br>School of Computing Engineering and the Built Environment<br>Edinburgh Napier University, Edinburgh, Scotland, UK<br>Institute of Computer Science<br>Pavol Jozef Šafárik University, Košice, Slovakia.</p>
+<p>Tzung-Pei Hong<br>Department of Computer Science and Information Engineering, National University of Kaohsiung<br>Kaohsiung, Taiwan</p>
+<p>Enrique de la Hoz<br>Industrial Engineering Department, Universidad del Magdalena<br>Santa Marta, Colombia</p>
+<p>Jinpeng Hu<br>School of Computer Science and Information Engineering<br>Hefei University of Technology<br>China</p>
+<p>Juhua Hu<br>School of Engineering and Technology, University of Washington<br>Tacoma, WA, USA</p>
+<p>Chien-Feng Huang<br>Department of Computer Science and Information Engineering, National University of Kaohsiung<br>Kaohsiung, Taiwan</p>
+<p>Ivan Izonin<br>Department of Artificial Intelligence, Lviv Polytechnic National University<br>Lviv, Ukraine</p>
+<p>Eric Jiang<br>Shiley-Marcos School of Engineering, University of San Diego<br>San Diego, CA, USA</p>
+<p>Brian Keith N.<br>Department of Systems and Computer Engineering, Catholic University of the North<br>Antofagasta, Chile</p>
+<p>Sung-Ho Kim<br>Division of Applied Mathematics, KAIST<br>Daejeon, South Korea</p>
+<p>Frank Klawon<br>Department of Computer Science, Ostfalia University of Applied Sciences<br>Wolfenbuettel, Germany</p>
+<p>Irena Koprinska<br>School of Computer Science, The University of Sydney<br>Camperdown, NSW, Australia</p>
+<p>Viacheslav Kovtun<br>Department of Computer Control Systems, Vinnytsia National Technical University<br>Vinnytsia, Ukraine</p>
+<p>Iurii Krak<br>Theoretical Cybernetics Department, Taras Shevchenko National University of Kyiv<br>Kyiv, Ukraine</p>
+<p>Georg Krempl<br>Department of Information and Computing Sciences, Utrecht University<br>Utrecht, Netherlands</p>
+<p>Ajay Kumar<br>Department of Information Technology, KIET Group of Institutions<br>Ghaziabad, India</p>
+<p>Jerry Chun-Wei Lin<br>Department of Computing, Mathematics, and Physics, Western Norway University of Applied Sciences (HVL)<br>Bergen, Norway</p>
+<p>Mingwei Lin<br>College of Computer and Cyber Security<br>Fujian Normal University, Fuzhou, China</p>
+<p>Yingzi Lin<br>College of Engineering, Northeastern University<br>Boston, MA, USA</p>
+<p dir="auto">Shuai Liu<br>College of Information Science and Engineering<br>Hunan Normal University, Changsha, China</p>
+<p dir="auto">Xin Liu<br>Artificial Intelligence Research Center<br>National Institute of Advanced Industrial Science and Technology (AIST) Tokyo, Japan</p>
+<p dir="auto">Haris M. Khalid<br>College of Engineering and Information Technology<br>University of Dubai, Dubai, United Arab Emirates</p>
+<p>Priyan Malarvizhi Kumar<br>Department of Information Science, University of North Texas<br>Texas, USA</p>
+<p>Andres Masegosa<br>Department of Computer Science, Aalborg University<br>Aalborg, Denmark</p>
+<p>Engelbert Mephu Nguifo<br>Computer Science Institute - LIMOS<br>Université Clermont Auvergne<br>Aubiere, France</p>
+<p>Ioanna Miliou<br>Department of Computer and System Sciences<br>Stockholm University, Sweden</p>
+<p>Pedro Lind<br>Department of Computer Science, Faculty of Technology, Art and Design, OSLOMET<br>Oslo, Norway</p>
+<p>Gokul Prabhakar<br>Financial Services, Global Technology<br>Somerset, NJ, USA</p>
+<p>Rita Ribeiro<br>Department of Computer Science, University of Porto &amp; INESC TEC<br>Porto, Portugal</p>
+<p>Fabrizio Riguzzi<br>Department of Mathematics and Computer Science, University of Ferrara<br>Ferrara, Italy</p>
+<p>Jose Ruiz Shulcloper<br>Advanced Technologies Application Center (CENATAV)<br>University of Informatics Sciences, Cuba</p>
+<p>Aceng Sambas<br>Department of Mechanical Engineering<br>Universitas Muhammadiyah Tasikmalaya<br>Tasikmalaya, Indonesia</p>
+<p>Alon Schclar<br>School of Computer Science, The Academic College of Tel-Aviv-Yaffo,<br>Tel Aviv, Israel</p>
+<p>CB Sivaparthipan<br>Department of Computer Science, Tagore Institute of Engineering and Technology<br>Tamil Nadu, India</p>
+<p>Leo Soheily Khah &nbsp;&nbsp;<br>LiveRamp<br>Paris, France</p>
+<p>Farhad Soleimanian Gharehchopogh<br>Department of Computer Engineering, Islamic Azad University<br>Tehran, Iran</p>
+<p>Myra Spiliopoulou<br>Knowledge Management &amp; Discovery Lab, Faculty of Computer Science Otto-von-Guericke University Magdeburg<br>Magdeburg, Germany</p>
+<p>Gautam Srivastava<br>Department of Mathematics and Computer Science, Brandon University<br>Brandon, Canada</p>
+<p>Einoshin Suzuki<br>Faculty of Information Science and Electrical Engineering, Kyushu University<br>Fukuoka, Japan</p>
+<p>Marcin Szczuka<br>Institute of Mathematics, University of Warsaw<br>Warsaw, Poland</p>
+<p>Chunwei Tian<br>School of Software, Northwestern Polytechnical University<br>Xi'an, China</p>
+<p>Bhekisipho Twala<br>Artificial Intelligence &amp; Data Science, Tshwane University of Technology<br>Republic of South Africa</p>
+<p>Yishi Wang<br>Retiring<br>Cheersa<br>Chema</p>
+<p>Guiwu Wei<br>School of Business, Sichuan Normal University<br>Chengdu, China</p>
+<p>De-Nian Yang<br>Institute of Information Science, Academia Sinica<br>New Taipei, Taiwan</p>
+<p>Mingxin Yu<br>School of Instrument Science and Opto-Electronics Engineering, Beijing Information Science and Technology University<br>Beijing, China</p>
+<p>Shuhan Yuan<br>Computer Science Department, Utah State University<br>Logan, UT, USA</p>
+<p>De-Chuan Zhan<br>National Key Laboratory for Novel Software Technology, Nanjing University<br>Nanjing, China</p>
+<p>Min-Ling Zhang<br>School of Computer Science and Engineering, Southeast University<br>Nanjing, China</p>
+<p>Xiaoli Zhang<br>Key Laboratory of Symbolic Computation and Knowledge Engineering of Ministry of Education Jilin University<br>Changchun, China</p>
+
+  </div>
+                        </div>
+    
+  
+</div>
+
+  </div>
+
+              </div>
+                          <div class="tab-pane " id="author-guidelines">
+                
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div data-panel-id="author-guidelines" class="block block--provider-layout-builder block--field-blocknodejournalfield-manuscript-info block-layout_builder" aria-label="Author Guidelines">
+
+  
+      
+
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-manuscript-info field--type-text-long field--label-above field-manuscript-info">
+
+  
+    
+            
+    
+    
+
+
+
+
+
+  
+  <h2 class="h h2">
+          Author Guidelines
+      </h2>
+
+
+  
+    
+                  <p><strong>SUBMISSION OF MANUSCRIPT</strong></p>
+<p>By submitting my article to this journal, I agree to the&nbsp;<a href="http://iospress.com/author-copyright-agreement" target="_blank" title="‌" rel="noreferrer ugc nofollow">Author Copyright Agreement</a>, the&nbsp;<a href="http://iospress.com/ethics-policy" target="_blank" title="‌" rel="noreferrer ugc nofollow">IOS Press Ethics Policy</a>, and the&nbsp;<a href="http://iospress.com/privacy-policy" target="_blank" title="‌" rel="noreferrer ugc nofollow">IOS Press Privacy Policy</a>.</p>
+<p>Authors are requested to submit their manuscript electronically to <a href="https://www.editorialmanager.com/ida/default2.aspx" target="_blank" rel="noopener">the journal's editorial management&nbsp;system</a>.</p>
+<p>Authors are encouraged to use the <a href="https://www.iospress.nl/wp-content/uploads/2020/01/texsupport.iospress-ida-master.zip">IDA LaTeX style file</a> and to follow the formatting rules explained in more detail below. MsWord users can prepare their paper as an unformatted double-spaced manuscript. When an article is accepted for publication the publisher will ensure that the article is typeset according to the journal style.</p>
+<p><em>Intelligent Data Analysis</em> invites the submission of research and application articles that comply with the aims and scope of the journal. In particular, articles that discuss development of new AI architectures, methodologies, and techniques and their applications to the field of data analysis are preferred. Manuscripts should be submitted in *.pdf format only. Please prepare your manuscripts in single-space, and include figures and tables in the body of the text where they are referred to. Manuscripts are received with the understanding that their content is unpublished material and is not being submitted for publication elsewhere. Further, it is understood that each co-author has made substantial contributions to the work described and that each accepts joint responsibility for publication.</p>
+<p><span lang="EN-GB" xml:lang="EN-GB"><strong>Open access option</strong></span><br><span lang="EN-US" xml:lang="EN-US">The </span><a href="http://www.iospress.nl/service/authors/open-library-ios-press-open-access-option/" target="_blank"><span>IOS Press Open Library</span></a><span lang="EN-US" xml:lang="EN-US">&nbsp;offers authors an open access option. By selecting the open access option, the article will be freely available from the moment it is published, also in the pre-press module. In the Open Library&nbsp;the article processing charges are paid in the form of an open access fee. Authors will receive an order form upon acceptance of their article. Open access is entirely optional. &nbsp;</span></p>
+<p><span lang="EN-GB" xml:lang="EN-GB"><strong>Publication types and fees</strong></span></p>
+<p><span lang="EN-GB" xml:lang="EN-GB">When an article is accepted for publication, authors are required to pay a publication fee that depends on the publication type:</span></p>
+<ul><li><span lang="EN-GB" xml:lang="EN-GB">Subscription-based publication (restricted access): </span>US$450 / €450<span lang="EN-GB" xml:lang="EN-GB">.</span></li>
+<li><span lang="EN-GB" xml:lang="EN-GB">Open Access option (CC BY-NC 4.0): </span>US$1500 / €1500<span lang="EN-GB" xml:lang="EN-GB">.</span></li>
+<li><span lang="EN-GB" xml:lang="EN-GB">Open Access option without the Non-Commercial clause (CC BY 4.0): </span>US$2150/€2150.</li>
+</ul><p><span lang="EN-GB" xml:lang="EN-GB">Page charges do not apply to feature articles.</span></p>
+<p>Waivers are available for corresponding authors from low-income countries as identified by the Hinari Project. A waiver request for the publication fee should be submitted before the initial submission of an article.</p>
+<p><strong>Required files</strong><br>After the article has been accepted, the authors should submit the final version as source files, including a word processor file of the text, such as Word or LateX (If using LaTeX, please use the standard article.sty as a style file and also send a PDF version of the LaTeX file).</p>
+<p><strong>Colour figures</strong><br>It is possible to have figures printed in colour, provided the cost of their reproduction is paid for by the author. See Preparation of Manuscripts for the required file formats.</p>
+<p><strong>PREPARATION OF MANUSCRIPTS</strong></p>
+<p><strong>Organization of the paper and style of presentation</strong><br>Manuscripts must be written in English. Authors whose native language is not English are advised to consult a professional English language editing service or a native English speaker prior to submission.</p>
+<p>Manuscripts should be prepared with wide margins and double (single) spacing throughout, including the abstract, footnotes and references. Manuscripts should be submitted in *.pdf format only. Every page of the manuscript, including the title page, references, tables, etc., should be numbered. However, in the text no reference should be made to page numbers; if necessary, one may refer to sections. Try to avoid the excessive use of italics and bold face.</p>
+<p>Manuscripts should be organized in the following order:</p>
+<p>Title page</p>
+<p>Body of text (divided by subheadings) + Tables, Figures and Figure captions</p>
+<p>Acknowledgements</p>
+<p>References</p>
+<p>Headings and subheadings should be numbered and typed on a separate line, without indentation.</p>
+<p>SI units should be used, i.e., the units based on the metre, kilogramme, second, etc.</p>
+<p><strong>Title page</strong><br>The title page should provide the following information:</p>
+<p>Title (should be clear, descriptive and not too long)</p>
+<p>Name(s) of author(s); please indicate who is the corresponding author</p>
+<p>Full affiliation(s)</p>
+<p>Present address of author(s), if different from affiliation</p>
+<p>Complete address of corresponding author, including tel. no., fax no. and e-mail address</p>
+<p>Abstract; should be clear, descriptive, self-explanatory and not longer than 200 words, it should also be suitable for publication in abstracting services</p>
+<p>Keywords</p>
+<p><strong>Tables</strong></p>
+<p>Figures and Tables</p>
+<p>Number as Table 1, Table 2 etc, and refer to all of them in the text.</p>
+<p>Figures and Tables should be included in the text in the exact location where they are referred to.</p>
+<p>Each table should have a brief and self-explanatory title.</p>
+<p>Column headings should be brief, but sufficiently explanatory. Standard abbreviations of units of measurement should be added between parentheses.</p>
+<p>Vertical lines should not be used to separate columns. Leave some extra space between the columns instead.</p>
+<p>Any explanations essential to the understanding of the table should be given in footnotes at the bottom of the table.</p>
+<p><strong>REFERENCES</strong></p>
+<p>Place citations as numbers in square brackets in the text. All publications cited in the text should be presented in an alphabetical list of references at the end of the manuscript in the following style:</p>
+<p>[1] B. Newman and E.T. Liu, Perspective on BRCA1, <em>Breast Disease</em> <strong>10</strong> (1998), 3-10.<br>[2] D.F. Pilkey, Happy conservation laws, in: <em>Neural Stresses</em>, J. Frost, ed., Controlled Press, Georgia, 1995, pp. 332-391.<br>[3] E. Wilson, <em>Active vibration analysis of thin-walled beam</em>s, Ph.D. Dissertation, University of Virginia, 1991.</p>
+<p><strong>Footnotes</strong><br>Footnotes should only be used if absolutely essential. In most cases it is possible to incorporate the information in the text.</p>
+<ul><li>If used, they should be numbered in the text, indicated by superscript numbers and kept as short as possible.</li>
+</ul><p><strong>Figures</strong></p>
+<p>Number figures as Fig. 1, Fig. 2, etc and refer to all of them in the text.</p>
+<p>Each figure should be provided on a separate sheet. Figures should not be included in the text.</p>
+<p>Colour figures can be included, provided the cost of their reproduction is paid for by the author.</p>
+<p>For the file formats of the figures please take the following into account:</p>
+<p>Line art should be have a minimum resolution of 600 dpi, save as EPS or TIFF</p>
+<p>Grayscales (incl photos) should have a minimum resolution of 300 dpi (no lettering), or 500 dpi (when there is lettering); save as tiff</p>
+<p>Do not save figures as JPEG, this format may lose information in the process</p>
+<p>Do not use figures taken from the Internet, the resolution will be too low for printing</p>
+<p>Do not use colour in your figures if they are to be printed in black &amp; white, as this will reduce the print quality (note that in software often the default is colour, you should change the settings)</p>
+<p>For figures that should be printed in colour, please send a CMYK encoded EPS or TIFF</p>
+<p>Figures should be designed with the format of the page of the journal in mind. They should be of such a size as to allow a reduction of 50%.</p>
+<p>On maps and other figures where a scale is needed, use bar scales rather than numerical ones, i.e., do not use scales of the type 1:10,000. This avoids problems if the figures need to be reduced.</p>
+<p>Each figure should have a self-explanatory caption. The captions to all figures should be typed on a separate sheet of the manuscript.</p>
+<p>Photographs are only acceptable if they have good contrast and intensity.</p>
+<p><strong>COPYRIGHT</strong></p>
+<p><strong>Copyright of your article</strong><br>Authors submitting a manuscript do so on the understanding that they have read and agreed to the terms of the&nbsp;<a href="http://www.iospress.nl/service/authors/author-copyright-agreement/" target="_blank" title="‌" rel="noreferrer ugc nofollow">IOS Press Author Copyright Agreement</a>.</p>
+<p><strong>Article sharing</strong><br>IOS Press adopted Sage’s Article Sharing Policy from 8<sup>th</sup>&nbsp;of July 2024.&nbsp;<br>Please go to:&nbsp; <a href="https://uk.sagepub.com/en-gb/eur/journal-author-archiving-policies-and-re-use">Sage’s Author Archiving and Re-Use Guidelines | SAGE Publications Ltd</a>&nbsp;for details. If your manuscript was submitted prior to 8<sup>th</sup>&nbsp;of July 2024, please contact&nbsp;<a href="mailto:editorial@iospress.nl">editorial@iospress.nl</a>&nbsp;with details of your enquiry.</p>
+<p><strong>PROOFS</strong></p>
+<p>The corresponding author will receive a PDF proof and is asked to check this proof carefully (the publisher will execute a cursory check only). Corrections other than printer's errors, however, should be avoided. Costs arising from such corrections will be charged to the authors.</p>
+<p><strong>PRE-PRESS</strong>&nbsp;<br>The corrected proofs are published online in the journal's pre-press module and the article is fully citable by using its DOI number. This is not the final version. When the article is published in an issue, the final, updated version replaces the pre-press version.</p>
+<p><strong>PURCHASES</strong></p>
+<p><strong>How to order reprints, a PDF file, journals, or IOS Press books</strong><br>The corresponding author of a contribution to the journal will receive a complimentary PDF Author’s Copy of the article, unless otherwise stated. This PDF copy is watermarked and for personal use only. A free PDF copy will not be provided for conference proceedings and abstract issues. An order form for a PDF file without watermark, reprints or additional journal copies will be provided along with the PDF proof.</p>
+<p>If you wish to order reprints of an earlier published article, please contact the publisher for a quotation. IOS Press, Fax: +31 20 687 0019. Email: <a href="mailto:editorial@iospress.nl" target="_blank" rel="noopener">editorial@iospress.nl</a>.</p>
+<p>An author is entitled to 25% discount on IOS Press books. See <a href="http://www.iospress.nl/service/authors/authors-discount/" target="_blank" rel="noopener">Author's discount (25%) on all IOS Press book publications</a>.</p>
+<p><strong>KUDOS</strong></p>
+<p>Authors of published articles (non-prepress, final articles) will be contacted by <a href="http://www.growkudos.com/">Kudos</a>. Kudos is a service that helps researchers maximize the impact and visibility of their research. It allows authors to enrich their articles with lay metadata, add links to related materials and promote their articles through the Kudos system to a wider public. Authors will receive no more than three emails: one invitation and a maximum of two reminders to register for the service and link the published article to their profile. Using and registering for Kudos remains entirely optional. For more information, please have a look at our <a href="http://www.iospress.nl/service/authors/kudos/">authors section</a>.</p>
+<p><strong>HOW TO PROMOTE YOUR WORK</strong></p>
+<p>Would you like some pointers on how to help your research achieve a wider reach and greater impact? Please consult our <a href="https://www.iospress.nl/wp-content/uploads/2017/11/authorandeditortoolkit.pdf" target="_blank" rel="noopener">Promotional Toolkit for Authors</a> for tips.</p>
+<h3><em>Please visit the</em>&nbsp;<a href="https://www.iospress.com/authors" target="_blank" title="‌" rel="noreferrer ugc nofollow"><em>IOS Press Authors page</em></a>&nbsp;<em>for further information.</em></h3>
+
+          
+  
+</div>
+
+  </div>
+
+              </div>
+                          <div class="tab-pane " id="abstractedindexed-in">
+                
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div data-panel-id="abstractedindexed-in" class="block block--provider-layout-builder block--field-blocknodejournalfield-abstracted-indexed-in block-layout_builder" aria-label="Abstracted/Indexed in">
+
+  
+      
+
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-abstracted-indexed-in field--type-text-long field--label-above field-abstracted-indexed-in">
+
+  
+    
+            
+    
+    
+
+
+
+
+
+  
+  <h2 class="h h2">
+          Abstracted/Indexed in
+      </h2>
+
+
+  
+    
+                  <p><span>Academic Search</span><br><span>ACM Digital Library</span><br><span>Business Source Complete</span><br><span>Cabell's Guide or Directory</span><br><span>Cambridge Scientific Abstracts</span><br><span>Compendex</span><br><span>CSA Illumina</span><br><span>DBLP Bibliography Server</span><br><span>EBSCO Databases</span><br><span>EBSCO Engineering Collection</span><br><span>Inspec IET</span><br><span>International Security &amp; Counter-Terrorism Reference Center</span><br><span>io-port</span><br><span>PsycINFO</span><br><span>Science &amp; Technology Collection</span><br><span>SciVerse Scopus</span><br><span>Ulrich's Periodicals Directory</span><br><span>Web of Science: Current Contents®/Engineering, Computing, and Technology</span><br><span>Web of Science: Journal Citation Reports/Science Edition</span><br><span>Web of Science: Science Citation Index Expanded (SciSearch®)</span></p>
+
+          
+  
+</div>
+
+  </div>
+
+              </div>
+                          <div class="tab-pane " id="open-access">
+                
+
+
+  <div class="has-bg-stretched paragraph paragraph--view-mode-full paragraph--type-tabs">
+    
+    
+          
+
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-content field--type-text-long field--label-hidden text-long field-content">
+
+        
+    
+                  <h2>Open Access</h2>
+<p dir="auto">By default, articles published in&nbsp;<em>Intelligent Data Analysis</em>&nbsp;are available only to institutions and individuals with access rights. However, the journal offers all authors the option to purchase open access publication for their article as part of the&nbsp;<a href="https://www.iospress.com/open-library" target="_blank" rel="noreferrer ugc nofollow">IOS Press Open Library</a>. This means that the final published version will be freely available to anyone worldwide, indefinitely, under a Creative Commons license and without the need to purchase access to the article. This is also referred to as “gold” open access.</p>
+<p dir="auto"><strong>Gold open access pricing</strong><br>Authors who choose gold open access publication will be subject to an article publication charge of €1500 / US$1500 for publication under the&nbsp;<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noreferrer ugc nofollow">CC BY-NC 4.0</a>&nbsp;license or €2150 / US$2150 for publication under the&nbsp;<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer ugc nofollow">CC BY 4.0</a>&nbsp;license. Pricing is exclusive of possible taxes. After an article is accepted for publication, the corresponding author will be informed regarding the open access option during the production stages, and will have the opportunity to purchase open access for their article. It could be that the open access fee of an article is waived completely due an institutional agreement IOS Press has with the corresponding authors' institution. Please check the&nbsp;<a href="https://www.iospress.com/open-access-institutional-agreements" target="_blank" rel="noreferrer ugc nofollow">institutional agreements</a>&nbsp;page for details.</p>
+<p dir="auto"><strong>Green open access</strong><br>Authors who do not make use of the gold open access option may still make their article freely available using self-archiving, also referred to as green open access. Authors may make their final accepted manuscript available for free download from their personal or institutional website or institutional archive. This model is free for the author.</p>
+
+          
+  
+</div>
+
+      </div>
+
+              </div>
+                      </div>
+                      <div class="ioscom-block ioscom-region-sidebar_right align-horizontal horizontal-label" data-region="sidebar_right" data-limit="2">
+  <div class="image-placeholder">
+    <span class="placeholder-text">Loading...</span>
+  </div>
+</div>
+
+                  </div>
+                  
+    </div>
+  </div>
+  <div class="layout layout--onecol">
+    <div class="layout__region layout__region--content">
+      
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-iospress-ldconnect block--ldconnect-sdgs block-iospress_ldconnect" aria-label="SDG related to this journal">
+
+  
+      
+
+      <h2 class="sdg-title">Sustainable Development Goals</h2><h4>The content of this journal relates to SDG:</h4><div class="sdg-img-container"><img class="sdg-img" style="height: 100px;padding-right: 10px;display: inline-block;" src="/modules/custom/iospress_ldconnect/images/sdg/sdg01.png" alt="sdg symbol"><img class="sdg-img" style="height: 100px;padding-right: 10px;display: inline-block;" src="/modules/custom/iospress_ldconnect/images/sdg/sdg02.svg" alt="sdg symbol"><img class="sdg-img" style="height: 100px;padding-right: 10px;display: inline-block;" src="/modules/custom/iospress_ldconnect/images/sdg/sdg03.png" alt="sdg symbol"><img class="sdg-img" style="height: 100px;padding-right: 10px;display: inline-block;" src="/modules/custom/iospress_ldconnect/images/sdg/sdg05.png" alt="sdg symbol"><img class="sdg-img" style="height: 100px;padding-right: 10px;display: inline-block;" src="/modules/custom/iospress_ldconnect/images/sdg/sdg06.png" alt="sdg symbol"><img class="sdg-img" style="height: 100px;padding-right: 10px;display: inline-block;" src="/modules/custom/iospress_ldconnect/images/sdg/sdg07.png" alt="sdg symbol"><img class="sdg-img" style="height: 100px;padding-right: 10px;display: inline-block;" src="/modules/custom/iospress_ldconnect/images/sdg/sdg08.png" alt="sdg symbol"><img class="sdg-img" style="height: 100px;padding-right: 10px;display: inline-block;" src="/modules/custom/iospress_ldconnect/images/sdg/sdg10.png" alt="sdg symbol"><img class="sdg-img" style="height: 100px;padding-right: 10px;display: inline-block;" src="/modules/custom/iospress_ldconnect/images/sdg/sdg11.png" alt="sdg symbol"><img class="sdg-img" style="height: 100px;padding-right: 10px;display: inline-block;" src="/modules/custom/iospress_ldconnect/images/sdg/sdg12.png" alt="sdg symbol"><img class="sdg-img" style="height: 100px;padding-right: 10px;display: inline-block;" src="/modules/custom/iospress_ldconnect/images/sdg/sdg13.png" alt="sdg symbol"><img class="sdg-img" style="height: 100px;padding-right: 10px;display: inline-block;" src="/modules/custom/iospress_ldconnect/images/sdg/sdg16.png" alt="sdg symbol"></div><h4>Visit the <a href="/sustainable-development-goals">SDG page</a> for more information.</h4>
+  </div>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+    <div class="layout--rs-bottom layout layout-section layout--label-rocketship-bottom">
+        
+    <div class="layout-builder__region layout__region">
+
+      
+      
+      
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodejournalfield-paragraphs block-layout_builder" aria-label="Paragraphs">
+
+  
+      
+
+      
+
+
+
+
+      <div class="group--paragraphs">
+                      <div class="group--paragraphs__item">
+          
+
+
+  <div class="has-bg-stretched has-bg bg--spot-3 p--view-mode--left p-003--view-mode--left p-003--bg--spot-3 paragraph paragraph--view-mode-default paragraph--type-p-003">
+    
+    
+          
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-p-title field--type-string field--label-hidden field-p-title">
+
+        
+    
+                  <h2>Supporting Diversity and Inclusion</h2>
+          
+  
+</div>
+
+
+
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-p-text field--type-text-long field--label-hidden text-long field-p-text">
+
+        
+    
+                  <h4>This journal supports IOS Press' actions relating to the Sustainable Development Goals (SDGs) and commits to the&nbsp;<a href="https://www.iospress.com/sustainability#diversity">Diversity and Inclusion Statement</a>.</h4>
+<p><img src="/sites/default/files/inline-images/IDA.png" data-entity-uuid="26fb11be-441c-49e9-8e59-d5f7405aac2b" data-entity-type="file" alt="dark blue banner for IDA author geo data for SDGs"></p>
+<p><em><strong>More information will be available in due course. Check the&nbsp;</strong></em><a href="https://www.iospress.com/sustainable-development-goals"><em><strong>SDGs page</strong></em></a><em><strong>&nbsp;for updates.</strong></em></p>
+
+          
+  
+</div>
+
+      </div>
+
+        </div>
+                  </div>
+  
+  </div>
+
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-iospress-news block--journal-related-news block-iospress_news" aria-label="Related news block (for Journal)">
+
+  
+      
+
+      <h2>Related News</h2>
+
+
+
+    
+          
+  
+          
+<article about="/news/call-for-papers-for-a-special-issue-on-convergence-of-federated-learning-for-big-data" class="node node--view-mode-teaser node--blog node--blog--teaser blog--teaser">
+  
+          
+
+
+
+
+    
+
+  
+  
+  <div class="node__content node__content--view-mode-teaser node__content--blog node__content--blog--teaser">
+        
+
+
+
+
+
+
+
+
+    <div class="layout--rs-header layout layout-section layout--label-header">
+        
+
+  <div class="layout-builder__region layout__region layout__region--header">
+
+    
+    
+    
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodeblogfield-media-canonical-image block-layout_builder" aria-label="Image">
+
+  
+      
+
+      
+
+
+
+
+  
+   
+
+  
+<div data-blazy="" class="field field--name-field-media-canonical-image field--type-entity-reference field--label-hidden field-media-canonical-image blazy blazy--field blazy--field-media-canonical-image blazy--field-media-canonical-image---custom">
+
+        
+    
+                      <div data-b-token="b-c6c8ca27e30" class="media media--blazy media--bundle--image media--image media--responsive is-b-loading">  <picture>
+                  <source srcset="about:blank" media="all and (min-width: 1200px)" type="image/png" width="1920" height="640" data-srcset="/sites/default/files/styles/image_style_1_3_landscape_xl/public/media/images/2024-11/ida-news_0.png?h=c6eb0cd4&amp;itok=q_BCXDcc 1x, /sites/default/files/styles/image_style_1_3_landscape_xl_2x/public/media/images/2024-11/ida-news_0.png?h=c6eb0cd4&amp;itok=UZf-GJ7c 2x">
+              <source srcset="about:blank" media="all and (min-width: 940px)" type="image/png" width="1200" height="300" data-srcset="/sites/default/files/styles/image_style_1_4_landscape_lg/public/media/images/2024-11/ida-news_0.png?h=c6eb0cd4&amp;itok=dAEZAtjR 1x, /sites/default/files/styles/image_style_1_4_landscape_lg_2x/public/media/images/2024-11/ida-news_0.png?h=c6eb0cd4&amp;itok=z9H62g1V 2x">
+              <source srcset="about:blank" media="all and (min-width: 768px)" type="image/png" width="1024" height="256" data-srcset="/sites/default/files/styles/image_style_1_4_landscape_md/public/media/images/2024-11/ida-news_0.png?h=c6eb0cd4&amp;itok=UIyUnGWY 1x, /sites/default/files/styles/image_style_1_4_landscape_md_2x/public/media/images/2024-11/ida-news_0.png?h=c6eb0cd4&amp;itok=W8sR2Qmu 2x">
+              <source srcset="about:blank" media="all and (min-width: 480px)" type="image/png" width="768" height="192" data-srcset="/sites/default/files/styles/image_style_1_4_landscape_sm/public/media/images/2024-11/ida-news_0.png?h=c6eb0cd4&amp;itok=HklxY75p 1x, /sites/default/files/styles/image_style_1_4_landscape_sm_2x/public/media/images/2024-11/ida-news_0.png?h=c6eb0cd4&amp;itok=ZaY6upFP 2x">
+              <source srcset="about:blank" type="image/png" width="480" height="120" data-srcset="/sites/default/files/styles/image_style_1_4_landscape_xs_wide/public/media/images/2024-11/ida-news_0.png?h=c6eb0cd4&amp;itok=lQXRIVGL 1x, /sites/default/files/styles/image_style_1_4_landscape_xs_wide_2x/public/media/images/2024-11/ida-news_0.png?h=c6eb0cd4&amp;itok=vZ3Hm8wV 2x">
+                  <img decoding="async" class="media__element b-lazy b-responsive" loading="lazy" data-src="/sites/default/files/styles/image_style_1_4_landscape_xs_wide/public/media/images/2024-11/ida-news_0.png?h=c6eb0cd4&amp;itok=lQXRIVGL" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201%201'%2F%3E" width="480" height="120" alt="IDA-news" typeof="foaf:Image">
+
+  </picture>
+        </div>
+  
+          
+  
+</div>
+
+
+  </div>
+
+
+    
+    
+  </div>
+    </div>
+
+
+
+
+
+
+
+
+
+    <div class="layout--rs-content layout layout-section layout--label-content">
+        
+    <div class="layout-builder__region layout__region">
+
+      
+      
+      
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodeblogcreated block-layout_builder" aria-label="Authored on">
+
+  
+      
+
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-created field--type-created field--label-hidden created">
+
+        
+    
+                  <time datetime="2024-11-20T15:55:33+01:00" class="datetime">20 November 2024</time>
+
+          
+  
+</div>
+
+
+  </div>
+
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodeblogtitle block-layout_builder" aria-label="Title">
+
+  
+      
+
+        
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-title field--type-string field--label-hidden title">
+
+        
+    
+                  <h3><a href="/news/call-for-papers-for-a-special-issue-on-convergence-of-federated-learning-for-big-data" hreflang="en">Call for Papers: Special Issue on Convergence of Federated Learning for Big Data Analytics in High-Performance 6G Networks</a></h3>
+          
+  
+</div>
+
+
+  </div>
+
+
+      
+      
+    </div>
+    </div>
+
+
+
+
+
+
+
+
+
+    <div class="layout--rs-content layout layout-section layout--label-content-secondary">
+        
+    <div class="layout-builder__region layout__region">
+
+      
+      
+      
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodeblogfield-blog-teaser block-layout_builder" aria-label="Teaser">
+
+  
+      
+
+      
+
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-blog-teaser field--type-text-long field--label-hidden text-long field-blog-teaser">
+
+        
+    
+                    <p><strong>Submit before December 25, 2024</strong></p>
+
+
+
+          
+  
+</div>
+
+  </div>
+
+
+      
+      
+    </div>
+    </div>
+
+
+
+
+
+
+
+
+
+    <div class="layout--rs-footer layout layout-section layout--label-footer">
+        
+
+  <div class="layout-builder__region layout__region layout__region--footer">
+
+    
+    
+    
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodeblogfield-blog-display-canonical block-layout_builder" aria-label="Display Field: Canonical">
+
+  
+      
+
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-blog-display-canonical field--type-rs-display-field field--label-hidden field-blog-display-canonical">
+
+        
+    
+                  <div class="rs-canonical-link-formatter">
+      <a href="/news/call-for-papers-for-a-special-issue-on-convergence-of-federated-learning-for-big-data" aria-label="Read more about Call for Papers: Special Issue on Convergence of Federated Learning for Big Data Analytics in High-Performance 6G Networks" hreflang="en">Read more</a>
+</div>
+
+          
+  
+</div>
+
+
+  </div>
+
+
+    
+    
+  </div>
+    </div>
+
+      </div>
+
+</article>
+
+
+
+
+    
+                
+        
+                  
+<article about="/news/sage-grows-research-portfolio-by-acquiring-ios-press" class="node node--promoted node--sticky node--view-mode-teaser node--blog node--blog--teaser promoted sticky blog--teaser">
+  
+          
+
+
+
+
+    
+
+  
+  
+  <div class="node__content node__content--promoted node__content--sticky node__content--view-mode-teaser node__content--blog node__content--blog--teaser">
+        
+
+
+
+
+
+
+
+
+    <div class="layout--rs-header layout layout-section layout--label-header">
+        
+
+  <div class="layout-builder__region layout__region layout__region--header">
+
+    
+    
+    
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodeblogfield-media-canonical-image block-layout_builder" aria-label="Image">
+
+  
+      
+
+      
+
+
+
+
+  
+   
+
+  
+<div data-content-gallery="" data-blazy="" class="field field--name-field-media-canonical-image field--type-entity-reference field--label-hidden field-media-canonical-image blazy blazy--content blazy--field blazy--field-media-canonical-image blazy--field-media-canonical-image---custom">
+
+        
+    
+                  <a href="https://www.iospress.com/news/sage-grows-research-portfolio-by-acquiring-ios-press" class="b-link">    <div data-b-token="b-98436633537" class="media media--blazy media--switch media--switch--content media--bundle--image media--image media--responsive is-b-loading">  <img decoding="async" class="media__element b-lazy b-responsive" loading="lazy" data-src="/sites/default/files/media/images/2023-11/C23_2807%20Project%20Iona_FB_LI.jpg" srcset="" width="370" height="250" data-srcset="/sites/default/files/styles/blog_related_landscape_xs_370x210_/public/media/images/2023-11/C23_2807%20Project%20Iona_FB_LI.jpg?h=9c6bfa19&amp;itok=Wvk6JWhJ 1x, /sites/default/files/styles/blog_related_landscape_xs_370x210_2x/public/media/images/2023-11/C23_2807%20Project%20Iona_FB_LI.jpg?h=9c6bfa19&amp;itok=eNXpHuOj 2x" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201%201'%2F%3E" alt="Sage and IOS Press" typeof="foaf:Image">
+
+        </div></a>
+        
+  
+          
+  
+</div>
+
+
+  </div>
+
+
+    
+    
+  </div>
+    </div>
+
+
+
+
+
+
+
+
+
+    <div class="layout--rs-content layout layout-section layout--label-content">
+        
+    <div class="layout-builder__region layout__region">
+
+      
+      
+      
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodeblogcreated block-layout_builder" aria-label="Authored on">
+
+  
+      
+
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-created field--type-created field--label-hidden created">
+
+        
+    
+                  <time datetime="2023-11-01T09:26:16+01:00" class="datetime">1 November 2023</time>
+
+          
+  
+</div>
+
+
+  </div>
+
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodeblogtitle block-layout_builder" aria-label="Title">
+
+  
+      
+
+        
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-title field--type-string field--label-hidden title">
+
+        
+    
+                  <h3><a href="/news/sage-grows-research-portfolio-by-acquiring-ios-press" hreflang="en">Sage Grows Research Portfolio by Acquiring IOS Press</a></h3>
+          
+  
+</div>
+
+
+  </div>
+
+
+      
+      
+    </div>
+    </div>
+
+
+
+
+
+
+
+
+
+    <div class="layout--rs-content layout layout-section layout--label-content-secondary">
+        
+    <div class="layout-builder__region layout__region">
+
+      
+      
+      
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodeblogfield-blog-teaser block-layout_builder" aria-label="Teaser">
+
+  
+      
+
+      
+
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-blog-teaser field--type-text-long field--label-hidden text-long field-blog-teaser">
+
+        
+    
+                    <p class="MsoNormal">Los Angeles, USA – Global independent academic publisher <a href="https://uk.sagepub.com/" rel="noopener" target="_blank">Sage</a>&nbsp;has acquired IOS Press, an independent publisher founded in Amsterdam in 1987 that specializes in...</p>
+
+
+
+          
+  
+</div>
+
+  </div>
+
+
+      
+      
+    </div>
+    </div>
+
+
+
+
+
+
+
+
+
+    <div class="layout--rs-footer layout layout-section layout--label-footer">
+        
+
+  <div class="layout-builder__region layout__region layout__region--footer">
+
+    
+    
+    
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodeblogfield-blog-display-canonical block-layout_builder" aria-label="Display Field: Canonical">
+
+  
+      
+
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-blog-display-canonical field--type-rs-display-field field--label-hidden field-blog-display-canonical">
+
+        
+    
+                  <div class="rs-canonical-link-formatter">
+      <a href="/news/sage-grows-research-portfolio-by-acquiring-ios-press" aria-label="Read more about Sage Grows Research Portfolio by Acquiring IOS Press" hreflang="en">Read more</a>
+</div>
+
+          
+  
+</div>
+
+
+  </div>
+
+
+    
+    
+  </div>
+    </div>
+
+      </div>
+
+</article>
+
+
+
+
+    
+                
+  
+              
+<article about="/news/more-than-75-of-ios-press-journals-now-have-journal-impact-factors" class="node node--promoted node--view-mode-teaser node--blog node--blog--teaser promoted blog--teaser">
+  
+          
+
+
+
+
+    
+
+  
+  
+  <div class="node__content node__content--promoted node__content--view-mode-teaser node__content--blog node__content--blog--teaser">
+        
+
+
+
+
+
+
+
+
+    <div class="layout--rs-header layout layout-section layout--label-header">
+        
+
+  <div class="layout-builder__region layout__region layout__region--header">
+
+    
+    
+    
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodeblogfield-media-canonical-image block-layout_builder" aria-label="Image">
+
+  
+      
+
+      
+
+
+
+
+  
+   
+
+  
+<div data-content-gallery="" data-blazy="" class="field field--name-field-media-canonical-image field--type-entity-reference field--label-hidden field-media-canonical-image blazy blazy--content blazy--field blazy--field-media-canonical-image blazy--field-media-canonical-image---custom">
+
+        
+    
+                  <a href="https://www.iospress.com/news/more-than-75-of-ios-press-journals-now-have-journal-impact-factors" class="b-link">    <div data-b-token="b-407f159c75a" class="media media--blazy media--switch media--switch--content media--bundle--image media--image media--responsive is-b-loading">  <img decoding="async" class="media__element b-lazy b-responsive" loading="lazy" data-src="/sites/default/files/media/images/2023-07/JCR_banner_iospress.com%20%28400%20x%20200%20px%29.png" srcset="" width="370" height="250" data-srcset="/sites/default/files/styles/blog_related_landscape_xs_370x210_/public/media/images/2023-07/JCR_banner_iospress.com%20%28400%20x%20200%20px%29.png?h=e3833335&amp;itok=fbbWQNvs 1x, /sites/default/files/styles/blog_related_landscape_xs_370x210_2x/public/media/images/2023-07/JCR_banner_iospress.com%20%28400%20x%20200%20px%29.png?h=e3833335&amp;itok=3yDROV6G 2x" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201%201'%2F%3E" alt="JCR Banner" typeof="foaf:Image">
+
+        </div></a>
+        
+  
+          
+  
+</div>
+
+
+  </div>
+
+
+    
+    
+  </div>
+    </div>
+
+
+
+
+
+
+
+
+
+    <div class="layout--rs-content layout layout-section layout--label-content">
+        
+    <div class="layout-builder__region layout__region">
+
+      
+      
+      
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodeblogcreated block-layout_builder" aria-label="Authored on">
+
+  
+      
+
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-created field--type-created field--label-hidden created">
+
+        
+    
+                  <time datetime="2023-06-28T09:39:08+02:00" class="datetime">28 June 2023</time>
+
+          
+  
+</div>
+
+
+  </div>
+
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodeblogtitle block-layout_builder" aria-label="Title">
+
+  
+      
+
+        
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-title field--type-string field--label-hidden title">
+
+        
+    
+                  <h3><a href="/news/more-than-75-of-ios-press-journals-now-have-journal-impact-factors" hreflang="en">More Than 75% of IOS Press Journals Now Have Journal Impact Factors</a></h3>
+          
+  
+</div>
+
+
+  </div>
+
+
+      
+      
+    </div>
+    </div>
+
+
+
+
+
+
+
+
+
+    <div class="layout--rs-content layout layout-section layout--label-content-secondary">
+        
+    <div class="layout-builder__region layout__region">
+
+      
+      
+      
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodeblogfield-blog-teaser block-layout_builder" aria-label="Teaser">
+
+  
+      
+
+      
+
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-blog-teaser field--type-text-long field--label-hidden text-long field-blog-teaser">
+
+        
+    
+                    <p>Amsterdam, the Netherlands – <a href="https://www.iospress.com">IOS Press</a>, an independent international publishing house producing peer-reviewed content covering science, technology, and medicine...</p>
+
+
+
+          
+  
+</div>
+
+  </div>
+
+
+      
+      
+    </div>
+    </div>
+
+
+
+
+
+
+
+
+
+    <div class="layout--rs-footer layout layout-section layout--label-footer">
+        
+
+  <div class="layout-builder__region layout__region layout__region--footer">
+
+    
+    
+    
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-layout-builder block--field-blocknodeblogfield-blog-display-canonical block-layout_builder" aria-label="Display Field: Canonical">
+
+  
+      
+
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-blog-display-canonical field--type-rs-display-field field--label-hidden field-blog-display-canonical">
+
+        
+    
+                  <div class="rs-canonical-link-formatter">
+      <a href="/news/more-than-75-of-ios-press-journals-now-have-journal-impact-factors" aria-label="Read more about More Than 75% of IOS Press Journals Now Have Journal Impact Factors" hreflang="en">Read more</a>
+</div>
+
+          
+  
+</div>
+
+
+  </div>
+
+
+    
+    
+  </div>
+    </div>
+
+      </div>
+
+</article>
+
+
+  </div>
+
+
+
+
+  
+
+
+  
+  
+ 
+
+  
+  
+
+<div class="block block--provider-iospress-book block--related-publications-block block-iospress_book" aria-label="Related publications block">
+
+  
+      
+
+      <h2>Related Publications</h2>
+
+
+
+  
+  
+  
+          
+
+
+  
+
+<div class="group publications--wrapper">
+  
+
+
+    
+          
+  
+          
+<article about="/catalog/books/machine-learning-and-intelligent-systems" class="node node--view-mode-teaser node--book node--book--teaser book--teaser">
+  
+          
+
+
+
+
+    
+
+  
+  
+  <div class="node__content node__content--view-mode-teaser node__content--book node__content--book--teaser">
+        
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-media-canonical-image field--type-entity-reference field--label-hidden field-media-canonical-image">
+
+        
+    
+                  <article class="media media--type-image media--view-mode-teaser">
+  
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-media-image field--type-image field--label-hidden field-media-image">
+
+        
+    
+                    <img loading="lazy" src="/sites/default/files/styles/book_cover_scale_height/public/media/images/2024-11/9781643685533_FC.jpg?itok=RnV5bsBB" width="141" height="225" alt="Machine Learning and Intelligent Systems" typeof="foaf:Image" class="image-style-book-cover-scale-height">
+
+
+
+          
+  
+</div>
+
+
+  </article>
+
+          
+  
+</div>
+
+<span class="content-type">Book</span>
+
+<div class="content">
+        
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-title field--type-string field--label-hidden title">
+
+        
+    
+                  <h2><a href="/catalog/books/machine-learning-and-intelligent-systems" hreflang="en">Machine Learning and Intelligent Systems</a></h2>
+          
+  
+</div>
+
+
+<div class="information">
+      <a href="/catalog/books/machine-learning-and-intelligent-systems" class="extra-field hidden-link" hreflang="en"></a>
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-book-subtitle field--type-string field--label-hidden field-book-subtitle">
+
+        
+    
+                  Proceedings of MLIS 2024, Kampar, Perak, Malaysia, 17-20 November 2024
+          
+  
+</div>
+
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-book-publicationdate field--type-datetime field--label-above field-book-publicationdate">
+
+      
+      
+                  
+      
+      
+
+
+
+
+
+  
+  <h3 class="h h3">
+          Publication date
+      </h3>
+
+
+      
+    
+                  <time datetime="2024-12-01T12:00:00Z" class="datetime">December 2024</time>
+
+          
+  
+</div>
+
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-book-editors field--type-string field--label-above field-book-editors">
+
+      
+      
+                  
+      
+      
+
+
+
+
+
+  
+  <h3 class="h h3">
+          Editors
+      </h3>
+
+
+      
+    
+    
+      <div class="field__items field__items--name-field-book-editors">
+                        
+        
+                      
+<div class="field__item field__item--name-field-book-editors field__item--type-string field__item--label-above">
+      Kim, J.-L.
+  </div>
+                        </div>
+    
+  
+</div>
+
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-subjects field--type-entity-reference field--label-above field-subjects">
+
+      
+      
+                  
+      
+      
+
+
+
+
+
+  
+  <h3 class="h h3">
+          Subjects
+      </h3>
+
+
+      
+    
+    
+      <div class="field__items field__items--name-field-subjects">
+                        
+        
+                      
+<div class="field__item field__item--name-field-subjects field__item--type-entity-reference field__item--label-above">
+      <a href="/subjects/artificial-intelligence" hreflang="en">Artificial Intelligence,</a>
+  </div>
+                      
+<div class="field__item field__item--name-field-subjects field__item--type-entity-reference field__item--label-above">
+      <a href="/subjects/human-computer-interaction" hreflang="en">Human-Computer Interaction</a>
+  </div>
+                        </div>
+    
+  
+</div>
+
+
+
+
+  
+  
+  
+          
+
+
+  
+
+<div class="group field--name-field-book-volume">
+  <h3 class="h h3">Volume</h3>
+
+
+  
+  
+  
+          
+
+
+  
+
+<div class="group field-value volume-field">
+  <span>393</span>
+<span>of</span>
+<a href="/catalog/book-series/frontiers-in-artificial-intelligence-and-applications" hreflang="en">Frontiers in Artificial Intelligence and Applications</a>
+</div>
+
+</div>
+
+  </div>
+
+  </div>
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-book-display-canonic field--type-rs-display-field field--label-hidden field-book-display-canonic">
+
+        
+    
+                  <div class="rs-canonical-link-formatter">
+      <a href="/catalog/books/machine-learning-and-intelligent-systems" aria-label="Read more about Machine Learning and Intelligent Systems" hreflang="en">more details</a>
+</div>
+
+          
+  
+</div>
+
+
+      </div>
+
+</article>
+
+
+
+
+    
+          
+  
+          
+<article about="/catalog/books/applied-mathematics-modeling-and-computer-simulation-2" class="node node--view-mode-teaser node--book node--book--teaser book--teaser">
+  
+          
+
+
+
+
+    
+
+  
+  
+  <div class="node__content node__content--view-mode-teaser node__content--book node__content--book--teaser">
+        
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-media-canonical-image field--type-entity-reference field--label-hidden field-media-canonical-image">
+
+        
+    
+                  <article class="media media--type-image media--view-mode-teaser">
+  
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-media-image field--type-image field--label-hidden field-media-image">
+
+        
+    
+                    <img loading="lazy" src="/sites/default/files/styles/book_cover_scale_height/public/media/images/2024-11/9781643685519_FC.jpg?itok=PLJ4zYku" width="159" height="225" alt="Applied Mathematics, Modeling and Computer Simulation" typeof="foaf:Image" class="image-style-book-cover-scale-height">
+
+
+
+          
+  
+</div>
+
+
+  </article>
+
+          
+  
+</div>
+
+<span class="content-type">Book</span>
+
+<div class="content">
+        
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-title field--type-string field--label-hidden title">
+
+        
+    
+                  <h2><a href="/catalog/books/applied-mathematics-modeling-and-computer-simulation-2" hreflang="en">Applied Mathematics, Modeling and Computer Simulation</a></h2>
+          
+  
+</div>
+
+
+<div class="information">
+      <a href="/catalog/books/applied-mathematics-modeling-and-computer-simulation-2" class="extra-field hidden-link" hreflang="en"></a>
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-book-subtitle field--type-string field--label-hidden field-book-subtitle">
+
+        
+    
+                  Proceedings of the 4th International Conference (AMMCS 2024), Wuhan, China, 17- 18 August 2024
+          
+  
+</div>
+
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-book-publicationdate field--type-datetime field--label-above field-book-publicationdate">
+
+      
+      
+                  
+      
+      
+
+
+
+
+
+  
+  <h3 class="h h3">
+          Publication date
+      </h3>
+
+
+      
+    
+                  <time datetime="2024-11-01T12:00:00Z" class="datetime">November 2024</time>
+
+          
+  
+</div>
+
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-book-editors field--type-string field--label-above field-book-editors">
+
+      
+      
+                  
+      
+      
+
+
+
+
+
+  
+  <h3 class="h h3">
+          Editors
+      </h3>
+
+
+      
+    
+    
+      <div class="field__items field__items--name-field-book-editors">
+                        
+        
+                      
+<div class="field__item field__item--name-field-book-editors field__item--type-string field__item--label-above">
+      Chen, C.-H.,
+  </div>
+                      
+<div class="field__item field__item--name-field-book-editors field__item--type-string field__item--label-above">
+      Wu, J.,
+  </div>
+                      
+<div class="field__item field__item--name-field-book-editors field__item--type-string field__item--label-above">
+      Scapellato, A.,
+  </div>
+                      
+<div class="field__item field__item--name-field-book-editors field__item--type-string field__item--label-above">
+      Berinde, V.,
+  </div>
+                      
+<div class="field__item field__item--name-field-book-editors field__item--type-string field__item--label-above">
+      Korzun, D.G.,
+  </div>
+                      
+<div class="field__item field__item--name-field-book-editors field__item--type-string field__item--label-above">
+      Zou, J.
+  </div>
+                        </div>
+    
+  
+</div>
+
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-subjects field--type-entity-reference field--label-above field-subjects">
+
+      
+      
+                  
+      
+      
+
+
+
+
+
+  
+  <h3 class="h h3">
+          Subjects
+      </h3>
+
+
+      
+    
+    
+      <div class="field__items field__items--name-field-subjects">
+                        
+        
+                      
+<div class="field__item field__item--name-field-subjects field__item--type-entity-reference field__item--label-above">
+      <a href="/subjects/engineering" hreflang="en">Engineering,</a>
+  </div>
+                      
+<div class="field__item field__item--name-field-subjects field__item--type-entity-reference field__item--label-above">
+      <a href="/subjects/computer-sciences" hreflang="en">Computer Sciences,</a>
+  </div>
+                      
+<div class="field__item field__item--name-field-subjects field__item--type-entity-reference field__item--label-above">
+      <a href="/subjects/mathematics" hreflang="en">Mathematics</a>
+  </div>
+                        </div>
+    
+  
+</div>
+
+
+
+
+  
+  
+  
+          
+
+
+  
+
+<div class="group field--name-field-book-volume">
+  <h3 class="h h3">Volume</h3>
+
+
+  
+  
+  
+          
+
+
+  
+
+<div class="group field-value volume-field">
+  <span>61</span>
+<span>of</span>
+<a href="/catalog/book-series/advances-in-transdisciplinary-engineering" hreflang="en">Advances in Transdisciplinary Engineering</a>
+</div>
+
+</div>
+
+  </div>
+
+  </div>
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-book-display-canonic field--type-rs-display-field field--label-hidden field-book-display-canonic">
+
+        
+    
+                  <div class="rs-canonical-link-formatter">
+      <a href="/catalog/books/applied-mathematics-modeling-and-computer-simulation-2" aria-label="Read more about Applied Mathematics, Modeling and Computer Simulation" hreflang="en">more details</a>
+</div>
+
+          
+  
+</div>
+
+
+      </div>
+
+</article>
+
+
+
+
+    
+          
+  
+          
+<article about="/catalog/books/innovative-design-and-intelligent-manufacturing" class="node node--view-mode-teaser node--book node--book--teaser book--teaser">
+  
+          
+
+
+
+
+    
+
+  
+  
+  <div class="node__content node__content--view-mode-teaser node__content--book node__content--book--teaser">
+        
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-media-canonical-image field--type-entity-reference field--label-hidden field-media-canonical-image">
+
+        
+    
+                  <article class="media media--type-image media--view-mode-teaser">
+  
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-media-image field--type-image field--label-hidden field-media-image">
+
+        
+    
+                    <img loading="lazy" src="/sites/default/files/styles/book_cover_scale_height/public/media/images/2024-11/9781643685427_FC.jpg?itok=iwAXn0pO" width="141" height="225" alt="Innovative Design and Intelligent Manufacturing" typeof="foaf:Image" class="image-style-book-cover-scale-height">
+
+
+
+          
+  
+</div>
+
+
+  </article>
+
+          
+  
+</div>
+
+<span class="content-type">Book</span>
+
+<div class="content">
+        
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-title field--type-string field--label-hidden title">
+
+        
+    
+                  <h2><a href="/catalog/books/innovative-design-and-intelligent-manufacturing" hreflang="en">Innovative Design and Intelligent Manufacturing</a></h2>
+          
+  
+</div>
+
+
+<div class="information">
+      <a href="/catalog/books/innovative-design-and-intelligent-manufacturing" class="extra-field hidden-link" hreflang="en"></a>
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-book-subtitle field--type-string field--label-hidden field-book-subtitle">
+
+        
+    
+                  Proceedings of the International Conference (IDIM 2024), Bali, Indonesia, 20-21 July 2024
+          
+  
+</div>
+
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-book-publicationdate field--type-datetime field--label-above field-book-publicationdate">
+
+      
+      
+                  
+      
+      
+
+
+
+
+
+  
+  <h3 class="h h3">
+          Publication date
+      </h3>
+
+
+      
+    
+                  <time datetime="2024-11-01T12:00:00Z" class="datetime">November 2024</time>
+
+          
+  
+</div>
+
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-book-editors field--type-string field--label-above field-book-editors">
+
+      
+      
+                  
+      
+      
+
+
+
+
+
+  
+  <h3 class="h h3">
+          Editors
+      </h3>
+
+
+      
+    
+    
+      <div class="field__items field__items--name-field-book-editors">
+                        
+        
+                      
+<div class="field__item field__item--name-field-book-editors field__item--type-string field__item--label-above">
+      Jain, L.C.,
+  </div>
+                      
+<div class="field__item field__item--name-field-book-editors field__item--type-string field__item--label-above">
+      Balas, V.E.,
+  </div>
+                      
+<div class="field__item field__item--name-field-book-editors field__item--type-string field__item--label-above">
+      Wu, Q.,
+  </div>
+                      
+<div class="field__item field__item--name-field-book-editors field__item--type-string field__item--label-above">
+      Shi, F.
+  </div>
+                        </div>
+    
+  
+</div>
+
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-subjects field--type-entity-reference field--label-above field-subjects">
+
+      
+      
+                  
+      
+      
+
+
+
+
+
+  
+  <h3 class="h h3">
+          Subjects
+      </h3>
+
+
+      
+    
+    
+      <div class="field__items field__items--name-field-subjects">
+                        
+        
+                      
+<div class="field__item field__item--name-field-subjects field__item--type-entity-reference field__item--label-above">
+      <a href="/subjects/engineering" hreflang="en">Engineering,</a>
+  </div>
+                      
+<div class="field__item field__item--name-field-subjects field__item--type-entity-reference field__item--label-above">
+      <a href="/subjects/technology" hreflang="en">Technology,</a>
+  </div>
+                      
+<div class="field__item field__item--name-field-subjects field__item--type-entity-reference field__item--label-above">
+      <a href="/subjects/computer-sciences" hreflang="en">Computer Sciences</a>
+  </div>
+                        </div>
+    
+  
+</div>
+
+
+
+
+  
+  
+  
+          
+
+
+  
+
+<div class="group field--name-field-book-volume">
+  <h3 class="h h3">Volume</h3>
+
+
+  
+  
+  
+          
+
+
+  
+
+<div class="group field-value volume-field">
+  <span>391</span>
+<span>of</span>
+<a href="/catalog/book-series/frontiers-in-artificial-intelligence-and-applications" hreflang="en">Frontiers in Artificial Intelligence and Applications</a>
+</div>
+
+</div>
+
+  </div>
+
+  </div>
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-book-display-canonic field--type-rs-display-field field--label-hidden field-book-display-canonic">
+
+        
+    
+                  <div class="rs-canonical-link-formatter">
+      <a href="/catalog/books/innovative-design-and-intelligent-manufacturing" aria-label="Read more about Innovative Design and Intelligent Manufacturing" hreflang="en">more details</a>
+</div>
+
+          
+  
+</div>
+
+
+      </div>
+
+</article>
+
+
+</div>
+
+  </div>
+
+
+      
+      
+    </div>
+    </div>
+
+      </div>
+
+</article>
+
+
+  </div>
+
+  
+                  </div>
+        
+      </div>
+
+    </main>    
+  </div>
+
+      <aside class="doormat" role="complementary">
+  <div class="container">
+    <div class="col col--doormat col--doormat--primary">
+                                
+
+
+
+  
+
+
+      
+  
+ 
+
+  
+  
+
+<div id="block-rocketship-theme-starter-ctalink" data-bem="doormatPrimary rocketship_theme_starter_ctalink content" class="block block--view-mode-full block--provider-block-content block--block-content30662f52-bf67-4026-ae33-423b2173b565 block--id-rocketship-theme-starter-ctalink block--region-doormatprimary block--type-content block-block_content" aria-label="CTA link">
+
+  
+      
+
+      
+
+
+
+
+      <div class="group--paragraphs">
+                      <div class="group--paragraphs__item">
+          
+
+
+  <div class="has-bg-stretched p--view-mode--centered p-003--view-mode--centered paragraph paragraph--view-mode-default paragraph--type-p-003">
+    
+    
+          
+
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-p-text field--type-text-long field--label-hidden text-long field-p-text">
+
+        
+    
+                  <h2>Subscribe To Newsletters &amp; Stay Up-To-Date</h2>
+
+          
+  
+</div>
+
+
+
+    
+<div class="field field--buttons field--name-field-p-button field--type-link field--label-hidden">
+
+  
+  
+  
+  
+        
+        
+  
+    
+
+  <a class="button button--buttons button--name-field-p-button button--type-link button--label-hidden" target="_blank" href="/newsletters">
+
+  Subscribe!
+
+  </a>
+  
+</div>
+
+      </div>
+
+        </div>
+                  </div>
+  
+  </div>
+
+  
+                  </div>
+    <div class="doormat-bottom--container">
+      <div class="col col--doormat col--doormat--branding">
+                                      
+
+        
+
+
+
+
+
+   
+
+  
+  
+<div id="block-sitebranding" data-bem="doormatCol1 sitebranding" class="block__branding block__branding--header block__branding--provider-system block__branding--system-branding-block block__branding--region-doormatcol1 block-system">
+  
+  
+            <a class="block__branding__image block__branding__image--header block__branding__image--provider-system block__branding__image--system-branding-block block__branding__image--region-doormatcol1" href="/" title="Home" rel="home">
+        <img src="/themes/custom/rocketship_theme_starter/logo.svg" alt="Home">
+      </a>
+              </div>
+
+
+
+
+
+  
+
+
+      
+  
+ 
+
+  
+  
+
+<div id="block-footercontentblock" data-bem="doormatCol1 footercontentblock content" class="block block--view-mode-full block--provider-block-content block--block-content220d1910-d8e3-4c23-a28c-0569356e16d3 block--id-footercontentblock block--region-doormatcol1 block--type-content block-block_content" aria-label="Footer content block">
+
+  
+      
+
+      
+
+
+
+
+      <div class="group--paragraphs">
+                      <div class="group--paragraphs__item">
+          
+
+
+  <div class="has-bg-stretched p--view-mode--left p-003--view-mode--left paragraph paragraph--view-mode-default paragraph--type-p-003">
+    
+    
+          
+
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-p-text field--type-text-long field--label-hidden text-long field-p-text">
+
+        
+    
+                  <p><strong>Accelerate Research. Increase Impact.</strong></p>
+<p>©&nbsp;IOS Press</p>
+
+          
+  
+</div>
+
+
+
+    
+<div class="field field--buttons field--name-field-p-button field--type-link field--label-hidden">
+
+  
+  
+  
+  
+        
+        
+  
+    
+
+  <a class="button button--buttons button--name-field-p-button button--type-link button--label-hidden" target="" href="/news">
+
+  View News
+
+  </a>
+  
+    
+
+  <a class="button button--buttons button--name-field-p-button button--type-link button--label-hidden" target="" href="/catalog">
+
+  View Catalog
+
+  </a>
+  
+</div>
+
+      </div>
+
+        </div>
+                  </div>
+  
+  </div>
+
+  
+                        </div>
+      <div class="col col--doormat col--doormat--menus">
+                                      
+
+
+  
+     
+  
+ 
+  
+
+
+  
+  
+
+<nav id="block-legal" data-bem="doormatCol2 legal" class="nav nav--system-menu-block nav--legal nav--provider-system nav--system-menu-blocklegal nav--region-doormatcol2 block--menu block-system" aria-label="Legal" role="navigation">
+  
+  
+
+
+
+
+
+  
+  <h4 class="h h4" id="block-legal-heading">
+          Legal
+      </h4>
+
+  
+      
+
+
+
+  
+  
+    
+        
+    
+              
+    
+        
+
+<ul class="menu clearfix">
+          
+                                        
+          
+
+
+  
+
+  
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link" href="/disclaimer">
+
+        Disclaimer
+    </a>
+      </li>
+        
+                                        
+          
+
+
+  
+
+  
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link" href="/privacy-policy">
+
+        Privacy Policy
+    </a>
+      </li>
+              </ul>
+
+  
+
+  </nav>
+
+
+
+  
+     
+  
+ 
+  
+
+
+  
+  
+
+<nav id="block-rocketship-theme-starter-footer" data-bem="doormatCol2 rocketship_theme_starter_footer" class="nav nav--system-menu-block nav--footer nav--provider-system nav--system-menu-blockfooter nav--region-doormatcol2 block--menu block-system" aria-label="Menu" role="navigation">
+
+  
+  
+
+
+
+
+
+  
+  <h4 class="h h4" id="block-rocketship-theme-starter-footer-heading">
+          Menu
+      </h4>
+
+  
+      
+
+
+
+  
+  
+    
+        
+    
+              
+    
+        
+
+<ul class="menu clearfix">
+          
+                                        
+          
+
+
+  
+
+  
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link" href="/about">
+
+        About
+    </a>
+      </li>
+        
+                                        
+          
+
+
+  
+
+  
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link" href="/news">
+
+        News
+    </a>
+      </li>
+        
+                                        
+          
+
+
+  
+
+    
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item menu__item--active">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link menu__link--active" href="/catalog">
+
+        Catalog
+    </a>
+      </li>
+        
+                                        
+          
+
+
+  
+
+  
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link" href="/initiatives">
+
+        Initiatives
+    </a>
+      </li>
+        
+                                        
+          
+
+
+  
+
+  
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link" href="/products-test">
+
+        Products
+    </a>
+      </li>
+        
+                                        
+          
+
+
+  
+
+  
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link" href="/services">
+
+        Services
+    </a>
+      </li>
+              </ul>
+
+  
+
+  </nav>
+
+
+
+  
+     
+  
+ 
+  
+
+
+  
+  
+
+<nav id="block-sitemap" data-bem="doormatCol2 sitemap" class="nav nav--system-menu-block nav--sitemap nav--provider-system nav--system-menu-blocksitemap nav--region-doormatcol2 block--menu block-system" aria-label="Quick Links" role="navigation">
+
+  
+  
+
+
+
+
+
+  
+  <h4 class="h h4" id="block-sitemap-heading">
+          Quick Links
+      </h4>
+
+  
+      
+
+
+
+  
+  
+    
+        
+    
+              
+    
+        
+
+<ul class="menu clearfix">
+          
+                                        
+          
+
+
+  
+
+  
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link" href="/publish-with-us">
+
+        Publish With Us
+    </a>
+      </li>
+        
+                                        
+          
+
+
+  
+
+  
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link" href="/sustainability">
+
+        Sustainability &amp; SDGs
+    </a>
+      </li>
+        
+                                        
+          
+
+
+  
+
+  
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link" href="/open-library">
+
+        Open Library
+    </a>
+      </li>
+        
+                                        
+          
+
+
+  
+
+  
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link" href="/policies">
+
+        Policies
+    </a>
+      </li>
+        
+                                        
+          
+
+
+  
+
+  
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link" href="/sitemap">
+
+        Sitemap
+    </a>
+      </li>
+        
+                                        
+          
+
+
+  
+
+  
+
+
+  
+
+
+
+
+
+
+
+<li class="menu__item">
+  
+    
+    
+
+
+
+
+
+  
+
+
+
+    
+    <a class="menu__link" href="/frequently-asked-questions">
+
+        FAQs
+    </a>
+      </li>
+              </ul>
+
+  
+
+  </nav>
+
+  
+                        </div>
+      <div class="col col--doormat col--doormat--contact">
+                                      
+
+
+
+  
+
+
+      
+  
+ 
+
+  
+  
+
+<div id="block-footercontactdetails" data-bem="doormatCol3 footercontactdetails content" class="block block--view-mode-full block--provider-block-content block--block-content172efa8f-3fed-4daf-8cf7-fe40ea15590a block--id-footercontactdetails block--region-doormatcol3 block--type-content block-block_content" aria-labelledby="block-footercontactdetails-heading">
+
+  
+        
+
+
+
+
+
+  
+  <h2 class="h h2" id="block-footercontactdetails-heading">
+          Contact
+      </h2>
+
+    
+
+      
+
+
+
+
+      <div class="group--paragraphs">
+                      <div class="group--paragraphs__item">
+          
+
+
+  <div class="has-bg-stretched p--view-mode--left p-003--view-mode--left paragraph paragraph--view-mode-default paragraph--type-p-003">
+    
+    
+          
+
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-p-text field--type-text-long field--label-hidden text-long field-p-text">
+
+        
+    
+                  <p>IOS Press</p>
+<p>Nieuwe Hemweg 6B</p>
+<p>1013 BG Amsterdam</p>
+<p>the Netherlands</p>
+<p><strong>iospress.com</strong></p>
+
+          
+  
+</div>
+
+
+
+    
+<div class="field field--buttons field--name-field-p-button field--type-link field--label-hidden">
+
+  
+  
+  
+  
+        
+        
+  
+    
+
+  <a class="button button--buttons button--name-field-p-button button--type-link button--label-hidden" target="" href="/contact">
+
+  Contact Us
+
+  </a>
+  
+</div>
+
+      </div>
+
+        </div>
+                  </div>
+  
+  </div>
+
+
+
+
+  
+
+
+      
+  
+ 
+
+  
+  
+
+<div id="block-socialmedia-2" data-bem="doormatCol3 socialmedia_2 social_media" class="block block--view-mode-full block--provider-block-content block--block-contentc554fe80-eabd-451f-8ee9-f886ace99fff block--id-socialmedia-2 block--region-doormatcol3 block--type-social-media block-block_content" aria-label="Social media">
+
+  
+      
+
+      
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-social-link-facebook field--type-link field--label-hidden field-social-link-facebook">
+
+        
+    
+                  <a href="https://facebook.com/publisheriospress" target="_blank">Facebook</a>
+          
+  
+</div>
+
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-social-link-twitter field--type-link field--label-hidden field-social-link-twitter">
+
+        
+    
+                  <a href="https://twitter.com/iospress_stm" target="_blank">Twitter</a>
+          
+  
+</div>
+
+
+
+
+
+
+  
+   
+
+  
+<div class="field field--name-field-social-link-linkedin field--type-link field--label-hidden field-social-link-linkedin">
+
+        
+    
+                  <a href="https://linkedin.com/company/iospress" target="_blank">LinkedIn</a>
+          
+  
+</div>
+
+
+  </div>
+
+  
+                        </div>
+    </div>
+  </div>
+</aside>
+  
+      <footer class="footer footer--primary" role="contentinfo">
+  <div class="container">
+                
+
+
+
+  
+
+
+    
+  
+ 
+
+  
+  
+
+<div id="block-rocketship-theme-starter-rocketship-copyright-block" data-bem="footer rocketship_theme_starter_rocketship_copyright_block" class="block block--provider-rocketship-blocks block--rocketship-copyright-block block--id-rocketship-theme-starter-rocketship-copyright-block block--region-footer block-rocketship_blocks" aria-label="Copyright">
+
+  
+      
+
+      © IOS Press 2024 - <a href="/disclaimer" hreflang="en">Terms of use</a> - <a href="/privacy-policy" hreflang="en">Privacy policy</a>
+  </div>
+
+
+
+
+  
+
+
+    
+  
+ 
+
+  
+  
+
+<div id="block-rocketship-theme-starter-powered-by-dropsolid" data-bem="footer rocketship_theme_starter_powered_by_dropsolid" class="block block--provider-rocketship-blocks block--powered-by-dropsolid block--id-rocketship-theme-starter-powered-by-dropsolid block--region-footer block-rocketship_blocks" aria-label="Powered by Dropsolid">
+
+  
+      
+
+      Powered by Dropsolid
+  </div>
+
+  
+      </div>
+</footer>
+  
+</div>
+      <div class="container com-blocks-generic">
+      
+    </div>
+  
+  </div>

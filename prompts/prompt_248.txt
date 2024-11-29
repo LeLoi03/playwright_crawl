@@ -1,0 +1,476 @@
+input:
+1. SCA_3 conference:
+SCA 2024        
+ About  Program  Registration  Author Instructions  Awards  People  Venue    
+  THE 23RD ACM SIGGRAPH / Eurographics  
+  SYMPOSIUM ON COMPUTER ANIMATION (SCA 2024)  
+  McGill University, Montreal, Canada  
+  August 21 to August 23, 2024  
+  Graduate Summer School on August 20, 2024  
+ Important Dates   
+ Submission | Deadlines 
+ Notification of acceptance | June 16, 2024 
+ Journal notification | July 18, 2024 
+ CALL FOR PAPERS   
+ The 23rd annual Symposium on Computer Animation (SCA) will take place in Montréal, Canada, from August 21 to August 23, 2024.  
+ SCA is the premier forum for innovations in the software and technology of computer animation. It unites researchers and practitioners working on all aspects of time-based phenomena. Our focused, intimate gathering, with a single track program and emphasis on community interaction, makes SCA the best venue to exchange research results, get inspired, and set up collaborations.  
+ We invite submission of original, high-quality papers and posters on computer animation, broadly defined as computation dealing with time-varying phenomena. Accepted full papers will be published in the journal Computer Graphics Forum  , a leading journal for in-depth technical articles on computer graphics. Posters will be published in the conference proceedings indexed by ACM and Eurographics. Best Paper Awards will be given to excellent submissions that push the leading edge.  
+ The conference topics include:  
+ 2D, 3D, and N-D animation systems 
+  Planning / learning / optimization for animation 
+  Real-time and interactive methods 
+  Camera control methods for computer animation 
+  Sound and speech for animation 
+  ... as well as related problems in robotics game development, human-computer interaction, simulation visualization, computer vision and others. 
+  We would like to emphasize that SCA welcomes all kinds of contributions that advance the field of computer animation. This includes new and improved algorithms but also:  
+ New datasets, or carefully and thoughtfully designed (collections of) datasets based on previously available data 
+  Advanced practices in data collection and curation 
+  New promising approaches that do not yet achieve state-of-the-art performance 
+  Dataset Papers   
+ SCA is encouraging submission of new dataset papers to the main technical papers program. As AI is employed more and more in computer animation, animation datasets play a critical role in defining new tasks, developing new metrics and inspiring new methods. In recent years, they have provided interesting and challenging examples that have driven the field forward. This is especially so when large foundation models get popular, which have not yet widely used in the computer animation community, indicating a great opportunity.  
+ We are therefore looking for papers that can build on this success by providing, documenting, and discussing datasets that provide larger, more challenging datasets than those seen before—or datasets that stimulate new challenges in computer animation. Importantly, however, a good dataset paper is more than just a dump of raw data. We are looking for thoughtfully-written papers, to be evaluated according to the following criteria:  
+ NOVELTY. In what way(s) is the dataset different from those currently available? For instance, does it provide new kinds of “rich” data? Is it organized or annotated in a different way? It is representative of a different application domain—perhaps one that is not well-studied in computer animation? Is it significantly larger/higher-resolution than previous datasets? Does it provide new challenges for robustness? 
+  IMPACT. What is the potential impact on research in computer animation? Will this dataset inspire the development of new kinds of algorithms? Will it significantly push forward the state of the art in terms of scalability, robustness, etc.? Does it help resolve clearly-defined holes or shortcomings of previous datasets? It is highly encouraged that in addition to the new data, new applications, tasks, and models are presented to demonstrate the potential value of the new data. 
+  PRESENTATION. Is the paper itself well-written and well-organized? Is the purpose of the new dataset clearly explained and motivated? Does the paper make a compelling case that the dataset presents new opportunities or challenges (e.g., experiments indicating that current algorithms do not perform well on this data). Is the data itself clearly described and documented? Are sufficient details provided about, e.g., the acquisition process, or other metadata that may be useful/necessary for interpreting the data? 
+  ACCESSIBILITY. Is the dataset easy to access/examine? For instance, if the dataset is very large, is there a mechanism for accessing only individual files or examples? Are files stored in standard/open formats, and/or do the authors provide guidance on how to convert data stored in non-standard formats? Do the authors provide tools that help to inspect/visualize novel or unusual “rich” data? Where will the data set be hosted, and is there a plan for ensuring the dataset will remain available in the future? Is the license clearly defined, and/or are there any significant intellectual property issues associated with sharing the dataset? It is highly recommended for the authors to make the data available for review. If not for any reason, the authors will need to share them publicly once the paper is accepted and published. 
+  PRIVACY AND ETHICS. Does the paper carefully address potential issues of anonymity or personally identifying information? Does it discuss any ethical issues around acquisition of the data, or potential use/misuse of data outside the intended context? 
+  These criteria will also be provided to reviewers and committee members during the review period. Authors interested in examples of successful dataset papers may wish to consult the following list:  
+ Ubisoft La Forge Animation Dataset ("LAFAN1") 
+  A Skinned Multi-Person Linear Model 
+  The dataset papers will be published similarly to the technical papers, in the same Computer Graphics Forum special issue.  
+ TECHNICAL PAPERS - SUBMISSION GUIDELINES   
+ We consider animation and simulation in a broad sense defined as computation dealing with time-varying phenomena, and invite you to submit high-quality work. Each submission will be reviewed by an international program committee for technical quality, novelty, significance, and clarity.  
+ Technical papers should be submitted electronically using the | SRMv2 online system | . 
+  Paper submissions must be anonymous and include the unique paper ID that will be assigned upon creating a submission using the online system. The SCA paper program uses | dual-anonymous | reviewing, so please remove all personal data, such as author names and affiliation from all your submission files. 
+  SCA has a two-cycle review process. All technical papers accepted in the first round (to be announced on June 16th) will undergo a thorough second round of revision and review, and (conditional on final acceptance) be published in the journal Computer Graphics Forum. 
+  Papers should not have previously appeared in, or be currently submitted to, any other conference or journal. 
+  SCA follows the same | anonymity policy | as SIGGRAPH. Any case of violation will be determined by the chairs and could result in a desk rejection. 
+  A paper submission should describe an original work of the authors. Authors must not use ideas or content originating from others without properly crediting their original sources. Note that such sources are not limited to peer-reviewed publications, but also include patents, textbooks, technical reports, theses, unpublished work posted on arXiv, as well as other posts on the World Wide Web. Failure to comply with this requirement will be considered plagiarism and result in rejection. For more details, please consult the | guidance | provided by ACM. 
+  Please ensure that you and your co-authors obtain an | ORCID ID | , so you can complete the publishing process for your accepted paper. ACM has been involved in ORCID from the start and we have recently made a commitment to collect ORCID IDs from all of our published authors. We are committed to improve author discoverability, ensure proper attribution and contribute to ongoing community efforts around name normalization; your ORCID ID will help in these efforts. 
+  Poster Abstracts   
+ As in previous years, the poster session will be an integral part of the SCA program. Poster abstracts will be included in the ACM and EG Digital Libraries, thus providing a better and longstanding referencing to the works. Note however that as usual, a SCA poster does not preclude subsequent publication of a complete paper on the same topic by the same authors (however, a SCA poster by other authors is considered prior art and should be cited as such).  
+ Poster abstracts should be sent to the poster chair Victor Zordan at | vbz@g.clemson.edu 
+  Submissions must be camera-ready, with author names and affiliations listed. The review process will be single blind. 
+  Poster abstract submissions should consist of a PDF formatted paper according to the EG latex template that is provided on the submission platform (in the “Instructions” section). Submissions are permitted to be up to two pages in length, written and presented in English. 
+  Poster abstracts will be included in the ACM and EG Digital Libraries, thus providing a better and longstanding referencing to the works. 
+  Accepted posters will have the opportunity to give a one-minute preview in the poster fast-forward session, and be presented in the poster session. 
+  REGISTRATION   
+ To meet the cost of the conference, one full registration is required for each accepted paper and poster.  
+ Sponsored by  
+ Supported By  
+  © SCA 2024 ACM SIGGRAPH / Eurographics Symposium on Computer Animation.
+2. SCN_0 conference:
+Salta al contenuto     
+   13th International Conference on Security and Cryptography for Networks – SCN 2022   
+ Organized in cooperation with IACR  
+  Accepted Papers 
+  Program at a glance 
+  Final program 
+  Submission Instructions for Accepted Papers 
+  Dates and Deadlines 
+  Invited Speakers 
+  Proceedings and Special Issue 
+  Submission Instructions 
+  Venue 
+  Contact 
+ 13th International Conference on Security and Cryptography for Networks  
+ Amalfi (SA) Italy  . September 12-14, 2022  
+ NEWS   
+ The Conference is over.   
+ SCN 2024 Webpage is now Online    
+ Free access to Conference Proceedings  (Sept. 7 – Oct. 7)   
+ Final program now available    
+ Amalfi is a popular place for vacation. Hotels are filling up quickly. We strongly suggest to book your hotel soon.   
+ SCN aims to bring together researchers in the field of cryptography and information security, practitioners, developers, and users to foster cooperation, exchange techniques, tools, experiences and ideas.  
+ Covid-19 disclaimer: Our intention is to organize a safe event in presence in Amalfi. We will, of course, implement all possible safety measures required by national or local governments. At the same time, we are arranging a flexible plan in order to allow remote participation to authors who will not feel comfortable in traveling at the time of the conference. Stay safe and submit good papers to SCN!  
+ SCN is organised in cooperation with International Association for Cryptologic Research   
+ NEWS  
+ 02/09/22: | Final program | now online! 
+  19/07/22: | Preliminary program | is now online! 
+  08/07/22: Titles and Abstracts of | invited talks | have been published! 
+  19/06/22: The list of | accepted papers | is available 
+  10/06/22: Eli Ben-Sasson and Marshall Ball are the | invited speakers | for SCN22! 
+  30/05/22: Notification deadline postponed to June 17th 
+  02/05/22: Submission server closed! 
+  21/04/22: Submission deadline extended to May 1st (firm!) 
+  06/04/22: Papers can be submitted via | Easychair | . Check submission instructions 
+  25/01/22: A special issue of Information and Computation will be devoted to selected papers from SCN 22! 
+  12/01/22. SCN Proceedings will be published by Springer! 
+  04/01/22. SCN obtains the | IACR-ICW | status. 
+  22/12/21. Website is up
+3. SCN_1 conference:
+Salta al contenuto     
+   14th International Conference on Security and Cryptography for Networks – SCN 2024   
+ In Cooperation with IACR  
+  Committees 
+  Program at a glance 
+  Final program 
+  Dates and Deadlines 
+  Proceedings and Special Issue 
+  SCN Registration 
+  Submission Instructions for Accepted Papers – EquinOCS 
+  Invited Speakers 
+  Venue 
+  Hotels in Amalfi 
+  Climate 
+  Previous Editions | SCN 2022 
+ 14th International Conference on Security and Cryptography for Networks  
+ Amalfi (SA) Italy  . September 11-13, 2024   
+ The Fourteenth International Conference on Security and Cryptography for Networks (SCN 2024) aims to bring together researchers in the field of cryptography and information security, practitioners, developers, and users to foster cooperation, exchange techniques, tools, experiences and ideas. The conference seeks submissions from academia, government, and industry presenting novel research on all practical and theoretical aspects of cryptography and information security. The primary focus is on original, high quality, unpublished research of theoretical and practical impact, including concepts, techniques, applications and practical experiences. Submitted papers must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference/workshop with proceedings.  
+ SCN is organized in cooperation with International Association for Cryptologic Research  .  
+ SCN 2024 Final Program   
+ List of paper accepted to SCN 2024   
+ Instructions for accepted paper available here  . We remind authors that author camera ready and author registration  deadlines are July 17th.  
+ Amalfi is a very popular place. We recommend to book your stay as soon as possible.  
+ NEWS   
+ 18/04/24 SCN24 Invited speakers  will be Yevgeniy Dodis  and Alice Pellet-Mary   
+ 05/03/24 Submissions  now open!  
+ 05/03/24 A Special issue of Cryptography and Communications  will be devoted to selected papers from SCN 24!  
+ 18/01/24 The First CFP is out!  
+ 16/01/24 SCN 24 obtains the IACR-ICW  status  
+ 15/01/24 SCN 24 Proceedings will be published by Springer!  
+ 12/01/24. Website is up
+4. SCN_2 conference:
+Home  Log In  Contacts  FAQs  INSTICC Portal    
+ Information  Conference Details  Technical Program  Program Committee  Event Chairs  Keynote Lectures  Best Paper Awards  Satellite Events  Workshops  Special Sessions  Tutorials  Demos  Panels  Doctoral Consortium  Partners  Academic Partners  Industrial Partners  Exhibitors  Institutional Partners  Media Partners  Partner Events  Publication Partners  Previous Conferences  Abstracts  Awards    
+ Sponsored by:    
+ Logistics:    
+ SECRYPT 2023 will be held in conjunction with ICSOFT 2023    , DATA 2023    , SIMULTECH 2023    and ICSBT 2023    .   
+  Registration to SECRYPT allows free access to the ICSOFT, DATA, SIMULTECH and ICSBT conferences (as a non-speaker).  
+  Although the conference is back to the normal mode (i.e., in-person) speakers are allowed to present remotely if unable to travel to the venue (hybrid support).    
+ Download the Conference App from Play Store or App Store now, to have mobile access to the technical program and also to get notifications and reminders concerning your favorite sessions.   
+ SECRYPT is an annual international conference covering research in information and communication security. The International Conference on Security and Cryptography (SECRYPT) seeks submissions from academia, industry, and government presenting novel research on all theoretical and practical aspects of data protection, privacy, security, and applied cryptography. Note that while applied cryptography papers are welcome, pure cryptography papers are out of scope for the conference. Papers describing the application of security technology, the implementation of systems, and lessons learned are also encouraged. Papers describing new methods or technologies, advanced prototypes, systems, tools and techniques and vision papers indicating future directions are also encouraged.    
+  Conference Chair    
+ Publications:     
+  All papers presented at the conference venue  
+  will be available at the SCITEPRESS Digital Library   
+  ( consult SCITEPRESS  Ethics of Publication  )
+5. SCN_3 conference:
+2024  
+ 2nd annual Real World Post Quantum Cryptography workshop (RWPQC 2024) | , March 24-24, 2024, Toronto, Canada. 
+  Number-Theoretic Methods in Cryptology (NuTMiC 2024) | , June 24-26, 2024, Szczecin, Poland. 
+  15th International Conference on Cryptology Africacrypt 2024 (Africacrypt 2024) | , July 10-12, 2024, Douala, Cameroon. 
+  Summer School crypt@b-it 2024 (crypt@b-it 2024) | , August 26-30, 2024, Bochum, Deutschland. 
+  31st International Conference on Selected Areas in Cryptography 2024 (SAC 2024) | , August 28-30, 2024, Montreal, Canada. 
+  workshop on Fault Diagnosis and Tolerance in Cryptography 2024 (FDTC 2024) | , September 4-4, 2024, Halifax, Canada. 
+  Fourteenth International Conference on Security and Cryptography for Networks (SCN '24) | , September 11-13, 2024, Amalfi, Italy. 
+  20th International Conference on Information Security and Cryptology (Inscrypt 2024) | , December 14-16, 2024, Kunming, China. 
+  Cyber Security, Cryptology, and Machine Learning (CSCML 24) | , December 19-20, 2024, Virtual event, Anywhere on Earth. 
+  2023  
+ Real World Post Quantum Cryptography (RWPQC 2023) | , March 26-26, 2023, Tokyo, Japan. 
+  The Fourth International Workshop on Code-Based Cryptography (CBCrypto 2023) | , April 22-23, 2023, Lione, Francia. 
+  Lattices Meet Hashes: Recent Advances in Post-Quantum Zero-Knowledge Proofs (Lattices Meet Hashes) | , May 1-3, 2023, Ecublens, Switzerland. 
+  4th International Conference on Codes, Cryptology and Information Security (C2SI-2023) | , May 29-31, 2023, Rabat, Morocco. 
+  Conference on Information-Theoretic Cryptography (ITC) | , June 6-8, 2023, Aarhus, Denmark. 
+  The 7th International Symposium for Cyber Security, Cryptology and Machine Learning (CSCML 2023) | , June 29-30, 2023, Virtual event, Anywhere on Earth. 
+  14th International Conference on Cryptology (Africacrypt 2023) | , July 19-21, 2023, Sousse, Tunisie. 
+  Selected Areas in Cryptography 2023 (SAC 2023) | , August 16-18, 2023, Fredericton, Canada. 
+  workshop on Fault Diagnosis and Tolerance in Cryptography 2023 (FDTC 2023) | , September 10-10, 2023, Prague, Czech Republic. 
+  8th International Conference on Cryptology and Information Security in Latin America (Latincrypt 2023) | , October 2-6, 2023, Quito, Ecuador. 
+  Advances in Financial Technologies (AFT 23) | , October 23-26, 2023, Princeton, USA. 
+  22nd International Conference on Cryptology and Network Security (CANS 2023) | , October 31-November 2, 2023, Augusta, United States. 
+  2022  
+ International Symposium on Cyber Security Cryptology & Machine Learning (CSCML 2022) | , June 30-July 1, 2022, Beersheba, Israel. 
+  Conference on Information-Theoretic Cryptography (ITC) | , July 5-7, 2022, Boston, USA. 
+  International Conference on Cryptology, Coding Theory and Cyber Security 20 (I4CS22) | , July 14-16, 2022, Casablanca, Maroc. 
+  12th International Conference on Cryptology - Africacrypt (Africacrypt 2022) | , July 18-20, 2022, Fez, Morocco. 
+  Workshop on Foundations and Applications of Lattice-based Cryptography | , July 25-28, 2022, Edinburgh, United Kingdom. 
+  Selected Areas in Cryptography (SAC 2022) | , August 24-26, 2022, Windsor, Canada. 
+  crypt@b-it 2022 - Summer school on Cryptography (crypt@b-it 2022) | , September 12-16, 2022, Bonn, Deutschland. 
+  13th Conference on Security and Cryptography for Networks (SCN 2022) | , September 12-14, 2022, Amalfi, Italy. 
+  workshop on Fault Diagnosis and Tolerance in Cryptography 2022 (FDTC 2022) | , September 16-16, 2022, Virtual event, Anywhere on Earth. 
+  International Conference on Cryptology, Coding Theory and Cyber Security 2022 (I4CS2022) | , October 26-28, 2022, Casablanca, Morocco. 
+  International Conference on Cryptology, Coding Theory and Cyber Security 2022 (I4CS2022) | , October 26-28, 2022, Casablanca-Settat, Morocco. 
+  21st International Conference on Cryptology and Network Security Abu Dhabi, UAE (CANS 2022) | , November 13-16, 2022, Nation Towers, Tower A, United Arab Emirates. 
+  Quantum Cryptography Workshop 2022 (QCW 2022) | , December 5-, Taipei, Taiwan. 
+  The 18th International Conference on Information Security and Cryptology (Inscrypt 2022) | , December 11-13, 2022, Beijing, China. 
+  International Conference on Cryptology & Network Security with Machine Learning (ICCNSML 2022) | , December 16-18, 2022, Sachendi, India.
+6. SCOPES_0 conference:
+中文  |  English  |  Español  |  日本語     
+ Conference Partner  » Conferences  » SCOPES    
+  Conference Information   
+  Related Conferences   
+ CCF | CORE | QUALIS | Short | Full Name | Submission | Notification | Conference 
+ CCNET | International Conference on Computer Networks & Communications | 2023-02-11 | 2023-02-18 | 2023-02-25 
+ ArIT | International Conference on Advances in Artificial Intelligence Techniques | 2023-06-03 | 2023-06-12 | 2023-06-17 
+ IEEE CVMI | IEEE International Conference on Computer Vision and Machine Intelligence | 2024-06-15 | 2024-07-30 | 2024-10-19 
+ CoSIT' | International Conference on Computer Science and Information Technology | 2023-05-06 | 2023-05-17 | 2023-05-20 
+ GridCom | International Conference on Grid Computing | 2022-11-12 | 2022-11-15 | 2022-11-26 
+ Short | Full Name | Submission | Conference 
+ CCNET | International Conference on Computer Networks & Communications | 2023-02-11 | 2023-02-25 
+ ArIT | International Conference on Advances in Artificial Intelligence Techniques | 2023-06-03 | 2023-06-17 
+ IEEE CVMI | IEEE International Conference on Computer Vision and Machine Intelligence | 2024-06-15 | 2024-10-19 
+ CoSIT' | International Conference on Computer Science and Information Technology | 2023-05-06 | 2023-05-20 
+ GridCom | International Conference on Grid Computing | 2022-11-12 | 2022-11-26
+7. SCOPES_1 conference:
+Prof. Dr.-Ing. Jürgen Teich and Andreas Weichslgartner took part in the 19th International Workshop on Software and Compilers for Embedded Systems (SCOPES) in Sankt Goar, Germany. There, Andreas Weichslgartner presented the work entitled “Design-Time/Run-Time Mapping of Security-Critical Applications in Heterogeneous MPSoCs”.  
+ Kategorie: News    
+ Post navigation  
+ Recent Posts  
+ MEMSYS Best Paper Award for Nils Wilbert 
+  Master Award for Abrarul Karim 
+  Best Paper in the Swarm Intelligence Track of GECCO 2024 
+  Embedded Talk “Next-Generation IoT – Communication and AI” 
+  06.06.2024: ALPACA Chip at “Chipdesign Germany” Kick-Off Event 
+ Archives  
+ October 2024 
+  September 2024 
+  July 2024 
+  June 2024 
+  May 2024 
+  April 2024 
+  March 2024 
+  January 2024 
+  December 2023 
+  November 2023 
+  September 2023 
+  August 2023 
+  June 2023 
+  May 2023 
+  April 2023 
+  November 2022 
+  October 2022 
+  August 2022 
+  July 2022 
+  June 2022 
+  May 2022 
+  January 2022
+8. SCOPES_2 conference:
+Promotor of PhD students:     
+ Svetlana Minakova (LIACS -- Leiden University, November 24, 2022) 
+  Chairman of the DAEDALUS Foundation for research and education in Embedded Systems and Software 
+  PC member | , International Conference on Design, Automation and Test in Europe (DATE) | 2024 
+  PC member | , International Conference on Design, Automation and Test in Europe (DATE) | RECIPIENT of the DATE Outstanding Reviewer Award 2024!!! 
+  PC member | , IEEE/ACM/IFIP International Conference on Hardware/Software Co-design and System Synthesis (CODES+ISSS) 
+  PC member | , XXIV International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS XXIV) | 2023 
+  PC member | , International Conference on Design, Automation and Test in Europe (DATE) 
+  PC member | , IEEE/ACM/IFIP International Conference on Hardware/Software Co-design and System Synthesis (CODES+ISSS) 
+  PC member | , XXIII International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS XXIII) | 2022 
+  PC member | , International Conference on Design, Automation and Test in Europe (DATE) 
+  PC member | , IEEE/ACM/IFIP International Conference on Hardware/Software Co-design and System Synthesis (CODES+ISSS) 
+  PC member | , The 31th International Conference on Field Programmable Logic and Applications (FPL) 
+  PC member | , XXI International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS XXI) 
+  PC member | , 24th International Workshop on Software and Compilers for Embedded Systems (SCOPES) 
+  PC member | , IEEE/ACM/IFIP International Conference on Hardware/Software Co-design and System Synthesis (CODES+ISSS) 
+  PC member | , The 30th International Conference on Field Programmable Logic and Applications (FPL) 
+  PC member | , XX International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS XX) 
+  PC member | , 23rd International Workshop on Software and Compilers for Embedded Systems (SCOPES) 
+  PC member | , IEEE/ACM/IFIP International Conference on Hardware/Software Co-design and System Synthesis (CODES+ISSS) 
+  PC member | , XIX International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS XIX) 
+  PC member | , International Conference on Design, Automation and Test in Europe (DATE) 
+  PC member | , IEEE/ACM/IFIP International Conference on Hardware/Software Co-design and System Synthesis (CODES+ISSS) 
+  PC member | , XVIII International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS XVIII) 
+  PC member | , IEEE/ACM International Symposium on Embedded Systems for Real-Time Multimedia (ESTIMedia) 
+  PC member | , International Conference on Design, Automation and Test in Europe (DATE) 
+  PC member | , IEEE/ACM/IFIP International Conference on Hardware/Software Co-design and System Synthesis (CODES+ISSS) 
+  PC member | , IEEE/ACM International Symposium on Embedded Systems for Real-Time Multimedia (ESTIMedia) 
+  Local Arrangements Co-Chair | , Embedded Systems Week (ESWeek) 
+  PC member | , International Conference on Design, Automation and Test in Europe (DATE) 
+  PC member | , IEEE/ACM/IFIP International Conference on Hardware/Software Co-design and System Synthesis (CODES+ISSS) 
+  PC member | , XV International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS XV) 
+  Program Co-Chair | , IEEE/ACM International Symposium on Embedded Systems for Real-Time Multimedia (ESTIMedia) 
+  Track Chair | , IEEE/ACM/IFIP International Conference on Hardware/Software Co-design and System Synthesis (CODES+ISSS) 
+  PC member | , International Conference on Design, Automation and Test in Europe (DATE) 
+  PC member | , 17th International Workshop on Software and Compilers for Embedded Systems (SCOPES) 
+  PC member | , International Conference on Embedded and Ubiquitous Computing (EUC) 
+  Track Chair | , IEEE/ACM/IFIP International Conference on Hardware/Software Co-design and System Synthesis (CODES+ISSS) 
+  Special Issue Co-Editor | , ACM Transactions on Embedded Computing Systems (TECS) 
+  PC member | , International Conference on Design, Automation and Test in Europe (DATE) 
+  PC member | , 16th International Workshop on Software and Compilers for Embedded Systems (M-SCOPES) 
+  PC member | , International Workshop on Mapping of Applications to MPSoCs (M-SCOPES) 
+  PC member | , International Conference on Design, Automation and Test in Europe (DATE) 
+  PC member | , IEEE/ACM/IFIP International Conference on Hardware/Software Co-design and System Synthesis (CODES+ISSS) 
+  PC member | , IEEE/ACM International Symposium on Embedded Systems for Real-Time Multimedia (ESTIMedia) 
+  PC member | , 15th International Workshop on Software and Compilers for Embedded Systems (SCOPES) 
+  PC member | , International Workshop on Mapping of Applications to MPSoCs (Map2MPSoC) 
+  PC member | , Forum on specification and Design Languages (FDL) 
+  PC member | , International Conference on Design, Automation and Test in Europe (DATE) 
+  PC member | , IEEE/ACM/IFIP International Conference on Hardware/Software Co-design and System Synthesis (CODES+ISSS) 
+  PC member | , IEEE International Real-Time Systems Symposium (RTSS) 
+  Program Chair | , 13th International Workshop on Software and Compilers for Embedded Systems (SCOPES) 
+  PC member | , International Conference on Design, Automation and Test in Europe (DATE) 
+  PC member | , IEEE/ACM/IFIP International Conference on Hardware/Software Co-design and System Synthesis (CODES+ISSS) 
+  PC member | , IEEE/IFIP International Conference on Very Large Scale Integration and System-on-Chip (VLSI-SoC)
+9. SCOPES_3 conference:
+Key Dates Full Papers  
+ Paper Submission Deadline  February 3rd  February 10th, 2023 (AoE) (Extended)  
+ Author Notification   
+ March 24th, 2023  March 31st, 2023  
+ Final Papers Due   
+ April 7th, 2023  April 14th, 2023 (AoE)  
+ Key Dates Posters  
+ Paper Submission Deadline  March 5th, 2023  March 12th, 2023 (Extended)  
+ Author Notification   
+ March 17th, 2023  March 31st, 2023  
+ Final Submissions Due   
+ April 7th, 2023  April 14th, 2023  
+  Submission  
+ Submit your paper here   
+  Download CFP  
+ Workshops  
+ Compuing Frontiers 2023 hosts a variety of workshops and special sessions on various topics providing a great opportunity for networking and discussion with fellow researchers. These workshops and special sessions are complementary to the main confrence track and are co-located. These will be announced at a later time.  
+ Submission of papers to the workshops is handled separately from the main conference. Please refer to the websites of the workshops for submission deadlines and more details.  
+  2nd Annual Compiler Frontiers Workshop (2023)  
+ Aim and scope:   
+  As architectures grow in complexity and power/performance requirements evolve far beyond what traditional data center environments offer, advances in compiler technology are paramount to enable the construction of performant, power-efficient, and resilient application payloads. The ability to build programming model support, compilers, optimizers, and associated tooling for advanced architectures is now at the forefront of computer science and computer architecture research. This workshop seeks to bring together researchers and experts from industry and academia to present the latest advances in Compilers for Computing Frontiers. Topics of interest include, but are not limited to: Compiler extensions for HPC, HPDC, IoT, Cloud, and Edge computing 
+ Important Dates:   
+  Submissions Deadline: February 17, 2023   
+  Author Notification: March 17, 2023   
+  Camera-Ready Papers Due: March 24, 2023   
+  Workshop date: held in conjunction with the CF'23 conference (May 09-11, 2023)   
+   Malicious Software and Hardware in Internet of Things (MaL-IoT '23)  
+ Important Dates:   
+  Submissions Deadline: February 28, 2023   
+  Author Notification: March 20, 2023   
+  Camera-Ready Papers Due: March 24, 2023   
+  Workshop date: held in conjunction with the CF'23 conference (May 09-11, 2023)   
+   1st Open-Source Hardware Workshop (OSHW23)  
+ Important Dates:   
+  Abstract submission deadline: March 6, 2023   
+  Notification of acceptance: March 17, 2023   
+  Camera-ready deadline: March 24, 2023   
+  Workshop date: held in conjunction with the CF'23 conference (May 09-11, 2023) |  
+ Sponsors  
+ Key Dates Full Papers  
+ Paper Submission Deadline  February 3rd  February 10th, 2023 (AoE) (Extended)  
+ Author Notification   
+ March 24th, 2023  March 31st, 2023  
+ Final Papers Due   
+ April 7th, 2023  April 14th, 2023 (AoE)  
+ Key Dates Posters  
+ Paper Submission Deadline  March 5th, 2023  March 12th, 2023 (Extended)  
+ Author Notification   
+ March 17th, 2023  March 31st, 2023  
+ Final Submissions Due   
+ April 7th, 2023  April 14th, 2023  
+  Submission  
+ Submit your paper here   
+  Download CFP  
+ Workshops  
+ Compuing Frontiers 2023 hosts a variety of workshops and special sessions on various topics providing a great opportunity for networking and discussion with fellow researchers. These workshops and special sessions are complementary to the main confrence track and are co-located. These will be announced at a later time.  
+ Submission of papers to the workshops is handled separately from the main conference. Please refer to the websites of the workshops for submission deadlines and more details.  
+  2nd Annual Compiler Frontiers Workshop (2023)  
+ Aim and scope:   
+  As architectures grow in complexity and power/performance requirements evolve far beyond what traditional data center environments offer, advances in compiler technology are paramount to enable the construction of performant, power-efficient, and resilient application payloads. The ability to build programming model support, compilers, optimizers, and associated tooling for advanced architectures is now at the forefront of computer science and computer architecture research. This workshop seeks to bring together researchers and experts from industry and academia to present the latest advances in Compilers for Computing Frontiers. Topics of interest include, but are not limited to: Compiler extensions for HPC, HPDC, IoT, Cloud, and Edge computing 
+ Important Dates:   
+  Submissions Deadline: February 17, 2023   
+  Author Notification: March 17, 2023   
+  Camera-Ready Papers Due: March 24, 2023   
+  Workshop date: held in conjunction with the CF'23 conference (May 09-11, 2023)   
+   Malicious Software and Hardware in Internet of Things (MaL-IoT '23)  
+ Important Dates:   
+  Submissions Deadline: February 28, 2023   
+  Author Notification: March 20, 2023   
+  Camera-Ready Papers Due: March 24, 2023   
+  Workshop date: held in conjunction with the CF'23 conference (May 09-11, 2023)   
+   1st Open-Source Hardware Workshop (OSHW23)  
+ Important Dates:   
+  Abstract submission deadline: March 6, 2023   
+  Notification of acceptance: March 17, 2023   
+  Camera-ready deadline: March 24, 2023   
+  Workshop date: held in conjunction with the CF'23 conference (May 09-11, 2023) |  
+ www.computingfrontiers.org 
+ Home 
+ Key Dates Full Papers  
+ Paper Submission Deadline  February 3rd  February 10th, 2023 (AoE) (Extended)  
+ Author Notification   
+ March 24th, 2023  March 31st, 2023  
+ Final Papers Due   
+ April 7th, 2023  April 14th, 2023 (AoE)  
+ Key Dates Posters  
+ Paper Submission Deadline  March 5th, 2023  March 12th, 2023 (Extended)  
+ Author Notification   
+ March 17th, 2023  March 31st, 2023  
+ Final Submissions Due   
+ April 7th, 2023  April 14th, 2023  
+  Submission  
+ Submit your paper here   
+  Download CFP  
+ Workshops  
+ Compuing Frontiers 2023 hosts a variety of workshops and special sessions on various topics providing a great opportunity for networking and discussion with fellow researchers. These workshops and special sessions are complementary to the main confrence track and are co-located. These will be announced at a later time.  
+ Submission of papers to the workshops is handled separately from the main conference. Please refer to the websites of the workshops for submission deadlines and more details.  
+  2nd Annual Compiler Frontiers Workshop (2023)  
+ Aim and scope:   
+  As architectures grow in complexity and power/performance requirements evolve far beyond what traditional data center environments offer, advances in compiler technology are paramount to enable the construction of performant, power-efficient, and resilient application payloads. The ability to build programming model support, compilers, optimizers, and associated tooling for advanced architectures is now at the forefront of computer science and computer architecture research. This workshop seeks to bring together researchers and experts from industry and academia to present the latest advances in Compilers for Computing Frontiers. Topics of interest include, but are not limited to: Compiler extensions for HPC, HPDC, IoT, Cloud, and Edge computing 
+ Important Dates:   
+  Submissions Deadline: February 17, 2023   
+  Author Notification: March 17, 2023   
+  Camera-Ready Papers Due: March 24, 2023   
+  Workshop date: held in conjunction with the CF'23 conference (May 09-11, 2023)   
+   Malicious Software and Hardware in Internet of Things (MaL-IoT '23)  
+ Important Dates:   
+  Submissions Deadline: February 28, 2023   
+  Author Notification: March 20, 2023   
+  Camera-Ready Papers Due: March 24, 2023   
+  Workshop date: held in conjunction with the CF'23 conference (May 09-11, 2023)   
+   1st Open-Source Hardware Workshop (OSHW23)  
+ Important Dates:   
+  Abstract submission deadline: March 6, 2023   
+  Notification of acceptance: March 17, 2023   
+  Camera-ready deadline: March 24, 2023   
+  Workshop date: held in conjunction with the CF'23 conference (May 09-11, 2023) |
+10. SC_0 conference:
+Promotional Opportunities 
+  Recruit at the Job Fair 
+  Students | Dropdown menu toggle | Students@SC  Lead Student Volunteers 
+  Student Volunteers 
+  Student Cluster Competition 
+  Participate in SCinet 
+  WINS 
+  SC Network Policy 
+  Media | Dropdown menu toggle | Media  Media Registration 
+  Media Partners 
+  Computing, Networking, Storage, and Analysis  
+ DENVER, CO • NOV  12–17  
+  Photo Gallery    
+  SC & Society Awards    
+  Proceedings & Archives    
+ I Am HPC     Uniting the World of High Performance Computing   
+ Dorian C. Arnold, SC23 General Chair and champion for diversity in high performance computing, is working to unite and humanize the HPC landscape.  
+  November 10, 2023 
+  I Am HPC     Bridging the Digital Divide: The Remarkable Journey of Roscoe C. Giles, III   
+ Giles shares insights into his work as a prominent physicist and computer engineer, as well as his mission to humanize technology.  
+  January 4, 2024 
+  I Am HPC     Advancing HPC Through Mentorship and Diversity   
+ A trailblazer in her field, Dr. Sally Ellingson pioneers computational biology, fosters diversity, and mentors others in HPC.  
+  January 4, 2024 
+  I Am HPC     First Former WINS Awardee Named SC24 SCinet Chair   
+ Angie Asmus’s journey and success in a male-dominated field make her a role model for countless women considering careers in HPC.  
+  December 28, 2023 
+  I Am HPC     Casey Foulds Has Made the SC Conference Her Passion Project   
+ Casey has contributed to the success of SC for over five years serving in a variety of roles on multiple SC Planning Committees.  
+  December 28, 2023 
+  All News   
+ I Am HPC.  
+ Denver is the place to be this fall as the high performance computing community convenes for an exhilarating week of sessions, speakers, and networking at its finest. SC is an unparalleled mix of thousands of scientists, engineers, researchers, educators, programmers, and developers and who intermingle to learn, share, and grow.  
+ registration    
+ PROGRAM  
+ Each year, SC provides the leading technical program for the HPC community. The Program is designed to share best practices in all areas of high performance computing. Become a contributor and share your excellence. Presenting at SC is extremely rewarding.  
+  DISCOVER & PARTICIPATE    
+ STUDENTS  
+ The Students@SC program offers a broad range of volunteer experiences, cluster competitions, and networking opportunities. Put your professional development into overdrive and identify the possibilities within the field of high performance computing.  
+  ENERGIZE YOUR FUTURE    
+ Stay Up to Date  
+ Sign up to receive the SC newsletter in your inbox.  
+ Please enable JavaScript in your browser to complete this form.  First Name *      
+ Information provided is treated in accordance with ACM  & IEEE  privacy policies.  
+ SC Network Policy 
+  SC23 Planning Committee 
+  Volunteer 
+  Proceedings & Archives 
+  SC Steering Committee 
+  Dates & Deadlines 
+  Photos & Logos 
+  SC Conference Series 
+  CODE OF CONDUCT
+
+output:1. SCA_3 information:
+2. SCN_0 information:
+3. SCN_1 information:
+4. SCN_2 information:
+5. SCN_3 information:
+6. SCOPES_0 information:
+7. SCOPES_1 information:
+8. SCOPES_2 information:
+9. SCOPES_3 information:
+10. SC_0 information:

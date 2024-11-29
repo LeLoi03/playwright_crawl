@@ -1,0 +1,60 @@
+  CALCO 
+  CCC 
+  CONCUR 
+  COSIT 
+  CP 
+  Part of: | Series: | Leibniz International Proceedings in Informatics (LIPIcs) | Part of: | Conference: | International Conference on Concurrency Theory (CONCUR) 
+ Event  
+ CONCUR 2023, September 18-23, 2023, Antwerp, Belgium   
+ Editors  
+ Guillermo A. Pérez            
+ Publication Details  
+ published at: 2023-09-07 
+  Publisher: Schloss Dagstuhl – Leibniz-Zentrum für Informatik 
+  DBLP: | db/conf/concur/concur2023 
+  Access Numbers  
+  Document   
+ Invited Paper   
+ CONCUR Test-Of-Time Award 2023 (Invited Paper)   
+ Authors:  Bengt Jonsson, Marta Kwiatkowska, and Igor Walukiewicz  
+  Abstract    
+ This short article recaps the purpose of the CONCUR Test-of-Time Award and presents the paper that received the Award in 2023.   
+  Cite as    
+ Authors:  Lucie Guillou, Arnaud Sangnier, and Nathalie Sznajder  
+  Abstract    
+ We consider networks of processes that all execute the same finite-state protocol and communicate via a rendez-vous mechanism. When a process requests a rendez-vous, another process can respond to it and they both change their control states accordingly. We focus here on a specific semantics, called non-blocking, where the process requesting a rendez-vous can change its state even if no process can respond to it. In this context, we study the parameterised coverability problem of a configuration, which consists in determining whether there is an initial number of processes and an execution allowing to reach a configuration bigger than a given one. We show that this problem is EXPSPACE-complete and can be solved in polynomial time if the protocol is partitioned into two sets of states, the states from which a process can request a rendez-vous and the ones from which it can answer one. We also prove that the problem of the existence of an execution bringing all the processes in a final state is undecidable in our context. These two problems can be solved in polynomial time with the classical rendez-vous semantics.   
+  Cite as    
+ Authors:  Gil Silva, Andreia Mordido, and Vasco T. Vasconcelos  
+  Abstract    
+ Context-free session types describe structured patterns of communication on heterogeneously typed channels, allowing the specification of protocols unconstrained by tail recursion. The enhanced expressive power provided by non-regular recursion comes, however, at the cost of the decidability of subtyping, even if equivalence is still decidable. We present an approach to subtyping context-free session types based on a novel kind of observational preorder we call XYZW-simulation, which generalizes XY-simulation (also known as covariant-contravariant simulation) and therefore also bisimulation and plain simulation. We further propose a subtyping algorithm that we prove to be sound, and present an empirical evaluation in the context of a compiler for a programming language. Due to the general nature of the simulation relation upon which it is built, this algorithm may also find applications in other domains.   
+  Cite as    
+ Authors:  Christoph Haase and Radosław Piórkowski  
+  Abstract    
+ Automatic structures are structures whose universe and relations can be represented as regular languages. It follows from the standard closure properties of regular languages that the first-order theory of an automatic structure is decidable. While existential quantifiers can be eliminated in linear time by application of a homomorphism, universal quantifiers are commonly eliminated via the identity ∀x.Φ≡¬(∃x.¬Φ). If Φ is represented in the standard way as an NFA, a priori this approach results in a doubly exponential blow-up. However, the recent literature has shown that there are classes of automatic structures for which universal quantifiers can be eliminated by different means without this blow-up by treating them as first-class citizens and not resorting to double complementation. While existing lower bounds for some classes of automatic structures show that a singly exponential blow-up is unavoidable when eliminating a universal quantifier, it is not known whether there may be better approaches that avoid the naïve doubly exponential blow-up, perhaps at least in restricted settings. In this paper, we answer this question negatively and show that there is a family of NFA representing automatic relations for which the minimal NFA recognising the language after eliminating a single universal quantifier is doubly exponential, and deciding whether this language is empty is ExpSpace-complete.   
+  Cite as    
+ Authors:  Sougata Bose, David Purser, and Patrick Totzke  
+  Abstract    
+ We consider history-determinism, a restricted form of non-determinism, for Vector Addition Systems with States (VASS) when used as acceptors to recognise languages of finite words. History-determinism requires that the non-deterministic choices can be resolved on-the-fly; based on the past and without jeopardising acceptance of any possible continuation of the input word. Our results show that the history-deterministic (HD) VASS sit strictly between deterministic and non-deterministic VASS regardless of the number of counters. We compare the relative expressiveness of HD systems, and closure-properties of the induced language classes, with coverability and reachability semantics, and with and without ε-labelled transitions. Whereas in dimension 1, inclusion and regularity remain decidable, from dimension two onwards, HD-VASS with suitable resolver strategies, are essentially able to simulate 2-counter Minsky machines, leading to several undecidability results: It is undecidable whether a VASS is history-deterministic, or if a language equivalent history-deterministic VASS exists. Checking language inclusion between history-deterministic 2-VASS is also undecidable.   
+  Cite as    
+ Authors:  Orna Kupferman and Noam Shenwald  
+  Abstract    
+ The interaction among components in a system is traditionally modeled by a game. In the turned-based setting, the players in the game jointly move a token along the game graph, with each player deciding where to move the token in vertices she controls. The objectives of the players are modeled by ω-regular winning conditions, and players whose objectives are satisfied get rewards. Thus, the game is non-zero-sum, and we are interested in its stable outcomes. In particular, in the rational-synthesis problem, we seek a strategy for the system player that guarantees the satisfaction of the system’s objective in all rational environments. In this paper, we study an extension of the traditional setting by trading of control. In our game, the players may pay each other in exchange for directing the token also in vertices they do not control. The utility of each player then combines the reward for the satisfaction of her objective and the profit from the trading. The setting combines challenges from ω-regular graph games with challenges in pricing, bidding, and auctions in classical game theory. We study the theoretical properties of parity trading games: best-response dynamics, existence and search for Nash equilibria, and measures for equilibrium inefficiency. We also study the rational-synthesis problem and analyze its tight complexity in various settings.   
+  Cite as    
+ Authors:  Radu Iosif and Florian Zuleger  
+  Abstract    
+ In this paper we study a Separation Logic of Relations (SLR) and compare its expressiveness to (Monadic) Second Order Logic [(M)SO]. SLR is based on the well-known Symbolic Heap fragment of Separation Logic, whose formulæare composed of points-to assertions, inductively defined predicates, with the separating conjunction as the only logical connective. SLR generalizes the Symbolic Heap fragment by supporting general relational atoms, instead of only points-to assertions. In this paper, we restrict ourselves to finite relational structures, and hence only consider Weak (M)SO, where quantification ranges over finite sets. Our main results are that SLR and MSO are incomparable on structures of unbounded treewidth, while SLR can be embedded in SO in general. Furthermore, MSO becomes a strict subset of SLR, when the treewidth of the models is bounded by a parameter and all vertices attached to some hyperedge belong to the interpretation of a fixed unary relation symbol. We also discuss the problem of identifying a fragment of SLR that is equivalent to MSO over models of bounded treewidth.   
+  Cite as    
+ Authors:  Hagit Attiya, Constantin Enea, and Shafik Nassar  
+  Abstract    
+ Byzantine Fault-Tolerant (BFT) protocols that are based on Directed Acyclic Graphs (DAGs) are attractive due to their many advantages in asynchronous blockchain systems. These DAG-based protocols can be viewed as a simulation of some BFT protocol on a DAG. Many DAG-based BFT protocols rely on randomization, since they are used for agreement and ordering of transactions, which cannot be achieved deterministically in asynchronous systems. Randomization is achieved either through local sources of randomness, or by employing shared objects that provide a common source of randomness, e.g., common coins. A DAG simulation of a randomized protocol should be faithful, in the sense that it precisely preserves the properties of the original BFT protocol, and in particular, their probability distributions. We argue that faithfulness is ensured by a forward simulation. We show how to faithfully simulate any BFT protocol that uses public coins and shared objects, like common coins.   
+  Cite as    
+ Authors:  Jesús Domínguez and Aleksandar Nanevski  
+  Abstract    
+ Linearizability is a standard correctness criterion for concurrent algorithms, typically proved by establishing the algorithms' linearization points (LP). However, LPs often hinder abstraction, and for some algorithms such as the timestamped stack, it is unclear how to even identify their LPs. In this paper, we show how to develop declarative proofs of linearizability by foregoing LPs and instead employing axiomatization of so-called visibility relations. While visibility relations have been considered before for the timestamped stack, our study is the first to show how to derive the axiomatization systematically and intuitively from the sequential specification of the stack. In addition to the visibility relation, a novel separability relation emerges to generalize real-time precedence of procedure invocation. The visibility and separability relations have natural definitions for the timestamped stack, and enable a novel proof that reduces the algorithm to a simplified form where the timestamps are generated atomically.   
+  Cite as    
+ Authors:  Sven Schewe, Qiyi Tang, and Tansholpan Zhanabekova  
+  Abstract    
+ Nondeterministic good-for-MDPs (GFM) automata are for MDP model checking and reinforcement learning what good-for-games automata are for reactive synthesis: a more compact alternative to deterministic automata that displays nondeterminism, but only so much that it can be resolved locally, such that a syntactic product can be analysed. GFM has recently been introduced as a property for reinforcement learning, where the simpler Büchi acceptance conditions it allows to use is key. However, while there are classic and novel techniques to obtain automata that are GFM, there has not been a decision procedure for checking whether or not an automaton is GFM. We show that GFM-ness is decidable and provide an EXPTIME decision procedure as well as a PSPACE-hardness proof.   
+  Cite as    
+  TGDK – Transactions on Graph Data and Knowledge 
+ © 2023-2024 Schloss Dagstuhl – LZI GmbH  Imprint  Privacy  Contact

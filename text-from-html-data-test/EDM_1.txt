@@ -1,0 +1,165 @@
+Notice  : Function _load_textdomain_just_in_time was called incorrectly  . Translation loading for the feed-them-social  domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the init  action or later. Please see Debugging in WordPress  for more information. (This message was added in version 6.7.0.) in /home/vb1fp226qybv/public_html/EDM_ORG/wp-includes/functions.php  on line 6114   
+   
+  Notice  : Function _load_textdomain_just_in_time was called incorrectly  . Translation loading for the complianz-terms-conditions  domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the init  action or later. Please see Debugging in WordPress  for more information. (This message was added in version 6.7.0.) in /home/vb1fp226qybv/public_html/EDM_ORG/wp-includes/functions.php  on line 6114   
+   
+  Notice  : Function _load_textdomain_just_in_time was called incorrectly  . Translation loading for the complianz-gdpr  domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the init  action or later. Please see Debugging in WordPress  for more information. (This message was added in version 6.7.0.) in /home/vb1fp226qybv/public_html/EDM_ORG/wp-includes/functions.php  on line 6114   
+    Call for Papers: Educational Data Mining 2024-                                                          
+
+ Home 
+  About | About the Conference 
+  Conference Venue 
+  Archives 
+  Organization | Organizing Committee 
+  Program Committee 
+  Local Organizing Committee 
+  Speakers 
+  Panels 
+  Tutorials 
+  Program 
+  Proceedings | Proceedings (PDF version) 
+  Proceedings (HTML version) 
+  Publication Ethics 
+  Registration 
+  Scholarships 
+  Sponsors 
+  Contact 
+
+ Call for Papers  
+
+ First Call for Papers  
+ EDM 2023: the 16th International Conference on Educational Data Mining  
+ Bangalore, India, July 11-14, 2023   
+ Shareable Call for Papers  (pdf)    
+
+ Submit paper here     
+
+ Important Note   
+  Compared to previous years, EDM 2023 will have an earlier submission deadline on Jan 20, 2023  (with Jan 13, 2023 as abstract submission deadline).  
+
+ Theme: Educational data mining for amplifying human potential  
+ Educational Data Mining is a leading international forum for high-quality research that mines datasets to answer educational research questions, including exploring how people learn and how they teach. These data may originate from a variety of learning contexts, including learning and information management systems, interactive learning environments, intelligent tutoring systems, educational games, and data-rich learning activities. Educational data mining considers a wide variety of types of data, including but not limited to log files, student-produced artifacts, discourse, learning content and context, sensor data, and multi-resource and multimodal streams. The overarching goal of the Educational Data Mining research community is to support learners and teachers more effectively, by developing data-driven understandings of the learning and teaching processes in a wide variety of contexts and for diverse learners.  
+ The 16th iteration of the conference, EDM 2023, will take place in the Indian Institute of Science Campus, Bengaluru, India, during July 11-14, 2023.  
+ The theme of this year’s conference is “ Educational data mining for amplifying human potential  ”. Not all students receive the education necessary to help them express their full potential be it due to a lack of resources or access to high quality teaching. The lack of high-quality educational material and teaching aids and methodologies and non-availability of objective feedback on how they can become even better teachers, deprive our teachers from achieving their full potential. The administrators and policy makers lack tools for making optimal decisions such as optimal class sizes and composition and course sequencing. These in turn handicap the nations, particularly the economically emergent ones, who recognize the centrality of education for their growth. Thus, EDM-2023 particularly welcomes papers focusing on concepts, principles, and techniques mined from educational data for enhancing the potential of all the stakeholders in the education system. Papers describing applications and case studies are especially welcome.  
+ Topics of Interest  
+ Topics of interest to the conference include but are not limited to:  
+ Models and new techniques for mining educational data. | Closing the loop between EDM research and learning sciences 
+  Informing data mining research with educational and/or motivational theories 
+  Actionable advice rooted in educational data mining research, experiments, and outcomes 
+  Domain Knowledge Modeling | Deriving representations of domain knowledge from data 
+  Algorithms for discovering relationships, associations, and prerequisite structures between learning resources with different formats, including programming practices, essays, and videos 
+  Algorithms to improve existing domain models 
+  Novel methods to collect domain knowledge models, including crowd-sourcing and expert tagging 
+  Educational Recommenders, Instructional Sequencing, and Personalized Learning | Learning resource recommendation algorithms, remedial recommendations, and learner choice in selecting the next activity 
+  Goal-oriented instructional sequencing 
+  Personalized course recommendations 
+  Peer recommendation for collaborative learning 
+  Offline and online evaluation methods for educational recommender systems and sequencing algorithms 
+  Learner Cognitive and Behavior Modeling and its association with performance | Modeling and detecting students’ affective and cognitive states (e.g., engagement, confusion) with multimodal data 
+  Temporal patterns in student behavior including gaming the system, procrastination, and sequence modeling 
+  Data mining to understand how learners interact with various pedagogical environments such as educational games and exploratory learning environments 
+  Multimodal analytics 
+  Learner Knowledge and Performance Modeling | Automatically assessing student knowledge 
+  Learner knowledge gain and forgetting models in domains with complex concept structures 
+  Modeling real-world problem-solving in open-ended domains 
+  Causal inference of students’ learning 
+  Predicting students’ future performance 
+  Social and Collaborative Learning | Modeling student and group verbal and non-verbal interactions for collaborative and/or competitive problem-solving 
+  Social network analysis of student and teacher interactions 
+  Data mining to understand how learners interact in formal and informal educational contexts 
+  Peer-assessment modeling 
+  Social learner modeling 
+  Reproducibility | Replicating previous studies with larger sample sizes, in different domains, and/or in more diverse contexts 
+  Facilitating accessible benchmarking systems and publishing educational datasets that are useful for the community 
+  EDM in life and the practical influence of EDM on learning and teaching 
+  Equity, Privacy, Transparency, and Fairness | Ethical considerations in EDM 
+  Legal and social policies to govern EDM 
+  Developing privacy-protecting EDM algorithms and detecting learner privacy violations in existing methods 
+  Developing and applying fairer learning algorithms, and detecting and correcting instances of algorithmic unfairness in existing methods 
+  Developing, improving, and evaluating explainable EDM algorithms 
+  Submission Types  
+ For all tracks, the references section at the end of the paper does not count towards the listed page limits  .  
+ Full Papers | — 10 pages. Should describe original, substantive, mature, and unpublished work. 
+  Short Papers | — 6 pages. Should describe original, unpublished work. This includes early stage, less developed works in progress. 
+  JEDM Journal Track Papers | — Papers submitted to the Journal of Educational Data Mining track (and accepted before 2023-05-31) will be published in the June issue of JEDM and presented during the JEDM track of the conference. Papers accepted later will be automatically considered for the next iteration of the conference. 
+  Industry Papers | — 6 pages. Should describe innovative use and deployment of EDM techniques in schools, formal and informal learning settings, ed-tech products, etc. 
+  Posters | — 2-4 pages. Should describe original unpublished work in progress or last-minute results. 
+  Demos | — 2-4 pages. Description of the proposed demonstration at the conference of the EDM tools and systems, or educational systems that use EDM techniques. 
+  Doctoral Consortium | — 2-4 pages. Should describe the graduate/postgraduate student’s research topic, proposed contributions, results so far, and aspects of the research on which advice is sought. 
+  Workshop proposals | — 2-4 pages. Should describe the organizers’ plan both to conduct the workshop (e.g., format, rough schedule, proposed list of speakers) and to stimulate growth in the workshop’s area of focus. 
+  Tutorial proposals | — 2-4 pages. Should motivate and describe succinctly the field or tool that will be presented, and a plan for attendees to learn it in a hands-on way. 
+  All paper submissions must be submitted for double-blind reviewing. All papers must haven’t been submitted for publication at other venues.  
+ All accepted papers will be published in the open-access proceedings of the conference, except for the Journal track as stated above. Papers submitted to workshops will be published separately in the workshop proceedings.  
+ Links to existing source code are encouraged, however to keep the double-blind reviewing, we suggest using a service such as Anonymous GitHub ( https://anonymous.4open.science  ).  
+ Submission  
+ All papers – except the papers submitted to the JEDM Journal Track, see below – should be formatted according to the EDM template:  
+ Microsoft Word template | * 
+  LaTeX template | * 
+   
+ * Please take note that the template links were changed on October 20, 2022. Kindly use the updated template if you downloaded it before October 20, 2022.   
+ Submit paper here     
+   
+ Special Instructions  
+ Workshop and Tutorial proposals  
+ Workshop and Tutorial proposals should use the EDM proceedings template (LaTeX or Word) and include at least the following elements:  
+ Title. 
+  Length of workshop/tutorial: full or half-day. 
+  Proposed format of the workshop/tutorial (e.g., approximate timeline) and type of activities (e.g., paper presentations, discussions, demos, etc.). 
+  Description of the workshop/tutorial content and themes. 
+  Names, short biographies, and contact information of workshop/tutorial chair(s). For tutorials, this biography must include detailed information about the qualifications of the proposer to conduct the tutorial on the proposed topic. For workshops, include a list of organizing/program committee members, who should be from multiple universities. 
+  Submission link will be made available soon.  
+ JEDM Journal Track Papers  
+ JEDM track papers should be formatted according to the JEDM guidelines and should be submitted to the journal directly at: https://jedm.educationaldatamining.org/index.php/JEDM/about/submissions  .  
+ Select the option “ EDM 2023 Journal Track   ” in the corresponding Section box when filling the form to submit your paper.  
+ Demo Track  
+ 2–4 pages. The EDM demo track is intended to foster discussion and exchange of ideas among researchers and practitioners from academia and industry on how EDM methods can support teaching and learning. The participants in this track can demo: EDM tools, EDM system design, visualized EDM results or educational systems/tools that use EDM techniques. Beyond academic community, industrial researchers and practitioners are encouraged to submit their works to the demo track  
+ While not required, an optional URL linking to a short video no more than 5 minutes in length is encouraged to be submitted with the manuscript to give a precise idea of what the demo will look like. Accepted demo papers will be included in the EDM proceedings. One award will be given in recognition of the outstanding demo.  
+ Important Dates  
+ All dates refer to 23:59 (11:59 pm) anywhere on Earth  . All dates refer to the year 2023. All deadlines are firm. No extension will be granted.   
+ Please note: Compared to previous years, EDM 2023 will have an earlier submission deadline on Jan 20, 2023  (with Jan 13, 2023 as abstract submission deadline)  
+  
+ JEDM track papers | Three cut-off dates  :September 30, 2022 November 30, 2022January 30, 2023 
+ Workshop and Tutorial proposals | December 5, 2022 
+ Acceptance notifications for workshops and tutorials | January 9, 2023 
+ Abstracts for full and short papers | January 13, 2023 
+ Full papers and short papers, Industry papers, Posters and demos, Doctoral consortium papers | January 20, 2023 
+ Acceptance notifications for full and short papers, posters, demos, and doctoral consortium papers | April 10, 2023 
+ Camera-ready copy due | May 1, 2023 
+ Due dates and acceptance notifications for workshop papers | Set by workshop organizers 
+  
+  Looking forward to seeing you at EDM 2023 in Bangalore!   
+
+ Announcements 
+  Register now! 
+  You can now apply for Conference Visa 
+  Registration Information 
+  Ambassador Program 
+  Apply for IISc Campus Accommodation (Deadline: June 20, 2023) 
+  Panels Announced 
+  Tutorials Announced 
+  Conference Schedule Available 
+  Scholarships Announced 
+
+ © 2024 Educational Data Mining 2024   
+
+ Website by: Surfzone Technologies    
+
+ Scroll Up       
+
+ Home 
+  About | About the Conference 
+  Conference Venue 
+  Archives 
+  Organization | Organizing Committee 
+  Program Committee 
+  Local Organizing Committee 
+  Speakers 
+  Panels 
+  Tutorials 
+  Program 
+  Proceedings | Proceedings (PDF version) 
+  Proceedings (HTML version) 
+  Publication Ethics 
+  Registration 
+  Scholarships 
+  Sponsors 
+  Contact

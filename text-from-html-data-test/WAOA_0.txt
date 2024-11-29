@@ -1,0 +1,105 @@
+Skip to content    ALGO 2023   
+   
+        Home  Home 
+  ALGOCLOUD 
+  ALGOWIN | (former ALGOSENSORS) 
+  ATMOS 
+  IPEC 
+  ESA 
+  WAOA 
+  Local Info 
+  Registration 
+  Schedule 
+  Social Program 
+
+ WAOA  
+ 2023   
+
+ Scope  
+ Approximation and online algorithms are fundamental tools to deal with computationally hard problems and problems in which the input is gradually disclosed over time. Both kinds of problems arise from a large number of applications in a variety of fields. The Workshop on Approximation and Online Algorithms (WAOA)  focuses on the design and analysis of approximation and online algorithms. It also covers experimental methods used to design and analyze efficient approximation and online algorithms. It is co-located with ALGO 2023  , which also hosts ESA  , ALGOCLOUD  , ALGOWIN  , ATMOS  and IPEC  . ALGO 2023  will take place in the beautiful city of Amsterdam in the Netherlands.  
+ Important dates  
+ Paper Submission: June 29, 2023 (AOE) 
+  Notification of acceptance: July 31, 2023 
+  Camera-ready: August 31, 2023 
+  Conference dates: September 7-8, 2023 
+  Call for papers  
+ Papers are solicited in all research areas related to approximation and online algorithms, including, but not limited to:  
+ Algorithmic game theory 
+  Algorithmic trading 
+  Coloring and partitioning 
+  Competitive analysis 
+  Computational advertising 
+  Computational finance 
+  Cuts and connectivity 
+  FPT-approximation algorithms 
+  Geometric problems 
+  Graph algorithms 
+  Inapproximability results 
+  Mechanism design 
+  Network design 
+  Packing and covering 
+  Paradigms for the design and analysis of approximation and online algorithms 
+  Resource augmentation 
+  Scheduling problems 
+  Submission guidelines  
+ Authors are invited to submit an extended abstract or full paper of at most 10 pages excluding the title page, references, and an optional appendix. The submission should be typeset using a 10-point or larger font in a single-column format with ample spacing throughout and 2cm margins all around on A4-size paper. Proofs omitted due to space constraints must be placed in an appendix. This appendix can even comprise an entire full version of the paper. The appendix will be read by the program committee members at their discretion. In particular, appendices of accepted papers are not going to be published in the proceedings. The main part of the submission should therefore contain a clear technical presentation of the merits of the paper, including a discussion of the paper’s importance within the context of prior work and a description of the key technical and conceptual ideas used to achieve its main claims.  
+ The conference employs a lightweight double-blind reviewing process. Submissions should not reveal the identity of the authors in any way. In particular, authors’ names, affiliations, and email addresses should not appear at the beginning or in the body of the submission. Authors should ensure that any references to their own related work is in the third person (e.g., not “We build on our previous work …” but rather “We build on the work of …”). Nothing should be done in the name of anonymity that weakens the submission or makes the job of reviewing the paper more difficult. In particular, references should not be omitted or anonymized.  
+ Papers should be submitted electronically via the EasyChair submission system: https://easychair.org/conferences/?conf=waoa2023   
+   
+ By submitting a paper the authors acknowledge that in case of acceptance at least one of the authors must register at ALGO 2023, attend the conference onsite and present the paper.  
+ The program committee may award a Best Paper Award to one of the accepted papers.  
+ Invited speaker  
+ Nicole Megow, University of Bremen  
+ Accepted papers  
+ Bodo Manthey | and Jesse van Rhijn. | Approximation Ineffectiveness of a Tour-Untangling Heuristic 
+  William Evans and | David Kirkpatrick | . | A Frequency-Competitive Query Strategy for Maintaining Low Collision Potential Among Moving Entities 
+  Tobias Mömke | , | Alexandru Popa | , Aida Roshany Tabrizi, Michael Ruderer and Roland Vincze. | Approximating Maximum Edge 2-Coloring by Normalizing Graphs 
+  Allan Borodin | and Christodoulos Karavasilis. | Any-Order Online Interval Selection 
+  Eric Balkanski | , Tingting Ou, | Clifford Stein | and Hao-Ting Wei. | Scheduling with Speed Predictions 
+  Gunther Bidlingmaier | . | Greedy Minimum-Energy Scheduling 
+  Thomas Bosman, Martijn van Ee, Ekin Ergen, Csanad Imreh, Alberto Marchetti-Spaccamela, Martin Skutella and Leen Stougie. | Total completion time scheduling under scenarios 
+  Sander Aarts and | David Shmoys | . | Hitting Sets when the Shallow Cell Complexity is Small 
+  Michael Dinitz | , Ama Koranteng, | Guy Kortsarz | and | Zeev Nutov | . | Improved Approximations for Relative Survivable Network Design 
+  Lukas Drexler, Annika Hennes, | Abhiruk Lahiri | , | Melanie Schmidt | and Julian Wargalla. | Approximating Fair k-Min-Sum-Radii in R^d 
+  Mateusz Basiak, | Marcin Bienkowski | and Agnieszka Tatarczuk. | An Improved Deterministic Algorithm for the Online Min-Sum Set Cover Problem 
+  Philip Cervenjak, | Junhao Gan | and | Anthony Wirth | . | Fast Parallel Algorithms for Submodular p-Superseparable Maximization 
+  Vítor G. Chagas, Elisa Dell’Arriva and | Flavio K. Miyazawa | . | Approximation Schemes under Resource Augmentation for Knapsack and Packing Problems of Hyperspheres and Other Shapes 
+  Parinya Chalermsook, Ameet Gadekar, Kamyar Khodamoradi and Joachim Spoerhase. | Independent set in $k$-Claw-Free Graphs: Conditional $\chi$-boundedness and the Power of LP/SDP Relaxations 
+  Alison Hsiang-Hsuan Liu | , Fu-Hong Liu, Prudence W.H. Wong and Xiao-Ou Zhang. | The Power of Amortization on Scheduling with Explorable Uncertainty 
+  Mathieu Mari, Nima Khodaveisi and Shanli Alefkhani. | Online hitting set of d-dimensional fat objects 
+  Committees  
+ Program committee  
+ Marek Adamczyk (University of Wrocław) 
+  Karl Bringmann (Saarland University) 
+  Jarosław Byrka (University of Wrocław, co-chair) 
+  Sami Davies (Northwestern University) 
+  Guy Even (Tel-Aviv University) 
+  Andreas Emil Feldmann (University of Sheffield) 
+  Zachary Friggstad (University of Alberta) 
+  Arindam Khan (Indian Institute of Science, Bangalore) 
+  Kamyar Khodamoradi (University of British Columbia) 
+  Max Klimm (Technische Universität Berlin) 
+  Alexandra Lassota (EPFL) 
+  Ben Moseley (Carnegie Mellon University) 
+  Tim Oosterwijk (Vrije Universiteit Amsterdam) 
+  Kirk Pruhs (University of Pittsburgh) 
+  Erik Jan van Leeuwen (Utrecht University) 
+  Laura Vargas Koch (ETH Zürich) 
+  Andreas Wiese (Technical University of Munich, co-chair) 
+  Steering committee  
+ Evripidis Bampis, Sorbonne Université, Paris, France 
+  Thomas Erlebach, Durham University, UK 
+  Christos Kaklamanis, University of Patras, Greece 
+  Nicole Megow, Universität Bremen, Germany 
+  Laura Sanita, Eindhoven University of Technology, The Netherlands 
+  Martin Skutella, Technische Universität Berlin, Germany 
+  Roberto Solis-Oba, University of Western Ontario, USA 
+  Proceedings  
+ Proceedings will be published in the Springer series Lecture Notes in Computer Science after the workshop takes place.  
+
+ ALGO 2023   
+   
+ Imprint   
+ Privacy Policy   
+   
+ Powered by WordPress

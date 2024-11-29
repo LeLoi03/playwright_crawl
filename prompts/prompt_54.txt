@@ -1,0 +1,706 @@
+input:
+1. CSCW_2 conference:
+Skip to footer 
+   CSCW 2023   
+ Menu  Search for:        
+  Diversity, Equity, and Inclusion 
+  Hybrid Experience 
+  Information for Paper Presenters 
+  Local Events 
+  Local Guide 
+  Program overview 
+  CODE OF CONDUCT 
+  About CSCW | Organizing Committee 
+  Program Committee 
+  Steering Committee 
+  Back to top ↑ 
+ SUBMITTING A PAPER  
+ CSCW is the premier international venue for research in the design and use of technologies that affect groups, organizations, communities, and networks. We invite authors to submit their best research on all topics relevant to collaborative or social computing. Accepted papers are published in two annual CSCW issues of the journal series Proceedings of the ACM on Human Computer Interaction (PACM HCI).  
+ CSCW 2023 will follow the half-yearly submission model implemented in CSCW 2022. Thus, new paper submissions will be only possible for the July 2022 and January 2023 deadlines.  
+ We have two additional deadlines in October and April for revisions only. Below an overview of the submission timeline.  
+ Important Dates  
+ July 2022 Cycle  
+  Important: Failing to resubmit the revised version of a Minor Revision paper of the July 2023 Cycle in this deadline means that the paper must be resubmitted as a new submission to a future cycle and will be assigned to new ACs and reviewers. 
+  Earliest resubmission of papers that received a Reject recommendation as new submissions. 
+  Important: Failing to resubmit the revised version of a Major Revision paper of the July 2023 Cycle in this deadline means that the paper must be resubmitted as a new submission to a future cycle and will be assigned to new ACs and reviewers. 
+  Accepted papers are invited to present at CSCW 2023. 
+  January 2023 Cycle  
+  Accepted papers are invited to present at CSCW 2023. 
+  Important: Failing to resubmit the revised version of a Minor Revision paper of the January 2023 Cycle in this deadline means that paper must be resubmitted as a new submission to a future cycle and will be assigned to new ACs and reviewers. 
+  Accepted papers are invited to present at CSCW 2023. 
+  Earliest resubmission of papers that received a Reject recommendation as new submissions. 
+  Important: Failing to resubmit the revised version of a Minor Revision paper of the January 2023 Cycle in this deadline means that the paper must be resubmitted as a new submission to a future cycle and will be assigned to new ACs and reviewers. 
+  Accepted papers are invited to present at CSCW 2024. 
+  Important: Failing to resubmit the revised version of a Major Revision paper of the January 2023 Cycle in this deadline means that the paper must be resubmitted as a new submission to a future cycle. 
+  Accepted papers are invited to present at CSCW 2024. 
+  Paper reviews will be sent to authors roughly 11 weeks from the initial submission and major revision resubmission. Review turnaround for final checks and papers accepted with minor revisions will be shorter. For the CSCW July 2022 submission deadline, we hope to send out notifications on September 30th, 2022.  
+ The submission site will open 2 weeks before each deadline. No deadline extensions will be granted.  
+ Call for Papers  
+ We invite authors to submit papers that inform the design or deployment of collaborative or social systems; introduce novel systems, interaction techniques, or algorithms; or study existing collaborative or social practices. The scope of CSCW 2023 includes social computing and social media, crowdsourcing, open and remote collaboration, technologically enabled or enhanced communication, such as video-conferencing and other remote-presence technologies, CSCL, MOOCs and related educational technologies, multi-user input technologies, collocated work practices, work articulation and coordination, awareness, and information sharing. This scope spans socio-technical domains of work, home, education, healthcare, the arts, sociality, entertainment, and ethics. Papers can report on novel research results, designs, systems, or new ways of thinking about, studying, or supporting shared activities.  
+ CSCW encourages papers that contribute to building CSCW systems, including (but not limited to) engineering and technical enablers for CSCW applications, methods, and techniques for new CSCW services and applications, and evaluation of both early-stage and fully built CSCW systems in lab or field settings.  
+ To support diverse and high-quality contributions, CSCW uses a two-cycle review process with opportunity for major revisions reviewed by the same reviewers. Additionally, no arbitrary length limit is imposed on submissions. Accepted papers are published in the Proceedings of the ACM: Human Computer Interaction (PACM HCI) journal.  
+ We invite contributions to CSCW across a variety of research techniques, methods, approaches, and domains, including:  
+ Social and crowd computing. Studies, theories, designs, mechanisms, systems, and/or infrastructures addressing social media, social networking, wikis, blogs, online gaming, crowdsourcing, collective intelligence, virtual worlds, or collaborative information behaviors. 
+  System development. Hardware, architectures, infrastructures, interaction design, technical foundations, algorithms, and/or toolkits that enable the building of new social and collaborative systems and experiences. 
+  Ethics and policy implications. Analysis of the implications of socio-technical systems and the algorithms that shape them. 
+  Crossing boundaries. Studies, prototypes, or other investigations that explore interactions across disciplines, distance, languages, generations, and cultures, to help better understand how to transcend social, temporal, and/or spatial boundaries. 
+  Send queries about paper submissions to papers2023@cscw.acm.org  .  
+ Submission Process Details  
+ That the paper submitted is original, that the listed authors are the creators of the work, that each author is aware of the submission and that they are listed as an author, and that the paper is an honest representation of the underlying work. 
+  That the work submitted is not currently under review at any other publication venue, and that it will not be submitted to another venue unless it has been rejected or withdrawn from this venue. 
+  For information about re-publication in English of work previously published in another language, please refer to section 1.5.4 of the ACM SIGCHI policy.  
+ Parallel submissions: Authors submitting multiple papers related to the same study are required to provide information about the relationship among them, as well as how they are different from one another. Authors should use the “Comments (optional)” field on the Submission form to provide this information.  
+ Confidentiality of submitted material will be maintained. Upon acceptance, the titles, authorship, and abstracts of papers will be used in the Advance Program. Submissions should contain no information or material that is or will be proprietary and/or confidential at the time of publication and should cite no publication that will be proprietary or confidential at that time. Final versions of accepted papers must be formatted according to detailed instructions provided by the publisher. Copyright release forms must be signed for inclusion in the PACM HCI and the ACM Digital Library.  
+ Formatting and Length  
+ Note: In preparing revisions, authors should continue using the template they had used for their original submissions.  
+ No minimum or maximum length is imposed on papers. Rather, reviewers will be instructed to weigh the contribution of a paper relative to its length. Typical papers are under 10,000 words.  
+ Note: Valuable but concise contributions are welcome as short papers. Shorter, more focused papers will be reviewed with the expectation of a small, focused contribution. Papers whose length is incommensurate with their contribution will be rejected.  
+ Anonymous Review Policy  
+ Papers are subject to anonymous reviewing. Submissions must have authors’ names and affiliations removed and avoid obvious identifying statements. Any grant information that identifies the author(s) and their institution should be removed as well. Papers that violate this policy will be desk rejected. Please check in particular the front page, headers and footers, Acknowledgement section, AND meta-data of the submitted file.  
+ Citations to authors’ own relevant work should NOT be anonymous, but rather should be done without identifying the authors. For example, “Prior work by [authors]” instead of “In our prior work.”  
+ CSCW does not have a policy against uploading preprints to SSRN or arXiv before they are submitted for review at the conference.  
+ Nevertheless, to ensure the integrity of the peer review process, we ask that no authors publicize the work until that process is complete. Please do not share any confidential info specific to a current review process publicly* or on social media. (*Exception: Doing public exhibitions, festivals, and performances as part of the research where the name is integral to the work).  
+ We also ask the reviewers to refrain from taking steps to learn about the author’s identity during the peer review process.  
+ Decisions and Deadlines  
+ CSCW will be returning submissions to the primary contact author with one of the following decisions, along with the reviews, roughly 11 weeks from the initial submission. For the CSCW July 2022 submission deadline, we hope to send out notifications on September 30th, 2022. Review turnaround for accepted papers and final checks will be shorter:  
+ Accept: | Submissions that receive this decision are ready or nearly ready for publication, though they may require a few small changes. The final version of the paper must be submitted in the next deadline (or earlier) for verification by the corresponding associate chair. The submission will appear in an upcoming issue of the PACM HCI. 
+  Minor revision: | Submissions that receive this decision will require some revisions before being accepted for publication. The revised submission MUST be submitted within the next deadline, along with a brief response to the reviewers’ comments. The revision will be verified by the corresponding associate chair and if approved, the submission will be promoted to an accepted paper. 
+  Major revision: | Submissions that receive this decision have real potential, but will require major portions rewritten or redone, and then re-reviewed. Given the amount of effort that should be invested in a major revision, the earliest resubmission of a revised major revision is after two deadlines of the initial submission. Latest submission will also be acceptable three deadlines after the initial submission. For example, a July 2022 submission receiving a Major Revision decision can be first resubmitted to the January 2023 deadline and must be resubmitted by the April 2023 deadline at the latest. The authors must ensure that the paper has been revised sufficiently to warrant re-review. To the extent possible, resubmissions will be assigned the same AC and reviewers for re-review. Upon re-review, submissions can receive one of two decisions: Accept with minor revisions or Reject. Unlike most journals, the current CSCW review process does NOT allow for more than one major revision recommendation due to reviewer availability and time constraints. 
+  Reject: | Authors of rejected papers are allowed to resubmit their papers in the next cycle as a new submission after receiving the Reject decision. For example, if the paper was rejected after a submission in July 2022, authors can re-submit the paper as a new submission in the following January 2023 cycle. However, papers resubmitted with no or marginal changes will be desk rejected without review. Authors must describe the paper’s submission history and briefly outline the changes in a designated field in PCS when resubmitting. Failure to disclose the paper’s submission history may lead to a desk reject decision. ACs and reviewers will have access to this description of the paper’s submission history and may also request to review the detailed submission history. 
+  Desk / Quick Reject: | Authors should only submit completed work of publishable quality and within the scope of ACM CSCW. The ACs and Editors may Quick Reject any submission that they believe has little chance of being accepted if it goes through the peer review process. Incomplete or otherwise inappropriate submissions will be desk rejected without review. 
+  CSCW Decision Appeal Process  
+ We recognize that authors may sometimes feel a review is unfair, inappropriate, or problematic in other ways. CSCW has implemented the following process for authors who wish to appeal a decision:  
+ Either: | Authors directly contact the Papers Chairs to officially appeal a decision 
+  A committee member (1 AC / 2AC / Editor / Papers Chair) raises an issue about the decision or decision-making process, possibly in response to a communication from an author 
+  The appeal involves motivating the case with evidence 
+  Papers Chairs assess the situation and make an initial call to bring it up for discussion with the Editors 
+  The Editor assigned to the submission reviews the paper, the reviews, and the discussion in PCS to determine if the case is valid. The Editor may choose to involve the ACs at this stage 
+  Other Editors weigh in and review the case 
+  The Editors come to a collective decision and share their decision with the Papers Chairs 
+  The Papers Chairs discuss the Editors’ decision. If a change is agreed, Papers Chairs record the updated decision in PCS 
+  The Papers Chairs communicate the final decision to the authors 
+  If the authors are dissatisfied with the outcome of this process, the case will then be referred to the CSCW Steering Committee 
+  Primary Research Paradigm Selection for Reviewing  
+ When uploading the paper to the PCS reviewing system, authors will be able to indicate the primary research paradigm of their paper for appropriate reviewer assignment:  
+ Technical/Systems, e.g., building novel systems, algorithms, implementing novel features in existing systems, etc. 
+  Empirical-Qualitative, e.g., ethnography, workplace studies, qualitative user studies, etc. 
+  Mixed Methods, e.g., combined qualitative and quantitative empirical research, design explorations combined with technical feature development. 
+  Design, e.g., design implications, guidelines, methods, techniques, etc. 
+  Theoretical, e.g., conceptual frameworks, theory underpinning CSCW studies/domains, theoretical analysis, and essays. 
+  Open and Transparent Science  
+ Authors are encouraged to submit supplementary material when possible and when aligned with their methods. Authors are encouraged to submit links to pre-registrations on the Open Science Framework (OSF) when appropriate for their work. Authors are also encouraged to use open access repositories and make their data and other material FAIR when appropriate for their work. Authors are encouraged to describe efforts to make their work more reproducible. Reviewers are encouraged to support evolving approaches to supporting open and transparent research practices.  
+ Video Figures  
+ Authors should consider submitting a video that illustrates their work as part of the submission (no more than three minutes long). Videos are not required for paper submissions, but are strongly encouraged, particularly for papers contributing novel systems or interaction techniques.  
+ Presenting at the Conference  
+ Accepted papers are invited to present at the corresponding conference for that deadline, and authors can choose whether or not they wish to present. Because the situation may be changing and times are uncertain, authors are encouraged to discuss alternative options with the Papers Chairs. Presenting at the conference is strongly recommended but not required.  
+ Editors  
+ Morgan Ames, University of California, Berkeley 
+  Vivek Singh, Rutgers University 
+  Pamela Wisniewski, Vanderbilt University 
+  editors2023@cscw.acm.org   
+ Papers Co-chairs  
+ Munmun De Choudhury (Georgia Tech, USA) 
+  Shion Guha (University of Toronto, Canada) 
+  Fabiano Pinatti (University of Siegen, Germany) 
+  papers2023@cscw.acm.org   
+ Skip back to main navigation    
+ © 2023   
+ Mastodon 
+  Twitter
+2. CSCW_3 conference:
+Skip to footer 
+   CSCW 2023   
+ Menu  Search for:        
+  Diversity, Equity, and Inclusion 
+  Hybrid Experience 
+  Information for Paper Presenters 
+  Local Events 
+  Local Guide 
+  Program overview 
+  CODE OF CONDUCT 
+  About CSCW | Organizing Committee 
+  Program Committee 
+  Steering Committee 
+ WORKSHOPS  
+ Saturday, Oct 14, 2023  
+ 1. Back to “Back to Labor”: Revisiting Political Economies of Computer-Supported Cooperative Work  (Room: Boundary Waters B)  
+ Organizers:  Joice Tang, University of Washington; McKane Andrus, University of Washington; Samuel So, University of Washington; Udayan Tandon, University of California San Diego; Andrés Monroy-Hernández, Princeton University; Vera Khovanskaya, University of California San Diego; Sean A. Munson, University of Washington; Mark Zachry, University of Washington; Sucheta Ghoshal, University of Washington  
+ Format:  In-person  
+ Description:  Almost thirty years ago, CSCW published an article written by Joan Greenbaum detailing how and why CSCW should consider the framing of “labor” over “work” in researching and designing information systems. This argument is especially salient in the present day, with the increasing wariness of algorithmically-mediated monitoring, surveillance, automation, and management in work processes. Despite its salience, Greenbaum’s paper has had relatively low engagement in CSCW so far. As such, this workshop responds to Greenbaum’s call-to-action, asking: 1) Where is CSCW research now in thinking about “work” vs. “labor” in designing systems? and 2) How can we support emerging CSCW scholars in grounding themselves in theories of work that includes (if not centers) a labor-oriented economic frame? This workshop will aim to generate a critical consciousness around labor issues in CSCW. Ultimately, by crafting individual commitments to labor, this workshop will aim to contribute to a more worker-centered future.  
+ How to apply:  We invite participation from CSCW scholars with research interests in the future of work and labor, including but not limited to topics such as workplace technologies, platform-mediated labor, and technical workplace dynamics. We particularly welcome 1) early-career graduate students and their collaborators and 2) senior scholars wanting to broaden or bridge conversations in CSCW about work and labor.  
+ 2. Conceptualizing Indigeneity in Social Computing  (Room: Great Lakes A2)  
+ Description:  AI systems are increasingly incorporated into human decision-making. Yet, human decision-makers are often affected by their cognitive biases. In critical settings, such as medical diagnosis, criminal judgment, or information consumption, these cognitive biases hinder optimal decision outcomes, thereby resulting in dangerous decisions and negative societal impact. The use of AI systems can amplify and exacerbate cognitive biases in their users. In this workshop, we seek to foster discussions on ongoing research around cognitive biases in human-AI collaboration and identify future research directions to understand, quantify, and mitigate the effects of cognitive biases. We will explore cognitive biases appearing in various contexts of human-AI collaboration: what can cause them?; how can we measure, model, mitigate, and manage cognitive biases?; and how can we utilize cognitive biases for the greater good? We will reflect on workshop discussions to form a research community around cognitive biases and bias-aware systems.  
+ We invite participants to this workshop to submit their contributions including:  
+ a short research summary or position paper (2-4 pages excluding references) discussing one or more workshop themes 
+  an essay (one page) stating motivations for attending this workshop with a short bio 
+  Each submission will be reviewed by the workshop organi  z  ers  and accepted based on the quality of the submission and the diversity of perspectives. Accepted submissions will be encouraged to record a short 3-5 minutes video presenting the content of their submission, which will be available to watch before the workshop.  
+ All submissions should be sent as PDF via this form  . There is no specific template for submissions; however, we recommend using the ACM single-column templ  a  te  . Please correspond any question to cscw.cobi@gmail.com  .  
+ 4. Many Worlds of Ethics: Ethical Pluralism in CSCW  (Room: Lake Harriet)  
+ Organizers:  Mohammad Rashidujjaman Rifat, University of Toronto; Ayesha Bhimdiwala, University of Texas at Austin; Ananya Bhattacharjee, University of Toronto; Amna Batool, University of Michigan; Dipto Das, University of Colorado Boulder; Nusrat Jahan Mim, Harvard University; Abdullah Hasan Safir, University of Warwick; Sharifa Sultana, Cornell University; Taslima Akter, University of California Irvine; C. Estelle Smith, Colorado School of Mines; Bryan Semaan, University of Colorado Boulder; Shaimaa Lazem, New Borg El-Arab; Robert Soden, University of Toronto; Michael Muller, IBM Research; Syed Ishtiaque Ahmed, University of Toronto  
+ Format:  Hybrid  
+ Description:  Although CSCW has shown a strong interest in diversity and inclusion, the literature predominantly reflects ethics rooted in Western universalism, modernism, scientism, and Euro-centrism. Consequently, CSCW theories and practices tend to marginalize millions of people worldwide whose ethical perspectives do not align with the narrow focus of ethics and values within CSCW. In an effort to embrace ethical pluralism within CSCW, we propose a day-long hybrid workshop in CSCW and invite researchers and practitioners to initiate conversations centered around three themes: (a) foregrounding ethical diversities, (b) adapting diverse ethics, and (c) addressing challenges, barriers, and limitations associated with incorporating plural ethics into CSCW. Through this workshop, we aim to bring together CSCW scholars and practitioners, fostering a community that advocates for and advances the cause of pluralism in socio-technical systems.  
+ How to apply:  Despite a strong interest in diversity and inclusion, the CSCW community has marginally engaged with pluralism. In our day-long hybrid workshop, we will explore the opportunities and challenges of recognizing and adapting diverse ethics in CSCW theories and practices. We invite interested researchers and practitioners to submit a position paper under the following themes:  
+ Foregrounding ethical diversities: | Identifying the systems of ethics that are marginalized in CSCW research, theories, and practices and underlining the importance of elevating those in CSCW. 
+  Adaptation of diverse ethics: | Reflect on and propose ways in which future work in the CSCW community can adapt and accommodate for coexistence of diverse ethical paradigms. 
+  Challenges, barriers, and limits of adapting plural ethics in CSCW: | What might be some pressing challenges of adopting pluralism in CSCW. What might be some negative consequences of adopting pluralism in sociotechnical systems? 
+  Please send your paper to pluralismatcscw@gmail.com  with the subject line “CSCW 2023 Workshop”.  
+ 5. Trauma-Informed Design: A Collaborative Approach to Building Safer Online Spaces  (Room: Boundary Waters D)  
+ Organizers:  Casey Randazzo, Rutgers University; Carol F. Scott, University of Michigan; Rosanna Bellini, Cornell Tech; Tawfiq Ammari, Rutgers University; Michael Ann DeVito, University of Colorado Boulder; Bryan Semaan, University of Colorado Boulder; Nazanin Andalibi, University of Michigan School of Information  
+ Format:  Hybrid  
+ Description:  Trauma-informed design, which is gaining greater attention in the Computer-Supported Cooperative Work (CSCW) and Human-Computer Interaction (CHI) communities, focuses on designing and managing online platforms with consideration for the prevalence and impact of trauma on individuals, communities, and wider societies. This approach aims to build safer and more supportive digital spaces for users who have a history or trauma. This workshop enables participants to critically examine the application and measurement of trauma-informed approaches to social media. We bring together researchers and practitioners to explore the challenges and opportunities of trauma-informed design, with the goal of creating more compassionate and ethical online spaces that prioritizes user safety, well-being, and healing. Participants will engage in activities that encourage collaboration, discussion, and reflection on the principles of trauma-informed design and their application in different online contexts. By the end of the workshop, participants will have a better understanding of the principles of trauma-informed design and be equipped with tools and strategies to apply these principles in their work.  
+ 6. Centering refugees, migrants, and asylum seekers experiences in digitalization and datafication   
+ Organizers:  Firaz Ahmed Peer, University of Kentucky; Reem Talhouk, Northumbria University; Vasilis Vlachokyriakos, Newcastle University; Trine Rask Nielsen, University of Copenhagen; Naja Holten Møller, University of Copenhagen; Kristin Kaltenhäuser, University of Copenhagen  
+ Format:  Hybrid  
+ Description:  Computer-Supported Cooperative Work (CSCW) and related fields of research are advocating for comprehensive investigations into the role of data and data-driven technologies to ensure responsible and appropriate usage within the context of migration, particularly for refugees and asylum seekers – a domain, set to be fundamentally reformed by data-driven technologies. The growing production of new types of data about refugees and asylum seekers presents authorities with novel opportunities to incorporate such data in their decision-making processes. Similarly, the ways through which refugees and asylum seekers are seeking information about healthcare, education, housing, peer support and other services is increasingly being done in online and digital spaces. As such, this workshop aims to center the experience of refugee and asylum seeking experiences across migration related information systems in order to unpack the ways through which digitalization and datafication impacts/transforms their daily lives and vice versa.  
+ How to apply:  We invite anyone interested in participating to submit a two to four-page position paper (or equivalent material such as e.g. zines) that addresses the workshop themes (see below). We encourage you to discuss your interest in the themes, welcoming reports of (preliminary) empirical results, theoretically oriented pieces, as well as methodological reflections. We also welcome submissions reflecting on questions related to datafication, digitization, and migration that we have not listed in our themes. Submissions will be reviewed by the organizers and accepted based on the relevance and development of their chosen topic, as well as participants’ potential to contribute to the workshop. We will have two submission deadlines, to allow for early bird registration to the CSCW conference.  
+ If you have any questions, please reach out to Firaz Peer (firazpeer@uky.edu).  
+ Please use the link to the Google form on the workshop website to submit your paper.  
+ 7. Emerging Telepresence Technologies for Hybrid Meetings: an Interactive Workshop  (Room: Boundary Waters A)  
+ Organizers:  Andriana Boudouraki, University of Nottingham; Houda El Mimouni, Indiana University Bloomington; Marta Orduna, Nokia Spain; Pablo Pérez, Nokia Spain; Ester González-Sosa,Nokia Spain; Pablo Cesar, The National Research Institute for Mathematics and Computer Science in the Netherlands; Jesús Gutiérrez, Universidad Politécnica de Madrid; Taffeta Wood, UC Davis; Veronica Ahumada-Newhart, University of California Davis; Joel Fischer, University of Nottingham  
+ Format:  Hybrid  
+ Description:  We are rapidly moving to a hybrid world, where telepresence technologies play a crucial role. But, are current technologies ready for such a shift? Do they provide adequate support for interaction and collaboration? In this workshop, together with the participants, we will try out a variety of telepresence technologies for hybrid meetings. Based on small hybrid group activities we will explore how different systems compare in terms of immersion, interaction, and usability. Additionally, we will reflect on the social implications of telepresence. The aim of the workshop is to bring together the lived experiences of both remote and local participants, with activities that stimulate reflections on our experiences. These reflections will fuel group discussions, to identify future research areas in telepresence and hybrid meeting technologies. Results from the workshop will be published as a white paper with recommendations for the design of future telepresence and hybrid meeting technologies.  
+ How to apply:  This workshop is intended for HCI researchers and designers who are interested in studying or developing telepresence technologies for hybrid meetings and collaboration. Workshop applicants can make one of two types of submissions; 1) a position paper, 2) a system contribution. Please submit your paper via email to telepresence4hybridmeetings@gmail.com.  
+ Sunday, Oct 15, 2023  
+ 8. Historicism in/as CSCW Method: Research, Sensibilities, and Design  (Room: Great Lakes A2)  
+ Organizers:  Robert Soden, University of Toronto; David Ribes, University of Washington; Seyram Avle, University of Massachusetts Amherst; Sarah E Fox, Carnegie Mellon University; Phoebe Sengers, Cornell University; Shreyasha Paudel, University of Toronto; Megh Marathe, Michigan State University  
+ Format:  In-person  
+ Description:  This workshop furthers the growing adoption of historicism in HCI and CSCW. Inspired by mounting attention to history in the field, we aim to convene a broad range of scholars to advance the discussion around what a specifically historicist sensibility might look like for this research community, and how such a sensibility may be reflected in issues around research methods, evaluation, and training. In so doing, we will continue to trouble boundaries, disciplinary and otherwise, that demarcate what is considered to be history and whose histories are considered, as part of the broader turn to historicism that is underway. This one-day workshop will be in person and participant driven, with a stronger methodological focus than those that have come before. In addition to working groups focused on topics that emerge through workshop papers and initial discussions, we will develop practical next steps for creating a stronger enabling environment for historical approaches in HCI and CSCW research.  
+ How to apply:  To apply, please send a brief position paper to cscwhistory@gmail.com  by August 21st 2023  . Position papers should be in the ACM Extended Abstract format and address one or more of the following:  
+ Describe an ongoing research project that draws on history to make contributions to CSCW and/or HCI. 
+  What does an historicist approach/sensibility look like in your work? 
+  What challenges do you face in incorporating history in your research? 
+  To apply, please send a brief position paper to cscwhistory@gmail.com  by August 21st 2023  . Position papers should be in the ACM Extended Abstract format and address one or more of the following:  
+ Describe an ongoing research project that draws on history to make contributions to CSCW and/or HCI. 
+  What does an historicist approach/sensibility look like in your work? 
+  What challenges do you face in incorporating history in your research? 
+ 9. A Toolbox of Feminist Wonder: Theories and methods that can make a difference  (Room: Boundary Waters B)  
+ Description:  This one-day hybrid workshop builds on previous feminist CSCW workshops to explore feminist theoretical and methodological approaches that have provided us with useful tools to see things differently and make space for change. Since its inception over a decade ago, feminist HCI has progressed from the margins to mainstream HCI, with numerous references in the literature. Feminist HCI has also evolved to incorporate other critical HCI practices such as Queer HCI, participatory design, and speculative design. While feminist approaches have grown in popularity and become mainstream, it is getting more difficult to distinguish the feminist emancipatory core from other attempts of developing and improving society in various ways. In this workshop, we therefore want to revisit our feminist roots, where theory is a liberatory and creative practice, motivatedby affect, curiosity, and wonder. We will engage in speculative, playful and collaborative making. From this standpoint, we consider which of our feminist tools can make a significant difference today, in a highly datafied world. The goal of this workshop is to; 1) create an inventory of feminist theories and concepts that have had an impact on our work as designers, educators, researchers, and activists; 2) develop a feminist toolbox for the CSCW community to strengthen our feminist literacy.  
+ 10. Data-Enabled Sustainability: The Collective Work of Turning Data into Actions for Environmental Care  (Room: Boundary Waters A)  
+ Description:  An increasing range of technologies – from sensor-based IoT devices to digital platforms and AI-enabled systems – allows local institutions, collectives, or single individuals to generate and analyze environmental data. This one-day workshop invites discussions on the role of data and data-enabled practices in addressing challenges of environmental sustainability. Fostering acts of care for the environment is a complex endeavor entailing multi-lifespan relations to people and institutions, to the environment and other non-human actors, and to existing infrastructures and processes. The workshop addresses such challenges by exploring the role of data, and the work needed to make them meaningful and actionable for the many actors involved in protecting the environment. It will bring together interdisciplinary scholars, representatives of public institutions, activists, environmental collectives, and IT practitioners interested in the design of more sustainable futures. The workshop will discuss analytical and design issues of data-enabled sustainability, along with the practical opportunities and challenges of using data to infrastructure acts of care for the environment. The workshop will accommodate up to twenty participants and will be mainly run on-site.  
+ How to apply:  We welcome researchers, practitioners, designers, and other actors who find this call relevant to their work and/or life practices. This one-day workshop will include short presentations and outdoor explorations of urban data practices for which sustainability is key. It will entail group and plenary discussions on how data can become valuable resources for actions aiming at environmental care.  
+ We encourage participants to submit a 2-4 page position paper (references excluded) in the ACM single-column format, either by using the Word or Latex template.  
+ 11. Supporting User Engagement in Testing, Auditing, and Contesting AI  (Room: Boundary Waters C)  
+ Organizers:  Wesley Hanwen Deng, Carnegie Mellon University; Michelle S. Lam, Stanford University, Ángel Alexander Cabrera, Carnegie Mellon University; Danaë Metaxa, University of Pennsylvania; Motahhare Eslami, Carnegie Mellon University; Kenneth Holstein, Carnegie Mellon University  
+ Format:  In-person  
+ Description:  In recent years, there has been a growing interest in involving end users directly in testing, auditing, and contesting AI systems. The involvement of end users from diverse backgrounds can be essential to overcome AI developers’ blind spots and to surface issues that would otherwise go undetected prior to causing real-world harm. Emerging bodies of work in CSCW have begun to explore ways to engage end-users in testing and auditing AI systems, and to empower users to contest erroneous AI outputs. However, we know little about how to support effective user engagement.  
+ In this one-day workshop, we will bring together researchers and practitioners from academia, industry, and non-profit organizations to share ongoing efforts related to this workshop’s theme. Central to our discussions will be the challenges encountered in developing tools and processes to support user involvement, strategies to incentivize involvement, the asymmetric power dynamic between AI developers and end users, and the role of regulation in enhancing the accountability of AI developers and ameliorating potential burdens towards end-users. Overall, we hope the workshop outcome could orient the future of user engagement in building more responsible AI.  
+ How to apply:  We welcome participants who work on related areas in supporting user engagement in testing, auditing, and contesting AI. We will publicize the workshop through mailing lists, social media, and organizations that work on engaging users in AI testing, auditing, and contesting. Interested participants will be asked to contribute a brief statement of interest to the workshop. Submissions can take several forms:  
+ Position paper (3-5 pages) | discussing or contributing to one or more themes highlighted in this proposal. 
+  Video or audio demo of an interactive system (3-5 minutes) | that is relevant to user-engagement in AI testing, auditing, and contesting. 
+  Case study | discussing ongoing work in engaging end users in AI testing, auditing, and contesting. 
+ Format:  Hybrid  
+ Description:  Community-collaborative approaches to technology research promise a more just, equitable, and societally impactful future for computer-supported collaborative work (CSCW). But how can we ensure that CSCW builds knowledge with communities as meaningful partners, rather than conducting research activities on them? And what would it take for our research activities to go a step further, with the aim of helping communities work towards alternative social structures and counter harmful structural oppression? With growing interest in community-collaborative approaches (CCA) in CSCW among both academic and industry institutions, it is time to reflect upon the field’s history of these forms of engagement to develop pathways for the future. This interactive workshop draws from an expert roundtable featuring CSCW and human-computer interaction (HCI) researchers with a collectively rich wealth of knowledge on enacting, critiquing, and navigating community-based research. Together, we explore the structural challenges of CCA for communities, research institutions, and individual researchers, with an explicit focus on how the values of computing research do and do not align with what is needed for truly community-collaborative work.  
+ How to apply:  We invite computing researchers interested and invested in community-collaborative approaches to computing research. We welcome researchers with any experience or interest level in CCA work and aim to include a balance of expertise levels in the workshop.  
+ Format:  In-person  
+ Description:  This one–day, in-person workshop aims to support participants in reflecting, ideating, and prototyping new socio-technical approaches to help workers develop effective collaboration skills for complex work. While CSCW researchers have created tools to provide workers access to collaboration opportunities, workers require more support in learning to collaborate effectively to benefit from these opportunities. This workshop invites academic and industry researchers who study these topics and develop socio-technical systems for workplaces to participate. Participants will share insights from their work and work with each other to envision an agenda for future research and design of workplaces that support learning how to collaborate. Discussion and ideas generated from this workshop will be synthesized and archived online for the larger research community and the general public. We hope these discussions will foster new collaborations and further develop a community of researchers interested in supporting learning in the future of work.  
+ How to apply:  Interested participants should submit a short paper describing original research and articulation of a contributor’s interest and experience in workshop topics. Interested participants should describe either: Their research, preliminary or completed, related to the topics of this workshop; or a position paper arguing for a particular idea or approach related to the topics of the workshop.  
+ Paper should use ACM Extended Abstracts Format and be 3-5 pages long (excluding references). Submissions will be reviewed by the organizers based on both relevance and originality. Please submit papers to eveyhuang@u.northwestern.edu  by August 25th, 2023 (AOE)  .  
+ 14. Epistemic injustice in online communities: Unpacking the values of knowledge creation and curation within CSCW applications  (Room: Lake Harriet)  
+ Organizers:  Leah Ajmani, University of Minnesota; Mo Houtti, University of Minnesota; Jasmine C Foriest, Georgia Institute of Technology; Michael Ann DeVito, Northeastern University; Nicholas Vincent, UC Davis; Isaac Johnson, Wikimedia Foundation  
+ Format:  Hybrid  
+ Description:  Information flows are pervasive on the internet and often have a low entry barrier. From an epistemological perspective, information evolves into knowledge. For example, information about mental health on TikTok can act as actionable knowledge for someone seeking to improve their mental health. However, social computing has long known that people do not interact with knowledge cleanly, especially in digital environments. While knowledge curation is essential for targeting irrelevant, biased, or even harmful information, it is value-laden; in choosing how to present information, we undermine non-traditional information such as personal experiences. In this hybrid workshop, we will bring together researchers from academia, industry, and marginalized communities to discuss how current CSCW applications contribute to the systemic silencing, exclusion, or delegitimization of certain knowledge contributions (i.e., epistemic injustice). We will diagram our own mental models of how knowledge is created and curated and reflect on critical questions to orient the design of inclusive knowledge spaces online, particularly with topics that blend personal experience with factual information, such as mental health.  
+ Online only  
+ 15. Environmental and Climate Justice in Computing   
+ Date:  Sat, October 14, 2023  
+ Organizers:  Olivia Doggett, University of Toronto; Jen Liu, MIT; Ufuoma Ovienmhada, Cornell University; Samar Sabie, University of Toronto; Sarah Gram, University of Toronto; Matt Ratto, University of Toronto; Laura J Perovich, Northeastern University; Robert Soden, University of Toronto  
+ Format:  Online only  
+ Description:  While climate change has been a longstanding concern of HCI and CSCW communities, this scholarship has rarely drawn attention to the well-documented pattern of minoritized and marginalized communities unfairly carrying the brunt of environmental burdens. Through this one-day remote workshop, we plan to critically extend how CSCW can support climate action by focusing on two social movements, environmental and climate justice, both of which aim to reduce environmental degradation and pursue sustainable communities without doing so at the expense of others. Through this workshop, we aim to gather a community of researchers, activists, and practitioners conducting or interested in pursuing work related to environmental or climate justice. Through our activities, we aim to identify how CSCW and datafication has helped to uphold environmental or climate justice commitments or has been complicit in producing or maintaining environmental harms. We also plan to discuss and identify a CSCW research agenda addressing how to support environmental and climate justice principles and processes in designing technologies and systems. We hope that this workshop will help to initiate and foster a longer-term relationship with researchers, activists and practitioners engaging with these topics.  
+ How to apply:  Our workshop discussion is anchored in a central question: as individual researchers, practitioners, and activists, in what ways does our work, and the research-related institutions we operate within, work against and toward environmental and climate justice movements? To respond to this question, we invite contributions on the following themes:  
+ Datafication Imaginaries: | Reflections or analysis on the ways data and technology are designed, structured, implemented and disseminated to work toward or against environmental or climate justice outcomes; 
+  Visibility and beyond: | Analysis on the role and relevance of visibility as intervention, as well as the potential for CSCW to support more radical interventions (e.g., land back, prison abolition) as an approach to environmental and climate justice outcomes; 
+  Towards Critical Environmental Justice: | Identification of communities (including more than humans) and types of social difference that have been marginalized by traditional notions of sustainability in CSCW; 
+  Methodologies: | Opportunities or limitations of existing methodological practices in CSCW (e.g., participatory design, co-production etc.) or academic norms (data collection, paper publication) towards advancing environmental and climate justice. 
+ 16. Afrocentric Collaborative Care: Supporting Context Specific Digital Health and Care   
+ Date:  Sat, October 14, 2023  
+ Organizers:  Oritsetimeyin Arueyingho, University of Bristol; Nicola J Bidwell, University of Management Namibia; Anicia Peters, National Commission on Research, Science and Technology (NCRST); Jacki O’Neill, Microsoft Africa Research Institute; Oussama Metatla, University of Bristol; Amid Ayobi, University College London; Makuochi Samuel Nkwo, University of Greenwich; Damiete Onyema Lawrence, Cinfores; Rockefeller Zimba, NHS; Hadiza Ismaila, University College London; Hilda Owii, University of Bristol; Saka Abiola Monsur, University of Bristol  
+ Format:  Online only  
+ Description:  Non-communicable diseases e.g., diabetes, cardiovascular conditions, and cancers etc, are slowly becoming silent epidemics in African countries. Most of them are closely linked with unique clinical manifestations and could go undetected until there is a complication. Management of these diseases requires long-term informal care, and this has resulted in a complex network of relationships between patients, complementary care providers, informal and formal caregivers. Unfortunately, there are not many studies investigating these relationships from a decolonized perspective with the intention of co-designing interventions that are unique to their lived experiences.  
+ This workshop aims to bring together researchers working on digital health and care projects in Africa to discuss the implications of existing collaborative care structures and cultures for technology, as well as near future Afrocentric approaches to collaborative care. We aim to highlight existing challenges in technology enabled collaborative care, differentiate them from established challenges in the Global North and identify design opportunities. This workshop will contribute to the growing attention shown to the African continent in CSCW and HCI research more broadly.  
+ 17. AI through the Eyes of Gen Z   
+ Date:  Sat, October 14, 2023  
+ Organizers:  Nora McDonald, George Mason University; Afsaneh Razi, Drexel University; Karla Badillo-Urquiola, University of Notre Dame; John S. Seberger, Drexel University; Denise Agosto, Drexel University; Pamela J. Wisniewski, Vanderbilt University  
+ Format:  Online only  
+ Description:  Setting a Research Agenda for Emerging Technologies that Empower Our Future Generation: Artificial intelligence (AI) underpins virtually every experience that we have—from search and social media to generative AI and immersive social virtual reality (SVR). For Generation Z, there is no before AI. As adults, we must humble ourselves to the notion that AI is shaping youths’ world in ways that we don’t understand and we need to listen to them abSout their lived experiences. We invite researchers from academia and industry to participate in a workshop with youth activists to set the agenda for research into how AI-driven emerging technologies affect youth and how to address these challenges. This reflective workshop will amplify youth voices and empower youth and researchers to set an agenda. As part of the workshop, youth activists will participate in a panel and steer the conversation around the agenda for future research. All will participate in group research agenda setting activities to reflect on their experiences with AI technologies and consider ways to tackle these challenges.  
+ How to apply:  Submissions can take various forms, such as (1) short bios with a statement of motivation/interest, (2) an academic position paper in the SIGCHI extended abstract format discussing one or more of the workshop themes, or (3) a case study demonstrating relevant work that contributes to one of our themes.  
+ 18. Can licensing mitigate the negative implications of commercial web scraping?   
+ Date:  Sun, October 15, 2023 (10am-4pm)  
+ Organizers:  Hanlin Li, University of Texas at Austin; Nicholas Vincent, University of California, Davis; Yacine Jernite, Hugging Face; Nick Merrill, University of California, Berkeley; Jesse Josua Benjamin, Lancaster University; Alek Tarkowski, Open Future  
+ Format:  Online only  
+ Description:  The rise of prominent AI models such as ChatGPT and Stable Diffusion has brought the scale of commercial web scraping to the forefront attention of content creators and researchers. Billions of webpages and images are used to train these models without content creators’ knowledge, sparking extensive criticism and even lawsuits against AI firms. Amidst such debates, licensing is proposed by researchers and legal experts to be a potential approach to mitigate content creators’ concerns and promote more responsible data reuse. However, it remains unclear what specific licensing terms will be effective to mitigate content creators’ concerns and what sociotechnical environments are necessary to facilitate the use of licensing at scale. This workshop will provide a venue for researchers, content creators, and legal experts to answer these questions.  
+ How to apply:  We welcome research abstracts, essays, policy briefs, and articles that address the following aspects of web scraping and licensing. Submissions should be 2-4 pages long and outline the author’s research interests and how they relate to our workshop topics. Authors with accepted work will have 5 minute to present at the virtual workshop, followed by a Q&A with the audience.  
+ Understanding the current landscape of web scraping and investigating how firms and developers approach the legal and ethical risks of scraping and aggregating web content. 
+  Understanding current practices around licensing among content creators, e.g. how content creators license their content and what rights they would like to preserve when making their content publicly visible. 
+  Identifying specific opportunities to operationalize licensing to counter the negative effects of web scraping and other unauthorized data reuses, including but not limited to privacy violation, lack of compensation for content creators, copyright infringements, etc. 
+  Examining parallels between licensing and other creator-oriented responsible AI initiatives, such as data stewardship and refusal. 
+  To apply, please upload your submission via this Google Form  by Sep 7, 2023. If you have any questions about how to submit, please email Hanlin Li at lihanlin@utexas.edu.  
+ 19. Community-driven AI: Empowering people through responsible data-driven decision-making   
+ Date:  TBD  
+ Interested participants are asked to submit a brief statement of interest, demonstrating their alignment with the workshop goals. Submissions can take one of the following forms:  
+ A short bio with a statement of motivation/interest for attending the workshop. 
+  A 2-page position paper (includes figures; excludes references) discussing one or more of the workshop themes. 
+  A case study showcasing relevant work that contributes to the workshop themes. 
+  20. Understanding & Evaluating UX Outcomes at Scale   
+ Date:  Sat, October 14, 2023  
+ Organizers:  Serena Hillman, Microsoft; Samira Jain, Microsoft; Craig M. MacDonald, Pratt Institute; Elizabeth F Churchill, Google LLC; Carolyn Pang, Oracle; Jofish Kaye, Carelon Digital Platforms; Erick Oduor, Maji.co.ke  
+ Format:  Online only  
+ Description:  Evaluating the success of applications from a summative perspective is essential to many industry researchers’ roles, yet a thorough understanding of what to measure and how to bridge business frameworks remains elusive. New technologies and novel ways of interacting with applications have garnered domain-specific interest in evaluating these experiences, but there is yet to be clarity or a path forward for a general methodological approach. While experience outcomes, UX OKRs, UX metrics, etc., are essential elements in HCI research and design, it has not become a core topic in HCI courses. This workshop aims to address this gap by bringing together academics and industry researchers involved in the measurement of success around large-scale applications – applications with a large user base. The objective of this workshop will be to engage in dynamic discussions around current evaluative experiences, how we move forward to produce valuable and unified updates to this topic, and a plan to do so. The workshop will specifically look at the value of writing a State of the Union paper, developing a community (e.g., SIG), and exploring education and training opportunities around this topic.  
+ Join us at the CSCW conference to explore and drive progress in evaluating UX outcomes at scale. If you are working on or aspiring to evaluate large-scale applications based on user-centered approaches and metrics, this is the place to collaborate, share experiences, and collectively shape the future direction in this field.  
+ How to apply:  Applicants will submit a 2–4-page position paper in the single-column ACM Master Article Submission Template. Papers can discuss past work, propose future work, and/or raise new ideas. We are looking for both experienced researchers in the space as well as those interested in developing the direction. You can reflect on: your involvement around past experiments and learnings, successes, challenges faced so far, interest in the space, and/or objectives or plans for future initiatives. For prompts, refer to Section 5 of the workshop proposal.  
+ At least one author of each paper must attend the workshop virtually or in person. Acceptance will be based on quality, relevance, and diversity. We hope accepted papers will collectively represent diverse perspectives, domains, and methods.  
+ Skip back to main navigation    
+ © 2023   
+ Mastodon 
+  Twitter
+3. CSEDU_0 conference:
+Home  Log In  Contacts  FAQs  INSTICC Portal    
+ Information  Conference Details  Technical Program  Program Committee  Event Chairs  Keynote Lectures  Best Paper Awards  Satellite Events  Workshops  Special Sessions  Tutorials  Demos  Panels  Doctoral Consortium  Partners  Academic Partners  Industrial Partners  Exhibitors  Institutional Partners  Media Partners  Partner Events  Publication Partners  Previous Conferences  Abstracts  Awards    
+ Sponsored by:    
+ Logistics:    
+ CSEDU 2023 will be held in conjunction with ICT4AWE 2023    and FEMIB 2023    .   
+  Registration to CSEDU allows free access to the ICT4AWE and FEMIB conferences (as a non-speaker).  
+  Although the conference is back to the normal mode (i.e., in-person) speakers are allowed to present remotely if unable to travel to the venue (hybrid support).    
+ CSEDU, the International Conference on Computer Supported Education, is a yearly meeting place for presenting and discussing new educational tools and environments, best practices and case studies on innovative technology-based learning strategies, and institutional policies on computer supported education including open and distance education. CSEDU will provide an overview of current technologies as well as upcoming trends, and promote discussion about the pedagogical potential of new educational technologies in the academic and corporate world. CSEDU seeks papers and posters describing educational technology research; academic or business case-studies; or advanced prototypes, systems, tools, and techniques.    
+ Conference Areas  
+ 1  .  Artificial Intelligence in Education   
+ Publications:     
+  All papers presented at the conference venue  
+  will be available at the SCITEPRESS Digital Library   
+  ( consult SCITEPRESS  Ethics of Publication  )
+4. CSEDU_1 conference:
+Home  Log In  Contacts  FAQs  INSTICC Portal    
+ Information  Conference Details  Technical Program  Program Committee  Event Chairs  Keynote Lectures  Best Paper Awards  Satellite Events  Workshops  Special Sessions  Tutorials  Demos  Panels  Doctoral Consortium  Partners  Academic Partners  Industrial Partners  Exhibitors  Institutional Partners  Media Partners  Partner Events  Publication Partners  Previous Conferences  Abstracts  Awards    
+ Sponsored by:    
+ Call for Papers  
+ Scope  | Conference Areas  | Keynote Lectures  | Paper Submission   
+  Publications  | Important Dates  |  Secretariat  | Venue    
+  Conference Chair  | Program Chair  | Program Committee    
+ CSEDU is sponsored by INSTICC  – Institute for Systems and Technologies of Information, Control and Communication  
+  SCOPE  
+ CSEDU, the International Conference on Computer Supported Education, is a yearly meeting place for presenting and discussing new educational tools and environments, best practices and case studies on innovative technology-based learning strategies, and institutional policies on computer supported education including open and distance education. CSEDU will provide an overview of current technologies as well as upcoming trends, and promote discussion about the pedagogical potential of new educational technologies in the academic and corporate world. CSEDU seeks papers and posters describing educational technology research; academic or business case-studies; or advanced prototypes, systems, tools, and techniques.  
+  Full research reports (regular papers) and work-in-progress reports (position papers) are welcome, as well as general survey papers discussing future directions. Suggested topics are listed below in the section, “Conference Areas." Papers not falling into these topics may also be acceptable at the discretion of the program chairs. All papers must describe original work not previously published or submitted to another conference. Acceptance will be based on quality, relevance, and originality. Accepted papers, presented at the conference by one or more of the authors, will be published in the Proceedings of CSEDU under an ISBN and indexed by major indexes.  
+  CSEDU will also host special sessions dedicated to case-studies and commercial presentations, as well as tutorials dedicated to technical/scientific topics. Companies interested in presenting their products/methodologies or researchers interested in holding a tutorial, workshop, or special session are invited to contact the conference secretariat or visit the conference website.   
+  CONFERENCE AREAS  
+  Vania Dimitrova  ,  School of Computing, University of Leeds, United Kingdom   
+  PAPER SUBMISSION  
+ Authors can submit their work in the form of a complete paper or an abstract, but please note that accepted abstracts are presented but not published in the proceedings of the conference. Complete papers can be submitted as a Regular Paper, representing completed and validated research, or as a Position Paper, portraying a short report of work in progress or an arguable opinion about an issue discussing ideas, facts, situations, methods, procedures or results of scientific research focused on one of the conference topic areas.  
+  Authors should submit a paper in English, carefully checked for correct grammar and spelling, addressing one or several of the conference areas or topics. Each paper should clearly indicate the nature of its technical/scientific contribution, and the problems, domains or environments to which it is applicable. To facilitate the double-blind paper evaluation method, authors are kindly requested to produce and provide the paper WITHOUT any reference to any of the authors, including the authors’ personal details, the acknowledgments section of the paper and any other reference that may disclose the authors’ identity.  
+  When submitting a complete paper please note that only original papers should be submitted. Authors are advised to read INSTICC's ethical norms regarding plagiarism and self-plagiarism  thoroughly before submitting and must make sure that their submissions do not substantially overlap work which has been published elsewhere or simultaneously submitted to a journal or another conference with proceedings. Papers that contain any form of plagiarism will be rejected without reviews.  
+  All papers must be submitted through the online submission platform PRIMORIS  and should follow the instructions and templates that can be found under Guidelines and Templates  . After the paper submission has been successfully completed, authors will receive an automatic confirmation e-mail.  
+  PUBLICATIONS  
+ All accepted complete papers will be published in the conference proceedings, under an ISBN reference, on paper and on digital support.  
+  The proceedings will be submitted for indexation by SCOPUS, Google Scholar, DBLP, Semantic Scholar, EI and Web of Science / Conference Proceedings Citation Index  .  
+  IMPORTANT DATES  
+ Conference Date:  21 - 23 April, 2023   
+ Regular Papers   
+ Paper Submission:  December 9, 2022 (expired)   
+  Authors Notification:  February 2, 2023 (expired)   
+  Camera Ready and Registration:  February 16, 2023 (expired)   
+  Position Papers /Regular Papers   
+ Paper Submission:  January 26, 2023 (expired)   
+  Authors Notification:  February 23, 2023 (expired)   
+  Camera Ready and Registration:  March 8, 2023 (expired)    
+  Late-Breaking   
+ Paper Submission:  February 16, 2023 (expired)   
+  Authors Notification:  March 8, 2023 (expired)   
+  Camera Ready and Registration:  March 15, 2023 (expired)    
+  Doctoral Consortium    
+ Authors Notification:  March 20, 2023 (expired)    
+ Camera Ready and Registration:  March 24, 2023 (expired)    
+  Special Sessions    
+ Paper Submission:  February 28, 2023 (expired)    
+  Tutorials    
+ Tutorial Proposal:  March 14, 2023 (expired)    
+  Demos    
+ Demo Proposal:  March 14, 2023 (expired)    
+  Panels    
+ Panel Proposal:  March 14, 2023 (expired)    
+  SECRETARIAT  
+ CSEDU Secretariat    
+  Address: Avenida de S. Francisco Xavier, Lote 7 Cv. C   
+  e-mail:  csedu.secretariat@insticc.org   
+  VENUE  
+ The conference will be held at the Vienna House by Wyndham Diplomat Prague, Prague, Czech Republic.  
+ The Vienna House by Wyndham Diplomat Prague is located in the diplomatic district, close to the historic centre. Where better to meet and enjoy the good life than where diplomacy prevails? The hotel is one of the most popular conference venues and the views over the rooftops alone make a visit worthwhile. From the wellness area the Castle seem within one's grasp.  
+   CONFERENCE CO-CHAIRS
+5. CSEDU_2 conference:
+EN 
+ CSEDU 2023 – Conference on computer supported education  
+ 21  Mar    
+ 23  Mar    
+ CSEDU 2023 – Conference on computer supported education  
+ externes Event    
+ Prague  21.03.2023 - 23.03.2023   
+ Jetzt anmelden      
+ Zum Kalender hinzufügen      
+ CSEDU, the International Conference on Computer Supported Education, is a yearly meeting place for presenting and discussing new educational tools and environments, best practices and case studies on innovative technology-based learning strategies, and institutional policies on computer supported education including open and distance education. CSEDU will provide an overview of current technologies as well as upcoming trends, and promote discussion about the pedagogical potential of new educational technologies in the academic and corporate world. CSEDU seeks papers and posters describing educational technology research; academic or business case-studies; or advanced prototypes, systems, tools, and techniques.  
+ CONFERENCE AREAS   
+ Artificial Intelligence in Education
+6. CSEET_0 conference:
+CSEE&T 2023   Mon 7 - Wed 9 August 2023 Tokyo, Japan    
+ Toggle navigation        
+  Program | CSEE&T Program 
+  Your Program 
+   Mon 7 Aug 
+  Tue 8 Aug 
+  Wed 9 Aug 
+  Tracks | CSEE&T 2023 
+  Keynotes 
+  Panels 
+  Nancy Mead Award 
+  Call for Workshops 
+  Organization | CSEE&T 2023 Committees 
+  Organizing Committee 
+  Track Committees 
+  Contributors 
+  People Index 
+  Info | DSA 2023 
+  AVS 2023 
+  Wifi and Proceedings Access 
+  Pictures 
+  CSEE&T 2024 
+  CSEE&T 2023 
+  Sign in 
+  Sign up 
+ Workshop 7 August, Main Conference 8-9 August   
+ Back to back with  DSA 2023  and AVS 2023  (10-11 August)  
+ Sponsors   
+ CSEE&T 2023 is over!   
+ Thanks to many submissions, contributions and participations, we had a great conference! There are some photos taken during the conference  . See you all next time, CSEE&T 2024 in Würzburg, Germany (TBD).  
+ Awards   
+ Nancy Mead Award 2023: | Prof. Dr. Gregory Hislop (Drexel University) 
+  Best Paper Award: Yu Lu, et al. “The Daily Smirk: A Preliminary Prototype for Continuous Peer Assessment of Team-based Projects” 
+  Best Poster Award: Kazuki Fukushima, et al. “Towards Assessment of Practicality of Introductory Programming Course Using Vocabulary of Textbooks, Assignments, and Actual Projects” 
+  Second Best Poster Award: Mayu Koito, et al., “Investigation of early detection methods for dropout students by using LMS log data” 
+  Second Best Poster Award: Weihan Goh, et al. “IoT-Enhanced Remote Proctoring: A New Paradigm for Remote Assessment Integrity” 
+  Overview   
+ For more than 30 years, the IEEE International Conference on Software Engineering Education and Training (CSEE&T) has been the premier conference on software engineering (SE) education and training for academics and professionals. The conference is for educators, researchers, and practitioners to share new findings and results in planning and executing software engineering education, including pedagogy, curricula, tool evaluation, best practices, and experience reports.  
+ The main conference program consists of Research track 23 papers (including 12 full papers and 11 short ones), Industrial Experience Reports track 1 paper, Journal First Articles track 3 papers, and Poster and Tool track 10 papers. Topics of the Research and Industrial Experience include the followings: Measurement and Requirements Engineering, Peer Review and Modeling, Agile and Project Management, Teaching Practice, Data Science and AI, SE Pedagogy, and Applied SE.  
+ Keynotes on August 8th and 9th   
+ August 8th:  “The emerging role of Artificial Intelligence in teaching 21st Century skills in Software Engineering”   
+ Maria Virvou (University of Piraeus)  
+ August 9th:  “10-Year Experience with the Nationwide IT Educational Program, enPiT”   
+ Katsuro Inoue (Nanzan University)  
+ Workshops and Academy of Software Engineering and Training (ASEE&T) on August 7th   
+  ASEE&T - “Business Programming” - Critical Factors from Zero to Portable GUI Programming in Four Hours   
+ Organizer: Rony G. Flatscher (Information Systems & Society)  
+  Workshop - Bad Smells in Software Engineering Education   
+ Organizers: Dan Port, Rick Kazman (University of Hawaii at Manoa)  
+ Panels on August 9th   
+ Moderator: Nobukazu Yoshioka (Waseda University), Panelists: Ernesto Cuadros-Vargas (Universidade de Sao Paulo), Akinori Ihara (Wakayama University), Maria-Isabel Sanchez-Segura (Universidad Carlos III de Madrid), Kenneth E Nidiffer (George Mason University)  
+ Moderator: Hironori Washizaki (Waseda University), Panelists: George A Tsihrintzis (University of Piraeus), Maria Virvou (University of Piraeus), Stephan Krusche (Technische Universitat Munchen)  
+ Scope   
+ CSEE&T 2023 seeks original research papers on novel ideas, methods, and techniques for software engineering education, as well as education experience & industrial training reports. Contributions may concern all fields of software engineering education, including university education at the graduate and undergraduate level, industrial training, and teaching software engineering at various secondary schools. We welcome submissions on any aspects of software engineering education and training.  
+ Topics of Interest   
+ The list below indicates areas of software engineering education in the focus of CSEE&T 2023, but not limited.  
+ Requirements engineering education (REE) 
+  Teaching artificial intelligence (TAI) 
+  Software engineering education for novices (SEN) 
+  Vision for SE education in the future (VEF) 
+  Paper Submissions   
+ CSEE&T 2023 solicits submissions in the following four separate categories. All page numbers are with the IEEE Conference Proceedings Formatting and including references.  
+ Research track | : Full papers (up to 10 pages) present completed and evaluated original research. Short papers (up to 5 pages) describe well-defined research ideas or ongoing work at an early stage of investigation not yet fully developed or evaluated. 
+  Industrial experience reports track | (up to 6 pages) covers industrial training experience. 
+  Workshop proposals | (up to 2 pages) present plans of half-day or full-day highly collaborative workshops. 
+  Nancy Mead Award nominations 
+  All submissions must be in English, and must come in A4 paper size PDF format and conform, at the time of submission, to the IEEE Conference Proceedings Formatting Guidelines   
+ Submission Information   
+ Publications   
+ All accepted submissions (except workshop papers) will be submitted to the IEEE-CS Digital Library in the CSEE&T 2023 conference proceedings and are subject to registration and presentation at the conference. If a submission is accepted, at least one author of the paper must register for the conference and present the paper at the conference. If an accepted paper is not presented, the paper is removed from the proceedings.  
+ Supporters   
+ The Special Interesting Group on Software Engineering, Information Processing of Japan (IPSJ/SIGSE) 
+ Related Sites and Events   
+ CSEE&T 2023 will be held back to back with the 10th International Conference on Dependable Systems and Their Applications (DSA 2023)  and IEEE International Symposium on Autonomous Vehicle Software（IEEE AVS 2023)  Aug 10-11.  
+ Facebook  Twitter  WikiCFP  10times  Clocate.com  COMS  aconf  call4paper  VePub  Conference Partner    
+  CSEE&T 2023 Tracks   
+ Keynotes  | Panels  | Research Papers  | Industrial Experience Reports  | Poster and Tool Papers  | Journal First Articles  | Workshops  | Nancy Mead Award  | Call for Workshops    
+  CSEE&T 2023   
+  contact form
+7. CSEET_1 conference:
+Abstract  
+ In this paper I trace the history of software engineering education and focus on some of the key players. I highlight what has been accomplished in degree programs and curricula, conferences and working groups, professionalism, certification, and industry–university collaboration. I also look at the challenges that lie ahead—the global reach of education, new delivery mechanisms, new professional efforts, and the need to engage in leadership in software engineering education. What new approaches should be considered? How can we educators maintain our vitality? How can we best nurture new educators and encourage others to join our profession?   
+    Discover the world's research   
+ Content uploaded by Nancy R. Mead    
+ Author content    
+ 1. Introduction   
+ This paper is reminiscent of A Ch  ristmas Carol  .    I feel like I  am writing abo  ut the ghost of      
+ Christmas past, present, a  nd future! In some regards it’s h  ard to believe what has been    
+ accomplished in a relat  ively short time. On the othe  r hand  , it feels like we have barely scratche  d   
+ made by leaders in the pas  t, take a look at what the cu  rrent leadership is accom  plishing, and   
+ guess at the makeup of ou  r leaders in the future.  N  eedless to say, so much has happened that     
+ this short paper is far  from complete. I am just sc  ratching the surface in this li  st of   
+ accomplishments and hav  e mentioned only a few of  the people who have been so  influential in   
+ the field. I hope to fill in some of these gaps in m  y tal k.    
+ Software Engineering Education (CSEE) took  place. Many of our current leaders were involved   
+ in these early activities, both inside and outside the SE  I. Long before I thought of leaving IBM   
+ and joining the SEI, I co-authored a paper on  s oftware  engineering education at IBM and   
+ submitted it to one of th  ese early conferences , where it was published as part of the  Issues in    
+ Software Engineering Education [2]  . Unfortunately, I did not have th  e opportunity to present    
+ the paper, as the confer  ence was too close to my  wedding date!    
+ As a consequence of thes  e early workshops, and work  at the SEI, the initial MSE  model   
+ curriculum was develop  ed ,  and an MSE program  was started at Carnegie Mellon  University in   
+ content. More recently, the  ICSE conference has includ  ed a software engineering  education    
+ track. The CSEE conference series also broadened  its focus to include train  ing and is now     
+ known as the C onference  on  S oftware   Engineering E ducation and T raining (CSEET)  .      
+ Advancement of Software Engineering Educa  tion (FASE). Over the years it provided informal   
+ 3. The present    
+ The CSEET has evolved to include the ASEET  , the Academy for Software Engineering    
+ Educat ors & Trainer  s . This i  s a wonderful addition to the conference, and  supports the idea of      
+ mentoring as a way of gro  wing the skills that are nee  ded for professional softw  are engineering   
+ education. It is truly an exciting development.    
+ The conference itself has  evolved from an SEI  offering to an IEEE-sponsored conference.    
+ One bold move in the early days was to mov  e the conference out of Pittsburgh. After many     
+ years in Pittsburgh, our first venture to another loca  tion was the conference in San Diego.   
+ Another bold move was to start to hold the conference  in international locations. Many of the   
+ early pioneers on the CSEE  T Steering Committee have been succeeded by dynam  ic young    
+ educato rs. This is all to the good.     
+ want to become complacent in the present. Chang  e is happening all around us and we need to   
+ adjust to and motivate ch  ange. Here are some possib  le indicators of f uture trends:     
+ • At our last conference, Dave Parnas  [1 6  ] said that he has come to think that may  be          
+ there are three types of d  egree programs :  computer sc  ience for researchers, software    
+ engineering for engineers developing m  ission- critical systems, and sof  tware    
+ Article    
+ Full-text available    
+ Apr 2024 
+  FUTURES 
+ View     
+ ... SEE has a long and illustrious history [16,  17], and undergraduate and/or graduate software engineering programs continue to proliferate globally. However, the issues pertaining to gender have to date been discussed rarely and peripherally [18], which is one of the motivations for this paper. ...   
+ Small Educational Steps Towards Improving the Status of Women in Software Engineering    
+ Conference Paper    
+ Full-text available    
+ Jun 2023 
+ Pankaj Kamthan 
+  Nazlie Shahmir 
+ The women in software engineering continue to face a culture of discord that manifests itself in the form of underrepresentation, unpleasantness, and/or inequitableness. This somewhat dire situation was only exacerbated during the COVID-19 pandemic when the women in software engineering education and profession had to deal with multiple 'crisis'. The status quo is clearly unacceptable, not least because of pervasiveness of software in society. In that regard, relying on a multipronged approach grounded in a body of knowledge, ethicality, and history, this paper proposes certain basic steps in software engineering courses and projects that could be put into practice for improving "gender literacy" among students. These educational steps are illustrated by anecdotes and examples.    
+ View     
+ Chapter    
+ Aug 2022 
+ Samuel Mann 
+ Article    
+ Full-text available    
+ Jan 2024 
+ Robert T. Hans 
+ Online Software Engineering Graduate Program Case Study: Significant Student Engagement and Career Impact    
+ Conference Paper    
+ Mar 2023 
+ Marcela Mera Trujillo 
+ Chapter    
+ Aug 2022 
+ Pankaj Kamthan 
+ Student Perception of Software Engineering Factors Supported by Machine Learning    
+ Conference Paper    
+ Why Educators Need to Team with Industry Professionals in Software Development Education    
+ Conference Paper    
+ Formal Education within the Software Life Cycle    
+ Conference Paper    
+  John Miklos 
+ Approximately ten years ago, the Federal Systems Division of IBM initiated a software engineering program to train all software professions in current topics being taught in the leading universities. Thus began an extensive program that is still in operation today. Initial results demonstrated that the quality and reliability of the FSD software product was greatly enhanced. This paper describes the education program and documents some of the initial results that indicate the success of the education program.    
+ View     
+ Software Engineering: Graduate-Level Courses for AFIT Professional Continuing Education.    
+ Conference Paper    
+  Patricia K. Lawlis 
+ The Air Force has witnessed a shortage of qualified software engineering personnel, a dramatic increase in the use of software across all application areas, and an increasing complexity of systems subsequently requiring personnel to have higher software engineering skill levels. In addressing these issues, several Air Force commands worked with the Air Force Institute of Technology (AFIT) in developing a non-command-specific continuing education program in software engineering. The Software Engineering Institute (SEI) assisted Air Force personnel and AFIT faculty and staff in defining the curriculum and course content, and developing five graduate-level courses in AFIT's Professional Continuing Education program. The overall effort extended over a period of several years, from initial definition to the delivery of the first course(s). This paper describes the background and results of this unique collaborative effort, which included AFIT, the SEI, and SEI resident affiliates.    
+ View     
+ Discover more about: Software Engineering    
+ Conference Paper    
+ Software Engineering Education: How Far We've Come and How Far We Have to Go   
+ Mark Ardis 
+  This paper describes the major trends and events in the history of Master of Software Engineering programs. Productivity statistics are reported, and curricula are compared. Special attention is given to the pioneering role of some of the early programs, such as Wang Institute of Graduate Studies and Carnegie Mellon University.   
+ Read more    
+ Conference Paper    
+ The Role Of Application Domain Tracks In Software Engineering Programs   
+  Read more    
+ Last Updated: 22 Oct 2024    
+ Interested in research on Software Engineering?
+8. CSEET_2 conference:
+CSEE&T 2023   Mon 7 - Wed 9 August 2023 Tokyo, Japan    
+ Toggle navigation        
+  Program | CSEE&T Program 
+  Your Program 
+   Mon 7 Aug 
+  Tue 8 Aug 
+  Wed 9 Aug 
+  Tracks | CSEE&T 2023 
+  Keynotes 
+  Panels 
+  Nancy Mead Award 
+  Call for Workshops 
+  Organization | CSEE&T 2023 Committees 
+  Organizing Committee 
+  Track Committees 
+  Contributors 
+  People Index 
+  Info | DSA 2023 
+  AVS 2023 
+  Wifi and Proceedings Access 
+  Pictures 
+  CSEE&T 2024 
+  CSEE&T 2023 
+  Sign in 
+  Sign up 
+  CSEE&T 2023  ( series  ) /  Research Papers CSEE&T 2023   
+ Program 
+   The GMT offsets shown reflect the offsets at the moment of the conference  .     
+ Time Band   
+ ×    You're viewing the program in a time zone which is different from your device's time zone change time zone     
+ Mon 7 Aug   
+ Displayed time zone: Osaka, Sapporo, Tokyo  change      
+ Talk | "Business Programming" - Critical Factors from Zero to Portable GUI Programming in Four Hours   Workshops 
+ Tue 8 Aug   
+ Displayed time zone: Osaka, Sapporo, Tokyo  change      
+ 30m    
+ Paper | A Method to Semi-Automatically Identify and Measure Requirements Unsatisfied in Learner-Created State Machine Diagrams   Research Papers   
+ Takuma Kimura   , Shinpei Ogata  Shinshu University  , Erina Makihara  Ritsumeikan University  , Kozo Okano  Shinshu University 
+ 30m    
+ Paper | Students’ perceptions of integrating contribution measurement tools in software engineering projects   Research Papers   
+ Sivana Hamer  Universidad de Costa Rica  , Christian Quesada-López  Universidad de Costa Rica  , Marcelo Jenkins  Universidad de Costa Rica 
+ 30m    
+ Full-paper | Value Based Prioritization of Requirements in Software Engineering Education   Research Papers   
+ Reinhold Plösch  Johannes Kepler University  , Paul Grasserbauer  Johannes Kepler University Linz 
+ 30m    
+ Paper | Advancing Object-Oriented Model-Driven Software Engineering Pedagogy   Research Papers   
+ Emanuel Grant  University of North Dakota 
+ 30m    
+ Full-paper | Calibrated Peer Reviews in Software Engineering Instruction: Improve Retention and Application Skills   Research Papers   
+ Bastian Tenbergen  State University of New York at Oswego  , Marian Daun  Technical University of Applied Sciences Würzburg-Schweinfurt 
+ 30m    
+ Paper | The Daily Smirk: A Preliminary Prototype for Continuous Peer Assessment of Team-based Projects   Research Papers   
+ Yu Lu  University of California, Irvine  , André van der Hoek  University of California, Irvine 
+ 30m    
+ Paper | Impact of Key Scrum Role Locations in Student Distributed Software Development Projects   Research Papers   
+ Igor Cavrak  University of Zagreb, Faculty of Electrical Engineering and Computing  , Alessio Bucaioni  Malardalen University  , Raffaela Mirandola  Politecnico di Milano 
+ 30m    
+ Paper | Learning Software Project Management by Simulation -- Experience and Recommendations from 20 Years of Teaching   Research Papers   
+ Andreas Bollin  University of Klagenfurt, Austria 
+ 30m    
+ Full-paper | Is Online Teaching Dead After COVID-19? Student Preferences for Programming Courses   Research Papers   
+ Stefanie Manger   , Maximilian Sölch  Technical University of Munich  , Matthias Linhuber  Technical University Munich  , Christoph Weinhuber  Technical University Munich  , Philipp Zagar  Technical University Munich  , Stephan Krusche  Technische Universität München    
+  Pre-print   File Attached 
+ 30m    
+ Full-paper | Plagiarism Detection and its Effect on the Learning Outcomes   Research Papers   
+ Jonnathan Berrezueta-Guzman   , Stephan Krusche  Technische Universität München  , Markus Paulsen  Technische Universität München    
+  Pre-print   File Attached 
+ Ronnie de Souza Santos  Cape Breton University  , Luiz Fernando Capretz  Western University  , Cleyton Vanut Cordeiro de Magalhães   , Rodrigo Souza 
+ Wed 9 Aug   
+ Displayed time zone: Osaka, Sapporo, Tokyo  change      
+ 20m    
+ Short-paper | Envisioning software engineer training needs in the digital era through the SWEBOK V4 prism   Research Papers   
+ Hironori Washizaki  Waseda University  , Maria-Isabel Sanchez-Segura  University Carlos III of Madrid  , Juan Garbajosa   , Steve Tockey  Construx Software  , Kenneth E Nidiffer  George Mason University 
+ 20m    
+ Short-paper | Developing a Data Science Course to Support Software Engineering Students   Research Papers   
+ Ruben Acuna 
+ 20m    
+ Short-paper | Investigating the Use of AI-Generated Exercises for Beginner and Intermediate Programming Courses: A ChatGPT Case Study   Research Papers   
+ Sandro Speth  University of Stuttgart, Institute of Software Engineering  , Niklas Meissner  Institute of Software Engineering, University of Stuttgart  , Steffen Becker  University of Stuttgart    
+  Link to publication   DOI   File Attached 
+ 20m    
+ Short-paper | PSAbot: A Chatbot System for the Analysis of Posts on Stack Overflow   Research Papers   
+ An-Chi Shau  National Taiwan Ocean University  , Yan-Cih Liang  National Taiwan Ocean University  , Wan-Jung Hsieh  National Yang Ming Chiao Tung University  , Xiang-Ling Lin  National Yang Ming Chiao Tung University  , Shang-Pin Ma  National Taiwan Ocean University 
+ 20m    
+ Short-paper | Recommendations for programming exercises to overcome ChatGPT   Research Papers   
+ Jonnathan Berrezueta-Guzman   , Stephan Krusche  Technische Universität München    
+  Pre-print   File Attached 
+ 20m    
+ Short-paper | Toward AI-assisted Exercise Creation for First Course in Programming through Adversarial Examples of AI Models   Research Papers   
+ Wing-Kwong Chan  City University of Hong Kong, Hong Kong  , Y.T. Yu  City University of Hong Kong  , Jacky Keung  City University of Hong Kong  , Victor C.S. Lee  The University of Hong Kong 
+ 20m    
+ Short-paper | An Experience Report on English Medium Instruction (EMI) based Computing Education in a Faculty of Engineering in Japan   Research Papers   
+ Zilu Liang  Kyoto University of Advanced Science  , Ian Piumarta  Kyoto University of Advanced Science 
+ 20m    
+ Short-paper | On Evidence-based Feedback Practices in Software Engineering for Continuous People Improvement   Research Papers   
+ Miguel Ehécatl Morales Trujillo  University of Canterbury, Christchurch, New Zealand  , Matthias Galster  University of Canterbury 
+ 20m    
+ Short-paper | Experiences and Lessons Learned from Real-World Projects in Software Engineering Subject   Research Papers   
+ Yan Hern Ryan Sim  Computing Science Joint Degree Programme, Singapore Institute of Technology - University of Glasgow  , Zhi Zhan Lua  Computing Science Joint Degree Programme, Singapore Institute of Technology - University of Glasgow  , Kahbelan Kalisalvam Kelaver  Computing Science Joint Degree Programme, Singapore Institute of Technology - University of Glasgow  , Jia Qi Chua  Computing Science Joint Degree Programme, Singapore Institute of Technology - University of Glasgow  , Ian Zheng Jiang Lim  Computing Science Joint Degree Programme, Singapore Institute of Technology - University of Glasgow  , Qi Cao  School of Computing Science, University of Glasgow  , Sye Loong Keoh  School of Computing Science, University of Glasgow  , Li Hong Idris Lim  School of Engineering, University of Glasgow 
+ 20m    
+ Short-paper | Experiences With Gap-Bridging Software Engineering Industry-Academia Collaborative Education Program   Research Papers   
+ Mira Kania Sabariah   , Veronikha Effendy  Telkom University  , Jati Hiliamsyah Husen  Waseda University  , Daffa Hilmy Fadhlurrohman  Telkom University  , Rony Setyawansyah  PT. Telkom Indonesia 
+ 20m    
+ Short-paper | Introduction to Programming using Interactive Learning   Research Papers   
+ Stephan Krusche  Technische Universität München  , Jonnathan Berrezueta-Guzman     
+  Pre-print   File Attached 
+ Not scheduled   
+  Short-paper | A Curated Software Requirements Case Studies Repository for Open Requirements Engineering Education   Research Papers   
+ Bingyang Wei  Texas Christian University 
+ Not scheduled   
+  Short-paper | Does Learning Agile Practices Lead to Developing the Agile Mindset in Students?   Research Papers   
+ Suddhasvatta Das  Arizona State University  , Kevin Gary  Arizona State University 
+ Call for Research Papers  
+ CSEE&T 2023 seeks original research papers on novel ideas, methods and techniques for software engineering education and training. Contributions may concern all fields of software engineering education and training.  
+ Topics of Interest   
+ The list below indicates areas of software engineering education and training in CSEE&T 2023. Submissions on other related topics are also welcome.  
+ Requirements engineering education (REE) 
+  Teaching artificial intelligence (TAI) 
+  Software engineering education for novices (SEN) 
+  Vision for SE education in the future (VEF) 
+  Submission Types   
+ Full Research Papers (FRP, 10 pages maximum)   
+ Authors are invited to submit papers describing original research in relevant areas of software engineering education and training. Papers presenting actual research results, or in-depth analysis of experience with delivering courses and training units in different settings (schools, universities, industry, governmental entities, etc.), or describing theoretical or empirical research, new techniques and tools, novel interpretation and in-depth case studies, are all welcome. Research papers will be evaluated based on originality, technical quality and relevance to the field of software engineering education. They should clearly relate the work described to the relevant literature and provide an adequate evaluation.  
+ Short Papers (SP, 5 pages maximum)   
+ Short paper submissions that address software engineering education and training topics are also invited. They are intended particularly for reports of less substantial work, or of work that is still in progress (such as experience with a particular educational tool or support environment), or they may discuss a promising idea at an early stage, or an idea that may lack complete evaluation. Even so, it is important that short papers relate the work described to the relevant literature and attempt to evaluate it as far as possible. Conclusions should focus on aspects interesting for others working in related areas.  
+ Format and Submission Procedures   
+ CSEE&T 2023 will continue to use the IEEE double column format for its proceedings. All submissions must conform to this format, and must be within the page lengths specified for the class of submission.  
+ For research papers, CSEE&T 2023 will feature a double-blind review process. Each paper has to be prepared in accordance with established guidelines for double-blind reviews (i.e. omitting the authors names, referencing own work in the third person, etc.).  
+ Submissions that do not adhere to the formatting guidelines, are not blinded by the authors, or do exceed the page limits, will be desk rejected without further review.  
+ Acceptance and Presentation   
+ Conference content will be submitted for inclusion into IEEE Xplore as well as other Abstracting and Indexing (A&I) databases. All accepted submissions are subject to registration and presentation at the conference as a condition for publication.  
+ Each paper is evaluated by at least three members of the program committee. After discussion of the paper and the reviews by the program committee the final decision is made. With each accepted paper at least one (co-)author has to register as delegate before the camera ready deadline and present the paper at the conference. Otherwise papers will not be published in the conference proceedings.  
+ Oral presentations will take approximately full papers: 20 minutes with additional time of 10 minutes for discussions and short papers: 15 minutes with additional time of 5 minutes for discussions. Detailed information regarding presentation times for each individual paper category will be made upon program creation. Presentations should focus on triggering discussions for the benefit of both, the author(s) and potential adopters of the concept presented.  
+ Additional Guidelines   
+ Important Dates   AoE (UTC-12h)     
+ Wed 9 Aug 2023  
+  Main Conference Ends 
+ Tue 8 Aug 2023  
+  Main Conference Begins 
+ Fri 23 Jun 2023   
+  Camera Ready (tentative) 
+ Wed 17 May 2023   
+  Notification 
+ Wed 22 Mar 2023   
+  Paper Submission 
+ Wed 15 Mar 2023   
+  Abstract Submission 
+ Submission Link   
+  CSEE&T 2023   
+  contact form
+9. CSF_0 conference:
+Toggle navigation      CSF 2023    
+ Submit | Call for papers 
+  Call for workshops 
+  Submission server 
+  Program | Schedule 
+  Invited Talks 
+  Accepted Papers 
+  Workshops | FCS 2023 
+  Registration | Registration 
+  Visa 
+ July 9 - 13, 2023 - Dubrovnik, Croatia  
+ Important updates!    
+ Due to very low demand, we have decided to | cancel virtual participation | at CSF 2023. 
+  Venue information has been | updated | . 
+  CSF 2023 program is now | available | . 
+  We are happy to announce our | keynote speakers for CSF'23! 
+ Important Dates   AoE (UTC-12h)    
+ Spring cycle paper submission | May 13, 2022 
+ Spring cycle author notification | July 15, 2022 
+ Fall cycle paper submission | September 30, 2022 
+ Fall cycle author notification | December 2, 2022 
+ Winter cycle paper submission | February 3, 2023 
+ Winter cycle author notification | April 7, 2023 
+ Spring cycle paper submission (CSF 2024) | May 15, 2023 
+ CSF Symposium | July 9 - 13, 2023 
+  Sponsored by IEEE Computer Society's Technical Commitee on Security and Privacy  .
+10. CSF_1 conference:
+Toggle navigation      CSF    
+ Awarded papers 
+  Past conferences
+
+output:1. CSCW_2 information:
+2. CSCW_3 information:
+3. CSEDU_0 information:
+4. CSEDU_1 information:
+5. CSEDU_2 information:
+6. CSEET_0 information:
+7. CSEET_1 information:
+8. CSEET_2 information:
+9. CSF_0 information:
+10. CSF_1 information:

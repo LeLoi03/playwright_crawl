@@ -1,0 +1,2005 @@
+Proceedings of Machine Learning Research   
+   
+      PMLR  JMLR  DMLR  TMLR  MLOSS  FAQ  Submission Format      
+
+ [ edit  ]  
+ Volume 206: International Conference on Artificial Intelligence and Statistics, 25-27 April 2023, Palau de Congressos, Valencia, Spain  
+ [ edit  ]  
+ Editors: Francisco Ruiz, Jennifer Dy, Jan-Willem van de Meent   
+ [ bib  ][ citeproc  ]  
+ Contents:  
+ Notable Papers 
+  Regular Papers 
+  Filter Authors:   Filter Titles:    
+   
+ Notable Papers  
+ Blessing of Class Diversity in Pre-training  
+ Yulai Zhao, Jianshu Chen, Simon Du  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:283-305   
+ [ abs  ][ Download PDF  ]  
+   
+ BaCaDI: Bayesian Causal Discovery with Unknown Interventions  
+ Alexander Hägele, Jonas Rothfuss, Lars Lorch, Vignesh Ram Somnath, Bernhard Schölkopf, Andreas Krause  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1411-1436   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Discovering Many Diverse Solutions with Bayesian Optimization  
+ Natalie Maus, Kaiwen Wu, David Eriksson, Jacob Gardner  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1779-1798   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Multilevel Bayesian Quadrature  
+ Kaiyu Li, Daniel Giles, Toni Karvonen, Serge Guillas, Francois-Xavier Briol  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1845-1868   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Distance-to-Set Priors and Constrained Bayesian Inference  
+ Rick Presman, Jason Xu  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2310-2326   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Error Estimation for Random Fourier Features  
+ Junwen Yao, N. Benjamin Erichson, Miles E. Lopes  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2348-2364   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Noisy Low-rank Matrix Optimization: Geometry of Local Minima and Convergence Rate  
+ Ziye Ma, Somayeh Sojoudi  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3125-3150   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Generalized PTR: User-Friendly Recipes for Data-Adaptive Algorithms with Differential Privacy  
+ Rachel Redberg, Yuqing Zhu, Yu-Xiang Wang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3977-4005   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ A Tale of Sampling and Estimation in Discounted Reinforcement Learning  
+ Alberto Maria Metelli, Mirco Mutti, Marcello Restelli  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4575-4601   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ An Efficient and Continuous Voronoi Density Estimator  
+ Giovanni Luca Marchetti, Vladislav Polianskii, Anastasiia Varava, Florian T. Pokorny, Danica Kragic  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4732-4744   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Safe Sequential Testing and Effect Estimation in Stratified Count Data  
+ Rosanne Turner, Peter Grunwald  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4880-4893   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Particle algorithms for maximum likelihood training of latent variable models  
+ Juan Kuntz, Jen Ning Lim, Adam M. Johansen  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5134-5180   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Inducing Point Allocation for Sparse Gaussian Processes in High-Throughput Bayesian Optimisation  
+ Henry B. Moss, Sebastian W. Ober, Victor Picheny  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5213-5230   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Implications of sparsity and high triangle density for graph representation learning  
+ Hannah Sansford, Alexander Modell, Nick Whiteley, Patrick Rubin-Delanchy  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5449-5473   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ The Schrödinger Bridge between Gaussian Measures has a Closed Form  
+ Charlotte Bunne, Ya-Ping Hsieh, Marco Cuturi, Andreas Krause  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5802-5833   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Federated Learning under Distributed Concept Drift  
+ Ellango Jothimurugesan, Kevin Hsieh, Jianyu Wang, Gauri Joshi, Phillip B. Gibbons  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5834-5853   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Data Banzhaf: A Robust Data Valuation Framework for Machine Learning  
+ Jiachen T. Wang, Ruoxi Jia  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6388-6421   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Indeterminacy in Generative Models: Characterization and Strong Identifiability  
+ Quanhan Xi, Benjamin Bloem-Reddy  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6912-6939   
+ [ abs  ][ Download PDF  ]  
+   
+ Do Bayesian Neural Networks Need To Be Fully Stochastic?  
+ Mrinank Sharma, Sebastian Farquhar, Eric Nalisnick, Tom Rainforth  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7694-7722   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Mode-Seeking Divergences: Theory and Applications to GANs  
+ Cheuk Ting Li, Farzan Farnia  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8321-8350   
+ [ abs  ][ Download PDF  ]  
+   
+ Fix-A-Step: Semi-supervised Learning From Uncurated Unlabeled Data  
+ Zhe Huang, Mary-Joy Sidhom, Benjamin Wessler, Michael C. Hughes  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8373-8394   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Rethinking Initialization of the Sinkhorn Algorithm  
+ James Thornton, Marco Cuturi  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8682-8698   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Don’t be fooled: label leakage in explanation methods and the importance of their quantitative evaluation  
+ Neil Jethani, Adriel Saporta, Rajesh Ranganath  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8925-8953   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Origins of Low-Dimensional Adversarial Perturbations  
+ Elvis Dohmatob, Chuan Guo, Morgane Goibert  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9221-9237   
+ [ abs  ][ Download PDF  ]  
+   
+ Scalable Bicriteria Algorithms for Non-Monotone Submodular Cover  
+ Victoria Crawford  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9517-9537   
+ [ abs  ][ Download PDF  ]  
+   
+ Huber-robust confidence sequences  
+ Hongjian Wang, Aaditya Ramdas  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9662-9679   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Hedging against Complexity: Distributionally Robust Optimization with Parametric Approximation  
+ Garud Iyengar, Henry Lam, Tianyu Wang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9976-10011   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Who Should Predict? Exact Algorithms For Learning to Defer to Humans  
+ Hussein Mozannar, Hunter Lang, Dennis Wei, Prasanna Sattigeri, Subhro Das, David Sontag  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10520-10545   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Implicit Graphon Neural Representation  
+ Xinyue Xia, Gal Mishne, Yusu Wang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10619-10634   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Fitting low-rank models on egocentrically sampled partial networks  
+ Ga Ming Angus Chan, Tianxi Li  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10635-10649   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ The Power of Recursion in Graph Neural Networks for Counting Substructures  
+ Behrooz Tahmasebi, Derek Lim, Stefanie Jegelka  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11023-11042   
+ [ abs  ][ Download PDF  ]  
+   
+ Using Sliced Mutual Information to Study Memorization and Generalization in Deep Neural Networks  
+ Shelvia Wongso, Rohan Ghosh, Mehul Motani  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11608-11629   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Regular Papers  
+ Improved Generalization Bound and Learning of Sparsity Patterns for Data-Driven Low-Rank Approximation  
+ Shinsaku Sakaue, Taihei Oki  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1-10   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Meta-Uncertainty in Bayesian Model Comparison  
+ Marvin Schmitt, Stefan T. Radev, Paul-Christian Bürkner  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11-29   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ PAC Learning of Halfspaces with Malicious Noise in Nearly Linear Time  
+ Jie Shen  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:30-46   
+ [ abs  ][ Download PDF  ]  
+   
+ Entropic Risk Optimization in Discounted MDPs  
+ Jia Lin Hau, Marek Petrik, Mohammad Ghavamzadeh  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:47-76   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Acceleration of Frank-Wolfe Algorithms with Open-Loop Step-Sizes  
+ Elias Wirth, Thomas Kerdreux, Sebastian Pokutta  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:77-100   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ An Online and Unified Algorithm for Projection Matrix Vector Multiplication with Application to Empirical Risk Minimization  
+ Lianke Qin, Zhao Song, Lichen Zhang, Danyang Zhuo  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:101-156   
+ [ abs  ][ Download PDF  ]  
+   
+ Leveraging Instance Features for Label Aggregation in Programmatic Weak Supervision  
+ Jieyu Zhang, Linxin Song, Alex Ratner  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:157-171   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Stochastic Gradient Descent-Ascent: Unified Theory and New Efficient Methods  
+ Aleksandr Beznosikov, Eduard Gorbunov, Hugo Berard, Nicolas Loizou  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:172-235   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Scalable marked point processes for exchangeable and non-exchangeable event sequences  
+ Aristeidis Panos, Ioannis Kosmidis, Petros Dellaportas  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:236-252   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Bayesian Variable Selection in a Million Dimensions  
+ Martin Jankowiak  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:253-282   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Barlow Graph Auto-Encoder for Unsupervised Network Embedding  
+ Rayyan Ahmad Khan, Martin Kleinsteuber  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:306-322   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Gradient-Informed Neural Network Statistical Robustness Estimation  
+ Karim TIT, Teddy Furon, Mathias Rousset  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:323-334   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Online Defense Strategies for Reinforcement Learning Against Adaptive Reward Poisoning  
+ Andi Nika, Adish Singla, Goran Radanovic  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:335-358   
+ [ abs  ][ Download PDF  ]  
+   
+ A Case of Exponential Convergence Rates for SVM  
+ Vivien Cabannnes, Stefano Vigogna  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:359-374   
+ [ abs  ][ Download PDF  ]  
+   
+ Finding Regularized Competitive Equilibria of Heterogeneous Agent Macroeconomic Models via Reinforcement Learning  
+ Ruitu Xu, Yifei Min, Tianhao Wang, Michael I. Jordan, Zhaoran Wang, Zhuoran Yang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:375-407   
+ [ abs  ][ Download PDF  ]  
+   
+ Adaptive Cholesky Gaussian Processes  
+ Simon Bartels, Kristoffer Stensbo-Smidt, Pablo Moreno-Munoz, Wouter Boomsma, Jes Frellsen, Soren Hauberg  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:408-452   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Sample Complexity of Kernel-Based Q-Learning  
+ Sing-Yuan Yeh, Fu-Chieh Chang, Chang-Wei Yueh, Pei-Yuan Wu, Alberto Bernacchia, Sattar Vakili  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:453-469   
+ [ abs  ][ Download PDF  ]  
+   
+ A principled framework for the design and analysis of token algorithms  
+ Hadrien Hendrikx  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:470-489   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Learning k-qubit Quantum Operators via Pauli Decomposition  
+ Mohsen Heidari, Wojciech Szpankowski  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:490-504   
+ [ abs  ][ Download PDF  ]  
+   
+ Semi-Verified PAC Learning from the Crowd  
+ Shiwei Zeng, Jie Shen  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:505-522   
+ [ abs  ][ Download PDF  ]  
+   
+ On the Capacity Limits of Privileged ERM  
+ Michal Sharoni, Sivan Sabato  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:523-534   
+ [ abs  ][ Download PDF  ]  
+   
+ USIM Gate: UpSampling Module for Segmenting Precise Boundaries concerning Entropy  
+ Kyungsu Lee, Haeyun Lee, Jae Youn Hwang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:535-562   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Bayesian Structure Scores for Probabilistic Circuits  
+ Yang Yang, Gennaro Gala, Robert Peharz  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:563-575   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Langevin Diffusion Variational Inference  
+ Tomas Geffner, Justin Domke  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:576-593   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Overcoming Prior Misspecification in Online Learning to Rank  
+ Javad Azizi, Ofer Meshi, Masrour Zoghi, Maryam Karimzadehgan  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:594-614   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Catalyst Acceleration of Error Compensated Methods Leads to Better Communication Complexity  
+ Xun Qian, Hanze Dong, Tong Zhang, Peter Richtarik  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:615-649   
+ [ abs  ][ Download PDF  ]  
+   
+ Kernel Conditional Moment Constraints for Confounding Robust Inference  
+ Kei Ishikawa, Niao He  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:650-674   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Meta-learning for Robust Anomaly Detection  
+ Atsutoshi Kumagai, Tomoharu Iwata, Hiroshi Takahashi, Yasuhiro Fujiwara  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:675-691   
+ [ abs  ][ Download PDF  ]  
+   
+ Learning in RKHM: a C*-Algebraic Twist for Kernel Machines  
+ Yuka Hashimoto, Masahiro Ikeda, Hachem Kadri  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:692-708   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ From Shapley Values to Generalized Additive Models and back  
+ Sebastian Bordt, Ulrike von Luxburg  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:709-745   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Estimating Conditional Average Treatment Effects with Missing Treatment Information  
+ Milan Kuzmanovic, Tobias Hatt, Stefan Feuerriegel  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:746-766   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Global Convergence of Over-parameterized Deep Equilibrium Models  
+ Zenan Ling, Xingyu Xie, Qiuhao Wang, Zongpeng Zhang, Zhouchen Lin  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:767-787   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ A Tale of Two Efficient Value Iteration Algorithms for Solving Linear MDPs with Large Action Space  
+ Zhaozhuo Xu, Zhao Song, Anshumali Shrivastava  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:788-836   
+ [ abs  ][ Download PDF  ]  
+   
+ Adversarial De-confounding in Individualised Treatment Effects Estimation  
+ Vinod K. Chauhan, Soheila Molaei, Marzia Hoque Tania, Anshul Thakur, Tingting Zhu, David A. Clifton  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:837-849   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Fast Distributed k-Means with a Small Number of Rounds  
+ Tom Hess, Ron Visbord, Sivan Sabato  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:850-874   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ A New Causal Decomposition Paradigm towards Health Equity  
+ Xinwei Sun, Xiangyu Zheng, Jim Weinstein  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:875-890   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Matching Map Recovery with an Unknown Number of Outliers  
+ Arshak Minasyan, Tigran Galstyan, Sona Hunanyan, Arnak Dalalyan  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:891-906   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Characterizing Internal Evasion Attacks in Federated Learning  
+ Taejin Kim, Shubhranshu Singh, Nikhil Madaan, Carlee Joe-Wong  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:907-921   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Optimal and Private Learning from Human Response Data  
+ Duc Nguyen, Anderson Ye Zhang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:922-958   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Bayesian Optimization with Conformal Prediction Sets  
+ Samuel Stanton, Wesley Maddox, Andrew Gordon Wilson  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:959-986   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Alternating Projected SGD for Equality-constrained Bilevel Optimization  
+ Quan Xiao, Han Shen, Wotao Yin, Tianyi Chen  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:987-1023   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Improved Robust Algorithms for Learning with Discriminative Feature Feedback  
+ Sivan Sabato  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1024-1036   
+ [ abs  ][ Download PDF  ]  
+   
+ Weisfeiler and Leman go Hyperbolic: Learning Distance Preserving Node Representations  
+ Giannis Nikolentzos, Michail Chatzianastasis, Michalis Vazirgiannis  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1037-1054   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Can 5th Generation Local Training Methods Support Client Sampling? Yes!  
+ Michał Grudzień, Grigory Malinovsky, Peter Richtarik  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1055-1092   
+ [ abs  ][ Download PDF  ]  
+   
+ qEUBO: A Decision-Theoretic Acquisition Function for Preferential Bayesian Optimization  
+ Raul Astudillo, Zhiyuan Jerry Lin, Eytan Bakshy, Peter Frazier  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1093-1114   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Bayesian Hierarchical Models for Counterfactual Estimation  
+ Natraj Raman, Daniele Magazzeni, Sameena Shah  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1115-1128   
+ [ abs  ][ Download PDF  ]  
+   
+ Sequential Gradient Descent and Quasi-Newton’s Method for Change-Point Analysis  
+ Xianyang Zhang, Trisha Dawn  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1129-1143   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Towards Scalable and Robust Structured Bandits: A Meta-Learning Framework  
+ Runzhe Wan, Lin Ge, Rui Song  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1144-1173   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Compress Then Test: Powerful Kernel Testing in Near-linear Time  
+ Carles Domingo-Enrich, Raaz Dwivedi, Lester Mackey  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1174-1218   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Select and Optimize: Learning to solve large-scale TSP instances  
+ Hanni Cheng, Haosi Zheng, Ya Cong, Weihao Jiang, Shiliang Pu  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1219-1231   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Fixing by Mixing: A Recipe for Optimal Byzantine ML under Heterogeneity  
+ Youssef Allouah, Sadegh Farhadkhani, Rachid Guerraoui, Nirupam Gupta, Rafael Pinot, John Stephan  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1232-1300   
+ [ abs  ][ Download PDF  ]  
+   
+ Testing of Horn Samplers  
+ Ansuman Banerjee, Shayak Chakraborty, Sourav Chakraborty, Kuldeep S. Meel, Uddalok Sarkar, Sayantan Sen  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1301-1330   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Coordinate Ascent for Off-Policy RL with Global Convergence Guarantees  
+ Hsin-En Su, Yen-Ju Chen, Ping-Chun Hsieh, Xi Liu  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1331-1378   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Positional Encoder Graph Neural Networks for Geographic Data  
+ Konstantin Klemmer, Nathan S. Safir, Daniel B. Neill  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1379-1389   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Coarse-Grained Smoothness for Reinforcement Learning in Metric Spaces  
+ Omer Gottesman, Kavosh Asadi, Cameron S. Allen, Samuel Lobel, George Konidaris, Michael Littman  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1390-1410   
+ [ abs  ][ Download PDF  ]  
+   
+ Statistical Analysis of Karcher Means for Random Restricted PSD Matrices  
+ Hengchao Chen, Xiang Li, Qiang Sun  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1437-1456   
+ [ abs  ][ Download PDF  ]  
+   
+ Differentially Private Synthetic Control  
+ Saeyoung Rho, Rachel Cummings, Vishal Misra  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1457-1491   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Scalable Bayesian Optimization Using Vecchia Approximations of Gaussian Processes  
+ Felix Jimenez, Matthias Katzfuss  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1492-1512   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ On the Neural Tangent Kernel Analysis of Randomly Pruned Neural Networks  
+ Hongru Yang, Zhangyang Wang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1513-1553   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Riemannian Accelerated Gradient Methods via Extrapolation  
+ Andi Han, Bamdev Mishra, Pratik Jawanpuria, Junbin Gao  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1554-1585   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Flexible risk design using bi-directional dispersion  
+ Matthew J. Holland  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1586-1623   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Contextual Linear Bandits under Noisy Features: Towards Bayesian Oracles  
+ Jung-Hun Kim, Se-Young Yun, Minchan Jeong, Junhyun Nam, Jinwoo Shin, Richard Combes  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1624-1645   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Deep equilibrium models as estimators for continuous latent variables  
+ Russell Tsuchida, Cheng Soon Ong  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1646-1671   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Refined Convergence and Topology Learning for Decentralized SGD with Heterogeneous Data  
+ Batiste Le Bars, Aurélien Bellet, Marc Tommasi, Erick Lavoie, Anne-Marie Kermarrec  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1672-1702   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ A Novel Stochastic Gradient Descent Algorithm for Learning Principal Subspaces  
+ Charline Le Lan, Joshua Greaves, Jesse Farebrother, Mark Rowland, Fabian Pedregosa, Rishabh Agarwal, Marc G. Bellemare  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1703-1718   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ A Constant-Factor Approximation Algorithm for Reconciliation $k$-Median  
+ Joachim Spoerhase, Kamyar Khodamoradi, Benedikt Riegel, Bruno Ordozgoiti, Aristides Gionis  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1719-1746   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Neural Laplace Control for Continuous-time Delayed Systems  
+ Samuel Holt, Alihan Hüyük, Zhaozhi Qian, Hao Sun, Mihaela van der Schaar  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1747-1778   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ BlitzMask: Real-Time Instance Segmentation Approach for Mobile Devices  
+ Vitalii Bulygin, Dmytro Mykheievskyi, Kyrylo Kuchynskyi  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1799-1811   
+ [ abs  ][ Download PDF  ]  
+   
+ Exact Gradient Computation for Spiking Neural Networks via Forward Propagation  
+ Jane H. Lee, Saeid Haghighatshoar, Amin Karbasi  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1812-1831   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Uni6Dv2: Noise Elimination for 6D Pose Estimation  
+ Mingshan Sun, Ye Zheng, Tianpeng Bao, Jianqiu Chen, Guoqiang Jin, Liwei Wu, Rui Zhao, Xiaoke Jiang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1832-1844   
+ [ abs  ][ Download PDF  ]  
+   
+ Direct Inference of Effect of Treatment (DIET) for a Cookieless World  
+ Shiv Shankar, Ritwik Sinha, Saayan Mitra, Moumita Sinha, Madalina Fiterau  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1869-1887   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ The Ordered Matrix Dirichlet for State-Space Models  
+ Niklas Stoehr, Benjamin J. Radford, Ryan Cotterell, Aaron Schein  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1888-1903   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Energy-Based Models for Functional Data using Path Measure Tilting  
+ Jen Ning Lim, Sebastian Vollmer, Lorenz Wolf, Andrew Duncan  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1904-1923   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Frequentist Uncertainty Quantification in Semi-Structured Neural Networks  
+ Emilio Dorigatti, Benjamin Schubert, Bernd Bischl, David Ruegamer  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1924-1941   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ NTS-NOTEARS: Learning Nonparametric DBNs With Prior Knowledge  
+ Xiangyu Sun, Oliver Schulte, Guiliang Liu, Pascal Poupart  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1942-1964   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ One Policy is Enough: Parallel Exploration with a Single Policy is Near-Optimal for Reward-Free Reinforcement Learning  
+ Pedro Cisneros-Velarde, Boxiang Lyu, Sanmi Koyejo, Mladen Kolar  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:1965-2001   
+ [ abs  ][ Download PDF  ]  
+   
+ Variational Inference for Neyman-Scott Processes  
+ Chengkuan Hong, Christian Shelton  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2002-2018   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Graph Alignment Kernels using Weisfeiler and Leman Hierarchies  
+ Giannis Nikolentzos, Michalis Vazirgiannis  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2019-2034   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Geometric Random Walk Graph Neural Networks via Implicit Layers  
+ Giannis Nikolentzos, Michalis Vazirgiannis  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2035-2053   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Model-X Sequential Testing for Conditional Independence via Testing by Betting  
+ Shalev Shaer, Gal Maman, Yaniv Romano  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2054-2086   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Mixed-Effect Thompson Sampling  
+ Imad Aouali, Branislav Kveton, Sumeet Katariya  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2087-2115   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Mixed Linear Regression via Approximate Message Passing  
+ Nelvin Tan, Ramji Venkataramanan  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2116-2131   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ EEGNN: Edge Enhanced Graph Neural Network with a Bayesian Nonparametric Graph Model  
+ Yirui Liu, Xinghao Qiao, Liying Wang, Jessica Lam  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2132-2146   
+ [ abs  ][ Download PDF  ]  
+   
+ Estimating Total Correlation with Mutual Information Estimators  
+ Ke Bai, Pengyu Cheng, Weituo Hao, Ricardo Henao, Larry Carin  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2147-2164   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Vector Optimization with Stochastic Bandit Feedback  
+ Cagin Ararat, Cem Tekin  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2165-2190   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Knowledge Acquisition for Human-In-The-Loop Image Captioning  
+ Ervine Zheng, Qi Yu, Rui Li, Pengcheng Shi, Anne Haake  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2191-2206   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ A Statistical Analysis of Polyak-Ruppert Averaged Q-Learning  
+ Xiang Li, Wenhao Yang, Jiadong Liang, Zhihua Zhang, Michael I. Jordan  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2207-2261   
+ [ abs  ][ Download PDF  ]  
+   
+ Linear Convergence of Gradient Descent For Finite Width Over-parametrized Linear Networks With General Initialization  
+ Ziqing Xu, Hancheng Min, Salma Tarmoun, Enrique Mallada, Rene Vidal  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2262-2284   
+ [ abs  ][ Download PDF  ]  
+   
+ “Plus/minus the learning rate”: Easy and Scalable Statistical Inference with SGD  
+ Jerry Chee, Hwanwoo Kim, Panos Toulis  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2285-2309   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Fast Computation of Branching Process Transition Probabilities via ADMM  
+ Achal Awasthi, Jason Xu  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2327-2347   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ AdaGDA: Faster Adaptive Gradient Descent Ascent Methods for Minimax Optimization  
+ Feihu Huang, Xidong Wu, Zhengmian Hu  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2365-2389   
+ [ abs  ][ Download PDF  ]  
+   
+ Classification of Adolescents’ Risky Behavior in Instant Messaging Conversations  
+ Jaromı́r Plhák, Ondřej Sotolář, Michaela Lebedı́ková, David Šmahel  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2390-2404   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Robust Linear Regression for General Feature Distribution  
+ Tom Norman, Nir Weinberger, Kfir Y. Levy  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2405-2435   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Fair learning with Wasserstein barycenters for non-decomposable performance measures  
+ Solenne Gaucher, Nicolas Schreuder, Evgenii Chzhen  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2436-2459   
+ [ abs  ][ Download PDF  ]  
+   
+ Deep Neural Networks with Efficient Guaranteed Invariances  
+ Matthias Rath, Alexandru Paul Condurache  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2460-2480   
+ [ abs  ][ Download PDF  ]  
+   
+ Fast Block Coordinate Descent for Non-Convex Group Regularizations  
+ Yasutoshi Ida, Sekitoshi Kanai, Atsutoshi Kumagai  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2481-2493   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ AUC-based Selective Classification  
+ Andrea Pugnana, Salvatore Ruggieri  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2494-2514   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Nonparametric Indirect Active Learning  
+ Shashank Singh  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2515-2541   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Resolving the Approximability of Offline and Online Non-monotone DR-Submodular Maximization over General Convex Sets  
+ Loay Mualem, Moran Feldman  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2542-2564   
+ [ abs  ][ Download PDF  ]  
+   
+ {PF}$^2$ES: Parallel Feasible Pareto Frontier Entropy Search for Multi-Objective Bayesian Optimization  
+ Jixiang Qing, Henry B. Moss, Tom Dhaene, Ivo Couckuyt  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2565-2588   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Learning Constrained Structured Spaces with Application to Multi-Graph Matching  
+ Hedda Cohen Indelman, Tamir Hazan  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2589-2602   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ On the Strategyproofness of the Geometric Median  
+ El-Mahdi El-Mhamdi, Sadegh Farhadkhani, Rachid Guerraoui, Lê-Nguyên Hoang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2603-2640   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Covariate-informed Representation Learning to Prevent Posterior Collapse of iVAE  
+ Young-Geun Kim, Ying Liu, Xue-Xin Wei  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2641-2660   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ EGG-GAE: scalable graph neural networks for tabular data imputation  
+ Lev Telyatnikov, Simone Scardapane  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2661-2676   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Group Distributionally Robust Reinforcement Learning with Hierarchical Latent Variables  
+ Mengdi Xu, Peide Huang, Yaru Niu, Visak Kumar, Jielin Qiu, Chao Fang, Kuan-Hui Lee, Xuewei Qi, Henry Lam, Bo Li, Ding Zhao  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2677-2703   
+ [ abs  ][ Download PDF  ]  
+   
+ Weather2K: A Multivariate Spatio-Temporal Benchmark Dataset for Meteorological Forecasting Based on Real-Time Observation Data from Ground Weather Stations  
+ Xun Zhu, Yutong Xiong, Ming Wu, Gaozhen Nie, Bin Zhang, Ziheng Yang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2704-2722   
+ [ abs  ][ Download PDF  ]  
+   
+ Improved Rate of First Order Algorithms for Entropic Optimal Transport  
+ Yiling Luo, Yiling Xie, Xiaoming Huo  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2723-2750   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Conformal Off-Policy Prediction  
+ Yingying Zhang, Chengchun Shi, Shikai Luo  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2751-2768   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Sparse Spectral Bayesian Permanental Process with Generalized Kernel  
+ Jeremy Sellier, Petros Dellaportas  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2769-2791   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Adversarial Noises Are Linearly Separable for (Nearly) Random Neural Networks  
+ Huishuai Zhang, Da Yu, Yiping Lu, Di He  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2792-2804   
+ [ abs  ][ Download PDF  ]  
+   
+ Nearly Optimal Latent State Decoding in Block MDPs  
+ Yassir Jedra, Junghyun Lee, Alexandre Proutiere, Se-Young Yun  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2805-2904   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ On the Limitations of the Elo, Real-World Games are Transitive, not Additive  
+ Quentin Bertrand, Wojciech Marian Czarnecki, Gauthier Gidel  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2905-2921   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Agnostic PAC Learning of $k$-juntas Using $L_2$-Polynomial Regression  
+ Mohsen Heidari, Wojciech Szpankowski  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2922-2938   
+ [ abs  ][ Download PDF  ]  
+   
+ Regularization for Shuffled Data Problems via Exponential Family Priors on the Permutation Group  
+ Zhenbang Wang, Emanuel Ben-David, Martin Slawski  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2939-2959   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Simulator-Based Inference with WALDO: Confidence Regions by Leveraging Prediction Algorithms and Posterior Estimators for Inverse Problems  
+ Luca Masserano, Tommaso Dorigo, Rafael Izbicki, Mikael Kuusela, Ann Lee  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2960-2974   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Analysis of Catastrophic Forgetting for Random Orthogonal Transformation Tasks in the Overparameterized Regime  
+ Daniel Goldfarb, Paul Hand  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2975-2993   
+ [ abs  ][ Download PDF  ]  
+   
+ Clustering above Exponential Families with Tempered Exponential Measures  
+ Ehsan Amid, Richard Nock, Manfred K. Warmuth  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:2994-3017   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Mind the (optimality) Gap: A Gap-Aware Learning Rate Scheduler for Adversarial Nets  
+ Hussein Hazimeh, Natalia Ponomareva  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3018-3033   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Learning Physics-Informed Neural Networks without Stacked Back-propagation  
+ Di He, Shanda Li, Wenlei Shi, Xiaotian Gao, Jia Zhang, Jiang Bian, Liwei Wang, Tie-Yan Liu  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3034-3047   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ An Optimization-based Algorithm for Non-stationary Kernel Bandits without Prior Knowledge  
+ Kihyuk Hong, Yuhang Li, Ambuj Tewari  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3048-3085   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Multi-armed Bandit Experimental Design: Online Decision-making and Adaptive Inference  
+ David Simchi-Levi, Chonghuan Wang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3086-3097   
+ [ abs  ][ Download PDF  ]  
+   
+ Squeeze All: Novel Estimator and Self-Normalized Bound for Linear Contextual Bandits  
+ Wonyoung Kim, Myunghee Cho Paik, Min-Hwan Oh  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3098-3124   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Byzantine-Robust Federated Learning with Optimal Statistical Rates  
+ Banghua Zhu, Lun Wang, Qi Pang, Shuai Wang, Jiantao Jiao, Dawn Song, Michael I. Jordan  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3151-3178   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ An Unpooling Layer for Graph Generation  
+ Yinglong Guo, Dongmian Zou, Gilad Lerman  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3179-3209   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Online Learning for Traffic Routing under Unknown Preferences  
+ Devansh Jalota, Karthik Gopalakrishnan, Navid Azizan, Ramesh Johari, Marco Pavone  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3210-3229   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Byzantine-Robust Online and Offline Distributed Reinforcement Learning  
+ Yiding Chen, Xuezhou Zhang, Kaiqing Zhang, Mengdi Wang, Xiaojin Zhu  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3230-3269   
+ [ abs  ][ Download PDF  ]  
+   
+ No-Regret Learning in Two-Echelon Supply Chain with Unknown Demand Distribution  
+ Mengxiao Zhang, Shi Chen, Haipeng Luo, Yingfei Wang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3270-3298   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Mode-constrained Model-based Reinforcement Learning via Gaussian Processes  
+ Aidan Scannell, Carl Henrik Ek, Arthur Richards  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3299-3314   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Generative Oversampling for Imbalanced Data via Majority-Guided VAE  
+ Qingzhong Ai, Pengyun Wang, Lirong He, Liangjian Wen, Lujia Pan, Zenglin Xu  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3315-3330   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ The Lie-Group Bayesian Learning Rule  
+ Eren Mehmet Kiral, Thomas Moellenhoff, Mohammad Emtiyaz Khan  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3331-3352   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Singular Value Representation: A New Graph Perspective On Neural Networks  
+ Dan Meller, Nicolas Berkouk  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3353-3369   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ A Finite Sample Complexity Bound for Distributionally Robust Q-learning  
+ Shengbo Wang, Nian Si, Jose Blanchet, Zhengyuan Zhou  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3370-3398   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Connectivity-contrastive learning: Combining causal discovery and representation learning for multimodal data  
+ Hiroshi Morioka, Aapo Hyvarinen  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3399-3426   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ A Bregman Divergence View on the Difference-of-Convex Algorithm  
+ Oisin Faust, Hamza Fawzi, James Saunderson  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3427-3439   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Minority Oversampling for Imbalanced Data via Class-Preserving Regularized Auto-Encoders  
+ Arnab Kumar Mondal, Lakshya Singhal, Piyush Tiwary, Parag Singla, Prathosh AP  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3440-3465   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ T-Phenotype: Discovering Phenotypes of Predictive Temporal Patterns in Disease Progression  
+ Yuchao Qin, Mihaela van der Schaar, Changhee Lee  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3466-3492   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Membership Inference Attacks against Synthetic Data through Overfitting Detection  
+ Boris van Breugel, Hao Sun, Zhaozhi Qian, Mihaela van der Schaar  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3493-3514   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Online Learning for Non-monotone DR-Submodular Maximization: From Full Information to Bandit Feedback  
+ Qixin Zhang, Zengde Deng, Zaiyi Chen, Kuangqi Zhou, Haoyuan Hu, Yu Yang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3515-3537   
+ [ abs  ][ Download PDF  ]  
+   
+ Robust Variational Autoencoding with Wasserstein Penalty for Novelty Detection  
+ Chieh-Hsin Lai, Dongmian Zou, Gilad Lerman  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3538-3567   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ To Impute or not to Impute? Missing Data in Treatment Effect Estimation  
+ Jeroen Berrevoets, Fergus Imrie, Trent Kyono, James Jordon, Mihaela van der Schaar  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3568-3590   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ No-regret Sample-efficient Bayesian Optimization for Finding Nash Equilibria with Unknown Utilities  
+ Sebastian Shenghong Tay, Quoc Phong Nguyen, Chuan Sheng Foo, Bryan Kian Hsiang Low  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3591-3619   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Noise-Aware Statistical Inference with Differentially Private Synthetic Data  
+ Ossi Räisä, Joonas Jälkö, Samuel Kaski, Antti Honkela  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3620-3643   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ ASkewSGD : An Annealed interval-constrained Optimisation method to train Quantized Neural Networks  
+ Louis Leconte, Sholom Schechtman, Eric Moulines  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3644-3663   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Transport Elliptical Slice Sampling  
+ Alberto Cabezas, Christopher Nemeth  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3664-3676   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Towards Balanced Representation Learning for Credit Policy Evaluation  
+ Yiyan Huang, Cheuk Hang Leung, Shumin Ma, Zhiri Yuan, Qi Wu, Siyi Wang, Dongdong Wang, Zhixiang Huang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3677-3692   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Convergence of Stein Variational Gradient Descent under a Weaker Smoothness Condition  
+ Lukang Sun, Avetik Karagulyan, Peter Richtarik  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3693-3717   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ MARS: Masked Automatic Ranks Selection in Tensor Decompositions  
+ Maxim Kodryan, Dmitry Kropotov, Dmitry Vetrov  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3718-3732   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Learning from Multiple Sources for Data-to-Text and Text-to-Data  
+ Song Duong, Alberto Lumbreras, Mike Gartrell, Patrick Gallinari  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3733-3753   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Sparse Bayesian optimization  
+ Sulin Liu, Qing Feng, David Eriksson, Benjamin Letham, Eytan Bakshy  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3754-3774   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ On the bias of K-fold cross validation with stable learners  
+ Anass Aghbalou, Anne Sabourin, François Portier  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3775-3794   
+ [ abs  ][ Download PDF  ]  
+   
+ Bayesian Convolutional Deep Sets with Task-Dependent Stationary Prior  
+ Yohan Jung, Jinkyoo Park  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3795-3824   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Sample Efficiency of Data Augmentation Consistency Regularization  
+ Shuo Yang, Yijun Dong, Rachel Ward, Inderjit S. Dhillon, Sujay Sanghavi, Qi Lei  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3825-3853   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ ANACONDA: An Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits  
+ Thomas Kleine Buening, Aadirupa Saha  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3854-3878   
+ [ abs  ][ Download PDF  ]  
+   
+ Deep Joint Source-Channel Coding with Iterative Source Error Correction  
+ Changwoo Lee, Xiao Hu, Hun-Seok Kim  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3879-3902   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ On-Demand Communication for Asynchronous Multi-Agent Bandits  
+ Yu-Zhen Janice Chen, Lin Yang, Xuchuang Wang, Xutong Liu, Mohammad Hajiesmaili, John C. S. Lui, Don Towsley  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3903-3930   
+ [ abs  ][ Download PDF  ]  
+   
+ The ELBO of Variational Autoencoders Converges to a Sum of Entropies  
+ Simon Damm, Dennis Forster, Dmytro Velychko, Zhenwen Dai, Asja Fischer, Jörg Lücke  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3931-3960   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Autoencoded sparse Bayesian in-IRT factorization, calibration, and amortized inference for the Work Disability Functional Assessment Battery  
+ Joshua C. Chang, Carson C. Chow, Julia Porcino  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:3961-3976   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Provably Efficient Reinforcement Learning via Surprise Bound  
+ Hanlin Zhu, Ruosong Wang, Jason Lee  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4006-4032   
+ [ abs  ][ Download PDF  ]  
+   
+ FAIR: Fair Collaborative Active Learning with Individual Rationality for Scientific Discovery  
+ Xinyi Xu, Zhaoxuan Wu, Arun Verma, Chuan Sheng Foo, Bryan Kian Hsiang Low  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4033-4057   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Sampling From a Schrödinger Bridge  
+ Austin Stromme  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4058-4067   
+ [ abs  ][ Download PDF  ]  
+   
+ A Multi-Task Gaussian Process Model for Inferring Time-Varying Treatment Effects in Panel Data  
+ Yehu Chen, Annamaria Prati, Jacob Montgomery, Roman Garnett  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4068-4088   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Deep Grey-Box Modeling With Adaptive Data-Driven Models Toward Trustworthy Estimation of Theory-Driven Models  
+ Naoya Takeishi, Alexandros Kalousis  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4089-4100   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Active Learning for Single Neuron Models with Lipschitz Non-Linearities  
+ Aarshvi Gajjar, Christopher Musco, Chinmay Hegde  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4101-4113   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Exploration in Reward Machines with Low Regret  
+ Hippolyte Bourel, Anders Jonsson, Odalric-Ambrym Maillard, Mohammad Sadegh Talebi  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4114-4146   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ On Universal Portfolios with Continuous Side Information  
+ Alankrita Bhatt, J. Jon Ryu, Young-Han Kim  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4147-4163   
+ [ abs  ][ Download PDF  ]  
+   
+ Likelihood-Based Generative Radiance Field with Latent Space Energy-Based Model for 3D-Aware Disentangled Image Representation  
+ Yaxuan Zhu, Jianwen Xie, Ping Li  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4164-4180   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ The Lauritzen-Chen Likelihood For Graphical Models  
+ Ilya Shpitser  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4181-4195   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Bayesian Strategy-Proof Facility Location via Robust Estimation  
+ Emmanouil Zampetakis, Fred Zhang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4196-4208   
+ [ abs  ][ Download PDF  ]  
+   
+ Unsupervised representation learning with recognition-parametrised probabilistic models  
+ William I. Walker, Hugo Soulat, Changmin Yu, Maneesh Sahani  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4209-4230   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Universal Agent Mixtures and the Geometry of Intelligence  
+ Samuel Allen Alexander, David Quarel, Len Du, Marcus Hutter  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4231-4246   
+ [ abs  ][ Download PDF  ]  
+   
+ The communication cost of security and privacy in federated frequency estimation  
+ Wei-Ning Chen, Ayfer Ozgur, Graham Cormode, Akash Bharadwaj  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4247-4274   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Learning While Scheduling in Multi-Server Systems With Unknown Statistics: MaxWeight with Discounted UCB  
+ Zixian Yang, R. Srikant, Lei Ying  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4275-4312   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Piecewise Stationary Bandits under Risk Criteria  
+ Sujay Bhatt, Guanhua Fang, Ping Li  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4313-4335   
+ [ abs  ][ Download PDF  ]  
+   
+ Does Label Differential Privacy Prevent Label Inference Attacks?  
+ Ruihan Wu, Jin Peng Zhou, Kilian Q. Weinberger, Chuan Guo  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4336-4347   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Understanding Multimodal Contrastive Learning and Incorporating Unpaired Data  
+ Ryumei Nakada, Halil Ibrahim Gulluk, Zhun Deng, Wenlong Ji, James Zou, Linjun Zhang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4348-4380   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Conjugate Gradient Method for Generative Adversarial Networks  
+ Hiroki Naganuma, Hideaki Iiduka  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4381-4408   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Subset verification and search algorithms for causal DAGs  
+ Davin Choo, Kirankumar Shiragur  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4409-4442   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Distributed Offline Policy Optimization Over Batch Data  
+ Han Shen, Songtao Lu, Xiaodong Cui, Tianyi Chen  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4443-4472   
+ [ abs  ][ Download PDF  ]  
+   
+ Toward Fairness in Text Generation via Mutual Information Minimization based on Importance Sampling  
+ Rui Wang, Pengyu Cheng, Ricardo Henao  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4473-4485   
+ [ abs  ][ Download PDF  ]  
+   
+ Learning Sparse Graphon Mean Field Games  
+ Christian Fabian, Kai Cui, Heinz Koeppl  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4486-4514   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Temporal Graph Neural Networks for Irregular Data  
+ Joel Oskarsson, Per Sidén, Fredrik Lindsten  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4515-4531   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Oblivious near-optimal sampling for multidimensional signals with Fourier constraints  
+ Xingyu Xu, Yuantao Gu  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4532-4555   
+ [ abs  ][ Download PDF  ]  
+   
+ Isotropic Gaussian Processes on Finite Spaces of Graphs  
+ Viacheslav Borovitskiy, Mohammad Reza Karimi, Vignesh Ram Somnath, Andreas Krause  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4556-4574   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Mean Parity Fair Regression in RKHS  
+ Shaokui Wei, Jiayin Liu, Bing Li, Hongyuan Zha  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4602-4628   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ A Unified Perspective on Regularization and Perturbation in Differentiable Subset Selection  
+ Xiangqian Sun, Cheuk Hang Leung, Yijun Li, Qi Wu  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4629-4642   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Nyström Method for Accurate and Scalable Implicit Differentiation  
+ Ryuichiro Hataya, Makoto Yamada  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4643-4654   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Fair Representation Learning with Unreliable Labels  
+ Yixuan Zhang, Feng Zhou, Zhidong Li, Yang Wang, Fang Chen  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4655-4667   
+ [ abs  ][ Download PDF  ]  
+   
+ Neural Discovery of Permutation Subgroups  
+ Pavan Karjol, Rohan Kashyap, Prathosh AP  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4668-4678   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Feasible Recourse Plan via Diverse Interpolation  
+ Duy Nguyen, Ngoc Bui, Viet Anh Nguyen  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4679-4698   
+ [ abs  ][ Download PDF  ]  
+   
+ Computing Abductive Explanations for Boosted Trees  
+ Gilles Audemard, Jean-Marie Lagniez, Pierre Marquis, Nicolas Szczepanski  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4699-4711   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ A Statistical Learning Take on the Concordance Index for Survival Analysis  
+ Kevin Elgui, Alex Nowak, Geneviève Robin  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4712-4731   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Equivariant Representation Learning via Class-Pose Decomposition  
+ Giovanni Luca Marchetti, Gustaf Tegnér, Anastasiia Varava, Danica Kragic  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4745-4756   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Approximating a RUM from Distributions on $k$-Slates  
+ Flavio Chierichetti, Mirko Giacchini, Ravi Kumar, Alessandro Panconesi, Andrew Tomkins  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4757-4767   
+ [ abs  ][ Download PDF  ]  
+   
+ Mediated Uncoupled Learning and Validation with Bregman Divergences: Loss Family with Maximal Generality  
+ Ikko Yamane, Yann Chevaleyre, Takashi Ishida, Florian Yger  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4768-4801   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Coordinate Descent for SLOPE  
+ Johan Larsson, Quentin Klopfenstein, Mathurin Massias, Jonas Wallin  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4802-4821   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Multi-task Representation Learning with Stochastic Linear Bandits  
+ Leonardo Cella, Karim Lounici, Grégoire Pacreau, Massimiliano Pontil  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4822-4847   
+ [ abs  ][ Download PDF  ]  
+   
+ A Sea of Words: An In-Depth Analysis of Anchors for Text Data  
+ Gianluigi Lopardo, Frederic Precioso, Damien Garreau  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4848-4879   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ High-Dimensional Private Empirical Risk Minimization by Greedy Coordinate Descent  
+ Paul Mangold, Aurélien Bellet, Joseph Salmon, Marc Tommasi  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4894-4916   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ On Generalization of Decentralized Learning with Separable Data  
+ Hossein Taheri, Christos Thrampoulidis  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4917-4945   
+ [ abs  ][ Download PDF  ]  
+   
+ Neural Simulated Annealing  
+ Alvaro H.C. Correia, Daniel E. Worrall, Roberto Bondesan  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4946-4962   
+ [ abs  ][ Download PDF  ]  
+   
+ Adaptation to Misspecified Kernel Regularity in Kernelised Bandits  
+ Yusha Liu, Aarti Singh  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4963-4985   
+ [ abs  ][ Download PDF  ]  
+   
+ Gaussian Processes on Distributions based on Regularized Optimal Transport  
+ François Bachoc, Louis Béthune, Alberto Gonzalez-Sanz, Jean-Michel Loubes  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:4986-5010   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Optimal Contextual Bandits with Knapsacks under Realizability via Regression Oracles  
+ Yuxuan Han, Jialin Zeng, Yang Wang, Yang Xiang, Jiheng Zhang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5011-5035   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Bounding Evidence and Estimating Log-Likelihood in VAE  
+ Łukasz Struski, Marcin Mazur, Paweł Batorski, Przemysław Spurek, Jacek Tabor  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5036-5051   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Privacy-preserving Sparse Generalized Eigenvalue Problem  
+ Lijie Hu, Zihang Xiang, Jiabin Liu, Di Wang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5052-5062   
+ [ abs  ][ Download PDF  ]  
+   
+ Asymptotic Bayes risk of semi-supervised multitask learning on Gaussian mixture  
+ Minh-Toan Nguyen, Romain Couillet  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5063-5078   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Manifold Restricted Interventional Shapley Values  
+ Muhammad Faaiz Taufiq, Patrick Blöbaum, Lenon Minorics  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5079-5106   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ A Variance-Reduced and Stabilized Proximal Stochastic Gradient Method with Support Identification Guarantees for Structured Optimization  
+ Yutong Dai, Guanyi Wang, Frank E. Curtis, Daniel P. Robinson  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5107-5133   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Complex-to-Real Sketches for Tensor Products with Applications to the Polynomial Kernel  
+ Jonas Wacker, Ruben Ohana, Maurizio Filippone  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5181-5212   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Nonmyopic Multiclass Active Search with Diminishing Returns for Diverse Discovery  
+ Quan Nguyen, Roman Garnett  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5231-5249   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Efficient fair PCA for fair representation learning  
+ Matthäus Kleindessner, Michele Donini, Chris Russell, Muhammad Bilal Zafar  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5250-5270   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Unified Perspective on Probability Divergence via the Density-Ratio Likelihood: Bridging KL-Divergence and Integral Probability Metrics  
+ Masahiro Kato, Masaaki Imaizumi, Kentaro Minami  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5271-5298   
+ [ abs  ][ Download PDF  ]  
+   
+ Federated Averaging Langevin Dynamics: Toward a unified theory and new algorithms  
+ Vincent Plassier, Eric Moulines, Alain Durmus  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5299-5356   
+ [ abs  ][ Download PDF  ]  
+   
+ Adversarial Random Forests for Density Estimation and Generative Modeling  
+ David S. Watson, Kristin Blesch, Jan Kapar, Marvin N. Wright  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5357-5375   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Smoothly Giving up: Robustness for Simple Models  
+ Tyler Sypherd, Nathaniel Stromberg, Richard Nock, Visar Berisha, Lalitha Sankar  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5376-5410   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ A Tighter Problem-Dependent Regret Bound for Risk-Sensitive Reinforcement Learning  
+ Xiaoyan Hu, Ho-Fung Leung  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5411-5437   
+ [ abs  ][ Download PDF  ]  
+   
+ Finite time analysis of temporal difference learning with linear function approximation: Tail averaging and regularisation  
+ Gandharv Patil, Prashanth L.A., Dheeraj Nagaraj, Doina Precup  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5438-5448   
+ [ abs  ][ Download PDF  ]  
+   
+ Asymptotically Unbiased Off-Policy Policy Evaluation when Reusing Old Data in Nonstationary Environments  
+ Vincent Liu, Yash Chandak, Philip Thomas, Martha White  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5474-5492   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Is interpolation benign for random forest regression?  
+ Ludovic Arnould, Claire Boyer, Erwan Scornet  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5493-5548   
+ [ abs  ][ Download PDF  ]  
+   
+ TabLLM: Few-shot Classification of Tabular Data with Large Language Models  
+ Stefan Hegselmann, Alejandro Buendia, Hunter Lang, Monica Agrawal, Xiaoyi Jiang, David Sontag  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5549-5581   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ A Faster Sampler for Discrete Determinantal Point Processes  
+ Simon Barthelmé, Nicolas Tremblay, Pierre-Olivier Amblard  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5582-5592   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Faithful Heteroscedastic Regression with Neural Networks  
+ Andrew Stirn, Harm Wessels, Megan Schertzer, Laura Pereira, Neville Sanjana, David Knowles  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5593-5613   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Boosted Off-Policy Learning  
+ Ben London, Levi Lu, Ted Sandler, Thorsten Joachims  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5614-5640   
+ [ abs  ][ Download PDF  ]  
+   
+ Symmetric (Optimistic) Natural Policy Gradient for Multi-Agent Learning with Parameter Convergence  
+ Sarath Pattathil, Kaiqing Zhang, Asuman Ozdaglar  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5641-5685   
+ [ abs  ][ Download PDF  ]  
+   
+ A Contrastive Approach to Online Change Point Detection  
+ Nikita Puchkin, Valeriia Shcherbakova  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5686-5713   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Active Membership Inference Attack under Local Differential Privacy in Federated Learning  
+ Truc Nguyen, Phung Lai, Khang Tran, NhatHai Phan, My T. Thai  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5714-5730   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Differentially Private Matrix Completion through Low-rank Matrix Factorization  
+ Lingxiao Wang, Boxin Zhao, Mladen Kolar  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5731-5748   
+ [ abs  ][ Download PDF  ]  
+   
+ Private Non-Convex Federated Learning Without a Trusted Server  
+ Andrew Lowy, Ali Ghafelebashi, Meisam Razaviyayn  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5749-5786   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Variational Boosted Soft Trees  
+ Tristan Cinquin, Tammo Rukat, Philipp Schmidt, Martin Wistuba, Artur Bekasov  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5787-5801   
+ [ abs  ][ Download PDF  ]  
+   
+ Cooperative Inverse Decision Theory for Uncertain Preferences  
+ Zachary Robertson, Hantao Zhang, Sanmi Koyejo  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5854-5868   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Falsification of Internal and External Validity in Observational Studies via Conditional Moment Restrictions  
+ Zeshan Hussain, Ming-Chieh Shih, Michael Oberst, Ilker Demirel, David Sontag  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5869-5898   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Adaptive Dimension Reduction and Variational Inference for Transductive Few-Shot Classification  
+ Yuqing Hu, Stephane Pateux, Vincent Gripon  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5899-5917   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Heavy Sets with Applications to Interpretable Machine Learning Diagnostics  
+ Dmitry Malioutov, Sanjeeb Dash, Dennis Wei  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5918-5930   
+ [ abs  ][ Download PDF  ]  
+   
+ Stochastic Mirror Descent for Large-Scale Sparse Recovery  
+ Sasila Ilandarideva, Yannis Bekri, Anatoli Iouditski, Vianney Perchet  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5931-5957   
+ [ abs  ][ Download PDF  ]  
+   
+ High Probability Bounds for Stochastic Continuous Submodular Maximization  
+ Evan Becker, Jingdong Gao, Ted Zadouri, Baharan Mirzasoleiman  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5958-5979   
+ [ abs  ][ Download PDF  ]  
+   
+ Average Adjusted Association: Efficient Estimation with High Dimensional Confounders  
+ Sung Jae Jun, Sokbae Lee  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5980-5996   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Reinforcement Learning for Adaptive Mesh Refinement  
+ Jiachen Yang, Tarik Dzanic, Brenden Petersen, Jun Kudo, Ketan Mittal, Vladimir Tomov, Jean-Sylvain Camier, Tuo Zhao, Hongyuan Zha, Tzanio Kolev, Robert Anderson, Daniel Faissol  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:5997-6014   
+ [ abs  ][ Download PDF  ]  
+   
+ Risk Bounds on Aleatoric Uncertainty Recovery  
+ Yikai Zhang, Jiahe Lin, Fengpei Li, Yeshaya Adler, Kashif Rasul, Anderson Schneider, Yuriy Nevmyvaka  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6015-6036   
+ [ abs  ][ Download PDF  ]  
+   
+ Robust and Agnostic Learning of Conditional Distributional Treatment Effects  
+ Nathan Kallus, Miruna Oprescu  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6037-6060   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Optimism and Delays in Episodic Reinforcement Learning  
+ Benjamin Howson, Ciara Pike-Burke, Sarah Filippi  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6061-6094   
+ [ abs  ][ Download PDF  ]  
+   
+ Delayed Feedback in Generalised Linear Bandits Revisited  
+ Benjamin Howson, Ciara Pike-Burke, Sarah Filippi  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6095-6119   
+ [ abs  ][ Download PDF  ]  
+   
+ Stochastic Tree Ensembles for Estimating Heterogeneous Effects  
+ Nikolay Krantsevich, Jingyu He, P. Richard Hahn  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6120-6131   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Minimax Nonparametric Two-Sample Test under Adversarial Losses  
+ Rong Tang, Yun Yang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6132-6165   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Dimensionality Collapse: Optimal Measurement Selection for Low-Error Infinite-Horizon Forecasting  
+ Helmuth Naumer, Farzad Kamalabadi  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6166-6198   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Distill n’ Explain: explaining graph neural networks using simple surrogates  
+ Tamara Pereira, Erik Nascimento, Lucas E. Resck, Diego Mesquita, Amauri Souza  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6199-6214   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Nonstationary Bandit Learning via Predictive Sampling  
+ Yueyang Liu, Benjamin Van Roy, Kuang Xu  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6215-6244   
+ [ abs  ][ Download PDF  ]  
+   
+ Continuous-Time Decision Transformer for Healthcare Applications  
+ Zhiyue Zhang, Hongyuan Mei, Yanxun Xu  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6245-6262   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Dueling RL: Reinforcement Learning with Trajectory Preferences  
+ Aadirupa Saha, Aldo Pacchiano, Jonathan Lee  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6263-6289   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Discrete Langevin Samplers via Wasserstein Gradient Flow  
+ Haoran Sun, Hanjun Dai, Bo Dai, Haomin Zhou, Dale Schuurmans  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6290-6313   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Generalization in Graph Neural Networks: Improved PAC-Bayesian Bounds on Graph Diffusion  
+ Haotian Ju, Dongyue Li, Aneesh Sharma, Hongyang R. Zhang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6314-6341   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Efficient Planning in Combinatorial Action Spaces with Applications to Cooperative Multi-Agent Reinforcement Learning  
+ Volodymyr Tkachuk, Seyed Alireza Bakhtiari, Johannes Kirschner, Matej Jusup, Ilija Bogunovic, Csaba Szepesvári  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6342-6370   
+ [ abs  ][ Download PDF  ]  
+   
+ NODAGS-Flow: Nonlinear Cyclic Causal Structure Learning  
+ Muralikrishnna G Sethuraman, Romain Lopez, Rahul Mohan, Faramarz Fekri, Tommaso Biancalani, Jan-Christian Huetter  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6371-6387   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Revisiting Fair-PAC Learning and the Axioms of Cardinal Welfare  
+ Cyrus Cousins  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6422-6442   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Distributionally Robust Policy Gradient for Offline Contextual Bandits  
+ Zhouhao Yang, Yihong Guo, Pan Xu, Anqi Liu, Animashree Anandkumar  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6443-6462   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ A stopping criterion for Bayesian optimization by the gap of expected minimum simple regrets  
+ Hideaki Ishibashi, Masayuki Karasuyama, Ichiro Takeuchi, Hideitsu Hino  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6463-6497   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ LOFT: Finding Lottery Tickets through Filter-wise Training  
+ Qihan Wang, Chen Dun, Fangshuo Liao, Chris Jermaine, Anastasios Kyrillidis  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6498-6526   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Provably Efficient Model-Free Algorithms for Non-stationary CMDPs  
+ Honghao Wei, Arnob Ghosh, Ness Shroff, Lei Ying, Xingyu Zhou  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6527-6570   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Precision Recall Cover: A Method For Assessing Generative Models  
+ Fasil Cheema, Ruth Urner  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6571-6594   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Reconstructing Training Data from Model Gradient, Provably  
+ Zihan Wang, Jason Lee, Qi Lei  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6595-6612   
+ [ abs  ][ Download PDF  ]  
+   
+ Scalable Spectral Clustering with Group Fairness Constraints  
+ Ji Wang, Ding Lu, Ian Davidson, Zhaojun Bai  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6613-6629   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Efficient and Light-Weight Federated Learning via Asynchronous Distributed Dropout  
+ Chen Dun, Mirian Hipolito, Chris Jermaine, Dimitrios Dimitriadis, Anastasios Kyrillidis  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6630-6660   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Learning with Partial Forgetting in Modern Hopfield Networks  
+ Toshihiro Ota, Ikuro Sato, Rei Kawakami, Masayuki Tanaka, Nakamasa Inoue  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6661-6673   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Efficiently Forgetting What You Have Learned in Graph Representation Learning via Projection  
+ Weilin Cong, Mehrdad Mahdavi  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6674-6703   
+ [ abs  ][ Download PDF  ]  
+   
+ Optimizing Pessimism in Dynamic Treatment Regimes: A Bayesian Learning Approach  
+ Yunzhe Zhou, Zhengling Qi, Chengchun Shi, Lexin Li  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6704-6721   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Uncertainty-aware Unsupervised Video Hashing  
+ Yucheng Wang, Mingyuan Zhou, Yu Sun, Xiaoning Qian  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6722-6740   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Incorporating functional summary information in Bayesian neural networks using a Dirichlet process likelihood approach  
+ Vishnu Raj, Tianyu Cui, Markus Heinonen, Pekka Marttinen  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6741-6763   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Structure of Nonlinear Node Embeddings in Stochastic Block Models  
+ Christopher Harker, Aditya Bhaskara  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6764-6782   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ On Model Selection Consistency of Lasso for High-Dimensional Ising Models  
+ Xiangming Meng, Tomoyuki Obuchi, Yoshiyuki Kabashima  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6783-6805   
+ [ abs  ][ Download PDF  ]  
+   
+ Optimal Sample Complexity Bounds for Non-convex Optimization under Kurdyka-Lojasiewicz Condition  
+ Qian Yu, Yining Wang, Baihe Huang, Qi Lei, Jason D. Lee  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6806-6821   
+ [ abs  ][ Download PDF  ]  
+   
+ INO: Invariant Neural Operators for Learning Complex Physical Systems with Momentum Conservation  
+ Ning Liu, Yue Yu, Huaiqian You, Neeraj Tatikola  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6822-6838   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Transport Reversible Jump Proposals  
+ Laurence Davies, Robert Salomone, Matthew Sutton, Chris Drovandi  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6839-6852   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Convex Bounds on the Softmax Function with Applications to Robustness Verification  
+ Dennis Wei, Haoze Wu, Min Wu, Pin-Yu Chen, Clark Barrett, Eitan Farchi  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6853-6878   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Strong Lottery Ticket Hypothesis with $\varepsilon$–perturbation  
+ Zheyang Xiong, Fangshuo Liao, Anastasios Kyrillidis  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6879-6902   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Two-Sample Tests for Inhomogeneous Random Graphs in $L_r$ Norm: Optimality and Asymptotics  
+ Sayak Chatterjee, Dibyendu Saha, Soham Dan, Bhaswar B. Bhattacharya  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6903-6911   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Differentiable Change-point Detection With Temporal Point Processes  
+ Paramita Koley, Harshavardhan Alimi, Shrey Singla, Sourangshu Bhattacharya, Niloy Ganguly, Abir De  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6940-6955   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Recurrent Neural Networks and Universal Approximation of Bayesian Filters  
+ Adrian N. Bishop, Edwin V. Bonilla  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6956-6967   
+ [ abs  ][ Download PDF  ]  
+   
+ Thresholded linear bandits  
+ Nishant A. Mehta, Junpei Komiyama, Vamsi K. Potluru, Andrea Nguyen, Mica Grant-Hagen  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:6968-7020   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Bayesian Optimization over High-Dimensional Combinatorial Spaces via Dictionary-based Embeddings  
+ Aryan Deshwal, Sebastian Ament, Maximilian Balandat, Eytan Bakshy, Janardhan Rao Doppa, David Eriksson  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7021-7039   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Unifying local and global model explanations by functional decomposition of low dimensional structures  
+ Munir Hiabu, Joseph T. Meyer, Marvin N. Wright  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7040-7060   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ SMCP3: Sequential Monte Carlo with Probabilistic Program Proposals  
+ Alexander K. Lew, George Matheos, Tan Zhi-Xuan, Matin Ghavamizadeh, Nishad Gothoskar, Stuart Russell, Vikash K. Mansinghka  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7061-7088   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ On double-descent in uncertainty quantification in overparametrized models  
+ Lucas Clarte, Bruno Loureiro, Florent Krzakala, Lenka Zdeborova  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7089-7125   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Learning Treatment Effects from Observational and Experimental Data  
+ Sofia Triantafillou, Fattaneh Jabbari, Gregory F. Cooper  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7126-7146   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ On the Accelerated Noise-Tolerant Power Method  
+ Zhiqiang Xu  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7147-7175   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Clustering High-dimensional Data with Ordered Weighted $\ell_1$ Regularization  
+ Chandramauli Chakraborty, Sayan Paul, Saptarshi Chakraborty, Swagatam Das  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7176-7189   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Flexible and Efficient Contextual Bandits with Heterogeneous Treatment Effect Oracles  
+ Aldo Gael Carranza, Sanath Kumar Krishnamurthy, Susan Athey  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7190-7212   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Faster Projection-Free Augmented Lagrangian Methods via Weak Proximal Oracle  
+ Dan Garber, Tsur Livney, Shoham Sabach  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7213-7238   
+ [ abs  ][ Download PDF  ]  
+   
+ Meta-Learning with Adjoint Methods  
+ Shibo Li, Zheng Wang, Akil Narayan, Robert Kirby, Shandian Zhe  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7239-7251   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Combining Graphical and Algebraic Approaches for Parameter Identification in Latent Variable Structural Equation Models  
+ Ankur Ankan, Inge Wortel, Kenneth Bollen, Johannes Textor  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7252-7264   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Explicit Regularization in Overparametrized Models via Noise Injection  
+ Antonio Orvieto, Anant Raj, Hans Kersting, Francis Bach  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7265-7287   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Efficient Informed Proposals for Discrete Distributions via Newton’s Series Approximation  
+ Yue Xiang, Dongyao Zhu, Bowen Lei, Dongkuan Xu, Ruqi Zhang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7288-7310   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ An Homogeneous Unbalanced Regularized Optimal Transport Model with Applications to Optimal Transport with Boundary  
+ Theo Lacombe  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7311-7330   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Prediction-Oriented Bayesian Active Learning  
+ Freddie Bickford Smith, Andreas Kirsch, Sebastian Farquhar, Yarin Gal, Adam Foster, Tom Rainforth  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7331-7348   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Active Exploration via Experiment Design in Markov Chains  
+ Mojmir Mutny, Tadeusz Janik, Andreas Krause  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7349-7374   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ But Are You Sure? An Uncertainty-Aware Perspective on Explainable AI  
+ Charles Marx, Youngsuk Park, Hilaf Hasson, Yuyang Wang, Stefano Ermon, Luke Huan  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7375-7391   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Identification of Blackwell Optimal Policies for Deterministic MDPs  
+ Victor Boone, Bruno Gaujal  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7392-7424   
+ [ abs  ][ Download PDF  ]  
+   
+ Multi-Fidelity Bayesian Optimization with Unreliable Information Sources  
+ Petrus Mikkola, Julien Martinelli, Louis Filstroff, Samuel Kaski  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7425-7454   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Randomized Greedy Learning for Non-monotone Stochastic Submodular Maximization Under Full-bandit Feedback  
+ Fares Fourati, Vaneet Aggarwal, Christopher Quinn, Mohamed-Slim Alouini  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7455-7471   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Protecting Global Properties of Datasets with Distribution Privacy Mechanisms  
+ Michelle Chen, Olga Ohrimenko  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7472-7491   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Incremental Aggregated Riemannian Gradient Method for Distributed PCA  
+ Xiaolu Wang, Yuchen Jiao, Hoi-To Wai, Yuantao Gu  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7492-7510   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Minimax-Bayes Reinforcement Learning  
+ Thomas Kleine Buening, Christos Dimitrakakis, Hannes Eriksson, Divya Grover, Emilio Jorge  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7511-7527   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Retrospective Uncertainties for Deep Models using Vine Copulas  
+ Natasa Tagasovska, Firat Ozdemir, Axel Brando  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7528-7539   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Optimal Algorithms for Latent Bandits with Cluster Structure  
+ Soumyabrata Pal, Arun Sai Suggala, Karthikeyan Shanmugam, Prateek Jain  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7540-7577   
+ [ abs  ][ Download PDF  ]  
+   
+ Improved Bound on Generalization Error of Compressed KNN Estimator  
+ Hang Zhang, Ping Li  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7578-7593   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Online Linearized LASSO  
+ Shuoguang Yang, Yuhao Yan, Xiuneng Zhu, Qiang Sun  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7594-7610   
+ [ abs  ][ Download PDF  ]  
+   
+ Multi-Agent congestion cost minimization with linear function approximations  
+ Prashant Trivedi, Nandyala Hemachandra  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7611-7643   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Global-Local Regularization Via Distributional Robustness  
+ Hoang Phan, Trung Le, Trung Phung, Anh Tuan Bui, Nhat Ho, Dinh Phung  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7644-7664   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Vector Quantized Time Series Generation with a Bidirectional Prior Model  
+ Daesoo Lee, Sara Malacarne, Erlend Aune  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7665-7693   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Risk-aware linear bandits with convex loss  
+ Patrick Saux, Odalric Maillard  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7723-7754   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ One Arrow, Two Kills: A Unified Framework for Achieving Optimal Regret Guarantees in Sleeping Bandits  
+ Pierre Gaillard, Aadirupa Saha, Soham Dan  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7755-7773   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Data Augmentation for Imbalanced Regression  
+ Samuel Stocksieker, Denys Pommeret, Arthur Charpentier  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7774-7799   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Fast Feature Selection with Fairness Constraints  
+ Francesco Quinzan, Rajiv Khanna, Moshik Hershcovitch, Sarel Cohen, Daniel Waddington, Tobias Friedrich, Michael W. Mahoney  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7800-7823   
+ [ abs  ][ Download PDF  ]  
+   
+ On the Consistency Rate of Decision Tree Learning Algorithms  
+ Qin-Cheng Zheng, Shen-Huan Lyu, Shao-Qun Zhang, Yuan Jiang, Zhi-Hua Zhou  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7824-7848   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Rank-Based Causal Discovery for Post-Nonlinear Models  
+ Grigor Keropyan, David Strieder, Mathias Drton  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7849-7870   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ On the Complexity of Representation Learning in Contextual Linear Bandits  
+ Andrea Tirinzoni, Matteo Pirotta, Alessandro Lazaric  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7871-7896   
+ [ abs  ][ Download PDF  ]  
+   
+ Hierarchical-Hyperplane Kernels for Actively Learning Gaussian Process Models of Nonstationary Systems  
+ Matthias Bitzer, Mona Meister, Christoph Zimmer  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7897-7912   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Revisiting Weighted Strategy for Non-stationary Parametric Bandits  
+ Jing Wang, Peng Zhao, Zhi-Hua Zhou  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7913-7942   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ No time to waste: practical statistical contact tracing with few low-bit messages  
+ Rob Romijnders, Yuki M. Asano, Christos Louizos, Max Welling  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7943-7960   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Understanding the Impact of Competing Events on Heterogeneous Treatment Effect Estimation from Time-to-Event Data  
+ Alicia Curth, Mihaela van der Schaar  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7961-7980   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Beyond Performative Prediction: Open-environment Learning with Presence of Corruptions  
+ Jia-Wei Shan, Peng Zhao, Zhi-Hua Zhou  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7981-7998   
+ [ abs  ][ Download PDF  ]  
+   
+ Last-Iterate Convergence with Full and Noisy Feedback in Two-Player Zero-Sum Games  
+ Kenshi Abe, Kaito Ariu, Mitsuki Sakamoto, Kentaro Toyoshima, Atsushi Iwasaki  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:7999-8028   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Model-Based Uncertainty in Value Functions  
+ Carlos E. Luis, Alessandro G. Bottero, Julia Vinogradska, Felix Berkenkamp, Jan Peters  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8029-8052   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ The Role of Codeword-to-Class Assignments in Error-Correcting Codes: An Empirical Study  
+ Itay Evron, Ophir Onn, Tamar Weiss, Hai Azeroual, Daniel Soudry  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8053-8077   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Online Algorithms with Costly Predictions  
+ Marina Drygala, Sai Ganesh Nagarajan, Ola Svensson  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8078-8101   
+ [ abs  ][ Download PDF  ]  
+   
+ Adaptive Tuning for Metropolis Adjusted Langevin Trajectories  
+ Lionel Riou-Durand, Pavel Sountsov, Jure Vogrinc, Charles Margossian, Sam Power  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8102-8116   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Further Adaptive Best-of-Both-Worlds Algorithm for Combinatorial Semi-Bandits  
+ Taira Tsuchiya, Shinji Ito, Junya Honda  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8117-8144   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ PAC-Bayesian Learning of Optimization Algorithms  
+ Michael Sucker, Peter Ochs  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8145-8164   
+ [ abs  ][ Download PDF  ]  
+   
+ Tighter PAC-Bayes Generalisation Bounds by Leveraging Example Difficulty  
+ Felix Biggs, Benjamin Guedj  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8165-8182   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Bures-Wasserstein Barycenters and Low-Rank Matrix Recovery  
+ Tyler Maunu, Thibaut Le Gouic, Philippe Rigollet  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8183-8210   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Pointwise sampling uncertainties on the Precision-Recall curve  
+ Ralph E.Q. Urlus, Max Baak, Stéphane Collot, Ilan Fridman Rojas  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8211-8232   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Exploration in Linear Bandits with Rich Action Sets and its Implications for Inference  
+ Debangshu Banerjee, Avishek Ghosh, Sayak Ray Chowdhury, Aditya Gopalan  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8233-8262   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Nothing but Regrets — Privacy-Preserving Federated Causal Discovery  
+ Osman Mian, David Kaltenpoth, Michael Kamp, Jilles Vreeken  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8263-8278   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Nonparametric Gaussian Process Covariances via Multidimensional Convolutions  
+ Thomas M. Mcdonald, Magnus Ross, Michael T. Smith, Mauricio A. Álvarez  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8279-8293   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Improved Representation Learning Through Tensorized Autoencoders  
+ Pascal Esser, Satyaki Mukherjee, Mahalakshmi Sabanayagam, Debarghya Ghoshdastidar  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8294-8307   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Tensor-based Kernel Machines with Structured Inducing Points for Large and High-Dimensional Data  
+ Frederiek Wesel, Kim Batselier  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8308-8320   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ A Targeted Accuracy Diagnostic for Variational Approximations  
+ Yu Wang, Mikolaj Kasprzak, Jonathan H. Huggins  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8351-8372   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Root Cause Identification for Collective Anomalies in Time Series given an Acyclic Summary Causal Graph with Loops  
+ Charles K. Assaad, Imad Ez-Zejjari, Lei Zan  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8395-8404   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Principled Approaches for Private Adaptation from a Public Source  
+ Raef Bassily, Mehryar Mohri, Ananda Theertha Suresh  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8405-8432   
+ [ abs  ][ Download PDF  ]  
+   
+ CLIP-Lite: Information Efficient Visual Representation Learning with Language Supervision  
+ Aman Shrivastava, Ramprasaath R. Selvaraju, Nikhil Naik, Vicente Ordonez  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8433-8447   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Surveillance Evasion Through Bayesian Reinforcement Learning  
+ Dongping Qi, David Bindel, Alexander Vladimirsky  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8448-8462   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Overparameterized Random Feature Regression with Nearly Orthogonal Data  
+ Zhichao Wang, Yizhe Zhu  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8463-8493   
+ [ abs  ][ Download PDF  ]  
+   
+ How Does Pseudo-Labeling Affect the Generalization Error of the Semi-Supervised Gibbs Algorithm?  
+ Haiyun He, Gholamali Aminian, Yuheng Bu, Miguel Rodrigues, Vincent Y. F. Tan  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8494-8520   
+ [ abs  ][ Download PDF  ]  
+   
+ Scalable Unbalanced Sobolev Transport for Measures on a Graph  
+ Tam Le, Truyen Nguyen, Kenji Fukumizu  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8521-8560   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Discrete Distribution Estimation under User-level Local Differential Privacy  
+ Jayadev Acharya, Yuhan Liu, Ziteng Sun  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8561-8585   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Causal Entropy Optimization  
+ Nicola Branchini, Virginia Aglietti, Neil Dhir, Theodoros Damoulas  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8586-8605   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Loss-Curvature Matching for Dataset Selection and Condensation  
+ Seungjae Shin, Heesun Bae, Donghyeok Shin, Weonyoung Joo, Il-Chul Moon  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8606-8628   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Wasserstein Distributionally Robust Linear-Quadratic Estimation under Martingale Constraints  
+ Kyriakos Lotidis, Nicholas Bambos, Jose Blanchet, Jiajin Li  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8629-8644   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Density Ratio Estimation and Neyman Pearson Classification with Missing Data  
+ Josh Givens, Song Liu, Henry W. J. Reeve  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8645-8681   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Representation Learning in Deep RL via Discrete Information Bottleneck  
+ Riashat Islam, Hongyu Zang, Manan Tomar, Aniket Didolkar, Md Mofijul Islam, Samin Yeasar Arnob, Tariq Iqbal, Xin Li, Anirudh Goyal, Nicolas Heess, Alex Lamb  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8699-8722   
+ [ abs  ][ Download PDF  ]  
+   
+ Learning Robust Graph Neural Networks with Limited Supervision  
+ Abdullah Alchihabi, Yuhong Guo  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8723-8733   
+ [ abs  ][ Download PDF  ]  
+   
+ Consistent Complementary-Label Learning via Order-Preserving Losses  
+ Shuqi Liu, Yuzhou Cao, Qiaozhen Zhang, Lei Feng, Bo An  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8734-8748   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Tight Regret and Complexity Bounds for Thompson Sampling via Langevin Monte Carlo  
+ Tom Huix, Matthew Zhang, Alain Durmus  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8749-8770   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Nonstochastic Contextual Combinatorial Bandits  
+ Lukas Zierahn, Dirk van der Hoeven, Nicolò Cesa-Bianchi, Gergely Neu  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8771-8813   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Probabilistic Conformal Prediction Using Conditional Random Samples  
+ Zhendong Wang, Ruijiang Gao, Mingzhang Yin, Mingyuan Zhou, David Blei  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8814-8836   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Preferential Subsampling for Stochastic Gradient Langevin Dynamics  
+ Srshti Putcha, Christopher Nemeth, Paul Fearnhead  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8837-8856   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ On the Calibration of Probabilistic Classifier Sets  
+ Thomas Mortier, Viktor Bengs, Eyke Hüllermeier, Stijn Luca, Willem Waegeman  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8857-8870   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Context-Specific Causal Discovery for Categorical Data Using Staged Trees  
+ Manuele Leonelli, Gherardo Varando  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8871-8888   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Federated Learning for Data Streams  
+ Othmane Marfoq, Giovanni Neglia, Laetitia Kameni, Richard Vidal  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8889-8924   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Adversarial robustness of VAEs through the lens of local geometry  
+ Asif Khan, Amos Storkey  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8954-8967   
+ [ abs  ][ Download PDF  ]  
+   
+ Freeze then Train: Towards Provable Representation Learning under Spurious Correlations and Feature Noise  
+ Haotian Ye, James Zou, Linjun Zhang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8968-8990   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Learning to Optimize with Stochastic Dominance Constraints  
+ Hanjun Dai, Yuan Xue, Niao He, Yixin Wang, Na Li, Dale Schuurmans, Bo Dai  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:8991-9009   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ SoundSynp: Sound Source Detection from Raw Waveforms with Multi-Scale Synperiodic Filterbanks  
+ Yuhang He, Andrew Markham  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9010-9023   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Second Order Path Variationals in Non-Stationary Online Learning  
+ Dheeraj Baby, Yu-Xiang Wang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9024-9075   
+ [ abs  ][ Download PDF  ]  
+   
+ Bayesian Optimization Over Iterative Learners with Structured Responses: A Budget-aware Planning Approach  
+ Syrine Belakaria, Janardhan Rao Doppa, Nicolo Fusi, Rishit Sheth  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9076-9093   
+ [ abs  ][ Download PDF  ]  
+   
+ Knowledge Sheaves: A Sheaf-Theoretic Framework for Knowledge Graph Embedding  
+ Thomas Gebhart, Jakob Hansen, Paul Schrater  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9094-9116   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Active Cost-aware Labeling of Streaming Data  
+ Ting Cai, Kirthevasan Kandasamy  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9117-9136   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Krylov–Bellman boosting: Super-linear policy evaluation in general state spaces  
+ Eric Xia, Martin Wainwright  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9137-9166   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ SwAMP: Swapped Assignment of Multi-Modal Pairs for Cross-Modal Retrieval  
+ Minyoung Kim  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9167-9190   
+ [ abs  ][ Download PDF  ]  
+   
+ A Mini-Block Fisher Method for Deep Neural Networks  
+ Achraf Bahamou, Donald Goldfarb, Yi Ren  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9191-9220   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ On the Convergence of Distributed Stochastic Bilevel Optimization Algorithms over a Network  
+ Hongchang Gao, Bin Gu, My T. Thai  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9238-9281   
+ [ abs  ][ Download PDF  ]  
+   
+ Pricing against a Budget and ROI Constrained Buyer  
+ Negin Golrezaei, Patrick Jaillet, Jason Cheuk Nam Liang, Vahab Mirrokni  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9282-9307   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Improving Dual-Encoder Training through Dynamic Indexes for Negative Mining  
+ Nicholas Monath, Manzil Zaheer, Kelsey Allen, Andrew Mccallum  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9308-9330   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Incentive-aware Contextual Pricing with Non-parametric Market Noise  
+ Negin Golrezaei, Patrick Jaillet, Jason Cheuk Nam Liang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9331-9361   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Coherent Probabilistic Forecasting of Temporal Hierarchies  
+ Syama Sundar Rangapuram, Shubham Kapoor, Rajbir Singh Nirwan, Pedro Mercado, Tim Januschowski, Yuyang Wang, Michael Bohlke-Schneider  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9362-9376   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Optimal robustness-consistency tradeoffs for learning-augmented metrical task systems  
+ Nicolas Christianson, Junxuan Shen, Adam Wierman  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9377-9399   
+ [ abs  ][ Download PDF  ]  
+   
+ Randomized geometric tools for anomaly detection in stock markets  
+ Cyril Bachelard, Apostolos Chalkis, Vissarion Fisikopoulos, Elias Tsigaridas  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9400-9416   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ ForestPrune: Compact Depth-Pruned Tree Ensembles  
+ Brian Liu, Rahul Mazumder  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9417-9428   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Instance-dependent Sample Complexity Bounds for Zero-sum Matrix Games  
+ Arnab Maiti, Kevin Jamieson, Lillian Ratliff  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9429-9469   
+ [ abs  ][ Download PDF  ]  
+   
+ Multiple-policy High-confidence Policy Evaluation  
+ Chris Dann, Mohammad Ghavamzadeh, Teodor V. Marinov  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9470-9487   
+ [ abs  ][ Download PDF  ]  
+   
+ Compositional Probabilistic and Causal Inference using Tractable Circuit Models  
+ Benjie Wang, Marta Kwiatkowska  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9488-9498   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Improved Approximation for Fair Correlation Clustering  
+ Sara Ahmadian, Maryam Negahbani  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9499-9516   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Diffusion Generative Models in Infinite Dimensions  
+ Gavin Kerrigan, Justin Ley, Padhraic Smyth  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9538-9563   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ MMD-B-Fair: Learning Fair Representations with Statistical Testing  
+ Namrata Deka, Danica J. Sutherland  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9564-9576   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Domain Adaptation under Missingness Shift  
+ Helen Zhou, Sivaraman Balakrishnan, Zachary Lipton  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9577-9606   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Nash Equilibria and Pitfalls of Adversarial Training in Adversarial Robustness Games  
+ Maria-Florina Balcan, Rattana Pukdee, Pradeep Ravikumar, Hongyang Zhang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9607-9636   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Adapting to Latent Subgroup Shifts via Concepts and Proxies  
+ Ibrahim Alabdulmohsin, Nicole Chiou, Alexander D’Amour, Arthur Gretton, Sanmi Koyejo, Matt J. Kusner, Stephen R. Pfohl, Olawale Salaudeen, Jessica Schrouff, Katherine Tsai  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9637-9661   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ On the Privacy Risks of Algorithmic Recourse  
+ Martin Pawelczyk, Himabindu Lakkaraju, Seth Neel  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9680-9696   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Reducing Discretization Error in the Frank-Wolfe Method  
+ Zhaoyue Chen, Yifan Sun  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9697-9727   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Improved Sample Complexity Bounds for Distributionally Robust Reinforcement Learning  
+ Zaiyan Xu, Kishan Panaganti, Dileep Kalathil  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9728-9754   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Factorial SDE for Multi-Output Gaussian Process Regression  
+ Daniel P. Jeong, Seyoung Kim  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9755-9772   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Interactive Learning with Pricing for Optimal and Stable Allocations in Markets  
+ Yigit Efe Erginbas, Soham Phade, Kannan Ramchandran  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9773-9806   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Learning to Generalize Provably in Learning to Optimize  
+ Junjie Yang, Tianlong Chen, Mingkang Zhu, Fengxiang He, Dacheng Tao, Yingbin Liang, Zhangyang Wang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9807-9825   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Theory and Algorithm for Batch Distribution Drift Problems  
+ Pranjal Awasthi, Corinna Cortes, Christopher Mohri  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9826-9851   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ On The Convergence Of Policy Iteration-Based Reinforcement Learning With Monte Carlo Policy Evaluation  
+ Anna Winnicki, R. Srikant  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9852-9878   
+ [ abs  ][ Download PDF  ]  
+   
+ Precision/Recall on Imbalanced Test Data  
+ Hongwei Shang, Jean-Marc Langlois, Kostas Tsioutsiouliklis, Changsung Kang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9879-9891   
+ [ abs  ][ Download PDF  ]  
+   
+ Iterative Teaching by Data Hallucination  
+ Zeju Qiu, Weiyang Liu, Tim Z. Xiao, Zhen Liu, Umang Bhatt, Yucen Luo, Adrian Weller, Bernhard Schölkopf  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9892-9913   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Near-Optimal Differentially Private Reinforcement Learning  
+ Dan Qiao, Yu-Xiang Wang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9914-9940   
+ [ abs  ][ Download PDF  ]  
+   
+ Doubly Fair Dynamic Pricing  
+ Jianyu Xu, Dan Qiao, Yu-Xiang Wang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:9941-9975   
+ [ abs  ][ Download PDF  ]  
+   
+ Probabilities of Causation: Role of Observational Data  
+ Ang Li, Judea Pearl  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10012-10027   
+ [ abs  ][ Download PDF  ]  
+   
+ Influence Diagnostics under Self-concordance  
+ Jillian Fisher, Lang Liu, Krishna Pillutla, Yejin Choi, Zaid Harchaoui  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10028-10076   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Theoretically Grounded Loss Functions and Algorithms for Adversarial Robustness  
+ Pranjal Awasthi, Anqi Mao, Mehryar Mohri, Yutao Zhong  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10077-10094   
+ [ abs  ][ Download PDF  ]  
+   
+ Large deviations rates for stochastic gradient descent with strongly convex functions  
+ Dragana Bajovic, Dusan Jakovetic, Soummya Kar  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10095-10111   
+ [ abs  ][ Download PDF  ]  
+   
+ Stochastic Optimization for Spectral Risk Measures  
+ Ronak Mehta, Vincent Roulet, Krishna Pillutla, Lang Liu, Zaid Harchaoui  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10112-10159   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Improving Adaptive Conformal Prediction Using Self-Supervised Learning  
+ Nabeel Seedat, Alan Jeffares, Fergus Imrie, Mihaela van der Schaar  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10160-10177   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Oracle-free Reinforcement Learning in Mean-Field Games along a Single Sample Path  
+ Muhammad Aneeq Uz Zaman, Alec Koppel, Sujay Bhatt, Tamer Basar  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10178-10206   
+ [ abs  ][ Download PDF  ]  
+   
+ Sparsity-Inducing Categorical Prior Improves Robustness of the Information Bottleneck  
+ Anirban Samaddar, Sandeep Madireddy, Prasanna Balaprakash, Taps Maiti, Gustavo de los Campos, Ian Fischer  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10207-10222   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Ideal Abstractions for Decision-Focused Learning  
+ Michael Poli, Stefano Massaroli, Stefano Ermon, Bryan Wilder, Eric Horvitz  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10223-10234   
+ [ abs  ][ Download PDF  ]  
+   
+ Probabilistic Querying of Continuous-Time Event Sequences  
+ Alex Boyd, Yuxin Chang, Stephan Mandt, Padhraic Smyth  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10235-10251   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Semantic Strengthening of Neuro-Symbolic Learning  
+ Kareem Ahmed, Kai-Wei Chang, Guy Van den Broeck  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10252-10261   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Fast Variational Estimation of Mutual Information for Implicit and Explicit Likelihood Models  
+ Caleb Dahlke, Sue Zheng, Jason Pacheco  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10262-10278   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ SurvivalGAN: Generating Time-to-Event Data for Survival Analysis  
+ Alexander Norcliffe, Bogdan Cebere, Fergus Imrie, Pietro Lió, Mihaela van der Schaar  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10279-10304   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ A Conditional Gradient-based Method for Simple Bilevel Optimization with Convex Lower-level Problem  
+ Ruichen Jiang, Nazanin Abolfazli, Aryan Mokhtari, Erfan Yazdandoost Hamedani  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10305-10323   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Stochastic Methods for AUC Optimization subject to AUC-based Fairness Constraints  
+ Yao Yao, Qihang Lin, Tianbao Yang  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10324-10342   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ DIET: Conditional independence testing with marginal dependence measures of residual information  
+ Mukund Sudarshan, Aahlad Puli, Wesley Tansey, Rajesh Ranganath  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10343-10367   
+ [ abs  ][ Download PDF  ]  
+   
+ Algorithm-Dependent Bounds for Representation Learning of Multi-Source Domain Adaptation  
+ Qi Chen, Mario Marchand  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10368-10394   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Actually Sparse Variational Gaussian Processes  
+ Harry Jake Cunningham, Daniel Augusto de Souza, So Takao, Mark van der Wilk, Marc Peter Deisenroth  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10395-10408   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Competing against Adaptive Strategies in Online Learning via Hints  
+ Aditya Bhaskara, Kamesh Munagala  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10409-10424   
+ [ abs  ][ Download PDF  ]  
+   
+ ProbNeRF: Uncertainty-Aware Inference of 3D Shapes from 2D Images  
+ Matthew D. Hoffman, Tuan Anh Le, Pavel Sountsov, Christopher Suter, Ben Lee, Vikash K. Mansinghka, Rif A. Saurous  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10425-10444   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Minimum-Entropy Coupling Approximation Guarantees Beyond the Majorization Barrier  
+ Spencer Compton, Dmitriy Katz, Benjamin Qi, Kristjan Greenewald, Murat Kocaoglu  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10445-10469   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Automatic Attention Pruning: Improving and Automating Model Pruning using Attentions  
+ Kaiqi Zhao, Animesh Jain, Ming Zhao  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10470-10486   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Sample Complexity of Distinguishing Cause from Effect  
+ Jayadev Acharya, Sourbh Bhadane, Arnab Bhattacharyya, Saravanan Kandasamy, Ziteng Sun  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10487-10504   
+ [ abs  ][ Download PDF  ]  
+   
+ Graph Spectral Embedding using the Geodesic Betweenness Centrality  
+ Shay Deutsch, Stefano Soatto  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10505-10519   
+ [ abs  ][ Download PDF  ]  
+   
+ Score-based Quickest Change Detection for Unnormalized Models  
+ Suya Wu, Enmao Diao, Taposh Banerjee, Jie Ding, Vahid Tarokh  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10546-10565   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Dropout-Resilient Secure Multi-Party Collaborative Learning with Linear Communication Complexity  
+ Xingyu Lu, Hasin Us Sami, Başak Güler  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10566-10593   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Reinforcement Learning with Stepwise Fairness Constraints  
+ Zhun Deng, He Sun, Steven Wu, Linjun Zhang, David Parkes  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10594-10618   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Federated Asymptotics: a model to compare federated learning algorithms  
+ Gary Cheng, Karan Chadha, John Duchi  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10650-10689   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Conformalized Unconditional Quantile Regression  
+ Ahmed M. Alaa, Zeshan Hussain, David Sontag  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10690-10702   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Wasserstein Distributional Learning via Majorization-Minimization  
+ Chengliang Tang, Nathan Lenssen, Ying Wei, Tian Zheng  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10703-10731   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ HeteRSGD: Tackling Heterogeneous Sampling Costs via Optimal Reweighted Stochastic Gradient Descent  
+ Ziang Chen, Jianfeng Lu, Huajie Qian, Xinshang Wang, Wotao Yin  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10732-10781   
+ [ abs  ][ Download PDF  ]  
+   
+ Ultra-marginal Feature Importance: Learning from Data with Causal Guarantees  
+ Joseph Janssen, Vincent Guan, Elina Robeva  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10782-10814   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ On the Implicit Geometry of Cross-Entropy Parameterizations for Label-Imbalanced Data  
+ Tina Behnia, Ganesh Ramachandra Kini, Vala Vakilian, Christos Thrampoulidis  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10815-10838   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Convolutional Persistence as a Remedy to Neural Model Analysis  
+ Ekaterina Khramtsova, Guido Zuccon, Xi Wang, Mahsa Baktashmotlagh  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10839-10855   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Uniformly Conservative Exploration in Reinforcement Learning  
+ Wanqiao Xu, Yecheng Ma, Kan Xu, Hamsa Bastani, Osbert Bastani  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10856-10870   
+ [ abs  ][ Download PDF  ]  
+   
+ Provable Safe Reinforcement Learning with Binary Feedback  
+ Andrew Bennett, Dipendra Misra, Nathan Kallus  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10871-10900   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Balanced Off-Policy Evaluation for Personalized Pricing  
+ Adam Elmachtoub, Vishal Gupta, Yunfan Zhao  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10901-10917   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Provable Hierarchy-Based Meta-Reinforcement Learning  
+ Kurtland Chua, Qi Lei, Jason Lee  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10918-10967   
+ [ abs  ][ Download PDF  ]  
+   
+ A Blessing of Dimensionality in Membership Inference through Regularization  
+ Jasper Tan, Daniel LeJeune, Blake Mason, Hamid Javadi, Richard G. Baraniuk  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10968-10993   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Posterior Tracking Algorithm for Classification Bandits  
+ Koji Tabata, Junpei Komiyama, Atsuyoshi Nakamura, Tamiki Komatsuzaki  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:10994-11022   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Mixtures of All Trees  
+ Nikil Roashan Selvam, Honghua Zhang, Guy Van den Broeck  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11043-11058   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Improving Adversarial Robustness via Joint Classification and Multiple Explicit Detection Classes  
+ Sina Baharlouei, Fatemeh Sheikholeslami, Meisam Razaviyayn, Zico Kolter  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11059-11078   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Performative Prediction with Neural Networks  
+ Mehrnaz Mofakhami, Ioannis Mitliagkas, Gauthier Gidel  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11079-11093   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Benign overfitting of non-smooth neural networks beyond lazy training  
+ Xingyu Xu, Yuantao Gu  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11094-11117   
+ [ abs  ][ Download PDF  ]  
+   
+ A New Modeling Framework for Continuous, Sequential Domains  
+ Hailiang Dong, James Amato, Vibhav Gogate, Nicholas Ruozzi  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11118-11131   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ TS-UCB: Improving on Thompson Sampling With Little to No Additional Computation  
+ Jackie Baek, Vivek Farias  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11132-11148   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Reward Learning as Doubly Nonparametric Bandits: Optimal Design and Scaling Laws  
+ Kush Bhatia, Wenshuo Guo, Jacob Steinhardt  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11149-11171   
+ [ abs  ][ Download PDF  ]  
+   
+ Approximate Regions of Attraction in Learning with Decision-Dependent Distributions  
+ Roy Dong, Heling Zhang, Lillian Ratliff  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11172-11184   
+ [ abs  ][ Download PDF  ]  
+   
+ Randomized Primal-Dual Methods with Adaptive Step Sizes  
+ Erfan Yazdandoost Hamedani, Afrooz Jalilzadeh, Necdet S. Aybat  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11185-11212   
+ [ abs  ][ Download PDF  ]  
+   
+ Spectral Augmentations for Graph Contrastive Learning  
+ Amur Ghose, Yingxue Zhang, Jianye Hao, Mark Coates  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11213-11266   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Deep Value Function Networks for Large-Scale Multistage Stochastic Programs  
+ Hyunglip Bae, Jinkyu Lee, Woo Chang Kim, Yongjae Lee  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11267-11287   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Optimal Sketching Bounds for Sparse Linear Regression  
+ Tung Mai, Alexander Munteanu, Cameron Musco, Anup Rao, Chris Schwiegelshohn, David Woodruff  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11288-11316   
+ [ abs  ][ Download PDF  ]  
+   
+ Average case analysis of Lasso under ultra sparse conditions  
+ Koki Okajima, Xiangming Meng, Takashi Takahashi, Yoshiyuki Kabashima  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11317-11330   
+ [ abs  ][ Download PDF  ]  
+   
+ Uncertainty Estimates of Predictions via a General Bias-Variance Decomposition  
+ Sebastian Gruber, Florian Buettner  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11331-11354   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Collision Probability Matching Loss for Disentangling Epistemic Uncertainty from Aleatoric Uncertainty  
+ Hiromi Narimatsu, Mayuko Ozawa, Shiro Kumano  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11355-11370   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Random Features Model with General Convex Regularization: A Fine Grained Analysis with Precise Asymptotic Learning Curves  
+ David Bosch, Ashkan Panahi, Ayca Ozcelikkale, Devdatt Dubhashi  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11371-11414   
+ [ abs  ][ Download PDF  ]  
+   
+ Learning to Defer to Multiple Experts: Consistent Surrogate Losses, Confidence Calibration, and Conformal Ensembles  
+ Rajeev Verma, Daniel Barrejon, Eric Nalisnick  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11415-11434   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Spread Flows for Manifold Modelling  
+ Mingtian Zhang, Yitong Sun, Chen Zhang, Steven Mcdonagh  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11435-11456   
+ [ abs  ][ Download PDF  ]  
+   
+ Breaking a Classical Barrier for Classifying Arbitrary Test Examples in the Quantum Model  
+ Grzegorz Gluch, Khashayar Barooti, Rüdiger Urbanke  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11457-11488   
+ [ abs  ][ Download PDF  ]  
+   
+ Characterizing Polarization in Social Networks using the Signed Relational Latent Distance Model  
+ Nikolaos Nakis, Abdulkadir Celikkanat, Louis Boucherie, Christian Djurhuus, Felix Burmester, Daniel Mathias Holmelund, Monika Frolcová, Morten Mørup  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11489-11505   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Algorithm for Constrained Markov Decision Process with Linear Convergence  
+ Egor Gladin, Maksim Lavrik-Karmazin, Karina Zainullina, Varvara Rudenko, Alexander Gasnikov, Martin Takac  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11506-11533   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Inducing Neural Collapse in Deep Long-tailed Learning  
+ Xuantong Liu, Jianfeng Zhang, Tianyang Hu, He Cao, Yuan Yao, Lujia Pan  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11534-11544   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Encoding Domain Knowledge in Multi-view Latent Variable Models: A Bayesian Approach with Structured Sparsity  
+ Arber Qoku, Florian Buettner  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11545-11562   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Regression as Classification: Influence of Task Formulation on Neural Network Features  
+ Lawrence Stewart, Francis Bach, Quentin Berthet, Jean-Philippe Vert  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11563-11582   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Robust Linear Regression: Gradient-descent, Early-stopping, and Beyond  
+ Meyer Scetbon, Elvis Dohmatob  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11583-11607   
+ [ abs  ][ Download PDF  ]  
+   
+ Probing Graph Representations  
+ Mohammad Sadegh Akhondzadeh, Vijay Lingam, Aleksandar Bojchevski  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11630-11649   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ Efficient SAGE Estimation via Causal Structure Learning  
+ Christoph Luther, Gunnar König, Moritz Grosse-Wentrup  ; Proceedings of The 26th International Conference on Artificial Intelligence and Statistics  , PMLR 206:11650-11670   
+ [ abs  ][ Download PDF  ][ Software  ]  
+   
+ subscribe via RSS   
+
+ This site last compiled Wed, 24 Jul 2024 15:14:04 +0000  
+ Github Account     
+ Copyright © The authors and PMLR  2024.  MLResearchPress

@@ -1,0 +1,122 @@
+EICS 2023   
+  The 15th ACM SIGCHI Symposium on Engineering Interactive Computing Systems    
+    
+ Computational Foundry, Swansea, Wales, UK - June 26–30, 2023   
+ Toggle navigation        
+ Overview 
+  About EICS 
+  Committee 
+  Programme 
+  Accepted Contributions for EICS 2023 
+  Registration 
+  Submissions | Doctoral Consortium 
+  Full Papers 
+  Late Breaking Results 
+  Demonstrations and Posters 
+  Workshops 
+  Venue 
+  Financial Support 
+
+ REGISTRATION NOW OPEN  
+  Overview  
+ EICS 2023 is the fifteenth international ACM SIGCHI conference devoted to engineering interactive computing systems and their user interfaces, addressing one or more software quality factors, such as usability, user experience, reliability, security, etc.  
+ Work presented at EICS covers all stages of the engineering life-cycle of interactive systems - inception, requirements, design, specification, coding, data analytics, validation and verification, deployment and maintenance. EICS has the longest tradition of bringing together researchers who contribute to better ways of creating interactive computing systems, stemming from the conference on command languages in the seventies. The conference is best known for rigorously contributing and disseminating research results that hold the midst in between user interface design, software engineering and computational interaction.  
+ EICS focuses on models, languages, notations, methods, techniques and tools that support designing, developing, validating and verifying interactive systems. The conference brings together people who study or practice the engineering of interactive systems, drawing from design, HCI, software engineering, requirements engineering, software development, modeling, and programming. Submissions advance the state of the art of the engineering of interactive systems.  
+ The conference proceedings are published by the ACM and appear in the ACM Digital Library. The full paper are published in the journal PACM EICS series. Further information at https://eics.acm.org/pacm/  .  
+ Openning Keynote  
+  Crafting interactive experiences with non-programmers   
+ Chris Greenhalgh   , University of Nottingham, UK  
+  https://www.cs.nott.ac.uk/~pszcmg/   
+ Summary:  The Mixed Reality Lab has a long history of creating public interactive experiences in collaboration with creative practitioners. Looking across four such experiences, this keynote explores the role of code (i.e., bespoke software) in making them possible, the practicalities of non-programmers “authoring” key parts of the experience, the relationship between coding and knowledge production, and the changing nature of technical responsibilities. As well as being personally and inherently satisfying, the practical realization of novel interactive systems manifests new creative “materials”, which open the door to new experiences and understandings of people and the world.  
+ Chris Greenhalgh  is a Professor of Computer Science in the School of Computer Science at the University of Nottingham, where he is a co-leader of the Mixed Reality Laboratory  and a member of Horizon Digital Economy Research  Institute. He gained a first class BA (with distinction) in Electrical and Information Sciences from Cambridge University in 1991. He then worked in the data communications group at the GEC Hirst Research Centre for two years before moving to Nottingham, where he gained a PhD for his work with large scale collaborative virtual environments in 1997. His thesis was a winner of the 1998 BCS/CPHC Distinguished Dissertations in Computer Science competition. He has been a member of academic staff in the School of Computer Science since 1996. He has served as Senior Tutor and Director of Taught Programmes for the School, and contributed to the University's adoption and use of Moodle, an open-source virtual learning environment.  
+   
+ Mid-Keynote  
+  Speeding Up the Engineering of Interactive Systems with Generative AI   
+ Albrecht Schmidt   , Ludwig-Maximilians-Universität München, Germany  
+  https://www.um.informatik.uni-muenchen.de/personen/professoren/schmidt/index.html   
+ Summary:  This keynote discusses the opportunities and challenges of using Generative Artificial Intelligence (GenAI) and Large Language Models (LLMs) as tools for developing interactive systems. We will look at different stages in the development lifecycle of interactive systems and assess the value of AI support. We explore how GenAI and LLMs can potentially speed-up the ideation, requirements elicitation, architecture development, prototyping, implementation, and testing of interactive systems. The talk will outline emerging practices, such as the use of prompts for code and system generation, to facilitate prototyping and accelerate implementation. We will outline fundamental challenges and suggest emerging research directions, and pose research questions. What will software development tools look like in the future? How can we efficiently use AI to develop interactive systems without compromising quality? We also speculate about the implications of these developments for researchers, practitioners, and society. We believe that it will massively accelerate the digital transformation. Interactive AI-based tools for systems and software development will become a major research direction.  
+ Albrecht Schmidt  is professor for Human-Centered Ubiquitous Media in the computer science department of the Ludwig-Maximilians-Universität München in Germany. He studied computer science in Ulm and Manchester and received a PhD from Lancaster University, UK, in 2003. He held several prior academic positions at different universities, including Stuttgart, Cambridge, Duisburg-Essen, and Bonn and also worked as a researcher at the Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS) and at Microsoft Research in Cambridge. In his research, he investigates the inherent complexity of human-computer interaction in ubiquitous computing environments, particularly in view of increasing computer intelligence and system autonomy. Albrecht has actively contributed to the scientific discourse in human-computer interaction through the development, deployment, and study of functional prototypes of interactive systems and interface technologies in different real world domains. His early experimental work addressed the use of diverse sensors to recognize situations and interactions, influencing our understanding of context-awareness and situated computing. He proposed the concept of implicit human-computer interaction. Over the years, he worked on automotive user interfaces, tangible interaction, interactive public display systems, interaction with large high-resolution screens, and physiological interfaces. Most recently, he focuses on how information technology can provide cognitive and perceptual support to amplify the human mind. To investigate this further, he received in 2016 a ERC grant. Albrecht has co-chaired several SIGCHI conferences; he is in the editorial board of ACM TOCHI, edits a forum in ACM interactions, a column of human augmentation in IEEE Pervasive, and formerly edited a column on interaction technologies in IEEE Computer. The ACM conferences on tangible and embedded interaction in 2007 and on automotive user interfaces in 2010 were co-founded by him. In 2018, Albrecht was induced into the ACM SIGCH Academy and in 2020, he was elected into Leopoldina, the Germany academy of natural science.  
+   
+ Closing Keynote  
+  Ethical design for wellbeing and affective health   
+ Corina Sas   , School of Computing and Communications at Lancaster University, UK  
+  https://www.lancaster.ac.uk/scc/about-us/people/corina-sas   
+ Summary:  Emotional wellbeing and mental health are topics of much social significance, which are also reflected in the growing HCI work aimed to support them. Research in this area covers a broad space from affective computing to affective interaction approach, and the ethical design of wellbeing and mental health technologies has become much needed. This talk will provide design exemplars of technologies for wellbeing and mental health, with an emphasis on the importance of supporting emotional awareness and regulation. The talk will also highlight the value of existing research for articulating novel design implications for ethical wellbeing and mental health technologies.  
+ Corina Sas  is Professor in Human-Computer Interaction with the School of Computing and Communications at Lancaster University, UK. Her research focuses on designing and evaluating technologies for wellbeing, mental health, memory support, creative and reflective thinking in design, as well as novel tools for designing such technologies. Her work explores and integrates wearable bio sensors, mobile and lifelogging technologies with the aim to shape the interaction design and user experience.  
+  Corina served as General co-Chair of the 14th and 15th ACM Creativity and Cognition Conference 2021, 2022, and of the British HCI Conference in 2007. She has also extensively served as Associate Chair for CHI and DIS, and has been Subcommittee Co-Chair for DIS. She published over 200 papers, and her work received extensive media coverage as well as 5 Best Paper and Honourable Mention Awards. She has been investigator on grants totalling over £15 million and is part of the Editorial Boards of the ACM Transactions in Human-Computer Interaction, and Taylor & Francis Human Computer Interaction journals.  
+   
+ Workshops at EICS 2023  
+ The following workshops are co-located with EICS 2023 and occur on Tuesday, June 27th 2023:  
+ Disab2023 – Engineering Interactive Computing Systems for People with Disabilities | more info... | Organisers: Engineering Interactive Computing Systems for People with Disabilities (Disab2023) 
+  Engineering Interactive Systems Embedding AI Technologies (EIS-embedding-AI) | more info... | Organisers: Alan J, Dix, Sven Mayer, Philippe Palanque, Emanuele Panizzi, Davide Spano 
+  *** CANCELLED *** | ViBRANT – Workshop on Video-Based Respectful Assistive Novel Technologies   
+  Organisers: Irene Ballester, Caterina Maidhof, Wiktor Mucha 
+
+ Submissions and topics  
+ Submissions can be done through http://new.precisionconference.com   
+ More information about the new PACM-HCI (EICS series) review and publication process can be found at http://eics.acm.org/pacm  .  
+ Topics  
+ EICS focuses on models, languages, notations, methods, techniques and tools that support designing, developing, validating and verifying interactive systems. The conference brings together people who study or practice the engineering of interactive systems, drawing from design, HCI, software engineering, requirements engineering, software development, modeling, and programming. Submissions advance the state of the art of the engineering of interactive systems.  
+ Topics include but are not limited to:   
+ Modeling, specification and analysis of interaction and interactive systems 
+  Model-based development of interactive software 
+  Requirements engineering for interactive systems 
+  Methods, processes, principles and/or tools for building interactive systems (e.g., design, implementation, prototyping, evaluation, verification and validation, testing) 
+  Software architectures for interactive systems 
+  Formal methods within interactive systems engineering 
+  Certification issues of methods, tools, and processes to create interactive systems 
+  Frameworks, toolkits, domain-specific languages and APIs for interactive systems 
+  Languages and notations for describing user interfaces and interactions 
+  Integrating engineering issues in the design process of interactive systems 
+  Engineering design tools 
+  Engineering evaluation tools 
+  Supporting design in interactive development processes 
+  Computational-Interaction Systems and Techniques 
+  Interactive data-driven systems 
+  Engineering interactive applications with emerging technologies (e.g., adaptive, context-aware, tangible, haptic, touch and multitouch input, voice, gestures, EEG, multimodal input, mobile and wearable systems, AI, (augmented, mixed, virtual) realities...) 
+  Engineering hardware/software integration in interactive systems (e.g., fabrication and maker processes, physical computing, cyber-physical systems…) 
+  Engineering interactive systems for various user categories (e.g., children, elderly, people with disabilities,…) 
+  Engineering interactive systems for various application domains (e.g., health, home, entertainment, desktop, avionics, space, nuclear, civil protection, law enforcement, emergency services and calamity management...) 
+  Engineering interactive systems for specific properties (user experience, usability, safety, security, dependability, …) 
+  Engineering smart interactive systems (e.g. recommending, adaptive, intelligent) 
+  Building Human-centred AI systems (integrating explainable AI, intelligible design, human-in-the-loop, adaptive and context-aware, interactive agents…) 
+  Gary Marsden Travel Awards (GMTA)   
+ In recognition of Gary Marsden’s contributions and inspiration, SIGCHI established the Gary Marsden Travel Awards (GMTA) to support its members in attending ACM SIGCHI conferences. Eligible members can be undergraduate and graduate students, early-career researchers (such as those who are ≤ 5 years post-graduation), and those suffering from financial hardship or lacking institutional support.  
+ Please see our call for applications  on Submittable for specific criteria, details of the award, review timelines, and for applying.  
+ Deadlines are on the 9th of January, February, March, May, July, September, and November at 11:59 PM AoE.  The new deadline will be noted on the application website if we offer extensions.  
+ You must apply by a deadline more than one month before the start of the conference that you plan to attend (we recommend applying as soon as you have your conference acceptance). For transparency, award recipients will be announced periodically on the SIGCHI website.   
+ Please email sigchi-4all@acm.org  with any questions about the GMTA or fixes/feedback for the application form.  
+
+ Submission Information  
+ The reviewing process for full papers follows the Proceedings of the ACM (PACM) model. The submission and review process will take place three times annually, and accepted papers will be published in issues of the PACM on Human-Computer Interaction journal  . More can be found at http://eics.acm.org/pacm  .  
+   
+ Full Papers should be written in the ACM format, see: ACM  .  
+ The PACM-EICS submission deadline for the Second round of submissions is 24th October 2022. Papers are submitted using https://new.precisionconference.com   
+   
+ Important dates  
+ Note: submission to earlier deadlines allows time for revision cycles before the conference.  
+ EICS PACM 2023 Round 1  
+ 22/07/2022 - Submission deadline  
+   
+ EICS PACM 2023 Round 2  
+ 24/10/2022 - Submission deadline  
+   
+ EICS PACM 2023 Round 3 (WITH EXTENSION)  
+ 17/02/2023 - Submission deadline  
+ 24/02/2023 - Submission deadline  
+ 28/02/2023 - Editorial Board assignments  
+ 05/03/2023 - Reviewer assignments  
+ 23/03/2023 - Reviews  
+ 27/03/2023 - Meta-reviews  
+ 29/03/2023 - Notification of reviews to authors  
+ 03/04/2023 - Deadline for rebuttal  
+ 10/04/2023 - Final meta-review  
+ 12/04/2023 - PC meeting  
+ 14/04/2023 - Final notification  
+ TBD/05/2023 - Camera-ready  
+   
+ Full papers chairs  
+ Kris Luyten, kris.luyten@uhasselt.be   
+ Carmen Santoro, carmen.santoro@isti.cnr.it   
+   
+ Sponsors

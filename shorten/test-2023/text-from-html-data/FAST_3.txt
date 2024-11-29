@@ -1,0 +1,84 @@
+  Participate | Call for Papers 
+  Double-Blind Guidance 
+  Author Response Advice 
+    Call for Posters and WiPs 
+  Instructions for Presenters 
+  Questions 
+ FAST '23 Technical Sessions  
+ All sessions will be held in Santa Clara Ballroom unless otherwise noted.   
+ Papers are available for download below to registered attendees now and to everyone beginning Tuesday, February 21. Paper abstracts are available to everyone now. Copyright to the individual works is retained by the author[s].  
+ Proceedings Front Matter  
+ Proceedings Cover  | Title Page and List of Organizers  | Message from the Program Co-Chairs  | Table of Contents   
+ Papers and Proceedings  
+ The full Proceedings published by USENIX for the conference are available for download below. Individual papers can also be downloaded from their respective presentation pages. Copyright to the individual works is retained by the author[s].  
+ Full Proceedings PDF Files   
+  FAST '23 Full Proceedings (PDF)     
+  FAST '23 Full Proceedings Interior (PDF, Best for Mobile Devices)     
+ Attendee Files   
+ (Registered attendees: Sign in  to your USENIX account to download these files.)  
+  FAST '23 Attendee List (PDF)    
+  FAST '23 Proceedings Web Archive (ZIP)    
+ View mode:  condensed 
+  Expanded 
+ Tuesday, February 21, 2023   
+ Continental Breakfast  
+ Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems   
+ Ruiming Lu, Shanghai Jiao Tong University;  Erci Xu, Alibaba Inc. and Shanghai Jiao Tong University;  Yiming Zhang, Xiamen University;  Fengyi Zhu, Zhaosheng Zhu, Mengtian Wang, and Zongpeng Zhu, Alibaba Inc.;  Guangtao Xue, Shanghai Jiao Tong University;  Jiwu Shu, Xiamen University;  Minglu Li, Shanghai Jiao Tong University and Zhejiang Normal University;  Jiesheng Wu, Alibaba Inc.   
+ Awarded Best Paper!    
+ Deployed-Systems Paper   
+ Available Media   
+ Available Media   
+ Distributed in-memory key-value (KV) stores are embracing the disaggregated memory (DM) architecture for higher resource utilization. However, existing KV stores on DM employ a \emph{semi-disaggregated} design that stores KV pairs on DM but manages metadata with monolithic metadata servers, hence still suffering from low resource efficiency on metadata servers. To address this issue, this paper proposes FUSEE, a FUlly memory-diSaggrEgated KV StorE that brings disaggregation to metadata management. FUSEE replicates metadata, i.e., the index and memory management information, on memory nodes, manages them directly on the client side, and handles complex failures under the DM architecture. To scalably replicate the index on clients, FUSEE proposes a client-centric replication protocol that allows clients to concurrently access and modify the replicated index. To efficiently manage disaggregated memory, FUSEE adopts a two-level memory management scheme that splits the memory management duty among clients and memory nodes. Finally, to handle the metadata corruption under client failures, FUSEE leverages an embedded operation log scheme to repair metadata with low log maintenance overhead. We evaluate FUSEE with both micro and YCSB hybrid benchmarks. The experimental results show that FUSEE outperforms the state-of-the-art KV stores on DM by up to 4.5 times with less resource consumption.  
+ ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems   
+ Pengfei Li, Yu Hua, Pengfei Zuo, Zhangyu Chen, and Jiajie Sheng, Huazhong University of Science and Technology   
+ Awarded Best Paper!    
+ Available Media   
+ Disaggregated memory systems separate monolithic servers into different components, including compute and memory nodes, to enjoy the benefits of high resource utilization, flexible hardware scalability, and efficient data sharing. By exploiting the high-performance RDMA (Remote Direct Memory Access), the compute nodes directly access the remote memory pool without involving remote CPUs. Hence, the ordered key-value (KV) stores (e.g., B-trees and learned indexes) keep all data sorted to provide rang query service via the high-performance network. However, existing ordered KVs fail to work well on the disaggregated memory systems, due to either consuming multiple network roundtrips to search the remote data or heavily relying on the memory nodes equipped with insufficient computing resources to process data modifications. In this paper, we propose a scalable RDMA-oriented KV store with learned indexes, called ROLEX, to coalesce the ordered KV store in the disaggregated systems for efficient data storage and retrieval. ROLEX leverages a retraining-decoupled learned index scheme to dissociate the model retraining from data modification operations via adding a bias and some data-movement constraints to learned models. Based on the operation decoupling, data modifications are directly executed in compute nodes via one-sided RDMA verbs with high scalability. The model retraining is hence removed from the critical path of data modification and asynchronously executed in memory nodes by using dedicated computing resources. Our experimental results on YCSB and real-world workloads demonstrate that ROLEX achieves competitive performance on the static workloads, as well as significantly improving the performance on dynamic workloads by up to 2.2 times than state-of-the-art schemes on the disaggregated memory systems. We have released the open-source codes for public use in GitHub.  
+ FAST '23 Poster Session and Reception  
+ Mezzanine East/West  
+ Check out the cool new ideas and the latest preliminary research on display at the Poster Session and Reception. Take part in discussions with your colleagues over complimentary food and drinks. View the complete list of accepted posters  .  
+ Wednesday, February 22, 2023   
+ Continental Breakfast  
+ In this paper, we make a first effort to investigate how and where the lack of any uniform approach to handling name collisions leads to a diffusion of responsibility and resultant vulnerabilities. Interestingly, we demonstrate the existence of a range of novel security challenges arising from name collisions and their inconsistent handling by low-level utilities and applications. Specifically, our experiments show that utilities handle many name collision scenarios unsafely, leaving the responsibility to applications whose developers are unfortunately not yet aware of the threats. We examine three case studies as a first step towards systematically understanding the emerging type of name collision vulnerability.  
+ ConfD: Analyzing Configuration Dependencies of File Systems for Fun and Profit   
+ Xiaobin He, National Supercomputing Center in Wuxi;  Bin Yang, Tsinghua University, Dept. of C.S; National Supercomputer Center in Wuxi;  Jie Gao and Wei Xiao, National Supercomputing Center in Wuxi;  Qi Chen, Tsinghua University, Dept. of C.S;  Shupeng Shi and Dexun Chen, National Supercomputing Center in Wuxi;  Weiguo Liu, Shandong University;  Wei Xue, Tsinghua University, Dept. of C.S; Tsinghua University, BNRist.; National Supercomputer Center in Wuxi;  Zuo-ning Chen, Chinese Academy of Engineering   
+ Deployed-Systems Paper   
+ Available Media   
+ Available Media   
+ Byte-addressable Non-Volatile Memory (NVM) allows programs to directly access storage using memory interface without going through the expensive conventional storage stack. However, direct access to NVM makes the NVM data vulnerable to software memory bugs (memory safety) and hardware errors (fault tolerance). This issue is critical because, unlike DRAM, corrupted data can persist forever, even after the system restart. Albeit the plethora of research on NVM programs and systems, there is little attention protecting NVM data from software bugs and hardware errors. In this paper, we propose TENET, a new NVM programming framework, which guarantees memory safety and fault-tolerance to protect NVM data against software bugs and hardware errors. TENET provides the most popular Persistent Transactional Memory (PTM) programming model. TENET leverages the concurrency and commit-time guarantees of a PTM to provide performant and cost-efficient memory safety and fault tolerance. Our evaluations shows that TENET offers the protection for NVM data at a modest performance overhead and storage cost, as compared to other PTMs with partial or no memory safety and fault-tolerance support.  
+ MadFS: Per-File Virtualization for Userspace Persistent Memory Filesystems   
+ Available Media   
+ In this work, we design and implement a Stackable Persistent memory File System (SPFS), which serves NVMM as a persistent writeback cache to NVMM-oblivious filesystems. SPFS can be stacked on a disk-optimized file system to improve I/O performance by absorbing frequent order-preserving small synchronous writes in NVMM while also exploiting the VFS cache of the underlying disk-optimized file system for non-synchronous writes. A stackable file system must be lightweight in that it manages only NVMM and not the disk or VFS cache. Therefore, SPFS manages all file system metadata including extents using simple but highly efficient dynamic hash tables. To manage extents using hash tables, we design a novel Extent Hashing algorithm that exhibits fast insertion as well as fast scan performance. Our performance study shows that SPFS effectively improves I/O performance of the lower file system by up to 9.9×.  
+ Available Media   
+ RDMA-enabled remote memory (RM) systems are gaining popularity with improved memory utilization and elasticity. However, since it is commonly believed that fine-grained RDMA permission management is impractical, existing RM systems forgo memory protection, an indispensable property in a real-world deployment. In this paper, we propose PATRONUS, an RM system that can simultaneously offer protection and high performance. PATRONUS introduces a fast permission management mechanism by exploiting advanced RDMA hardware features with a set of elaborate software techniques. Moreover, to retain the high performance under exception scenarios (e.g., client failures, illegal access), PATRONUS attaches microsecond-scaled leases to permission and reserves spare RDMA resources for fast recovery. We evaluate PATRONUS over two one-sided data structures and two function-as-a-service (FaaS) applications. The experiment shows that the protection only brings 2.4% to 27.7% overhead among all the workloads, and our system performs at most ×5.2 than the best competitor.  
+ More Than Capacity: Performance-oriented Evolution of Pangu in Alibaba   
+ Qiang Li, Alibaba Group;  Qiao Xiang, Xiamen University;  Yuxin Wang, Haohao Song, and Ridi Wen, Xiamen University and Alibaba Group;  Wenhui Yao, Yuanyuan Dong, Shuqi Zhao, Shuo Huang, Zhaosheng Zhu, Huayong Wang, Shanyang Liu, Lulu Chen, Zhiwu Wu, Haonan Qiu, Derui Liu, Gexiao Tian, Chao Han, Shaozong Liu, Yaohui Wu, Zicheng Luo, Yuchao Shao, Junping Wu, Zheng Cao, Zhongjie Wu, Jiaji Zhu, and Jinbo Wu, Alibaba Group;  Jiwu Shu, Xiamen University;  Jiesheng Wu, Alibaba Group   
+ Deployed-Systems Paper   
+ Available Media   
+ FAST '23 Test of Time Award Presentation  
+ A Study of Practical Deduplication   
+  Dutch T. Meyer and William J. Bolosky  
+ Mezzanine East/West  
+ Thursday, February 23, 2023   
+ Continental Breakfast  
+ Available Media   
+ The emerging computational storage device offers an opportunity for in-storage computing. It alleviates the overhead of data movement between the host and the device, and thus accelerates data-intensive applications. In this paper, we present λ-IO, a unified IO stack managing both computation and storage resources across the host and the device. We propose a set of designs – interface, runtime, and scheduling – to tackle three critical issues. We implement λ-IO in full-stack software and hardware environment, and evaluate it with synthetic and real applications against Linux IO, showing up to 5.12× performance improvement.  
+ Revitalizing the Forgotten On-Chip DMA to Expedite Data Movement in NVM-based Storage Systems   
+ There have been drastic changes in the storage device landscape recently. At the center of the diverse storage landscape lies the NVMe interface, which allows high-performance and flexible communication models required by these next-generation device types. However, its hardware-oriented definition and specification are bottlenecking the development and evaluation cycle for new revolutionary storage devices.  
+ In this paper, we present NVMeVirt, a novel approach to facilitate software-defined NVMe devices. A user can define any NVMe device type with custom features, and NVMeVirt allows it to bridge the gap between the host I/O stack and the virtual NVMe device in software. We demonstrate the advantages and features of NVMeVirt by realizing various storage types and configurations, such as conventional SSDs, low-latency high-bandwidth NVM SSDs, zoned namespace SSDs, and key-value SSDs with the support of PCI peer-to-peer DMA and NVMe-oF target offloading. We also make cases for storage research with NVMeVirt, such as studying the performance characteristics of database engines and extending the NVMe specification for the improved key-value SSD performance.  
+ SMRSTORE: A Storage Engine for Cloud Object Storage on HM-SMR Drives   
+ Su Zhou, Erci Xu, Hao Wu, Yu Du, Jiacheng Cui, Wanyu Fu, Chang Liu, Yingni Wang, Wenbo Wang, Shouqu Sun, Xianfei Wang, Bo Feng, Biyun Zhu, Xin Tong, Weikang Kong, Linyan Liu, Zhongjie Wu, Jinbo Wu, Qingchao Luo, and Jiesheng Wu, Alibaba Group   
+ Deployed-Systems Paper   
+ Available Media   
+ Cloud object storage vendors are always in pursuit of better cost efficiency. Emerging Shingled Magnetic Recording (SMR) drives are becoming economically favorable in archival storage systems due to significantly improved areal density. However, for standard-class object storage, previous studies and our preliminary exploration revealed that the existing SMR drive solutions can experience severe throughput variations due to garbage collection (GC).  
+ In this paper, we introduce SMRSTORE, an SMR-based storage engine for standard-class object storage without compromising performance or durability. The key features of SMRSTORE include directly implementing chunk store interfaces over SMR drives, using a complete log-structured design, and applying guided data placement to reduce GC for consistent performance. The evaluation shows that SMRSTORE delivers comparable performance as Ext4 on the Conventional Magnetic Recording (CMR) drives, and can be up to 2.16x faster than F2FS on SMR drives. By switching to SMR drives, we have decreased the total cost by up to 15% and provided performance on par with the prior system for customers. Currently, we have deployed SMRSTORE in standard-class Alibaba Cloud Object Storage Service (OSS) to store hundreds of PBs of data. We plan to use SMR drives for all classes of OSS in the near future.  
+ Fast Application Launch on Personal Computing/Communication Devices   
+ Junhee Ryu, SK hynix;  Dongeun Lee, Texas A&M University - Commerce;  Kang G. Shin, University of Michigan;  Kyungtae Kang, Hanyang University   
+ Available Media   
+ We present Paralfetch, a novel prefetcher to speed up app launches on personal computing/communication devices by: 1) accurate collection of launch-related disk read requests, 2) pre-scheduling of these requests to improve I/O throughput during prefetching, and 3) overlapping app execution with disk prefetching for hiding disk access time from the app execution. We have implemented Paralfetch under Linux kernels on a desktop/laptop PC, a Raspberry Pi 3 board, and an Android smartphone. Tests with popular apps show that Paralfetch significantly reduces app launch times on flash-based drives, and outperforms GSoC Prefetch and FAST, which are representative app prefetchers available for Linux-based systems.  
+ Integrated Host-SSD Mapping Table Management for Improving User Experience of Smartphones   
+  Participate | Call for Papers 
+  Double-Blind Guidance 
+  Author Response Advice 
+  Call for Posters and WiPs 
+  Instructions for Presenters 

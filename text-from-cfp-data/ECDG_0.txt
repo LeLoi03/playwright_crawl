@@ -1,0 +1,462 @@
+<div data-off-canvas-main-canvas="">
+    <div data-joinup-group-context="723229" class="layout-container">
+  <div class="bcl-header bcl-header--ec">
+  <nav class="w-100 shadow-sm navbar navbar-expand-lg navbar-light" aria-label="Top Navigation">
+    <div class="container">
+      <a class="navbar-brand" href="https://ec.europa.eu/info/index_en" aria-label="Visit European Commission website">
+        <img src="/themes/ventuno/assets/images/logo-ec--en.svg" alt="European Commission logo" width="100" height="25">
+      </a>
+    </div>
+  </nav>
+</div>
+    
+<header class="joinup-navbar navbar navbar-expand navbar--sticky"><div class="container"><div class="d-flex"><a class="navbar-brand" href="/" title="Interoperable Europe Portal"><img class="navbar-brand-image" src="/themes/ventuno/assets/images/logo-interoperable-europe.svg" alt="Interoperable Europe logo"></a></div><nav id="main-navbar"><ul class="navbar-nav" id="main-navbar-list"><li class="nav-item d-none d-xl-inline-block dropdown"><a href="/interoperable-europe" aria-expanded="false" id="49950 Policy menu_link_content:3a82854a-9339-493f-8a29-d218ec691578" role="button" class="nav-link nav-link--underline dropdown-toggle" data-drupal-link-system-path="node/723208">Policy</a><ul class="dropdown-menu dropdown-menu--sub" aria-labelledby="49950 Policy menu_link_content:3a82854a-9339-493f-8a29-d218ec691578"><li><a href="https://joinup.ec.europa.eu/interoperable-europe/latest-news" class="dropdown-item">News</a></li><li><a href="https://joinup.ec.europa.eu/interoperable-europe/events" class="dropdown-item">Events</a></li><li><a href="https://joinup.ec.europa.eu/interoperable-europe/interoperable-europe-act" class="dropdown-item">Act</a></li><li><a href="https://joinup.ec.europa.eu/interoperable-europe/faqs" class="dropdown-item">FAQs</a></li></ul></li><li class="nav-item d-none d-xl-inline-block dropdown"><a href="/interoperable_solutions" aria-expanded="false" id="49951 Solutions menu_link_content:a347873b-c823-474c-952f-91b927397a85" role="button" class="nav-link nav-link--underline dropdown-toggle" data-drupal-link-system-path="node/707332">Solutions</a><ul class="dropdown-menu dropdown-menu--sub" aria-labelledby="49951 Solutions menu_link_content:a347873b-c823-474c-952f-91b927397a85"><li><a href="/software-solutions" class="dropdown-item" data-drupal-link-system-path="node/707570">Software</a></li><li><a href="/other_solutions" class="dropdown-item" data-drupal-link-system-path="node/707671">Other</a></li></ul></li><li class="nav-item d-none d-xl-inline-block dropdown"><a href="/interoperable-europe-support-centre" aria-expanded="false" id="49952 Support Centre menu_link_content:384488ef-3150-421c-8234-c94aea24323a" role="button" class="nav-link nav-link--underline dropdown-toggle" data-drupal-link-system-path="node/707239">Support Centre</a><ul class="dropdown-menu dropdown-menu--sub" aria-labelledby="49952 Support Centre menu_link_content:384488ef-3150-421c-8234-c94aea24323a"><li><a href="/discussions" class="dropdown-item" data-drupal-link-system-path="discussions">Forum</a></li><li><a href="https://joinup.ec.europa.eu/collection/joinup/country-knowledge" class="dropdown-item">EU Country knowledge</a></li></ul></li><li class="nav-item d-none d-xl-inline-block dropdown"><a href="/eu-digital-funding-opportunities" aria-expanded="false" id="49954 Governance menu_link_content:6d93a9e7-9c03-48f1-a608-e89ffd8d9dce" role="button" class="nav-link nav-link--underline dropdown-toggle" data-drupal-link-system-path="node/707954">Governance</a><ul class="dropdown-menu dropdown-menu--sub" aria-labelledby="49954 Governance menu_link_content:6d93a9e7-9c03-48f1-a608-e89ffd8d9dce"><li><a href="/eu-digital-funding-opportunities" class="dropdown-item" data-drupal-link-system-path="node/707954">EU Digital Funding Opportunities</a></li></ul></li><li class="nav-item d-none d-xl-inline-block"><a href="https://interoperable-europe.ec.europa.eu/collection/interoperable-europe-academy/welcome" class="nav-link nav-link--underline">Academy</a></li><li class="nav-item d-none d-xl-inline-block"><a href="/caslogin?destination=/collection/egovernment/event/24th-annual-international-conference-digital-government-research" class="nav-link nav-link--underline">Sign in</a></li><li class="nav-item d-none d-xl-inline-block"><button id="get-started" class="btn btn-light get-started__trigger" data-bs-toggle="dropdown" aria-expanded="false" type="button" data-bs-auto-close="outside">
+                      Get started
+                    </button><div class="dropdown-menu get-started__menu" aria-labelledby="get-started" data-popper-placement="right"><a class="get-started__cta" href="/caslogin?destination=/collection/egovernment/event/24th-annual-international-conference-digital-government-research" tabindex="&quot;0&quot;">
+                        Create an account
+                        <svg class="bi icon--s ms-2"><use xlink:href="/themes/ventuno/assets/icons/icons.svg#arrow-right"></use></svg></a><p class="get-started__description">As a signed-in user you can create content, become a member of a community, receive notifications on your favourite solutions and topics, and access all other features available on the platform.</p></div></li><li class="nav-item dropdown d-xl-none mmenu-nav"><button id="navbar-toggler" class="nav-link mmenu-nav__toggle" type="button" aria-label="Toggle menu"><span class="visually-hidden">Toggle menu</span><svg class="bi icon--s"><use xlink:href="/themes/ventuno/assets/icons/icons.svg#justify"></use></svg></button><div class="mmenu-nav__menu p-0 d-none" aria-labelledby="navbar-toggler"><ul><li><a href="/">
+                          Home
+                        </a></li><li><a href="/interoperable-europe">
+                          Policy
+                        </a><ul><li><a href="https://joinup.ec.europa.eu/interoperable-europe/latest-news">
+                                  News
+                                </a></li><li><a href="https://joinup.ec.europa.eu/interoperable-europe/events">
+                                  Events
+                                </a></li><li><a href="https://joinup.ec.europa.eu/interoperable-europe/interoperable-europe-act">
+                                  Act
+                                </a></li><li><a href="https://joinup.ec.europa.eu/interoperable-europe/faqs">
+                                  FAQs
+                                </a></li></ul></li><li><a href="/interoperable_solutions">
+                          Solutions
+                        </a><ul><li><a href="/software-solutions">
+                                  Software
+                                </a></li><li><a href="/other_solutions">
+                                  Other
+                                </a></li></ul></li><li><a href="/interoperable-europe-support-centre">
+                          Support Centre
+                        </a><ul><li><a href="/discussions">
+                                  Forum
+                                </a></li><li><a href="https://joinup.ec.europa.eu/collection/joinup/country-knowledge">
+                                  EU Country knowledge
+                                </a></li></ul></li><li><a href="/eu-digital-funding-opportunities">
+                          Governance
+                        </a><ul><li><a href="/eu-digital-funding-opportunities">
+                                  EU Digital Funding Opportunities
+                                </a></li></ul></li><li><a href="https://interoperable-europe.ec.europa.eu/collection/interoperable-europe-academy/welcome">
+                          Academy
+                        </a></li><li><a href="/caslogin?destination=/collection/egovernment/event/24th-annual-international-conference-digital-government-research">
+                          Sign in
+                        </a></li><li><a href="/collection/portal">
+                          About us
+                        </a></li></ul></div></li><li class="nav-item d-inline-block order-1"><a href="/modal/anonymous/bookmarks?destination=/user/bookmarks" title="Bookmarks" class="use-ajax nav-link nav-link--underline" data-dialog-type="modal" data-dialog-options="{&quot;width&quot;:&quot;auto&quot;,&quot;height&quot;:&quot;auto&quot;}"><svg class="bi icon--s"><use xlink:href="/themes/ventuno/assets/icons/icons.svg#bookmark"></use></svg></a></li><li class="order-1 dropdown-search nav-item dropdown"><button id="search-box-dropdown" class="dropdown-toggle nav-link" data-bs-toggle="dropdown" aria-expanded="false" type="button" data-bs-auto-close="outside" aria-label="Toggle search box"><span class="visually-hidden">Toggle search box</span><svg class="bi icon--s"><use xlink:href="/themes/ventuno/assets/icons/icons.svg#search"></use></svg></button><div id="dropdown-menu--search" class="dropdown-menu p-0" aria-labelledby="search-box-dropdown" data-popper-placement="right"><div class="navbar-search p-2"><div class="views-exposed-form views-auto-submit-full-form block block-views block-views-exposed-filter-blocksearch-page-1" novalidate="novalidate" data-drupal-selector="views-exposed-form-search-page-1" id="block-exposedformsearchpage-header"><form data-joinup-block-id="exposedformsearchpage_header" action="/search" method="get" id="views-exposed-form-search-page-1" accept-charset="UTF-8"><span class="search-badge" data-joinup-description="eGovernment"><span class="search-badge__text">eGovernment</span><span class="icon--close" aria-hidden="true"></span></span><label for="search-box" class="h4 visually-hidden form-label">Search</label><div class="input-group js-form-item form-item js-form-type-textfield form-item-keys js-form-item-keys form-no-label mb-3"><input placeholder="Start typing to search…" data-drupal-selector="search-box" data-search-api-autocomplete-search="search" class="form-autocomplete search-bar__input form-control" data-autocomplete-path="/search_api_autocomplete/search?display=page_1&amp;&amp;filter=keys" type="text" id="search-box" name="keys" value="" size="30" maxlength="128"><button type="submit" class="btn btn-search" aria-label="Trigger search sitewide"></button></div><input class="search_bar_badge form-control" data-joinup-description="eGovernment" data-drupal-selector="edit-filters" type="hidden" name="f[]" value="group:723229"><div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input class="views-use-ajax views-auto-submit-click js-hide button js-form-submit form-submit btn-primary btn" data-drupal-selector="edit-submit-search" type="submit" id="edit-submit-search" value="Search site-wide"></div></form></div></div></div></li></ul></nav></div></header>
+
+
+            <div class="region-header">
+        <div class="region-header__inner">
+            <div id="block-ventuno-groupheader" class="block block-joinup block-group-header-block">
+  
+    
+      
+
+<header class="group-banner bg-light pt-2 py-lg-2">
+  <div class="container py-0 py-md-2 d-flex flex-column flex-lg-row align-items-center align-items-lg-start">
+    <div data-drupal-group-logo="" class="group-banner__logo me-lg-2">
+          <img loading="eager" src="/sites/default/files/styles/logo/public/collection/logo/2023-06/eGovernment-TEST.png?itok=SG8IPPcv" width="100" height="100" alt="" class="img-fluid">
+
+
+
+
+    </div>
+    <div class="w-100 d-flex flex-column flex-lg-row flex-wrap">
+      <div class="group-banner__title text-center text-lg-start">
+        
+                  <h1>
+                <a class="h1 fw-bold mb-0" href="/collection/egovernment">
+          
+<span>eGovernment</span>
+
+        </a>
+                  </h1>
+                
+      </div>
+              <div class="group-banner__actions order-1 order-lg-0 d-flex justify-content-center align-items-start my-2 my-lg-0">
+          <div id="join_group_form_ajax_wrapper"><form class="join-group-form antibot" data-drupal-selector="join-group-form" novalidate="novalidate" data-action="/collection/egovernment/event/24th-annual-international-conference-digital-government-research" action="/antibot" method="post" id="join-group-form" accept-charset="UTF-8">
+  <noscript>
+  <div class="antibot-no-js antibot-message antibot-message-warning">You must have JavaScript enabled to use this form.</div>
+</noscript>
+<a href="/collection/egovernment/authenticate-to-join" class="use-ajax btn btn-brand" data-dialog-type="modal" data-dialog-options="{&quot;width&quot;:&quot;auto&quot;}" data-drupal-selector="edit-authenticate" id="edit-authenticate">Join this collection</a>
+<input class="visually-hidden button js-form-submit form-submit btn-primary btn" data-drupal-selector="edit-rebuild" formnovalidate="formnovalidate" type="submit" id="edit-rebuild" name="join_collection_rebuild" value="Rebuild">
+  
+<input data-drupal-selector="form-b6ovnuysmmnopgjrzi8qqtsiaxpgr0t4rbjtoxpogjw" type="hidden" name="form_build_id" value="form-b6oVnuySMMnOpgjrzi8QqtSIAxPgr0T4rBJTOxpogJw" class="form-control">
+  
+<input data-drupal-selector="edit-join-group-form" type="hidden" name="form_id" value="join_group_form" class="form-control">
+  
+<input data-drupal-selector="edit-antibot-key" type="hidden" name="antibot_key" value="" class="form-control">
+
+</form>
+</div>
+        </div>
+                    <ul class="group-banner__meta mw-100 align-self-end list-unstyled d-flex flex-wrap mt-2 mb-0 group-stats fs-6">
+          <li class="group-banner__li text-muted">
+            <svg class="bi icon--xs me-1">
+              <use xlink:href="/themes/ventuno/assets/icons/icons.svg#clipboard2-check"></use>
+            </svg>
+            40 Solutions
+          </li>
+          <li class="group-banner__li text-muted">
+            <a href="/collection/egovernment/members">
+              <svg class="bi icon--xs me-1">
+                <use xlink:href="/themes/ventuno/assets/icons/icons.svg#people"></use>
+              </svg>
+              <span>
+  357 members</span>
+
+            </a>
+          </li>
+          <li class="group-banner__li group-banner__li--topics text-muted d-flex align-items-baseline w-100 mw-100">Topics: <div class="d-flex topics-wrapper pe-4 flex-lg-wrap">
+      <a href="/search?f%5B0%5D=topic%3A11211" class="badge bg-secondary rounded-pill" hreflang="en">eGovernment</a>
+  </div>
+</li>
+        </ul>
+          </div>
+  </div>
+</header>
+
+  </div>
+<div id="block-ventuno-navigation" class="block block-joinup-group block-group-menu-blocknavigation">
+  
+    
+      
+
+    
+<div class="menu--og--navigation bg-light">
+  <div class="container">
+    <nav>
+      <ul class="nav"><li class="nav-item"><a href="/collection/egovernment" class="nav-link" title="Overview" data-drupal-link-system-path="node/723229">Overview</a></li><li class="nav-item"><a href="/collection/egovernment/epractice" class="nav-link" title="ePractice" data-drupal-link-system-path="node/700002">ePractice</a></li></ul>
+    </nav>
+  </div>
+</div>
+
+  </div>
+
+
+        </div>
+      </div>
+      
+  <div class="content container">
+                  <div class="region-featured">
+            
+
+        </div>
+          
+                  <div>
+            <div id="block-ventuno-site-wide-alerts" class="block block-sitewide-alert-block">
+  
+    
+      <div data-sitewide-alert=""></div>
+  </div>
+<div data-drupal-messages-fallback="" class="hidden"></div>
+
+
+        </div>
+          
+                  <div class="region-content-top float-lg-end position-relative d-flex col-gap-2 mt-3 ms-lg-3">
+            <div id="block-ventuno-bookmark" class="block block-joinup-flag block-joinup-flag-block">
+  
+    
+      
+
+<a href="/modal/anonymous/bookmark?destination=/collection/egovernment/event/24th-annual-international-conference-digital-government-research" data-dialog-type="modal" data-dialog-options="{&quot;width&quot;:&quot;auto&quot;,&quot;height&quot;:&quot;auto&quot;}" title="Add this page to bookmarks" class="use-ajax flag flag-bookmark btn btn-secondary">
+  <svg class="bi icon--s"><use xlink:href="/themes/ventuno/assets/icons/icons.svg#bookmark"></use></svg>
+  Bookmark
+</a>
+
+  </div>
+<div id="block-ventuno-like" class="zi-2 block block-joinup-flag block-joinup-flag-block">
+  
+    
+      
+<a class="flag flag-like use-ajax btn btn-secondary" href="/modal/anonymous/like?destination=/collection/egovernment/event/24th-annual-international-conference-digital-government-research" data-dialog-type="modal" data-dialog-options="{&quot;width&quot;:&quot;auto&quot;,&quot;height&quot;:&quot;auto&quot;}"><svg class="bi icon--fluid mb-1"><use xlink:href="/themes/ventuno/assets/icons/icons.svg#hand-thumbs-up"></use></svg>
+    Like (0)
+  </a>
+  </div>
+<div id="block-ventuno-webtools-etrans" class="block-oe-webtools-etrans--ventuno block block-oe-webtools-etrans">
+  
+    
+      <script type="application/json">{"service":"etrans","languages":{"exclude":["en"]},"renderAs":{"button":true,"icon":false,"link":false},"domain":"gen","delay":0,"include":".page-title,#block-ventuno-content,#block-iop-content","exclude":".action-link,section.comments,.event__field-shared-in"}</script>
+
+  </div>
+
+
+        </div>
+          
+    <div class="mb-5">
+      <main>
+        <div id="main-content" tabindex="-1"></div>
+                  <div class="layout-content">
+              <div id="block-ventuno-pagetitle" class="block block-core block-page-title-block">
+  
+    
+      
+
+  <div class="page-title my-4">
+    <h1 class="page-title__title">
+      
+<span>24th Annual International Conference on Digital Government Research</span>
+
+              <a class="permalink" href="https://interoperable-europe.ec.europa.eu/node/705802" title="Permalink">
+          <svg class="bi icon--m"><use xlink:href="/themes/ventuno/assets/icons/icons.svg#link-45deg"></use></svg>
+        </a>
+          </h1>
+
+    <div class="page-title__details mb-4">
+      <span class="page-title__detail"><div class="d-flex align-items-center">
+  <div class="me-2 rounded-pill overflow-hidden border">
+    
+            <div class="field--name-field-user-photo user__photo">  <img loading="lazy" src="/sites/default/files/styles/profile_icon/public/user/photo/2024-10/IOPEU_Portal_Logo_Vertical_v1.00%20%281%29_0.png.webp?itok=Orfv7RAF" width="40" height="40" alt="" class="img-fluid">
+
+
+</div>
+      
+  </div>
+  <a title="Portal Support Team" href="/user/714574">Portal Support Team</a>
+</div>
+</span>
+      <span class="page-title__detail">Published on: 24/01/2023</span>
+            <span class="page-title__detail">
+        <span class="me-2">
+          Event
+        </span>
+        <svg class="bi icon--s"><use xlink:href="/themes/ventuno/assets/icons/icons.svg#calendar-event"></use></svg>
+      </span>
+          </div>
+
+    <div class="bg-light p-3 rounded d-inline-flex flex-column flex-md-row mb-4">
+      <div class="d-flex flex-column">
+        <div class="page-title__headline d-inline-flex align-items-center">
+          <svg class="page-title__headline-icon bi icon--m text-brand me-2">
+            <use xlink:href="/themes/ventuno/assets/icons/icons.svg#calendar-event"></use>
+          </svg>
+          <span class="text-primary">  <time datetime="2023-06-18T09:00:00Z">18</time>
+ to <time datetime="2023-06-22T19:00:00Z">22/06/2023</time>
+
+</span>
+        </div>
+                  <div class="page-title__headline d-flex align-items-center mt-2">
+            <svg class="page-title__headline-icon bi icon--m text-brand me-2">
+              <use xlink:href="/themes/ventuno/assets/icons/icons.svg#geo-alt"></use>
+            </svg>
+            <span class="text-primary">
+            <div class="field--name-field-location event__field-location">Tartu, Estonia</div>
+      </span>
+          </div>
+              </div>
+      
+    </div>
+  </div>
+
+
+  </div>
+<div id="block-ventuno-content" class="block block-system block-system-main-block">
+  
+    
+      <div class="clearfix">
+      <div class="paragraph--layout paragraph">
+            <div class="l-ventuno--layout_onecol layout">
+    <div class="l-ventuno--layout_onecol__region-content layout__region layout__region--content">
+        <div class="paragraph--simple-paragraph paragraph">
+            <p>The Digital Government Society (DGS) will hold the 24th Annual International Conference on Digital Government Research – dg.o 2023 – in Tartu, Estonia, with a special focus on building safe and secure cross-border services.</p>
+
+<p>The conference main organizer is the ERA Chair of e-governance and digital public services, Center for IT Impact Studies (CITIS) in the Johan Skytte Institute of Political Studies at the University of Tartu.</p>
+
+<p>This year's topic is: Building Safe and Secure Cross-border Digital Public Services. Here is a video presenting the conference!</p>
+
+<div class="media-video">
+  
+    <div class="ratio ratio-16x9">
+    <iframe src="https://interoperable-europe.ec.europa.eu/media/oembed?url=https%3A//www.youtube.com/watch%3Fv%3DcFpeNkF2uCI%26amp%3Bt%3D41s&amp;max_width=854&amp;max_height=480&amp;hash=NQMt_4h-_dhkdaSZuJH7vgb6uNVlmUzWjx9ZqIQ-_lc" width="854" height="480" class="media-oembed-content" loading="lazy" title="dg.o 2023 conference on Building Safe and Secure Cross-border Digital Public Services"></iframe>
+
+  </div>
+
+</div>
+
+
+<p>For more information about the event, click <a href="https://dgsociety.org/dgo-2023/">here</a></p>
+
+      </div>
+
+    </div>
+  </div>
+
+      </div>
+
+
+</div>
+<div class="d-flex flex-wrap align-items-end flex-row justify-content-end my-3">
+  
+  <a class="action-link btn btn-link px-3" href="/contact?category=report&amp;uri=/collection/egovernment/event/24th-annual-international-conference-digital-government-research&amp;destination=collection/egovernment/event/24th-annual-international-conference-digital-government-research">Report abusive content</a>
+
+  <a href="/collection/egovernment/event/24th-annual-international-conference-digital-government-research/share" class="use-ajax action-link btn btn-link px-3" data-dialog-type="modal" data-dialog-options="{&quot;width&quot;:&quot;auto&quot;,&quot;height&quot;:&quot;auto&quot;}">
+  Share
+  <svg class="ms-1 bi icon--fluid"><use xlink:href="/themes/ventuno/assets/icons/icons.svg#arrow-right"></use></svg></a>
+</div>
+  <div id="event-location--705802" class="bg-light p-3">
+          
+            <div class="field--name-field-event-coordinates event__coordinates"><script type="application/json">{"service":"map","version":"2.0","map":{"zoom":16,"center":[58.37621,26.72573]},"layers":[{"markers":{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"24th Annual International Conference on Digital Government Research","description":"Tartu, Estonia"},"geometry":{"type":"Point","coordinates":[26.72573,58.37621]}}]}}],"render":true}</script>
+</div>
+      
+        <div class="mt-3">
+      <div class="fw-bold">Physical location</div>
+      
+            <div class="field--name-field-location event__field-location">Tartu, Estonia</div>
+      
+    </div>
+  </div>
+
+
+
+  </div>
+
+
+          </div>
+              </main>
+    </div>
+  </div>
+
+      
+<footer role="contentinfo" class="page__footer">
+  <div class="container text-light">
+    <div class="row py-4 py-lg-5">
+      <!--Interoperable Europe logo-->
+      <div class="col-md-12 col-lg-3 column-logo">
+        <p class="joinup-logo"><a href="/" class="joinup-logo-white mb-3"><span class="visually-hidden">Interoperable Europe</span></a></p>
+        <p class="joinup-version"><a href="https://git.fpfis.tech.ec.europa.eu/ec-europa/digit-joinup-reference/-/releases/2.0.2" aria-label="Interoperable Europe Portal version number: 2.0.2">2.0.2</a></p>
+      </div>
+      <h2 class="visually-hidden">Useful links</h2>
+
+        <div id="block-aboutus" class="block block-system block-system-menu-blockfooter-about-us col-md-3 col-lg-2 about-us-menu">
+  
+      <h3>About us</h3>
+    
+      
+              <ul data-joinup-block-id="aboutus" class="list-unstyled">
+                  <li class="nav-link">
+          <a href="/collection/portal/about">What is the Portal</a>
+                  </li>
+              <li class="nav-link">
+          <a href="/collection/eupl/solution/joinup-licensing-assistant/jla-find-and-compare-software-licenses" data-drupal-link-system-path="node/701805">Joinup Licensing Assistant</a>
+                  </li>
+              <li class="nav-link">
+          <a href="https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/solution/european-interoperability-framework-eif-toolbox/about">EIF Toolbox</a>
+                  </li>
+              <li class="nav-link">
+          <a href="https://joinup.ec.europa.eu/interoperable-europe">Interoperable Europe</a>
+                  </li>
+          </ul>
+  
+
+
+  </div>
+<div id="block-helpandsupport" class="block block-system block-system-menu-blockfooter-help-and-support col-md-3 col-lg-2 help-and-support-menu">
+  
+      <h3>Help and support</h3>
+    
+      
+              <ul data-joinup-block-id="helpandsupport" class="list-unstyled">
+                  <li class="nav-link">
+          <a href="" data-drupal-tour-link="" class="js-tour-start-button">Take a tour</a>
+                  </li>
+              <li class="nav-link">
+          <a href="/collection/portal/faq" data-drupal-link-system-path="node/701545">Frequently Asked Questions (FAQ)</a>
+                  </li>
+              <li class="nav-link">
+          <a href="/contact?destination=/collection/egovernment/event/24th-annual-international-conference-digital-government-research" data-drupal-link-system-path="contact">Contact Portal Support</a>
+                  </li>
+              <li class="nav-link">
+          <a href="/collection/portal/how-articles" data-drupal-link-system-path="node/701543">How-To Articles</a>
+                  </li>
+              <li class="nav-link">
+          <a href="https://ec.europa.eu/eusurvey/runner/Joinup_Satisfaction_Survey" title="Help us improve Joinup!">Satisfaction survey</a>
+                  </li>
+              <li class="nav-link">
+          <a href="/collection/portal/federation" data-drupal-link-system-path="node/702492">Federation</a>
+                  </li>
+              <li class="nav-link">
+          <a href="/joinup/legal-notice" data-drupal-link-system-path="legal/document/legal_notice">Legal notice</a>
+                  </li>
+              <li class="nav-link">
+          <a href="/collection/joinup/specific-privacy-statement" data-drupal-link-system-path="node/704896">Privacy statement</a>
+                  </li>
+              <li class="nav-link">
+          <a href="https://joinup.ec.europa.eu/accessibility-statement-en">Accessibility statement</a>
+                  </li>
+          </ul>
+  
+
+
+  </div>
+<div id="block-europeancommission" class="block block-system block-system-menu-blockfooter-european-commission col-md-3 col-lg-3 european-commission-menu">
+  
+      <h3>European Commission</h3>
+    
+      
+              <ul data-joinup-block-id="europeancommission" class="list-unstyled">
+                  <li class="nav-link">
+          <a href="https://commission.europa.eu/about-european-commissions-web-presence_en">About the Commission's new web presence</a>
+                  </li>
+              <li class="nav-link">
+          <a href="https://ec.europa.eu/info/resources-partners_en">Resources for partners</a>
+                  </li>
+              <li class="nav-link">
+          <a href="https://ec.europa.eu/info/cookies_en">Cookies</a>
+                  </li>
+              <li class="nav-link">
+          <a href="https://commission.europa.eu/about-european-commission/contact_en">Contact European Commission</a>
+                  </li>
+              <li class="nav-link">
+          <a href="https://ec.europa.eu/info/europa-analytics_en">Europa Analytics</a>
+                  </li>
+          </ul>
+  
+
+
+  </div>
+
+
+      <div class="col-md-3 col-lg-2 column-follow-us">
+        <div id="block-followus" class="block block-system block-system-menu-blockfooter-follow-us follow-us-menu">
+  
+      <h3>Follow us</h3>
+    
+      
+              <ul data-joinup-block-id="followus" class="list-unstyled">
+                  <li class="nav-link">
+          <a href="http://ec.europa.eu/newsroom/informatics/subscription-quick-generic-form-fullpage.cfm?service_id=1115">Newsletter subscription</a>
+                  </li>
+              <li class="nav-link">
+          <a href="https://ec.europa.eu/newsroom/joinup/newsletter-archives/view/service/877">Portal newsletter archive</a>
+                  </li>
+              <li class="nav-link">
+          <a href="https://twitter.com/joinup_eu">Twitter / X</a>
+                  </li>
+              <li class="nav-link">
+          <a href="https://www.linkedin.com/groups/12907049/">LinkedIn</a>
+                  </li>
+          </ul>
+  
+
+
+  </div>
+
+        
+        
+      </div>
+
+    </div>
+  </div>
+</footer>
+
+  
+</div>
+
+  </div>

@@ -1,0 +1,157 @@
+NSS-SocialSec 2023  
+ NSS 2023: 17th International Conference on Network and System Security  
+  SocialSec 2023: 9th International Symposium on Security and Privacy in Social Networks and Big Data  
+  University of Kent, Canterbury, UK  
+  |  August 14-16, 2023  
+
+ MENU - Committees 
+    
+ Home 
+  Call For Papers 
+  Photos 
+  Keynotes 
+  Program 
+  Accepted Papers 
+  Registration 
+  Committees 
+  Venue 
+
+  Previous    Next     
+   
+ Online Proceedings  
+ Online Proceedings (free access if visited from this page, even if you don't have a subscription; individual papers' links can be found in the program shown below):  
+ NSS 2023 | (from 14 August, 2023): | https://link.springer.com/book/9783031398278 
+  SocialSec 2023 | (from 7 August, 2023): | https://link.springer.com/book/9789819951789 
+  Shotcuts  
+ ➠ Day 1   : Session 1   , Keynote I   , Session 2   , Session 3    
+   
+ ➠ Day 2   : Session 4   , Keynote II   , Session 5   , Session 6    
+   
+ ➠ Day 3   : Session 7   , Keynote III   , Session 8   , Session 9    
+   
+ Program  
+ Day 1 (Monday 14 August 2023)  
+  
+ 09:00-09:30 | Registration 
+ 09:30-10:00 | Welcome Session ( General Co-Chairs' Welcome Address   , TPC Co-Chairs' Report   ) 
+ 10:00-11:30 | Session 1: Malware, Attacks and Countermeasures (I) – NSS  
+  (Session Chair: Budi Arief   , University of Kent, UK  ) 
+ 10:00-10:25 | Evaluating Rule-Based Global XAI Malware Detection Methods      
+  Rui Li and Olga Gadyatskaya 
+ 10:25-10:50 | Whitelisting for Characterizing and Monitoring Process Control Communication      
+  Andreas Paul, Franka Schuster and Hartmut Koenig 
+ 10:50-11:10 | Detection of Malware using Self-attention Mechanism and Strings   (Short Paper)    
+  Satoki Kanno and Mamoru Mimura 
+ 11:10-11:30 | Agnostic Label-Only Membership Inference Attack   (Short Paper)    
+  Anna Monreale, Francesca Naretto and Simone Rizzo 
+ 11:30-11:45 | Morning Break 
+ 11:45-12:45 | Keynote I: The Future of Passwords      
+  Speaker: Julia Hesse   , IBM Research Zurich, Switzerland   
+  (Session Chair: Atsuko Miyaji   , Osaka University and Japan Advanced Institute of Science and Technology, Japan  ) 
+ 12:45-14:00 | Lunch 
+ 14:00-15:35 | Session 2: Information Abuse and Political Discourse – SocialSec  
+  (Session Chair: Shujun Li   , University of Kent, UK  ) 
+ 14:00-14:25 | SocialSec 2023 Best Paper Award    
+  People Still Care About Facts: Twitter Users Engage More with Factual Discourse than Misinformation      
+  Luiz Giovanini, Shlok Gilda, Mirela Silva, Fabrício Ceschin, Prakash Shrestha, Christopher Brant, Juliana Fernandes, Catia Silva, André Grégio and Daniela Oliveira 
+ 14:25-14:50 | Twitter Bots Influence on the Russo-Ukrainian War During the 2022 Italian General Elections      
+  Francesco Luigi De Faveri, Luca Cosuti, Pier Paolo Tricomi and Mauro Conti 
+ 14:50-15:15 | Did State-sponsored Trolls Shape the 2016 US Presidential Election Discourse? Quantifying Influence on Twitter      
+  Nikos Salamanos, Michael J. Jensen, Costas Iordanou and Michael Sirivianos 
+ 15:15-15:35 | Extracting common features of fake news by Multi-Head-Attention   (Short Paper)    
+  Takayuki Ishimaru and Mamoru Mimura 
+ 15:35-16:00 | Afternoon Break 
+ 16:00-17:35 | Session 3: Blockchain – NSS + SocialSec  
+  (Session Chair: Yangguang Tian   , University of Surrey, UK  ) 
+ 16:00-16:25 | Resilience of Blockchain Overlay Networks      
+  Aristodemos Paphitis, Nicolas Kourtellis and Michael Sirivianos 
+ 16:25-16:50 | Provably Secure Blockchain Protocols from Distributed Proof-of-Deep-Learning      
+  Xiangyu Su, Mario Larangeira and Keisuke Tanaka 
+ 16:50-17:15 | Graph Analysis of Blockchain P2P Overlays and their Security Implications      
+  Aristodemos Paphitis, Nicolas Kourtellis and Michael Sirivianos 
+ 17:15-17:35 | Security Model for Privacy-preserving Blockchain-based Cryptocurrency Systems   (Short Paper)    
+  Mayank Raikwar, Shuang Wu and Kristian Gjøsteen 
+ 17:35-19:00 | Welcome Reception 
+  
+ Day 2 (Tuesday 15 August 2023)  
+  
+ 09:00-10:35 | Session 4: Security Mechanisms, Social Structure and Community – NSS + SocialSec  
+  (Session Chair: Hiroki Kuzuno   , Kobe University, Japan  ) 
+ 09:00-09:25 | Group Oriented Attribute-based Encryption Scheme from Lattices with the employment of Shamir's Secret Sharing scheme      
+  Maharage Perera, Toru Nakamura, Takashi Matsunaka, Hiroyuki Yokoyama and Kouichi Sakurai 
+ 09:25-09:50 | Secure and Efficient Data Processing for Cloud Computing with Fine-Grained Access Control      
+  Jingjing Wang, Hao Feng, Zheng Yu, Rongtao Liao, Shi Chen and Ting Liang 
+ 09:50-10:15 | Cyber Security Researchers on Online Social Networks: From the Lens of the UK's ACEs-CSR on Twitter      
+  Mohamad Imad Mahaini and Shujun Li 
+ 10:15-10:35 | The Social and Technological Incentives for Cybercriminals to Engage in Ransomware Activities   (Short Paper)    
+  Yichao Wang, Sophia Roscoe, Budi Arief, Lena Connolly, Hervé Borrion and Sanaa Kaddoura 
+ 10:35-11:00 | Morning Break 
+ 11:00-12:00 | Keynote II: Monitoring & Mitigating Online Harms: Is Redecentralisation the Answer to Partisanship, Hate Speech, Tracking etc.?      
+  Speaker: Nishanth Sastry   , University of Surrey, UK   
+  (Session Chair: Budi Arief   , University of Kent, UK  ) 
+ 12:00-13:30 | Lunch 
+ 13:30-14:45 | Session 5: Security in the Wild – NSS  
+  (Session Chair: Zhe Xia   , Wuhan University of Technology, China  ) 
+ 13:30-13:55 | On the Design of a Misinformation Widget (Ms.W) Against Cloaked Science      
+  David Arroyo, Sara Degli-Esposti, Alberto Gómez-Espés, Santiago Palmero-Muñoz and Luis Pérez-Miguel 
+ 13:55-14:20 | Spying on the Spy: Security Analysis of Hidden Cameras        
+  Samuel Herodotou and Feng Hao 
+ 14:20-14:45 | NSS 2023 Best Student Paper Award    
+  Security Analysis of Mobile Point-of-Sale Terminals        
+  Mahshid Mehr Nezhad, Elliot Laidlaw and Feng Hao 
+ 14:45-15:00 | Afternoon Break 
+ 15:00-16:15 | Session 6: Malware, Attacks and Countermeasures (II) – SocialSec  
+  (Session Chair: Olga Gadyatskaya   , Leiden University, the Netherlands  ) 
+ 15:00-15:25 | Data Reconstruction Attack Against Principal Component Analysis      
+  Saloni Kwatra and Vicenç Torra 
+ 15:25-15:50 | SocialSec 2023 Best Student Paper Award    
+  The Impact of Synthetic Data on Membership Inference Attacks      
+  Md Sakib Nizam Khan and Sonja Buchegger 
+ 15:50-16:15 | Time Is On My Side: Forward-Replay Attacks to TOTP Authentication      
+  Giuseppe Bianchi and Lorenzo Valeriani 
+ 16:15-19:00 | Free time or a walking tour 
+ 19:00-19:30 | Pre Banquet Drink Reception 
+ 19:30-22:00 | Conference Banquet + Best Paper Awards Announcement 
+  
+ Day 3 (Wednesday 16 August 2023)  
+  
+ 09:00-10:30 | Session 7: System and Hardware Security – NSS  
+  (Session Chair: Atsuko Miyaji   , Osaka University and Japan Advanced Institute of Science and Technology, Japan  ) 
+ 09:00-09:25 | NSS 2023 Best Paper Award    
+  Modular Polynomial Multiplication Using RSA/ECC coprocessor      
+  Aurélien Greuet, Simon Montoya and Clémence Vermeersch 
+ 09:25-09:50 | T3E: A Practical Solution to Trusted Time in Secure Enclaves      
+  Gilang Mentari Hamidy, Pieter Philippaerts and Wouter Joosen 
+ 09:50-10:10 | KDRM: Kernel Data Relocation Mechanism to Mitigate Privilege Escalation Attack   (Short Paper)    
+  Hiroki Kuzuno and Toshihiro Yamauchi 
+ 10:10-10:30 | Decentralized SGX-based Cloud Key Management   (Short Paper)    
+  Yunusa Abdulsalam, Jaouhara Bouamama, Yahya Benkaouz and Mustapha Hedabou 
+ 10:30-11:00 | Morning Break 
+ 11:00-12:00 | Keynote III: Trustworthy AI… for Systems Security      
+  Speaker: Lorenzo Cavallaro   , University College London, UK   
+  (Session Chair: Shujun Li   , University of Kent, UK  ) 
+ 12:00-13:00 | Lunch 
+ 13:00-14:45 | Session 8: Privacy and Machine Learning (I) – NSS + SocialSec  
+  (Session Chair: Hiroaki Kikuchi   , Meiji University, Japan  ) 
+ 13:00-13:25 | Detection of Privacy-harming Social Media Posts in Italian      
+  Federico Peiretti and Ruggero G. Pensa 
+ 13:25-13:45 | The Effectiveness of Transformer-based Models for BEC attack Detection   (Short Paper)    
+  Amirah Almutairi, Boojoong Kang and Nawfal Fadhel 
+ 13:45-14:05 | SPoiL: Sybil-based Untargeted Data Poisoning Attacks in Federated Learning   (Short Paper)    
+  Zhuotao Lian, Chen Zhang, Kaixi Nan and Chunhua Su 
+ 14:05-14:25 | Edge local Differential Privacy for Dynamic Graphs   (Short Paper)    
+  Sudipta Paul, Julián Salas and Vicenç Torra 
+ 14:25-14:45 | Temporal Analysis of Privacy Enhancing Technology Traffic using Deep Learning   (Short Paper)    
+  Monika Kumari, Mohona Ghosh and Niyati Baliyan 
+ 14:45-15:00 | Afternoon Break 
+ 15:00-16:30 | Session 9: Privacy and Machine Learning (II) – NSS  
+  (Session Chair: Chunhua Su   , University of Aizu, Japan  ) 
+ 15:00-15:25 | Privacy-preserving Federated Learning with Hierarchical Clustering to Improve Training on Non-IID Data        
+  Songwei Luo, Shaojing Fu, Yuchuan Luo, Lin Liu, Yanxiang Deng and Shixiong Wang 
+ 15:25-15:50 | RRML: Privacy Preserving Machine Learning Based on Random Response Technology      
+  Jia Wang, Shiqing He and Qiuzhen Lin 
+ 15:50-16:10 | ppAURORA: Privacy Preserving Area Under Receiver Operating Characteristic and Precision-Recall Curves   (Short Paper)    
+  Ali Burak Ünal, Nico Pfeifer and Mete Akgün 
+ 16:10-16:30 | New LDP approach using VAE   (Short Paper)    
+  Andres Hernandez-Matamoros and Hiroaki Kikuchi 
+ 16:30-17:00 | Wrap Up ( NSS-SocialSec 2024 Chairs' report   )

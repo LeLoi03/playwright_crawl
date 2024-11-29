@@ -1,0 +1,609 @@
+input:
+1. PSIVT_0 conference:
+2023  PSIVT 2023 - Pacific-Rim Symposium on Image and Video Technology - Auckland, New Zealand     PSIVT 2023    CoP 
+  [Final Submission] 
+  [Program] 
+  Committee 
+  Contact 
+  Pacific-Rim Symposium on Image and Video Technology (PSIVT) 2023  
+ Taking place on November 22-24, 2023, both at the @AUT City Campus  , Auckland, New Zealand, and virtually  .  
+ The proceedings of the PSIVT'23 are now available online. Access the full texts and explore the latest research findings at:  
+ About PSIVT 2023  
+  PSIVT 2023  marks the 11th edition of the Pacific-Rim Symposium on Image and Video Technology, a conference that gathers researchers and practitioners from around the globe to discuss the latest breakthroughs in image and video processing, analysis, and applications. This year's symposium is proudly taking place in Auckland, New Zealand  , a city celebrated for its natural beauty, cultural diversity, and welcoming atmosphere.  
+ Over the years, PSIVT has been held in various cities across the Pacific Rim, including Sydney, Australia; Wuhan, China; Guanajuato, Mexico; Singapore; Gwangju, South Korea; Tokyo, Japan; Santiago, Chile; and Hsinchu, Taiwan. The rich history of this symposium highlights its importance and continued relevance to the field of image and video technology.  
+ Auckland  , often referred to as the "City of Sails" due to its thriving waterfront and sailing culture, is the largest city in New Zealand. It is renowned for its scenic landscapes, including stunning beaches, lush rainforests, and dormant volcanic cones. As a top tourist destination, Auckland offers a multitude of attractions, outdoor adventures, and world-class cuisine that cater to a wide range of interests and preferences.  
+ The conference is organized by the Department of Computer Science and Software Engineering  within the School of Engineering, Computer, and Mathematical Sciences (ECMS) at Auckland University of Technology (AUT)  . AUT is a leading higher education institution in New Zealand, dedicated to fostering innovation, creativity, and academic excellence. The ECMS school, recognized for its cutting-edge research and teaching, provides an outstanding platform for interdisciplinary collaboration, connecting experts from various fields to develop pioneering solutions in image and video technology.  
+ By choosing Auckland as the venue for PSIVT 2023, we aim to provide a stimulating environment that will inspire our attendees to explore new ideas, engage in thought-provoking discussions, and forge lasting connections. We look forward to welcoming you to Auckland, a city that truly embodies the spirit of innovation and progress that drives the field of image and video technology.  
+  Previous    Next     
+  Other emerging topics in image, video, and text technology 
+ Paper Submission and Proceedings  
+  Call for papers  .  
+  Papers accepted for publication are full papers (the limit is 14 pages including references).   
+  For those using LaTeX, you can find the template on Overleaf  . For Microsoft Word users, the template can be found here  .  
+ Please ensure that your manuscript adheres to the guidelines provided by Springer. You can find detailed information on formatting, submission, and other requirements in the Conference Proceedings Guidelines  .  
+ Important: All submitted papers must be reviewed under a double blind  review process. This means both reviewers and authors are anonymous. Ensure that no identifying details are present in the manuscript to maintain the integrity of this review process.  
+ We are pleased to announce that the submission process for our conference is now open and will be conducted through EasyChair, a conference management system that simplifies the submission and review process.  
+  You can submit your research papers by visiting the following link:  
+ Please ensure your submission aligns with the guidelines provided on our conference website. We look forward to your contributions and an engaging, enlightening conference.  
+ Accepted Papers  
+  As we progress with preparations for the conference, we understand that financial considerations are paramount in your decision-making process, especially considering the expense of traveling to NZ. We are firmly committed to keeping the conference both affordable and accessible. All fees are in NZD, with the current exchange rate being 1 NZD = 0.6 USD.  
+ It's essential to note that each accepted paper must have at least one registration paid, whether online or in-person. While attending the conference dinner is optional, those interested can purchase a dinner ticket separately. Our primary goal is to deliver a high-quality, value-rich conference while being mindful of your budget constraints. We genuinely appreciate your interest and patience during this planning phase and are dedicated to ensuring an enriching and unforgettable experience at PSIVT 2023.  
+ Register Now   
+ Registration  
+ Please note that each accepted paper must have at least one registration paid, whether online or in-person. We are dedicated to ensuring a rich and comprehensive conference experience and appreciate your understanding and cooperation in this matter.  
+ Register Now   
+ Final Submission Requirements  
+  To proceed with the publication of your paper in the PSIVT 2023 Lecture Notes in Computer Science (LNCS) proceedings by Springer, you must submit both your final paper and the corresponding copyright form.  
+ Follow the steps below for a smooth submission process:  
+ Download the Copyright Form Template: Navigate to the following | SharePoint Link | and download the copyright form template located at | "./Copy_right_template.docx" | . 
+  Complete the Copyright Form: Fill out the required fields in the downloaded form. 
+  Prepare the Source File: Archive your source files into a ZIP file, naming it "source.zip." 
+  Upload Files: Return to the | SharePoint Link | and upload the completed copyright form along with the source ZIP file to the folder corresponding to your paper number. 
+  Additional Materials: Please also upload your PowerPoint slides and a 10-15 minute video presentation for the conference. These will serve as backup materials. 
+  Failure to complete these steps may result in delays or non-publication of your paper. If you encounter any issues, please do not hesitate to reach out.  
+ Important Dates  
+  Submission Deadline: | July 31, 2023 | August 21, 2023 
+  Notification of Acceptance: | September 15, 2023 | September 22, 2023 
+  Camera-Ready Submission: October 8, 2023 
+  Early-bird Registration Date: October 8, 2023 
+  Latest Registration Date: November 1, 2023 
+  Conference Dates: November 22-24, 2023 
+ PSIVT 2023 Conference Programme, location: AUT WZ building level 11   
+  Day 1: Wednesday, 22nd November 2023  
+  Paper #19: "Cluster-Based Video Summarization with Temporal Context Awareness" by Hai-Dang Huynh-Lam, Ngoc-Phuong Ho-Thi, Minh-Triet Tran, and Trung-Nghia Le. 
+  Paper #20: "Image Recognition and Threat Detection in Bags Arriving at the Airport" by Ivan Koptev, Andreas Kempa-Liehr, and Cameron Walker. 
+  Paper #8: "AUAAC: Area Under Accuracy-Accuracy Curve for Evaluating Out-of-Distribution Detection" by Wonjik Kim, Masayuki Tanaka, and Masatoshi Okutomi. 
+  Paper #15: "A High-Accuracy Deformable Model for Human Face Mask Detection" by Xinyi Gao. 
+  Paper #18: "MobileNet-SA: Lightweight CNN with Self Attention for Sketch Classification" by Viet-Tham Huynh, Trong-Thuan Nguyen, Tam V. Nguyen, and Minh-Triet Tran. 
+  Paper #28: "Enhancement of Human Face Mask Detection Performance by Using Ensemble Learning Models" by Xinyi Gao. 
+  Paper #25: "Efficient 3D Brain Tumor Segmentation with Axial-Coronal-Sagittal Embedding" by Tuan-Luc Huynh, Thanh-Danh Le, Van-Tam Nguyen, Trung-Nghia Le, and Minh-Triet Tran. 
+ Day 2: Thursday, 23rd November 2023  
+  Paper #7: "LAPRNet: Lightweight Airborne Particle Removal Network for LiDAR Point Clouds" by Yanqi Ma, Ziyu Yue, Youwei Wang, Zhixun Su, Risheng Liu, and Junjie Cao. 
+  Paper #31: "REAL-NET: A Monochromatic Depth Estimation Using REgional Attention and Local feature mapping" by Harsh Bhandari and Sarbani Palit. 
+  Late: Auckland By Night Walk to | Viaduct harbour/Wynyard Quarter | (Optional - good for photo shooting) 
+ Day 3: Friday, 24th November 2023  
+  Paper #11: "Fusion-based Approach to Enhance Markerless Motion Capture Efficiency for on-site Analysis: Feasibility and Accuracy" by Abderrahman Ben Abdeljelil, Mohamed Hédi Bedoui, and Khalil Ben Mansour. 
+ Awards  
+ The "Reinhard Klette Best Paper Awards" will recognize outstanding research papers presented at the conference, continuing Professor Klette's legacy of promoting excellence and innovation in the field.  
+ Keynote Speakers:  
+ Conference Dinner  
+  The conference dinner will be held at Palm Cafe  , a delightful Vietnamese restaurant located at 2/5 Graham Street, Auckland Central. Attendees will be treated to a delicious selection of 5-7 options from the rich Vietnamese cuisine, known for its fresh ingredients and vibrant flavors.  
+  Get Directions to Palm Cafe   
+ Programme Commitee Members  
+  We would like to express our heartfelt gratitude to the following PC Members who have generously offered their support and expertise in reviewing the papers for this conference:  
+ Aarij Mahmood Hussaan, PhD, Iqra University, Pakistan 
+  Abdul Bais, PhD, University of Regina, Canada 
+  Zhixun Su, PhD, Dalian University of Technology, China 
+ © PSIVT 2023. All Rights Reserved.
+2. PSIVT_2 conference:
+Home    Categories    About    Call for Papers     
+ PSIVT 2023 : Pacific-Rim Symposium on Image and Video Technology 2023   
+  Auckland, New Zealand 
+ Event Date: | November 22, 2023 - November 24, 2023 
+ Submission Deadline: | August 13, 2023 
+ Notification of Acceptance: | September 15, 2023 
+ Camera Ready Version Due: | October 01, 2023 
+  GO TO WEBSITE        
+ Call for Papers 
+ PSIVT 2023 marks the 11th edition of the Pacific-Rim Symposium on Image and Video Technology, a conference that gathers researchers and practitioners from around the globe to discuss the latest breakthroughs in image and video processing, analysis, and applications. This year's symposium is proudly taking place in Auckland, New Zealand, a city celebrated for its natural beauty, cultural diversity, and welcoming atmosphere. PSIVT 2023 solicits entries of superlative caliber within the expansive terrain of image and video technology.  
+  The contributions to PSIVT 2023 will be featured in the LNCS and will be indexed in EI. The review process for PSIVT 2023 operates under the double-blind principle. Consequently, authors are admonished to maintain anonymity within their submissions, particularly when referencing their prior work and introducing experimental data. Adhering to the formatting guidelines of PSIVT 2023 proceedings (i.e., the LNCS style) is crucial, with a rigid page limit of 14.  
+  The topics of interests include, but are not limited to the follows:  
+ Summary 
+ PSIVT 2023 : Pacific-Rim Symposium on Image and Video Technology 2023  will take place in Auckland, New Zealand  . It’s a 3  days event starting on Nov 22, 2023 (Wednesday)  and will be winded up on Nov 24, 2023 (Friday)  .  
+ PSIVT 2023  falls under the following areas: COMPUTER VISION, ARTIFICIAL INTELLIGENCE, IMAGE PROCESSING, VIDEO PROCESSING,  etc. Submissions for this Symposium  can be made by Aug 13, 2023  . Authors can expect the result of submission by Sep 15, 2023  . Upon acceptance, authors should submit the final version of the manuscript on or before Oct 1, 2023  to the official website of the Symposium  .  
+ Please check the official event website for possible changes before you make any travelling arrangements. Generally, events are strict with their deadlines. It is advisable to check the official website for all the deadlines.  
+ Other Details of the PSIVT 2023   
+ Short Name: | PSIVT 2023 
+  Full Name: | Pacific-Rim Symposium on Image and Video Technology 2023 
+  Fees: | Check the official website of | PSIVT 2023 
+  Event Type: | Symposium 
+ Credits and Sources 
+ [1] PSIVT 2023 : Pacific-Rim Symposium on Image and Video Technology 2023 
+  Check other Conferences, Workshops, Seminars, and Events  Search Here    
+ ADIP 2024:   2024 6th Asia Digital Image Processing Conference (ADIP 2024)  
+  Tokyo, Japan   
+  Dec 14, 2024 
+ NLPAI--EI 2024:   2024 5th International Conference on Natural Language Processing and Artificial Intelligence (NLPAI 2024)  
+  Chongqing, China   
+  Jul 12, 2024 
+ NovelIQA 2024:   Novel Approaches to Image Quality Assessment  
+  MDPI Journal of Imaging   
+  Mar 1, 2024 
+ WiCV @ CVPR 2024:   12th Women in Computer Vision workshop at CVPR 2024  
+  Seattle, USA   
+  Jun 18, 2024 
+ ICVIP--EI 2024:   2024 The 8th International Conference on Video and Image Processing (ICVIP 2024)  
+  Kuala Lumpur, Malaysia   
+  Dec 13, 2024 
+ SHOW ALL 
+ ICCMA--EI 2024:   2024 The 12th International Conference on Control, Mechatronics and Automation (ICCMA 2024)  
+  Brunel University London, UK   
+  Nov 11, 2024 
+ NLPAI 2024:   2024 5th International Conference on Natural Language Processing and Artificial Intelligence (NLPAI 2024)  
+  Chongqing, China   
+  Jul 12, 2024 
+ ICAITE 2024:   2024 the International Conference on Artificial Intelligence and Teacher Education (ICAITE 2024)  
+  Beijing, China   
+  Oct 12, 2024 
+ Informed ML for Complex Data@ESANN 2024:   Informed Machine Learning for Complex Data special session at ESANN 2024  
+  Bruges, Belgium   
+  Oct 9, 2024 
+ Effective Grant Writing Using AI 2024:   Invitation to Faculty Development Program Effective Grant Writing Strategies Using AI  
+  Online   
+  Mar 12, 2024 
+ SHOW ALL 
+ ICTCE--JA 2024:   2024 The 6th International Conference on Telecommunications and Communication Engineering (ICTCE 2024)--JA  
+  Chengdu, China   
+  Nov 22, 2024 
+ CECSP--EI 2024:   2024 the International Conference on Electronics, Communications, and Signal Processing (CECSP 2024)  
+  Kunming, China   
+  Oct 25, 2024 
+ ADIP 2024:   2024 6th Asia Digital Image Processing Conference (ADIP 2024)  
+  Tokyo, Japan   
+  Dec 14, 2024 
+ ICVIP 2024:   2024 The 8th International Conference on Video and Image Processing (ICVIP 2024)  
+  Kuala Lumpur, Malaysia   
+  Dec 13, 2024 
+ WECE--EI 2024:   2024 3rd Workshop on Electronics Communication Engineering (WECE 2024)  
+  Wuhan, China   
+  Oct 25, 2024 
+ SHOW ALL 
+ AVSS 2024:   20th IEEE International Conference on Advanced Video and Signal-Based Surveillance  
+  Niagara Falls, Canada   
+  Jul 15, 2024 
+ ICIP 2024:   International Conference on Image Processing  
+  Abu Dhabi, United Arab Emirates   
+  Oct 27, 2024 
+ IEEE ICME 2023:   IEEE International Conference on Multimedia and Expo  
+  Brisbane, Australia   
+  Jul 10, 2023 
+ IEEE ICIP 2023:   IEEE International Conference on Image Processing 2023 Industry Demonstrations  
+  Kuala Lumpur, Malaysia   
+  Oct 8, 2023 
+ PReMI 2023:   10th International Conference on Pattern Recognition and Machine Intelligence  
+  Indian Statistical Institute, Kolkata   
+  Dec 12, 2023 
+ SHOW ALL
+3. PSIVT_3 conference:
+中文  |  English  |  Español  |  日本語     
+ Conference Partner  » Conferences  » PSIVT    
+  Conference Information   
+ PSIVT 2023: Pacific-Rim Symposium on Image and Video Technology  
+ Submission Date: | 2023-07-31 
+ Notification Date: | 2023-09-15 
+ Conference Date: | 2023-11-22 
+ Location: | Auckland, New Zealand 
+ Years: | 11 
+  Call For Papers   
+ The conference welcomes submissions on a wide range of topics, including but not limited to: 3D point cloud processing 3D vision and modeling Adversarial images and anti-attacking AI-based image/video processing for autonomous vehicles AI-based image/video processing for dynamic scene understanding Artificial intelligence in image and video processing Biomedical image and video analysis Biometrics and image forensics Caption and script generation Computer vision Computational photography and arts Deep learning for computer vision Document processing applications Fact/claim Detection and Verification Human-computer interaction Image and video analysis applications Image and video compression Image and video processing Image and video retrieval Image and video synthesis Image to text and text to image generation Image/video coding and transmission Imaging and graphics hardware and visualization Machine learning for images and videos Mis/Dis Information detection Multimedia content analysis and understanding Object and scene recognition Pattern recognition Remote sensing and geospatial image analysis Robotics and autonomous systems Video tracking and motion analysis Virtual and augmented reality Visual surveillance and security Other emerging topics in image, video, and text technology  Last updated by Dou Sun  in 2023-07-07   
+  Related Conferences   
+ CCF | CORE | QUALIS | Short | Full Name | Submission | Notification | Conference 
+ AIPE | International Conference on Artificial Intelligence and Power Engineering | 2024-07-30 | 2024-08-20 | 2024-10-25 
+ Short | Full Name | Submission | Conference 
+ AIPE | International Conference on Artificial Intelligence and Power Engineering | 2024-07-30 | 2024-10-25
+4. PST_0 conference:
+The 20th Annual International Conference on Privacy, Security & Trust (PST2023)  
+  15-16 October 2023 - Industry Summit - Fredericton, NB Canada - In-Person & Online   
+  21-23 August, 2023 / Copenhagen, Denmark / Hybrid Conference   
+ : History  
+ PST 2022, Canada   
+ Call For Papers   
+ 2023 20th Annual International Conference on Privacy, Security and Trust (PST)  was held in Copenhagen, Denmark, August 21-23, 2023. PST 2023 is the 20th conference in this series, providing a forum for researchers and practitioners to present their latest research results, developments, and ideas in areas of privacy, security and trust. The conference is technically Co-Sponsored by IEEE Communication Society. Click here  to download the call for papers information!   
+  General Information  
+ 2023 20th Annual International Conference on Privacy, Security and Trust (PST) topics  are inter-disciplinary across privacy, security and trust. Technologies of interest include, but are not limited to:  
+  Privacy Preserving / Enhancing Technologies   
+ Network and Wireless Security   
+ Observations of PST in Practice, Society, Policy and Legislation   
+ Cloud Security, Web Security and Privacy   
+ Operating Systems Security   
+ Human Computer Interaction and PST   
+ Intrusion Detection / Prevention Technologies   
+ Implications of, and Technologies for, Lawful Surveillance   
+ PST Challenges in e-Services, e.g. eHealth, e-Government, e-Commerce   
+ Privacy, Traceability, and Anonymity   
+  Special Sessions  
+ 2023 20th International Annual Conference on Privacy, Security and Trust (PST) also organizes a Blockchain Special Session to be held in conjunction with the conference. The aim is to provide researchers in focused areas the opportunity to present and discuss their work, as well as to offer a forum for interaction among a broader community of researchers related to the main topics of PST 2023.  
+  Submission Instructions  
+  Double-blind Submission  
+ Reviewing will be double-blind: the reviewers will not know the identities of the authors. It will be up to the authors to ensure the proper anonymization of their paper. For effective anonymization please follow these guidelines:  
+  Do not include any author's name or affiliation in the title. Do not include any acknowledgments. Refer to your own published work in the third person: use “In the previous work of Jones et al.”, not “In our previous work”. If you cite own papers that are not widely available (e.g., a paper currently under review), use anonymous author names in the citation, for example, an author of the form “A. Anonymous”.  
+  Important Dates  
+ Paper Submission:  
+  April 24, 2023    
+  May 20, 2023   
+   Acceptance Notification:  
+  June 9, 2023    
+  June 18, 2023   Camera-Ready:  
+  July 1, 2023   Author Registration:  
+  July 1, 2023   Industry Summit Early Registration:  
+  July 14, 2023   Conference Date:  
+  August 21-23, 2023    
+ Organizer 
+  Home 
+   © Copyright 2023 PST Network - All rights reserved
+5. PST_1 conference:
+The 20th Annual International Conference on Privacy, Security & Trust (PST2023)  
+  15-16 October 2023 - Industry Summit - Fredericton, NB Canada - In-Person & Online   
+  21-23 August, 2023 / Copenhagen, Denmark / Hybrid Conference   
+ History  
+ PST 2022, Canada   
+ Program  
+  The PST 2023 Final Program is ready (Academic Conference + Industry Summit + Workshops) here  !  
+ All registered attendees can access our PST Inside  system for more details  
+  PST 2023 - Industry Summit  
+ Speaker details - Click here   
+  Program details - Click here   
+  PST 2023 - Academic Conference  
+ Keynote Speakers:  
+ Important Dates  
+ Paper Submission:  
+  April 24, 2023    
+  May 20, 2023   
+   Acceptance Notification:  
+  June 9, 2023    
+  June 18, 2023   
+   Camera-Ready:  
+  July 1, 2023   Author Registration:  
+  July 1, 2023   Industry Summit Early Registration:  
+  July 14, 2023   Conference Date:  
+  August 21-23, 2023    
+ Contact us 
+   © Copyright 2023 PST Network - All rights reserved
+6. QCE_0 conference:
+Exhibitor Opportunities 
+  QCE23 CFP 
+  Submission Deadlines 
+  Key Deadlines 
+  Contacts 
+  D&I Statement 
+  Code of Conduct 
+  In-Person Event with Virtual Component 
+  Media Center 
+  Financial Co-Sponsors 
+  IEEE Quantum 
+  Authors | Call for Contributions 
+  Submission Deadlines 
+  QCE23 CFP 
+  EasyChair Submit 
+  Call for BoF Proposals 
+  Key Deadlines 
+  In-Person Event with Virtual Component 
+  Attend | Why Attend 
+  Press Release 
+  IEEE QCE23 Minor Release Form 
+  QCE23 Hyatt Floor Plans 
+  In-Person Event with Virtual Component 
+  Program Synopsis 
+  Career Fair 
+  Code of Conduct 
+  COVID-19 
+  Program | Final Conference Program 
+  Speaker Guide 
+  Exhibitors & Sponsors 
+  Program Overview | 2023 CS Awards Panel 
+  Student Mentorship 
+  Career Fair 
+  QSEEC 2023 Program 
+  Keynote Speakers 
+  Workshops Program 
+  BoFs Committee 
+  Steering Committee 
+  QCE | QCE23 News & Updates 
+  QCE23 Sitemap 
+  QCE22 Website 
+  Exhibitor Opportunities 
+  QCE23 CFP 
+  Submission Deadlines 
+  Key Deadlines 
+  Contacts 
+  D&I Statement 
+  Code of Conduct 
+  In-Person Event with Virtual Component 
+  Media Center 
+  Financial Co-Sponsors 
+  IEEE Quantum 
+  Authors | Call for Contributions 
+  Submission Deadlines 
+  QCE23 CFP 
+  EasyChair Submit 
+  Call for BoF Proposals 
+  Key Deadlines 
+  In-Person Event with Virtual Component 
+  Attend | Why Attend 
+  Press Release 
+  IEEE QCE23 Minor Release Form 
+  QCE23 Hyatt Floor Plans 
+  In-Person Event with Virtual Component 
+  Program Synopsis 
+  Career Fair 
+  Code of Conduct 
+  COVID-19 
+  Program | Final Conference Program 
+  Speaker Guide 
+  Exhibitors & Sponsors 
+  Program Overview | 2023 CS Awards Panel 
+  Student Mentorship 
+  Career Fair 
+  QSEEC 2023 Program 
+  Keynote Speakers 
+  Workshops Program 
+  BoFs Committee 
+  Steering Committee 
+  QCE | QCE23 News & Updates 
+  QCE23 Sitemap 
+  QCE22 Website 
+  IEEE Quantum Initiative 
+ IEEE Quantum Week 2023  
+   Sep 17–22, 2023 in Bellevue, Washington  
+  IEEE Quantum Week 2024 will be held  
+  Sep 15-20, 2024 in Montréal, Québec, Canada   
+ Trending    
+ 2023 CS Awards Panel    
+ Sarah Sheldon Keynote    
+  Quantum       
+ IEEE Quantum Week  — the IEEE International Conference on Quantum Computing and Engineering (QCE)  — is bridging the gap between the science of quantum computing and the development of an industry surrounding it. As such, this event brings a perspective to the quantum industry different from academic or business conferences. IEEE Quantum Week is a multidisciplinary quantum computing and engineering venue that gives attendees the unique opportunity to discuss challenges and opportunities with quantum researchers, scientists, engineers, entrepreneurs, developers, students, practitioners, educators, programmers, and newcomers.  
+ QCE23 will be held as an  in-person event with virtual participation in Bellevue, Washington, USA  at the  Hyatt Regency Bellevue on Seattle’s Eastside   .  After three highly successful IEEE Quantum Week events, w  e are eager to develop an oustanding conference program with  live exhibits, world-class keynote speakers, technical papers, community building workshops,  workforce-building tutorials  , stimulating panels, innovative posters, thought-provoking Birds of Feather (BoF) sessions, networking, sessions. Attend in-person for the full conference experience!  Virtual registration options are available for those who are unable to travel to Bellevue, Washington, USA.    
+ With your contributions and support, together we are building a wonderful premier meeting of quantum minds to help advance the fields of quantum computing and engineering. IEEE Quantum Week provides ample opportunities to network with your peers and explore partnerships with industry, government, and academia. Quantum Week 2023 aims to bring together quantum professionals, researchers, educators, entrepreneurs, champions and enthusiasts to exchange and share their experiences, challenges, research results, innovations, applications, pathways and enthusiasm on all aspects of quantum computing and engineering.   
+ IEEE Quantum Week aims to showcase quantum research, practice, applications, education, and training including programming systems, software engineering methods & tools,  hybrid quantum-classical computing, architectures & algorithms , benchmarks & performance metrics, hardware engineering, architectures, & topologies as well as many applications including simulation of chemical, physical and biological systems, optimization techniques & solutions, and quantum machine learning.   
+ Use of this website signifies your agreement to the IEEE Terms and Conditions  .  
+  A not-for-profit organization, IEEE is the world’s largest technical professional organization dedicated to advancing technology for the benefit of humanity.  
+ All content copyright 2023 IEEE.
+7. QCE_1 conference:
+Exhibitor Opportunities 
+  QCE23 CFP 
+  Submission Deadlines 
+  Key Deadlines 
+  Contacts 
+  D&I Statement 
+  Code of Conduct 
+  In-Person Event with Virtual Component 
+  Media Center 
+  Financial Co-Sponsors 
+  IEEE Quantum 
+  Authors | Call for Contributions 
+  Submission Deadlines 
+  QCE23 CFP 
+  EasyChair Submit 
+  Call for BoF Proposals 
+  Key Deadlines 
+  In-Person Event with Virtual Component 
+  Attend | Why Attend 
+  Press Release 
+  IEEE QCE23 Minor Release Form 
+  QCE23 Hyatt Floor Plans 
+  In-Person Event with Virtual Component 
+  Program Synopsis 
+  Career Fair 
+  Code of Conduct 
+  COVID-19 
+  Program | Final Conference Program 
+  Speaker Guide 
+  Exhibitors & Sponsors 
+  Program Overview | 2023 CS Awards Panel 
+  Student Mentorship 
+  Career Fair 
+  QSEEC 2023 Program 
+  Keynote Speakers 
+  Workshops Program 
+  BoFs Committee 
+  Steering Committee 
+  QCE | QCE23 News & Updates 
+  QCE23 Sitemap 
+  QCE22 Website 
+  Exhibitor Opportunities 
+  QCE23 CFP 
+  Submission Deadlines 
+  Key Deadlines 
+  Contacts 
+  D&I Statement 
+  Code of Conduct 
+  In-Person Event with Virtual Component 
+  Media Center 
+  Financial Co-Sponsors 
+  IEEE Quantum 
+  Authors | Call for Contributions 
+  Submission Deadlines 
+  QCE23 CFP 
+  EasyChair Submit 
+  Call for BoF Proposals 
+  Key Deadlines 
+  In-Person Event with Virtual Component 
+  Attend | Why Attend 
+  Press Release 
+  IEEE QCE23 Minor Release Form 
+  QCE23 Hyatt Floor Plans 
+  In-Person Event with Virtual Component 
+  Program Synopsis 
+  Career Fair 
+  Code of Conduct 
+  COVID-19 
+  Program | Final Conference Program 
+  Speaker Guide 
+  Exhibitors & Sponsors 
+  Program Overview | 2023 CS Awards Panel 
+  Student Mentorship 
+  Career Fair 
+  QSEEC 2023 Program 
+  Keynote Speakers 
+  Workshops Program 
+  BoFs Committee 
+  Steering Committee 
+  QCE | QCE23 News & Updates 
+  QCE23 Sitemap 
+  QCE22 Website 
+ Use of this website signifies your agreement to the IEEE Terms and Conditions  .  
+  A not-for-profit organization, IEEE is the world’s largest technical professional organization dedicated to advancing technology for the benefit of humanity.  
+ All content copyright 2023 IEEE.
+8. QCE_2 conference:
+Exhibitor Opportunities 
+  QCE23 CFP 
+  Submission Deadlines 
+  Key Deadlines 
+  Contacts 
+  D&I Statement 
+  Code of Conduct 
+  In-Person Event with Virtual Component 
+  Media Center 
+  Financial Co-Sponsors 
+  IEEE Quantum 
+  Authors | Call for Contributions 
+  Submission Deadlines 
+  QCE23 CFP 
+  EasyChair Submit 
+  Call for BoF Proposals 
+  Key Deadlines 
+  In-Person Event with Virtual Component 
+  Attend | Why Attend 
+  Press Release 
+  IEEE QCE23 Minor Release Form 
+  QCE23 Hyatt Floor Plans 
+  In-Person Event with Virtual Component 
+  Program Synopsis 
+  Career Fair 
+  Code of Conduct 
+  COVID-19 
+  Program | Final Conference Program 
+  Speaker Guide 
+  Exhibitors & Sponsors 
+  Program Overview | 2023 CS Awards Panel 
+  Student Mentorship 
+  Career Fair 
+  QSEEC 2023 Program 
+  Keynote Speakers 
+  Workshops Program 
+  BoFs Committee 
+  Steering Committee 
+  QCE | QCE23 News & Updates 
+  QCE23 Sitemap 
+  QCE22 Website 
+  Exhibitor Opportunities 
+  QCE23 CFP 
+  Submission Deadlines 
+  Key Deadlines 
+  Contacts 
+  D&I Statement 
+  Code of Conduct 
+  In-Person Event with Virtual Component 
+  Media Center 
+  Financial Co-Sponsors 
+  IEEE Quantum 
+  Authors | Call for Contributions 
+  Submission Deadlines 
+  QCE23 CFP 
+  EasyChair Submit 
+  Call for BoF Proposals 
+  Key Deadlines 
+  In-Person Event with Virtual Component 
+  Attend | Why Attend 
+  Press Release 
+  IEEE QCE23 Minor Release Form 
+  QCE23 Hyatt Floor Plans 
+  In-Person Event with Virtual Component 
+  Program Synopsis 
+  Career Fair 
+  Code of Conduct 
+  COVID-19 
+  Program | Final Conference Program 
+  Speaker Guide 
+  Exhibitors & Sponsors 
+  Program Overview | 2023 CS Awards Panel 
+  Student Mentorship 
+  Career Fair 
+  QSEEC 2023 Program 
+  Keynote Speakers 
+  Workshops Program 
+  BoFs Committee 
+  Steering Committee 
+  QCE | QCE23 News & Updates 
+  QCE23 Sitemap 
+  QCE22 Website 
+ Welcome to QCE23 Registration   
+ IEEE Quantum Week 2023, the IEEE International Conference on Quantum Computing and Engineering (QCE23), will take place in the week of September 17-22, 2023 in Bellevue, Washington, USA.   
+ QCE23 Open for Registration   
+ QCE23 Registration opened on  World Quantum Day April 14, 2023.    
+  QCE23 Early Registration ends August 14  Mon, August 21, 2023.   
+  QCE23 Late Registration starts Aug 15  Tue, August 22, 2023.  QCE23 Registration Summary 
+  QCE23 Registration Fees 
+  QCE23 Important Author Registration 
+  If you need registration assistance, please email [email protected]   .    
+ QCE23 Open for Registration   
+ QCE23 Registration opened on  World Quantum Day April 14, 2023.  QCE23 Early Registration ends August 14  Mon, August 21, 2023.  QCE23 Late Registration starts Aug 15  Tue, August 22, 2023.  QCE23 Registration Summary 
+  QCE23 Registration Fees 
+  QCE23 Important Author Registration 
+  If you need registration assistance, please email [email protected]   .     
+ On-Site Registration Desk   
+ IEEE Quantum Week 2023 Registration Desk is located in the Grand Ballroom Foyer.   
+ Hours 
+ Before you register   
+ With membership in IEEE or any of the IEEE societies sponsoring the QCE23, you will receive an approximate discount of 20%  on all available QCE23 conference registration packages and fees.    
+ How to become a member   
+ Use of this website signifies your agreement to the IEEE Terms and Conditions  .  
+  A not-for-profit organization, IEEE is the world’s largest technical professional organization dedicated to advancing technology for the benefit of humanity.  
+ All content copyright 2023 IEEE.
+9. QoMEX_0 conference:
+Skip to content  QoMEX   
+ International Conference on Quality of Multimedia Experience  
+ International Conference on Quality of Multimedia Experience  
+ The primary goal of the conference is to bring together leading professionals and scientists in multimedia quality and user experience from around the world. QoMEX is a conference occurring annually in early summer and guided by a steering committee  .  
+ News  
+  October 18, 2023: QoMEX 2024 web site is | online | — | Towards Immersive Digiphysical Experiences 
+  September 15, 2022: QoMEX 2023 web site is | online | — | Towards Sustainable and Inclusive Multimedia Experiences 
+  Next QoMEX Conference  
+ Past QoMEX Conferences  
+ (#) year, city, country (chairs), accepted papers/submitted papers (acceptance rate)   
+ Join the QoMEX Community  
+  Become a QUALINET member using information provided | here | . 
+  Links  
+ QoMEX proceedings on IEEExplore | (technically co-sponsored by IEEE Signal Processing Society) 
+  QoMEX on | WikiCfP 
+  QoMEX on | DBLP 
+  QoMEX on | Google Scholar 
+  QoMEX on | CORE 
+  QoMEX is typically technical co-sponsored by IEEE Signal Processing Society | Multimedia Signal Processing Technical Committee 
+  QUALINET | [ | QoE white paper | ] [ | IMEx white paper | ] 
+  QUALINET Databases 
+  Springer | Quality and User Experience (QUEX) 
+ QoMEX Logo  
+ QUALINET  
+  Treasurer | : | Sebastian Möller 
+  Webmaster | : | Christian Timmerer 
+  Email  : contact@qomex.org   
+ QoMEX Logo Package   
+ Recent ACM SIGMM Records QoE Column (edited by T. Hoßfeld, C. Timmerer) 
+  T. Hoßfeld, P. Perez, " | From Theory to Practice: System QoE Assessment by Providers | ", September 19, 2024 
+  S. Afzal et al., " | Energy-Efficient Video Streaming: Open-Source Tools, Datasets, and Solutions | ", June 13, 2024. 
+  M. Fiedler, L. Skorin-Kapov, " | Towards Immersive Digiphysical Experiences | ", February 03, 2024. 
+  M. Seufert, N. Wehner, " | Explainable Artificial Intelligence for Quality of Experience Modelling | ", July 24, 2023. 
+ Home 
+  Steering Committee 
+ QoMEX   Proudly powered by WordPress
+10. QoMEX_2 conference:
+Toggle Menu         
+ QoMEX 2023  
+ « All Events   
+   This event has passed. 
+ 20/06/2023  –  22/06/2023   
+ The 15th International Conference on Quality of Multimedia Experience  
+ Towards sustainable and inclusive multimedia experiences  
+ The 15th International Conference on Quality of Multimedia Experience (QoMEX 2023) will be held from June 20 to 22, 2023 in Ghent, Belgium. It will bring together leading experts from academia and industry to present and discuss current and future research on multimedia quality, quality of experience (QoE) and user experience (UX). This way, it will contribute to excellence in developing multimedia technology, towards user well-being, and it will foster the exchange between multidisciplinary communities.  
+ SPIRIT Participation in QoMEX 2023  
+ Event Navigation  
+  IBC 2023 » 
+ Search        
+ Upcoming Events  
+ Dec  4     
+ December 4  - December 6     
+ Immersive Tech Week 2024   
+ SPIRIT Open Call 2 Workshop: slides and recording now available!   
+ On 4 November 2024, the SPIRIT consortium held a highly... Read More → SPIRIT Open Call 2 Workshop: slides and recording now available!
+
+output:1. PSIVT_0 information:
+2. PSIVT_2 information:
+3. PSIVT_3 information:
+4. PST_0 information:
+5. PST_1 information:
+6. QCE_0 information:
+7. QCE_1 information:
+8. QCE_2 information:
+9. QoMEX_0 information:
+10. QoMEX_2 information:

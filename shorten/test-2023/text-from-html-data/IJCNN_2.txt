@@ -1,0 +1,68 @@
+ More Sites    
+ IEEE IJCNN 2023       
+ About | Venue 
+  Topics 
+  Call For Proposals 
+  Conference Photos 
+  Program | IJCNN 2023 Program 
+  Program at a Glance 
+  Award Winners 
+  CIS Events 
+  INNS-Sponsored Events 
+  Author Instructions | Presentation Information 
+  Pre-Recorded Video Instructions 
+  Special Sessions 
+  Paper Submission Information 
+  Final Paper Submission Instructions 
+  Registration 
+  Sponsor | Sponsoring Affiliates 
+  Accommodations 
+  VISA 
+  How To Get To IJCNN 2023 
+  CIS Travel Grant 
+  INNS Travel Grant 
+ Special Sessions  Special Sessions  
+ The following Special Sessions have been accepted for IJCNN. If you want to submit your paper to one of the following special sessions, then you should select the relevant special session during the paper submission.  
+ Submit Paper       
+ Social Network Computation for Online Intelligence 
+  Lifelong Learning: Recent Advances and Challenges 
+  Neuromorphic Computing for Cloud, Edge and IoT 
+  Computational Intelligence in Transactive Energy Management and Smart Energy Network (CITESEN 2023) 
+  Evolutionary Neural Computation 
+  Machine Learning and Deep Learning Methods applied to Vision and Robotics (MLDLMVR) 
+ Transfer learning and transfer optimization aims to increase the quality or efficiency of learners and optimizers via transferring useful knowledge. They are essential in real-world applications, because in many scenarios, the input space, data distributions, learning tasks, and decision space may change over time. Thus, adapting learning or optimization approaches of historical environments can speed up learning or optimization problems solving in new environments. In some other scenarios,  
+  collecting or labelling training data in a learning problem may be expensive or unavailable. Exploring the knowledge from different but related domains is much helpful in enhancing the quality of a model. Additionally, training models, such as the deep neural network or fitness evaluations, may computationally expensive. In this case, reusing models or solutions from related learning or optimization tasks are helpful in reducing computational time or resource. However, due to different characters of tasks, such as the size of collected data, the quality of collected data, the similarity between tasks, and complexities of tasks, exploring and transferring useful knowledge are often very  
+  different. The theme of this special session is transfer learning and optimization, covering ALL different learning and optimization paradigms, machine learning and optimization approaches. The aim is to investigate the new theories, methods of leveraging and reusing knowledge of transfer learning and optimization, and their applications.  
+   Cuie Yang 
+  Ryosho Nakane 
+  Akira Hirose 
+  Computational Intelligence in Transactive Energy Management and Smart Energy Network (CITESEN 2023)  
+  Federated Learning - Methods, Applications, Challenges, and beyond  
+ Due to data isolation and privacy challenges in the real world, Federated Learning stands out among various AI technologies for real-world scenarios, ranging from business applications like risk evaluation systems in finance to drug discovery in life sciences. Although still in its infancy, FL has already shown significant theoretical and practical results, making it one of the hottest topics in the machine learning community. Nonetheless, many questions and challenges remain open and attract increasing interest from international research communities: e.g., the statistical unbalancing of data, distributed optimization problems, communication latency, security, and resilience to attack issues. In particular, the trustworthiness of FL systems is threatened by adversarial attacks against data privacy, the learning algorithm’s stability, and the system’s confidentiality. Such vulnerabilities are exacerbated by the distributed training in federated learning, which makes protecting against threats harder and makes it evident the need to further the research on defense methods to make federated learning a real solution for a trustworthy system.  
+ The main objective of the 2023 Special Session on Federated Learning - Methods, Applications, Challenges, and beyond, is to focus the international research community’s attention on the emerging perspectives and practical algorithms in Federated Learning, with a particular emphasis on its privacy and security aspects. This session aims to collect novel contributions and research experiences from the variegated research communities participating in the IJCNN conference. We believe that such diversity will help in finding novel approaches for mitigating current issues and optimise Federated Learning algorithms.  
+   Mirko Polato 
+  Zenglin Xu 
+ Reservoir Computing (RC) is a popular approach for efficiently training Recurrent Neural Networks (RNNs), based on (i) constraining the recurrent hidden layers to develop stable dynamics, and (ii) restricting the training algorithms to operate solely on an output (readout) layer.  
+ Over the years, the field of RC attracted a lot of research attention, due to several reasons. Indeed, besides the striking efficiency of training algorithms, RC neural networks are distinctively amenable to hardware implementations (including neuromorphic unconventional substrates, like those studied in photonics and material sciences), enable clean mathematical analysis (rooted, e.g., in the field of random matrix theory), and finds natural engineering applications in resource-constrained contexts, such as edge AI systems. Moreover, in the broader picture of Deep Learning development, RC is a breeding ground for testing innovative ideas, e.g. biologically plausible training algorithms beyond gradient back-propagation. Although established in the Machine Learning field, RC lends itself naturally to interdisciplinarity, where ideas and inspirations coming from diverse areas such as computational neuroscience, complex systems and non-linear physics can lead to further developments and new applications.  
+ This special session is intended to be a hub for discussion and collaboration within the Neural Networks community, and therefore invites contributions on all aspects of RC, from theory, to new models, to emerging applications.  
+   Andrea Ceni 
+  Fair, Explainable, and Interpretable AI to Address Fintech Challenges  
+ Different regulatory bodies globally, namely in the framework of the European Commission, are proposing laws to regulate the use of artificial intelligence (AI), especially in critical applications, notably in financial applications. These so-called high-risk AI systems are being recommended to adhere to explainable principles in the spirit of creating trustworthy AI that can tackle hurdles that exist in real application due to lack of model interpretability.  
+ Interpretability has been a focus of research since the beginning of Deep Learning, because high accuracy and high abstraction bring the black box problem, i.e., accuracy vs interpretability problem. This aspect is also of importance because of trustworthiness issues, i.e., a model that is not trusted is a model that will not be used. These issues often arise in real application scenarios, where end-users are not easily convinced of the reliability of black box model.  
+ The financial sector is one of the largest users of digital technologies and a major driver in the digital transformation of the economy. Financial technology (FinTech) aims to both compete with and support the established financial industry in the delivery of financial services. As the emerging financial crisis is bringing to everyone’s attention, the financial sector is one of the forerunners in the public concern, e.g. credit scoring models are explicitly given as an example of a high-risk use case where standard intelligent models may fail in this new era.  
+ The research field of deep learning for graphs studies the application of well-known deep learning concepts, such as convolution operators on images, to the processing of graph-structured data. Graphs are abstract objects that naturally represent interacting systems of entities, where interactions denote functional and/or structural dependencies between them. Molecular compounds and social networks are the most common examples of such graphs: on the one hand, a molecule is seen as a system of interacting atoms, whose bonds depend, e.g., on their inter-atomic distance; on the other hand, a social network represents a vastly heterogeneous set of user-user interactions, as well as between users and items, like, pictures, movies and songs. Besides, graph representations are extremely useful in far more domains, for instance to encode symmetries and constraints of combinatorial optimization problems as a proxy of our a-priori knowledge. For these reasons, learning how to properly map graphs and their nodes to values of interest poses extremely important, yet challenging, research questions. This special session on graph learning will solicit recent advances that exploit various topics to benefit the solving of real-world problems.   
+ The special session we propose is an excellent opportunity for the machine learning community and IJCNN 2023 to gather together and host novel ideas, showcase potential applications, and discuss the new directions of this remarkably successful research field. In particular, the special session will attract papers proposing deep learning models and methods for graphs, e.g., graph coarsening, structure learning, graph kernels and distances, and graph stream processing. Theoretical results, benchmarks, and practical applications are also welcome and encouraged.   
+   Davide Bacciu    Biography 
+  Daniele Castellana    Biography 
+ Key Dates    
+ Paper Submission  Special Sessions 
+ Call for Proposal    
+ Travel  Visit Queensland 
+  Accommodations 
+  How To Get To IJCNN 2023 
+  Travel Grants 
+  Conference Photos 
+  Program 
+  Author Instructions 
+  Registration 
+  Sponsor 

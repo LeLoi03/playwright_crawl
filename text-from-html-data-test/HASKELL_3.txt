@@ -1,0 +1,122 @@
+The Haskell Foundation   
+
+ Home  About   
+ Current Board  Past Boards  Contact  Vision  Careers  Podcast  Projects  Sponsorship  Affiliates   
+ Affiliates  About Affiliating  News and Info   
+ News  Blog  Press  Resources  FAQ    
+
+ About | Current Board  Past Boards  Contact  Vision  Careers 
+  Podcast 
+  Projects 
+  Sponsorship 
+  Affiliates | Affiliates  About Affiliating 
+  News and Info | News  Blog  Press  Resources  FAQ 
+
+ 2023 GHC Contributors' Workshop  
+ A hands-on introduction to working on GHC, colocated with Zurihac 2023  
+
+ Location:  Rapperswil, Switzerland   
+ Dates:  June 7-9, 2023   
+   
+ We are excited to announce the 2023 GHC Contributors’ Workshop, June 7-9 2023  , organized by the GHC developers, the Haskell Foundation, and the OST Eastern Switzerland University of Applied Sciences! This is a workshop for those who want to get started working on GHC, those who want to understand GHC’s internals to better diagnose issues with their own code, and those who want to transfer lessons learned in GHC to other compilers. The primary aim of the workshop is to broaden the base of contributors to GHC.  
+ In this three-day event, held on the lakeside campus of OST in lovely Rapperswil, Switzerland, you can learn what you need to know in order to get started working on GHC, right from the core team itself. Because the workshop is immediately prior to Zurihac 2023  , there will be time to work on your project and ask questions.  
+ In-Person Attendance  
+ In-person attendance is now full. For those who have already registered, practical details are listed below.  
+ Free Online Participation  
+ We will be using Zurihac’s Discord server as a chat platform and livestreaming YouTube. Please fill out this registration form  by June 5 in order to participate. Links to streams will be posted to the Discord server.  
+ The Workshop  
+ At this workshop, you can learn the ins and outs of working on GHC, including practical techniques for minimizing rebuilds and diagnosing compiler bugs. The fundamental concepts and idioms of key compiler subsystems will be presented, along with tips and tricks for understanding how they are working in a running compiler. This is a practical workshop: any theory presented will be in service of building things, and we expect that you will arrive with a checkout and build of the source tree ready to go.  
+ Additionally, the speakers will be available to answer questions and to provide mentorship during Zurihac itself, so this is a great opportunity to finish your first MR.  
+ We expect that participants already know Haskell and have worked on some form of programming language implementation in the past, whether as students, at work, or just for fun. Concepts such as parsing, type checking, unification, and code generation should be familiar, but we don’t expect participants to already be experts.  
+ Practical Information and Schedule  
+ The workshop will be held at the Rapperswil-Jona campus of OST  . It is right next to the Rapperswil train station, at Oberseestrasse 10  . The Zurihac 2023 site  has instructions for transportation between Rapperswil and Zürich.  
+ All talks and presentations will be held in room 4.112. This is an air-conditioned classroom that will be configured conference-style, which means that most seats won’t have a table or desk attached. During the event, we’ll let you know which additional spaces are good for compiler hacking.  
+ Preparation  
+ This is a hands-on workshop, so please bring the equipment that you need to work on GHC (laptop, power adapter, etc). Swiss electricity is 220 volts, 50 Hz AC. Swiss power outlets  are different than in many European countries, so please bring an appropriate adapter if necessary. Drinking fountains are not common in Europe, so please bring a refillable water bottle.  
+ Please make sure that you have checked out and built  a recent GHC from source before arriving  . In a separate checkout, please build the JavaScript backend  as well. You should also have a working GHC GitLab account  prior to arrival. If you have difficulties, the GHC developers have recommended asking for support in #ghc  on Matrix  or IRC.  
+ Checklist  
+ Swiss power adapter(s), if necessary 
+  Refillable water bottle 
+  Working account on | gitlab.haskell.org 
+  Checked out and built a recent GHC from source 
+  Checked out and built the JavaScript backend from source 
+  Program  
+ Please check this space for last minute program changes. As of now, the schedule is as follows:  
+  
+ 2023-06-07 
+ 8:00-9:00 | Registration |  
+ 9:00-9:20 | Welcome and Intro (video) | Farhad Mehta and David Thrane Christiansen 
+ 9:30-11:15 | Getting Up, Running, and Contributing to GHC (slides)  (video) | Ryan Scott 
+ 11:30-12:20 | GHC’s Renamer, part 1 (slides)  (video) | Sam Derbyshire 
+ 12:30-13:30 | Lunch at Mensa (Note: food is served only until 13:15) |  
+ 13:40-14:40 | GHC’s Renamer, part 2 (slides)  (video) | Sam Derbyshire 
+ 15:00-17:00 | GHC Core Optimisations (slides)  (video) | Sebastian Graf 
+ 2023-06-08 
+ 9:15-9:30 | Practical Info (video) | Farhad Mehta and David Thrane Christiansen 
+ 9:30-11:15 | GHC’s Runtime System (slides)  (video) | Ben Gamari 
+ 11:30-12:20 | The GHC WebAssembly Backend, part 1 (slides)  (video) | Cheng Shao 
+ 12:30-13:30 | Lunch |  
+ 13:40-14:40 | The GHC WebAssembly Backend, part 2 (slides)  (video) | Cheng Shao 
+ 15:00-17:00 | Secrets of the GHC Typechecker in 100 Type Declarations (slides)  (video) | Simon Peyton Jones 
+ 17:15-17:45 | Higher-order Patterns in Rewrite Rules - From Proposal to MR (video) | Jaro Reinders 
+ 2023-06-09 
+ 9:15-9:30 | Practical Info (video) | Farhad Mehta and David Thrane Christiansen 
+ 9:30-11:15 | The GHC Packaging Ecosystem (slides)  (video) | Duncan Coutts 
+ 11:30-12:20 | GHC’s JavaScript Backend, part 1 (slides & examples)  (video) | Sylvain Henry 
+ 12:30-13:30 | Lunch |  
+ 13:40-14:40 | GHC’s JavaScript Backend, part 2 (slides & examples)  (video) | Sylvain Henry 
+ 15:00-17:00 | Haskell Language Server (slides)  (video) | Zubin Duggal 
+ 17:00-17:30 | Farewell (video) | David Thrane Christiansen and Farhad Mehta 
+  
+ All times are in CEST using a 24-hour clock. Speakers have been asked to plan appropriate breaks during their timeslots.  
+ We don’t expect every participant to attend every presentation. It’s perfectly acceptable to skip a topic that you’re less interested in so you can hack on a topic that you are interested in, taking advantage of ready access to GHC experts for hands-on assistance.  
+ Lunch and Refreshments  
+ We will eat lunch in the OST canteen, called Mensa. While Mensa is open from 11:00-13:15, it is very busy from 11:45-12:30 because classes are in session, and they’ve asked that we go before or after. Talks have been scheduled to account for this.  
+ Coffee, tea, and fruit will be provided. There is also easy access to a tap for water. Dinner is on your own. There is a grocery store very near the campus where other products can be purchased as well.  
+ Presenters  
+ The workshop will be instructed by seasoned contributors to GHC. So far, we have confirmed that the following GHC developers will present.  
+ Ben Gamari, Well-Typed  
+ Ben has been contributing to GHC for over a decade and been working as a full-time compiler engineer at Well-Typed since 2015. In that time he has worked across the compiler, from parsing to code generation to release management and development infrastructure. His contributions include GHC’s non-moving concurrent garbage collector, GHC’s type-reflection implementation, and numerous improvements in profiling. He tends to find himself working near the back end of GHC’s compilation pipeline and runtime system.  
+ Cheng Shao, Tweag  
+ Cheng Shao is a full-time software engineer at Tweag, where he has been working since 2018. His main contribution to GHC is the WebAssembly backend, which grew out of his early research project, a Haskell-to-WebAssembly compiler codenamed Asterius. He focuses on maintaining the GHC WebAssembly backend, adding new functionality, as well as other GHC work that involves code generation and the runtime system.  
+ Duncan Coutts, Well-Typed  
+ Duncan has been using Haskell since the end of the last century, founded a Haskell consultancy company fifteen years ago, and has had a hand in various Haskell libraries and tools over the years.  
+ Ryan Scott, Galois  
+ Ryan has contributed to GHC since 2015, and has worked on type class deriving, Template Haskell, pattern-match coverage checking, and various odds and ends in the type checker. He has worked as a research engineer at Galois, Inc.  since 2020, where he works on a variety of program analysis tools such as Cryptol  , Crux  , and SAW  . In addition, Ryan maintains a large number of libraries on Hackage, and as a result, he contributes to the maintenance of head.hackage  , which makes it possible to check if upcoming changes to GHC will affect the code that he maintains.  
+ Sam Derbyshire, Well-Typed  
+ Sam is a GHC contributor who joined the Well-Typed team in late 2021. Despite being relatively new to GHC, Sam has already made significant contributions to the project, such as overhauling representation-polymorphism checking and more recently the handling of duplicate record fields. He attributes this success to the wonderful community of GHC contributors who helped him become familiar with the project. In addition to his work on GHC, Sam also developed a graphics shader library in Haskell; his latest project involves typesetting Japanese sheet music for the shakuhachi.  
+ Sebastian Graf, Karlsruhe Institute of Technology  
+ Sebastian is currently a PhD student at Karlsruhe Institute of Technology. Ever since he had started his Master’s thesis, he is deeply invested in the Core optimisations and static analyses of GHC and regularly contributes improvements and bug fixes in those areas. In particular, his GHC interests revolve around demand analysis, arity analysis, specialization, the simplifier and pattern-match coverage checking. At university, Sebastian assists lectures in basics of Functional Programming as well as (imperative) Compiler Design and found research interest in programming language semantics as well as Abstract Interpretation. He also is an enthusiastic trumpet player.  
+ Simon Peyton Jones, Epic Games  
+ Simon is an Engineering Fellow at Epic Games. Until 2022, he was a researcher at Microsoft Research in Cambridge, England, where he started in 1998. He’s also an Honorary Professor of the Computing Science Department at Glasgow University, where he was a professor during 1990-1998. Simon is interested in the design, implementation, and application of lazy functional languages. He was one of the original designers of Haskell, and much of his work is focused around the Glasgow Haskell Compiler and its ramifications. Simon’s earlier work was instrumental in discovering how to generate efficient code for lazy languages on stock hardware, but today, he focuses on the GHC type checker, constraint solver, and simplifier.  
+ Sylvain Henry, IOG  
+ Sylvain has a background in high-performance computing and has been contributing to GHC since 2015. He joined IOG in 2019 to work full-time on GHC. Since 2022, he has led a small team of engineers working on improving Haskell tooling. His contributions include ghc-bignum  (an improved implementation of GHC’s support for big numbers), improvements to GHC’s constant-folding capabilities, various fixes to the RTS, and a lot of refactoring to make GHC’s code more modular and to make GHC a better cross-compiler. In 2022, his team added a new JavaScript backend to GHC, adapted from GHCJS.  
+ Zubin Duggal, Well-Typed  
+ Zubin discovered Haskell while in high school, searching for a better way to write programs after getting frustrated with Python and Java. He studied Mathematics and Computer Science as an undergraduate and completed a Master’s degree in Computer Science from the Chennai Mathematical Institute. During that time, he developed an interest in compilers, program analysis, software verification, computer-aided theorem proving and type systems. He has been a contributor to GHC and various incarnations of the Haskell IDE projects starting with Haskell IDE Engine as a Haskell Summer of Code participant in 2017 and continued being involved in the development of ghcide  and Haskell Language Server.  
+ Participation  
+ Due to space constraints and to enable scholarships for student participants, there will be a fee for full on-site participation. Fees will be used to cover travel costs for presenters, other direct costs of running the event, and students who don’t have other funding to attend. The fee depends on participant category:  
+ Enrolled students  ($40) are participants who are enrolled full-time at an educational institution. 
+  Individual professionals  ($400) are no longer students and are interested in working on GHC for their own purposes. 
+  Corporate participants  ($1200) are being paid by their employer to attend so that they can use the knowledge that they gain on the job. Corporate participants will have their company name on their name tag and their company will be listed on the event web page as a supporter of the event. 
+  All fees are in US dollars. We want the event to be as accessible as possible, given our limitations, so if the fee is a barrier to attending, please contact David Thrane Christiansen at david@haskell.foundation  to discuss a reduced or waived fee—this goes for all three categories of participant.  
+ A certificate of completion will be available on advance request to students who attend the entire event.  
+ Remote participation will make use of the Zurihac infrastructure. We will do our best to stream presentations and to post recordings as quickly as possible, and we will also have a chat system for remote participants.  
+ If you or your company would like to sponsor the event, enabling more students to have financial support to attend, please contact David Thrane Christiansen at david@haskell.foundation  .  
+ Applications for the event are now closed.  
+
+ SPONSORS   
+ Monads   
+
+ Applicatives   
+
+ Functors   
+
+ To learn more about the Haskell Foundation   
+ >> contact us    
+
+  2024 © Haskell Foundation, submit website bug reports and fixes on GitHub    
+   
+ Haskell Foundation, Inc.   
+ 2093 Philadelphia Pike #8119   
+ Claymont, DE 19703   
+ USA

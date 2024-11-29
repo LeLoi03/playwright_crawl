@@ -1,0 +1,23 @@
+MEMOCODE'23   
+ 21st ACM-IEEE International Symposium on Formal Methods and Models for System Design  
+  Hamburg, Germany  
+  September 21-22, 2023  
+ Home 
+ Call for Papers  
+ MEMOCODE brings together researchers and practitioners interested in formal methods for system design and development, to exchange ideas, research results and lessons learned. The symposium focuses on the foundations and applications of formal methods in the development of hardware, firmware, middleware, and application software for systems, ranging from single embedded devices to highly networked cyber-physical systems and the Internet of Things.  
+ Topics of Interest  
+ MEMOCODE solicits research papers on formal methods in system design that address the foundations, engineering methods, tools, or experimental case studies. Research areas of interest include, but are not limited to, the following:  
+ Modeling Languages, Methods, and Tools | Programming languages and models; software and system modeling languages; architecture and high-level hardware description languages; timing models; model and program synthesis methods; model transformation methods. 
+  Formal Methods and Tools | Correct-by-construction methods; contract-based design and verification; static, dynamic, and type theoretic analysis; verification; validation; probabilistic model checking; test generation; refinement-based and compositional approaches to design and verification. 
+ Dates  
+ Abstract submission deadline: May 12, 2023 
+  Paper submission deadline: May 26, 2023 
+  Notification of acceptance: Jul 07, 2023 | (slightly delayed) 
+  Final version of papers: Aug 4, 2023 
+  Conference: Sep 21-22, 2023 
+  MEMOCODE'23 is a part of ESWEEK 2023  , which will take place in Hamburg, Germany. Registered attendees can attend sessions in any of the online events, including the conferences (CASES, CODES+ISSS, EMSOFT), symposia, tutorials, workshops, and education classes. Submissions  
+ MEMOCODE'23 calls for three kinds of submissions: regular papers, work-in-progress papers, and tool presentations. All papers must be written in English and formatted according to the IEEE Computer Society guidelines  . A double-blind review process  will be enforced. Authors must not reveal their identity directly or indirectly. Submission of papers is handled via SoftConf  .  
+ Regular papers | are no longer than 10 pages, excluding bibliography and appendices. They should describe original work that does not overlap with another publication or a submission under review or accepted for publication by any other conference or journal. Reviewers will check regular papers for the soundness and novelty of the proposed solutions. 
+  Tool papers | are no longer than 8 pages, excluding bibliography and appendices. They should describe an existing and publicly available tool that implements relevant methods. The methods might have been published before, but the tool should not have been described in a tool paper previously. In addition to reviewing the paper, reviewers will assess the tool itself using inputs and a user's manual provided by the authors on the tool's web page. 
+  Work-in-progress (WIP) papers | are no longer than 4 pages, excluding bibliography and appendices. They should describe ongoing work. Reviewers will judge the novelty of the idea, but do not yet expect proofs for the envisioned results. 
+  For questions regarding technical submissions, feel free to contact one of the program committee co-chairs. All accepted papers (regular papers, WIP papers, and tool papers) will be published as IEEE conference proceedings with IEEE eXpress  . Publication in the proceedings is contingent on one author registering for and presenting the paper at the conference. Selected papers will be invited for publication in a special issue of the ACM Transactions on Embedded Computing Systems. The Program Committee will also select 1-2 papers for the Best Paper Award.

@@ -1,0 +1,369 @@
+  Organization 
+  Call for Papers | (CLOSED) 
+  General IPDPS Info  
+ About IPDPS 
+  Conference Archive 
+  Babbage Award 
+  Steering Committee 
+  Call for Future Hosts 
+  Contact IPDPS 
+  Sponsor  
+ PLEASE NOTE:   
+ Authors must register their paper and submit an abstract by | Thursday, October 3, 2024. 
+  Authors must then submit full versions of registered papers by | Thursday, October 10, 2024 | (firm deadline). 
+  All deadlines are end of day | ANYWHERE ON EARTH. 
+  Before submitting, review the information under | WHAT/WHERE TO SUBMIT below. 
+ SUBMIT YOUR PAPER     
+ Authors are invited to submit manuscripts that present novel and impactful research in high performance computing (HPC) in parallel and distributed processing. Works focusing on emerging technologies, interdisciplinary work spanning multiple IPDPS focus areas, and novel open-source artifacts are welcome. Topics of interest include but are not limited to the following areas:  
+ Algorithms: | This track focuses on algorithms for computational and data science in parallel and distributed computing environments (including cloud, edge, fog, distributed memory, and accelerator-based computing). | Examples include structured and unstructured mesh and meshless methods, dense and sparse linear algebra computations, spectral methods, n-body computations, clustering, data mining, compression, and combinatorial algorithms such as graph and string algorithms. Also included in this track are algorithms that apply to tightly or loosely coupled systems, such as those supporting communication, synchronization, power management, distributed resource management, distributed data and transactions, and mobility. Novel algorithm designs and implementations tailored to emerging architectures (such as ML/AI accelerators or quantum computing systems) are also included. 
+  Applications: | This track focuses on real-world applications (combinatorial, scientific, engineering, data analysis, and visualization) that use parallel and distributed computing concepts. | Papers submitted to this track are expected to incorporate innovations that originate in specific target application areas, and contribute novel methods and approaches that address core challenges in their scalable implementation. Contributions include the design, implementation, and evaluation of parallel and distributed applications, including implementations targeting emerging architectures (such as ML/AI accelerators) and application domain advances enabled by ML/AI. 
+  Programming Models, Compilers, and Runtime Systems: | This track covers topics ranging from the design of parallel programming models and paradigms to languages and compilers supporting these models and paradigms to runtime and middleware solutions | . Software that is close to the application (as opposed to the bare hardware) but not specific to an application is included. Examples include frameworks targeting cloud and distributed systems; application frameworks for fault tolerance and resilience; software supporting data management, scalable data analytics and similar workloads; and runtime systems for future novel computing platforms including quantum, neuromorphic, and bio-inspired computing. Novel compiler techniques and frameworks leveraging machine learning methods are included in this track. 
+  System Software: | This track focuses on software that is close to the bare high-performance computing (HPC) hardware | . Topics include storage and I/O systems; system software for resource management, job scheduling, and energy-efficiency; system software support for accelerators and heterogeneous HPC computing systems; interactions between the operating system, hardware, and other software layers; system software solutions for ML/AI workloads (e.g., energy-efficient software methods for ML/AI); system software support for fault tolerance and resilience; containers and virtual machines; specialized operating systems and related support for high-performance computing; system software for future novel computing platforms including quantum, neuromorphic, and bio-inspired computing; and system software advances enabled by ML/AI. 
+  Best Paper Award  
+ The program committee will select a small set of papers as Best Paper finalists. One paper will be named the Best Paper.  
+ Best Open-Source Contribution Award  
+ IPDPS welcomes submissions with technical contributions of open-source tool and dataset artifacts relevant to the parallel and distributed computing community. The authors of accepted papers may identify their submissions to be considered for the Best Open-Source Contribution award. Such papers will be evaluated by a dedicated open-source tool and dataset artifacts committee. A small set of such papers will be identified as Best Open-Source Contribution finalists. One paper will be recognized with the Best Open-Source Contribution Award.  
+ The two award categories are not exclusive; a paper can be nominated for both the Best Paper award and Best Open-Source Contribution award.   
+ WHAT/WHERE TO SUBMIT  
+ The IEEE conference style templates for MS Word and LaTeX provided by IEEE eXpress Conference Publishing are available for download. See the latest versions here   .  
+ Submit the abstract and register your paper by October 3rd 
+  REVIEW OF MANUSCRIPTS  
+ All submitted manuscripts will be reviewed by the Program Committee under a double-blind, two-round review process. Submissions will be judged on correctness, originality, technical strength, significance, demonstrated or potential impact, quality of presentation, and interest and relevance to the conference. Submitted manuscripts must NOT have appeared in or be under consideration for another conference, workshop, or journal.  
+  A high-quality submission should articulate its contributions in multiple aspects:  
+ Motivation. | Clearly state the paper’s objective and provide strong support to motivate the specific problem the submission addresses. 
+  Limitations of state-of-art approaches. | Unambiguously discuss and distinguish the paper’s contributions from the most relevant and most recent prior works. 
+  Key insights and contributions. | Clearly articulate the major insights that enable the described approach and make it effective. Clearly specify the novelty of these insights and how they advance state-of-the-art. Provide a list of key contributions including flagship theoretical or experimental results and improvement over the prior art. 
+  Methodology. | Clearly specify key theoretical or experimental methodological details. Support the chosen methodological choices (e.g., cite the prior works that have evaluated their ideas using similar methodology). If a new methodology is adopted or theoretical assumptions differ from prior art, provide a detailed justification. 
+  Limitations of the proposed approach. | Articulate all significant limitations of the proposed approach and identify conclusions that are sensitive to assumptions made in the paper. 
+  The Program Committee will assess submissions in the above aspects. Therefore, the authors should make these aspects clear when articulating their contributions.   
+  Authors will have the opportunity to respond to the reviewers’ questions and provide clarifications before the first-round decisions are made. Some submissions may not be invited to submit a response/rebuttal; these submissions will be notified with an early-reject decision by December 3, 2024.  
+ ArXiv Submission Policy  
+ Guidance on Artificial Intelligence (AI)-Generated Text  
+ Tools like ChatGPT, Grammarly, or other AI assistants may be used to improve the submission presentation. However, authors will be held accountable for the accuracy of all information presented as well as for the contributions. IEEE requires   that the use of any AI-generated text be disclosed in the paper’s Acknowledgements section. The sections of the paper that contain AI-generated text must have a citation to the AI system used to generate the text.  
+ Inclusive Description of Research Contributions   
+ Please consider making your research contribution description inclusive in nature. For example, consider using examples that are ethnicity/culture-rich, consider engaging users from diverse backgrounds if your research involves a survey, etc. Best efforts should be made to make the paper accessible to visually impaired or color-blind readers.  
+ Abstract submissions: October 3, 2024 
+  Full manuscript submissions (double-blind):October 10, 2024 - FIRM DEADLINE 
+  Author response/rebuttal to reviews: December 3 – 6, 2024 
+  First round decisions: December 19, 2024 
+  Sarah Neuwirth, Johannes Gutenberg University Mainz, Germany 
+ (Posted 24 October 2024*)   
+ Algorithms   
+  Bilge Acun, Meta, USA  
+ PLEASE NOTE:   
+ Authors must register their paper and submit an abstract by | Thursday, October 3, 2024. 
+  Authors must then submit full versions of registered papers by | Thursday, October 10, 2024 | (firm deadline). 
+  All deadlines are end of day | ANYWHERE ON EARTH. 
+  Before submitting, review the information under | WHAT/WHERE TO SUBMIT below. 
+ SUBMIT YOUR PAPER     
+ Authors are invited to submit manuscripts that present novel and impactful research in high performance computing (HPC) in parallel and distributed processing. Works focusing on emerging technologies, interdisciplinary work spanning multiple IPDPS focus areas, and novel open-source artifacts are welcome. Topics of interest include but are not limited to the following areas:  
+ Algorithms: | This track focuses on algorithms for computational and data science in parallel and distributed computing environments (including cloud, edge, fog, distributed memory, and accelerator-based computing). | Examples include structured and unstructured mesh and meshless methods, dense and sparse linear algebra computations, spectral methods, n-body computations, clustering, data mining, compression, and combinatorial algorithms such as graph and string algorithms. Also included in this track are algorithms that apply to tightly or loosely coupled systems, such as those supporting communication, synchronization, power management, distributed resource management, distributed data and transactions, and mobility. Novel algorithm designs and implementations tailored to emerging architectures (such as ML/AI accelerators or quantum computing systems) are also included. 
+  Applications: | This track focuses on real-world applications (combinatorial, scientific, engineering, data analysis, and visualization) that use parallel and distributed computing concepts. | Papers submitted to this track are expected to incorporate innovations that originate in specific target application areas, and contribute novel methods and approaches that address core challenges in their scalable implementation. Contributions include the design, implementation, and evaluation of parallel and distributed applications, including implementations targeting emerging architectures (such as ML/AI accelerators) and application domain advances enabled by ML/AI. 
+  Programming Models, Compilers, and Runtime Systems: | This track covers topics ranging from the design of parallel programming models and paradigms to languages and compilers supporting these models and paradigms to runtime and middleware solutions | . Software that is close to the application (as opposed to the bare hardware) but not specific to an application is included. Examples include frameworks targeting cloud and distributed systems; application frameworks for fault tolerance and resilience; software supporting data management, scalable data analytics and similar workloads; and runtime systems for future novel computing platforms including quantum, neuromorphic, and bio-inspired computing. Novel compiler techniques and frameworks leveraging machine learning methods are included in this track. 
+  System Software: | This track focuses on software that is close to the bare high-performance computing (HPC) hardware | . Topics include storage and I/O systems; system software for resource management, job scheduling, and energy-efficiency; system software support for accelerators and heterogeneous HPC computing systems; interactions between the operating system, hardware, and other software layers; system software solutions for ML/AI workloads (e.g., energy-efficient software methods for ML/AI); system software support for fault tolerance and resilience; containers and virtual machines; specialized operating systems and related support for high-performance computing; system software for future novel computing platforms including quantum, neuromorphic, and bio-inspired computing; and system software advances enabled by ML/AI. 
+  Best Paper Award  
+ The program committee will select a small set of papers as Best Paper finalists. One paper will be named the Best Paper.  
+ Best Open-Source Contribution Award  
+ IPDPS welcomes submissions with technical contributions of open-source tool and dataset artifacts relevant to the parallel and distributed computing community. The authors of accepted papers may identify their submissions to be considered for the Best Open-Source Contribution award. Such papers will be evaluated by a dedicated open-source tool and dataset artifacts committee. A small set of such papers will be identified as Best Open-Source Contribution finalists. One paper will be recognized with the Best Open-Source Contribution Award.  
+ The two award categories are not exclusive; a paper can be nominated for both the Best Paper award and Best Open-Source Contribution award.   
+ WHAT/WHERE TO SUBMIT  
+ The IEEE conference style templates for MS Word and LaTeX provided by IEEE eXpress Conference Publishing are available for download. See the latest versions here   .  
+ Submit the abstract and register your paper by October 3rd 
+  REVIEW OF MANUSCRIPTS  
+ All submitted manuscripts will be reviewed by the Program Committee under a double-blind, two-round review process. Submissions will be judged on correctness, originality, technical strength, significance, demonstrated or potential impact, quality of presentation, and interest and relevance to the conference. Submitted manuscripts must NOT have appeared in or be under consideration for another conference, workshop, or journal.  
+  A high-quality submission should articulate its contributions in multiple aspects:  
+ Motivation. | Clearly state the paper’s objective and provide strong support to motivate the specific problem the submission addresses. 
+  Limitations of state-of-art approaches. | Unambiguously discuss and distinguish the paper’s contributions from the most relevant and most recent prior works. 
+  Key insights and contributions. | Clearly articulate the major insights that enable the described approach and make it effective. Clearly specify the novelty of these insights and how they advance state-of-the-art. Provide a list of key contributions including flagship theoretical or experimental results and improvement over the prior art. 
+  Methodology. | Clearly specify key theoretical or experimental methodological details. Support the chosen methodological choices (e.g., cite the prior works that have evaluated their ideas using similar methodology). If a new methodology is adopted or theoretical assumptions differ from prior art, provide a detailed justification. 
+  Limitations of the proposed approach. | Articulate all significant limitations of the proposed approach and identify conclusions that are sensitive to assumptions made in the paper. 
+  The Program Committee will assess submissions in the above aspects. Therefore, the authors should make these aspects clear when articulating their contributions.   
+  Authors will have the opportunity to respond to the reviewers’ questions and provide clarifications before the first-round decisions are made. Some submissions may not be invited to submit a response/rebuttal; these submissions will be notified with an early-reject decision by December 3, 2024.  
+ ArXiv Submission Policy  
+ Guidance on Artificial Intelligence (AI)-Generated Text  
+ Tools like ChatGPT, Grammarly, or other AI assistants may be used to improve the submission presentation. However, authors will be held accountable for the accuracy of all information presented as well as for the contributions. IEEE requires   that the use of any AI-generated text be disclosed in the paper’s Acknowledgements section. The sections of the paper that contain AI-generated text must have a citation to the AI system used to generate the text.  
+ Inclusive Description of Research Contributions   
+ Please consider making your research contribution description inclusive in nature. For example, consider using examples that are ethnicity/culture-rich, consider engaging users from diverse backgrounds if your research involves a survey, etc. Best efforts should be made to make the paper accessible to visually impaired or color-blind readers.  
+ Abstract submissions: October 3, 2024 
+  Full manuscript submissions (double-blind):October 10, 2024 - FIRM DEADLINE 
+  Author response/rebuttal to reviews: December 3 – 6, 2024 
+  First round decisions: December 19, 2024 
+  Sarah Neuwirth, Johannes Gutenberg University Mainz, Germany 
+ (Posted 24 October 2024*)   
+ Algorithms   
+  Bilge Acun, Meta, USA  
+  Patrick Widener, Oak Ridge National Laboratory, USA  
+  Robert W. Wisniewski, Samsung, USA  
+ (*Requests for corrections or changes should be sent to  contact@ipdps.org    ) 
+ DOWNLOADABLE PDF VERSION HERE     
+ PLEASE NOTE:   
+ Authors must register their paper and submit an abstract by | Thursday, October 3, 2024. 
+  Authors must then submit full versions of registered papers by | Thursday, October 10, 2024 | (firm deadline). 
+  All deadlines are end of day | ANYWHERE ON EARTH. 
+  Before submitting, review the information under | WHAT/WHERE TO SUBMIT below. 
+ SUBMIT YOUR PAPER     
+ Authors are invited to submit manuscripts that present novel and impactful research in high performance computing (HPC) in parallel and distributed processing. Works focusing on emerging technologies, interdisciplinary work spanning multiple IPDPS focus areas, and novel open-source artifacts are welcome. Topics of interest include but are not limited to the following areas:  
+ Algorithms: | This track focuses on algorithms for computational and data science in parallel and distributed computing environments (including cloud, edge, fog, distributed memory, and accelerator-based computing). | Examples include structured and unstructured mesh and meshless methods, dense and sparse linear algebra computations, spectral methods, n-body computations, clustering, data mining, compression, and combinatorial algorithms such as graph and string algorithms. Also included in this track are algorithms that apply to tightly or loosely coupled systems, such as those supporting communication, synchronization, power management, distributed resource management, distributed data and transactions, and mobility. Novel algorithm designs and implementations tailored to emerging architectures (such as ML/AI accelerators or quantum computing systems) are also included. 
+  Applications: | This track focuses on real-world applications (combinatorial, scientific, engineering, data analysis, and visualization) that use parallel and distributed computing concepts. | Papers submitted to this track are expected to incorporate innovations that originate in specific target application areas, and contribute novel methods and approaches that address core challenges in their scalable implementation. Contributions include the design, implementation, and evaluation of parallel and distributed applications, including implementations targeting emerging architectures (such as ML/AI accelerators) and application domain advances enabled by ML/AI. 
+  Programming Models, Compilers, and Runtime Systems: | This track covers topics ranging from the design of parallel programming models and paradigms to languages and compilers supporting these models and paradigms to runtime and middleware solutions | . Software that is close to the application (as opposed to the bare hardware) but not specific to an application is included. Examples include frameworks targeting cloud and distributed systems; application frameworks for fault tolerance and resilience; software supporting data management, scalable data analytics and similar workloads; and runtime systems for future novel computing platforms including quantum, neuromorphic, and bio-inspired computing. Novel compiler techniques and frameworks leveraging machine learning methods are included in this track. 
+  System Software: | This track focuses on software that is close to the bare high-performance computing (HPC) hardware | . Topics include storage and I/O systems; system software for resource management, job scheduling, and energy-efficiency; system software support for accelerators and heterogeneous HPC computing systems; interactions between the operating system, hardware, and other software layers; system software solutions for ML/AI workloads (e.g., energy-efficient software methods for ML/AI); system software support for fault tolerance and resilience; containers and virtual machines; specialized operating systems and related support for high-performance computing; system software for future novel computing platforms including quantum, neuromorphic, and bio-inspired computing; and system software advances enabled by ML/AI. 
+  Best Paper Award  
+ The program committee will select a small set of papers as Best Paper finalists. One paper will be named the Best Paper.  
+ Best Open-Source Contribution Award  
+ IPDPS welcomes submissions with technical contributions of open-source tool and dataset artifacts relevant to the parallel and distributed computing community. The authors of accepted papers may identify their submissions to be considered for the Best Open-Source Contribution award. Such papers will be evaluated by a dedicated open-source tool and dataset artifacts committee. A small set of such papers will be identified as Best Open-Source Contribution finalists. One paper will be recognized with the Best Open-Source Contribution Award.  
+ The two award categories are not exclusive; a paper can be nominated for both the Best Paper award and Best Open-Source Contribution award.   
+ WHAT/WHERE TO SUBMIT  
+ The IEEE conference style templates for MS Word and LaTeX provided by IEEE eXpress Conference Publishing are available for download. See the latest versions here   .  
+ Submit the abstract and register your paper by October 3rd 
+  REVIEW OF MANUSCRIPTS  
+ All submitted manuscripts will be reviewed by the Program Committee under a double-blind, two-round review process. Submissions will be judged on correctness, originality, technical strength, significance, demonstrated or potential impact, quality of presentation, and interest and relevance to the conference. Submitted manuscripts must NOT have appeared in or be under consideration for another conference, workshop, or journal.  
+  A high-quality submission should articulate its contributions in multiple aspects:  
+ Motivation. | Clearly state the paper’s objective and provide strong support to motivate the specific problem the submission addresses. 
+  Limitations of state-of-art approaches. | Unambiguously discuss and distinguish the paper’s contributions from the most relevant and most recent prior works. 
+  Key insights and contributions. | Clearly articulate the major insights that enable the described approach and make it effective. Clearly specify the novelty of these insights and how they advance state-of-the-art. Provide a list of key contributions including flagship theoretical or experimental results and improvement over the prior art. 
+  Methodology. | Clearly specify key theoretical or experimental methodological details. Support the chosen methodological choices (e.g., cite the prior works that have evaluated their ideas using similar methodology). If a new methodology is adopted or theoretical assumptions differ from prior art, provide a detailed justification. 
+  Limitations of the proposed approach. | Articulate all significant limitations of the proposed approach and identify conclusions that are sensitive to assumptions made in the paper. 
+  The Program Committee will assess submissions in the above aspects. Therefore, the authors should make these aspects clear when articulating their contributions.   
+  Authors will have the opportunity to respond to the reviewers’ questions and provide clarifications before the first-round decisions are made. Some submissions may not be invited to submit a response/rebuttal; these submissions will be notified with an early-reject decision by December 3, 2024.  
+ ArXiv Submission Policy  
+ Guidance on Artificial Intelligence (AI)-Generated Text  
+ Tools like ChatGPT, Grammarly, or other AI assistants may be used to improve the submission presentation. However, authors will be held accountable for the accuracy of all information presented as well as for the contributions. IEEE requires   that the use of any AI-generated text be disclosed in the paper’s Acknowledgements section. The sections of the paper that contain AI-generated text must have a citation to the AI system used to generate the text.  
+ Inclusive Description of Research Contributions   
+ Please consider making your research contribution description inclusive in nature. For example, consider using examples that are ethnicity/culture-rich, consider engaging users from diverse backgrounds if your research involves a survey, etc. Best efforts should be made to make the paper accessible to visually impaired or color-blind readers.  
+ Abstract submissions: October 3, 2024 
+  Full manuscript submissions (double-blind):October 10, 2024 - FIRM DEADLINE 
+  Author response/rebuttal to reviews: December 3 – 6, 2024 
+  First round decisions: December 19, 2024 
+  Sarah Neuwirth, Johannes Gutenberg University Mainz, Germany 
+ (Posted 24 October 2024*)   
+ Algorithms   
+  Bilge Acun, Meta, USA  
+ PLEASE NOTE:   
+ Authors must register their paper and submit an abstract by | Thursday, October 3, 2024. 
+  Authors must then submit full versions of registered papers by | Thursday, October 10, 2024 | (firm deadline). 
+  All deadlines are end of day | ANYWHERE ON EARTH. 
+  Before submitting, review the information under | WHAT/WHERE TO SUBMIT below. 
+ SUBMIT YOUR PAPER     
+ Authors are invited to submit manuscripts that present novel and impactful research in high performance computing (HPC) in parallel and distributed processing. Works focusing on emerging technologies, interdisciplinary work spanning multiple IPDPS focus areas, and novel open-source artifacts are welcome. Topics of interest include but are not limited to the following areas:  
+ Algorithms: | This track focuses on algorithms for computational and data science in parallel and distributed computing environments (including cloud, edge, fog, distributed memory, and accelerator-based computing). | Examples include structured and unstructured mesh and meshless methods, dense and sparse linear algebra computations, spectral methods, n-body computations, clustering, data mining, compression, and combinatorial algorithms such as graph and string algorithms. Also included in this track are algorithms that apply to tightly or loosely coupled systems, such as those supporting communication, synchronization, power management, distributed resource management, distributed data and transactions, and mobility. Novel algorithm designs and implementations tailored to emerging architectures (such as ML/AI accelerators or quantum computing systems) are also included. 
+  Applications: | This track focuses on real-world applications (combinatorial, scientific, engineering, data analysis, and visualization) that use parallel and distributed computing concepts. | Papers submitted to this track are expected to incorporate innovations that originate in specific target application areas, and contribute novel methods and approaches that address core challenges in their scalable implementation. Contributions include the design, implementation, and evaluation of parallel and distributed applications, including implementations targeting emerging architectures (such as ML/AI accelerators) and application domain advances enabled by ML/AI. 
+  Programming Models, Compilers, and Runtime Systems: | This track covers topics ranging from the design of parallel programming models and paradigms to languages and compilers supporting these models and paradigms to runtime and middleware solutions | . Software that is close to the application (as opposed to the bare hardware) but not specific to an application is included. Examples include frameworks targeting cloud and distributed systems; application frameworks for fault tolerance and resilience; software supporting data management, scalable data analytics and similar workloads; and runtime systems for future novel computing platforms including quantum, neuromorphic, and bio-inspired computing. Novel compiler techniques and frameworks leveraging machine learning methods are included in this track. 
+  System Software: | This track focuses on software that is close to the bare high-performance computing (HPC) hardware | . Topics include storage and I/O systems; system software for resource management, job scheduling, and energy-efficiency; system software support for accelerators and heterogeneous HPC computing systems; interactions between the operating system, hardware, and other software layers; system software solutions for ML/AI workloads (e.g., energy-efficient software methods for ML/AI); system software support for fault tolerance and resilience; containers and virtual machines; specialized operating systems and related support for high-performance computing; system software for future novel computing platforms including quantum, neuromorphic, and bio-inspired computing; and system software advances enabled by ML/AI. 
+  Best Paper Award  
+ The program committee will select a small set of papers as Best Paper finalists. One paper will be named the Best Paper.  
+ Best Open-Source Contribution Award  
+ IPDPS welcomes submissions with technical contributions of open-source tool and dataset artifacts relevant to the parallel and distributed computing community. The authors of accepted papers may identify their submissions to be considered for the Best Open-Source Contribution award. Such papers will be evaluated by a dedicated open-source tool and dataset artifacts committee. A small set of such papers will be identified as Best Open-Source Contribution finalists. One paper will be recognized with the Best Open-Source Contribution Award.  
+ The two award categories are not exclusive; a paper can be nominated for both the Best Paper award and Best Open-Source Contribution award.   
+ WHAT/WHERE TO SUBMIT  
+ The IEEE conference style templates for MS Word and LaTeX provided by IEEE eXpress Conference Publishing are available for download. See the latest versions here   .  
+ Submit the abstract and register your paper by October 3rd 
+  REVIEW OF MANUSCRIPTS  
+ All submitted manuscripts will be reviewed by the Program Committee under a double-blind, two-round review process. Submissions will be judged on correctness, originality, technical strength, significance, demonstrated or potential impact, quality of presentation, and interest and relevance to the conference. Submitted manuscripts must NOT have appeared in or be under consideration for another conference, workshop, or journal.  
+  A high-quality submission should articulate its contributions in multiple aspects:  
+ Motivation. | Clearly state the paper’s objective and provide strong support to motivate the specific problem the submission addresses. 
+  Limitations of state-of-art approaches. | Unambiguously discuss and distinguish the paper’s contributions from the most relevant and most recent prior works. 
+  Key insights and contributions. | Clearly articulate the major insights that enable the described approach and make it effective. Clearly specify the novelty of these insights and how they advance state-of-the-art. Provide a list of key contributions including flagship theoretical or experimental results and improvement over the prior art. 
+  Methodology. | Clearly specify key theoretical or experimental methodological details. Support the chosen methodological choices (e.g., cite the prior works that have evaluated their ideas using similar methodology). If a new methodology is adopted or theoretical assumptions differ from prior art, provide a detailed justification. 
+  Limitations of the proposed approach. | Articulate all significant limitations of the proposed approach and identify conclusions that are sensitive to assumptions made in the paper. 
+  The Program Committee will assess submissions in the above aspects. Therefore, the authors should make these aspects clear when articulating their contributions.   
+  Authors will have the opportunity to respond to the reviewers’ questions and provide clarifications before the first-round decisions are made. Some submissions may not be invited to submit a response/rebuttal; these submissions will be notified with an early-reject decision by December 3, 2024.  
+ ArXiv Submission Policy  
+ Guidance on Artificial Intelligence (AI)-Generated Text  
+ Tools like ChatGPT, Grammarly, or other AI assistants may be used to improve the submission presentation. However, authors will be held accountable for the accuracy of all information presented as well as for the contributions. IEEE requires   that the use of any AI-generated text be disclosed in the paper’s Acknowledgements section. The sections of the paper that contain AI-generated text must have a citation to the AI system used to generate the text.  
+ Inclusive Description of Research Contributions   
+ Please consider making your research contribution description inclusive in nature. For example, consider using examples that are ethnicity/culture-rich, consider engaging users from diverse backgrounds if your research involves a survey, etc. Best efforts should be made to make the paper accessible to visually impaired or color-blind readers.  
+ Abstract submissions: October 3, 2024 
+  Full manuscript submissions (double-blind):October 10, 2024 - FIRM DEADLINE 
+  Author response/rebuttal to reviews: December 3 – 6, 2024 
+  First round decisions: December 19, 2024 
+  Sarah Neuwirth, Johannes Gutenberg University Mainz, Germany 
+ (Posted 24 October 2024*)   
+ Algorithms   
+  Bilge Acun, Meta, USA  
+ PLEASE NOTE:   
+ Authors must register their paper and submit an abstract by | Thursday, October 3, 2024. 
+  Authors must then submit full versions of registered papers by | Thursday, October 10, 2024 | (firm deadline). 
+  All deadlines are end of day | ANYWHERE ON EARTH. 
+  Before submitting, review the information under | WHAT/WHERE TO SUBMIT below. 
+ SUBMIT YOUR PAPER     
+ Authors are invited to submit manuscripts that present novel and impactful research in high performance computing (HPC) in parallel and distributed processing. Works focusing on emerging technologies, interdisciplinary work spanning multiple IPDPS focus areas, and novel open-source artifacts are welcome. Topics of interest include but are not limited to the following areas:  
+ Algorithms: | This track focuses on algorithms for computational and data science in parallel and distributed computing environments (including cloud, edge, fog, distributed memory, and accelerator-based computing). | Examples include structured and unstructured mesh and meshless methods, dense and sparse linear algebra computations, spectral methods, n-body computations, clustering, data mining, compression, and combinatorial algorithms such as graph and string algorithms. Also included in this track are algorithms that apply to tightly or loosely coupled systems, such as those supporting communication, synchronization, power management, distributed resource management, distributed data and transactions, and mobility. Novel algorithm designs and implementations tailored to emerging architectures (such as ML/AI accelerators or quantum computing systems) are also included. 
+  Applications: | This track focuses on real-world applications (combinatorial, scientific, engineering, data analysis, and visualization) that use parallel and distributed computing concepts. | Papers submitted to this track are expected to incorporate innovations that originate in specific target application areas, and contribute novel methods and approaches that address core challenges in their scalable implementation. Contributions include the design, implementation, and evaluation of parallel and distributed applications, including implementations targeting emerging architectures (such as ML/AI accelerators) and application domain advances enabled by ML/AI. 
+  Programming Models, Compilers, and Runtime Systems: | This track covers topics ranging from the design of parallel programming models and paradigms to languages and compilers supporting these models and paradigms to runtime and middleware solutions | . Software that is close to the application (as opposed to the bare hardware) but not specific to an application is included. Examples include frameworks targeting cloud and distributed systems; application frameworks for fault tolerance and resilience; software supporting data management, scalable data analytics and similar workloads; and runtime systems for future novel computing platforms including quantum, neuromorphic, and bio-inspired computing. Novel compiler techniques and frameworks leveraging machine learning methods are included in this track. 
+  System Software: | This track focuses on software that is close to the bare high-performance computing (HPC) hardware | . Topics include storage and I/O systems; system software for resource management, job scheduling, and energy-efficiency; system software support for accelerators and heterogeneous HPC computing systems; interactions between the operating system, hardware, and other software layers; system software solutions for ML/AI workloads (e.g., energy-efficient software methods for ML/AI); system software support for fault tolerance and resilience; containers and virtual machines; specialized operating systems and related support for high-performance computing; system software for future novel computing platforms including quantum, neuromorphic, and bio-inspired computing; and system software advances enabled by ML/AI. 
+  Best Paper Award  
+ The program committee will select a small set of papers as Best Paper finalists. One paper will be named the Best Paper.  
+ Best Open-Source Contribution Award  
+ IPDPS welcomes submissions with technical contributions of open-source tool and dataset artifacts relevant to the parallel and distributed computing community. The authors of accepted papers may identify their submissions to be considered for the Best Open-Source Contribution award. Such papers will be evaluated by a dedicated open-source tool and dataset artifacts committee. A small set of such papers will be identified as Best Open-Source Contribution finalists. One paper will be recognized with the Best Open-Source Contribution Award.  
+ The two award categories are not exclusive; a paper can be nominated for both the Best Paper award and Best Open-Source Contribution award.   
+ WHAT/WHERE TO SUBMIT  
+ The IEEE conference style templates for MS Word and LaTeX provided by IEEE eXpress Conference Publishing are available for download. See the latest versions here   .  
+ Submit the abstract and register your paper by October 3rd 
+  REVIEW OF MANUSCRIPTS  
+ All submitted manuscripts will be reviewed by the Program Committee under a double-blind, two-round review process. Submissions will be judged on correctness, originality, technical strength, significance, demonstrated or potential impact, quality of presentation, and interest and relevance to the conference. Submitted manuscripts must NOT have appeared in or be under consideration for another conference, workshop, or journal.  
+  A high-quality submission should articulate its contributions in multiple aspects:  
+ Motivation. | Clearly state the paper’s objective and provide strong support to motivate the specific problem the submission addresses. 
+  Limitations of state-of-art approaches. | Unambiguously discuss and distinguish the paper’s contributions from the most relevant and most recent prior works. 
+  Key insights and contributions. | Clearly articulate the major insights that enable the described approach and make it effective. Clearly specify the novelty of these insights and how they advance state-of-the-art. Provide a list of key contributions including flagship theoretical or experimental results and improvement over the prior art. 
+  Methodology. | Clearly specify key theoretical or experimental methodological details. Support the chosen methodological choices (e.g., cite the prior works that have evaluated their ideas using similar methodology). If a new methodology is adopted or theoretical assumptions differ from prior art, provide a detailed justification. 
+  Limitations of the proposed approach. | Articulate all significant limitations of the proposed approach and identify conclusions that are sensitive to assumptions made in the paper. 
+  The Program Committee will assess submissions in the above aspects. Therefore, the authors should make these aspects clear when articulating their contributions.   
+  Authors will have the opportunity to respond to the reviewers’ questions and provide clarifications before the first-round decisions are made. Some submissions may not be invited to submit a response/rebuttal; these submissions will be notified with an early-reject decision by December 3, 2024.  
+ ArXiv Submission Policy  
+ Guidance on Artificial Intelligence (AI)-Generated Text  
+ Tools like ChatGPT, Grammarly, or other AI assistants may be used to improve the submission presentation. However, authors will be held accountable for the accuracy of all information presented as well as for the contributions. IEEE requires   that the use of any AI-generated text be disclosed in the paper’s Acknowledgements section. The sections of the paper that contain AI-generated text must have a citation to the AI system used to generate the text.  
+ Inclusive Description of Research Contributions   
+ Please consider making your research contribution description inclusive in nature. For example, consider using examples that are ethnicity/culture-rich, consider engaging users from diverse backgrounds if your research involves a survey, etc. Best efforts should be made to make the paper accessible to visually impaired or color-blind readers.  
+ Abstract submissions: October 3, 2024 
+  Full manuscript submissions (double-blind):October 10, 2024 - FIRM DEADLINE 
+  Author response/rebuttal to reviews: December 3 – 6, 2024 
+  First round decisions: December 19, 2024 
+  Sarah Neuwirth, Johannes Gutenberg University Mainz, Germany 
+ (Posted 24 October 2024*)   
+ Algorithms   
+  Bilge Acun, Meta, USA  
+  Patrick Widener, Oak Ridge National Laboratory, USA  
+  Robert W. Wisniewski, Samsung, USA  
+ (*Requests for corrections or changes should be sent to  contact@ipdps.org    ) | Search IPDPS  
+ Follow IPDPS  
+ IPDPS 2024 Report  
+  May 27-31, 2024  
+  Hyatt Regency San Francisco  
+  Embarcadero Center  
+  San Francisco, California USA  
+ REPORT ON IPDPS 2024 
+ DOWNLOADABLE PDF VERSION HERE     
+ PLEASE NOTE:   
+ Authors must register their paper and submit an abstract by | Thursday, October 3, 2024. 
+  Authors must then submit full versions of registered papers by | Thursday, October 10, 2024 | (firm deadline). 
+  All deadlines are end of day | ANYWHERE ON EARTH. 
+  Before submitting, review the information under | WHAT/WHERE TO SUBMIT below. 
+ SUBMIT YOUR PAPER     
+ Authors are invited to submit manuscripts that present novel and impactful research in high performance computing (HPC) in parallel and distributed processing. Works focusing on emerging technologies, interdisciplinary work spanning multiple IPDPS focus areas, and novel open-source artifacts are welcome. Topics of interest include but are not limited to the following areas:  
+ Algorithms: | This track focuses on algorithms for computational and data science in parallel and distributed computing environments (including cloud, edge, fog, distributed memory, and accelerator-based computing). | Examples include structured and unstructured mesh and meshless methods, dense and sparse linear algebra computations, spectral methods, n-body computations, clustering, data mining, compression, and combinatorial algorithms such as graph and string algorithms. Also included in this track are algorithms that apply to tightly or loosely coupled systems, such as those supporting communication, synchronization, power management, distributed resource management, distributed data and transactions, and mobility. Novel algorithm designs and implementations tailored to emerging architectures (such as ML/AI accelerators or quantum computing systems) are also included. 
+  Applications: | This track focuses on real-world applications (combinatorial, scientific, engineering, data analysis, and visualization) that use parallel and distributed computing concepts. | Papers submitted to this track are expected to incorporate innovations that originate in specific target application areas, and contribute novel methods and approaches that address core challenges in their scalable implementation. Contributions include the design, implementation, and evaluation of parallel and distributed applications, including implementations targeting emerging architectures (such as ML/AI accelerators) and application domain advances enabled by ML/AI. 
+  Programming Models, Compilers, and Runtime Systems: | This track covers topics ranging from the design of parallel programming models and paradigms to languages and compilers supporting these models and paradigms to runtime and middleware solutions | . Software that is close to the application (as opposed to the bare hardware) but not specific to an application is included. Examples include frameworks targeting cloud and distributed systems; application frameworks for fault tolerance and resilience; software supporting data management, scalable data analytics and similar workloads; and runtime systems for future novel computing platforms including quantum, neuromorphic, and bio-inspired computing. Novel compiler techniques and frameworks leveraging machine learning methods are included in this track. 
+  System Software: | This track focuses on software that is close to the bare high-performance computing (HPC) hardware | . Topics include storage and I/O systems; system software for resource management, job scheduling, and energy-efficiency; system software support for accelerators and heterogeneous HPC computing systems; interactions between the operating system, hardware, and other software layers; system software solutions for ML/AI workloads (e.g., energy-efficient software methods for ML/AI); system software support for fault tolerance and resilience; containers and virtual machines; specialized operating systems and related support for high-performance computing; system software for future novel computing platforms including quantum, neuromorphic, and bio-inspired computing; and system software advances enabled by ML/AI. 
+  Best Paper Award  
+ The program committee will select a small set of papers as Best Paper finalists. One paper will be named the Best Paper.  
+ Best Open-Source Contribution Award  
+ IPDPS welcomes submissions with technical contributions of open-source tool and dataset artifacts relevant to the parallel and distributed computing community. The authors of accepted papers may identify their submissions to be considered for the Best Open-Source Contribution award. Such papers will be evaluated by a dedicated open-source tool and dataset artifacts committee. A small set of such papers will be identified as Best Open-Source Contribution finalists. One paper will be recognized with the Best Open-Source Contribution Award.  
+ The two award categories are not exclusive; a paper can be nominated for both the Best Paper award and Best Open-Source Contribution award.   
+ WHAT/WHERE TO SUBMIT  
+ The IEEE conference style templates for MS Word and LaTeX provided by IEEE eXpress Conference Publishing are available for download. See the latest versions here   .  
+ Submit the abstract and register your paper by October 3rd 
+  REVIEW OF MANUSCRIPTS  
+ All submitted manuscripts will be reviewed by the Program Committee under a double-blind, two-round review process. Submissions will be judged on correctness, originality, technical strength, significance, demonstrated or potential impact, quality of presentation, and interest and relevance to the conference. Submitted manuscripts must NOT have appeared in or be under consideration for another conference, workshop, or journal.  
+  A high-quality submission should articulate its contributions in multiple aspects:  
+ Motivation. | Clearly state the paper’s objective and provide strong support to motivate the specific problem the submission addresses. 
+  Limitations of state-of-art approaches. | Unambiguously discuss and distinguish the paper’s contributions from the most relevant and most recent prior works. 
+  Key insights and contributions. | Clearly articulate the major insights that enable the described approach and make it effective. Clearly specify the novelty of these insights and how they advance state-of-the-art. Provide a list of key contributions including flagship theoretical or experimental results and improvement over the prior art. 
+  Methodology. | Clearly specify key theoretical or experimental methodological details. Support the chosen methodological choices (e.g., cite the prior works that have evaluated their ideas using similar methodology). If a new methodology is adopted or theoretical assumptions differ from prior art, provide a detailed justification. 
+  Limitations of the proposed approach. | Articulate all significant limitations of the proposed approach and identify conclusions that are sensitive to assumptions made in the paper. 
+  The Program Committee will assess submissions in the above aspects. Therefore, the authors should make these aspects clear when articulating their contributions.   
+  Authors will have the opportunity to respond to the reviewers’ questions and provide clarifications before the first-round decisions are made. Some submissions may not be invited to submit a response/rebuttal; these submissions will be notified with an early-reject decision by December 3, 2024.  
+ ArXiv Submission Policy  
+ Guidance on Artificial Intelligence (AI)-Generated Text  
+ Tools like ChatGPT, Grammarly, or other AI assistants may be used to improve the submission presentation. However, authors will be held accountable for the accuracy of all information presented as well as for the contributions. IEEE requires   that the use of any AI-generated text be disclosed in the paper’s Acknowledgements section. The sections of the paper that contain AI-generated text must have a citation to the AI system used to generate the text.  
+ Inclusive Description of Research Contributions   
+ Please consider making your research contribution description inclusive in nature. For example, consider using examples that are ethnicity/culture-rich, consider engaging users from diverse backgrounds if your research involves a survey, etc. Best efforts should be made to make the paper accessible to visually impaired or color-blind readers.  
+ Abstract submissions: October 3, 2024 
+  Full manuscript submissions (double-blind):October 10, 2024 - FIRM DEADLINE 
+  Author response/rebuttal to reviews: December 3 – 6, 2024 
+  First round decisions: December 19, 2024 
+  Sarah Neuwirth, Johannes Gutenberg University Mainz, Germany 
+ (Posted 24 October 2024*)   
+ Algorithms   
+  Bilge Acun, Meta, USA  
+ PLEASE NOTE:   
+ Authors must register their paper and submit an abstract by | Thursday, October 3, 2024. 
+  Authors must then submit full versions of registered papers by | Thursday, October 10, 2024 | (firm deadline). 
+  All deadlines are end of day | ANYWHERE ON EARTH. 
+  Before submitting, review the information under | WHAT/WHERE TO SUBMIT below. 
+ SUBMIT YOUR PAPER     
+ Authors are invited to submit manuscripts that present novel and impactful research in high performance computing (HPC) in parallel and distributed processing. Works focusing on emerging technologies, interdisciplinary work spanning multiple IPDPS focus areas, and novel open-source artifacts are welcome. Topics of interest include but are not limited to the following areas:  
+ Algorithms: | This track focuses on algorithms for computational and data science in parallel and distributed computing environments (including cloud, edge, fog, distributed memory, and accelerator-based computing). | Examples include structured and unstructured mesh and meshless methods, dense and sparse linear algebra computations, spectral methods, n-body computations, clustering, data mining, compression, and combinatorial algorithms such as graph and string algorithms. Also included in this track are algorithms that apply to tightly or loosely coupled systems, such as those supporting communication, synchronization, power management, distributed resource management, distributed data and transactions, and mobility. Novel algorithm designs and implementations tailored to emerging architectures (such as ML/AI accelerators or quantum computing systems) are also included. 
+  Applications: | This track focuses on real-world applications (combinatorial, scientific, engineering, data analysis, and visualization) that use parallel and distributed computing concepts. | Papers submitted to this track are expected to incorporate innovations that originate in specific target application areas, and contribute novel methods and approaches that address core challenges in their scalable implementation. Contributions include the design, implementation, and evaluation of parallel and distributed applications, including implementations targeting emerging architectures (such as ML/AI accelerators) and application domain advances enabled by ML/AI. 
+  Programming Models, Compilers, and Runtime Systems: | This track covers topics ranging from the design of parallel programming models and paradigms to languages and compilers supporting these models and paradigms to runtime and middleware solutions | . Software that is close to the application (as opposed to the bare hardware) but not specific to an application is included. Examples include frameworks targeting cloud and distributed systems; application frameworks for fault tolerance and resilience; software supporting data management, scalable data analytics and similar workloads; and runtime systems for future novel computing platforms including quantum, neuromorphic, and bio-inspired computing. Novel compiler techniques and frameworks leveraging machine learning methods are included in this track. 
+  System Software: | This track focuses on software that is close to the bare high-performance computing (HPC) hardware | . Topics include storage and I/O systems; system software for resource management, job scheduling, and energy-efficiency; system software support for accelerators and heterogeneous HPC computing systems; interactions between the operating system, hardware, and other software layers; system software solutions for ML/AI workloads (e.g., energy-efficient software methods for ML/AI); system software support for fault tolerance and resilience; containers and virtual machines; specialized operating systems and related support for high-performance computing; system software for future novel computing platforms including quantum, neuromorphic, and bio-inspired computing; and system software advances enabled by ML/AI. 
+  Best Paper Award  
+ The program committee will select a small set of papers as Best Paper finalists. One paper will be named the Best Paper.  
+ Best Open-Source Contribution Award  
+ IPDPS welcomes submissions with technical contributions of open-source tool and dataset artifacts relevant to the parallel and distributed computing community. The authors of accepted papers may identify their submissions to be considered for the Best Open-Source Contribution award. Such papers will be evaluated by a dedicated open-source tool and dataset artifacts committee. A small set of such papers will be identified as Best Open-Source Contribution finalists. One paper will be recognized with the Best Open-Source Contribution Award.  
+ The two award categories are not exclusive; a paper can be nominated for both the Best Paper award and Best Open-Source Contribution award.   
+ WHAT/WHERE TO SUBMIT  
+ The IEEE conference style templates for MS Word and LaTeX provided by IEEE eXpress Conference Publishing are available for download. See the latest versions here   .  
+ Submit the abstract and register your paper by October 3rd 
+  REVIEW OF MANUSCRIPTS  
+ All submitted manuscripts will be reviewed by the Program Committee under a double-blind, two-round review process. Submissions will be judged on correctness, originality, technical strength, significance, demonstrated or potential impact, quality of presentation, and interest and relevance to the conference. Submitted manuscripts must NOT have appeared in or be under consideration for another conference, workshop, or journal.  
+  A high-quality submission should articulate its contributions in multiple aspects:  
+ Motivation. | Clearly state the paper’s objective and provide strong support to motivate the specific problem the submission addresses. 
+  Limitations of state-of-art approaches. | Unambiguously discuss and distinguish the paper’s contributions from the most relevant and most recent prior works. 
+  Key insights and contributions. | Clearly articulate the major insights that enable the described approach and make it effective. Clearly specify the novelty of these insights and how they advance state-of-the-art. Provide a list of key contributions including flagship theoretical or experimental results and improvement over the prior art. 
+  Methodology. | Clearly specify key theoretical or experimental methodological details. Support the chosen methodological choices (e.g., cite the prior works that have evaluated their ideas using similar methodology). If a new methodology is adopted or theoretical assumptions differ from prior art, provide a detailed justification. 
+  Limitations of the proposed approach. | Articulate all significant limitations of the proposed approach and identify conclusions that are sensitive to assumptions made in the paper. 
+  The Program Committee will assess submissions in the above aspects. Therefore, the authors should make these aspects clear when articulating their contributions.   
+  Authors will have the opportunity to respond to the reviewers’ questions and provide clarifications before the first-round decisions are made. Some submissions may not be invited to submit a response/rebuttal; these submissions will be notified with an early-reject decision by December 3, 2024.  
+ ArXiv Submission Policy  
+ Guidance on Artificial Intelligence (AI)-Generated Text  
+ Tools like ChatGPT, Grammarly, or other AI assistants may be used to improve the submission presentation. However, authors will be held accountable for the accuracy of all information presented as well as for the contributions. IEEE requires   that the use of any AI-generated text be disclosed in the paper’s Acknowledgements section. The sections of the paper that contain AI-generated text must have a citation to the AI system used to generate the text.  
+ Inclusive Description of Research Contributions   
+ Please consider making your research contribution description inclusive in nature. For example, consider using examples that are ethnicity/culture-rich, consider engaging users from diverse backgrounds if your research involves a survey, etc. Best efforts should be made to make the paper accessible to visually impaired or color-blind readers.  
+ Abstract submissions: October 3, 2024 
+  Full manuscript submissions (double-blind):October 10, 2024 - FIRM DEADLINE 
+  Author response/rebuttal to reviews: December 3 – 6, 2024 
+  First round decisions: December 19, 2024 
+  Sarah Neuwirth, Johannes Gutenberg University Mainz, Germany 
+ (Posted 24 October 2024*)   
+ Algorithms   
+  Bilge Acun, Meta, USA  
+  Patrick Widener, Oak Ridge National Laboratory, USA  
+  Robert W. Wisniewski, Samsung, USA  
+ (*Requests for corrections or changes should be sent to  contact@ipdps.org    ) 
+ DOWNLOADABLE PDF VERSION HERE     
+ PLEASE NOTE:   
+ Authors must register their paper and submit an abstract by | Thursday, October 3, 2024. 
+  Authors must then submit full versions of registered papers by | Thursday, October 10, 2024 | (firm deadline). 
+  All deadlines are end of day | ANYWHERE ON EARTH. 
+  Before submitting, review the information under | WHAT/WHERE TO SUBMIT below. 
+ SUBMIT YOUR PAPER     
+ Authors are invited to submit manuscripts that present novel and impactful research in high performance computing (HPC) in parallel and distributed processing. Works focusing on emerging technologies, interdisciplinary work spanning multiple IPDPS focus areas, and novel open-source artifacts are welcome. Topics of interest include but are not limited to the following areas:  
+ Algorithms: | This track focuses on algorithms for computational and data science in parallel and distributed computing environments (including cloud, edge, fog, distributed memory, and accelerator-based computing). | Examples include structured and unstructured mesh and meshless methods, dense and sparse linear algebra computations, spectral methods, n-body computations, clustering, data mining, compression, and combinatorial algorithms such as graph and string algorithms. Also included in this track are algorithms that apply to tightly or loosely coupled systems, such as those supporting communication, synchronization, power management, distributed resource management, distributed data and transactions, and mobility. Novel algorithm designs and implementations tailored to emerging architectures (such as ML/AI accelerators or quantum computing systems) are also included. 
+  Applications: | This track focuses on real-world applications (combinatorial, scientific, engineering, data analysis, and visualization) that use parallel and distributed computing concepts. | Papers submitted to this track are expected to incorporate innovations that originate in specific target application areas, and contribute novel methods and approaches that address core challenges in their scalable implementation. Contributions include the design, implementation, and evaluation of parallel and distributed applications, including implementations targeting emerging architectures (such as ML/AI accelerators) and application domain advances enabled by ML/AI. 
+  Programming Models, Compilers, and Runtime Systems: | This track covers topics ranging from the design of parallel programming models and paradigms to languages and compilers supporting these models and paradigms to runtime and middleware solutions | . Software that is close to the application (as opposed to the bare hardware) but not specific to an application is included. Examples include frameworks targeting cloud and distributed systems; application frameworks for fault tolerance and resilience; software supporting data management, scalable data analytics and similar workloads; and runtime systems for future novel computing platforms including quantum, neuromorphic, and bio-inspired computing. Novel compiler techniques and frameworks leveraging machine learning methods are included in this track. 
+  System Software: | This track focuses on software that is close to the bare high-performance computing (HPC) hardware | . Topics include storage and I/O systems; system software for resource management, job scheduling, and energy-efficiency; system software support for accelerators and heterogeneous HPC computing systems; interactions between the operating system, hardware, and other software layers; system software solutions for ML/AI workloads (e.g., energy-efficient software methods for ML/AI); system software support for fault tolerance and resilience; containers and virtual machines; specialized operating systems and related support for high-performance computing; system software for future novel computing platforms including quantum, neuromorphic, and bio-inspired computing; and system software advances enabled by ML/AI. 
+  Best Paper Award  
+ The program committee will select a small set of papers as Best Paper finalists. One paper will be named the Best Paper.  
+ Best Open-Source Contribution Award  
+ IPDPS welcomes submissions with technical contributions of open-source tool and dataset artifacts relevant to the parallel and distributed computing community. The authors of accepted papers may identify their submissions to be considered for the Best Open-Source Contribution award. Such papers will be evaluated by a dedicated open-source tool and dataset artifacts committee. A small set of such papers will be identified as Best Open-Source Contribution finalists. One paper will be recognized with the Best Open-Source Contribution Award.  
+ The two award categories are not exclusive; a paper can be nominated for both the Best Paper award and Best Open-Source Contribution award.   
+ WHAT/WHERE TO SUBMIT  
+ The IEEE conference style templates for MS Word and LaTeX provided by IEEE eXpress Conference Publishing are available for download. See the latest versions here   .  
+ Submit the abstract and register your paper by October 3rd 
+  REVIEW OF MANUSCRIPTS  
+ All submitted manuscripts will be reviewed by the Program Committee under a double-blind, two-round review process. Submissions will be judged on correctness, originality, technical strength, significance, demonstrated or potential impact, quality of presentation, and interest and relevance to the conference. Submitted manuscripts must NOT have appeared in or be under consideration for another conference, workshop, or journal.  
+  A high-quality submission should articulate its contributions in multiple aspects:  
+ Motivation. | Clearly state the paper’s objective and provide strong support to motivate the specific problem the submission addresses. 
+  Limitations of state-of-art approaches. | Unambiguously discuss and distinguish the paper’s contributions from the most relevant and most recent prior works. 
+  Key insights and contributions. | Clearly articulate the major insights that enable the described approach and make it effective. Clearly specify the novelty of these insights and how they advance state-of-the-art. Provide a list of key contributions including flagship theoretical or experimental results and improvement over the prior art. 
+  Methodology. | Clearly specify key theoretical or experimental methodological details. Support the chosen methodological choices (e.g., cite the prior works that have evaluated their ideas using similar methodology). If a new methodology is adopted or theoretical assumptions differ from prior art, provide a detailed justification. 
+  Limitations of the proposed approach. | Articulate all significant limitations of the proposed approach and identify conclusions that are sensitive to assumptions made in the paper. 
+  The Program Committee will assess submissions in the above aspects. Therefore, the authors should make these aspects clear when articulating their contributions.   
+  Authors will have the opportunity to respond to the reviewers’ questions and provide clarifications before the first-round decisions are made. Some submissions may not be invited to submit a response/rebuttal; these submissions will be notified with an early-reject decision by December 3, 2024.  
+ ArXiv Submission Policy  
+ Guidance on Artificial Intelligence (AI)-Generated Text  
+ Tools like ChatGPT, Grammarly, or other AI assistants may be used to improve the submission presentation. However, authors will be held accountable for the accuracy of all information presented as well as for the contributions. IEEE requires   that the use of any AI-generated text be disclosed in the paper’s Acknowledgements section. The sections of the paper that contain AI-generated text must have a citation to the AI system used to generate the text.  
+ Inclusive Description of Research Contributions   
+ Please consider making your research contribution description inclusive in nature. For example, consider using examples that are ethnicity/culture-rich, consider engaging users from diverse backgrounds if your research involves a survey, etc. Best efforts should be made to make the paper accessible to visually impaired or color-blind readers.  
+ Abstract submissions: October 3, 2024 
+  Full manuscript submissions (double-blind):October 10, 2024 - FIRM DEADLINE 
+  Author response/rebuttal to reviews: December 3 – 6, 2024 
+  First round decisions: December 19, 2024 
+  Sarah Neuwirth, Johannes Gutenberg University Mainz, Germany 
+ (Posted 24 October 2024*)   
+ Algorithms   
+  Bilge Acun, Meta, USA  
+  Patrick Widener, Oak Ridge National Laboratory, USA  
+  Robert W. Wisniewski, Samsung, USA  
+ (*Requests for corrections or changes should be sent to  contact@ipdps.org    ) 
+ Copyright © IPDPS. All rights reserved.

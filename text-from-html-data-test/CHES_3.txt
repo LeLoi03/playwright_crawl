@@ -1,0 +1,35 @@
+September 10-14, 2023  
+ Prague, Czech Republic  
+
+     CHES Home 
+  CHES 2023 
+  Technical Program | Main Program  Tutorials and CHES Forum  TASER CHES Forum  Accepted Papers  Accepted Posters   Call for Papers  Paper Submission  Artifact Evaluation   Call for Posters  Call for Tutorials  Call for TASER Presentations   CHES Challenge  Test of Time Award  Rump Session 
+  Attend | Registration  Venue & Travel  Visas  Code of Conduct 
+  Sponsors 
+  Contact 
+
+ This site is designed for browsers with javascript.  
+ The dates, name, and location for the conference are in a json file.   
+   
+  CHES Challenge  
+ Since 2015, a crypto-engineering challenge is organized every year in cooperation with CHES.  
+ This year the CHES Challenge is an advanced side-channel attack challenge: the SMAesH Challenge   
+ SMAesH Challenge  
+ The CHES 2023 challenge aims at exhibiting the best side-channel analysis attacks against SMAesH, a new open-source masked hardware implementation of the AES. The implementation is based on the Hardware Private Circuits (HPC) masking scheme, which provides state-of-the-art guarantees in terms of resistance against physical defaults (e.g., glitches) and composability. It relies on a 32-bit architecture such that worst-case security evaluations are expected to require non-trivial attacks (e.g., taking advantage of leakage from registers and combinatorial logic, for intermediate computations of different sizes, with good potential for multivariate attacks multi-target attacks, analytical attacks and large key guesses).  
+ The challenge considers two FPGA targets and attack settings. The first (more noisy) target is an Artix-7 FPGA. For this one, the challengers are provided with a profiling set that includes the masking randomness. It aims to facilitate worst-case analysis. The second (less noisy) target is a Spartan-6. For this one the challengers are provided with a profiling set that does not include the masking randomness, which is closer to most current evaluation settings. It naturally questions how much leakage models for an architecture transfer from one target to another. The initial datasets will be for instances of SMAesH with two shares (they could be extended towards more shares depending on the challengers' results), one with random keys (for profiling), and one with a fixed key (for validation). Challengers are additionally provided with the source code of the implementations and a tool to predict the intermediate values of the hardware implementations.  
+ Challengers who submit implementations of their attacks will be evaluated on a private test dataset and rated based on the number of measurements needed to reduce the rank of the master key below a given threshold using a rank estimation algorithm. A working demonstration attack is provided by the organizers, and challengers may gain first points by just submitting this attack and evaluating the number of traces it requires more or less aggressively during the first two weeks of the challenge (beware the results on the private test set may slightly differ from those on the validation one). All the attacks submitted will be made public to all challengers (under an open source license). The challenge results from a joint effort of the UCLouvain Crypto Group and the SIMPLE-Crypto association.  
+ Link to the challenge website: https://smaesh-challenge.simple-crypto.org/   
+ SMAesH Challenge organizers  
+ SIMPLE-Crypto Association  
+
+   info@simple-crypto.org    
+   
+ CHES Challenge Contact  
+ Matthieu Rivain  
+ CryptoExperts, France  
+
+   matthieu.rivain@cryptoexperts.com    
+
+  Copyright © 2024  by the  IACR  International Association for Cryptologic Research   •   
+  Privacy Policy  •  
+  Title photo  under Creative Commons CC0

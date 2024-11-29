@@ -1,0 +1,348 @@
+Image Analysis and Processing - ICIAP 2023 Workshops | springerprofessional.de  Skip to main content    Menu   Disciplines Chevron down icon     Chevron up icon        Automotive    Business IT + Informatics    Construction + Real Estate    Electrical Engineering + Electronics    Energy + Sustainability    Insurance + Risk    Finance + Banking    Management + Leadership    Marketing + Sales    Mechanical Engineering + Materials      
+   
+ Events       
+   
+ DE    EN     
+
+ Books       
+   
+ Journals       
+   
+ Topic Page Chevron down icon     Chevron up icon        Marketing      
+
+ Start single access now       
+   
+ Access for companies       
+
+ Springer Professional     
+   
+   Search   Enter your search terms       Search     
+  
+ EXTENDED SEARCH      
+
+  Log in      
+
+ Springer Professional  
+
+ JAVASCRIPT NEEDED    
+ Please enable JavaScript on your browser, so that you can use all features of this website.   
+
+  INTERNET EXPLORER IS NO LONGER SUPPORTED    
+ Your version of Internet Explorer is no longer supported by this system. Please install one of the following browsers: Microsoft Edge, Safari, Chrome or Firefox   
+
+ Top    
+
+ 2024 | Book  
+
+ Read chapter  Read first chapter     
+   
+ Image Analysis and Processing - ICIAP 2023 Workshops  
+ Udine, Italy, September 11–15, 2023, Proceedings, Part I  
+ Editors: Gian Luca Foresti, Andrea Fusiello, Edwin Hancock   
+   
+ Publisher: Springer Nature Switzerland    
+ Book Series : Lecture Notes in Computer Science    
+ Part of: Springer Professional "Wirtschaft+Technik"  ,   Springer Professional "Technik"  ,   Springer Professional "Wirtschaft"    
+   
+ Table of Contents    
+
+      Search      
+ insite    
+ SEARCH    
+
+ About this book  
+ The two-volume set LNCS 14365 and 14366 constitutes the papers of workshops hosted by the 22nd International Conference on Image Analysis and Processing, ICIAP 2023, held in Udine, Italy, in September 2023.  
+  In total, 72 workshop papers and 10 industrial poster session papers have been accepted for publication.  
+  Part I of the set, volume 14365, contains 10 papers from the industrial poster session, and 31 papers from the following workshops:– Advances in Gaze Analysis, Visual attention and Eye-gaze modelling (AGAVE)– Beyond Vision: Physics meets AI (BVPAI)– Automatic Affect Analysis and Synthesis (3AS)– International Contest on Fire Detection (ONFIRE)– Recent Advances in Digital Security: Biometrics and Forensics (BioFor)– Computer Vision for Environment Monitoring and Preservation (CVEMP)– Generation of Human Face and Body Behavior (GHB)  
+
+ MyTopic Alert   
+  Login for updating and creating your alerts.  
+
+ Advertisement   
+
+ Table of Contents  
+   
+ Frontmatter  
+  
+ Industrial Poster Session  
+ Frontmatter  
+  
+ Instance Segmentation Applied to Underground Infrastructures  
+  As underground infrastructures suffer from strikes during the ground excavation procedure resulting from poor subsurface utilities documentation, this paper aims to improve the mapping of such elements by integrating instance segmentation techniques. To perform supervised training of the well-known Mask R-CNN architecture, we created our own dataset based on surveys that we have access to from the SYSLOR company, resulting in around 2600 labelled images. Through several training sessions, performed with K-fold cross validation, we studied the level of contribution of each construction sites selected for the dataset creation. Currently we achieved a very good 38.4 mean average precision (mAP) on three defined classes: sheaths, twisted pipes and smooth pipes.  
+   
+ R. Haenel, Q. Semler, E. Semin, S. Tabbone, P. Grussenmeyer   
+
+ Generating Invariance-Based Adversarial Examples: Bringing Humans Back into the Loop  
+  One of the major challenges in computer vision today is to align human and computer vision. Using an adversarial machine learning perspective, we investigate invariance-based adversarial examples, which highlight differences between computer vision and human perception. We conduct a study with 25 human subjects, collecting eye-gazing data and time-constrained classification performance, in order to study how occlusion-based perturbations impact human and machine performance on a classification task. Subsequently, we propose two adaptive methods to generate invariance-based adversarial examples, one based on occlusion and the other based on second picture patch-insertion. All methods leverage the eye-tracking data obtained from our experiments. Our results suggest that invariance-based adversarial examples are possible even for complex data sets but must be crafted with adequate diligence. Further research in this direction might help better align computer and human vision.  
+   
+ Florian Merkle, Mihaela Roxana Sirbu, Martin Nocker, Pascal Schöttle   
+
+ MARS: Mask Attention Refinement with Sequential Quadtree Nodes for Car Damage Instance Segmentation  
+  Evaluating car damages from misfortune is critical to the car insurance industry. However, the accuracy is still insufficient for real-world applications since the deep learning network is not designed for car damage images as inputs, and its segmented masks are still very coarse. This paper presents MARS (Mask Attention Refinement with Sequential quadtree nodes) for car damage instance segmentation. Our MARS represents self-attention mechanisms to draw global dependencies between the sequential quadtree nodes layer and quadtree transformer to recalibrate channel weights and predict highly accurate instance masks. Our extensive experiments demonstrate that MARS outperforms state-of-the-art (SOTA) instance segmentation methods on three popular benchmarks such as Mask R-CNN [9], PointRend [13], and Mask Transfiner [12], by a large margin of +1.3 maskAP-based R50-FPN backbone and +2.3 maskAP-based R101-FPN backbone on Thai car-damage dataset. Our demos are available at https://github.com/kaopanboonyuen/MARS .  
+   
+ Teerapong Panboonyuen, Naphat Nithisopa, Panin Pienroj, Laphonchai Jirachuphun, Chaiwasut Watthanasirikrit, Naruepon Pornwiriyakul   
+
+ On-Device Learning with Binary Neural Networks  
+  Existing Continual Learning (CL) solutions only partially address the constraints on power, memory and computation of the deep learning models when deployed on low-power embedded CPUs. In this paper, we propose a CL solution that embraces the recent advancements in CL field and the efficiency of the Binary Neural Networks (BNN), that use 1-bit for weights and activations to efficiently execute deep learning models. We propose a hybrid quantization of CWR* (an effective CL approach) that considers differently forward and backward pass in order to retain more precision during gradient update step and at the same time minimizing the latency overhead. The choice of a binary network as backbone is essential to meet the constraints of low power devices and, to the best of authors’ knowledge, this is the first attempt to prove on-device learning with BNN. The experimental validation carried out confirms the validity and the suitability of the proposed method.  
+   
+ Lorenzo Vorabbi, Davide Maltoni, Stefano Santi   
+
+ Towards One-Shot PCB Component Detection with YOLO  
+  Consumer electronic devices such as smartphones, TV sets, etc. are designed around printed circuit boards (PCBs) with a large number of surface mounted components. The pick and place machine soldering these components on the PCB may pick the wrong component, may solder the component in the wrong position or fail to solder it at all. Therefore, Automated Optical Inspection (AOI) is essential to detect the above defects even prior to electric tests by comparing populated PCBs with the schematics. In this context, we leverage YOLO, a deep convolutional architecture designed for one-shot object detection, for AOI of PCBs. This architecture enables real-time processing of large images and can be trained end-to-end. In this work we also exploit a modified architecture of YOLOv5 designed to detect small components of which boards are often highly populated. Moreover, we proposed a strategy to transfer weights from the original pre-trained model to this improved one. We report here our experimental setup and some performance measures.  
+   
+ Gabriele Spadaro, Gaspare Vetrano, Barbara Penna, Antonio Serena, Attilio Fiandrotti   
+
+ Wildfires Classification: A Comparative Study  
+  This paper proposes a comparative study of the performance of deep models for classifying wildfires. First, the paper examines publicly available image datasets for training models to classify fire and smoke. Then, it proposes the Wildfires dataset for the problem of classifying images according to the represented event: fire, smoke and no alarm. The dataset includes images describing real scenarios where images are acquired from a fixed control station far from the place where fire or smoke arises. The paper focuses on convolutional neural networks, residual neural networks, and transformers, and compares model performance on the Wildfires dataset and on a publicly available dataset, FireNet. Based on the experiments conducted in this work, the best accuracy values are achieved by the ResNet-50 network and the Swin-T v2 transformer. On the Wildfires dataset, the latter shows fewer smoke missing and false alarms, and correctly classifies all fire images. Additionally, this paper describes deploying the trained models on an embedded system to develop a fully working prototype for installation in a control station. The experiments show that transformers are not yet suitable for real-time performance when used on embedded systems.  
+   
+ Giorgio Cruciata, Liliana Lo Presti, Gabriele Ajello, Paolo Cicero, Giacomo Corvisieri, Marco La Cascia   
+
+ A General Purpose Method for Image Collection Summarization and Exploration  
+  We propose a flexible framework that can be used to explore large-scale image datasets and summarize photo albums. Our proposed method first groups images based on their semantic content, and then selects the most diverse and aesthetically pleasing images to represent each category. To ensure the selection of high-quality images, we use features extracted from a Convolutional Neural Network to assess their diversity and perceptual properties. The effectiveness of our method is tested using benchmarking datasets and a qualitative study.  
+   
+ Marco Leonardi, Paolo Napoletano, Alessandro Rozza, Raimondo Schettini   
+
+ Automated Identification of Failure Cases in Organ at Risk Segmentation Using Distance Metrics: A Study on CT Data  
+  Automated organ at risk (OAR) segmentation is crucial for radiation therapy planning in CT scans, but the generated contours by automated models can be inaccurate, potentially leading to treatment planning issues. The reasons for these inaccuracies could be varied, such as unclear organ boundaries or inaccurate ground truth due to annotation errors. To improve the model’s performance, it is necessary to identify these failure cases during the training process and to correct them with some potential post-processing techniques. However, this process can be time-consuming, as traditionally it requires manual inspection of the predicted output. This paper proposes a method to automatically identify failure cases by setting a threshold for the combination of Dice and Hausdorff distances. This approach reduces the time-consuming task of visually inspecting predicted outputs, allowing for faster identification of failure case candidates. The method was evaluated on 20 cases of six different organs in CT images from clinical expert curated datasets. By setting the thresholds for the Dice and Hausdorff distances, the study was able to differentiate between various states of failure cases and evaluate over 12 cases visually. This thresholding approach could be extended to other organs, leading to faster identification of failure cases and thereby improving the quality of radiation therapy planning.  
+   
+ Amin Honarmandi Shandiz, Attila Rádics, Rajesh Tamada, Makk Árpád, Karolina Glowacka, Lehel Ferenczi, Sandeep Dutta, Michael Fanariotis   
+
+ Digitizer: A Synthetic Dataset for Well-Log Analysis  
+  Raster well-log images are digital representations of paper copies that retain the original analog data gathered during subsurface drilling. Geologists heavily rely on these images to interpret well-log curves and gain insights into the geological formations beneath the surface. However, manually extracting and analyzing data from these images is time-consuming and demanding. To tackle these challenges, researchers increasingly turn to computer vision and machine learning techniques to assist in the analysis process. Nonetheless, developing such approaches, mainly those dependent on machine learning requires a sufficient number of accurately labelled samples for model training and fine-tuning. Unfortunately, this is not a straightforward task, as existing datasets are derived from scanned hand-compiled paper copies, resulting in digital images that suffer from noise and errors. Furthermore, these samples only represent images and not the digital signals of the measured natural phenomena. To overcome these obstacles, we present a new synthetic dataset that includes both images and digital signals of well-logs. This dataset aims to facilitate more effective and accurate analysis techniques, addressing the limitations of current methods. By utilizing this dataset, researchers and practitioners can develop solutions that mitigate the shortcomings of existing methods, ultimately leading to more reliable and precise results in interpreting well-log curves and understanding subsurface geological formations.  
+   
+ M. Quamer Nasim, Narendra Patwardhan, Javed Ali, Tannistha Maiti, Stefano Marrone, Tarry Singh, Carlo Sansone   
+
+ CNN-BLSTM Model for Arabic Text Recognition in Unconstrained Captured Identity Documents  
+  Optical Character Recognition (OCR) for Arabic text (printed and handwritten) has been widely studied by researchers in the last two decades. Some commercial solutions have emerged with good recognition rates for printed text (on white or uniform backgrounds) or handwritten text with limited vocabulary. In addition to being naturally cursive, the Arabic language comes with additional challenges due to its calligraphy resulting in a variety of fonts and styles. In this work, recent advances in recurrent neural networks are explored for the recognition of Arabic text in identity documents captured in the wild. The unconstrained captures bring additional difficulties as the text has to be first localized before being able to recognize it. Various pre-processing steps are introduced to overcome the difficulties related to the Arabic text itself and also due to the capturing conditions. The presented approach outperforms existing solutions when evaluated using a private dataset and also using the recent MIDV2020 dataset.  
+   
+ Nabil Ghanmi, Amine Belhakimi, Ahmad-Montaser Awal   
+
+ Advances in Gaze Analysis, Visual attention and Eye-gaze modelling (AGAVE)  
+ Frontmatter  
+  
+ Detection and Localization of Changes in Immersive Virtual Reality  
+  Immersive visualization, i.e. the presentation of stimuli, data, and information with head-mounted displays and virtual reality (VR) techniques, is nowadays common in several application contexts. For effective use of such setups, it is worth studying if the attentional mechanisms are affected (improved or worsened) in any way, or if human performances in detecting changes are similar to what happens in the real world. Here, we focus on assessing the Visual Working Memory (VWM) in VR by using a change localization task, and on developing a computational model to account for experiment outcomes. In the change localization experiment, we have four factors: set size, spatial layout, visual angle, and observation time. The results show that there is a limit of the VWM capacity around $$7\pm 2$$ 7 ± 2 items, as reported in the literature. The localization precision is affected by visual angle and observation time (p $$\,<\,$$ < 0.0001), only. The proposed model shows high agreement with the human data (r $$\,>\,$$ > 0.91 and p $$\,<\,$$ < 0.05).  
+   
+ Manuela Chessa, Chiara Bassano, Fabio Solari   
+
+ Pain and Fear in the Eyes: Gaze Dynamics Predicts Social Anxiety from Fear Generalisation  
+  This study presents a systematic approach for analyzing eye movements in the context of fear generalisation and predicting Social Interaction Anxiety Scale (SIAS) scores. Leveraging principles from foraging theory, we introduce a composite Ornstein-Uhlenbeck (O-U) process as a computational model for social anxiety assessment based on eye-tracking data. Through Bayesian analysis, we infer the model parameters and identify a feature set for SIAS score prediction. The results demonstrate the effectiveness of our approach, achieving promising performance using Random Forest (RF) classification. This research offers a novel perspective on gaze analysis for social anxiety assessment and highlights the potential of gaze behaviour as a valuable modality for psychological evaluation.  
+   
+ Sabrina Patania, Alessandro D’Amelio, Vittorio Cuculo, Matteo Limoncini, Marco Ghezzi, Vincenzo Conversano, Giuseppe Boccignone   
+
+ Eye Gaze Analysis Towards an AI System for Dynamic Content Layout  
+  As an instance of dynamic content layout in the context of object-based TV broadcasting, graphic insertions within football match replays are presented and discussed. It is offered that an AI system may be an efficient solution to counter occlusion of content. For such a system, aspirational targets are presented, followed by descriptions of an experiment purposed to gather data as to how viewers may experience graphical insertions into football goal replays in comparison to the typically normal football goal replays where no such graphical insertions are made. The experiment takes the form of eye tracking of viewers’ visual interactions and subsequent analysis to better understand fixations on and off inserted graphics. A series of metrics is derived, discussed, and the results of which are presented as to how well the experiment may relate to aspirational targets and by how much they may be met at present, as well as potential future experiments based on the current findings.  
+   
+ Michael Milliken, Andriy Kharechko, Ian Kegel, Brahim Allan, Shuai Zhang, Sally McClean   
+
+ Beyond Vision: Physics Meets AI (BVPAI)  
+ Frontmatter  
+  
+ A Variational AutoEncoder for Model Independent Searches of New Physics at LHC  
+  We present a feasibility study for the use of a generative, probabilistic model, a Variational Autoencoder (VAE), to detect deviations from Standard Model (SM) physics in an electroweak process at the Large Hadron Collider (LHC).The new physics responsible for the anomalies is described through an Effective Field Theory (EFT) approach: the SM Lagrangian is Taylor-expanded and the higher order terms cause deviations in the kinematic distributions of the observables, and are thus identified by the model as anomalous contributions with respect to SM. Since the training of the model involves almost only SM events, the proposed strategy is largely independent from any assumption on the nature of the new physics signature. To test the proposed strategy we use parton level generations of Vector Boson Scattering (VBS) events at the LHC, assuming an integrated luminosity of 350 fb $$^{-1}$$ - 1 .  
+   
+ Giulia Lavizzari, Giacomo Boldrini, Simone Gennai, Pietro Govoni   
+
+ Adaptive Voronoi Binning in Muon Radiography for Detecting Subsurface Cavities  
+  Muon radiography is an advanced imaging technique that utilizes cosmic muons to visualize the interior of structures and materials, making it highly valuable for subsurface investigations. In this study, we present a measurement conducted using muon radiography at the Temperino mine.We demonstrate the application of an adaptive binning approach using Voronoi tessellation to enhance image visualization and improve cavity detection.The results reveal that the adaptive binning technique significantly improves the visibility of regions with cavities.The combination of muon radiography and adaptive binning through Voronoi tessellation showcases its potential as a powerful tool for subsurface exploration and geological studies, providing a more accurate and reliable approach for cavity detection and characterization.  
+   
+ A. Paccagnella, V. Ciulli, R. D’Alessandro, L. Bonechi, D. Borselli, C. Frosin, S. Gonzi, T. Beni   
+
+ Optimizing Deep Learning Models for Cell Recognition in Fluorescence Microscopy: The Impact of Loss Functions on Performance and Generalization  
+  In the rapidly evolving domain of fluorescence microscopy, the application of Deep Learning techniques for automatic cell segmentation presents exciting opportunities and challenges. In this work, we investigate the impact of loss functions and evaluation metrics on model performance and generalization in the context of cell recognition.First, we present extensive experiments with different commonly used loss functions and offer practical insights and guidelines, underscoring how the choice of a loss function can influence model performance.Second, we conduct a detailed examination of several evaluation metrics with their relative benefits and drawbacks, helping to guide effective model evaluation and comparison in the field.Third, we discuss how characteristics specific to fluorescence microscopy data impact model generalization. Precisely, we examine how factors such as cell sizes, color irregularities, and textures can potentially affect the performance and adaptability of these models to new data.Collectively, these insights provide an understanding of the various facets resulting from the application of Deep Learning for automatic cell segmentation, shedding light on best practices, evaluation strategies, and model generalization. Hence, this study can serve as a beneficial resource for researchers and practitioners working on similar applications, fostering further advancements in the field.  
+   
+ Luca Clissa, Antonio Macaluso, Antonio Zoccoli   
+
+ A New IBA Imaging System for the Transportable MACHINA Accelerator  
+  At LABEC (the INFN ion beam laboratory of nuclear techniques for environment and cultural heritage, located in Florence), a novel transportable accelerator for in-situ ion-beam analysis measurements of cultural heritage materials, MACHINA, has been constructed as part of an international collaboration between the INFN and the CERN. Here we present the most recent developments regarding this project, consisting in the design, construction, and testing of the hardware/software of a data acquisition system for prompt photons of characteristic energies emitted following the interaction between charged particles and matter to construct elemental maps, i.e., grayscale digital images showing the spatial distribution of elements in a material of interest wherein the brightness of each individual pixel correlates to the abundance of a given element.  
+   
+ Rodrigo Torres, Caroline Czelusniak, Lorenzo Giuntini, Francesca Giambi, Mirko Massi, Chiara Ruberto, Francesco Taccetti, Giovanni Anelli, Serge Mathot, Alessandra Lombardi   
+
+ Abstracts Embeddings Evaluation: A Case Study of Artificial Intelligence and Medical Imaging for the COVID-19 Infection  
+  During the COVID-19 pandemic, a huge amount of literature was produced covering different aspects of infection. The use of artificial intelligence (AI) in medical imaging has been shown to improve screening, diagnosis, treatment, and medication for the COVID-19 virus. Applying natural language processing (NLP) solutions to COVID-19 literature has contributed to infer significant COVID-19-related topics and correlated diseases. In this paper, we aim at evaluating biomedical transformer-based NLP techniques in COVID-19 research to understand if they are able to classify problems related to COVID-19. Particularly, once collected COVID-19 publications encompassing the terms AI and medical imaging, fifteen BERT-based models have been compared with respect to modality prediction and task prediction.  
+   
+ Giovanni Zurlo, Elisabetta Ronchieri   
+
+ Pigments and Brush Strokes: Investigating the Painting Techniques Using MA-XRF and Laser Profilometry  
+  To enhance the deep understanding of artists’mindset and technical practices the detailed characterization of paintings require the net of brushstrokes on the surface to be considered as informative. Laser profilometry is being coupled with a macro x-ray fluorescence (MA-XRF) device as a non-destructive, non-invasive, portable tool for such an investigation. A set of different brushstrokes was surveyed by testing the necessary sampling conditions and verifying the compatibility with the MA-XRF working conditions. Eight different surveyed sample brushstrokes proved to be clearly informative of a variety of features useful to characterize the gesturality of the artist’s hand.  
+   
+ Valerio Graziani, Giulia Iorio, Stefano Ridolfi, Chiara Merucci, Paolo Branchini, Luca Tortora   
+
+ Automatic Affect Analysis and Synthesis (3AS)  
+ Frontmatter  
+  
+ Pain Classification and Intensity Estimation Through the Analysis of Facial Action Units  
+  This study focuses on using facial expressions to evaluate acute pain levels. We analyse videos by relying on an extended set of 17 Action Units (AUs) and head pose components. Multiple models are trained and compared to detect the presence of pain and classify its intensity on a 5-point scale, ranging from no pain to high pain. Validation studies were conducted on two publicly available datasets, evaluating both in within- and cross-dataset conditions. The experimental results show better pain classification performance when using both the extended AU set, instead of the restricted AU set related to pain expressions, and head pose information.  
+   
+ Federica Paolì, Andrea D’Eusanio, Federico Cozzi, Sabrina Patania, Giuseppe Boccignone   
+
+ Towards a Better Understanding of Human Emotions: Challenges of Dataset Labeling  
+  A major challenge in automatic human emotion recognition is that of categorizing the very broad and complex spectrum of human emotions. In this regard, a critical bottleneck is represented by the difficulty in obtaining annotated data to build such models. Indeed, all the publicly available datasets collected to this aim are either annotated with (i) the six prototypical emotions, or (ii) continuous valence/arousal (VA) values. On the one hand, the six basic emotions represent a coarse approximation of the vast spectrum of human emotions, and are of limited utility to understand a person’s emotional state. Oppositely, performing dimensional emotion recognition using VA can cover the full range of human emotions, yet it lacks a clear interpretation. Moreover, data annotation with VA is challenging as it requires expert annotators, and there is no guarantee that annotations are consistent with the six prototypical emotions. In this paper, we present an investigation aiming to bridge the gap between the two modalities. We propose to leverage VA values to obtain a fine-grained taxonomy of emotions, interpreting emotional states as probability distributions over the VA space. This has the potential for enabling automatic annotation of existing datasets with this new taxonomy, avoiding the need for expensive data collection and labeling. However, our preliminary results disclose two major problems: first, continuous VA values and the six standard emotion labels are often inconsistent, raising concerns about the validity of existing datasets; second, datasets claimed to be balanced in terms of emotion labels become instead severely unbalanced if provided with a fine-grained emotion annotation. We conclude that efforts are needed in terms of data collection to further push forward the research in this field.  
+   
+ Hajer Guerdelli, Claudio Ferrari, Joao Baptista Cardia Neto, Stefano Berretti, Walid Barhoumi, Alberto Del Bimbo   
+
+ Video-Based Emotion Estimation Using Deep Neural Networks: A Comparative Study  
+  In this study we investigate the effectiveness of deep neural networks in predicting valence and arousal solely from visual information of video sequences. Several recent Convolutional Neural Network (CNN) and Transformer architectures are used as backbone of the proposed model. We also assess the impact of pretraining on model performance by comparing the results of trained from scratch versus pre-trained models. Experimental results on the One-Minute Gradual-Emotion Recognition Challenge dataset suggest that pre-training on emotion recognition datasets is beneficial for most models. Comparison with the state-of-the-art reveals similar performance on valence Concordance Correlation Coefficient (CCC) and lower performance on arousal CCC. However, the predictions in our experiments are not statistically different in most cases. The study concludes by emphasizing the complexity of video emotion recognition and the need for further research to enhance the robustness and accuracy of emotion recognition models. The source code used for the experiments is made publicly available.  
+   
+ Leonardo Alchieri, Luigi Celona, Simone Bianco   
+
+ International Contest on Fire Detection (ONFIRE)  
+ Frontmatter  
+  
+ ONFIRE Contest 2023: Real-Time Fire Detection on the Edge  
+  ONFIRE Contest 2023 is a competition, organized within ICIAP 2023 conference, among methods based on deep learning, aimed at the recognition of fire from videos in real-time on edge devices. This topic is inspiring various research groups for the underlying security reasons and for the growing necessity to realize a system that allows to safeguard the territory from the enormous damage that fires can cause. The participants are required to design fire detection methods, starting from a training set that consists of videos in which fire (flames and/or smoke) is present (positive samples), and others (negative samples) that do not contain a fire. The videos have been collected from existing datasets by selecting as positive videos only those that really frame a fire and not flames and smoke in controlled conditions, and as negative videos the ones that contain moving objects that can be confused with flames or smoke. Since the videos are collected in different conditions, the dataset is very heterogeneous in terms of image resolution, illumination, pixel size of flame or smoke, background activity, scenario (urban or wildfire). The submitted methods are evaluated over a private test set, whose videos are different from the ones available in the training set; this choice allows to test the approaches in realistic conditions, namely in unknown operative scenarios. The proposed experimental protocol allows to measure not only the accuracy but also the computational resources required by the methods, so that the top-rank approaches will be both effective and suited for real-time processing on the edge.  
+   
+ Diego Gragnaniello, Antonio Greco, Carlo Sansone, Bruno Vento   
+
+ FIRESTART: Fire Ignition Recognition with Enhanced Smoothing Techniques and Real-Time Tracking  
+  Fires can potentially cause significant harm to both people and the environment. Recently, there has been a growing interest in real-time fire and smoke detection to provide practical assistance. Detecting fires in outdoor areas is crucial to safeguard human lives and the environment. This is especially important in situations where more than traditional smoke detectors may be required. In this work, we propose FIRESTART, which aims to achieve accurate and robust ignition detection for prompt identification and response to fire incidents. The proposed framework utilizes a lightweight deep learning architecture and post-processing techniques for fire-starting interval detection. Its evaluation was conducted on the ONFIRE dataset, comparing it with several state-of-the-art methods. The results are encouraging, particularly from computational and real-time use perspectives.  
+   
+ Luca Zedda, Andrea Loddo, Cecilia Di Ruberto   
+
+ Rapid Fire Detection with Early Exiting  
+  Efficient and effective fire detection has proven critical and if not achieved it can pose significant ecological and economic challenges. By introducing early exits into fire video processing using MSDNet, our approach enables quick identification of fires and smoke, ensuring a prompt response to potential fire incidents. Emphasizing efficiency, our method is tailored for resource-constrained edge devices, providing a practical solution for fire-prone regions and enhancing overall fire detection and prevention efforts. Investigating different model sizes yielded accuracy ranging from 86% to 94%, with smaller models outperforming larger models. The adoption of MSDNet allowed for the achievement of an F1-Score of 0.2. This preliminary work has shown the value of small models in the robust detection of fires and introducing early exits can further performance.  
+   
+ Grace Vincent, Laura Desantis, Ethan Patten, Sambit Bhattacharya   
+
+ Recent Advances in Digital Security: Biometrics and Forensics (BIOFORM)  
+ Frontmatter  
+  
+ Morphing-Attacks Against Binary Fingervein Templates  
+  For the first time, the feasibility of creating morphed templates for attacking vascular biometrics is investigated, in particular finger vein recognition schemes generating binary vascular patterns are addressed. A conducted vulnerability analysis reveals that (i) the extent of vulnerability, (ii) the type of most vulnerable recognition scheme, and (iii) the preferred way to construct the morphed template for a given target template depends on the employed sensor. It turns out that targeted template doppelgaenger selection is important for an attack success. The identified threat level in terms of IAPMR is often found to be $$> 0.8$$ > 0.8 for several sensor/template generation scheme/morphing technique combinations. Thus, the risk as imposed by such attacks can be said to be considerable.  
+   
+ Tobias Mitterreiter, Jutta Hämmerle-Uhl, Andreas Uhl   
+
+ A Robust Approach for Crop Misalignment Estimation in Single and Double JPEG Compressed Images  
+  In forensics investigation, information about the crop performed after a JPEG compression can be useful exploited to reconstruct the manipulation history of the analyzed images and localize forgeries. Statistics computed from AC histograms, obtained performing an additional JPEG compression with a set of constant quantization matrices, are exploited to design a robust and effective algorithm to retrieve information about the employed crop. Finally, the effectiveness of the proposed solution has been demonstrated through a series of tests conducted considering different patch sizes, quantization matrices, and comparisons with a state-of-the-art solution in single and double JPEG compression scenario.  
+   
+ Giovanni Puglisi, Sebastiano Battiato   
+
+ Human-in-the-Loop Person Re-Identification as a Defence Against Adversarial Attacks  
+  Person re-identification (Re-Id) is a computer vision task useful to security-related applications of video surveillance systems. Recently it has been shown that Re-Id systems, currently based on deep neural networks, are vulnerable to adversarial attacks, some of which are based on manipulating the query image to prevent other images of the same individual from being retrieved. Whereas some ad hoc defence strategies have been proposed so far against different implementations of this kind of attack, we argue that the human-in-the-loop (HITL) approach, originally proposed for retrieval systems (including Re-Id) to improve retrieval accuracy under normal operational conditions, can also act as an effective and general defence strategy, with the notable advantage that it does not degrade accuracy in the absence of attacks, contrary to ad hoc defences. We provide empirical evidence of this fact on several benchmark data sets and state-of-the-art Re-Id models, using a simple HITL implementation based on relevance feedback algorithms.  
+   
+ Rita Delussu, Lorenzo Putzu, Emanuele Ledda, Giorgio Fumera   
+
+ Generalized Deepfake Detection Algorithm Based on Inconsistency Between Inner and Outer Faces  
+  Deepfake refers to using artificial intelligence (AI) and machine learning techniques to create compelling and realistic media content, such as videos, images, or recordings, that appear real but are fake. The most common form of deepfake involves using deep neural networks to replace or superimpose faces in existing videos or images on top of other people’s faces. While this technology can be used for various benign purposes, such as filmmaking or online education, it can also be used maliciously to spread misinformation by creating fake videos or images. Based on the classic deepfake generation process, this paper explores the Inconsistency between inner and outer faces in fake content to find synthetic defects and proposes a general deepfake detection algorithm. Experimental results show that our proposed method has certain advantages, especially regarding cross-method detection performance.  
+   
+ Jie Gao, Sara Concas, Giulia Orrù, Xiaoyi Feng, Gian Luca Marcialis, Fabio Roli   
+
+ Real-Time Multiclass Face Spoofing Recognition Through Spatiotemporal Convolutional 3D Features  
+  Face recognition is used in numerous authentication applications, unfortunately they are susceptible to spoofing attacks such as paper and screen attacks. In this paper, we propose a method that is able to recognise if a face detected in a video is not real and the type of attack performed on the fake video. We propose to learn the temporal features exploiting a 3D Convolution Network that is more suitable for temporal information. The 3D ConvNet, other than summarizing temporal information, allows us to build a real-time method since it is so much more efficient to analyse clips instead of analyzing single frames. The learned features are classified using a binary classifier to distinguish if the person in the clip video is real (i.e. live) or not, multi class classifier recognises if the person is real or the type of attack (screen, paper, ect.). We performed our test on 5 public datasets: Replay Attack, Replay Mobile, MSU-MSFD, Rose-Youtu, RECOD-MPAD.  
+   
+ Salvatore Giurato, Alessandro Ortis, Sebastiano Battiato   
+
+ Computer Vision for Environment Monitoring and Preservation (CVEMP) Enhancing Air Quality Forecasting Through  
+ Frontmatter  
+  
+ Enhancing Air Quality Forecasting Through Deep Learning and Continuous Wavelet Transform  
+  Air quality forecasting plays a crucial role in environmental management and public health. In this paper, we propose a novel approach that combines deep learning techniques with the Continuous Wavelet Transform (CWT) for air quality forecasting based on sensor data. The proposed methodology is agnostic to the target pollutant and can be applied to estimate any available pollutant without loss of generality. The pipeline consists of two main steps: the generation of stacked samples from raw sensor signals using CWT, and the prediction through a custom deep neural network based on the ResNet18 architecture.We compare our approach with traditional one-dimensional signal processing models. The results show that our 2D pipeline, employing the Morlet mother wavelet, outperforms the baselines significantly. The localized time-frequency representations obtained through CWT highlight hidden dynamics and relationships within the parameter behavior and external factors, leading to more accurate predictions. Overall, our approach demonstrates the potential to advance air quality forecasting and environmental management for healthier living environments worldwide.  
+   
+ Pietro Manganelli Conforti, Andrea Fanti, Pietro Nardelli, Paolo Russo   
+
+ Optimize Vision Transformer Architecture via Efficient Attention Modules: A Study on the Monocular Depth Estimation Task  
+  IoT and edge devices, capable of capturing data from their surroundings, are becoming increasingly popular. However, the onboard analysis of the acquired data is usually limited by their computational capabilities. Consequently, the most recent and accurate deep learning technologies, such as Vision Transformers (ViT) and their hybrid (hViT) versions, are typically too cumbersome to be exploited for onboard inferences. Therefore, the purpose of this work is to analyze and investigate the impact of efficient ViT methodologies applied to the monocular depth estimation (MDE) task, which computes the depth map from an RGB image. This task is a critical feature for autonomous and robotic systems in order to perceive the surrounding environment. More in detail, this work leverages innovative solutions designed to reduce the computational cost of self-attention, the fundamental element on which ViTs are based, applying this modification to METER architecture, a lightweight model designed to tackle the MDE task which can be further enhanced. The proposed efficient variants, namely Meta-METER and Pyra-METER, are capable of achieving an average speed boost of 41.4% and 34.4% respectively, over a variety of edge devices when compared with the original model, while keeping a limited degradation of the estimation capabilities when tested on the indoor NYU dataset.  
+   
+ Claudio Schiavella, Lorenzo Cirillo, Lorenzo Papa, Paolo Russo, Irene Amerini   
+
+ Assessing Machine Learning Algorithms for Land Use and Land Cover Classification in Morocco Using Google Earth Engine  
+  Google Earth Engine constitutes a cloud-based geospatial data processing platform. It grants free access to vast volumes of satellite data along with unlimited computational power, enabling the monitoring, visualization, and analysis of environmental features on a petabyte scale. The platform's capacity to accommodate various land use and land cover (LULC) classification approaches, utilizing both pixel-based and object-oriented methods, has been facilitated by providing an array of machine learning algorithms. Earth observation data has emerged as a valuable resource, offering temporally and spatially consistent quantitative information compared to traditional ground surveys. It presents numerous opportunities for urban mapping, monitoring, and a wide array of physical, climatic, and socio-economic data to support urban planning and decision-making. In this study, Landsat 8 satellite data was harnessed for supervised classification. Three advanced machine learning techniques—Support Vector Machine (SVM), Random Forest (RF), and Minimum Distance (MD)—were employed to categorize areas within Morocco, encompassing water bodies, built-up regions, cultivated land, sandy areas, barren zones, and forests. The classification outcomes are presented using a set of accuracy indicators, including Overall Accuracy (OA) and the Kappa coefficient.  
+   
+ Hafsa Ouchra, Abdessamad Belangour, Allae Erraissi, Mouad Banane   
+
+ An Application of Artificial Intelligence and Genetic Algorithm to Support the Discovering of Roman Centuriation Remains  
+  Methodologies and technologies for uncovering archaeological ruins and objects have been advanced by the utilization of Artificial Intelligence (AI). AI supports archaeologists to discover remains that are difficult to be identified manually as they must be sought on a vast territory or because they are hidden from direct observation. Here we present a methodology that integrates deep learning, computer vision and genetic algorithm techniques to identify, from large aerial pictures, remains of the Centuriation, which is an ancient Roman system for the division of lands.  
+   
+ Pietro Fusco, Salvatore Venticinque   
+
+ Convolutional Neural Networks for the Detection of Esca Disease Complex in Asymptomatic Grapevine Leaves  
+  The Esca complex is a grapevine trunk disease that significantly threatens modern viticulture. The lack of effective control strategies and the intricacy of Esca disease manifestation render essential the identification of affected plants before symptoms become evident to the naked eye. This study applies Convolutional Neural Networks (CNNs) to distinguish, at the pixel level, between healthy, asymptomatic and symptomatic grapevine leaves of a Tempranillo red-berried cultivar using Hyperspectral imaging (HSI) in the 900–1700 nm spectral range. We show that a 1D CNN performs semantic image segmentation (SiS) with higher accuracy than PLS-DA, one of HSI data’s most widely used classification algorithms.  
+   
+ Alberto Carraro, Gaetano Saurio, Ainara López-Maestresalas, Simone Scardapane, Francesco Marinello   
+
+ ArcheoWeedNet: Weed Classification in the Parco archeologico del Colosseo  
+  This paper summarizes the development of a weed monitoring system in the Parco archeologico del Colosseo (hereinafter, Parco) using Deep Learning (DL) techniques to recognize forty-one species of plants now present in the area. The project is part of SyPEAH (System for the Protection and Education of Archaeological Heritage), a platform designed to safeguard the Parco by its Authority. This study emanates from an extended phase of the photographic collection spanning ten months. This endeavour facilitated the compilation of a dataset comprising nearly 5,000 photographs depicting the flora of pertinent significance. In the paper, we detail the first version of the system, consisting of a neural network trained to predict the species of plants and the materials on which they grow. We also describe transfer learning techniques aimed at improving performance. The present system attains recognition accuracy exceeding 90% for common species, enabling near real-time monitoring of the entire Park’s flora through image analysis using supplied fixed and mobile devices. It will support proactive interventions for maintenance. The paper details data analysis and neural network design and envisions future developments.  
+   
+ Gaetano Saurio, Marco Muscas, Indro Spinelli, Valerio Rughetti, Irma Della Giovampaola, Simone Scardapane   
+
+ Automatic Alignment of Multi-scale Aerial and Underwater Photogrammetric Point Clouds: A Case Study in the Maldivian Coral Reef  
+  The research question that the paper investigates is whether the usage of state of the art algorithms for point clouds registration solves the problem of multi-scale vision-based point clouds registration in mixed aerial and underwater environments. This paper reports very preliminary results on the data we have been able to procure, in the context of a coral reef restoration project nearby Magoodhoo Island (Maldives). The results obtained by exploiting state of the art algorithms are promising, considering that those data presents hard samples, in particular for their multi-scale nature (noise in captured 3D points increases with depth). However, further investigation on larger data-sets is needed to confirm the overall applicability of the current algorithms to this problem.  
+   
+ Federica Di Lauro, Luca Fallati, Simone Fontana, Alessandra Savini, Domenico G. Sorrenti   
+
+ Generation of Human Face and Body Behavior (GHB)  
+ Frontmatter  
+  
+ Upsampling 4D Point Clouds of Human Body via Adversarial Generation  
+  Time varying sequences of 3D point clouds, or 4D point clouds, are acquired at an increasing pace in several applications (e.g., LiDAR in autonomous or assisted driving). In many cases, such volume of data is transmitted, thus requiring that proper compression tools are applied to either reduce the resolution or the bandwidth. In this paper, we propose a new solution for upscaling of time-varying 3D video point clouds. Our model consists of a specifically designed Graph Convolutional Network that combines Dynamic Edge Convolution and Graph Attention Networks for feature aggregation in a Generative Adversarial setting. To make these modules work in synergy, we present a specific way to sample dense point clouds and provide each node with enough features of its neighbourhood to generate new vertices. Compared to other solutions in the literature that address the same task, our proposed model is capable of obtaining similar results in terms of quality of reconstruction, while using a substantially lower number of parameters ( $$\simeq $$ ≃ 300KB).  
+   
+ Lorenzo Berlincioni, Stefano Berretti, Marco Bertini, Alberto Del Bimbo   
+
+ Decoding Deception: Understanding Human Discrimination Ability in Differentiating Authentic Faces from Deepfake Deceits  
+  Advances in innovative digital technologies present a maturing challenge in differentiating between authentic and manipulated media. The evolution of automated technology has specifically exacerbated this issue, with the emergence of DeepFake content. The degree of sophistication poses potential risks and raise concerns across multiple domains including forensic imagery analysis, especially for Facial Image Comparison (FIC) practitioners. It remains unclear as to whether DeepFake videos can be accurately distinguished from their authentic counterparts, when analysed by domain experts. In response, we present our study where two participant cohorts (FIC practitioners and novice subjects) were shown eleven videos (6 authentic videos and 5 DeepFake videos) and asked to make judgments about the authenticity of the faces. The research findings indicate that when distinguishing between DeepFake and authentic faces, FIC practitioners perform at a similar level to the untrained, novice cohort. Though, statistically, the novice cohort outperformed the practitioners with an overall performance surpassing 70%, relative to the FIC practitioners. This research is still in its infancy stage, yet it is already making significant contributions to the field by facilitating a deeper understanding of how DeepFake content could potentially influence the domain of Forensic Image Identification.  
+   
+ Shelina Khalid Jilani, Zeno Geradts, Aliyu Abubakar   
+
+ Generative Data Augmentation of Human Biomechanics  
+  Wearable sensors are miniature and affordable devices used for monitoring human motion in daily life. Data-driven models applied to wearable sensor data can enhance the accuracy of movement analysis outside of controlled settings. However, obtaining a large and representative database for training these models is challenging due to the specialised motion laboratories and expensive equipment required. To address this limitation, this study proposes a data augmentation approach using generative deep learning to enhance biomechanical datasets. A novel conditional generative adversarial network (GAN) was developed to synthesise biomechanical data during gait. The GAN takes into account the subject’s anthropometric measures to generate data that represents specific body types as well as information about the gait cycle for reconstruction back into the time domain. The proposed model was evaluated for generating biomechanical data of unseen subjects and fine-tuning the model with small percentages (1%, 2% and 5%) of the test dataset. Researchers and practitioners can overcome the limitations of obtaining large training datasets from human participants by synthesising realistic and diverse synthetic data. This paper outlines the methodology and experimental setup for developing and evaluating the GAN and discusses its potential impact on the field of biomechanics and human motion analysis.  
+   
+ Halldór Kárason, Pierluigi Ritrovato, Nicola Maffulli, Francesco Tortorella   
+
+ Avatar Reaction to Multimodal Human Behavior  
+  In this paper, we propose a virtual agent application. We develop a virtual agent that reacts to gestures and a virtual environment in which it can interact with the user. We capture motion with a Kinect V2 camera, predict the end of the motion and then classify it. The application also features a facial expression recognition module. In addition, to all these modules, we include also OpenAI conversation module. The application can also be used with a virtual reality headset.  
+   
+ Baptiste Chopin, Mohamed Daoudi, Angela Bartolo   
+
+ Backmatter  
+
+ Metadata   
+
+ Title  Image Analysis and Processing - ICIAP 2023 Workshops    
+ Editors  Gian Luca Foresti  
+  Andrea Fusiello  
+  Edwin Hancock  
+     
+ Copyright Year  2024    
+ Publisher  Springer Nature Switzerland     
+   
+ Electronic ISBN  978-3-031-51023-6    
+ Print ISBN  978-3-031-51022-9    
+ DOI  https://doi.org/10.1007/978-3-031-51023-6     
+
+ Premium Partner  
+
+ Image Credits  Neuer Inhalt/© ITandMEDIA   
+
+ Disciplines | Automotive 
+  Business IT + Informatics 
+  Construction + Real Estate 
+  Electrical Engineering + Electronics 
+  Energy + Sustainability 
+  Insurance + Risk 
+  Finance + Banking 
+  Management + Leadership 
+  Marketing + Sales 
+  Mechanical Engineering + Materials 
+  Books 
+  Journals 
+  Topic Page | Marketing 
+  Events 
+  Start single access now 
+  Access for companies 
+
+  About us:     
+  
+ Who we are    Help    Contact us    Payment Methods      
+ Our products:     
+  
+ Individual access    Access for companies    PatentFit    MyAlerts    Professional Book Archive    MyNewsletter    Carl Hanser Publishing House - Books    AI-assisted search      
+ Legal Information:     
+  
+ Imprint    Terms & Conditions    Privacy Policy    Cookies    Manage cookies/Do not sell my data    California Consumer Privacy Statement      
+ Further links:     
+  
+ RSS-Feeds    Social Media    Media data    Corporate Solutions      
+   
+ Springer Nature Logo    © Springer Fachmedien Wiesbaden GmbH  
+   
+ Version: 0.3926.0

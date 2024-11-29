@@ -1,0 +1,43 @@
+Home 
+  About 
+  Browse | Browse by Year 
+  Browse by Research Area 
+  Browse by Division 
+  Browse by Author 
+  Data Privacy Policy 
+  Impressum 
+   
+ Login |  
+
+ SEAL: Capability-Based Access Control for Data-Analytic Scenarios  
+
+ Rasifard, Hamed  and Gopinath, Rahul  and Backes, Michael  and Nemati, Hamed    
+ (2023)  SEAL: Capability-Based Access Control for Data-Analytic Scenarios.     
+ In: ACM SACMAT 2023.   
+ Conference: SACMAT ACM Symposium on Access Control Models and Technologies (previously ACM Workshop on Role-Based Access Control, RBAC, changed in 2000)     
+ (In Press)  
+  
+ Text   
+  SEAL - Capability-Based Access Control for Data-Analytic Scenarios.pdf  - Accepted Version   
+  Download (928kB) 
+  
+ Abstract  
+ Data science is the basis for various disciplines in the Big-Data era. Due to the high volume, velocity, and variety of big data, data owners often store their data in data servers. Past few years, many computation techniques have emerged to protect the security and privacy of such shared data while enabling analysis thereon. Hence, access-control systems must provide a fine-grained, multi-layer mechanism to protect data. However, the existing systems and frameworks fail to satisfy all these requirements and resolve the trust issue between data owners and analysts. In this paper, we propose SEAL as a framework to protect the security and privacy of shared data. SEAL enables computations on shared data while they remain under the complete control of data owners through pre-defined policies. Our framework employs the capability-object model to define flexible access policies. SEAL's access-control system supports delegating and revoking access privileges and other access-control customizations. In addition, SEAL can assign security labels to privacy-sensitive data and track them to enable data owners to define where and when a data analyst can access their data. We demonstrate the practicability of our approach by presenting a prototype implementation of SEAL. Furthermore, we display the flexibility of our framework by implementing multiple data-analytic scenarios, which cover different applications.  
+  
+ Item Type: | Conference or Workshop Item ( A Paper  ) (Paper) 
+ Divisions: | Michael Backes (InfSec) 
+ Conference: | SACMAT ACM Symposium on Access Control Models and Technologies (previously ACM Workshop on Role-Based Access Control, RBAC, changed in 2000) 
+ Depositing User: | Hamed Rasifard 
+ Date Deposited: | 12 May 2023 12:28 
+ Last Modified: | 12 May 2023 12:28 
+ Primary Research Area: | NRA2: Reliable Security Guarantees 
+ URI: | https://publications.cispa.saarland/id/eprint/3947 
+  
+ Actions  
+  Refer  Dublin Core  RDF+N-Triples  Simple Metadata  MODS  MPEG-21 DIDL  OpenURL ContextObject in Span  RDF+XML  JSON  ASCII Citation  BibTeX  RDF+N3  Multiline CSV  Atom  EP3 XML  HTML Citation  Reference Manager  METS  OpenURL ContextObject  EndNote       
+   
+ Actions (login required)  
+  
+ View Item 
+
+ CISPA is powered by EPrints 3   which is developed by the School of Electronics and Computer Science  at the University of Southampton. More information and software credits  .

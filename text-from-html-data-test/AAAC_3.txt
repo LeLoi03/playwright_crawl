@@ -1,0 +1,41 @@
+Skip to content   
+
+ IWOCA 2023   
+ IWOCA 2023   
+
+     IWOCA 2023 
+  Call for Papers 
+  Committees 
+  Invited Speakers 
+  Accepted Papers 
+  Registration 
+  Program 
+  Venue and Accommodation 
+  Document Download 
+  Contact 
+
+ Invited Speakers  
+   
+  Ding-Zhu Du  
+    
+ Title:  Adaptive Influence Maximization: Adaptability via Non-adaptability  
+ Abstract:  Adaptive influence maximization is attractive research topic which obtained many researchers’ attention. To enhance the role of adaptability, new information diffusion models, such as dynamic independent cascade model, are proposed. In this talk, the speaker would like to present a recent discovery that in some models, the adaptive influence maximization can be transformed into a non-adaptive problem in another model. This reveals an interesting relationship between Adaptability and Non-adaptability.  
+ Biography  : Ding-Zhu Du received the M.S. degree in operations research from the Chinese Academy of Sciences, Beijing, China, in 1981, and the Ph.D. degree in mathematics with a concentration in theoretical computer science from the University of California, Santa Barbara, CA, USA, in 1985. He has working experience in MSRI at Berkeley, Math at MIT, CS at Princeton University and University of Minnesota for about 20 years. Currently, he is a cs professor at University of Texas at Dallas. He has been involved in research on the design and analysis of approximation algorithms for 30 years. Meanwhile, he published 250 journal papers, wrote more than 10 books, and severed editorships for about 15 journals.  
+ Kazuo Iwama  
+    
+ Title  : Bounded Hanoi  
+ Abstract:  The classic Tower of Hanoi puzzle involves moving a set of disks on three pegs. The number of moves required for a given number of disks is easy to determine, but when the number of pegs is increased to four or more, this becomes more challenging. After 75 years, the answer  
+  for four pegs was resolved only recently, and this time complexity  question remains open for five or more pegs. In this article, the space complexity  , i.e., how many disks need to be accommodated on the pegs involved in the transfer, is considered for the first time. Suppose m   disks are to be transferred from some peg L   to another peg R   using k   intermediate work pegs  of heights j 1  ,...,j k    , then how large can m   be? We denote this value by H( j 1  ,...,j k   )   . We have the exact value for two work pegs, but so far only very partial results for three or more pegs. For example, H(10!,10!)=26336386137601   and H(0!,1!,2!,...,10!)=16304749471397   , but we still do not know the value for H(1,3,3)   . Some new developments for the three pegs are also mentioned.  
+ Biography  : Kazuo Iwama is Visiting Chair Professor of National Ting Hua University. Before he joined NTHU, he had been with RIMS, Kyoto University, School of Information Science, Kyoto University, Kyushu University, Charles University, UC Berkeley, and so on. He is a member of Academia Europae, the founder of Asian Association for Algorithms and Computation (AAAC), and Honorary Doctor, University of Latvia. He served as the Editor-in-Chief of Bulletin, European Association for Theoretical Computer Science (EATCS) for more than eight years. He organized SODA and ICALP, two topmost conferences in the field of algorithms and computation, both of which were first held in Asia. His main research interests include design and analysis of algorithms, computational complexity theory and quantum computation.  
+ Peter Rossmanith  
+    
+ Title  : Online Algorithms with Advice  
+ Abstract:  Online algorithms have to make decisions without knowing the full input. A well-know example is caching: Which page should we discard from a cache when there is no more space left? The classical way to analyze the performance of online algorithms is the competitive ratio: How much worse is the result of an optimization problem relative to the optimal result. A different and relative new viewpoint is the advice complexity: How much information about the future does an online algorithm need in order to become optimal? Or, similarly, how much can we improve the competitive ratio with a given amount of information about the future? In this talk we will look at the growing list of known results about online algorithms with advice and the interesting problems that occured when the pioneers of the field came up with the definition of this model.  
+ Biography:  Peter Rossmanith is a professor of Theoretical Computer Science at RWTH Aachen University in Germany. He is mainly interested in Efficient Algorithms, but also likes to look at all other aspects in Computer Science and Mathematics including Computer Science Education. He is the author of more than one hundred scientific publications, has been on the program committee of numerous conference, and is associate editor of Computer Science Review. He is a board member of the German Computer Science Faculty Association and chairman of the committee that designs the tasks for the Federal Computer Science Competition in Germany.  
+ Weili Wu  
+    
+ Title  : The Art of Big Data: Accomplishments and Research Needs  
+ Abstract:  Online social platforms have become more and more popular, and the dissemination of information on social networks has attracted wide attention of the industries and academia. Aiming at selecting a small subset of nodes with maximum influence on networks, the Influence Maximization (IM) problem has been extensively studied. Since it is #P-hard to compute the influence spread given a seed set, the state-of-art methods, including heuristic and approximation algorithms, faced with great difficulties such as theoretical guarantee, time efficiency, generalization, etc. This makes it unable to adapt to large-scale networks and more complex applications. With the latest achievements of Deep Reinforcement Learning (DRL) in artificial intelligence and other fields, a lot of works has focused on exploiting DRL to solve the combinatorial optimization problems. Inspired by this, we propose a novel end-to-end DRL framework, ToupleGDD, to address the IM problem which incorporates three coupled graph neural networks for network embedding and double deep Q-networks for parameters learning. Previous efforts to solve the IM problem with DRL trained their models on the subgraph of the whole network, and then tested their performance on the whole graph, which makes the performance of their models unstable among different networks. However, our model is trained on several small randomly generated graphs and tested on completely different networks, and can obtain results that are very close to the state-of-the-art methods. In addition, our model is trained with a small budget, and it can perform well under various large budgets in the test, showing strong generalization ability. Finally, we conduct extensive experiments on synthetic and realistic datasets, and the experimental results prove the effectiveness and superiority of our model.  
+ Biography:  Dr. Weili (Lily) Wu received her MS and PhD degrees in computer science both from University of Minnesota, in 1998 and 2002 respectively. She is currently a full professor and a lab director of the Data Communication and Data Management (DCDM) Laboratory at the Department of Computer Science and Engineering, the University of Texas at Dallas. Her research interest is mainly in Big Data, Social Network, Blockchain Technology, wireless sensor network, IoT, Data Mining. She has published more than 230 journal papers and 102 conference papers in various prestigious journals and conferences such as IEEE/ACM Transactions on Networking, IEEE Trans. Netw. Sci. Eng., Comput. Social Systems, IoT Journal, ACM Transactions on Knowledge Discovery in Data, IEEE Trans. Reliability, IEEE TKDE, Multimedia, ACM Transaction on Sensor Networks (TOSN), IEEE Trans. Netw. Serv. Manag., Wirel. Commun., Mob. Comput., Parallel Distrib. Syst., IEEE ICDCS, INFOCOM, ACM SIGKDD, etc. I’m an associate editor of IJBRA, Computational Social Networks (CSN), SOP Transactions on Wireless Communications (STOWC), DMAA, Journal of Combinatorial Optimization (JOCO), and Journal of Global Optimization (JOGO).  
+
+ © 2024 IWOCA 2023  | Designed by: Theme Freesia  | Powered by: WordPress

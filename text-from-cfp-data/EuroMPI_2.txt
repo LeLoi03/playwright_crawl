@@ -1,0 +1,746 @@
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    <!-- BEGIN DO NOT INDEX -->
+<header class="header sticky">
+  <div class="container header-container">
+        <button id="menu-trigger" class="nav-trigger" aria-controls="menu" aria-haspopup="true">
+  <!--?xml version="1.0" encoding="utf-8"?-->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 50 41" style="enable-background:new 0 0 50 41;" xml:space="preserve">
+<title>Menu</title>
+<g><ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 324.5414 820.4486)" class="st0" cx="1152.6" cy="18.5" rx="7.5" ry="7.5"></ellipse><line class="st0" x1="1157.6" y1="23.8" x2="1166.5" y2="33.2"></line></g>
+<g>
+	<rect x="6" y="5" width="39" height="6"></rect>
+	<rect x="6" y="17.5" width="39" height="6"></rect>
+	<rect x="6" y="30" width="39" height="6"></rect>
+</g>
+</svg>
+  <span class="element-invisible">Navigation</span>
+</button>
+<div class="nav-drawer">
+  <nav class="nav">
+  <ul id="menu" aria-labelledby="menu-trigger" class="nav-list">
+          <li aria-controls="nav-sublist-1" tabindex="0" class="nav-list__item">
+        <a href="/argonnes-science-and-technology">Research</a>
+                  <button aria-controls="nav-sublist-1" id="menubutton-1" aria-haspopup="true" class="nav-sublist-trigger"><!--?xml version="1.0" encoding="utf-8"?-->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 444.8 444.8" style="enable-background:new 0 0 444.8 444.8;" xml:space="preserve">
+   <title>Arrow</title>
+<g>
+	<path d="M114.2,10.6L92.8,32c-7,7.4-10.6,16.1-10.6,26c0,10.1,3.5,18.7,10.6,25.7l138.8,138.8L92.8,361.2c-7,7-10.6,15.6-10.6,25.7
+		c0,9.9,3.5,18.6,10.6,26l21.4,21.1c7.2,7.2,15.9,10.8,26,10.8c10.3,0,18.8-3.6,25.7-10.8l185.9-185.9c7.2-6.9,10.8-15.4,10.8-25.7
+		c0-10.1-3.6-18.8-10.8-26L165.9,10.6c-7-7-15.6-10.6-25.7-10.6C130.3,0,121.6,3.5,114.2,10.6z"></path>
+</g>
+</svg>
+</button>
+          <ul id="nav-sublist-1" aria-labelledby="menubutton-1" class="nav-sublist">
+                          <li class="nav-sublist__item">
+                <a href="/research-index">Research Index</a>
+              </li>
+                          <li class="nav-sublist__item">
+                <a href="/argonne-scientific-publications">Scientific Publications</a>
+              </li>
+                          <li class="nav-sublist__item">
+                <a href="/national-scientific-user-facilities">National User Facilities</a>
+              </li>
+                          <li class="nav-sublist__item">
+                <a href="/collaborative-research">Collaborative Research</a>
+              </li>
+                          <li class="nav-sublist__item">
+                <a href="/research-organizations">Research Organizations</a>
+              </li>
+                          <li class="nav-sublist__item">
+                <a href="/research-facilities">Research Facilities</a>
+              </li>
+                          <li class="nav-sublist__item">
+                <a href="/research-highlights">Research Highlights</a>
+              </li>
+                      </ul>
+              </li>
+          <li aria-controls="nav-sublist-2" tabindex="0" class="nav-list__item">
+        <a href="/work-with-us">Work with Us</a>
+                  <button aria-controls="nav-sublist-2" id="menubutton-2" aria-haspopup="true" class="nav-sublist-trigger"><!--?xml version="1.0" encoding="utf-8"?-->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 444.8 444.8" style="enable-background:new 0 0 444.8 444.8;" xml:space="preserve">
+   <title>Arrow</title>
+<g>
+	<path d="M114.2,10.6L92.8,32c-7,7.4-10.6,16.1-10.6,26c0,10.1,3.5,18.7,10.6,25.7l138.8,138.8L92.8,361.2c-7,7-10.6,15.6-10.6,25.7
+		c0,9.9,3.5,18.6,10.6,26l21.4,21.1c7.2,7.2,15.9,10.8,26,10.8c10.3,0,18.8-3.6,25.7-10.8l185.9-185.9c7.2-6.9,10.8-15.4,10.8-25.7
+		c0-10.1-3.6-18.8-10.8-26L165.9,10.6c-7-7-15.6-10.6-25.7-10.6C130.3,0,121.6,3.5,114.2,10.6z"></path>
+</g>
+</svg>
+</button>
+          <ul id="nav-sublist-2" aria-labelledby="menubutton-2" class="nav-sublist">
+                          <li class="nav-sublist__item">
+                <a href="/partnerships/available-for-licensing">Available Technologies</a>
+              </li>
+                          <li class="nav-sublist__item">
+                <a href="/partnerships/capabilities">Capabilities</a>
+              </li>
+                          <li class="nav-sublist__item">
+                <a href="/partnerships/collaborative-partnerships">Collaborative Partnerships</a>
+              </li>
+                          <li class="nav-sublist__item">
+                <a href="/partnerships/contracts-and-agreements">Contracts and Agreements</a>
+              </li>
+                          <li class="nav-sublist__item">
+                <a href="/discovery-to-impact">Discovery to Impact</a>
+              </li>
+                          <li class="nav-sublist__item">
+                <a href="/argonnes-economic-impact">Economic Impact</a>
+              </li>
+                          <li class="nav-sublist__item">
+                <a href="/procurement">Procurement</a>
+              </li>
+                      </ul>
+              </li>
+          <li aria-controls="nav-sublist-3" tabindex="0" class="nav-list__item">
+        <a href="/argonne-in-the-community">Community</a>
+                  <button aria-controls="nav-sublist-3" id="menubutton-3" aria-haspopup="true" class="nav-sublist-trigger"><!--?xml version="1.0" encoding="utf-8"?-->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 444.8 444.8" style="enable-background:new 0 0 444.8 444.8;" xml:space="preserve">
+   <title>Arrow</title>
+<g>
+	<path d="M114.2,10.6L92.8,32c-7,7.4-10.6,16.1-10.6,26c0,10.1,3.5,18.7,10.6,25.7l138.8,138.8L92.8,361.2c-7,7-10.6,15.6-10.6,25.7
+		c0,9.9,3.5,18.6,10.6,26l21.4,21.1c7.2,7.2,15.9,10.8,26,10.8c10.3,0,18.8-3.6,25.7-10.8l185.9-185.9c7.2-6.9,10.8-15.4,10.8-25.7
+		c0-10.1-3.6-18.8-10.8-26L165.9,10.6c-7-7-15.6-10.6-25.7-10.6C130.3,0,121.6,3.5,114.2,10.6z"></path>
+</g>
+</svg>
+</button>
+          <ul id="nav-sublist-3" aria-labelledby="menubutton-3" class="nav-sublist">
+                          <li class="nav-sublist__item">
+                <a href="/tour-the-lab">Take a Tour of Argonne</a>
+              </li>
+                          <li class="nav-sublist__item">
+                <a href="/education">Educational Programs</a>
+              </li>
+                          <li class="nav-sublist__item">
+                <a href="/office-of-community-engagement">Office of Community Engagement</a>
+              </li>
+                          <li class="nav-sublist__item">
+                <a href="/chicago">Argonne in Chicago</a>
+              </li>
+                          <li class="nav-sublist__item">
+                <a href="/outloud-lecture-series">OutLoud Lecture Series</a>
+              </li>
+                          <li class="nav-sublist__item">
+                <a href="/community-leaders-roundtable">Community Round Table</a>
+              </li>
+                          <li class="nav-sublist__item">
+                <a href="/speakers-bureau">Speakers Bureau</a>
+              </li>
+                          <li class="nav-sublist__item">
+                <a href="/sustainability">Sustainability</a>
+              </li>
+                          <li class="nav-sublist__item">
+                <a href="/subscribe-to-argonne-publications">Subscribe to Argonne</a>
+              </li>
+                      </ul>
+              </li>
+          <li aria-controls="nav-sublist-4" tabindex="0" class="nav-list__item">
+        <a href="/argonne-national-laboratory">About Us</a>
+                  <button aria-controls="nav-sublist-4" id="menubutton-4" aria-haspopup="true" class="nav-sublist-trigger"><!--?xml version="1.0" encoding="utf-8"?-->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 444.8 444.8" style="enable-background:new 0 0 444.8 444.8;" xml:space="preserve">
+   <title>Arrow</title>
+<g>
+	<path d="M114.2,10.6L92.8,32c-7,7.4-10.6,16.1-10.6,26c0,10.1,3.5,18.7,10.6,25.7l138.8,138.8L92.8,361.2c-7,7-10.6,15.6-10.6,25.7
+		c0,9.9,3.5,18.6,10.6,26l21.4,21.1c7.2,7.2,15.9,10.8,26,10.8c10.3,0,18.8-3.6,25.7-10.8l185.9-185.9c7.2-6.9,10.8-15.4,10.8-25.7
+		c0-10.1-3.6-18.8-10.8-26L165.9,10.6c-7-7-15.6-10.6-25.7-10.6C130.3,0,121.6,3.5,114.2,10.6z"></path>
+</g>
+</svg>
+</button>
+          <ul id="nav-sublist-4" aria-labelledby="menubutton-4" class="nav-sublist">
+                          <li class="nav-sublist__item">
+                <a href="/argonnes-leadership">Our Leadership</a>
+              </li>
+                          <li class="nav-sublist__item">
+                <a href="/our-core-values">Our Core Values</a>
+              </li>
+                          <li class="nav-sublist__item">
+                <a href="/our-history">Our History</a>
+              </li>
+                          <li class="nav-sublist__item">
+                <a href="/our-commitment-to-safety">Our Commitment to Safety</a>
+              </li>
+                          <li class="nav-sublist__item">
+                <a href="/diversity-and-inclusion">Diversity &amp; Inclusion</a>
+              </li>
+                          <li class="nav-sublist__item">
+                <a href="/argonne-awards-recognition">Awards &amp; Recognition</a>
+              </li>
+                          <li class="nav-sublist__item">
+                <a href="/visiting-argonne">Visiting Argonne</a>
+              </li>
+                      </ul>
+              </li>
+      </ul>
+</nav>
+
+  <nav class="utility-nav">
+  <div class="utility-nav-container">
+    <ul class="utility-nav__list">
+              <li class="utility-nav__list-item">
+          <a href="/hr/careers/">Careers</a>
+        </li>
+              <li class="utility-nav__list-item">
+          <a href="/news/">News</a>
+        </li>
+              <li class="utility-nav__list-item">
+          <a href="/events/">Events</a>
+        </li>
+              <li class="utility-nav__list-item">
+          <a href="/staff-directory/">Staff Directory</a>
+        </li>
+          </ul>
+  </div>
+</nav>
+</div><div class="header__brand">
+  <h1 class="logo">
+    <a href="https://www.anl.gov/">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112.9 32.5">
+	<path fill="none" d="M-12.2-13h137.5v54H-12.2z"></path>
+	<path fill="#007934" d="M95.9 15.3h-8.1l4 7z"></path>
+	<path d="M103.9 15.3h-8.1l-4 7H108l-4.1-7z" fill="#0082ca"></path>
+	<path fill="#101e8e" d="M112 15.3h-8.1l4.1 7z"></path>
+	<path fill="#fff" d="M103.9 15.3h-8l4-7z"></path>
+	<path fill="#a22a2e" d="M103.9 1.3h-8l4 7z"></path>
+	<path fill="#d9272e" d="M103.9 1.3l-4 7 4 7h8.1z"></path>
+	<path d="M95.9 15.3l4-7-4-7-8.1 14h8.1z" fill="#82bc00"></path>
+	<g>
+		<path d="M39.3 31l-1.2-2.1c-.2-.3-.3-.6-.5-.9v3h-.8v-4.2h1l1.2 2c.2.3.4.7.5 1v-3h.8V31h-1zM44.2 31l-.3-.9h-1.6l-.2.9h-.8l1.5-4.2h.9l1.5 4.2h-1zm-.9-2.6c-.1-.2-.1-.4-.2-.7 0 .2-.1.5-.2.7l-.4 1.1h1.2l-.4-1.1zM47.4 27.5V31h-.8v-3.5h-1.1v-.7h3v.7h-1.1zM49.4 31v-4.2h.8V31h-.8zM53 31.1c-1.3 0-1.9-.8-1.9-2.1 0-1.4.9-2.2 2-2.2s1.9.7 1.9 2.1c.1 1.3-.8 2.2-2 2.2zm.1-3.6c-.6 0-1.1.5-1.1 1.4 0 .9.3 1.5 1.1 1.5.5 0 1.1-.4 1.1-1.4 0-1-.4-1.5-1.1-1.5zM58.3 31l-1.2-2.1c-.2-.3-.3-.6-.5-.9v3h-.8v-4.2h1l1.2 2c.2.3.4.7.5 1v-3h.8V31h-1zM63.3 31l-.3-.9h-1.6l-.3.9h-.8l1.5-4.2h.9l1.5 4.2h-.9zm-.9-2.6c-.1-.2-.1-.4-.2-.7 0 .2-.1.5-.2.7l-.4 1.1h1.2l-.4-1.1zM65.1 31v-4.2h.8v3.5h1.4v.7h-2.2z"></path>
+		<g>
+			<path d="M69.8 31v-4.2h.8v3.5H72v.7h-2.2zM75.9 31l-.3-.9H74l-.3.9h-.8l1.5-4.2h.9l1.5 4.2h-.9zm-.9-2.6c-.1-.2-.1-.4-.2-.7 0 .2-.1.5-.2.7l-.4 1.1h1.2l-.4-1.1zM78.9 31h-1.2v-4.2h1.4c.9 0 1.4.4 1.4 1 0 .4-.3.8-.7.9.5.1.7.5.7.9.1.7-.4 1.4-1.6 1.4zm0-3.6h-.5v1.1h.3c.6 0 .8-.2.8-.6.1-.3-.1-.5-.6-.5zm-.1 1.7h-.4v1.2h.4c.5 0 .8-.2.8-.6.1-.4-.3-.6-.8-.6zM83.3 31.1c-1.3 0-1.9-.8-1.9-2.1 0-1.4.9-2.2 2-2.2s1.9.7 1.9 2.1c.1 1.3-.9 2.2-2 2.2zm.1-3.6c-.6 0-1.1.5-1.1 1.4 0 .9.3 1.5 1.1 1.5.5 0 1.1-.4 1.1-1.4 0-1-.4-1.5-1.1-1.5zM88.2 31L87 29.3V31h-.8v-4.2h1.2c.9 0 1.5.3 1.5 1.2 0 .6-.4 1.1-1.1 1.2.1.2.2.3.3.5l1 1.4h-.9zm-.8-3.6h-.3v1.2h.3c.5 0 .8-.3.8-.6-.1-.4-.3-.6-.8-.6zM99.3 31.1c-1.3 0-1.9-.8-1.9-2.1 0-1.4.9-2.2 2-2.2s1.9.7 1.9 2.1c0 1.3-.9 2.2-2 2.2zm0-3.6c-.6 0-1.1.5-1.1 1.4 0 .9.3 1.5 1.1 1.5.5 0 1.1-.4 1.1-1.4 0-1-.4-1.5-1.1-1.5zM104.2 31l-1.2-1.7V31h-.8v-4.2h1.2c.9 0 1.5.3 1.5 1.2 0 .6-.4 1.1-1.1 1.2.1.2.2.3.3.5l1 1.4h-.9zm-.9-3.6h-.3v1.2h.3c.5 0 .8-.3.8-.6-.1-.4-.3-.6-.8-.6zM92.8 31l-.3-.9H91l-.3.9h-.8l1.5-4.2h.9l1.5 4.2h-1zm-.9-2.6c-.1-.2-.1-.4-.2-.7 0 .2-.1.5-.2.7l-.4 1.1h1.2l-.4-1.1zM95.8 27.5V31H95v-3.5h-1.1v-.7h3v.7h-1.1zM107.8 29.5V31h-.8v-1.5l-1.3-2.7h.9l.6 1.2c.1.2.2.5.3.7.1-.2.2-.5.3-.8l.5-1.1h.9l-1.4 2.7z"></path>
+		</g>
+		<g>
+			<path d="M13.4 22.1L11.9 18H4.5L3 22.1H1.1L7.3 5.5h2l6.2 16.6h-2.1zM9 10c-.3-.9-.6-1.6-.8-2.5-.2.8-.5 1.6-.7 2.4L5 16.5h6.3L9 10zM22.9 11.5c-2.7-.4-4 1.6-4 5.7v4.9h-1.8V9.9h1.8c0 .8-.1 2-.3 3.1.5-1.8 1.8-3.6 4.3-3.3v1.8zM28.7 28.5c-3.1 0-5.1-1.3-5.1-3.6 0-1.5 1-2.7 2.1-3.2-.8-.3-1.2-1-1.2-1.8s.5-1.6 1.4-2c-1.2-.7-1.8-2-1.8-3.5 0-2.6 2-4.7 5.3-4.7.5 0 .8 0 1.2.1.2 0 1.8.1 2.1.1h2.7v1.5h-2.3.1c.7.6 1.2 1.5 1.2 2.7 0 2.6-1.8 4.6-5.3 4.6-.6 0-1.2-.1-1.7-.2-.6.2-.9.7-.9 1.1 0 .7.7 1 2.2 1H31c2.7 0 4.1 1.3 4.1 3.4 0 2.6-2.7 4.5-6.4 4.5zm1.8-6.3h-3.3c-1.1.5-1.7 1.4-1.7 2.5 0 1.6 1.5 2.4 3.6 2.4 2.7 0 4.3-1.1 4.3-2.8-.1-1.4-1.1-2.1-2.9-2.1zm-1.3-11.1c-2.1 0-3.4 1.3-3.4 3.1 0 2 1.2 3 3.3 3 2 0 3.3-1.1 3.3-3 0-2-1.2-3.1-3.2-3.1zM41.1 22.3c-3.3 0-5.4-2-5.4-6.3 0-3.5 2.2-6.4 5.8-6.4 3 0 5.4 1.6 5.4 6.1.1 3.7-2.1 6.6-5.8 6.6zm.3-11.1c-1.9 0-3.7 1.5-3.7 4.7 0 3.1 1.4 4.8 3.7 4.8 1.9 0 3.7-1.5 3.7-4.8 0-3-1.3-4.7-3.7-4.7zM56.6 22.1v-7.9c0-1.9-.5-3-2.3-3-2.2 0-3.7 2.2-3.7 5.1v5.9h-1.8V9.9h1.8c0 .8-.1 2-.2 2.7.7-1.8 2.2-3 4.4-3 2.8 0 3.7 1.8 3.7 3.9V22h-1.9zM69.4 22.1v-7.9c0-1.9-.5-3-2.3-3-2.2 0-3.7 2.2-3.7 5.1v5.9h-1.8V9.9h1.8c0 .8-.1 2-.2 2.7.7-1.8 2.2-3 4.4-3 2.8 0 3.7 1.8 3.7 3.9V22h-1.9zM83 15.6h-8.2c-.1 3.7 1.3 5.2 4.1 5.2 1.3 0 2.6-.3 3.5-.8l.2 1.6c-1.1.5-2.5.7-4 .7-3.7 0-5.7-2-5.7-6.3 0-3.7 2-6.4 5.4-6.4 3.4 0 4.8 2.3 4.8 5 0 .3 0 .6-.1 1zM78.2 11c-1.7 0-3 1.3-3.2 3.2h6.2c0-1.9-1.1-3.2-3-3.2z"></path>
+		</g>
+	</g>
+</svg>
+      <span class="element-invisible">Argonne National Laboratory</span>
+    </a>
+  </h1>
+</div>
+  <div class="site-search">
+
+    <button aria-controls="site-search-form" aria-haspopup="true" id="search-trigger-button" class="search-trigger">
+        <!--?xml version="1.0" encoding="utf-8"?-->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<title>Search</title>
+<path d="M49,45.5L34.9,30.6c5.7-7.5,5.1-18.2-1.7-25C29.6,2,24.8,0,19.7,0C14.6,0,9.8,2,6.2,5.6c-7.4,7.4-7.4,19.5,0,27
+	c3.7,3.7,8.6,5.6,13.5,5.6c3.6,0,7.2-1,10.4-3.1L44.2,50L49,45.5z M10.9,27.9C6,23,6,15.1,10.9,10.2c2.4-2.4,5.5-3.7,8.8-3.7
+	s6.5,1.3,8.8,3.7c4.9,4.9,4.9,12.8,0,17.7C23.7,32.8,15.8,32.8,10.9,27.9z"></path>
+</svg>
+        <span class="element-invisible">Search</span>
+    </button>
+
+    <form data-drupal-selector="search-block-form" action="/mcs/article/researchers-receive-best-paper-award-at-european-mpi-users-meeting" method="post" id="search-block-form" accept-charset="UTF-8">
+  <input data-drupal-selector="form-xauz5mlotbvrtu3zyqwa8gmiv1f8yb0ct8vccqz8pl8" type="hidden" name="form_build_id" value="form-xaUZ5MlOtbvRtu3zYQwA8gMIv1F8yb0CT8VCcQz8PL8">
+<input data-drupal-selector="edit-search-block-form" type="hidden" name="form_id" value="search_block_form">
+
+</form>
+
+
+</div>
+
+
+
+
+
+      
+  </div>
+</header>
+
+<div id="main-content">
+  
+  <!-- END DO NOT INDEX -->
+    <div>
+  	
+
+  
+  
+  
+          <header class="basic-header">
+  	<div class="container basic-header__content">
+  		<div class="l-basic-header">
+     		 <div class="basic-header__block">
+                                                                <a class="basic-header__tag" href="https://www.anl.gov/awards-and-recognition-0">Awards and Recognition</a> <span class="divider">|</span>                                                                      <a class="basic-header__tag" href="https://www.anl.gov/organizations/mathematics-and-computer-science">Mathematics and Computer Science</a>                                                                   <h1 class="basic-header__title">Researchers receive Best Paper Award at European <span class="caps">MPI</span> users meeting</h1>
+                                                        </div>
+    	</div>
+    </div>
+        </header>
+  
+  
+    <div data-drupal-messages-fallback="" class="hidden"></div>
+<div id="block-anl-public-theme-content">
+  
+    
+      
+<div about="/mcs/article/researchers-receive-best-paper-award-at-european-mpi-users-meeting" class="container--grid">
+
+      <div class="flexible-content-top"></div>
+  
+  <!-- Campaign Branding and Rail Navigation -->
+      <div class="l-rail--grid">
+                    <div class="rail">
+          <nav aria-labelledby="block-mcsmenu-menu" id="block-mcsmenu">
+            
+  <h2 class="visually-hidden" aria-hidden="true" id="block-mcsmenu-menu">MCS Menu</h2>
+  
+
+        
+<nav class="rail-nav">
+  <ul id="rail-nav-list" aria-labelledby="menu-trigger" class="rail-nav-list">
+          <li aria-controls="nav-sublist-1" class="rail-nav-list__item">
+
+        <a href="/mcs">MCS Division</a>
+                      </li>
+          <li aria-controls="nav-sublist-2" class="rail-nav-list__item">
+
+        <a href="/mcs/about-us">About MCS</a>
+                  <button aria-controls="rail-nav-list-sublist-2" id="menubutton-2" aria-haspopup="true" class="rail-nav-sublist-trigger">
+              <i class="fas fa-chevron-right" aria-hidden="true"></i>
+              <span class="element-invisible">Open Sublist</span>
+          </button>
+                          <ul id="rail-nav-sublist-2" aria-labelledby="menubutton-2" class="rail-nav-sublist">
+                           <li class="rail-nav-sublist__item">
+                    <a href="/mcs/leadership">Leadership</a>
+                  </li>
+                           <li class="rail-nav-sublist__item">
+                    <a href="/mcs/our-history">Our History</a>
+                  </li>
+                           <li class="rail-nav-sublist__item">
+                    <a href="/mcs/career-opportunities">Career Opportunities</a>
+                  </li>
+                           <li class="rail-nav-sublist__item">
+                    <a href="/mcs/mcs-staff-directory">Staff Directory</a>
+                  </li>
+                           <li class="rail-nav-sublist__item">
+                    <a href="/mcs/for-employees">For Employees</a>
+                  </li>
+                           <li class="rail-nav-sublist__item">
+                    <a href="/mcs/awards-recognition">Awards &amp; Recognition</a>
+                  </li>
+                           <li class="rail-nav-sublist__item">
+                    <a href="/mcs/visiting-mcs">Visiting MCS</a>
+                  </li>
+                      </ul>
+              </li>
+          <li aria-controls="nav-sublist-3" class="rail-nav-list__item">
+
+        <a href="/mcs/mathematics-and-computer-science-research">Research</a>
+                  <button aria-controls="rail-nav-list-sublist-3" id="menubutton-3" aria-haspopup="true" class="rail-nav-sublist-trigger">
+              <i class="fas fa-chevron-right" aria-hidden="true"></i>
+              <span class="element-invisible">Open Sublist</span>
+          </button>
+                          <ul id="rail-nav-sublist-3" aria-labelledby="menubutton-3" class="rail-nav-sublist">
+                           <li class="rail-nav-sublist__item">
+                    <a href="/mcs/focus-areas">Focus Areas</a>
+                  </li>
+                           <li class="rail-nav-sublist__item">
+                    <a href="/mcs/research-groups">Research Groups</a>
+                  </li>
+                           <li class="rail-nav-sublist__item">
+                    <a href="/mcs/projects">Projects</a>
+                  </li>
+                           <li class="rail-nav-sublist__item">
+                    <a href="/mcs/research-highlights">Research Highlights</a>
+                  </li>
+                           <li class="rail-nav-sublist__item">
+                    <a href="/mcs/mcs-software">Software</a>
+                  </li>
+                           <li class="rail-nav-sublist__item">
+                    <a href="/mcs/centers-and-institutes">Centers and Institutes</a>
+                  </li>
+                           <li class="rail-nav-sublist__item">
+                    <a href="/mcs/collaborative-research">Collaborative Research</a>
+                  </li>
+                           <li class="rail-nav-sublist__item">
+                    <a href="/mcs/computing-resources">Computing Resources</a>
+                  </li>
+                           <li class="rail-nav-sublist__item">
+                    <a href="/mcs/j-h-wilkinson-prize-for-numerical-software">J. H. Wilkinson Prize</a>
+                  </li>
+                      </ul>
+              </li>
+          <li aria-controls="nav-sublist-4" class="rail-nav-list__item">
+
+        <a href="/mcs/news-announcements">News</a>
+                      </li>
+          <li aria-controls="nav-sublist-5" class="rail-nav-list__item">
+
+        <a href="/mcs/events">Events</a>
+                      </li>
+          <li aria-controls="nav-sublist-6" class="rail-nav-list__item">
+
+        <a href="/mcs/publications">Publications</a>
+                      </li>
+      </ul>
+</nav>
+
+  </nav>
+
+<aside class="share-block">
+    <h2 class="rail-title">Share</h2>
+    <ul class="social-media__list">
+        <li class="facebook">
+            <div class="st-custom-button" data-network="facebook" data-description="">
+                <!--?xml version="1.0" encoding="utf-8"?-->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 33 33" style="enable-background:new 0 0 33 33;" xml:space="preserve">
+   <title>Facebook</title>
+<path d="M16.5,0C7.4,0,0,7.4,0,16.5S7.4,33,16.5,33S33,25.6,33,16.5S25.6,0,16.5,0z M20.4,11.4h-2.5c-0.3,0-0.6,0.4-0.6,0.9v1.8h3.1
+	l-0.5,2.6h-2.6v7.7h-2.9v-7.7h-2.7v-2.6h2.7v-1.5c0-2.2,1.5-3.9,3.5-3.9h2.5V11.4z"></path>
+</svg>
+            </div>
+        </li>
+        <li class="linkedin">
+            <div class="st-custom-button" data-network="linkedin" data-description="">
+                <!--?xml version="1.0" encoding="utf-8"?-->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 33 33" style="enable-background:new 0 0 33 33;" xml:space="preserve">
+   <title>LinkedIn</title>
+<path d="M16.5,0C7.4,0,0,7.4,0,16.5S7.4,33,16.5,33S33,25.6,33,16.5S25.6,0,16.5,0z M12.5,23.3H9.1V12.6h3.3V23.3z M10.8,11.3
+	C9.7,11.3,9,10.5,9,9.6c0-0.9,0.7-1.7,1.8-1.7s1.7,0.7,1.8,1.7C12.6,10.5,11.9,11.3,10.8,11.3z M24.7,23.3h-3.3v-6
+	c0-1.4-0.5-2.3-1.7-2.3c-0.9,0-1.5,0.6-1.7,1.3c-0.1,0.2-0.1,0.5-0.1,0.8v6.2h-3.3V16c0-1.3,0-2.5-0.1-3.4h2.9l0.2,1.5h0.1
+	c0.4-0.7,1.5-1.7,3.3-1.7c2.2,0,3.8,1.5,3.8,4.6V23.3z"></path>
+</svg>
+            </div>
+        </li>
+        <li class="twitter-x">
+          <div class="st-custom-button" data-network="twitter" data-description="" data-username="argonne">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 33">
+  <title>X (formerly Twitter)</title>
+  <path d="M11.7 11 20 21.9h1.2L13 11h-1.3z"></path>
+  <path d="M16.5 0C7.4 0 0 7.4 0 16.5S7.4 33 16.5 33 33 25.6 33 16.5 25.6 0 16.5 0Zm2.8 23.3-3.6-4.7-4.1 4.7H9.3l5.4-6.1L9 9.8h4.7l3.3 4.3 3.8-4.3h2.3l-5 5.7 5.9 7.8h-4.6Z"></path>
+</svg>
+          </div>
+        </li>
+        <li class="email">
+            <div class="st-custom-button" data-network="email" data-message="">
+                <!--?xml version="1.0" encoding="utf-8"?-->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 33 33" style="enable-background:new 0 0 33 33;" xml:space="preserve">
+<title>Email</title>
+<path d="M16.5,0C7.4,0,0,7.4,0,16.5S7.4,33,16.5,33S33,25.6,33,16.5S25.6,0,16.5,0z M24.2,11.1l-7.7,4.6l-7.7-4.6H24.2z M24.6,22
+	H8.4v-8.7l8.1,4.8l8.1-4.8V22z"></path>
+</svg>
+            </div>
+        </li>
+    </ul>
+</aside>
+
+        </div>
+          </div>
+  
+  <main class="l-main--grid">
+            
+        <div>
+
+        <div class="intro">
+            <div class="article__byline">
+                <span class="article__byline_author">By 
+            <div>Gail Pieper</div>
+      </span><span class="divider">|</span><span class="article__byline_publicationdate">
+            <div><time datetime="2023-11-01T12:00:00Z">November 1, 2023</time>
+</div>
+      </span>
+            </div>
+                        <div class="lede">
+                    
+            <div>Hui Zhou, a principal software development specialist in the <span class="caps">MCS</span> division at Argonne, was co-author of <span class="push-double"></span>​<span class="pull-double">“</span><span class="caps">MPI</span> Application Binary Interface Standardization,” which received the Best Paper award at the EuroMPI <span class="push-single"></span>​<span class="pull-single">’</span>23 conference in September 2023.</div>
+      
+            </div>
+                    </div>
+
+                    <figure class="featured-image wysiwyg_align-right">
+                <img src="https://www.anl.gov/sites/www/files/styles/article_teaser_16x9/public/eurompi23-cover-16x9.jpg?h=8abcec71&amp;itok=ySqlHqpO" alt="Featured article image">
+                <figcaption class="image-caption"></figcaption>
+            </figure>
+        
+        <div class="article-page__content">
+            
+            <div><div class="tex2jax_process"><p><span class="caps">MPI</span>, or the Message Passing Interface, is widely used for high-performance computing workloads. While it is standardized in terms of the C and Fortran programming languages, however, it is not implementation agnostic; and the increasing adoption of <span class="caps">MPI</span> by applications written in languages other than C and Fortran has motivated the development of an application binary interface (<span class="caps">ABI</span>).</p>
+<p>The proposal presented in this award-winning paper represents recent efforts by the <span class="caps">MPI</span> Forum’s <span class="caps">ABI</span> working group to develop a standard <span class="caps">ABI</span> for <span class="caps">MPI</span> that effectively addresses this issue.</p>
+<p><span class="dquo">“</span>We successfully tested our prototype implementation both within <span class="caps">MPICH</span> and as an independent abstraction layer,” Zhou said.</p>
+<p>The researchers acknowledge that realizing the full potential of a standard <span class="caps">ABI</span> will likely take some time. The <span class="caps">ABI</span> must be standardized by the <span class="caps">MPI</span> Forum and implemented by the major implementations such as <span class="caps">MPICH</span>; and <span class="caps">MPI</span> users will have to recompile everything against the <span class="caps">MPI</span> <span class="caps">ABI</span>.&nbsp; &nbsp;&nbsp;&nbsp;</p>
+<p>Nevertheless, Zhou and his colleagues say that they are confident that ultimately having a standard <span class="caps">MPI</span> <span class="caps">ABI</span> will <span class="push-double"></span>​<span class="pull-double">“</span>significantly reduce the pain of using <span class="caps">MPI</span> in a variety of contexts and will encourage greater use of <span class="caps">MPI</span> in new domains.”</p>
+<p>For the full paper, see J. Hammond, L. D, Dalcin, Erik Schnetter, M. PéRache, J.-B. Besnard, J. Brown, G. B. Gadeschi, S. Byrne, J. Schuchart, and H. Zhou, <span class="push-double"></span>​<span class="pull-double">“</span><a href="https://dl.acm.org/doi/fullHtml/10.1145/3615318.3615319#:~:text=MPI%20is%20the%20most%20widely,new%20architectures%20for%20many%20years" target="_blank"><span class="caps">MPI</span> Application Binary Interface Standardization</a>,” in EuroMPI <span class="push-single"></span>​<span class="pull-single">’</span>23: Proceedings of the 30<sup class="ordinal">th</sup> European <span class="caps">MPI</span> Users’ Group Meeting, September 2023, Article No.: 1, Pages 1–12.</p>
+</div></div>
+      
+        </div>
+
+                        
+    </div>
+
+    
+            
+    
+          <footer class="tags tags-footer">
+        <span class="tags-footer__label">Tags:</span>
+                              <a class="tag" href="https://www.anl.gov/topic/mpi">MPI</a>
+                        </footer>
+      </main>
+
+  <aside class="l-rail--grid">
+      
+
+                <div class="rail">
+              
+<div class="rail">
+        
+
+<div class="contact">
+  <h2 class="contact__label">
+            <div>CONTACT US</div>
+      </h2>
+                                                                                                                                                                          <div class="contact__block">
+                      <h3 class="contact__name">Mathematics and Computer Science General Inquiries</h3>
+                                          <a class="contact__info" href="mailto:info@mcs.anl.gov">info@mcs.anl.gov</a>
+                  </div>
+                                    
+  </div>
+
+  </div>
+
+          </div>
+      
+                
+<div class="rail rail-block">
+  <h3 class="rail-title">Related people</h3>
+  <ul class="rail-list">
+        <li>
+      <article class="related-teaser has-image related-teaser--profile">
+      <a href="/profile/hui-zhou">
+      <img class="related-teaser__image" src="https://www.anl.gov/sites/www/files/styles/profile_teaser_square_125px/public/Hui-Zhou-Headshot-500x500.jpg?h=2a479378&amp;itok=LzGhBHGT" alt="Hui Zhou profile image">
+    </a>
+    <div class="related-teaser__block">
+    <h3 class="related-teaser__title">
+      <a href="/profile/hui-zhou"><span>Hui Zhou</span>
+</a>
+    </h3>
+          <div class="related-teaser__text">
+        Principal Specialist, Research Software Engineering
+      </div>
+        
+          <div class="related-teaser__text">
+        
+      </div>
+      </div>
+</article>
+    </li>
+      </ul>
+</div>
+      
+      
+                
+  <div class="rail rail-block">
+    <h3 class="rail-title">Related Organizations</h3>
+    <ul class="rail-list related-organization-list">
+                                  <li><a href="/mcs" hreflang="en">Mathematics and Computer Science</a></li>
+                        </ul>
+  </div>
+
+      
+                
+        </aside>
+
+      <div class="flexible-content-bottom"></div>
+  </div>
+
+  </div>
+
+  </div>
+
+  <!-- BEGIN DO NOT INDEX -->
+</div>
+
+<footer class="footer">
+  
+  
+<section class="section-spacing footer__middle">
+    <div class="container">
+        <ul class="footer-nav-list">
+            <li class="footer-address l-25-75--1">
+                
+  <div>
+    <div class="footer-address">
+      <div class="footer-address__title">Argonne National Laboratory</div>
+      <ul class="footer-address__list">
+        <li><a href="https://www.google.com/maps/place/Argonne+National+Laboratory/@41.713136,-87.981988,15z/data=!4m5!3m4!1s0x0:0xe11fbec7b74c81b8!8m2!3d41.7183047!4d-87.978572">9700 S. Cass Avenue</a></li>
+        <li>Lemont, IL 60439</li>
+        <li><a href="tel:+16302522000">+1-630-252-2000</a></li>
+      </ul>
+    </div>
+  </div>
+                
+  <div>
+    <div class="social-media">
+      <ul class="social-media__list">
+                  <li class="facebook"><a href="https://www.facebook.com/pages/Argonne-National-Laboratory/40096518565"><!--?xml version="1.0" encoding="utf-8"?-->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 33 33" style="enable-background:new 0 0 33 33;" xml:space="preserve">
+   <title>Facebook</title>
+<path d="M16.5,0C7.4,0,0,7.4,0,16.5S7.4,33,16.5,33S33,25.6,33,16.5S25.6,0,16.5,0z M20.4,11.4h-2.5c-0.3,0-0.6,0.4-0.6,0.9v1.8h3.1
+	l-0.5,2.6h-2.6v7.7h-2.9v-7.7h-2.7v-2.6h2.7v-1.5c0-2.2,1.5-3.9,3.5-3.9h2.5V11.4z"></path>
+</svg>
+</a></li>
+                          <li class="flickr"><a href="https://www.flickr.com/photos/argonne"><!--?xml version="1.0" encoding="utf-8"?-->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 33 33" style="enable-background:new 0 0 33 33;" xml:space="preserve">
+   <title>Flickr</title>
+<path d="M16.5,0C7.4,0,0,7.4,0,16.5S7.4,33,16.5,33S33,25.6,33,16.5S25.6,0,16.5,0z M12.1,19.9c-1.9,0-3.4-1.5-3.4-3.4
+	s1.5-3.4,3.4-3.4c1.9,0,3.4,1.5,3.4,3.4S14,19.9,12.1,19.9z M20.9,19.9c-1.9,0-3.4-1.5-3.4-3.4s1.5-3.4,3.4-3.4
+	c1.9,0,3.4,1.5,3.4,3.4S22.8,19.9,20.9,19.9z"></path>
+</svg>
+</a></li>
+                          <li class="instagram"><a href="https://www.instagram.com/argonne"><!--?xml version="1.0" encoding="utf-8"?-->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 33 33" style="enable-background:new 0 0 33 33;" xml:space="preserve">
+<title>Instagram</title>
+<g>
+	<path d="M21.3,17.6c0,2.6-2.1,4.7-4.7,4.7c-2.6,0-4.7-2.1-4.7-4.7c0-0.4,0.1-0.9,0.2-1.3h-1.5v6.9c0,0.2,0.2,0.4,0.4,0.4h11.2
+		c0.2,0,0.4-0.2,0.4-0.4v-6.9h-1.5C21.2,16.7,21.3,17.1,21.3,17.6z"></path>
+	<path d="M20,14.6h2.2c0.2,0,0.4-0.2,0.4-0.4V12c0-0.2-0.2-0.4-0.4-0.4H20c-0.2,0-0.4,0.2-0.4,0.4v2.2C19.5,14.4,19.7,14.6,20,14.6z
+		"></path>
+	<circle cx="16.5" cy="17.6" r="3"></circle>
+	<path d="M16.5,0.3C7.4,0.3,0,7.7,0,16.8s7.4,16.5,16.5,16.5S33,25.9,33,16.8S25.6,0.3,16.5,0.3z M24.3,23.2c0,1.2-1,2.2-2.2,2.2
+		H10.9c-1.2,0-2.2-1-2.2-2.2V12c0-1.2,1-2.2,2.2-2.2h11.2c1.2,0,2.2,1,2.2,2.2V23.2z"></path>
+</g>
+</svg>
+</a></li>
+                          <li class="linkedin"><a href="https://www.linkedin.com/company/162510"><!--?xml version="1.0" encoding="utf-8"?-->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 33 33" style="enable-background:new 0 0 33 33;" xml:space="preserve">
+   <title>LinkedIn</title>
+<path d="M16.5,0C7.4,0,0,7.4,0,16.5S7.4,33,16.5,33S33,25.6,33,16.5S25.6,0,16.5,0z M12.5,23.3H9.1V12.6h3.3V23.3z M10.8,11.3
+	C9.7,11.3,9,10.5,9,9.6c0-0.9,0.7-1.7,1.8-1.7s1.7,0.7,1.8,1.7C12.6,10.5,11.9,11.3,10.8,11.3z M24.7,23.3h-3.3v-6
+	c0-1.4-0.5-2.3-1.7-2.3c-0.9,0-1.5,0.6-1.7,1.3c-0.1,0.2-0.1,0.5-0.1,0.8v6.2h-3.3V16c0-1.3,0-2.5-0.1-3.4h2.9l0.2,1.5h0.1
+	c0.4-0.7,1.5-1.7,3.3-1.7c2.2,0,3.8,1.5,3.8,4.6V23.3z"></path>
+</svg>
+</a></li>
+                          <li class="twitter-x"><a href="https://twitter.com/argonne"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 33">
+  <title>X (formerly Twitter)</title>
+  <path d="M11.7 11 20 21.9h1.2L13 11h-1.3z"></path>
+  <path d="M16.5 0C7.4 0 0 7.4 0 16.5S7.4 33 16.5 33 33 25.6 33 16.5 25.6 0 16.5 0Zm2.8 23.3-3.6-4.7-4.1 4.7H9.3l5.4-6.1L9 9.8h4.7l3.3 4.3 3.8-4.3h2.3l-5 5.7 5.9 7.8h-4.6Z"></path>
+</svg>
+</a></li>
+                          <li class="youtube"><a href="https://www.youtube.com/user/ArgonneNationalLab"><!--?xml version="1.0" encoding="utf-8"?-->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 33 33" style="enable-background:new 0 0 33 33;" xml:space="preserve">
+   <title>YouTube</title>
+<path d="M19.3,16.2l-3.9-1.8c-0.3-0.2-0.6,0-0.6,0.4v3.4c0,0.4,0.3,0.5,0.6,0.4l3.9-1.8C19.6,16.6,19.6,16.4,19.3,16.2z M16.5,0
+	C7.4,0,0,7.4,0,16.5S7.4,33,16.5,33S33,25.6,33,16.5S25.6,0,16.5,0z M16.5,23.2c-8.4,0-8.6-0.8-8.6-6.7s0.1-6.7,8.6-6.7
+	s8.6,0.8,8.6,6.7S24.9,23.2,16.5,23.2z"></path>
+</svg>
+</a></li>
+              </ul>
+    </div>
+  </div>
+            </li>
+            <li class="footer-nav-list__item l-25-75--2">
+                                    
+<nav role="navigation" aria-labelledby="block-anl-public-theme-footer-menu" id="block-anl-public-theme-footer" class="footer-nav">
+            
+  <h2 class="visually-hidden" id="block-anl-public-theme-footer-menu">Footer menu</h2>
+  
+
+        <nav>
+    
+                                  <div class="l-4up">
+              <span class="footer-nav-list__label"><span>Connect with Us</span></span>
+              <ul class="footer-nav-sublist">
+                                                                  <li class="footer-nav-sublist__item"><a href="/tour-the-lab" data-drupal-link-system-path="node/119866">Tour the Laboratory</a>
+                                </li>
+                                                  <li class="footer-nav-sublist__item"><a href="/outloud-lecture-series" data-drupal-link-system-path="node/67851">Attend an OutLoud Lecture</a>
+                                </li>
+                                                  <li class="footer-nav-sublist__item"><a href="/subscribe-to-argonne-publications" data-drupal-link-system-path="node/97666">Subscribe to Argonne </a>
+                                </li>
+                                                  <li class="footer-nav-sublist__item"><a href="/researchers">Find an Argonne Researcher</a>
+                                </li>
+                                                  <li class="footer-nav-sublist__item"><a href="/cdn-cgi/l/email-protection#c4b3a1a6a2a1a1a0a6a5a7af84a5aaa8eaa3abb2fb97b1a6aea1a7b0f982a1a1a0a6a5a7afe1f6f4a2abb6e1f6f4b3b3b3eaa5aaa8eaa3abb2">Website Feedback</a>
+                                </li>
+                                                  <li class="footer-nav-sublist__item"><a href="/website-accessibility" data-drupal-link-system-path="node/383806">Website Accessibility</a>
+                                </li>
+                                                  <li class="footer-nav-sublist__item"><a href="/contact-us" data-drupal-link-system-path="node/64276">Contact Us</a>
+                                </li>
+                            
+                                                </ul>
+            </div>
+                                        <div class="l-4up">
+              <span class="footer-nav-list__label"><span>Conduct Research With Us</span></span>
+              <ul class="footer-nav-sublist">
+                                                                  <li class="footer-nav-sublist__item"><a href="/become-a-user" data-drupal-link-system-path="node/120611">Apply to Use Our User Facilities</a>
+                                </li>
+                                                  <li class="footer-nav-sublist__item"><a href="/collaborative-research" data-drupal-link-system-path="node/99426">Collaborate with Our Centers, Institutes and Programs</a>
+                                </li>
+                                                  <li class="footer-nav-sublist__item"><a href="/partnerships/commercialization-programs" data-drupal-link-system-path="node/64941">Become a Lab Technologist</a>
+                                </li>
+                                                  <li class="footer-nav-sublist__item"><a href="/education/visiting-student-program-for-graduate-students" data-drupal-link-system-path="node/67591">Conduct Thesis Research</a>
+                                </li>
+                                                  <li class="footer-nav-sublist__item"><a href="/hr/postdoctoral-applicants" data-drupal-link-system-path="node/64126">Apply for a Postdoc Appointment</a>
+                                </li>
+                            
+                                                </ul>
+            </div>
+                                        <div class="l-4up">
+              <span class="footer-nav-list__label"><span>Partner with Us</span></span>
+              <ul class="footer-nav-sublist">
+                                                                  <li class="footer-nav-sublist__item"><a href="/nsp" data-drupal-link-system-path="node/120851">Secure Our Nation</a>
+                                </li>
+                                                  <li class="footer-nav-sublist__item"><a href="/manufacturing" data-drupal-link-system-path="node/65096">Increase Manufacturing Competitiveness</a>
+                                </li>
+                                                  <li class="footer-nav-sublist__item"><a href="/access" data-drupal-link-system-path="node/98921">Unlock Energy Storage Potential</a>
+                                </li>
+                                                  <li class="footer-nav-sublist__item"><a href="/partnerships/available-for-licensing" data-drupal-link-system-path="node/64966">Develop or License Technologies</a>
+                                </li>
+                                                  <li class="footer-nav-sublist__item"><a href="/partnerships/entrepreneurial-ventures" data-drupal-link-system-path="node/100906">Gain Entrepreneurial Support</a>
+                                </li>
+                            
+                                                </ul>
+            </div>
+                                        <div class="l-4up">
+              <span class="footer-nav-list__label"><span>Newsroom</span></span>
+              <ul class="footer-nav-sublist">
+                                                                  <li class="footer-nav-sublist__item"><a href="/feature-stories" data-drupal-link-system-path="node/120246">Feature Stories</a>
+                                </li>
+                                                  <li class="footer-nav-sublist__item"><a href="/in-the-news" data-drupal-link-system-path="node/120251">In the News</a>
+                                </li>
+                                                  <li class="footer-nav-sublist__item"><a href="/press-releases" data-drupal-link-system-path="node/120261">Press Releases</a>
+                                </li>
+                                                  <li class="footer-nav-sublist__item"><a href="/press-and-media-inquiries" data-drupal-link-system-path="node/64556">Media Contacts</a>
+                                </li>
+                            
+                                                </ul>
+            </div>
+                  
+
+
+    </nav>
+  </nav>
+
+                            </li>
+        </ul>
+    </div>
+</section>
+
+  
+<section class="section-spacing footer__bottom">
+  <div class="container">
+    
+  <div class="l-1up">
+    <div class="doe-logo-menu-wrapper">
+      <div class="footer-uchicago">
+        <a href="http://www.uchicagoargonnellc.org/" aria-label="UChicago Argonne, LLC"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112.5 32.5"><style type="text/css">
+	.footer-logo-style0{fill:none;}
+	.footer-logo-style1{fill:#231F20;}
+</style><rect x="-7" y="-6.9" class="footer-logo-style0" width="124.8" height="43.6"></rect><path class="footer-logo-style1" d="M5.2 17.3h2.5l5.2 12.3h-2.8L9 26.9H3.9l-1.1 2.7H0L5.2 17.3zM8 24.5l-1.6-4 -1.6 4H8z"></path><path class="footer-logo-style1" d="M14.1 20.3h2.7v1.9c0.4-1.3 1.6-2.2 3-2.1v2.8h-0.1c-1.8 0-2.8 1.1-2.8 3.3v3.5h-2.7V20.3z"></path><path class="footer-logo-style1" d="M21 31.5l0.9-2c1 0.6 2 0.9 3.2 0.8 1.8 0 2.7-0.9 2.7-2.5v-0.5c-0.7 1-1.8 1.5-3 1.5 -2.3 0-4.1-1.8-4.2-4.1 0-0.1 0-0.2 0-0.3l0 0c-0.1-2.3 1.6-4.2 3.9-4.4 0.1 0 0.2 0 0.3 0 1.2 0 2.3 0.5 3 1.4v-1.2h2.7v7.2c0.1 1.3-0.3 2.7-1.2 3.7 -1.1 0.9-2.6 1.4-4 1.3C23.7 32.5 22.3 32.1 21 31.5zM27.7 24.5L27.7 24.5c-0.1-1.3-1.2-2.2-2.4-2.1 -1.1 0.1-2 1-2.1 2.1l0 0c0.1 1.3 1.2 2.2 2.4 2.1C26.7 26.5 27.6 25.6 27.7 24.5z"></path><path class="footer-logo-style1" d="M31.8 25L31.8 25c0-2.8 2.3-5.1 5.1-5.1 2.8 0 5.1 2.3 5.1 5.1l0 0c0 2.7-2.2 4.9-5 4.9 0 0-0.1 0-0.1 0 -2.7 0.1-4.9-2-5-4.7C31.8 25.1 31.8 25.1 31.8 25zM39.3 25L39.3 25c0.1-1.4-1-2.5-2.4-2.6 0 0 0 0-0.1 0 -1.3 0-2.4 1-2.4 2.4 0 0.1 0 0.1 0 0.2l0 0c0 1.4 1 2.5 2.4 2.6 0 0 0 0 0.1 0 1.3 0 2.4-1 2.4-2.4C39.3 25.1 39.3 25 39.3 25z"></path><path class="footer-logo-style1" d="M43.4 20.3H46v1.3c0.6-0.9 1.6-1.5 2.7-1.5 2 0 3.2 1.3 3.2 3.5v6h-2.7v-5.2c0-1.3-0.6-1.9-1.6-1.9S46 23.1 46 24.4v5.2h-2.6V20.3z"></path><path class="footer-logo-style1" d="M53.8 20.3h2.7v1.3c0.6-0.9 1.6-1.5 2.8-1.5 2 0 3.2 1.3 3.2 3.5v6h-2.7v-5.2c0-1.3-0.6-1.9-1.6-1.9s-1.7 0.6-1.7 1.9v5.2h-2.7V20.3z"></path><path class="footer-logo-style1" d="M63.8 25L63.8 25c-0.1-2.6 1.9-4.7 4.4-4.9 0.1 0 0.1 0 0.2 0 3.1 0 4.6 2.4 4.6 5.1 0 0.2 0 0.5 0 0.7h-6.5c0.2 1.1 1.2 1.9 2.3 1.8 0.9 0 1.7-0.4 2.3-1l1.5 1.3c-1.8 2.1-4.9 2.3-7 0.6C64.4 27.7 63.8 26.4 63.8 25L63.8 25zM70.4 24.2c0-1.1-0.9-2-2-2 -1.1 0-1.8 0.8-2 2H70.4z"></path><path class="footer-logo-style1" d="M73.7 31.3c1.2-0.1 1.8-0.7 1.7-1.7h-1.1v-2.8h2.8v2.4c0 2.3-1.2 3.2-3.2 3.3L73.7 31.3z"></path><path class="footer-logo-style1" d="M83.2 18.3h2.5v9.1h5.7v2.3h-8.2V18.3z"></path><path class="footer-logo-style1" d="M92.9 18.3h2.5v9.1h5.7v2.3h-8.2L92.9 18.3z"></path><path class="footer-logo-style1" d="M102 24L102 24c-0.1-3.2 2.5-5.8 5.7-5.9 0.1 0 0.2 0 0.3 0 1.7-0.1 3.3 0.6 4.5 1.8l-1.6 1.8c-0.8-0.8-1.8-1.3-2.9-1.3 -1.9 0-3.3 1.6-3.3 3.4 0 0 0 0.1 0 0.1l0 0c-0.1 1.9 1.3 3.5 3.2 3.6 0 0 0.1 0 0.1 0 1.1 0 2.2-0.5 3-1.3l1.6 1.6c-2.2 2.5-6 2.7-8.5 0.5C102.8 27.2 102 25.6 102 24L102 24z"></path><path class="footer-logo-style1" d="M0.5 7.5v-7h2.7v6.9c0 2 1 3 2.6 3s2.6-1 2.6-2.9v-7h2.7v6.9c0 3.7-2.1 5.5-5.4 5.5S0.5 11 0.5 7.5"></path><path class="footer-logo-style1" d="M12.3 6.7L12.3 6.7c-0.1-3.4 2.7-6.3 6.1-6.3 0.1 0 0.2 0 0.3 0 1.8-0.1 3.6 0.6 4.8 1.9l-1.7 2c-0.8-0.9-1.9-1.3-3.1-1.4 -2 0-3.6 1.7-3.6 3.7 0 0 0 0.1 0 0.1l0 0c-0.1 2 1.4 3.7 3.4 3.8 0 0 0.1 0 0.1 0 1.2 0 2.4-0.5 3.2-1.4l1.7 1.7c-1.2 1.5-3.1 2.3-5 2.2 -3.4 0.1-6.2-2.6-6.3-6C12.3 6.9 12.3 6.8 12.3 6.7"></path><path class="footer-logo-style1" d="M24.7 0h2.6v4.7c0.6-0.9 1.6-1.5 2.7-1.5 2 0 3.2 1.3 3.2 3.5v6h-2.7V7.5c0-1.3-0.6-1.9-1.6-1.9s-1.7 0.6-1.7 1.9v5.2h-2.6V0z"></path><path class="footer-logo-style1" d="M35 0h2.8v2.3H35V0zM35.1 3.4h2.7v9.3h-2.7V3.4z"></path><path class="footer-logo-style1" d="M39.1 8.1L39.1 8.1c0-2.7 2.1-4.8 4.7-4.9 0.1 0 0.1 0 0.2 0 1.4-0.1 2.8 0.5 3.7 1.6l-1.6 1.7c-0.5-0.6-1.3-1-2.1-1 -1.3 0.1-2.3 1.2-2.3 2.5 0 0 0 0 0 0l0 0c-0.1 1.3 0.9 2.5 2.2 2.6 0.1 0 0.1 0 0.2 0 0.8 0 1.6-0.4 2.2-1l1.5 1.6c-1.9 2-5 2.2-7.1 0.3C39.8 10.7 39.2 9.5 39.1 8.1"></path><path class="footer-logo-style1" d="M48.7 10.1L48.7 10.1c0-2 1.5-3 3.8-3 0.8 0 1.6 0.1 2.3 0.4V7.3c0-1.1-0.7-1.7-2-1.7 -0.9 0-1.8 0.2-2.6 0.5l-0.7-2c1.1-0.5 2.4-0.8 3.6-0.8 1.1-0.1 2.3 0.3 3.2 1 0.7 0.8 1.1 1.9 1 3v5.4h-2.6v-1c-0.7 0.8-1.7 1.2-2.8 1.2C50.1 12.9 48.7 11.9 48.7 10.1M54.8 9.4V8.9c-0.5-0.2-1.1-0.4-1.7-0.4 -1.1 0-1.8 0.5-1.8 1.3l0 0c0 0.7 0.6 1.1 1.4 1.1C53.9 11 54.7 10.3 54.8 9.4"></path><path class="footer-logo-style1" d="M59 14.6l0.9-2c1 0.6 2 0.9 3.2 0.9 1.8 0 2.7-0.9 2.7-2.5v-0.5c-0.7 1-1.8 1.5-3 1.5 -2.3 0-4.1-1.8-4.2-4.1 0-0.1 0-0.2 0-0.3l0 0c-0.1-2.3 1.6-4.2 3.9-4.4 0.1 0 0.2 0 0.3 0 1.2 0 2.3 0.5 3 1.4V3.4h2.7v7.2c0.1 1.3-0.3 2.7-1.2 3.7 -1.1 0.9-2.6 1.4-4 1.3C61.8 15.6 60.4 15.2 59 14.6M65.8 7.6L65.8 7.6c-0.1-1.3-1.2-2.2-2.4-2.1 -1.1 0.1-2 1-2.1 2.1l0 0c0 1.2 0.9 2.1 2.1 2.2 0.1 0 0.1 0 0.2 0 1.2 0.1 2.2-0.8 2.3-2C65.8 7.6 65.8 7.6 65.8 7.6"></path><path class="footer-logo-style1" d="M69.8 8.1L69.8 8.1C69.8 5.3 72 3 74.8 3c2.8 0 5.1 2.3 5.1 5.1l0 0c0 2.8-2.3 5.1-5.1 5.1C72 13.2 69.8 10.9 69.8 8.1L69.8 8.1M77.3 8.1L77.3 8.1c0.1-1.4-1-2.5-2.4-2.6 0 0 0 0-0.1 0 -1.3 0-2.4 1-2.4 2.4 0 0.1 0 0.1 0 0.2l0 0c-0.1 1.4 1 2.5 2.3 2.6 0 0 0.1 0 0.1 0 1.3 0 2.4-1 2.4-2.4C77.3 8.3 77.3 8.2 77.3 8.1"></path></svg>
+</a>
+      </div>
+      <div class="footer-doe-logo">
+        <a href="http://energy.gov/">
+          <img src="/themes/custom/anl_parent_theme/imgs/doe-logo-2x.png" srcset="/themes/custom/anl_parent_theme/imgs/doe-logo-4x.png 4x" alt="U.S. Department of Energy">
+        </a>
+      </div>
+      <ul class="footer-nav-list footer-nav-list__item">
+        <li><a href="http://science.energy.gov/">U.S. Department of Energy Office of Science</a></li>
+        <li><a href="https://doe.responsibledisclosure.com/hc/en-us">Vulnerability Disclosure Program</a></li>
+        <li><a href="/privacy-security-notice">Privacy &amp; Security Notice</a></li>
+        <li><a href="/for-employees">For Employees</a></li>
+      </ul>
+    </div>
+  </div>
+
+  </div>
+</section>
+
+</footer>
+<!-- END DO NOT INDEX -->
+
+  </div>

@@ -1,0 +1,113 @@
+Skip to content    
+     
+ The 31st IEEE International Symposium on Field-Programmable Custom Computing Machines   
+
+     Menu  Home 
+  Program | Technical Program 
+  Keynotes 
+  Posters & PhD Forum 
+  Workshops & Tutorials 
+  Panel 
+  Demo Night 
+  Attend | Registration 
+  Travel & Visa 
+  Call for Contributions | Call for Papers 
+  Call for Workshops&Tutorials 
+  Artifact Evaluation 
+  Call for Demos 
+  Ph.D. Forum 
+  Author Guidelines 
+  Organization 
+  Past FCCMs 
+  General Info | Code of Conduct 
+  Diversity 
+
+ Program 2023  
+  
+ FCCM 2023 Preliminary  Program   
+ * All times shown in the Pacific Time Zone (UTC-8)   
+ Monday (May 8) and Thursday (May 11): Workshops and Tutorials    
+ Tuesday – May 9   
+ ★  indicates best paper candidate   
+ Open Research Objects (ORO)  Research Objects Reviewed (ROR)  Results Reproduced (ROR-R)    
+ 8:00 am – 8:45 am | Light Breakfast and Registration 
+ 8:45 am – 9:00 am | Opening 
+ 9:00 am – 10:00 am | Keynote: The Programmable Imperative of Networking: Past and Future     
+    Speaker: Mike Fitton, Intel   
+   
+  Chair: Viktor Prasanna 
+ 10:15 am – 11:30 am | Session 1 – High-Level Synthesis    
+  Chair: Ron Sass 
+ LightningSim: Fast and Accurate Trace-Based Simulation for High-Level Synthesis  ★      
+  Rishov Sarkar and Cong Hao (Georgia Institute of Technology) 
+ PASTA: Programming and Automation Support for Scalable Task-Parallel HLS Programs on Modern Multi-Die FPGAs   
+  Moazin Khatti and Xingyu Tian (Simon Fraser University); Yuze Chi, Licheng Guo, and Jason Cong (UCLA); Zhenman Fang (Simon Fraser University) 
+ SCCL: An open-source SystemC to RTL translator      
+  Zhuanhao Wu (University of Waterloo); Maya Gokhale (Lawrence Livermore National Laboratory); Scott Lloyd (Brigham Young University); Hiren Patel (University of Waterloo) 
+ Lasa: Abstraction and Specialization for Productive and Performant Linear Algebra on FPGAs  (short paper)  
+  Xiaochen Hao (Peking University); Hongbo Rong (Intel Labs); Mingzhe Zhang (Tsinghua University); Ce Sun (University of Science and Technology of China); Zhuofu Tao (University of California, Los Angeles); Yu Zhang (University of Science and Technology of China); Lei He (University of California, Los Angeles); Eric Petit (Intel); Wenguang Chen (Tsinghua University); Yun Liang (Peking University) 
+ 11:30 am – 12:00 pm | Poster Session A    (virtual) 
+ 12:00 pm – 1:30 pm | Lunch 
+ 1:30 pm – 2:45 pm | Session 2 – Architecture and CAD    
+  Chair: Kia Bazargan 
+ Placement Optimization for NoC-Enhanced FPGAs  ★     
+  Srivatsan Srinivasan, Andrew Boutros, Fatemehsadat Mahmoudi, and Vaughn Betz (University of Toronto) 
+ BRAMAC: Compute-in-BRAM Architectures for Multiply-Accumulate on FPGAs      
+  Yuzong Chen and Mohamed Abdelfattah (Cornell University) 
+ A Machine Learning Approach for Predicting the Difficulty of FPGA Routing Problems  ★   
+  Andrew David Gunter and Steven Wilton (University of British Columbia) 
+ CXL over Ethernet: A Novel FPGA-based Memory Disaggregation Design in Data Centers  (short paper)  
+  Chenjiu Wang (SKLP, Institute of Computing Technology, CAS; University of Chinese Academy of Sciences); Ke He (unaffiliated); Ruiqi Fan (SKLP, Institute of Computing Technology, CAS; University of Chinese Academy of Sciences); Xiaonan Wang (WUXI Institute of Interconnect Technology); Wei Wang (unaffiliated); Qinfen Hao (SKLP, Institute of Computing Technology, CAS; University of Chinese Academy of Sciences) 
+ 2:45 pm – 3:00 pm | Break 
+ 3:00 pm – 4:15 pm | Session 3 – Applications/ML    
+  Chair: Zhenman Fang 
+ Model-Platform Optimized Deep Neural Network Accelerator Generation through Mixed-integer Geometric Programming      
+  Yuhao Ding, Jiajun Wu, and Yizhao Gao (The University of Hong Kong); Maolin Wang (AI Chip Center for Emerging Smart Systems); Hayden So (The University of Hong Kong) 
+ MSD: Mixing Signed Digit Representations for Hardware-efficient DNN Acceleration on FPGA with Heterogeneous Resources      
+  Jiajun Wu, Jiajun Zhou, Yizhao Gao, Yuhao Ding, Ngai Wong, and Hayden So (The University of Hong Kong) 
+ Optimizing Hybrid Binary-Unary Hardware Accelerators Using Self-Similarity Measures   
+  Alireza Khataei, Gaurav Singh, and Kia Bazargan (University of Minnesota) 
+ Efficient Implementation of Ring-Binary-LWE-based Lightweight PQC Accelerator on the FPGA Platform  (short paper)  
+  Pengzhou He, Tianyou Bao, Yazheng Tu, and Jiafeng Xie (Villanova University) 
+ 4:15 pm – 4:45 pm | Poster Session B    (in person) 
+ 4:45 pm – 6:00 pm | Break 
+ 6:00 pm – 9:00 pm | Reception   and Demo night 
+  
+  Wednesday – May 10   
+  
+ 8:00 am – 8:45 am | Light Breakfast and Registration 
+ 9:00 am – 10:00 am | Keynote: Bitstream Design Abstraction to Build Reconfigurable Machines and Applications     
+    Speaker: Prasanna Sundararajan  
+  Principal Architect, Microsoft Azure   
+   
+  Chair: Wayne Luk, Imperial College London 
+ 10:15 am – 11:15 am | Panel: Large Language Model (LLM) inference on FPGAs, GPUs, etc. 
+ 11:15 am – 11:30 am | Break 
+ 11:30 am – 12:00 pm | PhD Forum Posters    (in person) 
+ 12:00 pm – 1:30 pm | Lunch 
+ 1:30 pm – 2:45 pm | Session 4 – Applications/ML    
+  Chair: Mohamed Abdelfattah 
+ ATHEENA: A Toolflow for Hardware Early-Exit Network Automation  ★      
+  Benjamin Biggs, George A. Constantinides, and Christos-Savvas Bouganis (Imperial College London, UK) 
+ Modular and Lean Architecture with Elasticity for Sparse Matrix Vector Multiplication on FPGAs   
+  Abhishek Kumar Jain, Chirag Ravishankar, Hossein Omidian, Sharan Kumar, Maithilee Kulkarni, Aashish Tripathi, and Dinesh Gaitonde (AMD) 
+ HARFLOW3D: A latency-oriented 3D-CNN Accelerator Toolflow for HAR on FPGA Devices     
+  Petros Toupas (Imperial College London, Information Technologies Institute at CERTH); Alexander Montgomerie-Corcoran (Imperial College London); Dimitrios Tzovaras (Information Technologies Institute at CERTH); Christos-Savvas Bouganis (Imperial College London, UK) 
+ Power2Picture: Using Generative CNNs for Input Recovery of Neural Network Accelerators through Power Side-Channels on FPGAs   
+  Lukas Huegle, Martin Gotthard, Vincent Meyers, Jonas Krautter, Dennis R. E. Gnad, and Mehdi B. Tahoori (Karlsruhe Institute of Technology (KIT)) 
+ 2:45 pm – 3:00 pm | Break 
+ 3:00 pm – 4:15 pm | Session 5 – Applications    
+  Chair: Gabriel Weisz 
+ Computing and Compressing Electron Repulsion Integrals on FPGAs   
+  Xin Wu, Tobias Kenter, Robert Schade, Thomas D. Kühne, and Christian Plessl (Paderborn University) 
+ Tensor-Product-Based Accelerator for Area-efficient and Scalable Number Theoretic Transform   
+  Yuying ZHANG, Sathi Sarveswara Reddy, and Zili KOU (Hong Kong University of Science and Technology); Sharad Sinha (Indian Institute of Technology Goa); Wei ZHANG (Hong Kong University of Science and Technology) 
+ SQL2FPGA: Automatic Acceleration of SQL Query Processing on Modern CPU-FPGA Platforms   
+  Alec Lu and Zhenman Fang (Simon Fraser University) 
+ DGNN-Booster: A Generic FPGA Accelerator Framework For Dynamic Graph Neural Network Inference  (short paper)  
+  Hanqiu Chen and Cong Hao (Georgia Institute of Technology) 
+ 4:15 pm – 4:30 pm | Closing and Award Ceremony 
+
+ IEEE Privacy Policy     
+
+ Powered by WordPress /  WordPress Theme by WPSmart

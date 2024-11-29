@@ -1,0 +1,325 @@
+input:
+1. ICDS_1 conference:
+Contact    
+ ICDS  
+ International Conference on Digital Society and eGovernments  
+ Menu  iaria.org  Contact    
+ ICDS - International Conference on Digital Society and eGovernments  
+  ICDS 2024  , The Eighteenth International Conference on Digital Society   
+  May 26, 2024 to May 30, 2024 - Barcelona, Spain  
+  ICDS 2023  , The Seventeenth International Conference on Digital Society   
+  April 24, 2023 to April 28, 2023 - Venice, Italy  
+  ICDS 2022  , The Sixteenth International Conference on Digital Society   
+  June 26, 2022 to June 30, 2022 - Porto, Portugal
+2. ICDS_2 conference:
+Home  // ICDS   
+ ICDS 2023, The Seventeenth International Conference on Digital Society  
+ Type:  conference  
+ Notes:  IARIA Conference.  
+ Location:  Venice, Italy  
+ Dates:  from April 24, 2023 to April 28, 2023  
+ Articles:  there are 13 articles  
+ Taking the Matter in Their Own Hands – Can Business Unit Developers Fullfill their Digital Demands with Low-Code Development Platforms?
+3. ICDS_3 conference:
+Home  // ICDS, International Conference on Digital Society  
+ Type:  conference  
+  ICDS 2022, The Sixteenth International Conference on Digital Society 
+  ICDS 2023, The Seventeenth International Conference on Digital Society 
+  ICDS 2024, The Eighteenth International Conference on Digital Society
+4. ICDT_0 conference:
+GIScience 
+  ICALP 
+  ICDT 
+  ICPEC 
+  IPEC 
+ 26th International Conference on Database Theory (ICDT 2023)  
+  Part of: | Series: | Leibniz International Proceedings in Informatics (LIPIcs) | Part of: | Conference: | International Conference on Database Theory (ICDT) 
+ Event  
+ ICDT 2023, March 28-31, 2023, Ioannina, Greece   
+ Editors  
+ Floris Geerts          
+ Publication Details  
+ published at: 2023-03-17 
+  Publisher: Schloss Dagstuhl – Leibniz-Zentrum für Informatik 
+  DBLP: | db/conf/icdt/icdt2023 
+  Access Numbers  
+ Authors:  Nadime Francis, Amélie Gheerbrant, Paolo Guagliardo, Leonid Libkin, Victor Marsault, Wim Martens, Filip Murlak, Liat Peterfreund, Alexandra Rogova, and Domagoj Vrgoč  
+  Abstract    
+ GQL (Graph Query Language) is being developed as a new ISO standard for graph query languages to play the same role for graph databases as SQL plays for relational. In parallel, an extension of SQL for querying property graphs, SQL/PGQ, is added to the SQL standard; it shares the graph pattern matching functionality with GQL. Both standards (not yet published) are hard-to-understand specifications of hundreds of pages. The goal of this paper is to present a digest of the language that is easy for the research community to understand, and thus to initiate research on these future standards for querying graphs. The paper concentrates on pattern matching features shared by GQL and SQL/PGQ, as well as querying facilities of GQL.   
+  Cite as    
+ Authors:  C. Seshadhri  
+  Abstract    
+ Subgraph counting is a fundamental problem that spans many areas in computer science: database theory, logic, network science, data mining, and complexity theory. Given a large input graph G and a small pattern graph H, we wish to count the number of occurrences of H in G. In recent times, there has been a resurgence on using an old (maybe overlooked?) technique of orienting the edges of G and H, and then using a combination of brute-force enumeration and indexing. These orientation techniques appear to give the best of both worlds. There is a rigorous theoretical explanation behind these techniques, and they also have excellent empirical behavior (on large real-world graphs). Time and again, graph orientations help solve subgraph counting problems in various computational models, be it sampling, streaming, distributed, etc. In this paper, we give some short vignettes on how the orientation technique solves a variety of algorithmic problems.   
+  Cite as    
+ Authors:  Pavel Raykov  
+  Abstract    
+ Assume there is a data stream of elements and a window of size m. Sliding window algorithms compute various statistic functions over the last m elements of the data stream seen so far. The time complexity of a sliding window algorithm is measured as the time required to output an updated statistic function value every time a new element is read. For example, it is well known that computing the sliding window maximum/minimum has time complexity O(1) while computing the sliding window median has time complexity O(log m). In this paper we close the gap between these two cases by (1) presenting an algorithm for computing the sliding window k-th smallest element in O(log k) time and (2) prove that this time complexity is optimal.   
+  Cite as    
+ Authors:  Shiyuan Deng, Shangqi Lu, and Yufei Tao  
+  Abstract    
+ This paper initializes the study of range subgraph counting and range subgraph listing, both of which are motivated by the significant demands in practice to perform graph analytics on subgraphs pertinent to only selected, as opposed to all, vertices. In the first problem, there is an undirected graph G where each vertex carries a real-valued attribute. Given an interval q and a pattern Q, a query counts the number of occurrences of Q in the subgraph of G induced by the vertices whose attributes fall in q. The second problem has the same setup except that a query needs to enumerate (rather than count) those occurrences with a small delay. In both problems, our goal is to understand the tradeoff between space usage and query cost, or more specifically: (i) given a target on query efficiency, how much pre-computed information about G must we store? (ii) Or conversely, given a budget on space usage, what is the best query time we can hope for? We establish a suite of upper- and lower-bound results on such tradeoffs for various query patterns.   
+  Cite as    
+ Authors:  Kyle Deeds, Dan Suciu, Magda Balazinska, and Walter Cai  
+  Abstract    
+ Recent work has demonstrated the catastrophic effects of poor cardinality estimates on query processing time. In particular, underestimating query cardinality can result in overly optimistic query plans which take orders of magnitude longer to complete than one generated with the true cardinality. Cardinality bounding avoids this pitfall by computing an upper bound on the query’s output size using statistics about the database such as table sizes and degrees, i.e. value frequencies. In this paper, we extend this line of work by proving a novel bound called the Degree Sequence Bound which takes into account the full degree sequences and the max tuple multiplicity. This work focuses on the important class of Berge-Acyclic queries for which the Degree Sequence Bound is tight. Further, we describe how to practically compute this bound using a functional approximation of the true degree sequences and prove that even this functional form improves upon previous bounds.   
+  Cite as    
+ Authors:  Timo Camillo Merkl, Reinhard Pichler, and Sebastian Skritek  
+  Abstract    
+ Enumeration problems aim at outputting, without repetition, the set of solutions to a given problem instance. However, outputting the entire solution set may be prohibitively expensive if it is too big. In this case, outputting a small, sufficiently diverse subset of the solutions would be preferable. This leads to the Diverse-version of the original enumeration problem, where the goal is to achieve a certain level d of diversity by selecting k solutions. In this paper, we look at the Diverse-version of the query answering problem for Conjunctive Queries and extensions thereof. That is, we study the problem if it is possible to achieve a certain level d of diversity by selecting k answers to the given query and, in the positive case, to actually compute such k answers.   
+  Cite as    
+ Authors:  Sepehr Assadi, Nirmit Joshi, Milind Prabhu, and Vihan Shah  
+  Abstract    
+ Estimating quantiles, like the median or percentiles, is a fundamental task in data mining and data science. A (streaming) quantile summary is a data structure that can process a set S of n elements in a streaming fashion and at the end, for any ϕ ∈ (0,1], return a ϕ-quantile of S up to an ε error, i.e., return a ϕ'-quantile with ϕ' = ϕ ± ε. We are particularly interested in comparison-based summaries that only compare elements of the universe under a total ordering and are otherwise completely oblivious of the universe. The best known deterministic quantile summary is the 20-year old Greenwald-Khanna (GK) summary that uses O((1/ε) log{(ε n)}) space [SIGMOD'01]. This bound was recently proved to be optimal for all deterministic comparison-based summaries by Cormode and Vesleý [PODS'20]. In this paper, we study weighted quantiles, a generalization of the quantiles problem, where each element arrives with a positive integer weight which denotes the number of copies of that element being inserted. The only known method of handling weighted inputs via GK summaries is the naive approach of breaking each weighted element into multiple unweighted items, and feeding them one by one to the summary, which results in a prohibitively large update time (proportional to the maximum weight of input elements). We give the first non-trivial extension of GK summaries for weighted inputs and show that it takes O((1/ε) log(εn)) space and O(log(1/ε)+log log(εn)) update time per element to process a stream of length n (under some quite mild assumptions on the range of weights and ε). En route to this, we also simplify the original GK summaries for unweighted quantiles.   
+  Cite as    
+ Authors:  Amir Gilad, Aviram Imber, and Benny Kimelfeld  
+  Abstract    
+ A probabilistic database with attribute-level uncertainty consists of relations where cells of some attributes may hold probability distributions rather than deterministic content. Such databases arise, implicitly or explicitly, in the context of noisy operations such as missing data imputation, where we automatically fill in missing values, column prediction, where we predict unknown attributes, and database cleaning (and repairing), where we replace the original values due to detected errors or violation of integrity constraints. We study the computational complexity of problems that regard the selection of cell values in the presence of integrity constraints. More precisely, we focus on functional dependencies and study three problems: (1) deciding whether the constraints can be satisfied by any choice of values, (2) finding a most probable such choice, and (3) calculating the probability of satisfying the constraints. The data complexity of these problems is determined by the combination of the set of functional dependencies and the collection of uncertain attributes. We give full classifications into tractable and intractable complexities for several classes of constraints, including a single dependency, matching constraints, and unary functional dependencies.   
+  Cite as    
+  TGDK – Transactions on Graph Data and Knowledge 
+ © 2023-2024 Schloss Dagstuhl – LZI GmbH  Imprint  Privacy  Contact
+5. ICDT_2 conference:
+Zulip 
+  PODS 
+  ICDT 
+  About us 
+ Log in 
+ ICDT: The International Conference on Database Theory   
+   ICDT is a scientific conference on research on the foundations of database management; it can be seen as the European version of PODS  (the ACM Symposium on Principles of Database Systems). Having a European identity, it is typically held in beautiful historical European locations.  
+ If you want to know more, please check out these pages:  
+ Overview of ICDT conferences 
+  ICDT proceedings and special issues 
+  ICDT Council 
+  A brief history 
+  ICDT awards | Best Paper, Best Student, Best Newcomer 
+  ICDT Test-of-time Award 
+  Past invited speakers 
+  Past ICDT program committees 
+  In memoriam
+6. ICDT_3 conference:
+Zulip 
+  PODS 
+  ICDT 
+  About us 
+ Log in 
+ ICDT 2023: Call for Papers 2nd cycle, Invited Speakers & Accepted papers 1st cycle   
+ CALL FOR PAPERS   
+  26th International Conference on Database Theory (ICDT 2023)  
+ We are glad to announce that EDBT/ICDT will be back to an in-person  conference and the organizers look forward to welcoming the database community to Ioannina after 3 years of online EDBT/ICDT events.  
+  The conference will run in hybrid mode, so that participants having travel restrictions will still have the opportunity to attend.  
+ We are now soliciting paper for the SECOND SUBMISSION CYCLE  of ICDT:  
+  September 14, 2022 (AoE): Abstract submission deadline  
+  September 21, 2022 (AoE): Paper submission deadline  
+  November 20, 2022: Notification  
+ We welcome research papers on every  topic related to the principles and theory of data management, provided that there is a clear connection to foundational aspects. This includes, for example, articles on "classical" data management topics such as:  
+  - theoretical computer science.  
+ In all of the above, a clear emphasis on foundational aspects is expected.  
+ Additional reasons for submitting to and attending ICDT are the excellent invited speakers  :  
+ Seshadhri Comandur: Subgraph counting and graph orientations: the gift that keeps on giving (ICDT Invited Lecture)  
+  Leonid Libkin: The Essence of GQL (ICDT/EDBT Keynote)  
+  Gonzalo Navarro: Compact Data Structures Meet Databases (ICDT/EDBT Keynote)  
+ and high-quality scientific contributions already accepted  in the 1st submission cycle:  
+ Sepehr Assadi, Nirmit Joshi, Milind Prabhu and Vihan Shah. Generalizing Greenwald-Khanna: Streaming Quantile Summaries for Weighted Inputs  
+  Tamara Cucumides, Juan L. Reutter and Domagoj Vrgoc: Size bounds and algorithms for conjunctive regular path queries  
+ Proceedings Chair:   
+  Brecht Vandevoort (Hasselt University)  
+ Submission Instructions   
+ Papers must be written in English and provide sufficient detail to allow the program committee to assess their merits. The results must be unpublished and not submitted for publication elsewhere, including the proceedings of other symposia, workshops, and journals.  
+ The proceedings will appear under an open access license in the Leibniz International Proceedings in Informatics (LIPIcs) series, based at Schloss Dagstuhl. More specifically, all articles in LIPIcs are published under a Creative Commons Attribution (CC-BY) license. Thereby, the authors retain their copyrights and readers can re-use the published work in the most meaningful manner. The proceedings will also appear in Scopus.  
+ At least one author of each accepted paper is expected to register at the conference and present the paper.  
+ Awards   
+  An award will be given to the Best Paper and to the Best Newcomer Paper where `newcomer' refers to the field of database theory. The latter award will preferentially be given to a paper authored only by students and in that case be called Best Student-Paper Award. The program committee reserves the right to not give any award and to split an award among several papers. Papers co-authored by program committee members are not eligible for an award.  
+ Detailed list of topics (not exclusive):  ICDT welcomes papers on any topic related to principles of data management such as, for example, data mining, information extraction, information retrieval, database aspects of machine learning, distributed and parallel databases, cloud computing, graph databases, (semantic) Web data, web services, data streams, sketching, data-centric (business) process management and workflows, data and knowledge integration and exchange, data provenance, views, data warehouses, domain-specific databases (multimedia, scientific, spatial, temporal, text), data privacy and security, concurrency, and recovery.  
+ Log in | or | register | to post comments 
+  event  (1) 
+  graph databases  (1) 
+  ICDT  (5) 
+  job announcement  (1) 
+  Job offer  (1)
+7. ICECCS_0 conference:
+The 27 th  International Conference on Engineering of Complex Computer Systems   
+  14 - 16 June 2023 - Toulouse, France   
+ Benh LIEU SONG  , CC BY-SA 3.0  , via Wikimedia Commons    
+ Welcome to the website of the 27th International Conference on Engineering of Complex Computer Systems (ICECCS 2023)  
+ The 27th International Conference on Engineering of Complex Computer Systems (ICECCS 2023) is a well-established event that has been held around the world for over 25 years. Over the past years, we have seen a rapidly rising emphasis on the design, implementation and management of complex computer systems which are present in every aspect of human activities, such as manufacturing, communications, defence, transportation, aerospace, hazardous environments, energy, and healthcare. These complex systems are frequently distributed over heterogeneous networks and process a large amount of data. Complexity arises from many factors, including the dynamic environment and the scenarios these systems operate in, demanding and sometimes conflicting requirements in functionality, efficiency, scalability, security, dependability and adaptability, as well as the wide range of development methodologies, programming languages and implementation details. Performance, real-time behaviour, fault tolerance, security, adaptability, development time and cost, and long life concerns are some of the key issues arising in the development of such systems.  
+ The goal of this conference is to bring together industrial, academic, and government experts from a variety of application domains and software disciplines, to discuss how the disciplines' problems and solution techniques interact within the whole system. Researchers, practitioners, tool developers and users, and technology transfer experts are all welcome. The scope of the conference includes long-term research issues, near-term requirements and challenges, established complex systems, emerging promising tools, and retrospective and prospective reflections of research and development into complex systems.  
+ Important Dates  
+ Abstract Submissions Due: 08 December 2022  16 January 2023    
+ Full Paper Submissions Due: 15 December 2022  16 January 2023    
+ Acceptance/Rejection Notification: 15 March 2023   
+ Camera-ready Due: 15 April 2023   
+ Conference date: 14-16 June 2023   
+ Scope and Topics  
+ Full Papers  
+ Full papers are divided into two categories: Technical Papers and Experience Reports. The papers submitted to both categories will be reviewed by the program committee members, and papers accepted in either category will be published in the conference proceedings. The proceedings of ICECCS 2023 will be published by Conference Publishing Services (CPS). Technical papers should describe original research, and experience reports should present practical projects carried out in the industry, and reflect on the lessons learnt from them.  
+  Short Papers  
+ Short paper submissions describe early-stage, ongoing or PhD research. All short papers will be reviewed by the program committee members, and accepted short papers will be published in the conference proceedings.  
+  Submission and Publication  
+ Submissions to the conference must not have been published or be concurrently considered for publication elsewhere. All submissions will be judged on the basis of originality, contribution to the field, technical and presentation quality, and relevance to the conference.  
+ Submitted manuscripts should be in English and formatted in the style of the double-column Conference Publishing Services (CPS) format. Full papers should not exceed 10 pages, and short papers should not exceed 6 pages, including figures, references, and appendices. All submissions should be in PDF format. Submissions not adhering to the specified format and length may be rejected immediately, without review.  
+ Please prepare your manuscripts in accordance to the ( Conference Publishing Services (CPS) guidelines  ). We invite all prospective authors to submit their manuscripts via the ICECCS'23 portal, hosted on EasyChair  .  
+  Access submission portal   
+ Registration  
+ ICECCS registration fee covers: | conference proceedings and program, access to conference sessions, coffee breaks and lunchs during the conference, and gala dinner. 
+ Registration Fees  
+  Bank transfer: | send a copy of your bank transfer by email to | iceccs2023@toulouse-inp.fr | (See bank account details at the end of this page). 
+  Payment by check or bank transfer shall be made before 2 June, 2023.  
+  If you need an invoice, please send a request by email to  iceccs2023@toulouse-inp.fr  Conditions for cancellation  
+ Cancellations must be made by writing to  iceccs2023@toulouse-inp.fr  The registration of participation is binding. 
+  BIC : TRPUFRP1  
+ ICECCS 2023 Accepted Papers  
+ Full Papers  
+ Supervised Robustness-preserving Data-free Neural Network Pruning | Mark Huasong Meng, Guangdong Bai, Sin G. Teo and Jin Song Dong 
+  Expiring opacity problems in parametric timed automata | Étienne André, Engel Lefaucheux and Dylan Marinho 
+  Model Checking of Intersection Traffic Control Protocols | Yuya Noguchi and Tatsuhiro Tsuchiya 
+  Specification and Verification of Communication Paradigms for CBSE in Event B | Loïc Thierry, Jason Jaskolka, Brahim Hamid and Jean-Paul Bodeveix 
+  How to select samples for active learning? Document clustering with active learning methodology | Norbert Ropiak, Mateusz Gniewkowski, Michał Swędrowski, Michał Pogoda, Karol Gawron, Bartłomiej Bojanowski and Tomasz Walkowiak 
+  Rapid Prototyping & Development Life Cycle for Smart Applications of Internet of Entities | Pierfrancesco Bellini, Daniele Bologna, Marco Fanfani, Luciano Alessandro Ipsaro Palesi, Paolo Nesi and Gianni Pantaleo 
+ Program  
+ Scientific and Social Programme of ICECCS 2023  
+  Scientific and Social Programme   
+ Proceedings  
+ ICECCS 2023 Proceedings  
+  Proceedings   
+ Host City and Venue  
+ The conference will be held in INP-ENSEEIHT  . It is located in the centre of Toulouse. It is easily accessible by metro from François Verdier station or Jean-Jaurès station.  
+ ENSEEIHT Engineer school  
+  2 Rue Charles Camichel  
+ Sponsors  
+ Copyright © ICECCS 2023
+8. ICEC_0 conference:
+Skip to content  IFIP ICEC 2023   
+        Submission 
+  Attending | Venue 
+  Travel 
+    The 22nd IFIP International Conference on Entertainment Computing  
+ See you next year for ICEC 2024  at Manaus/Amazonas, Brazil from September 30th to October 3rd!    
+ Date: November 15-17, 2023   
+  Location: Bologna, Italy   
+ The 22nd International Federation for Information Processing – International Conference on Entertainment Computing (IFIP-ICEC 2023) will be held in Bologna, Italy on 15-17 November.  
+ The conference is organized by the IFIP TC14 – Entertainment Computing Technical Committee, and will be hosted by the University of Bologna.  
+ IFIP-ICEC is the longest lasting and prime scientific conference series in the area of Entertainment Computing. It brings together practitioners, researchers, artists, designers, and industry on the design, creation, development, use, application and evaluation of digital entertainment content and experience systems. This event covers a diverse array of related research issues, including interactive art, game-based learning, XR technologies and ethical considerations associated with entertainment.  
+ Important dates  
+ We invite submissions under the following categories (deadlines):  
+ Workshop proposals ( April 3  extended  April 16)  
+  Full Research Papers ( May 22  extended  June 5)  
+  Works-in-Progress ( June 5  extended  June 21)  
+  Interactive Entertainment / Experiential works ( June 7  extended  June 30)  
+  Tutorial proposals ( June 7  extended  June 23)  
+  Submissions to Student Competition ( June 7  extended  June 30)  
+ Notifications to authors:  
+  Full Research Papers ( June 20  July 7)  
+  Other tracks ( June 28  July 14)  
+ “Camera ready” ( July 1  2 July 30)  
+ Submissions to Doctoral Consortium: October 11  
+  Late Submissions to Student Competition: October 11 (not in time for the proceedings)  
+  Late Submissions to Workshops: October 11 (not in time for the proceedings)  
+ All accepted papers will be indexed by EI, and be published in book form in the Springer Lecture Notes in Computer Science (LNCS) series.  
+  In order for a paper to be published in the proceedings, at least one author has to register and present at the conference.  
+ Aims  
+ IFIP TC14 aims to encourage research, development and sharing of innovative ideas, models and practices, on computer applications in entertainment.  
+ Chairs: Helmut Hlavacs, Univ. of Vienna, AUSTRIA and Angelo Di Iorio, Univ. of Bologna, Italy  
+ Full papers are the main media for presenting high impact, mature research with original new results. Submissions should describe novel unpublished work addressing one or more of the research topics listed. All technical papers will be published in the official Springer LNCS proceedings. Papers must be submitted using the Springer LNCS format.  
+ Paper length should reflect the contribution and maturity of the submission and reviewers from the program committee will be instructed to judge the contribution of a paper relative to its length. For example, typical contributions presenting significant research advances/results should not exceed 12 pages in length excluding references (Full Technical Papers). In addition, videos are encouraged and can be included in the paper or as Electronic Supplementary Material.  
+  See the Springer LNCS guidelines on how to include these. The committee may accept submissions conditionally or route them for a different category, when appropriate, and consult with authors to adjust their paper according to the review needs. Accepted papers will be scheduled for long presentations and discussion at the conference.  
+ Works in Progress  
+ Chairs: Erik van der Spek Eindhoven, University of Technology and Andrea Nuzzolese, National Research Council of Italy  
+ Work in Progress (WiP) contributions provide an opportunity to present late-breaking work, new experimental projects, research in early phases or with more limited scope than typical full papers. A WiP submission is a shorter submission describing the research problem, contribution, and value to the community, submitted as a PDF file. Accepted papers will be included into the official Springer LNCS proceedings and will be scheduled for presentation and discussion at the conference.  
+ WiP submissions should not exceed 8 pages in length, excl. references, in Springer LNCS format. Submissions with exceeding length relative to their contribution can be rejected. The committee may accept submissions conditionally or route them for a different category, when appropriate, and consult with authors to adjust their paper according to the review needs.  
+ Workshops and Tutorials  
+ We invite proposals for workshops and tutorials that will be held at IFIP-ICEC 2023.  
+ Workshops  
+ Chairs: Jannicke Baalsrud Hauge KTH Royal Institute of Technology Sweden and Barbara Goebl University of Wien Austria  
+ We invite proposals in all areas of entertainment computing and serious games research (see conference topics listed above) and particularly welcome proposals  
+  that will focus on and promote discussion on new and emerging trends in these areas. Workshop proposals must include the following information:  
+  – Short but relevant bio information of the organizers;  
+  – Expected workshop outcomes (proceedings, special issue of journals, project proposals, etc.);  
+  – Proposed workshop due dates (take into consideration conference schedules); workshops can be scheduled for either half a day (4h) or a full day (8h).  
+  – Workshops are open to all IFIP-ICEC attendees at no additional cost, even if not submitting contributions.  
+ Submissions need to adhere to the stated workshop proposal deadline. Additionally, to be considered for inclusion in the conference proceedings, authors of workshop proposals may also submit a 6 page (maximum, excl. references) paper in the Springer LNCS format, observing the deadline for full paper submission. Regular workshop proposals will not be included in the proceedings.  
+ Tutorials  
+ Chairs: Allegra De Filippo  
+ We invite proposals for tutorials that will be held in conjunction with ICEC 2023. We invite proposals in all areas of entertainment computing (see conference topics listed above) and particularly welcome proposals that will focus on and promote discussion on new and emerging trends. Tutorial proposals should be two pages in length and must include the following information:  
+ – Contact information (name, affiliation, address, phone number and email) of the tutorial organizer(s);  
+  – Relevant CV information of the tutorial leader(s);  
+  – Brief summary of the content.  
+ To be considered for inclusion in the conference proceedings, authors of tutorial proposals may also submit a 6 page (maximum) paper in the Springer LNCS  
+  format, observing the deadline for full paper submission. Regular tutorial proposals will not be included in the proceedings.  
+ Interactive Entertainment / Experiential Works  
+ Chairs: Jerome Dupire CNAM Paris and Andrea Poltronieri Univ of Bologna  
+ Interactive demonstrations, installations and games show early implementations of novel, interesting, and important entertainment computing concepts, systems, installations or games, or can serve to showcase results not previously described in the research literature.  
+ Both research and industry is encouraged to send in and showcase demonstrators of novel approaches to entertainment. We particularly encourage demonstrations with which attendees can interact and play.  
+ Demonstration, installation, or a game submission is a shorter submission describing a novel approach to entertainment computing concepts. The submissions will be peer-reviewed and should be composed of a document with 4-5 pages using Springer LNCS format, and structured as follows: (1) up to four pages for an extended abstract and (2) a final page that contains the link to an online video, a list of technical requirements (including electrical and connectivity needs), and physical space requirements (including display and footprint needs). Successful submissions will be included in the conference proceedings.  
+ The extended abstract should be written according to the underlying structure of the structured abstract and must be clear, straightforward, and easy to understand. The extended abstract must contain the following sections: abstract and keywords, introduction, methodology, findings, conclusion, and references.  
+ Sections can be named differently, and subsections can be included. Supporting figures, tables and images of the results may be included in the extended abstract.  
+ Student Game and Interactive Entertainment Competition  
+ Chairs: Erik van der Spek and Mara Dionisio  
+ Next to the Interactive Entertainment expo, IFIP-ICEC 2023 also organizes a competition for student games and interactive entertainment. All students up to and including PhD candidate level are eligible to send in their game or interactive entertainment installation, as long as the demonstrator is fully experiential, and the demonstrator is part of a research endeavor. This could be a platform to perform research with, a research through design contribution, or a design exemplar of something that advances the state of the art, but the paper detailing the game or interactive entertainment installation should make clear what the development of it may add to our knowledge of games and entertainment. For PhD candidates, this could be a good venue to have the artifact contribution of your game peer reviewed and published in official proceedings.  
+ Submissions to the game and interactive entertainment competition should be done in a 4-6 page extended abstract in Springer LNCS format, that among others clearly describes the research goal, a description of the experience of the demonstrator with pictures, and how the demonstrator advances the state of the art.  
+ At least one of the student authors on the paper needs to register and be physically present at the conference to showcase the game or installation in order to have a chance at winning the competition. A jury of experts is formed at the conference to select the winner, and the winner will be announced at the end of the conference.  
+ There are two submission moments for the student competition. In order to be eligible for the proceedings, you have to submit your paper by the early submission deadline. If you want to participate in the competition without a conference proceedings paper, there is also a late submission deadline.  
+ Doctoral Consortium  
+ Chair: Esteban Clua  
+ The Doctoral Consortium provides an opportunity for doctoral students to explore and develop their research interests in an interdisciplinary workshop, under the guidance of a panel of distinguished researchers in entertainment computing and/or serious games. We invite students who feel they would benefit from this kind of feedback on their dissertation work to apply for this unique opportunity to share their work with students in a similar situation as well as senior researchers in the field. The strongest candidates will be those who have a clear idea and an area, and have made some progress, but who are not so far along that they can no longer make changes. Also, as well as stating how you will gain from acceptance, both you and your advisor should be clear on what you can contribute to the Doctoral Consortium.  
+ The Consortium will provide a supportive setting for feedback on students’ current research and guidance on future research directions. It will also offer each student comments and fresh perspectives on their work from researchers and students outside their own institution and promote the development of a supportive community of scholars and a spirit of collaborative research.  
+  Current graduate students pursuing a PhD project who would benefit from detailed workshop discussions of their doctoral research should submit a single PDF file consisting of a 4-page extended abstract of your thesis work in Springer LNCS format, clearly specifying the originality of the work with respect to current concepts and techniques, the importance of the work with respect to fundamental issues and themes in entertainment computing, results to date and their validity and contribution of the work (expected and/or achieved) to entertainment computing and/or serious games.
+9. ICEC_1 conference:
+Login   
+ 15 - 17 Nov 2023    
+ International Conference on Entertainment Computing  
+ Listed In  
+  IT & Technology    Entertainment & Media   #Paper   #research   #entertainment   #Art     
+  Conference 
+ Editions  
+ Nov 2023  
+  Frequency  Not Available | Official Links  
+ Frequently Asked Questions Contact Organizer   
+  Can I get a list of speakers participating in the event?   
+ To get the speaker list on mail register at the link  .   
+   Helpful    
+  Can I get a list of exhibitors participating in the event?   
+ To get the exhibitor list on mail register at the link  .   
+   Add Your Review    
+   Edition Nov 2023     
+ How did you participate in this event?  
+  Visitor     
+ More Events in Bologna  
+ Dec 12 2024 | Thinking Machines? Literature, Science, Primo Levi   
+  Bologna, Italy 
+ Next step - Complete your profile   To mark your interest in International Conference on Entertainment Computing    
+ Reach over 2M+ audience with 1 post!   
+ Talk About Event  Ask Questions  Share Success    
+ Related Events  
+ Nov 28 2024 | International Conference on Contemporary Issues in Science, Engineering and Technology   
+  Ngaglik, Indonesia 
+ Nov 28 2024 | International Conference on Computer Science, Machine Learning and Big Data   
+  Ngaglik, Indonesia 
+ Nov 28 2024 | International Conference on Electronics, Artificial Intelligence & Robotics   
+  Ngaglik, Indonesia 
+ Nov 30 2024 | International Conference on Science Engineering & Technology   
+  Ottawa, Canada 
+ Nov 30 2024 | Devopsdays Porto Alegre   
+  Porto Alegre, Brazil 
+ More Events in Bologna  
+ Dec 12 2024 | Thinking Machines? Literature, Science, Primo Levi   
+  Bologna, Italy
+10. ICEC_2 conference:
+International Federation for Information Processing - International Conference on Entertainment Computing   
+ Release date : November 24, 2023   
+  On November 15, 2023, the Digital Arts and Health Workshop for the 22st International Federation for Information Processing — International Conference on Entertainment Computing (IFIP-ICEC 2023) came to an end. The workshop was co-hosted by Prof. Dr. YAO Cheng, Assistant Prof. XUE Mengru, International School of Design, Ningbo Innovation Center, Zhejiang University; Prof. Dr. HU Jun, Department of Industrial Design, Eindhoven University of Technology, assisted by Assistant Prof. LYU Hui, HU Yuqi, International School of Design, Ningbo Innovation Center, Zhejiang University. The workshop was hosted simultaneously in Ningbo, China, and Italy, Bologna.   
+ As one of the theme workshops for the IFIP-ICEC 2023, it aims at maximizing the potential value of digital arts for global health by addressing the possibilities and challenges presented by these disciplines. And XUE Mengru, LYU Hui, HU Yuqi, served as the host of the workshop that day.   
+ Prof. Dr. YAO Cheng, Executive dean of International School of Design, Ningbo Innovation Center, Zhejiang University, delivered a speech at the beginning. He pointed out the purpose of this workshop, and welcomed all the attendees.   
+ Then, the ten authors reported their papers in turn, and the attendees actively joined and raised questions.   
+ “We applied and got the chance to organize a special issue on ‘Aesthetics and Empowerment’ in the International Journal of Arts and Technology”, XUE Mengru said at last, “All of our previous accepted papers will be invited to submit an extended version for this special issue. Of course, we also warmly welcome EVERYONE to throw your excellent work to our special issue, with a deadline of June, 2024”.   
+ IFIP-ICEC is the longest lasting and prime scientific conference series in the area of Entertainment Computing. It brings together practitioners, researchers, artists, designers, and industry on the design, creation, development, use, application and evaluation of digital entertainment content and experience systems. This event covers a diverse array of related research issues, including interactive art, game-based learning, XR technologies and ethical considerations associated with entertainment.   
+ Previous
+
+output:1. ICDS_1 information:
+2. ICDS_2 information:
+3. ICDS_3 information:
+4. ICDT_0 information:
+5. ICDT_2 information:
+6. ICDT_3 information:
+7. ICECCS_0 information:
+8. ICEC_0 information:
+9. ICEC_1 information:
+10. ICEC_2 information:

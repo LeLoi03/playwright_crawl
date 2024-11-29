@@ -1,0 +1,135 @@
+Heterogeneity in Computing Workshop  HCW 2025 | June 4, 2025 | Milan, Italy     
+   
+ No results found.  
+
+    Heterogeneity in Computing Workshop   
+ HCW 2025 | June 4, 2025 | Milan, Italy   
+  Home 
+  Call for Papers 
+  Submissions 
+  Program 
+  People 
+  Previous 
+  HCW 2024 
+  HCW 2023 
+
+ Updated Nov 04, 2024    
+   
+ HCW 2023  
+ The thirty-second Heterogeneity in Computing Workshop ( HCW  ) was held at the Hilton St. Petersburg Bayfront Hotel, St. Petersburg, Florida, on May 15, 2023  . HCW is annually organized in conjunction with the International Parallel and Distributed Processing Symposium ( IPDPS  ).  
+ HCW 2023 Program   
+ HCW 2023 Call for Papers   
+ Heterogeneous computing systems comprise growing numbers of increasingly more diverse computing resources that can be local to one another or geographically distributed. The opportunity and need for effectively utilizing heterogeneous computing resources has given rise to the notions of cluster computing, grid computing, and cloud computing. HCW encourages paper submissions from both the research and industry communities presenting novel ideas on theoretical and practical aspects of computing in heterogeneous computing environments.  
+       
+ St. Petersburg, Florida    
+  
+ HCW 2023 Program   
+ Session 1: Introductions and Keynote Presentation (8:45-10 am)  
+ Session Chairs  : Behrooz Shirazi (Washington State University, US) and Jan Christian Meyer (Norwegian University of Science and Technology, NO)  
+ Peter Kogge  , the Ted H. McCourtney Professor of Computer Science and Engineering at the University of Notre Dame, delivered the HCW 2023 keynote.  
+ Title  : Heterogeneity and the Problem that Shall Not Be Named   
+ Abstract  : Heterogeneity is clearly increasing, especially as “accelerators” burrow deeper and deeper into different parts of an architecture. What is new, however, is a rapid change in not only the number of such heterogeneous cores, but in their characteristics, such as ISA or memory architecture. This talk is focused on the problem of how to construct efficient programs that combine multiple heterogeneous concurrent threads. We focus on the need today to invoke significant software stacks to cross any of these new boundaries. A suggestion is made of using migrating threads as the glue.  
+ Bio  : PETER M. KOGGE is the McCourtney Professor of Computer Science and Engineering at the University of Notre Dame, a retired IBM Fellow, and a founder of a startup Emu Solutions, (now Lucata, Inc.). He is also the ND site director for the multi-university Center for Quantum Technologies. In the past he has been acting Chair of the CSE Dept. and Associate Dean for Research for Engineering at Notre Dame. His research interests are in massively parallel computing paradigms and the interaction of non-traditional technology with computing. He holds over 40 patents and is author of several books, including the 2023 “The Zen of Exotic Computing.” In 2008, he led DARPA’s Exascale technology study group, which resulted in a widely referenced report on how the then next 10 years of technology growth would affect exascale computing. Dr. Kogge is an IEEE and AAAS fellow, and has received the Daniel Slotnick best paper award (1994), the IEEE/ACM Seymour Cray award (2012), the IEEE Charles Babbage award (2014), the IEEE Computer Pioneer award (2015), and the Gauss best paper award from the Int. Supercomputing Conf. (2015).  
+ Break (10-10:30 am)   
+ Session 2: Heterogeneous Tasks and Workflows (10:30 am-12 pm)  
+ Session Chair  : Anne Benoit (École Normale Supérieure de Lyon, FR)  
+ A Task Based Approach for Co-Scheduling Ensemble Workloads on Heterogeneous Nodes   
+  Alok Kamatar (University of Chicago, US), Ryan Friese (Pacific Northwest National Laboratory, US), Roberto Gioiosa (Pacific Northwest National Laboratory, US)  
+ Cloud Services Enable Efficient AI-Guided Simulation Workflows across Heterogeneous Resources   
+  Logan Ward (Argonne National Laboratory, US), J. Gregory Pauloski (University of Chicago, US), Valerie Hayot-Sasson (University of Chicago, US), Ryan Chard (Argonne National Laboratory, US), Yadu Babuji (University of Chicago, US), Ganesh Sivaraman (Argonne National Laboratory, US), Sutanay Choudhury (Pacific Northwest National Laboratory, US), Kyle Chard (University of Chicago, US), Rajeev Thakur (Argonne National Laboratory, US), Ian Foster (Argonne National Laboratory, US)  
+ Remote Execution of OpenCL and SYCL Applications via rOpenCL   
+  Rui Alves (Instituto Politécnico de Bragança, PT), Jose Rufino (Instituto Politécnico de Bragança, PT)  
+ Lunch break (12-1:30 pm)   
+ Session 3: Performance Studies and Programming (1:30-3 pm)  
+ Session Chair  : Emmanuel Jeannot (INRIA, FR)  
+ Evaluating Energy Efficiency of GPUs using Machine Learning Benchmarks   
+  Brett Foster (Worcester Polytechnic Institute, US), Shubbhi Taneja (Worcester Polytechnic Institute, US), Joseph Manzano (Pacific Northwest National Laboratory, US), Kevin Barker (Pacific Northwest National Laboratory, US)  
+ CEDR-API: Productive, Performant Programming of Domain-Specific Embedded Systems   
+  Joshua Mack (The University of Arizona, US), Serhan Gener (The University of Arizona, US), Sahil Hassan (The University of Arizona, US), H. Umut Suluhan (The University of Arizona, US), Ali Akoglu (The University of Arizona, US)  
+ Power-aware Computing with Optane Persistent Memory Modules   
+  Anara Kozhokanova (RWTH Aachen University, DE), Bo Wang (RWTH Aachen University, DE), Christian Terboven (RWTH Aachen University, DE), Matthias Müller (RWTH Aachen University, DE)  
+ Break (3-3:30 pm)   
+ Session 4: Panel (3:30-5 pm)  
+ Single-chip CPU-GPU HPC architectures: Opportunities and Challenges   
+  Panel Moderator  : H. J. Siegel (Colorado State University, US)  
+  Panelists  : David Bader (New Jersey Institute of Technology, US), Taisuke Boku (University of Tsukuba, JP), Tsung-Wei Huang (University of Utah, US), Keshav Pingali (University of Texas at Austin, US)  
+ HCW 2023 Call for Papers   
+ May 15, 2023  
+  St. Petersburg, Florida, USA  
+ In conjunction with the 37 th  IEEE International Parallel and Distributed Processing Symposium ( IPDPS 2023  )  
+ Sponsored by the IEEE Computer Society  
+  through the Technical Committee on Parallel Processing (TCPP)  
+ Most modern computing systems are heterogeneous  , either for organic reasons  because components grew independently, as it is the case in desktop grids, or by design  to leverage the strength of specific hardware, as it is the case in accelerated systems. In any case, all computing systems have some form of hardware or software heterogeneity   that must be managed, leveraged, understood, and exploited. The Heterogeneity in Computing Workshop (HCW) is a venue to discuss and innovate in all theoretical and practical aspects of heterogeneous computing: design, programmability, efficient utilization, algorithms, modeling, applications, etc. HCW 2023 will be the thirty-second annual gathering of this workshop.  
+ Topics  
+ Topics of interest include but are not limited to the following areas:  
+ Heterogeneous multicore systems and architectures  : Design, exploration, and experimental analysis of heterogeneous computing systems such as Graphics Processing Units, heterogeneous systems-on-chip, Artificial Intelligence chips, Field Programmable Gate Arrays, big.LITTLE, and application-specific architectures.  
+ Heterogeneous parallel and distributed systems  : Design and analysis of computing grids, cloud systems, hybrid clusters, datacenters, geo-distributed computing systems, and supercomputers.  
+ Deep memory hierarchies  : Design and analysis of memory hierarchies with SRAM, DRAM, Flash/SSD, and HDD technologies; NUMA architectures; cache coherence strategies; novel memory systems such as phase-change RAM, magnetic (e.g., STT) RAM, 3D Xpoint/crossbars, and memristors.  
+ On-chip, off-chip, and heterogeneous network architectures  : Network-on-chip (NoC) architectures and protocols for heterogeneous multicore applications; energy, latency, reliability, and security optimizations for NoCs; off-chip (chip-to-chip) network architectures and optimizations; heterogeneous networks (combination of NoC and off-chip) design, evaluation, and optimizations; large-scale parallel and distributed heterogeneous network design, evaluation, and optimizations.  
+ Programming models and tools  : Programming paradigms and tools for heterogeneous systems; middleware and runtime systems; performance-abstraction tradeoff; interoperability of heterogeneous software environments; workflows; dataflows.  
+ Resource management and algorithms for heterogeneous systems  : Parallel algorithms for solving problems on heterogeneous systems (e.g., multicores, hybrid clusters, grids, or clouds); strategies for scheduling and allocation on heterogeneous 2D and 3D multicore architectures; static and dynamic scheduling and resource management for large-scale and parallel heterogeneous systems.  
+ Modeling, characterization, and optimizations  : Performance models and their use in the design of parallel and distributed algorithms for heterogeneous platforms; characterizations and optimizations for improving the time to solve a problem (e.g., throughput, latency, runtime); modeling and optimizing electricity consumption (e.g., power, energy); modeling for failure management (e.g., fault tolerance, recovery, reliability); modeling for security in heterogeneous platforms.  
+ Applications on heterogeneous systems  : Case studies; confluence of Big Data systems and heterogeneous systems; data-intensive computing; scientific computing.  
+ In addition to the eight topic areas listed above, we encourage submissions in the following three areas:  
+ Heterogeneous Integration of Quantum Computing  : Design, exploration, and analysis of architectures and software frameworks enabling heterogeneous integration of classical computing and quantum computing (e.g., heterogeneous quantum computers, error correction, heterogeneous applications that use both classical and quantum logic, benchmarks for heterogeneous quantum computers).  
+ Heterogeneity and Interoperability in Software & Data Systems  : Design, exploration, and analysis of architectures and software frameworks for interoperability in software and data systems (e.g., semantic frameworks, interoperability for heterogeneous Internet-of-Things systems, model-driven frameworks).  
+ Heterogeneous Computing for Machine Learning (ML) and Deep Learning (DL)  : Design, exploration, benchmarking, and analysis of accelerators and software frameworks for ML and DL applications on heterogeneous computing systems.  
+ Important Dates  
+ Abstract submission | (required): February 18, 2023 
+  Full paper submission | : February 18, 2023 
+  Author notification | : February 28, 2023 
+  Camera-ready submission | : March 15, 2023 (extended) 
+  Paper Submissions  
+ Manuscripts submitted to HCW 2023 should not have been previously published or be under review for a different workshop, conference, or journal.  
+ Submissions must use the latest IEEE manuscript templates for conference proceedings  . Submissions may not exceed a total of ten single-spaced double-column pages using 10-point size font on 8.5×11 inch pages. The page limit includes figures, tables, and references. A single-blind review process will be followed.  
+ Files should be submitted by following the instructions at the IPDPS 2023 submission site  .  
+ It is required that all accepted papers will be presented at the workshop by one of the authors.  
+ Workshop Organization  
+ General Chair  : Jong-Kook Kim, Korea University, Korea  
+ Technical Program Committee Co-Chairs  : Anne C. Elster and Jan Christian Meyer, Norwegian University of Science and Technology, Norway  
+ Questions may be sent to the HCW 2023 General Chair (Jong-Kook Kim: jongkook at korea dot ac dot kr) or Technical Program Committee Co-Chairs (Anne Elster: elster at ntnu dot no and Jan Christian Meyer: jan dot christian dot meyer at ntnu dot no).  
+ Technical Program Committee  
+ Mohsen Amini, University of Louisiana at Lafayette, USA  
+  Taisuke Boku, University of Tsukuba, Japan  
+  Nick Brown, University of Edinburgh, Scotland  
+  Louis-Claude Canon, University of Franche-Comté, France  
+  Daniel Cordiero, University of São Paulo, Brazil  
+  Matthias Diener, University of Illinois Urbana-Champaign, USA  
+  Anne C. Elster, Norwegian University of Science and Technology, Norway (Co-Chair)  
+  Mattan Erez, University of Texas at Austin, USA  
+  Jiří Filipovič, Masaryk University, Czech Republic  
+  Diana Göhringer, Technische Universität Dresden, Germany  
+  Emmanuel Jeannot, INRIA, France  
+  Krishna Kavi, University of North Texas, USA  
+  Georgios Keramidas, Aristotle University, Greece  
+  Joongheon Kim, Korea University, Korea  
+  Alexey Lastovetsky, University College Dublin, Ireland  
+  Laércio Lima Pilla, CNRS, France  
+  Hatem Ltaief, King Abdullah University of Science and Technology, Saudi Arabia  
+  Jan Christian Meyer, Norwegian University of Science and Technology, Norway (Co-Chair)  
+  Burcu Mutlu, Pacific Northwest National Laboratory, USA  
+  Tirthak Patel, Northeastern University, USA  
+  Dana Petcu, West University of Timisoara, Romania  
+  Sridhar Radhakrishnan, University of Oklahoma, USA  
+  Barry Rountree, Lawrence Livermore National Laboratory, USA  
+  Achim Streit, Karlsruhe Institute of Technology, Germany  
+  Samuel Thibault, University of Bordeaux, France  
+  Claire Vishik, Intel, USA  
+ Steering Committee  
+ Kamesh Madduri, Pennsylvania State University, USA (Co-Chair)  
+  Behrooz Shirazi, Washington State University, USA (Co-Chair)  
+  H. J. Siegel, Colorado State University, USA (Past Chair)  
+  John Antonio, University of Oklahoma, USA  
+  David Bader, New Jersey Institute of Technology, USA  
+  Anne Benoit, École Normale Supérieure de Lyon, France  
+  Jack Dongarra, University of Tennessee, USA  
+  Alexey Lastovetsky, University College Dublin, UK  
+  Sudeep Pasricha, Colorado State University, USA  
+  Viktor K. Prasanna, University of Southern California, USA  
+  Yves Robert, École Normale Supérieure de Lyon, France  
+  Erik Saule, University of North Carolina at Charlotte, USA  
+  Uwe Schwiegelshohn, TU Dortmund University, Germany  
+ Sponsors  
+ IEEE IPDPS 2023 is sponsored by the IEEE Computer Society, through the Technical Committee on Parallel Processing (TCPP), and is held in cooperation with the IEEE Computer Society Technical Committees on Computer Architecture (TCCA) and Distributed Processing (TCDP).  
+ HCW 2023 is sponsored by the U.S. Office of Naval Research and IEEE IPDPS 2023.  
+  HCW 2024

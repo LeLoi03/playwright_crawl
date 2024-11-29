@@ -1,0 +1,263 @@
+Stefan Saroiu  
+ Senior Principal Researcher  
+  ssaroiu@microsoft.com   
+  stefan@t8k2.com   
+
+ Home 
+  Bio 
+  Publications 
+  Rowhammer 
+  Last Updated: June 2024   
+   
+ Publications (by year, by area  )   
+ 2024    
+ Towards Multi-Stakeholder Clouds   
+  Bohdan Borysei, Stefan Saroiu, Eyal de Lara  
+  Proceedings of the 25th International Workshop on Mobile Computing Systems and Applications (HotMobile)  , San Diego, CA, February 2024.  
+    
+ 2023    
+ Siloz: Leveraging DRAM Isolation Domains to Prevent Inter-VM Rowhammer   
+  Kevin Loughlin, Jonah Rosenblum, Stefan Saroiu, Alec Wolman, Dimitrios Skarlatos, Baris Kasikci  
+  Proceedings of the 29th Symposium on Operating Systems Principles (SOSP)  , Koblenz, Germany, October 2023.  
+    
+ “My face, my rules”: Enabling Personalized Protection against Unacceptable Face Editing   
+  Zhujun Xiao, Jenna Cryan, Yuanshun Yao, Yi Hong Gordon Cheo, Yuanchao Shu, Stefan Saroiu, Ben Zhao, and Heather Zheng  
+  Proceedings of the 23rd Privacy Enhancing Technologies Symposium (PETS)  , Lausanne, Switzerland, July 2023.  
+    
+ 2022    
+ How to Configure Row-Sampling-Based Rowhammer Defenses   
+  Stefan Saroiu and Alec Wolman  
+  Proceedings of the 2nd Workshop on DRAM Security (DRAMSec)  , Virtual Event, June 2022.  
+  Watch the 15-minute presentation  . Check out the source code  .  
+  (In Nov. 2022, we found an incorrect claim and added an Errata to the paper on Page 7.)   
+ MOESI-prime: Preventing Coherence-Induced Hammering in Commodity Workloads   
+  Kevin Loughlin, Stefan Saroiu, Alec Wolman, Yatin A. Manerkar, and Baris Kasikci  
+  Proceedings of the 49th International Symposium on Computer Architecture (ISCA)  , New York, NY, June 2022.  
+    
+ Invited Paper   
+  The Price of Secrecy: How Hiding Internal DRAM Topologies Hurts Rowhammer Defenses   
+  Stefan Saroiu, Alec Wolman, and Lucian Cojocar  
+  Proceedings of International Reliability Physics Symposium  , Dallas, TX, March 2022.  
+  Watch the 20-minute presentation  .   
+ 2021    
+ mFIT: A Bump-in-the-Wire Tool for Plug-and-Play Analysis of Rowhammer Susceptibility Factors   
+  Lucian Cojocar, Kevin Loughlin, Stefan Saroiu, Baris Kasikci, and Alec Wolman  
+  Technical Report MSR-TR-2021-25  , Microsoft Research, October 2021.  
+    
+ MegaMind: A Platform for Security & Privacy Extensions for Voice Assistants   
+  Seyed Mohammadjavad Seyed Talebi, Ardalan Amiri Sani, Stefan Saroiu, and Alec Wolman  
+  Proceedings of the 19th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys)  , Virtual Event, June 2021.  
+  Watch the 15-minute presentation  . Check out the source code  .   
+ Panopticon: A Complete In-DRAM Rowhammer Mitigation   
+  Tanj Bennett, Stefan Saroiu, Alec Wolman, and Lucian Cojocar  
+  Proceedings of the 1st Workshop on DRAM Security (DRAMSec)  , Virtual Event, June 2021.  
+  Watch the 15-minute presentation  . Check out the source code  .   
+ Stop! Hammer Time: Rethinking Our Approach to Rowhammer Mitigations   
+  Kevin Loughlin, Stefan Saroiu, Alec Wolman, and Baris Kasikci  
+  Proceedings of the 18th Workshop on Hot Topics in Operating Systems (HotOS)  , Ann Arbor, MI, June 2021.  
+  Watch the 8-minute presentation  .   
+ 2020    
+ Are We Susceptible to Rowhammer? An End-to-End Methodology for Cloud Providers   
+  Lucian Cojocar, Jeremie Kim, Minesh Patel, Lillian Tsai, Stefan Saroiu, Alec Wolman, and Onur Mutlu  
+  Proceedings of the 41st IEEE Symposium on Security and Privacy (S&P)  , San Francisco, CA, May 2020.  
+  Watch the presentations, by duration: one minute  , 17 minutes  , one hour  .   
+ PrivateEye: Scalable and Privacy-Preserving Compromise Detection in the Cloud   
+  Behnaz Arzani, Selim Ciraci, Stefan Saroiu, Alec Wolman, Jack W. Stokes, Geoff Outhred, and Lechao Diwu  
+  Proceedings of the 17th USENIX Symposium on Networked Systems Design and Implementation (NSDI)  , Santa Clara, CA, February 2020.  
+  Watch the 17-minute presentation  .   
+ 2019    
+ enClosure: Group Communication via Encounter Closures   
+  Lillian Tsai, Roberta de Viti, Matthew Lentz, Stefan Saroiu, Peter Druschel, and Bobby Bhattacharjee  
+  Proceedings of the 17th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys)  , Seoul, Korea, June 2019.   
+ 2016    
+ fTPM: A Software-only Implementation of a TPM Chip   
+  Himanshu Raj, Stefan Saroiu, Alec Wolman, Ronald Aigner, Jeremiah Cox, Paul England, Chris Fenner, Kinshuman Kinshumann, Jork Loeser, Dennis Mattoon, Magnus Nystrom, David Robinson, Rob Spiger, Stefan Thom, and David Wooten  
+  Proceedings of the 25th USENIX Security Symposium  , Austin, TX, August 2016.  
+  Read the earlier technical report  .  
+  Watch the 29-minute presentation  .   
+ 2015    
+ Kahawai: High-Quality Mobile Gaming Using GPU Offload   
+  Eduardo Cuervo, Alec Wolman, Landon P. Cox, Kiron Lebeck, Ali Razeen, Stefan Saroiu, and Madanlal Musuvathi  
+  Proceedings of the 13th International Conference on Mobile Systems, Applications, and Services (MobiSys)  , Florence, Italy, May 2015.   
+ Protecting Data on Smartphones and Tablets from Memory Attacks   
+  Patrick Colp, Jiawen Zhang, James Gleeson, Sahil Suneja, Eyal de Lara, Himanshu Raj, Stefan Saroiu, and Alec Wolman  
+  Proceedings of the 20th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)  , Istanbul, Turkey, March 2015.   
+ Policy-Carrying Data: A Privacy Abstraction for Attaching Terms of Service to Mobile Data   
+  Stefan Saroiu, Alec Wolman, and Sharad Agarwal  
+  Proceedings of the 16th International Workshop on Mobile Computing Systems and Applications (HotMobile)  , Seattle, WA, February 2015.  
+  Watch the 18-minute presentation  .   
+ 2014    
+ Best Paper Nominee   
+  Zero-Effort Payments: Design, Deployment, and Lessons   
+  Christopher Smowton, Jacob R. Lorch, David Molnar, Stefan Saroiu, and Alec Wolman  
+  Proceedings of the ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp)  , Seattle, WA, September 2014.  
+  Read the earlier technica report  .  
+  Watch the 25-minute presentation  or the short 1-minute  clip.   
+ cTPM: A Cloud TPM for Cross-Device Trusted Applications.   
+  Chen Chen, Himanshu Raj, Stefan Saroiu, and Alec Wolman  
+  Proceedings of the 11th USENIX Symposium on Networked Systems Design and Implementation (NSDI)  , Seattle, WA, April 2014.   
+ Using ARM TrustZone to Build a Trusted Language Runtime for Mobile Applications   
+  Nuno Santos, Himanshu Raj, Stefan Saroiu, and Alec Wolman  
+  Proceedings of the 19th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)  , Salt Lake City, UT, March 2014.   
+ 2013    
+ Splitting the Bill for Mobile Data with SIMlets   
+  Himanshu Raj, Stefan Saroiu, Alec Wolman, and Jitendra Padhye  
+  Proceedings of the 14th International Workshop on Mobile Computing Systems and Applications (HotMobile)  , Jekyll Island, GA, February 2013.   
+ 2012    
+ Policy-Sealed Data: A New Abstraction for Building Trusted Cloud Services   
+  Nuno Santos, Rodrigo Rodrigues, Krishna P. Gummadi, and Stefan Saroiu  
+  Proceedings of the 21st USENIX Security Symposium  , Bellevue, WA, August 2012.   
+ Keeping Information Safe from Social Networking Apps   
+  Bimal Viswanath, Emre Kiciman, and Stefan Saroiu  
+  Proceedings of the ACM SIGCOMM Workshop on Online Social Networks (WOSN)  , Helsinki, Finland, August 2012.   
+ Software Abstractions for Trusted Sensors   
+  He Liu, Stefan Saroiu, Alec Wolman, and Himanshu Raj  
+  Proceedings of the 10th International Conference on Mobile Systems, Applications, and Services (MobiSys)  , Lake District, UK, June 2012.   
+ Delusional Boot: Securing Cloud Hypervisors without Massive Re-engineering   
+  Anh Nguyen, Himanshu Raj, Shravan Rayanchu, Stefan Saroiu, and Alec Wolman  
+  Proceedings of the ACM European Conference on Computer Systems (EuroSys)  , Bern, Switzerland, April 2012.   
+ An Operating System for the Home   
+  Colin Dixon, Ratul Mahajan, Sharad Agarwal, A.J. Brush, Bongshin Lee, Stefan Saroiu, Victor Bahl  
+  Proceedings of 7th USENIX Symposium on Networked Systems Design and Implementation (NSDI)  , San Jose, CA, April 2012.   
+ 2011    
+ Credo: Trusted Computing for Guest VMs with a Commodity Hypervisor   
+  Himanshu Raj, David Robinson, Talha Bin Tariq, Paul England, Stefan Saroiu, and Alec Wolman  
+  Technical Report MSR-TR-2011-130,  Microsoft Corporation, Redmond, WA, USA, December 2011.   
+ Home Automation in the Wild: Challenges and Opportunities   
+  A.J. Brush, Bongshin Lee, Ratul Mahajan, Sharad Agarwal, Stefan Saroiu, and Colin Dixon  
+  Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI)  , Vancouver, BC, May 2011.  
+  Visit the HomeOS project page  at Microsoft Research.   
+ Trusted Language Runtime (TLR): Enabling Trusted Applications on Smartphones   
+  Nuno Santos, Himanshu Raj, Stefan Saroiu, and Alec Wolman  
+  Proceedings of the 12th International Workshop on Mobile Computing Systems and Applications (HotMobile)  , Phoenix, AZ, March 2011.   
+ 2010    
+ The Home Needs an Operating System (and an App Store)   
+  Colin Dixon, Ratul Mahajan, Sharad Agarwal, A.J. Brush, Bongshin Lee, Stefan Saroiu, and Victor Bahl  
+  Proceedings of the 9th ACM Workshop on Hot Topics in Networks (HotNets-IX)  , Monterey, CA, October 2010.   
+ Using Trusted Sensors to Monitor Patients' Habits   
+  Alec Wolman, Stefan Saroiu, and Victor Bahl  
+  Proceedings of the 1st USENIX Workshop on Health Security and Privacy (HealthSec)  , Washington, DC, August 2010.   
+ MAUI: Making Smartphones Last Longer with Code Offload   
+  Eduardo Cuervo, Aruna Balasubramanian, Dae-ki Cho, Alec Wolman, Stefan Saroiu, Ranveer Chandra, and Victor Bahl  
+  Proceedings of the 8th Annual International Conference on Mobile Systems, Applications and Services (MobiSys)  , San Francisco, CA, June 2010.  
+  Visit the MAUI project page  at Microsoft Research.   
+ Glasnost: Enabling End Users to Detect Traffic Differentiation   
+  Marcel Dischinger, Massimiliano Marcon, Saikat Guha, Krishna P. Gummadi, Ratul Mahajan, and Stefan Saroiu  
+  Proceedings of 7th USENIX Symposium on Networked Systems Design and Implementation (NSDI)  , San Jose, CA, April 2010.   
+ Volley: Automated Data Placement for Geo-Distributed Cloud Services   
+  Sharad Agarwal, John Dunagan, Navendu Jain, Stefan Saroiu, Alec Wolman, and Harbinder Bhogan  
+  Proceedings of 7th USENIX Symposium on Networked Systems Design and Implementation (NSDI)  , San Jose, CA, April 2010.   
+ I Am a Sensor and I Approve This Message   
+  Stefan Saroiu and Alec Wolman  
+  Proceedings of the 11th International Workshop on Mobile Computing Systems and Applications (HotMobile)  , Annapolis, MD, February 2010.   
+ 2009    
+ Report on the 5th International Workshop on Networking Meets Databases (NetDB 2009)   
+  Boon Thau Loo and Stefan Saroiu  
+  ACM SIGMOD Record and ACM Operating Systems Review (OSR)  , December 2009.   
+ Lockr: Better Privacy for Social Networks   
+  Amin Tootoonchian, Stefan Saroiu, Yashar Ganjali, and Alec Wolman  
+  Proceedings of the 5th ACM International Conference on emerging Networking EXperiments and Technologies (CoNEXT)  , Rome, Italy, December 2009.  
+    
+ BlueMonarch: A System for Evaluating Bluetooth Applications in the Wild   
+  Timothy J. Smith, Stefan Saroiu, and Alec Wolman  
+  Proceedings of the 7th Annual International Conference on Mobile Systems, Applications and Services (MobiSys)  , Krakow, Poland, June 2009.  
+    
+ Bunker: A Privacy-Oriented Platform for Network Tracing   
+  Andrew Miklas, Stefan Saroiu, Alec Wolman, and Angela Demke Brown  
+  Proceedings of the 6th USENIX Symposium on Networked Systems Design and Implementation (NSDI)  , Boston, MA, April 2009.  
+    
+ Enabling New Mobile Applications with Location Proofs   
+  Stefan Saroiu and Alec Wolman  
+  Proceedings of the 10th International Workshop on Mobile Computing Systems and Applications (HotMobile)  , Santa Cruz, CA, February 2009.   
+ 2008    
+ CILoS: A CDMA Indoor Localization System   
+  Waqas ur Rehman, Eyal de Lara, and Stefan Saroiu  
+  Proceedings of the 10th International Conference on Ubiquitous Computing (Ubicomp)  , Seoul, South Korea, September 2008.   
+ SatelliteLab: Adding Heterogeneity to Planetary-Scale Testbeds   
+  Marcel Dischinger, Andreas Haeberlen, Ivan Beschastnikh, Krishna P. Gummadi, and Stefan Saroiu  
+  Proceedings of the ACM SIGCOMM Conference  , Seattle, WA, August 2008.   
+ Lockr: Social Access Control for Web 2.0   
+  Amin Tootoonchian, Kiran K. Gollu, Stefan Saroiu, Yashar Ganjali, and Alec Wolman  
+  Proceedings of the First ACM SIGCOMM Workshop on Online Social Networks (WOSN)  , Seattle, WA, August 2008.   
+ SpySaver: Using Incentives to Address Spyware   
+  Stefan Saroiu and Alec Wolman  
+  Proceedings of the 2008 Workshop on the Economics of Networks, Systems, and Computation (NetEcon)  , Seattle, WA, August 2008.   
+ iTrustPage: A User-Assisted Anti-Phishing Tool   
+  Troy Ronda, Stefan Saroiu, and Alec Wolman  
+  Proceedings of the ACM European Conference on Computer Systems (EuroSys)  , Glasgow, Scotland, April 2008.  
+  Read our earlier technical report  .   
+ 2007    
+ Tamper Resistant Network Tracing   
+  Andrew G. Miklas, Stefan Saroiu, Alec Wolman, and Angela Demke Brown  
+  Proceedings of the 6th Workshop on Hot Topics in Networks (HotNets-VI)  , Atlanta, GA, November 2007.   
+ Characterizing Residential Broadband Networks   
+  Marcel Dischinger, Andreas Haeberlen, Krishna P. Gummadi, and Stefan Saroiu  
+  Proceedings of the ACM Internet Measurement Conference (IMC)  , San Diego, CA, October 2007.   
+ Exploiting Social Interactions in Mobile Systems   
+  Andrew G. Miklas, Kiran K. Gollu, Kelvin K. W. Chan, Stefan Saroiu, Krishna P. Gummadi, and Eyal de Lara  
+  Proceedings of the 9th International Conference on Ubiquitous Computing (Ubicomp)  , Innsbruck, Austria, September 2007.   
+ Finding Content in File-Sharing Networks When You Can't Even Spell   
+  Matei A. Zaharia, Amit Chandel, Stefan Saroiu, and Srinivasan Keshav  
+  Proceedings of the Sixth International Peer-to-Peer Workshop (IPTPS)  , Bellevue, WA, February 2007.   
+ 2006    
+ A Preliminary Investigation of Worm Infections in a Bluetooth Environment   
+  Jing Su, Kelvin K. W. Chan, Andrew G. Miklas, Kenneth Po, Ali Akhavan, Stefan Saroiu, Eyal de Lara, and Ashvin Goel  
+  Proceedings of the ACM Workshop on Rapid Malcode (WORM)  , Alexandria, VA, November 2006.  
+  Download our dataset  .   
+ Monarch: A Tool to Emulate Transport Protocol Flows over the Internet at Large   
+  Andreas Haeberlen, Marcel Dischinger, Krishna P. Gummadi, and Stefan Saroiu  
+  Proceedings of the ACM Internet Measurement Conference (IMC)  , Rio de Janeiro, Brazil, October 2006.  
+  Visit the Monarch project page  at MPI-SWS.   
+ 2004    
+ Measurement and Analysis of Internet Content Delivery Systems   
+  Stefan Saroiu  
+  Doctoral Dissertation  University of Washington, Seattle, WA, December 2004   
+ Measurement and Analysis of Spyware in a University Environment   
+  Stefan Saroiu, Steven D. Gribble, and Henry M. Levy  
+  Proceedings of the ACM/USENIX Symposium on Networked Systems Design and Implementation (NSDI)  , San Francisco, CA, USA, March 2004.   
+ 2003    
+ Measurement, Modeling, and Analysis of a Peer-to-Peer File-Sharing Workload   
+  Krishna P. Gummadi, Richard J. Dunn, Stefan Saroiu, Steven D. Gribble, Henry M. Levy, and John Zahorjan  
+  Proceedings of the 19th ACM Symposium on Operating Systems Principles (SOSP-19)  , Bolton Landing, NY, USA, October 2003.   
+ Best Paper Award   
+  SkipNet: A Scalable Overlay Network with Practical Locality Properties   
+  Nicholas J. A. Harvey, Michael B. Jones, Stefan Saroiu, Marvin Theimer, and Alec Wolman  
+  Fourth USENIX Symposium on Internet Technologies and Systems (USITS) 2003  , Seattle, WA, USA, March 2003.  
+  Read our slide deck  and our earlier technical report  .   
+ Measuring and Analyzing the Characteristics of Napster and Gnutella Hosts   
+  Stefan Saroiu, P. Krishna Gummadi, and Steven D. Gribble  
+  Multimedia Systems Journal  , Volume 9, Number 2, pp. 170-184 August 2003, Springer-Verlag.   
+ 2002    
+ Best Student Paper Award   
+  An Analysis of Internet Content Delivery Systems   
+  Stefan Saroiu, Krishna P. Gummadi, Richard J. Dunn, Steven D. Gribble, and Henry M. Levy  
+  Proceedings of 5th Symposium on Operating Systems Design and Implementation (OSDI)  , Boston, MA, USA, December 2002. Read our slide deck  .   
+ Best Student Paper Award   
+  King: Estimating Latency between Arbitrary Internet End Hosts   
+  Krishna P. Gummadi, Stefan Saroiu, and Steven D. Gribble  
+  Proceedings of 2nd ACM Sigcomm Internet Measurement Workshop (IMW)  , Marseille, France, November 2002.   
+ Obtaining Sensitive Data Through the Web: An Example of Design and Methods   
+  Atar Baer, Stefan Saroiu, and Laura A. Koutsky  
+  Epidemiology  , Volume 13, Issue 6, pp: 640-645, November 2002.   
+ Exploring the Design Space of Distributed and Peer-to-Peer Systems: Comparing the Web, TRIAD, and Chord/CFS   
+  Stefan Saroiu, P. Krishna Gummadi, and Steven D. Gribble  
+  Proceedings of First International Workshop on Peer-to-Peer Systems (IPTPS)  , Cambridge, MA, USA, March 2002. Read our slide deck  .   
+ Dynamically Fault-Tolerant Content Addressable Networks   
+  Jared Saia, Amos Fiat, Steven D. Gribble, Anna R. Karlin, and Stefan Saroiu  
+  Proceedings of First International Workshop on Peer-to-Peer Systems (IPTPS)  , Cambridge, MA, USA, March 2002.   
+ SProbe  (short article) Stefan Saroiu, P. Krishna Gummadi, and Steven D. Gribble  
+  IEEE Network  , January/February 2002.  
+  Visit the SProbe project page  at the University of Washington.   
+ Best Paper Award   
+  A Measurement Study of Peer-to-Peer File Sharing Systems   
+  Stefan Saroiu, P. Krishna Gummadi, and Steven D. Gribble  
+  Proceedings of Multimedia Computing and Networking (MMCN)  , San Jose, CA, USA, January 2002.  
+  Read our earlier technical report  .   
+ 2001    
+ Predictability Requirements of a Soft Modem   
+  Michael B. Jones and Stefan Saroiu  
+  Proceedings of SIGMETRICS 2001  Cambridge, MA, USA, June 2001.  
+  Read our slide deck  and our earlier technical report  .   
+ Two Case Studies in Predictable Application Scheduling Using Rialto/NT   
+  Michael B. Jones, John Regehr, and Stefan Saroiu  
+  Proceedings of 7th Real-Time Technology and Applications Symposium (RTAS)  Taipei, Taiwan, May/June 2001

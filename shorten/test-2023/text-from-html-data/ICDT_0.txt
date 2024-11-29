@@ -1,0 +1,50 @@
+  GIScience 
+  ICALP 
+  ICDT 
+  ICPEC 
+  IPEC 
+ 26th International Conference on Database Theory (ICDT 2023)  
+  Part of: | Series: | Leibniz International Proceedings in Informatics (LIPIcs) | Part of: | Conference: | International Conference on Database Theory (ICDT) 
+ Event  
+ ICDT 2023, March 28-31, 2023, Ioannina, Greece   
+ Editors  
+ Floris Geerts          
+ Publication Details  
+ published at: 2023-03-17 
+  Publisher: Schloss Dagstuhl – Leibniz-Zentrum für Informatik 
+  DBLP: | db/conf/icdt/icdt2023 
+  Access Numbers  
+ Authors:  Nadime Francis, Amélie Gheerbrant, Paolo Guagliardo, Leonid Libkin, Victor Marsault, Wim Martens, Filip Murlak, Liat Peterfreund, Alexandra Rogova, and Domagoj Vrgoč  
+  Abstract    
+ GQL (Graph Query Language) is being developed as a new ISO standard for graph query languages to play the same role for graph databases as SQL plays for relational. In parallel, an extension of SQL for querying property graphs, SQL/PGQ, is added to the SQL standard; it shares the graph pattern matching functionality with GQL. Both standards (not yet published) are hard-to-understand specifications of hundreds of pages. The goal of this paper is to present a digest of the language that is easy for the research community to understand, and thus to initiate research on these future standards for querying graphs. The paper concentrates on pattern matching features shared by GQL and SQL/PGQ, as well as querying facilities of GQL.   
+  Cite as    
+ Authors:  C. Seshadhri  
+  Abstract    
+ Subgraph counting is a fundamental problem that spans many areas in computer science: database theory, logic, network science, data mining, and complexity theory. Given a large input graph G and a small pattern graph H, we wish to count the number of occurrences of H in G. In recent times, there has been a resurgence on using an old (maybe overlooked?) technique of orienting the edges of G and H, and then using a combination of brute-force enumeration and indexing. These orientation techniques appear to give the best of both worlds. There is a rigorous theoretical explanation behind these techniques, and they also have excellent empirical behavior (on large real-world graphs). Time and again, graph orientations help solve subgraph counting problems in various computational models, be it sampling, streaming, distributed, etc. In this paper, we give some short vignettes on how the orientation technique solves a variety of algorithmic problems.   
+  Cite as    
+ Authors:  Pavel Raykov  
+  Abstract    
+ Assume there is a data stream of elements and a window of size m. Sliding window algorithms compute various statistic functions over the last m elements of the data stream seen so far. The time complexity of a sliding window algorithm is measured as the time required to output an updated statistic function value every time a new element is read. For example, it is well known that computing the sliding window maximum/minimum has time complexity O(1) while computing the sliding window median has time complexity O(log m). In this paper we close the gap between these two cases by (1) presenting an algorithm for computing the sliding window k-th smallest element in O(log k) time and (2) prove that this time complexity is optimal.   
+  Cite as    
+ Authors:  Shiyuan Deng, Shangqi Lu, and Yufei Tao  
+  Abstract    
+ This paper initializes the study of range subgraph counting and range subgraph listing, both of which are motivated by the significant demands in practice to perform graph analytics on subgraphs pertinent to only selected, as opposed to all, vertices. In the first problem, there is an undirected graph G where each vertex carries a real-valued attribute. Given an interval q and a pattern Q, a query counts the number of occurrences of Q in the subgraph of G induced by the vertices whose attributes fall in q. The second problem has the same setup except that a query needs to enumerate (rather than count) those occurrences with a small delay. In both problems, our goal is to understand the tradeoff between space usage and query cost, or more specifically: (i) given a target on query efficiency, how much pre-computed information about G must we store? (ii) Or conversely, given a budget on space usage, what is the best query time we can hope for? We establish a suite of upper- and lower-bound results on such tradeoffs for various query patterns.   
+  Cite as    
+ Authors:  Kyle Deeds, Dan Suciu, Magda Balazinska, and Walter Cai  
+  Abstract    
+ Recent work has demonstrated the catastrophic effects of poor cardinality estimates on query processing time. In particular, underestimating query cardinality can result in overly optimistic query plans which take orders of magnitude longer to complete than one generated with the true cardinality. Cardinality bounding avoids this pitfall by computing an upper bound on the query’s output size using statistics about the database such as table sizes and degrees, i.e. value frequencies. In this paper, we extend this line of work by proving a novel bound called the Degree Sequence Bound which takes into account the full degree sequences and the max tuple multiplicity. This work focuses on the important class of Berge-Acyclic queries for which the Degree Sequence Bound is tight. Further, we describe how to practically compute this bound using a functional approximation of the true degree sequences and prove that even this functional form improves upon previous bounds.   
+  Cite as    
+ Authors:  Timo Camillo Merkl, Reinhard Pichler, and Sebastian Skritek  
+  Abstract    
+ Enumeration problems aim at outputting, without repetition, the set of solutions to a given problem instance. However, outputting the entire solution set may be prohibitively expensive if it is too big. In this case, outputting a small, sufficiently diverse subset of the solutions would be preferable. This leads to the Diverse-version of the original enumeration problem, where the goal is to achieve a certain level d of diversity by selecting k solutions. In this paper, we look at the Diverse-version of the query answering problem for Conjunctive Queries and extensions thereof. That is, we study the problem if it is possible to achieve a certain level d of diversity by selecting k answers to the given query and, in the positive case, to actually compute such k answers.   
+  Cite as    
+ Authors:  Sepehr Assadi, Nirmit Joshi, Milind Prabhu, and Vihan Shah  
+  Abstract    
+ Estimating quantiles, like the median or percentiles, is a fundamental task in data mining and data science. A (streaming) quantile summary is a data structure that can process a set S of n elements in a streaming fashion and at the end, for any ϕ ∈ (0,1], return a ϕ-quantile of S up to an ε error, i.e., return a ϕ'-quantile with ϕ' = ϕ ± ε. We are particularly interested in comparison-based summaries that only compare elements of the universe under a total ordering and are otherwise completely oblivious of the universe. The best known deterministic quantile summary is the 20-year old Greenwald-Khanna (GK) summary that uses O((1/ε) log{(ε n)}) space [SIGMOD'01]. This bound was recently proved to be optimal for all deterministic comparison-based summaries by Cormode and Vesleý [PODS'20]. In this paper, we study weighted quantiles, a generalization of the quantiles problem, where each element arrives with a positive integer weight which denotes the number of copies of that element being inserted. The only known method of handling weighted inputs via GK summaries is the naive approach of breaking each weighted element into multiple unweighted items, and feeding them one by one to the summary, which results in a prohibitively large update time (proportional to the maximum weight of input elements). We give the first non-trivial extension of GK summaries for weighted inputs and show that it takes O((1/ε) log(εn)) space and O(log(1/ε)+log log(εn)) update time per element to process a stream of length n (under some quite mild assumptions on the range of weights and ε). En route to this, we also simplify the original GK summaries for unweighted quantiles.   
+  Cite as    
+ Authors:  Amir Gilad, Aviram Imber, and Benny Kimelfeld  
+  Abstract    
+ A probabilistic database with attribute-level uncertainty consists of relations where cells of some attributes may hold probability distributions rather than deterministic content. Such databases arise, implicitly or explicitly, in the context of noisy operations such as missing data imputation, where we automatically fill in missing values, column prediction, where we predict unknown attributes, and database cleaning (and repairing), where we replace the original values due to detected errors or violation of integrity constraints. We study the computational complexity of problems that regard the selection of cell values in the presence of integrity constraints. More precisely, we focus on functional dependencies and study three problems: (1) deciding whether the constraints can be satisfied by any choice of values, (2) finding a most probable such choice, and (3) calculating the probability of satisfying the constraints. The data complexity of these problems is determined by the combination of the set of functional dependencies and the collection of uncertain attributes. We give full classifications into tractable and intractable complexities for several classes of constraints, including a single dependency, matching constraints, and unary functional dependencies.   
+  Cite as    
+  TGDK – Transactions on Graph Data and Knowledge 
+ © 2023-2024 Schloss Dagstuhl – LZI GmbH  Imprint  Privacy  Contact

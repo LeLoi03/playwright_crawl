@@ -1,0 +1,3050 @@
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    
+
+
+<div x-data="{ scrollAtTop: false, openSlideOver: false, searchBarOpen: false, shiftPressed: false }" x-title="ScrollAtTop, Slide-over menu, Search bar, Shift press">
+  <header id="header" role="banner" class="fixed z-50 w-full transition-all duration-150 ease-out transform" x-ref="navbar" x-title="Navbar" :class="{ ' translate-y-0' : !scrollAtTop, '' : scrollAtTop, '' : scrollAtTop, 'shadow-md' : scrollAtTop }" @scroll.window="scrollAtTop = pageYOffset > 50 ? true : false">
+        
+        
+              <div id="navbar" class="relative origin-top shadow h-20">
+  <div id="navbar_top" class="bg-white">
+        <div class="container h-full">
+      <div class="flex justify-between h-20 max-w-6xl mx-auto space-x-6 2xl__max-w-full">
+          <div id="block-catalyze-tw-site-branding" class="block block-system block-system-branding-block block--brand max-w-md h-full bg-white">
+  
+  
+    <div class="h-full">
+      <a href="/" title="Home" rel="home" class="flex items-center h-full py-2 brand--logo">
+                  <img class="w-auto h-full max-h-full" src="/files/isif/ISIF-w-text-v1.png" alt="Home">
+              </a>
+          </div>
+</div>
+<nav role="navigation" id="block-mainmegamenu" class="block--mega-menu--main static h-full hidden lg__flex justify-end w-full bg-wavy-banner-edge-left">
+        
+  <ul class="menu menu-- menu-level-0 nav navbar-nav flex h-full" role="list">
+                              <li class="menu-item-About mega-menu--item hover__bg-white hover__text-gray-500 focus__bg-white focus__text-gray-500 transition-colors duration-150 ease-in-out" x-data="{ megamenuOpen: false, menuLinkTitle: '' } " x-title="Mega Menu - About" x-description="Show/hide Mega Menu based on megamenuOpen state." :aria-expanded="megamenuOpen" aria-level="1" role="listitem">
+          
+                      <button class="flex items-center float-left h-full px-3 mb-0 font-bold text-center focus__outline-none leading-none" data-toggle="dropdown" :aria-expanded="megamenuOpen" @click="megamenuOpen = true">About</button>
+          
+                    <div class="absolute left-0 right-0 z-50 text-left transition-all duration-300 ease-in-out bg-white shadow-xl top-full mega-menu sm__mb-0 mega-menu--wrapper bg-gradient-to-b from-gray-100" x-show="megamenuOpen" @click.away="megamenuOpen = false" @keydown.escape="onEscape" x-transition:enter="transition ease-out duration-200" x-transition:enter-start="opacity-100 -translate-y-1" x-transition:enter-end="opacity-100 translate-y-0" x-transition:leave="transition ease-in duration-150" x-transition:leave-start="opacity-100 translate-y-0" x-transition:leave-end="opacity-0 -translate-y-1" x-description="Megamenu, show/hide based on megamenuOpen state." x-cloak="">
+                      <div class="container flex flex-wrap justify-between w-full mx-auto text-black mega-menu--top" x-show="megamenuOpen" x-description="Show/hide Mega Menu top based on megamenuOpen state." @click="megamenuOpen = false" x-cloak="">
+              
+  
+  <div class="menu_link_content menu-link-contentmain-mega view-mode-default menu-dropdown w-full menu-dropdown-0 menu-type-default">
+              
+
+<div class="lbl-col-separator _none pt-0 lg__pt-0 pb-0 lg__pb-0 relative py-6 lg__py-12"><div class="absolute top-0 flex w-full h-full container--header--bg min-h-40 Xmax-h-44"></div><div class="w-100 relative">
+
+
+  <div class="layout row layout-builder__layout">
+    
+                        <div class="col-12 sm__col-12 md__col-12 lg__col-4 xl__col-4 2xl__col-4 blb-region-col">
+          <div class="_none block block-menu-block block-menu-blockmain">
+  <nav role="navigation" class="_none block block-menu-block block-menu-blockmain">
+              
+              <ul class="my-6">
+            
+
+      <li class="nav-item nav-item expanded nav-item nav-item expanded nav-item has-sub-menu nav-item">
+
+                  <div class="flex items-center">
+            <span class="heading--nav--second-level menu-item-link relative inline-flex no-underline hover__text-black no-underline">About ISIF</span>
+            <div class="flex-grow h-px ml-6 border-separator-light"></div>
+          </div>
+                                        <ul class="space-y-2">
+            
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/about/vision-mission" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/370">Vision and Mission</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/about/constitution" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/455">Constitution</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/about/past-presidents" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/717">Past Presidents</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/about/past-fusion-general-chair" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/873">Past FUSION General Chairs</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/about/past-eic" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/874">Past JAIF and Perspectives EiCs</a>
+                      </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+      </nav>
+</div>
+
+                                <div class="absolute top-0 bottom-0 right-0 z-0 w-px separator"></div>
+                  </div>
+                              <div class="col-12 sm__col-12 md__col-12 lg__col-4 xl__col-4 2xl__col-4 blb-region-col">
+          <div class="_none block block-menu-block block-menu-blockmain">
+  <nav role="navigation" class="_none block block-menu-block block-menu-blockmain">
+              
+              <ul class="my-6">
+            
+
+      <li class="nav-item nav-item expanded nav-item nav-item expanded nav-item has-sub-menu nav-item">
+
+                  <div class="flex items-center">
+            <span class="heading--nav--second-level menu-item-link relative inline-flex no-underline hover__text-black no-underline">Organization</span>
+            <div class="flex-grow h-px ml-6 border-separator-light"></div>
+          </div>
+                                        <ul class="space-y-2">
+            
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/about/organization/board-directors" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/460">Board of Directors</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/about/working-groups/isif-working-groups" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/461">Working Groups</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/form/contact-us" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="webform/contact_us">Contact Us</a>
+                      </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+      </nav>
+</div>
+
+                                <div class="absolute top-0 bottom-0 right-0 z-0 w-px separator"></div>
+                  </div>
+                              <div class="col-12 sm__col-12 md__col-12 lg__col-4 xl__col-4 2xl__col-4 blb-region-col">
+          
+                                <div class="absolute top-0 bottom-0 right-0 z-0 w-px separator"></div>
+                  </div>
+                                                                                                                                                              
+  </div>
+
+</div>
+</div>
+
+      </div>
+
+
+
+            </div>
+                        <div class="bg-primary-500 mega-menu--bottom bg-liquid-cheese">
+              <div class="container px-6 py-3">
+                <span class="block mb-0 font-semibold text-white min-h-6 menu-item-title-attr" x-text="menuLinkTitle"></span>
+              </div>
+            </div>
+          </div>
+        </li>
+                                      <li class="menu-item-Awards mega-menu--item hover__bg-white hover__text-gray-500 focus__bg-white focus__text-gray-500 transition-colors duration-150 ease-in-out" x-data="{ megamenuOpen: false, menuLinkTitle: '' } " x-title="Mega Menu - Awards" x-description="Show/hide Mega Menu based on megamenuOpen state." :aria-expanded="megamenuOpen" aria-level="1" role="listitem">
+          
+                      <button class="flex items-center float-left h-full px-3 mb-0 font-bold text-center focus__outline-none leading-none" data-toggle="dropdown" :aria-expanded="megamenuOpen" @click="megamenuOpen = true">Awards</button>
+          
+                    <div class="absolute left-0 right-0 z-50 text-left transition-all duration-300 ease-in-out bg-white shadow-xl top-full mega-menu sm__mb-0 mega-menu--wrapper bg-gradient-to-b from-gray-100" x-show="megamenuOpen" @click.away="megamenuOpen = false" @keydown.escape="onEscape" x-transition:enter="transition ease-out duration-200" x-transition:enter-start="opacity-100 -translate-y-1" x-transition:enter-end="opacity-100 translate-y-0" x-transition:leave="transition ease-in duration-150" x-transition:leave-start="opacity-100 translate-y-0" x-transition:leave-end="opacity-0 -translate-y-1" x-description="Megamenu, show/hide based on megamenuOpen state." x-cloak="">
+                      <div class="container flex flex-wrap justify-between w-full mx-auto text-black mega-menu--top" x-show="megamenuOpen" x-description="Show/hide Mega Menu top based on megamenuOpen state." @click="megamenuOpen = false" x-cloak="">
+              
+  
+  <div class="menu_link_content menu-link-contentmain-mega view-mode-default menu-dropdown w-full menu-dropdown-0 menu-type-default">
+              
+
+<div class="lbl-col-separator _none pt-0 lg__pt-0 pb-0 lg__pb-0 relative py-6 lg__py-12"><div class="absolute top-0 flex w-full h-full container--header--bg min-h-40 Xmax-h-44"></div><div class="w-100 relative">
+
+
+  <div class="layout row layout-builder__layout">
+    
+                        <div class="col-12 sm__col-12 md__col-12 lg__col-4 xl__col-4 2xl__col-4 blb-region-col">
+          <div class="_none block block-menu-block block-menu-blockmain">
+  <nav role="navigation" class="_none block block-menu-block block-menu-blockmain">
+              
+              <ul class="my-6">
+            
+
+      <li class="nav-item nav-item expanded nav-item nav-item expanded nav-item has-sub-menu nav-item">
+
+                  <div class="flex items-center">
+            <span class="heading--nav--second-level menu-item-link relative inline-flex no-underline hover__text-black no-underline">Society Awards</span>
+            <div class="flex-grow h-px ml-6 border-separator-light"></div>
+          </div>
+                                        <ul class="space-y-2">
+            
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/award/about-awards" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/381">About Awards</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/awards/yaakov-bar-shalom-award-lifetime-excellence-information-fusion#recipients" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/376">ISIF Yaakov Bar-Shalom Award for a Lifetime of Excellence in Information Fusion</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/award/about-awards/robert-lynch-award-distinguished-service" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/379">ISIF Robert Lynch Award for Distinguished Service</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/awards/young-investigator-award#recipients" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/380">ISIF Young Investigator Award</a>
+                      </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+      </nav>
+</div>
+
+                                <div class="absolute top-0 bottom-0 right-0 z-0 w-px separator"></div>
+                  </div>
+                              <div class="col-12 sm__col-12 md__col-12 lg__col-4 xl__col-4 2xl__col-4 blb-region-col">
+          <div class="_none block block-menu-block block-menu-blockmain">
+  <nav role="navigation" class="_none block block-menu-block block-menu-blockmain">
+              
+              <ul class="my-6">
+            
+
+      <li class="nav-item nav-item expanded nav-item nav-item expanded nav-item has-sub-menu nav-item">
+
+                  <div class="flex items-center">
+            <span class="heading--nav--second-level menu-item-link relative inline-flex no-underline hover__text-black no-underline">Conference Awards</span>
+            <div class="flex-grow h-px ml-6 border-separator-light"></div>
+          </div>
+                                        <ul class="space-y-2">
+            
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/awards/jean-pierre-le-cadre-award#recipients" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/377">Jean-Pierre Le Cadre Award</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/awards/tammy-l-blair-best-student-paper-award#recipients" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/378">Tammy L. Blair Best Student Paper Award</a>
+                      </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+      </nav>
+</div>
+
+                                <div class="absolute top-0 bottom-0 right-0 z-0 w-px separator"></div>
+                  </div>
+                              <div class="col-12 sm__col-12 md__col-12 lg__col-4 xl__col-4 2xl__col-4 blb-region-col">
+          
+                                <div class="absolute top-0 bottom-0 right-0 z-0 w-px separator"></div>
+                  </div>
+                                                                                                                                                              
+  </div>
+
+</div>
+</div>
+
+      </div>
+
+
+
+            </div>
+                        <div class="bg-primary-500 mega-menu--bottom bg-liquid-cheese">
+              <div class="container px-6 py-3">
+                <span class="block mb-0 font-semibold text-white min-h-6 menu-item-title-attr" x-text="menuLinkTitle"></span>
+              </div>
+            </div>
+          </div>
+        </li>
+                                      <li class="menu-item-Conferences mega-menu--item hover__bg-white hover__text-gray-500 focus__bg-white focus__text-gray-500 transition-colors duration-150 ease-in-out" x-data="{ megamenuOpen: false, menuLinkTitle: '' } " x-title="Mega Menu - Conferences" x-description="Show/hide Mega Menu based on megamenuOpen state." :aria-expanded="megamenuOpen" aria-level="1" role="listitem">
+          
+                      <button class="flex items-center float-left h-full px-3 mb-0 font-bold text-center focus__outline-none leading-none" data-toggle="dropdown" :aria-expanded="megamenuOpen" @click="megamenuOpen = true">Conferences</button>
+          
+                    <div class="absolute left-0 right-0 z-50 text-left transition-all duration-300 ease-in-out bg-white shadow-xl top-full mega-menu sm__mb-0 mega-menu--wrapper bg-gradient-to-b from-gray-100" x-show="megamenuOpen" @click.away="megamenuOpen = false" @keydown.escape="onEscape" x-transition:enter="transition ease-out duration-200" x-transition:enter-start="opacity-100 -translate-y-1" x-transition:enter-end="opacity-100 translate-y-0" x-transition:leave="transition ease-in duration-150" x-transition:leave-start="opacity-100 translate-y-0" x-transition:leave-end="opacity-0 -translate-y-1" x-description="Megamenu, show/hide based on megamenuOpen state." x-cloak="">
+                      <div class="container flex flex-wrap justify-between w-full mx-auto text-black mega-menu--top" x-show="megamenuOpen" x-description="Show/hide Mega Menu top based on megamenuOpen state." @click="megamenuOpen = false" x-cloak="">
+              
+  
+  <div class="menu_link_content menu-link-contentmain-mega view-mode-default menu-dropdown w-full menu-dropdown-0 menu-type-default">
+              
+
+<div class="lbl-col-separator _none pt-0 lg__pt-0 pb-0 lg__pb-0 relative py-6 lg__py-12"><div class="absolute top-0 flex w-full h-full container--header--bg min-h-40 Xmax-h-44"></div><div class="w-100 relative">
+
+
+  <div class="layout row layout-builder__layout">
+    
+                        <div class="col-12 sm__col-12 md__col-12 lg__col-4 xl__col-4 2xl__col-4 blb-region-col">
+          <div class="_none block block-menu-block block-menu-blockmain">
+  <nav role="navigation" class="_none block block-menu-block block-menu-blockmain">
+              
+              <ul class="my-6">
+            
+
+      <li class="nav-item nav-item expanded nav-item nav-item expanded nav-item has-sub-menu nav-item">
+
+                  <div class="flex items-center">
+            <span class="heading--nav--second-level menu-item-link relative inline-flex no-underline hover__text-black no-underline">About Conferences</span>
+            <div class="flex-grow h-px ml-6 border-separator-light"></div>
+          </div>
+                                        <ul class="space-y-2">
+            
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/event/about-conferences" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/385">About Conferences</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/event/about-conferences#upcoming" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/385">Upcoming Conferences</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/event/about-conferences#past" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/385">Past Conferences</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/event/about-conferences/fusion-5k-race" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/463">FUSION 5K Race</a>
+                      </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+      </nav>
+</div>
+
+                                <div class="absolute top-0 bottom-0 right-0 z-0 w-px separator"></div>
+                  </div>
+                              <div class="col-12 sm__col-12 md__col-12 lg__col-4 xl__col-4 2xl__col-4 blb-region-col">
+          
+                                <div class="absolute top-0 bottom-0 right-0 z-0 w-px separator"></div>
+                  </div>
+                              <div class="col-12 sm__col-12 md__col-12 lg__col-4 xl__col-4 2xl__col-4 blb-region-col">
+          
+                                <div class="absolute top-0 bottom-0 right-0 z-0 w-px separator"></div>
+                  </div>
+                                                                                                                                                              
+  </div>
+
+</div>
+</div>
+
+      </div>
+
+
+
+            </div>
+                        <div class="bg-primary-500 mega-menu--bottom bg-liquid-cheese">
+              <div class="container px-6 py-3">
+                <span class="block mb-0 font-semibold text-white min-h-6 menu-item-title-attr" x-text="menuLinkTitle"></span>
+              </div>
+            </div>
+          </div>
+        </li>
+                                      <li class="menu-item-Membership mega-menu--item hover__bg-white hover__text-gray-500 focus__bg-white focus__text-gray-500 transition-colors duration-150 ease-in-out" x-data="{ megamenuOpen: false, menuLinkTitle: '' } " x-title="Mega Menu - Membership" x-description="Show/hide Mega Menu based on megamenuOpen state." :aria-expanded="megamenuOpen" aria-level="1" role="listitem">
+          
+                      <button class="flex items-center float-left h-full px-3 mb-0 font-bold text-center focus__outline-none leading-none" data-toggle="dropdown" :aria-expanded="megamenuOpen" @click="megamenuOpen = true">Membership</button>
+          
+                    <div class="absolute left-0 right-0 z-50 text-left transition-all duration-300 ease-in-out bg-white shadow-xl top-full mega-menu sm__mb-0 mega-menu--wrapper bg-gradient-to-b from-gray-100" x-show="megamenuOpen" @click.away="megamenuOpen = false" @keydown.escape="onEscape" x-transition:enter="transition ease-out duration-200" x-transition:enter-start="opacity-100 -translate-y-1" x-transition:enter-end="opacity-100 translate-y-0" x-transition:leave="transition ease-in duration-150" x-transition:leave-start="opacity-100 translate-y-0" x-transition:leave-end="opacity-0 -translate-y-1" x-description="Megamenu, show/hide based on megamenuOpen state." x-cloak="">
+                      <div class="container flex flex-wrap justify-between w-full mx-auto text-black mega-menu--top" x-show="megamenuOpen" x-description="Show/hide Mega Menu top based on megamenuOpen state." @click="megamenuOpen = false" x-cloak="">
+              
+  
+  <div class="menu_link_content menu-link-contentmain-mega view-mode-default menu-dropdown w-full menu-dropdown-0 menu-type-default">
+              
+
+<div class="lbl-col-separator _none pt-0 lg__pt-0 pb-0 lg__pb-0 relative py-6 lg__py-12"><div class="absolute top-0 flex w-full h-full container--header--bg min-h-40 Xmax-h-44"></div><div class="w-100 relative">
+
+
+  <div class="layout row layout-builder__layout">
+    
+                        <div class="col-12 sm__col-12 md__col-12 lg__col-4 xl__col-4 2xl__col-4 blb-region-col">
+          <div class="_none block block-menu-block block-menu-blockmain">
+  <nav role="navigation" class="_none block block-menu-block block-menu-blockmain">
+              
+              <ul class="my-6">
+            
+
+      <li class="nav-item nav-item expanded nav-item nav-item expanded nav-item has-sub-menu nav-item">
+
+                  <div class="flex items-center">
+            <span class="heading--nav--second-level menu-item-link relative inline-flex no-underline hover__text-black no-underline">ISIF Membership</span>
+            <div class="flex-grow h-px ml-6 border-separator-light"></div>
+          </div>
+                                        <ul class="space-y-2">
+            
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/membership/membership-information" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/453">About Membership</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="https://isoif.wildapricot.org/join-us" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" rel="noreferrer">Membership Application</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="https://isoif.wildapricot.org/join-us" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" rel="noreferrer">Membership Renewal</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/membership/memoriam" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/452">In Memoriam</a>
+                      </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+      </nav>
+</div>
+
+                                <div class="absolute top-0 bottom-0 right-0 z-0 w-px separator"></div>
+                  </div>
+                              <div class="col-12 sm__col-12 md__col-12 lg__col-4 xl__col-4 2xl__col-4 blb-region-col">
+          
+                                <div class="absolute top-0 bottom-0 right-0 z-0 w-px separator"></div>
+                  </div>
+                              <div class="col-12 sm__col-12 md__col-12 lg__col-4 xl__col-4 2xl__col-4 blb-region-col">
+          
+                                <div class="absolute top-0 bottom-0 right-0 z-0 w-px separator"></div>
+                  </div>
+                                                                                                                                                              
+  </div>
+
+</div>
+</div>
+
+      </div>
+
+
+
+            </div>
+                        <div class="bg-primary-500 mega-menu--bottom bg-liquid-cheese">
+              <div class="container px-6 py-3">
+                <span class="block mb-0 font-semibold text-white min-h-6 menu-item-title-attr" x-text="menuLinkTitle"></span>
+              </div>
+            </div>
+          </div>
+        </li>
+                                      <li class="menu-item-Publications mega-menu--item hover__bg-white hover__text-gray-500 focus__bg-white focus__text-gray-500 transition-colors duration-150 ease-in-out" x-data="{ megamenuOpen: false, menuLinkTitle: '' } " x-title="Mega Menu - Publications" x-description="Show/hide Mega Menu based on megamenuOpen state." :aria-expanded="megamenuOpen" aria-level="1" role="listitem">
+          
+                      <button class="flex items-center float-left h-full px-3 mb-0 font-bold text-center focus__outline-none leading-none" data-toggle="dropdown" :aria-expanded="megamenuOpen" @click="megamenuOpen = true">Publications</button>
+          
+                    <div class="absolute left-0 right-0 z-50 text-left transition-all duration-300 ease-in-out bg-white shadow-xl top-full mega-menu sm__mb-0 mega-menu--wrapper bg-gradient-to-b from-gray-100" x-show="megamenuOpen" @click.away="megamenuOpen = false" @keydown.escape="onEscape" x-transition:enter="transition ease-out duration-200" x-transition:enter-start="opacity-100 -translate-y-1" x-transition:enter-end="opacity-100 translate-y-0" x-transition:leave="transition ease-in duration-150" x-transition:leave-start="opacity-100 translate-y-0" x-transition:leave-end="opacity-0 -translate-y-1" x-description="Megamenu, show/hide based on megamenuOpen state." x-cloak="">
+                      <div class="container flex flex-wrap justify-between w-full mx-auto text-black mega-menu--top" x-show="megamenuOpen" x-description="Show/hide Mega Menu top based on megamenuOpen state." @click="megamenuOpen = false" x-cloak="">
+              
+  
+  <div class="menu_link_content menu-link-contentmain-mega view-mode-default menu-dropdown w-full menu-dropdown-0 menu-type-default">
+              
+
+<div class="lbl-col-separator _none pt-0 lg__pt-0 pb-0 lg__pb-0 relative py-6 lg__py-12"><div class="absolute top-0 flex w-full h-full container--header--bg min-h-40 Xmax-h-44"></div><div class="w-100 relative">
+
+
+  <div class="layout row layout-builder__layout">
+    
+                        <div class="col-12 sm__col-12 md__col-12 lg__col-4 xl__col-4 2xl__col-4 blb-region-col">
+          <div class="_none block block-menu-block block-menu-blockmain">
+  <nav role="navigation" class="_none block block-menu-block block-menu-blockmain">
+              
+              <ul class="my-6">
+            
+
+      <li class="nav-item nav-item expanded nav-item nav-item expanded nav-item has-sub-menu nav-item">
+
+                  <div class="flex items-center">
+            <span class="heading--nav--second-level menu-item-link relative inline-flex no-underline hover__text-black no-underline">About Publications</span>
+            <div class="flex-grow h-px ml-6 border-separator-light"></div>
+          </div>
+                                        <ul class="space-y-2">
+            
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/publications" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/446">Publications Overview</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/event/about-conferences#proceed" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/385">Conference Proceedings</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/publications/fusion-related" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/467">Fusion Related Publications</a>
+                      </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+      </nav>
+</div>
+<div class="_none block block-menu-block block-menu-blockmain">
+  <nav role="navigation" class="_none block block-menu-block block-menu-blockmain">
+              
+              <ul class="my-6">
+            
+
+      <li class="nav-item nav-item expanded nav-item nav-item expanded nav-item has-sub-menu nav-item">
+
+                  <div class="flex items-center">
+            <span class="heading--nav--second-level menu-item-link relative inline-flex no-underline hover__text-black no-underline">Editorial Boards</span>
+            <div class="flex-grow h-px ml-6 border-separator-light"></div>
+          </div>
+                                        <ul class="space-y-2">
+            
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/publications/jaif-editorial-board" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/490">JAIF Editorial Board</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/committee/perspectives-editorial-board" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/500">Perspectives Editorial Board</a>
+                      </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+      </nav>
+</div>
+<div class="_none block block-menu-block block-menu-blockmain">
+  <nav role="navigation" class="_none block block-menu-block block-menu-blockmain">
+              
+              <ul class="my-6">
+            
+
+      <li class="nav-item nav-item expanded nav-item nav-item expanded nav-item has-sub-menu nav-item">
+
+                  <div class="flex items-center">
+            <span class="heading--nav--second-level menu-item-link relative inline-flex no-underline hover__text-black no-underline">Copyright</span>
+            <div class="flex-grow h-px ml-6 border-separator-light"></div>
+          </div>
+                                        <ul class="space-y-2">
+            
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/files/isif/2024-01/JAIFCopyrightForm.pdf" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;">JAIF Copyright Form</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/files/isif/2024-01/PerspectivesCopyrightForm.pdf" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;">Perspectives Copyright Form</a>
+                      </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+      </nav>
+</div>
+
+                                <div class="absolute top-0 bottom-0 right-0 z-0 w-px separator"></div>
+                  </div>
+                              <div class="col-12 sm__col-12 md__col-12 lg__col-4 xl__col-4 2xl__col-4 blb-region-col">
+          <div class="_none block block-menu-block block-menu-blockmain">
+  <nav role="navigation" class="_none block block-menu-block block-menu-blockmain">
+              
+              <ul class="my-6">
+            
+
+      <li class="nav-item nav-item expanded nav-item nav-item expanded nav-item has-sub-menu nav-item">
+
+                  <div class="flex items-center">
+            <span class="heading--nav--second-level menu-item-link relative inline-flex no-underline hover__text-black no-underline">Journal of Advances in Information Fusion (JAIF)</span>
+            <div class="flex-grow h-px ml-6 border-separator-light"></div>
+          </div>
+                                        <ul class="space-y-2">
+            
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/publication/jaif" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/447">JAIF Overview</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/publication/jaif/issues" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/449">JAIF Issues</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/files/isif/2024-01/JAIFmanual1311_final.pdf" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;">JAIF Editorial Policies and Operations Manual</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/publications/manuscript-preparation" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/501">JAIF Manuscript Preparation and Submission</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/publication/jaif/index" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/451">JAIF Volume Index</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/publication/jaif#documents" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/447">JAIF Special Issue - Call for Papers</a>
+                      </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+      </nav>
+</div>
+
+                                <div class="absolute top-0 bottom-0 right-0 z-0 w-px separator"></div>
+                  </div>
+                              <div class="col-12 sm__col-12 md__col-12 lg__col-4 xl__col-4 2xl__col-4 blb-region-col">
+          <div class="_none block block-menu-block block-menu-blockmain">
+  <nav role="navigation" class="_none block block-menu-block block-menu-blockmain">
+              
+              <ul class="my-6">
+            
+
+      <li class="nav-item nav-item expanded nav-item nav-item expanded nav-item has-sub-menu nav-item">
+
+                  <div class="flex items-center">
+            <span class="heading--nav--second-level menu-item-link relative inline-flex no-underline hover__text-black no-underline">ISIF Perspectives on Information Fusion (Perspectives)</span>
+            <div class="flex-grow h-px ml-6 border-separator-light"></div>
+          </div>
+                                        <ul class="space-y-2">
+            
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/publication/perspectives" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/448">Perspectives Overview</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/publication/perspectives/issues" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/882">Perspectives Issues</a>
+                      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-00">
+
+                    <a href="/publications/perspectives-manuscript-preparation" class="menu-item-link relative inline-flex text-sm no-underline hover__text-black no-underline link-underline" x-on:mouseover="menuLinkTitle = $event.target.title" x-on:mouseleave="menuLinkTitle = &quot;&quot;" data-drupal-link-system-path="node/502">Perspectives Manuscript Preparation and Submission</a>
+                      </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+      </nav>
+</div>
+
+                                <div class="absolute top-0 bottom-0 right-0 z-0 w-px separator"></div>
+                  </div>
+                                                                                                                                                              
+  </div>
+
+</div>
+</div>
+
+      </div>
+
+
+
+            </div>
+                        <div class="bg-primary-500 mega-menu--bottom bg-liquid-cheese">
+              <div class="container px-6 py-3">
+                <span class="block mb-0 font-semibold text-white min-h-6 menu-item-title-attr" x-text="menuLinkTitle"></span>
+              </div>
+            </div>
+          </div>
+        </li>
+              </ul>
+
+
+
+  </nav>
+
+
+        <div class="flex justify-end h-full space-x-6 nav--action">
+          <button type="button" class="inline-flex items-center justify-center flex-shrink-0 h-full transition-all duration-300 cursor-pointer opacity-85 hover__bg-gray-50 hover__opacity-100 focus__outline-none" @click="searchBarOpen = true; if (open) $nextTick(()=>{});" @keydown.window.prevent.escape="searchBarOpen = false;" aria-label="Search">
+            <span class="hidden mr-3 font-bold leading-none truncate lg__block">Search</span>
+            <i class="far fa-regular fa-search fa-fw fa-lg"></i>
+          </button>
+          <button type="button" class="block h-full mb-0 transition-colors duration-150 ease-in-out lg__hidden focus__outline-none hover__text-gray-500 focus__text-gray-500" @click="openSlideOver = true" @keyup.window.prevent.ctrl.m="openSlideOver = true; if (open) $nextTick(()=>{$refs.slideOverBody.focus()});" @keydown.window.prevent.escape="openSlideOver = false;" aria-label="Menu">
+            <i class="fa-regular fa-bars fa-lg"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="navbar-content" class="bg-primary-500">
+    <div class="h-full">
+              <nav id="navbar" class="relative flex justify-between z-80 mt-10 sm__mt-0">
+        <div class="relative inset-0 bg-primary-500 w-full" x-show="searchBarOpen" @click.outside="searchBarOpen = false" x-transition:enter="transition-opacity ease-out duration-500" x-transition:enter-start="opacity-0 transform scale-90" x-transition:enter-end="opacity-100 transform scale-100" x-transition:leave="transition-opacity ease-in duration-150" x-transition:leave-start="opacity-100 transform scale-100" x-transition:leave-end="opacity-0 transform scale-90" x-cloak="">
+      <div class="views-exposed-form block block-views block-views-exposed-filter-blockcc-content-search-page-search" data-drupal-selector="views-exposed-form-cc-content-search-page-search">
+  
+    
+      <form action="/search" method="get" id="views-exposed-form-cc-content-search-page-search" accept-charset="UTF-8" class="flex mb-8 gap-3 space-y-2 flex-wrap items-end">
+  <div class="js-form-item form-item js-form-type-search-api-autocomplete form-item-keys js-form-item-keys form-no-label w-full">
+        <input data-drupal-selector="edit-keys" data-search-api-autocomplete-search="cc_content_search" class="form-autocomplete form-text form-input bg-white bg-opacity-10 focus__outline-none focus__shadow-none leading-tight appearance-none block text-white text-xl border-0 p-6 mb-0 transition ease-in-out duration-150 w-full max-w-prose mx-auto rounded-none placeholder-white placeholder-opacity-75" data-autocomplete-path="/search_api_autocomplete/cc_content_search?display=page_search&amp;&amp;filter=keys" type="search" id="edit-keys" name="keys" value="" size="30" maxlength="128" placeholder="Search by word or phrase..." autofocus="" x-ref="searchBar">
+
+        </div>
+
+
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper flex justify-center gap-3 mt-2" id="edit-actions">
+
+  
+<input data-drupal-selector="edit-submit-cc-content-search" type="submit" id="edit-submit-cc-content-search" value="Search" class="button js-form-submit form-submit btn-primary hidden hover__bg-primary-500 hover__text-white">
+</div>
+
+
+</form>
+
+  </div>
+
+    </div>
+  </nav>
+    </div>
+  </div>
+
+
+  <div id="navbar_bottom" class="hidden bg-gray-900 Xbg-opacity-100 Xbg-primary-500 xl__block">
+    <div class="container flex h-full 2xl__justify-center">
+                </div>
+  </div>
+
+</div>
+    
+  </header>
+
+            
+    <div x-show="openSlideOver" x-transition:enter="duration-150 ease-out" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-transition:leave="duration-150 ease-in" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0" x-description="Mobile menu overlay, show/hide based on openSlideOver state." class="fixed inset-0 bg-black bg-opacity-25 z-100" @click="toggle" x-cloak=""></div>
+
+        <div id="slide-over" class="fixed right-0 w-full h-full bg-white shadow-2xl slide-over sm__max-w-md z-100" x-title="Slide-over" x-ref="openSlideOver" x-show="openSlideOver" @click.away="openSlideOver = false" x-on:keydown.escape="openSlideOver = false" x-transition:enter="transition ease duration-150 -ml-96" x-transition:enter-start="transform translate-x-96" x-transition:enter-end="transform translate-x-0 ml-0" x-transition:leave="transition ease-in duration-150" x-transition:leave-start="transform opacity-100" x-transition:leave-end="transform opacity-0" x-cloak="">
+      <div class="flex flex-col h-full">
+
+                <div class="flex items-start justify-end px-6 py-3 border-b border-gray-100 bg-primary-500 mega-menu--bottom bg-liquid-cheese slide-over--header">
+          <h2 class="text-lg font-medium text-gray-900" id="slide-over--title"></h2>
+
+                    <button class="px-1 bg-white rounded shadow slide-over--close hover__text-gray-500 focus__outline-none" @click="openSlideOver = false">
+            <span class="sr-only">Close panel</span>
+              <i class="fa-regular fa-times fa-lg"></i>
+          </button>
+        </div>
+
+                <div class="flex flex-col flex-1 min-h-0 overflow-y-scroll bg-white slide-over--body" x-ref="slideOverBody">
+            <div>
+    <div id="block-main-menu" class="block block-menu-block block-menu-blockmain">
+  <nav role="navigation" id="block-main-menu" class="block block-menu-block block-menu-blockmain">
+              
+              <ul data-block-id="main_menu" region="slide_over_sidebar">
+            
+
+      <li class="nav-item nav-item expanded nav-item nav-item expanded nav-item has-sub-menu nav-item">
+
+        
+                      <div x-data="{ open: false }" x-title="Slide-over menu - About">
+              <button type="button" class="flex items-center justify-between w-full px-6 py-3 text-left transition-colors duration-150 ease-in-out group focus__outline-none" x-state:on="Current" x-state:off="Default" @click="open = !open" aria-expanded="false" x-bind:aria-expanded="open.toString()" x-state-description="" :class="{ 'hover__text-gray-500 hover__bg-gray-50 focus__bg-gray-50' : !(open), 'hover__text-gray-50 bg-primary-600 text-white' : open }">
+                                <span class="menu-item-link inline-flex no-underline font-bold">About</span>
+                <div class="duration-150 ease-in-out transform" x-state:on="Expanded" x-state:off="Collapsed" :class="{ 'rotate-90': open, '': !(open) }">
+                  <i class="fa-regular fa-chevron-right"></i>
+                </div>
+              </button>
+              <div x-description="Expandable link section, show/hide based on state." class="" x-show="open" x-cloak="">
+                                              <ul class="">
+            
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800 expanded nav-item nav-item expanded nav-item has-sub-menu nav-item">
+
+        
+                      <div x-data="{ open: false }" x-title="Slide-over menu - About ISIF">
+              <button type="button" class="flex items-center justify-between w-full px-6 py-3 text-left text-gray-900 transition-colors duration-150 ease-in-out border-l-8 hover__text-gray-500 hover__bg-gray-100 focus__text-gray-500 focus__bg-gray-50 bg-gray-50 border-primary-400 ml-1 group focus__outline-none" x-state:on="Current" x-state:off="Default" @click="open = !open" aria-expanded="false" x-bind:aria-expanded="open.toString()" x-state-description="">
+                                <span class="heading--nav--second-level menu-item-link inline-flex text-base mb-0 font-bold">About ISIF</span>
+                <div class="duration-150 ease-in-out transform" x-state:on="Expanded" x-state:off="Collapsed" :class="{ 'rotate-90': open, '': !(open) }">
+                  <i class="fa-regular fa-chevron-right"></i>
+                </div>
+              </button>
+              <div x-description="Expandable link section, show/hide based on state." class="" x-show="open" x-cloak="">
+                                              <ul class="">
+            
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/about/vision-mission" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/370">Vision and Mission</a>
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/about/constitution" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/455">Constitution</a>
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/about/past-presidents" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/717">Past Presidents</a>
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/about/past-fusion-general-chair" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/873">Past FUSION General Chairs</a>
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/about/past-eic" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/874">Past JAIF and Perspectives EiCs</a>
+        
+      </li>
+        </ul>
+  
+              </div>
+            </div>
+          
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800 expanded nav-item nav-item expanded nav-item has-sub-menu nav-item">
+
+        
+                      <div x-data="{ open: false }" x-title="Slide-over menu - Organization">
+              <button type="button" class="flex items-center justify-between w-full px-6 py-3 text-left text-gray-900 transition-colors duration-150 ease-in-out border-l-8 hover__text-gray-500 hover__bg-gray-100 focus__text-gray-500 focus__bg-gray-50 bg-gray-50 border-primary-400 ml-1 group focus__outline-none" x-state:on="Current" x-state:off="Default" @click="open = !open" aria-expanded="false" x-bind:aria-expanded="open.toString()" x-state-description="">
+                                <span class="heading--nav--second-level menu-item-link inline-flex text-base mb-0 font-bold">Organization</span>
+                <div class="duration-150 ease-in-out transform" x-state:on="Expanded" x-state:off="Collapsed" :class="{ 'rotate-90': open, '': !(open) }">
+                  <i class="fa-regular fa-chevron-right"></i>
+                </div>
+              </button>
+              <div x-description="Expandable link section, show/hide based on state." class="" x-show="open" x-cloak="">
+                                              <ul class="">
+            
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/about/organization/board-directors" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/460">Board of Directors</a>
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/about/working-groups/isif-working-groups" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/461">Working Groups</a>
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/form/contact-us" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="webform/contact_us">Contact Us</a>
+        
+      </li>
+        </ul>
+  
+              </div>
+            </div>
+          
+        
+      </li>
+        </ul>
+  
+              </div>
+            </div>
+          
+        
+      </li>
+        
+
+      <li class="nav-item nav-item expanded nav-item nav-item expanded nav-item has-sub-menu nav-item">
+
+        
+                      <div x-data="{ open: false }" x-title="Slide-over menu - Awards">
+              <button type="button" class="flex items-center justify-between w-full px-6 py-3 text-left transition-colors duration-150 ease-in-out group focus__outline-none" x-state:on="Current" x-state:off="Default" @click="open = !open" aria-expanded="false" x-bind:aria-expanded="open.toString()" x-state-description="" :class="{ 'hover__text-gray-500 hover__bg-gray-50 focus__bg-gray-50' : !(open), 'hover__text-gray-50 bg-primary-600 text-white' : open }">
+                                <span class="menu-item-link inline-flex no-underline font-bold">Awards</span>
+                <div class="duration-150 ease-in-out transform" x-state:on="Expanded" x-state:off="Collapsed" :class="{ 'rotate-90': open, '': !(open) }">
+                  <i class="fa-regular fa-chevron-right"></i>
+                </div>
+              </button>
+              <div x-description="Expandable link section, show/hide based on state." class="" x-show="open" x-cloak="">
+                                              <ul class="">
+            
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800 collapsed">
+
+        
+                                  <span class="heading--nav--second-level menu-item-link flex px-6 py-3 font-semibold hover__text-gray-500 border-l-8 border-primary-400 rounded-lg ml-1 my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline">Conference Awards</span>
+          
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800 expanded nav-item nav-item expanded nav-item has-sub-menu nav-item">
+
+        
+                      <div x-data="{ open: false }" x-title="Slide-over menu - Society Awards">
+              <button type="button" class="flex items-center justify-between w-full px-6 py-3 text-left text-gray-900 transition-colors duration-150 ease-in-out border-l-8 hover__text-gray-500 hover__bg-gray-100 focus__text-gray-500 focus__bg-gray-50 bg-gray-50 border-primary-400 ml-1 group focus__outline-none" x-state:on="Current" x-state:off="Default" @click="open = !open" aria-expanded="false" x-bind:aria-expanded="open.toString()" x-state-description="">
+                                <span class="heading--nav--second-level menu-item-link inline-flex text-base mb-0 font-bold">Society Awards</span>
+                <div class="duration-150 ease-in-out transform" x-state:on="Expanded" x-state:off="Collapsed" :class="{ 'rotate-90': open, '': !(open) }">
+                  <i class="fa-regular fa-chevron-right"></i>
+                </div>
+              </button>
+              <div x-description="Expandable link section, show/hide based on state." class="" x-show="open" x-cloak="">
+                                              <ul class="">
+            
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/award/about-awards" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/381">About Awards</a>
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/awards/yaakov-bar-shalom-award-lifetime-excellence-information-fusion#recipients" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/376">ISIF Yaakov Bar-Shalom Award for a Lifetime of Excellence in Information Fusion</a>
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/award/about-awards/robert-lynch-award-distinguished-service" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/379">ISIF Robert Lynch Award for Distinguished Service</a>
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/awards/young-investigator-award#recipients" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/380">ISIF Young Investigator Award</a>
+        
+      </li>
+        </ul>
+  
+              </div>
+            </div>
+          
+        
+      </li>
+        </ul>
+  
+              </div>
+            </div>
+          
+        
+      </li>
+        
+
+      <li class="nav-item nav-item expanded nav-item nav-item expanded nav-item has-sub-menu nav-item">
+
+        
+                      <div x-data="{ open: false }" x-title="Slide-over menu - Conferences">
+              <button type="button" class="flex items-center justify-between w-full px-6 py-3 text-left transition-colors duration-150 ease-in-out group focus__outline-none" x-state:on="Current" x-state:off="Default" @click="open = !open" aria-expanded="false" x-bind:aria-expanded="open.toString()" x-state-description="" :class="{ 'hover__text-gray-500 hover__bg-gray-50 focus__bg-gray-50' : !(open), 'hover__text-gray-50 bg-primary-600 text-white' : open }">
+                                <span class="menu-item-link inline-flex no-underline font-bold">Conferences</span>
+                <div class="duration-150 ease-in-out transform" x-state:on="Expanded" x-state:off="Collapsed" :class="{ 'rotate-90': open, '': !(open) }">
+                  <i class="fa-regular fa-chevron-right"></i>
+                </div>
+              </button>
+              <div x-description="Expandable link section, show/hide based on state." class="" x-show="open" x-cloak="">
+                                              <ul class="">
+            
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800 expanded nav-item nav-item expanded nav-item has-sub-menu nav-item">
+
+        
+                      <div x-data="{ open: false }" x-title="Slide-over menu - About Conferences">
+              <button type="button" class="flex items-center justify-between w-full px-6 py-3 text-left text-gray-900 transition-colors duration-150 ease-in-out border-l-8 hover__text-gray-500 hover__bg-gray-100 focus__text-gray-500 focus__bg-gray-50 bg-gray-50 border-primary-400 ml-1 group focus__outline-none" x-state:on="Current" x-state:off="Default" @click="open = !open" aria-expanded="false" x-bind:aria-expanded="open.toString()" x-state-description="">
+                                <span class="heading--nav--second-level menu-item-link inline-flex text-base mb-0 font-bold">About Conferences</span>
+                <div class="duration-150 ease-in-out transform" x-state:on="Expanded" x-state:off="Collapsed" :class="{ 'rotate-90': open, '': !(open) }">
+                  <i class="fa-regular fa-chevron-right"></i>
+                </div>
+              </button>
+              <div x-description="Expandable link section, show/hide based on state." class="" x-show="open" x-cloak="">
+                                              <ul class="">
+            
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/event/about-conferences" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/385">About Conferences</a>
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/event/about-conferences#upcoming" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/385">Upcoming Conferences</a>
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/event/about-conferences#past" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/385">Past Conferences</a>
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/event/about-conferences/fusion-5k-race" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/463">FUSION 5K Race</a>
+        
+      </li>
+        </ul>
+  
+              </div>
+            </div>
+          
+        
+      </li>
+        </ul>
+  
+              </div>
+            </div>
+          
+        
+      </li>
+        
+
+      <li class="nav-item nav-item expanded nav-item nav-item expanded nav-item has-sub-menu nav-item">
+
+        
+                      <div x-data="{ open: false }" x-title="Slide-over menu - Membership">
+              <button type="button" class="flex items-center justify-between w-full px-6 py-3 text-left transition-colors duration-150 ease-in-out group focus__outline-none" x-state:on="Current" x-state:off="Default" @click="open = !open" aria-expanded="false" x-bind:aria-expanded="open.toString()" x-state-description="" :class="{ 'hover__text-gray-500 hover__bg-gray-50 focus__bg-gray-50' : !(open), 'hover__text-gray-50 bg-primary-600 text-white' : open }">
+                                <span class="menu-item-link inline-flex no-underline font-bold">Membership</span>
+                <div class="duration-150 ease-in-out transform" x-state:on="Expanded" x-state:off="Collapsed" :class="{ 'rotate-90': open, '': !(open) }">
+                  <i class="fa-regular fa-chevron-right"></i>
+                </div>
+              </button>
+              <div x-description="Expandable link section, show/hide based on state." class="" x-show="open" x-cloak="">
+                                              <ul class="">
+            
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800 expanded nav-item nav-item expanded nav-item has-sub-menu nav-item">
+
+        
+                      <div x-data="{ open: false }" x-title="Slide-over menu - ISIF Membership">
+              <button type="button" class="flex items-center justify-between w-full px-6 py-3 text-left text-gray-900 transition-colors duration-150 ease-in-out border-l-8 hover__text-gray-500 hover__bg-gray-100 focus__text-gray-500 focus__bg-gray-50 bg-gray-50 border-primary-400 ml-1 group focus__outline-none" x-state:on="Current" x-state:off="Default" @click="open = !open" aria-expanded="false" x-bind:aria-expanded="open.toString()" x-state-description="">
+                                <span class="heading--nav--second-level menu-item-link inline-flex text-base mb-0 font-bold">ISIF Membership</span>
+                <div class="duration-150 ease-in-out transform" x-state:on="Expanded" x-state:off="Collapsed" :class="{ 'rotate-90': open, '': !(open) }">
+                  <i class="fa-regular fa-chevron-right"></i>
+                </div>
+              </button>
+              <div x-description="Expandable link section, show/hide based on state." class="" x-show="open" x-cloak="">
+                                              <ul class="">
+            
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/membership/membership-information" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/453">About Membership</a>
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="https://isoif.wildapricot.org/join-us" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" rel="noreferrer">Membership Application</a>
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="https://isoif.wildapricot.org/join-us" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" rel="noreferrer">Membership Renewal</a>
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/membership/memoriam" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/452">In Memoriam</a>
+        
+      </li>
+        </ul>
+  
+              </div>
+            </div>
+          
+        
+      </li>
+        </ul>
+  
+              </div>
+            </div>
+          
+        
+      </li>
+        
+
+      <li class="nav-item nav-item expanded nav-item nav-item expanded nav-item has-sub-menu nav-item">
+
+        
+                      <div x-data="{ open: false }" x-title="Slide-over menu - Publications">
+              <button type="button" class="flex items-center justify-between w-full px-6 py-3 text-left transition-colors duration-150 ease-in-out group focus__outline-none" x-state:on="Current" x-state:off="Default" @click="open = !open" aria-expanded="false" x-bind:aria-expanded="open.toString()" x-state-description="" :class="{ 'hover__text-gray-500 hover__bg-gray-50 focus__bg-gray-50' : !(open), 'hover__text-gray-50 bg-primary-600 text-white' : open }">
+                                <span class="menu-item-link inline-flex no-underline font-bold">Publications</span>
+                <div class="duration-150 ease-in-out transform" x-state:on="Expanded" x-state:off="Collapsed" :class="{ 'rotate-90': open, '': !(open) }">
+                  <i class="fa-regular fa-chevron-right"></i>
+                </div>
+              </button>
+              <div x-description="Expandable link section, show/hide based on state." class="" x-show="open" x-cloak="">
+                                              <ul class="">
+            
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800 expanded nav-item nav-item expanded nav-item has-sub-menu nav-item">
+
+        
+                      <div x-data="{ open: false }" x-title="Slide-over menu - About Publications">
+              <button type="button" class="flex items-center justify-between w-full px-6 py-3 text-left text-gray-900 transition-colors duration-150 ease-in-out border-l-8 hover__text-gray-500 hover__bg-gray-100 focus__text-gray-500 focus__bg-gray-50 bg-gray-50 border-primary-400 ml-1 group focus__outline-none" x-state:on="Current" x-state:off="Default" @click="open = !open" aria-expanded="false" x-bind:aria-expanded="open.toString()" x-state-description="">
+                                <span class="heading--nav--second-level menu-item-link inline-flex text-base mb-0 font-bold">About Publications</span>
+                <div class="duration-150 ease-in-out transform" x-state:on="Expanded" x-state:off="Collapsed" :class="{ 'rotate-90': open, '': !(open) }">
+                  <i class="fa-regular fa-chevron-right"></i>
+                </div>
+              </button>
+              <div x-description="Expandable link section, show/hide based on state." class="" x-show="open" x-cloak="">
+                                              <ul class="">
+            
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/publications" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/446">Publications Overview</a>
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/event/about-conferences#proceed" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/385">Conference Proceedings</a>
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/publications/fusion-related" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/467">Fusion Related Publications</a>
+        
+      </li>
+        </ul>
+  
+              </div>
+            </div>
+          
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800 expanded nav-item nav-item expanded nav-item has-sub-menu nav-item">
+
+        
+                      <div x-data="{ open: false }" x-title="Slide-over menu - Editorial Boards">
+              <button type="button" class="flex items-center justify-between w-full px-6 py-3 text-left text-gray-900 transition-colors duration-150 ease-in-out border-l-8 hover__text-gray-500 hover__bg-gray-100 focus__text-gray-500 focus__bg-gray-50 bg-gray-50 border-primary-400 ml-1 group focus__outline-none" x-state:on="Current" x-state:off="Default" @click="open = !open" aria-expanded="false" x-bind:aria-expanded="open.toString()" x-state-description="">
+                                <span class="heading--nav--second-level menu-item-link inline-flex text-base mb-0 font-bold">Editorial Boards</span>
+                <div class="duration-150 ease-in-out transform" x-state:on="Expanded" x-state:off="Collapsed" :class="{ 'rotate-90': open, '': !(open) }">
+                  <i class="fa-regular fa-chevron-right"></i>
+                </div>
+              </button>
+              <div x-description="Expandable link section, show/hide based on state." class="" x-show="open" x-cloak="">
+                                              <ul class="">
+            
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/publications/jaif-editorial-board" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/490">JAIF Editorial Board</a>
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/committee/perspectives-editorial-board" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/500">Perspectives Editorial Board</a>
+        
+      </li>
+        </ul>
+  
+              </div>
+            </div>
+          
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800 expanded nav-item nav-item expanded nav-item has-sub-menu nav-item">
+
+        
+                      <div x-data="{ open: false }" x-title="Slide-over menu - Copyright">
+              <button type="button" class="flex items-center justify-between w-full px-6 py-3 text-left text-gray-900 transition-colors duration-150 ease-in-out border-l-8 hover__text-gray-500 hover__bg-gray-100 focus__text-gray-500 focus__bg-gray-50 bg-gray-50 border-primary-400 ml-1 group focus__outline-none" x-state:on="Current" x-state:off="Default" @click="open = !open" aria-expanded="false" x-bind:aria-expanded="open.toString()" x-state-description="">
+                                <span class="heading--nav--second-level menu-item-link inline-flex text-base mb-0 font-bold">Copyright</span>
+                <div class="duration-150 ease-in-out transform" x-state:on="Expanded" x-state:off="Collapsed" :class="{ 'rotate-90': open, '': !(open) }">
+                  <i class="fa-regular fa-chevron-right"></i>
+                </div>
+              </button>
+              <div x-description="Expandable link section, show/hide based on state." class="" x-show="open" x-cloak="">
+                                              <ul class="">
+            
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/files/isif/2024-01/JAIFCopyrightForm.pdf" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline">JAIF Copyright Form</a>
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/files/isif/2024-01/PerspectivesCopyrightForm.pdf" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline">Perspectives Copyright Form</a>
+        
+      </li>
+        </ul>
+  
+              </div>
+            </div>
+          
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800 expanded nav-item nav-item expanded nav-item has-sub-menu nav-item">
+
+        
+                      <div x-data="{ open: false }" x-title="Slide-over menu - Journal of Advances in Information Fusion (JAIF)">
+              <button type="button" class="flex items-center justify-between w-full px-6 py-3 text-left text-gray-900 transition-colors duration-150 ease-in-out border-l-8 hover__text-gray-500 hover__bg-gray-100 focus__text-gray-500 focus__bg-gray-50 bg-gray-50 border-primary-400 ml-1 group focus__outline-none" x-state:on="Current" x-state:off="Default" @click="open = !open" aria-expanded="false" x-bind:aria-expanded="open.toString()" x-state-description="">
+                                <span class="heading--nav--second-level menu-item-link inline-flex text-base mb-0 font-bold">Journal of Advances in Information Fusion (JAIF)</span>
+                <div class="duration-150 ease-in-out transform" x-state:on="Expanded" x-state:off="Collapsed" :class="{ 'rotate-90': open, '': !(open) }">
+                  <i class="fa-regular fa-chevron-right"></i>
+                </div>
+              </button>
+              <div x-description="Expandable link section, show/hide based on state." class="" x-show="open" x-cloak="">
+                                              <ul class="">
+            
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/publication/jaif" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/447">JAIF Overview</a>
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/publication/jaif/issues" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/449">JAIF Issues</a>
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/files/isif/2024-01/JAIFmanual1311_final.pdf" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline">JAIF Editorial Policies and Operations Manual</a>
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/publications/manuscript-preparation" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/501">JAIF Manuscript Preparation and Submission</a>
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/publication/jaif/index" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/451">JAIF Volume Index</a>
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/publication/jaif#documents" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/447">JAIF Special Issue - Call for Papers</a>
+        
+      </li>
+        </ul>
+  
+              </div>
+            </div>
+          
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800 expanded nav-item nav-item expanded nav-item has-sub-menu nav-item">
+
+        
+                      <div x-data="{ open: false }" x-title="Slide-over menu - ISIF Perspectives on Information Fusion (Perspectives)">
+              <button type="button" class="flex items-center justify-between w-full px-6 py-3 text-left text-gray-900 transition-colors duration-150 ease-in-out border-l-8 hover__text-gray-500 hover__bg-gray-100 focus__text-gray-500 focus__bg-gray-50 bg-gray-50 border-primary-400 ml-1 group focus__outline-none" x-state:on="Current" x-state:off="Default" @click="open = !open" aria-expanded="false" x-bind:aria-expanded="open.toString()" x-state-description="">
+                                <span class="heading--nav--second-level menu-item-link inline-flex text-base mb-0 font-bold">ISIF Perspectives on Information Fusion (Perspectives)</span>
+                <div class="duration-150 ease-in-out transform" x-state:on="Expanded" x-state:off="Collapsed" :class="{ 'rotate-90': open, '': !(open) }">
+                  <i class="fa-regular fa-chevron-right"></i>
+                </div>
+              </button>
+              <div x-description="Expandable link section, show/hide based on state." class="" x-show="open" x-cloak="">
+                                              <ul class="">
+            
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/publication/perspectives" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/448">Perspectives Overview</a>
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/publication/perspectives/issues" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/882">Perspectives Issues</a>
+        
+      </li>
+        
+
+      <li class="dropdown-item sub-menu-list-item text-gray-800">
+
+                            <a href="/publications/perspectives-manuscript-preparation" class="menu-item-link flex px-6 py-3 font-semibold text-gray-900 hover__text-gray-500 border-l-16 border-primary-200 ml-2 rounded-lg my-1 focus__text-gray-500 hover__bg-gray-50 no-underline link-underline" data-drupal-link-system-path="node/502">Perspectives Manuscript Preparation and Submission</a>
+        
+      </li>
+        </ul>
+  
+              </div>
+            </div>
+          
+        
+      </li>
+        </ul>
+  
+              </div>
+            </div>
+          
+        
+      </li>
+        </ul>
+  
+
+
+      </nav>
+</div>
+<div id="block-socialsharing" class="block block-social-sharing block-social-sharing-block">
+  
+    
+      
+
+<section class="max-w-5xl mx-auto bg-white border-separator-b">
+  <div class="flex items-center justify-between ">
+
+    <div class="flex justify-between w-full text-gray-600 ">
+            <div class="flex flex-row">
+        <i class="hidden m-6 fa-regular fa-comment-alt-lines"></i>
+      </div>
+      <div class="inline-flex items-center">
+        <span class="font-bold leading-none text-right text-gray-600">Share on:</span>
+        <ul class="inline-flex px-3 mrcs-social-share--share-services">
+                      <li>
+                            <a class="share-service-link share-service-twitter w-12 h-12 inline-flex justify-center items-center" target="_blank" href="https://twitter.com/intent/tweet?text=Gee%20Wah%20NG&amp;url=https%3A//isif.org/contact/gee-wah-ng&amp;status=Gee%20Wah%20NG%20https%3A//isif.org/contact/gee-wah-ng" title="Twitter" rel="noopener noreferrer">
+                                  <span class="share-service-name text-gray-600 hover__text-gray-900">
+                    <svg class="css-i6dzq1 svg--social--x" viewBox="0 0 24 24" width="32" height="32" stroke="currentColor" fill="#F3F4F6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                      <g>
+                        <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"></path>
+                      </g>
+                    </svg>
+                  </span>
+                              </a>
+            </li>
+                      <li>
+                            <a class="share-service-link share-service-email w-12 h-12 inline-flex justify-center items-center" target="_blank" href="/cdn-cgi/l/email-protection#28175b5d4a424d4b5c156f4d4d0d1a187f49400d1a18666f0e494558134a474c51156b404d4b430d1a18475d5c0d1a185c40415b0d1a185b415c4d0d1a18405c5c585b0d1b690707415b414e06475a4f074b47465c494b5c074f4d4d055f494005464f" title="Mail" rel="noopener noreferrer">
+                                                    <span class="share-service-name text-gray-600 hover__text-gray-900">
+                    <svg viewBox="0 0 24 24" width="32" height="32" stroke="currentColor" stroke-width="1.5" fill="#F3F4F6" stroke-linecap="round" stroke-linejoin="round" class="css-i6dzq1 svg--social--email">
+                      <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+                      <polyline points="22,6 12,13 2,6"></polyline>
+                    </svg>
+                  </span>
+                              </a>
+            </li>
+                      <li>
+                            <a class="share-service-link share-service-facebook w-12 h-12 inline-flex justify-center items-center" target="_blank" href="https://www.facebook.com/share.php?u=https%3A//isif.org/contact/gee-wah-ng&amp;title=Gee%20Wah%20NG" title="Facebook" rel="noopener noreferrer">
+                                  <span class="share-service-name text-gray-600 hover__text-gray-900">
+                    <svg viewBox="0 0 24 24" width="32" height="32" stroke="currentColor" stroke-width="1.5" fill="#F3F4F6" stroke-linecap="round" stroke-linejoin="round" class="css-i6dzq1 svg--social--facebook">
+                      <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path>
+                    </svg>
+                  </span>
+                              </a>
+            </li>
+                      <li>
+                            <a class="share-service-link share-service-linkedin w-12 h-12 inline-flex justify-center items-center" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A//isif.org/contact/gee-wah-ng&amp;title=Gee%20Wah%20NG&amp;source=https%3A//isif.org/contact/gee-wah-ng" title="LinkedIn" rel="noopener noreferrer">
+                                  <span class="share-service-name text-gray-600 hover__text-gray-900">
+                    <svg viewBox="0 0 24 24" width="32" height="32" stroke="currentColor" stroke-width="1.5" fill="#F3F4F6" stroke-linecap="round" stroke-linejoin="round" class="css-i6dzq1 svg--social--linkedin">
+                      <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
+                      <rect x="2" y="9" width="4" height="12"></rect>
+                      <circle cx="4" cy="4" r="2"></circle>
+                    </svg>
+                  </span>
+                              </a>
+            </li>
+                  </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+  </div>
+
+  </div>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+
+    
+
+  <div class="flex flex-col min-h-screen">
+          <div class="flex flex-col flex-grow pt-10 lg__flex-row lg__pt-10 2xl__pt-20">
+                
+
+                    <main role="main" class="relative flex-auto bg-gray-50 layout_page--main ">
+          <a id="main-content" tabindex="-1"></a>
+                    
+                                                                <div class="relative mx-auto">
+    <div data-drupal-messages-fallback="" class="hidden"></div>
+
+  </div>
+
+            
+                                        <div class="node-published relative flex flex-col justify-center lg__flex-row xl__space-x-6">
+                                                                              <div class="flex-auto content--main layout-content">
+                                              <div id="block-catalyze-tw-content">
+  
+    
+      
+<article about="/home" class="relative">
+  
+    
+
+  <div>
+    
+
+<div class="hidden bg-primary-500 bg-liquid-cheese lg__block lg__pt-18 -mb-28 _none relative py-6 lg__py-12"><div class="absolute top-0 flex w-full h-full container--header--bg min-h-40 Xmax-h-44"></div><div class="container relative">
+
+
+  <div class="layout row no-gutters layout-builder__layout">
+    
+                        <div class="col-12 blb-region-col">
+          
+                                <div class="absolute top-0 bottom-0 right-0 z-0 w-px separator"></div>
+                  </div>
+                                                                                                                                                                                              
+  </div>
+
+</div>
+</div>
+
+
+<div class="lg__-mt-6 lbl-col-separator _none relative py-6 lg__py-12"><div class="absolute top-0 flex w-full h-full container--header--bg min-h-40 Xmax-h-44"></div><div class="container relative">
+
+
+  <div class="gap-6 sm__gap-0 layout row layout-builder__layout">
+    
+                        <div class="col-12 sm__col-12 md__col-12 lg__col-4 xl__col-3 2xl__col-3 order-2 lg__order-1 center-cards blb-region-col">
+          <div class="views-element-container _none block block-views block-views-blockcontent-posts-block-card-grid block--blb">
+  
+    
+              
+
+<div><div class="js-view-dom-id-36454e085b432b4d97a4a763c00a365d6d781fd6fb8b166ad29dc2c3a940fdfa">
+    
+
+  
+  
+  
+
+  
+
+  <ul class="grid grid-cols-1 md__grid-cols-2 lg__grid-cols-4 gap-6 grid-responsive-container" data-observe-resizes="">
+
+
+    <li class="flex mx-auto first odd">
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+            <article about="/post/news/call-event-support-2025" data-observe-resizes="" class="responsive-container w-full card--container flex flex-col">
+    <div class="flex card-v xl__card-h card card--post overflow-hidden">
+                                              <div class="card--header card-v--header xl__card-h--header bg-gray-50 relative flex-shrink-0 flex">
+                                            
+          <a href="/post/news/call-event-support-2025" class="w-full" rel="nofollow">
+  
+
+            <div class="field field--node--field-media-ref field--name-field-media-ref field--type-entity-reference field--label-hidden card--hidden bg-gray-100 flex-grow">
+<figure class="media--photo relative max-w-max mx-auto">
+  
+      
+              
+
+<img loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="760" height="570" alt="Abstract image with many colors jumping out of a tablet" class="lazyload" data-src="/files/isif/styles/responsive_4_3_760w/public/images/media/photos/isif-website-hero.png?h=ea1cd59b&amp;itok=Ei0nNcEE" typeof="foaf:Image" data-observe-resizes="">
+
+
+
+      
+  </figure>
+</div>
+      
+</a>
+      
+                                        </div>
+              <div class="card--main xl__card-h--main flex flex-col justify-between">
+                    <div class="card--body xl__card-h--body px-6 py-3">
+          
+              
+
+  <div>
+    <div class="label field--label visually-hidden"></div>
+              <div class="field field--node--field-post-type field--name-field-post-type field--type-list-string field--label-visually_hidden card--visually_hidden font-bold text-primary-600 text-sm" title="Type: News">News</div>
+          </div>
+
+      <h3 class="field field--node--field-display-title field--name-field-display-title field--type-string field--label-visually_hidden text-base leading-tight line-clamp-3 mr-3">
+    
+
+  <div>
+    <div class="label field--label visually-hidden"></div>
+              <h3 class="field field--node--field-display-title field--name-field-display-title field--type-string field--label-visually_hidden card--visually_hidden text-base leading-tight line-clamp-3" title="Call for Event Support 2025
+">
+        <span><a href="/post/news/call-event-support-2025" hreflang="en">Call for Event Support 2025</a></span>
+
+      </h3>
+          </div>
+
+  </h3>
+    <span class="block mt-1 text-xs text-gray-500"><i class="mr-2 fa-fw fa-regular fa-clock"></i>1 week 2 days ago</span>
+    
+
+  <div>
+    <div class="label field--label visually-hidden">Lead</div>
+          <div class="field field--node--field-lead field--name-field-lead field--type-string field--label-visually_hidden card--visually_hidden text-sm tracking-wide text-gray-600 mt-3 break-words font-serif" title="The Board of Directors (BoD) of the International Society of Information Fusion (ISIF) solicits proposals for support for calendar year 2025">
+        The Board of Directors (BoD) of the International Society of Information Fusion (ISIF) solicits proposals for support for calendar year 2025
+      </div>
+      </div>
+
+    
+    
+  
+        </div>
+                                                <div class="card--footer px-6 py-3 flex flex-row justify-between">
+                <div class="flex flex-grow justify-end">
+      <ul class="links text-sm font-bold">
+  <li class="node-readmore group">
+    <a href="/post/news/call-event-support-2025" rel="nofollow"><span>Read More</span>
+    <span class="inline-block duration-150 transform group-hover__translate-x-1">
+      <i class="ml-1 fa-regular fa-fw text-primary-500 fa-arrow-alt-circle-right"></i>
+    </span>
+    </a>
+  </li>
+</ul>
+    </div>
+  
+            
+          </div>
+                  </div>
+  </div>
+  </article>
+
+
+
+    </li>
+  
+
+    <li class="flex mx-auto even">
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+            <article about="/post/news/call-proposals-fusion-2028" data-observe-resizes="" class="responsive-container w-full card--container flex flex-col">
+    <div class="flex card-v xl__card-h card card--post overflow-hidden">
+                                              <div class="card--header card-v--header xl__card-h--header bg-gray-50 relative flex-shrink-0 flex">
+                                            
+          <a href="/post/news/call-proposals-fusion-2028" class="w-full" rel="nofollow">
+  
+
+            <div class="field field--node--field-media-ref field--name-field-media-ref field--type-entity-reference field--label-hidden card--hidden bg-gray-100 flex-grow">
+<figure class="media--photo relative max-w-max mx-auto">
+  
+      
+              
+
+<img loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="760" height="570" alt="Global map" class="lazyload" data-src="/files/isif/styles/responsive_4_3_760w/public/images/media/photos/HM_international_small.jpg.2015-02-12-14-52-03.jpg?h=3dd30591&amp;itok=Tntw6WXl" typeof="foaf:Image" data-observe-resizes="">
+
+
+
+      
+  </figure>
+</div>
+      
+</a>
+      
+                                        </div>
+              <div class="card--main xl__card-h--main flex flex-col justify-between">
+                    <div class="card--body xl__card-h--body px-6 py-3">
+          
+              
+
+  <div>
+    <div class="label field--label visually-hidden"></div>
+              <div class="field field--node--field-post-type field--name-field-post-type field--type-list-string field--label-visually_hidden card--visually_hidden font-bold text-primary-600 text-sm" title="Type: News">News</div>
+          </div>
+
+      <h3 class="field field--node--field-display-title field--name-field-display-title field--type-string field--label-visually_hidden text-base leading-tight line-clamp-3 mr-3">
+    
+
+  <div>
+    <div class="label field--label visually-hidden"></div>
+              <h3 class="field field--node--field-display-title field--name-field-display-title field--type-string field--label-visually_hidden card--visually_hidden text-base leading-tight line-clamp-3" title="Call for Proposals - FUSION 2028
+">
+        <span><a href="/post/news/call-proposals-fusion-2028" hreflang="en">Call for Proposals - FUSION 2028</a></span>
+
+      </h3>
+          </div>
+
+  </h3>
+    <span class="block mt-1 text-xs text-gray-500"><i class="mr-2 fa-fw fa-regular fa-clock"></i>1 week 2 days ago</span>
+    
+
+  <div>
+    <div class="label field--label visually-hidden">Lead</div>
+          <div class="field field--node--field-lead field--name-field-lead field--type-string field--label-visually_hidden card--visually_hidden text-sm tracking-wide text-gray-600 mt-3 break-words font-serif" title="Call for Proposals to Organize the 31st International Conference on Information Fusion (FUSION 2028)">
+        Call for Proposals to Organize the 31st International Conference on Information Fusion (FUSION 2028)
+      </div>
+      </div>
+
+    
+    
+  
+        </div>
+                                                <div class="card--footer px-6 py-3 flex flex-row justify-between">
+                <div class="flex flex-grow justify-end">
+      <ul class="links text-sm font-bold">
+  <li class="node-readmore group">
+    <a href="/post/news/call-proposals-fusion-2028" rel="nofollow"><span>Read More</span>
+    <span class="inline-block duration-150 transform group-hover__translate-x-1">
+      <i class="ml-1 fa-regular fa-fw text-primary-500 fa-arrow-alt-circle-right"></i>
+    </span>
+    </a>
+  </li>
+</ul>
+    </div>
+  
+            
+          </div>
+                  </div>
+  </div>
+  </article>
+
+
+
+    </li>
+  
+
+    <li class="flex mx-auto last odd">
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+            <article about="/post/news/jaif-volume-19-issue-1" data-observe-resizes="" class="responsive-container w-full card--container flex flex-col">
+    <div class="flex card-v xl__card-h card card--post overflow-hidden">
+                                              <div class="card--header card-v--header xl__card-h--header bg-gray-50 relative flex-shrink-0 flex">
+                                            
+          <a href="/post/news/jaif-volume-19-issue-1" class="w-full" rel="nofollow">
+  
+
+            <div class="field field--node--field-media-ref field--name-field-media-ref field--type-entity-reference field--label-hidden card--hidden bg-gray-100 flex-grow">
+<figure class="media--photo relative max-w-max mx-auto">
+  
+      
+              
+
+<img loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="760" height="570" alt="JAIF v19 iss1 post image" class="lazyload" data-src="/files/isif/styles/responsive_4_3_760w/public/images/media/photos/JAIF_v19-Iss1_post_img.png?h=842e586f&amp;itok=9iD0mnO0" typeof="foaf:Image" data-observe-resizes="">
+
+
+
+      
+  </figure>
+</div>
+      
+</a>
+      
+                                        </div>
+              <div class="card--main xl__card-h--main flex flex-col justify-between">
+                    <div class="card--body xl__card-h--body px-6 py-3">
+          
+              
+
+  <div>
+    <div class="label field--label visually-hidden"></div>
+              <div class="field field--node--field-post-type field--name-field-post-type field--type-list-string field--label-visually_hidden card--visually_hidden font-bold text-primary-600 text-sm" title="Type: News">News</div>
+          </div>
+
+      <h3 class="field field--node--field-display-title field--name-field-display-title field--type-string field--label-visually_hidden text-base leading-tight line-clamp-3 mr-3">
+    
+
+  <div>
+    <div class="label field--label visually-hidden"></div>
+              <h3 class="field field--node--field-display-title field--name-field-display-title field--type-string field--label-visually_hidden card--visually_hidden text-base leading-tight line-clamp-3" title="JAIF Volume 19 Issue 1 
+">
+        <span><a href="/post/news/jaif-volume-19-issue-1" hreflang="en">JAIF Volume 19 Issue 1 </a></span>
+
+      </h3>
+          </div>
+
+  </h3>
+    <span class="block mt-1 text-xs text-gray-500"><i class="mr-2 fa-fw fa-regular fa-clock"></i>4 weeks 2 days ago</span>
+    
+    
+    
+  
+        </div>
+                                                <div class="card--footer px-6 py-3 flex flex-row justify-between">
+                <div class="flex flex-grow justify-end">
+      <ul class="links text-sm font-bold">
+  <li class="node-readmore group">
+    <a href="/post/news/jaif-volume-19-issue-1" rel="nofollow"><span>Read More</span>
+    <span class="inline-block duration-150 transform group-hover__translate-x-1">
+      <i class="ml-1 fa-regular fa-fw text-primary-500 fa-arrow-alt-circle-right"></i>
+    </span>
+    </a>
+  </li>
+</ul>
+    </div>
+  
+            
+          </div>
+                  </div>
+  </div>
+  </article>
+
+
+
+    </li>
+  
+
+  </ul>
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+      </div>
+
+                                <div class="absolute top-0 bottom-0 right-0 z-0 w-px separator"></div>
+                  </div>
+                              <div class="col-12 sm__col-12 md__col-12 lg__col-4 xl__col-6 2xl__col-6 order-1 lg__order-2 mt-0 lg__-mt-6 blb-region-col">
+          <div class="views-element-container _none block block-views block-views-blockcontent-posts-block-hero block--blb">
+  
+    
+              
+
+<div><div class="js-view-dom-id-35d086e868b2a6221c107f657ea89cc1f7c3f578dc583f3acca8cf71d407f5e0">
+    
+
+  
+  
+  
+
+  
+
+
+
+    <div class="first last odd">
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+            <article about="/post/announcement/fusion-2025" data-observe-resizes="" class="responsive-container w-full card--container flex flex-col">
+    <div class="flex card-v xl__card-h card card--post overflow-hidden">
+                                              <div class="card--header card-v--header xl__card-h--header bg-gray-50 relative flex-shrink-0 flex">
+                                            
+          <a href="/post/announcement/fusion-2025" class="w-full" rel="nofollow">
+  
+
+            <div class="field field--node--field-media-ref field--name-field-media-ref field--type-entity-reference field--label-hidden card--hidden bg-gray-100 flex-grow">
+<figure class="media--photo relative max-w-max mx-auto">
+  
+      
+              
+
+<img loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="760" height="570" alt="Rio de Janerio, Brazil" class="lazyload" data-src="/files/isif/styles/responsive_4_3_760w/public/images/media/photos/chrome_V5jmyXsQcw.jpg?h=8e6d1ac2&amp;itok=2n0aTXe9" typeof="foaf:Image" data-observe-resizes="">
+
+
+
+      
+  </figure>
+</div>
+      
+</a>
+      
+                                        </div>
+              <div class="card--main xl__card-h--main flex flex-col justify-between">
+                    <div class="card--body xl__card-h--body px-6 py-3">
+          
+              
+
+  <div>
+    <div class="label field--label visually-hidden"></div>
+              <div class="field field--node--field-post-type field--name-field-post-type field--type-list-string field--label-visually_hidden card--visually_hidden font-bold text-primary-600 text-sm" title="Type: Announcement">Announcement</div>
+          </div>
+
+      <h3 class="field field--node--field-display-title field--name-field-display-title field--type-string field--label-visually_hidden text-base leading-tight line-clamp-3 mr-3">
+    
+
+  <div>
+    <div class="label field--label visually-hidden"></div>
+              <h3 class="field field--node--field-display-title field--name-field-display-title field--type-string field--label-visually_hidden card--visually_hidden text-base leading-tight line-clamp-3" title="FUSION 2025
+">
+        <span><a href="/post/announcement/fusion-2025" hreflang="en">FUSION 2025</a></span>
+
+      </h3>
+          </div>
+
+  </h3>
+    <span class="block mt-1 text-xs text-gray-500"><i class="mr-2 fa-fw fa-regular fa-clock"></i>3 months 3 weeks ago</span>
+    
+
+  <div>
+    <div class="label field--label visually-hidden">Lead</div>
+          <div class="field field--node--field-lead field--name-field-lead field--type-string field--label-visually_hidden card--visually_hidden text-sm tracking-wide text-gray-600 mt-3 break-words font-serif" title="Join Us in Rio de Janeiro for the 28th International Conference on Information Fusion">
+        Join Us in Rio de Janeiro for the 28th International Conference on Information Fusion
+      </div>
+      </div>
+
+    
+    
+  
+        </div>
+                                                <div class="card--footer px-6 py-3 flex flex-row justify-between">
+                <div class="flex flex-grow justify-end">
+      <ul class="links text-sm font-bold">
+  <li class="node-readmore group">
+    <a href="/post/announcement/fusion-2025" rel="nofollow"><span>Read More</span>
+    <span class="inline-block duration-150 transform group-hover__translate-x-1">
+      <i class="ml-1 fa-regular fa-fw text-primary-500 fa-arrow-alt-circle-right"></i>
+    </span>
+    </a>
+  </li>
+</ul>
+    </div>
+  
+            
+          </div>
+                  </div>
+  </div>
+  </article>
+
+
+
+    </div>
+  
+
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+      </div>
+
+
+
+<div class="_none mt-6 card shadow-light p-6 block-type-cta block block-layout-builder block-inline-blockcta block--blb p-2 space-y-2 text-center">
+  
+          <h3 class="block__title">Share Your Memories</h3>
+      
+
+      <div class="content space-y-3">
+              <span class="flex justify-center">
+
+
+  <div class="field field--block-content--field-image-ref field--name-field-image-ref field--type-entity-reference field--label-visually_hidden full--visually_hidden">
+          <div class="label field--label visually-hidden" title="Image">Image</div>
+                              <div title="Image">
+<figure class="media--photo relative max-w-max mx-auto">
+  
+      
+              
+
+<img loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="760" height="570" alt="ISIF abstract image for 25th anniversary" class="lazyload" data-src="/files/isif/styles/responsive_4_3_760w/public/images/media/photos/isif-25th-hero.png?h=16698ac8&amp;itok=Ylb_frir" typeof="foaf:Image" data-observe-resizes="">
+
+
+
+      
+  </figure>
+</div>
+                      </div>
+</span>
+      
+      <div class="text-lg">
+                  
+
+
+            <div class="field field--block-content--field-lead-formatted field--name-field-lead-formatted field--type-text field--label-hidden full--hidden">ISIF is looking for members, past and present, to share their memories.</div>
+            
+              </div>
+
+      <div class="pt-2 flex items-center justify-center gap-3 flex-wrap">
+                  <a href="/isif-25th-anniversary-celebration" class="btn btn-primary">Share Now!</a>
+              </div>
+    </div>
+  </div>
+
+                                <div class="absolute top-0 bottom-0 right-0 z-0 w-px separator"></div>
+                  </div>
+                              <div class="col-12 sm__col-12 md__col-12 lg__col-4 xl__col-3 2xl__col-3 order-3 center-cards blb-region-col">
+          <div class="views-element-container _none block block-views block-views-blockcontent-posts-block-card-grid block--blb">
+  
+    
+              
+
+<div><div class="js-view-dom-id-c4474488fc7756ef85ec834daa0645396b78d9491b1d2d034637d3f375be317b">
+    
+
+  
+  
+  
+
+  
+
+  <ul class="grid grid-cols-1 md__grid-cols-2 lg__grid-cols-4 gap-6 grid-responsive-container" data-observe-resizes="">
+
+
+    <li class="flex mx-auto first odd">
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+            <article about="/post/announcement/cogsima-2025" data-observe-resizes="" class="responsive-container w-full card--container flex flex-col">
+    <div class="flex card-v xl__card-h card card--post overflow-hidden">
+                                              <div class="card--header card-v--header xl__card-h--header bg-gray-50 relative flex-shrink-0 flex">
+                                                  <div class="absolute top-1 -left-5 -rotate-45 rounded bg-red-500 border-2 border-primary-200 text-white shadow-md shadow-white pt-1 px-4 tracking-wide z-40 font-bold text-xs">NEW</div>
+            <div class="absolute top-0 w-full h-8 bg-gradient-to-b from-black opacity-25 z-1"></div>
+    
+          <a href="/post/announcement/cogsima-2025" class="w-full" rel="nofollow">
+  
+
+            <div class="field field--node--field-media-ref field--name-field-media-ref field--type-entity-reference field--label-hidden card--hidden bg-gray-100 flex-grow">
+<figure class="media--photo relative max-w-max mx-auto">
+  
+      
+              
+
+<img loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="760" height="570" alt="Duisburg Germany" class="lazyload" data-src="/files/isif/styles/responsive_4_3_760w/public/images/media/photos/header_duisburg_v04.png?h=a23dd995&amp;itok=TKyFTj8c" typeof="foaf:Image" data-observe-resizes="">
+
+
+
+      <div class="media--group--photo-caption absolute w-full bg-black bg-opacity-75 bottom-0 text-xs px-3 py-1 text-white tracking-tight leading-none" title=" /-/ Photo: Ilja Höpping, Stadt Duisburg">
+      
+  <div>
+    <div class="label field--label visually-hidden">Signoff</div>
+              Photo: Ilja Höpping, Stadt Duisburg
+          </div>
+
+  </div>
+
+  </figure>
+</div>
+      
+</a>
+      
+                                        </div>
+              <div class="card--main xl__card-h--main flex flex-col justify-between">
+                    <div class="card--body xl__card-h--body px-6 py-3">
+          
+              
+
+  <div>
+    <div class="label field--label visually-hidden"></div>
+              <div class="field field--node--field-post-type field--name-field-post-type field--type-list-string field--label-visually_hidden card--visually_hidden font-bold text-primary-600 text-sm" title="Type: Announcement">Announcement</div>
+          </div>
+
+      <h3 class="field field--node--field-display-title field--name-field-display-title field--type-string field--label-visually_hidden text-base leading-tight line-clamp-3 mr-3">
+    
+
+  <div>
+    <div class="label field--label visually-hidden"></div>
+              <h3 class="field field--node--field-display-title field--name-field-display-title field--type-string field--label-visually_hidden card--visually_hidden text-base leading-tight line-clamp-3" title="CogSIMA 2025
+">
+        <span><a href="/post/announcement/cogsima-2025" hreflang="en">CogSIMA 2025</a></span>
+
+      </h3>
+          </div>
+
+  </h3>
+    <span class="block mt-1 text-xs text-gray-500"><i class="mr-2 fa-fw fa-regular fa-clock"></i>4 days 9 hours ago</span>
+    
+
+  <div>
+    <div class="label field--label visually-hidden">Lead</div>
+          <div class="field field--node--field-lead field--name-field-lead field--type-string field--label-visually_hidden card--visually_hidden text-sm tracking-wide text-gray-600 mt-3 break-words font-serif" title="Will be held June 2-5, 2025 in Duisburg Germany">
+        Will be held June 2-5, 2025 in Duisburg Germany
+      </div>
+      </div>
+
+    
+    
+  
+        </div>
+                                                <div class="card--footer px-6 py-3 flex flex-row justify-between">
+                <div class="flex flex-grow justify-end">
+      <ul class="links text-sm font-bold">
+  <li class="node-readmore group">
+    <a href="/post/announcement/cogsima-2025" rel="nofollow"><span>Read More</span>
+    <span class="inline-block duration-150 transform group-hover__translate-x-1">
+      <i class="ml-1 fa-regular fa-fw text-primary-500 fa-arrow-alt-circle-right"></i>
+    </span>
+    </a>
+  </li>
+</ul>
+    </div>
+  
+            
+          </div>
+                  </div>
+  </div>
+  </article>
+
+
+
+    </li>
+  
+
+    <li class="flex mx-auto last even">
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+            <article about="/post/announcement/perspectives-volume-7" data-observe-resizes="" class="responsive-container w-full card--container flex flex-col">
+    <div class="flex card-v xl__card-h card card--post overflow-hidden">
+                                              <div class="card--header card-v--header xl__card-h--header bg-gray-50 relative flex-shrink-0 flex">
+                                            
+          <a href="/post/announcement/perspectives-volume-7" class="w-full" rel="nofollow">
+  
+
+            <div class="field field--node--field-media-ref field--name-field-media-ref field--type-entity-reference field--label-hidden card--hidden bg-gray-100 flex-grow">
+<figure class="media--photo relative max-w-max mx-auto">
+  
+      
+              
+
+<img loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="760" height="570" alt="Perspectives Volume 7 Issue 1 Cover" class="lazyload" data-src="/files/isif/styles/responsive_4_3_760w/public/images/media/photos/Perspectives_Vol7_cover.png?h=bd160b9e&amp;itok=MuXbkHBf" typeof="foaf:Image" data-observe-resizes="">
+
+
+
+      
+  </figure>
+</div>
+      
+</a>
+      
+                                        </div>
+              <div class="card--main xl__card-h--main flex flex-col justify-between">
+                    <div class="card--body xl__card-h--body px-6 py-3">
+          
+              
+
+  <div>
+    <div class="label field--label visually-hidden"></div>
+              <div class="field field--node--field-post-type field--name-field-post-type field--type-list-string field--label-visually_hidden card--visually_hidden font-bold text-primary-600 text-sm" title="Type: Announcement">Announcement</div>
+          </div>
+
+      <h3 class="field field--node--field-display-title field--name-field-display-title field--type-string field--label-visually_hidden text-base leading-tight line-clamp-3 mr-3">
+    
+
+  <div>
+    <div class="label field--label visually-hidden"></div>
+              <h3 class="field field--node--field-display-title field--name-field-display-title field--type-string field--label-visually_hidden card--visually_hidden text-base leading-tight line-clamp-3" title="Perspectives Volume 7
+">
+        <span><a href="/post/announcement/perspectives-volume-7" hreflang="en">Perspectives Volume 7</a></span>
+
+      </h3>
+          </div>
+
+  </h3>
+    <span class="block mt-1 text-xs text-gray-500"><i class="mr-2 fa-fw fa-regular fa-clock"></i>2 weeks 3 days ago</span>
+    
+    
+    
+  
+        </div>
+                                                <div class="card--footer px-6 py-3 flex flex-row justify-between">
+                <div class="flex flex-grow justify-end">
+      <ul class="links text-sm font-bold">
+  <li class="node-readmore group">
+    <a href="/post/announcement/perspectives-volume-7" rel="nofollow"><span>Read More</span>
+    <span class="inline-block duration-150 transform group-hover__translate-x-1">
+      <i class="ml-1 fa-regular fa-fw text-primary-500 fa-arrow-alt-circle-right"></i>
+    </span>
+    </a>
+  </li>
+</ul>
+    </div>
+  
+            
+          </div>
+                  </div>
+  </div>
+  </article>
+
+
+
+    </li>
+  
+
+  </ul>
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+      </div>
+
+                                <div class="absolute top-0 bottom-0 right-0 z-0 w-px separator"></div>
+                  </div>
+                                                                                                                                                              
+  </div>
+
+</div>
+</div>
+
+
+<div class="bg-secondary-500 bg-color _none relative py-6 lg__py-12"><div class="absolute top-0 flex w-full h-full container--header--bg min-h-40 Xmax-h-44"></div><div class="container relative">
+
+
+  <div class="layout row layout-builder__layout">
+    
+                        <div class="col-12 sm__col-12 md__col-12 lg__col-3 xl__col-3 2xl__col-3 blb-region-col">
+          
+
+
+<div class="text-center _none mt-6 card p-6 shadow-md block-type-cta block block-layout-builder block-inline-blockcta block--blb p-2 space-y-2">
+  
+          <h3 class="block__title">JAIF</h3>
+      
+
+      <div class="content space-y-3">
+              <a href="" class="flex justify-center">
+
+
+  <div class="field field--block-content--field-image-ref field--name-field-image-ref field--type-entity-reference field--label-visually_hidden full--visually_hidden">
+          <div class="label field--label visually-hidden" title="Image">Image</div>
+                              <div title="Image">
+<figure class="media--photo relative max-w-max mx-auto">
+  
+      
+              
+
+<img loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="760" height="570" alt="JAIF Publication image" class="lazyload" data-src="/files/isif/styles/responsive_4_3_760w/public/images/media/photos/isif-cta-graphics_jaip.png?h=09a0c983&amp;itok=j7KMfqbN" typeof="foaf:Image" data-observe-resizes="">
+
+
+
+      
+  </figure>
+</div>
+                      </div>
+</a>
+      
+      <div class="text-lg">
+                  
+
+
+            <div class="field field--block-content--field-lead-formatted field--name-field-lead-formatted field--type-text field--label-hidden full--hidden">Journal of Advances in Information Fusion (JAIF) is our flagship journal. </div>
+            
+              </div>
+
+      <div class="pt-2 flex items-center justify-center gap-3 flex-wrap">
+                  <a href="/publication/jaif" class="btn btn-primary">View JAIF Issues</a>
+              </div>
+    </div>
+  </div>
+
+                                <div class="absolute top-0 bottom-0 right-0 z-0 w-px separator"></div>
+                  </div>
+                              <div class="col-12 sm__col-12 md__col-12 lg__col-3 xl__col-3 2xl__col-3 blb-region-col">
+          
+
+
+<div class="text-center _none mt-6 card p-6 shadow-md block-type-cta block block-layout-builder block-inline-blockcta block--blb p-2 space-y-2">
+  
+          <h3 class="block__title">Perspectives</h3>
+      
+
+      <div class="content space-y-3">
+              <span class="flex justify-center">
+
+
+  <div class="field field--block-content--field-image-ref field--name-field-image-ref field--type-entity-reference field--label-visually_hidden full--visually_hidden">
+          <div class="label field--label visually-hidden" title="Image">Image</div>
+                              <div title="Image">
+<figure class="media--photo relative max-w-max mx-auto">
+  
+      
+              
+
+<img loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="760" height="570" alt="Perspectives image" class="lazyload" data-src="/files/isif/styles/responsive_4_3_760w/public/images/media/photos/isif-cta-graphics_perspectives.png?h=09a0c983&amp;itok=v8Lh_BlM" typeof="foaf:Image" data-observe-resizes="">
+
+
+
+      
+  </figure>
+</div>
+                      </div>
+</span>
+      
+      <div class="text-lg">
+                  
+
+
+            <div class="field field--block-content--field-lead-formatted field--name-field-lead-formatted field--type-text field--label-hidden full--hidden">Perspectives is a new publication of the International Society on Information Fusion (ISIF). </div>
+            
+              </div>
+
+      <div class="pt-2 flex items-center justify-center gap-3 flex-wrap">
+                  <a href="/publication/perspectives" class="btn btn-primary">View Perspectives Issues</a>
+              </div>
+    </div>
+  </div>
+
+                                <div class="absolute top-0 bottom-0 right-0 z-0 w-px separator"></div>
+                  </div>
+                              <div class="col-12 sm__col-12 md__col-12 lg__col-3 xl__col-3 2xl__col-3 blb-region-col">
+          
+
+
+<div class="_none mt-6 card p-6 shadow-md block-type-cta block block-layout-builder block-inline-blockcta block--blb p-2 space-y-2 text-center">
+  
+          <h3 class="text-center block__title">Job Opportunities</h3>
+      
+
+      <div class="text-center content space-y-3">
+              <span class="flex justify-center">
+
+
+  <div class="field field--block-content--field-image-ref field--name-field-image-ref field--type-entity-reference field--label-visually_hidden full--visually_hidden">
+          <div class="label field--label visually-hidden" title="Image">Image</div>
+                              <div title="Image">
+<figure class="media--photo relative max-w-max mx-auto">
+  
+      
+              
+
+<img loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="760" height="570" alt="Job Opportunities image" class="lazyload" data-src="/files/isif/styles/responsive_4_3_760w/public/images/media/photos/isif-cta-graphics_job-opportunities_0.png?h=09a0c983&amp;itok=lVKUWzJj" typeof="foaf:Image" data-observe-resizes="">
+
+
+
+      
+  </figure>
+</div>
+                      </div>
+</span>
+      
+      <div class="text-lg">
+                  
+
+
+            <div class="field field--block-content--field-lead-formatted field--name-field-lead-formatted field--type-text field--label-hidden full--hidden">Take a look at the current ISIF community related job opportunities!</div>
+            
+              </div>
+
+      <div class="pt-2 flex items-center justify-center gap-3 flex-wrap">
+                  <a href="/job-opportunities" class="btn btn-primary">Job Opportunities</a>
+              </div>
+    </div>
+  </div>
+
+                                <div class="absolute top-0 bottom-0 right-0 z-0 w-px separator"></div>
+                  </div>
+                              <div class="col-12 sm__col-12 md__col-12 lg__col-3 xl__col-3 2xl__col-3 blb-region-col">
+          
+
+
+<div class="_none mt-6 card p-6 shadow-md block-type-cta block block-layout-builder block-inline-blockcta block--blb p-2 space-y-2 text-center">
+  
+          <h3 class="text-center block__title">ISIF Membership</h3>
+      
+
+      <div class="text-center content space-y-3">
+              <span class="flex justify-center">
+
+
+  <div class="field field--block-content--field-image-ref field--name-field-image-ref field--type-entity-reference field--label-visually_hidden full--visually_hidden">
+          <div class="label field--label visually-hidden" title="Image">Image</div>
+                              <div title="Image">
+<figure class="media--photo relative max-w-max mx-auto">
+  
+      
+              
+
+<img loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="760" height="570" alt="Membership image" class="lazyload" data-src="/files/isif/styles/responsive_4_3_760w/public/images/media/photos/isif-cta-graphics_isif-membership_1.png?h=09a0c983&amp;itok=Wbhxh9_B" typeof="foaf:Image" data-observe-resizes="">
+
+
+
+      
+  </figure>
+</div>
+                      </div>
+</span>
+      
+      <div class="text-lg">
+                  
+
+
+            <div class="field field--block-content--field-lead-formatted field--name-field-lead-formatted field--type-text field--label-hidden full--hidden">Membership information and exclusive benefits are now available!</div>
+            
+              </div>
+
+      <div class="pt-2 flex items-center justify-center gap-3 flex-wrap">
+                  <a href="/membership/membership-information" class="btn btn-primary">Membership Benefits</a>
+              </div>
+    </div>
+  </div>
+
+                                <div class="absolute top-0 bottom-0 right-0 z-0 w-px separator"></div>
+                  </div>
+                                                                                                                                              
+  </div>
+
+</div>
+</div>
+
+
+<div class="_none relative py-6 lg__py-12"><div class="absolute top-0 flex w-full h-full container--header--bg min-h-40 Xmax-h-44"></div><div class="container relative">
+
+
+  <div class="layout row layout-builder__layout">
+    
+                        <div class="col-12 blb-region-col">
+          <div class="views-element-container _none block block-views block-views-blockcontent-events-block-card-grid block--blb">
+  
+      <div class="flex items-center">
+      <div class="flex-grow h-px mr-6 border-separator-light"></div>
+      <span class="relative inline-flex text-lg font-extrabold"><h2 class="block__title">Upcoming Events</h2></span>
+      <div class="flex-grow h-px ml-6 border-separator-light"></div>
+    </div>
+    
+            <div class="mt-6">
+        
+
+<div><div class="js-view-dom-id-651716a017c2985bc9ca3913275b594c20aeca04ff1e3ef4f06539c56ab69bc0">
+    
+
+  
+  
+  
+
+  
+
+  <ul class="grid grid-cols-1 md__grid-cols-2 lg__grid-cols-4 gap-6 grid-responsive-container" data-observe-resizes="">
+
+
+    <li class="flex mx-auto first odd">
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+        <article about="/event/conference/2025-ieee-conference-cognitive-and-computational-aspects-situation-management" data-observe-resizes="" class="responsive-container w-full card--container flex flex-col">
+    <div class="flex card-v xl__card-h card card--event overflow-hidden">
+                                    
+                                <div class="card--main xl__card-h--main flex flex-col justify-between">
+                    <div class="card--body xl__card-h--body px-6 py-3">
+          
+              
+
+  <div>
+    <div class="label field--label visually-hidden">Acronym</div>
+              <div class="field field--node--field-acronym field--name-field-acronym field--type-string field--label-visually_hidden card--visually_hidden font-bold text-primary-600 text-sm" title="Acronym">CogSIMA 2025</div>
+          </div>
+
+    
+
+  <div>
+    <div class="label field--label visually-hidden"></div>
+              <h3 class="field field--node--field-display-title field--name-field-display-title field--type-string field--label-visually_hidden card--visually_hidden text-base leading-tight line-clamp-3" title="2025 IEEE Conference on Cognitive and Computational Aspects of Situation Management (CogSIMA)">
+        <a href="/event/conference/2025-ieee-conference-cognitive-and-computational-aspects-situation-management" hreflang="en">2025 IEEE Conference on Cognitive and Computational Aspects of Situation Management (CogSIMA)</a>
+      </h3>
+          </div>
+
+    
+    
+
+
+  <div class="leading-tight">
+    <div class="label field--label visually-hidden">Date</div>
+              <div class="field field--node--field-date-range field--name-field-date-range field--type-daterange field--label-visually_hidden card--visually_hidden text-xs tracking-wide text-gray-600 mt-1 break-words inline-flex leading-tight" title="Date">
+        <span><i class="mr-3 fa-regular fa-fw fa-calendar"></i></span>
+        <span><time datetime="2025-06-02T12:00:00Z">2 Jun 2025</time>
+ – <time datetime="2025-06-05T12:00:00Z">5 Jun 2025</time>
+</span>
+      </div>
+          </div>
+
+    
+
+
+  <div class="leading-tight">
+    <div class="label field--label visually-hidden">Geographic Location</div>
+              <div class="field field--node--field-location-text field--name-field-location-text field--type-string field--label-visually_hidden card--visually_hidden text-xs tracking-wide text-gray-600 mt-1 break-words inline-flex leading-tight" title="Geographic Location">
+        <span><i class="mr-3 fa-regular fa-fw fa-location"></i></span>
+        <span>Duisburg, Germany</span>
+      </div>
+          </div>
+
+    
+    
+    
+
+
+  <div class="leading-tight">
+    <div class="label field--label visually-hidden">General Chair(s)</div>
+          <div>
+          <div class="leading-tight field field--node--field-general-chair-ref field--name-field-general-chair-ref field--type-entity-reference field--label-visually_hidden card--visually_hidden text-xs tracking-wide text-gray-600 mt-1 break-words inline-flex" title="General Chair(s)">
+        <span><i class="mr-3 fa-regular fa-fw fa-users"></i></span>
+        <div class="line-clamp-3">
+                                  <span title="Dirk Söffker"><a href="/contact/dirk-soffker" hreflang="en">Dirk Söffker</a></span>                  </div>
+      </div>
+          </div>
+      </div>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+        </div>
+                                                </div>
+  </div>
+  </article>
+
+
+
+    </li>
+  
+
+    <li class="flex mx-auto even">
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+        <article about="/event/conference/28th-international-conference-information-fusion" data-observe-resizes="" class="responsive-container w-full card--container flex flex-col">
+    <div class="flex card-v xl__card-h card card--event overflow-hidden">
+                                    
+                                <div class="card--header card-v--header xl__card-h--header bg-gray-50 relative flex-shrink-0 flex">
+                                    
+
+            <div class="field field--node--field-media-ref field--name-field-media-ref field--type-entity-reference field--label-hidden card--hidden bg-gray-100 flex-grow">
+<figure class="media--photo relative max-w-max mx-auto">
+  
+      
+              
+
+<a href="https://isif.org/event/conference/28th-international-conference-information-fusion"><img loading="lazy" src="image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="760" height="570" alt="Rio de Janerio, Brazil" class="lazyload" data-src="/files/isif/styles/responsive_4_3_760w/public/images/media/photos/chrome_V5jmyXsQcw.jpg?h=8e6d1ac2&amp;itok=2n0aTXe9" typeof="Image" data-observe-resizes=""></a>
+
+
+
+      
+  </figure>
+</div>
+      
+                                        </div>
+              <div class="card--main xl__card-h--main flex flex-col justify-between">
+                    <div class="card--body xl__card-h--body px-6 py-3">
+          
+              
+
+  <div>
+    <div class="label field--label visually-hidden">Acronym</div>
+              <div class="field field--node--field-acronym field--name-field-acronym field--type-string field--label-visually_hidden card--visually_hidden font-bold text-primary-600 text-sm" title="Acronym">FUSION 2025</div>
+          </div>
+
+    
+
+  <div>
+    <div class="label field--label visually-hidden"></div>
+              <h3 class="field field--node--field-display-title field--name-field-display-title field--type-string field--label-visually_hidden card--visually_hidden text-base leading-tight line-clamp-3" title="28th International Conference on Information Fusion">
+        <a href="/event/conference/28th-international-conference-information-fusion" hreflang="en">28th International Conference on Information Fusion</a>
+      </h3>
+          </div>
+
+    
+    
+
+
+  <div class="leading-tight">
+    <div class="label field--label visually-hidden">Date</div>
+              <div class="field field--node--field-date-range field--name-field-date-range field--type-daterange field--label-visually_hidden card--visually_hidden text-xs tracking-wide text-gray-600 mt-1 break-words inline-flex leading-tight" title="Date">
+        <span><i class="mr-3 fa-regular fa-fw fa-calendar"></i></span>
+        <span><time datetime="2025-07-07T12:00:00Z">7 Jul 2025</time>
+ – <time datetime="2025-07-10T12:00:00Z">10 Jul 2025</time>
+</span>
+      </div>
+          </div>
+
+    
+
+
+  <div class="leading-tight">
+    <div class="label field--label visually-hidden">Geographic Location</div>
+              <div class="field field--node--field-location-text field--name-field-location-text field--type-string field--label-visually_hidden card--visually_hidden text-xs tracking-wide text-gray-600 mt-1 break-words inline-flex leading-tight" title="Geographic Location">
+        <span><i class="mr-3 fa-regular fa-fw fa-location"></i></span>
+        <span>Rio de Janeiro, Brazil</span>
+      </div>
+          </div>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+        </div>
+                                                </div>
+  </div>
+  </article>
+
+
+
+    </li>
+  
+
+    <li class="flex mx-auto last odd">
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+        <article about="/event/conference/29th-international-conference-information-fusion" data-observe-resizes="" class="responsive-container w-full card--container flex flex-col">
+    <div class="flex card-v xl__card-h card card--event overflow-hidden">
+                                    
+                                <div class="card--header card-v--header xl__card-h--header bg-gray-50 relative flex-shrink-0 flex">
+                                    
+
+            <div class="field field--node--field-media-ref field--name-field-media-ref field--type-entity-reference field--label-hidden card--hidden bg-gray-100 flex-grow">
+<figure class="media--photo relative max-w-max mx-auto">
+  
+      
+              
+
+<a href="https://isif.org/event/conference/29th-international-conference-information-fusion"><img loading="lazy" src="image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="760" height="570" alt="Trondheim, Norway" class="lazyload" data-src="/files/isif/styles/responsive_4_3_760w/public/images/media/photos/chrome_7moT62a7J6.png?h=6b9d1b5d&amp;itok=d8fXorto" typeof="Image" data-observe-resizes=""></a>
+
+
+
+      
+  </figure>
+</div>
+      
+                                        </div>
+              <div class="card--main xl__card-h--main flex flex-col justify-between">
+                    <div class="card--body xl__card-h--body px-6 py-3">
+          
+              
+
+  <div>
+    <div class="label field--label visually-hidden">Acronym</div>
+              <div class="field field--node--field-acronym field--name-field-acronym field--type-string field--label-visually_hidden card--visually_hidden font-bold text-primary-600 text-sm" title="Acronym">FUSION 2026</div>
+          </div>
+
+    
+
+  <div>
+    <div class="label field--label visually-hidden"></div>
+              <h3 class="field field--node--field-display-title field--name-field-display-title field--type-string field--label-visually_hidden card--visually_hidden text-base leading-tight line-clamp-3" title="29th International Conference on Information Fusion">
+        <a href="/event/conference/29th-international-conference-information-fusion" hreflang="en">29th International Conference on Information Fusion</a>
+      </h3>
+          </div>
+
+    
+    
+
+
+  <div class="leading-tight">
+    <div class="label field--label visually-hidden">Date</div>
+              <div class="field field--node--field-date-range field--name-field-date-range field--type-daterange field--label-visually_hidden card--visually_hidden text-xs tracking-wide text-gray-600 mt-1 break-words inline-flex leading-tight" title="Date">
+        <span><i class="mr-3 fa-regular fa-fw fa-calendar"></i></span>
+        <span><time datetime="2026-06-23T12:00:00Z">23 Jun 2026</time>
+ – <time datetime="2026-06-26T12:00:00Z">26 Jun 2026</time>
+</span>
+      </div>
+          </div>
+
+    
+
+
+  <div class="leading-tight">
+    <div class="label field--label visually-hidden">Geographic Location</div>
+              <div class="field field--node--field-location-text field--name-field-location-text field--type-string field--label-visually_hidden card--visually_hidden text-xs tracking-wide text-gray-600 mt-1 break-words inline-flex leading-tight" title="Geographic Location">
+        <span><i class="mr-3 fa-regular fa-fw fa-location"></i></span>
+        <span>Trondheim, Norway</span>
+      </div>
+          </div>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+        </div>
+                                                </div>
+  </div>
+  </article>
+
+
+
+    </li>
+  
+
+  </ul>
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+      </div>
+        </div>
+
+                                <div class="absolute top-0 bottom-0 right-0 z-0 w-px separator"></div>
+                  </div>
+                                                                                                                                                                                              
+  </div>
+
+</div>
+</div>
+
+
+<div class="bg-gray-100 bg-color _none relative py-6 lg__py-12"><div class="absolute top-0 flex w-full h-full container--header--bg min-h-40 Xmax-h-44"></div><div class="container relative">
+
+
+  <div class="layout row layout-builder__layout">
+    
+                        <div class="col-12 center-cards blb-region-col">
+          
+                                <div class="absolute top-0 bottom-0 right-0 z-0 w-px separator"></div>
+                  </div>
+                                                                                                                                                                                              
+  </div>
+
+</div>
+</div>
+
+  </div>
+
+</article>
+
+  </div>
+
+
+                            </div>
+                                              </div>
+
+        </main>
+          </div>
+
+    <button id="backtotop" x-cloak="" x-data="{scroll : false}" @scroll.window="document.body.scrollTop > 20 || document.documentElement.scrollTop > 20 ? scroll = true : scroll = false" @click="window.scrollTo({top: 0, behavior: 'smooth'})" x-show="scroll" type="button">
+    <i class="fa-regular fa-lg fa-chevron-up text-white"></i>
+  </button>
+
+        <footer role="contentinfo">
+                    <div class="bg-primary-500 bg-liquid-cheese md__space-y-3 py-3">
+  <div id="block-catalyze-tw-socialmedialinks" class="bg-primary-500 bg-liquid-cheese block-type-basic block block-block-content block-block-contentfc15c0a2-9872-4971-a8cb-55ee2546779a">
+  
+    
+      
+
+            <div class="mx-auto break-words word-wrap prose font-serif relative">
+        <div class="flex flex-row justify-center space-x-6">
+  <p class="text-xl md__text-2xl ml-8 my-5 text-white font-bold tracking-wide flex items-center"><span class="text-white"><a id="social"></a>Follow ISIF on Social Media!</span></p>
+
+
+<ul class="inline-flex no-bullets my-3">
+
+<li class="inline-flex justify-center">
+<a class="my-0 w-10 inline-flex justify-center items-center animate-zoom-up-sm shadow-none" target="_blank" href="https://x.com/ISIF_Society" title="X" rel="noopener noreferrer">
+<span class=""><svg class="svg--social--x" fill="#ffffff" viewBox="0 0 24 24" width="32" height="32" aria-hidden="true">
+    <g>
+      <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"></path>
+    </g>
+  </svg></span>
+</a>
+</li>
+
+<li class="inline-flex justify-center">
+<a class="my-0 w-10 inline-flex justify-center items-center animate-zoom-up-sm shadow-none" target="_blank" href="https://www.linkedin.com/company/16033167/" title="LinkedIn" rel="noopener noreferrer">
+<span class=""><svg viewBox="0 0 24 24" width="32" height="32" stroke="currentColor" stroke-width="0" fill="#ffffff" stroke-linecap="round" stroke-linejoin="round" class="css-i6dzq1">
+<path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z">
+</path>
+<rect x="2" y="9" width="4" height="12"></rect>
+<circle cx="4" cy="4" r="2"></circle>
+</svg></span>
+</a>
+</li>
+
+<!--<li class="inline-flex justify-center">-->
+<!--<a class="my-0 w-10 inline-flex justify-center items-center animate-zoom-up-sm shadow-none" target="_blank"-->
+<!--href="#"-->
+<!--title="Instagram" rel="noopener noreferrer">-->
+
+    
+<!--    <svg xmlns="http://www.w3.org/2000/svg" stroke="currentColor" fill="#ffffff" stroke-linecap="round"-->
+<!--stroke-linejoin="round"  version="1.1" viewBox="0 0 600 600" width="35" height="30">-->
+<!-- <g>-->
+<!--  <path d="m536.67 0h-373.34c-24.754 0-48.492 9.832-65.996 27.336-17.504 17.504-27.336 41.242-27.336 65.996v373.34c0 24.754 9.832 48.492 27.336 65.996 17.504 17.504 41.242 27.336 65.996 27.336h373.34c24.754 0 48.492-9.832 65.996-27.336 17.504-17.504 27.336-41.242 27.336-65.996v-373.34c0-24.754-9.832-48.492-27.336-65.996-17.504-17.504-41.242-27.336-65.996-27.336zm46.668 466.67h-0.003907c0 12.375-4.9141 24.246-13.668 32.996-8.75 8.7539-20.621 13.668-32.996 13.668h-373.34c-12.375 0-24.246-4.9141-32.996-13.668-8.7539-8.75-13.668-20.621-13.668-32.996v-373.34c0-12.375 4.9141-24.246 13.668-32.996 8.75-8.7539 20.621-13.668 32.996-13.668h373.34c12.375 0 24.246 4.9141 32.996 13.668 8.7539 8.75 13.668 20.621 13.668 32.996z"/>-->
+<!--  <path d="m350 140c-37.129 0-72.738 14.75-98.996 41.004-26.254 26.258-41.004 61.867-41.004 98.996s14.75 72.738 41.004 98.996c26.258 26.254 61.867 41.004 98.996 41.004s72.738-14.75 98.996-41.004c26.254-26.258 41.004-61.867 41.004-98.996s-14.75-72.738-41.004-98.996c-26.258-26.254-61.867-41.004-98.996-41.004zm0 233.33c-24.754 0-48.492-9.832-65.996-27.336s-27.336-41.242-27.336-65.996 9.832-48.492 27.336-65.996 41.242-27.336 65.996-27.336 48.492 9.832 65.996 27.336 27.336 41.242 27.336 65.996-9.832 48.492-27.336 65.996-41.242 27.336-65.996 27.336z"/>-->
+<!--  <path d="m536.67 128.33c0 19.332-15.672 35-35 35-19.332 0-35-15.668-35-35 0-19.328 15.668-35 35-35 19.328 0 35 15.672 35 35"/>-->
+<!-- </g>-->
+<!--</svg>-->
+
+<!--</a>-->
+<!--</li>-->
+
+</ul>
+</div>
+      </div>
+      
+  </div>
+
+  </div>
+
+                          <section class="bg-gray-900 md__space-y-3 py-3" id="footer-bottom">
+  
+    </section></footer></div>
+
+<div class="bg-gray-900">
+  <div id="footer--copyright--confcats" class="py-3">
+    <p class="container text-xs text-center text-gray-300 md__text-left">This site is created, maintained, and managed by
+      <a class="font-semibold hover__text-white focus__text-white" href="https://conferencecatalysts.com" target="_blank">Conference Catalysts, LLC</a>.
+      <br>
+      Please feel free to <a class="font-semibold hover__text-white focus__text-white" href="https://conferencecatalysts.com/contact" target="_blank">contact us</a> for any assistance.
+    </p>
+  </div>
+
+
+          
+  </div>
+
+  </div>

@@ -1,0 +1,589 @@
+input:
+1. AROB_3 conference:
+Home 
+  Log In 
+  Monday, Nov 25 2024 at    
+ 30th International Symposium on Artificial Life and Robotics   
+  Venue 
+ Submission Forms  
+ Author's Kit 
+  Journal Track Submission 
+  Abstract Submission 
+  Paper Submission 
+  OS Proposal Submission 
+  Submission Status 
+  Registration 
+  Chair: S. Nisar | OS25 ISBC:  
+  Complex and Collective Systems: Theory and Data Analysis  
+  Chair: T. Ohira | OS20 AROB:  
+  System Sensing and Its Applications 1  
+  Chair: H. Asano | GS2  
+  Invited Talk  
+  Kenzo Nonami | OS21 AROB:  
+  System Sensing and Its Applications 2  
+  Interdisciplinary Approaches to Data-Driven Biological and Medical Research  
+  Chair: T. Hiroyasu | OS15 AROB:  
+  Mobile Robot Control  
+  Chair: S. Sagara | GS10  
+  Invited Talk  
+  Jun Morimoto | GS31  
+  Neural networks II  
+  Chair: TBD | GS23  
+  Machine learning III  
+  Chair: TBD | OS18 AROB:  
+  Robotics with Intelligence and/or Informatics I  
+  Chair: T. Kinugasa | GS3  
+  Chair: TBD | GS16  
+  Human-machine interaction and collaboration II  
+  Chair: TBD | OS13 AROB:  
+  Intuitive Human-System Interaction I  
+  Chair: M. Yokota 
+  Invited Talk  
+  Shinichi Kimura | OS6 AROB:  
+  Co-creation in research and education  
+  Chair: K. Mackin | OS9 AROB:  
+  Evolving Robotics and Machine Learning Applications  
+  Chair: M.K. Habib | OS19 AROB:  
+  Robotics with Intelligence and/or Informatics II  
+  Chair: T. Kinugasa | GS4  
+  Chair: TBD | GS6  
+  Artificial life I  
+  Chair: TBD | OS14 AROB:  
+  Intuitive Human-System Interaction II  
+  Chair: M. Yokota 
+  Bio-inspired theory and applications (1)  
+  Chair: K. Yamamori | OS4 AROB:  
+  Biomimetic Machines and Robots I  
+  Chair: K. Watanabe | OS16 AROB:  
+  New Developments in Data Science for Cognition, Design, and Learning  
+  Chair: S. Matsumoto | OS22 AROB:  
+  Vehicle and Mobile Robot Technology I  
+  Chair: K. Sawada | GS5  
+  Bio-inspired theory and applications (2)  
+  Chair: K. Yamamori | OS5 AROB:  
+  Biomimetic Machines and Robots II  
+  Chair: K. Watanabe | OS1 AROB:  
+  Advanced AI Applications and Robotics  
+  Chair: K. Hashimoto | OS23 AROB:  
+  Vehicle and Mobile Robot Technology II  
+  Chair: K. Sawada | GS25  
+  Chair: TBD | GS9  
+  Bio-inspired robotics II  
+  Chair: TBD | OS17 AROB:  
+  Robot and Control  
+  Chair: N. Takahashi |  
+  GS12 Control and analysis techniques  
+  Chair: TBD  
+ GS12-1 Anisotropic Texture Control in 3D Food Printing With Variable Pitch | Koki Fujihara, Jun Ogawa, Hidemitsu Furukawa 
+  GS12-2 Detection of conductor break position by high-frequency signal | Daichi Dezaki, Nobuo Iwasaki, Kazuya Okamoto 
+  GS12-3 Social Networking and Firm Performance: Evidence from Taiwan | Wen-jhan Jane 
+ Room A  
+  OS11 AROB: Human-Centered Robotics  
+  Chair: Sajid Nisar  
+  Co-Chair: TBD  
+  OS25-5 VR sickness reduction method by selective blurring considering self-motion direction | Itsuki Takeshita, Hideo Miyachi 
+  Room C  
+  OS20 AROB: System Sensing and Its Applications 1  
+  Chair: Hirotoshi Asano  
+  Co-Chair: Atsushi Shibata  
+  GS2-2 Real-World Application of gMLP for Long Sequential Robot Behavior | Koki Sato, Ryoma Tanaka, Ryo Kobayashi, Sho Yamauchi, Keiji Suzuki, Sho'ji Suzuki 
+  GS2-3 Generalized Few-Shot Siamese Semantic Segmentation with Pyramid Vision Transformer Backbone | Francis Sanco, Clifford Broni-Bediako, Masayasu Atsumi 
+  GS2-4 Intelligent Information Gathering and Analysis in Sustainable Energy: A Generative-AI-Enhanced and Microservice-Based Approach | Shang-Pin Ma, Chen-Hao Chao, Wei-Kai Lin, Guan-Hong Lai, Yue-Jun Lai, Shih-Ying Chang, Zihjin Ciou, Jones Hung 
+  GS2-5 First-Person View to Third-Person View Generation Using Pix2pix in Driving | Hiroki Tomura, Hironori Hiraishi 
+  GS2-6 Supervised Collaborative Learning System Using a Wire-Connected Two-Wheeled Rover for Planetary Exploration | Clive Jancen Kawaoto, Tenta Suzuki, Mao Tobisawa, Junya Hoshino, Yuki Itoh, Kaito Kumagae, Kenji Matsuda, Johei Matsuoka, Kiyohiko Hattori 
+ Room A  
+  OS10 AROB: F-REI New Research Unit in the Robotics Field: Autonomy, Intelligence and Swarm Control  
+  Chair: Fumitoshi Matsuno  
+  Co-Chair: Satoshi Suzuki  
+  OS10-5 No Tower Information Needed: An Autonomous Inspection Route Generation Method based on Target Detection | Wei Wang, Qi W 
+  Room C  
+  OS21 AROB: System Sensing and Its Applications 2  
+  Chair: Kosuke Oiwa  
+  Co-Chair: Kent Nagumo  
+  GS22-4 Sentiment Analysis Based on Ratings of Product Reviews Using BERT and SHAP | Takahiro Hayashi, Ryo Hatano, Hiroyuki Nishiyama 
+  GS22-5 Developing Explainable Feature Selection Scheme using Machine Learning and SHAP for Multi-Step Ahead Patient Queue Length Prediction in Outpatient Phlebotomy Units | Tzu-Chi Liu, Ming-Shu Chen, Yi-Chen Lee, Chih-Te Yang, Chien-Chih Wang, Chi-Jie Lu 
+  GS22-6 Depth Image Generation Algorithm Using Monocular Camera and Tiny Distance Sensor | Kenta Kikuno, TEKLAY ASMELASH GERENCHEAL, Jae Hoon Lee, Shingo Okamoto 
+ Room A  
+  OS12 AROB: Interdisciplinary Approaches to Data-Driven Biological and Medical Research  
+  Chair: Tomoyuki Hiroyasu  
+  Co-Chair: Hiroshi Furutani  
+  OS12-5 Estimation of Low-Rank Correlation Matrix Based on a Thresholding Approach and the L1 Norm | Kensuke Tanioka, Satoru Hiwa, Tomoyuki Hiroyasu 
+  Room B  
+  OS15 AROB: Mobile Robot Control  
+  Chair: Shinichi Sagara  
+  Co-Chair: Yuta Hanazawa  
+ Room A  
+  OS7 AROB: Construction of lunar bases and lunar exploration by AI-powered robots I  
+  Chair: Ryusuke Fujisawa  
+  Co-Chair: Yuichi Ambe  
+  GS23-7 Comparative analysis of short videos across social media platforms | Malika Ziyada 
+  Room D  
+  OS18 AROB: Robotics with Intelligence and/or Informatics I  
+  Chair: Tetsuya Kinugasa  
+  Co-Chair: Masatoshi Hatano  
+  GS16-4 Training Core Muscle Endurance With Vibrotactile Haptic Assistance Belt | Nishita Ranadive, Connor McGregor 
+  Room H  
+  OS13 AROB: Intuitive Human-System Interaction I  
+  Chair: Masao Yokota  
+  Co-Chair: Akio Doi  
+ Room A  
+  OS8 AROB: Construction of lunar bases and lunar exploration by AI-powered robots II  
+  Chair: Ryusuke Fujisawa  
+  Co-Chair: Yuichi Ambe  
+  OS8-5 Investigation of Distributed Wave-Gait Generation in Multi-Legged Robots with Asymmetrical Leg Configurations | Yuichi Ambe, Fumitoshi Matsuno 
+  Room B  
+  OS6 AROB: Co-creation in research and education  
+  Chair: Kenneth J. Mackin  
+  Co-Chair: JongGeol Park  
+  OS6-7 An viewpoint and heart rate variability differences between experts and novices in the birthing assistance | Yurina Wada, Nozomi Uchie, Haruka Morotomi, Takahiro Koga, Ami Nakazawa, Masayo Shima, Yumiko Namizaki, Naoko Umeda, Natsuki Hata, Tomoki Taniguchi, Rena Kato, Junko Yotsuya, Wagatsuma Hiroaki, Kazushi Ikeda 
+  Room C  
+  OS9 AROB: Evolving Robotics and Machine Learning Applications  
+  Chair: Maki K. Habib  
+  Co-Chair: Fusaomi Nagata  
+ OS9-1 A study on the effective use of supervised data using contrastive learning in defect detection | Hirohisa Kato, Fusaomi Nagata 
+  OS9-2 Defect Detection and Its Visualization of Industrial Products Using Transfer Learning-Based CNN Models and Fully Convolutional Data Description Models | Shingo Sakata, Fusaomi Nagata, Takeshi Ikeda, Keigo Watanabe, Maki K. Habib, Ahmad Shahrizan Abdul Ghani 
+  OS9-3 Analysis and improvement of rotary-type electrostatic motors for MEMS microrobots | Shuxin Lyu, Yuyou Kaku, Jun Sato, Rihito Yamashita, Yudai Tominaga, Yuya Tamaki, Ken Saito 
+  OS9-4 AI-Driven Cognition, Learning, and Adaptive Behavior in Next Generation Autonomous Robotics | Maki Habib, Fusaomi Nagata 
+  OS9-5 Automated Wild Boar Detection in Fence Traps Using Deep Learning | Francis Ifaso BESALA, Ryunosuke NIIMOTO, Jae Hoon LEE, Shingo OKAMOTO 
+  Room D  
+  OS19 AROB: Robotics with Intelligence and/or Informatics II  
+  Chair: Tetsuya Kinugasa  
+  Co-Chair: Masatoshi Hatano  
+  GS6-7 How does indirect reciprocity based on image scoring work among large language model agents? | Mikiteru Nakamura, Takaya Arita, Reiji Suzuki 
+  Room H  
+  OS14 AROB: Intuitive Human-System Interaction II  
+  Chair: Masao Yokota  
+  Co-Chair: Akio Doi  
+  GS17 Human-machine interaction and collaboration III  
+  Chair: TBD  
+ GS17-1 Power steering control for compensating bicycle dynamics variation due to front basket loading | Takaatsu Kihara, yuzuki Sugasawa, Keigo Kuriyama, Masami Iwase 
+  GS17-2 Construction of a measurement system focusing on time-series changes in frozen powder | Shunsuke Nagase, Koki Fujiwara, Jun Ogawa, Hidemitsu Furukawa 
+  GS17-3 Development of robot teleoperate system using neck motion to construct a data collection platform | Yuto Hattori, Yutaka Nakamura, Yuya Okadome 
+  GS17-4 Design and Evaluation of a Wearable Electromagnetic Tendon-Driven Module for Kinesthetic Hand Haptic Feedback | Rene Manuel Suarez Flores, Karan K C, Sajid Nisar 
+ Room A  
+  OS2 AROB: Bio-inspired theory and applications (1)  
+  Chair: Kunihito Yamamori  
+  Co-Chair: Masaru Fukushi  
+  OS2-6 An Efficient Voting Method for Parallel Volunteer Computing | Zhiding Sun, Keiichi Inohara, Yota Kurokawa, Masaru Fukushi 
+  Room B  
+  OS4 AROB: Biomimetic Machines and Robots I  
+  Chair: Keigo Watanabe  
+  Co-Chair: Kiyotaka Izumi  
+  OS4-5 Skin model shape generation by incorporating machining error into topology optimization results | Yuma Hino, Fusaomi Nagata, Akimasa Otsuka 
+  Room C  
+  OS16 AROB: New Developments in Data Science for Cognition, Design, and Learning  
+  Chair: Shimpei Matsumoto  
+  Co-Chair: Tomoko Kashima  
+ OS16-1 Relationship between area of interest and number of views of event announcement images in social media using Grad-CAM | Kayu Morishge, Shimpei Matsumoto 
+  OS16-2 Predicting Success Factors in Social Issue Crowdfunding Projects | Kazuki Munehisa 
+  OS16-3 Analyzing the Learning Process in a Card Operation-Based Programming Learning Support System | Natsumi Tanabe 
+  OS16-6 Building a metaverse world for promoting local resources | Kazutoshi Hatsuzaki, Tatsuya Matsuo, Shimpei Matsumoto, Shuichi Yamagishi 
+  Room D  
+  OS22 AROB: Vehicle and Mobile Robot Technology I  
+  Chair: Kenji Sawada  
+  Co-Chair: Yuki Minami  
+  GS5-3 Creating a Plant Disease Identification Application Using Yolo | Kanta Omori, Eigo Hirao, Tomohiro Morizane, Takehide Nakagawa, Hiroaki Niwa, Masamoto Tafu, Ryuichi Matoba 
+  GS5-4 Improved Smart House System For Elderly People Living Alone Based on Sensor Fusion | Yichen Wang, Yutian Wu, Harutoshi Ogai, Shigeyuki Tateno 
+  GS5-5 CLAHE-based fusion filter image preprocessing for enhancing YOLOv8l accuracy in autonomous driving | fangjun liu, Yutoku Takahashi, Jun Yoneyama 
+  GS5-6 Adaptive AI for Multiplayer Games: Using Swarm Intelligence and Reinforcement Learning with Behavior Trees | Valeriya Sergeyeva 
+  Room F  
+ Room A  
+  OS3 AROB: Bio-inspired theory and applications (2)  
+  Chair: Kunihito Yamamori  
+  Co-Chair: Hisaaki Yamaba  
+  OS3-5 Constaria: a chatbot for long-term consistent conversation | Shuta Yamane, Daisuke Amaki 
+  Room B  
+  OS5 AROB: Biomimetic Machines and Robots II  
+  Chair: Keigo Watanabe  
+  Co-Chair: Kiyotaka Izumi  
+  OS5-4 Proposal of Shoe Sole to Promote Standing Stabilization on Uneven Terrain for Lower Limb Prosthesis Users | Kyusei Shimoma 
+  Room C  
+  OS1 AROB: Advanced AI Applications and Robotics  
+  Chair: Kiyota Hashimoto  
+  Co-Chair: Hidekazu Yanagimoto  
+  OS1-5 A Preliminary Study on Immersion Levels in Various Work Processes for Collaboration between Remote Operators and Semi-Autonomous Robots | Takumi KAWAMURA, Toru MIZUYA, Kenichi ABE, Kiyoshi ASAKAWA, Rina ISHIWATA, Takenobu INOUE 
+  Room D  
+  OS23 AROB: Vehicle and Mobile Robot Technology II  
+  Chair: Kenji Sawada  
+  Co-Chair: Yuki Minami  
+ GS8-1 A Study on Battery Loading Method for Multi-Legged MEMS Microrobot | Misaki Takaku, Yifan Yang, Kyotaro Shibuya, Fumio Uchikoba, Minami Kaneko 
+  GS8-2 Integrating Morphogenesis and Adaptive Locomotion with Neural Cellular Automata | Hiroki Sato, Takahide Yoshida, Atsushi Masumori, Takashi Ikegami 
+  GS8-3 Geometrically-inspired Design of Edible Arm | Shoma Abe, Jun Ogawa, Hidemitsu Furukawa 
+  GS8-4 Effect of Eccentric Shaft Design on the Gastropod-Inspired Mechanism | Yoshimune Tayama, Jun Ogawa, Hidemitsu Furukawa 
+  Room D  
+  GS18 Human-machine interaction and collaboration IV  
+  Chair: TBD  
+ GS18-1 ACRC-LLM: A Framework for Automated Construction Robotics Control Using Large Language Models | Yongdong Wang, Runze Xiao, Jun Younes Louhi Kasahara, Keiji Nagatani, Atsushi Yamashita, Hajime Asama 
+  GS18-2 Realisation of an Auto-Calibrating Squeeze Haptic Feedback System for Supernumerary Robotic Fingers | Connor McGregor, Jacob Char, Faimul Haque, Gajitha Nanayakkara 
+  GS18-3 Evaluation of Haptic Feedback Modalities for Enhanced Locomotor Stability in Lower Limb Prosthetic Training | Pasut Suriyasomboon, Anas Majumder, Rene Manuel Suarez Flores 
+  GS9-4 Development of artificial muscles formed from shape-memory alloys and elastomers and their application to musculoskeletal leg models | Yugo Kokubun, Kentaro Yamazaki, Tatsumi Goto, Ginjiro Takashi, Ontatsu Haku, Fumio Uchikoba, Minami Kaneko 
+  Room D  
+  OS17 AROB: Robot and Control  
+  Chair: Nobuya Takahashi  
+  Co-Chair: Masahiro Yokomichi  
+ OS17-1 SGLDOMP-Stochastic Gradient Langevin Dynamics Optimization-based Motion Planning | Masahiro Yokomichi, Nobuya Takahashi 
+  OS17-2 Gradient-based Multiplicative Update Rules for Non-negative Matrix Factorization | Nobuya Takahashi, Masahiro Yokomichi 
+  OS17-3 Reinforcement learning and LiDAR-SLAM based obstacle aovidance of drone with depth camera | Ren Shigenaga, Masahiro Yokomichi, Nobuya Takahashi 
+  OS17-4 Development of an Actual 4-wheeled Vehicle Type Monorail Track Inspection Robot with Electric Differential Drive | Keisuke Sato
+2. ArtsIT_0 conference:
+Keynotes 
+  Gallery 
+  For Authors | Camera-ready Submission (Confy+) 
+  Online participants | Paper Presentation Recording Instructions 
+  Zoom Meeting guide 
+  Submission 
+  Calls | Call for Papers 
+  Call for Posters 
+  Keynotes 
+  Gallery 
+  For Authors | Camera-ready Submission (Confy+) 
+  Online participants | Paper Presentation Recording Instructions 
+  Zoom Meeting guide 
+  Submission 
+  Calls | Call for Papers 
+  Call for Posters 
+  ArtsIT2023   
+  12th EAI International Conference: ArtsIT, Interactivity & Game Creation  
+ THANK YOU ALL FOR YOUR PARTICIPATION AND YOUR INVOLVEMENT!  
+ Check the Gallery   
+  November 27-29, 2023  
+  Institute of Philosophy and Human Sciences – IFCH – Marielle Franco and Fausto Castilho Auditoriums, UNICAMP, the State University of Campinas, São Paulo, Brazil  
+  Check out official ArtsIT Twitter here    
+ Follow event in LinkedIn here    
+ ArtsIT authors have enjoyed  
+  Thank you for participating   
+ Thank you for participating in EAI ArtsIT 2023!   
+ We look forward to meeting you next year  
+  at New York University, Abu Dhabi, United Arab Emirates  
+  on November 13-15, 2024.   
+ Next edition   
+ - The first open and transparent way of recognizing great researchers worldwide   
+ - Credits are awarded to all authors based on review, but regardless of acceptance   
+ - Members with top 0.1% EAI Index at the end of the year will become EAI Fellows   
+ Proceedings Cover 2022   
+ ArtsIT, Interactivity and Game Creation  
+  11th EAI International Conference, ArtsIT 2022, Faro, Portugal, November 21-22, 2022, Proceedings     
+ Book series:  
+ Travel Recommendations   
+ Paper Submission is now open for the 12th edition of ArtsIT! Check out the Call for Papers  .    
+ Take a look back at the previous edition of ArtsIT here  .    
+ Every author receives EAI Index credits – regardless of acceptance. Learn more about EAI’s Recognition Program here  .    
+ Get real feedback on your presentation from other registrants via EAI Compass.    
+ Welcome to the EAI Community    
+ Let the EAI Community help you build your career with collaborative research, objective evaluation, and fair recognition:  
+ Extra visibility for your paper and fair review → | Community Review 
+  Get credits to receive membership ranks and global recognition → | EAI Index 
+  Real-time evaluation and feedback on your presentation on-site → | EAI Compass 
+ Part 2  .  
+  Best Paper Award   
+ Best Paper Award Winners:   
+ Paper Title: 
+  Art as an expanded field: the case of the r/place social experiment   
+ Authors: 
+  Marcela Jatene Cavalcante Botelho (Universidade Federal do Pará); 
+  Hosana Celeste Oliveira (Universidade Federal do Pará) 
+  Paper Title: 
+  Fostering Collaboration in Science: Designing an Exploratory Time Travel Visualization   
+ Authors: 
+  Pedro Branco (University of Minho, Dep. of Information Systems (DSI)) 
+  About ArtsIT 2023   
+  Publication   
+ All registered papers will be submitted for publishing by Springer  and made available through SpringerLink Digital Library: ArtsIT Conference Proceedings  .  
+ ArtsIT proceedings are indexed  in leading indexing services, such as Web of Science, Compendex, Scopus, DBLP, EU Digital Library, Google Scholar, IO-Port, MathSciNet, Inspec, and Zentralblatt MATH.  
+ All accepted authors are eligible to submit an extended version in a fast track of:  
+ EAI/Springer Innovations in Communications and Computing Book Series | (titles in this series are indexed in Ei Compendex, Web of Science & Scopus) 
+  Proceedings of ArtsIT 2022   
+ Update:  Proceedings of ArtsIT 2022 have been published in SpringerLink Digital Library  .  
+  About EAI   
+ Late Track  & Poster Track   
+ Paper Submission deadline   
+  1 September 2023  15 September 2023   
+  Notification deadline   
+  5 October 2023  
+  Camera-ready deadline   
+  5 November 2023  12 November 2023   
+  Start of Conference   
+  27 November 2023  
+  End of Conference   
+  29 November 2023  
+ All Special Tracks   
+ Paper Submission deadline   
+  1 September 2023  15 September 2023   
+  Notification deadline   
+  5 October 2023  
+  Camera-ready deadline   
+  5 November 2023  12 November 2023   
+  Start of Conference   
+  27 November 2023  
+  End of Conference   
+  29 November 2023  
+ Previous ArtsIT editions  
+ 2022  – Faro, Portugal  
+ Follow us   
+ © 2023 ArtsIT | EAI   
+ Manage Cookie Consent
+3. ArtsIT_1 conference:
+ArtsIT, Interactivity and Game Creation | springerprofessional.de  Skip to main content    Menü   Fachgebiete Chevron down icon     Chevron up icon        Automobil + Motoren    Bauwesen + Immobilien    Business IT + Informatik    Elektrotechnik + Elektronik    Energie + Nachhaltigkeit    Finance + Banking    Management + Führung    Marketing + Vertrieb    Maschinenbau + Werkstoffe    Versicherung + Risiko      
+ DE     
+ Kapitel lesen  Erstes Kapitel lesen     
+ ArtsIT, Interactivity and Game Creation  
+ 12th EAI International Conference, ArtsIT 2023, São Paulo, Brazil, November 27-29, 2023, Proceedings, Part I  
+ herausgegeben von: Anthony L. Brooks   
+ Über dieses Buch  
+ This book constitutes the refereed post-conference proceedings the 12th EAI International Conference on ArtsIT, Interactivity and Game Creation, ArtsIT 2023 which was held in São Paulo, Brazil, in November 27-29, 2023.  
+ Part I: exploring new frontiers in music therapy; network dance and technology; computational art and the creative process.  
+ Adapting the Emobook Life Story Book App for Reminiscence Focused Music Therapy in Dementia Care: An Interdisciplinary Participatory Design Approach  
+  Abstract   
+ Life Story books are frequently employed to facilitate reminiscence interventions, but their use in music therapy remains limited in the scientific literature. There is a paucity of research detailing the design processes involved in this context. In contemporary music therapy, the effective integration of technology is a significant concern. This paper aims to report on the Participatory Design process used to adapt the Emobook Life Story Book App for a Reminiscence Music Therapy Program for people living with dementia. An interdisciplinary team comprising an interaction designer, a software engineer, a music therapist, and a research assistant engaged in co-design meetings. The interdisciplinary and participatory process yielded four ideas and four lines of action, which evolved iteratively as the work meetings progressed. Points raised by the lines of action were addressed, leading to modifications in the Emobook app and adjustments in the intervention program for seamless integration. Collaborative, interdisciplinary efforts are essential in advancing the incorporation of technology into music therapy practice. This study demonstrates the value of a Participatory Design approach in adapting technology for use in Music Therapy.   
+ Noelia Gerbaudo-Gonzalez, Alejandro Catala, Nelly Condori-Fernandez, Manuel Gandoy-Crego   
+  Abstract   
+ The Nucleo de Dança Redes at the State University of Campinas has been developing multimodal artistic research in mixed reality in an interactive, immersive, dialogical, and in nets. In this article we present some research focus of the group referencing two works “De uma Margem a Outra” and “Jardim das Cartas”. Researchers in the areas of dance, music and audio visual have been raising discussions about an “expanded sound body” that stems from the interaction between movement, sound, music, video and technology in a mixed environment. A body that extends in sound, and an embodied sound in movement in an expanded perspective of the body in “presence” with more complex contours.   
+ Another point is in the observation and understanding of the event of multimodal improvisation in a mixed environment as a path and an interactive and connective articulation between the communication agent that participate in the net as an expressive path that is shown in the interactive exploration. Based on interactive practices and on the concept of net, we work methodologically towards a “poetic interaction” in the field of complexity. A fertile ground in which improvisation and composition become coordinated paths for the unfolding of a dance which starts from the connectivity and from the interaction between sound, body movement, image and technology.   
+ Gatti Daniela   
+ Art as an Expanded Field: The Case of the R/Place Social Experiment  
+  Abstract   
+ In this paper, we will present the social experiment originating from the website Reddit, r/place, and our findings regarding how this experiment has been analyzed and understood, with three interpretations of our studies that could be associated with r/place. On top of that, we will introduce our art research methodology, “art as an expanded field,” in which r/place will be our subject of analysis, with the concept of artification described by scholar Ellen Dissanayake as our theoretical starting point for such an endeavor. It is not in the interest of this work to thoroughly analyze r/place but to present a paradigm for understanding it and possibly further experiments, as well as present the beginnings of our methodology currently developed.   
+ Marcela Jatene Cavalcante Botelho, Hosana Celeste Oliveira   
+ Epic’s “Metahuman Creator” is a new type of digital human configurator, based on pre-existing scans of real people where only physically plausible adjustments can be made. As it has a vast range of facial features and skin tones the user can design a variety of digital characters. However, its tools representing trans identities and invisible disabilities have limitations. Here we show the experience of two users, one with a hearing disability and the other undergoing gender-affirming therapy.   
+ We found that tools for representing their identity fell short of expressing their inherent human dignity. The foundations of the Metaverse are therefore at risk of replicating inaccessibility and excluding persons with disabilities and gender differences.   
+ We anticipate our paper to be the starting point for wider participatory research that involves all user groups in the design of platforms, tools and systems. We foresee the findings of our paper fulfilling the UN Charter on Human rights in the digital space through the shaping of policies and advancing existing standards (ISO).   
+ Savithri Bartlett, Sam Chester, Philip Delamore, Sebastian Roeck, Zowie Broach   
+ Metadaten   
+ Titel  ArtsIT, Interactivity and Game Creation    
+ herausgegeben von  Anthony L. Brooks
+4. ArtsIT_2 conference:
+Search by keywords, name or affiliation     
+ ArtsIT, Interactivity and Game Creation: 12th EAI International Conference, ArtsIT 2023, São Paulo, Brazil, November 27-29, 2023, Proceedings, Part I   
+ Anthony L Brooks   *  (Editor)  
+ *  Corresponding author for this work    
+ Human Machine Interaction 
+ Publication status | Published -  21 Mar 2024 
+ Event | ArtsIT2023: Arts and Technology, Interactivity, and Game Creation    - Institute of Philosophy and Human Sciences – IFCH – Marielle Franco and Fausto Castilho Auditoriums, UNICAMP, the State University of Campinas, , São Paulo, , Brazil  
+  Duration: 27 Nov 2023  → 29 Nov 2023   
+  Conference number: 12  
+ Country/Territory | Brazil 
+ City | São Paulo, 
+ Period | 27/11/2023  → 29/11/2023 
+ Cite this  
+ APA 
+  Author 
+  BIBTEX 
+  Harvard 
+ title = "ArtsIT, Interactivity and Game Creation: 12th EAI International Conference, ArtsIT 2023, S{\~a}o Paulo, Brazil, November 27-29, 2023, Proceedings, Part I",   
+ editor = "Brooks, {Anthony L}",   
+ ArtsIT, Interactivity and Game Creation: 12th EAI International Conference, ArtsIT 2023, São Paulo, Brazil, November 27-29, 2023, Proceedings, Part I.    / Brooks, Anthony L (Editor)   .  
+ TY - BOOK  
+ T1 - ArtsIT, Interactivity and Game Creation  
+ T2 - ArtsIT2023: Arts and Technology, Interactivity, and Game Creation  
+ A2 - Brooks, Anthony L  
+ T3 - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering  
+ BT - ArtsIT, Interactivity and Game Creation  
+ PB - Springer  
+ Y2 - 27 November 2023 through 29 November 2023  
+ ER -
+5. ArtsIT_3 conference:
+Categorias  Congresso  Destaques  Eventos  Notícias    
+ NICS HOSTS EAI ArtsIT 2023 – 12th EAI International Conference: ArtsIT, Interactivity & Game Creation  
+ Autor do post | Por Manuel Silveira Falleiros 
+  Data de publicação | 13 de novembro de 2023 
+  November 27-29, 2023  
+  Institute of Philosophy and Human Sciences – IFCH – Marielle Franco and Fausto Castilho Auditoriums, UNICAMP, the State University of Campinas, São Paulo, Brazil  
+ _____________________________  
+ Embodied music interaction, is a broad framework that describe the role of our movement and body in listening, playing or more generally experiencing music. Within this framework, the use of interactive technologies enable opportunities for designing a large variety of systems and instruments. In this talk, I will describe approaches, design methodologies, computational models using machine learning we developed over the years to explore different types of movement-based music interaction. Interestingly, this allows us to consider different perspectives in embodied music interaction such as listening / performing, beginner / virtuoso, solo / collective. I will in particular describe issues in learning and appropriating interactive technologies, ranging from artistic creation to health.  
+ ___________________  
+ The ArtsIT 2023 Organising Committee   
+ Elena Partesotti (NICS/UNICAMP), General Chair  
+  Manuel Falleiros (NICS/UNICAMP), General Co-chair
+6. ASE_0 conference:
+ASE 2023   Mon 11 - Fri 15 September 2023 Kirchberg, Luxembourg    
+ Toggle navigation        
+ Attending | Venue: European Convention Center Luxembourg (ECCL) 
+  Registration 
+  Author Information 
+  Accommodation 
+  Social Activities 
+  Travel Support 
+  Program | ASE Program 
+  Your Program 
+  Schedule Overview 
+  Keynote 
+   Mon 11 Sep 
+  Tue 12 Sep 
+  Wed 13 Sep 
+  Thu 14 Sep 
+  Fri 15 Sep 
+  Tracks | ASE 2023 
+  Research Papers 
+  SATE - Software Engineering at the Era of LLMs 
+  [Workshop] A-TEST 
+  Social Events 
+  Organization | ASE 2023 Committees 
+  Organizing Committee 
+  Track Committees 
+  Series | Series 
+  ASE 2024 
+  ASE 2023 
+  ASE 2022 
+ Schiessentümpel Cascade, Waldbillig, Luxembourg  
+ ASE 2023  
+ The ASE conference is the premier research forum for Automated Software Engineering. Each year, it brings together researchers and practitioners from academia and industry to discuss foundations, techniques, and tools for automating the analysis, design, implementation, testing, and maintenance of large software systems.  
+ Keynotes  
+  Link to publication   DOI 
+  ASE 2023 Tracks   
+ Research Papers  | SATE - Software Engineering at the Era of LLMs  | Keynotes  | Journal-first Papers  | Industry Showcase (Papers)  | Industry Challenge (Competition)  | Doctoral Forum  | New Faculty Symposium  | NIER Track  | Tool Demonstrations  | Tutorials  | Most Influential Papers (MIP)  | Workshops  | [Workshop] ASYDE  | [Workshop] CPAchecker  | [Workshop] A-Mobile  | [Workshop] HCSE-CS  | [Workshop] A-TEST  | Social Events    
+  ASE 2023   
+  contact form    
+ Venue: European Convention Center Luxembourg (ECCL)   
+  Registration   
+  Author Information   
+  Accommodation   
+  Social Activities
+7. ASE_2 conference:
+Home 
+  Panel Information about Paper Characteristics 
+  ASE On-line Bibliography 
+  Most Influential Papers 
+  Past Conference Information 
+  Steering Committee 
+  ASE Fellows 
+  ASE Charter 
+  Menu      
+ Automated Software Engineering (ASE) Homepage  
+ Upcoming Conference:  
+  Automated Software Engineering 2024    
+ Oct. 27 - Nov. 1, 2024 in Sacramento, California, United States   
+ Please visit here  the homepage of this conference.   
+  Further Conferences:  
+ Automated Software Engineering Conference Charter 
+  Fellows of Automated Software Engineering 
+  On-line Bibliography (ASE-OLB) 
+   Most Influential Papers 
+  ASE-Panel: Characteristics of an ASE paper 
+  Past ASE/KBSE Conference Information 
+  ASE Conferences Steering Committee
+8. ASE_3 conference:
+Institution Edition 
+  Discover | Subject category 
+  Conference in Socialist Republic of Vietnam 
+  Contribution library 
+  Browse by venue 
+ Sep. 11 - 15, 2023  
+ Luxembourg · Luxembourg  
+ AboutComputing and Processing  
+  Keywords:software engineering,automated software engineering,  
+  Scope:The ASE 2023 conference is the premier international research forum for Automated Software Engineering. Each year, it brings together researchers and practitioners from academia and industry to discuss foundations, techniques, and tools for automating the analysis, design, implementation, testing, and maintenance of large software systems.  
+  Sponsor Type:1; 9; 9  
+ All Comments  
+ Submission Template  
+ ×    
+  Paper Template  
+  Paper Template  
+ Home 
+ Important Date  
+ Conference Date | Sep 11  
+ 2023  
+  to  Sep 15  
+ 2023 
+  Sep 15  2023 | Registration deadline 
+ Sponsored By
+9. AsiaCCS_0 conference:
+ACM ASIACCS 2023   
+ July 10th to July 14th, 2023, Melbourne, Australia  
+   ACM ASIACCS 2023   
+ July 10th to July 14th, 2023, Melbourne, Australia  
+ ACM ASIACCS 2023   
+ Melbourne, Australia    
+ ACM ASIACCS 2023   
+ Melbourne, Australia    
+ Home 
+  AsiaCCS 
+  Dates&Calls | Important Dates 
+  Call for Papers 
+ Home  
+ Registration Closing Soon: Due to overwhelming response for in-person participation, currently we only have a very limited number of tickets left. All registrations, except for online participation, will close on 7th July (Friday). There will not be any on-site or walk-in registration. To avoid disappointment, please register asap, and before 7th July.     
+ The 18th ACM ASIA Conference on Computer and Communications Security  (ACM ASIACCS 2023) will be held in Melbourne Australia from July 10th to July 14th, 2023  .   
+ The conference proceeding is now available in  here  . During the conference, the proceeding will be available for open access. For workshop proceedings, please refer to  here   .   
+  Platinum Sponsors  
+ News  
+ ASIACCS’23     Follow   
+ The 18th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2023) will be held in Melbourne Australia from June 5th to June 9th, 2023.  
+   ASIACCS’23  @asiaccs2  ·  2 Jul 2023    
+ A friendly reminder: All registrations, exception for online participations, will be closed on 7th July (Friday). There will not be any on-site or walk-in registration. Please register ASAP to avoid disappointment.  
+   ASIACCS’23  @asiaccs2  ·  22 Jun 2023    
+   ASIACCS’23  @asiaccs2  ·  22 Jun 2023    
+  Important Dates  
+ 1st round Deadline  
+  Early Rejection:  
+  2 | October  , 2022 
+  Author Notification: | 23 November, 2022 
+  Camera Ready Due: | 20 December, 2022 
+  2nd round Deadline  
+  Early Rejection:  
+  30 | January  , 2023 
+  Author Notification: | 22 March, 2023 
+  Camera Ready Due: | 24 April, 2023 
+  ACM ASIACCS 2023 is proudly powered by WordPress
+10. AsiaCCS_1 conference:
+ACM ASIACCS 2023   
+ July 10th to July 14th, 2023, Melbourne, Australia  
+   ACM ASIACCS 2023   
+ July 10th to July 14th, 2023, Melbourne, Australia  
+ ACM ASIACCS 2023   
+ Melbourne, Australia    
+ ACM ASIACCS 2023   
+ Melbourne, Australia    
+ Home 
+  AsiaCCS 
+  Dates&Calls | Important Dates 
+  Call for Papers 
+ Call for Papers  
+ The 18th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2023) will be held in Melbourne, Australia from July 10th to July 14th, 2023. We solicit paper submissions on all technical   aspects of security and privacy, including “Systemisation of Knowledge” (SoK) papers. However, purely theoretical  (e.g., cryptography-focused, with no security/application connections) submissions are not encouraged. The same goes for submissions focused primarily on blockchains or machine learning  .    
+ Submissions will fall into one of three categories, each reviewed using different criteria: (1) novel attacks/flaws/exploits, (2) new constructs, and (3) SoK-s. The number of accepted submissions will be carefully balanced across all three categories.   
+ Important Dates  
+ 1st round Deadline  
+ Paper Submission Deadline  
+ Early Rejection  
+  2 October, 2022  
+ Author Notification​  
+  23 November, 2022  
+ Camera Ready Due  
+  20 December, 2022  
+ 2nd round Deadline  
+ Paper Submission Deadline  
+ Early Rejection  
+  30 January, 2023  
+ Author Notification  
+  22 March, 2023  
+ Camera Ready Due  
+  24 April, 2023  
+ Download Call For Papers PDF      
+ Submission Instructions  
+ Please read the instructions below before submitting the paper. Please contact the PC chairs at pc-chairs@asiaccs2023.org  for any questions regarding the submissions.  
+ SUBMIT YOUR WORK      
+  Paper Formatting  
+ Technical papers submitted for ASIACCS are to be written in English. Papers must be in PDF format and at most 12 pages double-column including a bibliography with up to 3 additional pages for well-marked appendices. Note that appendices cannot exceed 3 pages even if the main text is less than 12 pages. Authors should prepare the submissions using the latest ACM Sigconf style conference template only (available at here  ). All fonts, images, tables and figures are required to comply with common standards and do not generate problems for reviewers. Titles of SoK papers must begin with “SoK:”. Submissions not meeting the formatting requirements risk rejection without consideration of their merits.  
+ Conflicts of Interest  
+ Authors when submitting the paper are required to declare the conflict of interest (COI) with the Program Committee members including the chairs. Those who are considered COI include (1) anyone who shares an institutional affiliation with an author of the paper at the time of submission, (2) anyone who was the advisor or advisee of an author at any time in the past, or (3) anyone the author has collaborated or published within the prior two years. PC members, including chairs that have a conflict of interest with a paper, will be entirely excluded from the evaluation of that paper. Failure of declaring COI, or declaring fake COI can lead to the paper being rejected. If a paper is reviewed by a PC member with COI, it will be rejected.  
+ Anonymous Submissions  
+ ASIACCS is employing a double-blind reviewing process. All submissions should be appropriately anonymized. Author names and affiliations should not appear in the paper. The authors should avoid obvious self-references and should appropriately blind them if used. The list of authors cannot be changed (but the order can be) after the acceptance decision is made unless approved by the Program Chairs.  
+ Double and Concurrent Submissions  
+ Submissions to ASIACCS 2023 must not substantially overlap with papers that are published or simultaneously submitted to other venues with proceedings (including journals or conferences/workshops). Double-submission will result in immediate rejection. Detected violations may be reported to other conference chairs and journal editors.  
+ Ethical Considerations  
+ The authors should take care of clarifying any potential ethical and legal concerns to their results, highly critical vulnerabilities or exploits, etc. The authors should provide evidence that they have thoroughly considered such issues.The Program Committee reserves the right to reject a submission if insufficient evidence was presented that ethical or relevant legal concerns were appropriately addressed.  
+ Early Rejection and Appeals  
+ Paper Revision and Re-submission  
+ Rejected papers in the 1st round cannot be resubmitted in the 2nd round. A small number of the 1st round submissions may receive a Revise decision, rather than Accept or Reject, and may be revised and resubmitted together with the response to reviewers’ comments into the same HOTCRP submission server .  The revision may include running additional experiments, improving the paper’s presentation, or other such improvements. Papers meeting the expectations will typically be accepted. Additional revisions will be requested only in exceptional circumstances.  
+ Camera-Ready and Conference Presentation  
+ If a paper is accepted, the author list in submission cannot be changed when preparing the camera-ready version. Authors of accepted papers must also guarantee that their papers will be presented at the conference. At least one author of the paper must be registered at the appropriate full conference rate.  
+  ACM ASIACCS 2023 is proudly powered by WordPress
+
+output:1. AROB_3 information:
+2. ArtsIT_0 information:
+3. ArtsIT_1 information:
+4. ArtsIT_2 information:
+5. ArtsIT_3 information:
+6. ASE_0 information:
+7. ASE_2 information:
+8. ASE_3 information:
+9. AsiaCCS_0 information:
+10. AsiaCCS_1 information:

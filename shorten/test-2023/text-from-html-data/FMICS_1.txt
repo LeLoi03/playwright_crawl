@@ -1,0 +1,51 @@
+ERCIM Working Group on Formal Methods for Industrial Critical Systems (FMICS)  
+  Home Page   
+   Recent and Forthcoming Events (updated 2024/10/28)  
+ FMICS 2024 - September 9-11, 2024 - Milan, Italy | — | Report on FMICS 2024 
+  STTT Special Issue #1 for FMICS 2022 
+  STTT Special Issue #2 for FMICS 2022 
+  Maurice ter Beek | elected as the new FMICS chair (Oct. 2022) 
+  ERCIM News 
+  Objectives 
+  Scientific Activities 
+  Best Paper Awards 
+  Official ERCIM Documents about FMICS 
+  Contacts 
+  Institutions and Participants 
+  2.  Background   
+ Formal methods have been advocated as a means of increasing the reliability of systems, especially those which are safety or business critical, but the industrial uptake of such methods has been slow. This is due to the perceived difficulty of mathematical nature of these methods, the lack of tool support, and the lack of precedents where formal methods has been proven to be effective. It is even more difficult to develop automatic specification and verification tools due to limitations like state explosion, undecidability, etc. This working group will bring together researchers of the ERCIM consortium in order to promote the use of formal methods within industry.  
+ The behaviour of reactive systems is largely conditioned by the interaction with events of the external environment the sequentialization of which is not predictable. The complexity of the systems' behaviour increases considerably when the timing dependencies in the execution of events are taken into account.  
+ The above features are typical of a large class of systems including control systems, automation systems, and communication systems and results in the extreme difficulty of the verification of their correctness.  
+ In the industrial context correctness verification is usually performed by means of testing; the system is provided with input sequences drawn from a proper "coverage set" and its resulting behaviour is observed.  
+ Due to the multiplicity of possibilities both for inputs to a system and originating from more and more use of parallelism and concurrency this approach turns out to be very costly and in any case it does not allow for the exhaustive verification of the correctness of the system. It allows only to detect errors which take place during the execution sequences used for the test.  
+ In the last decade several theories have been developed which aim at coping with the problem of systems correctness by means of formal methodologies for the specification, design and verification of systems. These theories have been extended in order to deal with time, probability and stochastic aspects of behaviours.  
+ Also real-time models where time is a dense quantity and verification can be done algorithmically (automatically) has been developed.  
+  validation of the specification 
+  design 
+  verification of the final product against the requirements 
+  For each of the above activities different techniques have been developed independently. They are usually not at all integrated neither compatible and quite often they have been tried only on toy-examples, bringing to results which are rather difficult to compare. Finally, most of the automatic tools developed for supporting the use of formal methods lack of industrial strength and so turn out to be unpractical when used in the industrial context.  
+  3.  Objectives   
+  FMICS 2022: 27th International Conference on Formal Methods for Industrial Critical Systems | Warsaw (Poland), September 14-16, 2022 ( | LNCS Proceedings | ) 
+  Special issue of the journal "Software Tools for Technology Transfer" | (Vol. 24, Nr. 3, Aug. 2022) 
+  Special issue of the journal "Software Tools for Technology Transfer" | (Vol. 24, Nr. 6, Dec. 2022) 
+  FMICS 2023: 28th International Conference on Formal Methods for Industrial Critical Systems | Antwerp (Belgium), September 18-23, 2023 ( | LNCS Proceedings | ) 
+  FMICS 2024: 29th International Conference on Formal Methods for Industrial Critical Systems | Milan (Italy), September 9-11, 2024 ( | LNCS Proceedings | ) 
+  5.  Best Paper Awards   
+  Rutger van Beusekom, Jan Friso Groote, Paul Hoogendijk, Rob Howe, Wieger Wesselink, Rob Wieringa, and Tim Willemse | Formalising the Dezyne Modelling Language in mCRL2 
+  FMICS 2022 best paper | Franck Cassez, Joanne Fuller and Horacio Mijail Anton Quiles | Deductive Verification of Smart Contracts with Dafny 
+  FMICS 2023 best paper | Djurre van der Wal, Marcus Gerhold, and Mariëlle Stoelinga | Conformance in the Railway Industry: Single-Input-Change Testing a EULYNX Controller 
+  FMICS 2024 best papers | Jan Steffen Becker | Safe Linear Encoding of Vehicle Dynamics for the Instantiation of Abstract Scenarios 
+  Robby, John Hatcliff, and Jason Belt | Logika: The Sireum Verification Framework 
+  6.  Official ERCIM Documents about FMICS   
+   7.  Contacts   
+ As of October 2022, the FMICS Working Group is being chaired by:  
+   Maurice ter Beek    FMT lab - ISTI-CNR  Pisa (Italy)   The FMICS Chair is assisted by the FMICS Board, the members of which are:  
+ Alessandro Fantechi | (Univ. of Firenze) 
+  Hubert Garavel | (INRIA): Dissemination and Web site 
+  Radu Mateescu | (INRIA) 
+  Jaco van de Pol | (Aarhus University and University of Twente) 
+  The former FMICS Chairs are:  
+  The former FMICS Board Members are:  
+  Diego Latella | (ISTI-CNR) 
+   8.  Institutions and Participants   
+ A legacy web page listing the FMICS members and institutions is available here  . At present, participation to the FMICS working group essentially takes place by attending the annual FMICS conference.

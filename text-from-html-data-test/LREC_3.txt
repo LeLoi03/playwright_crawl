@@ -1,0 +1,99 @@
+Về chúng tôi | Công ty VinBrain 
+  Đội ngũ tài năng 
+  AI cho Chẩn đoán Hình ảnh | Tầm Soát Tổng Thể | DrAid™ X-quang Ngực 
+  DrAid™ CT Bụng 
+  Chẩn Đoán & Điều Trị Ung Thư | DrAid™ CT Ung Thư Gan 
+  DrAid™ MRI Ung Thư Trực Tràng 
+  Sàng Lọc Bệnh Thế Kỷ | DrAid™ Lao Phổi 
+  DrAid™ Tan Máu Bẩm Sinh 
+  DrAid™ COVID-19 
+  Nội Soi Tiêu Hóa | DrAid™ EndoAI 
+  AI cho Quản lý Dữ liệu Y tế | DrAid™ Enterprise Data Solution | Tự Động Tạo Báo Cáo Thông Minh 
+  Phân tích Hồ sơ Y Tế Thông Minh 
+  Quản Lý Bệnh Viện và Phân Tích Dự Báo 
+  Data Lake, Quản Trị Dữ Liệu Và Hệ Thống Tri Thức 
+  Tài Nguyên | Tài Liệu 
+  Tin Tức & Sự kiện 
+  Tài Nguyên VinBrain 
+  Dùng thử | DrAid™ X-quang Ngực 
+  EN  VN    
+
+   EN 
+  VN 
+    
+ Liên hệ    
+
+ Tài liệu  
+ Chào mừng đến với kho tài liệu nghiên cứu của chúng tôi! Hãy khám phá bộ sưu tập đa dạng của chúng tôi, gồm các bài báo, báo cáo khoa học và tài liệu chuyên sâu, giới thiệu về những công trình đang được thực hiện trong lĩnh vực trí tuệ nhân tạo, chăm sóc sức khỏe và các lĩnh vực khác. Chúng tôi hân hạnh chia sẻ những kiến thức và phát hiện mới nhất của chúng tôi, nhằm mục đích cùng định hình tương lai và mang lại giá trị thực cho bạn. Hãy cùng khám phá những gì đã được chúng tôi nghiên cứu và phát triển!   
+ Trang chủ 
+  Ấn Phẩm 
+
+ [Proceedings of the 13th Conference on Language Resources and Evaluation - LREC 2022] ViHealthBERT: Các mô hình ngôn ngữ tự học (pre-trained) cho Tiếng Việt trong lĩnh vực khai thác văn bản từ dữ liệu ngành y tế  
+ 02/07/2022     
+ Pre-trained language models have become crucial to achieving competitive results across many Natural Language Processing (NLP) problems. For monolingual pre-trained models in low-resource languages, the quantity has been significantly increased. However, most of them relate to the general domain, and there are limited strong baseline language models for domain-specific. We introduce ViHealthBERT, the first domain-specific pre-trained language model for Vietnamese healthcare. The performance of our model shows strong results while outperforming the general domain language models in all health-related datasets. Moreover, we also present Vietnamese datasets for the healthcare domain for two tasks: Acronym Disambiguation (AD) and Frequently Asked Questions (FAQ) Summarization. We release ViHealthBERT to facilitate future research and downstream applications for Vietnamese NLP in domain-specific. Our dataset and code are available in https://github.com/demdecuong/vihealthbert.   
+  
+ ⬇ TẢI VỀ TẠI ĐÂY   .  
+
+ Tin nổi bật  
+ Xem thêm     
+   VinBrain tự hào đạt chứng nhận ISO 9001:2015   
+ 13/08/2024   VinBrain   
+
+   VinBrain vừa ra mắt thêm tính năng đột phá: Phân loại tổn thương gan theo chuẩn LI-RADS bằng AI trên nền tảng DrAid™ CT Ung thư Gan   
+ 24/06/2024   VinBrain   
+
+   VinBrain triển khai phần mềm AI sàng lọc Lao tại Bệnh viện Phổi Trung ương, đồng thời ra mắt tính năng phân loại tổn thương gan chuẩn LI-RADS trên nền tảng AI DrAid™ CT Ung thư Gan   
+ 24/06/2024   VinBrain   
+
+ Tài liệu khác  
+   Wavelet radiomics features from multiphase CT images for screening hepatocellular carcinoma: analysis and comparison   
+ 25/11/2023   Van Ha Tang, Steven Q. H. Truong , Soan T. M. Duong, Chanh D. Tr. Nguyen, Thanh M. Huynh, Vo T. Duc, Chien Phan, Huyen Le, Trung Bui   
+   
+ Xem thêm      
+   
+   CheXphoto: 10,000+ hình ảnh cho các phép biến đổi cho ảnh X-ray ngực để đo độ ổn định của hệ thống Deep Learning   
+ 28/04/2023   Nick A. Phillips, Steven QH Truong, Nguyen Duong Du   
+   
+ Xem thêm      
+   
+   Giới thiệu phương pháp học bán giám sát cho bài toán phân đoạn ảnh với nhãn khoanh vùng có nhiễu. Phương pháp được giới thiệu dựa trên phương pháp học đa tin cậy với tính nhất quán kép.   
+ 09/04/2022   Nam Phuong Nguyen, Steven Q. H. Truong, Tuan Vo,   
+   
+ Xem thêm      
+   
+   SDM: Phương thức tương xứng đồng dạng cho việc tự học nhanh ảnh X-quang   
+ 17/04/2021   Huynh Minh Thanh, Nguyen Do Trung Chanh, Steven QH Truong   
+   
+ Xem thêm      
+   
+   VisualCheXbert: Giải quyết sự khác nhau giữa Phương thức gán nhãn dựa trên báo cáo và dựa trên cách đọc hình   
+ 17/04/2021   Saahil Jain, Steven QH Truong, Chanh DT Nguyen   
+   
+ Xem thêm      
+   
+   ColorRL: Tăng cường việc học tô màu cho khoanh vùng từng vật   
+ 17/03/2021   Tran Anh Tuan, Tran Minh Quan, Won-Ki Jeong   
+   
+ Xem thêm      
+
+   Văn phòng  
+ Văn Phòng Hà Nội - Địa chỉ Tầng 5, Tower 1, Times City, 458 Minh Khai, Hai Bà Trưng, Ha Nội, Việt Nam 
+  Văn Phòng Hồ Chí Minh - 03 Nguyễn Cơ Thạch, An Lợi Đông, Quận 2, Thủ Đức, Thành phố Hồ Chí Minh 
+
+ Về chúng tôi  
+    Email info@vinbrain.net   
+ Hotline 02871 099 455   
+
+  Giấy đăng kí chứng nhận doanh nghiệp số 0108716920 đăng kí lần đầu ngày 25 tháng 04 năm 2019 do Sở Kế hoạch và Đầu tư Thành phố Hà Nội cấp.  
+   
+ Copyright © 2023 DrAid  
+
+ Live Demo  
+ Please fill in the contact form and we will get in touch with you shortly to arrange a live demo.   
+  Name *     
+ Your E-mail *     
+ Your Number     
+ Your Country     
+ Your Company     
+   
+ Submit Now

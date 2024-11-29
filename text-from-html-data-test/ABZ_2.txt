@@ -1,0 +1,179 @@
+Papers     
+    
+  Search or ask a question   
+
+ Pricing     
+ Login  Sign up      
+
+ Home          
+ Chat with PDF         
+ Literature Review            
+ AI Writer       
+ Find Topics       
+ Paraphraser       
+ Citation Generator       
+ Extract Data           
+ AI Detector       
+ PDF to Video        
+ Affiliate Program       
+ Chrome Extension     
+       
+ Use on ChatGPT     
+       
+ Contact Us     
+
+ Home 
+  Conferences 
+  International Conference on Abstract State Machines, Alloy, B, TLA, VDM, and Z 
+   
+ Conference  International Conference on Abstract State Machines, Alloy, B, TLA, VDM, and Z  
+  About:  한국식품조리과학회 학술발표논문집 is an academic conference. The conference publishes majorly in the area(s): Computer science & Engineering..   
+   
+ ...read more  read less    
+   
+  Topics:  Computer science   , Engineering   , Event (particle physics)   , Domain (mathematical analysis)   , Biology    ...read more    
+   Trace this conference        
+   Share    
+
+   Papers  
+
+ Sort by : Citation Count        
+   
+   PDF   
+
+    Open Access   
+
+  Year        
+
+ Book Chapter  •  DOI  •    
+ AMAN Case Study  
+     
+ [...]  
+
+ 01 Jan 2023    -  Lecture Notes in Computer Science    
+  TL;DR:  In this paper , the authors present a safety critical interactive system called AMAN (Arrival Manager), which is a partly-autonomous scheduler of landing sequences of aircraft in airports.   
+   
+ ...read more  read less    
+   
+  Abstract:  This document presents the case study for the ABZ 2023 conference. The case study introduces a safety critical interactive system called AMAN (Arrival MANager), which is a partly-autonomous scheduler of landing sequences of aircraft in airports. This interactive systems interleaves Air Traffic Controllers activities with automation in AMAN. While some AMAN systems are currently deployed in airports, we consider here only a subset of functions which represent a challenge in modelling and verification.   
+   
+ ...read more  read less    
+
+ Go to Paper       
+ 2  citations  
+
+   Save    
+   Cite     Share    
+
+     Book Chapter  •  DOI  •    
+ Standalone Event-B Models Analysis Relying on the EB4EB Meta-theory  
+     
+ [...]  
+
+   Peter Riviere   , Neeraj Kumar Singh   , Yamine Aït-Ameur   , Guillaume Dupont     
+   
+ 01 Jan 2023    -  Lecture Notes in Computer Science    
+  TL;DR:  In this article , the EB4EB framework is extended to support new system analysis mechanisms associated to properties that are not natively present in Event-B. This methodology is used to define three analyses: deadlock-freeness, invariant weakness analysis and reachability.   
+   
+ ...read more  read less    
+   
+  Abstract:  Event-B is a state-based correct-by-construction system design formal method relying on proof and refinement where system models are expressed using set theory and First Order Logic (FOL). Through the generation and discharging of proof obligations (POs), Event-B natively supports the establishment of properties such as safety invariant, convergence and refinement. Other properties, relevant to system verification, may be studied as well, but need to be explicitly formalised by the designer, or expressed in another formal method. This process compromises reusability and is error-prone, especially on larger systems. Recently, the reflexive EB4EB framework has been proposed for formalising Event-B concepts as first-class objects. It allows manipulating these concepts using FOL and set theory in Event-B. In this paper, we propose a rigorous methodology for extending the EB4EB framework, to support new system analysis mechanisms associated to properties that are not natively present in core Event-B. Thanks to the reflexive nature of this framework, new generic and reusable system properties and their associated POs are expressed once and for all, and for any refinement level. For specific systems, designers instantiate these properties and the associated POs are automatically generated and submitted to Event-B’s provers. This methodology is used to define three analyses: deadlock-freeness, invariant weakness analysis and reachability, all of which are demonstrated on a case study.   
+   
+ ...read more  read less    
+
+     PDF   Go to Paper       
+ 1  citations  
+
+   Save    
+   Cite     Share    
+
+ Book Chapter  •  DOI  •    
+ Modelling an Automotive Software System with TASTD  
+     
+ [...]  
+
+   Diego de Azevedo Oliveira   , Marc Frappier     
+   
+ 01 Jan 2023    -  Lecture Notes in Computer Science    
+  TL;DR:  In this article , a case study track was proposed to model an Adaptive Exterior Light System and a Speed Control System, where the former controls different exterior lights of a vehicle while the latter controls the speed of the vehicle.   
+   
+ ...read more  read less    
+   
+  Abstract:  At the ABZ2020 Conference, the case study track proposed to model an Adaptive Exterior Light System and a Speed Control System: the former controls different exterior lights of a vehicle while the latter controls the speed of a vehicle. This paper introduces a model for these two case studies using Timed Algebraic State-Transition Diagrams (TASTD). TASTD is an extension of Algebraic State-Transition Diagrams (ASTD) providing timing operators to express timing constraints. The specification makes extensive use of the TASTD modularity capabilities, thanks to its algebraic approach, to model the behaviour of different sensors and actuators separately. We validate our specification using the cASTD compiler, which translates the TASTD specification into a C++ program. This generated program can be executed in simulation mode to manually update the system clock to check timing constraints. The model is executed on the test sequences provided with the case study. The paper provides a comparison between the TASTD model and other solutions presented at the ABZ2020 Conference. The advantages of having modularisation, orthogonality, abstraction, hierarchy, real-time, and graphical representation in one notation are highlighted with the proposed model.   
+   
+ ...read more  read less    
+
+ Go to Paper       
+ 1  citations  
+
+   Save    
+   Cite     Share    
+
+ Book Chapter  •  DOI  •    
+ Modeling and Verifying an Arrival Manager Using Event-B  
+     
+ [...]  
+
+   Amel Mammar   , Michael Leuschel     
+   
+ 01 Jan 2023    -  Lecture Notes in Computer Science    
+  TL;DR:  In this paper , the authors present an Event-B model of the AMAN system, the case study provided by the ABZ'23 conference, which includes two parts: an autonomous part which predicts the arrival time of an aircraft from external sources (flight plan information, radar and weather information, etc.).   
+   
+ ...read more  read less    
+   
+  Abstract:  The present paper describes an Event-B model of the Arrival MANager system (called AMAN), the case study provided by the ABZ’23 conference. The goal of this safety critical interactive system is to schedule the arrival times of aircraft at airports. This system includes two parts: an autonomous part which predicts the arrival time of an aircraft from external sources (flight plan information, radar and weather information, etc.) and an interface part that permits to the Air Traffic Controller (ATCo) to submit requests to AMAN like changes regarding the arrival times of aircraft. To formally model and verify this critical system, we use a correct-by-construction approach with the Event-B formal method and its refinement process. We mainly consider functional features of the case study; all proof obligations have been discharged using the provers of the Rodin platform under which we carried out our development. To help users understand how AMAN works and its main functionalities, a visualisation of the Event-B models was achieved using the VisB component of ProB. Our models have been validated using ProB by applying scenarios related to different functional aspects of the system.   
+   
+ ...read more  read less    
+
+ Go to Paper       
+ 1  citations  
+
+   Save    
+   Cite     Share    
+
+ Book Chapter  •  DOI  •    
+ Validation by Abstraction and Refinement  
+     
+ [...]  
+
+   Sebastian Stock   , Fabian Vu   , David Geleßus   , Michael Leuschel   , Atif Mashkoor   , Alexander Egyed   - Show less  +2 more     
+   
+ 01 Jan 2023    -  Lecture Notes in Computer Science    
+  TL;DR:  In this article , the authors propose a triptych framework to simplify a complex model by abstracting away the noise, i.e., removing the information unrelated to properties under analysis.   
+   
+ ...read more  read less    
+   
+  Abstract:  While refinement can help structure the modeling and proving process, it also forces the modeler to introduce features in a particular order. This means that features deeper in the refinement chain cannot be validated in isolation, making some reasoning unnecessarily intricate. In this paper, we present the AVoiR (Abstraction-Validation Obligation-Refinement) framework to ease validation of such complex refinement chains. The triptych AVoiR framework operates as follows: 1) We first simplify a complex model by abstracting away the noise, i.e., removing the information unrelated to properties under analysis. 2) Using the Validation Obligations (VOs) technique, we formalize the validation tasks of the desired property. 3) Finally, we trickle down the validation results by establishing the noiseless model as a parent of the initially investigated model through the standard refinement relationship. Furthermore, by using the technique of VO refinement, we establish the VOs of the abstract model on the initial model. We use a case study from the aviation domain to show the proposed framework’s effectiveness.   
+   
+ ...read more  read less    
+
+ Go to Paper       
+ 1  citations  
+
+   Save    
+   Cite     Share    
+
+ 1   2   3   4   5   6     
+ ...   
+
+   Performance Metrics  
+   
+    30  
+ Papers  
+
+    7  
+ Citations  
+
+ Year | Papers 
+ 2023 | 30 
+
+ Tools    Chat with PDF  Literature Review  AI Writer  Find Topics  Paraphraser  Citation Generator  Extract Data  AI Detector  Citation Booster    
+ Extensions    SciSpace Chrome Extension    
+   
+ SciSpace    About  Careers  Resources  Support  Browse Papers  Pricing  SciSpace Affiliate Program  Cancellation & Refund Policy  Terms  Privacy    
+   
+ Directories    Papers  Topics  Journals  Authors  Conferences  Institutions  Questions  Citation Styles    
+   
+ Contact  support@typeset.io    +1 (760) 284-7800    +91 9916292973             
+
+ © 2024 | PubGenius Inc. | Suite # 217 691 S Milpitas Blvd Milpitas CA 95035, USA

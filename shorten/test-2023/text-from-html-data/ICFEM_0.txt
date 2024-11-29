@@ -1,0 +1,78 @@
+ICFEM 2024 
+  Scope 
+  Register 
+ The 24 th  International Conference on Formal Engineering Methods   
+  21 - 24 November 2023 - Brisbane, Australia (Physical)   
+ Welcome to the website of the 24 th  International Conference on Formal Engineering Methods (ICFEM 2023)  
+ ICFEM 2024  will be hosted in Hiroshima, Japan.  
+ Scope and Topics  
+ Student Early  
+  (until 05 Oct) | General Early  
+  (until 05 Oct) | Student Standard  
+  (after 05 Oct) | General Standard  
+  (after 05 Oct) 
+ Note that authors' registration deadline is the same as the early bird deadline (05 Oct 2023).   
+  *ICFEM All Package includes ICFEM conference, all the workshops, doctoral symposium, morning tea, lunch, afternoon tea every day (4 days) and a conference dinner.  
+  **ICFEM Only includes ICFEM conference, morning tea, lunch, afternoon tea every day (3 days) and a conference dinner.  
+  ***Workshops/Doc Symp includes workshops OR  the doctoral symposium, morning tea, lunch, and afternoon tea (1 day).  
+  The USD conversion is only for indication purposes. The attendants should use the AUD price for registration.  Due to tax issues, residents in Australia will go through a different payment process, so please choose the following links accordingly. The fees are the same.  
+  If you do not live in Australia, please use the following link to register.  
+ Venue and Accomodation  
+ The 24th International Conference on Formal Engineering Methods (ICFEM 2023) will take place in Novotel Brisbane South Bank  .  
+ Novotel Brisbane South Bank contemporary hotel is perfectly placed in the heart of the South Bank Parklands. Adjacent to the hotel is seven hectares of luscious grass at Musgrave Park, which hosts some of Brisbane's vibrant annual festivals and events. Take a short walk to the Brisbane Convention and Exhibition Centre. Beyond the Centre, you'll enjoy stunning views, lush parklands, superb dining experiences, vibrant art galleries, riverbank Streets Beach and world class shopping in the Brisbane CBD shopping district.  
+ ibis Styles Brisbane Elizabeth Street  has provided ICFEM 2023 with about 15% discount on accommodation. Book online with the link here  to get the discounted rate. The offer is valid for stay from Friday, 17th November through to Monday, 27th November inclusive.  
+ Courtyard Brisbane South Bank  has provided ICFEM 2023 with about 15% discount on accommodation. Book online with the link here  to get the discounted rate. The offer is valid for stay from Friday, 17th November through to Monday, 27th November inclusive.  
+ Set on the fringe of the Brisbane CBD, Courtyard Brisbane South Bank offers an ideal location near the South Bank Parklands in Brisbane, Australia. Experience everything the vibrant state of Queensland has to offer from this family friendly hotel. It is just steps away from public transport options for easy travel to world class eateries, shops, gardens and entertainment venues. Before you begin your day in South Brisbane energize with a workout in the 24-hr fitness centre or take a swim in the heated indoor pool.  
+ Emporium Hotel South Bank  has provided ICFEM 2023 with about 10-15% discount on accommodation. The discount is automatically applied when guests enter their dates on the website.  
+ Title:  Separation of Concerns for Complexity Mitigation in System and Domain Formal Modelling – A Dive into Algebraic Event-B Theories  
+ Abstract:   
+ Formal methods have shown their ability and efficiency in the design, analysis and verification of safety critical complex software systems. A crucial challenge for formal methods nowadays is to make them reasonably accessible, as to foster a wider adoption across system engineering, and make their implementation and deployment more operational for non-expert engineers and researchers alike. From our point of view, promoting the reuse and sharing of explicitly formalised elements such as models, theories, proofs, etc. contributes, undoubtedly, to the dissemination of these methods. As a result, reuse mechanisms must be defined and integrated into development processes such as refinement, abstraction, composition/decomposition, etc.  
+ In this talk, we will discuss state -based formal methods, namely the Event-B method. We report on our findings about the definition of algebraic theories that are utilised within Event-B model refinement chains. In our method, Event-B models borrow operators, axioms, theorems, proof and rewrite rules from these theories. Relying on their well-definedness, these operators, axioms, theorems and proof and rewrite rules are useful to discharge the proof obligations generated for these models, and contribute to reducing development efforts, as theorems of the theories are proved once and for all. The approach is illustrated on the generation of new proof obligations and on system models conformance to engineering standards.  
+  Invited Talks  
+  Proceedings  
+ Please refer to the ICFEM 2023 proceedings  .  
+ Affiliated Events  
+ The 2 nd  International Workshop on Formal Analysis and Verification of Post-Quantum Cryptographic Protocols  (FAVPQC 2023), 21 November 2023  
+ The 7 th  Symposium on Distributed Ledger Technology  (SDLT 2023), 21 - 22 November  30 November - 1 December 2023  
+ Attractions  
+ Important Dates  
+ Abstract Submission: 14 May  21 May, 2023 (AoE)  
+ Full Paper Submission: 21 May  28 May, 2023 (AoE)  
+ Author Notification: 30 July, 2023  
+ Camera-ready versions: 13 August  20 August, 2023  
+  Journal First Submission Deadline: 1 September, 2023 (AoE)  
+ Journal First Acceptance Notification: 2 October, 2023 (AoE)  
+  Doctoral Symposium Submission Deadline: 25 August, 2023 (AoE)  
+ Doctoral Symposium Acceptance Notification: 2 September, 2023 (AoE)  
+ Doctoral Symposium Camera-ready Due: 5  9 September, 2023  
+ Doctoral Symposium: 22 November, 2023  
+ Conference Paper Submission and Publication  
+ Submission should be done through the ICFEM 2023 submission page, handled by the EasyChair conference system  .  
+ As in previous years, the proceedings will be published in the Springer Lecture Notes in Computer Science series.  
+ Papers should be written in English and should not exceed 16 pages (including references) in the Springer's LNCS format. Additional material may be placed in an appendix, to be read at the discretion of the reviewers and to be omitted in the final version. Formatting style files and further guidelines for formatting can be found at the Springer website (more details here  ).  
+ Access submission portal   
+ Journal-First Presentations  
+ ICFEM 2023 is inviting journal-first presentations of papers published recently in the following journals:  
+ ACM Transactions on Programming Languages and Systems 
+  Theoretical Computer Science 
+ The presentations will offer the authors an opportunity to speak directly to their peers in the community, and also enrich the ICFEM program. The journal-first presentation will be listed in the conference program, yet the corresponding papers will not be part of the ICFEM proceedings as they have been published through the journals. At least one author of each accepted journal-first presentation must register for and attend the ICFEM conference to present the paper.  
+  Evaluation and Selection  
+ A journal-first presentation submitted to ICFEM must adhere to the following criteria:  
+ The journal paper is in the scope of ICFEM 2023. 
+  The paper was accepted by one of the participating journals no earlier than January 1, 2022. 
+  The paper reports completely new research results or presents novel contributions that were not previously reported in prior work. 
+  The paper does not extend prior work solely with additional proofs or algorithms, additional empirical results, or minor enhancements or variants of the results presented in the prior work. 
+  The paper has not been presented at, and is not under consideration for, journal-first programs of other conferences. 
+ Each submission will be evaluated according to these criteria. In case that the number of submissions is higher than expected, eligible submissions may be selected to be presented at the conference, and priority will be given to the papers that best fit the conference program.  
+  How to Submit  
+ Interested authors should submit a short presentation proposal consisting of the paper title, abstract, a short statement on how the work satisfies the above criteria, and the PDF of the original journal paper. Please submit a single PDF file and list all authors of the original journal paper as authors in EasyChair. No special formatting is required.  
+ Submission Link   
+ Doctoral Symposium Paper Submission  
+ The ICFEM Doctoral Symposium is an international forum for PhD students studying all areas related to formal methods for software, hardware and system development. This forum is an excellent opportunity bringing together PhD students and well-known established researchers from the formal methods community. It will also provide PhD students with fruitful feedback and advice on their research approach and enable them to interact with other PhD students in order to stimulate the exchange of ideas and the sharing of experiences among participants. In summary, the PhD forum will provide PhD students with an ideal opportunity to present, share and discuss their research in a constructive and critical scientific atmosphere.  
+ We seek submissions from PhD students who have either determined the direction of their thesis research (probably with some preliminary results already published), but who still have substantial work to complete; or PhD student participants who are in the early stages of their dissertations. It is not required to have a paper accepted at the main conference in order to participate in the ICFEM Doctoral Symposium.  
+ Submissions to the Doctoral Symposium should include: Title of the research, the author name (single name) and affiliation; Context and motivation; Problem statement and related work; Proposed solutions and current research efforts, their significance, methodology, results and analysis, and future work. The paper should be prepared using the LNCS format  and submitted in PDF format via EasyChair.  
+ Authors with accepted submissions are expected to attend the Doctoral Symposium in person to present their work. A discounted registration fee for Doctoral Symposium participants will be announced later.  
+ Submission Link   
+ Official Sponsors  
+  ICFEM'23 is an outstanding opportunity for you to reach the "thought leaders" in this industry with your message, and for your Software Engineering team to network and exchange ideas with their peers in this unique and innovative forum.  
+ New sponsorship are welcome and any entity wishing to become an official sponsor may contact the sponsorship chair.  

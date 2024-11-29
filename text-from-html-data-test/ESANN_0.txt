@@ -1,0 +1,614 @@
+Log In 
+
+ ESANN 2025     
+
+ Menu      Home | Latest news 
+  Submit a paper | Call for papers 
+  Special sessions 
+  Author guidelines 
+  Ethics 
+  Submissions 
+  Program 
+  Participate | Format of the conference 
+  Registration 
+  Information for speakers 
+  The event | Venue 
+  About Bruges 
+  Hotels 
+  Conference commitees 
+  Sponsors 
+  Contacts 
+  Past ESANN | ESANN conferences 
+  Proceedings 
+  My ESANN 
+
+ close  ×  Call Us  +1 (777) 123 45 67    
+ close  ×  Search     
+
+ ESANN 2023 - proceedings  
+
+ 31 st  European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning  
+  Bruges, Belgium October 04 - 06  Content of the proceedings  
+ Graph Representation Learning   
+  Feature selection and dimension reduction   
+  Towards Machine Learning Models that We Can Trust: Testing, Improving, and Explaining Robustness   
+  Fairness and Interpretability, Clustering, and NLP   
+  Quantum Artificial Intelligence   
+  Green Machine Learning   
+  Reinforcement learning and Evolutionary computation   
+  Classification   
+  Deep learning and Computer vision   
+  Sequential data, and Meta-learning   
+  Machine Learning Applied to Sign Language   
+  Efficient Learning in Spiking Neural Networks   
+  Anomaly Detection, and Learning Algorithms   
+   
+  Graph Representation Learning  
+  Graph Representation Learning   
+  Davide Bacciu, Federico Errica, Alessio Micheli, Nicolò Navarin, Luca Pasa, Marco Podda, Daniele Zambon  
+  https://doi.org/10.14428/esann/2023.ES2023-4  Abstract:   
+  In a broad range of real-world machine learning applications, representing examples as graphs is crucial to avoid a loss of information. Due to this in the last few years, the definition of machine learning methods, particularly neural networks, for graph-structured inputs has been gaining increasing attention. In particular, Deep Graph Networks (DGNs) are nowadays the most commonly adopted models to learn a representation that can be used to address different tasks related to nodes, edges, or even entire graphs. This tutorial paper reviews fundamental concepts and open challenges of graph representation learning and summarizes the contributions that have been accepted for publication to the ESANN 2023 special session on the topic.  Download manuscript    
+
+ Richness of Node Embeddings in Graph Echo State Networks   
+  Domenico Tortorella, Alessio Micheli  
+  https://doi.org/10.14428/esann/2023.ES2023-51  Abstract:   
+  Graph Echo State Networks (GESN) have recently proved effective in node classification tasks, showing particularly able to address the issue of heterophily. While previous literature has analyzed the design of reservoirs for sequence ESN and GESN for graph-level tasks, the factors that contribute to rich node embeddings are so far unexplored. In this paper we analyze the impact of different reservoir designs on node classification accuracy and on the quality of node embeddings computed by GESN using tools from the areas of information theory and numerical analysis. In particular, we propose an entropy measure for quantifying information in node embeddings.  Download manuscript    
+
+ An Empirical Study of Over-Parameterized Neural Models based on Graph Random Features   
+  Nicolò Navarin, Luca Pasa, Luca Oneto, Alessandro Sperduti  
+  https://doi.org/10.14428/esann/2023.ES2023-145  Abstract:   
+  In this paper, we investigate neural models based on graph random features. In particular, we aim to understand when over-parameterization, namely generating more features than the ones necessary to interpolate, may be beneficial for the generalization of the resulting models. Exploiting the algorithmic stability framework and based on empirical evidences from several commonly adopted graph datasets, we will shed some light on this issue.  Download manuscript    
+
+ Convolutional Transformer via Graph Embeddings for Few-shot Toxicity and Side Effect Prediction   
+  Luis Torres, Bernardete Ribeiro, Joel Arrais  
+  https://doi.org/10.14428/esann/2023.ES2023-66  Abstract:   
+  The prediction of chemical toxicity and adverse side effects is a crucial task in drug discovery. Graph neural networks (GNNs) have accelerated the discovery of compounds with improved molecular profiles for effective drug development. Recently, Transformer networks have also managed to capture the long-range dependence in molecules to preserve the global aspects of molecular embeddings for molecular property prediction. In this paper, we propose a few-shot GNN-Transformer, FS-GNNCvTR to face the challenge of low-data toxicity and side effect prediction. Specifically, we introduce a convolutional Transformer to model the local spatial context of molecular graph embeddings while preserving the global information of deep representations. Furthermore, a two-module meta-learning framework is proposed to iteratively update model parameters across few-shot tasks with limited available data. Experiments on small-sized biological datasets for toxicity and side effect prediction, Tox21 and SIDER, demonstrate a superior performance of FS-GNNCvTR compared to standard graph-based methods. The code and data underlying this article are available in the repository, https://github.com/larngroup/FS-GNNCvTR.  Download manuscript    
+
+ Hidden Markov Models for Temporal Graph Representation Learning   
+  Federico Errica, Alessio Gravina, Davide Bacciu, Alessio Micheli  
+  https://doi.org/10.14428/esann/2023.ES2023-35  Abstract:   
+  We propose the Hidden Markov Model for temporal Graphs, a deep and fully probabilistic model for learning in the domain of dynamic time-varying graphs. We extend hidden Markov models for sequences to the graph domain by stacking probabilistic layers that perform efficient message passing and learn representations for the individual nodes. We evaluate the goodness of the learned representations on temporal node prediction tasks, and we observe promising results compared to neural approaches.  Download manuscript    
+
+ A Tropical View of Graph Neural Networks   
+  Francesco Landolfi, Davide Bacciu, Danilo Numeroso  
+  https://doi.org/10.14428/esann/2023.ES2023-27  Abstract:   
+  Learning dynamic programming algorithms with Graph Neural Networks (GNNs) is a research direction which is increasingly gaining popularity. Prior work has demonstrated that in order to learn such algorithms, it is necessary to have an ``alignment'' between the neural architecture and the dynamics of the target algorithms, and that GNNs align, in fact, with dynamic programming. Here, we provide a different view of this alignment, studying it through the lens of tropical algebra. We show that GNNs can approximate dynamic programming algorithms up to arbitrary precision, provided that their input and output are appropriately pre- and post-processed.  Download manuscript    
+
+ Graph-based Categorical Embedding   
+  Weiwei Wang, Stefano Bromuri, Michel Dumontier  
+  https://doi.org/10.14428/esann/2023.ES2023-32  Abstract:   
+  Categorical features are a challenge for most machine learning algorithms that only accept numerical vectors in input. Graph neural networks are revolutionising how machine learning models are applied even to traditional data sets, thanks to the possibility of introducing graph relationships amongst features and samples. In this contribution, we describe an algorithm leveraging the assignment matrix of a DiffPool graph neural network to calculate embeddings for categorical features, using as an adjacency matrix the co-occurrence matrix between the categorical values and as nodes feature the one hot encoded categorical values. We show that the algorithm proposed is scalable and presents a competitive performance in three publicly available data sets presenting both numerical and categorical values.  Download manuscript    
+
+ FouriER: Link Prediction by Mixing Tokens with Fourier-enhanced MetaFormer   
+  Thanh Vu, Huy Ngo, Bac Le, Thanh Le  
+  https://doi.org/10.14428/esann/2023.ES2023-73  Abstract:   
+  Knowledge graph link prediction has been researched for many years. With the steady development of data, the demand for missing link prediction in knowledge bases is growing. In this study, we propose FouriER, a model using Fourier transforms integrated into MetaFormer architecture to learn features from embeddings better but more computationally cost-effective than the self-attention mechanism in Transformer models. Furthermore, we transform embeddings to a 2D form and stack them that benefit the model in learning interactions between entities and relations more efficiently. As a result, we found that our model outperformed baseline models on two benchmark datasets in our experiments.  Download manuscript    
+
+  Feature selection and dimension reduction  
+  Feature Selection for Concept Drift Detection   
+  Fabian Hinder, Barbara Hammer  
+  https://doi.org/10.14428/esann/2023.ES2023-55  Abstract:   
+  Feature selection is one of the most relevant preprocessing and analysis techniques in machine learning. It can dramatically increase the performance of learning algorithms and also provide relevant information on the data. In online and stream learning concept drift, i.e., the change of the underlying distribution over time, can cause tremendous problems for learning models and data analysis. While there do exist feature selection methods for online learning, to the best of our knowledge there do not exist methods to perform feature selection for drift detection, i.e., to increase the performance of drift detectors and to analyze the drift itself. In this work, we study feature selection for concept drift detection and provide a formal derivation and semantic interpretation thereof. We empirically show the relevance of our considerations on several benchmarks.  Download manuscript    
+
+ Improved Interpretation of Feature Relevances: Iterated Relevance Matrix Analysis (IRMA)   
+  Michael Biehl, Sofie Lövdal  
+  https://doi.org/10.14428/esann/2023.ES2023-127  Abstract:   
+  We introduce and investigate the iterated application of Generalized Matrix Relevance Learning for the analysis of feature relevances in classification problems. The suggested Iterated Relevance Matrix Analysis (IRMA), identifies a linear subspace representing the classification specific information of the considered data sets in feature space using Generalized Matrix Learning Vector Quantization. By iteratively determining a new discriminative direction while projecting out all previously identified ones, all features carrying relevant information about the classification can be found, facilitating a detailed analysis of feature relevances. Moreover, IRMA can be used to generate improved low-dimensional representations and visualizations of labeled data sets.  Download manuscript    
+
+ Sparse Nyström Approximation for Non-Vectorial Data Using Class-informed Landmark Selection   
+  Maximilian Münch, Katrin Sophie Bohnsack, Alexander Engelsberger, Frank-Michael Schleif, Thomas Villmann  
+  https://doi.org/10.14428/esann/2023.ES2023-136  Abstract:   
+  We introduce an efficient approach for supervised landmark selection in sparse Nyström approximation of kernel matrices. Our method fconverts structured non-vectorial input data such as graphs or text into a vectorial dissimilarity representation, enabling class-informed landmark identification through prototype-based learning. Experimental results show competitive approximation quality compared to existing strategies and demonstrate the positive effect of integrating class information into the selection process of Nystr\"om landmarks making our approach an efficient and versatile solution for large-scale kernel learning.  Download manuscript    
+
+ Improved the locally aligned ant technique (LAAT) strategy to recover manifolds embedded in strong noise   
+  Felipe Contreras, Kerstin Bunte, Reynier Peletier  
+  https://doi.org/10.14428/esann/2023.ES2023-151  Abstract:   
+  The automatic detection, extraction, and modeling of manifold structures from large data-sets are of great interest, especially in Astronomy. Existing manifold learning techniques for feature extraction in Computer Vision, Bioinformatics and signal denoising typically fail in astronomical scenarios, since they mostly assume low levels of noise and one manifold of fixed dimension. Therefore, the Locally Aligned Ant Technique (LAAT) was recently proposed to discover multiple faint and noisy structures of varying dimensionality embedded in large amounts of background noise. Although it demonstrates excellent results in multiple scenarios, its performance depends on global thresholding and user tuning. Here, we improve LAAT and replace the global threshold by a flexible local strategy.  Download manuscript    
+
+ Nesterov momentum and gradient normalization to improve t-SNE convergence and neighborhood preservation, without early exaggeration   
+  Pierre Lambert, Lee John, Edouard Couplet, Cyril de Bodt  
+  https://doi.org/10.14428/esann/2023.ES2023-147  Abstract:   
+  Student t-distributed stochastic neighbor embedding (t-SNE) finds low-dimensional data representations allowing visual exploration of data sets. t-SNE minimises a cost function with a custom two-phase gradient descent. The first phase is called early exaggeration and involves a hyper-parameter whose value can be tricky and time-consuming to set. This paper proposes another way to optimise the cost function without early exaggeration. Empirical evaluation shows that the proposed method of optimization converges faster and yields competitive results in terms of neighborhood preservation.  Download manuscript    
+
+ On Feature Removal for Explainability in Dynamic Environments   
+  Fabian Fumagalli, Maximilian Muschalik, Eyke Hüllermeier, Barbara Hammer  
+  https://doi.org/10.14428/esann/2023.ES2023-148  Abstract:   
+  Removal-based explanations are a general framework to provide feature importance scores, where feature removal, i.e. restricting a model on a subset of features, is a central component. While many machine learning applications require dynamic modeling environments, where distributions and models change over time, removal-based explanations and feature removal have mainly been considered in a static batch learning environment. Recently, an interventional and observational perturbation method was presented that allows to remove features efficiently in dynamic learning environments with concept drift. In this paper, we compare these two algorithms on two synthetic data streams. We showcase how both yield substantially different explanations when features are correlated and provide guidance on the choice based on the application.  Download manuscript    
+
+ Robust Feature Selection and Robust Training to Cope with Hyperspectral Sensor Shifts   
+  Valerie Vaquet, Johannes Brinkrolf, Barbara Hammer  
+  https://doi.org/10.14428/esann/2023.ES2023-158  Abstract:   
+  Hyperspectral imaging is a suitable measurement tool across domains. However, when combined with machine learning techniques, frequently intensity and transversal shifts hinder the transfer between different sensors and settings. Established approaches focus on eliminating sensor shifts in the data or recalibrating sensors. In this contribution, we target the training procedure, propose robust training, and derive a robust feature selection strategy that can cope with multiple shift dynamics at the same time. We evaluate our approaches experimentally on artificial and real-world datasets.  Download manuscript    
+
+ A Counterexample to Ockham's Razor and the Curse of Dimensionality: Marginalising Complexity and Dimensionality for GMMs   
+  Benoit Frénay  
+  https://doi.org/10.14428/esann/2023.ES2023-18  Abstract:   
+  Ockham's razor and the curse of dimensionality are two founding principles in machine learning. First, simple models should be preferred to complex ones, in order to prevent overfitting. Second, high-dimensional spaces should be avoided, whenever possible, because learning is easier in lower-dimensional spaces. These principles are often invoked to justify methodological choices or to preprocess data. However, this paper shows a counterexample where it is better to first learn a more complex model in a higher-dimensional space, and then to go back to the lower-dimensional space while dropping the additional complexity. Specifically, experiments demonstrate that Gaussian mixtures models can be learned in a higher-dimensional space and then marginalised to the target dimensionality to improve probability density estimation performances. The chosen problem is deliberately simple to facilitate the analysis, but it opens the way to similar work for more complex models and tasks.  Download manuscript    
+
+ Feature Selection for Multi-label Classification with Minimal Learning Machine   
+  Joakim Linja, Joonas Hämäläinen, Tommi Kärkkäinen  
+  https://doi.org/10.14428/esann/2023.ES2023-134  Abstract:   
+  Multi-label classification problems, where more than one class can be active in a single instance, generalize the conventional single-label cases. In this article, we continue the research track documented in [1,2], where the Minimal Learning Machine (MLM) was generalized into multi-label problems with competitive results compared to other state-of-the-art techniques. Our current interest is to consider whether we can reduce the complexity of the distance-based regression model in the MLM by performing feature selection. For this purpose, an existing feature selection filter technique is generalized to multi-label problems. Experimental results confirm that the proposed technique provides a useful ranking, which allows one to reduce the number of active features without jeopardizing the quality of the multi-label MLM classifier.  Download manuscript    
+
+ Learning with Boosting Decision Stumps for Feature Selection in Evolving Data Streams   
+  Daniel Nowak-Assis  
+  https://doi.org/10.14428/esann/2023.ES2023-16  Abstract:   
+  Feature selection plays an important role in Machine Learning pipelines, and many challenges emerge for feature selection when data arrives continuously as a stream. In this paper, we extend the Adaptive Boosting for Feature Selection (ABFS) algorithm by (i) using a different Online Boosting strategy and (ii) changing the Boosting scaling factor of instances weighting. Results show that our extended ABFS leveraged the predictive performance of classifiers more than the standard ABFS in the most used monolithic classifiers for stream mining.  Download manuscript    
+
+  Towards Machine Learning Models that We Can Trust: Testing, Improving, and Explaining Robustness  
+  Towards Machine Learning Models that We Can Trust: Testing, Improving, and Explaining Robustness   
+  Maura Pintor, Ambra Demontis, Battista Biggio  
+  https://doi.org/10.14428/esann/2023.ES2023-5  Abstract:   
+  In recent years, machine learning has become the most effective way to analyze massive data streams. However, machine learning is also subject to security and reliability issues. These aspects require machine learning to be thoroughly tested before being deployed in unsupervised scenarios, such as services intended for consumers. The goal of this session is to discuss open challenges, both theoretical and practical, related to the security and safety of machine learning. The session will try to address the following challenges: (i) the implementation of efficient tests for Machine Learning in the context of robustness to attacks and natural drifts of data; and (ii) the design of robust and efficient models able to function in the wild and mitigate or detect adversarial attacks.  Download manuscript    
+
+ Secure Federated Learning with Kernel Affine Hull Machines   
+  Mohit Kumar, Bernhard Moser, Lukas Fischer  
+  https://doi.org/10.14428/esann/2023.ES2023-56  Abstract:   
+  The concept of Kernel Affine Hull Machine (KAHM) was recently introduced for representing data via learning in Reproducing Kernel Hilbert Spaces. KAHM defines a bounded geometric body in data space such that a distance measure from the geometric body can be used to aggregate local KAHM-based models to build a global model. This study leverages KAHMs for secure federated learning where data is protected from an aggressive aggregator by fully homomorphic encryption. An accurate and computationally efficient federated learning architecture, that combines local KAHMs-based classifiers in a robust and flexible manner such that the global model can be homomorphically evaluated in an efficient manner, is provided.  Download manuscript    
+
+ Improving Fast Minimum-Norm Attacks with Hyperparameter Optimization   
+  Giorgio Piras, Giuseppe Floris, Raffaele Mura, Luca Scionis, Maura Pintor, Battista Biggio, Ambra Demontis  
+  https://doi.org/10.14428/esann/2023.ES2023-164  Abstract:   
+  Evaluating the adversarial robustness of machine-learning models using gradient-based attacks is challenging. In this work, we show that hyperparameter optimization can improve fast minimum-norm at- tacks by automating the selection of the loss function, the optimizer, and the step-size scheduler, along with the corresponding hyperparam- eters. Our extensive evaluation involving several robust models demon- strates the improved efficacy of fast minimum-norm attacks when hyped up with hyperparameter optimization. We release our open-source code at https://github.com/pralab/HO-FMN.  Download manuscript    
+
+ On the Limitations of Model Stealing with Uncertainty Quantification Models   
+  David Pape, Sina Däubener, Thosten Eisenhofer, Antonio Emanuele Cinà, Lea Schönherr  
+  https://doi.org/10.14428/esann/2023.ES2023-125  Abstract:   
+  Model stealing aims at inferring a victim model's functionality at a fraction of the original training cost. While the goal is clear, in practice the model's architecture, weight dimension, and original training data can not be determined exactly, leading to mutual uncertainty during stealing. In this work, we explicitly tackle this uncertainty by generating multiple possible networks and combining their predictions to improve the quality of the stolen model. For this, we compare five popular uncertainty quantification models in a model stealing task. Surprisingly, our results indicate that the considered models only lead to marginal improvements in terms of label agreement (i.e., fidelity) to the stolen model. To find the cause of this, we inspect the diversity of the model's prediction by looking at the prediction variance as a function of training iterations. We realize that during training, the models tend to have similar predictions, indicating that the network diversity we wanted to leverage using uncertainty quantification models is not (high) enough for improvements on the model stealing task.  Download manuscript    
+
+ Towards Randomized Algorithms and Models that We Can Trust: a Theoretical Perspective   
+  Luca Oneto, Sandro Ridella, Davide Anguita  
+  https://doi.org/10.14428/esann/2023.ES2023-29  Abstract:   
+  In the last decade it became increasingly apparent the inability of technical metrics to well characterize the behavior of intelligent systems. In fact, they are nowadays requested to meet also ethical requirements such as explainability, fairness, robustness, and privacy increasing our trust in their use in the wild. The final goal is to be able to develop a new generation of more responsible and trustworthy machine learning. In this paper, we focus our attention on randomized machine learning algorithms and models questioning, from a theoretical perspective, if it is possible to simultaneously optimize multiple metrics that are in tension between each other towards randomized machine learning algorithms that we can trust. For this purpose we will leverage the most recent advances coming from the statistical learning theory: distribution stability and differential privacy.  Download manuscript    
+
+ Single-pass uncertainty estimation with layer ensembling for regression: application to proton therapy dose prediction for head and neck cancer   
+  Ana Maria Barragan Montero, Robin Tilman, Margerie Huet-Dastarac, Lee John  
+  https://doi.org/10.14428/esann/2023.ES2023-115  Abstract:   
+  We developed a new uncertainty quantification method for deep learning regression models, based on Layer Ensembles [1], which is competitive with state-of-the-art ensembling and Monte Carlo (MC) dropout techniques. The method was implemented in a UNet-like architecture and applied to predicting 3D dose maps for head and neck cancer patients who are treated with proton therapy. The new approach runs approximately 8 times faster than MC Dropout. Our statistical analysis showed no significant difference in prediction accuracy between the two different methods (p-value = 0.09). Moreover, the correlation uncertainty/error in the body is only -3%. These findings demonstrate the potential of the new method in enabling fast and accurate uncertainty quantification for regression problems and, in particular, for proton therapy dose prediction  Download manuscript    
+
+  Fairness and Interpretability, Clustering, and NLP  
+  Mixture of stochastic block models for multiview clustering   
+  Kylliann De Santiago, Marie Szafranski, Christophe Ambroise  
+  https://doi.org/10.14428/esann/2023.ES2023-54  Abstract:   
+  In this work, we propose an original method for aggregating multiple clustering coming from different sources of information. Each partition is encoded by a co-membership matrix between observations. Our approach uses a mixture of Stochastic Block Models (SBM) to group co-membership matrices with similar information into components and to partition observations into different clusters, taking into account their specificities within the components. The parameters are estimated using a Variational Bayesian EM algorithm. The Bayesian framework allows for selecting an optimal numbers of clusters and components.  Download manuscript    
+
+ Fine-tuning is not (always) overfitting artifacts   
+  Jérémie Bogaert, Emmanuel Jean, Cyril de Bodt, François-Xavier Standaert  
+  https://doi.org/10.14428/esann/2023.ES2023-152  Abstract:   
+  Since their release, transformers, and in particular fine-tuned transformers are widely used for text related classification tasks. However, only a few studies try to understand how fine-tuning actually works and existing alternatives, such as feature-based transformers, are often overlooked. In this work, we study a French transformer model, CamemBERT, to compare the fine-tuned and feature-based approaches in terms of their performances, interpretability and embedding space. We observe that while fine-tuning has a limited impact on performances in our case study, it significantly affects the intepretability (by better isolating words that are intuitively connected to the classification task) and embedding space (by summarizing the majority of the relevant information into a fewer dimensions) of the results. We conclude by highlighting open questions regarding the generalization potential of fine-tuned embeddings.  Download manuscript    
+
+ On Instance Weighted Clustering Ensembles   
+  Paul Moggridge, Na Helian, Yi Sun, Mariana Lilley  
+  https://doi.org/10.14428/esann/2023.ES2023-91  Abstract:   
+  Ensemble clustering is a technique which combines multiple clustering results, and instance weighting is a technique which highlights important instances in a dataset. Both techniques are known to enhance clustering performance and robustness. In this research, ensembles and instance weighting are integrated with the spectral clustering algorithm. We believe this is the first attempt at creating diversity in the generative mechanism using density based instance weighting for a spectral ensemble. The proposed approach is empirically validated using synthetic datasets comparing against spectral and a spectral ensemble with random instance weighting. Results show that using the instance weighted sub-sampling approach as the generative mechanism for an ensemble of spectral clustering leads to improved clustering performance on datasets with imbalanced clusters.  Download manuscript    
+
+ Rethink the Effectiveness of Text Data Augmentation: An Empirical Analysis   
+  Zhengxiang Shi, Aldo Lipani  
+  https://doi.org/10.14428/esann/2023.ES2023-42  Abstract:   
+  In recent years, language models (LMs) have made remarkable progress in advancing the field of natural language processing (NLP). However, the impact of data augmentation techniques on the fine-tuning performance of these LMs has been a topic of ongoing debate. In this study, we evaluate the effectiveness of three different fine-tuning methods in conjugation with back-translation across an array of seven diverse NLP tasks. These tasks encompass classification and regression assignments, involving both single-sentence and sentence-pair challenges. Contrary to prior assumptions that data augmentation does not contribute to the enhancement of LMs’ fine-tuning performance, our findings reveal that continued pre-training on augmented data can effectively improve the fine-tuning performance of the downstream tasks. In the most favorable case, continued pre-training improves the performance of fine-tuning by more than 10% in the few-shot learning setting. Our finding highlights the potential of data augmentation as a powerful tool for bolstering LMs' performance.  Download manuscript    
+
+ Similarity versus Supervision: Best Approaches for HS Code Prediction   
+  Sédrick Stassin, otmane Amel, Sidi Ahmed Mahmoudi, Xavier Siebert  
+  https://doi.org/10.14428/esann/2023.ES2023-163  Abstract:   
+  With growing e-commerce flows and new legislative rules, customs representatives bear a great risk when completing customs declarations for their clients. In the latter, the Harmonized System (HS) code is a crucial component using 10 digits (HS10) to classify products and define national tax rates. In this paper, we compare the performance of first, sentence embedding models using semantic similarity and second, supervised models, to predict up to the HS10 code, where currently, to the best of our knowledge, little research is being conducted. We demonstrate the differences and respective strengths of each approach. Our results show the outstanding performance of the semantic similarity approach with a top-3 and top-5 accuracy of 89% and 94.8% respectively for HS10 prediction.  Download manuscript    
+
+ Multimodal Approach for Harmonized System Code Prediction   
+  otmane Amel, Sédrick Stassin, Sidi Ahmed Mahmoudi, Xavier Siebert  
+  https://doi.org/10.14428/esann/2023.ES2023-165  Abstract:   
+  The rapid growth of e-commerce has placed considerable pressure on customs representatives. Artificial intelligence (AI) systems have emerged as a promising approach to minimize the risks faced in the customs domain. Given that the Harmonized System (HS) code is a crucial element for an accurate customs declaration, we propose a novel multimodal HS code prediction approach using deep learning models exploiting both image and text features obtained through the customs declaration combined with e-commerce platform information. We evaluated two early fusion methods and introduced our MultConcat fusion method. To the best of our knowledge, few studies analyze the feature-level combination of text and image in the state-of-the-art for HS code prediction, which heightens interest in our paper and its findings. The experimental results prove the effectiveness of our approach and fusion method with a top-3 and top-5 accuracy of 93.5% and 98.2% respectively.  Download manuscript    
+
+ Mitigating Robustness Bias: Theoretical Results and Empirical Evidences   
+  Danilo Franco, Luca Oneto, Davide Anguita  
+  https://doi.org/10.14428/esann/2023.ES2023-30  Abstract:   
+  Recent research has shown that some learned classifiers can be more easily fooled by an adversary who carefully crafts imperceptible or physically plausible modifications of the input data regarding particular subgroups of the population (e.g., people with particular gender, ethnicity, or skin color). This form of un-fairness has been just recently studied, noting the fact that classical fairness metrics, which only observe the model outputs, are not enough but also robustness biases need to be measured and mitigated. For this reason, in this paper, we will first develop a new metric of fairness which generalizes the current ones and degenerates in the classical ones and then we will develop a theoretical mitigation framework with consistency results able to generate a new empirical mitigation strategy and explain why the current ones actually work.  Download manuscript    
+
+ End-to-End Neural Network Training for Hyperbox-Based Classification   
+  Denis Martins, Christian Lülf, Fabian Gieseke  
+  https://doi.org/10.14428/esann/2023.ES2023-33  Abstract:   
+  Hyperbox-based classification has been seen as a promising technique in which decisions on the data are represented as a series of orthogonal, multidimensional boxes (i.e., hyperboxes) that are often interpretable and human-readable. However, existing methods are no longer capable of efficiently handling the increasing volume of data many application domains face nowadays. We address this gap by proposing a novel, fully differentiable framework for hyperbox-based classification via neural networks. In contrast to previous work, our hyperbox models can be efficiently trained in an end-to-end fashion, which leads to significantly reduced training times and superior classification results.  Download manuscript    
+
+ TabSRA: An Attention based Self-Explainable Model for Tabular Learning   
+  Kodjo Mawuena AMEKOE, Mohamed Djallel DILMI, Hanane AZZAG, Zaineb CHELLY DAGDIA, Mustapha Lebbah, Grégoire JAFFRE  
+  https://doi.org/10.14428/esann/2023.ES2023-37  Abstract:   
+  We propose TabSRA, a novel self-explainable, and accurate model for tabular learning. TabSRA is based on SRA (Self-Reinforcement Attention), new attention mechanism that helps to learn an intelligible representation of the raw input data through element-wise vector multiplication. The learned representation is aggregated by a highly transparent function (e.g linear), which produces the final output. Experimental results on synthetic and real-world classification problems show that the proposed TabSRA solution outperforms existing widely used self-explainable models and performs comparably to full complexity state-of-the-art models in term of accuracy while providing a faithful feature attribution.  Download manuscript    
+
+ Improving Fairness via Intrinsic Plasticity in Echo State Networks   
+  Andrea Ceni, Davide Bacciu, Valerio De Caro, Claudio Gallicchio, Luca Oneto  
+  https://doi.org/10.14428/esann/2023.ES2023-90  Abstract:   
+  Artificial Intelligence, and in particular Machine Learning, has become ubiquitous in today's society, both revolutionizing and impacting society as a whole. However, it can also lead to algorithmic bias and unfair results, especially when sensitive information is involved. This paper addresses the problem of algorithmic fairness in Machine Learning for temporal data, focusing on ensuring that sensitive time-dependent information does not unfairly influence the outcome of a classifier. In particular, we focus on a class of training-efficient recurrent neural models called Echo State Networks, and show, for the first time, how to leverage local unsupervised adaptation of the internal dynamics in order to build fairer classifiers. Experimental results on real-world problems from physiological sensor data demonstrate the potential of the proposal.  Download manuscript    
+
+ Is Boredom an Indicator on the way to Singularity of Artificial Intelligence? Hypotheses as Thought-Provoking Impulse   
+  Martin Bogdan  
+  https://doi.org/10.14428/esann/2023.ES2023-89  Abstract:   
+  In the past, the question regarding the point of singularity in artificial intelligence - when machines become more intelligent than humans - has been raised again and again. In this publication, a crucial point of human intelligence and the impact on this discussion will be postulated in the form of 3 hypotheses as thought-provoking impulse based on the basic hypothesis, that only systems which can be bored are intelligent. First, boredom is discussed from the perspective of psychology with its influence on human intelligence before deductions are drawn from this to artificial intelligence resp. machine learning. Finally, the hypotheses are formulated and the resulting future investigations are outlined.  Download manuscript    
+
+ Adversarial Auditing of Machine Learning Models under Compound Shift   
+  Karan Bhanot, Dennis Wei, Ioana Baldini, Kristin Bennett  
+  https://doi.org/10.14428/esann/2023.ES2023-182  Abstract:   
+  Machine learning (ML) models often perform differently under distribution shifts, in terms of utility, fairness, and other dimensions. We propose the Adversarial Auditor for measuring the utility and fairness performance of ML models under compound shifts of outcome and protected attributes. We use Multi-Objective Bayesian Optimization (MOBO) to account for multiple metrics and identify shifts where model performance is extreme, both good and bad. Using two case studies, we show that MOBO performed better than random and grid-based approaches in identifying scenarios by adversarially optimizing objectives, highlighting the value of such an auditor for developing fair, accurate and shift-robust models.  Download manuscript    
+
+ Language Modeling in Logistics: Customer Calling Prediction   
+  Xi Chen, Giacomo Anerdi, Daniel Tan, Stefano Bromuri  
+  https://doi.org/10.14428/esann/2023.ES2023-78  Abstract:   
+  Customer centers in logistics companies deal with many customer calls and requests daily. One of the most common calls is related to requesting an update on the shipment status. Proactively sending message updates to customers can reduce the number of calls. However, naively sending updates to everyone can cause unnecessary anxiety to people who do not want it, thus leading to customer dissatisfaction or even more calls. If a machine learning model could predict shipments leading to a customer call based on its journey, it could be possible to proactively send message updates only to customers likely to make a call. Therefore, reducing the workload in the customer center while increasing customer satisfaction. In large logistic companies where the volume of calls can reach a million calls per month, even 10\% of the reduction of calls could already significantly reduce the additional expenses and workload associated with tracing a shipment. In this paper, we formulate the shipment journey as a variant of a language model. Specifically, we treat checkpoints (station, facility, time, event code) as tokens and predict the next checkpoint(station, facility, time delta, event code). Our core insight is that shipment checkpoints follow a set of rules that dictate the possible sequence of checkpoints. This is similar to how grammar rules dictate which words can follow another. Despite remaining a difficult problem, our experiments show that features learned by modeling shipment checkpoints as a language model can improve customer calling prediction.  Download manuscript    
+
+ Combining Stochastic Explainers and Subgraph Neural Networks can Increase Expressivity and Interpretability   
+  Indro Spinelli, Michele Guerra, Filippo Maria Bianchi, Simone Scardapane  
+  https://doi.org/10.14428/esann/2023.ES2023-13  Abstract:   
+  Subgraph-enhanced graph neural networks (SGNN) can increase the expressive power of the standard message-passing framework. This model family represents each graph as a collection of subgraphs, generally extracted by random sampling or with hand-crafted heuristics. Our key observation is that by selecting "meaningful" subgraphs, besides improving the expressivity of a GNN, it is also possible to obtain interpretable results. For this purpose, we introduce a novel framework that jointly predicts the class of the graph and a set of explanatory sparse subgraphs, which can be analyzed to understand the decision process of the classifier. The subgraphs produced by our framework allow to achieve comparable performance in terms of accuracy, with the additional benefit of providing explanations.  Download manuscript    
+
+  Quantum Artificial Intelligence  
+  Quantum Artificial Intelligence: A tutorial   
+  José D. Martín-Guerrero, Lucas Lamata, Thomas Villmann  
+  https://doi.org/10.14428/esann/2023.ES2023-2  Abstract:   
+  Artificial Intelligence (AI), a discipline with decades of history, is living its golden era due to striking developments that solve problems that were unthinkable just a few years ago, like generative models of text, images and video. The broad range of AI applications has also arrived to Physics, providing solutions to bottleneck situations, e.g., numerical methods that could not solve certain problems or took an extremely long time, optimization of quantum experimentation, or qubit control. Besides, Quantum Computing has become extremely popular for speeding up AI calculations, especially in the case of data-driven AI, i.e., Machine Learning (ML). The term Quantum ML is already known and deals with learning in quantum computers or quantum annealers, quantum versions of classical ML models and different learning approaches for quantum measurement and control. Quantum AI (QAI) tries to take a step forward in order to come up with disruptive concepts, such as, human-quantum-computer interfaces, sentiment analysis in quantum computers or explainability of quantum computing calculations, to name a few. This special session includes five high-quality papers on relevant topics, like quantum reinforcement learning, parallelization of quantum calculations, quantum feature selection and quantum vector quantization, thus capturing the richness and variability of approaches within QAI.  Download manuscript    
+
+ Quantum Feature Selection with Variance Estimation   
+  Alessandro Poggiali, Anna Bernasconi, Alessandro Berti, Gianna Del Corso, Riccardo Guidotti  
+  https://doi.org/10.14428/esann/2023.ES2023-99  Abstract:   
+  The promise of quantum computation to achieve a speedup over classical computation led to a surge of interest in exploring new quantum algorithms for data analysis problems. Feature Selection, a technique that selects the most relevant features from a dataset, is a critical step in data analysis. With several Quantum Feature Selection techniques proposed in the literature, this study exhibits the potential of quantum algorithms to enhance Feature Selection and other tasks that leverage the variance. This study proposes a novel quantum algorithm for estimating the variance over a set of real data. Importantly, after state preparation, the algorithm’s complexity exhibits logarithmic characteristics in both its width and depth. The quantum algorithm applies to the Feature Selection problem by designing a Hybrid Quantum Feature Selection (HQFS) algorithm. This work showcases an implementation of HQFS and assesses it on two synthetic datasets and a real dataset.  Download manuscript    
+
+ Logarithmic Quantum Forking   
+  Alessandro Berti  
+  https://doi.org/10.14428/esann/2023.ES2023-93  Abstract:   
+  Quantum algorithms evolve an initial quantum state into another during computation to obtain meaningful results. However, this evolution introduces the cost of re-preparing the same initial quantum state for different tasks. Unfortunately, since quantum memory is not yet available, this cost cannot be ignored in Quantum Artificial Intelligence (QAI), where the initial quantum state typically coincides with a quantum dataset. Redundant state preparations for different tasks on the same dataset can reduce the advantages of quantum computation. To address this issue, this work proposes a new technique: the Logarithmic Quantum Forking (LQF). LQF performs state preparation for an initial quantum state once and employs additional qubits to compute an exponential number of tasks over the initial quantum state. LQF enables more efficient use of quantum computation in QAI by amortizing the cost of preparing the initial quantum state.  Download manuscript    
+
+ Quantum-ready vector quantization: Prototype learning as a binary optimization problem   
+  Alexander Engelsberger, Thomas Villmann  
+  https://doi.org/10.14428/esann/2023.ES2023-108  Abstract:   
+  Quantum Computing Research proposed strategies to solve binary optimization problems. Application on current and near-term generation Hardware is possible. Even if computational benefits of the strategies are yet to be shown, we want to explore connections to prototype learning schemes. We examine cost functions for vector quantization based on data point selection and how they can be transformed into a common quadratic unconstrained binary optimization formulation (QUBO). There are different approaches for solving QUBO problems using quantum computer or quantum annealer hardware. We look at their current limits and how they might change.  Download manuscript    
+
+ Potential analysis of a Quantum RL controller in the context of autonomous driving   
+  M. Lautaro Hickmann, Arne Raulf, Frank Köster, Friedhelm Schwenker, Hans-Martin Rieser  
+  https://doi.org/10.14428/esann/2023.ES2023-22  Abstract:   
+  The potential of quantum enhanced Q-learning with a focus on its applicability to a lane change manoeuvre is investigated. In this context we solve multiple simple reinforcement learning environments using variational quantum circuits. The achieved results were similar to or even better than those of a simple constrained classical agent. We could observe promising behaviour on the more complex lane change manoeuvre task, which has an environment with an observation vector size twice larger than commonly used ones. For the Frozen Lake environment we found indications of possible quantum advantages in convergence rate.  Download manuscript    
+
+  Green Machine Learning  
+  Green Machine Learning   
+  Verónica Bolón-Canedo, Laura Morán-Fernández, Brais Cancela, Amparo Alonso-Betanzos  
+  https://doi.org/10.14428/esann/2023.ES2023-3  Abstract:   
+  Green machine learning refers to research that is more environmentally friendly and inclusive, not only by producing novel results without increasing the computational cost, but also by ensuring that any researcher with a laptop has the opportunity to perform high-quality research without the need to use expensive cloud servers. Efficient machine learning approaches (especially deep learning) are starting to receive some attention in the research community. This tutorial is concerned with the development of machine learning algorithms that optimize efficiency rather than only accuracy. We provide an overview of this recent field, together with a review of the novel contributions to the ESANN 2023 special session on Green Machine Learning.  Download manuscript    
+
+ Logarithmic division for green feature selection: an information-theoretic approach   
+  Samuel Suárez-Marcote, Laura Morán-Fernández, Verónica Bolón-Canedo  
+  https://doi.org/10.14428/esann/2023.ES2023-77  Abstract:   
+  Feature selection is a popular preprocessing step to reduce the dimensionality of the data while preserving the important information. In this paper we propose an efficient and green feature selection method based on information theory, with the novelty of using the logarithmic division and resort to fixed-point precision. The results of experiments conducted on several datasets indicate the potential of our proposal, as it does not incur in significant information loss compared to the standard method, both in the features selected and in the subsequent classification step. This finding opens up possibilities for a new family of green feature selection methods, which would help to minimize energy consumption and carbon emissions.  Download manuscript    
+
+ Efficient feature selection for domain adaptation using Mutual Information Maximization   
+  Guillermo Castillo García, Laura Morán-Fernández, Verónica Bolón-Canedo  
+  https://doi.org/10.14428/esann/2023.ES2023-61  Abstract:   
+  Green AI, an emerging research field, focuses on improving the efficiency of machine learning models. In this paper, we introduce a novel and efficient method for feature selection in domain adaptation, a type of transfer learning where the source and target domains share the feature space and task but differ in their distributions. Instead of using evolutionary algorithms, a typical approach in this field, we propose the use of filter methods, which do not require an iterative search process and are less computationally expensive. Our proposed method is Mutual Information Maximization, and our experiments show that it outperforms Particle Swarm Optimization in terms of efficiency, speed, and the ability to select a reduced subset of features while achieving competitive classification accuracy results.  Download manuscript    
+
+ Automated green machine learning for condition-based maintenance   
+  Afonso Lourenco, Carolina Ferraz, Jorge Meira, Goreti Marreiros, Verónica Bolón-Canedo, Amparo Alonso-Betanzos  
+  https://doi.org/10.14428/esann/2023.ES2023-85  Abstract:   
+  Within the big data paradigm, there is an increasing demand for machine learning with automatic configuration of hyperparameters. Although several algorithms have been proposed for automatically learning time-changing concepts, they generally do not scale well to very large databases. In this context, this paper presents an automated green machine learning approach applied to condition-based maintenance with automatic data fusion and density-based anomaly detection based on locality sensitivity hashing. Experiments on numerical simulations of train-track dynamic interactions demonstrate the utility of the approach to detect railway wheel out-of-roundness. This unlocks the full potential of scalable machine learning, paving the way for environment-friendly systems and automated decision-making.  Download manuscript    
+
+ Multispectral Texture Classification in Agriculture   
+  Mariya Shumska, Kerstin Bunte  
+  https://doi.org/10.14428/esann/2023.ES2023-110  Abstract:   
+  Texture classification plays an important role in different domains including agricultural applications, where unmanned vehicles such as drones equipped with multispectral sensors are gaining more attention. Hence, a solution which does not require substantial computational resources is desired for real-time monitoring. In this contribution, we propose an efficient and interpretable Generalized Matrix Learning Vector Quantization based framework to classify multispectral images. We demonstrate the performance of different model designs and compare them to other benchmarks for the classification of a soil data set. Our framework yields comparable accuracy while providing interpretable results.  Download manuscript    
+
+  Reinforcement learning and Evolutionary computation  
+  DEFENDER: DTW-Based Episode Filtering Using Demonstrations for Enhancing RL Safety   
+  André Correia, Luís Alexandre  
+  https://doi.org/10.14428/esann/2023.ES2023-97  Abstract:   
+  Deploying reinforcement learning agents in the real world can be challenging due to the risks associated with learning through trial and error. We propose a task-agnostic method that leverages small sets of safe and unsafe demonstrations to improve the safety of RL agents during learning. The method compares the current trajectory of the agent with both sets of demonstrations at every step, and filters the trajectory if it resembles the unsafe demonstrations. We perform ablation studies on different filtering strategies and investigate the impact of the number of demonstrations on performance. Our method is compatible with any stand-alone RL algorithm and can be applied to any task. We evaluate our method on three tasks from OpenAI Gym's Mujoco benchmark and two state-of-the-art RL algorithms. The results demonstrate that our method significantly reduces the crash rate of the agent while converging to, and in most cases even improving, the performance of the stand-alone agent.  Download manuscript    
+
+ Automatic Trade-off Adaptation in Offline RL   
+  Phillip Swazinna, Steffen Udluft, Thomas Runkler  
+  https://doi.org/10.14428/esann/2023.ES2023-46  Abstract:   
+  Recently, offline RL algorithms have been proposed that remain adaptive at runtime. For example, the LION algorithm [1] provides the user with an interface to set the trade-off between behavior cloning and optimality w.r.t. the estimated return at runtime. Experts can then use this interface to adapt the policy behavior according to their preferences and find a good trade-off between conservatism and performance optimization. Since expert time is precious, we extend the methodology with an autopilot that automatically finds the best parameterization of the trade-off, yielding a new algorithm which we term AutoLION.  Download manuscript    
+
+ Enhancing Evolution Strategies with Evolution Path Bias   
+  Oliver Kramer  
+  https://doi.org/10.14428/esann/2023.ES2023-15  Abstract:   
+  Evolution Strategies (ES) have emerged as a powerful and effective method for optimization and reinforcement learning tasks, largely due to their simplicity and scalability. However, current ES techniques can be limited in their capacity to quickly converge on the optimal solution. In this paper, we propose a novel approach to enhance ES by incorporating an evolution path-informed bias in the Gaussian mutation operator. This bias is designed to facilitate faster descent on decreasing functions. Our method leverages the evolution path, which represents the historical search directions, to intelligently bias the Gaussian mutation. By doing so, it enables the algorithm to be more sensitive to the underlying function's structure and adaptively exploit this information for more efficient exploration. We validate our approach through experiments on three benchmark functions: a linear function, we call Downhill function here, a Parabolic ridge, and a Sphere function. The results demonstrate that our evolution path-informed bias significantly accelerates convergence on in most of the cases.  Download manuscript    
+
+ Multi-Fidelity Reinforcement Learning with Control Variates   
+  Sami Khairy, Prasanna Balaprakash  
+  https://doi.org/10.14428/esann/2023.ES2023-181  Abstract:   
+  In this paper, we investigate reinforcement learning (RL) in multi-fidelity environments and enhance agent performance using cross-correlated data. We introduce a multifidelity estimator based on control variates to reduce variance in state-action value function estimation. By employing this estimator, we develop a multifidelity Monte Carlo RL (MFMCRL) algorithm that boosts agent learning in high-fidelity settings. Our experiments show that, given a finite high-fidelity sample budget, the MFMCRL agent outperforms an RL agent relying solely on high-fidelity interactions for policy optimization.  Download manuscript    
+
+ Sun Tracking using a Weightless Q-Learning Neural Network   
+  Guilherme Souza, Priscila Lima, Felipe França  
+  https://doi.org/10.14428/esann/2023.ES2023-100  Abstract:   
+  Photovoltaic(PV) systems are one of the leading technologies to address climate change. Tracking systems improve energy generation by moving the surface to follow the sun's position however, these methods do not ensure optimal results in cloudy environments. This article proposes a closed-loop control algorithm for tracking based on reinforcement learning and weightless neural networks, compared to an astrological model. The method was applied in a single PV array on a single-axis tracking system, simulated with PVLib. Results showed that the architecture could improve results in cloudy environments but not in a clear-sky situation, as expected for a first approach.  Download manuscript    
+
+ A model-based approach to meta-Reinforcement Learning: Transformers and tree search   
+  Brieuc Pinon, Raphaël Jungers, Jean-Charles Delvenne  
+  https://doi.org/10.14428/esann/2023.ES2023-117  Abstract:   
+  Meta-learning is a line of research that develops the ability to leverage past experiences to efficiently solve new learning problems. In the context of Reinforcement Learning (RL), meta-RL methods demonstrate a capability to learn behaviors that efficiently acquire and exploit information on a set of related tasks. The Alchemy benchmark has been proposed in [Wang & al. 2021] to test such methods. Alchemy features a rich structured latent space that is challenging for state-of-the-art model-free RL methods. These methods fail to learn to properly explore then exploit. We develop a model-based algorithm. We train a model whose principal block is a Transformer Decoder to fit the symbolic Alchemy environment dynamics. Then we define an online planner with the learned model using a tree search method. This algorithm significantly outperforms previously applied methods on the symbolic Alchemy problem. Our results reveal the relevance of model-based approaches with online planning to perform exploration and exploitation successfully in meta-RL.  Download manuscript    
+
+ Derivative-Free Optimization Approaches for Force Polytopes Prediction   
+  Gautier Laisné, Nasser Rezzoug, Jean-Marc Salotti  
+  https://doi.org/10.14428/esann/2023.ES2023-122  Abstract:   
+  Hand force capacities reflect an individual's ability to generate forces in all directions, considering a given upper-limb posture. These capacities are described as polytopes by means of an upper-limb musculoskeletal model. However, such a model needs to be adapted to an individual for more accuracy. The model parameter space is investigated using derivative-free algorithms which do not require the optimization function to be differentiable: genetic algorithms and SRACOS, a classification-based algorithm. Results demonstrate that employing a genetic algorithm with a reduced representation of force polytopes (26 vertices) yields the most accurate prediction of force capacities in a validation posture.  Download manuscript    
+
+ Policy-Based Reinforcement Learning in the Generalized Rock-Paper-Scissors Game   
+  Imre Gergely Mali, Gabriela Czibula  
+  https://doi.org/10.14428/esann/2023.ES2023-92  Abstract:   
+  The Rock-Paper-Scissors game is a popular zero-sum game of cyclic nature, with a mixed-strategy Nash-equilibrium that has been the subject of a large number of studies and is of particular interest for economy, sociology and artificial intelligence. While there are numerous studies exploring evolutionary dynamics and learning, the overwhelming majority of these consider the game in its classical form, and two important axes with potential relevance remain unexplored. First, studies with policy-based reinforcement algorithms are lacking, and second, few existing investigations attempted to study such cyclic games with more than two players. The present work aims to address both of these matters.  Download manuscript    
+
+  Classification  
+  Performance Evaluation of Activation Functions in Extreme Learning Machine   
+  Karol Struniawski, Aleksandra Konopka, Ryszard Kozera  
+  https://doi.org/10.14428/esann/2023.ES2023-31  Abstract:   
+  This study investigates the performance of 36 different activation functions applied in Extreme Learning Machine on 10 distinct datasets. Results show that Mish and Sexp activation functions exhibit outstanding generalization abilities and consistently perform well across most datasets, while other functions are more dependent on the characteristics of the task at hand. The selection of an activation function is intricately linked to the applied dataset and novel activation functions may possess superior generalization capabilities comparing to commonly employed alternatives. This study provides valuable insight for researchers and practitioners seeking to optimize Extreme Learning Machine performance for solving classification tasks.  Download manuscript    
+
+ Evaluating Curriculum Learning Strategies for Pancreatic Cancer Prediction   
+  Eduardo Mosqueira-Rey, David Vázquez-Lema, Elena Hernández-Pereira  
+  https://doi.org/10.14428/esann/2023.ES2023-141  Abstract:   
+  In this work we applied Curriculum Learning (CL) to evaluate the performance of a machine learning (ML) model for pancreatic cancer prediction. As the dataset required it, we applied missing value imputation and data augmentation techniques. We compare different curriculum configurations in terms of pacing functions and we perform different experiments concluding that CL helps to train the ML model. Nevertheless, not all the configurations behave in the same way, and the best results were obtained when organizing the curriculum in increasing levels of difficulty following exponential pacing.  Download manuscript    
+
+ Improving the DRASiW performance by exploiting its own "Mental Images"   
+  Gianluca Coda, Massimo De Gregorio, Antonio Sorgente, Paolo Vanacore  
+  https://doi.org/10.14428/esann/2023.ES2023-25  Abstract:   
+  Several improvements have been proposed in the literature for the Weightless Neural Networks (WNNs), in particular the DRASiW extension of the WiSARD model with the introduction of mental imagery and bleaching procedure. We propose a new bleaching procedure called Dynamic Adaptive Bleaching (DAB) and its variant, refined Dynamic Adaptive Bleaching (rDAB), to improve the WNNs performance in terms of computational time and classification capabilities.  Download manuscript    
+
+ Efficient Knowledge Aggregation Methods for Weightless Neural Networks   
+  Otávio Napoli, Ana Maria de Almeida, José Miguel Sales Dias, Luís Brás Rosário, Edson Borin, Mauricio Breternitz Jr.  
+  https://doi.org/10.14428/esann/2023.ES2023-123  Abstract:   
+  Weightless Neural Networks (WNN) are good candidates for Federated Learning scenarios due to their robustness and computational lightness. In this work, we show that it is possible to aggregate the knowledge of multiple WNNs using more compact data structures, such as Bloom Filters, to reduce the amount of data transferred between devices. Finally, we explore variations of Bloom Filters and found that a particular data-structure, the Count-Min Sketch (CMS), is a good candidate for aggregation. Costing at most 3% of accuracy, CMS can be up to 3x smaller when compared to previous approaches, specially for large datasets.  Download manuscript    
+
+ Learning Vector Quantization in Context of Information Bottleneck Theory   
+  Mehrdad Mohannazadeh Bakhtiari, Daniel Staps, Thomas Villmann  
+  https://doi.org/10.14428/esann/2023.ES2023-95  Abstract:   
+  This paper is an effort to parameterize Information Bottle-neck Theory to become a supervised classifier. We introduce a parametrization by means of Learning Vector Quantization. With this new approach, one can find suitable components that are necessary for an accurate, yet efficient, classification. A balance between compression and representation is made by means of a specially designed objective function.  Download manuscript    
+
+ SOM-based Classification and a Novel Stopping Criterion for Astroparticle Applications   
+  Luis Sanchez, Erzsébet Merényi, Christopher Tunnell  
+  https://doi.org/10.14428/esann/2023.ES2023-177  Abstract:   
+  Classification of detector signals is vital in particle physics experiments. However, the intricate spatiotemporal nature of the data and instrumentation effects make accurate classification challenging. In this study, we apply a Conscious Self-Organizing Map to data from the XENONnT experiment to identify clusters in the data. We evaluate the resulting clusters for physics interpretation, label them, and demonstrate an improvement in signal classification compared to the current method using the cluster labels. We also introduce a stopping criterion based on map quality that can help shorten long SOM training sessions.  Download manuscript    
+
+ WiSARD-based Ensemble Learning   
+  Leopoldo Lusquino Filho, Felipe França, Priscila Lima  
+  https://doi.org/10.14428/esann/2023.ES2023-76  Abstract:   
+  Weightless neural networks are recognized for their online learning capacity and competitive performance with the state-of-the-art in different scenarios. Despite this, the literature has not adequately explored the potential of classification ensembles based on these models and their unique characteristics. This study introduces three types of ensembles based on the WiSARD weightless model and evaluates their effectiveness. The results show that these ensembles significantly improve accuracy compared to the WiSARD model and its ClusWiSARD extension, with a reasonable increase in computational cost. Furthermore, using ensembles eliminates the need for time-consuming tie-break policies of traditional WiSARD models.  Download manuscript    
+
+  Deep learning and Computer vision  
+  Entropy Based Regularization Improves Performance in the Forward-Forward Algorithm   
+  Matteo Pardi, Domenico Tortorella, Alessio Micheli  
+  https://doi.org/10.14428/esann/2023.ES2023-79  Abstract:   
+  The forward-forward algorithm (FFA) is a recently proposed alternative to end-to-end backpropagation in deep neural networks. FFA builds networks greedily layer by layer, thus being of particular interest in applications where memory and computational constraints are important. In order to boost layers' ability to transfer useful information to subsequent layers, in this paper we propose a novel regularization term for the layer-wise loss function that is based on Renyi's quadratic entropy. Preliminary experiments show accuracy is generally significantly improved across all network architectures. In particular, smaller architectures become more effective in addressing our classification tasks compared to the original FFA.  Download manuscript    
+
+ On the number of latent representations in deep neural networks for tabular data   
+  Edouard Couplet, Pierre Lambert, Michel Verleysen, Lee John, Cyril de Bodt  
+  https://doi.org/10.14428/esann/2023.ES2023-156  Abstract:   
+  Most recent deep neural network architectures for tabular data operate at the feature level and process multiple latent representations simultaneously. While the dimension of these representations is set through hyper-parameter tuning, their number is typically fixed and equal to the number of features in the original data. In this paper, we explore the impact of varying the number of latent representations on model performance. Our results suggest that increasing the number of representations beyond the number of features can help capture more complex interactions, whereas reducing their number can improve performance in cases where there are many uninformative features.  Download manuscript    
+
+ CRE: Circle relationship embedding of patches in vision transformer   
+  Zhengyang Yu, Jochen Triesch  
+  https://doi.org/10.14428/esann/2023.ES2023-75  Abstract:   
+  The vision transformer (ViT) utilizes a learnable position embedding (PE) to encode the location of an image patch. However, it is unclear if this learnable PE is vital and what its benefits are. This paper explores an alternative way of encoding patch locations that exploits prior knowledge about their spatial arrangement called circle relationship embedding (CRE). CRE considers the central patch as the center of a circle and measures the distance of remaining image patches from the center based on the four-neighborhood. Our experiments show that combining CRE with PE achieves better performance than using PE alone.  Download manuscript    
+
+ Introducing Convolutional Channel-wise Goodness in Forward-Forward Learning   
+  Andreas Papachristodoulou, Christos Kyrkou, Stelios Timotheou, Theocharis Theocharides  
+  https://doi.org/10.14428/esann/2023.ES2023-121  Abstract:   
+  This paper introduces a Channel-wise Goodness Function (CWG) that enhances the Forward-Forward through the use of Convolutional Neural Networks. The CWG function facilitates simultaneous feature extraction and separation, eliminating the requirement for constructing negative data and leading to faster convergence rates. The approach employs a two-component loss function that maximizes positive goodness and minimizes negative goodness. This enables the model to learn class-specific features to outperform recent non-backpropagation approaches on basic image classification datasets and shorten the gap with the well-established backpropagation methods.  Download manuscript    
+
+ An Alternating Minimization Algorithm with Trajectory for Direct Exoplanet Detection   
+  Hazan Daglayan, Simon Vary, Pierre-Antoine Absil  
+  https://doi.org/10.14428/esann/2023.ES2023-137  Abstract:   
+  Effective image post-processing algorithms are vital for the successful direct imaging of exoplanets. Existing algorithms use techniques based on a low-rank approximation to separate the rotating planet signal from the quasi-static speckles. In this paper, we present a novel approach that iteratively finds the planet’s flux and the low-rank approximation of quasi-static signals, strengthening the existing model based on low-rank approximations. We implement the algorithm with two different norms and test it on data, showing improvement over classical low-rank approaches. Our results highlight the benefits of iterative refinement of low-rank approximation to enhance planet detection.  Download manuscript    
+
+ On Transformer Autoregressive Decoding for Multivariate Time Series Forecasting   
+  Mohammed Aldosari, John Miller  
+  https://doi.org/10.14428/esann/2023.ES2023-171  Abstract:   
+  The success of the Transformer model has promoted recent advances in time series forecasting. This adoption sparked an interest in developing efficient Transformer models that scale well for forecasting long sequences. This involves maintaining non-autoregressive one-time decoding. However, the role of autoregressive decoding is less explored. To address this gap, we revisit an essential idea of the vanilla Transformer model and show that autoregressive decoding works well compared to non-autoregressive decoding using teacher forcing. It also becomes vital for critical forecasting tasks, such as pandemic forecasting, where the stakes are high. Our code and data are publicly available at https://github.com/maldosari1/ar_transformer_tf.  Download manuscript    
+
+ Don’t waste SAM   
+  Nermeen Abou Baker, Uwe Handmann  
+  https://doi.org/10.14428/esann/2023.ES2023-116  Abstract:   
+  Meta AI has recently released the Segment Anything Model (SAM), which demonstrates exceptional zero-shot image segmentation performance across various tasks with remarkable accuracy. Despite its inability to provide accurate segmentation across multiple research fields, SAM still serves as a valuable starting point for supporting the segmentation pipeline process, particularly for tasks that require extensive and senior skills annotations. This study aims to evaluate the generalization of SAM and fine-tuning SAM models using three waste segmentation datasets. Although they are captured from real scenes as SAM was pretrained on, these datasets present several challenges, including occlusions, deformable objects, transparency, and objects easily confused with backgrounds. In our findings, the fine-tuned SAM-ViT-H model outperforms the state-of-the-art Zerowaste, and TACO datasets with a significant increase of +30 in IoU, and it closely approaches performance levels of TrashCan 1.0, with only a -1.44 difference. After evaluating these popular waste datasets, it became evident that fine-tuning SAM as a foundational model is a crucial step for providing better generalization for downstream waste segmentation tasks. Therefore, SAM should not be disregarded or wasted.  Download manuscript    
+
+ Layered Neural Networks with GELU Activation, a Statistical Mechanics Analysis   
+  Frederieke Richert, Michiel Straat, Elisa Oostwal, Michael Biehl  
+  https://doi.org/10.14428/esann/2023.ES2023-72  Abstract:   
+  Understanding the influence of activation functions on the learning behaviour of neural networks is of great practical interest. The GELU, being similar to swish and ReLU, is analysed for soft committee machines in the statistical physics framework of off-line learning. We find phase transitions with respect to the relative training set size, which are always continuous. This result rules out the hypothesis that convex activation functions cause continuous phase transitions, as e.g. for the ReLU. Moreover, we show that even a small contribution of a sigmoidal function like erf in combination with GELU leads to a discontinuous transition.  Download manuscript    
+
+ Real-time Detection of Evoked Potentials by Deep Learning: a Case Study   
+  Leonardo Amato, Marta Maschietto, Alessandro Leparulo, Mattia Tambaro, Stefano Vassanelli, Alessandro Sperduti  
+  https://doi.org/10.14428/esann/2023.ES2023-101  Abstract:   
+  In Local Field Potential (LFP) recordings it is hard to distinguish Evoked Potentials (EPs) from spontaneous activity. Automatic real-time detection of all EPs in a recording would enable the deployment of neuromorphic prostheses. In this paper, we present a case study involving EPs induced by stimulation of a whisker in rats. We compare the detection performance of three deep learning models: a Temporal Convolutional Network, a Recurrent Neural Network, and a Mixed model. A data augmentation technique for LFP data and a technique to learn the delay of causal models are proposed. Experimental results show that the three deep learning models are capable of detecting most EPs with few false positives, a delay of less than 100ms, and for a pruned TCN, using only 1,282 parameters.  Download manuscript    
+
+ Coordinate descent on the Stiefel manifold for deep neural network training   
+  Estelle Massart, Vinayak Abrol  
+  https://doi.org/10.14428/esann/2023.ES2023-143  Abstract:   
+  To alleviate the cost incurred by orthogonality constraints in optimization and model training, we propose a stochastic coordinate descent algorithm on the Stiefel manifold. We compute expressions for geodesics on the Stiefel manifold with initial velocity aligned with coordinates of the tangent space and show that, analogously to the orthogonal group, iterate updates of coordinate descent methods can be efficiently implemented in terms of multiplications by Givens matrices. We illustrate our proposed algorithm on deep neural network training  Download manuscript    
+
+ Action-Based ADHD Diagnosis in Video   
+  Yichun Li, Yuxing Yang, Rajesh Nair, Mohsen Naqvi  
+  https://doi.org/10.14428/esann/2023.ES2023-17  Abstract:   
+  Attention Deficit Hyperactivity Disorder (ADHD) causes significant impairment in various domains. Early diagnosis of ADHD and treatment could significantly improve the quality of life and functioning. Recently, machine learning methods have improved the accuracy and efficiency of the ADHD diagnosis process. However, the cost of the equipment and trained staff required by the existing methods are generally huge. Therefore, we introduce the video-based frame-level action recognition network to ADHD diagnosis for the first time. We also record a real multi-modal ADHD dataset and extract three action classes from the video modality for ADHD diagnosis. The whole process data have been reported to CNTW-NHS Foundation Trust, which would be reviewed by medical consultants/professionals and will be made public in due course.  Download manuscript    
+
+ Hierarchical priors for Hyperspherical Prototypical Networks   
+  Samuele Fonio, Lorenzo Paletto, Mattia Cerrato, Dino Ienco, Roberto Esposito  
+  https://doi.org/10.14428/esann/2023.ES2023-65  Abstract:   
+  In this paper, we explore the usage of hierarchical priors to improve learning in contexts where the number of available examples is extremely low. Specifically, we consider a Prototype Learning setting where deep neural networks are used to embed data in hyperspherical geometries. In this scenario, we propose an innovative way to learn the prototypes by combining class separation and hierarchical information. In addition, we introduce a contrastive loss function capable of balancing the exploitation of prototypes through a prototype pruning mechanism. We compare the proposed method with state-of-the-art approaches on two public datasets.  Download manuscript    
+
+ Segmentation and Analysis of Lumbar Spine MRI Scans for Vertebral Body Measurements   
+  Helen Schneider, David Biesner, Akash Ashokan, Maximilian Broß, Rebecca Kador, Sandra Halscheidt, Gabor Bagyo, Peter Dankerl, Haissam Ragab, Jin Yamamura, Christoph Labisch, Rafet Sifa  
+  https://doi.org/10.14428/esann/2023.ES2023-88  Abstract:   
+  This paper investigates a data- and knowledge-driven approach to auto- matically analyze lumbar MRI scans. The dataset used is an in-house dataset of 142 sagital lumbar spine images from German radiology prac- tices of the evidia GmbH. We implement state-of-the-art deep learning methods to segment the individual vertebral bodies. Overall, a very accu- rate segmentation performance of 97% Dice Score was achieved. Based on this segmentation, pathologically relevant distances are calculated using rule-based computer vision methods. We focus on the anterior, posterior and middle height of a vertebra and the anterior and posterior distances between two lumbar vertebrae. We demonstrate the clinical value of this approach through a quantitative and qualitative result analysis.  Download manuscript    
+
+ Retinal blood vessel segmentation from high resolution fundus image using deep learning architecture   
+  henda boudegga, Yaroub Elloumi, Asma Ben Abdallah, Rostom Kachouri, Mouhamed hédi Bedoui  
+  https://doi.org/10.14428/esann/2023.ES2023-180  Abstract:   
+  The Retinal Vascular Tree (RVT) segmentation is required to diagnose various ocular pathologies. Recently, fundus images are acquired with higher resolution, which allows representing a large range of vessel thickness. However, standard Deep Learning (DL) architectures with static and small convolution size have failed to achieve higher segmentation performance. In this paper, we propose a novel DL architecture for RVT segmentation dedicated for high resolution fundus images. The idea consists at extending the U-net architecture by increasing (e.g. decreasing) convolution kernel size through convolution blocs, in correlation with downscale (e.g. upscale) of feature map dimensions. The proposed architecture is validated on HRF database, where average sensitivity is increased from 56% to 84%.  Download manuscript    
+
+ Graph for Transformer Feature: A New Approach for Face Anti-Spoofing   
+  Quoc-Huy Trinh, Hieu Nguyen, Van Nguyen, Xuan-Mao Nguyen, Hai-Dang Nguyen  
+  https://doi.org/10.14428/esann/2023.ES2023-14  Abstract:   
+  Face recognition is popular nowadays, however, Face anti-spoofing (FAS) poses a significant challenge for recognition systems due to the threat of external attacks. While many deep learning methods have been proposed to address this issue, they often face challenges in industry settings. Experiments found that patch extraction modules, such as the Vision Transformer and Swin Transformer, are effective for FAS in single images and perform well in industrial environments. From this point, we propose a model that leverages Transformer features and Graph Neural Networks to learn global information and identify correlations between patch features, which are critical for FAS.  Download manuscript    
+
+ Temporal Ensembling-based Deep k-Nearest Neighbours for Learning with Noisy Labels   
+  Alexandra-Ioana Albu  
+  https://doi.org/10.14428/esann/2023.ES2023-144  Abstract:   
+  Label noise can significantly affect the generalization of deep neural networks. Nevertheless, it is omnipresent in real world applications. This paper introduces an approach for identifying the samples from a dataset which are likely to have correct annotations. The proposed method computes the agreement of a sample with its nearest neighbours retrieved from the feature space provided by a neural network. We introduce a temporal ensembling strategy which takes into account the agreement scores obtained by a sample during previous training epochs. The superiority of our approach over several baselines is shown on image classification datasets.  Download manuscript    
+
+ Evaluation of Contrastive Learning for Electronic Component Detection   
+  Leandro Silva, Agostinho Junior, Bruno Fernandes, George Azevedo, Sérgio Oliveira  
+  https://doi.org/10.14428/esann/2023.ES2023-167  Abstract:   
+  The rapid growth of electronic waste (e-waste) has led to an urgent need for efficient recycling processes to recover valuable materials and reduce environmental impact. Waste Printed Circuit Boards (WPCBs) constitute significant e-waste and contain valuable components and precious metals. Computer vision systems can automate the classification, disassembly, and recycling of WPCBs. However, obtaining large annotated datasets for machine learning in this domain is costly and often unavailable. This paper investigates using few-shot and supervised contrastive learning in electronic component detection. We propose a model incorporating contrastive learning components for detecting electronic components in scenarios with limited training data or annotated labels. Our experimental results show that, in limited-data scenarios, contrastive learning outperforms the original versions of Faster R-CNN object detector. This study contributes to developing efficient recycling solutions for e-waste management and resource recovery.  Download manuscript    
+
+  Sequential data, and Meta-learning  
+  Revisiting the Mark Conditional Independence Assumption in Neural Marked Temporal Point Processes   
+  Tanguy Bosser, Souhaib Ben Taieb  
+  https://doi.org/10.14428/esann/2023.ES2023-64  Abstract:   
+  Learning marked temporal point process (TPP) models involves modeling both the event arrival times as well as their associated labels, referred to as marks. The recent introduction of deep learning techniques to the field led to better modeling of event sequences thanks to more flexible neural TPP models. However, some of these models make the assumption that event marks are independent of event times given the history of the process, which may not be valid in many applications. We relax this assumption and explicitly parametrize the mark distribution as a function of the current event time. We show that our approach achieves improved performance in predicting future marks compared to baselines on multiple real-world event sequence datasets, without affecting the performance on event time prediction.  Download manuscript    
+
+ A Protocol for Continual Explanation of SHAP   
+  Andrea Cossu, Francesco Spinnato, Riccardo Guidotti, Davide Bacciu  
+  https://doi.org/10.14428/esann/2023.ES2023-41  Abstract:   
+  Continual Learning trains a model on a stream of data, with the aim of learning new information without forgetting previous knowledge. We study the behavior of SHAP values explanations in Continual Learning and propose an evaluation protocol to robustly assess the change of explanations in Class-Incremental scenarios. We observed that, while Replay strategies enforce the stability of SHAP values in feedforward/convolutional models, they are not able to do the same with fully-trained recurrent models. We show that alternative approaches, like randomized recurrent models, are more effective in keeping the explanations stable over time.  Download manuscript    
+
+ Residual Reservoir Computing Neural Networks for Time-series Classification   
+  Claudio Gallicchio, Andrea Ceni  
+  https://doi.org/10.14428/esann/2023.ES2023-112  Abstract:   
+  We introduce a novel class of Reservoir Computing (RC) models, a family of efficiently trainable Recurrent Neural Networks based on untrained connections. Aiming to improve the forward propagation of input information through time, we augment standard Echo State Networks (ESNs) with linear reservoir-skip connections modulated by an untrained orthogonal weight matrix. We analyze the mathematical properties of the resulting reservoir systems and show that the dynamical regime of the proposed class of models is controllably close to the edge of stability. Experiments on several time-series classification tasks highlight the striking performance advantage of the proposed approach over standard ESNs.  Download manuscript    
+
+ Probabilistic Adaptation for Meta-Learning   
+  Tameem Adel  
+  https://doi.org/10.14428/esann/2023.ES2023-48  Abstract:   
+  Meta-learning models learn to generalise to unseen tasks at test time. We introduce a meta-learning algorithm which balances (global) generalisation with a (local) adaptive mechanism allowing the meta-learner to deal with potentially substantial heterogeneity in the task distribution. The proposed meta-learner flexibly consolidates shared components (responsible for generalisation) with task-specific components. The latter components are adapted, in a data-driven manner, based on estimating the similarity between the meta-test task in hand and the training tasks. Experiments demonstrate improved performance on few-shot learning benchmarks, both general and others involving a more heterogeneous set of tasks.  Download manuscript    
+
+ A hidden Markov model with Hawkes process-derived contextual variables to improve time series prediction. Case study in medical simulation.   
+  Fatoumata Dama, Christine Sinoquet, Corinne Lejus-Bourdeau  
+  https://doi.org/10.14428/esann/2023.ES2023-57  Abstract:   
+  So far, models that take advantage of sequences of events to refine time series prediction have only been designed for specific applications. In this paper, we introduce the Non-Homogeneous Markov Chain AutoRegressive (NHMC-AR) model. In our model, the innovation arises from the synchronization of a multivariate Hawkes temporal point process with an autoregressive first-order hidden Markov model, through contextual variables. Experiments on anaesthesia data demonstrate that NHMC-AR has substantially better predictive performance compared to two competing methods.  Download manuscript    
+
+ Deep dynamic co-clustering of streams of count data: a new online Zip-dLBM   
+  Giulia Marchello, Marco Corneli, Charles Bouveyron  
+  https://doi.org/10.14428/esann/2023.ES2023-86  Abstract:   
+  Co-clustering is a technique used to analyze complex and high-dimensional data in various fields. However, traditional co-clustering methods are usually limited to dense data sets and require massive amount of memory, which can be limiting in some applications. To address this issue, we propose an online co-clustering model that processes the data incrementally and introduces a novel latent block model for sparse data matrices. The proposed model employs a LSTM neural network and a time and block dependent mixture of zero-inflated distributions to model sparsity and aims to detect real-time changes in dynamics through Bayesian online change point detection. An original variational procedure is proposed for inference. Simulations demonstrate the effectiveness of the methodology for count data.  Download manuscript    
+
+ Communication-Efficient Ridge Regression in Federated Echo State Networks   
+  Valerio De Caro, Antonio Di Mauro, Davide Bacciu, Claudio Gallicchio  
+  https://doi.org/10.14428/esann/2023.ES2023-87  Abstract:   
+  Federated Echo State Networks represent an efficient methodology for learning in pervasive environments with private temporal data due to the low computational cost required by the learning phase. In this paper, we propose Partial Federated Ridge Regression (pFedRR), an approximate, communication-efficient version of the exact method for learning the readout in a federated setting. Each client compresses the local statistics to be exchanged with the server via an importance-based method, which selects the most relevant neurons with respect to the local distribution. We evaluate the methodology on two Human State Monitoring benchmarks, in comparison with the exact method and a communication-efficient method that randomly selects the information to exchange. Results show that the importance-based selection of the information significantly reduces the communication cost, and fosters the generalization capabilities in the face of statistical heterogeneity across clients.  Download manuscript    
+
+ Simultaneous failures classification in a predictive maintenance case   
+  Antoine Hubermont, elio tuci, Nicola De Quattro  
+  https://doi.org/10.14428/esann/2023.ES2023-129  Abstract:   
+  In industry 4.0, Machine Learning coupled with sensors monitoring leverages new ways to optimise maintenance strategies. In a predictive maintenance case, failure diagnoses are an excellent way to prevent any breakdowns. Up to now, failure diagnoses are focused on the classification of only one failure among many (multi-label classification), even if multiple failures can occur simultaneously. This study proposes an extension to classify simultaneous failures with the most popular classification methods such as random forests or artificial neural networks. Validated on a public predictive maintenance dataset, our methodology achieved classification with equal or best accuracy compared to multi-label classification.  Download manuscript    
+
+ Hybrid modelling of dynamic anaerobic digestion process in full-scale with LSTM NN and BMP measurements   
+  Alberto Meola, Sören Weinrich  
+  https://doi.org/10.14428/esann/2023.ES2023-133  Abstract:   
+  Machine learning algorithms allow an accurate description of the anaerobic digestion process, but they are not applied in full-scale reactors due to the lack of physicochemical reliabilty. A hybrid model combining biomethane potential (BMP) tests data and a long short-term memory (LSTM) neural network was developed for providing previous knowledge to the neural network and improving performances. Results show that the best model configuration can predict the methane yield with a 6-hours resolution 1 day in advance with a Root Mean Square Scaled Error (RMSSE) of 36%, compared to an RMSSE of 41% obtained by the pure LSTM model configuration  Download manuscript    
+
+ Wind Power Prediction with ETSformer   
+  Oliver Kramer, Jill Baumann  
+  https://doi.org/10.14428/esann/2023.ES2023-173  Abstract:   
+  With growing environmental awareness, power generation from wind and other renewable sources is becoming increasingly important. Accurate short-term predictions of wind turbine power are needed to keep the grid stable and secure. This paper investigates the use of ETSformer, a new deep learning method based on a time series transformer architecture, for wind power prediction. ETSformer incorporates exponential smoothing principles and introduces mechanisms such as exponential smoothing attention and frequency attention to improve accuracy, efficiency and interpretability. This study compares ETSformer and LSTM on a sample dataset of a wind farm and its surrounding sites within a three kilometer radius from the Wind Integration National Dataset Toolkit with five minute interval measurements. The investigation shows promising results and improvements of ETSformer in ultra-short and short-term wind power prediction.  Download manuscript    
+
+ Is One Epoch All You Need For Multi-Fidelity Hyperparameter Optimization?   
+  Romain Egele, Isabelle Guyon, Yixuan Sun, Prasanna Balaprakash  
+  https://doi.org/10.14428/esann/2023.ES2023-84  Abstract:   
+  Hyperparameter optimization (HPO) is essential to adjust machine learning models. However, it can be computationally expensive. To reduce costs, Multi-fidelity HPO (MF-HPO) uses intermediate accuracy and discards low-performing models. Numerous methods have been proposed, but determining the most effective one remains unclear. In this study, we compared popular methods against a simple baseline of training for 1-Epoch using different benchmarks. Surprisingly, the baseline demonstrated unexpectedly good performance, achieving similar accuracy with approximately ten times fewer training epochs. Analysis of the learning curves from these benchmarks suggests the need to increase the diversity of MF-HPO benchmarks to include cases of "short-term horizon bias".  Download manuscript    
+
+  Machine Learning Applied to Sign Language  
+  Trends and Challenges for Sign Language Recognition with Machine Learning   
+  Jérôme Fink, Mathieu De Coster, Joni Dambre, Benoit Frénay  
+  https://doi.org/10.14428/esann/2023.ES2023-7  Abstract:   
+  Research in natural language processing has led to the creation of powerful tools for individuals, companies... However, these successes for written languages have not yet affected signed languages (SLs) to the same extent. The creation of similar tools for signed languages would benefit deaf, hard of hearing, and hearing people by making SL content, learning, and communication more accessible for everyone. SL recognition and translation are related to AI, but require collaboration with linguists and stakeholders. This paper describes related challenges from an AI researcher's point of view and summarizes the state of the art in these domains.  Download manuscript    
+
+ Multimodal Recognition of Valence, Arousal and Dominance via Late-Fusion of Text, Audio and Facial Expressions   
+  Fabrizio Nunnari, Annette Rios, Uwe Reichel, Chirag Bhuvaneshwara, Panagiotis Filntisis, Petros Maragos, Felix Burkhardt, Florian Eyben, Björn Schuller, Sarah Ebling  
+  https://doi.org/10.14428/esann/2023.ES2023-128  Abstract:   
+  We present an approach for the prediction of valence, arousal, and dominance of people communicating via text/audio/video streams for a translation from and to sign languages. The approach consists of the fusion of the output of three CNN-based models dedicated to the analysis of text, audio, and facial expressions. Our experiments show that any combination of two or three modalities increases prediction performance for valence and arousal.  Download manuscript    
+
+ Exploring Strategies for Modeling Sign Language Phonology   
+  Lee Kezar, Tejas Srinivasan, Riley Carlin, Jesse Thomason, Zed Sevcikova Sehyr, Naomi Caselli  
+  https://doi.org/10.14428/esann/2023.ES2023-83  Abstract:   
+  Like speech, signs are composed of discrete, recombinable features called phonemes. Prior work shows that models which can recognize phonemes are better at sign recognition, motivating deeper exploration into strategies for modeling sign language phonemes. In this work, we learn graph convolution networks to recognize the sixteen phoneme “types” found in ASL-LEX 2.0. Specifically, we explore how learning strategies like multi-task and curriculum learning can leverage mutually useful information between phoneme types to facilitate better modeling of sign language phonemes. Results on the Sem-Lex Benchmark show that curriculum learning yields an average accuracy of 87% across all phoneme types, outperforming fine-tuning and multi-task strategies for most phoneme types.  Download manuscript    
+
+ Exploring the Importance of Sign Language Phonology for a Deep Neural Network   
+  Javier Martinez Rodriguez, Martha Larson, Louis ten Bosch  
+  https://doi.org/10.14428/esann/2023.ES2023-138  Abstract:   
+  We conduct an initial investigation to gain insight into whether a deep neural network learns phonological aspects of sign language when classifying video recordings of isolated signs from a continuous signing scenario. We train a series of neural networks to distinguish pairs of signs in Dutch Sign Language, controlling the phonological difference between the signs in each pair. Our results suggest that the intrinsic dimension of the final hidden layer of a network is surprisingly insensitive to the phonological difference between the signs in a pair. However, the ability of the network to discriminate two signs shows a clear trend towards increasing with increasing phonological distinctiveness.  Download manuscript    
+
+ Large-scale dataset and benchmarking for hand and face detection focused on sign language   
+  Alvaro Leandro Cavalcante Carneiro, Denis Henrique Pinheiro Salvadeo, Lucas Brito Silva  
+  https://doi.org/10.14428/esann/2023.ES2023-185  Abstract:   
+  Object detection is an important preprocessing technique for sign language recognition, allowing focus on the most important parts of the image. This paper introduces a new large-scale dataset for hand and face detection in sign language context, mitigating the lack of data for this problem. We evaluated different object detection architectures to find the best trade-off between computational cost and mean Average Precision (mAP). The proposed dataset contains 477,480 annotated images. The most accurate detector (CenterNet) achieved an mAP of 96.7%. Furthermore, the optimizations made to the models reduced the inference time up to 74% in the best scenario.  Download manuscript    
+
+ Disambiguating Signs: Deep Learning-based Gloss-level Classification for German Sign Language by Utilizing Mouth Actions   
+  Dinh Nam Pham, Vera Czehmann, Eleftherios Avramidis  
+  https://doi.org/10.14428/esann/2023.ES2023-168  Abstract:   
+  Despite the importance of mouth actions in Sign Languages, previous work on Automatic Sign Language Recognition (ASLR) has limited use of the mouth area. Disambiguation of homonyms is one of the functions of mouth actions, making them essential for tasks involving ambiguous hand signs. To measure their importance for ASLR, we trained a classifier to recognize ambiguous hand signs. We compared three models which use the upper body/hands area, the mouth, and both combined as input. We found that the addition of the mouth area in the model resulted in the best accuracy, giving an improvement of 7.2% and 4.7% on the validation and test set, while allowing disambiguation of the hand signs for most of the cases. In cases where the disambiguation failed, it was observed that the signers in the video samples occasionally didn’t perform mouthings. In a few cases, the mouthing was enough to achieve full disambiguation of the signs. We conclude that further investigation on the modelling of the mouth region can be beneficial of future ASLR systems.  Download manuscript    
+
+  Efficient Learning in Spiking Neural Networks  
+  Efficient Learning in Spiking Models   
+  Alex Rast, Mario Antoine Aoun, Eleni Elia, Nigel Crook  
+  https://doi.org/10.14428/esann/2023.ES2023-1  Abstract:   
+  Spiking neural networks (SNNs) form a large class of neural models distinct from ‘classical’ continuous-valued networks such as multi layer perceptrons (MLPs). With event-driven dynamics and a continuous-time model, in contrast to the discrete-time model of their classical counterparts, they offer interesting advantages in representational capacity and energy consumption. However, developing models of learning for SNNs has historically proven challenging: as continuous-time systems, their dynamics are much more complex and they cannot benefit from the strong theoretical developments in MLPs such as convergence proofs and optimal gradient descent. Nor do they gain automatically from algorithmic improvements that have produced efficient matrix inversion and batch training methods. Research has focussed largely on the most extensively studied learning mechanisms in SNNs: spike-timing-dependent plasticity (STDP). Although there has been progress here, there are also notable pathologies that have often been solved with a variety of ad-hoc techniques. A relatively recent interesting development is attempts to map classical convolutional neural networks to spiking implementations, but these may not leverage all the claimed advantages of spiking. This tutorial overview looks at existing techniques for learning in SNNs and offers some thoughts for future directions.  Download manuscript    
+
+ Spiking neural networks with Hebbian plasticity for unsupervised representation learning   
+  Naresh Balaji Ravichandran, Anders Lansner, Pawel Herman  
+  https://doi.org/10.14428/esann/2023.ES2023-169  Abstract:   
+  We introduce a novel spiking neural network model for learning distributed internal representations from data in an unsupervised procedure. We achieved this by transforming the non-spiking feedforward Bayesian Confidence Propagation Neural Network (BCPNN) model, employing an online correlation-based Hebbian-Bayesian learning and rewiring mechanism, shown previously to perform representation learning, into a spiking neural network with Poisson statistics and low firing rate comparable to in vivo cortical pyramidal neurons. We evaluated the representations learned by our spiking model using a linear classifier and show performance close to the non-spiking BCPNN, and competitive with other Hebbian-based spiking networks when trained on MNIST and F-MNIST machine learning benchmarks.  Download manuscript    
+
+ Functional Resonant Synaptic Clusters for Decoding Time-Structured Spike Trains   
+  Nigel Crook, Alex Rast, Eleni Elia, Mario Antoine Aoun  
+  https://doi.org/10.14428/esann/2023.ES2023-142  Abstract:   
+  Biological neurons communicate with each other using two broad categories of spike event coding: rate-based and temporal. Rate-based coding communicates analog information on a continuous scale through the intensity of bursts of spikes while temporal coding relies on the timing of spike events. It has been shown that temporal coding has higher information capacity than rate based coding, but is much more challenging to model due to difficulties estimating spike-time statistics. In this paper we demonstrate how historically dependent NMDA-modulated ‘resonant’ synapses organised in ‘functional synaptic clusters’ provide a robust mechanism for decoding temporally structured spike trains.  Download manuscript    
+
+ Pattern Recognition Spiking Neural Network for Classification of Chinese Characters   
+  Nicola Russo, Wan Yuzhong, Thomas Madsen, Konstantin Nikolic  
+  https://doi.org/10.14428/esann/2023.ES2023-174  Abstract:   
+  The Spiking Neural Networks (SNNs) are biologically more realistic than other types of Artificial Neural Networks (ANNs), but they have been much less utilised in applications. When comparing the two types of NNs, the SNNs are considered to be of lower latency, more hardware-friendly and energy-efficient, and suitable for running on portable devices with weak computing performance. In this paper we aim to use an SNN for the task of classifying Chinese character images, and test its performance. The network utilises inhibitory synapses for the purpose of using unsupervised learning. The learning algorithm is a derivative of the traditional Spike-timing-dependent Plasticity (STDP) learning rule. The input images are first pre-processed by traditional methods (OpenCV). Different hyperparameters configurations are tested reaching an optimal configuration and a classification accuracy rate of 93%.  Download manuscript    
+
+ Energy-efficient detection of a spike sequence   
+  Louis LE COEUR, Nick Riedman, Saarthak Sarup, Kwabena Boahen  
+  https://doi.org/10.14428/esann/2023.ES2023-179  Abstract:   
+  We present a novel 3D spike sorting network (3DSS) that detects a spike sequence efficiently and memorizes it upon a single presentation without configuration. We analyze the wiring and switches of alternatives and show that 3DSS reduces energy per spike quadratically compared to existing 2D networks. Applications include large-scale document retrieval and self-configuring hardware.  Download manuscript    
+
+  Anomaly Detection, and Learning Algorithms  
+  Anomaly detection in irregular image sequences for concentrated solar power plants   
+  Sukanya Patra, Thi Khanh Hien Le, Souhaib Ben Taieb  
+  https://doi.org/10.14428/esann/2023.ES2023-178  Abstract:   
+  Operations at extremely high temperatures can lead to various malfunctions in Concentrated Solar Power (CSP) plants, emphasizing the need for predictive maintenance (PdM). We study PdM as an anomaly detection (AD) problem from irregular image sequences, which represent the minute-by-minute solar receiver’s surface temperature from a CSP plant. Contrary to standard benchmark image datasets in AD research, our data shows distinct characteristics such as non-stationarity, temporal dependence, and irregular sampling, which are unaddressed by current image-based AD techniques. Therefore, we introduce a forecast-based AD method to address these characteristics, drawing inspiration from irregular sequence modelling. The results show that the proposed method outperforms classical image-based AD methods on our dataset.  Download manuscript    
+
+ Knowledge Distillation for Anomaly Detection   
+  Adrian Alan Pol, Ekaterina Govorkova, Sonja Gronroos, Nadezda Chernyavskaya, Philip Harris, Maurizio Pierini, Isobel Ojalvo, Peter Elmer  
+  https://doi.org/10.14428/esann/2023.ES2023-159  Abstract:   
+  Unsupervised deep learning techniques are widely used to identify anomalous behaviour. The performance of such methods is a product of the amount of training data and the model size. However, the size is often a limiting factor for the deployment on resource-constrained devices. We present a novel procedure based on knowledge distillation for compressing an unsupervised anomaly detection model into a supervised deployable one and we suggest a set of techniques to improve the detection sensitivity. Compressed models perform comparably to their larger counterparts while significantly reducing the size and memory footprint.  Download manuscript    
+
+ Comparative study of the synfire chain and ring attractor model for timing in the premotor nucleus in male Zebra Finches   
+  Fjola Hyseni, Nicolas Rougier, Arthur Leblois  
+  https://doi.org/10.14428/esann/2023.ES2023-120  Abstract:   
+  Timing is crucial for the generation of a wide range of sensorimotor tasks. However, the underlying mechanisms remain unclear. In the order of milliseconds, premotor nucleus HVC in male zebra finches is an outstanding model in studying the sequential neuronal activity encoding action timing. Current computational models of HV C rely on the synfire chains, which are not robust to noise and function for a narrow range of weights. An alternative with robust functional properties are attractors. Here, we compare the two models and show that not only the ring attractor is more robust, but can also reproduce the brief activity bursts of HV C neurons.  Download manuscript    
+
+ Don't skip the skips: autoencoder skip connections improve latent representation discrepancy for anomaly detection   
+  Anne-Sophie Collin, Cyril de Bodt, Dounia Mulders, Christophe De Vleeschouwer  
+  https://doi.org/10.14428/esann/2023.ES2023-139  Abstract:   
+  Reconstruction-based anomaly detection typically relies on the reconstruction of a defect-free output from an input image. Such reconstruction can be obtained by training an autoencoder to reconstruct clean images from inputs corrupted with a synthetic defect. Previous works have shown that adopting an autoencoder with skip connections improves reconstruction sharpness. However, it remains unclear how skip connections affect the latent representations learned during training. Here, we compare internal representations of autoencoders with and without skip connections. Experiments over the MVTec AD dataset reveal that skip connections enable the autoencoder latent representations to intrinsically discriminate between clean and defective images.  Download manuscript    
+
+ Variants of Neural Gas for Regression Learning   
+  Thomas Villmann, Ronny Schubert, Marika Kaden  
+  https://doi.org/10.14428/esann/2023.ES2023-94  Abstract:   
+  Approximation problems, and thus regression problems, have been widely considered as machine learning problems. A popular model to tackle such tasks are radial-basis-function networks (RBFN) and variants thereof. However, due to the global approximation scheme, RBFN, when trained in a supervised manner without additional constraints, may lack local representation. To this end, we propose approaches that aim to preserve locality in terms of the regression problem by using the Neural Gas algorithm. The models are tested on different data sets and compared to the supervised RBFN approach.  Download manuscript    
+
+ Hybrid Deep Learning-Based Air and Water Quality Prediction Model   
+  Jungeun Yoon, Dasong Yu, youngjae lee  
+  https://doi.org/10.14428/esann/2023.ES2023-44  Abstract:   
+  This paper analyzes the impact of surrounding data on predicting air and water pollution levels by incorporating relevant features and examining their influence. By doing so, we can confirm the relationship between air and water pollution. A hybrid deep learning-based model is trained and various datasets and models are compared and analyzed. The proposed GCN-GRU model achieved the best results not only for PM2.5 but also for Dissolved Oxygen. The hybrid model takes into account the spatial and temporal effects of data characteristics and provides more accurate environmental prediction information through correlation analysis.  Download manuscript    
+
+ Sleep analysis in a CLIS patient using soft-clustering: a case study   
+  Sophie Adama, Martin Bogdan  
+  https://doi.org/10.14428/esann/2023.ES2023-52  Abstract:   
+  The paper deals with the analysis of the sleep patterns of a patient with Completely Locked-In Syndrome (CLIS). The analysis was performed using an approach initially designed to detect consciousness in Disorders of Consciousness (DoC) and CLIS patients. The method extracts different features based on spectral, complexity and connectivity measures and performs soft-clustering analyses to determine the consciousness state. The results showed that it was able to discriminate between the (Non)-Rapid Eye Movement (NREM) and the Rapid Eye Movement (REM) sleep stages. Detecting normal SWS and REM phases indicates better communication abilities for the patient.  Download manuscript    
+
+ FairBayRank: A Fair Personalized Bayesian Ranker   
+  Armielle Noulapeu Ngaffo, Julien Albert, Benoit Frénay, Gilles Perrouin  
+  https://doi.org/10.14428/esann/2023.ES2023-81  Abstract:   
+  Recommender systems are data-driven models that successfully provide users with personalized rankings of items (movies, books...). Meanwhile, for user minority groups, those systems can be unfair in predicting users’ expectations due to biased data. Consequently, fairness remains an open challenge in the ranking prediction task. To address this issue, we propose in this paper FairBayRank, a fair Bayesian personalized ranking algorithm that deals with both fairness and ranking performance requirements. FairBayRank evaluation on real-world datasets shows that it efficiently alleviates unfairness issues while ensuring high prediction performances.  Download manuscript    
+
+ Robust and Cheap Safety Measure for Exoskeletal Learning Control with Estimated Uniform PAC (EUPAC)   
+  Felix Weiske, Jens Jäkel  
+  https://doi.org/10.14428/esann/2023.ES2023-40  Abstract:   
+  Although safe reinforcement learning control for exoskeletons shows great potential, established real-world applications seem rare. There is a dilemma: the safe RL agent is either robustly safe and computationally demanding or not robustly safe but computationally cheap. We propose Estimated Uniform PAC (EUPAC) as a new safety heuristic. We show that our EUPAC algorithm differentiates safe from unsafe system behaviour with high significance ($p<0.001$) while having a linear worst time complexity.  Download manuscript    
+
+ Copyright © ESANN, 2019

@@ -1,0 +1,87 @@
+rdrr.io   Find an R package    R language docs    Run R in your browser        
+
+ KDViz Knowledge Domain Visualization   
+  
+ Package index   Search the KDViz package   
+        
+  Functions   29   
+    
+ Source code   13   
+    
+ Man pages   16   
+  ArticleSearch:  Search articles from web 
+  BibToCorpus:  Convert a bibliographic database into a text corpus 
+  DTMFromCorpus:  Obtain a document-term matrix from corpus 
+  GroupDTM:  Grouping of words with co-word method 
+  KDCorpus:  Corpus of articles and keywords related to the topic of... 
+  KDDTM:  Document-term matrix of articles and keywords related to the... 
+  KDSummary:  Knowledge domain summary 
+  KDViz:  Knowledge Domain Visualization 
+  KDVizData:  Data about the topic of Knowledge domain visualization 
+  LoadArticle:  Load the information stored in a bibliographic database 
+  matrix.corpus.mpa:  Calulation of co-occurrences matrix and matrix associations... 
+  read.corpus.mpa:  Reading corpus object 
+  ReadRIS:  Function to read RIS files 
+  ReplaceByList:  Replace a list of words by another 
+  TermFreqByWord:  Search a specific term inside a table of word frequencies 
+  TermFrequency:  Table of word frequencies inside a text corpus or a... 
+  Browse all... 
+
+ Home  /   
+ CRAN     /   
+ KDViz: Knowledge Domain Visualization       
+   
+ KDViz: Knowledge Domain Visualization  
+    
+ Knowledge domain visualization using 'mpa' co-words method as the word clustering method and network graphs with 'D3.js' library as visualization tool.  
+ Getting started  
+
+ Browse package contents  
+  Vignettes    Man pages    API and functions    Files     
+
+ Package details 
+ Author | Andres Palacios 
+ Maintainer | Andres Palacios <anfpalacioscl@unal.edu.co> 
+ License | GPL (>= 2) 
+ Version | 1.3.1 
+ Package repository | View on CRAN 
+ Installation | Install the latest version of this package by entering the following in R: install.packages("KDViz") 
+  
+ Try the KDViz  package in your browser  
+ library(KDViz) help(KDViz)    
+   
+ Run    
+ Any scripts or data that you put into this service are public.   
+   
+  Nothing   
+
+ KDViz documentation  built on May 1, 2019, 6:34 p.m.     
+   
+ R Package Documentation  
+ rdrr.io home  R language documentation  Run R code online    
+   
+ Browse R Packages  
+ CRAN packages  Bioconductor packages  R-Forge packages  GitHub packages    
+   
+ We want your feedback!  
+ Note that we can't provide technical support on individual packages. You should contact the package authors for that.   Tweet to @rdrrHQ   
+   GitHub issue tracker   
+   ian@mutexlabs.com   
+   Personal blog    
+
+ What can we improve?   
+ The page or its content looks wrong    
+ I can't find what I'm looking for    
+ I have a suggestion    
+ Other    
+ Extra info (optional)     
+   
+ Submit    
+
+  Improve this page    
+ Embedding an R snippet on your website   
+ Add the following code to your website.  
+ REMOVE THIS  Copy to clipboard   
+ For more information on customizing the embed code, read Embedding Snippets  .  
+
+ Close

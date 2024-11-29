@@ -1,0 +1,60 @@
+ Description + Evaluation Criteria:  
+   Bot Bowl is an AI competition using the Bot Bowl framework (previously known as FFAI). The Bot Bowl framework simulates the board game Blood Bowl by Games Workshop and offers APIs for scripted bots, search-based, and ML algorithms in Python. It’s also possible to use another programming language while there are no existing APIs for that. Blood Bowl is a major challenge for artificial agents due to its complexity and lack of rewards. This also means that we don’t have any basic baseline agents that are able to score points in this game! We do, however, provide tutorials on how to develop scripted, search-based, or ML bots.  
+ The competition will have one track using the traditional board size of 26×15  
+  squares with 11 players on each side. We will, like last year, restrict the game to  
+ The players start with the same base cards and build their decks during the game by buying cards from a shared resource pool called the Tavern (a concept similar to Dominion). Tales of Tributes encourages strategic long-term planning – to ensure the deck we build contains enough strong cards and is not clustered with weak ones. In the meantime, because of a huge randomness factor influencing, e.g., which cards occur in the Tavern, it is usually hard to stick with a pre-made plan – so it also requires considerable adaptiveness.   
+ Tales of Tribute AI Competition aims to fill the void after the Hearthstone AI Competition while being significantly more challenging than a toy problem covered by Legends of Code and Magic and the Strategy Card Game AI Competition.   
+ The competition will be run using ScriptsOfTribute, an open reimplementation of the original game in the .Net framework designed especially for this event. It features the game manager that allows running AI agents implemented as C# classes against each other and a graphical user interface that support human vs. AI games.   
+ The competition’s winners will be decided upon the global winrate in all vs. all tournament, conducted on a large number of mirror matches using the same seeds. Deadline (August 7th).   
+ Tracks:  Single track  
+ Description + Evaluation Criteria:  
+   Are you aware of any sound design (a set of sound effects combined with the source code that implements their timing-control algorithm) in video games that considers visually impaired players? Enhanced with a better sound design than its predecessor FightingICE, DareFightingICE is a fighting game platform for creating a sound design for such players. As in the first competition at CoG 2022, this year, there are also two tracks. The first track is an AI competition, and the second is a sound-design competition.  
+ Submissions  — of an AI capable of operating with only audio input information or/and a sound design for visually impaired players — are welcome.  
+ In the sound design track, the winning sound design is the one that has not only the highest sum of the scores from blindfolded human test players (scores here include both relative game scores compared when playing without being blindfolded and subjective scores assessing sound aesthetic) but also the highest performance from the sample deep-learning AI fighting against the sample MCTS AI when the former is trained using the sound design of interest.  
+ The winning AI — if trainable — and the winning sound design will be used in the sound design track and the AI track in the next competition, respectively.  
+ Submission deadlines   
+ Description:   
+   The Dota 2 5v5 AI Competition challenges participants to code a bot that competes against (and wins!) other player bots in standard Dota 2 matches. The competition runs on the original Dota 2 game, thanks to the Dota 2 5v5 Framework, that lets you develop, deploy, and run your own python program that controls the 5 heroes in any Dota 2 team: Radiant or Dire. Your bot will face other participantsʼ bots in standard 5v5 matches. You can freely choose 5 among all the available heroes for your team. Depending on the number of entries, we would arrange either an elimination or a round-robin tournament. The winner will be the bot with most wins and, in case of tie, the one that beats its opponents faster. The framework saves the time elapsed from the match start to the Ancientʼs destruction event, which determines the end of a match.   
+ Tracks:   One   
+ Video:   
+   Our website contains the following information, for the public:   
+ An online form to submit the entries. 
+  Detailed rules for the competition, including submission instructions. • The results of the previous three years, including code, generated settlement, competition  maps and scores. 
+  A detailed explanation of the scoring criteria, including the actual instructions given to our  judges. 
+  A list of examples of good Minecraft settlements. 
+  Links to our other communication platforms: Discord, Twitter and our Wiki. • Links to a code repository containing example code for both submission options: 
+  Submission of an Amulet Script – a Minecraft editor that allows for custom filters 
+  Links to related publications. 
+  Timelines for the 6th round of GDMC, 2023:   
+ February 2023: Announcement of the new Round. 
+  15 of June, 2023: Submission Deadline. 
+  15 of August, 2023: Deadline for Evaluation by Judges. 
+ Description:   
+   The goal of the competition is to build AI agents for a 2-player collaborative physics-based puzzle platformer game (Geometry Friends). The agents control, each, a different character (circle or rectangle) with distinct characteristics. Their goal is to collaborate in order to collect a set of diamonds in a set of levels as fast as possible. The game presents problems of combined task and motion planning and promotes collaboration at different levels. Participants can tackle  cooperative levels with the full complexity of the problem or single- player levels for dealing with task and motion planning without the complexity of collaboration.   
+ The winner is the submission that achieves a higher overall score after running 10 different levels. The score of each level depends on the performance of the task regarding the number of collectibles caught and the time the agents take to solve the level.   
+ Tracks:  
+   The competition has 3 tracks: Cooperative, Single Player Circle, Single Player Rectangle   
+ Description + Evaluation Criteria:   
+   The IEEE CoG StarCraft competitions have made remarkable progress in advancing the creation and evolution of new StarCraft bots. Participants have employed various strategies to enhance the bots, leading to the enrichment of game AI and methodologies. Furthermore, recent developments in game AI, particularly through the application of deep learning and reinforcement learning, have also contributed to the advancement of StarCraft AIs. Nevertheless, developing AI for the game remains a formidable challenge, given the need to effectively manage a vast number of units and buildings while considering resource management and high-level tactics. The competition’s primary goal is to stimulate the growth of real-time strategy (RTS) game AI and overcome complex issues such as uncertainty, unit management, and the game’s real-time nature.   
+ The winner of the competition will be determined through a round-robin tournament, with as many rounds as possible conducted before the deadline for the announcement of the winners. If it is estimated that there is insufficient time to complete another round or insufficient time to prepare before announcing the winners, the tournament will be concluded at the end of a full round.   
+ Tracks:  Single track: 1 vs. 1 full game   
+ CoG-2023 multi-agent google research football competition  
+     more info  
+ Title:   CoG-2023 Multi-Agent Google Research Football Competition   
+ Organizers:   
+   Haifeng Zhang, Institute of Automation, Chinese Academy of Sciences, China   
+ Description:   
+   The competition will be named CoG-2023 Multi-Agent Google Research Football Competition as it plans to use the multi-agent scenarios of the Google Research Football (GRF) simulators [1] as the testbed. The GRF simulator bears great similarity to well-known football games like FIFA and REAL Football, vividly modelling the dynamics of the ball and player movement as well as their interaction such as passing, shooting, etc. The competition focuses on the full game scenario built on GRF simulator where two teams of players compete for goals on the pitch (as shown in Fig. 1).  The competition will be held on Jidi platform which offers online evaluation of submitted policies on various simulated environments and holds Kaggle-like  customized competitions. Regarding the scale of the game, the GRF competition has two tracks as two separate contests, one easy track using the 5vs5 multi agent full-game scenario and one hard track using the 11vs11 multi-agent full game scenario.   
+ Previous GRF Competitions:   
+ Jidi plans to continue the competition on GRF in year 2023 after discovering interesting tactics from MARL CoG 2022 GRF tracks. On the 5v5 track particularly, many top participants have learned a high-pass glitch existing in the goal-keeperʼs built-in logic and taken advantage of such loopholes to form an extremely strong tactics. On the 11v11 track, some collaborative behavior between players have emerged and a game clip can be found in [4]. To further encourage multi-agent learning research, we will hold two tracks on 5v5 and 11v11 full-game scenarios respectively:   
+ The VGC AI Competition aims to emulate the Esports scenario of human video game championships of Pokémon with AI agents, including the game balance  
+ aspect. Player agents must master Pokémon battling and team building, with only information about past team choices. Balancing agents must adapt the Pokémon attributes to motivate more variety of choices by pre-set player agents.   
+ Tentative submission deadline: 30th June 2023  
+ Tracks:  The competition is organized in three tracks:   
+ In the Battle Track, battle agents must be able to pilot any given team. The winner is determined by the outcome of battles structured as a tree championship. 
+  The Championship Track focuses on the team-building aspect of the VGCs. Player agents (battle+team-building duo) must be able to adapt to the meta by assembling the best teams to counter the teams they predict they will be facing. The winner is determined by the final ELO ranking after many epochs of competition. 
+  In the Meta-Game Balance Track, a balancing agent has to maintain a Pokémon roster. Entries will be evaluated in parallel by accumulated points over temporal checkpoints, accumulating the output of a fitness function that measures the diversity of the meta by a pre-set team-building agents. 
+  Contact Email address:  chatgpt4pcg@gmail.com   
+ Submission deadline:   
+ Twitter       
+ © 2023 All rights reserved​

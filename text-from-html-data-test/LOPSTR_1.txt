@@ -1,0 +1,83 @@
+LOPSTR:  Logic-Based Program Synthesis and Transformation   
+ LOPSTR 
+  Topics of interest 
+  Past editions 
+  Steering committee 
+     
+  Milan, photo by Ouael Ben Salah   
+  on Unsplash   
+   
+ LOPSTR was founded by Kung-Kiu Lau  in 1991. It has taken place annually since.  
+ The next LOPSTR symposium, LOPSTR 2024  , will be held in Milan (Italy) in September 9-11, 2024.  
+ Its original title was International Workshop on Logic Program Synthesis and Transformation  , and the workshop was intended to focus on logic programs. The title was changed to International Workshop on Logic-based Program Synthesis and Transformation  in 1998 to reflect a widening of its scope. It was changed to International Symposium on Logic-based Program Synthesis and Transformation  in 2002.  
+ Currently, the aim of the LOPSTR series is to stimulate and promote international research and collaboration on logic-based program development. LOPSTR is open to contributions in logic-based program development in any language paradigm.  
+ LOPSTR has a reputation for being a lively, friendly forum for presenting and discussing work in progress.  
+   LOPSTR is usually co-located with PPDP ( International ACM SIGPLAN Symposium on Principles and Practice of Declarative Programming  ).  
+ You can find here  the old LOPSTR website maintained by Kung-Kiu Lau  .  
+
+ Topics of interest cover all aspects of logic-based program development, all stages of the software life cycle, and issues of both programming-in-the-small and programming-in-the-large, including, but not limited to:  
+ synthesis 
+  transformation 
+  specialization 
+  composition 
+  optimization 
+  inversion 
+  specification 
+  analysis and verification 
+  testing and certification 
+  program and model manipulation 
+  AI-methods for program development 
+  verification and testing of AI-based systems 
+  logic-based methods for security, cyber-physical and distributed systems 
+  transformational techniques in software engineering 
+  applications, tools and industrial practice 
+  Survey papers that present some aspects of the above topics from a new perspective, and application papers that describe experience with industrial applications are also welcome.   
+ LOPSTR 2024 | in Milan (Italy). PC Chairs: | Juliana Bowles | and | Harald Søndergaard 
+  LOPSTR 2023 | in Cascais, Lisbon (Portugal). PC Chairs: | Robert Glück | and | Bishoksan Kafle 
+  LOPSTR 2022 | in Tbilisi (Georgia) and online. PC Chair: | Alicia Villanueva 
+  LOPSTR 2021 | in Tallinn (Estonia) and online. PC Chairs: | Emanuele De Angelis | and | Wim Vanhoof 
+  LOPSTR 2020 | (online). PC Chair: | Maribel Fernández 
+  LOPSTR 2019 | in Porto (Portugal). PC Chair: | Maurizio Gabbrielli 
+  LOPSTR 2018 | in Frankfurt am Main (Germany). PC Chairs: | Fred Mesnard | and | Peter Stuckey 
+  LOPSTR 2017 | in Namur (Belgium). PC Chair: | Fabio Fioravanti | and | John Gallagher 
+  LOPSTR 2016 | in Edinburgh (Scotland). PC Chair: | Manuel Hermenegildo | and | Pedro López-García 
+  LOPSTR 2015 | in Siena (Italy). PC Chair: | Moreno Falaschi 
+  LOPSTR 2014 | in Canterbury (UK). PC Chairs: | Maurizio Proietti | and | Hirohisa Seki 
+  LOPSTR 2013 | in Madrid (Spain). PC Chair: | Gopal Gupta 
+  LOPSTR 2012 | in Leuven (Belgium). PC Chair: | Elvira Albert 
+  LOPSTR 2011 | in Odense (Denmark). PC Chair: | Germán Vidal 
+  LOPSTR 2010 | in Hagenberg (Austria). PC Chair: | María Alpuente 
+  LOPSTR 2009 | in Coimbra (Portugal). PC Chair: | Danny De Schreye 
+  LOPSTR 2008 | in Valencia (Spain). PC Chair: | Michael Hanus 
+  LOPSTR 2007 | in Kongens Lyngby (Denmark). PC Chair: | Andy King 
+  LOPSTR 2006 | in Venice (Italy). PC Chair: | Germán Puebla 
+  LOPSTR 2005 | in London (UK). PC Chair: | Patricia M. Hill 
+  LOPSTR 2004 | in Verona (Italy). PC Chair: | Sandro Etalle 
+  LOPSTR 2003 | in Uppsala (Sweden). PC Chair: | Maurice Bruynooghe 
+  LOPSTR 2002 | in Madrid (Spain). PC Chair: | Michael Leuschel 
+  LOPSTR 2001 | in Paphos (Greece). PC Chair: | Alberto Pettorossi 
+  LOPSTR 2000 | in London (UK). PC Chair: | Kung-Kiu Lau 
+  LOPSTR 1999 | in Venice (Italy). PC Chair: | Annalisa Bossi 
+  LOPSTR 1998 | in Manchester (UK). PC Chair: | Pierre Flener 
+  LOPSTR 1997 | in Leuven (Belgium). PC Chair: | Norbert E. Fuchs 
+  LOPSTR 1996 | in Stockholm (Sweden). PC Chair: | John P. Gallagher 
+  LOPSTR 1995 | in Arnhem (The Netherlands). PC Chair: | Maurizio Proietti 
+  LOPSTR 1994 | in Pisa (Italy). PC Chair: | Laurent Fribourg 
+  LOPSTR 1993 | in Louvain-la-Neuve (Belgium). PC Chair: | Yves Deville 
+  LOPSTR 1992 | in Manchester (UK). PC Chairs: | Kung-Kiu Lau | and Tim Clement 
+  LOPSTR 1991 | in Manchester (UK). PC Chairs: Tim Clement and | Kung-Kiu Lau 
+  Detailed information about the proceedings and their contents can be found in the DBLP database  .   
+ In 2002, a steering committee was set up. The steering committee includes the PC chair(s) of the current edition, the PC chairs of the past five editions and the chair of the steering committee (Maurizio Proietti). The current steering committee thus consists of the following members:  
+ Juliana Bowles | (PC chair LOPSTR 2024) 
+ Harald Søndergaard | (PC chair LOPSTR 2024) 
+ Robert Glück | (PC chair LOPSTR 2023) 
+ Bishoksan Kafle | (PC chair LOPSTR 2023) 
+ Alicia Villanueva | (PC chair LOPSTR 2022) 
+ Emanuele De Angelis | (PC chair LOPSTR 2021) 
+ Wim Vanhoof | (PC chair LOPSTR 2021) 
+ Maribel Fernández | (PC chair LOPSTR 2020) 
+ Maurizio Gabbrielli | (PC chair LOPSTR 2019) 
+ Germán Vidal | (maintainer of the LOPSTR website) 
+ Maurizio Proietti | (chair of the LOPSTR steering commitee) 
+
+ Former members include Elvira Albert  , María Alpuente  , Maurice Bruynooghe  , Danny De Schreye  , Sandro Etalle  , Moreno Falaschi  , Fabio Fioravanti  , John Gallagher  , Gopal Gupta  , Michael Hanus  , Manuel Hermenegildo  , Patricia Hill  , Andy King  , Kung-Kiu Lau  , Michael Leuschel  , Pedro López  , Fred Mesnard  , Alberto Pettorossi  , Germán Puebla  , and Hirohisa Seki  , Peter Stuckey  .

@@ -1,0 +1,13 @@
+ Search    Search        
+ Awards and Recognition  |  Mathematics and Computer Science  Researchers receive Best Paper Award at European MPI  users meeting  
+ MCS Menu  
+ By Gail Pieper   
+  |  November 1, 2023    
+ Hui Zhou, a principal software development specialist in the MCS  division at Argonne, was co-author of  ​ “  MPI  Application Binary Interface Standardization,” which received the Best Paper award at the EuroMPI  ​ ’  23 conference in September 2023.   
+    MPI  , or the Message Passing Interface, is widely used for high-performance computing workloads. While it is standardized in terms of the C and Fortran programming languages, however, it is not implementation agnostic; and the increasing adoption of MPI  by applications written in languages other than C and Fortran has motivated the development of an application binary interface ( ABI  ).  
+ The proposal presented in this award-winning paper represents recent efforts by the MPI  Forum’s ABI  working group to develop a standard ABI  for MPI  that effectively addresses this issue.  
+ “  We successfully tested our prototype implementation both within MPICH  and as an independent abstraction layer,” Zhou said.  
+ The researchers acknowledge that realizing the full potential of a standard ABI  will likely take some time. The ABI  must be standardized by the MPI  Forum and implemented by the major implementations such as MPICH  ; and MPI  users will have to recompile everything against the MPI  ABI  .  
+ Nevertheless, Zhou and his colleagues say that they are confident that ultimately having a standard MPI  ABI  will  ​ “  significantly reduce the pain of using MPI  in a variety of contexts and will encourage greater use of MPI  in new domains.”  
+ For the full paper, see J. Hammond, L. D, Dalcin, Erik Schnetter, M. PéRache, J.-B. Besnard, J. Brown, G. B. Gadeschi, S. Byrne, J. Schuchart, and H. Zhou,  ​ “  MPI  Application Binary Interface Standardization  ,” in EuroMPI  ​ ’  23: Proceedings of the 30 th  European MPI  Users’ Group Meeting, September 2023, Article No.: 1, Pages 1–12.  
+ Tags:  MPI   

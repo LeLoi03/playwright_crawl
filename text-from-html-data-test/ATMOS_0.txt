@@ -1,0 +1,159 @@
+Skip to content    ALGO 2023   
+   
+        Home  Home 
+  ALGOCLOUD 
+  ALGOWIN | (former ALGOSENSORS) 
+  ATMOS 
+  IPEC 
+  ESA 
+  WAOA 
+  Local Info 
+  Registration 
+  Schedule 
+  Social Program 
+
+ ATMOS  
+ 2023   
+
+ 23rd Symposium on Algorithmic Approaches for Transportation Modeling, Optimization and Systems   
+ Scope  
+ The ATMOS 2023 symposium will be held in connection with ALGO 2023  in Amsterdam, The Netherlands on September 7-8, 2023.  
+ Since 2000, ATMOS  brings together researchers and practitioners who are interested in all aspects of algorithmic methods and models for transport optimization. The symposium provides a forum for the exchange and dissemination of new ideas and techniques. The aim of making transportation better gives rise to very complex and large-scale optimization problems requiring innovative solution techniques and ideas from algorithms, mathematical optimization, theoretical computer science, and operations research.  
+ Invited Speaker  
+ Christos Zaroliagis  , University of Patras, Greece  
+   Title:  Time-Dependent Route Planning: Theory & Practice  
+  Abstract:   
+  Computing optimal paths in real-world spatio-temporal networks that exhibit a time-dependent arc-cost metric is a core algorithmic task for numerous applications, with route planning in road networks being a prime example. The time-dependent route planning poses several hard challenges both theoretically and in practice. In this talk, some recent theoretical advances in developing time-dependent oracles are presented that exhibit subquadratic preprocessing time and space, and query time sublinear on the network size or the actual Dijkstra rank of the query at hand. In addition, some heavily engineered variants of these oracles are presented that demonstrate an impressive query performance in practice, both in quality (relative error less than 0.3%) and in the query-response time (less than 0.67 msec) even for continental size networks.  
+ Schedule  
+ Thursday, September 7, 2023 – room L016  
+ 09:30 – 10:30 (Session 51   ) – Chair: Philine Schiewe   
+  09:30 – 09:50 Ekkehard Köhler, Markus Rogge, Robert Scheffler and Martin Strehler. Optimal Bicycle Routes with Few Signal Stops   
+  09:50 – 10:10 Irene Heinrich, Olli Herrala, Philine Schiewe and Topias Terho. Using light spanning graphs for passenger assignment in public transport   
+  10:10 – 10:30 Ralf Borndörfer, Fabian Danecker and Martin Weiser. Convergence Properties of Newton’s Method for Globally Optimal Free Flight Trajectory Optimization   
+ 10:30 – 11:00 Coffee Break   
+ 11:30 – 12:30 ( Session 57   ) – ATMOS Keynote – Chair: Daniele Frigioni [Room Euler]   
+  11:30 – 12:30 Christos Zaroliagis. Time-Dependent Route Planning: Theory & Practice   
+ 12:30 – 14:00 – Lunch   
+ 14:00 – 15:00 (Session 60) – Chair: Vera Grafe   
+  14:00 – 14:20 Irene Heinrich, Philine Schiewe and Constantin Seebach. Non-Pool-Based Line Planning on Graphs of Bounded Treewidth   
+  14:20 – 14:40 Berenike Masing, Niels Lindner and Christian Liebchen. Integrating Line Planning for Construction Sites into Periodic Timetabling via Track Choice   
+  14:40 – 15:00 Stefan Engels, Tom Peham and Robert Wille. A Symbolic Design Method for ETCS Hybrid Level 3 at Different Degrees of Accuracy   
+ 15:00 – 15:20 – Coffee Break   
+ 15:20 – 16:20 (Session 64) – Chair: Matthias Müller-Hannemann   
+  15:20 – 15:40 Enrico Bortoletto, Niels Lindner and Berenike Masing. Periodic timetabling with cyclic order constraints   
+  15:40 – 16:00 Pedro José Correia Duarte, Marie Schmidt, Dennis Huisman and Lucas P. Veelenturf. Fewer Trains for Better Timetables: the Price of Fixed Line Frequencies in the Passenger-Oriented Timetabling   
+  16:00 – 16:20 Vera Grafe and Anita Schöbel. Recoverable Robust Periodic Timetabling   
+ 16:20 – 16:40 – Coffee break   
+ 16:40 – 17:40 (Session 67) – Chair: Christos Zaroliagis   
+  16:40 – 17:00 Peerawit Suriya, Vorapong Suppakitpaisarn, Supanut Chaidee and Phapaengmueng Sukkasem. Submodularity Property for Facility Locations of Dynamic Flow Networks   
+  17:00 – 17:20 Theresa Ziemke, Leon Sering and Kai Nagel. Spillback changes the long-term behavior of dynamic equilibria in fluid queuing networks   
+  17:20 – 17:40 Akira Matsubayashi and Yushi Saito. A Faster Algorithm for Recognizing Directed Graphs Invulnerable to Braess’s Paradox   
+ 17:40 – ATMOS business meeting   
+ Friday, September 8, 2023 – room L016  
+ 09:30 – 10:30 (Session 71) – Chair: Dennis Huisman   
+  09:30 – 09:50 Boris Grimm, Ralf Borndörfer and Julian Bushe. Assignment Based Resource Constrained Path Generation for Railway Rolling Stock Optimization   
+  09:50 – 10:10 Philip de Bruin, Marjan van den Akker, Han Hoogeveen and Marcel van Kooten Niekerk. Scheduling Electric Buses with Stochastic Driving Times   
+  10:10 – 10:30 Fabian Löbel, Ralf Borndörfer and Steffen Weider. Non-linear Charge Functions for Electric Vehicle Scheduling with Dynamic Recharge Rates   
+ 10:30 – 11:00 – Coffee break   
+ 11:00 – 12:00 (Session 74) – Chair: Niels Lindner   
+  11:00 – 11:20 Aigerim Saken and Stephen Maher. Subproblem separation in logic-based Benders’ decomposition for the vehicle routing problem with local congestion   
+  11:20 – 11:40 Bart van Rossum, Rui Chen and Andrea Lodi. Optimizing Fairness Over Time with Homogeneous Workers   
+  11:40 – 12:00 Mette Wagenvoort, Martijn van Ee, Paul Bouman and Kerry Malone. Simple policies for capacitated resupply problems   
+ 12:00 – 12:30 – Closing remarks   
+ 12:30 – Lunch   
+ Important Dates  
+ Submission deadline: | June 30, 2023 | July 8, 2023 | (AoE) 
+  Notification to authors: July 31, 2023 
+  Camera ready submission: August 7, 2023 
+  Symposium: September 7-8, 2023 
+  ATMOS Best Paper Award  
+ Akira Matsubayashi and Yushi Saito received the ATMOS Best Paper Award for the contribution  
+  A Faster Algorithm for Recognizing Directed Graphs Invulnerable to Braess’s Paradox.   
+ Accepted Papers  
+ The proceedings are available here  .  
+ Regular papers  
+ Vera Grafe and Anita Schöbel | Recoverable Robust Periodic Timetabling 
+  Irene Heinrich, Olli Herrala, Philine Schiewe and Topias Terho | Using light spanning graphs for passenger assignment in public transport 
+  Philip de Bruin, Marjan van den Akker, Han Hoogeveen and Marcel van Kooten Niekerk | Scheduling Electric Buses with Stochastic Driving Times 
+  Ekkehard Köhler, Markus Rogge, Robert Scheffler and Martin Strehler | Optimal Bicycle Routes with Few Signal Stops 
+  Akira Matsubayashi and Yushi Saito | A Faster Algorithm for Recognizing Directed Graphs Invulnerable to Braess’s Paradox 
+  Pedro José Correia Duarte, Marie Schmidt, Dennis Huisman and Lucas P. Veelenturf | Fewer Trains for Better Timetables: the Price of Fixed Line Frequencies in the Passenger-Oriented Timetabling Problem 
+  Stefan Engels, Tom Peham and Robert Wille | A Symbolic Design Method for ETCS Hybrid Level 3 at Different Degrees of Accuracy 
+  Berenike Masing, Niels Lindner and Christian Liebchen | Integrating Line Planning for Construction Sites into Periodic Timetabling via Track Choice 
+  Aigerim Saken and Stephen Maher | Subproblem separation in logic-based Benders’ decomposition for the vehicle routing problem with local congestion 
+  Enrico Bortoletto, Niels Lindner and Berenike Masing | Periodic timetabling with cyclic order constraints 
+  Peerawit Suriya, Vorapong Suppakitpaisarn, Supanut Chaidee and Phapaengmueng Sukkasem | Submodularity Property for Facility Locations of Dynamic Flow Networks 
+  Boris Grimm, Ralf Borndörfer and Julian Bushe | Assignment Based Resource Constrained Path Generation for Railway Rolling Stock Optimization 
+  Theresa Ziemke, Leon Sering and Kai Nagel | Spillback changes the long-term behavior of dynamic equilibria in fluid queuing networks 
+  Irene Heinrich, Philine Schiewe and Constantin Seebach | Non-Pool-Based Line Planning on Graphs of Bounded Treewidth 
+  Short papers  
+ Ralf Borndörfer, Fabian Danecker and Martin Weiser | Convergence Properties of Newton’s Method for Globally Optimal Free Flight Trajectory Optimization 
+  Fabian Löbel, Ralf Borndörfer and Steffen Weider | Non-linear Charge Functions for Electric Vehicle Scheduling with Dynamic Recharge Rates 
+  Mette Wagenvoort, Martijn van Ee, Paul Bouman and Kerry Malone | Simple policies for capacitated resupply problems 
+  Bart van Rossum, Rui Chen and Andrea Lodi | Optimizing Fairness Over Time with Homogeneous Workers 
+  Call for papers  
+ The symposium welcomes but is not limited to papers addressing the following topics:  
+ Congestion Modelling and Reduction 
+  Crew and Duty Scheduling 
+  Demand Forecasting 
+  Delay Management 
+  Design of Pricing Systems 
+  Electromobility 
+  Infrastructure Planning 
+  Intelligent Transportation Systems 
+  Models for User Behaviour 
+  Line Planning 
+  Mobile Applications for Transport 
+  Mobility-as-a-Service 
+  Multi-modal Transport Optimization 
+  Routing and Platform Assignment 
+  Route Planning in Road and Public Transit Networks 
+  Rostering 
+  Timetable Generation 
+  Tourist Tour Planning 
+  Traffic Guidance 
+  Vehicle Scheduling 
+  The symposium welcomes but is not limited to papers applying and advancing the following techniques: Algorithmic Game Theory, Approximation Algorithms, Combinatorial Optimization, Graph and Network Algorithms, Heuristics and Meta-heuristics, Mathematical Programming, Methods for the Integration of Planning Stages, Online and Real-time Algorithms, Simulation Tools, Stochastic and Robust Optimization.  
+ Proceedings  
+ The proceedings will be published on the Dagstuhl Open Access Series in Informatics (OASIcs) publication service.  
+ Paper submission  
+ Authors are invited to submit high-quality manuscripts reporting original unpublished research in the topics related to the symposium. Simultaneous submission to other journals or conferences with published proceedings is not allowed. By submitting a paper the authors acknowledge that in case of acceptance, at least one of the authors must register at ALGO/ATMOS 2023, attend the conference on-site, and present the paper.  
+   
+  Submissions must be in the form of a single PDF file prepared using the LaTeX OASIcs style file ( https://www.dagstuhl.de/en/publishing/series/details/oasics  ) and must be submitted electronically via the EasyChair submission system ( https://easychair.org/conferences/?conf=atmos2023  ).  
+   
+  ATMOS 2023 accepts two types of submissions, both of which will be reviewed with the same quality standards by the Program Committee.  
+   
+  Regular paper submissions  : A regular paper submission should clearly motivate the importance of the problem being addressed, discuss prior work and its relationship to the paper, explicitly and precisely state its key contributions, and outline the key technical ideas and methods used to achieve the main results. A regular paper submission should not exceed 12 pages including title page and abstract, but excluding references and an optional appendix. Authors should include all necessary details in their submission so that the Program Committee can judge the correctness, importance and originality of their work. Any material (e.g., proofs or experimental results) omitted (from the main part of 12 pages) due to space limitations can be put into the optional appendix, which will be read at the Program Committee’s discretion. Regular papers will be allotted up to 20 pages in the proceedings.  
+   
+  Short paper  submissions  : A short paper submission may present preliminary results or work-in-progress on a specific topic. Authors should clearly motivate the importance of the problem being addressed, discuss prior work and its relationship to the paper, explicitly and precisely state the paper’s key contributions, and outline the key technical ideas and methods used to achieve the main claims. A short paper submission should have at least 4 and at most 6 pages. Authors should provide sufficient details in their submission so that the Program Committee can judge the correctness, importance and originality of their work. Short papers will be allotted up to 6 pages in the proceedings.  
+ Program committee  
+ Valentina Cacchiani, University of Bologna, Italy 
+  David Coudert, INRIA and Université Coté d’Azur, France 
+  Gianlorenzo D’Angelo, Gran Sasso Science Institute, Italy 
+  Twan Dollevoet, Erasmus University Rotterdam, the Netherlands 
+  Daniele Frigioni | , University of L’Aquila, Italy ( | co-chair | ) 
+  Stefan Funke, Universität Stuttgart, Germany 
+  Marc Goerigk, University of Passau, Germany 
+  Dennis Huisman, Erasmus University Rotterdam and Netherlands Railways, the Netherlands 
+  Giuseppe F. Italiano, Luiss Guido Carli University of Rome, Italy 
+  Spyros Kontogiannis, University of Patras, Greece 
+  Jesper Larsen, DTU Copenhagen, Denmark 
+  Christian Liebchen, TH Wildau, Germany 
+  Rolf van Lieshout, Eindhoven University of Technology, the Netherlands 
+  Niels Lindner, Freie Universität Berlin, Germany 
+  Henning Meyerhenke, Humboldt-Universität zu Berlin, Germany 
+  Matthias Müller-Hannemann, MLU Halle-Wittenberg, Germany 
+  Philine Schiewe | , Aalto University, Finland ( | co-chair | ) 
+  Sabine Storandt, University of Konstanz, Germany 
+  Steering Committee  
+ Alberto Marchetti-Spaccamela, Sapienza Università di Roma, Italy 
+  Marie Schmidt, Universität Würzburg, Germany 
+  Anita Schöbel, RPTU Kaiserslautern, Germany 
+  Christos Zaroliagis, University of Patras, Greece (Chair) 
+
+ ALGO 2023   
+   
+ Imprint   
+ Privacy Policy   
+   
+ Powered by WordPress

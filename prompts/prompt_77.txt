@@ -1,0 +1,299 @@
+input:
+1. ED-MEDIA_3 conference:
+2024  
+  2023
+2. EDBT_0 conference:
+EDBT    
+ Organization 
+  Test of Time 
+ Local Web site   
+ Notice that from 2022 on, the EDBT Conference switched to 3 submission/publication cycles for its papers. Details can be found below.  
+ Back to top    
+ Welcome to the Web site of the EDBT Association (edbt.org)   
+ The Association  
+ The EDBT Association has close relationships with other organizations in the database field, including ACM SIGMOD  , IEEE TC on Data Engineering  , VLDB Endowment  , and the ICDT Council  .  
+ Conference Proceedings  
+ All EDBT Proceedings are listed in the Computer Science Bibliography at dblp.org  .  
+ Back to top    
+ Organization of the EDBT Association   
+ The EDBT Association invites as members the key officers of EDBT Conferences and Summer Schools, for a duration of 5 years.  
+ The EDBT Association has an Executive Board (EB), elected by the members. The EB membership term is 4 years. The Association is represented by its President, who is elected by the EB.  
+ The current Executive Board members are:  
+ In Memoriam  
+ 2022  
+ Joachim W. Schmidt  was a founding member of the EDBT Association and long term member of the Executive Board. He has always given valuable advice for further developping the format, the scientific quality, and the attractiveness of our Conferences and Summer Schools. For many of us, he has been a true friend. Joachim passed away in May 2022. We are missing him.  
+ Back to top    
+ New Publication Schedule of EDBT Conferences 2022 ff.    
+ 3 Submit/Review Cycles  
+ 12 Month Resubmission Ban  
+ EDBT, like other conferences in our field with multiple submit/review cycles, follows a "12 month resubmission ban" model for rejected and withdrawn papers in each of its track formats:  
+ EDBT conferences typically have tracks with short and long paper formats. Resubmission of work is not allowed to any track of EDBT if the work - or any work with substantial overlap with the submitted paper and with the same or overlapping sets of authors - was previously rejected from a track of EDBT in the same paper format, within 12 months. A paper withdrawn by the authors after a revision decision will be considered as rejected and the 12-month resubmission ban applies to such papers as well.  
+ Back to top    
+ Decision:  the PC chair appoints a small committee (3 persons max) for the selection of some papers candidates for the award. The EDBT executive board will make the final decision based on this list.  
+ Back to top    
+ 2024, March 25-28 | Paestum, Italy | OpenProceedings (EDBT) 
+  LIPIcs (ICDT) | Qiong Luo, Letizia Tanca | Anastasia Ailamaki, Sihem Amer-Yahia, H.V. Jagadish, Georgia Koutrika, Sudeepa Roy 
+ 2023, March 28-31 | Ioannina, Greece | OpenProceedings (EDBT) 
+  LIPIcs (ICDT) | Sourav S. Bhowmick, Katja Hose | Leonid Libkin, Jayant Haritsa, Juliana Freire, Gonzalo Navarro, Anil Goel 
+ 2022, March 29-April 01 | Edinburgh, UK | OpenProceedings (EDBT) 
+  LIPIcs (ICDT) | Julia Stoyanovich, Jens Teubner | Peter Boncz, Seung-won Hwang, Marcelo Arenas, Hung Ngo, Moshe Y. Vardi, Nofar Carmeli 
+  OpenProceedings (ICDT) 
+  ACM DL (EDBT) 
+  ACM DL (ICDT) 
+  ACM DL (Workshops) | Norman Paton | Daniel Abadi, Jan van den Bussche, C. Mohan, Luc Segoufin 
+  OpenProceedings (ICDT) 
+  ACM DL (EDBT) 
+  ACM DL (ICDT) 
+  ACM DL (Workshops) | Elke Rundensteiner | Michael Carey, Wenfei Fan, Erich Graedel, Alon Halevy |  
+  OpenProceedings (ICDT) 
+  ACM DL (EDBT) 
+  ACM DL (ICDT) | Anastasia Ailamaki | Susan B. Davidson, Dan Suciu, Jeff Ullman, Gerhard Weikum 
+  OpenProceedings (ICDT) 
+  ACM DL (EDBT) 
+  ACM DL (ICDT) 
+  ACM DL (Workshops) | Ioana Manolescu | Amol Deshpande, Val Tannen, Pierre Fraigniaud, Ian Horrocks 
+  OpenProceedings (ICDT) 
+  ACM DL (EDBT) 
+  ACM DL (ICDT) 
+  ACM DL (Workshops) | Martin Kersten | Victor Vianu, Umeshwar Dayal, Georg Gottlob 
+  Posteingang@uni-konstanz.de   
+ Verantwortlich im Sinne der §§ 6 TDG, 10 MdStV:   
+  As a content provider ("Inhaltsanbieter") according to § 8 Teledienstgesetz University of Konstanz is responsible for own contents ("eigene Informationen") hold ready for utilisation. Even though all contents are carefully reviewed and constantly updated no guarantee can be provided for completeness, accuracy and ultimate up-to-dateness. University of Konstanz is therefore not liable for damages in connection with the usage of these contents. Cross-references ("links") to contents of other providers have to become differentiated from own contents ("eigene Inhalte"). Even if University of Konstanz should arrange through this access for the usage of these contents according to § 9 Tele-dienstgesetz, no responsibility will be taken for this external content ( "fremden Inhalt"). Links are references to dynamic internet appearances of third parties. University of Konstanz has reviewed the content in respect to liabilities according to civil and criminal law at the first time link-up. However University of Konstanz is not obliged to constantly review these in respect to changes which could cause a new liability. In case University of Konstanz should notice that a specific offer to which a link was provided will cause a liability according to civil oder criminal law the link will become canceled.  
+ Close    
+  A Condensation Approach to Privacy Preserving Data Mining   
+ The paper addresses the topic of privacy-preserving data mining and proposes a framework for anonymization in contrast to perturbation approaches that introduce noise. The approach advocated in this paper takes into consideration the correlated nature of multi-dimensional data and also that is not problem-specific, i.e., the framework is generic and many mining operations can be formulated and solved given the same framework.  
+ The paper is seminal and covers a topic which has not lost relevance today. It constitutes a prime example of how far a simple idea (in this case condensation: reduce a group of records to a number of carefully selected statistical properties of that group) can carry a whole line of original research. Condensation comes with a naturally built-in "privacy dial" (namely the group size) and is practical (easily implemented, maintainable under updates). It established general techniques that have been taken up by many people in the area and outside the area. The results in this paper can be (and have been) generalized in many ways as they tackled a more general problem of grouping, aggregation, and sampling.  
+ A number of follow-up papers  by the same authors, quite clearly demonstrate that the proposed condensation approach has interesting aspects:  
+  Geo-Relational Algebra: A Model and Query Language for Geometric Database Systems   
+ The paper addresses the user’s conceptual model of a database system for geometric data. It proposes to extend relational database management systems by integrating geometry at all levels: At the conceptual level, relational algebra is extended to include geometric data types and operators. At the implementation level, the wealth of algorithms and data structures for geometric problems developed in the past decade in the field of Computational Geometry is exploited. The paper starts from a view of relational algebra as a many-sorted algebra which allows to easily embed geometric data types and operators. A concrete algebra for two-dimensional applications is developed. It can be used as a highly expressive retrieval and data manipulation language for geometric as well as standard data. Also, geo-relational database systems and their implementation strategy are discussed.  
+ The committee members unanimously agreed that this paper clearly stands out in terms of relevance, impact, and influence in databases. Of all the papers considered, this is the one that had had the most and longest lasting impact with results that are still relevant today and whose influence can be traced to many real systems and a significant amount of follow up work.  
+ The paper pioneered an important application area well before it became mainstream and did it in a systematic and clean way that has been very influential in both research and practice. Modern commercial systems all support geographic data types that are nowadays used in a wide range of applications and use cases (maps locations based services, geographic information systems, mobility etc.).  
+ The selection committee also appreciated very much the cleanliness completeness, insights, formalism, and systematic treatment of the problem as well as the approach followed by the author in selecting and solving a research problem.  
+ Close    
+  Bridging Physical and Virtual Worlds: Complex Event Processing for RFID Data Streams   
+ The paper proposes an event-oriented approach to the processing of RFID data which makes it possible to automate the translation of RFID based application semantics through complex event detection. In particular, it demonstrates the ability to process complex events by capturing temporal constraints in an algebra. The resulting declarative event-based approach is shown to simplify RFID data processing and is shown to be scalable. The paper pioneers declarative event-based RFID processing. The simplicity and expressiveness of the proposed framework are admirable. For example, the framework makes it possible to express object tracking on historical data as well as to formulate real-time monitoring.  
+ This industry track paper reports on an analysis of mobile telecoms data, with a view to predicting which customers will leave. The analysis involves commercial mobile telephony data, in which nodes are customers and edges represent calls. The hypothesis tested is that it is possible to predict who will leave a network based on earlier departures among their connections. The main technique investigated is the use of spreading activation, to predict the heat of nodes based on the heat of connected notes. It is shown how the approach based on connections is more effective than classification techniques based on other properties of the nodes. As a result, the paper provides early and compelling experience on the combination an important real problem (churn in mobile telecom networks) with a powerful technique (social ties) and applies it on large real data (telecom operator network over 4 months). The approach has influenced many subsequent studies, for the same problem, but also for analyses involving different types of network and different hypotheses. Social network analysis continues as an important and active area ten years later, and this paper continues to be widely cited.  
+ The committee members agreed that this paper clearly stands out in terms of methodology, impact, and influ- ence. It has catalyzed and enabled substantial follow-up research and has demonstrated its high relevance to industry.  
+ Abstract:   
+ Ten years later, Shore-MT work has concluded, although the system still serves as a research platform in the space. Meanwhile, research on transaction processing scalability continues to mature, the move to main- memory transaction processing and their higher TPS increased the need for scalable storage managers, while the popular open-source systems, such as MySQL and PostgreSQL, significantly improved their scalability. In particular, a significant amount of research and industrial developments in the ten years since the Shore-MT paper focused on improving the scalability of individual components of a storage manager, such as latches, the logging subsystem and access methods. This research was partly carried out by our research group as follow- on work, but other research groups and database vendors have made important contributions as well. Another significant amount of effort has focused on scalable concurrency control protocols, again both within and outside our research group. The knowledge that we have gained from building Shore-MT has been invaluable in maintaining scalability in this new, multi-dimensional ecosystem.  
+ Abstract:   
+  Implementations of map-reduce are being used to perform many operations on very large data. We examine strategies for joining several relations in the map-reduce environment. Our new approach begins by identifying the "map-key," the set of attributes that identify the Reduce process to which a Map process must send a particular tuple. Each attribute of the map-key gets a "share," which is the number of buckets into which its values are hashed, to form a component of the identifier of a Reduce process. Relations have their tuples replicated in limited fashion, the degree of replication depending on the shares for those map-key attributes that are missing from their schema. We study the problem of optimizing the shares, given a fixed number of Reduce processes. An algorithm for detecting and fixing problems where an attribute is "mistakenly" included in the map-key is given. Then, we consider two important special cases: chain joins and star joins. In each case we are able to determine the map-key and determine the shares that yield the least replication. While the method we propose is not always superior to the conventional way of using map-reduce to implement joins, there are some important cases involving large-scale data where our method wins, including: (1) analytic queries in which a very large fact table is joined with smaller dimension tables, and (2) queries involving paths through graphs with high out-degree, such as the Web or a social network.  
+ This paper presented optimization strategies for executing multi-way joins in a map-reduce environment. It focused on large-scale data and provided algorithms to choose the number of map-keys and shares in order to minimize the communication cost among the map and reduce processes. The committee members agreed that this paper clearly pioneered the field of join processing in map-reduce environments. It has triggered substantial follow-up research and impact on big data processing in parallel and distributed architectures.  
+ Abstract:   
+  GPS devices allow recording the movement track of the moving object they are attached to. This data typically consists of a stream of spatio-temporal (x,y,t) points. For application purposes the stream is transformed into finite subsequences called trajectories. Existing knowledge extraction algorithms defined for trajectories mainly assume a specific context (e.g. vehicle movements) or analyze specific parts of a trajectory (e.g. stops), in association with data from chosen geographic sources (e.g. points-of-interest, road networks). We investigate a more comprehensive semantic annotation framework that allows enriching trajectories with any kind of semantic data provided by multiple 3rd party sources.  
+  This paper presents SeMiTri - the framework that enables annotating trajectories for any kind of moving objects. Doing so, the application can benefit from a "semantic trajectory" representation of the physical movement. The framework and its algorithms have been designed to work on trajectories with varying data quality and different structures, with the objective of covering abstraction requirements of a wide range of applications. Performance of SeMiTri has been evaluated using many GPS datasets from multiple sources - including both fast moving objects (e.g. cars, trucks) and people's trajectories (e.g. with smartphones). These two kinds of experiments are reported in this paper.  
+ The EDBT 2022 Test of Time Award committee was formed by Bill Howe, University of Washington, USA Julia Stoyanovich, New York University, USA Jens Teubner, TU Dortmund, Germany Xiaofang Zhou, Hong Kong University of Science and Technology, Hong Kong.  
+ Abstract:   
+  In data mining applications and spatial and multimedia databases, a useful tool is the kNN join, which is to produce the k nearest neighbors (NN), from a dataset S, of every point in a dataset R. Since it involves both the join and the NN search, performing kNN joins efficiently is a challenging task. Meanwhile, applications continue to witness a quick (exponential in some cases) increase in the amount of data to be processed. A popular model nowadays for large-scale data processing is the shared-nothing cluster on a number of commodity machines using MapReduce [6]. Hence, how to execute kNN joins efficiently on large data that are stored in a MapReduce cluster is an intriguing problem that meets many practical needs. This work proposes novel (exact and approximate) algorithms in MapReduce to perform efficient parallel kNN joins on large data. We demonstrate our ideas using Hadoop. Extensive experiments in large real and syn- thetic datasets, with tens or hundreds of millions of records in both R and S and up to 30 dimensions, have demonstrated the efficiency, effectiveness, and scalability of our methods.  
+ Close    
+ x   Test of Time Award 2023  
+ The EDBT 2023 Test of Time Award committee was formed by Sihem Amer-Yahia Alon Halevy Divesh Srivastava.  
+ Abstract:   
+  We introduce HIL, a high-level scripting language for entity resolution and integration. HIL aims at providing the core logic for complex data processing flows that aggregate facts from large collections of structured or unstructured data into clean, unified entities. Such flows typically include many stages of processing that start from the outcome of information extraction and continue with entity resolution, mapping and fusion. A HIL program captures the overall integration flow through a combination of SQL-like rules that link, map, fuse and aggregate entities. A salient feature of HIL is the use of logical indexes in its data model to facilitate the modular construction and aggregation of complex entities. Another feature is the presence of a flexible, open type system that allows HIL to handle input data that is irregular, sparse or partially known. As a result, HIL can accurately express complex integration tasks while still being high-level and focused on the logical entities (rather than the physical operations). Compilation algorithms translate the HIL specification into efficient run-time queries that can execute in parallel on Hadoop. We show how our framework is applied to real-world integration of entities in the financial domain, based on public filings archived by the U.S. Securities and Exchange Commission (SEC). Furthermore, we apply HIL on a larger-scale scenario that performs fusion of data from hundreds of millions of Twitter messages into tens of millions of structured entities  
+ The EDBT 2024 Test of Time Award committee was formed by Minos Garofalakis Davide Martinenghi Baihua Zheng.  
+ Abstract:   
+  A key problem in many graph-based applications is the need to know, given a directed graph G and two vertices u, v ∈ G whether there is a path between u and v, i. e., if u reaches v. This problem is particularly challenging in the case of very large real-world graphs. A common approach is the pre- processing of the graphs, in order to produce an efficient index structure, which allows fast access to the reachability information of the vertices. However, the majority of existing methods can not handle very large graphs. We propose in this paper, a novel indexing method called FELINE (Fast rEfined onLINE search), which is inspired by Dominance Graph Drawing. FELINE creates an index from the graph representation in a two-dimensional plane, which provides reachability information in constant time for a significant portion of queries. Experiments demonstrate the efficiency of FELINE compared to state-of-the-art approaches
+3. EDBT_1 conference:
+Proceedings 26 th  International Conference on Extending Database Technology ( EDBT 2023 )  
+  Ioannina, Greece, March 28 - March 31   
+ Number 1 (July 30, 2022)  
+ Research Track  
+ Number 2 (November 02, 2022)  
+ Research Track  
+ Number 3 (March 20, 2023)  
+ Research Track  
+  Current Publications   
+  EDBT (2024) 
+  INOC (2024) 
+  Previous Publications   
+ 26. EDBT (2023) 
+  25. EDBT (2022) 
+ Related links   
+ EDBT 
+  ICDT 
+  University of Konstanz
+4. EDBT_2 conference:
+Databases in Practice: Data Warehousing 
+  Architecture and Implementation of DBMS 
+  Winter 2023/24   Show submenu for “Winter 2023/24“ | Industrial Data Science 1 
+  Data Processing on Modern Hardware 
+  Summer 2023   Show submenu for “Summer 2023“ | Informationssysteme 
+  Datenbanken in der Praxis: Data Warehousing 
+  Architektur und Implementierung von DBMS 
+  Publications | Publications 
+  2024   Show submenu for “2024“ | Software Prefetching   Show submenu for “Software Prefetching“ | Reviews (DaMoN 2024) 
+  2023   Show submenu for “2023“ | MxTasks: A Novel Processing Model 
+  Micro Partitioning   Show submenu for “Micro Partitioning“ | Reviews (DaMoN 2023) 
+  Cache Optimization   Show submenu for “Cache Optimization“ | Reviews (DaMoN 2023) 
+  EDBT 2023, Proceedings 
+  2022   Show submenu for “2022“ | QcLab: A Framework for Query Compilation 
+  Low Latency Query Compilation   Show submenu for “Low Latency Query Compilation“ | Reviews (revision) 
+  Reviews (initial submission) 
+  Bachelor, Master, Diploma Theses   Show submenu for “Bachelor, Master, Diploma Theses“ | 2024 
+  2023 
+  2022 
+  Databases in Practice: Data Warehousing 
+  Architecture and Implementation of DBMS 
+  Winter 2023/24   Teaching  Winter 2023/24  Industrial Data Science 1 
+  Data Processing on Modern Hardware 
+  Summer 2023   Teaching  Summer 2023  Informationssysteme 
+  Datenbanken in der Praxis: Data Warehousing 
+  Architektur und Implementierung von DBMS 
+  Profile 
+  Publications | Main Menu  Publications  2024   Publications  2024  Software Prefetching   2024  Software Prefetching  Reviews (DaMoN 2024) 
+  2023   Publications  2023  MxTasks: A Novel Processing Model 
+  Micro Partitioning   2023  Micro Partitioning  Reviews (DaMoN 2023) 
+  Cache Optimization   2023  Cache Optimization  Reviews (DaMoN 2023) 
+  EDBT 2023, Proceedings 
+  2022   Publications  2022  QcLab: A Framework for Query Compilation 
+  Low Latency Query Compilation   2022  Low Latency Query Compilation  Reviews (revision) 
+  Reviews (initial submission) 
+  Bachelor, Master, Diploma Theses   Publications  Bachelor, Master, Diploma Theses  2024 
+  2023 
+  2022 
+ Information for: Publications     
+ 2024 
+  2023 | MxTasks: A Novel Processing Model 
+  Micro Partitioning 
+  Cache Optimization 
+  EDBT 2023, Proceedings 
+  2022 
+ DBIS Home 
+  Publications 
+  2023 
+  EDBT 2023, Proceedings 
+ Proceedings 26th International Conference on Extending Database Technology (EDBT)  
+ Title  
+ Julia Stoyanovich, Jens Teubner, Nikos Mamoulis, Evaggelia Pitoura, Jan Mühlig, Katja Hose, Sourav S. Bhowmick, and Matteo Lissandrini  
+ Published  
+ OpenProceedings.org, Ioannina, Greece, March 28-31, 2023.  
+ Details  
+ Table of Contents  (via OpenProceedings.org)
+5. EDBT_3 conference:
+Follow    
+ EDBT/ICDT 2023 ended successfully!  
+ cui yuan     
+ ·  Apr 14, 2023   ·    2 min read   
+ From March 28th to March 31st, the EDBT/ICDT 2023 Joint Conference was successfully held in Ioannina, Greece! EDBT (International Conference on Extending Database Technology) and ICDT (International Conference on Database Theory) are important international conferences in the database field. EDBT is an academic conference for exchanging the latest research results in data management. ICDT is a series of international conferences for basic and theoretical research in data management. .  
+ The conference invited many internationally renowned experts from the academic and research fields, covering invited talks (Invited Talk), paper reports (Paper Presentations), seminars (Workshops), system demonstrations (Demonstrations) and multiple awards (Best Dissertation Award, Student Participation Award, Best Demonstration Award, etc.) The conference provides opportunities for database researchers, practitioners, developers and users to explore new ideas, techniques, exchange experiences and present research results.
+6. EDCC_0 conference:
+Lisbon, the vibrant capital of Portugal, is a city that effortlessly blends history, culture and modernity. Situated in coast of Portugal, where the Tagus river meets the Atlantic Ocean, it boasts a rich cultural heritage, from the medieval quarters to the iconic landmarks like the Castle of St. George and the Tower of Belém.  
+ Latest news from EDCC
+7. EDCC_1 conference:
+中文  |  English  |  Español  |  日本語     
+ Conference Partner  » Conferences  » EDCC    
+  Conference Information   
+ EDCC 2024: European Dependable Computing Conference  
+ Submission Date: | 2023-09-29 
+ Notification Date: | 2023-12-15 
+ Conference Date: | 2024-04-08 
+ Location: | Leuven, Belgium 
+  Call For Papers   
+ Overview The European Dependable Computing Conference is a unique forum for researchers and practitioners to present and discuss their latest research results on theory, techniques, systems, and tools for the design, validation, operation and evaluation of dependable and secure computing systems. In addition to original research papers, EDCC welcomes contributions on dependability in practice: industrial applications, experience in introducing dependability in industry, use of new or mature dependability approaches to new challenging problems or domains, etc. It will also provide a natural meeting place for the large number of projects in dependability and security, to present their state of advancement and innovative results. The conference program will be enriched by workshops, a students forum, posters, fast abstracts, and an industry track. The conference proceedings will be published by IEEE Conference Publishing Services (CPS) and will be available at IEEEXplore. The leaflet for the call for papers is now available for download on our website. To access the leaflet, simply click on the Download CFP. Topics The conference covers a broad perspective on dependability and security, which includes, but is not limited to: Hardware and software architecture of dependable systems; Fault-tolerant networks, protocols and systems; Time-sensitive networks and ultra-reliable low-latency communication; Mixed-criticality systems design and evaluation; Dependability modelling and tools; Testing and validation methods; Dependability and security of: Artificial Intelligence; Critical infrastructures, e.g. smart energy grids, intelligent vehicles, smart cities; Cyber-physical systems; (industrial) Internet of Things; Cloud, fog, and edge computing systems; Data analytics application; Databases and distributed ledgers (incl. blockchains); Safety-critical system design and analysis; Data protection and data privacy;  Last updated by Dou Sun  in 2023-06-23   
+  Related Conferences   
+ CCF | CORE | QUALIS | Short | Full Name | Submission | Notification | Conference 
+ Short | Full Name | Submission | Conference
+8. EDCC_2 conference:
+About this region   Search Form  
+ Enter search terms     
+ Select query limiter  Anywhere  Article Title  Keywords  Abstract  Author  Journal Title  Journal Title (Exact)  ISSN  DOI  ORCID iD  Load Date     
+ Date limit:    
+ About this region     
+ Dependable Computing Conference (EDCC), 2024 19th European  
+   Published By: IEEE
+9. EDM_0 conference:
+16th International Conference on Educational Data Mining  
+ A 3 minute showcase of EDM 2023  
+ Click here to view the video   
+ EDM 2023 Cultural Programme Video  
+ Click here to view the video   
+ Group photograph taken during EDM 2023  
+ Some selected photographs  
+ In case you are interested in the videos of any of the events, please write to edm.csa@iisc.ac.in   
+ KEYNOTE SPEAKERS
+10. EDM_1 conference:
+First Call for Papers  
+ EDM 2023: the 16th International Conference on Educational Data Mining  
+ Bangalore, India, July 11-14, 2023   
+ Shareable Call for Papers  (pdf)    
+ Submit paper here     
+ Important Note   
+  Compared to previous years, EDM 2023 will have an earlier submission deadline on Jan 20, 2023  (with Jan 13, 2023 as abstract submission deadline).  
+ Theme: Educational data mining for amplifying human potential  
+ Educational Data Mining is a leading international forum for high-quality research that mines datasets to answer educational research questions, including exploring how people learn and how they teach. These data may originate from a variety of learning contexts, including learning and information management systems, interactive learning environments, intelligent tutoring systems, educational games, and data-rich learning activities. Educational data mining considers a wide variety of types of data, including but not limited to log files, student-produced artifacts, discourse, learning content and context, sensor data, and multi-resource and multimodal streams. The overarching goal of the Educational Data Mining research community is to support learners and teachers more effectively, by developing data-driven understandings of the learning and teaching processes in a wide variety of contexts and for diverse learners.  
+ The 16th iteration of the conference, EDM 2023, will take place in the Indian Institute of Science Campus, Bengaluru, India, during July 11-14, 2023.  
+ The theme of this year’s conference is “ Educational data mining for amplifying human potential  ”. Not all students receive the education necessary to help them express their full potential be it due to a lack of resources or access to high quality teaching. The lack of high-quality educational material and teaching aids and methodologies and non-availability of objective feedback on how they can become even better teachers, deprive our teachers from achieving their full potential. The administrators and policy makers lack tools for making optimal decisions such as optimal class sizes and composition and course sequencing. These in turn handicap the nations, particularly the economically emergent ones, who recognize the centrality of education for their growth. Thus, EDM-2023 particularly welcomes papers focusing on concepts, principles, and techniques mined from educational data for enhancing the potential of all the stakeholders in the education system. Papers describing applications and case studies are especially welcome.  
+ Topics of Interest  
+ Topics of interest to the conference include but are not limited to:  
+ Models and new techniques for mining educational data. | Closing the loop between EDM research and learning sciences 
+  Informing data mining research with educational and/or motivational theories 
+  Actionable advice rooted in educational data mining research, experiments, and outcomes 
+  Reproducibility | Replicating previous studies with larger sample sizes, in different domains, and/or in more diverse contexts 
+  Facilitating accessible benchmarking systems and publishing educational datasets that are useful for the community 
+  EDM in life and the practical influence of EDM on learning and teaching 
+  Equity, Privacy, Transparency, and Fairness | Ethical considerations in EDM 
+  Legal and social policies to govern EDM 
+  Developing privacy-protecting EDM algorithms and detecting learner privacy violations in existing methods 
+  Developing and applying fairer learning algorithms, and detecting and correcting instances of algorithmic unfairness in existing methods 
+  Developing, improving, and evaluating explainable EDM algorithms 
+  Submission Types  
+ For all tracks, the references section at the end of the paper does not count towards the listed page limits  .  
+ Full Papers | — 10 pages. Should describe original, substantive, mature, and unpublished work. 
+  Short Papers | — 6 pages. Should describe original, unpublished work. This includes early stage, less developed works in progress. 
+  JEDM Journal Track Papers | — Papers submitted to the Journal of Educational Data Mining track (and accepted before 2023-05-31) will be published in the June issue of JEDM and presented during the JEDM track of the conference. Papers accepted later will be automatically considered for the next iteration of the conference. 
+  Industry Papers | — 6 pages. Should describe innovative use and deployment of EDM techniques in schools, formal and informal learning settings, ed-tech products, etc. 
+  Posters | — 2-4 pages. Should describe original unpublished work in progress or last-minute results. 
+  Demos | — 2-4 pages. Description of the proposed demonstration at the conference of the EDM tools and systems, or educational systems that use EDM techniques. 
+  Doctoral Consortium | — 2-4 pages. Should describe the graduate/postgraduate student’s research topic, proposed contributions, results so far, and aspects of the research on which advice is sought. 
+  Workshop proposals | — 2-4 pages. Should describe the organizers’ plan both to conduct the workshop (e.g., format, rough schedule, proposed list of speakers) and to stimulate growth in the workshop’s area of focus. 
+  Tutorial proposals | — 2-4 pages. Should motivate and describe succinctly the field or tool that will be presented, and a plan for attendees to learn it in a hands-on way. 
+  All paper submissions must be submitted for double-blind reviewing. All papers must haven’t been submitted for publication at other venues.  
+ All accepted papers will be published in the open-access proceedings of the conference, except for the Journal track as stated above. Papers submitted to workshops will be published separately in the workshop proceedings.  
+ Submission  
+ All papers – except the papers submitted to the JEDM Journal Track, see below – should be formatted according to the EDM template:  
+ Microsoft Word template | * 
+  LaTeX template | * 
+ * Please take note that the template links were changed on October 20, 2022. Kindly use the updated template if you downloaded it before October 20, 2022.   
+ Submit paper here     
+ Special Instructions  
+ Workshop and Tutorial proposals  
+ Workshop and Tutorial proposals should use the EDM proceedings template (LaTeX or Word) and include at least the following elements:  
+ Title. 
+  Length of workshop/tutorial: full or half-day. 
+  Proposed format of the workshop/tutorial (e.g., approximate timeline) and type of activities (e.g., paper presentations, discussions, demos, etc.). 
+  Description of the workshop/tutorial content and themes. 
+  Names, short biographies, and contact information of workshop/tutorial chair(s). For tutorials, this biography must include detailed information about the qualifications of the proposer to conduct the tutorial on the proposed topic. For workshops, include a list of organizing/program committee members, who should be from multiple universities. 
+  Submission link will be made available soon.  
+ JEDM Journal Track Papers  
+ Select the option “ EDM 2023 Journal Track   ” in the corresponding Section box when filling the form to submit your paper.  
+ Demo Track  
+ 2–4 pages. The EDM demo track is intended to foster discussion and exchange of ideas among researchers and practitioners from academia and industry on how EDM methods can support teaching and learning. The participants in this track can demo: EDM tools, EDM system design, visualized EDM results or educational systems/tools that use EDM techniques. Beyond academic community, industrial researchers and practitioners are encouraged to submit their works to the demo track  
+ While not required, an optional URL linking to a short video no more than 5 minutes in length is encouraged to be submitted with the manuscript to give a precise idea of what the demo will look like. Accepted demo papers will be included in the EDM proceedings. One award will be given in recognition of the outstanding demo.  
+ Important Dates  
+ Please note: Compared to previous years, EDM 2023 will have an earlier submission deadline on Jan 20, 2023  (with Jan 13, 2023 as abstract submission deadline)  
+ JEDM track papers | Three cut-off dates  :September 30, 2022 November 30, 2022January 30, 2023 
+ Workshop and Tutorial proposals | December 5, 2022 
+ Acceptance notifications for workshops and tutorials | January 9, 2023 
+ Abstracts for full and short papers | January 13, 2023 
+ Full papers and short papers, Industry papers, Posters and demos, Doctoral consortium papers | January 20, 2023 
+ Acceptance notifications for full and short papers, posters, demos, and doctoral consortium papers | April 10, 2023 
+ Camera-ready copy due | May 1, 2023 
+ Due dates and acceptance notifications for workshop papers | Set by workshop organizers 
+  Looking forward to seeing you at EDM 2023 in Bangalore!   
+ Announcements 
+  Registration Information 
+  Ambassador Program 
+  Apply for IISc Campus Accommodation (Deadline: June 20, 2023) 
+  Panels Announced 
+  Tutorials Announced
+
+output:1. ED-MEDIA_3 information:
+2. EDBT_0 information:
+3. EDBT_1 information:
+4. EDBT_2 information:
+5. EDBT_3 information:
+6. EDCC_0 information:
+7. EDCC_1 information:
+8. EDCC_2 information:
+9. EDM_0 information:
+10. EDM_1 information:

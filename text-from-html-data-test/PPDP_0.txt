@@ -1,0 +1,189 @@
+Top  PPDP | SPLASH    
+ News  Registration  Invited Speakers  Program  Accepted Papers  Program Committee  Important Dates  Proceedings  Contact    
+
+    25th International Symposium on  
+  Principles and Practice of Declarative Programming  
+ PPDP 2023   
+ October 22-23, 2023 - Cascais, Lisbon, Portugal  
+ Collocated with SPLASH   
+
+  News  
+
+  The PPDP 2023 proceedings are now available | here | . 
+  Program is now available | here | . 
+  Registration is now open | here | . 
+  Invited speakers announced | here | . 
+  The list of accepted papers is now available | here | . 
+  Selected papers will be invited to the Journal of Functional Programming (JFP) or the Journal of Theory and Practice of Logic Programming (TPLP). 
+  Proceedings will be published in the ACM Digital Library within the ACM International Conference Proceedings Series. 
+  Submission page is available | here | . 
+  Conference is In-Cooperation with ACM, SIGPLAN, and SIGLOG. 
+  Program Committee announced. 
+
+  Overview of PPDP 2023  
+
+  PPDP aims to provide a forum that brings together researchers from the declarative programming communities, including those working in the logic, constraint and functional programming paradigms, but also embracing a variety of other paradigms such as visual programming, executable specification languages, database languages, AI languages and knowledge representation languages used, for example, in the semantic web.  
+ The goal is to stimulate research in the use of logical formalisms and methods for specifying, performing, and analysing computations, including mechanisms for mobility, modularity, concurrency, object-orientation, security, and static analysis. Papers related to the use of declarative paradigms and tools in industry and education are especially solicited.  
+ Scope  
+ Submissions are invited on all topics related to declarative programming, from principles to practice, from foundations to applications. Topics of interest include, but are not limited to  
+ Language Design: domain-specific languages; interoperability; concurrency, parallelism and distribution; modules; functional languages; reactive languages; languages with objects; languages for quantum computing; languages inspired by biological and chemical computation; metaprogramming. 
+  Declarative languages in artificial intelligence: logic programming; database languages; knowledge representation languages; probabilistic languages; differentiable languages. 
+  Implementations: abstract machines; interpreters; compilation; compile-time and run-time optimization; memory management. 
+  Foundations: types; logical frameworks; monads and effects; semantics. 
+  Analysis and Transformation: partial evaluation; abstract interpretation; control flow; data flow; information flow; termination analysis; resource analysis; type inference and type checking; verification; validation; debugging; testing. 
+  Tools and Applications: programming and proof environments; verification tools; case studies in proof assistants or interactive theorem provers; certification; novel applications of declarative programming inside and outside of CS; declarative programming pearls; practical experience reports and industrial application; education. 
+  The PC chair will be happy to advise on the appropriateness of a topic.  
+ PPDP 2023 will be held in Cascais, Lisbon, Portugal. Previous symposia were held at Tbilisi (Georgia)  , Tallinn (Estonia)  , Bologna (Italy)  , Porto (Portugal)  , Frankfurt am Main (Germany)  , Namur (Belgium)  , Edinburgh (UK)  , Siena (Italy)  , Canterbury (UK)  , Madrid (Spain)  , Leuven (Belgium)  , Odense (Denmark)  , Hagenberg (Austria)  , Coimbra (Portugal)  , Valencia (Spain)  , Wroclaw (Poland)  , Venice (Italy)  , Lisboa (Portugal)  , Verona (Italy)  , Uppsala (Sweden)  , Pittsburgh (USA)  , Florence (Italy)  , Montréal (Canada)  , and Paris (France)  .  
+
+  Registration  
+
+  Registration for PPDP 2023 is available at the SPLASH 2023 website   
+
+  Invited Speakers  
+
+  Delia Kesner  ,Université Paris Cité (IRIF), France  
+   
+  Embedding Quantitative Properties of Call-by-Name and Call-by-Value in a Unifying Framework.  This talk explores how the (untyped and typed) theories of Call-by-Name (CBN)and Call-by-Value (CBV) can be unified in a more general framework provided by a Call-by-Push-Value (CBPV) like calculus. Indeed, we first present an untyped calculus, called lambda-bang, which encodes untyped CNB and CBV, both from a static and a dynamic point of view. We then explore these encodings in a typed framework, specified by quantitative (aka non-idempotent intersection) types. Three different (quantitative) properties are discussed. The first one is related to upper bounds for reduction lengths, the second one concerns exact measures for reduction lengths and sizes of normal forms, and the last one is about the inhabitation problem. In all these cases, explained and discussed in the talk, the (quantitative) property for CBN/CBV is inherited from the corresponding one in the lambda-bang calculus.  
+
+  Maribel Fernández  , King's College London, UK (joint with LOPSTR  and sponsored by ALP  )   
+   
+  Unification modulo equational theories in languages with binding operators.  Unification (i.e., solving equations between terms) is a key step in the implementation of logic programming languages and theorem provers, and is also used in type inference algorithms for functional languages and as a mechanism to analyse rewrite-based specifications (e.g., to find critical pairs). Matching is a version of unification in which only one of the terms in the equation can be instantiated. Often, operators satisfy equational axioms (e.g., associativity, commutativity), which must be taken into account during the unification or matching process. In addition, when the expressions to be unified involve binding operators (as is the case when representing programs, logics, computation models, etc.), unification and matching algorithms must take into account the alpha-equivalence relation generated by the binders. In this talk, we present matching and unification algorithms for languages that include binding operators as well as operators that satisfy equational axioms, such as associativity and commutativity.  
+
+  Program  
+  
+  Times in the schedule are WEST  (Western European Summer Time), i.e., local to Cascais.  
+  
+ Sunday 22 October 2023 
+ 08:55 - 09:00 | Opening of PPDP 
+ Session 1 
+ 09:00 - 09:30 | A Calculus of Delayed Reductions  Steffen van Bakel, Nicolas Wu and Emma Tye 
+ 09:30 - 10:00 | Typed Equivalence of Labeled Effect Handlers and Labeled Delimited Control Operators  Kazuki Ikemori, Youyou Cong and Hidehiko Masuhara 
+ 10:00 - 10:30 | Comprehending queries over finite maps  Wilmer Ricciotti 
+ 10:30 - 11:00 | Coffee Break 
+ Session 2 
+ 11:00 - 12:30 | Invited talk: Delia Kesner   
+  Embedding Quantitative Properties of Call-by-Name and Call-by-Value in a Unifying Framework 
+ 12:30 - 14:00 | Lunch Break 
+ Session 3 
+ 14:00 - 15:30 | 10-Year Most Influential Paper Talk   
+  Coq: the world's best macro assembler?  Andrew Kennedy, Nick Benton, Jonas B. Jensen, and Pierre-Evariste Dagand 
+ 15:30 - 16:00 | Coffee Break 
+ Session 4 
+ 16:00 - 16:30 | Type-directed Program Transformation for Constant-Time Enforcement  Gautier Raimondi, Frédéric Besson and Thomas Jensen 
+ 16:30 - 17:00 | Data-Dependent Confidentiality in DCR Graphs  Eduardo Geraldo, João Costa Seco and Thomas Hildebrandt 
+
+ Monday 23 October 2023 
+ Session 5 
+ 09:00 - 09:30 | Multicompatibility for Multiparty-Session Composition  Franco Barbanera, Mariangiola Dezani-Ciancaglini, Lorenzo Gheri and Nobuko Yoshida 
+ 09:30 - 10:00 | Termination in Concurrency, Revisited  Joseph Paulus, Daniele Nantes-Sobrinho and Jorge A. Perez 
+ 10:00 - 10:30 | Polymorphic Typestate for Session Types  Hannes Saffrich and Peter Thiemann 
+ 10:30 - 11:00 | Coffee Break 
+ Session 6 
+ 11:10 - 12:10 | Invited talk (joint with LOPSTR): Maribel Fernández   
+  Unification modulo equational theories in languages with binding operators 
+ 12:30 - 14:00 | Lunch Break 
+ Session 7 
+ 14:00 - 14:30 | Strongly-Typed Multi-View Stack-Based Computations  Pieter Koopman and Mart Lubbers 
+ 14:30 - 15:00 | Closure Conversion in Little Pieces  Zachary J. Sullivan, Paul Downen and Zena M. Ariola 
+ 15:00 - 15:30 | Additive Cellular Automata Graded-Monadically  Silvio Capobianco and Tarmo Uustalu 
+ 15:30 - 16:00 | Coffee Break 
+ Session 8 
+ 16:00 - 16:30 | Intuitionistic Metric Temporal Logic  Luiz de Sá, Bernardo Toninho and Frank Pfenning 
+ 16:30 - 17:00 | stablekanren: Integrating Stable Model Semantics with miniKanren  Xiangyu Guo, James Smith and Ajay Bansal 
+ 17:00 - 17:05 | Closing of PPDP 
+
+  Accepted Papers  
+
+  Steffen van Bakel, Nicolas Wu and Emma Tye. | A Calculus of Delayed Reductions | . 
+  Franco Barbanera, Mariangiola Dezani-Ciancaglini, Lorenzo Gheri and Nobuko Yoshida. | Multicompatibility for Multiparty-Session Composition | . 
+  Joseph Paulus, Daniele Nantes-Sobrinho and Jorge A. Pérez. | Termination in Concurrency, Revisited | . 
+  Kazuki Ikemori, Youyou Cong and Hidehiko Masuhara. | Typed Equivalence of Labeled Effect Handlers and Labeled Delimited Control Operators | . 
+  Xiangyu Guo, James Smith and Ajay Bansal. | stablekanren: Integrating Stable Model Semantics with miniKanren | . 
+  Gautier Raimondi, Frédéric Besson and Thomas Jensen. | Type-directed Program Transformation for Constant-Time Enforcement | . 
+  Eduardo Geraldo, João Costa Seco and Thomas Hildebrandt. | Data-Dependent Confidentiality in DCR Graphs | . 
+  Wilmer Ricciotti. | Comprehending queries over finite maps | . 
+  Luiz de Sá, Bernardo Toninho and Frank Pfenning. | Intuitionistic Metric Temporal Logic | . 
+  Zachary J. Sullivan, Paul Downen and Zena M. Ariola. | Closure Conversion in Little Pieces | . 
+  Pieter Koopman and Mart Lubbers. | Strongly-Typed Multi-View Stack-Based Computations | . 
+  Hannes Saffrich and Peter Thiemann. | Polymorphic Typestate for Session Types | . 
+  Silvio Capobianco and Tarmo Uustalu. | Additive Cellular Automata Graded-Monadically | . 
+
+  Program Committee  
+
+  Salvador Abreu  , NOVA LINCS / University of Evora, Portugal  
+  Beniamino Accattoli  , Inria & LIX, École Polytechnique, France  
+  Maria Paola Bonacina  , Università degli Studi di Verona, Italy  
+  Santiago Escobar  , Universitat Politècnica de València, Spain (chair)   
+  Mário Florido  , Universidade do Porto, Portugal  
+  Silvia Ghilezan  , University of Novi Sad and SANU, Serbia  
+  Michael Hanus  , University of Kiel, Germany  
+  Ekaterina Komendantskaya  , Heriot-Watt University, UK  
+  Ugo de'Liguoro  , Università di Torino, Italy  
+  Alberto Lluch Lafuente  , Technical University of Denmark, Denmark  
+  Georg Moser  , University of Innsbruck, Austria  
+  Daniele Nantes-Sobrinho  , University of Brasília, Brazil  
+  Vivek Nigam  , Huawei Technologies Düsseldorf GmbH, Germany  
+  Kazuhiro Ogata  , Japan Advanced Institute of Science and Technology (JAIST), Japan  
+  Carlos Olarte  , LIPN, Université Sorbonne Paris Nord, France  
+  Giselle Reis  , Carnegie Mellon University, Qatar  
+  Adrián Riesco  , Universidad Complutense de Madrid, Spain  
+  Julia Sapiña  , Universitat Politècnica de València, Spain  
+
+  Important Dates  
+
+  15.05.2023  - AoE title and abstract submission  
+  22.05.2023  - AoE paper submission  
+  06.07.2023  to 07.07.2023  - Rebuttal period (48 hours)  
+  16.07.2023  - Notification  
+  30.07.2023  - Final paper  
+  22.10.2023  - Conference starts  
+
+  Call for Papers  
+
+  The Call for Papers can be found here   
+
+  Submission Categories & Guidelines  
+
+  Submission page is available via EasyChair  .  
+  
+  Selected papers will be invited to the Journal of Functional Programming (JFP) or the Journal of Theory and Practice of Logic Programming (TPLP).  
+  
+  Submission Categories  
+ Submissions can be made in three categories: regular Research Papers  , System Descriptions  , and Experience Reports  .  
+ Submissions of Research Papers  must present original research which is unpublished and not submitted elsewhere. They must not exceed 12 pages ACM style 2-column (including figures, but excluding bibliography). Work that already appeared in unpublished or informally published workshop proceedings may be submitted (please contact the PC chair in case of questions). Research papers will be judged on originality, significance, correctness, clarity, and readability.  
+ Submission of System Descriptions  must describe a working system whose description has not been published or submitted elsewhere. They must not exceed 10 pages and should contain a link to a working system. System Descriptions must be marked as such at the time of submission and will be judged on originality, significance usefulness, clarity, and readability.  
+ Submissions of Experience Reports  are meant to help create a body of published, refereed, citable evidence where declarative programming such as functional, logic, answer-set, constraint programming, etc., is used in practice. They must not exceed 5 pages including references  . Experience Reports must be marked as such at the time of submission and need not report original research results. They will be judged on significance usefulness, clarity, and readability.  
+ Possible topics for an Experience Report include, but are not limited to:  
+ insights gained from real-world projects using declarative programming 
+  comparison of declarative programming with conventional programming in the context of an industrial project or a university curriculum 
+  curricular issues encountered when using declarative programming in education 
+  real-world constraints that created special challenges for an implementation of a declarative language or for declarative programming in general 
+  novel use of declarative programming in the classroom 
+  programming pearl that illustrates a nifty new data structure or programming technique. 
+  Supplementary material may be provided via a link to an extended version of the submission (recommended), or in a clearly marked appendix beyond the above-mentioned page limits. Reviewers are not required to study extended versions or any material beyond the respective page limit. Material beyond the page limit will not be included in the final published version.  
+ Format of a submission  
+ For each paper category, you must use the most recent version of the "Current ACM Master Template" which is available at https://www.acm.org/publications/proceedings-template  . The most recent version at the time of writing is 1.75. You must use the LaTeX sigconf proceedings template as the conference organizers are unable to process final submissions in other formats. Authors should note ACM's statement on author's rights  which apply to final papers. Submitted papers should meet the requirements of ACM's plagiarism policy  .  
+ Requirements for publication  
+ At least one author of each accepted submission will be expected to attend and present the work at the conference. The pc chair may retract a paper that is not presented. The pc chair may also retract a paper if complaints about the paper's correctness are raised which cannot be resolved by the final paper deadline.  
+ Review process  
+ The reviewing is single-blind.   
+
+  Proceedings  
+
+  The PPDP 2023 proceedings are available here   
+
+  Contact  
+
+ Program Committee Chair  
+  
+  Santiago Escobar   
+  Universitat Politècnica de València   
+  Email: sescobar@upv.es   
+    
+ Steering Committee Chair  
+  
+  James Cheney   
+  University of Edinburgh   
+  Email: jcheney@inf.ed.ac.uk   
+
+  In Cooperation with

@@ -1,0 +1,147 @@
+HOME 
+  SUBMIT | Tracks 
+  Call for Full Papers 
+  Call for Short Papers 
+  Call for Resource Papers 
+  Call for Demonstrations 
+  Call for Tutorials 
+  Call for Workshop Proposals 
+  Call for Doctoral Consortium Papers 
+  Call for Perspectives Papers 
+  Call for Reproducibility Track Papers 
+  Call for SIRIP 2023 (Industry Track) 
+  ATTEND | Participant Guidelines 
+  Registration 
+  Visa Information 
+  Visa Letter 
+  Accommodation 
+  Social Events 
+  Venue 
+  Visiting Taipei 
+  COVID-19 Related Info 
+  Sustainability 
+  Student Travel Grants 
+  DEI Grants 
+  Call for Volunteers 
+  PROGRAM | Schedule 
+  Proceedings 
+  Best Paper Awards 
+  Accepted Papers | Full papers 
+  Short papers 
+  Perspectives papers 
+  Reproducibility papers 
+  Demo papers 
+  Resource papers 
+  SIRIP – industrial track 
+  Doctoral Consortium papers 
+  Keynotes 
+  Workshops 
+  Tutorials 
+  ORGANIZATION 
+  SPONSORS | Call for Sponsorships 
+  Sponsors 
+  ICTIR 2023 
+  Menu    Menu 
+
+ Call for Full Papers 
+
+ The annual SIGIR conference is the major international forum for the presentation of new research results, and the demonstration of new systems and techniques, in the broad field of information retrieval (IR). The 46th ACM SIGIR conference, will be run as a hybrid conference – in person in Taiwan, with support for remote participation, from July 23rd to 27th, 2023. We welcome contributions related to any aspect of information retrieval and access, including theories, foundations, algorithms, evaluation, analysis, and applications. The conference and program chairs invite those working in areas related to IR to submit high-impact original papers for review. Please note a CFP for other paper tracks, as well as workshops, tutorials, doctoral consortium, industry day, and other SIGIR 2023 venues will be released separately.  
+
+ Important Dates  
+
+ Time zone: Anywhere on Earth(AoE)    
+  Full paper abstracts due: January 24, 2023  
+  Full papers due: January 31, 2023  
+  Full paper notifications: April 4, 2023  
+  Camera ready papers: April 26, 2023  
+
+ Publication date:  accepted papers will be published open access for one month on the ACM Digital Library up to two weeks prior to the conference opening date (exact date TBA)  
+ Full paper authors are required to submit an abstract by midnight January 24, 2023 AoE. Paper submission (deadline: midnight January 31, 2023 AoE) is not possible without a submitted abstract. We recommend authors waiting for notification from the other conferences to submit an abstract, even if they do not ultimately submit a paper. Immediately after the abstract deadline, PC Chairs will desk reject submissions that lack informative titles and abstracts (“placeholder abstracts”).  
+ AUTHORS TAKE NOTE: The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to two weeks prior to the first day of the conference. The official publication date affects the deadline for any patent filings related to published work.  
+
+ Submission Guidelines  
+
+ See this brief checklist to strengthen an IR paper   , for authors and reviewers.  
+ Full research papers must describe original work that has not been previously published, not accepted for publication elsewhere, and not simultaneously submitted or currently under review in another journal or conference (including the other tracks of SIGIR 2023).  
+ Submissions of full research papers must be in English, in PDF format, and be at most 9 pages (including figures, tables, proofs, appendixes, acknowledgments, and any content except references) in length, with unrestricted space for references, in the current ACM two-column conference format. Suitable LaTeX, Word, and Overleaf   templates are available from the ACM Website   (use “sigconf” proceedings template for LaTeX and the Interim Template for Word). ACM’s CCS concepts and keywords are not required for review but may be required if accepted and published by the ACM.  
+
+ For LaTeX, the following should be used:  
+ documentclass[sigconf,natbib=true,anonymous=true]{acmart}  Submissions must be anonymous and should be submitted electronically via EasyChair:  
+  https://easychair.org/conferences/?conf=sigir23    
+  At least one author of each accepted paper is required to register for, and present the work at the conference.  
+
+ Anonymity  
+
+ The full paper review process is double-blind. Authors are required to take all reasonable steps to preserve the anonymity of their submission. The submission must not include author information and must not include citations or discussion of related work that would make the authorship apparent. However, it is acceptable to refer to companies or organizations that provided datasets, hosted experiments or deployed solutions if there is no implication that the authors are currently affiliated with these organizations. While authors can upload to institutional or other preprint repositories such as arXiv.org before reviewing is complete, we generally discourage this since it places anonymity at risk. If the paper is already on arXiv, please change the title and abstract so that it is not immediately obvious they are the same. Do not upload the paper to a preprint site after submission to SIGIR—wait until a review decision to avoid reviewers seeing the paper in daily digests or other places. Breaking anonymity puts the submission at risk of being desk rejected.  
+ Authors should carefully go through ACM’s authorship policy   before submitting a paper. Please ensure that all authors are clearly identified in EasyChair before the submission deadline. To support the identification of reviewers with conflicts of interest, the full author list must be specified at submission time. No changes to authorship   will be permitted for the camera-ready submission under any circumstance or after submissions close. So please, make sure you have them listed correctly when submissions close.  
+
+ Desk Rejection Policy  
+
+ Submissions that violate the preprint policy, anonymity, length, or formatting requirements, or are determined to violate ACM’s policies on academic dishonesty   , including plagiarism, author misrepresentation, falsification, etc., are subject to desk rejection by the chairs. Any of the following may result in desk rejection:  
+ Figures, tables, proofs, appendixes, acknowledgements, or any other content after page 9 of the submission. 
+  Formatting not in line with the guidelines provided above. 
+  Authors or authors’ institutional affiliations clearly named or easily discoverable. 
+  Links to source code repositories that reveal author identities, or extended versions of the current paper. It is recommended to hold these for the final published version and | submit source code for artifact review | . 
+  Addition of authors after abstract submission. 
+  Content that has been determined to have been copied from other sources. 
+  Any form of academic fraud or dishonesty. 
+  Lack of topical fit for SIGIR. 
+
+ Relevant Topics  
+
+ Relevant topics include:  
+  Search and Ranking.  Research on core IR algorithmic topics, including IR at scale, such as:  
+ Queries and query analysis (e.g., query intent, query understanding, query suggestion and prediction, query representation and reformulation, spoken queries). 
+  Web search (e.g., ranking at web scale, link analysis, sponsored search, search advertising, adversarial search and spam, vertical search). 
+  Retrieval models and ranking (e.g., ranking algorithms, learning to rank, language models, retrieval models, combining searches, diversity, aggregated search, dealing with bias). 
+  Efficiency and scalability (e.g., indexing, crawling, compression, search engine architecture, distributed search, metasearch, peer-to-peer search, search in the cloud). 
+  Theoretical models and foundations of information retrieval and access (e.g., new theory, fundamental concepts, theoretical analysis). 
+  Search Recommendation & Content Analysis for Search and Recommendation.  Research focusing on recommender systems, rich content representations and content analysis, such as:  
+ Filtering and recommendation (e.g., content-based filtering, collaborative filtering, recommender systems, recommendation algorithms, zero-query and implicit search, personalized recommendation). 
+  Document representation and content analysis for search or recommendation (e.g., cross-lingual and multilingual search, NLP: summarization, text representation, linguistic analysis, readability, opinion mining and sentiment analysis, clustering, classification, topic models for search and recommendation). 
+  Knowledge acquisition (e.g. information extraction, relation extraction, event extraction, query understanding, human-in-the-loop knowledge acquisition). 
+  Machine Learning and Natural Language Processing for Search and Recommendation.  Research bridging ML, NLP, and IR.  
+ Core ML (e.g. deep learning for IR, embeddings, intelligent personal assistants and agents, unbiased learning). 
+  Question answering (e.g., factoid and non-factoid question answering, interactive question answering, community-based question answering, question answering systems). 
+  Conversational systems (e.g., conversational search interaction, dialog systems, spoken language interfaces, intelligent chat systems). 
+  Explicit semantics (e.g. semantic search, named-entities, relation and event extraction). 
+  Knowledge representation and reasoning (e.g., link prediction, knowledge graph completion, query understanding, knowledge-guided query and document representation, ontology modeling). 
+  Humans and Interfaces.  Research into user-centric aspects of IR including user interfaces, behavior modeling, privacy, interactive systems, such as:  
+ Mining and modeling users (e.g., user and task models, click models, log analysis, behavioral analysis, modeling and simulation of information interaction, attention modeling). 
+  Interactive search (e.g., search interfaces, information access, exploratory search, search context, whole-session support, proactive search, personalized search). 
+  Social search (e.g., social media search, social tagging, crowdsourcing). 
+  Collaborative search (e.g., human-in-the-loop, knowledge acquisition). 
+  Information security (e.g., privacy, surveillance, censorship, encryption, security). 
+  User studies comparing theory to human behaviour for search and recommendation. 
+  Evaluation.  Research that focuses on the measurement and evaluation of IR systems, such as:  
+ User-centered evaluation (e.g., user experience and performance, user engagement, search task design). 
+  System-centered evaluation (e.g., evaluation metrics, test collections, experimental design, evaluation pipelines, crowdsourcing). 
+  Beyond Cranfield (e.g., online evaluation, task-based, session-based, multi-turn, interactive search). 
+  Beyond labels (e.g., simulation, implicit signals, eye-tracking and physiological signals). 
+  Beyond effectiveness (e.g., value, utility, usefulness, diversity, novelty, urgency, freshness, credibility, authority). 
+  Methodology (e.g., statistical methods, reproducibility, dealing with bias, new experimental approaches, metrics for metrics). 
+  Fairness, Accountability, Transparency, Ethics, and Explainability (FATE) in IR.  Research on aspects of fairness and bias in search and recommender systems.  
+ Fairness, accountability, transparency (e.g. confidentiality, representativeness, discrimination and harmful bias). 
+  Ethics, economics, and politics (e.g., studies on broader implications, norms and ethics, economic value, political impact, social good). 
+  Two-sided search and recommendation scenarios (e.g. matching users and providers, marketplaces). 
+  Domain-specific Applications.  Research focusing on domain-specific IR challenges, such as:  
+ Local and mobile search (e.g., location-based search, mobile usage understanding, mobile result presentation, audio and touch interfaces, geographic search, location context in search). 
+  Social search (e.g., social networks in search, social media in search, blog and microblog search, forum search). 
+  Search in structured data (e.g., XML search, graph search, ranking in databases, desktop search, email search, entity-oriented search). 
+  Multimedia search (e.g., image search, video search, speech and audio search, music search). 
+  Education (e.g., search for educational support, peer matching, info seeking in online courses). 
+  Legal (e.g., e-discovery, patents, other applications in law). 
+  Health (e.g., medical, genomics, bioinformatics, other applications in health). 
+  Knowledge graph applications (e.g. conversational search, semantic search, entity search, KB question answering, knowledge-guided NLP, search and recommendation). 
+  Other applications and domains (e.g., digital libraries, enterprise, expert search, news search, app search, archival search, new retrieval problems including applications of search technology for social good). 
+
+ Contact  
+
+ For any questions about full paper submissions you may contact the Program Chairs by email to sigir23-pcchairs@easychair.org   .  
+
+ © 2023 ACM Special Interest Group on Information Retrieval      
+  Facebook 
+  Twitter 
+  Mail 
+
+ Scroll to top

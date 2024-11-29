@@ -1,0 +1,564 @@
+ISCA 2023    
+ Submit Work | Call for Papers 
+  Submission Guidelines 
+  HotCRP Submission Site 
+  Industry Track 
+  Camera-Ready Guidelines 
+  Call for Workshops & Tutorials 
+  Artifact Evaluation 
+  Program | Main Program 
+  Workshops & Tutorials 
+  Attend | Venue & Hotel 
+  Register for the Conference 
+  Visa Information 
+  Student Travel Grants 
+  Excursion 
+  Childcare 
+  Committees | Organizing Committee 
+  Program Committee 
+  Steering Committee 
+  Code of Conduct 
+  CARES 
+  @ISCAConfOrg 
+  iscaconf.org 
+  Home 
+
+  ISCA 2023  
+ June 17–21, 2023  
+ Conference Program  
+
+   Saturday, June 17 – Sunday, June 18: Workshops & Tutorials   
+   
+ Program for Workshops and Tutorials is available here  . Please visit the respective webpage of a workshop/tutorial for its detailed schedule.  
+   
+  Jump to Saturday–Sunday  | Monday  | Tuesday  | Wednesday   
+   
+  Expand All  / Collapse All  Paper Sessions   
+   
+ PLDI/ISCA Opening Reception: June 18, 6:00 PM – 8:00 PM  
+ Location: Royal  
+   Day 1: Monday, June 19  
+   
+ 7:30 AM – 8:45 AM: Continental Breakfast  
+ Location: Cypress 3  
+   
+ 8:45 AM – 9:00 AM: Opening Remarks  
+ Location: Canary  
+   
+ 9:15 AM – 11:00 AM  
+   
+ Session 1A: ML Systems   
+ Location: Canary  
+   
+ Session Chair: Amir Yazdanbakhsh (Google DeepMind)   
+ 9:15 AM – 9:30 AM   
+ OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization   
+ Cong Guo, Jiaming Tang, Weiming Hu, Jingwen Leng, Chen Zhang, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu   
+   
+  9:30 AM – 9:45 AM   
+ FACT: FFN-Attention Co-optimized Transformer Architecture with Eager Correlation Prediction   
+ Yubin Qin, Yang Wang, Dazheng Deng, Zhiren Zhao, Xiaolong Yang, Leibo Liu, Shaojun Wei, Yang Hu, Shouyi Yin   
+   
+  9:45 AM – 10:00 AM   
+ Mystique: Enabling Accurate and Scalable Generation of Production AI Benchmarks   
+ Mingyu Liang, Wenyin Fu, Louis Feng, Zhongyi Lin, Pavani Panakanti, Shengbao Zheng, Srinivas Sridharan, Christina Delimitrou   
+   
+  10:00 AM – 10:15 AM   
+ Accelerating Personalized Recommendation with Cross-level Near-Memory Processing   
+ Haifeng Liu, Long Zheng, Yu Huang, Chaoqiang Liu, Xiangyu Ye, Jingrui Yuan, Xiaofei Liao, Hai Jin, Jingling Xue   
+   
+  10:15 AM – 10:30 AM   
+ Understanding and Mitigating Hardware Failures in Deep Learning Training Systems   
+ Yi He, Mike Hutton, Steven Chan, Robert de Gruijl, Rama Govindaraju, Nishant Patil, Yanjing Li   
+   
+  10:30 AM – 10:45 AM   
+ LAORAM: A Look Ahead ORAM Architecture for Training Large Embedding Tables   
+ Rachit Rajat, Yongqin Wang, Murali Annavaram   
+   
+  10:45 AM – 11:00 AM   
+ Optimizing CPU Performance for Recommendation Systems At-Scale   
+ Rishabh Jain, Scott Cheng, Vishwas Kalagi, Vrushabh Sanghavi, Samvit Kaul, Meena Arunachalam, Kiwan Maeng, Adwait Jog, Anand Sivasubramaniam, Mahmut Taylan Kandemir, Chita Das   
+
+ Session 1B: CPU Microarchitecture   
+ Location: Magnolia 1-3  
+   
+ Session Chair: Gilles Pokam (Intel)   
+ 9:15 AM – 9:30 AM   
+ Orinoco: Ordered Issue and Unordered Commit with Non-Collapsible Queues   
+ Dibei Chen, Tairan Zhang, Yi Huang, Jianfeng Zhu, Yang Liu, Pengfei Gou, Chunyang Feng, Binghua Li, Shaojun Wei, Leibo Liu   
+   
+  9:30 AM – 9:45 AM   
+ SPADE: A Flexible and Scalable Accelerator for SpMM and SDDMM   
+ Gerasimos Gerogiannis, Serif Yesil, Damitha Lenadora, Dingyuan Cao, Charith Mendis, Josep Torrellas   
+   
+  9:45 AM – 10:00 AM   
+ DynAMO: Improving Parallelism Through Dynamic Placement of Atomic Memory Operations   
+ Víctor Soria-Pardos, Adrià Armejach, Darío Suárez-Gracia, Tiago Mück, José A. Joao, Alejandro Rico, Miquel Moretó   
+   
+  10:00 AM – 10:15 AM   
+ μManycore: A Cloud-Native CPU for Tail at Scale   
+ Jovan Stojkovic, Chunao Liu, Muhammad Shahbaz, Josep Torrellas   
+   
+  10:15 AM – 10:30 AM   
+ MESA: Microarchitecture Extensions for Spatial Architecture Generation   
+ Dong Kai Wang, Jiaqi Lou, Naiyin Jin, Edwin Mascarenhas, Rohan Mahapatra, Sean Kinzer, Soroush Ghodrati, Amir Yazdanbakhsh, Hadi Esmaeilzadeh, Nam Sung Kim   
+   
+  10:30 AM – 10:45 AM   
+ Imprecise Store Exceptions   
+ Siddharth Gupta, Yuanlong Li, Qingxuan Kang, Abhishek Bhattacharjee, Babak Falsafi, Yunho Oh, Mathias Payer   
+   
+  10:45 AM – 11:00 AM   
+ Supply Chain Aware Computer Architecture   
+ August Ning, Georgios Tziantzioulis, David Wentzlaff   
+
+ Session 1C: Security   
+ Location: Magnolia 4-6  
+   
+ Session Chair: Trevor Carlson (National University of Singapore)   
+ 9:15 AM – 9:30 AM   
+ ISA-Grid: Architecture of Fine-grained Privilege Control for Instructions and Registers   
+ Shulin Fan, Zhichao Hua, Yubin Xia, Haibo Chen, Binyu Zang   
+   
+  9:30 AM – 9:45 AM   
+ TEESec: Pre-Silicon Vulnerability Discovery for Trusted Execution Environments   
+ Moein Ghaniyoun, Kristin Barber, Yuan Xiao, Yinqian Zhang, Radu Teodorescu   
+   
+  9:45 AM – 10:00 AM   
+ Metior: A Comprehensive Model to Evaluate Obfuscating Side-Channel Defense Schemes   
+ Peter W. Deutsch, Weon Taek Na, Thomas Bourgeat, Joel S. Emer, Mengjia Yan   
+   
+  10:00 AM – 10:15 AM   
+ Spy in the GPU-box: Covert and Side Channel Attacks on Multi-GPU Systems   
+ Sankha Baran Dutta, Hoda Naghibijouybari, Arjun Gupta, Nael Abu-Ghazaleh, Andres Marquez, Kevin Barker   
+   
+  10:15 AM – 10:30 AM   
+ Doppelganger Loads: A Safe, Complexity-Effective Optimization for Secure Speculation Schemes   
+ Amund Bergland Kvalsvik, Pavlos Aimoniotis, Stefanos Kaxiras, Magnus Själander   
+   
+  10:30 AM – 10:45 AM   
+ Pensieve: Microarchitectural Modeling for Security Evaluation   
+ Yuheng Yang, Thomas Bourgeat, Stella Lau, Mengjia Yan   
+   
+  10:45 AM – 11:00 AM   
+ All your PC are belong to us: Exploiting Non-control-transfer Instruction BTB Updates for Dynamic PC Extraction   
+ Jiyong Yu, Trent Jaeger, Christopher Fletcher   
+
+ 11:00 AM – 11:20 AM: Break  
+   
+ 11:20 AM – 12:30 PM: Plenary session  
+   
+ Keynote: Computing in the Foundation Model Era   
+ Location: Cypress 2  
+   
+ Abstract   
+  Generative AI applications with their ability to produce natural language, computer code and images are transforming all aspects of society. These applications are powered by huge foundation models such as GTP-3 which are trained on massive unlabeled datasets. Foundation models have 10s of billions of parameters and have obtained state-of-the-art quality in natural language processing, vision and speech applications. These models are computationally challenging because they require 100s of petaFLOPS of computing capacity for training and inference. Future foundation models will have even greater capabilities provided by more complex model architectures with longer sequence lengths, irregular data access (sparsity) and irregular control flow. In this talk I will describe how the evolving characteristics of foundation models will impact the design of the optimized computing systems required for training and serving these models. A key element of improving the performance and lowering the cost of deploying future foundation models will be optimizing the data movement within the model using specialized hardware. In contrast to human-in-the-loop applications such as conversational AI, an emerging application of foundation models is in continuous batch processing applications that operate without human supervision. I will describe how continuous batch processing and real-time machine learning can be used to create an intelligent network data plane.  
+ Speaker   
+  Kunle Olukotun  is the Cadence Design Professor of Electrical Engineering and Computer Science at Stanford University. Olukotun is a pioneer in multicore processor design and the leader of the Stanford Hydra chip multiprocessor (CMP) research project. He founded Afara Websystems to develop high-throughput, low-power multicore processors for server systems. The Afara multi-core processor, called Niagara, was acquired by Sun Microsystems and now powers Oracle's SPARC-based servers. In 2017, Olukotun co-founded SambaNova Systems, a Machine Learning and Artificial Intelligence company, and continues to lead as their Chief Technologist. Olukotun is the Director of the Pervasive Parallel Lab and a member of the Data Analytics tor What's Next (DAWN) Lab, developing infrastructure for usable machine learning. He is a member of the National Academy of Engineering, an ACM Fellow, and an IEEE Fellow for contributions to multiprocessors on a chip design and the commercialization of this technology. He also received the Harry H. Goode Memorial Award. Olukotun received his Ph.D. in Computer Engineering from The University of Michigan.  
+
+ 12:30 PM – 2:00 PM: Lunch  
+ Location: Cypress 3  
+   
+ 2:00 PM – 3:30 PM  
+   
+ Session 2A: Domain Specific Accelerators - I   
+ Location: Canary  
+   
+ Session Chair: Bahar Asgari (University of Maryland)   
+ 2:00 PM – 2:15 PM   
+ HAAC: A Hardware-Software Co-Design to Accelerate Garbled Circuits   
+ Jianqiao Mo, Jayanth Gopinath, Brandon Reagen   
+   
+  2:15 PM – 2:30 PM   
+ An Algorithm and Architecture Co-design for Accelerating Smart Contracts in Blockchain   
+ Rui Pan, Chubo Liu, Guoqing Xiao, Mingxing Duan, Keqin Li, Kenli Li   
+   
+  2:30 PM – 2:45 PM   
+ FDMAX: An Elastic Accelerator Architecture for Solving Partial Differential Equations   
+ Jiajun Li, Yuxuan Zhang, Hao Zheng, Ke Wang   
+   
+  2:45 PM – 3:00 PM   
+ MetaNMP: Leveraging Cartesian-Like Product to Accelerate HGNNs with Near-Memory Processing   
+ Dan Chen, Haiheng He, Hai Jin, Long Zheng, Yu Huang, Xinyang Shen, Xiaofei Liao   
+   
+  3:00 PM – 3:15 PM   
+ RSQP: Problem-specific Architectural Customization for Accelerated Convex Quadratic Optimization   
+ Maolin Wang, Ian McInerney, Bartolomeo Stellato, Stephen Boyd, Hayden Kwok-Hay So   
+   
+  3:15 PM – 3:30 PM   
+ Flumen: Dynamic Processing in the Photonic Interconnect   
+ Kyle Shiflett, Avinash Karanth, Razvan Bunescu, Ahmed Louri   
+
+ Session 2B: Memory Systems   
+ Location: Magnolia 1-3  
+   
+ Session Chair: Mohamed Zahran (New York University)   
+ 2:00 PM – 2:15 PM   
+ DRAM Translation Layer: Software-Transparent DRAM Power Savings for Disaggregated Memory   
+ Wenjing Jin, Wonsuk Jang, Haneul Park, Jongsung Lee, Soosung Kim, Jae W. Lee   
+   
+  2:15 PM – 2:30 PM   
+ RowPress: Amplifying Read-Disturbance in Modern DRAM Chips   
+ Haocong Luo, Ataberk Olgun, A. Giray Yağlıkçı, Yahya Can Tuğrul, Steve Rhyner, Meryem Banu Cavlak, Joël Lindegger, Mohammad Sadrosadati ,Onur Mutlu   
+   
+  2:30 PM – 2:45 PM   
+ EMISSARY: Enhanced Miss Awareness Replacement Policy for L2 Instruction Caching   
+ Nayana Prasad Nagendra, Bhargav Reddy Godala, Ishita Chaturvedi, Atmn Patel, Svilen Kanev, Tipp Moseley, Jared Stark, Gilles A. Pokam, Simone Campanoni, David I. August   
+   
+  2:45 PM – 3:00 PM   
+ Write-Light Cache for Energy Harvesting Systems   
+ Jongouk Choi, Jianping Zeng, Dongyoon Lee, Changwoo Min, Changhee Jung   
+   
+  3:00 PM – 3:15 PM   
+ Implicit Memory Tagging: No-Overhead Memory Safety Using Alias-Free Tagged ECC   
+ Michael B. Sullivan, Mohamed Tarek Ibn Ziad, Aamer Jaleel, Stephen W. Keckler   
+   
+  3:15 PM – 3:30 PM   
+ On Endurance of Processing in (Nonvolatile) Memory   
+ Salonik Resch, Husrev Cilasun, Zamshed Chowdhury, Masoud Zabihi, Zhengyang Zhao, Jian-Ping Wang, Sachin Sapatnekar, Ulya R. Karpuzcu   
+
+ Session 2C: Emerging - Vision/Graphics/AR-VR   
+ Location: Magnolia 4-6  
+   
+ Session Chair: Jaewoong Sim (Seoul National University)   
+ 2:00 PM – 2:15 PM   
+ Instant-3D: Instant Neural Radiance Field Training Towards On-Device AR/VR 3D Reconstruction   
+ Sixu Li, Chaojian Li, Wenbo Zhu, Boyang (Tony) Yu, Yang Zhao, Cheng Wan, Haoran You, Huihong Shi, Yingyan (Celine) Lin   
+   
+  2:15 PM – 2:30 PM   
+ K-D Bonsai: ISA-Extensions to Compress K-D Trees for Autonomous Driving Tasks   
+ Pedro Henrique Exenberger Becker, Jose Maria Arnau, Antonio Gonzalez   
+   
+  2:30 PM – 2:45 PM   
+ NeuRex: A Case for Neural Rendering Acceleration   
+ Junseo Lee, Kwanseok Choi, Jungi Lee, Seokwon Lee, Joonho Whangbo, Jaewoong Sim   
+   
+  2:45 PM – 3:00 PM   
+ Hardware Acceleration of Neural Graphics   
+ Muhammad Husnain Mubarik, Ramakrishna Kanungo, Tobias Zirr, Rakesh Kumar   
+   
+  3:00 PM – 3:15 PM   
+ Gen-NeRF: Efficient and Generalizable Neural Radiance Fields via Algorithm-Hardware Co-Design   
+ Yonggan Fu, Zhifan Ye, Jiayi Yuan, Shunyao Zhang, Sixu Li, Haoran You, Yingyan (Celine) Lin   
+   
+  3:15 PM – 3:30 PM   
+ EdgePC: Efficient Deep Learning Analytics for Point Clouds on Edge Devices   
+ Ziyu Ying, Sandeepa Bhuyan, Yan Kang, Yingtian Zhang, Mahmut Taylan Kandemir, Chita Das   
+
+ 3:40 PM – 4:00 PM: Break  
+   
+ 4:00 PM – 4:45 PM  
+   
+ Session 3A: Emerging - Robotics   
+ Location: Canary  
+   
+ Session Chair: Mark Jeffrey (University of Toronto)   
+ 4:00 PM – 4:15 PM   
+ Energy-Efficient Realtime Motion Planning   
+ Deval Shah, Ningfeng Yang, Tor M. Aamodt   
+   
+  4:15 PM – 4:30 PM   
+ RoSÉ: A Hardware-Software Co-Simulation Infrastructure Enabling Pre-Silicon Full-Stack Robotics SoC Evaluation   
+ Dima Nikiforov, Shengjun Kris Dong, Chengyi Lux Zhang, Seah Kim, Borivoje Nikolic, Yakun Sophia Shao   
+   
+  4:30 PM – 4:45 PM   
+ RoboShape: Using Topology Patterns to Scalably and Flexibly Deploy Accelerators Across Robots   
+ Sabrina M. Neuman, Radhika Ghosal, Thomas Bourgeat, Brian Plancher, Vijay Janapa Reddi   
+
+ Session 3B: SSD   
+ Location: Magnolia 1-3  
+   
+ Session Chair: Jae W. Lee (Seoul National University and Google)   
+ 4:00 PM – 4:15 PM   
+ Venice: Improving Solid-State Drive Parallelism at Low Cost via Conflict-Free Accesses   
+ Rakesh Nadig, Mohammad Sadrosadati, Haiyu Mao, Nika Mansouri Ghiasi, Arash Tavakkol, Jisung Park, Hamid Sarbazi-Azad, Juan Gómez Luna, Onur Mutlu   
+   
+  4:15 PM – 4:30 PM   
+ ECSSD: Hardware/Data Layout Co-Designed In-Storage-Computing Architecture for Extreme Classification   
+ Siqi Li, Fengbin Tu, Liu Liu, Jilan Lin, Zheng Wang, Yangwook Kang, Yufei Ding, Yuan Xie   
+   
+  4:30 PM – 4:45 PM   
+ Decoupled SSD: Rethinking SSD Architecture through Network-based Flash Controllers   
+ Jiho Kim, Myoungsoo Jung, John Kim   
+
+ Session 3C: GPU   
+ Location: Magnolia 4-6  
+   
+ Session Chair: Matthew Sinclair (University of Wisconsin)   
+ 4:00 PM – 4:15 PM   
+ R2D2: Removing ReDunDancy Utilizing Linearity of Address Generation in GPUs   
+ Dongho Ha, Yunho Oh, Won Woo Ro   
+   
+  4:15 PM – 4:30 PM   
+ SAC: Sharing-Aware Caching in Multi-Chip GPUs   
+ Shiqing Zhang, Mahmood Naderan-Tahan, Magnus Jahre, Lieven Eeckhout   
+
+ 4:45 PM – 5:45 PM:  
+   
+ ISCA-50 Celebration Panel   
+ Location: Canary  
+   
+ Title   
+  ISCA50, a birthday panel: celebrating the past and looking to the future.  
+ Moderator   
+  Parthasarathy Ranganathan (Google)  
+ Panelists   
+  Dave Patterson (Google), Margaret Martonosi (Princeton University and NSF), Todd Austin (University of Michigan and Agita Labs), Onur Mutlu (ETH Zurich), Luis Ceze (University of Washington and OctoML), and Thierry Tambe (Harvard University)  
+
+ 6:00 PM – 7:00 PM: Buisness Meeting  
+ Location: Canary  
+
+  Jump to Saturday–Sunday  | Monday  | Tuesday  | Wednesday   
+   
+  Expand All  / Collapse All  Paper Sessions   
+   
+   Day 2: Tuesday, June 20  
+   
+ 7:30 AM – 8:45 AM: Continental Breakfast  
+ Location: Cypress 3  
+   
+ 8:45 AM – 9:45 AM  
+   
+ Session 4: Best Paper Session   
+ Location: Canary  
+   
+ Session Chair: Pradip Bose (IBM)   
+ 8:45 AM – 9:00 AM   
+ TEA: Time-Proportional Event Analysis   
+ Björn Gottschall, Lieven Eeckhout, Magnus Jahre   
+   
+  9:00 AM – 9:15 AM   
+ Programmable Olfactory Computing   
+ Nathaniel Bleier, Abigail Wezelis, Lav Varshney, Rakesh Kumar   
+   
+  9:15 AM – 9:30 AM   
+ Contiguitas: The Pursuit of Physical Memory Contiguity in Datacenters   
+ Kaiyang Zhao, Kaiwen Xue, Ziqi Wang, Dan Schatzberg, Leon Yang, Antonis Manousis, Johannes Weiner, Rik van Riel, Bikash Sharma, Chunqiang Tang, Dimitrios Skarlatos   
+   
+  9:30 AM – 9:45 AM   
+ SCALO: An Accelerator-Rich Distributed System for Scalable Brain-Computer Interfacing   
+ Karthik Sriram, Raghavendra Pradyumna Pothukuchi, Michał Gerasimiuk, Muhammed Ugur, Oliver Ye, Rajit Manohar, Anurag Khandelwal, Abhishek Bhattacharjee   
+
+ 10:00 AM – 11:00 AM  
+   
+ Session 5A: Quantum-I   
+ Location: Canary  
+   
+ Session Chair: Ulya Karpuzcu (University of Minnesota)   
+ 10:00 AM – 10:15 AM   
+ QIsim: Architecting 10+K Qubit QC Interfaces Toward Quantum Supremacy   
+ Dongmoon Min, Junpyo Kim, Junhyuk Choi, Ilkwon Byun, Masamitsu Tanaka, Koji Inoue, Jangwoo Kim   
+   
+  10:15 AM – 10:30 AM   
+ Astrea: Accurate Quantum Error-Decoding via Practical Minimum-Weight Perfect-Matching   
+ Suhas Vittal, Poulami Das, Moinuddin Qureshi   
+   
+  10:30 AM – 10:45 AM   
+ Scaling Qubit Readout with Hardware Efficient Machine Learning Architectures   
+ Satvik Maurya, Chaithanya N. Mude, William Oliver, Benjamin Lienhard, Swamit Tannu   
+   
+  10:45 AM – 11:00 AM   
+ Q-BEEP: Quantum Bayesian Error Mitigation Employing Poisson Modeling over the Hamming Spectrum   
+ Samuel Stein, Nathan Wiebe, Yufei Ding, James Ang, Ang Li   
+
+ Session 5B: Domain Specific Accelerators - II   
+ Location: Magnolia 1-3  
+   
+ Session Chair: Josep Torrellas (University of Illinois)   
+ 10:00 AM – 10:15 AM   
+ SHARP: A Short-Word Hierarchical Accelerator for Robust and Practical Fully Homomorphic Encryption   
+ Jongmin Kim, Sangpyo Kim, Jaewan Choi, Jaiyoung Park, Donghwan Kim, Jung Ho Ahn   
+   
+  10:15 AM – 10:30 AM   
+ GenDP: A Framework of Dynamic Programming Acceleration for Genome Sequencing Analysis   
+ Yufeng Gu, Arun Subramaniyan, Tim Dunn, Alireza Khadem, Kuan-Yu Chen, Somnath Paul, Md Vasimuddin, Sanchit Misra, David Blaauw, Satish Narayanasamy, Reetuparna Das   
+   
+  10:30 AM – 10:45 AM   
+ Shogun: A Task Scheduling Framework for Graph Mining Accelerators   
+ Yibo Wu, Jianfeng Zhu, Wenrui Wei, Longlong Chen, Liang Wang, Shaojun Wei, Leibo Liu   
+   
+  10:45 AM – 11:00 AM   
+ ETTE: Efficient Tensor-Train-based Computing Engine for Deep Neural Networks   
+ Yu Gong, Miao Yin, Lingyi Huang, Jinqi Xiao, Yang Sui, Chunhua Deng, Bo Yuan, Yu Gong   
+
+ 11:00 AM – 11:20 AM: Break  
+   
+ 11:20 AM – 12:30 PM: Plenary session  
+   
+ Keynote: Taking on the World's Challenges: The Role of Computing Research and Innovation   
+ Location: Cypress 2  
+   
+ Abstract   
+  Throughout human history, society has faced great opportunities and challenges, and has used its available toolkit to navigate them. Today, many of the global opportunities and challenges we face will require the full engagement of the computing innovation and research community to take on. Resiliently navigating climate trends will require computing techniques and systems to model the future, as well as innovative techniques to mitigate carbon footprint by employing telepresence, optimizing logistics, and more. Another grand challenge of our era is the ability for us as individuals and as groups to communicate with each other in a way that upholds accuracy, integrity, privacy, and trust. The computing research and innovation ecosystem has the power to help. This talk will discuss how the different elements of this ecosystem — academia, industry, professional organizations, and governments — can work together to meet these challenges. It will be a call to action on how we can best navigate the next decade and beyond to do so.  
+ Speaker   
+  Margaret Martonosi  is the US National Science Foundation’s (NSF) Assistant Director for Computer and information Science and Engineering (CISE). With an annual budget of more than $1B, the CISE directorate at NSF has the mission to uphold the Nation’s leadership in scientific discovery and engineering innovation through its support of fundamental research and education in computer and information science and engineering as well as transformative advances in research cyberinfrastructure. While at NSF, Dr. Martonosi is on leave from Princeton University where she is an endowed professor of Computer Science. Dr. Martonosi's research interests are in computer architecture and hardware-software interface issues in both classical and quantum computing systems. Dr. Martonosi is a member of the National Academy of Engineering and a Fellow of the ACM and IEEE.  
+
+ 12:30 PM – 2:20 PM: Award Lunch  
+ Location: Cypress 1  
+   
+ 2:30 PM – 4:00 PM  
+   
+ Session 6A: ML Accelerators and Scheduling   
+ Location: Canary  
+   
+ Session Chair: Hyoukjun Kwon (UC Irvine)   
+ 2:30 PM – 2:45 PM   
+ TaskFusion: An Efficient Transfer Learning Architecture with Dual Delta Sparsity for Multi-Task Natural Language Processing   
+ Zichen Fan, Qirui Zhang, Pierre Abillama, Sara Shoouri, Changwoo Lee, David Blaauw, Hun-Seok Kim, Dennis Sylvester   
+   
+  2:45 PM –3:00 PM   
+ Inter-layer Scheduling Space Definition and Exploration for Tiled Accelerators   
+ Jingwei Cai, Yuchen Wei, Zuotong Wu, Sen Peng, Kaisheng Ma   
+   
+  3:00 PM – 3:15 PM   
+ ArchGym: An Open-Source Gymnasium for Machine Learning Assisted Architecture Design   
+ Srivatsan Krishnan, Amir Yazdanbakhsh, Shvetank Prakash, Jason Jabbour, Ikechukwu Uchendu, Susobhan Ghosh, Behzad Boroujerdian, Daniel Richins, Devashree Tripathy, Aleksandra Faust, Vijay Janapa Reddi   
+   
+  3:15 PM – 3:30 PM   
+ V10: Hardware-Assisted NPU Multi-tenancy for Improved Resource Utilization and Fairness   
+ Yuqi Xue, Yiqi Liu, Lifeng Nai, Jian Huang   
+   
+  3:30 PM – 3:45 PM   
+ RAELLA: Reforming the Arithmetic for Efficient, Low-Resolution, and Low-Loss Analog PIM: No Retraining Required!   
+ Tanner Andrulis, Joel S. Emer, Vivienne Sze   
+   
+  3:45 PM – 4:00 PM   
+ MapZero: Mapping for Coarse-grained Reconfigurable Architectures with Reinforcement Learning and Monte-Carlo Tree Search   
+ Xiangyu Kong, Yi Huang, Jianfeng Zhu, Xingchen Man, Yang Liu, Chunyang Feng, Pengfei Gou, Minggui Tang, Shaojun Wei, Leibo Liu   
+
+ Session 6B: Cloud   
+ Location: Magnolia 1-3  
+   
+ Session Chair: Akshitha Sriraman (CMU)   
+ 2:30 PM – 2:45 PM   
+ MXFaaS: Resource Sharing in Serverless Environments for Parallelism and Efficiency   
+ Jovan Stojkovic, Tianyin Xu, Hubertus Franke, Josep Torrellas   
+   
+  2:45 PM – 3:00 PM   
+ CDPU: Co-designing Compression and Decompression Processing Units for Hyperscale Systems   
+ Sagar Karandikar, Aniruddha N. Udipi, Junsun Choi, Joonho Whangbo, Jerry Zhao, Svilen Kanev, Edwin Lim, Jyrki Alakuijala, Vrishab Madduri, Yakun Sophia Shao, Borivoje Nikolic, Krste Asanovic, Parthasarathy Ranganathan   
+   
+  3:00 PM – 3:15 PM   
+ SmartDS: Middle-Tier-centric SmartNIC Enabling Application-aware Message Split in Disaggregated Block Storage   
+ Jie Zhang, Hongjing Huang, Lingjun Zhu, Shu Ma, Dazhong Rong, Yijun Hou, Mo Sun, Chaojie Gu, Peng Cheng, Chao Shi, Zeke Wang   
+   
+  3:15 PM – 3:30 PM   
+ Profiling Hyperscale Data Processing   
+ Abraham Gonzalez, Aasheesh Kolli, Samira Khan, Sihang Liu, Vidushi Dadu, Sagar Karandikar, Jichuan Chang, Krste Asanović, Parthasarathy Ranganathan   
+   
+  3:30 PM – 3:45 PM   
+ F4T: A Fast and Flexible FPGA-based Full-stack TCP Acceleration Framework   
+ Junehyuk Boo, Yujin Chung, Eunjin Baek, Seongmin Na, Changsu Kim, Jangwoo Kim   
+   
+  3:45 PM – 4:00 PM   
+ Nimblock: Scheduling for Fine-grained FPGA Sharing through Virtualization   
+ Meghna Mandava, Paul Reckamp, Deming Chen   
+
+ 4:00 PM – 4:10 PM: Break  
+   
+ 4:15 PM – 5:15 PM: Plenary session  
+   
+ Title: Reflecting on 50 Years of Computing Research, and Future Outlook   
+ Location: Cypress 2  
+   
+ Abstract   
+  The conferences at FCRC represent areas that have laid the foundation for computing. As part of its 50th anniversary celebration, the Computing Research Association (CRA) is organizing this panel to reflect on the contributions of the field by the communities represented by these conferences. The panelists will discuss global computing research and its impact, digging into the evolution of programming languages, computer architecture, parallel and distributed computing, theory, and AI. We will consider how technological advances and external forces -- such as industry and government organizations — shaped this evolution. Given a present where computing is transforming every industry and every facet of daily life, it is a good time to recall the critical steps that brought the field to this point. The panelists will share perspectives on the future by considering what has been learned from computing’s past.  
+ Panelists   
+  Hagit Attiya (Technion), Jack Dongarra (University of Tennessee at Knoxville, 2021 Turing Award Winner), Mary Hall (Director of Kahlert School of Computing at University of Utah), Lizy Kurian John (The University of Texas at Austin), Huan Liu (Arizona State University), Guy L. Steele Jr. (Oracle Labs)  
+
+ 5:30 PM – 9:00 PM: Excursion  
+
+  Jump to Saturday–Sunday  | Monday  | Tuesday  | Wednesday   
+   
+  Expand All  / Collapse All  Paper Sessions   
+   
+   Day 3: Wednesday, June 21  
+   
+ 7:30 AM – 8:45 AM: Continental Breakfast  
+ Location: Cypress 3  
+   
+ 8:45 AM – 10:00 AM  
+   
+ Session 7: Industry Session   
+ Location: Canary  
+   
+ Session Chair: Viji Srinivasan (IBM)   
+ 8:45 AM – 9:00 AM   
+ TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embedding   
+ Norm Jouppi, George Kurian, Sheng Li, Peter Ma, Rahul Nagarajan, Lifeng Nai, Nishant Patil, Suvinay Subramanian, Andy Swin, Brian Towles, Clifford Young, Xiang Zhou, Zongwei Zhou, David A Patterson   
+   
+  9:00 AM – 9:15 AM   
+ A Research Retrospective on AMD’s Exascale Computing Journey   
+ Gabriel H. Loh , Michael J. Schulte , Mike Ignatowski , Vignesh Adhinarayanan , Shaizeen Aga , Derrick Aguren , Varun Agrawal , Ashwin M. Aji , John Alsop , Paul Bauman , Bradford M. Beckmann , Majed Valad Beigi , Sergey Blagodurov , Travis Boraten , Michael Boyer , William Brantley , Noel Chalmers , Shaoming Chen , Kevin Cheng , Michael L. Chu , David Cownie , Nicholas Curtis , Joris del Pino , Nam Duong , Alexandru Dutu , Yasuko Eckert , Christopher Erb , Chip Freitag , Joseph L. Greathouse , Sudhanva Gurumurthi , Anthony Gutierrez , Khaled Hamidouche , Sachin Hossamani , Wei Huang , Mahzabeen Islam , Nuwan Jayasena , John Kalamatianos , Onur Kayiran , Jagadish Kotra , Daniel Lowell , Niti Madan , Abhinandan Majumdar , Nicholas Malaya , Srilatha Manne , Susumu Mashimo , Damon McDougall , Elliott Mednick , Michael Mishkin , Mark Nutter , Indrani Paul , Matthew Poremba , Brandon Potter , Kishore Punniyamurthy , Sooraj Puthoor , Steven E. Raasch , Karthik Rao , Greg Rodgers , Marko Scrbak , Mohammad Seyedzadeh , John Slice , Vilas Sridharan , Rene van Oostrum , Eric van Tassell , Abhinav Vishnu , Samuel Wasmundt , Mark Wilkening , Noah Wolfe , Mark Wyse , Adithya Yalavarti , Dmitri Yudanov , Varun Agrawal   
+   
+  9:15 AM – 9:30 AM   
+ MTIA: First Generation Silicon Targeting Meta’s Recommendation Systems   
+ Amin Firoozshahian , Joel Coburn , Roman Levenstein , Rakesh Nattoji , Ashwin Kamath , Olivia Wu , Gurdeepak Grewal , Harish Aepala , Bhasker Jakka , Bob Dreyer , Adam Hutchin , Utku Diril , Krishnakumar Nair , Ehsan K. Aredestani , Martin Schatz , Yuchen Hao , Rakesh Komuravelli , Kunming Ho , Sameer Abu Asal , Joe Shajrawi , Kevin Quinn , Nagesh Sreedhara , Pankaj Kansal , Willie Wei , Dheepak Jayaraman , Linda Cheng , Pritam Chopda , Eric Wang , Ajay Bikumandla , Arun Karthik Sengottuvel , Krishna Thottempudi , Ashwin Narasimha , Brian Dodds , Cao Gao , Jiyuan Zhang , Mohammed Al-Sanabani , Ana Zehtabioskuie , Jordan Fix , Hangchen Yu , Richard Li , Kaustubh Gondkar , Jack Montgomery , Mike Tsai , Saritha Dwarakapuram , Sanjay Desai , Nili Avidan , Poorvaja Ramani , Karthik Narayanan , Ajit Mathews , Sethu Gopal , Maxim Naumov , Vijay Rao , Krishna Noru , Harikrishna Reddy , Prahlad Venkatapuram , Alexis Bjorlin   
+   
+  9:30 AM – 9:45 AM   
+ With Shared Microexponents, A Little Shifting Goes a Long Way   
+ Bita Darvish Rouhani , Ritchie Zhao , Venmugil Elango , Rasoul Shafipour , Mathew Hall , Maral Mesmakhosroshahi , Ankit More , Levi Melnick , Maximilian Golub , Girish Varatkar , Lai Shao , Gaurav Kolhe , Dimitry Melts , Jasmine Klar , Renee L'Heureux , Matt Perry , Doug Burger , Eric Chung , Zhaoxia (Summer) Deng , Sam Naghshineh , Jongsoo Park , Maxim Naumov   
+   
+  9:45 AM –10:00 AM   
+ Clifford-based Circuit Cutting for Quantum Simulation   
+ Kaitlin N. Smith , Michael A. Perlin , Pranav Gokhale , Paige Frederick , David Owusu-Antwi , Richard Rines , Victory Omole , Frederic Chong   
+
+ 10:10 AM – 11:10 AM  
+   
+ Session 8A: Quantum-II   
+ Location: Canary  
+   
+ Session Chair: Yipeng Huang (Rutgers)   
+ 10:10 AM – 10:25 AM   
+ Enabling High Performance Debugging for Variational Quantum Algorithms using Compressed Sensing   
+ Kun Liu, Tianyi Hao, Swamit Tannu   
+   
+  10:25 AM – 10:40 AM   
+ A Compilation Framework for Photonic One-Way Quantum Computation   
+ Hezi Zhang, Anbang Wu, Yuke Wang, Gushu Li, Hassan Shapourian, Alireza Shabani, Yufei Ding   
+   
+  10:40 AM – 10:55 AM   
+ Parallel Driving for Fast Quantum Computing Under Speed Limits   
+ Evan McKinney, Chao Zhou, Mingkang Xia, Michael Hatridge, Alex K. Jones   
+   
+  10:55 AM – 11:10 AM   
+ Dancing the Quantum Waltz: Compiling Three-Qubit Gates on Four Level Architectures   
+ Andrew Litteken, Lennart Maximilian Seifert, Jason Chadwick, Natalia Nottingham, Tanay Roy, Ziqian Li, David Schuster, Frederic T Chong, Jonathan M Baker   
+
+ Session 8B: Emerging - Edge Sensor   
+ Location: Magnolia 1-3  
+   
+ Session Chair: Hung-Wei Tseng (UC Riverside)   
+ 10:10 AM – 10:25 AM   
+ CAMJ: Enabling Early-Stage Energy Modeling and Architectural Exploration for In-Sensor Visual Computing   
+ Tianrui Ma, Yu Feng, Xuan Zhang, Yuhao Zhu   
+   
+  10:25 AM – 10:40 AM   
+ Architecting Efficient Multi-modal AIoT Systems   
+ Xiaofeng Hou, Jiacheng Liu, Xuehan Tang, Chao Li, Jia Chen, Luhong Liang, Kwang-Ting Cheng, Minyi Guo   
+   
+  10:40 AM – 10:55 AM   
+ A General Framework for Generating Memory- and Power-Efficient Image Processing Accelerators   
+ Nisarg Ujjainkar, Jingwen Leng, Yuhao Zhu   
+   
+  10:55 AM – 11:10 AM   
+ LeCA: In-Sensor Learned Compressive Acquisition for Efficient Machine Vision on the Edge   
+ Tianrui Ma, Adith Jagadish Boloor, Xiangxing Yang, Weidong Cao, Patrick Williams, Nan Sun, Ayan Chakrabarti, Xuan Zhang   
+
+ 11:10 AM – 11:20 AM: Break  
+   
+ 11:20 AM – 12:30 PM: Plenary session  
+   
+ Keynote: Constructing and Deconstructing Trust: Employing Cryptographic Recipe in the ML Domain   
+ Location: Cypress 2  
+   
+ Abstract   
+  For decades now cryptographic tools and models have been developed to transform platforms controlled by worst case adversaries to trustworthy platforms. In this talk I will describe how to use a general cryptographic recipe and specific cryptographic tools to build trust in various phases of the machine learning pipelines or prove that at times it is impossible to achieve. We will touch on achieving verification, robustness and privacy. If time permits, we will show how cryptographic tools can be brought to build trust in the legal domain.  
+ Speaker   
+  Shafi Goldwasser  is Director of the Simons Institute for the Theory of Computing, and Professor of Electrical Engineering and Computer Science at the University of California Berkeley. Goldwasser holds a B.S. Applied Mathematics from Carnegie Mellon University (1979), and M.S. (1981) and Ph.D.(1984) in Computer Science from the University of California Berkeley. Goldwasser's pioneering contributions include the introduction of probabilistic encryption and signatures, zero knowledge protocols, elliptic curve primality testings, multi-prover interactive proofs, hardness of approximation proofs for combinatorial problems, graph property testing, and pseudo deterministic algorithms and proofs. Goldwasser was the recipient of the ACM Turing Award in 2012, the Gödel Prize in 1993 and in 2001, the ACM Grace Murray Hopper Award in 1996, the RSA Award in Mathematics in 1998, the ACM Athena Award for Women in Computer Science in 2008, the Benjamin Franklin Medal in 2010, the IEEE Emanuel R. Piore Award in 2011, the Simons Foundation Investigator Award in 2012, the BBVA Foundation Frontiers of Knowledge Award in 2018, the L'oreal-Unesco award for Women in Science 2021, and the FOCS 2021 and STOC 2021 Test of time Awards. Goldwasser is a member of the NAS, NAE, AAAS, the Russian Academy of Science, the Israeli Academy of Science, and the London Royal Mathematical Society. Goldwasser holds honorary degrees from Ben Gurion University, Bar Ilan University, Carnegie Mellon University, Haifa University, Tel Aviv University, Oxford University, and the University of Waterloo, and has received the UC Berkeley Distinguished Alumnus Award and the Barnard College Medal of Distinction.  
+
+  Jump to Saturday–Sunday  | Monday  | Tuesday  | Wednesday   
+   
+  Expand All  / Collapse All  Paper Sessions   
+   
+  © International Symposium on Computer Architecture   
+ IEEE Privacy Policy

@@ -1,0 +1,160 @@
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    <div id="page-wrapper">
+  <div id="page">
+    <header id="header" class="header" role="banner">
+      <div class="section layout-container clearfix">
+        
+          <div class="clearfix region region-header">
+    <div id="block-bartik-branding" class="clearfix site-branding block block-system block-system-branding-block">
+  
+    
+        <a href="/" rel="home" class="site-branding__logo">
+      <img src="/sites/default/files/nspw-logo-smaller.jpg" alt="Home">
+    </a>
+        <div class="site-branding__text">
+              <div class="site-branding__name">
+          <a href="/" title="Home" rel="home">New Security Paradigms Workshop</a>
+        </div>
+                </div>
+  </div>
+
+  </div>
+
+        
+      </div>
+    </header>
+          <div class="highlighted">
+        <aside class="layout-container section clearfix" role="complementary">
+            <div class="region region-highlighted">
+    <div data-drupal-messages-fallback="" class="hidden"></div>
+
+  </div>
+
+        </aside>
+      </div>
+            <div id="main-wrapper" class="layout-main-wrapper layout-container clearfix">
+      <div id="main" class="layout-main clearfix">
+        
+        <main id="content" class="column main-content" role="main">
+          <section class="section">
+            <a id="main-content" tabindex="-1"></a>
+              <div class="region region-content">
+    <div id="block-bartik-page-title" class="block block-core block-page-title-block">
+  
+    
+      <div class="content">
+      
+
+  <h1 class="title page-title"><span class="field field--name-title field--type-string field--label-hidden">NSPW Code of Conduct and Guidelines for Speakers</span>
+</h1>
+
+
+    </div>
+  </div>
+
+<article role="article" class="node node--type-page node--view-mode-full clearfix">
+  <header>
+    
+          
+      </header>
+  <div class="node__content clearfix">
+    
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>The New Security Paradigms Workshop (NSPW) is committed to providing a safe and enjoyable event experience for all event participants, and a welcoming environment for free discussion of ideas. We do not tolerate harassment of event participants in any form. We wish to publicly thank the ACSA organization for allowing us to adapt their Code of Conduct (which is in turn based on the USENIX Code of Conduct) for our use.</p>
+<h2>What constitutes harassment?</h2>
+<p>Harassment includes—but is not limited to—unwelcome conduct or offensive verbal comments related to gender, gender identity, gender expression, sexual orientation, age, disability, physical appearance, body size, race, national origin, or religion; deliberate intimidation, stalking, following, unwelcome or unauthorized photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Similarly, encouraging others to engage in such behavior is not permitted, nor are false accusations of harassment.</p>
+<h2>Who is covered under this Code of Conduct?</h2>
+<p>All attendees, speakers, sponsors, exhibitors, staff, and volunteers at our events are required to refrain from harassment. NSPW organizers will enforce this Code throughout the event, and expects cooperation from all participants.</p>
+<p>NSPW also requests that event participants refrain from using potentially offensive language in social media posts using our event hashtags.</p>
+<h2>Guidelines for Speakers</h2>
+<p>Speakers are responsible for the content of their presentations, but NSPW requests that speakers be cognizant of potentially offensive actions, language, or imagery, and that they consider whether it is necessary to convey their message. If they do decide to include it, NSPW asks that  they warn the audience, at the beginning of the talk, and provide them with the opportunity to leave the room to avoid seeing or hearing the material.</p>
+<h3>How should I handle an uncomfortable situation at an event?</h3>
+<p><b>Interpersonal Behavior:</b> If it is safe to do so, we encourage you to request that the person stop the unwelcome or harassing behavior. Participants who are asked to stop any such behavior are expected to comply immediately.</p>
+<p>If you are being harassed, notice that someone else is being harassed, or have any related concerns, please contact an NSPW organizer or steering committee member immediately. At the start of the workshop as part of the NSPW social contract, the workshop organizers will clearly identify at least two individuals who will be responsible for handling concerns related to this Code of Conduct. You may also email organizers directly; contact information is available at <a href="https://www.nspw.org/">https://www.nspw.org/</a></p>
+<p><b>Talks and Presentations:</b> NSPW event organizers welcome comments of all kinds about talks and presentations. Attendee comments are taken seriously when planning future events and will be kept in confidence if requested.</p>
+<h3>What happens once a report is made?</h3>
+<p>If an incident of harassment is reported, NSPW organizers will conduct an investigation. If they determine—to the best of their ability, and in their sole discretion—that a participant has violated this Code, they may take any action they deem appropriate, including warning the offender<br>
+ or expulsion from the event with no refund. Under certain circumstances and at their discretion, NSPW may contact hotel security and/or local police. To protect all parties involved, NSPW will generally not make any detailed public statements about Code of Conduct incidents.</p>
+<h2>This is a living document</h2>
+<p>NSPW intends for these policies to meet the needs of our constituents to have a positive event experience, and we welcome comments and suggestions from the community. Please contact NSPW staff onsite or by email if you would like to provide feedback.</p>
+</div>
+      
+  </div>
+</article>
+
+  </div>
+
+          </section>
+        </main>
+                  <div id="sidebar-first" class="column sidebar">
+            <aside class="section" role="complementary">
+                <div class="region region-sidebar-first">
+    
+<nav role="navigation" aria-labelledby="block-mainmenu-2-menu" id="block-mainmenu-2" class="block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-mainmenu-2-menu">Main menu</h2>
+  
+
+        <div class="content">
+            <div class="menu-toggle-target menu-toggle-target-show" id="show-block-mainmenu-2"></div>
+      <div class="menu-toggle-target" id="hide-block-mainmenu-2"></div>
+      <a class="menu-toggle" href="#show-block-mainmenu-2">Show — Main menu</a>
+      <a class="menu-toggle menu-toggle--hide" href="#hide-block-mainmenu-2">Hide — Main menu</a>
+      
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="/" title="NSPW Home" data-drupal-link-system-path="<front>">Home</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/2024" data-drupal-link-system-path="node/143">NSPW 2024</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/2024/cfp" data-drupal-link-system-path="node/146">Call for papers</a>
+              </li>
+                <li class="menu-item">
+        <a href="/2024/dates" data-drupal-link-system-path="node/147">Important Dates</a>
+              </li>
+                <li class="menu-item">
+        <a href="/2024/program" data-drupal-link-system-path="node/148">Program</a>
+              </li>
+                <li class="menu-item">
+        <a href="/2024/accepted" data-drupal-link-system-path="node/145">Accepted papers</a>
+              </li>
+                <li class="menu-item">
+        <a href="/2024/organizers" data-drupal-link-system-path="node/144">Organizers</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/past" title="Past Workshops" data-drupal-link-system-path="node/5">Past Workshops</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/proceedings" title="NSPW Proceedings" data-drupal-link-system-path="node/6">Proceedings</a>
+              </li>
+                <li class="menu-item menu-item--active-trail">
+        <a href="/conduct" data-drupal-link-system-path="node/111" class="is-active">Code of Conduct</a>
+              </li>
+                <li class="menu-item">
+        <a href="/login" data-drupal-link-system-path="user/login">Login</a>
+              </li>
+        </ul>
+  
+
+
+    </div>
+  </nav>
+
+  </div>
+
+            </aside>
+          </div>
+                      </div>
+    </div>
+        <footer class="site-footer">
+      <div class="layout-container">
+                      </div>
+    </footer>
+  </div>
+</div>
+
+  </div>

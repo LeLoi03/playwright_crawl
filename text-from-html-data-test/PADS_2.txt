@@ -1,0 +1,145 @@
+Dr.rer.nat. Philipp Andelfinger  
+ Senior Research Fellow  
+  College of Computing and Data Science  
+  Nanyang Technological University, Singapore  
+   
+  Email: philipp.andelfinger (at) ntu.edu.sg  
+  Google Scholar  Github    
+
+ Publications  
+  
+ 2024  
+   
+ Sampling Policies for Near-Optimal Device Choice in Parallel Simulations on CPU/GPU Platforms | . | Philipp Andelfinger, Alessandro Pellegrini, and Romolo Marotta. | In | International Symposium on Distributed Simulation and Real Time Applications (DS-RT) | , 2024. [ | bib | | | pdf | ] 
+   
+  Automatic Gradient Estimation for Calibrating Crowd Models with Discrete Decision Making | . | Philipp Andelfinger and Justin N. Kreikemeyer. | In | 24th International Conference on Computational Science (ICCS 2024) | , pages 227--241, 2024. [ | bib | | | pdf | ] 
+   
+  Towards Learning Stochastic Population Models by Gradient Descent | . | Justin N. Kreikemeyer, Philipp Andelfinger, and Adelinde Uhrmacher. | In | 38th ACM SIGSIM Principles of Advanced Discrete Simulation (PADS 2024) | , pages 88--92, 2024. [ | bib | | | pdf | ] 
+   
+  Follow the Leader: Alternating CPU/GPU Computations in PDES | . | Romolo Marotta, Alessandro Pellegrini, and Philipp Andelfinger. | In | 38th ACM SIGSIM Principles of Advanced Discrete Simulation (PADS 2024) | , pages 47--51, 2024. [ | bib | | | pdf | ] 
+   
+   2023  
+   
+ Smoothing Methods for Automatic Differentiation Across Conditional Branches | . | Justin N. Kreikemeyer and Philipp Andelfinger. | IEEE Access | , 11:143190--143211, 2023. [ | bib | | | doi | | | http | | | pdf | ] 
+   
+  Validation without Data - Formalizing Stylized Facts of Time Series | . | Pia Wilsdorf, Marian Zuska, Philipp Andelfinger, Florian Peters and Adelinde M. Uhrmacher. | In | Winter Simulation Conference (WSC 2023) | . IEEE Press, 2023. [ | bib | | | http | | | pdf | ] 
+   
+  Zero Lookahead? Zero Problem. The Window Racer Algorithm | . | Philipp Andelfinger, Till Köster, and Adelinde Uhrmacher. | In | Proceedings of the 2023 SIGSIM Conference on Principles of Advanced Discrete Simulation | , SIGSIM-PADS '23. ACM, 2023. | Received Best Paper Award | . [ | bib | | | http | | | pdf | ] 
+   
+  Hybrid Speculative Synchronisation for Parallel Discrete Event Simulation | . | Andrea Piccione, Philipp Andelfinger, and Alessandro Pellegrini. | In | Proceedings of the 2023 SIGSIM Conference on Principles of Advanced Discrete Simulation | , SIGSIM-PADS '23. ACM, 2023. [ | bib | | | http | | | pdf | ] 
+   
+  Spatial Iterative Coordination for Parallel Simulation-based Optimization of Large-scale Traffic Signal Control | . | Wen Jun Tan, Philipp Andelfinger, Wentong Cai, David Eckhoff, and Alois Knoll. | SIMULATION | , 2023. [ | bib | | | http | | | pdf | ] 
+   
+  Synchronous Speculative Simulation of Tightly Coupled Agents in Continuous Time on CPUs and GPUs | . | Philipp Andelfinger and Adelinde Uhrmacher. | SIMULATION | , 2023. [ | bib | | | http | | | pdf | ] 
+   
+   2022  
+   
+ Reinforcement Learning for Intelligent Building Energy Management System Control | . | Olivera Kotevska and Philipp Andelfinger. | Intelligent Data Mining and Analysis in Power and Energy Systems: Models and Applications for Smarter Efficient Power Systems | , pages 371--386, 2022. [ | bib | | | doi | | | http | ] 
+   
+  Towards Differentiable Agent-Based Simulation | . | Philipp Andelfinger. | ACM Transactions on Modeling and Computer Simulation (TOMACS) | , 2022. [ | bib | | | doi | | | http | | | pdf | ] 
+   
+  Advanced Tutorial: Parallel and Distributed Methods for Scalable Discrete Simulation | . | Philipp Andelfinger and Wentong Cai. | In | Proceedings of the Winter Simulation Conference (WSC) | . IEEE, 2022. [ | bib | | | http | | | pdf | ] 
+   
+  Seamless Simulation-Based Verification and Validation of Event-Driven Software Systems | . | Tom Meyer, Philipp Andelfinger, Andreas Ruscheinski, and Adelinde Uhrmacher. | In | Proceedings of the Winter Simulation Conference (WSC) | . IEEE, 2022. [ | bib | | | http | | | pdf | ] 
+   
+  GPU-Accelerated Simulation Ensembles of Stochastic Reaction Networks | . | Till Köster, Philipp Andelfinger, and Adelinde Uhrmacher. | In | Proceedings of the Winter Simulation Conference (WSC) | . IEEE, 2022. [ | bib | | | http | | | pdf | ] 
+   
+  Comparing Speculative Synchronization Algorithms for Continuous-Time Agent-Based Simulations | . | Philipp Andelfinger, Andrea Piccione, Alessandro Pellegrini, and Adelinde Uhrmacher. | In | International Symposium on Distributed Simulation and Real Time Applications (DS-RT) | , 2022. | Received Best Paper Award | . [ | bib | | | pdf | ] 
+   
+   2021  
+   
+ OptCL: A Middleware to Optimise Performance for High Performance Domain-Specific Languages on Heterogeneous Platforms | . | Jiajian Xiao, Philipp Andelfinger, Wentong Cai, David Eckhoff, and Alois Knoll. | In | 21st International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP) | , 2021. [ | bib | | | pdf | ] 
+   
+  Optimistic Parallel Simulation of Tightly Coupled Agents in Continuous Time | . | Philipp Andelfinger and Adelinde Uhrmacher. | In | IEEE/ACM 25th International Symposium on Distributed Simulation and Real Time Applications (DS-RT) | , pages 1--9, 2021. [ | bib | | | http | | | pdf | ] 
+   
+  Differentiable Agent-Based Simulation for Gradient-Guided Simulation-Based Optimization | . | Philipp Andelfinger. | In | Proceedings of the 2021 ACM SIGSIM Conference on Principles of Advanced Discrete Simulation | , pages 27--38, 2021. | Best Paper Award Runner-Up | . [ | bib | | | http | | | pdf | ] 
+   
+  Causality and Consistency of State Update Schemes in Synchronous Agent-based Simulations | . | Wen Jun Tan, Philipp Andelfinger, David Eckhoff, Wentong Cai, and Alois Knoll. | In | Proceedings of the 2021 ACM SIGSIM Conference on Principles of Advanced Discrete Simulation | , pages 57--68, 2021. [ | bib | | | http | | | pdf | ] 
+   
+  Transitioning Spiking Neural Network Simulators to Heterogeneous Hardware | . | Quang Anh Pham Nguyen, Philipp Andelfinger, Wen Jun Tan, Wentong Cai, and Alois Knoll. | ACM Transactions on Modelling and Computer Simulation (TOMACS) | , 31(2), 2021. [ | bib | | | http | | | pdf | ] 
+   
+   2020  
+   
+ Multi-thread State Update Schemes for Microscopic Traffic Simulation | . | Wen Jun Tan, Philipp Andelfinger, Yadong Xu, Wentong Cai, Alois Knoll, and David Eckhoff. | In | Proceedings of the Winter Simulation Conference (WSC) | . IEEE, 2020. | Received Best Applied Paper Award | . [ | bib | | | http | | | pdf | ] 
+   
+  Evaluation of Guidance Systems at Dynamic Public Transport Hubs using Crowd Simulation | . | Michael Wagner, Philipp Andelfinger, Henriette Cornet, Wentong Cai Alois Knoll, and David Eckhoff. | In | Proceedings of the Winter Simulation Conference (WSC) | . IEEE, 2020. [ | bib | | | http | | | pdf | ] 
+   
+  A Passenger Model for Simulating Boarding and Alighting in Spatially Confined Transportation Scenarios | . | Boyi Su, Philipp Andelfinger, Jaeyoung Kwak, David Eckhoff Henriette Cornet, Goran Marinkovic, Wentong Cai, and Alois Knoll. | Journal of Computational Science | , page 101173, 2020. [ | bib | | | http | | | pdf | ] 
+   
+  Pedal to the Bare Metal: Road Traffic Simulation on FPGAs Using High-Level Synthesis | . | Jiajian Xiao, Görkem Kilinç, Philipp Andelfinger, David Eckhoff, Wentong Cai, and Alois Knoll. | In | Proceedings of the 2020 ACM SIGSIM Conference on Principles of Advanced Discrete Simulation | , pages 117--121, 2020. [ | bib | | | http | | | pdf | ] 
+   
+  Fast-Forwarding of Vehicle Clusters in Microscopic Traffic Simulations | . | Philipp Andelfinger, David Eckhoff, Wentong Cai, and Alois Knoll. | In | Proceedings of the 2020 ACM SIGSIM Conference on Principles of Advanced Discrete Simulation | , pages 63--66, 2020. [ | bib | | | http | | | pdf | ] 
+   
+  OpenABLext: An Automatic Code Generation Framework for Agent-Based Simulations on CPU-GPU-FPGA Heterogeneous Platforms | . | Jiajian Xiao, Philipp Andelfinger, Wentong Cai, Paul Richmond Alois Knoll, and David Eckhoff. | Concurrency and Computation: Practice and Experience | , page e5807, 2020. [ | bib | | | http | | | pdf | ] 
+   
+  Fidelity and Performance of State Fast-Forwarding in Microscopic Traffic Simulations | . | Philipp Andelfinger, Yadong Xu, David Eckhoff, Wentong Cai, and Alois Knoll. | ACM Transactions on Modeling and Computer Simulation (TOMACS) | , 30(2), 2020. [ | bib | | | http | | | pdf | ] 
+   
+   2019  
+   
+ Advancing Automatic Code Generation for Agent-Based Simulations on Heterogeneous Hardware | . | Jiajian Xiao, Philipp Andelfinger, Wentong Cai, Paul Richmond Alois Knoll, and David Eckhoff. | In | The International Workshop on Algorithms, Models and Tools for Parallel Computing on Heterogeneous Platforms (HeteroPar) | . Springer 2019. [ | bib | | | pdf | ] 
+   
+  An Agent-Based Model for Evaluating the Boarding and Alighting Efficiency of Autonomous Public Transport Vehicles | . | Boyi Su, Philipp Andelfinger, David Eckhoff, Henriette Cornet Goran Marinkovic, Cai Wentong, and Alois Knoll. | In | Proceedings of the International Conference on Computational Science (ICCS) | , pages 534--547. Springer, June 2019. [ | bib | | | http | | | pdf | ] 
+   
+  From Effects to Causes: Reversible Simulation and Reverse Exploration of Microscopic Traffic Models | . | Philipp Andelfinger, Jordan Ivanchev, David Eckhoff, Wentong Cai and Alois Knoll. | In | Proceedings of the ACM SIGSIM Conference on Principles of Advanced Discrete Simulation (PADS) | , pages 173--184. ACM, 2019. [ | bib | | | http | | | pdf | ] 
+   
+  Transitioning Spiking Neural Network Simulators to Heterogeneous Hardware | . | Quang Anh Pham Nguyen, Philipp Andelfinger, Wentong Cai, and Alois Knoll. | In | Proceedings of the ACM SIGSIM Conference on Principles of Advanced Discrete Simulation (PADS) | , pages 115--126. ACM, 2019. | Nominated for Best Paper Award | . [ | bib | | | http | | | pdf | ] 
+   
+  A Survey on Agent-based Simulation Using Hardware Accelerators | . | Jiajian Xiao, Philipp Andelfinger, David Eckhoff, Wentong Cai, and Alois Knoll. | ACM Computing Surveys (CSUR) | , 51(6):131, 2019. [ | bib | | | http | | | pdf | ] 
+   
+   2018  
+   
+ Exploring Execution Schemes for Agent-Based Traffic Simulation on Heterogeneous Hardware | . | Jiajian Xiao, Philipp Andelfinger, David Eckhoff, Wentong Cai, and Alois Knoll. | In | International Symposium on Distributed Simulation and Real Time Applications (DS-RT) | , pages 243--252, October 2018. | Received Best Paper Award | . [ | bib | | | http | | | pdf | ] 
+   
+  Incremental Calibration of Seat Selection Preferences in Agent-Based Simulations of Public Transport Scenarios | . | Philipp Andelfinger, Daniel Zehe, Yihao Chen, Boyi Su, David Eckhoff, Wentong Cai, and Alois Knoll. | In | Proceedings of the Winter Simulation Conference (WSC) | , pages 833--844. IEEE, December 2018. [ | bib | | | http | | | pdf | ] 
+   
+  Model Preemption Based on Dynamic Analysis of Simulation Data To Accelerate Traffic Light Timing Optimisation | . | Philipp Andelfinger, Sajeev Udayakumar, David Eckhoff, Wentong Cai and Alois Knoll. | In | Proceedings of the Winter Simulation Conference (WSC) | , pages 652--663. IEEE, December 2018. [ | bib | | | http | | | pdf | ] 
+   
+  Evaluating and Optimizing Component-Based Robot Architectures using Network Simulation | . | Daniel Krauß, Philipp Andelfinger, Fabian Paus, Nikolaus Vahrenkamp, and Tamim Asfour. | In | Proceedings of the Winter Simulation Conference (WSC) | , pages 1061--1072. IEEE, December 2018. [ | bib | | | http | | | pdf | ] 
+   
+  Fast-Forwarding Agent States to Accelerate Microscopic Traffic Simulations | . | Philipp Andelfinger, Yadong Xu, Wentong Cai, David Eckhoff, and Alois Knoll. | In | Proceedings of the ACM SIGSIM Conference on Principles of Advanced Discrete Simulation | , SIGSIM-PADS, pages 113--124. ACM, 2018. | Received Best Paper Award | . [ | bib | | | http | | | pdf | ] 
+   
+  Evaluation of Conflict Resolution Methods for Agent-Based Simulations on the GPU | . | Mingyu Yang, Philipp Andelfinger, Wentong Cai, and Alois Knoll. | In | Proceedings of the 2018 ACM SIGSIM Conference on Principles of Advanced Discrete Simulation | , SIGSIM-PADS, pages 129--132. ACM, 2018. [ | bib | | | http | | | pdf | ] 
+   
+  Enabling Cross-Event Optimization in Discrete-Event Simulation through Compile-Time Event Batching | . | Marc Leinweber, Hannes Hartenstein, and Philipp Andelfinger. | arXiv preprint arXiv:1805.04303 | , 2018. [ | bib | | | http | | | pdf | ] 
+   
+   2017  
+   
+ Performance Evaluation of Priority Queues for Fine-Grained Parallel Tasks on GPUs | . | Nicolai Baudis, Florian Jacob, and Philipp Andelfinger. | In | 2017 IEEE 25th International Symposium on Modeling Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS) | , pages 1--11, 2017. [ | bib | | | doi | | | pdf | ] 
+   
+  Time Warp on the GPU: Design and Assessment | . | Xinhu Liu and Philipp Andelfinger. | In | Proceedings of the 2017 ACM SIGSIM Conference on Principles of Advanced Discrete Simulation | , SIGSIM-PADS, pages 109--120. ACM, 2017. [ | bib | | | http | | | pdf | ] 
+   
+   2016  
+   
+ Identifying and Harnessing Concurrency for Parallel and Distributed Network Simulation | . | Philipp Andelfinger. | PhD thesis, Karlsruhe Institute of Technology, Germany, 2016. [ | bib | | | doi | | | pdf | ] 
+   
+  Timing Analysis for Inferring the Topology of the Bitcoin Peer-to-Peer Network | . | Till Neudecker, Philipp Andelfinger, and Hannes Hartenstein. | In | 2016 International IEEE Conference on Advanced and Trusted Computing (ATC) | , pages 358--367, July 2016. | Received Best Paper Award | . [ | bib | | | doi | | | pdf | ] 
+   
+  Consideration of Values in the Design of Access Control Systems | . | Till Neudecker, Arsen Hayrapetyan, Alexander Degitz, and Philipp Andelfinger. | In | Informatik | . Gesellschaft für Informatik eV, 2016. [ | bib | | | pdf | ] 
+   
+   2015  
+   
+ Model-Based Concurrency Analysis of Network Simulations | . | Philipp Andelfinger and Hannes Hartenstein. | In | Proceedings of the 3rd ACM SIGSIM Conference on Principles of Advanced Discrete Simulation | , SIGSIM PADS, pages 223--234. ACM, 2015. [ | bib | | | http | | | pdf | ] 
+   
+  A Simulation Model for Analysis of Attacks on the Bitcoin Peer-to-Peer Network | . | Till Neudecker, Philipp Andelfinger, and Hannes Hartenstein. | In | 2015 IFIP/IEEE International Symposium on Integrated Network Management (IM), Workshop on Security for Emerging Distributed Network Technologies (DISSECT) | , pages 1327--1332, May 2015. | Received Best Paper Award | . [ | bib | | | doi | | | pdf | ] 
+   
+   2014  
+   
+ Exploiting the Parallelism of Large-Scale Application-Layer Networks by Adaptive GPU-based Simulation | . | Philipp Andelfinger and Hannes Hartenstein. | In | Proceedings of the Winter Simulation Conference 2014 | , pages 3471--3482, Dec 2014. [ | bib | | | doi | | | pdf | ] 
+   
+  Parallelism Potentials in Distributed Simulations of Kademlia-based Peer-to-Peer Networks | . | Philipp Andelfinger, Konrad Jünemann, and Hannes Hartenstein. | In | Proceedings of the 7th International ICST Conference on Simulation Tools and Techniques | , SIMUTools, pages 41--50. ICST (Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering), 2014. [ | bib | | | http | | | pdf | ] 
+   
+  From Implicit to Explicit Knowledge: A Tool for Preserving and Sharing Mental Links in Science | . | Philipp Andelfinger, Matthias Keller, Holger Kühner, and Hannes Hartenstein. | In | Proceedings of the Companion Publication of the 17th ACM Conference on Computer Supported Cooperative Work & Social Computing | , CSCW Companion, pages 129--132. ACM, 2014. [ | bib | | | http | | | pdf | ] 
+   
+   2013  
+   
+ Towards Performance Evaluation of Conservative Distributed Discrete-Event Network Simulations Using Second-Order Simulation | . | Philipp Andelfinger and Hannes Hartenstein. | In | Proceedings of the 1st ACM SIGSIM Conference on Principles of Advanced Discrete Simulation | , SIGSIM PADS, pages 221--230. ACM, 2013. [ | bib | | | http | | | pdf | ] 
+   
+   2011  
+   
+ Towards a Basic DHT Service: Analyzing Network Characteristics of a Widely Deployed DHT | . | Konrad Jünemann, Philipp Andelfinger, and Hannes Hartenstein. | In | 2011 Proceedings of 20th International Conference on Computer Communications and Networks (ICCCN) | , pages 1--7, July 2011. [ | bib | | | doi | | | pdf | ] 
+   
+  GPU-Based Architectures and Their Benefit for Accurate and Efficient Wireless Network Simulations | . | Philipp Andelfinger, Jens Mittag, and Hannes Hartenstein. | In | 2011 IEEE 19th Annual International Symposium on Modelling Analysis, and Simulation of Computer and Telecommunication Systems | , pages 421--424, July 2011. [ | bib | | | doi | | | pdf | ] 
+   
+   2010  
+   
+ BitMON: A Tool for Automated Monitoring of the BitTorrent DHT | . | Konrad Jünemann, Philipp Andelfinger, Jochen Dinger, and Hannes Hartenstein. | In | 2010 IEEE Tenth International Conference on Peer-to-Peer Computing (P2P) | , pages 1--2, Aug 2010. [ | bib | | | doi | | | pdf | ]

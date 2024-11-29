@@ -1,0 +1,1635 @@
+<div class="site dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    
+<div class="site-container js-site-container">
+  <div class="site-content">
+    <input aria-label="Open main menu" type="checkbox" class="header-toggle" id="header-toggle">
+<label for="header-toggle" class="header-toggle__label">
+  <span class="header-toggle__text">Menu</span>
+</label>
+      
+
+<header class="header js-header" tabindex="-1">
+	<div class="header__wrapper js-header__wrapper">
+		<div class="header__inner js-header__inner">
+			<div class="header__top">
+									  
+
+
+
+
+
+
+<ul class="utility-bar utility-bar--navbar" role="menubar">
+			<li class="utility-bar__item" role="menuitem">
+			
+
+<div id="button_2" class="rs_skip rsbtn rs_preserve content-reader">
+  <a rel="nofollow" role="button" class="rs_skip rsbtn_play content-reader__link" title="Listen with ReadSpeaker" href="//app-eu.readspeaker.com/cgi-bin/rsent?customerid=9467&amp;lang=en_uk&amp;readclass=region--content&amp;url=https%3A%2F%2Fwww.gu.se%2Fen%2Fevent%2Fhai-2023-international-conference-on-human-agent-interaction" aria-label="Listen with ReadSpeaker">
+      <svg focusable="false" aria-hidden="true" class="icon u-block">
+    <use xlink:href="#icon-ear"></use>
+  </svg>
+    Listen
+  </a>
+</div>
+
+
+		</li>
+			<li class="utility-bar__item" role="menuitem">
+			  <div class="region region--spaces-contact-link">
+    <div>
+  
+  
+      <a class="contact-link" href="/en/contact" aria-label="Contact">
+    <svg focusable="false" aria-hidden="true" class="icon u-block">
+    <use xlink:href="#icon-chat"></use>
+  </svg>
+  Contact
+</a>
+
+  </div>
+
+  </div>
+
+
+		</li>
+			<li class="utility-bar__item" role="menuitem">
+			  <div class="region region--language-selector">
+    <div class="language-switcher-language-url language-switcher" role="navigation" aria-label="Language selector">
+  
+    
+      <ul class="links language-switcher__list"><li><a href="/evenemang/hai-2023-international-conference-on-human-agent-interaction" class="language-link js-language-link" hreflang="sv" data-drupal-link-system-path="node/123888"><svg class="icon u-block"><use xlink:href="#icon-globe"></use></svg>Svenska</a></li><li><a href="/en/event/hai-2023-international-conference-on-human-agent-interaction" class="language-link js-language-link is-active" hreflang="en" data-drupal-link-system-path="node/123888"><svg class="icon u-block"><use xlink:href="#icon-globe"></use></svg>International website</a></li></ul>
+  </div>
+
+  </div>
+
+
+		</li>
+	</ul>
+					<button class="header-close js-header-close">
+    <svg focusable="false" aria-hidden="true" class="icon icon--navbar-toggle u-block">
+    <use xlink:href="#icon-close"></use>
+  </svg>
+  <span class="visually-hidden">Close main menu</span>
+</button>
+							</div>
+			<div class="header__bottom">
+				  <div class="region region--navbar">
+    <div id="block-gu-ruby-branding" class="u-max-width-full">
+  
+    
+        <a href="/en" id="logotype" class="brand brand--plate brand--navbar u-hidden u-flex-large-up" aria-label="Startpage - University of Gothenburg">
+      <div class="brand__logo">
+              <svg role="img" aria-label="University of Gothenburg">
+          <use xlink:href="#logo-en"></use>
+        </svg>
+          </div>
+    </a>
+  </div>
+
+<div class="space-menu space-menu--primary u-mb-100">
+  
+    
+      <div class="space-menu__wrapper space-menu__wrapper--primary js-space-menu__wrapper--primary is-active">
+      <div class="space-menu__title">
+        <a href="/en" class="space-menu__link" hreflang="en" data-drupal-link-system-path="node/1273">University of Gothenburg</a>
+              </div>
+      <nav id="block-primary-space-menu" aria-label="Main menu - University of Gothenburg" class="space-menu__nav">
+        <nav aria-label="Main menu" id="menu__main" class="space-menu__nav">
+
+
+  
+  
+  
+            <ul class="menu menu--main js-menu--main">
+                                          <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg" class="menu__link menu__link--main js-menu__link--main menu__link--parent" data-drupal-link-system-path="node/2">Study</a>
+                                              <span>
+                  <button class="menu__toggle js-menu__toggle " aria-haspopup="true" aria-expanded="false">
+                    <svg focusable="false" aria-hidden="true" class="icon icon--chevron u-ml-0 u-mr-0">
+    <use xlink:href="#icon-chevron"></use>
+  </svg>
+                  <span class="visually-hidden">Submenu for Study</span>
+                </button>
+                </span>
+                          </div>
+                            
+  
+  
+            <ul class="menu__submenu menu__submenu--main js-menu__submenu--main">
+                                          <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/study-options" class="menu__link menu__link--main js-menu__link--main menu__link--parent" data-drupal-link-system-path="node/2226">Programmes and courses</a>
+                                              <span>
+                  <button class="menu__toggle js-menu__toggle " aria-haspopup="true" aria-expanded="false">
+                    <svg focusable="false" aria-hidden="true" class="icon icon--chevron u-ml-0 u-mr-0">
+    <use xlink:href="#icon-chevron"></use>
+  </svg>
+                  <span class="visually-hidden">Submenu for Programmes and courses</span>
+                </button>
+                </span>
+                          </div>
+                            
+  
+  
+            <ul class="menu__submenu menu__submenu--main js-menu__submenu--main">
+                                          <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/study-options/masters-programmes" title="All of our Master's Programmes taught in English and open to international applicants." class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/691">Master's programmes</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/study-options/bachelors-programmes" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/1292">Bachelor's programmes</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/study-options/double-and-joint-degrees" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/2308">Double and joint degrees</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/study-options/sustainability-labelled-programmes" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/70239">Sustainability labelled programmes</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-gothenburg/study-options/find-courses" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="study-gothenburg/study-options/find-courses">Find courses</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-gothenburg/study-options/find-syllabus-and-reading-list" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="study-gothenburg/study-options/find-syllabus-and-reading-list">Find syllabus and reading list</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/study-options/study-swedish" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/2288">Study Swedish</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/study-options/study-counselling" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/2979">Study counselling</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/study-options/university-studies-in-sweden" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/2748">University studies in Sweden</a>
+                          </div>
+                      </li>
+            </ul>
+  
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/apply" class="menu__link menu__link--main js-menu__link--main menu__link--parent" data-drupal-link-system-path="node/90">Apply</a>
+                                              <span>
+                  <button class="menu__toggle js-menu__toggle " aria-haspopup="true" aria-expanded="false">
+                    <svg focusable="false" aria-hidden="true" class="icon icon--chevron u-ml-0 u-mr-0">
+    <use xlink:href="#icon-chevron"></use>
+  </svg>
+                  <span class="visually-hidden">Submenu for Apply</span>
+                </button>
+                </span>
+                          </div>
+                            
+  
+  
+            <ul class="menu__submenu menu__submenu--main js-menu__submenu--main">
+                                          <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/apply/apply-for-masters-programme" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/692">Apply for Master's programme</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/apply/apply-for-bachelors-programme" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/693">Apply for Bachelor's programme</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/apply/apply-for-free-standing-courses" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/685">Apply for courses</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/apply/tuition-fees" class="menu__link menu__link--main js-menu__link--main menu__link--parent" data-drupal-link-system-path="node/686">Tuition fees</a>
+                                              <span>
+                  <button class="menu__toggle js-menu__toggle " aria-haspopup="true" aria-expanded="false">
+                    <svg focusable="false" aria-hidden="true" class="icon icon--chevron u-ml-0 u-mr-0">
+    <use xlink:href="#icon-chevron"></use>
+  </svg>
+                  <span class="visually-hidden">Submenu for Tuition fees</span>
+                </button>
+                </span>
+                          </div>
+                            
+  
+  
+            <ul class="menu__submenu menu__submenu--main js-menu__submenu--main">
+                                          <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/apply/tuition-fees/tuition-fees-terms-and-conditions" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/76730">Tuition fees terms and conditions</a>
+                          </div>
+                      </li>
+            </ul>
+  
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/apply/scholarships-for-fee-paying-students" class="menu__link menu__link--main js-menu__link--main menu__link--parent" data-drupal-link-system-path="node/17207">Scholarships for fee-paying students</a>
+                                              <span>
+                  <button class="menu__toggle js-menu__toggle " aria-haspopup="true" aria-expanded="false">
+                    <svg focusable="false" aria-hidden="true" class="icon icon--chevron u-ml-0 u-mr-0">
+    <use xlink:href="#icon-chevron"></use>
+  </svg>
+                  <span class="visually-hidden">Submenu for Scholarships for fee-paying students</span>
+                </button>
+                </span>
+                          </div>
+                            
+  
+  
+            <ul class="menu__submenu menu__submenu--main js-menu__submenu--main">
+                                          <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/apply/scholarships-for-fee-paying-students/axel-adler-scholarship" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/688">Axel Adler Scholarship</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/apply/scholarships-for-fee-paying-students/scholarships-for-students-at-the-school-of-business-economics-and-law" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/3265">Scholarships for students at the School of Business, Economics and Law</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/apply/scholarships-for-fee-paying-students/si-scholarship-pioneering-women-in-stem" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/149195">SI Scholarship Pioneering Women in STEM</a>
+                          </div>
+                      </li>
+            </ul>
+  
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/apply/events-for-prospective-students" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/64289">Webinars and events</a>
+                          </div>
+                      </li>
+            </ul>
+  
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/exchange-student" class="menu__link menu__link--main js-menu__link--main menu__link--parent" data-drupal-link-system-path="node/117">Exchange student</a>
+                                              <span>
+                  <button class="menu__toggle js-menu__toggle " aria-haspopup="true" aria-expanded="false">
+                    <svg focusable="false" aria-hidden="true" class="icon icon--chevron u-ml-0 u-mr-0">
+    <use xlink:href="#icon-chevron"></use>
+  </svg>
+                  <span class="visually-hidden">Submenu for Exchange student</span>
+                </button>
+                </span>
+                          </div>
+                            
+  
+  
+            <ul class="menu__submenu menu__submenu--main js-menu__submenu--main">
+                                          <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/exchange-student/eight-steps-of-becoming-an-exchange-student" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/1554">Become an exchange student</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/exchange-student/apply-for-exchange-studies" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/1254">Apply for exchange studies</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/exchange-student/courses" class="menu__link menu__link--main js-menu__link--main menu__link--parent" data-drupal-link-system-path="study-in-gothenburg/exchange-student/courses">Find courses for exchange students</a>
+                                              <span>
+                  <button class="menu__toggle js-menu__toggle " aria-haspopup="true" aria-expanded="false">
+                    <svg focusable="false" aria-hidden="true" class="icon icon--chevron u-ml-0 u-mr-0">
+    <use xlink:href="#icon-chevron"></use>
+  </svg>
+                  <span class="visually-hidden">Submenu for Find courses for exchange students</span>
+                </button>
+                </span>
+                          </div>
+                            
+  
+  
+            <ul class="menu__submenu menu__submenu--main js-menu__submenu--main">
+                                          <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/exchange-student/courses/avoid-time-table-clashes" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/1282">Avoid time-table clashes</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/exchange-student/courses/how-to-apply-for-exchange-courses" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/1284">How to apply for courses</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/exchange-student/courses/faculty-specific-information" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/45386">Faculty specific information</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/exchange-student/courses/courses-taught-in-swedish-for-exchange-students" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/1480">Courses taught in Swedish</a>
+                          </div>
+                      </li>
+            </ul>
+  
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/exchange-student/summer-school-for-sustainability" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/1481">Summer school for sustainability</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/exchange-student/contact-my-international-coordinator" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/1521">Contact my international coordinator</a>
+                          </div>
+                      </li>
+            </ul>
+  
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/before-you-arrive" class="menu__link menu__link--main js-menu__link--main menu__link--parent" data-drupal-link-system-path="node/96">Before you arrive</a>
+                                              <span>
+                  <button class="menu__toggle js-menu__toggle " aria-haspopup="true" aria-expanded="false">
+                    <svg focusable="false" aria-hidden="true" class="icon icon--chevron u-ml-0 u-mr-0">
+    <use xlink:href="#icon-chevron"></use>
+  </svg>
+                  <span class="visually-hidden">Submenu for Before you arrive</span>
+                </button>
+                </span>
+                          </div>
+                            
+  
+  
+            <ul class="menu__submenu menu__submenu--main js-menu__submenu--main">
+                                          <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/before-you-arrive/deferring-your-studies" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/1506">Deferring your studies</a>
+                          </div>
+                      </li>
+            </ul>
+  
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/campus-and-student-life" class="menu__link menu__link--main js-menu__link--main menu__link--parent" data-drupal-link-system-path="node/91">Campus and student life</a>
+                                              <span>
+                  <button class="menu__toggle js-menu__toggle " aria-haspopup="true" aria-expanded="false">
+                    <svg focusable="false" aria-hidden="true" class="icon icon--chevron u-ml-0 u-mr-0">
+    <use xlink:href="#icon-chevron"></use>
+  </svg>
+                  <span class="visually-hidden">Submenu for Campus and student life</span>
+                </button>
+                </span>
+                          </div>
+                            
+  
+  
+            <ul class="menu__submenu menu__submenu--main js-menu__submenu--main">
+                                          <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/campus-and-student-life/academic-calendar" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/1642">Academic calendar</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/campus-and-student-life/introduction-days" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/2987">Introduction Days</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/campus-and-student-life/campus-and-facilities" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/3010">Campus and facilities</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/campus-and-student-life/exchange-opportunities" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/1789">Exchange opportunities</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/campus-and-student-life/student-services-and-support" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/1787">Student services</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/campus-and-student-life/student-testimonials" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/35851">Student testimonials</a>
+                          </div>
+                      </li>
+            </ul>
+  
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/after-your-studies" class="menu__link menu__link--main js-menu__link--main menu__link--parent" data-drupal-link-system-path="node/93">After your studies</a>
+                                              <span>
+                  <button class="menu__toggle js-menu__toggle " aria-haspopup="true" aria-expanded="false">
+                    <svg focusable="false" aria-hidden="true" class="icon icon--chevron u-ml-0 u-mr-0">
+    <use xlink:href="#icon-chevron"></use>
+  </svg>
+                  <span class="visually-hidden">Submenu for After your studies</span>
+                </button>
+                </span>
+                          </div>
+                            
+  
+  
+            <ul class="menu__submenu menu__submenu--main js-menu__submenu--main">
+                                          <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/after-your-studies/getting-your-degree" class="menu__link menu__link--main js-menu__link--main menu__link--parent" data-drupal-link-system-path="node/2982">Getting your degree</a>
+                                              <span>
+                  <button class="menu__toggle js-menu__toggle " aria-haspopup="true" aria-expanded="false">
+                    <svg focusable="false" aria-hidden="true" class="icon icon--chevron u-ml-0 u-mr-0">
+    <use xlink:href="#icon-chevron"></use>
+  </svg>
+                  <span class="visually-hidden">Submenu for Getting your degree</span>
+                </button>
+                </span>
+                          </div>
+                            
+  
+  
+            <ul class="menu__submenu menu__submenu--main js-menu__submenu--main">
+                                          <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/after-your-studies/getting-your-degree/main-fields-of-study" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/122700">Main fields of study</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/after-your-studies/getting-your-degree/qualifications-in-the-fine-applied-and-performing-arts" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/123375">Qualifications in the fine, applied and performing arts</a>
+                          </div>
+                      </li>
+            </ul>
+  
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/after-your-studies/working-in-sweden" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/17022">Working in Sweden</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/study-in-gothenburg/after-your-studies/alumni" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/2693">Alumni</a>
+                          </div>
+                      </li>
+            </ul>
+  
+                      </li>
+            </ul>
+  
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/research" class="menu__link menu__link--main js-menu__link--main menu__link--parent" data-drupal-link-system-path="node/9">Research</a>
+                                              <span>
+                  <button class="menu__toggle js-menu__toggle " aria-haspopup="true" aria-expanded="false">
+                    <svg focusable="false" aria-hidden="true" class="icon icon--chevron u-ml-0 u-mr-0">
+    <use xlink:href="#icon-chevron"></use>
+  </svg>
+                  <span class="visually-hidden">Submenu for Research</span>
+                </button>
+                </span>
+                          </div>
+                            
+  
+  
+            <ul class="menu__submenu menu__submenu--main js-menu__submenu--main">
+                                          <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/research/find-research" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="research/find-research">Find research</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/research/excellent-research-0" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/143030">Excellent research</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/research/strategic-research-areas" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/147649">Strategic research areas</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/research/research-ethics" class="menu__link menu__link--main js-menu__link--main menu__link--parent" data-drupal-link-system-path="node/61573">Research ethics</a>
+                                              <span>
+                  <button class="menu__toggle js-menu__toggle " aria-haspopup="true" aria-expanded="false">
+                    <svg focusable="false" aria-hidden="true" class="icon icon--chevron u-ml-0 u-mr-0">
+    <use xlink:href="#icon-chevron"></use>
+  </svg>
+                  <span class="visually-hidden">Submenu for Research ethics</span>
+                </button>
+                </span>
+                          </div>
+                            
+  
+  
+            <ul class="menu__submenu menu__submenu--main js-menu__submenu--main">
+                                          <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/research/research-ethics/animal-testing-at-the-university-of-gothenburg" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/3334">Animal testing at the University</a>
+                          </div>
+                      </li>
+            </ul>
+  
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/research/research-infrastructure" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/147626">Research infrastructure</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/research/publishing-patterns-at-the-university-of-gothenburg" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/65765">Publishing patterns at the University of Gothenburg</a>
+                          </div>
+                      </li>
+            </ul>
+  
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/doctoral-studies" class="menu__link menu__link--main js-menu__link--main menu__link--parent" data-drupal-link-system-path="node/58">Doctoral studies</a>
+                                              <span>
+                  <button class="menu__toggle js-menu__toggle " aria-haspopup="true" aria-expanded="false">
+                    <svg focusable="false" aria-hidden="true" class="icon icon--chevron u-ml-0 u-mr-0">
+    <use xlink:href="#icon-chevron"></use>
+  </svg>
+                  <span class="visually-hidden">Submenu for Doctoral studies</span>
+                </button>
+                </span>
+                          </div>
+                            
+  
+  
+            <ul class="menu__submenu menu__submenu--main js-menu__submenu--main">
+                                          <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/doctoral-studies/applications-and-admission" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/128">Applications and admission</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/doctoral-studies/eligibility-and-rules" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/133">Eligibility and rules</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/doctoral-studies/doctoral-courses" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/130">Doctoral courses</a>
+                          </div>
+                      </li>
+            </ul>
+  
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/about-the-university" class="menu__link menu__link--main js-menu__link--main menu__link--parent" data-drupal-link-system-path="node/13">About</a>
+                                              <span>
+                  <button class="menu__toggle js-menu__toggle " aria-haspopup="true" aria-expanded="false">
+                    <svg focusable="false" aria-hidden="true" class="icon icon--chevron u-ml-0 u-mr-0">
+    <use xlink:href="#icon-chevron"></use>
+  </svg>
+                  <span class="visually-hidden">Submenu for About</span>
+                </button>
+                </span>
+                          </div>
+                            
+  
+  
+            <ul class="menu__submenu menu__submenu--main js-menu__submenu--main">
+                                          <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/contact" class="menu__link menu__link--main js-menu__link--main menu__link--parent" data-drupal-link-system-path="node/59">Contact</a>
+                                              <span>
+                  <button class="menu__toggle js-menu__toggle " aria-haspopup="true" aria-expanded="false">
+                    <svg focusable="false" aria-hidden="true" class="icon icon--chevron u-ml-0 u-mr-0">
+    <use xlink:href="#icon-chevron"></use>
+  </svg>
+                  <span class="visually-hidden">Submenu for Contact</span>
+                </button>
+                </span>
+                          </div>
+                            
+  
+  
+            <ul class="menu__submenu menu__submenu--main js-menu__submenu--main">
+                                          <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/contact/servicecenter" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/134">Servicecenter</a>
+                          </div>
+                      </li>
+            </ul>
+  
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/about/find-organisation" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="about/find-organisation">Find organisation</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/about/find-staff" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="about/find-staff">Find staff</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/about-the-university/organisation" class="menu__link menu__link--main js-menu__link--main menu__link--parent" data-drupal-link-system-path="node/1975">Organisation</a>
+                                              <span>
+                  <button class="menu__toggle js-menu__toggle " aria-haspopup="true" aria-expanded="false">
+                    <svg focusable="false" aria-hidden="true" class="icon icon--chevron u-ml-0 u-mr-0">
+    <use xlink:href="#icon-chevron"></use>
+  </svg>
+                  <span class="visually-hidden">Submenu for Organisation</span>
+                </button>
+                </span>
+                          </div>
+                            
+  
+  
+            <ul class="menu__submenu menu__submenu--main js-menu__submenu--main">
+                                          <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/about-the-university/organisation/the-university-board" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/133861">The University Board</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/about-the-university/organisation/facts-and-figures" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/65">Facts and figures</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/about-the-university/organisation/policy-rules-and-plans" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/135187">Styrdokument</a>
+                          </div>
+                      </li>
+            </ul>
+  
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/about-the-university/vision-and-values" class="menu__link menu__link--main js-menu__link--main menu__link--parent" data-drupal-link-system-path="node/18">Vision and values</a>
+                                              <span>
+                  <button class="menu__toggle js-menu__toggle " aria-haspopup="true" aria-expanded="false">
+                    <svg focusable="false" aria-hidden="true" class="icon icon--chevron u-ml-0 u-mr-0">
+    <use xlink:href="#icon-chevron"></use>
+  </svg>
+                  <span class="visually-hidden">Submenu for Vision and values</span>
+                </button>
+                </span>
+                          </div>
+                            
+  
+  
+            <ul class="menu__submenu menu__submenu--main js-menu__submenu--main">
+                                          <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/about-the-university/vision-and-values/vision-2021-2030-a-university-for-the-world" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/50742">Vision 2021-2030: A University for the World</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/about-the-university/vision-and-values/sustainable-development" class="menu__link menu__link--main js-menu__link--main menu__link--parent" data-drupal-link-system-path="node/108793">Sustainable development</a>
+                                              <span>
+                  <button class="menu__toggle js-menu__toggle " aria-haspopup="true" aria-expanded="false">
+                    <svg focusable="false" aria-hidden="true" class="icon icon--chevron u-ml-0 u-mr-0">
+    <use xlink:href="#icon-chevron"></use>
+  </svg>
+                  <span class="visually-hidden">Submenu for Sustainable development</span>
+                </button>
+                </span>
+                          </div>
+                            
+  
+  
+            <ul class="menu__submenu menu__submenu--main js-menu__submenu--main">
+                                          <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/about-the-university/sustainable-development/sustainability-results-2023" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/46270">Sustainability results 2023</a>
+                          </div>
+                      </li>
+            </ul>
+  
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/about-the-university/vision-and-values/we-build-the-future-citycampus" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/144078">We build the future citycampus</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/about-the-university/vision-and-values/quality-assurance-in-education-and-research" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/135355">Quality assurance in education and research</a>
+                          </div>
+                      </li>
+            </ul>
+  
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/work-at-the-university-of-gothenburg" class="menu__link menu__link--main js-menu__link--main menu__link--parent" data-drupal-link-system-path="node/16">Work at the University</a>
+                                              <span>
+                  <button class="menu__toggle js-menu__toggle " aria-haspopup="true" aria-expanded="false">
+                    <svg focusable="false" aria-hidden="true" class="icon icon--chevron u-ml-0 u-mr-0">
+    <use xlink:href="#icon-chevron"></use>
+  </svg>
+                  <span class="visually-hidden">Submenu for Work at the University</span>
+                </button>
+                </span>
+                          </div>
+                            
+  
+  
+            <ul class="menu__submenu menu__submenu--main js-menu__submenu--main">
+                                          <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/work-at-the-university-of-gothenburg/vacancies" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/4267">Vacancies</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/work-at-the-university-of-gothenburg/employment-benefits" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/14394">Employment benefits</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/work-at-the-university-of-gothenburg/how-to-apply-for-a-position" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/14515">How to apply for a position</a>
+                          </div>
+                      </li>
+            </ul>
+  
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/about-the-university/collaborate-with-us" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/143744">Collaborate with us</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/about-the-university/networks-and-partner-universities" class="menu__link menu__link--main js-menu__link--main menu__link--parent" data-drupal-link-system-path="node/731">Networks and partner universities</a>
+                                              <span>
+                  <button class="menu__toggle js-menu__toggle " aria-haspopup="true" aria-expanded="false">
+                    <svg focusable="false" aria-hidden="true" class="icon icon--chevron u-ml-0 u-mr-0">
+    <use xlink:href="#icon-chevron"></use>
+  </svg>
+                  <span class="visually-hidden">Submenu for Networks and partner universities</span>
+                </button>
+                </span>
+                          </div>
+                            
+  
+  
+            <ul class="menu__submenu menu__submenu--main js-menu__submenu--main">
+                                          <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/about-the-university/networks-and-partner-universities/eutopia" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/128413">EUTOPIA</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/about-the-university/networks-and-partner-universities/the-sdg-8-initiative" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/55591">The SDG 8 Initiative</a>
+                          </div>
+                      </li>
+            </ul>
+  
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/about-the-university/ranking-and-recognitions" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/21282">Ranking and recognitions</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/about-the-university/history-of-the-university-of-gothenburg" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/64">History of the University of Gothenburg</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/about-the-university/ceremonies-and-traditions" class="menu__link menu__link--main js-menu__link--main menu__link--parent" data-drupal-link-system-path="node/127081">Ceremonies and traditions</a>
+                                              <span>
+                  <button class="menu__toggle js-menu__toggle " aria-haspopup="true" aria-expanded="false">
+                    <svg focusable="false" aria-hidden="true" class="icon icon--chevron u-ml-0 u-mr-0">
+    <use xlink:href="#icon-chevron"></use>
+  </svg>
+                  <span class="visually-hidden">Submenu for Ceremonies and traditions</span>
+                </button>
+                </span>
+                          </div>
+                            
+  
+  
+            <ul class="menu__submenu menu__submenu--main js-menu__submenu--main">
+                                          <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/about-the-university/ceremonies-and-traditions/common-questions-about-ceremonies-and-festivities" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/126714">Common questions about ceremonies and festivities</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/about-the-university/ceremonies-and-traditions/honorary-doctors-promotors-and-frequently-asked-questions" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/126566">Hedersdoktorer, promotorer och värdar</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/about-the-university/ceremonies-and-traditions/prizes-awards-and-honors" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/126969">Prizes, Awards and Honors</a>
+                          </div>
+                      </li>
+            </ul>
+  
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/about-the-university/widening-access-and-participation" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/2100">Widening access and participation</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/about-the-university/about-gothenburg" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/146223">About Gothenburg</a>
+                          </div>
+                      </li>
+            </ul>
+  
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main menu__item--active-trail">
+            <div class="menu__item-wrap">
+              <a href="/en/news-and-events" class="menu__link menu__link--main js-menu__link--main menu__link--parent" data-drupal-link-system-path="node/1274">News and events</a>
+                                              <span>
+                  <button class="menu__toggle js-menu__toggle is-expanded" aria-haspopup="true" aria-expanded="true">
+                    <svg focusable="false" aria-hidden="true" class="icon icon--chevron u-ml-0 u-mr-0">
+    <use xlink:href="#icon-chevron"></use>
+  </svg>
+                  <span class="visually-hidden">Submenu for News and events</span>
+                </button>
+                </span>
+                          </div>
+                            
+  
+  
+            <ul class="menu__submenu menu__submenu--main js-menu__submenu--main">
+                                          <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/news-and-events/find-news" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="news-and-events/find-news">Find news</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main menu__item--active-trail menu__item--last-active-trail">
+            <div class="menu__item-wrap">
+              <a href="/en/news-and-events/find-events" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="news-and-events/find-events">Find events</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/press-office" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/5322">Press office</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/news-and-events/our-participation-in-popular-science-events" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/143531">Our participation in popular science events</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/news-and-events/eutopia-diversity-and-inclusion-month-2024" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/95980">EUTOPIA Diversity and Inclusion Month 2024</a>
+                          </div>
+                      </li>
+                                      <li class="menu__item menu__item--main js-menu__item--main">
+            <div class="menu__item-wrap">
+              <a href="/en/news-and-events/university-of-gothenburg-in-a-troubled-world" class="menu__link menu__link--main js-menu__link--main" data-drupal-link-system-path="node/140052">The University in a troubled world</a>
+                          </div>
+                      </li>
+            </ul>
+  
+                      </li>
+            </ul>
+  
+
+</nav>
+      </nav>
+    </div>
+  </div>
+
+  </div>
+
+			</div>
+		</div>
+	</div>
+</header>
+    <div class="site-overlay js-site-overlay"></div>
+      
+
+<div class="top-bar js-top-bar" role="banner">
+  <div class="top-bar__top js-top-bar__top u-justify-between">
+    <div class="top-bar__column">
+                                <a href="/en" id="" class="brand brand--plate brand--header" aria-label="Startpage - University of Gothenburg">
+      <div class="brand__logo u-hidden-large-up">
+              <svg role="img" aria-label="Startpage - University of Gothenburg">
+          <use xlink:href="#logo-en"></use>
+        </svg>
+          </div>
+              <div class="brand__name">
+                <div class="brand__title">
+          University of Gothenburg
+        </div>
+      </div>
+      </a>
+  
+
+                  </div>
+    <div class="top-bar__column u-hidden u-flex-large-up u-justify-center">
+                
+
+
+
+
+
+
+<ul class="utility-bar utility-bar--top-bar u-mr-50-large-up u-mt-100-large-up u-mb-75-large-up" role="menubar">
+			<li class="utility-bar__item" role="menuitem">
+			
+
+<div id="button_1" class="rs_skip rsbtn rs_preserve content-reader">
+  <a rel="nofollow" role="button" class="rs_skip rsbtn_play content-reader__link" title="Listen with ReadSpeaker" href="//app-eu.readspeaker.com/cgi-bin/rsent?customerid=9467&amp;lang=en_uk&amp;readclass=region--content&amp;url=https%3A%2F%2Fwww.gu.se%2Fen%2Fevent%2Fhai-2023-international-conference-on-human-agent-interaction" aria-label="Listen with ReadSpeaker">
+      <svg focusable="false" aria-hidden="true" class="icon u-block">
+    <use xlink:href="#icon-ear"></use>
+  </svg>
+    Listen
+  </a>
+</div>
+
+
+		</li>
+			<li class="utility-bar__item" role="menuitem">
+			  <div class="region region--spaces-contact-link">
+    <div>
+  
+  
+      <a class="contact-link" href="/en/contact" aria-label="Contact">
+    <svg focusable="false" aria-hidden="true" class="icon u-block">
+    <use xlink:href="#icon-chat"></use>
+  </svg>
+  Contact
+</a>
+
+  </div>
+
+  </div>
+
+
+		</li>
+			<li class="utility-bar__item" role="menuitem">
+			  <div class="region region--language-selector">
+    <div class="language-switcher-language-url language-switcher" role="navigation" aria-label="Language selector">
+  
+    
+      <ul class="links language-switcher__list"><li><a href="/evenemang/hai-2023-international-conference-on-human-agent-interaction" class="language-link js-language-link" hreflang="sv" data-drupal-link-system-path="node/123888"><svg class="icon u-block"><use xlink:href="#icon-globe"></use></svg>Svenska</a></li><li><a href="/en/event/hai-2023-international-conference-on-human-agent-interaction" class="language-link js-language-link is-active" hreflang="en" data-drupal-link-system-path="node/123888"><svg class="icon u-block"><use xlink:href="#icon-globe"></use></svg>International website</a></li></ul>
+  </div>
+
+  </div>
+
+
+		</li>
+	</ul>
+          
+
+
+<button class="search-toggle js-search-toggle search-toggle--button" id="search-button-1" role="button" aria-label="false" aria-haspopup="true" aria-expanded="false">
+  <span class="search-toggle__inner">
+      <svg focusable="false" aria-hidden="true" class="icon icon--search">
+    <use xlink:href="#icon-search"></use>
+  </svg>
+      <svg focusable="false" aria-hidden="true" class="icon icon--close">
+    <use xlink:href="#icon-close"></use>
+  </svg>
+    Search
+  </span>
+</button>
+          </div>
+  </div>
+  <div class="top-bar__bottom js-top-bar__bottom">
+    <div class="top-bar__wrapper">
+              <div class="top-bar__column u-justify-between">
+            
+
+
+
+<button class="header-open js-header-open top-bar-bottom__btn" role="button" aria-expanded="false" aria-haspopup="menu">
+  <div class="header-open__inner">
+      <svg focusable="false" aria-hidden="true" class="icon icon--menu">
+    <use xlink:href="#icon-menu"></use>
+  </svg>
+    Menu
+  </div>
+</button>
+            
+
+
+<button class="search-toggle js-search-toggle search-toggle--button top-bar-bottom__btn" id="search-button-2" role="button" aria-label="false" aria-haspopup="true" aria-expanded="false">
+  <span class="search-toggle__inner">
+      <svg focusable="false" aria-hidden="true" class="icon icon--search">
+    <use xlink:href="#icon-search"></use>
+  </svg>
+      <svg focusable="false" aria-hidden="true" class="icon icon--close">
+    <use xlink:href="#icon-close"></use>
+  </svg>
+    Search
+  </span>
+</button>
+        </div>
+        <div class="top-bar__column">
+          <div class="site-search js-site-search">
+  <div class="layout">
+    <div class="layout__container">
+      <div class="layout__inner">
+        <div class="columns small-12">
+            <div class="region region--search-bar">
+    <div id="block-search-block" class="u-max-width-full">
+  
+    
+      <div id="gu-search-global_search_block" class="gu-search-experience" data-searcher-id="global_search_block" data-searcher-name="global" data-searcher-label="Search" data-searcher-type="widget" data-searcher-path="/en/search" data-searcher-preamble="<div class=&quot;formatted-content preamble preamble--large u-mb-200&quot;></div>" data-searcher-exposed-tabs="{&quot;global&quot;:&quot;All results&quot;,&quot;education&quot;:&quot;Courses&quot;,&quot;research&quot;:&quot;Research&quot;,&quot;organization&quot;:&quot;Organisation&quot;,&quot;person&quot;:&quot;Staff&quot;,&quot;news&quot;:&quot;News&quot;,&quot;event&quot;:&quot;Event&quot;}" data-searcher-endpoint="https://www.gu.se/api/search/rest/apps/external_web/searchers/" data-searcher-completer="https://www.gu.se/api/search/rest/apps/external_web/completers/" data-language="en"></div>
+
+  </div>
+<div id="block-search-menu-en" class="u-max-width-full">
+  
+    
+      
+                  <ul class="menu menu--search-menu-english js-menu--search-menu-english u-mt-100" role="menubar">
+                                  <li class="menu__item menu__item--search-menu-english u-mt-100 u-mt-125-medium-up u-mr-125-medium-up">
+          <div class="menu__item-container">
+            <a href="/en/about/find-staff" class="link u-font-weight-700 link--search-menu-english" role="menuitem" data-drupal-link-system-path="about/find-staff">Find staff<svg class="icon icon--arrow-right"><use xlink:href="#icon-arrow-right"></use></svg></a>
+          </div>
+                  </li>
+                              <li class="menu__item menu__item--search-menu-english u-mt-100 u-mt-125-medium-up u-mr-125-medium-up">
+          <div class="menu__item-container">
+            <a href="/en/study-gothenburg/study-options/find-courses" class="link u-font-weight-700 link--search-menu-english" role="menuitem" data-drupal-link-system-path="study-gothenburg/study-options/find-courses">Find courses<svg class="icon icon--arrow-right"><use xlink:href="#icon-arrow-right"></use></svg></a>
+          </div>
+                  </li>
+                              <li class="menu__item menu__item--search-menu-english u-mt-100 u-mt-125-medium-up u-mr-125-medium-up">
+          <div class="menu__item-container">
+            <a href="/en/research/find-research" title="Research search" class="link u-font-weight-700 link--search-menu-english" role="menuitem" data-drupal-link-system-path="research/find-research">Find research<svg class="icon icon--arrow-right"><use xlink:href="#icon-arrow-right"></use></svg></a>
+          </div>
+                  </li>
+                              <li class="menu__item menu__item--search-menu-english u-mt-100 u-mt-125-medium-up u-mr-125-medium-up">
+          <div class="menu__item-container">
+            <a href="/en/news-and-events/find-news" title="News search" class="link u-font-weight-700 link--search-menu-english" role="menuitem" data-drupal-link-system-path="news-and-events/find-news">Find news<svg class="icon icon--arrow-right"><use xlink:href="#icon-arrow-right"></use></svg></a>
+          </div>
+                  </li>
+                              <li class="menu__item menu__item--search-menu-english u-mt-100 u-mt-125-medium-up u-mr-125-medium-up">
+          <div class="menu__item-container">
+            <a href="/en/about/find-organisation" class="link u-font-weight-700 link--search-menu-english" role="menuitem" data-drupal-link-system-path="about/find-organisation">Find organisation<svg class="icon icon--arrow-right"><use xlink:href="#icon-arrow-right"></use></svg></a>
+          </div>
+                  </li>
+                              <li class="menu__item menu__item--search-menu-english u-mt-100 u-mt-125-medium-up u-mr-125-medium-up">
+          <div class="menu__item-container">
+            <a href="/en/news-and-events/find-events" title="Event search" class="link u-font-weight-700 link--search-menu-english" role="menuitem" data-drupal-link-system-path="news-and-events/find-events">Find event<svg class="icon icon--arrow-right"><use xlink:href="#icon-arrow-right"></use></svg></a>
+          </div>
+                  </li>
+          </ul>
+  
+
+
+  </div>
+
+  </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+        </div>
+          </div>
+  </div>
+</div>
+            
+
+<main id="main" class="main js-main" aria-labelledby="h1id">
+  <div class="row expanded">
+      <div class="region region--highlighted">
+    <div data-drupal-messages-fallback="" class="hidden"></div>
+<div id="block-sitewidealert" class="u-max-width-full">
+  
+    
+      <div data-sitewide-alert=""></div>
+  </div>
+
+  </div>
+
+  </div>
+  <div class="row expanded">
+    <div class="columns small-12">
+      
+    </div>
+  </div>
+  <div class="row expanded">
+    <div class="columns small-12">
+      
+    </div>
+  </div>
+  <div class="row expanded">
+    <div class="columns small-12">
+        <div class="region region--pre-content">
+    
+  </div>
+
+    </div>
+  </div>
+  <a id="main-content" tabindex="-1"></a>            <div class="row expanded">
+              <div class="region region--content">
+    <div id="block-gu-ruby-content" class="u-max-width-full">
+  
+    
+      <article class="node node--event-full">
+  
+  
+  <div class="u-max-width-full">
+  
+    
+      
+<figure class="hero">
+      <div class="hero__image">
+      <div>
+  
+  <div>
+    <div class="visually-hidden">Image</div>
+              <div>    <picture>
+                  <source srcset="/sites/default/files/styles/100_10_4_xlarge_1x/public/2023-11/trees-miriam-sturdee.JPG?h=ca8322d6&amp;itok=LIzMDW7M 1x, /sites/default/files/styles/100_10_4_xlarge_2x/public/2023-11/trees-miriam-sturdee.JPG?h=ca8322d6&amp;itok=nsqbTsya 2x" media="all and (min-width: 1280px)" type="image/jpeg" width="1280" height="512">
+              <source srcset="/sites/default/files/styles/100_10_4_xmedium_1x/public/2023-11/trees-miriam-sturdee.JPG?h=ca8322d6&amp;itok=Mg0bQDKp 1x, /sites/default/files/styles/100_10_4_xmedium_2x/public/2023-11/trees-miriam-sturdee.JPG?h=ca8322d6&amp;itok=qxR1AW2f 2x" media="all and (min-width: 900px)" type="image/jpeg" width="1000" height="400">
+              <source srcset="/sites/default/files/styles/100_10_4_medium_1x/public/2023-11/trees-miriam-sturdee.JPG?h=ca8322d6&amp;itok=X1DpmM3x 1x, /sites/default/files/styles/100_10_4_medium_2x/public/2023-11/trees-miriam-sturdee.JPG?h=ca8322d6&amp;itok=hquBH64C 2x" media="all and (min-width: 768px)" type="image/jpeg" width="800" height="320">
+              <source srcset="/sites/default/files/styles/100_10_4_xsmall_1x/public/2023-11/trees-miriam-sturdee.JPG?h=ca8322d6&amp;itok=2fw_0w0V 1x, /sites/default/files/styles/100_10_4_xsmall_2x/public/2023-11/trees-miriam-sturdee.JPG?h=ca8322d6&amp;itok=GIizXd3k 2x" media="all and (min-width: 544px)" type="image/jpeg" width="700" height="280">
+              <source srcset="/sites/default/files/styles/100_10_4_small_1x/public/2023-11/trees-miriam-sturdee.JPG?h=ca8322d6&amp;itok=clyz0iTL 1x, /sites/default/files/styles/100_10_4_small_2x/public/2023-11/trees-miriam-sturdee.JPG?h=ca8322d6&amp;itok=2zxjwBgX 2x" media="all and (min-width: 0px)" type="image/jpeg" width="480" height="192">
+                  <img loading="eager" src="/sites/default/files/styles/100_10_4_xmedium_1x/public/2023-11/trees-miriam-sturdee.JPG?h=ca8322d6&amp;itok=Mg0bQDKp" width="1000" height="400" alt="Trees, red balls">
+
+  </picture>
+
+</div>
+          </div>
+
+</div>
+
+    </div>
+        <figcaption class="caption caption--framed caption--inline u-flex-medium-up u-flex-row-medium-up">
+        <div class="caption__column caption__column--photographer">Photo: Miriam Sturdee</div>
+  </figcaption>
+  </figure>
+
+  </div>
+
+  <div class="u-max-width-full">
+  
+    
+      <div id="system-breadcrumb" class="visually-hidden">Breadcrumb</div>
+<ol aria-labelledby="system-breadcrumb" class="breadcrumb breadcrumb--indented">
+      <li class="breadcrumb__item">
+                        <a class="breadcrumb__link" href="/en">
+              <svg focusable="false" aria-hidden="true" class="icon icon--home">
+    <use xlink:href="#icon-home"></use>
+  </svg>
+            <span class="visually-hidden">Home</span>
+          </a>
+                  </li>
+      <li class="breadcrumb__item">
+                        <a class="breadcrumb__link" href="/en/news-and-events">News and events</a>
+                  </li>
+      <li class="breadcrumb__item">
+                        <a class="breadcrumb__link" href="/en/news-and-events/find-events">Find events</a>
+                  </li>
+      <li class="breadcrumb__item">
+              HAI 2023 - International Conference on Human-Agent Interaction
+          </li>
+  </ol>
+
+  </div>
+
+
+  <div class="layout layout--top-content">
+    <div class="layout__container">
+      <div class="row layout__inner">
+        <div class="columns layout__column layout__column--content">
+
+            
+  
+<h1 class="heading-main u-mb-100" id="h1id">
+  HAI 2023 - International Conference on Human-Agent Interaction
+</h1>
+
+
+          <div class="label u-mb-200 u-font-weight-700">
+      
+      <div>
+              <div>Science and Information Technology</div>
+          </div>
+  
+  </div>
+
+          <p class="preamble u-font-weight-700 u-mb-150 u-mb-175-large-up u-mt-0">
+  The theme for the HAI2023 conference will be “Human Empowerment and Inclusive Society”. 
+</p>
+          
+            
+
+<div class="box box--spacious-200 box--overstep-grid u-pt-0">
+                  <div class="label label--framed u-text-white u-font-weight-700 u-inline-block">
+        <div class="u-inline-block u-mt-25-small-up u-mb-25-small-up">
+          Conference
+      </div>
+
+  </div>
+
+            <div class="wrapper wrapper--overstep-grid">
+              <div class="row u-mb-200">
+                <div class="columns small-6 u-mt-200">
+                                                                                                                <div class="meta">
+      <div class="label">
+      Date
+  </div>
+              <div class="meta__data u-font-weight-700 u-mt-25">4 Dec 2023 - 7 Dec 2023</div>
+      </div>
+                </div>
+                                <div class="columns small-6 u-mt-200">
+                                                                                                    <div class="meta">
+      <div class="label">
+      Location
+  </div>
+               
+
+
+
+
+
+<a href="https://hai-conference.net/hai2023/conference/" class="link u-font-weight-700 u-mt-25">
+          Wallenberg Conference Center, Medicinareberget, Gothenburg, 
+    <span>
+      Sweden
+                    <svg focusable="false" aria-hidden="true" class="icon icon--icon-external-link">
+    <use xlink:href="#icon-external-link"></use>
+  </svg>
+      
+    </span>
+  </a>
+      </div>
+                                  </div>
+                                                                                  <div class="columns small-6 u-mt-200">
+                                        <div class="meta">
+      <div class="label">
+      Registration deadline
+  </div>
+              <div class="meta__data u-font-weight-700 u-mt-25">15 November 2023</div>
+      </div>
+                  </div>
+                                                  <div class="columns small-6 u-mt-200">
+                    
+<div class="label">
+      Additional info
+  </div>
+
+  
+
+
+
+
+
+<a href="https://hai-conference.net/hai2023/" class="link u-font-weight-700 u-block u-mt-25">
+          HAI 2023 - International Conference on Human-Agent 
+    <span>
+      Interaction
+                    <svg focusable="false" aria-hidden="true" class="icon icon--arrow-right">
+    <use xlink:href="#icon-arrow-right"></use>
+  </svg>
+      
+    </span>
+  </a>
+
+                  </div>
+                              </div>
+            </div>
+
+            <hr>
+
+            <div class="wrapper wrapper--overstep-grid">
+                                                                        <div class="row">
+                  <div class="columns small-12 u-mt-200">
+                                          Registration is closed.
+                                      </div>
+                </div>
+                          </div>
+          
+  </div>
+        </div>
+        <aside class="columns layout__column layout__column--aside">
+          <div class="calendar-date calendar-date--framed calendar-date--large">
+  <time class="calendar-date__datebox" datetime="2023-12-04">
+    <span class="visually-hidden">Start date</span>
+    <span class="calendar-date__item calendar-date__item--date">
+      4
+    </span>
+    <span class="calendar-date__item calendar-date__item--month">
+      Dec
+    </span>
+    <span class="visually-hidden">
+      2023
+    </span>
+  </time>
+            <span class="calendar-date__item calendar-date__item--divider u-pr-50 u-pl-50">
+        <span class="visually-hidden">To</span>
+        <span aria-hidden="true">-</span>
+      </span>
+      <time class="calendar-date__datebox" datetime="2023-12-07">
+        <span class="visually-hidden">End date</span>
+        <span class="calendar-date__item calendar-date__item--date">
+          7
+        </span>
+        <span class="calendar-date__item calendar-date__item--month">
+          Dec
+        </span>
+        <span class="visually-hidden">
+          2023
+        </span>
+      </time>
+      </div>
+                  </aside>
+      </div>
+    </div>
+  </div>
+
+      <div class="layout layout--padding-bottom">
+        <div class="layout layout--wrapper-full-width">
+    <div class="row expanded">
+              <div>
+          <div class="u-max-width-full">
+  
+    
+        <div class="formatted-content formatted-content--full-width">
+      
+<figure role="group" data-alt="HAI2023" data-embed-button="media_image_entity_embed" data-entity-embed-display="view_mode:media.image_component_medium_no_crop" data-entity-type="media" data-entity-uuid="202ee72c-7ea0-4519-9d4b-e351131fb5ec" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity formatted-content__image formatted-content__image--medium-no-crop formatted-content__figure"><div>
+  
+            <div>    <picture><source srcset="/sites/default/files/styles/original_ratio_medium_large_1x/public/2023-11/hai2023.png?itok=SbrIgc_K 1x, /sites/default/files/styles/original_ratio_medium_large_2x/public/2023-11/hai2023.png?itok=yz-NVMwe 2x" media="all and (min-width: 900px)" type="image/png" width="768" height="310"><source srcset="/sites/default/files/styles/original_ratio_medium_xmedium_1x/public/2023-11/hai2023.png?itok=iPKBkwMk 1x, /sites/default/files/styles/original_ratio_medium_xmedium_2x/public/2023-11/hai2023.png?itok=dRzpqj7l 2x" media="all and (min-width: 768px)" type="image/png" width="590" height="238"><source srcset="/sites/default/files/styles/original_ratio_medium_medium_1x/public/2023-11/hai2023.png?itok=56hiW93p 1x, /sites/default/files/styles/original_ratio_medium_medium_2x/public/2023-11/hai2023.png?itok=pQEnHJRh 2x" media="all and (min-width: 544px)" type="image/png" width="768" height="310"><source srcset="/sites/default/files/styles/original_ratio_medium_small_1x/public/2023-11/hai2023.png?itok=ElNDalwz 1x, /sites/default/files/styles/original_ratio_medium_small_2x/public/2023-11/hai2023.png?itok=OYvAzx6i 2x" media="all and (min-width: 0px)" type="image/png" width="512" height="207"><img loading="eager" src="/sites/default/files/styles/50_10_6_xmedium_1x/public/2023-11/hai2023.png?h=9ec06bb1&amp;itok=yXbEMUL9" width="590" height="333" alt="HAI2023"></picture></div>
+      
+</div>
+
+  </figure><p>The Eleventh International Conference on Human-Agent Interaction (HAI 2023) aims to be the premier interdisciplinary venue for discussing and disseminating state-of-the-art research and results that have implications across conventional interaction boundaries including robots, software agents and digitally-mediated human-human communication. HAI will gather researchers from fields spanning engineering, computer science, psychology and sociology, and will cover diverse topics, including: human-robot interaction, affective computing, computer-supported collaborative work, gaming and serious games, artificial intelligence, and more.</p>
+
+<p>The theme for the HAI2023 conference will be<strong> “Human Empowerment and Inclusive Society”</strong>.&nbsp;The development of HAI and AI tools in virtual and real contexts has enriched the metaverse and opened up new possibilities in social tasks and for human beings themselves. This has raised questions on the trustworthiness and fairness of these systems. Further, how we can make these systems more equitable and inclusive in their design as they interact with humans. Consequently, the next step we need to take is to carry out in expanding an inclusive society as one of sustainable development goals. It is still unclear how people can live happily amidst the amazing development of technology. While all submissions related to HAI are welcome, you are especially encouraged to submit papers in line with the theme for HAI 2023.</p>
+
+<h2 id="conference-website">Conference website:</h2>
+
+<p>Please see the official website for more information:<br><strong><em><a href="https://hai-conference.net/hai2023/">HAI 2023 - International Conference on Human-Agent Interaction</a></em></strong></p>
+  </div>
+
+  </div>
+
+        </div>
+          </div>
+  </div>
+  <div class="layout layout--wrapper-narrow">
+    <div class="layout__container">
+      <div class="row layout__inner">
+                  <div class="columns layout__column layout__column--content">
+            
+          </div>
+                      </div>
+    </div>
+  </div>
+
+    </div>
+    <div class="content-footer content-footer--narrow">
+  <div class="row content-footer__inner">
+          <div class="columns small-12 medium-6 large-4 content-footer__column ">
+        <div class="meta u-inline-flex u-align-baseline">
+      <div class="label u-text-md u-font-weight-700">
+      Last modified
+  </div>
+              <time class="meta__data u-font-weight-700 u-ml-25" datetime="2023-11-01">1 November 2023</time>
+      </div>
+      </div>
+      </div>
+</div>
+  </article>
+
+  </div>
+
+  </div>
+
+          </div>
+        </main>
+          
+
+<footer id="footer" class="footer">
+	<div class="footer__inner">
+		<div class="row">
+			<div class="footer__column footer__column--first columns small-5 medium-3">
+									<a href="/en" id="" class="brand brand--footer" aria-label="Startpage - University of Gothenburg">
+      <div class="brand__logo">
+              <svg role="img" aria-label="University of Gothenburg">
+          <use xlink:href="#logo-footer-en"></use>
+        </svg>
+          </div>
+    </a>
+							</div>
+			<div class="footer__column footer__column--second columns small-12 medium-3">
+				  <div class="region region--footer-second">
+    <div id="block-gu-ruby-contact" class="u-max-width-full">
+  
+      
+
+<div class="heading-component u-font-weight-900 u-mb-50">
+  Contact
+</div>
+    
+        <div>
+    <div class="layout__region layout__region--content">
+      <div class="u-max-width-full">
+  
+    
+        <div class="formatted-content">
+      <p>The University of Gothenburg<br>
+Box 100<br>
+405 30 Gothenburg<br>
+Sweden</p>
+
+<p>Main Switchboard<br>
++46 31-786 00 00</p>
+  </div>
+
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+
+  </div>
+
+			</div>
+			<div class="footer__column footer__column--third columns small-12 medium-3">
+				  <div class="region region--footer-third">
+    <div id="block-gu-ruby-visiting-address" class="u-max-width-full">
+  
+      
+
+<div class="heading-component u-font-weight-900 u-mb-50">
+  Visiting address
+</div>
+    
+        <div>
+    <div class="layout__region layout__region--content">
+      <div class="u-max-width-full">
+  
+    
+        <div class="formatted-content">
+      <p>Huvudbyggnad Vasaparken,<br>
+Universitetsplatsen 1</p>
+
+<p>Org. nummer:&nbsp;202100-3153</p>
+  </div>
+
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+<nav aria-label="Our channels" id="block-gu-ruby-social-media-block">
+  
+      
+
+<div class="heading-component u-mt-200 u-mb-50 u-text-white u-font-weight-900">
+  Our channels
+</div>
+    
+      <nav class="social-media" aria-label="Social channels">
+  <ul class="social-media__list">
+          <li class="social-media__item">
+        <a href="https://www.facebook.com/universityofgothenburg" class="social-media__link socal-media__link--facebook" target="_blank" rel="preconnect noreferrer">
+            <svg focusable="false" aria-hidden="true" class="icon icon--facebook u-fill-white">
+    <use xlink:href="#icon-facebook"></use>
+  </svg>
+          <span class="visually-hidden">facebook</span>
+        </a>
+      </li>
+          <li class="social-media__item">
+        <a href="https://twitter.com/goteborgsuni" class="social-media__link socal-media__link--twitter" target="_blank" rel="preconnect noreferrer">
+            <svg focusable="false" aria-hidden="true" class="icon icon--twitter u-fill-white">
+    <use xlink:href="#icon-twitter"></use>
+  </svg>
+          <span class="visually-hidden">twitter</span>
+        </a>
+      </li>
+          <li class="social-media__item">
+        <a href="https://www.linkedin.com/school/university-of-gothenburg/" class="social-media__link socal-media__link--linkedin" target="_blank" rel="preconnect noreferrer">
+            <svg focusable="false" aria-hidden="true" class="icon icon--linkedin u-fill-white">
+    <use xlink:href="#icon-linkedin"></use>
+  </svg>
+          <span class="visually-hidden">linkedin</span>
+        </a>
+      </li>
+          <li class="social-media__item">
+        <a href="https://www.youtube.com/c/UniversityofGothenburg" class="social-media__link socal-media__link--youtube" target="_blank" rel="preconnect noreferrer">
+            <svg focusable="false" aria-hidden="true" class="icon icon--youtube u-fill-white">
+    <use xlink:href="#icon-youtube"></use>
+  </svg>
+          <span class="visually-hidden">youtube</span>
+        </a>
+      </li>
+          <li class="social-media__item">
+        <a href="https://instagram.com/universityofgothenburg" class="social-media__link socal-media__link--instagram" target="_blank" rel="preconnect noreferrer">
+            <svg focusable="false" aria-hidden="true" class="icon icon--instagram u-fill-white">
+    <use xlink:href="#icon-instagram"></use>
+  </svg>
+          <span class="visually-hidden">instagram</span>
+        </a>
+      </li>
+      </ul>
+</nav>
+
+  </nav>
+
+  </div>
+
+			</div>
+			<div class="footer__column footer__column--fourth columns small-7 medium-3">
+				  <div class="region region--footer-fourth">
+    
+
+<nav role="navigation" aria-labelledby="block-gu-ruby-footer-menu-menu" id="block-gu-ruby-footer-menu">
+      
+  <h2 id="block-gu-ruby-footer-menu-menu" class="label u-font-weight-900 u-mb-25 u-mt-0">Shortcuts</h2>
+  
+
+        
+  
+  
+  
+            <ul class="menu menu--footer js-menu--footer">
+                                  <li class="menu__item menu__item--footer">
+          <div class="menu__item-container">
+                        <a href="https://studentportal.gu.se/english/?languageId=100001&amp;skipSSOCheck=true" class="menu__link menu__link--footer" title="External link">Student portal               <span class="visually-hidden">
+                (External link)
+              </span>
+            <svg class="icon icon--external-link u-mb-0125 u-fill-white"><use xlink:href="#icon-external-link"></use></svg></a>
+          </div>
+                  </li>
+                              <li class="menu__item menu__item--footer u-mt-25">
+          <div class="menu__item-container">
+                        <a href="https://medarbetarportalen.gu.se/" class="menu__link menu__link--footer" title="External link">Staff Portal               <span class="visually-hidden">
+                (External link)
+              </span>
+            <svg class="icon icon--external-link u-mb-0125 u-fill-white"><use xlink:href="#icon-external-link"></use></svg></a>
+          </div>
+                  </li>
+                              <li class="menu__item menu__item--footer u-mt-25">
+          <div class="menu__item-container">
+                        <a href="https://www.ub.gu.se/en" class="menu__link menu__link--footer" title="External link">University library               <span class="visually-hidden">
+                (External link)
+              </span>
+            <svg class="icon icon--external-link u-mb-0125 u-fill-white"><use xlink:href="#icon-external-link"></use></svg></a>
+          </div>
+                  </li>
+                              <li class="menu__item menu__item--footer u-mt-25">
+          <div class="menu__item-container">
+                        <a href="/en/work-at-the-university-of-gothenburg" class="menu__link menu__link--footer" ="external="" link"="" data-drupal-link-system-path="node/16">Work at the University <svg class="icon icon--arrow-right u-mb-0125 u-fill-white"><use xlink:href="#icon-arrow-right"></use></svg></a>
+          </div>
+                  </li>
+                              <li class="menu__item menu__item--footer u-mt-25">
+          <div class="menu__item-container">
+                        <a href="/en/press-office" class="menu__link menu__link--footer" ="external="" link"="" data-drupal-link-system-path="node/5322">Press and media <svg class="icon icon--arrow-right u-mb-0125 u-fill-white"><use xlink:href="#icon-arrow-right"></use></svg></a>
+          </div>
+                  </li>
+                              <li class="menu__item menu__item--footer u-mt-25">
+          <div class="menu__item-container">
+                        <a href="/en/about-the-website" class="menu__link menu__link--footer" ="external="" link"="" data-drupal-link-system-path="node/3953">About the website <svg class="icon icon--arrow-right u-mb-0125 u-fill-white"><use xlink:href="#icon-arrow-right"></use></svg></a>
+          </div>
+                  </li>
+                              <li class="menu__item menu__item--footer u-mt-25">
+          <div class="menu__item-container">
+                        <a href="/en/about-the-website/accessibility-report" class="menu__link menu__link--footer" ="external="" link"="" data-drupal-link-system-path="node/3956">Accessibility report <svg class="icon icon--arrow-right u-mb-0125 u-fill-white"><use xlink:href="#icon-arrow-right"></use></svg></a>
+          </div>
+                  </li>
+                              <li class="menu__item menu__item--footer u-mt-25">
+          <div class="menu__item-container">
+                        <a href="#eu-cookie-withdraw-consent" class="menu__link menu__link--footer" ="external="" link"="">Cookie settings <svg class="icon icon--arrow-right u-mb-0125 u-fill-white"><use xlink:href="#icon-arrow-right"></use></svg></a>
+          </div>
+                  </li>
+          </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+			</div>
+		</div>
+	</div>
+</footer>
+  </div>
+</div>
+
+  </div>

@@ -1,0 +1,176 @@
+Pattern Languages of Programs Conference 2023 October 22-25, 2023   
+
+ PLoP'23 
+  Registration 
+  Program 
+  Activities 
+  Committees 
+  Location 
+  News |  
+  
+ PROGRAM  
+ Pattern Languages of Programs (PLoP TM  ) conference is the premier event for pattern authors and pattern enthusiasts to gather, discuss and learn more about patterns and software development.  
+ The conference program is being completed, and this page will be updated as more details are known.  
+ conference at a glance | ; 
+  schedule | ; 
+  keynotes | ; 
+  focus groups & workshops | ; 
+  games and art school | ; 
+  accepted papers | : for | Writers' Workshops 
+  Conference at a Glance   
+ The BootCamp  , a special Pre-PLoP activity for newcomers, will happen during Sunday  , 22 October from 2:30 - 17:00. Bootcamp slides can be downloaded here.  The PLoP conference starts on Sunday evening  , 22 October at 18:00, with the traditional games and pizza dinner. The main PLoP days will be Mon-Wed, 23-25 October and will will conclude on Wednesday evening  , 25 October at 18:00.  
+ PLoP and the Bootcamp will be held at Allerton Park, Monticello, Illinois, USA.  
+ Schedule   
+  Click here for a PDF of the schedule.   
+   
+ Keynotes   
+  
+ "A Pattern Language for the Brain" 
+ Grady Booch  , Monday, 23 October, 15:00 - 16:00 
+ The cosmos is filled with patterns of exquisite beauty. When Kent and I organized a workshop some 30+ years ago leading to the formation of the Hillside Group, our interest was largely in the realm of software-intensive systems. In this talk, I'll explore how those same concepts are helping us better understand the architecture of the mind.  
+  Link to Video of Talk    
+ More information about Grady  can be found here  . 
+
+ "Go Build Your Thing—And in the process inspire others to do the same" 
+ Rebecca Wirfs-Brock & Lise Hvatum  , Tuesday, 24 October, 9:30 - 10:30 
+ “Whether it’s a song, a story, a house, a painting, a bird box, or a picture—human beings are hard-wired to create” [Devin Arrigo]. Pattern and pattern languages are created by pattern authors. Their usefulness and quality are up to us. Early pattern writers were mindful about quality—and creating it using generativity. Generativity simply means, “the quality or ability to produce something new.” In Pattern Hatching John Vlissides defined pattern generativity thus: “…generativity refers to a pattern’s ability to create emergent behavior. That’s a fancy way of saying the pattern helps the reader solve problems that the pattern doesn’t address explicitly.” Generative patterns solve immediate problems, but more importantly, they change the problem landscape, potentially resolving larger problems over time. They are ambitious.  
+ Generative patterns require users to study and understand their context and situation to best adapt them. Experience, personal heuristics, and culture play a large role in the application of generative patterns. We believe that pattern writers have a profound responsibility to ensure the patterns they create have enduring impacts. We should strive to create pattern languages that have a generative nature... A detailed description can be found here.    
+ More information about Rebecca  can be found here  .  
+  More information about Lise  can be found here  . 
+
+ "The take-home value of a pattern is its name & other observations from 30 years of patterns use" 
+ Alistair Cockburn  , Tuesday, 24 October, 15:00 - 16:00 
+ I saw the draft of Design Patterns from inside IBM in 1993, wrote my first Alexandrian pattern language in 1995, came up with the new medical-metaphor pattern form in 1996, published the first small catalog of project management patterns in 1997, and never wrote the book on project management patterns in 2002, because ... patterns are a write-only form. Oops, what? Yes, that. Oh, and the take-home value of a pattern is just its name. In this retrospective, I show some different patterns forms and talk about lessons learned, observations on the writing form, and thoughts on what to do when there are thousands of patterns giving possibly conflicting advice. You won't agree with all of his observations, but they should get you ruminating and discussing.  
+ More information about Alistair  can be found here  . 
+
+ "Software Resilience Patterns: Ideas from the Real World" 
+ Indu Alagarsamy  , Wednesday, 25 October, 9:30 - 10:30 
+ How does your system react if a key resource fails? The database becomes unavailable or the message broker fails? What if you get a current surge of load that you have to keep up? Real life and other engineering disciplines can teach us a thing or two on software design and what it means to be reliable. Learn how you can borrow these patterns when you design software systems to make it more reliable.  
+ More information about Indu  can be found here  . 
+
+ "Using Hypotheses Engineering to Manage Uncertainty in Software Architectures" 
+ Eduardo Guerra  , Wednesday, 25 October, 15:00 - 16:00 
+ Agile projects embrace changes and apply techniques to make these changes easy to do. But do they know how to handle these changes when they are in requirements related to quality attributes? We will start this journey in the land of the anti-patterns for managing uncertainty for this kind of requirement, highlighting how neglecting it can be dangerous for software architecture. After, we exit this path following the light at the end of it and understanding how hypotheses engineering can provide a more systematic approach for handling this uncertainty. Arriving at this destination, we will talk about assessing the hypotheses' risk and impact and discuss several techniques that can act in these two dimensions. The last stop of this exciting ride is in two real case studies in completely different contexts where the presented techniques were applied. Then, we will look at evidence of the benefits that can be achieved with their implementation.  
+ More information about Eduardo  can be found here  . 
+  
+ Focus Groups & Workshops   
+  
+ "Fearless Change Patterns Game & App: Taking your patterns to the next level" [Focus Group 1] 
+ Mary Lynn Manns  , Monday, 23 October, 16:30 - 18:00 
+ During this focus group, you will play Fearless Journey -- it is a simulation for change that uses the Fearless Change patterns to help you get from where you are to where you want to be. You will learn how to continue using this tool in your own teams to help people get unstuck while working to make a change happen. In addition, you will see a demo of the Fearless Change App and you can download a beta version.  
+ The Fearless Journey Game and Fearless Change App are examples of taking your patterns to the next level. Join the fun and get some unique ideas for doing more with your own patterns. More information about Mary Lynn Manns and Fearless Change can be found here  . 
+
+ "CheriSharing: Sharing Cherished Qualities of Pattern Languages" [Focus Group 2] 
+ Sawami Shibata, Kento Takamura, Takashi Iba  , Monday, 23 October, 16:30 - 18:00 
+ In this focus group, participants will explore and articulate what the goodness of pattern languages is for each person. The CheriSharing Workshop is a workshop we have developed to “share” the goodness of a certain theme through conversations and “cherish” it together. The workshop will start by participants having dialogue in small groups, using topic cards to share specific content, episodes, and memories related to pattern languages. Subsequently, each participant will identify and share three elements they find as the goodness of pattern languages. 
+
+ "Prompt Patterns for Large Language Models" [Focus Group 3] 
+ Doug Schmidt  , Monday, 23 October, 19:00 - 20:30... 
+ The world is rapidly adapting to advances in generative AI, and Large Language Models (LLMs), such as ChatGPT, Claude, Bard, and more, are leading this paradigm shift. One area that has been underexplored is "Prompt Engineering," which involves creating effective instructions to guide LLMs for desired outputs. This focus group aims to delve deeper into "Prompt Patterns"—a concept that draws heavily on 30+ years of experience with software patterns—that aid in creating more efficient and reusable solutions when interacting with LLMs. The following are some activities this focus group will engage in during PLoP 2023:  
+ Pattern Identification and Categorization: Participants will split into small groups and identify common "prompt patterns" they've found effective in various use cases. Afterwards, we’ll regroup to share, categorize, and create a collaborative library of these patterns. 
+  Live Prompt Engineering Session: We’ll present a real-world problem that requires the aid of an LLM for a solution. The focus group will engage in real-time in crafting and refining prompts. The objective is to assess the efficacy of pre-identified patterns in practical settings. 
+  Prompt Pattern Trade-offs: We’ll discussion/debate the limitations and trade-offs associated with using certain prompt patterns over others, which will involve evaluating factors like computational cost, response accuracy, and ethical considerations. 
+  Future-proofing Prompt Patterns: We’ll conclude with an open discussion on the longevity of these patterns. Given the fast-paced evolution of generative AI, how can these patterns be designed to be adaptable and robust? 
+  Each of these activities aims to explore a different facet of prompt patterns, from their identification and practical application to their limitations and adaptability. 
+
+ "Future-Self Immersion with using A Pattern Language for Nurturing an Exciting Life" [Focus Group 4] 
+ Rio Nitta, Takako Kanai, Mizuki Ota, Sae Adachi, Takashi Iba  , Monday, 23 October, 19:00 - 20:30 
+ In this focus group, participants will experience a novel method, enabling them to conceptualize how they can apply patterns from the Pattern Languages for Human Actions tailored to their specific circumstances. In this workshop, each participant will envision a future where they actively implement a particular pattern. By role-playing as their future selves in that scenario, participants will simulate the application of that pattern. Participants will form groups of three within the workshop. One person will enact a vision of their future, while the other two will play characters in that envisioned future. This role-playing will rotate among the group members. The pattern language we will use for this workshop is “A Pattern Language for Nurturing an Exciting Life”. This is the pattern language we are currently developing to support individuals in making a life shift toward an exciting life. The goal of this focus group is to provide participants with an experiential understanding of new perspectives on the practical support of pattern language. Furthermore, by using “A Pattern Language for Nurturing an Exciting Life”, we hope that participants will find inspiration to enhance their futures. 
+
+ "Sustainable Productivity Patterns" [Focus Group 5] 
+ Ceci Fernandes, Antonio Gerent (Panda)  , Tuesday, 24 October, 16:30 - 18:00 
+ In times of forecasted economic downturn and the shrinking of the tech industry, companies are thirsty for ways they can improve the efficiency and efficacy of their ways of working. Agile could be the main driver of this conversation, but it has been labeled in a way that usually restricts discussions to frameworks and methods. In order to break these barriers and incorporate industries beyond tech, we are framing these discussions as Productivity. It is important to remember, though, that it can't come at all costs: for Productivity to be valuable, we should be able to maintain it at a constant pace indefinitely. Thus… Sustainable Productivity. The focus group intends to collect stories of productivity initiatives and levers in different environments, and hopefully discover some sequences and patterns. We will start by sharing a few ones we already mapped, for inspiration, and then move on to listen to each other's stories and figure out what we can learn about Sustainable Productivity! 
+
+ "Improving Your Papers with Academic Writing Patterns" [Focus Group 6] 
+ Sae Adachi, Takashi Iba  , Tuesday, 24 October, 16:30 - 18:00 
+ In this focus group, participants will learn and talk about writing academic papers and how to improve their papers using Academic Writing Patterns (Adachi et al., 2023). Academic Writing Patterns is a pattern language for writing great academic papers. In Writer’s Workshops during PLoP conferences, discussions are more based on the content of the paper and patterns presented in the paper. With Academic Writing Patterns and this workshop, participants can learn how and what are important practices when writing academic papers that are structured and expressed in a way that is easy to understand and use, as well as making sure the content has novelty and originality. 
+
+ "Learning about Organizational Patterns from Drama Patterns" [Focus Group 7] 
+ Valentino Vranić, Aleksandra Vranić, Branislava Vranić  , Tuesday, 24 October, 20:30 - 22:00 
+ Good drama is composed of patterns. Some two dozen of drama patterns have been documented and actively applied with diverse participants ranging from small children to university students and staff. Applying drama patterns is a very involving and fun activity. The participants become a part of a drama pattern and virtually feel the conflict of contradicting forces the pattern resolves. At the same time, they become a part of the dramatic element that resolves that conflict. Organizational patterns of software development have been mined in highly successful software organizations built unaware of patterns. There are dozens of organizational patterns of software development described. Yet, no case of their application in a production setting has been reported. While this doesn't prove that organizational patterns are not used in practice, it throws a shadow of doubt to what extent is this outstanding body of organizational knowledge really used. Our fear is that this is so because practitioners are expected to apply organizational patterns out of their descriptions. In this focus group, we will build a short play with drama patterns. Since drama patterns are a special kind of organizational patterns, there is a lot the participants can take from this focus group that will make them approach organizational patterns of software development (or any other patterns intended to build organizations of people at work) in a more relaxed and natural way. In particular, we will reflect on where to start, how to actually apply a pattern, how to improve a pattern, how to modify a pattern, how to incept a higher level pattern, how to retract a pattern, and pattern composition. No acting experience is required. No knowledge of software patterns is assumed. 
+  
+ Games   
+  
+ Games 
+ The PLoP Games Master is Christian Kohls  (see schedule) 
+ Christian Kohls  PhD is a professor for computer science and socio-technical systems at Germany’s largest university of applied sciences, the TH Köln. Patterns are a big part of his life – including software patterns, educational patterns, and patterns for creative thinking. Being a regular PLoP participant he never misses a game session – for the fun, inspiration and community building. 
+  
+ Art School   
+  
+ Art School 
+ At PLoP we believe that creativity knows no bounds. As you prepare to embark on a journey of exploration, learning, and connection, we invite you to immerse yourself in the vibrant world of art activities that will unfold throughout our three unforgettable days together. More information about the Art School can be found here. 
+ Rebecca Rikner  is a bridge builder, change agent, award-winning graphic designer, and author of the book Design Thinking—The Key to Enterprise Agility, Innovation, and Sustainability. She has been part of the PLoP family for over twenty years. 
+  
+ Accepted Papers   
+ All accepted papers are organized into Writer's Workshops. You need to download and read the papers from your group before the conference. The papers can be downloaded from here.   
+ All of the Writer’s Workshop Groups for PLoP 2023 have uniques names. To see where they came from and why are we using them click here.  [ High Quality  ]  
+   
+ Writers' Workshops 
+ Group 1 Seljuk Being  , led by Richard P. Gabriel 
+ 17: Leading a Software Architecture Revolution “Part 2b: Tactical Prioritization”   
+  by Marden Neubert and Joseph W. Yoder  
+ 30: Aha! Strategies for Gaining Insights into Software Design   
+  by Mary Shaw  
+ 31: Using Japanese Yokai as a Pattern Language in a Corporate Culture Case Study   
+  by Kurihara Wataru and Hasegawa Atsushi  
+ 43: Patterns for Returning Multiple Results   
+  by Andrew P. Black  
+ 44: A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT   
+  by Jules White, Quchen Fu, Sam Hays, Michael Sandborn, Carlos Olea, Henry Gilbert, Ashraf Elnashar, Jesse Spencer-Smith, and Douglas C. Schmidt 
+ Group 2 Turtles in the Border  , led by Neil Harrison 
+ 4: Circle of Responsibility   
+  by Neil Harrison  
+ 5: Organizational Patterns: Looking Back Nearly 30 Years   
+  by Neil Harrison  
+ 8: Unveiling Connections: Integrating Climate Studies and Cybersecurity Education   
+  by Mary Tedeschi  
+ 18: Patterns of Patterns II   
+  by Joseph Corneli, Noorah Alhasan, Leo Vivier, Alex Murphy, Raymond S. Puzio, Abby Tabor, Sridevi Ayloo, Charlotte Pierce, Mary Tedeschi, Manvinder Singh, Kajol Khetan, and Charles J. Danoff  
+ 24: Pattern Manga: Attractively Expressing Patterns of a Pattern Language in Manga Style   
+  by Takashi Iba, Hiroaki Tanaka, Sae Adachi, Mizuki Ota, and Urara Tajima 
+ Group 3 Saph Mihrab with Plum Blossoms  , led by Rebecca Wirfs-Brock 
+ 7: Oral History of Applying Pattern Language to New Domains: Places, Programs, and Practices   
+  by Takashi Iba  
+ 15: Development of Co-Creative Processes Found in Environmentally or Developmentally Advanced Cities Using Pattern Language   
+  by Takuya Togawa, Satoshi Ohnishi, Hideya Fukushima, Ryoko Gotoh, and Yasuko Gomi  
+ 21: Unlocking the Secrets of Generative Patterns   
+  by Lise Hvatum and Rebecca Wirfs-Brock  
+ 25: CheriSharing Patterns: A Pattern Language for Sharing Cherished Qualities of a Community   
+  by Sawami Shibata, Kento Takamura, Yuki Maeda, and Takashi Iba  
+ 26: Patterns for Deepening Understanding with Peers in a Pattern Language for Value-Creation Marketing   
+  by Takashi Iba, Miho Masai, Yuuri Abe, and Yuji Kosaka 
+ Group 4 Endless Repeating Design  , led by Steve Berczuk 
+ 6: SCM Pattern Looking Back and Forward   
+  by Steve Berczuk  
+ 9: Pattern Language for the Modeling Practices of MATLAB and Simulink   
+  by Hiroki Itoh and Yasuo Hosotan  
+ 14: Patterns for Software Systems in Low-Resource Environments   
+  by Abayomi Agbeyangi and Hussein Suleman  
+ 16: Well-Being Patterns: A Pattern Language for Well-Being at Work   
+  by Erika Inoue, Kazuki Hioki, An Hikino, Yutaka Otsuka, Tatsuo Hidaka, Masatada Kobayashi, and Takashi Iba  
+ 20: Patterns for Low-Code Developer Experience   
+  by Daniel Pinho, Ademar Aguiar, and Vasco Amaral 
+ Group 5 Waving Border  , led by Valentino Vranić 
+ 10: Patterns of Organizing Remote Users with Agile Teams   
+  by Mohammad Daud Haiderzai and Valentino Vranić  
+ 11: Exploring the Intersection of Society, Culture and Technology: Bridging the Knowledge Gap Between Digital Transformation and Traditional Operations   
+  by Mohammad Yusuf Momand and Valentino Vranić  
+ 19: Corporate Values to a Pattern Language, Part 2: The Case of Rakuten Group’s Five Principles for Success   
+  by Haruto Aoki, Erika Inoue, Sawami Shibata, Yukiko Ochiai, Tatsuo Hidaka, Masatada Kobayashi, and Takashi Iba  
+ 22: A Pattern Language for Filipino Youth to Live a Self-Reliant Life   
+  by Takako Kanai, Mizuki Ota, and Takashi Iba  
+ 23: Generator Patterns: A Way of Being That Fascinates Others with the Attractive World and Generates Discoveries and Excitement   
+  by Kaito Shiota, Kiyoka Hayashi, Aoi Imai, Ema Okubo, Hiroaki Tanaka, and Takashi Iba 
+ Group 6 Flaming Animal Spirit with Vultures  , led by Kyle Brown 
+ 3: Patterns for Quantum Circuit Cutting   
+  by Marvin Bechtold, Johanna Barzen, Martin Beisel, Frank Leymann, and Benjamin Weder  
+ 12: Towards a Software Architecture Training Pattern Language   
+  by Wilson Libardo Pantoja Yepez, Julio Ariel Hurtado Alegria, Luis Mariano Bibbo, Alejandro Fernandez, and Ajay Bandi  
+ 28: Security Argument patterns for Deep Neural Network Development   
+  by Marwa Zeroual, Brahim Hamid, Morayo Adedjouma, and Jason Jaskolka  
+ 32: Software Engineering Patterns for Machine Learning Applications (SEP4MLA)   
+  by Hironori Washizaki, Foutse Khomh, Yann-gaël Guéhéneuc, Hironori Takeuchi, Satoshi Okuda, and Naotake Natori  
+ 33: Classification of Human-Human and Human-AI Pair Programming Effects and Expansion for AI Pair Programming Patterns   
+  by Yuma Takai, Hironori Washizaki, Nobukazu Yoshioka, and Yoshiaki Fukazawa 
+
+ PLoP® is a trademark of Hillside Group  . To keep up on the latest information, follow the official twitter-feed: @PLoPconf  or subscribe to plop-announce-subscribe@hillside.net  .

@@ -1,0 +1,884 @@
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    
+    
+<div id="page-wrapper" class="position-absolute w-100">
+  <div id="page">
+                      
+            
+            <header id="header" class="header bg-white  " role="banner" aria-label="Site header">
+
+            
+  
+        <div class="block clearfix small ieee-meta-nav-wrapper bg-dark">
+	
+		<div class="ieee-meta-nav-container container">
+			<div class="row">
+
+				<div class="ieee-meta-nav flex-fill text-center text-md-left float-md-left m-2">
+					<p id="ieee-meta-nav-menu" class="text-white"><a href="https://www.ieee.org/index.html" target="_blank">IEEE.org</a> &nbsp;|&nbsp; <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE <em>Xplore</em> Digital Library</a> &nbsp;|&nbsp; <a href="https://standards.ieee.org/" target="_blank">IEEE Standards</a> &nbsp;|&nbsp; <a href="https://spectrum.ieee.org/" target="_blank">IEEE Spectrum</a> &nbsp;|&nbsp; <a href="https://www.ieee.org/sitemap.html" target="_blank">More Sites</a></p>
+				</div>
+
+				<div class="ieee-meta-logo flex-fill text-center text-md-right float-md-right m-2">
+					<a href="https://ieee.org" target="_blank">
+						<img class="ieee-meta-logo-img" src="https://www.ieee.org/content/dam/ieee-global/images/ieee_mb_white.png" alt="IEEE.org" style="width:auto; height:20px;">
+					</a>
+				</div>
+
+			</div>
+		</div>
+
+	</div>
+
+  
+
+
+      
+      <div class="header-inner container">
+        <div class="row">
+                                    <div class="col mr-auto">
+                  <div>
+    
+
+<div id="branding-block" class="col-md-5 clearfix site-branding py-2 block block-system block-system-branding-block" data-block-plugin-id="system_branding_block">
+  
+
+      <a href="/" title="Home" rel="home" class="site-logo">
+      <img src="/sites/ieeecss/files/IEEE%20Control%20Systems%20Society%20Logo%20RGB.jpg" alt="Home">
+    </a>
+    </div>
+  </div>
+
+              </div>
+                      
+                                          <aside id="header-aside" class="col-auto pr-0">
+                <div class="d-flex flex-column align-items-end">
+    
+<div id="block-css-socialmedialinks" class="justify-content-end p-3 pb-3 d-none d-md-block mt-0 block-social-media-links block block-social-media-links-block" data-block-plugin-id="social_media_links_block">
+  
+    
+      <div class="content">
+      
+
+<ul class="social-media-links--platforms platforms inline horizontal d-flex m-0">
+      <li>
+      <a href="https://www.twitter.com/CSSIEEE" aria-label="Follow us on Twitter" title="Follow us on Twitter">
+        <span class="fab fa-twitter fa-2x"></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="/form/contact" aria-label="Contact us" title="Contact us">
+        <span class="fa fa-envelope fa-2x"></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="https://www.facebook.com/CSSIEEE" aria-label="Follow us on Facebook" title="Follow us on Facebook">
+        <span class="fab fa-facebook fa-2x"></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="https://www.linkedin.com/groups/1514847" aria-label="Follow us on LinkedIn" title="Follow us on LinkedIn">
+        <span class="fab fa-linkedin fa-2x"></span>
+      </a>
+
+          </li>
+  </ul>
+
+    </div>
+  </div>
+
+<div class="views-exposed-form justify-content-end d-none d-md-block px-3 block block-views block-views-exposed-filter-blocksearch-page" data-drupal-selector="views-exposed-form-search-page" id="block-confcats-barrio-search" data-block-plugin-id="views_exposed_filter_block:search-page">
+  
+    
+      <div class="content">
+      
+<form block="block-confcats-barrio-search" action="/search" method="get" id="views-exposed-form-search-page" accept-charset="UTF-8">
+  <div class="form-group">
+    <div class="form-row">
+  
+  <fieldset class="js-form-item js-form-type-textfield form-type-textfield js-form-item-keywords form-item-keywords d-flex flex-column mb-2 form-group">
+          <label for="edit-keywords">Keywords</label>
+                <input data-drupal-selector="edit-keywords" type="text" id="edit-keywords" name="keywords" value="" size="30" maxlength="128" class="form-text form-control w-100">
+
+                  </fieldset>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-group" id="edit-actions"><input data-drupal-selector="edit-submit-search" type="submit" id="edit-submit-search" value="Search" class="button js-form-submit form-submit btn btn-primary">
+</div>
+
+</div>
+
+  </div>
+</form>
+
+    </div>
+  </div>
+
+  </div>
+
+            </aside>
+                  </div>
+      </div>
+
+      <div class="sub-header container">
+        <div class="row">
+                  </div>
+      </div>
+                    <nav id="navigation" class="navbar dark primary navbar-expand-md navbar-dark bg-primary navbar-expand-lg p-0 d-flex align-items-stretch bottom-shadow-sm">
+          <div class="container d-flex justify-content-center">
+                                                <button class="navbar-toggler navbar-toggler-right m-3" type="button" data-toggle="collapse" data-target="#CollapsingNavbar" aria-controls="CollapsingNavbar" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse d-md-flex align-items-stretch" id="CollapsingNavbar">
+                              
+  <div id="block-cc-main-nav-mega-menu" class="container mb-3 block block-menu navigation menu--cc-main-nav-mega-menu" data-block-plugin-id="system_menu_block:cc-main-nav-mega-menu">
+  
+      
+                    <ul block="block-cc-main-nav-mega-menu" class="menu menu--simple-mega-menu nav navbar-nav flex-fill">
+                                                
+              <li class="menu-item nav-item d-flex align-items-stretch active position-static">
+                                                                  <a href="/about" class="nav-link flex-fill" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/15606">About</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch menu-item--expanded active dropdown position-static">
+                                
+                                                                                      <a href="/" class="nav-link flex-fill dropdown-toggle" data-target="#" data-toggle="dropdown" aria-expanded="false" data-drupal-link-system-path="<front>">Publications</a>
+                                                                                                                        <ul class="mega-menu-dropdown dropdown-menu w-100 container-fluid">
+          <div class="row">
+                                                    
+              <li class="col-md-4 menu-item mega-menu-column menu-item--expanded active dropdown Array">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">General Information</span>
+                                                                                                                            <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/publications" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/15811">IEEE CSS Publications</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/publications/css-ethical-rules-publications" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/346">Ethical Rules of Publications</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/publications-content-digest" data-target="#" aria-expanded="false" data-drupal-link-system-path="publications-content-digest">Publications Digest</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/control-societal-scale-challenges-road-map-2030" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/30196">Control for Societal-Scale Challenges Roadmap 2030</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/impact-control-technology-1st-edition" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/15291">The Impact of Control Technology - 1st ed.</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/impact-control-technology-2nd-edition" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/291">The Impact of Control Technology - 2nd ed.</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/about/ieee-press-series-control-systems-theory-and-applications" title="IEEE Press Book Series on Control Systems Theory and Applications" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/18406">IEEE Press Book Series</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                                        
+              <li class="col-md-8 list-2-col menu-item mega-menu-column menu-item--expanded active dropdown Array">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">Society Publications</span>
+                                                                                                                            <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/publication/ieee-control-systems-letters" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/196">Control Systems Letters</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/publication/ieee-control-systems-magazine" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/186">IEEE Control Systems Magazine</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/publication/open-journal-control-systems" title="The IEEE Open Journal of Control Systems is a new publication of the IEEE Control Systems Society. The journal aims to publish high-quality papers on the theory, design, optimization, and applications of dynamic systems and control." data-target="#" aria-expanded="false" data-drupal-link-system-path="node/24321"> IEEE Open Journal of Control Systems</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/publication/transactions-automatic-control" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/141">Transactions on Automatic Control</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/publication/transactions-control-network-systems" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/176">Transactions on Control of Network Systems</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/publication/transactions-control-systems-technology" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/161">Transactions on Control Systems Technology</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/publication/e-letter" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/13681">E-Letter (discontinued)</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/publication/css-state-space-forum" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/20531">State-Space Forum</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                                        
+              <li class="menu-item mega-menu-column active">
+                                                                  <a href="/publication/open-journal-control-systems" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/24321">Open Journal Control Systems</a>
+                                                                              </li>
+                      </div></ul>
+              
+                                                </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch menu-item--expanded active dropdown position-static">
+                                
+                                                                                      <a href="/" class="nav-link flex-fill dropdown-toggle" data-target="#" data-toggle="dropdown" aria-expanded="false" data-drupal-link-system-path="<front>">Conferences</a>
+                                                                                                                        <ul class="mega-menu-dropdown dropdown-menu w-100 container-fluid">
+          <div class="row">
+                                                    
+              <li class="col-md-8 list-2-col menu-item mega-menu-column menu-item--expanded active dropdown Array">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">Conferences</span>
+                                                                                                                            <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/conferences/general-information" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/436">CSS Conferences</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/conferences/financially-sponsored-conferences" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/18366">Financially Sponsored Conferences</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/conferences/technically-co-sponsored-conferences" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/18556">Technically Co-Sponsored Conferences</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/conferences/all" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/18276">Conference Listing</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/conferences/conference-editorial-board" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/446">Conference Editorial Board (CEB)</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/conferences/technology-conference-editorial-board-tceb" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/16226">Technology Conference Editorial Board (TCEB)</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/conferences/conference-publications" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/451">Conference Publications</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/conferences/request-technical-co-sponsorship" title="Request a CSS Technical Co-sponsorship" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/28796">Request Technical Co-Sponsorship</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/conferences/request-technical-co-sponsorship#adding" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/28796">Add a Conference</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                                        
+              <li class="col-md-4 menu-item mega-menu-column menu-item--expanded active dropdown Array">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">Conference Organizers</span>
+                                                                                                                            <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/activities/conference-budgets" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/361">Conference Budgets</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                      </div></ul>
+              
+                                                </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch menu-item--expanded active dropdown position-static">
+                                
+                                                                                      <a href="/" class="nav-link flex-fill dropdown-toggle" data-target="#" data-toggle="dropdown" aria-expanded="false" data-drupal-link-system-path="<front>">Activities</a>
+                                                                                                                        <ul class="mega-menu-dropdown dropdown-menu w-100 container-fluid">
+          <div class="row">
+                                                    
+              <li class="col-md-4 menu-item mega-menu-column menu-item--expanded active dropdown Array">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">Technical Activities</span>
+                                                                                                                            <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/activities/css-technical-activities" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/381">CSS Technical Activities</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/technical-committee/tc-chair-guidelines" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/386">TC Chair Guidelines</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/activities/history-css-tab" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/391">History of CSS TAB</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                                        
+              <li class="col-md-8 list-2-col menu-item mega-menu-column menu-item--expanded active dropdown Array">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">Member Activities</span>
+                                                                                                                            <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/activities/member-activities" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/20711">CSS Member Activities</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/member-activities/distinguished-lecturer-program" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/25966">Distinguished Lecturer Program</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/activities/chapter-activities" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/416">CSS Chapter Activities</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                                        
+              <li class="col-md-4 menu-item mega-menu-column menu-item--expanded active dropdown Array">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">Technical Committees</span>
+                                                                                                                            <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/activities/technical-committees" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/22181">Technical Committees</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                                        
+              <li class="col-md-4 menu-item mega-menu-column menu-item--expanded active dropdown Array">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">Student Activities</span>
+                                                                                                                            <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/about/student-membership" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/29596">Student Membership</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/activities/student-travel-support" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/366">Student Travel Support</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/activities/student-workshop-support" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/29591">Student Workshop Support</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/activities/student-branch-chapters" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/371">Student Branch Chapters</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                                        
+              <li class="col-md-4 menu-item mega-menu-column menu-item--expanded active dropdown Array">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">Financial Activities</span>
+                                                                                                                            <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/activities/css-financial-activities" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/351">CSS Financial Activities</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/about/travel-policy" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/356">Travel Support</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/activities/conference-budgets" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/361">Conference Budgets</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                                        
+              <li class="menu-item mega-menu-column menu-item--expanded active dropdown">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">Diversity, Outreach, and Development Activities</span>
+                                                                                                                            <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/activities/css-diversity-outreach-and-development-activities" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/30733">CSS on Diversity, Outreach, and Development Activities</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/doda-activities/women-control" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/18076">Women in Control</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/activities/control-systems-society-outreach-fund" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/16841">Outreach Fund</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/ieee-control-systems-society-graduate-collaboration-fellowship" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/30202">CSS Graduate Collaboration Fellowship</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                      </div></ul>
+              
+                                                </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch menu-item--expanded active dropdown position-static">
+                                
+                                                                                      <a href="/" class="nav-link flex-fill dropdown-toggle" data-target="#" data-toggle="dropdown" aria-expanded="false" data-drupal-link-system-path="<front>">Awards</a>
+                                                                                                                        <ul class="mega-menu-dropdown dropdown-menu w-100 container-fluid">
+          <div class="row">
+                                                    
+              <li class="col-md-12 menu-item mega-menu-column active Array">
+                                                                  <span class="p-0 Array" data-simple-mega-menu="6" data-target="#" aria-expanded="false">Award Nominations</span>
+                                                                  <div class="mega-menu-wrapper">
+                    <div class="mega-menu-background"></div>
+                                        
+
+<div class="simple-mega-menu mega-menu-item simple-mega-menu-type-cc-component view-mode-after">
+  
+      
+
+
+
+
+
+
+
+<div id="paragraph-2966" class="paragraph paragraph--type--cc-paragraph-container paragraph--view-mode--default position-relative">
+    <div class="container">
+
+    
+          
+      
+
+
+
+
+
+
+
+<div id="paragraph-2961" class="text-white paragraph paragraph--type--cc-paragraph-container paragraph--view-mode--default position-relative p-3 paragraph--background-color" style="background-color: RGBA(75,134,0,0.8)">
+    <div class="container">
+
+    
+          
+      
+
+
+
+
+  
+
+<div id="paragraph-2956" class="paragraph paragraph--type--simple paragraph--view-mode--default">
+   <div class="container">       
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><p class="h2 font-weight-bold text-center font-family-sans-serif-condensed text-white d-md-inline-block float-md-left mt-0 mb-3 mb-md-0">Call for Award Nominations</p>
+
+<p class="d-md-inline-block mb-0 text-center float-md-right"><a href="/awards/call-award-nominations" class="btn btn-outline-light rounded">More Info</a></p>
+</div>
+      
+     </div> </div>
+
+  
+    
+  </div>
+
+</div>
+  
+    
+  </div>
+
+</div>
+  </div>
+
+                  </div>
+                                              </li>
+                                        
+              <li class="col-md-4 menu-item mega-menu-column menu-item--expanded active dropdown Array">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">CSS Awards Information</span>
+                                                                                                                            <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/award-recognition-program" data-target="#" aria-expanded="false">Awards Program</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/css-ieee-fellows" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/13891">CSS IEEE Fellows</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/other-ieee-awards" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/331">Other IEEE Awards</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/award-listing" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/15281">Award Listing</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/2020-annual-awards-ceremony" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/19181">2020 Awards Ceremony Video</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                                        
+              <li class="col-md-8 list-2-col menu-item mega-menu-column menu-item--expanded active dropdown Array">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">CSS Awards</span>
+                                                                                                                            <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/ieee-css-hendrik-w-bode-lecture-prize" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/11">Hendrik W. Bode Lecture Prize</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/ieee-css-antonio-ruberti-young-researcher-prize" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/76">Antonio Ruberti Young Researcher Prize</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/george-s-axelby-outstanding-paper-award" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/81">George S. Axelby Outstanding Paper Award</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/ieee-transactions-control-systems-technology-outstanding-paper-award" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/86">TCST Outstanding Paper Award</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/ieee-control-systems-magazine-outstanding-paper-award" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/91">CSM Outstanding Paper Award</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/ieee-control-systems-technology-award" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/96">Control Systems Technology Award</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/award-technical-excellence-aerospace-control" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/126">Award for Technical Excellence in Aerospace Control</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/control-systems-society-transition-practice-award" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/101">Transition to Practice Award</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/ieee-control-systems-letters-outstanding-paper-award" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/14101">IEEE Control Systems Letters Outstanding Paper Award</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/ccta-best-student-paper-award" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/106">CCTA Best Student Paper Award</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/cdc-best-student-paper-award" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/111">CDC Best Student Paper Award</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/ieee-css-outstanding-chapter-award" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/116">Outstanding Chapter Award</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/distinguished-member-award" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/121">Distinguished Member Award</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/transactions-control-network-systems-outstanding-paper-award" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/131">TCNS Outstanding Paper Award</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/roberto-tempo-best-cdc-paper-award" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/681">Roberto Tempo Best CDC Paper Award</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/ieee-control-systems-society-graduate-collaboration-fellowship" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/30202">IEEE Control Systems Society Graduate Collaboration Fellowship</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                      </div></ul>
+              
+                                                </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active position-static">
+                                                                  <a href="/videos-webinars" class="nav-link flex-fill" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/16241">Videos &amp; Webinars</a>
+                                                                              </li>
+                      </ul>
+              
+    
+  </div>
+
+
+            </div>
+          </div>
+        </nav>
+                </header>
+    
+    <div id="nav-break"></div>
+
+              <div class="highlighted section clearfix">
+        
+      </div>
+        
+
+                
+
+
+        
+            
+        <div id="main-wrapper" class="layout-main-wrapper clearfix">
+
+                  
+            
+        
+            
+      
+                                                                    <div class="container">
+                  
+                        <div id="main" class="main-wrapper ">
+                              
+          <div class="row row-offcanvas row-offcanvas-left clearfix">
+
+            
+                                    <main class="main-content col" id="content" role="main">
+              <section class="section">
+                <a id="main-content" tabindex="-1"></a>
+                  <div>
+    <div data-drupal-messages-fallback="" class="hidden"></div>
+
+<div id="block-confcats-barrio-content" class="mt-2 block block-system block-system-main-block" data-block-plugin-id="system_main_block">
+  
+    
+      <div class="content">
+      
+<!-- Modal -->
+<div class="modal fade" id="node-call-documents-30232" tabindex="-1" role="dialog" aria-labelledby="node30232Label" aria-hidden="true">
+  <div class="modal-dialog modal-sm" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+                <div class="modal-title">
+          <h5 class="modal-title" id="node-call-documents-30232-Label">Call Documents</h5>
+        </div>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">×</span>
+        </button>
+      </div>
+      <div class="modal-body">
+
+        <div class="list-group">
+                    
+        </div>
+      </div>
+
+      <div class="modal-footer">
+              </div>
+
+    </div>
+  </div>
+</div>
+
+  
+    
+                
+                  
+    
+            
+    
+                                          
+      
+<article data-history-node-id="30232" role="article" about="/event/21st-international-symposium-and-modeling-and-optimization-mobile-ad-hoc-and-wireless" class="node node--type-cc-event node--view-mode-full clearfix">
+	
+	<div class="node__content clearfix">
+
+				
+			<div class="container px-0"> <div class="row no-gutters">
+
+				
+				
+					<div class="col-12 col-md-8 bg-light img-fluid"><img src="/sites/ieeecss/files/styles/cc_event/public/images/events/wiopt_image.png?itok=q_hmAt76" alt=""></div>
+
+				
+				
+				<div class="col-12 col-md-4 text-center text-md-left bg-light">
+
+					
+					<div class="border-bottom p-3">
+						<p class="h6 text-uppercase mb-0">
+							<a href="/taxonomy/term/26" class="text-muted">Technically Co-sponsored</a>
+						</p>
+						<p class="h6 text-uppercase">
+							<a href="/taxonomy/term/21" class="text-muted">Conference</a>
+						</p>
+					</div>
+
+					
+					<div class="p-3">
+																			<p class="h2 m-0 font-weight-bold">WiOpt 2023</p>
+																		<h1 class="h3">21st International Symposium and Modeling and Optimization in Mobile, Ad Hoc and Wireless Networks</h1>
+					</div>
+
+				</div>
+			</div>
+
+						<div class="row no-gutters bg-primary justify-content-center justify-content-md-start pt-2 px-2">
+													
+													<a href="https://esd.sutd.edu.sg/wiopt2023/index.html" target="_blank" class="btn btn-light mr-2 mb-2">
+						<i class="fas fa-globe mr-2"></i>Website</a>
+				
+							</div>
+
+			<div class="row no-gutters">
+
+								<div class="col-12 col-md-8 order-2 order-md-1 pt-3 pr-md-3">
+
+					
+										
+					
+					<hr class="d-md-none">
+
+					<div class="text-center text-md-left">
+						<h3 class="text-uppercase h6 font-weight-bold mb-1">Share This Event</h3>
+						<!-- Facebook share button -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://ieeecss.org/event/21st-international-symposium-and-modeling-and-optimization-mobile-ad-hoc-and-wireless&amp;title=21st International Symposium and Modeling and Optimization in Mobile, Ad Hoc and Wireless Networks" target="_blank" title="Share to Facebook" rel="noopener">
+  <div role="group" class="btn-group mr-1 mb-2" aria-label="Facebook share button">
+    <span class="btn btn-facebook py-1 text-white"><i class="fab fa-facebook-f"></i></span>
+    <span class="btn btn-facebook py-1 text-white">facebook</span>
+  </div>
+</a>
+
+<!-- Twitter share button -->
+<a href="https://twitter.com/share?text=21st International Symposium and Modeling and Optimization in Mobile, Ad Hoc and Wireless Networks&amp;url=https://ieeecss.org/event/21st-international-symposium-and-modeling-and-optimization-mobile-ad-hoc-and-wireless" target="_blank" title="Share to Twitter" rel="noopener">
+  <div role="group" class="btn-group mr-1 mb-2" aria-label="Twitter share button">
+    <span class="btn btn-twitter py-1 text-white"><i class="fab fa-twitter"></i></span>
+    <span class="btn btn-twitter py-1 text-white">twitter</span>
+  </div>
+</a>
+
+<!-- Linkedin share button -->
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://ieeecss.org/event/21st-international-symposium-and-modeling-and-optimization-mobile-ad-hoc-and-wireless&amp;title=21st International Symposium and Modeling and Optimization in Mobile, Ad Hoc and Wireless Networks&amp;source=https://ieeecss.org/event/21st-international-symposium-and-modeling-and-optimization-mobile-ad-hoc-and-wireless" target="_blank" title="Share to Linkedin" rel="noopener">
+  <div role="group" class="btn-group mr-1 mb-2" aria-label="Linkedin share button">
+    <span class="btn btn-linkedin py-1 text-white"><i class="fab fa-linkedin-in"></i></span>
+    <span class="btn btn-linkedin py-1 text-white">linkedin</span>
+  </div>
+</a>
+
+
+<!-- Email share button -->
+<a href="/cdn-cgi/l/email-protection#67581412050d0204135a55561413472e091302150906130e0809060b47341e0a1708140e120a47060903472a0803020b0e090047060903472817130e0a0e1d06130e0809470e09472a08050e0b024b472603472f08044706090347300e15020b021414472902131008150c14410508031e5a0f131317145d48480e0202020414144908150048021102091348555614134a0e091302150906130e0809060b4a141e0a1708140e120a4a0609034a0a0803020b0e09004a0609034a0817130e0a0e1d06130e08094a0a08050e0b024a06034a0f08044a0609034a100e15020b021414" title="Share to E-mail" target="_blank" rel="noopener">
+  <div role="group" class="btn-group mr-1 mb-2" aria-label="Email share button">
+    <span class="btn btn-odnoklassniki py-1 text-white"><i class="fas fa-envelope"></i></span>
+    <span class="btn btn-odnoklassniki py-1 text-white">Email</span>
+  </div>
+</a>
+
+
+
+					</div>
+
+				</div>
+
+								<div class="col-12 col-md-4 order-1 order-md-2">
+
+										<div class="bg-light ">
+
+												<div class="col-6 col-md-12 d-flex flex-row p-3">
+														<div class="">
+															<i class="fal fa-clock fa-2x fa-fw text-muted"></i>
+							</div>
+														<div class="ml-3 flex-fill ">
+																<h2 class="text-uppercase h6 font-weight-bold mb-1">Date &amp; Time</h2>
+																<p class="mb-1 h6">Thu, August 24, 2023	– <br> Sun, August 27, 2023</p>
+																<p class="small text-muted"><i class="fas fa-calendar-alt mr-2"></i><a href="/simple_ics/30232/field_cc_sdate/field_cc_edate">Add to calendar</a></p>
+							</div>
+						</div>
+
+												<div class="col-6 col-md-12 d-flex flex-fill flex-row border-top p-3">
+														<div class="">
+																<i class="fal fa-map-marker-alt fa-2x fa-fw text-muted"></i>
+							</div>
+														<div class="ml-3 flex-fill ">
+																<h2 class="text-uppercase h6 font-weight-bold mb-1">Location</h2>
+																																														<p class="mb-0 h6">Nanyang Technological University (NTU), Singapore</p>
+																				<p class="mt-1 small text-muted">
+											<a class="text-muted" target="_blank" href="https://www.google.com/maps/place/Nanyang Technological University (NTU), Singapore"><i class="fas fa-map-marker-alt mr-2"></i>Nanyang Technological University (NTU), Singapore</a>
+																					</p>
+																</div>
+						</div>
+					</div>
+
+					
+				</div>
+
+			</div>
+			
+		</div>
+
+	</div>
+
+</article>
+
+    </div>
+  </div>
+
+  </div>
+
+              </section>
+            </main>
+
+            
+          </div>
+        </div>
+
+                            </div>
+                    </div>
+      </div>    
+            
+            
+        <footer id="footer" class="footer w-100">
+      
+                        
+
+                        
+                <div id="footer-bottom-first-wrapper" class="bg-dark py-3">
+          <div class="container">
+            <div class="row">
+
+                              <div id="footer-bottom-first" class="footer-bottom-copyright text-center text-lg-left pr-0">
+                  
+<div class="block clearfix small ieee-footer-wrapper">
+					<p id="footer-nav-ieee">
+			<a href="http://www.ieee.org/index.html" id="u-home" target="_blank">Home</a>
+			&nbsp;|&nbsp;
+			<a href="http://www.ieee.org/sitemap.html" id="u-home" target="_blank">Sitemap/More Sites</a>
+			&nbsp;|&nbsp;
+			<a href="http://www.ieee.org/about/contact_center/index.html" id="u-contact" target="_blank">Contact &amp; Support</a>
+			&nbsp;|&nbsp;
+			<a href="http://www.ieee.org/accessibility_statement.html" id="u-accessibility" target="_blank">Accessibility</a>
+			&nbsp;|&nbsp;
+			<a href="http://www.ieee.org/p9-26.html" id="u-non" target="_blank">Nondiscrimination Policy</a>
+			&nbsp;|&nbsp;
+			<a href="http://www.ieee.org/security_privacy.html" id="u-privacy" target="_blank">IEEE Privacy Policy</a>
+		</p>
+
+		<p id="footer-copyright-ieee">© Copyright 2024 IEEE – All rights reserved. Use of this website signifies your agreement to the <a target="" href="http://www.ieee.org/site_terms_conditions.html" id="u-terms"><u>IEEE Terms and Conditions</u></a>.<br>
+			A not-for-profit organization, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
+		</p>
+	</div>
+                </div>
+              
+            </div>
+          </div>
+        </div>
+
+                <div id="footer-bottom-second-wrapper" class="py-3" style="background-color: #222 !important;">
+          <div class="container">
+            <div class="row">
+
+                              <div id="footer-bottom-second" class="footer-bottom-copyright text-center text-lg-left w-100 pr-0">
+                  <div class="block clearfix small confcats-copyright-wrapper">
+                    
+                  
+      <p>This site is created, maintained, and managed by <a href="http://conferencecatalysts.com" target="_blank">Conference Catalysts, LLC</a>.
+        <br>
+        Please feel free to <a href="http://conferencecatalysts.com/contact" target="_blank">contact us</a> for any assistance.
+      </p>
+
+  </div>                </div>
+              
+            </div>
+          </div>
+        </div>
+
+
+        
+          </footer>
+    
+  </div>
+  <div class="nav-focus">&nbsp;</div>
+  <a id="back-to-top" href="#" class="btn btn-light btn-lg back-to-top" role="button"><i class="fas fa-chevron-up"></i></a>
+</div>

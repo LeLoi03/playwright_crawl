@@ -1,0 +1,45 @@
+  Publications 
+  Rowhammer 
+  Last Updated: June 2024   
+ Publications (by year, by area  )   
+ Towards Multi-Stakeholder Clouds   
+  Bohdan Borysei, Stefan Saroiu, Eyal de Lara  
+  Proceedings of the 25th International Workshop on Mobile Computing Systems and Applications (HotMobile)  , San Diego, CA, February 2024.  
+ 2023    
+ Siloz: Leveraging DRAM Isolation Domains to Prevent Inter-VM Rowhammer   
+  Kevin Loughlin, Jonah Rosenblum, Stefan Saroiu, Alec Wolman, Dimitrios Skarlatos, Baris Kasikci  
+  Proceedings of the 29th Symposium on Operating Systems Principles (SOSP)  , Koblenz, Germany, October 2023.  
+ “My face, my rules”: Enabling Personalized Protection against Unacceptable Face Editing   
+  Zhujun Xiao, Jenna Cryan, Yuanshun Yao, Yi Hong Gordon Cheo, Yuanchao Shu, Stefan Saroiu, Ben Zhao, and Heather Zheng  
+  Proceedings of the 23rd Privacy Enhancing Technologies Symposium (PETS)  , Lausanne, Switzerland, July 2023.  
+ 2022    
+ How to Configure Row-Sampling-Based Rowhammer Defenses   
+  Stefan Saroiu and Alec Wolman  
+  Proceedings of the 2nd Workshop on DRAM Security (DRAMSec)  , Virtual Event, June 2022.  
+  Watch the 15-minute presentation  . Check out the source code  .  
+  (In Nov. 2022, we found an incorrect claim and added an Errata to the paper on Page 7.)   
+ MOESI-prime: Preventing Coherence-Induced Hammering in Commodity Workloads   
+  Kevin Loughlin, Stefan Saroiu, Alec Wolman, Yatin A. Manerkar, and Baris Kasikci  
+ Invited Paper   
+  The Price of Secrecy: How Hiding Internal DRAM Topologies Hurts Rowhammer Defenses   
+  Stefan Saroiu, Alec Wolman, and Lucian Cojocar  
+  Proceedings of International Reliability Physics Symposium  , Dallas, TX, March 2022.  
+  Watch the 20-minute presentation  .   
+  Watch the 18-minute presentation  .   
+ Best Paper Nominee   
+  Zero-Effort Payments: Design, Deployment, and Lessons   
+  Christopher Smowton, Jacob R. Lorch, David Molnar, Stefan Saroiu, and Alec Wolman  
+  Krishna P. Gummadi, Richard J. Dunn, Stefan Saroiu, Steven D. Gribble, Henry M. Levy, and John Zahorjan  
+ Best Paper Award   
+  SkipNet: A Scalable Overlay Network with Practical Locality Properties   
+  Nicholas J. A. Harvey, Michael B. Jones, Stefan Saroiu, Marvin Theimer, and Alec Wolman  
+ Best Student Paper Award   
+  An Analysis of Internet Content Delivery Systems   
+  Stefan Saroiu, Krishna P. Gummadi, Richard J. Dunn, Steven D. Gribble, and Henry M. Levy  
+ Best Student Paper Award   
+  King: Estimating Latency between Arbitrary Internet End Hosts   
+  Krishna P. Gummadi, Stefan Saroiu, and Steven D. Gribble  
+  Visit the SProbe project page  at the University of Washington.   
+ Best Paper Award   
+  A Measurement Study of Peer-to-Peer File Sharing Systems   
+  Stefan Saroiu, P. Krishna Gummadi, and Steven D. Gribble  

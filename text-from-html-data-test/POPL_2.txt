@@ -1,0 +1,1245 @@
+POPL 2023   Sun 15 - Sat 21 January 2023 Boston, Massachusetts, United States    
+
+ Toggle navigation        
+ Attending | Venue: Boston Park Plaza 
+  Supporting POPL 
+  Registration 
+  Information for Students 
+  Information for Presenters 
+  Information for Virtual Attendees 
+  Nearby Events 
+  Program | POPL Program 
+  Your Program 
+   Filter by Day | Sun 15 Jan 
+  Mon 16 Jan 
+  Tue 17 Jan 
+  Wed 18 Jan 
+  Thu 19 Jan 
+  Fri 20 Jan 
+  Sat 21 Jan 
+  Tracks | POPL 2023 
+  POPL 
+  Session Previews 
+  Artifact Evaluation 
+  Diversity, Equity and Inclusion 
+  Student Research Competition 
+  Student Volunteers 
+  TutorialFest 
+  Workshops and Co-located Events 
+   Co-hosted Conferences 
+  CPP 
+  VMCAI 
+  Workshops 
+  CoqPL 
+  LAFI | LAFI 
+  - Introduction to the tensor-programs framework, a PL approach that helps analyse theoretical properties of deep learning. 
+  PEPM 
+  PLMW @ POPL 
+  PriSC 
+  ProLaLa 
+  Co-hosted Symposia 
+  PADL 
+  Organization | POPL 2023 Committees 
+  Organizing Committee 
+  Track Committees 
+  POPL 
+  Artifact Evaluation 
+  Student Research Competition 
+  TutorialFest 
+  Contributors 
+  People Index 
+   Co-hosted Conferences 
+  CPP | Organizing Committee 
+  Program Committee 
+  Steering Committee 
+  VMCAI | Organizing Committee 
+  Program Committee 
+  Artifact Evaluation Committee 
+  Workshops 
+  CoqPL | Program Committee 
+  LAFI | Organizing Committee 
+  Program Committee 
+  Steering Committee 
+  PEPM | Organizing Committee 
+  Program Committee 
+  Steering Committee 
+  PLMW @ POPL | Organizing Committee 
+  Speakers 
+  Panelists 
+  PriSC | Program Committee 
+  Steering Committee 
+  ProLaLa | Program Committee 
+  Co-hosted Symposia 
+  PADL | Programme Chairs 
+  Program Committee 
+  Search 
+  Series | Series 
+   POPL 2025 
+  POPL 2024 
+  POPL 2023 
+  POPL 2022 
+  POPL 2021 
+  POPL 2020 
+  POPL 2019 
+  POPL 2018 
+  POPL 2017 
+  POPL 2016 
+  Sign in 
+  Sign up 
+
+  POPL 2023  ( series  ) /  POPL Research Papers  
+   
+ About 
+  Program 
+  Accepted Papers 
+  FAQ on Double-Blind Reviewing 
+  POPL 2023 Call for Papers 
+  The annual Symposium on Principles of Programming Languages is a forum for the discussion of all aspects of programming languages and programming systems. Both theoretical and experimental papers are welcome on topics ranging from formal frameworks to experience reports. We seek submissions that make principled, enduring contributions to the theory, design, understanding, implementation or application of programming languages.  
+ The symposium is sponsored by ACM SIGPLAN, in cooperation with ACM SIGACT and ACM SIGLOG.  
+   
+ Dates    
+
+   Program Display Configuration  
+   
+   Time Zone   
+   
+ The program is currently displayed in (GMT-05:00) Eastern Time (US & Canada)  .   Use conference time zone: (GMT-05:00) Eastern Time (US & Canada)    Select other time zone   (GMT-12:00) AoE (Anywhere On Earth)  (GMT-11:00) Midway Island, Samoa  (GMT-10:00) Hawaii-Aleutian  (GMT-10:00) Hawaii  (GMT-09:30) Marquesas Islands  (GMT-09:00) Gambier Islands  (GMT-09:00) Alaska  (GMT-08:00) Tijuana, Baja California  (GMT-08:00) Pitcairn Islands  (GMT-08:00) Pacific Time (US & Canada)  (GMT-07:00) Mountain Time (US & Canada)  (GMT-06:00) Chihuahua, La Paz, Mazatlan  (GMT-07:00) Arizona  (GMT-06:00) Saskatchewan, Central America  (GMT-05:00) Guadalajara, Mexico City, Monterrey  (GMT-05:00) Easter Island  (GMT-06:00) Central Time (US & Canada)  (GMT-05:00) Eastern Time (US & Canada)  (GMT-05:00) Cuba  (GMT-05:00) Bogota, Lima, Quito, Rio Branco  (GMT-04:00) Caracas  (GMT-03:00) Santiago  (GMT-04:00) La Paz  (GMT-03:00) Faukland Islands  (GMT-04:00) Manaus, Amazonas, Brazil  (GMT-04:00) Atlantic Time (Goose Bay)  (GMT-04:00) Atlantic Time (Canada)  (GMT-03:30) Newfoundland  (GMT-03:00) UTC-3  (GMT-03:00) Montevideo  (GMT-03:00) Miquelon, St. Pierre  (GMT-03:00) Greenland  (GMT-03:00) Buenos Aires  (GMT-03:00) Brasilia, Distrito Federal, Brazil  (GMT-02:00) Mid-Atlantic  (GMT-01:00) Cape Verde Is.  (GMT-01:00) Azores  (UTC) Coordinated Universal Time  (GMT) Belfast  (GMT) Dublin  (GMT) Lisbon  (GMT) London  (GMT) Monrovia, Reykjavik  (GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna  (GMT+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague  (GMT+01:00) Brussels, Copenhagen, Madrid, Paris  (GMT+01:00) West Central Africa  (GMT+02:00) Windhoek  (GMT+02:00) Athens  (GMT+02:00) Beirut  (GMT+02:00) Cairo  (GMT+02:00) Gaza  (GMT+02:00) Harare, Pretoria  (GMT+02:00) Jerusalem  (GMT+03:00) Minsk  (GMT+03:00) Syria  (GMT+03:00) Moscow, St. Petersburg, Volgograd  (GMT+03:00) Nairobi  (GMT+03:30) Tehran  (GMT+04:00) Abu Dhabi, Muscat  (GMT+04:00) Yerevan  (GMT+04:30) Kabul  (GMT+05:00) Ekaterinburg  (GMT+05:00) Tashkent  (GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi  (GMT+05:45) Kathmandu  (GMT+06:00) Astana, Dhaka  (GMT+07:00) Novosibirsk  (GMT+06:30) Yangon (Rangoon)  (GMT+07:00) Bangkok, Hanoi, Jakarta  (GMT+07:00) Krasnoyarsk  (GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi  (GMT+08:00) Irkutsk, Ulaan Bataar  (GMT+08:00) Perth  (GMT+08:45) Eucla  (GMT+09:00) Osaka, Sapporo, Tokyo  (GMT+09:00) Seoul  (GMT+09:00) Yakutsk  (GMT+10:30) Adelaide  (GMT+09:30) Darwin  (GMT+10:00) Brisbane  (GMT+11:00) Hobart  (GMT+10:00) Vladivostok  (GMT+11:00) Lord Howe Island  (GMT+11:00) Solomon Is., New Caledonia  (GMT+11:00) Magadan  (GMT+12:00) Norfolk Island  (GMT+12:00) Anadyr, Kamchatka  (GMT+13:00) Auckland, Wellington  (GMT+12:00) Fiji, Kamchatka, Marshall Is.  (GMT+13:45) Chatham Islands  (GMT+13:00) Nuku'alofa  (GMT+14:00) Kiritimati     
+
+   The GMT offsets shown reflect the offsets at the moment of the conference  .     
+   
+ Time Band   
+   
+ By setting a time band, the program will dim events that are outside this time window. This is useful for (virtual) conferences with a continuous program (with repeated sessions).  
+  The time band will also limit the events that are included in the personal iCalendar subscription service.   Display full program    Specify a time band   -      
+
+  Save    
+
+  Close    
+
+ ×    You're viewing the program in a time zone which is different from your device's time zone change time zone     
+
+ Mon 16 Jan   
+  
+ Displayed time zone: Eastern Time (US & Canada)  change      
+
+ 12:30 - 14:00 | Lunch POPL   at Statler & Grand Ballroom B 
+
+ Tue 17 Jan   
+  
+ Displayed time zone: Eastern Time (US & Canada)  change      
+
+ 12:30 - 14:00 | Lunch POPL   at Statler & Grand Ballroom B 
+
+ Wed 18 Jan   
+  
+ Displayed time zone: Eastern Time (US & Canada)  change      
+
+ 09:00 - 09:10 | Welcome POPL   at Grand Ballroom A   
+  Chair(s): Andrew Myers  Cornell University  , Amal Ahmed  Northeastern University, USA 
+
+ 09:10 - 10:15 | Invited Talk POPL   at Grand Ballroom A   
+  Chair(s): Amal Ahmed  Northeastern University, USA 
+ 09:10   
+ 65m    
+ Keynote | Principles of Persistent Programming   POPL   
+ Viktor Vafeiadis  MPI-SWS 
+
+ 10:45 - 12:00 | Types I POPL   at Avenue34   
+  Chair(s): Neel Krishnaswami  University of Cambridge 
+ 10:45   
+ 25m    
+ Talk | Higher-Order Leak and Deadlock Free Locks Distinguished Paper      POPL   
+ Jules Jacobs  Radboud University Nijmegen  , Stephanie Balzer  Carnegie Mellon University    
+  DOI 
+ 11:10   
+ 25m    
+ Talk | Temporal Verification with Answer-Effect Modification: Dependent Temporal Type-and-Effect System with Delimited Continuations   POPL   
+ Taro Sekiyama  National Institute of Informatics  , Hiroshi Unno  University of Tsukuba; RIKEN AIP    
+  DOI 
+ 11:35   
+ 25m    
+ Talk | Recursive Subtyping for All   POPL   
+ Litao Zhou  University of Hong Kong  , Yaoda Zhou  University of Hong Kong  , Bruno C. d. S. Oliveira  University of Hong Kong    
+  DOI 
+
+ 10:45 - 12:00 | Automated Verification POPL   at Grand Ballroom A   
+  Chair(s): Michael Greenberg  Stevens Institute of Technology 
+ 10:45   
+ 25m    
+ Talk | Kater: Automating Weak Memory Model Metatheory and Consistency Checking   POPL   
+ Michalis Kokologiannakis  MPI-SWS  , Ori Lahav  Tel Aviv University  , Viktor Vafeiadis  MPI-SWS    
+  DOI 
+ 11:10   
+ 25m    
+ Talk | Stratified Commutativity in Verification Algorithms for Concurrent Programs Virtual      POPL   
+ Azadeh Farzan  University of Toronto  , Dominik Klumpp  University of Freiburg  , Andreas Podelski  University of Freiburg    
+  DOI 
+ 11:35   
+ 25m    
+ Talk | A Partial Order View of Message-Passing Communication Models   POPL   
+ Cinzia Di Giusto  Université Côte d'Azur; CNRS  , Davide Ferre'  Université Côte d'Azur; CNRS  , Laetitia Laversa  Université Côte d'Azur; CNRS  , Etienne Lozes  Université Côte d'Azur; CNRS    
+  DOI 
+
+ 12:00 - 13:30 | Lunch POPL   at Statler & Grand Ballroom B 
+
+ 13:30 - 14:45 | Program Logics & Resources POPL   at Avenue34   
+  Chair(s): Robbert Krebbers  Radboud University Nijmegen 
+ 13:30   
+ 25m    
+ Talk | A High-Level Separation Logic for Heap Space under Garbage Collection   POPL   
+ Alexandre Moine  Inria  , Arthur Charguéraud  Inria; Université de Strasbourg; CNRS; ICube  , François Pottier  Inria    
+  DOI 
+ 13:55   
+ 25m    
+ Talk | CN: Verifying Systems C Code with Separation-Logic Refinement Types   POPL   
+ Christopher Pulte  University of Cambridge  , Dhruv C. Makwana  University of Cambridge  , Thomas Sewell  University of Cambridge  , Kayvan Memarian  University of Cambridge  , Peter Sewell  University of Cambridge  , Neel Krishnaswami  University of Cambridge    
+  DOI 
+ 14:20   
+ 25m    
+ Talk | Conditional Contextual Refinement   POPL   
+ Youngju Song  Seoul National University; MPI-SWS  , Minki Cho  Seoul National University  , Dongjae Lee  Seoul National University  , Chung-Kil Hur  Seoul National University  , Michael Sammler  MPI-SWS  , Derek Dreyer  MPI-SWS    
+  DOI 
+
+ 13:30 - 14:45 | Logic & Decidability I POPL   at Grand Ballroom A   
+  Chair(s): Zachary Kincaid  Princeton University 
+ 13:30   
+ 25m    
+ Talk | Witnessability of Undecidable Problems   POPL   
+ Shuo Ding  Georgia Institute of Technology  , Qirun Zhang  Georgia Institute of Technology    
+  DOI 
+ 13:55   
+ 25m    
+ Talk | On the Expressive Power of String Constraints   POPL   
+ Joel D. Day  Loughborough University  , Vijay Ganesh  Georgia Tech  , Nathan Grewal  University of Waterloo  , Florin Manea  University of Göttingen    
+  DOI 
+ 14:20   
+ 25m    
+ Talk | A Robust Theory of Series Parallel Graphs   POPL   
+ Rajeev Alur  University of Pennsylvania  , Caleb Stanford  University of California, San Diego; University of California, Davis  , Chris Watson  University of Pennsylvania    
+  DOI 
+
+ 15:10 - 16:25 | Security POPL   at Avenue34   
+  Chair(s): Benjamin C. Pierce  University of Pennsylvania 
+ 15:10   
+ 25m    
+ Talk | MSWasm: Soundly Enforcing Memory-Safe Execution of Unsafe Code   POPL   
+ Alexandra E. Michael  University of California at San Diego; University of Washington  , Anitha Gollamudi  University of Massachusetts Lowell  , Jay Bosamiya  Carnegie Mellon University  , Evan Johnson  University of California at San Diego; Arm  , Aidan Denlinger  University of California at San Diego  , Craig Disselkoen  University of California at San Diego  , Conrad Watt  University of Cambridge  , Bryan Parno  Carnegie Mellon University  , Marco Patrignani  University of Trento  , Marco Vassena  Utrecht University  , Deian Stefan  University of California at San Diego    
+  DOI 
+ 15:35   
+ 25m    
+ Talk | Reconciling Shannon and Scott with a Lattice of Computable Information   POPL   
+ Sebastian Hunt  City University of London  , Dave Sands  Chalmers University of Technology  , Sandro Stucki  Amazon Prime Video    
+  Link to publication   DOI   Pre-print 
+ 16:00   
+ 25m    
+ Talk | A Core Calculus for Equational Proofs of Cryptographic Protocols   POPL   
+ Joshua Gancher  Carnegie Mellon University  , Kristina Sojakova  Inria  , Xiong Fan  Rutgers University  , Elaine Shi  Carnegie Mellon University  , Greg Morrisett  Cornell University    
+  DOI 
+
+ 15:10 - 16:25 | Synthesis I POPL   at Grand Ballroom A   
+  Chair(s): Nadia Polikarpova  University of California at San Diego 
+ 15:10   
+ 25m    
+ Talk | Inductive Synthesis of Structurally Recursive Functional Programs from Non-recursive Expressions   POPL   
+ Woosuk Lee  Hanyang University  , Hangyeol Cho  Hanyang University    
+  DOI 
+ 15:35   
+ 25m    
+ Talk | FlashFill++: Scaling Programming by Example by Cutting to the Chase   POPL   
+ José Pablo Cambronero  Microsoft  , Sumit Gulwani  Microsoft  , Vu Le  Microsoft  , Daniel Perelman  Microsoft  , Arjun Radhakrishna  Microsoft  , Clint Simon  Microsoft  , Ashish Tiwari  Microsoft    
+  DOI 
+ 16:00   
+ 25m    
+ Talk | Unrealizability Logic   POPL   
+ Jinwoo Kim  University of Wisconsin-Madison; Seoul National University  , Loris D'Antoni  University of Wisconsin-Madison  , Thomas Reps  University of Wisconsin-Madison    
+  DOI 
+
+ 16:45 - 18:00 | Verified Compilation POPL   at Avenue34   
+  Chair(s): Ralf Jung  ETH Zürich 
+ 16:45   
+ 25m    
+ Talk | DimSum: A Decentralized Approach to Multi-language Semantics and Verification Distinguished Paper      POPL   
+ Michael Sammler  MPI-SWS  , Simon Spies  MPI-SWS  , Youngju Song  Seoul National University; MPI-SWS  , Emanuele D’Osualdo  MPI-SWS  , Robbert Krebbers  Radboud University Nijmegen  , Deepak Garg  MPI-SWS  , Derek Dreyer  MPI-SWS    
+  DOI 
+ 17:10   
+ 25m    
+ Talk | Formally Verified Native Code Generation in an Effectful JIT: Turning the CompCert Backend into a Formally Verified JIT Compiler   POPL   
+ Aurèle Barrière  University of Rennes; Inria; CNRS; IRISA  , Sandrine Blazy  University of Rennes; Inria; CNRS; IRISA  , David Pichardie  Meta    
+  DOI   Pre-print 
+ 17:35   
+ 25m    
+ Talk | Dargent: A Silver Bullet for Verified Data Layout Refinement   POPL   
+ Zilin Chen  UNSW  , Ambroise Lafont  University of Cambridge  , Liam O'Connor  University of Edinburgh  , Gabriele Keller  Utrecht University  , Craig McLaughlin  UNSW  , Vincent Jackson  University of Melbourne  , Christine Rizkallah  University of Melbourne    
+  DOI 
+
+ 16:45 - 18:00 | Probabilistic Inference POPL   at Grand Ballroom A   
+  Chair(s): Steven Holtzen  Northeastern University 
+ 16:45   
+ 25m    
+ Talk | Affine Monads and Lazy Structures for Bayesian Programming   POPL   
+ Swaraj Dash  University of Oxford  , Younesse Kaddar  University of Oxford  , Hugo Paquet  University of Oxford  , Sam Staton  University of Oxford    
+  DOI 
+ 17:10   
+ 25m    
+ Talk | Type-Preserving, Dependence-Aware Guide Generation for Sound, Effective Amortized Probabilistic Inference Virtual      POPL   
+ Jianlin Li  University of Waterloo  , Leni Ven  University of Waterloo  , Pengyuan Shi  University of Waterloo  , Yizhou Zhang  University of Waterloo    
+  DOI 
+ 17:35   
+ 25m    
+ Talk | Smoothness Analysis for Probabilistic Programs with Application to Optimised Variational Inference   POPL   
+ Wonyeol Lee  Stanford University  , Xavier Rival  Inria; ENS; CNRS; PSL University  , Hongseok Yang  KAIST; IBS    
+  DOI 
+
+ 18:00 - 21:00 | Reception POPL   at Foyer 
+ 18:00   
+ 3h    
+ Social Event | Reception   POPL 
+
+ Thu 19 Jan   
+  
+ Displayed time zone: Eastern Time (US & Canada)  change      
+
+ 09:00 - 10:00 | Panel: Next 50 Years of POPL POPL   at Grand Ballroom A   
+  Chair(s): Andrew Myers  Cornell University 
+ 09:00   
+ 60m    
+ Panel | Panel: Next 50 Years of POPL   POPL   
+ M:  Derek Dreyer  MPI-SWS  , P:  Michael Carbin  Massachusetts Institute of Technology  , P:  Nate Foster  Cornell University  , P:  Xavier Leroy  Collège de France  , P:  Benjamin C. Pierce  University of Pennsylvania  , P:  Nadia Polikarpova  University of California at San Diego  , P:  Azalea Raad  Imperial College London  , P:  Sharon Shoham  Tel Aviv University 
+
+ 10:20 - 12:00 | Semantics I POPL   at Avenue34   
+  Chair(s): Neel Krishnaswami  University of Cambridge 
+ 10:20   
+ 25m    
+ Talk | A Type-Based Approach to Divide-and-Conquer Recursion in Coq   POPL   
+ Pedro da Costa Abreu Junior  Purdue University  , Benjamin Delaware  Purdue University  , Alex Hubers  University of Iowa  , Christa Jenkins  University of Iowa  , J. Garrett Morris  University of Iowa  , Aaron Stump  University of Iowa    
+  DOI 
+ 10:45   
+ 25m    
+ Talk | Elements of Quantitative Rewriting Virtual      POPL   
+ Francesco Gavazzo  University of Pisa  , Cecilia Di Florio  University of Bologna    
+  DOI 
+ 11:10   
+ 25m    
+ Talk | The Geometry of Causality: Multi-token Geometry of Interaction and Its Causal Unfolding   POPL   
+ Simon Castellan  University of Rennes; Inria; CNRS; IRISA  , Pierre Clairambault  Université Aix-Marseille; Université de Toulon; CNRS; LIS    
+  DOI 
+ 11:35   
+ 25m    
+ Talk | Deconstructing the Calculus of Relations with Tape Diagrams   POPL   
+ Filippo Bonchi  University of Pisa  , Alessandro Di Giorgio  University of Pisa  , Alessio Santamaria  University of Pisa; University of Sussex    
+  DOI 
+
+ 10:20 - 12:00 | Synthesis II POPL   at Grand Ballroom A   
+  Chair(s): Benjamin Delaware  Purdue University 
+ 10:20   
+ 25m    
+ Talk | babble: Learning Better Abstractions with E-Graphs and Anti-unification   POPL   
+ David Cao  University of California at San Diego  , Rose Kunkel  University of California at San Diego  , Chandrakana Nandi  Certora  , Max Willsey  University of Washington  , Zachary Tatlock  University of Washington  , Nadia Polikarpova  University of California at San Diego    
+  DOI   Pre-print 
+ 10:45   
+ 25m    
+ Talk | Combining Functional and Automata Synthesis to Discover Causal Reactive Programs   POPL   
+ Ria Das  Stanford University  , Joshua B. Tenenbaum  Massachusetts Institute of Technology  , Armando Solar-Lezama  Massachusetts Institute of Technology  , Zenna Tavares  Basis; Columbia University    
+  DOI 
+ 11:10   
+ 25m    
+ Talk | Comparative Synthesis: Learning Near-Optimal Network Designs by Query   POPL   
+ Yanjun Wang  Amazon Web Services, USA  , Zixuan Li  Purdue University  , Chuan Jiang  Purdue University  , Xiaokang Qiu  Purdue University  , Sanjay Rao  Purdue University    
+  DOI 
+ 11:35   
+ 25m    
+ Talk | Top-Down Synthesis for Library Learning   POPL   
+ Maddy Bowers  Massachusetts Institute of Technology  , Theo X. Olausson  Massachusetts Institute of Technology  , Lionel Wong  Massachusetts Institute of Technology  , Gabriel Grand  Massachusetts Institute of Technology  , Joshua B. Tenenbaum  Massachusetts Institute of Technology  , Kevin Ellis  Cornell University  , Armando Solar-Lezama  Massachusetts Institute of Technology    
+  DOI   Pre-print 
+
+ 12:00 - 13:30 | Lunch POPL   at Statler & Grand Ballroom B 
+
+ 13:30 - 14:45 | Resource Analysis POPL   at Avenue34   
+  Chair(s): Robert Harper  Carnegie Mellon University 
+ 13:30   
+ 25m    
+ Talk | Probabilistic Resource-Aware Session Types   POPL   
+ Ankush Das  Amazon  , Di Wang  Peking University  , Jan Hoffmann  Carnegie Mellon University    
+  DOI 
+ 13:55   
+ 25m    
+ Talk | A Calculus for Amortized Expected Runtimes   POPL   
+ Kevin Batz  RWTH Aachen University  , Benjamin Lucien Kaminski  Saarland University; University College London  , Joost-Pieter Katoen  RWTH Aachen University  , Christoph Matheja  DTU  , Lena Verscht  RWTH Aachen University    
+  DOI 
+ 14:20   
+ 25m    
+ Talk | A General Noninterference Policy for Polynomial Time   POPL   
+ Emmanuel Hainry  Université de Lorraine; CNRS; Inria; LORIA  , Romain Péchoux  Université de Lorraine; CNRS; Inria; LORIA    
+  DOI 
+
+ 13:30 - 14:45 | Program Analysis & Parsing POPL   at Grand Ballroom A   
+  Chair(s): David Pichardie  Meta 
+ 13:30   
+ 25m    
+ Talk | SSA Translation Is an Abstract Interpretation Distinguished Paper      POPL   
+ Matthieu Lemerre  Université Paris-Saclay - CEA LIST    
+  DOI   Pre-print 
+ 13:55   
+ 25m    
+ Talk | Dynamic Race Detection with O(1) Samples Distinguished Paper      POPL   
+ Mosaad Al Thokair  University of Illinois at Urbana-Champaign  , Minjian Zhang  University of Illinois at Urbana-Champaign  , Umang Mathur  National University of Singapore  , Mahesh Viswanathan  University of Illinois at Urbana-Champaign    
+  Link to publication   DOI   Pre-print 
+ 14:20   
+ 25m    
+ Talk | Statically Resolvable Ambiguity   POPL   
+ Viktor Palmkvist  KTH Royal Institute of Technology  , Elias Castegren  Uppsala University  , Philipp Haller  KTH Royal Institute of Technology  , David Broman  KTH Royal Institute of Technology    
+  DOI 
+
+ 15:10 - 16:25 | Type Theory POPL   at Avenue34   
+  Chair(s): Brigitte Pientka  McGill University 
+ 15:10   
+ 25m    
+ Talk | Admissible Types-to-PERs Relativization in Higher-Order Logic Distinguished Paper      POPL   
+ Andrei Popescu  University of Sheffield  , Dmitriy Traytel  University of Copenhagen    
+  DOI 
+ 15:35   
+ 25m    
+ Talk | An Order-Theoretic Analysis of Universe Polymorphism   POPL   
+ Kuen-Bang Hou (Favonia)  University of Minnesota  , Carlo Angiuli  Carnegie Mellon University  , Reed Mullanix  University of Minnesota    
+  DOI 
+ 16:00   
+ 25m    
+ Talk | Impredicative Observational Equality   POPL   
+ Loïc Pujet  Inria  , Nicolas Tabareau  Inria    
+  DOI 
+
+ 15:10 - 16:25 | Automatic Differentiation POPL   at Grand Ballroom A   
+  Chair(s): Ningning Xie  University of Toronto 
+ 15:10   
+ 25m    
+ Talk | You Only Linearize Once: Tangents Transpose to Gradients   POPL   
+ Alexey Radul  Google Research  , Adam Paszke  Google Research  , Roy Frostig  Google Research  , Matthew J. Johnson  Google Research  , Dougal Maclaurin  Google Research    
+  DOI 
+ 15:35   
+ 25m    
+ Talk | Efficient Dual-Numbers Reverse AD via Well-Known Program Transformations   POPL   
+ Tom Smeding  Utrecht University  , Matthijs Vákár  Utrecht University    
+  DOI   Pre-print 
+ 16:00   
+ 25m    
+ Talk | ADEV: Sound Automatic Differentiation of Expected Values of Probabilistic Programs Distinguished Paper      POPL   
+ Alexander K. Lew  Massachusetts Institute of Technology  , Mathieu Huot  University of Oxford  , Sam Staton  University of Oxford  , Vikash K. Mansinghka  Massachusetts Institute of Technology    
+  DOI   Pre-print 
+
+ 16:45 - 18:00 | POPL Business Meeting POPL   at Grand Ballroom A 
+
+ Fri 20 Jan   
+  
+ Displayed time zone: Eastern Time (US & Canada)  change      
+
+ 09:00 - 10:15 | Types II POPL   at Avenue34   
+  Chair(s): Alan Jeffrey  Roblox 
+ 09:00   
+ 25m    
+ Talk | A Bowtie for a Beast: Overloading, Eta Expansion, and Extensible Data Types in F⋈   POPL   
+ Nick Rioux  University of Pennsylvania  , Xuejing Huang  University of Hong Kong  , Bruno C. d. S. Oliveira  University of Hong Kong  , Steve Zdancewic  University of Pennsylvania    
+  DOI 
+ 09:25   
+ 25m    
+ Talk | Making a Type Difference: Subtraction on Intersection Types as Generalized Record Operations   POPL   
+ Han Xu  Peking University  , Xuejing Huang  University of Hong Kong  , Bruno C. d. S. Oliveira  University of Hong Kong    
+  DOI 
+ 09:50   
+ 25m    
+ Talk | Quantitative Inhabitation for Different Lambda Calculi in a Unifying Framework   POPL   
+ Victor Arrial  Université Paris Cité - CNRS - IRIF  , Giulio Guerrieri  Aix Marseille Université - CNRS - LIS; Edinburgh Research Centre - Central Software Institute - Huawei  , Delia Kesner  Université Paris Cité - CNRS - IRIF; Institut Universitaire de France    
+  DOI 
+
+ 09:00 - 10:15 | Logic & Decidability II POPL   at Square   
+  Chair(s): Joost-Pieter Katoen  RWTH Aachen University 
+ 09:00   
+ 25m    
+ Talk | When Less Is More: Consequence-Finding in a Weak Theory of Arithmetic   POPL   
+ Zachary Kincaid  Princeton University  , Nicolas Koh  Princeton University  , Shaowei Zhu  Princeton University    
+  DOI 
+ 09:25   
+ 25m    
+ Talk | Higher-Order MSL Horn Constraints   POPL   
+ Jerome Jochems  University of Bristol  , Eddie Jones  University of Bristol  , Steven Ramsay  University of Bristol    
+  DOI 
+ 09:50   
+ 25m    
+ Talk | Fast Coalgebraic Bisimilarity Minimization   POPL   
+ Jules Jacobs  Radboud University Nijmegen  , Thorsten Wissmann  Radboud University Nijmegen    
+  DOI   Pre-print 
+
+ 10:45 - 12:00 | Semantics & Effects POPL   at Avenue34   
+  Chair(s): Stephanie Balzer  Carnegie Mellon University 
+ 10:45   
+ 25m    
+ Talk | Step-Indexed Logical Relations for Countable Nondeterminism and Probabilistic Choice   POPL   
+ Alejandro Aguirre  Aarhus University  , Lars Birkedal  Aarhus University    
+  DOI 
+ 11:10   
+ 25m    
+ Talk | Choice Trees: Representing Nondeterministic, Recursive, and Impure Programs in Coq   POPL   
+ Nicolas Chappe  University of Lyon - ENS Lyon - UCBL - CNRS - Inria - LIP  , Paul He  University of Pennsylvania  , Ludovic Henrio  University of Lyon - ENS Lyon - UCBL - CNRS - Inria - LIP  , Yannick Zakowski  University of Lyon - ENS Lyon - UCBL - CNRS - Inria - LIP  , Steve Zdancewic  University of Pennsylvania    
+  DOI 
+ 11:35   
+ 25m    
+ Talk | Hefty Algebras: Modular Elaboration of Higher-Order Algebraic Effects Recorded      POPL   
+ Casper Bach Poulsen  Delft University of Technology  , Cas van der Rest  Delft University of Technology    
+  DOI   Pre-print 
+
+ 10:45 - 12:00 | Quantum Computing POPL   at Square   
+  Chair(s): Ugo Dal Lago  University of Bologna; Inria 
+ 10:45   
+ 25m    
+ Talk | Qunity: A Unified Language for Quantum and Classical Computing   POPL   
+ Finn Voichick  University of Maryland  , Liyi Li  University of Maryland  , Robert Rand  University of Chicago  , Michael Hicks  University of Maryland; Amazon    
+  DOI   Pre-print 
+ 11:10   
+ 25m    
+ Talk | Proto-Quipper with Dynamic Lifting Virtual      POPL   
+ Peng Fu  Dalhousie University  , Kohei Kishida  University of Illinois at Urbana-Champaign  , Neil Julien Ross  Dalhousie University  , Peter Selinger  Dalhousie University    
+  DOI 
+ 11:35   
+ 25m    
+ Talk | CoqQ: Foundational Verification of Quantum Programs Virtual      POPL   
+ Li Zhou  MPI-SP; Institute of Software at Chinese Academy of Sciences  , Gilles Barthe  MPI-SP; IMDEA Software Institute  , Pierre-Yves Strub  Meta  , Junyi Liu  Institute of Software at Chinese Academy of Sciences; University of Chinese Academy of Sciences  , Mingsheng Ying  Institute of Software at Chinese Academy of Sciences; Tsinghua University    
+  DOI 
+
+ 12:00 - 13:30 | Lunch POPL   at Statler & Grand Ballroom B 
+
+ 13:30 - 14:45 | Formal Methods in Compilation & Implementation POPL   at Avenue34   
+  Chair(s): Lindsey Kuper  University of California at Santa Cruz 
+ 13:30   
+ 25m    
+ Talk | Tail Recursion Modulo Context: An Equational Approach   POPL   
+ Daan Leijen  Microsoft Research  , Anton Lorenzen  University of Edinburgh    
+  DOI 
+ 13:55   
+ 25m    
+ Talk | Taking Back Control in an Intermediate Representation for GPU Computing   POPL   
+ Vasileios Klimis  Imperial College London  , Jack Clark  Imperial College London  , Alan Baker  Google  , David Neto  Google  , John Wickerson  Imperial College London  , Alastair F. Donaldson  Imperial College London; Google    
+  DOI 
+ 14:20   
+ 25m    
+ Talk | Executing Microservice Applications on Serverless, Correctly   POPL   
+ Konstantinos Kallas  University of Pennsylvania  , Haoran Zhang  University of Pennsylvania  , Rajeev Alur  University of Pennsylvania  , Sebastian Angel  University of Pennsylvania; Microsoft Research  , Vincent Liu  University of Pennsylvania    
+  DOI 
+
+ 13:30 - 14:45 | Logic Programming POPL   at Square   
+  Chair(s): Marco Patrignani  University of Trento 
+ 13:30   
+ 25m    
+ Talk | Modular Primal-Dual Fixpoint Logic Solving for Temporal Verification Distinguished Paper      POPL   
+ Hiroshi Unno  University of Tsukuba; RIKEN AIP  , Tachio Terauchi  Waseda University  , Yu Gu  University of Tsukuba  , Eric Koskinen  Stevens Institute of Technology    
+  DOI 
+ 13:55   
+ 25m    
+ Talk | Optimal CHC Solving via Termination Proofs   POPL   
+ Yu Gu  University of Tsukuba  , Takeshi Tsukada  Chiba University  , Hiroshi Unno  University of Tsukuba; RIKEN AIP    
+  DOI 
+ 14:20   
+ 25m    
+ Talk | From SMT to ASP: Solver-Based Approaches to Solving Datalog Synthesis-as-Rule-Selection Problems   POPL   
+ Aaron Bembenek  Harvard University  , Michael Greenberg  Stevens Institute of Technology  , Stephen Chong  Harvard University    
+  DOI   Pre-print 
+
+ 15:10 - 16:25 | Concurrency & Linearizability POPL   at Avenue34   
+  Chair(s): Tej Chajed  VMware Research 
+ 15:10   
+ 25m    
+ Talk | An Operational Approach to Library Abstraction under Relaxed Memory Concurrency   POPL   
+ Abhishek Kr Singh  Tel Aviv University  , Ori Lahav  Tel Aviv University    
+  DOI 
+ 15:35   
+ 25m    
+ Talk | The Path to Durable Linearizability   POPL   
+ Emanuele D’Osualdo  MPI-SWS  , Azalea Raad  Imperial College London  , Viktor Vafeiadis  MPI-SWS    
+  DOI 
+ 16:00   
+ 25m    
+ Talk | A Compositional Theory of Linearizability   POPL   
+ Arthur Oliveira Vale  Yale University  , Zhong Shao  Yale University  , Yixuan Chen  Yale University    
+  DOI 
+
+ 15:10 - 16:25 | Algorithmic Verification POPL   at Square   
+  Chair(s): Umang Mathur  National University of Singapore 
+ 15:10   
+ 25m    
+ Talk | The Fine-Grained Complexity of CFL Reachability   POPL   
+ Paraschos Koutris  University of Wisconsin-Madison  , Shaleen Deep  Microsoft    
+  DOI 
+ 15:35   
+ 25m    
+ Talk | Single-Source-Single-Target Interleaved-Dyck Reachability via Integer Linear Programming   POPL   
+ Yuanbo Li  Georgia Institute of Technology  , Qirun Zhang  Georgia Institute of Technology  , Thomas Reps  University of Wisconsin-Madison    
+  DOI 
+ 16:00   
+ 25m    
+ Talk | Context-Bounded Verification of Context-Free Specifications   POPL   
+ Pascal Baumann  MPI-SWS  , Moses Ganardi  MPI-SWS  , Rupak Majumdar  MPI-SWS  , Ramanathan S. Thinniyam  MPI-SWS  , Georg Zetzsche  MPI-SWS    
+  DOI 
+
+ 16:45 - 18:00 | Semantics II POPL   at Avenue34   
+  Chair(s): Max S. New  University of Michigan 
+ 16:45   
+ 25m    
+ Talk | Locally Nameless Sets   POPL   
+ Andrew M. Pitts  University of Cambridge    
+  DOI   Pre-print 
+ 17:10   
+ 25m    
+ Talk | Why Are Proofs Relevant in Proof-Relevant Models?   POPL   
+ Axel Kerinec  Université Sorbonne Paris Nord; LIPN; CNRS  , Giulio Manzonetto  Université Sorbonne Paris Nord; LIPN; CNRS  , Federico Olimpieri  University of Leeds    
+  DOI 
+ 17:35   
+ 25m    
+ Talk | Towards a Higher-Order Mathematical Operational Semantics   POPL   
+ Sergey Goncharov  University of Erlangen-Nuremberg  , Stefan Milius  University of Erlangen-Nuremberg  , Lutz Schröder  University of Erlangen-Nuremberg  , Stelios Tsampas  University of Erlangen-Nuremberg  , Henning Urbat  University of Erlangen-Nuremberg    
+  DOI   Pre-print 
+
+ 16:45 - 18:00 | Relational & Automated Verification POPL   at Square   
+  Chair(s): Christoph Matheja  DTU 
+ 16:45   
+ 25m    
+ Talk | An Algebra of Alignment for Relational Verification   POPL   
+ Timos Antonopoulos  Yale University  , Eric Koskinen  Stevens Institute of Technology  , Ton Chanh Le  Stevens Institute of Technology  , Ramana Nagasamudram  Stevens Institute of Technology  , David Naumann  Stevens Institute of Technology  , Minh Ngo  Stevens Institute of Technology    
+  DOI 
+ 17:10   
+ 25m    
+ Talk | Grisette: Symbolic Compilation as a Functional Programming Library   POPL   
+ Sirui Lu  University of Washington  , Rastislav Bodík  Google Research    
+  DOI 
+ 17:35   
+ 25m    
+ Talk | HFL(Z) Validity Checking for Automated Program Verification   POPL   
+ Naoki Kobayashi  University of Tokyo  , Kento Tanahashi  University of Tokyo  , Ryosuke Sato  University of Tokyo  , Takeshi Tsukada  Chiba University    
+  DOI 
+
+ Sat 21 Jan   
+  
+ Displayed time zone: Eastern Time (US & Canada)  change      
+
+ 12:00 - 13:30 | Lunch POPL   at Avenue34 
+
+ Accepted Papers  
+  
+ Title 
+ A Bowtie for a Beast: Overloading, Eta Expansion, and Extensible Data Types in F⋈  POPL   
+ Nick Rioux  , Xuejing Huang  , Bruno C. d. S. Oliveira  , Steve Zdancewic    
+  DOI 
+ A Calculus for Amortized Expected Runtimes  POPL   
+ Kevin Batz  , Benjamin Lucien Kaminski  , Joost-Pieter Katoen  , Christoph Matheja  , Lena Verscht    
+  DOI 
+ A Compositional Theory of Linearizability  POPL   
+ Arthur Oliveira Vale  , Zhong Shao  , Yixuan Chen    
+  DOI 
+ A Core Calculus for Equational Proofs of Cryptographic Protocols  POPL   
+ Joshua Gancher  , Kristina Sojakova  , Xiong Fan  , Elaine Shi  , Greg Morrisett    
+  DOI 
+ ADEV: Sound Automatic Differentiation of Expected Values of Probabilistic Programs Distinguished Paper     POPL   
+ Alexander K. Lew  , Mathieu Huot  , Sam Staton  , Vikash K. Mansinghka    
+  DOI   Pre-print 
+ Admissible Types-to-PERs Relativization in Higher-Order Logic Distinguished Paper     POPL   
+ Andrei Popescu  , Dmitriy Traytel    
+  DOI 
+ Affine Monads and Lazy Structures for Bayesian Programming  POPL   
+ Swaraj Dash  , Younesse Kaddar  , Hugo Paquet  , Sam Staton    
+  DOI 
+ A General Noninterference Policy for Polynomial Time  POPL   
+ Emmanuel Hainry  , Romain Péchoux    
+  DOI 
+ A High-Level Separation Logic for Heap Space under Garbage Collection  POPL   
+ Alexandre Moine  , Arthur Charguéraud  , François Pottier    
+  DOI 
+ An Algebra of Alignment for Relational Verification  POPL   
+ Timos Antonopoulos  , Eric Koskinen  , Ton Chanh Le  , Ramana Nagasamudram  , David Naumann  , Minh Ngo    
+  DOI 
+ An Operational Approach to Library Abstraction under Relaxed Memory Concurrency  POPL   
+ Abhishek Kr Singh  , Ori Lahav    
+  DOI 
+ An Order-Theoretic Analysis of Universe Polymorphism  POPL   
+ Kuen-Bang Hou (Favonia)  , Carlo Angiuli  , Reed Mullanix    
+  DOI 
+ A Partial Order View of Message-Passing Communication Models  POPL   
+ Cinzia Di Giusto  , Davide Ferre'  , Laetitia Laversa  , Etienne Lozes    
+  DOI 
+ A Robust Theory of Series Parallel Graphs  POPL   
+ Rajeev Alur  , Caleb Stanford  , Chris Watson    
+  DOI 
+ A Type-Based Approach to Divide-and-Conquer Recursion in Coq  POPL   
+ Pedro da Costa Abreu Junior  , Benjamin Delaware  , Alex Hubers  , Christa Jenkins  , J. Garrett Morris  , Aaron Stump    
+  DOI 
+ babble: Learning Better Abstractions with E-Graphs and Anti-unification  POPL   
+ David Cao  , Rose Kunkel  , Chandrakana Nandi  , Max Willsey  , Zachary Tatlock  , Nadia Polikarpova    
+  DOI   Pre-print 
+ Choice Trees: Representing Nondeterministic, Recursive, and Impure Programs in Coq  POPL   
+ Nicolas Chappe  , Paul He  , Ludovic Henrio  , Yannick Zakowski  , Steve Zdancewic    
+  DOI 
+ CN: Verifying Systems C Code with Separation-Logic Refinement Types  POPL   
+ Christopher Pulte  , Dhruv C. Makwana  , Thomas Sewell  , Kayvan Memarian  , Peter Sewell  , Neel Krishnaswami    
+  DOI 
+ Combining Functional and Automata Synthesis to Discover Causal Reactive Programs  POPL   
+ Ria Das  , Joshua B. Tenenbaum  , Armando Solar-Lezama  , Zenna Tavares    
+  DOI 
+ Comparative Synthesis: Learning Near-Optimal Network Designs by Query  POPL   
+ Yanjun Wang  , Zixuan Li  , Chuan Jiang  , Xiaokang Qiu  , Sanjay Rao    
+  DOI 
+ Conditional Contextual Refinement  POPL   
+ Youngju Song  , Minki Cho  , Dongjae Lee  , Chung-Kil Hur  , Michael Sammler  , Derek Dreyer    
+  DOI 
+ Context-Bounded Verification of Context-Free Specifications  POPL   
+ Pascal Baumann  , Moses Ganardi  , Rupak Majumdar  , Ramanathan S. Thinniyam  , Georg Zetzsche    
+  DOI 
+ CoqQ: Foundational Verification of Quantum Programs Virtual     POPL   
+ Li Zhou  , Gilles Barthe  , Pierre-Yves Strub  , Junyi Liu  , Mingsheng Ying    
+  DOI 
+ Dargent: A Silver Bullet for Verified Data Layout Refinement  POPL   
+ Zilin Chen  , Ambroise Lafont  , Liam O'Connor  , Gabriele Keller  , Craig McLaughlin  , Vincent Jackson  , Christine Rizkallah    
+  DOI 
+ Deconstructing the Calculus of Relations with Tape Diagrams  POPL   
+ Filippo Bonchi  , Alessandro Di Giorgio  , Alessio Santamaria    
+  DOI 
+ DimSum: A Decentralized Approach to Multi-language Semantics and Verification Distinguished Paper     POPL   
+ Michael Sammler  , Simon Spies  , Youngju Song  , Emanuele D’Osualdo  , Robbert Krebbers  , Deepak Garg  , Derek Dreyer    
+  DOI 
+ Dynamic Race Detection with O(1) Samples Distinguished Paper     POPL   
+ Mosaad Al Thokair  , Minjian Zhang  , Umang Mathur  , Mahesh Viswanathan    
+  Link to publication   DOI   Pre-print 
+ Efficient Dual-Numbers Reverse AD via Well-Known Program Transformations  POPL   
+ Tom Smeding  , Matthijs Vákár    
+  DOI   Pre-print 
+ Elements of Quantitative Rewriting Virtual     POPL   
+ Francesco Gavazzo  , Cecilia Di Florio    
+  DOI 
+ Executing Microservice Applications on Serverless, Correctly  POPL   
+ Konstantinos Kallas  , Haoran Zhang  , Rajeev Alur  , Sebastian Angel  , Vincent Liu    
+  DOI 
+ Fast Coalgebraic Bisimilarity Minimization  POPL   
+ Jules Jacobs  , Thorsten Wissmann    
+  DOI   Pre-print 
+ FlashFill++: Scaling Programming by Example by Cutting to the Chase  POPL   
+ José Pablo Cambronero  , Sumit Gulwani  , Vu Le  , Daniel Perelman  , Arjun Radhakrishna  , Clint Simon  , Ashish Tiwari    
+  DOI 
+ Formally Verified Native Code Generation in an Effectful JIT: Turning the CompCert Backend into a Formally Verified JIT Compiler  POPL   
+ Aurèle Barrière  , Sandrine Blazy  , David Pichardie    
+  DOI   Pre-print 
+ From SMT to ASP: Solver-Based Approaches to Solving Datalog Synthesis-as-Rule-Selection Problems  POPL   
+ Aaron Bembenek  , Michael Greenberg  , Stephen Chong    
+  DOI   Pre-print 
+ Grisette: Symbolic Compilation as a Functional Programming Library  POPL   
+ Sirui Lu  , Rastislav Bodík    
+  DOI 
+ Hefty Algebras: Modular Elaboration of Higher-Order Algebraic Effects Recorded     POPL   
+ Casper Bach Poulsen  , Cas van der Rest    
+  DOI   Pre-print 
+ HFL(Z) Validity Checking for Automated Program Verification  POPL   
+ Naoki Kobayashi  , Kento Tanahashi  , Ryosuke Sato  , Takeshi Tsukada    
+  DOI 
+ Higher-Order Leak and Deadlock Free Locks Distinguished Paper     POPL   
+ Jules Jacobs  , Stephanie Balzer    
+  DOI 
+ Higher-Order MSL Horn Constraints  POPL   
+ Jerome Jochems  , Eddie Jones  , Steven Ramsay    
+  DOI 
+ Impredicative Observational Equality  POPL   
+ Loïc Pujet  , Nicolas Tabareau    
+  DOI 
+ Inductive Synthesis of Structurally Recursive Functional Programs from Non-recursive Expressions  POPL   
+ Woosuk Lee  , Hangyeol Cho    
+  DOI 
+ Kater: Automating Weak Memory Model Metatheory and Consistency Checking  POPL   
+ Michalis Kokologiannakis  , Ori Lahav  , Viktor Vafeiadis    
+  DOI 
+ Locally Nameless Sets  POPL   
+ Andrew M. Pitts    
+  DOI   Pre-print 
+ Making a Type Difference: Subtraction on Intersection Types as Generalized Record Operations  POPL   
+ Han Xu  , Xuejing Huang  , Bruno C. d. S. Oliveira    
+  DOI 
+ Modular Primal-Dual Fixpoint Logic Solving for Temporal Verification Distinguished Paper     POPL   
+ Hiroshi Unno  , Tachio Terauchi  , Yu Gu  , Eric Koskinen    
+  DOI 
+ MSWasm: Soundly Enforcing Memory-Safe Execution of Unsafe Code  POPL   
+ Alexandra E. Michael  , Anitha Gollamudi  , Jay Bosamiya  , Evan Johnson  , Aidan Denlinger  , Craig Disselkoen  , Conrad Watt  , Bryan Parno  , Marco Patrignani  , Marco Vassena  , Deian Stefan    
+  DOI 
+ On the Expressive Power of String Constraints  POPL   
+ Joel D. Day  , Vijay Ganesh  , Nathan Grewal  , Florin Manea    
+  DOI 
+ Optimal CHC Solving via Termination Proofs  POPL   
+ Yu Gu  , Takeshi Tsukada  , Hiroshi Unno    
+  DOI 
+ Probabilistic Resource-Aware Session Types  POPL   
+ Ankush Das  , Di Wang  , Jan Hoffmann    
+  DOI 
+ Proto-Quipper with Dynamic Lifting Virtual     POPL   
+ Peng Fu  , Kohei Kishida  , Neil Julien Ross  , Peter Selinger    
+  DOI 
+ Quantitative Inhabitation for Different Lambda Calculi in a Unifying Framework  POPL   
+ Victor Arrial  , Giulio Guerrieri  , Delia Kesner    
+  DOI 
+ Qunity: A Unified Language for Quantum and Classical Computing  POPL   
+ Finn Voichick  , Liyi Li  , Robert Rand  , Michael Hicks    
+  DOI   Pre-print 
+ Reconciling Shannon and Scott with a Lattice of Computable Information  POPL   
+ Sebastian Hunt  , Dave Sands  , Sandro Stucki    
+  Link to publication   DOI   Pre-print 
+ Recursive Subtyping for All  POPL   
+ Litao Zhou  , Yaoda Zhou  , Bruno C. d. S. Oliveira    
+  DOI 
+ Single-Source-Single-Target Interleaved-Dyck Reachability via Integer Linear Programming  POPL   
+ Yuanbo Li  , Qirun Zhang  , Thomas Reps    
+  DOI 
+ Smoothness Analysis for Probabilistic Programs with Application to Optimised Variational Inference  POPL   
+ Wonyeol Lee  , Xavier Rival  , Hongseok Yang    
+  DOI 
+ SSA Translation Is an Abstract Interpretation Distinguished Paper     POPL   
+ Matthieu Lemerre    
+  DOI   Pre-print 
+ Statically Resolvable Ambiguity  POPL   
+ Viktor Palmkvist  , Elias Castegren  , Philipp Haller  , David Broman    
+  DOI 
+ Step-Indexed Logical Relations for Countable Nondeterminism and Probabilistic Choice  POPL   
+ Alejandro Aguirre  , Lars Birkedal    
+  DOI 
+ Stratified Commutativity in Verification Algorithms for Concurrent Programs Virtual     POPL   
+ Azadeh Farzan  , Dominik Klumpp  , Andreas Podelski    
+  DOI 
+ Tail Recursion Modulo Context: An Equational Approach  POPL   
+ Daan Leijen  , Anton Lorenzen    
+  DOI 
+ Taking Back Control in an Intermediate Representation for GPU Computing  POPL   
+ Vasileios Klimis  , Jack Clark  , Alan Baker  , David Neto  , John Wickerson  , Alastair F. Donaldson    
+  DOI 
+ Temporal Verification with Answer-Effect Modification: Dependent Temporal Type-and-Effect System with Delimited Continuations  POPL   
+ Taro Sekiyama  , Hiroshi Unno    
+  DOI 
+ The Fine-Grained Complexity of CFL Reachability  POPL   
+ Paraschos Koutris  , Shaleen Deep    
+  DOI 
+ The Geometry of Causality: Multi-token Geometry of Interaction and Its Causal Unfolding  POPL   
+ Simon Castellan  , Pierre Clairambault    
+  DOI 
+ The Path to Durable Linearizability  POPL   
+ Emanuele D’Osualdo  , Azalea Raad  , Viktor Vafeiadis    
+  DOI 
+ Top-Down Synthesis for Library Learning  POPL   
+ Maddy Bowers  , Theo X. Olausson  , Lionel Wong  , Gabriel Grand  , Joshua B. Tenenbaum  , Kevin Ellis  , Armando Solar-Lezama    
+  DOI   Pre-print 
+ Towards a Higher-Order Mathematical Operational Semantics  POPL   
+ Sergey Goncharov  , Stefan Milius  , Lutz Schröder  , Stelios Tsampas  , Henning Urbat    
+  DOI   Pre-print 
+ Type-Preserving, Dependence-Aware Guide Generation for Sound, Effective Amortized Probabilistic Inference Virtual     POPL   
+ Jianlin Li  , Leni Ven  , Pengyuan Shi  , Yizhou Zhang    
+  DOI 
+ Unrealizability Logic  POPL   
+ Jinwoo Kim  , Loris D'Antoni  , Thomas Reps    
+  DOI 
+ When Less Is More: Consequence-Finding in a Weak Theory of Arithmetic  POPL   
+ Zachary Kincaid  , Nicolas Koh  , Shaowei Zhu    
+  DOI 
+ Why Are Proofs Relevant in Proof-Relevant Models?  POPL   
+ Axel Kerinec  , Giulio Manzonetto  , Federico Olimpieri    
+  DOI 
+ Witnessability of Undecidable Problems  POPL   
+ Shuo Ding  , Qirun Zhang    
+  DOI 
+ You Only Linearize Once: Tangents Transpose to Gradients  POPL   
+ Alexey Radul  , Adam Paszke  , Roy Frostig  , Matthew J. Johnson  , Dougal Maclaurin    
+  DOI 
+
+ POPL 2023 Call for Papers  
+  
+ PACMPL Issue POPL 2023 seeks contributions on all aspects of programming languages and programming systems, both theoretical and practical. Authors of papers published in PACMPL Issue POPL 2023 will be invited to present their work in the POPL conference in January 2023, which is sponsored by ACM SIGPLAN, in cooperation with ACM SIGACT and ACM SIGLOG.  
+ Scope   
+ Principles of Programming Languages (POPL) is a forum for the discussion of all aspects of programming languages and programming systems. Both theoretical and experimental papers are welcome, on topics ranging from formal frameworks to experience reports. We seek submissions that make principled, enduring contributions to the theory, design, understanding, implementation, or application of programming languages.  
+ Evaluation Criteria   
+ The Review Committee will evaluate the technical contribution of each submission as well as its accessibility to both experts and the general POPL audience. All papers will be judged on significance, originality, relevance, correctness, and clarity. Each paper must explain its scientific contribution in both general and technical terms, identifying what has been accomplished, explaining why it is significant, and comparing it with previous work. Advice on writing technical papers can be found on the SIGPLAN author information page  .  
+ Deadlines and formatting requirements, detailed below, will be strictly enforced.  
+ Evaluation Process   
+ NEW THIS YEAR  : POPL 2023 will use a double-blind reviewing process (instead of the lightweight double-blind process used in recent years). This means that identities of authors will not be visible to reviewers until after conditional-acceptance decisions have been made. For authors, the main change is that there is no option to upload non-anonymized  supplementary material; only anonymized  supplementary material may be submitted  .  
+ Also new this year: POPL 2023 will have three Associate Chairs who will help the PC Chair monitor reviews, solicit external expert reviews for submissions when there is not enough expertise on the committee, and facilitate reviewer discussions.  
+ As in previous years, authors will have a multi-day period to respond to reviews, as indicated in the Important Dates table. Responses are optional. A response must be concise, addressing specific points raised in the reviews; in particular, it must not introduce new technical results. Reviewers will write a short reaction to these author responses.  
+ The Review Committee (RC) will discuss papers electronically and, new this year, also during two days of synchronous, face-to-face, virtual Review Committee meetings. There will be no physical RC meeting; this will avoid the time, cost, and environmental impact of transporting an increasingly large committee to one point on the globe. There is no formal External Review Committee, though experts outside the committee will be consulted. Reviews will be accompanied by a short summary of the reasons behind the committee’s decision with the goal of clarifying the reasons behind the decision.  
+ To conform with ACM requirements for journal publication, all POPL papers will be conditionally accepted; authors will be required to submit a short description of the changes made to the final version of the paper, including how the changes address any requirements imposed by the Review Committee. That the changes are sufficient will be confirmed by the original reviewers prior to acceptance to POPL. Authors of conditionally accepted papers must submit a satisfactory revision to the Review Committee by the requested deadline or risk rejection.  
+ For additional information about the reviewing process, see: Principles of POPL  , a presentation of the underlying organizational and reviewing policies for POPL. For POPL 2023, policies specified in this Call for Papers supersede those in the Principles of POPL document.  
+ Double-Blind Reviewing   
+ POPL 2023 will use double-blind reviewing. This means that author names and affiliations must be omitted from the submission. Additionally, if the submission refers to prior work done by the authors, that reference should be made in third person. These are firm submission requirements. Any supplementary material must also be anonymized.  
+ The FAQ on Double-Blind Reviewing  clarifies the policy for the most common scenarios. But there are many gray areas and trade-offs. If you have any doubts about how to interpret the double-blind rules, please contact the Program Chair. Make sure to contact the Program Chair for complex cases that are not fully covered by the FAQ.  
+ Submission Site Information   
+ The submission site is https://popl23.hotcrp.com  .  
+ Authors can submit multiple times prior to the deadline. Only the last submission will be reviewed. There is no abstract deadline. The submission site requires entering author names and affiliations, relevant topics, and potential conflicts. Addition or removal of authors after the submission deadline will need to be approved by the Program Chair (as this kind of change potentially undermines the goal of eliminating conflicts during paper assignment).  
+ The submission deadline is 11:59PM July 7, 2022 anywhere on earth: https://en.wikipedia.org/wiki/Anywhere_on_Earth   
+ Conflicts of Interest   
+ Conflicts should be declared between an adviser and an advisee (e.g., Ph.D., post-doc; forever), between an author and a co-author (papers and proposals; for two years), between people at the same institution (branches of large companies or different locations of research institutes are considered to be the same institution; for two years after leaving an institution), between people with financial conflicts of interest, and between friends or relatives.  
+ Please do not declare spurious conflicts: such incorrect conflicts are especially harmful if the aim is to exclude potential reviewers, so spurious conflicts can be grounds for rejection. If you are unsure about a conflict, please consult the Program Chair.  
+ Submission Guidelines   
+ The following two points should not be overlooked:  
+ Conflicts | : For each submission, the authors must make sure that they properly declare all potential conflicts of interest for all of the authors of that submission. This includes marking PC conflicts as well as “Other Conflicts (external)”. A conflict caught late in the reviewing process leads to a voided review which may be infeasible to replace. 
+  Anonymity | : POPL 2023 will employ a double-blind reviewing process. Make sure that your submitted paper is fully anonymized. 
+  Prior to the paper submission deadline, the authors will upload their full anonymized paper. Each paper should have no more than 25 pages of text, excluding bibliography  , using the ACM Proceedings format. This format is chosen for compatibility with PACMPL. It is a single-column page layout with a 10 pt font, 12 pt line spacing, and wider margins than recent POPL page layouts. In this format, the main text block is 5.478 in (13.91 cm) wide and 7.884 in (20.03 cm) tall. Use of a different format (e.g., smaller fonts or a larger text block) is grounds for summary rejection. PACMPL templates for Microsoft Word and LaTeX can be found at the SIGPLAN author information page  . In particular, authors using LaTeX should use the sample-acmsmall-conf.tex file (found in the samples folder of the acmart package) with the acmsmall option. We also strongly encourage the review and screen options. Submissions may use numeric citations, but final versions of accepted papers must use author-year format for citations. Submissions should be in PDF and printable on both US Letter and A4 paper. Papers may be resubmitted to the submission site multiple times up until the deadline, but the last version submitted before the deadline will be the version reviewed. Papers that exceed the length requirement, that deviate from the expected format, or that are submitted late will be rejected.  
+ Submitted papers must adhere to the SIGPLAN Republication Policy  and the ACM Policy on Plagiarism  . Concurrent submissions to other conferences, workshops, journals, or similar forums of publication are not allowed.  
+ POPL 2023 will employ a double-blind reviewing process. To facilitate this, submitted papers must adhere to two rules:  
+ author names and institutions must be omitted, and 
+  references to authors’ own related work should be in the third person (e.g., not “We build on our previous work …” but rather “We build on the work of …”). 
+  The purpose of this process is to help the Review Committee and external reviewers come to a judgment about the paper without bias, not to make it impossible for them to discover the authors if they were to try. Nothing should be done in the name of anonymity that weakens the submission or makes the job of reviewing the paper more difficult. In particular, important background references should not be omitted or anonymized. In addition, authors may disseminate their ideas and post draft versions of their paper on their webpage, but should not take steps that would almost certainly reveal their identities to members of the Review Committee, e.g., directly contacting RC members or publicizing the work on social media or major mailing lists used by the community. The FAQ on Double-Blind Reviewing  clarifies the policy for many common concerns.  
+ The submission itself is the object of review, so it should strive to convince the reader of at least the plausibility of reported results. Still, we encourage authors to provide any supplementary material that is required to support the claims made in the paper, such as detailed proofs, proof scripts, or experimental data. These materials must be uploaded at submission time, as a single pdf or a tarball, not via a URL. All supplementary material should be anonymized. Reviewers are under no obligation to look at the supplementary material but may refer to it if they have questions about the material in the body of the paper.  
+ Artifact Evaluation for Accepted Papers   
+ Authors of conditionally accepted papers will be invited to formally submit supporting materials to the Artifact Evaluation process. Artifact Evaluation is run by a separate committee whose task is to assess how the artifacts support the work described in the papers. Artifact submission is strongly encouraged but voluntary and will not influence the final decision regarding the papers. Papers that go through the Artifact Evaluation process successfully will receive a seal of approval printed on the papers themselves. Authors of accepted papers are encouraged to make these materials publicly available upon publication of the proceedings, by including them as “source materials” in the ACM Digital Library.  
+ Copyright, Publication, and Presentation   
+ As a Gold Open Access journal, PACMPL is committed to making peer-reviewed scientific research free of restrictions on both access and (re-)use. Authors are strongly encouraged to support libre open access by licensing their work with the Creative Commons Attribution 4.0 International (CC BY) license  , which grants readers liberal (re-)use rights.  
+ Authors of accepted papers will be required to choose one of the following publication rights:  
+ Author licenses the work with a | Creative Commons license | , retains copyright, and (implicitly) grants ACM non-exclusive permission to publish (suggested choice). 
+  Author retains copyright of the work and grants ACM a non-exclusive permission to publish license. 
+  Author retains copyright of the work and grants ACM an exclusive permission to publish license. 
+  Author transfers copyright of the work to ACM. 
+  These choices follow from ACM Copyright Policy and ACM Author Rights, corresponding to ACM’s “author pays” option. While PACMPL may ask authors who have funding for open-access fees to voluntarily cover the article processing charge (currently, US$400), payment is not required for publication. PACMPL and SIGPLAN continue to explore the best models for funding open access, focusing on approaches that are sustainable in the long-term while reducing short-term risk.  
+ All papers will be archived by the ACM Digital Library. Authors will have the option of including supplementary material with their paper. The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to two weeks prior to the first day of the conference. The official publication date affects the deadline for any patent filings related to published work.  
+ Authors of accepted papers are required to give a short talk (roughly 25 minutes long) at the conference, according to the conference schedule.  
+ Distinguished Paper Awards   
+ At most 10% of the accepted papers of POPL 2023 will be designated as Distinguished Papers. This award highlights papers that the Review Committee thinks should be read by a broad audience due to their relevance, originality, significance, and clarity. The selection of the distinguished papers will be made based on the final version of the paper and through a second review process.  
+
+ FAQ on Double-Blind Reviewing  
+   
+ General   
+ Q: Why are you using double-blind reviewing?   
+ A: Studies have shown that a reviewer’s attitude toward a submission may be affected, even unconsciously, by the identity of the authors. We want reviewers to be able to approach each submission without any such, possibly involuntary, pre-judgment. Many computer science conferences have embraced double-blind reviewing. POPL has used lightweight double-blind reviewing for several years now as stipulated in the Principles of POPL  .  
+ Q: Do you really think blinding actually works? I suspect reviewers can often guess who the authors are anyway.   
+ A: It is rare for authorship to be guessed correctly, even by expert reviewers, as detailed in this study  .  
+ Q: Couldn’t blind submission create an injustice where a paper is inappropriately rejected based upon supposedly-prior work which was actually by the same authors and not previously published?   
+ A: Reviewers are held accountable for their positions and are required to identify any supposed prior work that they believe undermines the novelty of the paper. Any assertion that “this has been done before” by reviewers should be supported with concrete information. The author response mechanism exists in part to hold reviewers accountable for claims that may be incorrect.  
+ For authors   
+ Q: What exactly do I have to do to anonymize my paper?   
+ A: Use common sense. Your job is not to make your identity undiscoverable but simply to make it possible for reviewers to evaluate your submission without having to know who you are. The specific guidelines stated in the call for papers are simple: omit authors’ names from your title page, and when you cite your own work, refer to it in the third person. For example, if your name is Smith and you have worked on amphibious type systems, instead of saying “We extend our earlier work on statically typed toads [Smith 2004],” you might say “We extend Smith’s [2004] earlier work on statically typed toads.” Also, be sure not to include any acknowledgements that would give away your identity. In general, you should aim to reduce the risk of accidental unblinding. For example, if your paper is the first to describe a system with a well-known name or codename, or you use a personally-identifiable naming convention for your work, then use a different name for your submission (which you may indicate has been changed for the purposes of double-blind reviewing). You should also avoid revealing the institutional affiliation of authors or at which the work was performed.  
+ Q: I would like to provide supplementary material for consideration, e.g., the code of my implementation or proofs of theorems. How do I do this?   
+ A (and also see the next question): On the submission site there will be an option to submit supplementary material along with your main paper. This supplementary material should also be anonymized; it may be viewed by reviewers during the review period, so it should adhere to the same double-blind guidelines. e discourage authors from providing supplementary materials via links to external web sites. It is possible to change the linked items after the submission deadline has passed, and, to be fair to all authors, we would like to be sure reviewers evaluate materials that have been completed prior to the submission deadline. Having said that, it is appropriate to link to items, such as an online demo, that can’t easily be submitted. Needless to say, attempting to discover the reviewers for your paper by tracking visitors to such a demo site would be a breach of academic integrity. Supplementary items such as PDFs should always be uploaded to HotCRP.  
+ Q: My submission is based on code available in a public repository or I would like to provide a link to an online demo. How do I deal with this?   
+ A: Making your code publicly available is not incompatible with double-blind reviewing. You should do the following. First, cite the code in your paper, but remove the actual URL and, instead say “link to repository removed for double-blind review” or similar. Second, if, when writing your author response, you believe reviewer access to your code would help, say so in your author response (without providing the URL), and send the URL to the Program Chair. The same policy applies if you wish to provide a link to an online demo that can’t easily be submitted as supplementary material.  
+ Q: I am building on my own past work on the WizWoz system. Do I need to rename this system in my paper for purposes of anonymity, so as to remove the implied connection between my authorship of past work on this system and my present submission?   
+ A: No. The relationship between systems and authors changes over time, so there will be at least some doubt about authorship. Increasing this doubt by changing the system name would help with anonymity, but it would compromise the research process. In particular, changing the name requires explaining a lot about the system again because you can’t just refer to the existing papers, which use the proper name. Not citing these papers runs the risk of the reviewers who know about the existing system thinking you are replicating earlier work. It is also confusing for the reviewers to read about the paper under Name X and then have the name be changed to Name Y. Will all the reviewers go and re-read the final version with the correct name? If not, they have the wrong name in their heads, which could be harmful in the long run.  
+ Q: I am submitting a paper that extends my own work that previously appeared at a workshop. Should I anonymize any reference to that prior work?   
+ A: No. But we recommend you do not use the same title for your POPL submission, so that it is clearly distinguished from the prior paper. In general, there is rarely a good reason to anonymize a citation. One possibility is for work that is tightly related to the present submission and is also under review. When in doubt, contact the Program Chair.  
+ Q: Am I allowed to post my (non-blinded) paper on my web page? Can I advertise the unblinded version of my paper on mailing lists or send it to colleagues? Can I give a talk about my work while it is under review? How do I handle social media? What about arXiv?   
+ A: We have developed guidelines, described here, to help everyone navigate in the same way the tension between the normal communication of scientific results, which double-blind reviewing should not impede, and actions that essentially force potential reviewers to learn the identity of the authors for a submission. Roughly speaking, you may (of course!) discuss work under submission, but you should not broadly advertise your work through media that is likely to reach your reviewers. We acknowledge there are gray areas and trade-offs; we cannot describe every possible scenario.  
+ Things you may  do:  
+ Put your submission on your home page. 
+  Discuss your work with anyone who is not on the review committees, or with people on the committees with whom you already have a conflict. 
+  Present your work at professional meetings, job interviews, etc. 
+  Submit work previously discussed at an informal workshop, previously posted on arXiv or a similar site, previously submitted to a conference not using double-blind reviewing, etc. 
+  Things you should not  do:  
+ Contact members of the review committees about your work, or deliberately present your work where you expect them to be. 
+  Publicize your work on major mailing lists used by the community (because potential reviewers likely read these lists). 
+  Publicize your work on social media if wide public [re-]propagation is common (e.g., Twitter) and therefore likely to reach potential reviewers. For example, on Facebook, a post with a broad privacy setting (public or all friends) saying, “Whew, POPL paper in, time to sleep” is okay, but one describing the work or giving its title is not appropriate. Alternately, a post to a group including only the colleagues at your institution is fine. Reviewers will not be asked to recuse themselves from reviewing your paper unless they feel you have gone out of your way to advertise your authorship information to them. If you are unsure about what constitutes “going out of your way”, please contact the Program Chair. 
+  Q: Will the fact that POPL is double-blind have an impact on handling conflicts-of-interest?   
+ A: Double-blind reviewing does not change the principle that reviewers should not review papers with which they have a conflict of interest, even if they do not immediately know who the authors are. Authors declare conflicts of interest when submitting their papers using the guidelines in the call for papers. Papers will not be assigned to reviewers who have a conflict.  
+ For reviewers   
+ Q: What should I do if I learn the authors’ identity? What should I do if a prospective POPL author contacts me and asks to visit my institution?   
+ A: If you feel that the authors’ actions are largely aimed at ensuring that potential reviewers know their identity, contact the Program Chair. Otherwise, you should not treat double-blind reviewing differently from other reviewing. In particular, refrain from seeking out information on the authors’ identity, but if you discover it accidentally this will not automatically disqualify you as a reviewer. Use your best judgment.  
+ Q: The authors have provided a URL to supplemental material. I would like to see the material but I worry they will snoop my IP address and learn my identity. What should I do?   
+ A: Contact the Program Chair, who will download the material on your behalf and make it available to you.  
+ Q: If I am assigned a paper for which I feel I am not an expert, how do I seek an outside review?   
+ A: PC members should do their own reviews, not delegate them to someone else. If doing so is problematic for some papers, e.g., you don’t feel completely qualified, then consider the following options. First, submit a review for your paper that is as careful as possible, outlining areas where you think your knowledge is lacking. Assuming we have sufficient expert reviews, that could be the end of it: non-expert reviews are valuable too, since conference attendees are by-and-large not experts for any given paper. Second, work with the PC Chair and/or Associate Chairs, who will check for conflicts and then solicit an external review if additional expertise is needed. Please do not contact outside reviewers yourself. As a last resort, if you feel like your review would be extremely uninformed and you’d rather not even submit a first cut, contact the Program Chair.  
+ Q: How do we handle potential conflicts of interest since I cannot see the author names?   
+ A: The conference review system will ask that you identify conflicts of interest when you get an account on the submission system. It is critical that you enter these at least a week before the POPL submission deadline. Feel free to also identify additional authors whose papers you feel you could not review fairly for reasons other than those given (e.g., strong personal friendship).  
+ Q: How should I avoid learning the authors’ identity if I am using web-search in the process of performing my review?   
+ A: You should make a good-faith effort not to find the authors’ identity during the review period, but if you inadvertently do so, this does not disqualify you from reviewing the paper. As part of the good-faith effort, do not use search engines with terms like the paper’s title or the name of a new system being discussed.  
+  These guidelines are largely based on guidelines for PLDI 2020  , with slight modifications by Amal Ahmed based on the guidelines for POPL 2019  . Both of those are an evolution of guidelines originally created by Michael Hicks for POPL 2012.  
+
+ Important Dates   AoE (UTC-12h)     
+
+ Thu 10 Nov 2022  
+  Camera-Ready Deadline 
+ Mon 7 Nov 2022  
+  Notification of Final Acceptance 
+ Wed 26 Oct 2022  
+  Submission of Revisions 
+ Tue 27 Sep 2022  
+  Notification of Conditional Acceptance 
+ Tue 6 - Fri 9 Sep 2022  
+  Author Response Period 
+ Thu 7 Jul 2022   
+  Submission Deadline 
+
+ Submission Link   
+   
+   https://popl23.hotcrp.com     
+   
+ Program Committee    
+   
+ Amal Ahmed Program Chair    
+ Northeastern University, USA   
+ United States 
+  Robert Bruce Findler Associate Chair    
+ Northwestern University   
+ United States 
+  Deepak Garg Associate Chair    
+ MPI-SWS   
+ Germany 
+  François Pottier Associate Chair    
+ Inria   
+ France 
+  Andreas Abel    
+ Gothenburg University   
+ Sweden 
+  Nada Amin    
+ Harvard University   
+ United States 
+  Stephanie Balzer    
+ Carnegie Mellon University   
+ United States 
+  Josh Berdine    
+ Meta   
+ United Kingdom 
+  Karthikeyan Bhargavan    
+ Inria, France 
+  Giuseppe Castagna    
+ CNRS; Université de Paris   
+ France 
+  Tej Chajed    
+ VMware Research   
+ United States 
+  Arthur Charguéraud    
+ Inria; Université de Strasbourg; CNRS; ICube   
+ France 
+  Koen Claessen    
+ Chalmers University of Technology   
+ Sweden 
+  Loris D'Antoni    
+ University of Wisconsin-Madison   
+ United States 
+  Ugo Dal Lago    
+ University of Bologna; Inria   
+ Italy 
+  Mila Dalla Preda    
+ University of Verona   
+ Italy 
+  Ornela Dardha    
+ University of Glasgow   
+ United Kingdom 
+  Benjamin Delaware    
+ Purdue University   
+ United States 
+  Alastair F. Donaldson    
+ Imperial College London; Google   
+ United Kingdom 
+  Richard A. Eisenberg    
+ Jane Street   
+ United States 
+  Constantin Enea    
+ Ecole Polytechnique / LIX / CNRS   
+ France 
+  Michael Greenberg    
+ Stevens Institute of Technology   
+ United States 
+  Ichiro Hasuo    
+ National Institute of Informatics, Japan   
+ Japan 
+  Hugo Herbelin    
+ Inria 
+  Zhenjiang Hu    
+ Peking University   
+ China 
+  Suresh Jagannathan    
+ Purdue University   
+ United States 
+  Alan Jeffrey    
+ Roblox   
+ United States 
+  Patricia Johann    
+ Appalachian State University 
+  Jacques-Henri Jourdan    
+ CNR, LMF   
+ France 
+  Ralf Jung    
+ ETH Zürich   
+ Switzerland 
+  Ohad Kammar    
+ University of Edinburgh   
+ United Kingdom 
+  Joost-Pieter Katoen    
+ RWTH Aachen University   
+ Germany 
+  Ekaterina Komendantskaya    
+ Heriot-Watt University, UK 
+  Laura Kovacs    
+ Vienna University of Technology (TU Wien)   
+ Austria 
+  Robbert Krebbers    
+ Radboud University Nijmegen   
+ Netherlands 
+  Lindsey Kuper    
+ University of California at Santa Cruz 
+  Akash Lal    
+ Microsoft Research 
+  Xavier Leroy    
+ Collège de France   
+ France 
+  Mohsen Lesani    
+ University of California at Riverside 
+  Daniel R. Licata    
+ Wesleyan University   
+ United States 
+  Matteo Maffei    
+ TU Wien 
+  Isabella Mastroeni    
+ University of Verona, Italy   
+ Italy 
+  Christoph Matheja    
+ DTU   
+ Denmark 
+  Umang Mathur    
+ National University of Singapore   
+ Singapore 
+  Todd Millstein    
+ University of California at Los Angeles   
+ United States 
+  Andrzej Murawski    
+ University of Oxford   
+ United Kingdom 
+  Santosh Nagarakatte    
+ Rutgers University   
+ United States 
+  Aleksandar Nanevski    
+ IMDEA Software Institute   
+ Spain 
+  David Naumann    
+ Stevens Institute of Technology   
+ United States 
+  Dominic Orchard    
+ University of Kent, UK   
+ United Kingdom 
+  Klaus Ostermann    
+ University of Tübingen 
+  Oded Padon    
+ VMware Research   
+ United States 
+  Michele Pagani    
+ IRIF - Université de Paris Cité   
+ France 
+  Marco Patrignani    
+ University of Trento   
+ Italy 
+  David Pichardie    
+ Meta   
+ France 
+  Brigitte Pientka    
+ McGill University   
+ Canada 
+  Benjamin C. Pierce    
+ University of Pennsylvania   
+ United States 
+  Clément Pit-Claudel    
+ EPFL   
+ Switzerland 
+  Andreas Podelski    
+ University of Freiburg   
+ Germany 
+  Nadia Polikarpova    
+ University of California at San Diego   
+ United States 
+  Damien Pous    
+ CNRS 
+  Christopher Pulte    
+ University of Cambridge   
+ United Kingdom 
+  Corina S. Păsăreanu    
+ Carnegie Mellon University   
+ United States 
+  Azalea Raad    
+ Imperial College London   
+ United Kingdom 
+  Robert Rand    
+ University of Chicago   
+ United States 
+  Noam Rinetzky    
+ Tel Aviv University   
+ Israel 
+  Amr Sabry    
+ Indiana University   
+ United States 
+  Malavika Samak    
+ CSAIL, MIT   
+ United States 
+  Taro Sekiyama    
+ National Institute of Informatics   
+ Japan 
+  Jonathan Sterling    
+ Aarhus University   
+ Denmark 
+  Aaron Stump    
+ University of Iowa   
+ United States 
+  Eijiro Sumii    
+ Tohoku University   
+ Japan 
+  Nicolas Tabareau    
+ Inria   
+ France 
+  Éric Tanter    
+ University of Chile 
+  Joseph Tassarotti    
+ NYU   
+ United States 
+  Sam Tobin-Hochstadt    
+ Indiana University 
+  Andrew Tolmach    
+ Portland State University   
+ United States 
+  Marco Vassena    
+ Utrecht University   
+ Netherlands 
+  David Walker    
+ Princeton University   
+ United States 
+  Conrad Watt    
+ University of Cambridge   
+ United Kingdom 
+  Théo Winterhalter    
+ INRIA Saclay   
+ France 
+  Ningning Xie    
+ University of Toronto   
+ Canada 
+  Francesco Zappa Nardelli    
+ Meta   
+ France 
+  Elena Zucca    
+ University of Genoa   
+ Italy 
+
+ x  Mon 25 Nov 08:24    
+
+  POPL 2023   
+  contact form    
+  using conf.researchr.org  ( v1.67.1  )  
+   Support page    
+     
+ Tracks  
+ POPL   
+  Session Previews   
+  Artifact Evaluation   
+  Diversity, Equity and Inclusion   
+  Student Research Competition   
+  Student Volunteers   
+  TutorialFest   
+  Workshops and Co-located Events    
+ Co-hosted Conferences  
+ CPP 2023   
+  VMCAI 2023   
+  Workshops  
+ CoqPL 2023   
+  LAFI 2023   
+  PEPM 2023   
+  PLMW @ POPL 2023   
+  PriSC 2023   
+  ProLaLa 2023   
+  Co-hosted Symposia  
+ PADL 2023    
+
+ Attending  
+ Venue: Boston Park Plaza   
+  Supporting POPL   
+  Registration   
+  Information for Students   
+  Information for Presenters   
+  Information for Virtual Attendees   
+  Nearby Events    
+ Sign Up

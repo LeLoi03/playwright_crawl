@@ -1,0 +1,235 @@
+POPL 2023   Sun 15 - Sat 21 January 2023 Boston, Massachusetts, United States    
+ Toggle navigation        
+  Program | POPL Program 
+  Your Program 
+   Filter by Day | Sun 15 Jan 
+  Mon 16 Jan 
+  Tue 17 Jan 
+  Wed 18 Jan 
+  Thu 19 Jan 
+  Fri 20 Jan 
+  Sat 21 Jan 
+  Tracks | POPL 2023 
+  POPL 
+  Session Previews 
+   Co-hosted Conferences 
+  CPP 
+  VMCAI 
+  Workshops 
+  CoqPL 
+  Co-hosted Symposia 
+  PADL 
+  Organization | POPL 2023 Committees 
+  Organizing Committee 
+  Track Committees 
+  Program Committee 
+  Steering Committee 
+  VMCAI | Organizing Committee 
+  Program Committee 
+  Artifact Evaluation Committee 
+  POPL 2024 
+  POPL 2023 
+  POPL 2022 
+  Sign up 
+  POPL 2023  ( series  ) /  VMCAI 2023 ( series  ) /  VMCAI 2023  
+ About 
+  Call for Artifacts 
+  Call for Papers 
+  Camera-ready instructions 
+  Sponsorship 
+  Welcome to the website of the 24th International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI 2023).  
+ VMCAI provides a forum for researchers from the communities of Verification, Model Checking, and Abstract Interpretation, facilitating interaction, cross-fertilization, and advancement of hybrid methods that combine these and related areas. VMCAI 2023 will be the 24th edition in the series.  
+ VMCAI will take place during January 16-17, 2023.  
+ Proceedings and Recordings  
+ The full conference proceedings is available from Springer  .  
+   The GMT offsets shown reflect the offsets at the moment of the conference  .     
+ Time Band   
+ ×    You're viewing the program in a time zone which is different from your device's time zone change time zone     
+ Mon 16 Jan   
+ Displayed time zone: Eastern Time (US & Canada)  change      
+ Keynote | Towards a Theoretical Understanding of Property-Directed Reachability   VMCAI   
+ Sharon Shoham  Tel Aviv University 
+ 30m    
+ Talk | Distributing and Parallelizing Non-canonical Loops   VMCAI   
+ 30m    
+ Talk | Efficient Interprocedural Data-Flow Analysis using Treedepth and Treewidth   VMCAI   
+ Amir Kafshdar Goharshady  IST Austria, Austria  , Ahmed Khaled Zaher  HKUST 
+ 30m    
+ Talk | Result Invalidation for Incremental Modular Analyses   VMCAI   
+ Jens Van der Plas  Software Languages Lab, Vrije Universiteit Brussel  , Quentin Stiévenart  Vrije Universiteit Brussel  , Coen De Roover  Vrije Universiteit Brussel 
+ 30m    
+ Talk | Symbolic Abstract Heaps for Polymorphic Information-flow Guard Inference   VMCAI   
+ Nicolas Berthier  OCamlPro  , Narges Khakpour  Linnaeus University 
+ Keynote | What Can Program Analysis Say About Data Bias?   VMCAI   
+ Aws Albarghouthi  University of Wisconsin-Madison 
+ 30m    
+ Talk | Bayesian parameter estimation with guarantees via interval analysis and simulation   VMCAI   
+ Luisa Collodi  University of Florence 
+ 30m    
+ Talk | Solving Constrained Horn Clauses over Algebraic Data Types   VMCAI   
+ Lucas Zavalia  Florida State University Tallahassee  , Lidiia Chernigovskaia   , Grigory Fedyukovich  Florida State University 
+ 30m    
+ Talk | Satisfiability Modulo Custom Theories in Z3 (Tool Paper)   VMCAI   
+ Nikolaj Bjørner  Microsoft Research  , Clemens Eisenhofer   , Laura Kovács  TU Wien 
+ 30m    
+ Talk | CosySEL: Improving SAT Solving Using Local Symmetries   VMCAI   
+ Sabrine Saouli   , Souheib Baarir   , Claude Dutheillet   , Jo Devriendt 
+ Tue 17 Jan   
+ Displayed time zone: Eastern Time (US & Canada)  change      
+ Keynote | Differential Verification of Deep Neural Networks   VMCAI   
+ Chao Wang  University of Southern California 
+ 30m    
+ Talk | ARENA: Enhancing Abstract Refinement for Neural Network Verification   VMCAI   
+ Yuyi Zhong   , Quang-Trung Ta  National University of Singapore  , Siau-Cheng Khoo  National University of Singapore 
+ 15m    
+ Talk | Maximal Robust Neural Network Specifications via Oracle-guided Numerical Optimization Recorded      VMCAI   
+ Anan Kabaha  Technion, Israel Institute of Technology  , Dana Drachsler Cohen  Technion 
+ 15m    
+ Talk | SMT-Based Modeling and Verification of Spiking Neural Networks: A Case Study Recorded      VMCAI   
+ Sumana Ghosh   , Soham Banerjee   , Swarup Mohalik   , Ansuman Banerjee 
+ 30m    
+ Talk | A generic framework to coarse-grain stochastic reaction networks by Abstract Interpretation   VMCAI   
+ Jerome Feret  INRIA Paris  , Albin Salazar  INRIA/CNRS/ENS/PSL* 
+ 30m    
+ Talk | Sound Symbolic Execution via Abstract Interpretation and its Application to Security   VMCAI   
+ Xavier Rival  Inria; ENS; CNRS; PSL University  , Ignacio Tiraboschi  Inria, France / ENS, France  , Tamara Rezk  INRIA 
+ Keynote | Verifying, Inferring and Exploiting Code Commutativity   VMCAI   
+ Eric Koskinen  Stevens Institute of Technology 
+ 15m    
+ Talk | A Pragmatic Approach to Stateful Partial Order Reduction Recorded      VMCAI   
+ Berk Cirisci  IRIF, University Paris Diderot and CNRS, France  , Constantin Enea  Ecole Polytechnique / LIX / CNRS  , Azadeh Farzan  University of Toronto  , Suha Orhun Mutluergil  Sabanci University, Turkey 
+ 15m    
+ Talk | StaticPersist : Compiler Support for PMEM Programming Recorded      VMCAI   
+ Sorav Bansal  IIT Delhi and CompilerAI Labs 
+ 30m    
+ Talk | Compositional Verification of Stigmergic Collective Systems   VMCAI   
+ Luca Di Stefano  University of Gothenburg, Sweden  , Frederic Lang 
+ 30m    
+ Talk | Synthesizing History and Prophecy Variables for Symbolic Model Checking   VMCAI   
+ Cole Vick   , Kenneth L. McMillan  University of Texas at Austin 
+ Title 
+ A generic framework to coarse-grain stochastic reaction networks by Abstract Interpretation  VMCAI   
+ Jerome Feret  , Albin Salazar 
+ A Pragmatic Approach to Stateful Partial Order Reduction Recorded     VMCAI   
+ Berk Cirisci  , Constantin Enea  , Azadeh Farzan  , Suha Orhun Mutluergil 
+ ARENA: Enhancing Abstract Refinement for Neural Network Verification  VMCAI   
+ Yuyi Zhong  , Quang-Trung Ta  , Siau-Cheng Khoo 
+ Bayesian parameter estimation with guarantees via interval analysis and simulation  VMCAI   
+ Luisa Collodi 
+ Compositional Verification of Stigmergic Collective Systems  VMCAI   
+ Luca Di Stefano  , Frederic Lang 
+ CosySEL: Improving SAT Solving Using Local Symmetries  VMCAI   
+ Sabrine Saouli  , Souheib Baarir  , Claude Dutheillet  , Jo Devriendt 
+ Distributing and Parallelizing Non-canonical Loops  VMCAI   
+ Clément Aubert  , Thomas Rubiano  , Neea Rusch  , Thomas Seiller 
+ Efficient Interprocedural Data-Flow Analysis using Treedepth and Treewidth  VMCAI   
+ Amir Kafshdar Goharshady  , Ahmed Khaled Zaher 
+ Maximal Robust Neural Network Specifications via Oracle-guided Numerical Optimization Recorded     VMCAI   
+ Anan Kabaha  , Dana Drachsler Cohen 
+ Result Invalidation for Incremental Modular Analyses  VMCAI   
+ Jens Van der Plas  , Quentin Stiévenart  , Coen De Roover 
+ Satisfiability Modulo Custom Theories in Z3 (Tool Paper)  VMCAI   
+ Nikolaj Bjørner  , Clemens Eisenhofer  , Laura Kovács 
+ SMT-Based Modeling and Verification of Spiking Neural Networks: A Case Study Recorded     VMCAI   
+ Sumana Ghosh  , Soham Banerjee  , Swarup Mohalik  , Ansuman Banerjee 
+ Solving Constrained Horn Clauses over Algebraic Data Types  VMCAI   
+ Lucas Zavalia  , Lidiia Chernigovskaia  , Grigory Fedyukovich 
+ Sound Symbolic Execution via Abstract Interpretation and its Application to Security  VMCAI   
+ Xavier Rival  , Ignacio Tiraboschi  , Tamara Rezk 
+ StaticPersist : Compiler Support for PMEM Programming Recorded     VMCAI   
+ Sorav Bansal 
+ Symbolic Abstract Heaps for Polymorphic Information-flow Guard Inference  VMCAI   
+ Nicolas Berthier  , Narges Khakpour 
+ Synthesizing History and Prophecy Variables for Symbolic Model Checking  VMCAI   
+ Cole Vick  , Kenneth L. McMillan 
+ Camera-ready instructions  
+ Badge placement: Please use the following code snippet to including the badges that you were awarded, after the abstract:  
+ Sponsorship  
+ VMCAI is welcoming diamond, silver and bronze sponsors.  
+ Call for Papers  
+ VMCAI 2023 is the 24th International Conference on Verification, Model Checking, and Abstract Interpretation. The conference will be held during January 15-17, 2023. VMCAI provides a forum for researchers from the communities of Verification, Model Checking, and Abstract Interpretation, facilitating interaction, cross-fertilization, and advancement of hybrid methods that combine these and related areas.  
+ Scope   
+ The program will consist of refereed research papers as well as invited lectures and tutorials. Research contributions can report new results as well as experimental evaluations and comparisons of existing techniques.  
+  Submissions can address any programming paradigm, including concurrent, constraint, functional, imperative, logic, and object-oriented programming.  
+ Important Dates AoE (UTC-12)   
+ September 8th, 2022  September 15, 2022: Paper submission  
+ October 13th, 2022  October 20, 2022: Notification  
+ November 10th, 2022: Camera-ready version due  
+ Submissions   
+ Submissions are required to follow Springer’s LNCS format. The page limit depends on the paper’s category (see below). In each category, additional material beyond the page limit may be placed in a clearly marked appendix, to be read at the discretion of the reviewers and to be omitted in the final version. Formatting style files and further guidelines for formatting can be found at the Springer website  . Submission is via EasyChair  .  
+ Submissions will undergo a single-blind review process. Accepted papers will be published in Springer’s Lecture Notes in Computer Science series. There will be three categories of papers: regular papers, tool papers and case studies. Papers in each category have a different page limit and will be evaluated differently.  
+ Regular papers  clearly identify and justify an advance to the field of verification, abstract interpretation, or model checking. Where applicable, they are supported by experimental validation. Regular papers are restricted to 20 pages in LNCS format, not counting references.  
+ Tool papers  present a new tool, a new tool component, or novel extensions to an existing tool. They should provide a short description of the theoretical foundations with relevant citations, and emphasize the design and implementation concerns, including software architecture and core data structures. A regular tool paper should give a clear account of the tool’s functionality, discuss the tool’s practical capabilities with reference to the type and size of problems it can handle, describe experience with realistic case studies, and where applicable, provide a rigorous experimental evaluation. Papers that present extensions to existing tools should clearly focus on the improvements or extensions with respect to previously published versions of the tool, preferably substantiated by data on enhancements in terms of resources and capabilities. Authors are strongly encouraged to make their tools publicly available and submit an artifact. Tool papers are restricted to 12 pages in LNCS format, not counting references.  
+ Case studies  are expected to describe the use of verification, model checking, and abstract interpretation techniques in new application domains or industrial settings. Papers in this category do not necessarily need to present original research results but are expected to contain novel applications of formal methods techniques as well as an evaluation of these techniques in the chosen application domain. Such papers are encouraged to discuss the unique challenges of transferring research ideas to a real-world setting and reflect on any lessons learned from this technology transfer experience. Case study papers are restricted to 20 pages in LNCS format, not counting references. (Shorter case study papers are also welcome.)  
+ Call for Artifacts  
+ VMCAI 2023 makes available the option to submit an artifact along with a paper. Artifacts are any additional material that substantiates the claims made in the paper, and ideally makes them fully replicable. For some papers, these artifacts are as important as the paper itself because they provide crucial evidence for the quality of the results. The goal of artifact evaluation is twofold. On the one hand, we want to encourage authors to provide more substantial evidence to their papers and to reward authors who create artifacts. On the other hand, we want to simplify the independent replication of results presented in the paper and to ease future comparison with existing approaches. Artifacts of interest include (but are not limited to):  
+ Software, Tools, or Frameworks 
+  Data sets 
+  Machine checkable proofs 
+  Any combination of them 
+  Any other artifact described in the paper 
+  Artifact submission is optional  . However, we highly encourage all authors to also submit an artifact. A successfully evaluated artifact can increase your chance of being accepted since the evaluation result of your artifact is taken into account during paper reviewing. Additionally, badges shown on the title page of the corresponding paper give you credit for good artifact submissions. We award one of three types of badges. For artifacts that are successfully evaluated by the artifact evaluation committee we grant the available badge. Artifacts that are publically available under a DOI receive an availability badge. Authors may use all granted badges on the title page of the respective paper.  
+ Important Dates   
+ The artifact evaluation will be done in parallel with the evaluation of the submitted paper. The artifacts submission deadline is 1 week after the paper submission.  
+ September 9, 2022: Artifact submission opens  
+ September 15, 2022  September 22, 2022: Artifact submission  
+ October 3, 2022  October 16, 2022: Artifact test phase notification  
+ October 4–7, 2022  October 16–20, 2022: Artifact clarification period  
+ October 30, 2022: Artifact notification  
+ All artifacts are evaluated by the artifact evaluation committee. Each artifact will be reviewed by at least two committee members. Reviewers will read the paper and explore the artifact to evaluate how well the artifact supports the claims and results of the paper. The evaluation is based on the following questions.  
+ Is the artifact consistent with the paper and the claims made by the paper? 
+  Are the results of the paper replicable through the artifact? 
+  Is the artifact complete, i.e., how many of the results of the paper are replicable? 
+  Is the artifact well-documented? 
+  Is the artifact easy to use? 
+ In the test phase, reviewers check if the artifact is functional, i.e., they look for setup problems (e.g., corrupted, missing files, crashes on simple examples, etc.). If any problems are detected, the authors are informed of the outcome and asked for clarification. The authors will get 3 days to respond to the reviews in case problems are encountered. 
+  In the assessment phase, reviewers will try to reproduce any experiments or activities and evaluate the artifact w.r.t the questions detailed above. 
+  Artifacts Submission   
+ An artifact submission should consist of  
+ an abstract that summarizes the artifact and explains its relation to the paper including: 
+  a URL from which a .zip or .tar.gz archive file containing the artifact can be downloaded - we encourage you to provide a DOI 
+  a .pdf file of the submitted paper contained within the archive file. 
+  If you cannot submit the artifact as requested or encounter any other difficulties in the submission process, please contact the artifact evaluation chairs prior to submission.  
+ Artifact Packaging Guidelines   
+ There are two acceptable ways to submit your artifact. You may either package the artifact as an archive file and write their instructions such that the artifact evaluation committee can evaluate the artifact within a virtual machine provided by us. In this case, only submit the required files to replicate your results in the provided virtual machine. If you submit in this way, you would not submit a virtual machine image in the archive file. AEC members will copy your archive file into the provided virtual machine.  
+ The second option is to modify the given VM and reupload the VM to a hosting platform of your choice. We will check the hash of the image, then load the VM to test your artifact. In this case, a README should be contained in the home directory of the VM.  
+ We recommend preparing your artifact in such a way that any computer science expert without dedicated expertise in your field can use your artifact, especially to replicate your results. For example, provide easy-to-use scripts and a detailed README document.  
+ VMCAI 2022 Virtual Machine   
+ An initial version of the virtual machine is available here  . The user name is vmcai  and the password is vmcai-2023  . If you have any questions regarding the VM or in case you think the VM is improper for evaluation of your artifact, please contact the artifact evaluation chair.  
+ Submission Contents   
+ Your virtual machine must contain the following elements.  
+ The main artifact, i.e., data, software, libraries, scripts, etc. required to replicate the results of your paper. ◦ The review will be singly blind. Please make sure that you do not (accidentally) learn the identify of the reviewers (e.g., through analytics, logging). 
+  A license file. Your license needs to allow the artifact evaluation chairs to download and distribute the artifact to the artifact evaluation committee members and the artifact evaluation committee members must be allowed to evaluate the artifact, e.g., use, execute, and modify the artifact for the purpose of artifact evaluation. 
+  A README text file that introduces the artifact to the user and guides the user through replication of your results. Ideally, it should describe the structure and content of your artifact. It should also describe the steps to set up your artifact within the VM. To simplify the reviewing process, we recommend providing an installation script (if necessary). We would appreciate it if you would support the reviewers not only for the main review phase but also for the testing phase. To this end, it would be helpful if you would provide instructions that allow installation and rudimentary testing (i.e., in such a way that technical difficulties would pop up) in as little time as possible. Document in detail how to replicate your results of the paper: 
+  Please document which claims or results of the paper can be replicated with the artifact and how (e.g., which experiment must be performed). Please also explain which claims and results cannot be replicated and why.  
+ Describe in detail how to replicate the results in the paper, especially describe the steps that need to be performed to replicate the results in the paper. To simplify the reviewing process, we recommend providing evaluation scripts (where applicable). Precisely state the resource requirements (RAM, number of cores, CPU frequency, etc.), which you used to test your artifact. In most cases, your resource requirements should be modest and allow replication of results even on laptops. If your tool demands a more specialized resource requirement than would be appropriate for a laptop, make a note of this in your README. 
+  Please provide for each task/step of the replication (an estimate) how long it will take to perform it or how long it took for you and what exact machine(s) you used. 
+  For tasks that require a large amount of resources (hardware or time), we recommend to provide a possibility to replicate a subset of the results with reasonably modest resource and time limits, e.g., within 8 hours on a reasonable personal computer. In this case, please also include a script to replicate only a subset of the results. If this is not possible, please contact the artifact evaluation chairs early, but no later than before submission. 
+  Publication of Artifacts   
+ The artifact evaluation committee uses the submitted artifact only for the artifact evaluation. It may not publicize the artifact or any parts of it during or after completing evaluation. Artifacts and all associated data will be deleted at the end of the evaluation process. We encourage the authors of artifacts to make their artifacts also permanently available, e.g., on Zenodo  or figshare  , and refer to them in their papers via a DOI. All artifacts for which a DOI exists that is known to the artifact evaluation committee are granted the availability badge.  
+ Important Dates   AoE (UTC-12h)     
+ Thu 10 Nov 2022  
+  Camera-ready version due 
+ Fri 21 Oct 2022  
+  Notification 
+ Thu 22 Sep 2022  
+  Artifact submission deadline 
+ Thu 15 Sep 2022  
+  Paper submission deadline 
+ Organizing Committee    
+  POPL 2023   
+  contact form    
+  Workshops and Co-located Events    
+ Co-hosted Conferences  
+ CPP 2023   
+  VMCAI 2023   
+  Workshops  
+ CoqPL 2023   
+  LAFI 2023   
+  PEPM 2023   
+  PLMW @ POPL 2023   
+  PriSC 2023   
+  ProLaLa 2023   
+  Co-hosted Symposia  
+ PADL 2023    
+ Attending  

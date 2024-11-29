@@ -1,0 +1,436 @@
+input:
+1. MOBICOM_0 conference:
+MobiCom '23   
+ Home 
+  Author Info | Call for Papers 
+  Call for Posters 
+  Call for Demos 
+  Call for Artifacts 
+  Call for Workshops & Tutorials 
+  Camera-Ready Instructions 
+  Program | Program 
+  Accepted Papers 
+  About 
+ MobiCom 2023   
+ The 29th Annual International Conference on  
+  Mobile Computing and Networking  
+  2-6 Oct 2023, Madrid, Spain  
+ ACM MobiCom 2023 is the twenty-ninth in a series of annual conferences sponsored by ACM SIGMOBILE  dedicated to addressing the challenges in the areas of mobile computing and wireless and mobile networking. The MobiCom conference series serves as a highly selective, premier international forum addressing networks, systems, algorithms, and applications that support mobile computers and wireless networks. In addition to the regular conference program MobiCom 2023 will include a set of workshops, research demonstrations, and a poster session that includes the ACM Student Research Competition.  
+  Best Paper Awards  
+  AgriTera: Accurate Non-Invasive Fruit Ripeness Sensing via Sub-Terahertz Wireless Signals | Sayed Saad Afzal (MIT), Atsutse Kludze, Subhajit Karmakar (Princeton University), Ranveer Chandra (Microsoft), Yasaman Ghasempour (Princeton University) 
+  The Underwater Backscatter Channel: Theory, Link Budget, and Experimental Validation | Waleed Akbar, Ahmed Allam, Fadel Adib (Massachusetts Institute of Technology) 
+  Best Paper Award Runner-up  
+  NeRF2: Neural Radio-Frequency Radiance Fields | Xiaopeng Zhao, Zhenlin An, Qingrui Pan, Lei Yang (The Hong Kong Polytechnic University) 
+  Upcoming Important Dates  
+ Conference Dates | October 2-6, 2023 
+ Registration for MobiCom 2023 is now open! 
+ Conference Program  is also available. 
+ UPDATE: Attendee Information 
+ Early Notification | October 7, 2022 
+ Reviews Released to Authors | October 21, 2022 
+ Notification of Acceptance | November 18, 2022 
+ Winter Deadlines | Dates 
+ Early Notification | May 8, 2023 
+ Reviews Released to Authors | May 26, 2023 
+ Notification of Acceptance | June 20, 2023 
+  News  
+ [October 4, 2023] - The winners for Best Paper, Community Contributions and Artifact awards are out   . Congratulations to the winners!   
+ [October 2, 2023] - Proceedings are available at the program page     
+ [October 1, 2023] - For attendees: Details on conference rooms and events can be found here     
+ [September 22, 2023] - The program for the N2Women Panel Discussion and Dinner Meeting   is out! Use the following link   to sign-up   
+ [September 20, 2023] - Applications for the Mentorship Program   by SIGMOBILE are now open. You can use the following link   to apply.   
+ [September 03, 2023] - Early bird registration deadline   was extended from August 28th  to September 8th  . Registrants between August 28th and September 3rd will be reimbursed the difference.   
+ Platinum Sponsors  
+ Bronze Sponsors  
+  © MobiCom 2023: The 29th Annual International Conference on Mobile Computing and Networking.
+2. MOBICOM_1 conference:
+MobiCom '23   
+ Home 
+  Author Info | Call for Papers 
+  Call for Posters 
+  Call for Demos 
+  Call for Artifacts 
+  Call for Workshops & Tutorials 
+  Camera-Ready Instructions 
+  Program | Program 
+  Accepted Papers 
+  Unify: Turning BLE/FSK SoC into WiFi SoC | Authors: Hsun-Wei Cho, Kang G. Shin (The University of Michigan) 
+  RF-SIFTER: Sifting Signals at Layer-0.5 to Mitigate Wideband Cross-Technology Interference for IoT | Authors: Xiong Wang (Peking University); Jun Huang (City University of Hong Kong); Bizhao Shi, Zhe Ou, Guojie Luo (Peking University); Linghe Kong (Shanghai Jiao Tong University, China); Daqing Zhang, Chenren Xu (Peking University) 
+  Re-thinking computation offload for efficient inference on IoT devices with duty-cycled radios | Authors: Jin Huang, Hui Guan, Deepak Ganesan (UMass Amherst) 
+  UniScatter: a Metamaterial Backscatter Tag for Wideband Joint Communication and Radar Sensing | Authors: Kun Qian, Lulu Yao, Kai Zheng, Xinyu Zhang, Tse Nga Ng (University of California San Diego) 
+  NeRF2: Neural Radio-Frequency Radiance Fields - Best Paper Award Runner-Up | Authors: Xiaopeng Zhao, Zhenlin An, Qingrui Pan, Lei Yang (The Hong Kong Polytechnic University) 
+  MagCode: NFC-Enabled Barcodes for NFC-Disabled Smartphones | Authors: Donghui Dai, Zhenlin An, Qingrui Pan, Lei Yang (The Hong Kong Polytechnic University) 
+ MilliMobile: An Autonomous Battery-free Wireless Microrobot | Kyle Johnson, Zachary Englhardt, Vicente Arroyos, Dennis Yin, Shwetak Patel, Vikram Iyer (University of Washington) 
+  The Underwater Backscatter Channel: Theory, Link Budget, and Experimental Validation - Best Paper Award #2 | Waleed Akbar, Ahmed Allam, Fadel Adib (Massachusetts Institute of Technology) 
+  Magnetic Backscatter for In-body Communication and Localization | Bill Tao, Emerson Sie, Jayanth Shenoy, Deepak Vasisht (University of Illinois Urbana-Champaign) 
+  mmSV: mmWave Vehicular Networking using Street View Imagery in Urban Environments | Ahmad Kamari, Yoon Chae, Parth Pathak (George Mason University) 
+  Screen Perturbation: Adversarial Attack and Defense on Under-Screen Camera | Hanting Ye, Guohao Lan (Delft University of Technology), Jinyuan Jia (The Pennsylvania State University), Qing Wang (Delft University of Technology) 
+  MagTracer: Detecting GPU Cryptojacking Attacks via Magnetic Leakage Signals | Rui Xiao, Tianyu Li (Zhejiang University), Soundarya Ramesh (National University of Singapore), Jun Han (Yonsei University), Jinsong Han (Zhejiang University) 
+  MASTERKEY: Practical Backdoor Attack Against Speaker | Hanqing Guo (Michigan State University), Xun Chen (Samsung Research America), Junfeng Guo (UT Dallas), Li Xiao, Qiben Yan (Michigan State University) 
+  AgriTera: Accurate Non-Invasive Fruit Ripeness Sensing via Sub-Terahertz Wireless Signals - Best Paper Award #1 | Sayed Saad Afzal (MIT), Atsutse Kludze, Subhajit Karmakar (Princeton University), Ranveer Chandra (Microsoft), Yasaman Ghasempour (Princeton University) 
+  eTag: An Energy-Neutral Ear Tag for Real-Time Body Temperature Monitoring of Dairy Cattle | Hien Vu, Hanwook Chung, Christopher Choi, Younghyun Kim (University of Wisconsin-Madison) 
+  Revisiting Cardinality Estimation in COTS RFID Systems | Xingyu Chen, Jia Liu (Nanjing University), He Huang, Yu-E Sun (Soochow University), Xu Zhang Lijun Chen (Nanjing University) 
+  Breaking Mobile Notification-based Authentication with Concurrent Attacks Outside of Mobile Devices | Ahmed Tanvir Mahdad (Texas A&M University, College Station), Mohammed Jubur (Jazan University), Nitesh Saxena (Texas A&M University, College Station) 
+  ReMark: Privacy-preserving Fiducial Marker System via Single-pixel Imaging | Tzu-Hsu Yu, Hsin-Mu Tsai (National Taiwan University)
+3. MOBICOM_2 conference:
+MobiCom '23   
+ Home 
+  Author Info | Call for Papers 
+  Call for Posters 
+  Call for Demos 
+  Call for Artifacts 
+  Call for Workshops & Tutorials 
+  Camera-Ready Instructions 
+  Program | Program 
+  Accepted Papers 
+ Call for papers   
+ The ACM MobiCom conference seeks papers describing significant research contributions in the field of wireless networking and mobile computing. MobiCom solicits papers that address important research challenges and build practical working systems. Successful papers should propose novel ideas to attack such problems through rigorous analysis, system design and real-world measurement or deployment of mobile networks, systems and applications.  
+  MobiCom’23 will emphasize novelty and creativity while, at the same time, taking a broader and more inclusive view of wireless and mobile systems research. On one hand, the more novel the concept, the harder it can be to fully develop or evaluate all its aspects. On the other hand the more practical and developed the system, the more simple and sometimes known techniques must be leveraged. The review process will take both cases into account as intellectual merit and novelty can be found in techniques, system designs, implementations, and applications. The review process will also favor papers that describe how the authors will provide access to well-documented datasets, modeling and/or simulation tools, and codebases to support the reproducibility of their methods as well as papers that highlight and discuss not only the significance but also the limitations of the work.  
+  Unlike in previous years, MobiCom’23 will not have separate categories of challenge, experience, and verification papers. However, we do encourage the submission of experience papers as full papers that provide detailed technical insight into real-world deployments of novel technologies and systems. MobiCom'23 will also incorporate early notifications for papers rejected in round 1 and rebuttals as described below in more detail.  
+  Important Dates  
+ Early Notification | October 7, 2022 | May 8, 2023 
+ Reviews Released to Authors | October 21, 2022 | May 26, 2023 
+ Notification of Acceptance | November 18, 2022 | June 20, 2023 
+  Topics  
+  Wireless localization and tracking 
+  Two Deadlines, Early Notification, Rebuttals, and One-shot Revision  
+  MobiCom 2023 offers authors the option of two deadlines and keeps the one-shot revision process to enhance the timeliness and quality of the scientific results from the research community. Each paper will go through the same rigorous reviewing process as in previous MobiCom conferences. The review process for each deadline will involve two rounds. Papers that are not selected to proceed after the first round will receive an early notification, including reviews. After the second round of reviews, the reviews will be released to the authors and who will have one week to submit a rebuttal.  
+  Rebuttals  
+ MobiCom will provide an opportunity for authors to respond to reviews prior to the final consideration of the papers at the program committee meeting. Authors must limit their responses to (a) correcting factual errors in the reviews or (b) directly addressing questions posed by reviewers. Responses should be limited to clarifying the submitted work. In particular, responses must not include new experiments, new data, or new figures, describe additional work completed since submission or promise additional work to follow.  
+  Final decisions will be one of the following  
+  Accept | : Accepted papers will be presented at the MobiCom conference and appear as part of the proceedings and the MobiCom website. Note all the papers in this category will initially be | conditionally accepted | . The papers that go through a successful | anonymous | shepherding process will eventually be accepted. 
+  Reject | : Rejected after reviewed papers cannot be resubmitted until 11 months have passed since the last MobiCom deadline they were submitted to. We strongly encourage the authors to address reviewers' feedback before re-submitting the paper to MobiCom. 
+  One-Shot-Revision | : Papers, where a revision is required, will be given specific action points and can be resubmitted for the | next | deadline. For such papers, the reviewers will articulate a maximum of three major changes/clarifications that they would like to see. After the resubmission, the paper will be evaluated based on whether the authors have properly addressed the reviewers’ requests. Unlike in the shepherding process, the requested action points may include running additional experiments that obtain specific results and could take more than 4-6 weeks. During this revision period, the paper is still considered under review to MobiCom and therefore cannot be submitted to other conferences unless the authors first withdraw it from consideration. 
+  Artifact Evaluation for Accepted Papers  
+ The authors of accepted MobiCom 2023 papers will be invited to submit supporting materials to the Artifact Evaluation process. Artifact Evaluation is run by a separate committee that will assess how well the submitted artifacts support the work described in the accepted papers. Participation in Artifact Evaluation is voluntary and has no influence on the paper’s acceptance, but is strongly encouraged. Papers that go through the Artifact Evaluation process successfully will receive badges printed on the papers themselves. Additional details on the Artifact Evaluation process can be found here.  
+  Submission Instructions  
+  All paper submissions will be handled electronically at the MobiCom ’23 paper submission website  . Authors should prepare a PDF version of their full paper. All submitted papers will be evaluated through a double-blind  reviewing process, with the identities of the authors withheld from the reviewers.  
+  Before final submission, you are expected to make sure that your paper complies with the following requirements. Please do not violate these requirements with the aim of including additional material: ​submissions that violate the formatting requirements may not be reviewed​.  You can visually inspect a page-by-page report of your paper format using the same tool as the submission system via a separate ​ online form  . After the submission deadline, we will use the same tool to check the conformance of papers. The format checking tool uses heuristics and can make mistakes. The PC chairs will manually inspect and possibly reject those papers with evident format violations. However, no paper will be rejected due to format violations without being manually checked.  
+  Any papers that do not adhere to the following guidelines may be immediately rejected:  
+  Font size no smaller than | 10 points | . 
+  Fit properly on US letter-sized paper (8.5 inches by 11 inches). 
+  Submissions must be in PDF (Portable Document Format) authors should ensure that they are compatible with Adobe Acrobat (English version). Any other formats including Postscript and MS-Word, will not be accepted. 
+  Authors' names must not appear anywhere in the paper or in the PDF file. The PDF file must also not contain any embedded hyperlinks, as these may compromise reviewer anonymity. 
+  Limit the file size to less than 15 MB: contact the PC chairs if you have a file larger than this limit. 
+  You may find these templates  useful in complying with the above requirements. For Latex users, please use ​ \documentclass[sigconf,10pt]{acmart}​  . But as an author, you bear the final responsibility to verify (manually or through the above online paper checker) that your submission is format-compliant.  
+  By submitting your article to an ACM Publication, you are hereby acknowledging that you and your co-authors are subject to all ACM Publications Policies  including ACM's new Publications Policy on Research Involving Human Participants and Subjects.  Alleged violations of this policy or any ACM Publications Policy will be investigated by ACM and may result in a full retraction of your paper, in addition to other potential penalties, as per ACM Publications Policy.  
+  Please ensure that you and your co-authors obtain an ORCID ID  , so you can complete the publishing process for your accepted paper. ACM has been involved in ORCID from the start and we have recently made a commitment to collect ORCID IDs from all of our published authors  . The collection process has started and will roll out as a requirement throughout 2022. We are committed to improve author discoverability, ensure proper attribution and contribute to ongoing community efforts around name normalization; your ORCID ID will help in these efforts.  
+  Submission Policy  
+  In addition to the formatting requirements, all authors are ​expected to make sure that their paper complies with the following submission policies.  
+  Previous Publications  
+ We allow submissions that extend a previous work published as a poster demo, or workshop paper such as HotMobile or HotNets. However, in such case, the author(s) should (1) acknowledge their own previous workshop publication with an anonymous citation (e.g., "[7] Anonymized workshop paper") and (b) explain the differences between the MobiCom submission and the prior workshop paper (e.g. "This paper extends a prior workshop paper [7] and differs in the following aspects ..."). In addition, the online submission form will require authors to submit the deanonymized citation and a short explanation of the differences from the prior workshop paper. The PC will review such extended versions of previously-published workshop papers in accordance with the ACM Plagiarism Policy.  
+  No Simultaneous Submissions  
+ All submissions must describe original research not published or currently under review for another conference or journal. It is ACM policy ( ​ACM Author Rights and Publishing Policy, Prior Publication, and Simultaneous Submissions  ​) not to allow double submissions, where the same paper is submitted concurrently to more than one conference/journal. Any double submissions detected will be immediately rejected  from all conferences/journals involved.  
+  The ACM policy on simultaneous submissions does not consider technical reports (including arXiv) to be concurrent publications or submissions.  
+   Double-blind Submissions  
+ All submissions will be evaluated through double-blind reviewing. Please do not violate this requirement by explicitly or implicitly leaking the identity of any co-author or institution. They include but not limited to the below requirements: Please be sure your name and affiliation do not appear on the paper or in the submitted PDF file. This means that before submission, you must remove from the paper the authors' names, authors' affiliations, acknowledgments of funding sources etc. 
+  Please be cautious and careful how you refer to your own prior work in the paper. For example, do not describe your prior work with phrases like: | “In prior work[3], we presented a routing protocol that …” | Instead, refer to your work in the third person, such as | “In prior work, Smith[3] presented a routing protocol that …” | With this method, the full citation to Smith can still be given, such as | [3] Smith, J., "Analysis of … " | In particular, it is not acceptable to say | [3] Reference deleted for double-blind review. 
+  Please avoid advertising the paper with the same or similar title on your webpage social media, or through large mailing lists. Authors may include links to websites that contain source code, tools, or other supplemental material. The link in the paper, however, must be anonymized. Reviewers are not obliged to review such supplementary materials and such links must not be used to provide additional text that does not fit within the 12-page limit of the paper. 
+  Authors are allowed to give talks to restricted audiences on the work(s) submitted to MobiCom during the review. If you have posted or plan to post a non-anonymized version of your paper on a preprint server before the MobiCom decisions are made the submitted version must not refer to the non-anonymized version. MobiCom strongly discourages advertising the preprint on social media, personal web pages or in the press while under submission to MobiCom. Finally, any reviewer aware of the authorship of a specific submission, may not be allowed to review the paper, at the discretion of the PC chairs. 
+  We will not review any paper that violates our double-blind policy.  
+  Submissions will be kept confidential until accepted. Rejected submissions will be kept confidential permanently.  
+   Conflict of Interest (CoI)  
+ For a fair review process, program committee members who are COIs to any author of the submission will not review or participate in the discussion and decision-making of the submission. It is the author’s responsibility to mark COIs in the submission website.  
+  We generally follow the ACM policy ( Conflict of Interest Policy for ACM Publications  ) and also add and extend rules on the specific relationships to explicitly define COIs of one submission at MobiCom ’23 as:  
+  (1) any PC member who works/worked at the same organizational affiliation with any co-author in the last 24 months  or reasonably expected within the next 12 months  ;  
+  (2) any PC member who has co-authored any book, article, report, abstract or paper with collaboration in the last 24 months or reasonably expected within the next 12 months;  
+  (3) any PC member who has collaborated on projects, such as funded grants, research or others with any co-author in the last 24 months or reasonably expected within the next 12 months;  
+  (4) any PC member who is/was the advisor or advisee of any co-author;  
+  (6) any PC member who is exposed to the full or partial authorship of the work being submitted here in any public or private channel (including but not limited to interview talks, campus visits, research discussion, conversations);  
+  (7) any PC member who has a close personal friendship or business relationship beyond professional settings that could affect the review process with any co-author;  
+  (8) others perceivable conflicts.  
+  A potential COI must be identified at the submission and can be updated at any point during the review process, but when possible, potential conflicts should be determined before acceptance decisions are made.  
+  The author(s) must identify every COI out of all PC members (including chairs) with any  author of the submission and indicate the type of conflict during the submission process. For other forms of conflicts (item 8), the authors must contact the program chairs and explain the perceived conflict.  
+  Knowingly hiding or falsifying a stated COI, and knowingly and falsely asserting a COI — e.g., to prevent or alter peer-reviewing, to discourage appropriate reviewing, or to seek disadvantage of another — are both considered as a violation of this COI policy. We will return the violated submissions with no reviews.  
+   Previous Submissions  
+ In case of any similarity between a current submission and a submission that has been previously rejected at MobiCom or other relevant conferences within the last 12 months, the authors are requested to do the following in three cases: For a one-shot revision, please carefully follow the instructions on the notification. Along with the resubmission, the authors must report the major concerns and requested items from the reviewers of the previous submission and write a summary of how the authors have addressed them in the revision. Please ensure | your anonymity | is retained in this summary. 
+  For submissions that have been recently rejected by MobiCom, it is | required | for the authors to do the same as in case 1. That is, please report the major concerns from the reviewers of the previous submission and write a summary of how the authors have addressed them in the current submission. Please ensure | your anonymity | is retained in this summary. 
+  For submissions that have been previously rejected by a conference other than MobiCom (such as Mobisys, SIGCOMM, NSDI, SenSys, UbiComp, etc.), it is | strongly encouraged | , although not required, for the authors to do the same items as in case 2. That is, please report the major concerns from the reviewers of the previous submission and write a summary of how the authors have addressed them in the current submission. Please ensure your anonymity is retained in this summary. 
+   Processes for Conditionally Accepted Papers  
+  Anonymous and Rigorous Shepherding   
+  Conditionally accepted papers will be shepherded through a review process by a TPC member. Based on the feedback written in the reviews, authors of shepherded papers will submit a revision of their paper to the shepherd. The shepherd will collaborate with the reviewers from TPC to review the revised paper and provide the authors with additional comments. Note that the shepherding process could last 4-6 weeks and the authors might be asked to produce new experimental results and/or add new material. When the shepherding process results in final acceptance, the authors will upload their camera-ready file to the submissions system.  
+  Video Presentation   
+  The authors of each accepted paper will be asked to submit a one-minute video to introduce the research presented in their paper to the general public. These videos will be placed on the conference website and conference YouTube channel up to two weeks before the conference. A selected set will be featured by the social media channels related to the conference.  
+  Registration and Presentation   
+  By submitting a paper, you agree that at least one of the authors will register and attend the conference to present it.  
+  Awards  
+  All accepted regular  papers will be considered for the Best Paper Award  .  
+  Contact Us
+4. MOBICOM_3 conference:
+MobiCom '23   
+ Home 
+  Author Info | Call for Papers 
+  Call for Posters 
+  Call for Demos 
+  Call for Artifacts 
+  Call for Workshops & Tutorials 
+  Camera-Ready Instructions 
+  Program | Program 
+  Accepted Papers 
+ Workshops & Tutorials   
+ Mobicom 2023 is pleased to announce the organization of the following workshops and tutorials. Workshop papers will be included with the MobiCom proceedings and published in the ACM Digital Library. Please note that the deadline for paper submissions are the same for all workshops. This year, at MobiCom, we are also organising three half-day tutorials on topics of high interest to mobile systems researchers. Workshops  
+ 2 nd  ACM Workshop on Data Privacy and Federated Learning Technologies for Mobile Edge Network (FedEdge)   
+  Organizers: Jon Crowcroft (University of Cambridge), Yuchao Zhang (Beijing University of Posts and Telecommunications)  
+ 14 th  ACM Workshop on Wireless of the Students, by the Students, and for the Students Workshop (S3)   
+  Organizers: Ish Kumar Jain (UC San Diego), Akarsh Prabhakara (Carnegie Mellon University), Tara Boroushaki (Massachusetts Institute of Technology)  
+ 3 rd  ACM MobiCom Workshop on Integrated Sensing and Communications Systems (ISACom)   
+  Organizers: Fan Liu (Southern University of Science and Technology), Christos Masouros (University College London), Jun Luo (Nanyang Technological University)  
+ 2 nd  ACM Workshop on Smart Wearable Systems and Applications (SmartWear)   
+ 1 st  ACM Workshop on Satellite Communication (SATCOM'23)   
+  Organizers: Chenren Xu (Peking University), Shangguang Wang (Beijing University of Posts and Telecommunications), Lili Qiu (MSRA/UT-Austin)  
+ 1 st  ACM Workshop on ACM Workshop on Mobile Immersive Computing, Networking, and Systems (ImmerCom 2023)   
+  Organizers: Robert LiKamWa (Arizona State University, Bo Han (George Mason University, USA), Feng Qian (University of Minnesota - Twin Cities)  
+ 1 st  International Workshop on LEO Networking and Communication (LEO-NET 2023)   
+  Organizers: Nitinder Mohan (Technical University of Munich), Deepak Vasisht (University of Illinois Urbana-Champaign) and Mohamed Kassem (University of Surrey)  
+ 18 th  Workshop on Mobility in the Evolving Internet Architecture (MobiArch 2023)   
+  Organizers: Luis Miguel Contreras Murillo (Telefonica), Tingting Yuan (University of Göttingen)  
+ 2 nd  Workshop on Networked Sensing Systems for a Sustainable Society (NET4us 2023)   
+  Organizers: Pietro Manzoni (Universitat Politècnica de València), Catia Prandi (University of Bologna)  
+ Tutorials
+5. MOBIHOC_0 conference:
+Award  
+ Author Information  
+ Call for Papers  Submission Instructions  Camera-Ready Instructions  Student Travel Grant    
+ Registration  
+ Anti-Harassment Policy  
+ Welcome to MobiHoc 2023  
+ MobiHoc 2023, the 24th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing will be held in Washington DC, USA, October 23-26, 2023. MobiHoc is a premier international symposium dedicated to addressing challenges in dynamic networks and computing.  
+ It will bring together researchers and practitioners from a broad spectrum of networking research to present the most up-to-date results and achievements in the field.  
+ MobiHoc 2023 will feature a highly selective technical program, multiple distinguished keynote addresses, and an exciting panel. In addition, it includes workshops that are focused on areas of emerging interest.  
+  Latest News    
+ August 23, 2023 | Program  is online 
+ August 8, 2023 | Registration  is open now 
+ August 8, 2023 | Student travel grant  is online 
+ May 6, 2023 | Workshop proposal  deadline is extended to May 19, 2023 
+ November 16, 2022 | Call for workshop proposals  is online 
+ Spetember 28, 2022 | Call for papers  is online 
+ September 28, 2022 | Website is up 
+  Important Dates    
+ June 6, 2023 | Rebuttal Start 
+ June 12, 2023 | Rebuttal Deadline 
+ July 14, 2023 | Notification of Acceptance 
+ Oct 23, 2023 - Oct 26, 2023 | Conference 
+ Corporate Supporters  
+ © Copyright 2023 Xingyu Zhou, Creative Commons License  
+  Back to Top
+6. MOBIHOC_1 conference:
+25 November 2024 | 25 November 2024 
+ 25 November 2024 | 25 November 2024 | 25 November 2024 |  
+ 25 November 2024 | 25 November 2024 
+ 25 November 2024 | 25 November 2024 | 25 November 2024 
+ 25 November 2024 | 25 November 2024 | 25 November 2024 |  
+ 25 November 2024 | 25 November 2024 
+ 25 November 2024 | 25 November 2024 | 25 November 2024 |  
+ 25 November 2024 | 25 November 2024 
+ 25 November 2024 
+ History 
+ Bylaws 
+ Distinguished Service 
+ Outstanding Contribution 
+ Best Paper | Distinguished Service | Outstanding Contribution | Best Paper |  
+ Distinguished Service 
+ Outstanding Contribution 
+ Best Paper 
+ Online Application | Online Application |  
+ Online Application | History 
+ Requesting Sponsorship | Sponsored Conferences | Sponsored Workshops | In-Cooperation Events | Requesting Sponsorship | Distinguished Service 
+ Outstanding Contribution 
+ Best Paper | Distinguished Service | Outstanding Contribution | Best Paper | Online Application | Online Application | The ACM International Symposium on Mobile Ad Hoc Networking and Computing  
+ Sponsored by ACM SIGMOBILE    
+  To purchase copies of the proceedings of past MobiHoc conferences, please visit the ACM catalog  site. | | The ACM International Symposium on Mobile Ad Hoc Networking and Computing  
+ Sponsored by ACM SIGMOBILE    
+  To purchase copies of the proceedings of past MobiHoc conferences, please visit the ACM catalog  site. |  
+ The ACM International Symposium on Mobile Ad Hoc Networking and Computing  
+ Sponsored by ACM SIGMOBILE    
+  To purchase copies of the proceedings of past MobiHoc conferences, please visit the ACM catalog  site. | | The ACM International Symposium on Mobile Ad Hoc Networking and Computing  
+ Sponsored by ACM SIGMOBILE    
+  To purchase copies of the proceedings of past MobiHoc conferences, please visit the ACM catalog  site. | | The ACM International Symposium on Mobile Ad Hoc Networking and Computing  
+ Sponsored by ACM SIGMOBILE    
+  To purchase copies of the proceedings of past MobiHoc conferences, please visit the ACM catalog  site. |  
+ History 
+ Bylaws 
+ Distinguished Service 
+ Outstanding Contribution 
+ Best Paper | Distinguished Service | Outstanding Contribution | Best Paper |  
+ Distinguished Service 
+ Outstanding Contribution 
+ Best Paper 
+ Online Application | Online Application |  
+ Online Application 
+  To purchase copies of the proceedings of past MobiHoc conferences, please visit the ACM catalog  site. | | The ACM International Symposium on Mobile Ad Hoc Networking and Computing  
+ Sponsored by ACM SIGMOBILE    
+  To purchase copies of the proceedings of past MobiHoc conferences, please visit the ACM catalog  site. |  
+ The ACM International Symposium on Mobile Ad Hoc Networking and Computing  
+ Sponsored by ACM SIGMOBILE    
+  To purchase copies of the proceedings of past MobiHoc conferences, please visit the ACM catalog  site. | | History 
+ Bylaws 
+ Executive Committee 
+ Distinguished Service 
+ Outstanding Contribution 
+ Best Paper | Distinguished Service | Outstanding Contribution | Best Paper |  
+ Distinguished Service 
+ Outstanding Contribution 
+ Best Paper 
+ Online Application | Online Application |  
+ Online Application | History 
+ Requesting Sponsorship | Sponsored Conferences | Sponsored Workshops | In-Cooperation Events | Requesting Sponsorship | Distinguished Service 
+ Outstanding Contribution 
+ Best Paper | Distinguished Service | Outstanding Contribution | Best Paper | Online Application | Online Application | The ACM International Symposium on Mobile Ad Hoc Networking and Computing  
+ Sponsored by ACM SIGMOBILE    
+  To purchase copies of the proceedings of past MobiHoc conferences, please visit the ACM catalog  site. | | The ACM International Symposium on Mobile Ad Hoc Networking and Computing  
+ Sponsored by ACM SIGMOBILE    
+  To purchase copies of the proceedings of past MobiHoc conferences, please visit the ACM catalog  site. |  
+ The ACM International Symposium on Mobile Ad Hoc Networking and Computing  
+ Sponsored by ACM SIGMOBILE    
+  To purchase copies of the proceedings of past MobiHoc conferences, please visit the ACM catalog  site. | | The ACM International Symposium on Mobile Ad Hoc Networking and Computing  
+ Sponsored by ACM SIGMOBILE    
+  To purchase copies of the proceedings of past MobiHoc conferences, please visit the ACM catalog  site. | | The ACM International Symposium on Mobile Ad Hoc Networking and Computing  
+ Sponsored by ACM SIGMOBILE    
+  To purchase copies of the proceedings of past MobiHoc conferences, please visit the ACM catalog  site. |  
+ History 
+ Bylaws 
+ Distinguished Service 
+ Outstanding Contribution 
+ Best Paper | Distinguished Service | Outstanding Contribution | Best Paper |  
+ Distinguished Service 
+ Outstanding Contribution 
+ Best Paper 
+ Online Application | Online Application |  
+ Online Application | History 
+ Requesting Sponsorship | Sponsored Conferences | Sponsored Workshops | In-Cooperation Events | Requesting Sponsorship | Distinguished Service 
+ Outstanding Contribution 
+ Best Paper | Distinguished Service | Outstanding Contribution | Best Paper | Online Application | Online Application | The ACM International Symposium on Mobile Ad Hoc Networking and Computing  
+ Sponsored by ACM SIGMOBILE    
+  To purchase copies of the proceedings of past MobiHoc conferences, please visit the ACM catalog  site. | | The ACM International Symposium on Mobile Ad Hoc Networking and Computing  
+ Sponsored by ACM SIGMOBILE    
+  To purchase copies of the proceedings of past MobiHoc conferences, please visit the ACM catalog  site. |  
+ The ACM International Symposium on Mobile Ad Hoc Networking and Computing  
+ Sponsored by ACM SIGMOBILE    
+  To purchase copies of the proceedings of past MobiHoc conferences, please visit the ACM catalog  site. | | The ACM International Symposium on Mobile Ad Hoc Networking and Computing  
+ Sponsored by ACM SIGMOBILE    
+  To purchase copies of the proceedings of past MobiHoc conferences, please visit the ACM catalog  site. | | The ACM International Symposium on Mobile Ad Hoc Networking and Computing  
+ Sponsored by ACM SIGMOBILE    
+  To purchase copies of the proceedings of past MobiHoc conferences, please visit the ACM catalog  site. |  
+ History 
+ Bylaws 
+ Distinguished Service 
+ Outstanding Contribution 
+ Best Paper | Distinguished Service | Outstanding Contribution | Best Paper |  
+ Distinguished Service 
+ Outstanding Contribution 
+ Best Paper 
+ Online Application | Online Application |  
+ Online Application 
+  To purchase copies of the proceedings of past MobiHoc conferences, please visit the ACM catalog  site. | | The ACM International Symposium on Mobile Ad Hoc Networking and Computing  
+ Sponsored by ACM SIGMOBILE    
+  To purchase copies of the proceedings of past MobiHoc conferences, please visit the ACM catalog  site. |  
+ The ACM International Symposium on Mobile Ad Hoc Networking and Computing  
+ Sponsored by ACM SIGMOBILE    
+  To purchase copies of the proceedings of past MobiHoc conferences, please visit the ACM catalog  site. |
+7. MOBIHOC_2 conference:
+Send this CFP to us by mail: cfp@ourglocal.org  
+ Introduction  : ACM MobiHoc is the premier international symposium dedicated to addressing challenges emerging from wireless ad hoc networking and computing. With its highly selective technical program, the symposium will bring together researchers and practitioners from a broad spectrum of wireless networking research to present the most up-to-date results and achievements in the field.  
+ We invite paper submissions on mobile ad hoc networks, wireless sensor networks, wireless mesh networks, vehicular networks and ad hoc computing systems, with the focus being on issues at and above the MAC layer. Besides theoretical works, papers on practical issues are also very welcome. Areas of interest include, but are not limited to the following:  
+ Applications and middleware support  
+ Measurements from experimental systems  
+ The symposium especially encourages the submission of exploratory studies that identify new challenges in the network design, innovative services, and applications that may stimulate far-reaching future research.  
+ Deadline  : TBD | Date  : TBD  
+ Place/Country  : TBD/TBD  
+  ACM International Symposium on Mobile Ad Hoc Networking and Computing - MobiHoc 2024 
+  ACM International Symposium on Mobile Ad Hoc Networking and Computing - MobiHoc 2023 
+  ACM International Symposium on Mobile Ad Hoc Networking and Computing - MobiHoc 2022 
+  The 11th ACM International Symposium on Mobile Ad Hoc Networking and Computing - MobiHoc 
+   Keywords  : Accepted papers list. Acceptance Rate. EI Compendex. Engineering Index. ISTP index. ISI index. Impact Factor.  
+  Disclaimer  : ourGlocal is an open academical resource system, which anyone can edit or update. Usually, journal information updated by us, journal managers or others. So the information is old or wrong now. Specially, impact factor is changing every year. Even it was correct when updated, it may have been changed now. So please go to Thomson Reuters to confirm latest value about Journal impact factor.
+8. MOBIHOC_3 conference:
+中文  |  English  |  Español  |  日本語     
+ Conference Partner  » Conferences  » MobiHoc    
+  Conference Information   
+ Submission Date: | 2024-12-08 Extended 
+  Call For Papers   
+ ACM MobiHoc is a premier conference with a highly selective single-track technical program dedicated to addressing the challenges emerging from wireless networking and computing. We invite paper submissions on fundamental contributions to a broad variety of issues related to wireless and mobile networks. We encourage theoretical contributions as well as submissions related to implementation and experimentation that provide deeper understanding. The main focus is on contributions at and above the MAC layer. Papers dealing with physical layer issues are also welcome, provided that they address cross-layer networking issues. The areas of interest include, but are not limited to the following: Mobile, cellular, sensor, wireless mesh, vehicular, cognitive radio, ad hoc, social, opportunistic, and delay tolerant networks Optimization and control for mobile crowdsourcing Mobile computing systems Applications, middleware, transport, network, and MAC protocols Routing, scheduling, resource allocation, and energy efficiency Localization and location privacy Scaling laws and fundamental limits Cross-layer optimization and control Modeling and performance evaluation Function computation and data aggregation Network resilience, fault-tolerance, and reliability Trust, security, and privacy Distributed sensing, actuation, and control in cyber-physical systems Wireless aspects of the smart grid Wireless aspects of the Internet of Things Impacts of physical layer innovations on higher layers System design, testbeds, and experimental evaluation Measurements from deployed and experimental systems All papers submitted to the conference will be considered for a Best Paper Award.  Last updated by Dou Sun  in 2024-11-24   
+  Acceptance Ratio   
+ Year | Submitted | Accepted | Accepted(%) 
+  Related Conferences   
+ CCF | CORE | QUALIS | Short | Full Name | Submission | Notification | Conference 
+ IMMM | International Conference on Advances in Information Mining and Management | 2022-03-22 | 2022-04-19 | 2022-06-26 
+ AISC' | International Conference on Artificial Intelligence, Soft Computing | 2023-07-08 | 2023-07-22 | 2023-07-22 
+ Short | Full Name | Submission | Conference 
+ IMMM | International Conference on Advances in Information Mining and Management | 2022-03-22 | 2022-06-26 
+ AISC' | International Conference on Artificial Intelligence, Soft Computing | 2023-07-08 | 2023-07-22
+9. MobileHCI_0 conference:
+Welcome Message  
+ MobileHCI conference brings together people from diverse areas and provides a multidisciplinary forum for academics, hardware and software developers, designers and practitioners to discuss the challenges and potential solutions for effective interaction with and through mobile devices, applications, and services. The conference welcomes contributions that promote the exchange of ideas and rational discourse between academics, researchers, and industries all over the world.  
+  MobileHCI 2023 will be held in person (with hybrid participation) during September 26-29, 2023 in Athens, Greece.  
+  Accepted papers are now in the Proceedings of the ACM on Human-Computer Interaction (PACMHCI), archived in the ACM Digital Library.    
+  We look forward to receiving your contributions and to welcoming you to Athens!  
+  We are happy to announce that MobileHCI'23 will be co-located and ran in parallel with CHIGreece'23   , the biannual conference organised by the Greek ACM SIGCHI Chapter. We invite you to consider submitting to CHIGreece'23, whose proceedings are published in the ACM DL. Please note that separate registrations are required to attend the events.  
+ Keynote Speakers  
+ We are excited to announce the keynote speakers for MobileHCI'23!  
+  Steve Benford  
+ Overview  
+ Submitted papers will be peer-reviewed and evaluated based on originality, technical depth, research novelty, correctness, relevance to the conference, and readability. MobileHCI invites submissions for the following tracks:  
+ Full Papers | are archival research publications presenting novel scientific contributions 
+  Late-Breaking Works | are short papers presenting early-stage work 
+  Conference Theme  
+ The conference theme in 2023 is "Beyond morality: Ethics and action in MobileHCI". Ethics are our deliberate effort to find answers to the questions of identifying good actions and choices. Focusing on deliberate action, we'd like to encourage authors to bravely move from following inherited, learned or handed-down rules that define good actions and choices (e.g. from legislation, professional practice, tradition, cultural and social norms and customs, etc) and to reflect on how their work addresses design, implementation and implications from a normative ethics viewpoint, such as virtue-based, deontological or utilitarian - consequentialist approaches. We invite all authors to especially consider and discuss ethical aspects in their work, as part of their problem definitions, system design, experiment design, instrument and metric adoption and conclusions and generalisations of research findings. For more information on the theme, please click here  .  
+ Financial Support for Attending Participants  
+ If you are a participant who wants to attend MobileHCI 2023, and you need help funding your travel, you can apply for the Gary Marsden Travel Awards  .  
+  News and Updates   
+ [2023-09-23]  Program  updated for presentation order and remote presentations. 
+ [2023-09-16]  Important updates for all registrants are live on the site! Please check the Information for Authors  , Participants  , Program  and Welcome Reception  pages. 
+ [2023-09-15]  The deadline for the Acropolis VR tour lottery has been extended to Sep. 20th! Details in the Sightseeing  section. 
+ [2023-08-30]  Please see the updated information on Transportation  and Accommodation  . 
+  Important Dates  
+ *All deadlines are AoE 
+ Full Papers 
+ Video Upload | August 10, 2023 
+ Workshops 
+ Accessible Post-TAPS PDF | August 10, 2023 
+ Day of Workshops | September 26, 2023 
+ Demos, Tutorials, Panels, and Industrial Perspectives 
+ Camera-Ready | August 10, 2023 
+ Video Upload | August 10, 2023 
+ Late-Breaking Work 
+ Camera-Ready | August 10, 2023 
+ Video Upload | August 10, 2023 
+ Doctoral Consortium 
+ Camera-Ready | August 10, 2023 
+  Tweets by ACMMobileHCI    
+ MobileHCI 2023 Venue Teaser  
+ MobileHCI 2023 Welcome Message  
+  MobileHCI'23 is currently supported by:  
+ Become a sponsor!   
+ Find us on Twitter  and Facebook  . Made by MobileHCI 2023 Web Chair
+10. MobileHCI_1 conference:
+Program   
+ Conference Proceedings & Pre-Recorded Videos   
+  Please find the conference proceedings in the ACM Digital library  
+  [ Full Papers  | Adjunct Proceedings  ]  
+  Please find the pre-recorded videos from all tracks in the SIGCHI YouTube channel [tba].  
+  Conference Schedule  Please note this is a tentative schedule – slight changes and additions to the program may take place as we near the conference dates.  
+  However, authors and presenters of full papers (paper sessions) are advised that their scheduling is fixed and will not change.  
+  Planetarium Show: EEF Planetarium (2nd Floor, entrance from Ground Floor) 
+  Conference Dinner: | Royal Olympic Hotel 
+  Thanks to our co-location with the ACM CHIGreece2023  conference, the the poster and demo space (1st Floor Peristyle) will be shared between the two conferences on Wednesday 27th and Thursday 28th September. Participants will have the opportunity to visit and interact with posters and demos from CHIGreece2023 authors, in addition to those from MobileHCI'23, without requirement for additional registration.  
+ Kindly note that while the Doctoral Consortium is primarily aimed at the presenting doctoral students, all interested participants are welcome and invited to join the session.  
+ Accepted Contributions for presentation at MobileHCI'23   
+ Papers session Schedule  | Late-Breaking Work  | Demos  | Tutorials  | Workshops  | Industrial Perspectives  | Doctoral Consortium 
+ Designing for Collaborative Non-Driving Related Activities in Future Cars: Fairness and Team Performance. 
+  Melanie Berger, Debargha Dey, Bahareh Barati, Bastian Pfleging, Regina Bernhaupt  
+ Reality Anchors: Bringing Cues from Reality to Increase Acceptance of Immersive Technologies in Transit. 
+  Laura Bajorunaite, Stephen Anthony Brewster, Julie R. Williamson.  
+ DrivingVibe: Enhancing VR Driving Experience using Inertia-based Vibrotactile Feedback around the Head. 
+  π-Net 
+ Find us on Twitter  and Facebook  . Made by MobileHCI 2023 Web Chair
+
+output:1. MOBICOM_0 information:
+2. MOBICOM_1 information:
+3. MOBICOM_2 information:
+4. MOBICOM_3 information:
+5. MOBIHOC_0 information:
+6. MOBIHOC_1 information:
+7. MOBIHOC_2 information:
+8. MOBIHOC_3 information:
+9. MobileHCI_0 information:
+10. MobileHCI_1 information:

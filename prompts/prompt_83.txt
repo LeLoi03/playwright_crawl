@@ -1,0 +1,407 @@
+input:
+1. ER_3 conference:
+Data protection agreement (required)   
+  Your agreement is required in order to process your registration. Your contact details are held in a secure manner for the purposes of ER 2023 conference administration.  
+  Please indicate YES to proceed with your registration* 
+ Password   *     
+ (Please create a Username and a Password so you can later edit your booking)  
+ I agree to the information on this form being stored in an electronic format by Abreu Events and used for the purposes of ER 2023 conference administration.   Yes   *     
+   Data for Billing Receipt/Invoice  Copy Data
+2. ESANN_0 conference:
+Menu      Home | Latest news 
+  Submit a paper | Call for papers 
+  Special sessions 
+  Author guidelines 
+  Ethics 
+  Submissions 
+  Sponsors 
+  Contacts 
+  Past ESANN | ESANN conferences 
+  Proceedings 
+  My ESANN 
+ close  ×  Search     
+ ESANN 2023 - proceedings  
+ 31 st  European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning  
+  Bruges, Belgium October 04 - 06  Content of the proceedings  
+ Graph Representation Learning   
+  Feature selection and dimension reduction   
+  Davide Bacciu, Federico Errica, Alessio Micheli, Nicolò Navarin, Luca Pasa, Marco Podda, Daniele Zambon  
+  In a broad range of real-world machine learning applications, representing examples as graphs is crucial to avoid a loss of information. Due to this in the last few years, the definition of machine learning methods, particularly neural networks, for graph-structured inputs has been gaining increasing attention. In particular, Deep Graph Networks (DGNs) are nowadays the most commonly adopted models to learn a representation that can be used to address different tasks related to nodes, edges, or even entire graphs. This tutorial paper reviews fundamental concepts and open challenges of graph representation learning and summarizes the contributions that have been accepted for publication to the ESANN 2023 special session on the topic.  Download manuscript    
+ Richness of Node Embeddings in Graph Echo State Networks   
+  Domenico Tortorella, Alessio Micheli  
+  Graph Echo State Networks (GESN) have recently proved effective in node classification tasks, showing particularly able to address the issue of heterophily. While previous literature has analyzed the design of reservoirs for sequence ESN and GESN for graph-level tasks, the factors that contribute to rich node embeddings are so far unexplored. In this paper we analyze the impact of different reservoir designs on node classification accuracy and on the quality of node embeddings computed by GESN using tools from the areas of information theory and numerical analysis. In particular, we propose an entropy measure for quantifying information in node embeddings.  Download manuscript    
+ An Empirical Study of Over-Parameterized Neural Models based on Graph Random Features   
+  Nicolò Navarin, Luca Pasa, Luca Oneto, Alessandro Sperduti  
+  In this paper, we investigate neural models based on graph random features. In particular, we aim to understand when over-parameterization, namely generating more features than the ones necessary to interpolate, may be beneficial for the generalization of the resulting models. Exploiting the algorithmic stability framework and based on empirical evidences from several commonly adopted graph datasets, we will shed some light on this issue.  Download manuscript    
+ Convolutional Transformer via Graph Embeddings for Few-shot Toxicity and Side Effect Prediction   
+  Pierre Lambert, Lee John, Edouard Couplet, Cyril de Bodt  
+  Student t-distributed stochastic neighbor embedding (t-SNE) finds low-dimensional data representations allowing visual exploration of data sets. t-SNE minimises a cost function with a custom two-phase gradient descent. The first phase is called early exaggeration and involves a hyper-parameter whose value can be tricky and time-consuming to set. This paper proposes another way to optimise the cost function without early exaggeration. Empirical evaluation shows that the proposed method of optimization converges faster and yields competitive results in terms of neighborhood preservation.  Download manuscript    
+ On Feature Removal for Explainability in Dynamic Environments   
+  Fabian Fumagalli, Maximilian Muschalik, Eyke Hüllermeier, Barbara Hammer  
+  Removal-based explanations are a general framework to provide feature importance scores, where feature removal, i.e. restricting a model on a subset of features, is a central component. While many machine learning applications require dynamic modeling environments, where distributions and models change over time, removal-based explanations and feature removal have mainly been considered in a static batch learning environment. Recently, an interventional and observational perturbation method was presented that allows to remove features efficiently in dynamic learning environments with concept drift. In this paper, we compare these two algorithms on two synthetic data streams. We showcase how both yield substantially different explanations when features are correlated and provide guidance on the choice based on the application.  Download manuscript    
+ Robust Feature Selection and Robust Training to Cope with Hyperspectral Sensor Shifts   
+  Benoit Frénay  
+  Ockham's razor and the curse of dimensionality are two founding principles in machine learning. First, simple models should be preferred to complex ones, in order to prevent overfitting. Second, high-dimensional spaces should be avoided, whenever possible, because learning is easier in lower-dimensional spaces. These principles are often invoked to justify methodological choices or to preprocess data. However, this paper shows a counterexample where it is better to first learn a more complex model in a higher-dimensional space, and then to go back to the lower-dimensional space while dropping the additional complexity. Specifically, experiments demonstrate that Gaussian mixtures models can be learned in a higher-dimensional space and then marginalised to the target dimensionality to improve probability density estimation performances. The chosen problem is deliberately simple to facilitate the analysis, but it opens the way to similar work for more complex models and tasks.  Download manuscript    
+ Feature Selection for Multi-label Classification with Minimal Learning Machine   
+  Daniel Nowak-Assis  
+  Feature selection plays an important role in Machine Learning pipelines, and many challenges emerge for feature selection when data arrives continuously as a stream. In this paper, we extend the Adaptive Boosting for Feature Selection (ABFS) algorithm by (i) using a different Online Boosting strategy and (ii) changing the Boosting scaling factor of instances weighting. Results show that our extended ABFS leveraged the predictive performance of classifiers more than the standard ABFS in the most used monolithic classifiers for stream mining.  Download manuscript    
+  Towards Machine Learning Models that We Can Trust: Testing, Improving, and Explaining Robustness  
+  Luca Oneto, Sandro Ridella, Davide Anguita  
+  In the last decade it became increasingly apparent the inability of technical metrics to well characterize the behavior of intelligent systems. In fact, they are nowadays requested to meet also ethical requirements such as explainability, fairness, robustness, and privacy increasing our trust in their use in the wild. The final goal is to be able to develop a new generation of more responsible and trustworthy machine learning. In this paper, we focus our attention on randomized machine learning algorithms and models questioning, from a theoretical perspective, if it is possible to simultaneously optimize multiple metrics that are in tension between each other towards randomized machine learning algorithms that we can trust. For this purpose we will leverage the most recent advances coming from the statistical learning theory: distribution stability and differential privacy.  Download manuscript    
+ Single-pass uncertainty estimation with layer ensembling for regression: application to proton therapy dose prediction for head and neck cancer   
+  Danilo Franco, Luca Oneto, Davide Anguita  
+  Recent research has shown that some learned classifiers can be more easily fooled by an adversary who carefully crafts imperceptible or physically plausible modifications of the input data regarding particular subgroups of the population (e.g., people with particular gender, ethnicity, or skin color). This form of un-fairness has been just recently studied, noting the fact that classical fairness metrics, which only observe the model outputs, are not enough but also robustness biases need to be measured and mitigated. For this reason, in this paper, we will first develop a new metric of fairness which generalizes the current ones and degenerates in the classical ones and then we will develop a theoretical mitigation framework with consistency results able to generate a new empirical mitigation strategy and explain why the current ones actually work.  Download manuscript    
+ End-to-End Neural Network Training for Hyperbox-Based Classification   
+  Kodjo Mawuena AMEKOE, Mohamed Djallel DILMI, Hanane AZZAG, Zaineb CHELLY DAGDIA, Mustapha Lebbah, Grégoire JAFFRE  
+  We propose TabSRA, a novel self-explainable, and accurate model for tabular learning. TabSRA is based on SRA (Self-Reinforcement Attention), new attention mechanism that helps to learn an intelligible representation of the raw input data through element-wise vector multiplication. The learned representation is aggregated by a highly transparent function (e.g linear), which produces the final output. Experimental results on synthetic and real-world classification problems show that the proposed TabSRA solution outperforms existing widely used self-explainable models and performs comparably to full complexity state-of-the-art models in term of accuracy while providing a faithful feature attribution.  Download manuscript    
+ Improving Fairness via Intrinsic Plasticity in Echo State Networks   
+  Andrea Ceni, Davide Bacciu, Valerio De Caro, Claudio Gallicchio, Luca Oneto  
+  Artificial Intelligence, and in particular Machine Learning, has become ubiquitous in today's society, both revolutionizing and impacting society as a whole. However, it can also lead to algorithmic bias and unfair results, especially when sensitive information is involved. This paper addresses the problem of algorithmic fairness in Machine Learning for temporal data, focusing on ensuring that sensitive time-dependent information does not unfairly influence the outcome of a classifier. In particular, we focus on a class of training-efficient recurrent neural models called Echo State Networks, and show, for the first time, how to leverage local unsupervised adaptation of the internal dynamics in order to build fairer classifiers. Experimental results on real-world problems from physiological sensor data demonstrate the potential of the proposal.  Download manuscript    
+ Is Boredom an Indicator on the way to Singularity of Artificial Intelligence? Hypotheses as Thought-Provoking Impulse   
+  José D. Martín-Guerrero, Lucas Lamata, Thomas Villmann  
+  Artificial Intelligence (AI), a discipline with decades of history, is living its golden era due to striking developments that solve problems that were unthinkable just a few years ago, like generative models of text, images and video. The broad range of AI applications has also arrived to Physics, providing solutions to bottleneck situations, e.g., numerical methods that could not solve certain problems or took an extremely long time, optimization of quantum experimentation, or qubit control. Besides, Quantum Computing has become extremely popular for speeding up AI calculations, especially in the case of data-driven AI, i.e., Machine Learning (ML). The term Quantum ML is already known and deals with learning in quantum computers or quantum annealers, quantum versions of classical ML models and different learning approaches for quantum measurement and control. Quantum AI (QAI) tries to take a step forward in order to come up with disruptive concepts, such as, human-quantum-computer interfaces, sentiment analysis in quantum computers or explainability of quantum computing calculations, to name a few. This special session includes five high-quality papers on relevant topics, like quantum reinforcement learning, parallelization of quantum calculations, quantum feature selection and quantum vector quantization, thus capturing the richness and variability of approaches within QAI.  Download manuscript    
+ Quantum Feature Selection with Variance Estimation   
+  Quantum algorithms evolve an initial quantum state into another during computation to obtain meaningful results. However, this evolution introduces the cost of re-preparing the same initial quantum state for different tasks. Unfortunately, since quantum memory is not yet available, this cost cannot be ignored in Quantum Artificial Intelligence (QAI), where the initial quantum state typically coincides with a quantum dataset. Redundant state preparations for different tasks on the same dataset can reduce the advantages of quantum computation. To address this issue, this work proposes a new technique: the Logarithmic Quantum Forking (LQF). LQF performs state preparation for an initial quantum state once and employs additional qubits to compute an exponential number of tasks over the initial quantum state. LQF enables more efficient use of quantum computation in QAI by amortizing the cost of preparing the initial quantum state.  Download manuscript    
+ Quantum-ready vector quantization: Prototype learning as a binary optimization problem   
+  Alexander Engelsberger, Thomas Villmann  
+  Verónica Bolón-Canedo, Laura Morán-Fernández, Brais Cancela, Amparo Alonso-Betanzos  
+  Green machine learning refers to research that is more environmentally friendly and inclusive, not only by producing novel results without increasing the computational cost, but also by ensuring that any researcher with a laptop has the opportunity to perform high-quality research without the need to use expensive cloud servers. Efficient machine learning approaches (especially deep learning) are starting to receive some attention in the research community. This tutorial is concerned with the development of machine learning algorithms that optimize efficiency rather than only accuracy. We provide an overview of this recent field, together with a review of the novel contributions to the ESANN 2023 special session on Green Machine Learning.  Download manuscript    
+ Logarithmic division for green feature selection: an information-theoretic approach   
+  Samuel Suárez-Marcote, Laura Morán-Fernández, Verónica Bolón-Canedo  
+  Feature selection is a popular preprocessing step to reduce the dimensionality of the data while preserving the important information. In this paper we propose an efficient and green feature selection method based on information theory, with the novelty of using the logarithmic division and resort to fixed-point precision. The results of experiments conducted on several datasets indicate the potential of our proposal, as it does not incur in significant information loss compared to the standard method, both in the features selected and in the subsequent classification step. This finding opens up possibilities for a new family of green feature selection methods, which would help to minimize energy consumption and carbon emissions.  Download manuscript    
+ Efficient feature selection for domain adaptation using Mutual Information Maximization   
+  Guillermo Castillo García, Laura Morán-Fernández, Verónica Bolón-Canedo  
+  Green AI, an emerging research field, focuses on improving the efficiency of machine learning models. In this paper, we introduce a novel and efficient method for feature selection in domain adaptation, a type of transfer learning where the source and target domains share the feature space and task but differ in their distributions. Instead of using evolutionary algorithms, a typical approach in this field, we propose the use of filter methods, which do not require an iterative search process and are less computationally expensive. Our proposed method is Mutual Information Maximization, and our experiments show that it outperforms Particle Swarm Optimization in terms of efficiency, speed, and the ability to select a reduced subset of features while achieving competitive classification accuracy results.  Download manuscript    
+ Automated green machine learning for condition-based maintenance   
+  Afonso Lourenco, Carolina Ferraz, Jorge Meira, Goreti Marreiros, Verónica Bolón-Canedo, Amparo Alonso-Betanzos  
+  Within the big data paradigm, there is an increasing demand for machine learning with automatic configuration of hyperparameters. Although several algorithms have been proposed for automatically learning time-changing concepts, they generally do not scale well to very large databases. In this context, this paper presents an automated green machine learning approach applied to condition-based maintenance with automatic data fusion and density-based anomaly detection based on locality sensitivity hashing. Experiments on numerical simulations of train-track dynamic interactions demonstrate the utility of the approach to detect railway wheel out-of-roundness. This unlocks the full potential of scalable machine learning, paving the way for environment-friendly systems and automated decision-making.  Download manuscript    
+ Multispectral Texture Classification in Agriculture   
+  André Correia, Luís Alexandre  
+  Deploying reinforcement learning agents in the real world can be challenging due to the risks associated with learning through trial and error. We propose a task-agnostic method that leverages small sets of safe and unsafe demonstrations to improve the safety of RL agents during learning. The method compares the current trajectory of the agent with both sets of demonstrations at every step, and filters the trajectory if it resembles the unsafe demonstrations. We perform ablation studies on different filtering strategies and investigate the impact of the number of demonstrations on performance. Our method is compatible with any stand-alone RL algorithm and can be applied to any task. We evaluate our method on three tasks from OpenAI Gym's Mujoco benchmark and two state-of-the-art RL algorithms. The results demonstrate that our method significantly reduces the crash rate of the agent while converging to, and in most cases even improving, the performance of the stand-alone agent.  Download manuscript    
+ Automatic Trade-off Adaptation in Offline RL   
+  Oliver Kramer  
+  Evolution Strategies (ES) have emerged as a powerful and effective method for optimization and reinforcement learning tasks, largely due to their simplicity and scalability. However, current ES techniques can be limited in their capacity to quickly converge on the optimal solution. In this paper, we propose a novel approach to enhance ES by incorporating an evolution path-informed bias in the Gaussian mutation operator. This bias is designed to facilitate faster descent on decreasing functions. Our method leverages the evolution path, which represents the historical search directions, to intelligently bias the Gaussian mutation. By doing so, it enables the algorithm to be more sensitive to the underlying function's structure and adaptively exploit this information for more efficient exploration. We validate our approach through experiments on three benchmark functions: a linear function, we call Downhill function here, a Parabolic ridge, and a Sphere function. The results demonstrate that our evolution path-informed bias significantly accelerates convergence on in most of the cases.  Download manuscript    
+ Multi-Fidelity Reinforcement Learning with Control Variates   
+  Sami Khairy, Prasanna Balaprakash  
+  In this paper, we investigate reinforcement learning (RL) in multi-fidelity environments and enhance agent performance using cross-correlated data. We introduce a multifidelity estimator based on control variates to reduce variance in state-action value function estimation. By employing this estimator, we develop a multifidelity Monte Carlo RL (MFMCRL) algorithm that boosts agent learning in high-fidelity settings. Our experiments show that, given a finite high-fidelity sample budget, the MFMCRL agent outperforms an RL agent relying solely on high-fidelity interactions for policy optimization.  Download manuscript    
+ Sun Tracking using a Weightless Q-Learning Neural Network   
+  Hand force capacities reflect an individual's ability to generate forces in all directions, considering a given upper-limb posture. These capacities are described as polytopes by means of an upper-limb musculoskeletal model. However, such a model needs to be adapted to an individual for more accuracy. The model parameter space is investigated using derivative-free algorithms which do not require the optimization function to be differentiable: genetic algorithms and SRACOS, a classification-based algorithm. Results demonstrate that employing a genetic algorithm with a reduced representation of force polytopes (26 vertices) yields the most accurate prediction of force capacities in a validation posture.  Download manuscript    
+ Policy-Based Reinforcement Learning in the Generalized Rock-Paper-Scissors Game   
+  Imre Gergely Mali, Gabriela Czibula  
+  The Rock-Paper-Scissors game is a popular zero-sum game of cyclic nature, with a mixed-strategy Nash-equilibrium that has been the subject of a large number of studies and is of particular interest for economy, sociology and artificial intelligence. While there are numerous studies exploring evolutionary dynamics and learning, the overwhelming majority of these consider the game in its classical form, and two important axes with potential relevance remain unexplored. First, studies with policy-based reinforcement algorithms are lacking, and second, few existing investigations attempted to study such cyclic games with more than two players. The present work aims to address both of these matters.  Download manuscript    
+  Classification  
+  Otávio Napoli, Ana Maria de Almeida, José Miguel Sales Dias, Luís Brás Rosário, Edson Borin, Mauricio Breternitz Jr.  
+  Weightless Neural Networks (WNN) are good candidates for Federated Learning scenarios due to their robustness and computational lightness. In this work, we show that it is possible to aggregate the knowledge of multiple WNNs using more compact data structures, such as Bloom Filters, to reduce the amount of data transferred between devices. Finally, we explore variations of Bloom Filters and found that a particular data-structure, the Count-Min Sketch (CMS), is a good candidate for aggregation. Costing at most 3% of accuracy, CMS can be up to 3x smaller when compared to previous approaches, specially for large datasets.  Download manuscript    
+ Learning Vector Quantization in Context of Information Bottleneck Theory   
+  Mehrdad Mohannazadeh Bakhtiari, Daniel Staps, Thomas Villmann  
+  This paper is an effort to parameterize Information Bottle-neck Theory to become a supervised classifier. We introduce a parametrization by means of Learning Vector Quantization. With this new approach, one can find suitable components that are necessary for an accurate, yet efficient, classification. A balance between compression and representation is made by means of a specially designed objective function.  Download manuscript    
+ SOM-based Classification and a Novel Stopping Criterion for Astroparticle Applications   
+  Matteo Pardi, Domenico Tortorella, Alessio Micheli  
+  The forward-forward algorithm (FFA) is a recently proposed alternative to end-to-end backpropagation in deep neural networks. FFA builds networks greedily layer by layer, thus being of particular interest in applications where memory and computational constraints are important. In order to boost layers' ability to transfer useful information to subsequent layers, in this paper we propose a novel regularization term for the layer-wise loss function that is based on Renyi's quadratic entropy. Preliminary experiments show accuracy is generally significantly improved across all network architectures. In particular, smaller architectures become more effective in addressing our classification tasks compared to the original FFA.  Download manuscript    
+ On the number of latent representations in deep neural networks for tabular data   
+  Edouard Couplet, Pierre Lambert, Michel Verleysen, Lee John, Cyril de Bodt  
+  Most recent deep neural network architectures for tabular data operate at the feature level and process multiple latent representations simultaneously. While the dimension of these representations is set through hyper-parameter tuning, their number is typically fixed and equal to the number of features in the original data. In this paper, we explore the impact of varying the number of latent representations on model performance. Our results suggest that increasing the number of representations beyond the number of features can help capture more complex interactions, whereas reducing their number can improve performance in cases where there are many uninformative features.  Download manuscript    
+ CRE: Circle relationship embedding of patches in vision transformer   
+  Zhengyang Yu, Jochen Triesch  
+  The vision transformer (ViT) utilizes a learnable position embedding (PE) to encode the location of an image patch. However, it is unclear if this learnable PE is vital and what its benefits are. This paper explores an alternative way of encoding patch locations that exploits prior knowledge about their spatial arrangement called circle relationship embedding (CRE). CRE considers the central patch as the center of a circle and measures the distance of remaining image patches from the center based on the four-neighborhood. Our experiments show that combining CRE with PE achieves better performance than using PE alone.  Download manuscript    
+ Introducing Convolutional Channel-wise Goodness in Forward-Forward Learning   
+  Andreas Papachristodoulou, Christos Kyrkou, Stelios Timotheou, Theocharis Theocharides  
+  This paper introduces a Channel-wise Goodness Function (CWG) that enhances the Forward-Forward through the use of Convolutional Neural Networks. The CWG function facilitates simultaneous feature extraction and separation, eliminating the requirement for constructing negative data and leading to faster convergence rates. The approach employs a two-component loss function that maximizes positive goodness and minimizes negative goodness. This enables the model to learn class-specific features to outperform recent non-backpropagation approaches on basic image classification datasets and shorten the gap with the well-established backpropagation methods.  Download manuscript    
+ An Alternating Minimization Algorithm with Trajectory for Direct Exoplanet Detection   
+  Hazan Daglayan, Simon Vary, Pierre-Antoine Absil  
+  Effective image post-processing algorithms are vital for the successful direct imaging of exoplanets. Existing algorithms use techniques based on a low-rank approximation to separate the rotating planet signal from the quasi-static speckles. In this paper, we present a novel approach that iteratively finds the planet’s flux and the low-rank approximation of quasi-static signals, strengthening the existing model based on low-rank approximations. We implement the algorithm with two different norms and test it on data, showing improvement over classical low-rank approaches. Our results highlight the benefits of iterative refinement of low-rank approximation to enhance planet detection.  Download manuscript    
+ On Transformer Autoregressive Decoding for Multivariate Time Series Forecasting   
+  Yichun Li, Yuxing Yang, Rajesh Nair, Mohsen Naqvi  
+  Attention Deficit Hyperactivity Disorder (ADHD) causes significant impairment in various domains. Early diagnosis of ADHD and treatment could significantly improve the quality of life and functioning. Recently, machine learning methods have improved the accuracy and efficiency of the ADHD diagnosis process. However, the cost of the equipment and trained staff required by the existing methods are generally huge. Therefore, we introduce the video-based frame-level action recognition network to ADHD diagnosis for the first time. We also record a real multi-modal ADHD dataset and extract three action classes from the video modality for ADHD diagnosis. The whole process data have been reported to CNTW-NHS Foundation Trust, which would be reviewed by medical consultants/professionals and will be made public in due course.  Download manuscript    
+ Hierarchical priors for Hyperspherical Prototypical Networks   
+  Samuele Fonio, Lorenzo Paletto, Mattia Cerrato, Dino Ienco, Roberto Esposito  
+  In this paper, we explore the usage of hierarchical priors to improve learning in contexts where the number of available examples is extremely low. Specifically, we consider a Prototype Learning setting where deep neural networks are used to embed data in hyperspherical geometries. In this scenario, we propose an innovative way to learn the prototypes by combining class separation and hierarchical information. In addition, we introduce a contrastive loss function capable of balancing the exploitation of prototypes through a prototype pruning mechanism. We compare the proposed method with state-of-the-art approaches on two public datasets.  Download manuscript    
+ Segmentation and Analysis of Lumbar Spine MRI Scans for Vertebral Body Measurements   
+  Quoc-Huy Trinh, Hieu Nguyen, Van Nguyen, Xuan-Mao Nguyen, Hai-Dang Nguyen  
+  Face recognition is popular nowadays, however, Face anti-spoofing (FAS) poses a significant challenge for recognition systems due to the threat of external attacks. While many deep learning methods have been proposed to address this issue, they often face challenges in industry settings. Experiments found that patch extraction modules, such as the Vision Transformer and Swin Transformer, are effective for FAS in single images and perform well in industrial environments. From this point, we propose a model that leverages Transformer features and Graph Neural Networks to learn global information and identify correlations between patch features, which are critical for FAS.  Download manuscript    
+ Temporal Ensembling-based Deep k-Nearest Neighbours for Learning with Noisy Labels   
+  Alexandra-Ioana Albu  
+  Label noise can significantly affect the generalization of deep neural networks. Nevertheless, it is omnipresent in real world applications. This paper introduces an approach for identifying the samples from a dataset which are likely to have correct annotations. The proposed method computes the agreement of a sample with its nearest neighbours retrieved from the feature space provided by a neural network. We introduce a temporal ensembling strategy which takes into account the agreement scores obtained by a sample during previous training epochs. The superiority of our approach over several baselines is shown on image classification datasets.  Download manuscript    
+ Evaluation of Contrastive Learning for Electronic Component Detection   
+  Leandro Silva, Agostinho Junior, Bruno Fernandes, George Azevedo, Sérgio Oliveira  
+  The rapid growth of electronic waste (e-waste) has led to an urgent need for efficient recycling processes to recover valuable materials and reduce environmental impact. Waste Printed Circuit Boards (WPCBs) constitute significant e-waste and contain valuable components and precious metals. Computer vision systems can automate the classification, disassembly, and recycling of WPCBs. However, obtaining large annotated datasets for machine learning in this domain is costly and often unavailable. This paper investigates using few-shot and supervised contrastive learning in electronic component detection. We propose a model incorporating contrastive learning components for detecting electronic components in scenarios with limited training data or annotated labels. Our experimental results show that, in limited-data scenarios, contrastive learning outperforms the original versions of Faster R-CNN object detector. This study contributes to developing efficient recycling solutions for e-waste management and resource recovery.  Download manuscript    
+  Sequential data, and Meta-learning  
+  Tanguy Bosser, Souhaib Ben Taieb  
+  Learning marked temporal point process (TPP) models involves modeling both the event arrival times as well as their associated labels, referred to as marks. The recent introduction of deep learning techniques to the field led to better modeling of event sequences thanks to more flexible neural TPP models. However, some of these models make the assumption that event marks are independent of event times given the history of the process, which may not be valid in many applications. We relax this assumption and explicitly parametrize the mark distribution as a function of the current event time. We show that our approach achieves improved performance in predicting future marks compared to baselines on multiple real-world event sequence datasets, without affecting the performance on event time prediction.  Download manuscript    
+ A Protocol for Continual Explanation of SHAP   
+  Fatoumata Dama, Christine Sinoquet, Corinne Lejus-Bourdeau  
+  So far, models that take advantage of sequences of events to refine time series prediction have only been designed for specific applications. In this paper, we introduce the Non-Homogeneous Markov Chain AutoRegressive (NHMC-AR) model. In our model, the innovation arises from the synchronization of a multivariate Hawkes temporal point process with an autoregressive first-order hidden Markov model, through contextual variables. Experiments on anaesthesia data demonstrate that NHMC-AR has substantially better predictive performance compared to two competing methods.  Download manuscript    
+ Deep dynamic co-clustering of streams of count data: a new online Zip-dLBM   
+  Valerio De Caro, Antonio Di Mauro, Davide Bacciu, Claudio Gallicchio  
+  Federated Echo State Networks represent an efficient methodology for learning in pervasive environments with private temporal data due to the low computational cost required by the learning phase. In this paper, we propose Partial Federated Ridge Regression (pFedRR), an approximate, communication-efficient version of the exact method for learning the readout in a federated setting. Each client compresses the local statistics to be exchanged with the server via an importance-based method, which selects the most relevant neurons with respect to the local distribution. We evaluate the methodology on two Human State Monitoring benchmarks, in comparison with the exact method and a communication-efficient method that randomly selects the information to exchange. Results show that the importance-based selection of the information significantly reduces the communication cost, and fosters the generalization capabilities in the face of statistical heterogeneity across clients.  Download manuscript    
+ Simultaneous failures classification in a predictive maintenance case   
+  Oliver Kramer, Jill Baumann  
+  With growing environmental awareness, power generation from wind and other renewable sources is becoming increasingly important. Accurate short-term predictions of wind turbine power are needed to keep the grid stable and secure. This paper investigates the use of ETSformer, a new deep learning method based on a time series transformer architecture, for wind power prediction. ETSformer incorporates exponential smoothing principles and introduces mechanisms such as exponential smoothing attention and frequency attention to improve accuracy, efficiency and interpretability. This study compares ETSformer and LSTM on a sample dataset of a wind farm and its surrounding sites within a three kilometer radius from the Wind Integration National Dataset Toolkit with five minute interval measurements. The investigation shows promising results and improvements of ETSformer in ultra-short and short-term wind power prediction.  Download manuscript    
+ Is One Epoch All You Need For Multi-Fidelity Hyperparameter Optimization?   
+  Jérôme Fink, Mathieu De Coster, Joni Dambre, Benoit Frénay  
+  Research in natural language processing has led to the creation of powerful tools for individuals, companies... However, these successes for written languages have not yet affected signed languages (SLs) to the same extent. The creation of similar tools for signed languages would benefit deaf, hard of hearing, and hearing people by making SL content, learning, and communication more accessible for everyone. SL recognition and translation are related to AI, but require collaboration with linguists and stakeholders. This paper describes related challenges from an AI researcher's point of view and summarizes the state of the art in these domains.  Download manuscript    
+ Multimodal Recognition of Valence, Arousal and Dominance via Late-Fusion of Text, Audio and Facial Expressions   
+  Javier Martinez Rodriguez, Martha Larson, Louis ten Bosch  
+  We conduct an initial investigation to gain insight into whether a deep neural network learns phonological aspects of sign language when classifying video recordings of isolated signs from a continuous signing scenario. We train a series of neural networks to distinguish pairs of signs in Dutch Sign Language, controlling the phonological difference between the signs in each pair. Our results suggest that the intrinsic dimension of the final hidden layer of a network is surprisingly insensitive to the phonological difference between the signs in a pair. However, the ability of the network to discriminate two signs shows a clear trend towards increasing with increasing phonological distinctiveness.  Download manuscript    
+ Large-scale dataset and benchmarking for hand and face detection focused on sign language   
+  Alex Rast, Mario Antoine Aoun, Eleni Elia, Nigel Crook  
+  Spiking neural networks (SNNs) form a large class of neural models distinct from ‘classical’ continuous-valued networks such as multi layer perceptrons (MLPs). With event-driven dynamics and a continuous-time model, in contrast to the discrete-time model of their classical counterparts, they offer interesting advantages in representational capacity and energy consumption. However, developing models of learning for SNNs has historically proven challenging: as continuous-time systems, their dynamics are much more complex and they cannot benefit from the strong theoretical developments in MLPs such as convergence proofs and optimal gradient descent. Nor do they gain automatically from algorithmic improvements that have produced efficient matrix inversion and batch training methods. Research has focussed largely on the most extensively studied learning mechanisms in SNNs: spike-timing-dependent plasticity (STDP). Although there has been progress here, there are also notable pathologies that have often been solved with a variety of ad-hoc techniques. A relatively recent interesting development is attempts to map classical convolutional neural networks to spiking implementations, but these may not leverage all the claimed advantages of spiking. This tutorial overview looks at existing techniques for learning in SNNs and offers some thoughts for future directions.  Download manuscript    
+ Spiking neural networks with Hebbian plasticity for unsupervised representation learning   
+  Nigel Crook, Alex Rast, Eleni Elia, Mario Antoine Aoun  
+  Biological neurons communicate with each other using two broad categories of spike event coding: rate-based and temporal. Rate-based coding communicates analog information on a continuous scale through the intensity of bursts of spikes while temporal coding relies on the timing of spike events. It has been shown that temporal coding has higher information capacity than rate based coding, but is much more challenging to model due to difficulties estimating spike-time statistics. In this paper we demonstrate how historically dependent NMDA-modulated ‘resonant’ synapses organised in ‘functional synaptic clusters’ provide a robust mechanism for decoding temporally structured spike trains.  Download manuscript    
+ Pattern Recognition Spiking Neural Network for Classification of Chinese Characters   
+  Thomas Villmann, Ronny Schubert, Marika Kaden  
+  Approximation problems, and thus regression problems, have been widely considered as machine learning problems. A popular model to tackle such tasks are radial-basis-function networks (RBFN) and variants thereof. However, due to the global approximation scheme, RBFN, when trained in a supervised manner without additional constraints, may lack local representation. To this end, we propose approaches that aim to preserve locality in terms of the regression problem by using the Neural Gas algorithm. The models are tested on different data sets and compared to the supervised RBFN approach.  Download manuscript    
+ Hybrid Deep Learning-Based Air and Water Quality Prediction Model   
+  Jungeun Yoon, Dasong Yu, youngjae lee  
+  This paper analyzes the impact of surrounding data on predicting air and water pollution levels by incorporating relevant features and examining their influence. By doing so, we can confirm the relationship between air and water pollution. A hybrid deep learning-based model is trained and various datasets and models are compared and analyzed. The proposed GCN-GRU model achieved the best results not only for PM2.5 but also for Dissolved Oxygen. The hybrid model takes into account the spatial and temporal effects of data characteristics and provides more accurate environmental prediction information through correlation analysis.  Download manuscript    
+ Sleep analysis in a CLIS patient using soft-clustering: a case study   
+  Sophie Adama, Martin Bogdan  
+  The paper deals with the analysis of the sleep patterns of a patient with Completely Locked-In Syndrome (CLIS). The analysis was performed using an approach initially designed to detect consciousness in Disorders of Consciousness (DoC) and CLIS patients. The method extracts different features based on spectral, complexity and connectivity measures and performs soft-clustering analyses to determine the consciousness state. The results showed that it was able to discriminate between the (Non)-Rapid Eye Movement (NREM) and the Rapid Eye Movement (REM) sleep stages. Detecting normal SWS and REM phases indicates better communication abilities for the patient.  Download manuscript    
+ FairBayRank: A Fair Personalized Bayesian Ranker   
+  Armielle Noulapeu Ngaffo, Julien Albert, Benoit Frénay, Gilles Perrouin  
+  Recommender systems are data-driven models that successfully provide users with personalized rankings of items (movies, books...). Meanwhile, for user minority groups, those systems can be unfair in predicting users’ expectations due to biased data. Consequently, fairness remains an open challenge in the ranking prediction task. To address this issue, we propose in this paper FairBayRank, a fair Bayesian personalized ranking algorithm that deals with both fairness and ranking performance requirements. FairBayRank evaluation on real-world datasets shows that it efficiently alleviates unfairness issues while ensuring high prediction performances.  Download manuscript    
+ Robust and Cheap Safety Measure for Exoskeletal Learning Control with Estimated Uniform PAC (EUPAC)
+3. ESANN_1 conference:
+Menu      Home | Latest news 
+  Submit a paper | Call for papers 
+  Special sessions 
+  Author guidelines 
+  Ethics 
+  Submissions 
+  Sponsors 
+  Contacts 
+  Past ESANN | ESANN conferences 
+  Proceedings 
+  My ESANN 
+ The deadlines  
+ Extended submission deadline  
+ 27.11.2024    
+ Contact: d-side conferences  
+  esann@uclouvain.be   
+ All posts   The latest news
+4. ESANN_2 conference:
+Menu      Home | Latest news 
+  Submit a paper | Call for papers 
+  Special sessions 
+  Author guidelines 
+  Ethics 
+  Submissions 
+  Sponsors 
+  Contacts 
+  Past ESANN | ESANN conferences 
+  Proceedings 
+  My ESANN
+5. ESANN_3 conference:
+Menu      Home | Latest news 
+  Submit a paper | Call for papers 
+  Special sessions 
+  Author guidelines 
+  Ethics 
+  Submissions 
+  Sponsors 
+  Contacts 
+  Past ESANN | ESANN conferences 
+  Proceedings 
+  My ESANN 
+ close  ×  Search     
+ My ESANN  
+  Welcome to the my ESANN hub page. You will find here all the widgets available for your convenience.  
+ You have to log in  to view this content. Please register  if you don't have an account yet.
+6. ESA_0 conference:
+Skip to content    ALGO 2023   
+        Home  Home 
+  ATMOS 
+  IPEC 
+  ESA 
+  WAOA 
+  Local Info 
+  Social Program 
+ ESA  
+ 2023   
+ Scope  
+ The European Symposium on Algorithms  (ESA)  is one of the premier conferences on algorithms. It is organized in collaboration with the European Association for Theoretical Computer Science  (EATCS)  and is a part of ALGO 2023  , to be held in beautiful Amsterdam.  
+ Down to the list of accepted papers.    
+ Important Dates  
+  Notification: 23 June 
+  Camera ready: 30 June 
+  Conference: 4-6 September, 2023, in Amsterdam, The Netherlands 
+  Invited Speakers  
+ Rotem Oshman, Tel-Aviv University 
+  Marianne Durand, Philippe Flajolet: | Loglog Counting of Large Cardinalities | (Speaker: Bob Sedgewick) 
+  Call for Papers  
+ The symposium seeks original algorithmic contributions for problems with relevant theoretical and/or practical applications. Papers with a strong emphasis on the theoretical analysis of algorithms should be submitted to Track A, while papers reporting on the results of extensive experimental evaluations and/or providing original contributions to the engineering of algorithms for practical applications should be submitted to Track B. Submissions that prove or explain known results in a much clearer, simpler or more elegant way than done before should be submitted to Track S. There will be a Best Student Paper Award as well as a Best Paper Award, both sponsored by EATCS. In order for a paper to be considered for the Best Student Paper Award, all of its authors are required to be students.  
+ Paper submission and proceedings  
+ Papers should be submitted electronically via the EasyChair submission system. The ESA 2023 proceedings will be published in the Leibniz International Proceedings in Informatics ( LIPIcs  ) series.  
+ Submission Guidelines  
+ Authors are invited to submit an extended abstract or full paper of at most 12 pages excluding the title page (consisting of title and abstract), references, and an optional appendix. We recommend, but do not strictly require, making your initial submission adhere to LIPIcs publication guidelines. If not using LIPIcs style, the submission should be typeset using a 10-point or larger font in a single-column format with ample spacing throughout and 2cm margins all around on A4-size paper. Proofs omitted due to space constraints must be placed in an appendix. This appendix can even comprise an entire full version of the paper. The appendix will be read by the program committee members at their discretion. In particular, appendices of accepted papers are not going to be published in the proceedings. The main part of the submission should therefore contain a clear technical presentation of the merits of the paper, including a discussion of the paper’s importance within the context of prior work and a description of the key technical and conceptual ideas used to achieve its main claims. These guidelines are strict: submissions deviating significantly from these guidelines risk being rejected without consideration of their merits. Papers should be submitted electronically via the EasyChair submission system. Results previously published (or scheduled for publication) in another conference proceedings or journal will not be accepted at ESA. Simultaneous submission to other conferences with published proceedings, journals, or to multiple tracks of ESA 2023, is also not permitted. By submitting a paper the authors acknowledge that in case of acceptance, at least one of the authors must register at ALGO 2023, attend the conference on-site and present the paper.  
+ Double-Blind Reviewing  
+ The conference will employ a lightweight double-blind reviewing process. Submissions should not reveal the identity of the authors in any way. In particular, authors’ names, affiliations, and email addresses should not appear at the beginning or in the body of the submission. Authors should ensure that any references to their own related work is in the third person (e.g., not “We build on our previous work …” but rather “We build on the work of …”). The purpose of the double-blind reviewing is to help PC members and external reviewers come to an initial judgement about the paper without bias, not to make it impossible for them to discover the authors if they were to try. Nothing should be done in the name of anonymity that weakens the submission or makes the job of reviewing the paper more difficult. In particular, important references should not be omitted or anonymized. In addition, authors should feel free to disseminate their ideas or draft versions of their paper as they normally would. For example, authors may post drafts of their papers on the web, submit them to arXiv  , and give talks on their research ideas. In case there exist publicly available versions of the submission online, the authors might mention this in their submission (without providing references/links), and briefly explain the differences if any. Alternatively, they might communicate the details to the chairs, who will keep them confidential unless revealing them to the PC is needed for a fair judgement. Authors with further questions on double-blind reviewing are encouraged to contact the PC chairs.  
+ Topics  
+ Papers presenting original research in all areas of algorithmic research are sought, including but not limited to:  
+  Sabine Storandt, University of Konstanz 
+ ALGO 2023   
+ Imprint
+7. ESA_1 conference:
+Steering Committee 
+  Guidelines for ALGO 
+  ESA Symposia 
+  Test-of-Time Award 
+ No comments to show.   
+ Skip to content  ESA    
+ General Information 
+  Steering Committee 
+  Guidelines for ALGO 
+  ESA Symposia 
+  Test-of-Time Award 
+ News  
+ The | call for papers of ESA 2024 | is available 
+  ESA conferences  
+ For information about past and future editions of ESA, please see ESA Symposia  .  
+ Imprint
+8. ESA_2 conference:
+Steering Committee 
+  Guidelines for ALGO 
+  ESA Symposia 
+  Test-of-Time Award 
+ No comments to show.   
+ Skip to content  ESA    
+ General Information 
+  Steering Committee 
+  Guidelines for ALGO 
+  ESA Symposia 
+  Test-of-Time Award 
+ Toggle sidebar & navigation        
+ ESA Symposia
+9. ESA_3 conference:
+Steering Committee 
+  Guidelines for ALGO 
+  ESA Symposia 
+  Test-of-Time Award 
+ No comments to show.   
+ Skip to content  ESA    
+ General Information 
+  Steering Committee 
+  Guidelines for ALGO 
+  ESA Symposia 
+  Test-of-Time Award 
+ Test-of-Time Award  
+ The ESA Test-of-Time Award recognizes papers from ESA proceedings from 19-21 years prior that have best met the “test of time”. The winner is selected by a committee of three members appointed by the ESA Steering Committee. The prize may be shared by more than one paper, and the Award Committee reserves the right to declare no winner at all.  
+ ESA Test-of-Time Award 2023  
+ The award committee selected the following papers for the ESA ToTA 2023. The papers stand out for their impact in the algorithms field that also inspired important follow-up work, and by their significant citation record which shows that the papers are still relevant today.  
+ The paper studies the fundamental problem of computing the product of two n x n sparse matrices over a ring R, where each matrix contains at most m non-zero elements. It presents a new algorithm that, for certain values of m, multiplies the two matrices using an almost optimal or faster number of algebraic operations over R compared to best-known algorithms. The paper introduces a new way of partitioning the matrices into a dense and a sparse part that influenced subsequent work and can be used to improve the bounds of multiplying more than just two matrices.  
+ The paper provides a new algorithm for computing the suffix array of a string (lexicographically sorting all the suffixes of the given string). The new algorithm is lightweight (uses very small additional space to that required by the suffix array) and is based on a new deep–shallow sorting method that uses a “shallow” sorter for suffixes with a short common prefix, and a “deep” sorter for suffixes with a long common prefix. This new key idea allowed to overcome the drawbacks of previous approaches that either required a large amount of space or were inefficient when the input string contained many repeated substrings. The work included an extensive experimental study that demonstrated the practicality of the new approach. It constitutes a significant step forward towards (i) the efficient solution of an important practical problem, (ii) bridging the gap between theory and practice, and (iii) influencing subsequent work.  
+ Award Committee  : Christos Zaroliagis, Andrew Goldberg, Susanne Albers  
+ ESA Test-of-Time Award 2022  
+ The award committee selected the following papers for the ESA ToTA 2022. The papers stand out for their impact in the algorithms field that also inspired significant follow-up work, and by their excellent citation record which shows that the papers are still relevant today.  
+ The paper studies the problem of approximately counting the number (cardinality) of distinct elements in a large dataset. It presents a very efficient probabilistic approach that computes an estimate with a small relative error via a single pass over the input that uses very little auxiliary memory (a small number of words of log log N bits each, where N is the maximum possible cardinality). Since this is the size needed to represent the answer, this asymptotic dependence is optimal. The work included an empirical evaluation that demonstrates the practicality of the new approach. The paper introduced key new ideas that laid the foundations to subsequent research work on double-logarithmic size sketches and to implementations with a profound impact and widespread use in industry.  
+ The paper provides a thorough analysis of indices that formalize the relation between the number of intra- and inter-cluster edges for measuring the quality of graph clustering, for which there was no conclusive algorithmic evaluation. The paper proposed a new heuristic and experimentally evaluated it against two other theoretically grounded algorithms, making a significant step forward towards the efficient solution of an important practical problem, as well as bridging the gap between theory and practice. Beyond its particular contribution, this paper influenced subsequent work by broadening the scope and refining the methodology of modern experimental evaluation of algorithms.  
+  Award Committee  : Edith Cohen, Christos Zaroliagis, Andrew Goldberg  
+ Andrew Goldberg, Jason Hartline:  
+  Competitive Auctions for Multiple Digital Goods  
+  Proceedings ESA’01  
+ The paper is part of a foundational line of work by the authors on designing auctions for digital goods, which are goods such as software, music, and videos that are in unlimited supply. The work focuses on competitive auctions that encourage consumers to bid their utility values by providing yield revenue within a constant factor of the optimal fixed pricing. The paper initiates a study of the important case of multiple digital goods and extends on prior work focused on a single digital good.  
+ Giuseppe Lancia, Vineet Bafna, Sorin Istrail, Ross Lippert, and Russell Schwartz:  
+  SNPs Problems, Complexity, and Algorithms  
+  Proceedings ESA’01  
+ This paper contributed to foundational work of understanding emerging problems in genetics through the computational lens. Single nucleotide polymorphisms (SNPs) are the most frequent form of human genetic variation. They are of fundamental importance in medical diagnostic, drug design, and are a fingerprint of disease genes. This work studied problems related to computational SNPs validation based on genome assemblies of diploid organisms (those with two copies of each chromosome) and presented both hardness results and efficient algorithms, using graph modeling.  
+  Award Committee  : Samir Khuller, Edith Cohen, Christos Zaroliagis  
+ The paper presents an ingenious algorithm, dubbed Delta-stepping, for the Single-Source Shortest Path Problem (SSSP). This problem is well understood in the sequential setting (i.e., Dijkstra’s algorithm) but its ubiquitous applications call for efficient parallelizations. Most of the sequential SSSP algorithms are based either on label-setting or on label-correcting methods. Label-setting algorithms, like Dijkstra’s algorithm, settle at each iteration the distance label of one vertex. Label-correcting algorithms work instead by relaxing edges incident to unsettled vertices: all labels are temporary until the final step, when they all become permanent. In spite of the great practical performance of label-correcting methods, label-setting algorithms have been known to be asymptotically superior. In their paper, Meyer and Sanders show how to fill this gap by presenting Delta-stepping, a new label-correcting algorithm for SSSP which runs in optimal linear time with high probability for a large class of graphs with random edge weights. They further provide an efficient parallel implementation of their Delta-stepping algorithm, which has been a reference method and has inspired much subsequent work in parallel algorithms for many years.  
+ Award Committee  : Giuseppe F. Italiano, Uri Zwick, Samir Khuller  
+  A Functional Approach to External Graph Algorithms  
+ The paper deals with the design of algorithms that operate on massive data sets in external memory. Building on the well-known I/O model of complexity by Aggarwal and Vitter, the authors introduce a novel design principle for external algorithms based purely on functional transformations of the data, which facilitates standard checkpointing and program optimization techniques. Illustrated on a variety of graph problems, their approach is proved to be elegant and versatile in the design of both deterministic and randomized external algorithms while the resulting I/O complexities remain competitive. Functional algorithms are also designed for semi-external problems, in which the nodes fit in main memory but the connecting edges are abundant and only available in external memory. The paper is an excellent illustration of how general principles of functional program design and model-based complexity can remain in harmony in the field of external algorithms.  
+ Award Committee  : Giuseppe F. Italiano (Rome), Mike Paterson (Warwick), Jan van Leeuwen (Utrecht)  
+  Negative-cycle detection algorithms  
+ The paper by Cherkassky and Goldberg deals with the problem of finding a negative-length cycle in a network or proving that there is none. Algorithms for this are a combination of a shortest-path algorithm and a negative-cycle detection strategy. The authors analyse known algorithms and some new ones and determine the best combinations. Novel instance generators are used in this study. The paper is a model experimental paper in algorithms. Award Committee  : Kurt Mehlhorn (Saarbrucken), Mike Paterson (Warwick), and Jan van Leeuwen (Utrecht)  
+ It is natural to require connectedness as an additional constraint for a dominating set, for example, in ad hoc wireless networks. Domination guarantees coverage and connectedness guarantees communication between the selected nodes. Guha and Khuller gave polynomial algorithms for a logarithmic-factor approximation to its solution. Under the usual assumptions, this is the best possible. Their much-cited work has stimulated similar research for connected variants of many other graph problems. Award Committee  : Jan van Leeuwen, Kurt Mehlhorn and Mike Paterson  
+ Guidelines for the ESA Test-of-Time Award  
+ The winner of the ESA Test-of-Time Award is selected by a committee of three members, appointed by the ESA Steering Committee. The prize may be shared by more than one paper, and the Award Committee reserves the right to declare no winner at all.  
+ All papers from given years are eligible for the award, except those that are authored or co-authored by members of the Awards Committee. Although the Award Committee is encouraged to consult with the theoretical computer science community at large, the Award Committee is solely responsible for the selection of the winner of the award. All matters relating to the selection process that are not specified here are left to the discretion of the Award Committee.
+10. ESEM_0 conference:
+ESEIW 2023   Sun 22 - Fri 27 October 2023 New Orleans, Louisiana, United States    
+ Toggle navigation        
+  Your Program 
+  Keynotes 
+   Sun 22 Oct 
+  Mon 23 Oct 
+  Tue 24 Oct 
+  Wed 25 Oct 
+  Thu 26 Oct 
+  Fri 27 Oct 
+  Research tracks | ESEIW 2023 
+  ESEIW ESEM 
+  ESEM IGC 
+  ESEM Journal-First Papers 
+  ESEM Registered Reports 
+  ESEM Technical Papers 
+  Emerging Results, Vision and Reflection Papers Track 
+  IASESE Advanced School 
+  IDoESE Doctoral Symposium 
+  ISERN 
+  Organization | ESEIW 2023 Committees 
+  Organizing Committee 
+  ESEM PC 
+  ISERN Annual Meeting 
+  Track Committees 
+  ESEM IGC 
+  ESEM Journal-First Papers 
+  ESEM Registered Reports | Contacts 
+  Program Committee 
+  ESEM Technical Papers | Contacts 
+  Program Committee 
+  Emerging Results, Vision and Reflection Papers Track | Contacts 
+  Travel Support 
+  Travel Visa 
+  ESEM Dinner Venue 
+  ISERN Dinner Venue 
+  ESEM Code of Conduct 
+  NOLA guide 
+  Search 
+  Series | Series 
+    ESEIW 2024 
+  ESEIW 2023 
+  ESEIW 2022 
+   Photo by Wikimedia     
+ ESEIW 2023 & ESEM 2023  
+ Welcome to the joint website of ESEIW 2023  , the Empirical Software Engineering International Week 2023, and ESEM 2023  , the 17th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement.  
+ The ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM) is the premier conference for presenting research results related to empirical software engineering. ESEM provides a stimulating forum where researchers and practitioners can present and discuss recent research results on a wide range of topics, in addition to exchanging ideas, experiences, and challenging problems.  
+ Registration is now open! Please visit the Registration Page  for more information.  
+  ESEIW will be held as a fully on-site event — looking forward to meeting you in New Orleans!   .  
+ ESEM’23 is proud to announce that we will have ACM CAPS support. ACM CAPS  provides travel support (but not registration support) for students and professionals to attend ACM SIGSOFT conferences. We will be including a link to the application as we get closer to registration, stay tuned for more details!  
+  Keynotes   
+ David C. Shepherd: Empirical Research (Can) Lead to Industrial Impact; Learning from Experience   
+ “The Pasteur’s quadrant approach implies that it is possible to couple, simultaneously, the development of fundamental science to the solution of problems important to society." -Donald Stokes  
+  Too often software engineering research lives in an alternate, academic world, completely divorced from the reality of industrial practice. The ESEM community, pioneered by researchers like Victor Basili and strengthened by countless researchers, aims to destroy this false dichotomy. Through case studies, qualitative studies, and academia-industry collaborations this field seeks to learn about and influence industrial practice. In this talk I will detail my experience with industrial-facing research, with an eye towards techniques that were fruitful, as well as approaches that fell short. By sharing my experiences, from my success working with ABB Robotics to my frustrations when releasing open source software development tools, my hope is that the ESEM community can be better equipped in their goal of studying and influencing the software engineering industry.  
+ Supporters   
+ Tweets by ESEM_conf    
+  ESEIW 2023   
+ ESEIW ESEM  | ESEM Industry, Government, and Community  | ESEM Journal-First Papers  | ESEM Registered Reports  | ESEM Technical Papers Track  | Emerging Results, Vision and Reflection Papers Track  | IASESE Advanced School  | IDoESE Doctoral Symposium  | ISERN    
+  ESEIW 2023   
+  contact form    
+   Support page    
+ ESEIW 2023  
+ ESEIW ESEM   
+  ESEM IGC   
+  ESEM Journal-First Papers   
+  ESEM Registered Reports   
+  ESEM Technical Papers   
+  Emerging Results, Vision and Reflection Papers Track   
+  IASESE Advanced School   
+  Travel Support   
+  Travel Visa   
+  ESEM Dinner Venue   
+  ISERN Dinner Venue   
+  ESEM Code of Conduct   
+  NOLA guide    
+ Sign Up
+
+output:1. ER_3 information:
+2. ESANN_0 information:
+3. ESANN_1 information:
+4. ESANN_2 information:
+5. ESANN_3 information:
+6. ESA_0 information:
+7. ESA_1 information:
+8. ESA_2 information:
+9. ESA_3 information:
+10. ESEM_0 information:

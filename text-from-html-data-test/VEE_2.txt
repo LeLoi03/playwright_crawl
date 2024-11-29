@@ -1,0 +1,42 @@
+Virtual Execution Environments (VEE)  
+ The goal of Virtual Execution Environments is to be a first-rate research forum that brings together leading practitioners and researchers in the broad area of virtualization, which includes topics such as high-level language virtual machines (JVM, CLR etc.), process and system virtual machines, translators, machine emulators, and simulators.  
+ VEE Steering Committee   
+ The current VEE steering committee is:  
+ Jennifer B. Sartor | (Ghent University and Vrije Universiteit Brussel) 
+  Chris Rossbach | (UT Austin) 
+  Mayur Naik | (University of Pennsylvania) 
+  Santosh Nagarakatte | (Rutgers) 
+  Andrew Baumann | (Microsoft Research) 
+  Baris Kasikci | (University of Michigan) 
+  Ben L. Titzer 
+  Irene Zhang | (Microsoft Research) 
+  Harry Xu | (UCLA) 
+  Web Pages of Previous Conferences   
+ VEE 2021  (Virtual)  
+  VEE 2020  (Lausanne, Switzerland)  
+  VEE 2019  (Providence, RI, USA)  
+  VEE 2018  (Williamsburg, VA, USA)  
+  VEE 2017  (Xi'an, China)  
+  VEE 2016  (Atlanta, Georgia)  
+  VEE 2015  (Istanbul, Turkey)  
+  VEE 2014  (Salt Lake City, UT)  
+  VEE 2013  (Houston, TX)  
+  VEE 2012  (London, UK)  
+  VEE 2011  (Newport Beach, CA)  
+  VEE 2010  (Pittsburgh, PA)  
+  VEE 2009  (Washington, DC)  
+  VEE 2008  (Seattle, WA)  
+  VEE 2007  (San Diego, CA)  
+  VEE 2006  (Ottawa, Canada)  
+  VEE 2005  (Chicago, IL)  
+  
+ VEE Steering Committee Composition   
+ The VEE steering committee (SC) comprises past general and program chairs and a USENIX representative, assuming USENIX continues to co-sponsor the event. After each instance of VEE, membership on the steering committee will be updated as follows:  
+ Additions   
+ The general and program chairs of the most recent VEE conference will be invited to join the SC, if they are not already members.  
+ Deletions   
+ When the conference has been held for a number of years, members will be removed from the committee based on the date of the last time they were general chair (GC) or program chair of VEE.  
+ As long as USENIX agrees to be in cooperation with ACM SIGOPS' and SIGPLAN's sponsorship of VEE 2018, there will remain a USENIX representative on the SC. This is an exception to the rules above for rotating people off the committee.  
+ The GC in year X becomes the SC Chair in year X+2. In other words, the GC serves one year, participates in the SC the next year, and then chairs it the third year.  
+ When the above rule for SC Chair selection cannot be followed for some reason, the SC Chair is chosen by election among the current SC. The previous GC (or some other well-defined SC member) serves as interim SC Chair and leads the election.  
+   Last modified: Fri Sep 6 14:27:25 PDT 2019

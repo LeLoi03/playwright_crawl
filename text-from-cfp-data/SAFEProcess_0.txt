@@ -1,0 +1,960 @@
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    
+    
+<div id="page-wrapper" class="position-absolute w-100">
+  <div id="page">
+                      
+            
+            <header id="header" class="header bg-white  " role="banner" aria-label="Site header">
+
+            
+  
+        <div class="block clearfix small ieee-meta-nav-wrapper bg-dark">
+	
+		<div class="ieee-meta-nav-container container">
+			<div class="row">
+
+				<div class="ieee-meta-nav flex-fill text-center text-md-left float-md-left m-2">
+					<p id="ieee-meta-nav-menu" class="text-white"><a href="https://www.ieee.org/index.html" target="_blank">IEEE.org</a> &nbsp;|&nbsp; <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE <em>Xplore</em> Digital Library</a> &nbsp;|&nbsp; <a href="https://standards.ieee.org/" target="_blank">IEEE Standards</a> &nbsp;|&nbsp; <a href="https://spectrum.ieee.org/" target="_blank">IEEE Spectrum</a> &nbsp;|&nbsp; <a href="https://www.ieee.org/sitemap.html" target="_blank">More Sites</a></p>
+				</div>
+
+				<div class="ieee-meta-logo flex-fill text-center text-md-right float-md-right m-2">
+					<a href="https://ieee.org" target="_blank">
+						<img class="ieee-meta-logo-img" src="https://www.ieee.org/content/dam/ieee-global/images/ieee_mb_white.png" alt="IEEE.org" style="width:auto; height:20px;">
+					</a>
+				</div>
+
+			</div>
+		</div>
+
+	</div>
+
+  
+
+
+      
+      <div class="header-inner container">
+        <div class="row">
+                                    <div class="col mr-auto">
+                  <div>
+    
+
+<div id="branding-block" class="col-md-6 clearfix site-branding py-2 block block-system block-system-branding-block" data-block-plugin-id="system_branding_block">
+  
+
+      <a href="/" title="Home" rel="home" class="site-logo">
+      <img src="/sites/ieeeims/files/ims75-logo.png" alt="Home">
+    </a>
+    </div>
+  </div>
+
+              </div>
+                      
+                                          <aside id="header-aside" class="col-auto pr-0">
+                <div class="row region region-header-aside">
+    
+<div id="block-socialmedialinks" class="w-100 justify-content-end mb-3 block-social-media-links block block-social-media-links-block" data-block-plugin-id="social_media_links_block">
+  
+    
+      <div class="content">
+      
+
+<ul class="social-media-links--platforms platforms inline horizontal d-flex m-0">
+      <li>
+      <a href="/form/contact" target="_blank" aria-label="Contact the I&amp;amp;M Society" title="Contact the I&amp;amp;M Society">
+        <span class="fa fa-envelope fa-2x"></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="https://www.facebook.com/IEEEIMS/" target="_blank" aria-label="Follow us on Facebook" title="Follow us on Facebook">
+        <span class="fab fa-facebook fa-2x"></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="https://www.linkedin.com/groups/3027601" target="_blank" aria-label="Follow us on LinkedIn" title="Follow us on LinkedIn">
+        <span class="fab fa-linkedin fa-2x"></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="https://www.twitter.com/IEEE_IMS" target="_blank" aria-label="Follow us on Twitter" title="Follow us on Twitter">
+        <span class="fab fa-twitter fa-2x"></span>
+      </a>
+
+          </li>
+  </ul>
+
+    </div>
+  </div>
+
+<div class="views-exposed-form w-100 col-auto justify-content-end block block-views block-views-exposed-filter-blocksearch-page" data-drupal-selector="views-exposed-form-search-page" id="block-confcats-barrio-search" data-block-plugin-id="views_exposed_filter_block:search-page">
+  
+    
+      <div class="content">
+      
+<form block="block-confcats-barrio-search" action="/search" method="get" id="views-exposed-form-search-page" accept-charset="UTF-8">
+  <div class="form-group">
+    <div class="form-row">
+  
+  <fieldset class="js-form-item js-form-type-textfield form-type-textfield js-form-item-keywords form-item-keywords d-flex flex-column mb-2 form-group">
+          <label for="edit-keywords">Keywords</label>
+                <input data-drupal-selector="edit-keywords" type="text" id="edit-keywords" name="keywords" value="" size="30" maxlength="128" class="form-text form-control w-100">
+
+                  </fieldset>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-group" id="edit-actions"><input data-drupal-selector="edit-submit-search" type="submit" id="edit-submit-search" value="Search" class="button js-form-submit form-submit btn btn-primary btn-lg">
+</div>
+
+</div>
+
+  </div>
+</form>
+
+    </div>
+  </div>
+
+  </div>
+
+            </aside>
+                  </div>
+      </div>
+
+      <div class="sub-header container">
+        <div class="row">
+                  </div>
+      </div>
+                    <nav id="navigation" class="navbar dark primary navbar-expand-lg navbar-dark bg-primary navbar-expand-lg p-0 d-flex align-items-stretch bottom-shadow-sm">
+          <div class="container-fluid d-flex justify-content-center">
+                                                <button class="navbar-toggler navbar-toggler-right m-3" type="button" data-toggle="collapse" data-target="#CollapsingNavbar" aria-controls="CollapsingNavbar" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse d-md-flex align-items-stretch" id="CollapsingNavbar">
+                              
+  <div id="block-cc-main-nav-mega-menu" class="container w-100 block block-menu navigation menu--cc-main-nav-mega-menu" data-block-plugin-id="system_menu_block:cc-main-nav-mega-menu">
+  
+      
+    
+                  <ul block="block-cc-main-nav-mega-menu" class="menu menu--simple-mega-menu nav navbar-nav flex-fill">
+                                                
+              <li class="menu-item nav-item d-flex align-items-stretch active position-static">
+                                                                  <a href="/home" class="nav-link flex-fill" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/11">Home</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch menu-item--expanded active dropdown position-static">
+                                
+                                                                                      <span class="nav-link flex-fill dropdown-toggle" data-target="#" data-toggle="dropdown" aria-expanded="false">About</span>
+                                                                                                            
+              <ul class="mega-menu-dropdown dropdown-menu w-100 container-fluid">
+          <div class="row">
+                                                    
+              <li class="col-md-4 menu-item mega-menu-column menu-item--expanded active dropdown">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">About IMS</span>
+                                                                                                            
+                  <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/about/ieee-ims" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/6">About the I&amp;M Society</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/form/contact" data-target="#" aria-expanded="false" data-drupal-link-system-path="webform/contact">Contact Us</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=MEMIM009" target="_blank" data-target="#" aria-expanded="false">Join IMS</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                                        
+              <li class="col-md-4 menu-item mega-menu-column menu-item--expanded active dropdown">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">Who We Are</span>
+                                                                                                            
+                  <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/about/society-officers" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/8011">Officers</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/current-members-large" title="listing of current Members-at-Large by term of service" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/8006">Members-at-Large</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/general/other-appointments" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/11241">Other AdCom Members</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                                        
+              <li class="col-md-4 menu-item mega-menu-column menu-item--expanded active dropdown">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">Chapters</span>
+                                                                                                            
+                  <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/general/chapter-directory" title="I&amp;M Society Chapter listing" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/7741">Chapter Listing</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                                        
+              <li class="col-md-4 menu-item mega-menu-column menu-item--expanded active dropdown">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">Committees &amp; Representatives</span>
+                                                                                                            
+                  <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/about/standing-committees" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/8031">IMS Standing Committees</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/committee/representatives-liaisons" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/5446">Representatives &amp; Liaisons</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                                        
+              <li class="col-md-4 menu-item mega-menu-column menu-item--expanded active dropdown">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">History</span>
+                                                                                                            
+                  <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/position/president" title="Historical listing of IMS Presidents" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/4211">Presidents</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/committee/members-large-term" title="Historical Members-at-Large Listing by term of service" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/11236">Members-at-Large</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                                        
+              <li class="col-md-4 menu-item mega-menu-column menu-item--expanded active dropdown">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">Governing Documents</span>
+                                                                                                            
+                  <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/document/ims-constitution" data-target="#" aria-expanded="false" data-drupal-link-system-path="media/591">Constitution</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/document/ims-bylaws" target="_blank" data-target="#" aria-expanded="false" data-drupal-link-system-path="media/586">Bylaws</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/document/ims-society-handbook" data-target="#" aria-expanded="false" data-drupal-link-system-path="media/21">Society Handbook</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/document/ims-strategic-plan" data-target="#" aria-expanded="false" data-drupal-link-system-path="media/26">Society Strategic Plan</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                      </div></ul>
+              
+                                                </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch menu-item--expanded active dropdown position-static">
+                                
+                                                                                      <span class="nav-link flex-fill dropdown-toggle" data-target="#" data-toggle="dropdown" aria-expanded="false">Awards</span>
+                                                                                                            
+              <ul class="mega-menu-dropdown dropdown-menu w-100 container-fluid">
+          <div class="row">
+                                                    
+              <li class="col-md-4 menu-item mega-menu-column menu-item--expanded active dropdown">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">Awards &amp; Recognition Program</span>
+                                                                                                            
+                  <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/7721">About Awards &amp; Recognitions</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                                        
+              <li class="col-md-4 menu-item mega-menu-column menu-item--expanded active dropdown">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">Membership Awards</span>
+                                                                                                            
+                  <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/outstanding-chapter-award" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/8621">Outstanding Chapter Award</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/best-student-chapter-award" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/8626">Outstanding Student Chapter Award</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                                        
+              <li class="col-md-4 menu-item mega-menu-column menu-item--expanded active dropdown">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">Technical &amp; Standards Awards</span>
+                                                                                                            
+                  <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/outstanding-tc-award" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/8631">Outstanding Technical Committee Award</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                                        
+              <li class="col-md-4 menu-item mega-menu-column menu-item--expanded active dropdown">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">Society Awards</span>
+                                                                                                            
+                  <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/society-awards" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/7731">Overview</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/career-excellence-award" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/8591">Career Excellence Award</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/distinguished-service-award" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/8586">Distinguished Service Award</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/outstanding-young-engineer-award" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/8596">Outstanding Young Engineer Award</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/technical-award" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/8576">Technical Award</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/j-barry-oakes-advancement-award" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/8611">J. Barry Oakes Advancement Award</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/best-application-im-award" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/8616">Best Application in I&amp;M Award</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                                        
+              <li class="col-md-4 menu-item mega-menu-column menu-item--expanded active dropdown">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">Education Awards</span>
+                                                                                                            
+                  <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/education-awards" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/8696">Overview</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/graduate-fellowship-award" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/8606">Graduate Fellowship Award</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/faculty-course-development-award" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/8601">Faculty Course Development Award</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/ieee-instrumentation-and-measurement-society-best-dissertation-award" data-target="#" aria-expanded="false">Best Dissertation Award</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/ieee-instrumentation-and-measurement-undergraduate-scholarship" title="Undergraduate Scholarship" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/12870">Undergraduate Student Scholarship</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                                        
+              <li class="col-md-4 menu-item mega-menu-column menu-item--expanded active dropdown">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">IEEE</span>
+                                                                                                            
+                  <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/about/fellows" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/7846">IEEE Fellows</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/sites/ieeeims/files/2020-08/tips_for_completing_ieee_fellow_nominations_final_1-27-19.pdf" data-target="#" aria-expanded="false">Tips for IEEE Fellow Nominations</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/senior-members" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/7726">IEEE Senior Members</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/ieee-joseph-f-keithley-award" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/8101">Joseph F. Keithley Award in I&amp;M</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                      </div></ul>
+              
+                                                </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch menu-item--expanded active dropdown position-static">
+                                
+                                                                                      <span class="nav-link flex-fill dropdown-toggle" data-target="#" data-toggle="dropdown" aria-expanded="false">Activities</span>
+                                                                                                            
+              <ul class="mega-menu-dropdown dropdown-menu w-100 container-fluid">
+          <div class="row">
+                                                    
+              <li class="col-md-4 menu-item mega-menu-column menu-item--expanded active dropdown">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">Technical Activities</span>
+                                                                                                            
+                  <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/about/technical-standards-activities" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/7821">About Technical &amp; Standards Activities</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/about/council-memberships" title="IEEE Council Affiliations" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/7791">Member Communities</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/technical-committees" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/7826">Technical Committees Listing</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/outstanding-tc-award" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/8631">Technical &amp; Standards Activity Award</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="https://ieee-ims.org/about/technical-standards-activities/standards-activity" data-target="#" aria-expanded="false">Standards Activities</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                                        
+              <li class="col-md-4 menu-item mega-menu-column menu-item--expanded active dropdown">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">Educational Activities</span>
+                                                                                                            
+                  <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/about/education-activities" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/7816">About Educational Activities</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/education-awards" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/8696">Education Awards</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/dlp" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/6021">Distinguished Lecturer Program</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/about/vdl-series" title="Virtual Distinguished Lecturer Webinar series- latest education initiative!" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/8351">Virtual Distinguished Lecturer Webinars</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/vt-program" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/7841">Video Tutorials Program</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="https://ieee-ims.org/ims-short-courses" data-target="#" aria-expanded="false">Short Courses</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                                        
+              <li class="col-md-4 menu-item mega-menu-column menu-item--expanded active dropdown">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">Membership Activities</span>
+                                                                                                            
+                  <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/about/membership-activities" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/8016">About Membership Activities</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/about/membership-benefits" target="_blank" title="benefits of I&amp;M Society Membership and join link" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/7801">Membership Benefits (Join Us)</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/about/wim" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/7836">Women in I&amp;M</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/about/student-activities" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/8096">Student Activities</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/about/yp-activities" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/7831">Young Professionals</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/chapter-activities" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/7716">Chapter Activities</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="https://ieee-ims.org/mentorship-program" target="_self" data-target="#" aria-expanded="false">Mentorship Program</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                      </div></ul>
+              
+                                                </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch menu-item--expanded active dropdown position-static">
+                                
+                                                                                      <span class="nav-link flex-fill dropdown-toggle" data-target="#" data-toggle="dropdown" aria-expanded="false">Publications</span>
+                                                                                                            
+              <ul class="mega-menu-dropdown dropdown-menu w-100 container-fluid">
+          <div class="row">
+                                                    
+              <li class="col-md-4 menu-item mega-menu-column menu-item--expanded active dropdown">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">General Information</span>
+                                                                                                            
+                  <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/about-ims-publications" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/221">About Publications</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/about/featured-paper" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/10181">Featured Paper</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/committee/publications" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/5491">Publications Committee</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/awards/andy-chi-best-paper-award" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/8581">Andy Chi Best Paper Award</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="https://ieee-ims.org/books" data-target="#" aria-expanded="false">I&amp;M Society Bookshelf</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                                        
+              <li class="col-md-8 menu-item mega-menu-column menu-item--expanded active dropdown">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">Society Publications</span>
+                                                                                                            
+                  <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/publication/ieee-imm" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/6006">Instrumentation &amp; Measurement Magazine</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/publication/ieee-tim" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/8571">Transactions on Instrumentation and Measurement</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/publication/ieee-ojim/about" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/10641">Open Journal of Instrumentation and Measurement</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/about/im-society-newsletter" title="archived links to Society newsletter" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/8106">I&amp;M Society Newsletter</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                      </div></ul>
+              
+                                                </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch menu-item--expanded active dropdown position-static">
+                                
+                                                                                      <span class="nav-link flex-fill dropdown-toggle" data-target="#" data-toggle="dropdown" aria-expanded="false">Conferences</span>
+                                                                                                            
+              <ul class="mega-menu-dropdown dropdown-menu w-100 container-fluid">
+          <div class="row">
+                                                    
+              <li class="col-md-4 menu-item mega-menu-column menu-item--expanded active dropdown">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">General Information</span>
+                                                                                                            
+                  <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/about/conferences" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/7806">About Conferences</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/committee/conferences" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/5456">Conferences Committee</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/about/conferences#resources" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/7806">Organize a Conference</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                                        
+              <li class="col-md-4 menu-item mega-menu-column menu-item--expanded active dropdown">
+                                                                  <span data-target="#" data-toggle="dropdown" aria-expanded="false">Society Conferences</span>
+                                                                                                            
+                  <ul class="show mega-menu-list">
+                                                    
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/events/all-upcoming-conferences" title="all upcoming events of interest" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/7811">All Upcoming Events</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/events/sponsored-conferences" title="Upcoming conferences sponsored by IMS" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/7706">Sponsored Conferences</a>
+                                                                              </li>
+                                        
+              <li class="menu-item nav-item d-flex align-items-stretch active">
+                                                                  <a href="/general/technically-co-sponsored-conferences" data-target="#" aria-expanded="false" data-drupal-link-system-path="node/7736">Technically Co-sponsored Conferences</a>
+                                                                              </li>
+                      </ul>
+              
+                                                </li>
+                                        
+              <li class="col-md-4 menu-item mega-menu-column menu-item--expanded active">
+                                                                  <span data-target="#" aria-expanded="false">Other Events</span>
+                                                                              </li>
+                      </div></ul>
+              
+                                                </li>
+                      </ul>
+              
+    
+
+  </div>
+
+
+            </div>
+          </div>
+        </nav>
+                </header>
+    
+    <div id="nav-break"></div>
+
+              <div class="highlighted section clearfix">
+        
+      </div>
+        
+
+                
+
+
+        
+            
+        <div id="main-wrapper" class="layout-main-wrapper clearfix">
+
+                  
+            
+                  <div id="page-title" class="container mw-100 border-top border-bottom">
+            <div class="row align-items-center">
+              <div class="col">
+                  <div class="row region region-page-title">
+    
+
+<div id="block-confcats-barrio-page-title" class="container h-100 bg-light p-3 text-dark block block-core block-page-title-block w-100" data-block-plugin-id="page_title_block">
+  
+    
+       <div class="container">             
+      
+
+
+  <h1 class="page-title w-100 p-3"><span class="field field--name-title field--type-string field--label-hidden"> 2023 CAA Symposium on Fault Detection, Supervision and Safety for Technical Processes</span>
+</h1>
+
+
+     </div>   </div>
+
+  </div>
+
+              </div>
+            </div>
+          </div>
+        
+            
+      
+                                                                    <div class="container">
+                  
+                        <div id="main" class="main-wrapper ">
+                                              <div id="help" class="container">
+                <div class="row">
+                  <div class="col">
+                      <div class="row region region-help">
+    <div data-drupal-messages-fallback="" class="hidden"></div>
+
+  </div>
+
+                  </div>
+                </div>
+              </div>
+                                
+          <div class="row row-offcanvas row-offcanvas-left clearfix">
+
+            
+                                    <main class="main-content col" id="content" role="main">
+              <section class="section">
+                <a id="main-content" tabindex="-1"></a>
+                  <div>
+    
+<div id="block-confcats-barrio-content" data-block-plugin-id="system_main_block" class="block block-system block-system-main-block">
+  
+    
+      <div class="content">
+      
+<!-- Modal -->
+<div class="modal fade" id="node-call-documents-12296" tabindex="-1" role="dialog" aria-labelledby="node12296Label" aria-hidden="true">
+  <div class="modal-dialog modal-sm" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+                <div class="modal-title">
+          <h5 class="modal-title" id="node-call-documents-12296-Label">Call Documents</h5>
+        </div>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">×</span>
+        </button>
+      </div>
+      <div class="modal-body">
+
+        <div class="list-group">
+                    
+        </div>
+      </div>
+
+      <div class="modal-footer">
+              </div>
+
+    </div>
+  </div>
+</div>
+
+  
+    
+                
+                  
+    
+            
+    
+                                          
+      
+<article data-history-node-id="12296" role="article" about="/event/2023-caa-symposium-fault-detection-supervision-and-safety-technical-processes" class="node node--type-cc-event node--view-mode-full clearfix">
+	
+	<div class="node__content clearfix">
+
+				
+			<div class="container px-0"> <div class="row no-gutters">
+
+				
+				
+					<div class="col-12 col-md-8 bg-light img-fluid"><img src="/sites/ieeeims/files/styles/cc_event/public/images/events/SAFEPROCESS%20%281%29.png?itok=MmWF4Kp1" alt=""></div>
+
+				
+				
+				<div class="col-12 col-md-4 text-center text-md-left bg-light">
+
+					
+					<div class="border-bottom p-3">
+						<p class="h6 text-uppercase mb-0">
+							<a href="/taxonomy/term/131" class="text-muted">Technically Co-Sponsored</a>
+						</p>
+						<p class="h6 text-uppercase">
+							<a href="/taxonomy/term/136" class="text-muted">Conference</a>
+						</p>
+					</div>
+
+					
+					<div class="p-3">
+																			<p class="h2 m-0 font-weight-bold">SAFEPROCESS 2023</p>
+																		<h1 class="h3"> 2023 CAA Symposium on Fault Detection, Supervision and Safety for Technical Processes</h1>
+					</div>
+
+				</div>
+			</div>
+
+						<div class="row no-gutters bg-primary justify-content-center justify-content-md-start pt-2 px-2">
+													
+													<a href="http://fdd2023.aconf.org/en-us/index.html" target="_blank" class="btn btn-light mr-2 mb-2">
+						<i class="fas fa-globe mr-2"></i>Website</a>
+				
+							</div>
+
+			<div class="row no-gutters">
+
+								<div class="col-12 col-md-8 order-2 order-md-1 pt-3 pr-md-3">
+
+					
+																<div class="d-flex flex-row mb-3 mb-md-5">
+														<div class="d-none d-md-block">
+																<i class="fal fa-info-circle fa-2x fa-fw text-muted"></i>
+							</div>
+														<div class="ml-3 flex-fill text-center text-md-left">
+																<h2 class="text-uppercase h6 font-weight-bold mb-1">Description</h2>
+																
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>CAA SAFEPROCESS 2023 accepts manuscripts on both theory and application of research work in the area of electrical, mechanical and mechatronic systems, chemical systems, networked systems, production systems, power systems and networks, robotics, etc.</p></div>
+      
+							</div>
+						</div>
+					
+					
+					<hr class="d-md-none">
+
+					<div class="text-center text-md-left">
+						<h3 class="text-uppercase h6 font-weight-bold mb-1">Share This Event</h3>
+						<!-- Facebook share button -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://ieee-ims.org/event/2023-caa-symposium-fault-detection-supervision-and-safety-technical-processes&amp;title= 2023 CAA Symposium on Fault Detection, Supervision and Safety for Technical Processes" target="_blank" title="Share to Facebook" rel="noopener">
+  <div role="group" class="btn-group mr-1 mb-2" aria-label="Facebook share button">
+    <span class="btn btn-facebook py-1 text-white"><i class="fab fa-facebook-f"></i></span>
+    <span class="btn btn-facebook py-1 text-white">facebook</span>
+  </div>
+</a>
+
+<!-- Twitter share button -->
+<a href="https://twitter.com/share?text= 2023 CAA Symposium on Fault Detection, Supervision and Safety for Technical Processes&amp;url=https://ieee-ims.org/event/2023-caa-symposium-fault-detection-supervision-and-safety-technical-processes" target="_blank" title="Share to Twitter" rel="noopener">
+  <div role="group" class="btn-group mr-1 mb-2" aria-label="Twitter share button">
+    <span class="btn btn-twitter py-1 text-white"><i class="fab fa-twitter"></i></span>
+    <span class="btn btn-twitter py-1 text-white">twitter</span>
+  </div>
+</a>
+
+<!-- Linkedin share button -->
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://ieee-ims.org/event/2023-caa-symposium-fault-detection-supervision-and-safety-technical-processes&amp;title= 2023 CAA Symposium on Fault Detection, Supervision and Safety for Technical Processes&amp;source=https://ieee-ims.org/event/2023-caa-symposium-fault-detection-supervision-and-safety-technical-processes" target="_blank" title="Share to Linkedin" rel="noopener">
+  <div role="group" class="btn-group mr-1 mb-2" aria-label="Linkedin share button">
+    <span class="btn btn-linkedin py-1 text-white"><i class="fab fa-linkedin-in"></i></span>
+    <span class="btn btn-linkedin py-1 text-white">linkedin</span>
+  </div>
+</a>
+
+
+<!-- Email share button -->
+<a href="/cdn-cgi/l/email-protection#645b1711060e0107105944565456574427252544371d09140b170d1109440b0a442205110810442001100107100d0b0a48443711140116120d170d0b0a44050a004437050201101d44020b16443001070c0a0d0705084434160b07011717011742060b001d590c101014175e4b4b0d010101490d09174a0b16034b0112010a104b565456574907050549171d09140b170d1109490205110810490001100107100d0b0a491711140116120d170d0b0a49050a004917050201101d491001070c0a0d0705084914160b070117170117" title="Share to E-mail" target="_blank" rel="noopener">
+  <div role="group" class="btn-group mr-1 mb-2" aria-label="Email share button">
+    <span class="btn btn-odnoklassniki py-1 text-white"><i class="fas fa-envelope"></i></span>
+    <span class="btn btn-odnoklassniki py-1 text-white">Email</span>
+  </div>
+</a>
+
+
+
+					</div>
+
+				</div>
+
+								<div class="col-12 col-md-4 order-1 order-md-2">
+
+										<div class="bg-light ">
+
+												<div class="col-6 col-md-12 d-flex flex-row p-3">
+														<div class="">
+															<i class="fal fa-clock fa-2x fa-fw text-muted"></i>
+							</div>
+														<div class="ml-3 flex-fill ">
+																<h2 class="text-uppercase h6 font-weight-bold mb-1">Date &amp; Time</h2>
+																<p class="mb-1 h6">Fri, September 22, 2023	– <br> Sun, September 24, 2023</p>
+																<p class="small text-muted"><i class="fas fa-calendar-alt mr-2"></i><a href="/simple_ics/12296/field_cc_sdate/field_cc_edate">Add to calendar</a></p>
+							</div>
+						</div>
+
+												<div class="col-6 col-md-12 d-flex flex-fill flex-row border-top p-3">
+														<div class="">
+																<i class="fal fa-map-marker-alt fa-2x fa-fw text-muted"></i>
+							</div>
+														<div class="ml-3 flex-fill ">
+																<h2 class="text-uppercase h6 font-weight-bold mb-1">Location</h2>
+																																														<p class="mb-0 h6">Yibin, China</p>
+																				<p class="mt-1 small text-muted">
+											<a class="text-muted" target="_blank" href="https://www.google.com/maps/place/Yibin, China"><i class="fas fa-map-marker-alt mr-2"></i>Yibin, China</a>
+																					</p>
+																</div>
+						</div>
+					</div>
+
+					
+				</div>
+
+			</div>
+			
+		</div>
+
+	</div>
+
+</article>
+
+    </div>
+  </div>
+
+  </div>
+
+              </section>
+            </main>
+
+            
+          </div>
+        </div>
+
+                            </div>
+                    </div>
+      </div>    
+            
+            
+        <footer id="footer" class="footer w-100">
+      
+                        
+
+                        
+                <div id="footer-bottom-first-wrapper" class="bg-dark py-3">
+          <div class="container">
+            <div class="row">
+
+                              <div id="footer-bottom-first" class="footer-bottom-copyright text-center text-lg-left pr-0">
+                  
+<div class="block clearfix small ieee-footer-wrapper">
+					<p id="footer-nav-ieee">
+			<a href="http://www.ieee.org/index.html" id="u-home" target="_blank">Home</a>
+			&nbsp;|&nbsp;
+			<a href="http://www.ieee.org/sitemap.html" id="u-home" target="_blank">Sitemap/More Sites</a>
+			&nbsp;|&nbsp;
+			<a href="http://www.ieee.org/about/contact_center/index.html" id="u-contact" target="_blank">Contact &amp; Support</a>
+			&nbsp;|&nbsp;
+			<a href="http://www.ieee.org/accessibility_statement.html" id="u-accessibility" target="_blank">Accessibility</a>
+			&nbsp;|&nbsp;
+			<a href="http://www.ieee.org/p9-26.html" id="u-non" target="_blank">Nondiscrimination Policy</a>
+			&nbsp;|&nbsp;
+			<a href="http://www.ieee.org/security_privacy.html" id="u-privacy" target="_blank">IEEE Privacy Policy</a>
+		</p>
+
+		<p id="footer-copyright-ieee">© Copyright 2024 IEEE – All rights reserved. Use of this website signifies your agreement to the <a target="" href="http://www.ieee.org/site_terms_conditions.html" id="u-terms"><u>IEEE Terms and Conditions</u></a>.<br>
+			A not-for-profit organization, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
+		</p>
+	</div>
+                </div>
+              
+            </div>
+          </div>
+        </div>
+
+                <div id="footer-bottom-second-wrapper" class="py-3" style="background-color: #222 !important;">
+          <div class="container">
+            <div class="row">
+
+                              <div id="footer-bottom-second" class="footer-bottom-copyright text-center text-lg-left w-100 pr-0">
+                  <div class="block clearfix small confcats-copyright-wrapper">
+                    
+                  
+      <p>This site is created, maintained, and managed by <a href="http://conferencecatalysts.com" target="_blank">Conference Catalysts, LLC</a>.
+        <br>
+        Please feel free to <a href="http://conferencecatalysts.com/contact" target="_blank">contact us</a> for any assistance.
+      </p>
+
+  </div>                </div>
+              
+            </div>
+          </div>
+        </div>
+
+
+        
+          </footer>
+    
+  </div>
+  <div class="nav-focus">&nbsp;</div>
+  <a id="back-to-top" href="#" class="btn btn-light btn-lg back-to-top" role="button"><i class="fas fa-chevron-up"></i></a>
+</div>

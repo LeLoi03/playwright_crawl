@@ -1,0 +1,124 @@
+ CAAI Artificial Intelligence Research   
+  March 2023 
+ Address correspondence to DerongLiu, derongliu@gmail.com    
+ ©The author(s)  2022. The  articles  published in  this open  access  journal are  distributed under  the  terms of  the Creative  Commons Attribution   
+ J   
+ This  paper  concentrates  on  the  case  of  each  module  with  the   
+ module  in the  ADP structure  is  the  estimate of  the  function   in   
+ denotes the  value  function of  Eq. (10)  starting at  and  controlled   
+ by  the  control  policy  .  (iii)   is  the optimal  value   
+ function  of  Eq.  (10)  starting at  . For  convenience, in  this paper,   
+ the  notation   has  been  used  to  represent   and   
+ .  This  representation  of  value  function  is  standard  in  the   
+ undiscounted  GVI,  the  monotonically  non-increasing   
+ sequence  of  the  discounted  GVI  does  not  always  result  in  the   
+ stabilizing  iterative  control  policy  due  to  the  introduction  of  the   
+ discount factor.  Similar to  the  undiscounted VI,  the monotonicity   
+ of  the  discounted  iterative  value  function  sequence  can  be   
+ Since  the  function  approximation  structure  is  used  to   
+ approximate the value  function and the  control policy,  the stability   
+ of  the  system  could be  at risk  due to  the approximation  errors of   
+ the  value  function  and  control  policy.  Based  on  the  -ADP   
+ method, it  is proved  that the  numerical iterative  control law  under   
+ wastewater treatment, and energy scheduling.   
+ Article History   
+ Received:  26  April  2022;  Revised:  19  August  2022;  Accepted:  14   
+ September 2022   
+ References   
+  V.Mnih,K.  Kavukcuoglu,D.Silver,  A.A.  Rusu,J.Veness,  M.G.    
+  M.  Aoki,  On  optimal  and  suboptimal  policies  in  the  choice  of    
+ controlforces  for  final-value  systems, IRE  Trans. Autom. Control  ,   
+ Robust H ∞ Control of Unknown Discrete-Time Linear Systems with Time-Varying Uncertainties    
+ Conference Paper    
+ Oct 2023 
+ Liao Zhu 
+ View     
+ ... (Corresponding author: Chunxiuzi Liu.) performance index function (also called the value function), this is the familiar linear quadratic regulator (LQR) problem. It is well known that the key to dealing with the LQR problem is to solve the algebraic Riccati equation (ARE) [2]  . In recent years, regardless of whether knowledge of system dynamics is known or not, numerical solutions based on reinforcement learning (RL) have flourished [3]- [7]. ...   
+ ... For any x k ∈ Ω, according to (2)  , the value function is defined as ...   
+ Adaptive Optimal Control of Discrete-Time Linear Systems with Discounted Value: Off-Policy Reinforcement Learning    
+ Conference Paper    
+ Sep 2023 
+ Liao Zhu 
+ Article    
+ Full-text available    
+ Sep 2024 
+ Zhengdong Wan 
+ Article    
+ Oct 2024 
+ Shumin Ruan 
+ Optimal Resource Allocation for Reconfigurable Intelligent Surface Assisted Dynamic Wireless Network via Online Reinforcement Learning    
+ Conference Paper    
+ Sep 2022 
+ Yuzhu Zhang 
+ Article    
+ Full-text available    
+ Feb 2022 
+ Szilárd Aradi 
+ Academic research in the field of autonomous vehicles has reached high popularity in recent years related to several topics as sensor technologies, V2X communications, safety, security, decision making, control, and even legal and standardization rules. Besides classic control design approaches, Artificial Intelligence and Machine Learning methods are present in almost all of these fields. Another part of research focuses on different layers of Motion Planning, such as strategic decisions, trajectory planning, and control. A wide range of techniques in Machine Learning itself have been developed, and this article describes one of these fields, Deep Reinforcement Learning (DRL). The paper provides insight into the hierarchical motion planning problem and describes the basics of DRL. The main elements of designing such a system are the modeling of the environment, the modeling abstractions, the description of the state and the perception models, the appropriate rewarding, and the realization of the underlying neural network. The paper describes vehicle models, simulation possibilities and computational requirements. Strategic decisions on different layers and the observation models, e.g., continuous and discrete state representations, grid-based, and camera-based solutions are presented. The paper surveys the state-of-art solutions systematized by the different tasks and levels of autonomous driving, such as car-following, lane-keeping, trajectory following, merging, or driving in dense traffic. Finally, open questions and future challenges are discussed.    
+ View     
+ Article    
+ Full-text available    
+ May 2022 
+ Ye Jun 
+ Article    
+ Full-text available    
+ Feb 2022 
+  NATURE 
+ Article    
+ Full-text available    
+ Jan 2022 
+  ARTIF INTELL REV 
+  Mingming Zhao 
+ The idea of optimization can be regarded as an important basis of many disciplines and hence is extremely useful for a large number of research fields, particularly for artificial-intelligence-based advanced control design. Due to the difficulty of solving optimal control problems for general nonlinear systems, it is necessary to establish a kind of novel learning strategies with intelligent components. Besides, the rapid development of computer and networked techniques promotes the research on optimal control within discrete-time domain. In this paper, the bases, the derivation, and recent progresses of critic intelligence for discrete-time advanced optimal control design are presented with an emphasis on the iterative framework. Among them, the so-called critic intelligence methodology is highlighted, which integrates learning approximators and the reinforcement formulation.    
+ View     
+ Article    
+ Jul 2022 
+ Mingming Ha 
+  Derong Liu 
+ The core task of tracking control is to make the controlled plant track a desired trajectory. The traditional performance index used in previous studies cannot eliminate completely the tracking error as the number of time steps increases. In this paper, a new cost function is introduced to develop the value-iteration-based adaptive critic framework to solve the tracking control problem. Unlike the regulator problem, the iterative value function of tracking control problem cannot be regarded as a Lyapunov function. A novel stability analysis method is developed to guarantee that the tracking error converges to zero. The discounted iterative scheme under the new cost function for the special case of linear systems is elaborated. Finally, the tracking performance of the present scheme is demonstrated by numerical results and compared with those of the traditional approaches.    
+ View     
+ Article    
+ Jun 2022 
+ Shijie Song 
+ Article    
+ Jan 2022 
+ Mingming Ha 
+ Article    
+ Jan 2022 
+ Ruofan Wu 
+ Article    
+ Mar 2022 
+  AUTOMATICA 
+ Zhongyang Wang 
+  Yunjun Yu 
+  This paper proposed a data-driven adaptive optimal control approach for CVCF (constant voltage, constant frequency) inverter based on reinforcement learning and adaptive dynamic programming (ADP). Different from existing literature, the load is treated as a dynamic uncertainty and a robust optimal state-feedback controller is proposed. The stability of the inverter-load system has been strictly ... [Show full abstract]  analyzed. In order to obtain accurate output current differential signal, this paper designs a tracking differentiator. It is ensured that the tracking error asymptotically converges to zero through the proposed output-feedback controllers. A standard proportional integral controller and linear active disturbance rejection control strategy are also designed for the purpose of comparison. The simulation results show that the proposed controller has inherent robustness and does not require retuning with different applications.    
+ View full-text    
+ Derong Liu 
+  Qinglai Wei 
+  This paper is concerned with a new discrete-time policy iteration adaptive dynamic programming (ADP) method for solving the infinite horizon optimal control problem of nonlinear systems. The idea is to use an iterative ADP technique to obtain the iterative control law, which optimizes the iterative performance index function. The main contribution of this paper is to analyze the convergence and ... [Show full abstract]  stability properties of policy iteration method for discrete-time nonlinear systems for the first time. It shows that the iterative performance index function is nonincreasingly convergent to the optimal solution of the Hamilton-Jacobi-Bellman equation. It is also proven that any of the iterative control laws can stabilize the nonlinear systems. Neural networks are used to approximate the performance index function and compute the optimal control law, respectively, for facilitating the implementation of the iterative ADP algorithm, where the convergence of the weight matrices is analyzed. Finally, the numerical results and analysis are presented to illustrate the performance of the developed method.    
+ Read more    
+ Advanced value iteration for discrete-time intelligent critic control: A survey   
+ May 2023  · Artificial Intelligence Review    
+ Mingming Zhao 
+  Ding Wang 
+ Adjustable Iterative Q   Q      -Learning Schemes for Model-Free Optimal Tracking Control   
+ January 2023  · IEEE Transactions on Systems Man and Cybernetics Systems    
+ Mingming Zhao 
+  Ding Wang 
+ Adaptive Multi-Step Evaluation Design With Stability Guarantee for Discrete-Time Optimal Learning Co...   
+ September 2023  · IEEE/CAA Journal of Automatica Sinica    
+ Ding Wang 
+  Mingming Zhao 
+  [...] 
+  Junfei Qiao 
+  This paper is concerned with a novel integrated multi-step heuristic dynamic programming (MsHDP) algorithm for solving optimal control problems. It is shown that, initialized by the zero cost function, MsHDP can converge to the optimal solution of the Hamilton-Jacobi-Bellman (HJB) equation. Then, the stability of the system is analyzed using control policies generated by MsHDP.Also, a general ... [Show full abstract]  stability criterion is designed to determine the admissibility of the current control policy. That is, the criterion is applicable not only to traditional value iteration and policy iteration but also to MsHDP. Further, based on the convergence and the stability criterion, the integrated MsHDP algorithm using immature control policies is developed to accelerate learning efficiency greatly. Besides, actor-critic is utilized to implement the integrated MsHDP scheme, where neural networks are used to evaluate and improve the iterative policy as the parameter architecture. Finally, two simulation examples are given to demonstrate that the learning effectiveness of the integrated MsHDP scheme surpasses those of other fixed or integrated methods.    
+ Read more    
+ Discounted Iterative Adaptive Critic Designs With Novel Stability Analysis for Tracking Control   
+ July 2022  · IEEE/CAA Journal of Automatica Sinica    
+ Mingming Ha 
+  Ding Wang 
+  Derong Liu 
+  The core task of tracking control is to make the controlled plant track a desired trajectory. The traditional performance index used in previous studies cannot eliminate completely the tracking error as the number of time steps increases. In this paper, a new cost function is introduced to develop the value-iteration-based adaptive critic framework to solve the tracking control problem. Unlike ... [Show full abstract]  the regulator problem, the iterative value function of tracking control problem cannot be regarded as a Lyapunov function. A novel stability analysis method is developed to guarantee that the tracking error converges to zero. The discounted iterative scheme under the new cost function for the special case of linear systems is elaborated. Finally, the tracking performance of the present scheme is demonstrated by numerical results and compared with those of the traditional approaches.    
+ Read more    
+ Last Updated: 24 Oct 2024    
+ Interested in research on Dynamic Programming?   

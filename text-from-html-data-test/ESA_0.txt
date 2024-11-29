@@ -1,0 +1,277 @@
+Skip to content    ALGO 2023   
+   
+        Home  Home 
+  ALGOCLOUD 
+  ALGOWIN | (former ALGOSENSORS) 
+  ATMOS 
+  IPEC 
+  ESA 
+  WAOA 
+  Local Info 
+  Registration 
+  Schedule 
+  Social Program 
+
+ ESA  
+ 2023   
+
+ Scope  
+ The European Symposium on Algorithms  (ESA)  is one of the premier conferences on algorithms. It is organized in collaboration with the European Association for Theoretical Computer Science  (EATCS)  and is a part of ALGO 2023  , to be held in beautiful Amsterdam.  
+ Down to the list of accepted papers.    
+   
+ Proceedings are available online.    
+   
+ Important Dates  
+ Paper submission deadline: 28 April, 23:59 AoE. ( | EasyChair submission system | ) 
+  Notification: 23 June 
+  Camera ready: 30 June 
+  Conference: 4-6 September, 2023, in Amsterdam, The Netherlands 
+  Invited Speakers  
+ Rotem Oshman, Tel-Aviv University 
+  Martin Dietzfelbinger, Technische Universität Ilmenau 
+  Test-of-Time Awarded Papers  
+ Ulrik Brandes, Marco Gaertler, Dorothea Wagner: | Experiments on Graph Clustering Algorithms | (Speaker: Dorothea Wagner) 
+  Marianne Durand, Philippe Flajolet: | Loglog Counting of Large Cardinalities | (Speaker: Bob Sedgewick) 
+  Call for Papers  
+ The symposium seeks original algorithmic contributions for problems with relevant theoretical and/or practical applications. Papers with a strong emphasis on the theoretical analysis of algorithms should be submitted to Track A, while papers reporting on the results of extensive experimental evaluations and/or providing original contributions to the engineering of algorithms for practical applications should be submitted to Track B. Submissions that prove or explain known results in a much clearer, simpler or more elegant way than done before should be submitted to Track S. There will be a Best Student Paper Award as well as a Best Paper Award, both sponsored by EATCS. In order for a paper to be considered for the Best Student Paper Award, all of its authors are required to be students.  
+ Paper submission and proceedings  
+ Papers should be submitted electronically via the EasyChair submission system. The ESA 2023 proceedings will be published in the Leibniz International Proceedings in Informatics ( LIPIcs  ) series.  
+ Submission Guidelines  
+ Authors are invited to submit an extended abstract or full paper of at most 12 pages excluding the title page (consisting of title and abstract), references, and an optional appendix. We recommend, but do not strictly require, making your initial submission adhere to LIPIcs publication guidelines. If not using LIPIcs style, the submission should be typeset using a 10-point or larger font in a single-column format with ample spacing throughout and 2cm margins all around on A4-size paper. Proofs omitted due to space constraints must be placed in an appendix. This appendix can even comprise an entire full version of the paper. The appendix will be read by the program committee members at their discretion. In particular, appendices of accepted papers are not going to be published in the proceedings. The main part of the submission should therefore contain a clear technical presentation of the merits of the paper, including a discussion of the paper’s importance within the context of prior work and a description of the key technical and conceptual ideas used to achieve its main claims. These guidelines are strict: submissions deviating significantly from these guidelines risk being rejected without consideration of their merits. Papers should be submitted electronically via the EasyChair submission system. Results previously published (or scheduled for publication) in another conference proceedings or journal will not be accepted at ESA. Simultaneous submission to other conferences with published proceedings, journals, or to multiple tracks of ESA 2023, is also not permitted. By submitting a paper the authors acknowledge that in case of acceptance, at least one of the authors must register at ALGO 2023, attend the conference on-site and present the paper.  
+ Double-Blind Reviewing  
+ The conference will employ a lightweight double-blind reviewing process. Submissions should not reveal the identity of the authors in any way. In particular, authors’ names, affiliations, and email addresses should not appear at the beginning or in the body of the submission. Authors should ensure that any references to their own related work is in the third person (e.g., not “We build on our previous work …” but rather “We build on the work of …”). The purpose of the double-blind reviewing is to help PC members and external reviewers come to an initial judgement about the paper without bias, not to make it impossible for them to discover the authors if they were to try. Nothing should be done in the name of anonymity that weakens the submission or makes the job of reviewing the paper more difficult. In particular, important references should not be omitted or anonymized. In addition, authors should feel free to disseminate their ideas or draft versions of their paper as they normally would. For example, authors may post drafts of their papers on the web, submit them to arXiv  , and give talks on their research ideas. In case there exist publicly available versions of the submission online, the authors might mention this in their submission (without providing references/links), and briefly explain the differences if any. Alternatively, they might communicate the details to the chairs, who will keep them confidential unless revealing them to the PC is needed for a fair judgement. Authors with further questions on double-blind reviewing are encouraged to contact the PC chairs.  
+ Topics  
+ Papers presenting original research in all areas of algorithmic research are sought, including but not limited to:  
+ Algorithm engineering 
+  Algorithmic aspects of networks 
+  Algorithmic game theory 
+  Algorithmic Data Science 
+  Approximation algorithms 
+  Computational biology 
+  Computational finance 
+  Computational geometry 
+  Combinatorial optimization 
+  Data compression 
+  Data structures 
+  Databases and information retrieval 
+  Distributed and parallel computing 
+  Graph algorithms 
+  Hierarchical memories 
+  Heuristics and meta-heuristics 
+  Mathematical programming 
+  Mobile computing 
+  Online algorithms 
+  Parameterized algorithms 
+  Pattern matching 
+  Quantum computing 
+  Randomized algorithms 
+  Scheduling and resource allocation problems 
+  Streaming algorithms 
+  Accepted Papers  
+ Dominik Bez, | Florian Kurpicz | , Hans-Peter Lehmann and Peter Sanders. | High Performance Construction of RecSplit Based Minimal Perfect Hash Functions 
+  Jacek Sroka and Jerzy Tyszkiewicz. | Aggregating over Dominated Points by Sorting, Scanning, Zip and Flat Maps 
+  David Harris. | Algorithms for matrix multiplication via sampling and opportunistic matrix multiplication 
+  Martin Bullinger and René Romen. | Online Coalition Formation under Random Arrival or Coalition Dissolution 
+  Adil Chhabra, Marcelo Fonseca Faraj and | Christian Schulz | . | Faster Local Motif Clustering via Maximum Flows 
+  Paolo Ferragina, Hans-Peter Lehmann, Peter Sanders and Giorgio Vinciguerra. | Learned Monotone Minimal Perfect Hashing 
+  Michael Czekanski, | Shelby Kimmel | and | R. Teal Witter | . | Robust and Space-Efficient Dual Adversary Quantum Query Algorithms 
+  Sándor Fekete | , | Dominik Krupke | , | Michael Perk | , | Christian Rieck | and Christian Scheffer. | The Lawn Mowing Problem: From Algebra to Algorithms 
+  François Sellier. | Parameterized Matroid-Constrained Maximum Coverage 
+  Andre van Renssen, Yuan Sha, Yucheng Sun and Sampson Wong. | The Tight Spanning Ratio of the Rectangle Delaunay Triangulation 
+  Gerth Stølting Brodal | and | Sebastian Wild | . | Funnelselect: Cache-Oblivious Multiple Selection 
+  Édouard Bonnet | , Julien Duron, Colin Geniet, Stéphan Thomassé and Alexandra Wesolek. | Maximum Independent Set when excluding an induced minor: $K_1 + tK_2$ and $tC_3 \uplus C_4$ 
+  Daniel Funke, Nicolai Hüning and Peter Sanders. | A Sweep-plane Algorithm for Calculating the Isolation of Mountains 
+  Enze Sun, Zonghan Yang and Yuhao Zhang. | Improved Algorithms for Online Rent Minimization Problem Under Unit-Size Jobs 
+  Menachem Sadigurschi, Moshe Shechner and Uri Stemmer. | Relaxed Models for Adversarial Streaming: The Bounded Interruptions Model and the Advice Model 
+  Martin Hoefer | and Kevin Schewior. | Threshold Testing and Semi-Online Prophet Inequalities 
+  Meirav Zehavi, | Fedor Fomin | , | Tien-Nam Le | , | Daniel Lokshtanov | , | Saket Saurabh | and Stephan Thomasse. | Lossy Kernelization for (Implicit) Hitting Set Problems 
+  Shimon Kogan and | Merav Parter | . | Towards Bypassing Lower Bounds for Graph Shortcuts 
+  Bart M. P. Jansen | , Jari J.H. de Kroon and | Michal Wlodarczyk | . | 5-Approximation for $\mathcal{H}$-Treewidth Essentially as Fast as $\mathcal{H}$-Deletion Parameterized by Solution Size 
+  Mina Dalirrooyfard, Ray Li, Amir Abboud and Virginia Vassilevska Williams. | On Diameter Approximation in Directed Graphs 
+  Haitao Wang | and Yiming Zhao. | Improved Algorithms for Distance Selection and Related Problems 
+  Aaron Berger, Jenny Kaufmann and Virginia Vassilevska Williams. | Approximating Min-Diameter: Standard and Bichromatic 
+  Tomasz Kociumaka | and | Adam Polak | . | Bellman–Ford is optimal for shortest hop-bounded paths 
+  Krzysztof Pióro. | Subcubic algorithm for (Unweighted) Unrooted Tree Edit Distance 
+  Zihui Liang, Bakh Khoussainov, Toru Takisaka and | Mingyu Xiao | . | Connectivity in the presence of an opponent 
+  Yixin Cao | . | Enumerating Maximal Induced Subgraphs 
+  Simon Apers, Stacey Jeffery, Galina Pass and Michael Walter. | (No) Quantum space-time tradeoff for USTCON 
+  Jesper Nederlof and Isja Mannens. | A Fine-Grained Classification of the Complexity of Evaluating the Tutte Polynomial on Integer Points Parameterized by Treewidth and Cutwidth. 
+  Zelin Li, Pan Peng and Xianbin Zhu. | Massively Parallel Algorithms for the Stochastic Block Model 
+  Farhana Choudhury, Rowan Warneke and | Anthony Wirth | . | Maximum Coverage in Random-Arrival Streams 
+  Dongrun Cai, Xue Chen and Pan Peng. | Effective Resistances in Non-Expander Graphs 
+  Fedor V. Fomin | , Petr A Golovach, | Tanmay Inamdar | , | Saket Saurabh | and | Meirav Zehavi | . | Kernelization for Spreading Points 
+  Sebastian Forster, Gramoz Goranci, Yasamin Nazari and Antonis Skarlatos. | Bootstrapping Dynamic Distance Oracles 
+  Svenja M. Griesbach | , | Felix Hommelsheim | , | Max Klimm | and | Kevin Schewior | . | Improved Approximation Algorithms for the Expanding Search Problem 
+  Shyan Akmal | , | Virginia Vassilevska Williams | , | Ryan Williams | and Zixuan Xu. | Faster Detours in Undirected Graphs 
+  Arthur Carvalho Walraven Da Cunha, | Francesco d’Amore | , Frédéric Giroire, Hicham Lesfari, Emanuele Natale and Laurent Viennot. | Revisiting the Random Subset Sum Problem 
+  Joakim Blikstad and Peter Kiss. | Incremental (1-eps)-approximate dynamic matching in O(poly(1/eps)) update time 
+  Matthias Bentert, Klaus Heeger and Tomohiro Koana. | Fully Polynomial-time Algorithms Parameterized by Vertex Integrity Using Fast Matrix Multiplication 
+  Evripidis Bampis, Bruno Escoffier, Themis Gouleakis, Niklas Hahn, Kostas Lakis, Golnoosh Shahkarami and Michalis Xefteris. | Learning-Augmented Online TSP on Rings, Trees, Flowers and (almost) Everywhere Else 
+  Amit Ganz, Pranav Nuti and Roy Schwartz. | A Tight Competitive Ratio for Online Submodular Welfare Maximization 
+  Charlie Carlson, Jafar Jafarov, Konstantin Makarychev, Yury Makarychev and Liren Shan. | Approximation Algorithm for Norm Multiway Cut 
+  Christoph Grunau, Ahmet Alper Özüdoğru and Václav Rozhoň. | Noisy k-means++ revisited 
+  Ioannis Panagiotas, Gregoire Pichon, | Somesh Singh | and | Bora Ucar | . | Engineering fast algorithms for the bottleneck matching problem 
+  Evangelos Kosinas. | Connectivity Queries under Vertex Failures: Not Optimal, but Practical 
+  Ismail Naderi Beni, Mohsen Rezapour and Mohammad Salavatipour. | Approximation Schemes for Min-Sum $k$-Clustering 
+  Xiangyun Ding, Xiaojun Dong, | Yan Gu | , | Youzhe Liu | and | Yihan Sun | . | Efficient Parallel Output-Sensitive Edit Distance 
+  Victor A. Campos, Jonas Costa, | Raul Lopes | and | Ignasi Sau | . | New Menger-like dualities in digraphs and applications to half-integral linkages 
+  Adam Karczmarz and Marcin Smulewicz. | On Fully Dynamic Strongly Connected Components 
+  Michael Lampis | and Manolis Vasilakis. | Structural Parameterizations for Two Bounded Degree Problems Revisited 
+  Ilan Cohen | and Binghui Peng. | Primal-Dual schemes for Online Matching in Bounded Degree graphs 
+  Evangelos Kipouridis. | Fitting Tree Metrics with Minimum Disagreements 
+  Haim Kaplan, | Matthew Katz | , Rachel Saban and | Micha Sharir | . | The Unweighted and Weighted Reverse Shortest Path Problem for Disk Graphs 
+  Peter Sanders, | Demian Hespe | , Carina Truschel and Sabine Storandt. | Pareto Sums of Pareto Sets 
+  Max Deppert, Matthias Kaul and Matthias Mnich. | A (3/2+ε)-Approximation for Multiple TSP with a Variable Number of Depots 
+  Jingxun Liang, | Zhihao Gavin Tang | , | Yixuan Even Xu | , | Yuhao Zhang | and Renfei Zhou. | On the Perturbation Function of Ranking and Balance for Weighted Online Bipartite Matching 
+  Patrizio Angelini | , | Michael Bekos | , Julia Katheder, | Michael Kaufmann | , Maximilian Pfister and | Torsten Ueckerdt | . | Axis-Parallel Right Angle Crossing Graphs 
+  Felix Klingelhoefer and Alantha Newman. | Coloring tournaments with few colors: Algorithms and complexity 
+  Colin Geniet and Stephan Thomasse. | First order logic and twin-width in tournaments 
+  Christoph Damerius, Peter Kling, Minming Li, Chenyang Xu and Ruilong Zhang. | Scheduling with a Limited Testing Budget 
+  Falko Hegerfeld and | Stefan Kratsch | . | Tight algorithms for connectivity problems parameterized by clique-width 
+  Dani Dorfman, Haim Kaplan, Robert Tarjan and | Uri Zwick | . | Optimal energetical paths for electric cars 
+  Jan Dreier, | Daniel Mock | and | Peter Rossmanith | . | Evaluating Restricted First-Order Counting Properties on Nowhere Dense Classes and Beyond 
+  Aleksander Figiel, Tomohiro Koana, | André Nichterlein | and Niklas Wünsche. | Correlating Theory and Practice in Finding Clubs and Plexes 
+  Adam Izdebski and | Ronald de Wolf | . | Improved Quantum Boosting 
+  Alejandro Cassis and Karl Bringmann. | Faster 0-1-Knapsack via Near-Convex Min-Plus-Convolution 
+  Baruch Schieber and Soroush Vahidi. | Approximating Connected Maximum Cuts via Local Search 
+  Thomas Bläsius, Tobias Friedrich, Maximilian Katzmann, Janosch Ruff and Ziena Zeif. | On the Giant Component of Geometric Inhomogeneous Random Graphs 
+  Ruben Becker | , | Manuel Cáceres | , Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Francisco Olivares and | Nicola Prezza | . | Sorting Finite Automata via Partition Refinement 
+  Yuval Emek, Yuval Gil, Maciej Pacut and Stefan Schmid. | Online Algorithms with Randomly Infused Advice 
+  Ashwin Jacob, | Michal Wlodarczyk | and Meirav Zehavi. | Finding Long Directed Cycles is Hard Even When DFVS is Small or Girth is Large 
+  Benjamin Bergougnoux | , Vera Chekan, | Robert Ganian | , | Mamadou Moustapha Kanté | , | Matthias Mnich | , | Sang-il Oum | , | Michał Pilipczuk | and | Erik Jan van Leeuwen | . | Space-Efficient Parameterized Algorithms on Graphs of Low Shrubdepth 
+  Thomas Bläsius and Max Göttlicher. | An Efficient Algorithm for Power Dominating Set 
+  Goran Zuzic | . | A Simple Boosting Framework for Transshipment 
+  Julia Baligacs, | Yann Disser | , | Irene Heinrich | and Pascal Schweitzer. | Exploration of graphs with excluded minors 
+  Jakub Radoszewski | . | Linear Time Construction of Cover Suffix Tree and Applications 
+  George Osipov and Magnus Wahlström. | Parameterized Complexity of Equality MinCSP 
+  Oleg Verbitsky | and Maksim Zhukovskii. | Canonization of a random graph by two matrix-vector multiplications 
+  Francesco Masillo. | Matching Statistics speed up BWT construction 
+  Sergio Cabello | and | Panos Giannopoulos | . | On $k$-means for segments and polylines 
+  Parinya Chalermsook | , | Fedor Fomin | , Thekla Hamm, | Tuukka Korhonen | , | Jesper Nederlof | and Ly Orgo. | Polynomial-time Approximation of Independent Set Parameterized by Treewidth 
+  Dani Dorfman, Haim Kaplan, Robert Tarjan and | Uri Zwick | . | Optimal energetical paths in the presence of negative cycles 
+  Dor Katzelnick, Aditya Pillai, Roy Schwartz and Mohit Singh. | An Improved Approximation Algorithm for the Max-$3$-Section Problem 
+  Kevin Buchin | , | Joachim Gudmundsson | , Antonia Kalb, | Aleksandr Popov | , Carolin Rehs, | André van Renssen | and | Sampson Wong | . | Oriented Spanners 
+  Shyan Akmal | and Nicole Wein. | A Local-to-Global Theorem for Congested Shortest Paths 
+  Amir Abboud | , Nick Fischer, | Elazar Goldenberg | , | Karthik C. S. | and Ron Safier. | Can You Solve Closest String Faster than Exhaustive Search? 
+  Ursula Hebert-Johnson | , | Daniel Lokshtanov | and | Eric Vigoda | . | Counting and Sampling Labeled Chordal Graphs in Polynomial Time 
+  Dominik Köppl | , | Florian Kurpicz | and Daniel Meyer. | Faster Block Tree Construction 
+  Hugo Akitaya | , | Andrei Gonczi | , | Diane Souvaine | , | Csaba Toth | and | Thomas Weighill | . | Reconfiguration of Polygonal Subdivisions via Recombination 
+  Ahmed Abdelkader | and | David Mount | . | Smooth Distance Approximation 
+  Elfarouk Harb | , | Chandra Chekuri | and | Kent Quanrud | . | Convergence to Lexicographically Optimal Base in a (Contra)Polymatroid and Applications to Densest Subgraph and Tree Packing 
+  Chinmay Sonar | , Subhash Suri and | Jie Xue | . | Fault Tolerance in Euclidean Committee Selection 
+  Thatchaphol Saranurak and Wuwei Yuan. | Maximal k-Edge-Connected Subgraphs in Almost-linear Time 
+  Christopher Musco and Chuhan Yang. | Efficient Block Approximate Matrix Multiplication 
+  Eunjin Oh and Seunghyeok Oh. | Algorithms for Computing Maximum Cliques in Hyperbolic Random Graphs 
+  Ming Ding and Peng Zhang. | Efficient $1$-Laplacian Solvers for Well-Shaped Simplicial Complexes: Beyond Betti Numbers and Collapsing Sequences 
+  Joergen Bang-Jensen | , Kristine V. K. Knudsen, Pranabendu Misra and | Saket Saurabh | . | A Parameterized Algorithm for Vertex Connectivity Survivable Network Design Problem with Uniform Demands 
+  Ignaz Rutter | and Peter Stumpf. | Simultaneous Representation of Interval Graphs in the Sunflower Case 
+  Nikhil Mande | and | Ronald de Wolf | . | Tight Bounds For Quantum Phase Estimation and Related Problems 
+  Hideo Bannai and Jonas Ellert. | Lyndon Arrays in Sublinear Time 
+  Adam Kurpisz and Silvan Suter. | Improved Approximations for Translational Packing of Convex Polygons 
+  Amir Abboud, | Shay Mozes | and | Oren Weimann | . | What Else Can Voronoi Diagrams Do For Diameter In Planar Graphs? 
+  Xiaoming Sun, Jialin Zhang and Zhijie Zhang. | Simple Deterministic Approximation for Submodular Multiple Knapsack Problem 
+  Tanmay Inamdar | , | Daniel Lokshtanov | , | Saket Saurabh | and Vaishali Surianarayanan. | Parameterized Complexity of Fair Bisection 
+  Anthony Hevia, Benjamin Kallus, Summer McClintic, Samantha Reisner, | Darren Strash | and John Wilson. | Solving Edge Clique Cover Exactly via Synergistic Data Reduction 
+  Committees  
+ PC chairs  
+ Inge Li Gørtz | , Technical University of Denmark (Track A) 
+  Simon J. Puglisi | , University of Helsinki (Track B) 
+  Martin Farach-Colton | , Rutgers University (Track S) 
+  PC Members (Track A)  
+ Marek Adamczyk, Wroclaw University 
+  Soheil Behnezhad, Northeastern University 
+  Mark Bun, Boston University 
+  Sergio Cabello, University of Ljubljana 
+  Bhaskar Ray Chaudhury, University of Illinois at Urbana 
+  Alex Conway, VMWare Research 
+  Christian Coester, St. Anne’s College 
+  Rathish Das, University of Liverpool 
+  Anne Driemel, University of Bonn 
+  Hendrik Fichtenberger, Google Research Zürich 
+  Moses Ganardi, Max Planck Institute for Software Systems 
+  Naveen Garg, IIT Delhi 
+  Cyril Gavoille, LaBRI, University of Bordeaux 
+  Paweł Gawrychowski, Wroclaw University 
+  Shay Golan, Reichman and Haifa University 
+  Carla Groenland, Utrecht University 
+  Maximilian Probst Gutenberg, ETH Zürich 
+  Danny Hermelin, Ben-Gurion University 
+  Giuseppe Italiano, Luiss University 
+  Lars Jaffke, University of Bergen 
+  Haim Kaplan, Tel Aviv University 
+  William Kuszmaul, MIT 
+  Frédéric Magniez, CNRS, IRIF 
+  Miguel Mosteiro, Pace University 
+  Yasamin Nazari, University of Salzburg and VU Amsterdam 
+  Eunjin Oh, Pohang University of Science and Technology 
+  Merav Parter, Weizmann Institute of Science 
+  Adam Polak, Max Planck Institute for Informatics 
+  Kent Quanrud, Purdue University 
+  Nicola Prezza, Ca’ Foscari University of Venice 
+  Jakub Radoszewski, University of Warsaw and Samsung R&D Warsaw 
+  Malin Rau, Hamburg University 
+  Liam Roditty, Bar-Ilan 
+  Marc Roth, University of Oxford 
+  Saeed Seddighin, Toyota Technological Institute at Chicago 
+  Francesco Silvestri, University of Padova 
+  Christian Sohler, University of Cologne 
+  Tatiana Starikovskaya, École Normale Supérieure Paris 
+  Jukka Suomela, Aalto University 
+  Alexandru Tomescu, University of Helsinki 
+  Meng-Tsung Tsai, Academia Sinica 
+  Ivor Djinn Van Der Hoog, Technical University of Denmark 
+  Nicole Wein, DIMACS 
+  Karol Węgrzycki, Max Planck Institute for Informatics 
+  Anna Zych-Pawlewicz, University of Warsaw 
+  PC Members (Track B)  
+ Jarno Alanko, University of Helsinki 
+  Giulia Bernardini, University of Trieste 
+  Vincenzo Bonifaci, University of Rome Tre 
+  Katrin Casel, Humboldt University of Berlin 
+  David Coudert, INRIA Sophia Antipolis 
+  Donatella Firmani, University of Rome, La Sapienza 
+  Klaus Jansen, Christian-Albrechts University of Kiel 
+  Quanquan C. Liu, Northwestern University 
+  Tamara Mchedlidze, University of Utrecht 
+  Prashant Pandey, University of Utah 
+  Giulio Piribi, Ca’ Foscari University of Venice 
+  Christian Schulz, University of Heidelberg 
+  Sabine Storandt, University of Konstanz 
+  David Tench, Rutgers University 
+  Helen Xu, Lawrence Berkeley National Lab 
+  PC Members (Track S)  
+ Sepehr Assadi, Rutgers University and University of Waterloo 
+  Deeparnab Chakrabarty, Dartmouth College 
+  Graham Cormode, University of Warwick 
+  Leah Epstein, University of Haifa 
+  Magnus M. Halldorsson, Reykjavik University 
+  John Iacono, Université libre de Bruxelles 
+  Dominik Kempa, Stony Brook University 
+  John Lapinskas, University of Bristol 
+  Kasper Green Larsen, Aarhus University 
+  Michał Pilipczuk, University of Warsaw 
+  Aditya Potukuchi, York University 
+  Ronitt Rubinfeld, MIT and Tel-Aviv University 
+  Chris Schwiegelshohn, Aarhus University 
+  Vera Traub, University of Bonn 
+  Przemek Uznanski, University of Wroclaw 
+  Oren Weimann, University of Haifa 
+  Omri Weinstein, Hebrew University 
+  Steering Committee  
+ Hannah Bast, University of Freiburg 
+  Shiri Chechik, Tel Aviv University 
+  Martin Farach-Colton, Rutgers University 
+  Inge Li Gørtz, Technical University of Denmark 
+  Petra Mutzel, University of Bonn 
+  Gonzalo Navarro, Universidad de Chile 
+  Rasmus Pagh, University of Copenhagen ( | Chair | ) 
+  Simon J. Puglisi, University of Helsinki 
+  Eva Rotenberg, Technical University of Denmark 
+  Sabine Storandt, University of Konstanz 
+
+ ALGO 2023   
+   
+ Imprint   
+ Privacy Policy   
+   
+ Powered by WordPress

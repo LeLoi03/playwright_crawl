@@ -1,0 +1,120 @@
+Freiburg, Germany   
+  June 11-16, 2011    
+ 21st International Conference on Automated Planning and Scheduling   
+
+ Home 
+  Technical Program 
+  Workshops 
+  Tutorials 
+  Demos 
+  Doctoral Consortium 
+  Summer School 
+  Registration 
+  Venue 
+  Committees 
+
+ HDIP 
+  KEPS 
+  PAL 
+  GAPRec 
+  SPARK 
+  MCTS 
+  COPLAS 
+  VVPS 
+  Call for Workshops 
+
+ COPLAS. Constraint Satisfaction Techniques for Planning and Scheduling Problems  
+ The areas of AI planning and scheduling have seen important advances thanks to the application of constraint satisfaction models and techniques. Solutions to many real-world problems need to integrate plan synthesis capabilities with resource allocation, which can be efficiently managed by using constraint satisfaction techniques.  
+ The workshop will aim at providing a forum for researchers in the field of Artificial Intelligence to discuss novel issues on planning, scheduling constraint programming/constraint satisfaction problems (CSPs) and many other common areas that exist among them. On the whole, the workshop will mainly focus on managing complex problems where planning, scheduling and constraint satisfaction must be combined and/or interrelated, which entails an enormous potential for practical applications and future research.  
+ This workshop continues the trail of the successful COPLAS since 2006. During two years, the workshop was a joint workshop for both ICAPS and CP which provided a broader audience and gave the participants of both events the opportunity to exchange ideas and approaches that lead to a valuable and fruitful discussion, and inspired forthcoming research.  
+ COPLAS is ranked as CORE B  in ERA Conference Ranking.  
+ Proceedings  
+ The COPLAS proceedings  are available as pdf  .  
+ Schedule  
+ This schedule as a PDF file.   
+ The workshop will be held on June 13, 2011  in hall 101–00–010/014  on the computer science campus.  
+  
+ 09:00-09:05 | Welcome 
+ Planning and SAT 
+ 09:05-09:35 | Christian Muise, Sheila McIlraith, J. Christopher Beck  
+  Optimization of Partial-Order Plans via MAXSAT   
+  Commentator: Vidal Alcazar 
+ 09:35-10:05 | Farah Juma, Eric Hsu, Sheila McIlraith  
+  Exploiting MaxSAT for Preference-Based Planning   
+  Commentator: Vidal Alcazar 
+ 10:05-10:35 | Vidal Alcazar, Manuela Veloso  
+  A SAT Compilation of the Landmark Graph   
+  Commentator: Sheila McIlraith 
+ Coffee Break 
+ Scheduling and Resource Allocation 
+ 11:00-11:30 | Tony T. Tran, J. Christopher Beck  
+  A Logic-Based Benders Approach to Scheduling with Alternative Resources and Setup Times   
+  Commentator: Angelo Oddi 
+ 11:30-12:00 | Angelo Oddi, Riccardo Rasconi, Amedeo Cesta, Stephen F. Smith  
+  Applying Iterative Flattening Search to the Job Shop Scheduling Problem with Alternative Resources and Sequence Dependent Setup Times   
+  Commentator: Irene Barba 
+ 12:00-12:30 | Stefan Heinz, J. Christopher Beck  
+  Solving Resource Allocation/Scheduling Problems with Constraint Integer Programming   
+  Commentator: Carmelo del Valle 
+ Lunch Break 
+ Modelling and Real-life Problems 
+ 14:00-14:30 | Irene Barba, Carmelo Del Valle  
+  A Constraint-based Approach for Planning and Scheduling Repeated Activities   
+  Commentator: Ignacio Castiñeiras 
+ 14:30-15:00 | Ignacio Castiñeiras, Fernando Sáenz-Pérez  
+  A CFLP Approach for Modeling an Optimization Scheduling Problem   
+  Commentator: Richard Hoshino 
+ 15:00-15:30 | Richard Hoshino, Ken-ichi Kawarabayashi  
+  The Distance-Optimal Inter-League Schedule for Japanese Pro Baseball   
+  Commentator: Angelo Oddi 
+  
+ Call for Papers  
+ We invite submissions on any topic relevant to the workshop, particularly those that combine techniques from both perspectives, planning & scheduling, and constraint programming. This includes but is not limited to:  
+ constraint modelling for planning & scheduling 
+  reformulations of constraint models for P&S 
+  global constraints motivated by P&S 
+  temporal CSPs 
+  integration of temporal and resource reasoning via CSPs 
+  search techniques and heuristics 
+  distributed/parallel solving techniques 
+  constraint management in P&S systems 
+  real-life applications 
+  Papers must be prepared according to the AAAI style template  ( http://www.aaai.org/Publications/Author/author.php  ) and should be no more than eight pages, including figures and bibliography. Submissions will be handled via EasyChair at http://www.easychair.org/conferences/?conf=coplas11  . Every submitted paper will be reviewed by at least two members of the Program Committee. Accepted papers will be included in the workshop notes.  
+ A journal special issue is under consideration for best papers of COPLAS'11.  
+ Important Dates  
+ Submission deadline: | March 25, 2011 
+  Notification: | April 15, 2011 
+  Workshop dates: | June 13th, 2011 
+  Workshop Format  
+ The workshop will be organized in technical sessions; each session will be concluded by a commentary of the session chair. The goal of the commentary is not only to summarize the content of talks but to highlight important novel points and raise questions to foster further discussion. We also plan to have individual commentary of each paper done by other authors in the session. Rather than being a mini-conference, the workshop will focus on opening new research areas and topics, discussing possible solutions, exchanging ideas and approaches, and in general inspiring forthcoming research.  
+ Organizers  
+ Miguel A. Salido | (contact person) | Universidad Politécnica de Valencia (Spain) 
+  Roman Barták | Charles University (Czech Republic) 
+  Nicola Policella | European Space Agency (Germany) 
+  Programme Committee  
+ Federico Barber | , Universidad Politécnica de Valencia, Spain 
+  Roman Bartak | , Charles University, The Czech Republic 
+  Amedeo Cesta | , ISTC-CNR, Italy 
+  Minh Binh Do | , Parc, USA 
+  Enrico Giunchiglia | , Universita di Genova, Italy 
+  Peter Jarvis | , NASA Ames Research Center, USA 
+  Michela Milano | , Università di Bologna, Italy 
+  Alexander Nareyek | , National University of Singapore, Singapore 
+  Eva Onaindía | , Universidad Politécnica de Valencia, Spain 
+  Nicola Policella | , European Space Agency, Germany 
+  Hana Rudová | , Masaryk University, The Czech Republic 
+  Francesca Rossi | , University of Padova, Italy 
+  Migual A. Salido | , Universidad Politecnica Valencia, Spain 
+  Pascal Van Hentenryck | , Brown University, USA 
+  Gérard Verfaillie | , ONERA, Centre de Toulouse, France 
+  Vincent Vidal | , CRIL-IUT, France 
+  Petr Vilim | , ILOG, France 
+  Toby Walsh | , UNSW, Sydney and NICTA, Australia 
+  Neil Yorke-Smith | , American University of Beirut/SRI International, USA 
+  List of previous editions of COPLAS  
+ COPLAS'10   ICAPS 2010 Workshop on Constraint Satisfaction Techniques for Planning and Scheduling Problems. Toronto, Canada, 2010  COPLAS'09   ICAPS 2009 Workshop on Constraint Satisfaction Techniques for Planning and Scheduling Problems, Thessaloniki, Greece, 2009  COPLAS'08   CP/ICAPS Joint Workshop on Constraint Satisfaction Techniques for Planning and Scheduling Problems, Sydney, Australia, 2008  COPLAS'07   CP/ICAPS Joint Workshop on Constraint Satisfaction Techniques for Planning and Scheduling Problems. Providence, Rhode Island, USA, 2007  COPLAS'06   ICAPS Workshop on Constraint Satisfaction Techniques for Planning and Scheduling Problems, Cumbria, UK, 2006     
+   
+ 23 March 2013   
+ copyright © ICAPS-2011 / copyright photos  Send your comments about the site to Gabriele Röger  .   
+
+ Valid XHTML  Valid CSS

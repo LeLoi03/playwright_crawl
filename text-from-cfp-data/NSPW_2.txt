@@ -1,0 +1,267 @@
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    <div id="page-wrapper">
+  <div id="page">
+    <header id="header" class="header" role="banner">
+      <div class="section layout-container clearfix">
+        
+          <div class="clearfix region region-header">
+    <div id="block-bartik-branding" class="clearfix site-branding block block-system block-system-branding-block">
+  
+    
+        <a href="/" rel="home" class="site-branding__logo">
+      <img src="/sites/default/files/nspw-logo-smaller.jpg" alt="Home">
+    </a>
+        <div class="site-branding__text">
+              <div class="site-branding__name">
+          <a href="/" title="Home" rel="home">New Security Paradigms Workshop</a>
+        </div>
+                </div>
+  </div>
+
+  </div>
+
+        
+      </div>
+    </header>
+          <div class="highlighted">
+        <aside class="layout-container section clearfix" role="complementary">
+            <div class="region region-highlighted">
+    <div data-drupal-messages-fallback="" class="hidden"></div>
+
+  </div>
+
+        </aside>
+      </div>
+            <div id="main-wrapper" class="layout-main-wrapper layout-container clearfix">
+      <div id="main" class="layout-main clearfix">
+        
+        <main id="content" class="column main-content" role="main">
+          <section class="section">
+            <a id="main-content" tabindex="-1"></a>
+              <div class="region region-content">
+    <div id="block-bartik-page-title" class="block block-core block-page-title-block">
+  
+    
+      <div class="content">
+      
+
+  <h1 class="title page-title"><span class="field field--name-title field--type-string field--label-hidden">NSPW Proceedings</span>
+</h1>
+
+
+    </div>
+  </div>
+
+<article role="article" class="node node--type-page node--view-mode-full clearfix">
+  <header>
+    
+          
+      </header>
+  <div class="node__content clearfix">
+    
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>NSPW proceedings are published through the <a href="https://www.acm.org">ACM</a> and (for 1994 and 1995) the <a href="https://www.computer.org/">IEEE Computer Society</a>.  They are also available here at nspw.org.  Published and local versions can be reached through the links below.</p>
+<p><b><a href="https://www.nspw.org/proceedings/all">All NSPW Papers in one page.</a></b></p>
+<p><b>NSPW 2021:</b> <a href="https://dl.acm.org/doi/proceedings/10.1145/3498891">ACM</a> and <a href="https://www.nspw.org/proceedings/2021">Local</a></p>
+<p><b>NSPW 2020:</b> <a href="https://dl.acm.org/doi/proceedings/10.1145/3442167">ACM</a> and <a href="https://www.nspw.org/proceedings/2020">Local</a></p>
+<p><b>NSPW 2019:</b> <a href="https://dl.acm.org/doi/proceedings/10.1145/3368860">ACM</a> and <a href="https://www.nspw.org/proceedings/2019">Local</a></p>
+<p><b>NSPW 2018</b>: <a href="https://dl.acm.org/doi/proceedings/10.1145/3285002">ACM</a> and <a href="https://www.nspw.org/proceedings/2018">Local</a></p>
+<p><b>NSPW 2017</b>: <a href="https://dl.acm.org/doi/proceedings/10.1145/3171533">ACM</a> and <a href="https://www.nspw.org/proceedings/2017">Local</a></p>
+<p><b>NSPW 2016</b>: <a href="https://dl.acm.org/doi/proceedings/10.1145/3011883">ACM</a> and <a href="https://www.nspw.org/proceedings/2016">Local</a></p>
+<p><b>NSPW 2015</b>: <a href="https://dl.acm.org/doi/proceedings/10.1145/2841113">ACM</a> and <a href="https://www.nspw.org/proceedings/2015">Local</a></p>
+<p><b>NSPW 2014</b>: <a href="https://dl.acm.org/doi/proceedings/10.1145/2683467">ACM</a> and <a href="https://www.nspw.org/proceedings/2014">Local</a></p>
+<p><b>NSPW 2013</b>: <a href="https://dl.acm.org/doi/proceedings/10.1145/2535813">ACM</a> and <a href="https://www.nspw.org/proceedings/2013">Local</a></p>
+<p><b>NSPW 2012</b>: <a href="https://dl.acm.org/doi/proceedings/10.1145/2413296">ACM</a> and <a href="https://www.nspw.org/proceedings/2012">Local</a></p>
+<p><b>NSPW 2011</b>: <a href="https://dl.acm.org/doi/proceedings/10.1145/2073276">ACM</a> and <a href="https://www.nspw.org/proceedings/2011">Local</a></p>
+<p><b>NSPW 2010</b>: <a href="https://dl.acm.org/doi/proceedings/10.1145/1900546">ACM</a> and <a href="https://www.nspw.org/proceedings/2010">Local</a></p>
+<p><b>NSPW 2009</b>: <a href="https://dl.acm.org/doi/proceedings/10.1145/1719030">ACM</a> and <a href="https://www.nspw.org/proceedings/2009">Local</a></p>
+<p><b>NSPW 2008</b>: <a href="https://dl.acm.org/doi/proceedings/10.1145/1595676">ACM</a> and <a href="https://www.nspw.org/proceedings/2008">Local</a></p>
+<p><b>NSPW 2007</b>: <a href="https://dl.acm.org/doi/proceedings/10.1145/1600176">ACM</a> and <a href="https://www.nspw.org/proceedings/2007">Local</a></p>
+<p><b>NSPW 2006</b>: <a href="https://dl.acm.org/doi/proceedings/10.1145/1278940">ACM</a> and <a href="https://www.nspw.org/proceedings/2006">Local</a></p>
+<p><b>NSPW 2005</b>: <a href="https://dl.acm.org/doi/proceedings/10.1145/1146269">ACM</a> and <a href="https://www.nspw.org/proceedings/2005">Local</a></p>
+<p><b>NSPW 2004</b>: <a href="https://dl.acm.org/doi/proceedings/10.1145/1065907">ACM</a> and <a href="https://www.nspw.org/proceedings/2004">Local</a></p>
+<p><b>NSPW 2003</b>: <a href="https://dl.acm.org/doi/proceedings/10.1145/986655">ACM</a> and <a href="https://www.nspw.org/proceedings/2003">Local</a></p>
+<p><b>NSPW 2002</b>: <a href="https://dl.acm.org/doi/proceedings/10.1145/844102">ACM</a> and <a href="https://www.nspw.org/proceedings/2002">Local</a></p>
+<p><b>NSPW 2001</b>: <a href="https://dl.acm.org/doi/proceedings/10.1145/508171">ACM</a> and <a href="https://www.nspw.org/proceedings/2001">Local</a></p>
+<p><b>NSPW 2000</b>: <a href="https://dl.acm.org/doi/proceedings/10.1145/366173">ACM</a> and <a href="https://www.nspw.org/proceedings/2000">Local</a></p>
+<p><b>NSPW 1999</b>: <a href="https://dl.acm.org/doi/proceedings/10.1145/335169">ACM</a> and <a href="https://www.nspw.org/proceedings/1999">Local</a></p>
+<p><b>NSPW 1998</b>: <a href="https://dl.acm.org/doi/proceedings/10.1145/310889">ACM</a> and <a href="https://www.nspw.org/proceedings/1998">Local</a></p>
+<p><b>NSPW 1997</b>: <a href="https://dl.acm.org/doi/proceedings/10.1145/283699">ACM</a> and <a href="https://www.nspw.org/proceedings/1997">Local</a></p>
+<p><b>NSPW 1996</b>: <a href="https://dl.acm.org/doi/proceedings/10.1145/304851">ACM</a> and <a href="https://www.nspw.org/proceedings/1996">Local</a></p>
+<p><b>NSPW 1995</b>: <a href="https://dl.acm.org/doi/proceedings/10.5555/372111">ACM</a>, <a href="https://ieeexplore.ieee.org/xpl/conhome/3552/proceeding">IEEE</a>, and <a href="https://www.nspw.org/proceedings/1995">Local</a></p>
+<p><b>NSPW 1994</b>: <a href="https://dl.acm.org/doi/proceedings/10.5555/283849">ACM</a>,  <a href="https://ieeexplore.ieee.org/xpl/conhome/5272/proceeding">IEEE</a>, and <a href="https://www.nspw.org/proceedings/1994">Local</a></p>
+<p><b>NSPW 1992 &amp; 1993</b>: <a href="https://dl.acm.org/doi/proceedings/10.1145/283751">ACM</a> and <a href="https://www.nspw.org/proceedings/1993">Local</a></p>
+</div>
+      
+  </div>
+</article>
+
+  </div>
+
+          </section>
+        </main>
+                  <div id="sidebar-first" class="column sidebar">
+            <aside class="section" role="complementary">
+                <div class="region region-sidebar-first">
+    
+<nav role="navigation" aria-labelledby="block-mainmenu-2-menu" id="block-mainmenu-2" class="block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-mainmenu-2-menu">Main menu</h2>
+  
+
+        <div class="content">
+            <div class="menu-toggle-target menu-toggle-target-show" id="show-block-mainmenu-2"></div>
+      <div class="menu-toggle-target" id="hide-block-mainmenu-2"></div>
+      <a class="menu-toggle" href="#show-block-mainmenu-2">Show — Main menu</a>
+      <a class="menu-toggle menu-toggle--hide" href="#hide-block-mainmenu-2">Hide — Main menu</a>
+      
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="/" title="NSPW Home" data-drupal-link-system-path="<front>">Home</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/2024" data-drupal-link-system-path="node/143">NSPW 2024</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/2024/cfp" data-drupal-link-system-path="node/146">Call for papers</a>
+              </li>
+                <li class="menu-item">
+        <a href="/2024/dates" data-drupal-link-system-path="node/147">Important Dates</a>
+              </li>
+                <li class="menu-item">
+        <a href="/2024/program" data-drupal-link-system-path="node/148">Program</a>
+              </li>
+                <li class="menu-item">
+        <a href="/2024/accepted" data-drupal-link-system-path="node/145">Accepted papers</a>
+              </li>
+                <li class="menu-item">
+        <a href="/2024/organizers" data-drupal-link-system-path="node/144">Organizers</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/past" title="Past Workshops" data-drupal-link-system-path="node/5">Past Workshops</a>
+              </li>
+                <li class="menu-item menu-item--expanded menu-item--active-trail">
+        <a href="/proceedings" title="NSPW Proceedings" data-drupal-link-system-path="node/6" class="is-active">Proceedings</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/proceedings/all" data-drupal-link-system-path="node/127">All Papers</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/2021" data-drupal-link-system-path="node/138">2021</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/2020" data-drupal-link-system-path="node/129">2020</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/2019" data-drupal-link-system-path="node/124">2019</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/2018" data-drupal-link-system-path="node/123">2018</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/2017" data-drupal-link-system-path="node/122">2017</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/2016" data-drupal-link-system-path="node/121">2016</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/2015" data-drupal-link-system-path="node/120">2015</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/2014" data-drupal-link-system-path="node/119">2014</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/2013" title="NSPW 2013 Proceedings" data-drupal-link-system-path="node/66">2013</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/2012" data-drupal-link-system-path="node/118">2012</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/2011" title="NSPW 2011 Proceedings" data-drupal-link-system-path="node/49">2011</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/2010" title="NSPW 2010 Proceedings" data-drupal-link-system-path="node/40">2010</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/2009" title="NSPW 2009 Proceedings" data-drupal-link-system-path="node/7">2009</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/2008" title="NSPW 2008 Proceedings" data-drupal-link-system-path="node/8">2008</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/2007" title="NSPW 2007 Proceedings" data-drupal-link-system-path="node/15">2007</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/2006" title="NSPW 2006 Proceedings" data-drupal-link-system-path="node/16">2006</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/2005" title="NSPW 2005 Proceedings" data-drupal-link-system-path="node/17">2005</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/2004" title="NSPW 2004 Proceedings" data-drupal-link-system-path="node/19">2004</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/2003" title="NSPW 2003 Proceedings" data-drupal-link-system-path="node/20">2003</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/2002" title="NSPW 2002 Proceedings" data-drupal-link-system-path="node/21">2002</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/2001" title="NSPW 2001 Proceedings" data-drupal-link-system-path="node/22">2001</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/2000" title="NSPW 2000 Proceedings" data-drupal-link-system-path="node/23">2000</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/1999" title="NSPW 1999 Proceedings" data-drupal-link-system-path="node/24">1999</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/1998" title="NSPW 1998 Proceedings" data-drupal-link-system-path="node/25">1998</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/1997" title="NSPW 1997 Proceedings" data-drupal-link-system-path="node/26">1997</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/1996" title="NSPW 1996 Proceedings" data-drupal-link-system-path="node/27">1996</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/1995" title="NSPW 1995 Proceedings" data-drupal-link-system-path="node/28">1995</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/1994" title="NSPW 1994 Proceedings" data-drupal-link-system-path="node/29">1994</a>
+              </li>
+                <li class="menu-item">
+        <a href="/proceedings/1993" title="NSPW 1992 &amp; 1993 Proceedings" data-drupal-link-system-path="node/30">1992 &amp; 1993</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item">
+        <a href="/conduct" data-drupal-link-system-path="node/111">Code of Conduct</a>
+              </li>
+                <li class="menu-item">
+        <a href="/login" data-drupal-link-system-path="user/login">Login</a>
+              </li>
+        </ul>
+  
+
+
+    </div>
+  </nav>
+
+  </div>
+
+            </aside>
+          </div>
+                      </div>
+    </div>
+        <footer class="site-footer">
+      <div class="layout-container">
+                      </div>
+    </footer>
+  </div>
+</div>
+
+  </div>

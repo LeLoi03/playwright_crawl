@@ -1,0 +1,55 @@
+  ICDT 
+  ICPEC 
+  IPEC 
+  iPMVM 
+  ISAAC 
+ 18th International Symposium on Parameterized and Exact Computation (IPEC 2023)  
+  Part of: | Series: | Leibniz International Proceedings in Informatics (LIPIcs) | Part of: | Conference: | International Symposium on Parameterized and Exact Computation (IPEC) 
+ Event  
+ IPEC 2023, September 6-8, 2023, Amsterdam, The Netherlands   
+ Editors  
+ Neeldhara Misra            
+ Publication Details  
+ published at: 2023-12-13 
+  Publisher: Schloss Dagstuhl – Leibniz-Zentrum für Informatik 
+ Authors:  Eduard Eiben, Robert Ganian, Iyad Kanj, Sebastian Ordyniak, and Stefan Szeider  
+  Abstract    
+ Several works have recently investigated the parameterized complexity of data completion problems, motivated by their applications in machine learning, and clustering in particular. Interestingly, these problems can be equivalently formulated as classical graph problems on induced subgraphs of powers of partially-defined hypercubes. In this paper, we follow up on this recent direction by investigating the Independent Set problem on this graph class, which has been studied in the data science setting under the name Diversity. We obtain a comprehensive picture of the problem’s parameterized complexity and establish its fixed-parameter tractability w.r.t. the solution size plus the power of the hypercube. Given that several such FO-definable problems have been shown to be fixed-parameter tractable on the considered graph class, one may ask whether fixed-parameter tractability could be extended to capture all FO-definable problems. We answer this question in the negative by showing that FO model checking on induced subgraphs of hypercubes is as difficult as FO model checking on general graphs.   
+  Cite as    
+ Authors:  Tatsuya Gima, Eun Jung Kim, Noleen Köhler, Nikolaos Melissinos, and Manolis Vasilakis  
+  Abstract    
+ Given a graph G and an integer b, Bandwidth asks whether there exists a bijection π from V(G) to {1, …, |V(G)|} such that max_{{u, v} ∈ E(G)} | π(u) - π(v) | ≤ b. This is a classical NP-complete problem, known to remain NP-complete even on very restricted classes of graphs, such as trees of maximum degree 3 and caterpillars of hair length 3. In the realm of parameterized complexity, these results imply that the problem remains NP-hard on graphs of bounded pathwidth, while it is additionally known to be W[1]-hard when parameterized by the treedepth of the input graph. In contrast, the problem does become FPT when parameterized by the vertex cover number of the input graph. In this paper, we make progress towards the parameterized (in)tractability of Bandwidth. We first show that it is FPT when parameterized by the cluster vertex deletion number cvd plus the clique number ω of the input graph, thus generalizing the previously mentioned result for vertex cover. On the other hand, we show that Bandwidth is W[1]-hard when parameterized only by cvd. Our results generalize some of the previous results and narrow some of the complexity gaps.   
+  Cite as    
+ Authors:  Siddharth Gupta, Guy Sa'ar, and Meirav Zehavi  
+  Abstract    
+ Over the past decade, we witness an increasing amount of interest in the design of exact exponential-time and parameterized algorithms for problems in Graph Drawing. Unfortunately, we still lack knowledge of general methods to develop such algorithms. An even more serious issue is that, here, "standard" parameters very often yield intractability. In particular, for the most common structural parameter, namely, treewidth, we frequently observe NP-hardness already when the input graphs are restricted to have constant (often, being just 1 or 2) treewidth. Our work deals with both drawbacks simultaneously. We introduce a novel form of tree decomposition that, roughly speaking, does not decompose (only) a graph, but an entire drawing. As such, its bags and separators are of geometric (rather than only combinatorial) nature. While the corresponding parameter - like treewidth - can be arbitrarily smaller than the height (and width) of the drawing, we show that - unlike treewidth - it gives rise to efficient algorithms. Specifically, we get slice-wise polynomial (XP) time algorithms parameterized by our parameter. We present a general scheme for the design of such algorithms, and apply it to several central problems in Graph Drawing, including the recognition of grid graphs, minimization of crossings and bends, and compaction. Other than for the class of problems we discussed in the paper, we believe that our decomposition and scheme are of independent interest and can be further extended or generalized to suit even a wider class of problems. Additionally, we discuss classes of drawings where our parameter is bounded by 𝒪(√n) (where n is the number of vertices of the graph), yielding subexponential-time algorithms. Lastly, we prove which relations exist between drawn treewidth and other width measures, including treewidth, pathwidth, (dual) carving-width and embedded-width.   
+  Cite as    
+ Authors:  Klaus Heeger, Danny Hermelin, and Dvir Shabtay  
+  Abstract    
+ We study single-machine scheduling problems with few deadlines. We focus on two classical objectives, namely minimizing the weighted number of tardy jobs and the total weighted completion time. For both problems, we give a pseudopolynomial-time algorithm for a constant number of different deadlines. This algorithm is complemented with an ETH-based, almost tight lower bound. Furthermore, we study the case where the number of jobs with a nontrivial deadline is taken as parameter. For this case, the complexity of our two problems differ: Minimizing the total number of tardy jobs becomes fixed-parameter tractable, while minimizing the total weighted completion time is W[1]-hard.   
+  Cite as    
+ PACE Solver Description: The PACE 2023 Parameterized Algorithms and Computational Experiments Challenge: Twinwidth   
+ Authors:  Max Bannach and Sebastian Berndt  
+  Abstract    
+ Authors:  Yosuke Mizutani, David Dursteler, and Blair D. Sullivan  
+  Abstract    
+ This note describes our submission to the 2023 PACE Challenge on the computation of twin-width. Our solver Hydra Prime combines modular decomposition with a collection of upper- and lower-bound algorithms, which are alternatingly applied on the prime graphs resulting from the modular decomposition. We introduce two novel approaches which contributed to the solver’s winning performance in the Exact Track: timeline encoding and hydra decomposition. Timeline encoding is a new data structure for computing the width of a given contraction sequence, enabling faster local search; the hydra decomposition is an iterative refinement strategy featuring a small vertex separator.   
+  Cite as    
+ Authors:  Alexander Leonhardt, Holger Dell, Anselm Haak, Frank Kammer, Johannes Meintrup, Ulrich Meyer, and Manuel Penschuck  
+  Abstract    
+ Twin-width (tww) is a parameter measuring the similarity of an undirected graph to a co-graph [Édouard Bonnet et al., 2022]. It is useful to analyze the parameterized complexity of various graph problems. This paper presents two algorithms to compute the twin-width and to provide a contraction sequence as witness. The two algorithms are motivated by the PACE 2023 challenge, one for the exact track and one for the heuristic track. Each algorithm produces a contraction sequence witnessing (i) the minimal twin-width admissible by the graph in the exact track (ii) an upper bound on the twin-width as tight as possible in the heuristic track. Our heuristic algorithm relies on several greedy approaches with different performance characteristics to find and improve solutions. For large graphs we use locality sensitive hashing to approximately identify suitable contraction candidates. The exact solver follows a branch-and-bound design. It relies on the heuristic algorithm to provide initial upper bounds, and uses lower bounds via contraction sequences to show the optimality of a heuristic solution found in some branch.   
+  Cite as    
+ Authors:  Gaétan Berthe, Yoann Coudert-Osmont, Alexander Dobler, Laure Morelle, Amadeus Reinald, and Mathis Rocton  
+  Abstract    
+ We describe Touiouidth, a twin-width solver for the exact-track of the 2023 PACE Challenge: Twin Width. Our solver is based on a simple branch and bound algorithm with search space reductions and is implemented in C++.   
+  Cite as    
+ Authors:  Emmanuel Arrighi, Pål Grønås Drange, Kenneth Langedal, Farhad Vadiee, Martin Vatshelle, and Petra Wolf  
+  Abstract    
+ The graph parameter twin-width was recently introduced by Bonnet et al. Twin-width is a parameter that measures a graph’s similarity to a cograph, which is a graph that can be reduced to a single vertex by repeatedly contracting twins. This brief description introduces Zygosity, a heuristic for computing a low-width contraction sequence that achieved second place in the 2023 edition of Parameterized Algorithms and Computational Experiments Challenge (PACE). Zygosity starts by repeatedly contracting twins. Then, any attached trees are contracted down to a single pendant vertex. The remaining graph is then contracted using a randomized greedy algorithm.   
+  Cite as    
+ Authors:  Édouard Bonnet and Julien Duron  
+  Abstract    
+ We present RedAlert, a heuristic solver for twin-width, submitted to the Heuristic Track of the 2023 edition of the Parameterized Algorithms and Computational Experiments (PACE) challenge.   
+  Cite as    
+  TGDK – Transactions on Graph Data and Knowledge 
+ © 2023-2024 Schloss Dagstuhl – LZI GmbH  Imprint  Privacy  Contact

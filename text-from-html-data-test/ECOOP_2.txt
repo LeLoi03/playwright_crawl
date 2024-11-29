@@ -1,0 +1,1055 @@
+DROPS 
+  Series | LIPIcs – Leibniz International Proceedings in Informatics 
+  OASIcs – Open Access Series in Informatics 
+  Dagstuhl Follow-Ups 
+  Schloss Dagstuhl Jahresbericht 
+   Discontinued Series 
+  Journals | DARTS – Dagstuhl Artifacts Series 
+  Dagstuhl Reports 
+  Dagstuhl Manifestos 
+  LITES – Leibniz Transactions on Embedded Systems 
+  TGDK – Transactions on Graph Data and Knowledge 
+  Conferences | AFT 
+  AIB 
+  AofA 
+  APPROX 
+  ATMOS 
+  CALCO 
+  CCC 
+  CONCUR 
+  COSIT 
+  CP 
+  CPM 
+  CSL 
+  DISC 
+  DITAM 
+  DNA 
+  ECOOP 
+  ECRTS 
+  ESA 
+  FAB 
+  FMBC 
+   FORC 
+  FSCD 
+  FSTTCS 
+  FUN 
+  GD 
+  GIScience 
+  ICALP 
+  ICDT 
+  ICPEC 
+  IPEC 
+  iPMVM 
+  ISAAC 
+  ITC 
+  ITCS 
+  ITP 
+  LDK 
+  MFCS 
+  Microservices 
+  NG-RES 
+  OPODIS 
+   PARMA 
+  RANDOM 
+  SAND 
+  SAT 
+  SEA 
+  SLATE 
+  SNAPL 
+  SoCG 
+  STACS 
+  SWAT 
+  TIME 
+  Tokenomics 
+  TQC 
+  TYPES 
+  WABI 
+  WCET 
+  About DROPS 
+        
+  Metadata Export | Metadata Export 
+  OAI Interface 
+
+   Volume    Export XML 
+  Export ACM-XML 
+  Export DOAJ-XML 
+  Export Schema.org 
+  Export BibTeX 
+  Export HTML 
+
+  LIPIcs, Volume 263  
+ 37th European Conference on Object-Oriented Programming (ECOOP 2023)  
+   
+  Part of: | Series: | Leibniz International Proceedings in Informatics (LIPIcs) | Part of: | Conference: | European Conference on Object-Oriented Programming (ECOOP) 
+
+ Event  
+ ECOOP 2023, July 17-21, 2023, Seattle, Washington, United States   
+ Editors  
+ Karim Ali            
+ University of Alberta, Canada 
+    
+ Guido Salvaneschi            
+ University of St. Gallen, Switzerland 
+
+ Publication Details  
+ published at: 2023-07-11 
+  Publisher: Schloss Dagstuhl – Leibniz-Zentrum für Informatik 
+  ISBN: 978-3-95977-281-5 
+  DBLP: | db/conf/ecoop/ecoop2023 
+
+  Access Numbers  
+ Detailed Access Statistics available here 
+  Total Document Accesses (updated on a weekly basis): | 0   PDF Downloads   0   Metadata Views 
+
+ Documents   
+ No documents found matching your filter selection.   
+  Document   
+ Complete Volume   
+ DOI: 10.4230/LIPIcs.ECOOP.2023    
+
+ LIPIcs, Volume 263, ECOOP 2023, Complete Volume   
+ Authors:  Karim Ali and Guido Salvaneschi  
+  Abstract    
+ LIPIcs, Volume 263, ECOOP 2023, Complete Volume   
+
+  Cite as    
+ 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 1-1288, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @Proceedings{ali_et_al:LIPIcs.ECOOP.2023 title = {{LIPIcs, Volume 263, ECOOP 2023, Complete Volume}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {1--1288}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023}, URN = {urn:nbn:de:0030-drops-181924}, doi = {10.4230/LIPIcs.ECOOP.2023}, annote = {Keywords: LIPIcs, Volume 263, ECOOP 2023, Complete Volume} }  @Proceedings{ali_et_al:LIPIcs.ECOOP.2023 title = {{LIPIcs, Volume 263, ECOOP 2023, Complete Volume}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {1--1288}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023}, URN = {urn:nbn:de:0030-drops-181924}, doi = {10.4230/LIPIcs.ECOOP.2023}, annote = {Keywords: LIPIcs, Volume 263, ECOOP 2023, Complete Volume} }    
+
+  Document   
+ Front Matter   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.0    
+
+ Front Matter, Table of Contents, Preface, Conference Organization   
+ Authors:  Karim Ali and Guido Salvaneschi  
+  Abstract    
+ Front Matter, Table of Contents, Preface, Conference Organization   
+
+  Cite as    
+ 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 0:i-0:xx, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{ali_et_al:LIPIcs.ECOOP.2023.0 author = {Ali, Karim and Salvaneschi, Guido}, title = {{Front Matter, Table of Contents, Preface, Conference Organization}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {0:i--0:xx}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.0}, URN = {urn:nbn:de:0030-drops-181932}, doi = {10.4230/LIPIcs.ECOOP.2023.0}, annote = {Keywords: Front Matter, Table of Contents, Preface, Conference Organization} }  @InProceedings{ali_et_al:LIPIcs.ECOOP.2023.0 author = {Ali, Karim and Salvaneschi, Guido}, title = {{Front Matter, Table of Contents, Preface, Conference Organization}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {0:i--0:xx}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.0}, URN = {urn:nbn:de:0030-drops-181932}, doi = {10.4230/LIPIcs.ECOOP.2023.0}, annote = {Keywords: Front Matter, Table of Contents, Preface, Conference Organization} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.1    
+
+ Designing Asynchronous Multiparty Protocols with Crash-Stop Failures   
+ Authors:  Adam D. Barwell, Ping Hou, Nobuko Yoshida, and Fangyi Zhou  
+  Abstract    
+ Session types provide a typing discipline for message-passing systems. However, most session type approaches assume an ideal world: one in which everything is reliable and without failures. Yet this is in stark contrast with distributed systems in the real world. To address this limitation, we introduce Teatrino, a code generation toolchain that utilises asynchronous multiparty session types (MPST) with crash-stop semantics to support failure handling protocols. We augment asynchronous MPST and processes with crash handling branches. Our approach requires no user-level syntax extensions for global types and features a formalisation of global semantics, which captures complex behaviours induced by crashed/crash handling processes. The sound and complete correspondence between global and local type semantics guarantees deadlock-freedom, protocol conformance, and liveness of typed processes in the presence of crashes. Our theory is implemented in the toolchain Teatrino, which provides correctness by construction. Teatrino extends the Scribble multiparty protocol language to generate protocol-conforming Scala code, using the Effpi concurrent programming library. We extend both Scribble and Effpi to support crash-stop behaviour. We demonstrate the feasibility of our methodology and evaluate Teatrino with examples extended from both session type and distributed systems literature.   
+
+  Cite as    
+ Adam D. Barwell, Ping Hou, Nobuko Yoshida, and Fangyi Zhou. Designing Asynchronous Multiparty Protocols with Crash-Stop Failures. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 1:1-1:30, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{barwell_et_al:LIPIcs.ECOOP.2023.1 author = {Barwell, Adam D. and Hou, Ping and Yoshida, Nobuko and Zhou, Fangyi}, title = {{Designing Asynchronous Multiparty Protocols with Crash-Stop Failures}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {1:1--1:30}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.1}, URN = {urn:nbn:de:0030-drops-181944}, doi = {10.4230/LIPIcs.ECOOP.2023.1}, annote = {Keywords: Session Types, Concurrency, Failure Handling, Code Generation, Scala} }  @InProceedings{barwell_et_al:LIPIcs.ECOOP.2023.1 author = {Barwell, Adam D. and Hou, Ping and Yoshida, Nobuko and Zhou, Fangyi}, title = {{Designing Asynchronous Multiparty Protocols with Crash-Stop Failures}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {1:1--1:30}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.1}, URN = {urn:nbn:de:0030-drops-181944}, doi = {10.4230/LIPIcs.ECOOP.2023.1}, annote = {Keywords: Session Types, Concurrency, Failure Handling, Code Generation, Scala} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.2    
+
+ Nested Pure Operation-Based CRDTs   
+ Authors:  Jim Bauwens and Elisa Gonzalez Boix  
+  Abstract    
+ Modern distributed applications increasingly replicate data to guarantee high availability and optimal user experience. Conflict-free Replicated Data Types (CRDTs) are a family of data types specially designed for highly available systems that guarantee some form of eventual consistency. Designing CRDTs is very difficult because it requires devising designs that guarantee convergence in the presence of conflicting operations. Even though design patterns and structured frameworks have emerged to aid developers with this problem, they mostly focus on statically structured data; nesting and dynamically changing the structure of a CRDT remains to be an open issue. This paper explores support for nested CRDTs in a structured and systematic way. To this end, we define an approach for building nested CRDTs based on the work of pure operation-based CRDTs, resulting in nested pure operation-based CRDTs. We add constructs to control the nesting of CRDTs into a pure operation-based CRDT framework and show how several well-known CRDT designs can be defined in our framework. We provide an implementation of nested pure operation-based CRDTs as an extension to the Flec, an existing TypeScript-based framework for pure operation-based CRDTs. We validate our approach, 1) by implementing a portfolio of nested data structures, 2) by implementing and verifying our approach in the VeriFx language, and 3) by implementing a real-world application scenario and comparing its network usage against an implementation in the closest related work, Automerge. We show that the framework is general enough to nest well-known CRDT designs like maps and lists, and its performance in terms of network traffic is comparable to the state of the art.   
+
+  Cite as    
+ Jim Bauwens and Elisa Gonzalez Boix. Nested Pure Operation-Based CRDTs. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 2:1-2:26, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{bauwens_et_al:LIPIcs.ECOOP.2023.2 author = {Bauwens, Jim and Gonzalez Boix, Elisa}, title = {{Nested Pure Operation-Based CRDTs}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {2:1--2:26}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.2}, URN = {urn:nbn:de:0030-drops-181950}, doi = {10.4230/LIPIcs.ECOOP.2023.2}, annote = {Keywords: CRDTs, replication, pure operation-based CRDTs, composition, nesting} }  @InProceedings{bauwens_et_al:LIPIcs.ECOOP.2023.2 author = {Bauwens, Jim and Gonzalez Boix, Elisa}, title = {{Nested Pure Operation-Based CRDTs}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {2:1--2:26}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.2}, URN = {urn:nbn:de:0030-drops-181950}, doi = {10.4230/LIPIcs.ECOOP.2023.2}, annote = {Keywords: CRDTs, replication, pure operation-based CRDTs, composition, nesting} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.3    
+
+ Multi-Graded Featherweight Java   
+ Authors:  Riccardo Bianchini, Francesco Dagnino, Paola Giannini, and Elena Zucca  
+  Abstract    
+ Resource-aware type systems statically approximate not only the expected result type of a program, but also the way external resources are used, e.g., how many times the value of a variable is needed. We extend the type system of Featherweight Java to be resource-aware, parametrically on an arbitrary grade algebra modeling a specific usage of resources. We prove that this type system is sound with respect to a resource-aware version of reduction, that is, a well-typed program has a reduction sequence which does not get stuck due to resource consumption. Moreover, we show that the available grades can be heterogeneous, that is, obtained by combining grades of different kinds, via a minimal collection of homomorphisms from one kind to another. Finally, we show how grade algebras and homomorphisms can be specified as Java classes, so that grade annotations in types can be written in the language itself.   
+
+  Cite as    
+ Riccardo Bianchini, Francesco Dagnino, Paola Giannini, and Elena Zucca. Multi-Graded Featherweight Java. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 3:1-3:27, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{bianchini_et_al:LIPIcs.ECOOP.2023.3 author = {Bianchini, Riccardo and Dagnino, Francesco and Giannini, Paola and Zucca, Elena}, title = {{Multi-Graded Featherweight Java}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {3:1--3:27}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.3}, URN = {urn:nbn:de:0030-drops-181960}, doi = {10.4230/LIPIcs.ECOOP.2023.3}, annote = {Keywords: Graded modal types, Java} }  @InProceedings{bianchini_et_al:LIPIcs.ECOOP.2023.3 author = {Bianchini, Riccardo and Dagnino, Francesco and Giannini, Paola and Zucca, Elena}, title = {{Multi-Graded Featherweight Java}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {3:1--3:27}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.3}, URN = {urn:nbn:de:0030-drops-181960}, doi = {10.4230/LIPIcs.ECOOP.2023.3}, annote = {Keywords: Graded modal types, Java} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.4    
+
+ Hoogle⋆: Constants and λ-abstractions in Petri-net-based Synthesis using Symbolic Execution   
+ Authors:  Henrique Botelho Guerra, João F. Ferreira, and João Costa Seco  
+  Abstract    
+ Type-directed component-based program synthesis is the task of automatically building a function with applications of available components and whose type matches a given goal type. Existing approaches to component-based synthesis, based on classical proof search, cannot deal with large sets of components. Recently, Hoogle+, a component-based synthesizer for Haskell, overcomes this issue by reducing the search problem to a Petri-net reachability problem. However, Hoogle+ cannot synthesize constants nor λ-abstractions, which limits the problems that it can solve. We present Hoogle⋆, an extension to Hoogle+ that brings constants and λ-abstractions to the search space, in two independent steps. First, we introduce the notion of wildcard component, a component that matches all types. This enables the algorithm to produce incomplete functions, i.e., functions containing occurrences of the wildcard component. Second, we complete those functions, by replacing each occurrence with constants or custom-defined λ-abstractions. We have chosen to find constants by means of an inference algorithm: we present a new unification algorithm based on symbolic execution that uses the input-output examples supplied by the user to compute substitutions for the occurrences of the wildcard. When compared to Hoogle+, Hoogle⋆ can solve more kinds of problems, especially problems that require the generation of constants and λ-abstractions, without performance degradation.   
+
+  Cite as    
+ Henrique Botelho Guerra, João F. Ferreira, and João Costa Seco. Hoogle⋆: Constants and λ-abstractions in Petri-net-based Synthesis using Symbolic Execution. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 4:1-4:28, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{botelhoguerra_et_al:LIPIcs.ECOOP.2023.4 author = {Botelho Guerra, Henrique and Ferreira, Jo\~{a}o F. and Costa Seco, Jo\~{a}o}, title = {{Hoogle⋆: Constants and \lambda-abstractions in Petri-net-based Synthesis using Symbolic Execution}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {4:1--4:28}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.4}, URN = {urn:nbn:de:0030-drops-181974}, doi = {10.4230/LIPIcs.ECOOP.2023.4}, annote = {Keywords: Type-directed, component-based, program synthesis, symbolic execution, unification, Haskell} }  @InProceedings{botelhoguerra_et_al:LIPIcs.ECOOP.2023.4 author = {Botelho Guerra, Henrique and Ferreira, Jo\~{a}o F. and Costa Seco, Jo\~{a}o}, title = {{Hoogle⋆: Constants and \lambda-abstractions in Petri-net-based Synthesis using Symbolic Execution}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {4:1--4:28}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.4}, URN = {urn:nbn:de:0030-drops-181974}, doi = {10.4230/LIPIcs.ECOOP.2023.4}, annote = {Keywords: Type-directed, component-based, program synthesis, symbolic execution, unification, Haskell} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.5    
+
+ Modular Abstract Definitional Interpreters for WebAssembly   
+ Authors:  Katharina Brandl, Sebastian Erdweg, Sven Keidel, and Nils Hansen  
+  Abstract    
+ Even though static analyses can improve performance and secure programs against vulnerabilities, no static whole-program analyses exist for WebAssembly (Wasm) to date. Part of the reason is that Wasm has many complex language concerns, and it is not obvious how to adopt existing analysis frameworks for these features. This paper explores how abstract definitional interpretation can be used to develop sophisticated analyses for Wasm and other complex languages efficiently. In particular, we show that the semantics of Wasm can be decomposed into 19 language-independent components that abstract different aspects of Wasm. We have written a highly configurable definitional interpreter for full Wasm 1.0 in 1628 LOC against these components. Analysis developers can instantiate this interpreter with different value and effect abstractions to obtain abstract definitional interpreters that compute inter-procedural control and data-flow information. This way, we develop the first whole-program dead code, constant propagation, and taint analyses for Wasm, each in less than 210 LOC. We evaluate our analyses on 1458 Wasm binaries collected by others in the wild. Our implementation is based on a novel framework for definitional abstract interpretation in Scala that eliminates scalability issues of prior work.   
+
+  Cite as    
+ Katharina Brandl, Sebastian Erdweg, Sven Keidel, and Nils Hansen. Modular Abstract Definitional Interpreters for WebAssembly. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 5:1-5:28, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{brandl_et_al:LIPIcs.ECOOP.2023.5 author = {Brandl, Katharina and Erdweg, Sebastian and Keidel, Sven and Hansen, Nils}, title = {{Modular Abstract Definitional Interpreters for WebAssembly}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {5:1--5:28}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.5}, URN = {urn:nbn:de:0030-drops-181982}, doi = {10.4230/LIPIcs.ECOOP.2023.5}, annote = {Keywords: Static Analysis, WebAssembly} }  @InProceedings{brandl_et_al:LIPIcs.ECOOP.2023.5 author = {Brandl, Katharina and Erdweg, Sebastian and Keidel, Sven and Hansen, Nils}, title = {{Modular Abstract Definitional Interpreters for WebAssembly}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {5:1--5:28}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.5}, URN = {urn:nbn:de:0030-drops-181982}, doi = {10.4230/LIPIcs.ECOOP.2023.5}, annote = {Keywords: Static Analysis, WebAssembly} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.6    
+
+ Dynamically Updatable Multiparty Session Protocols: Generating Concurrent Go Code from Unbounded Protocols   
+ Authors:  David Castro-Perez and Nobuko Yoshida  
+  Abstract    
+ Multiparty Session Types (MPST) are a typing disciplines that guarantee the absence of deadlocks and communication errors in concurrent and distributed systems. However, existing MPST frameworks do not support protocols with dynamic unbounded participants, and cannot express many common programming patterns that require the introduction of new participants into a protocol. This poses a barrier for the adoption of MPST in languages that favour the creation of new participants (processes, lightweight threads, etc) that communicate via message passing, such as Go or Erlang. This paper proposes Dynamically Updatable Multiparty Session Protocols, a new MPST theory (DMst) that supports protocols with an unbounded number of fresh participants, whose communication topologies are dynamically updatable. We prove that DMst guarantees deadlock-freedom and liveness. We implement a toolchain, GoScr (Go-Scribble), which generates Go implementations from DMst, ensuring by construction, that the different participants will only perform I/O actions that comply with a given protocol specification. We evaluate our toolchain by (1) implementing representative parallel and concurrent algorithms from existing benchmarks, textbooks and literature; (2) showing that GoScr does not introduce significant overheads compared to a naive implementation, for computationally expensive benchmarks; and (3) building three realistic protocols (dynamic task delegation, recursive Domain Name System, and a parallel Min-Max strategy) in GoScr that could not be represented with previous theories of session types.   
+
+  Cite as    
+ David Castro-Perez and Nobuko Yoshida. Dynamically Updatable Multiparty Session Protocols: Generating Concurrent Go Code from Unbounded Protocols. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 6:1-6:30, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{castroperez_et_al:LIPIcs.ECOOP.2023.6 author = {Castro-Perez, David and Yoshida, Nobuko}, title = {{Dynamically Updatable Multiparty Session Protocols: Generating Concurrent Go Code from Unbounded Protocols}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {6:1--6:30}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.6}, URN = {urn:nbn:de:0030-drops-181995}, doi = {10.4230/LIPIcs.ECOOP.2023.6}, annote = {Keywords: Multiparty Session Types, Correctness-by-construction, Concurrency, Golang} }  @InProceedings{castroperez_et_al:LIPIcs.ECOOP.2023.6 author = {Castro-Perez, David and Yoshida, Nobuko}, title = {{Dynamically Updatable Multiparty Session Protocols: Generating Concurrent Go Code from Unbounded Protocols}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {6:1--6:30}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.6}, URN = {urn:nbn:de:0030-drops-181995}, doi = {10.4230/LIPIcs.ECOOP.2023.6}, annote = {Keywords: Multiparty Session Types, Correctness-by-construction, Concurrency, Golang} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.7    
+
+ Modular Compilation for Higher-Order Functional Choreographies   
+ Authors:  Luís Cruz-Filipe, Eva Graversen, Lovro Lugović, Fabrizio Montesi, and Marco Peressotti  
+  Abstract    
+ Choreographic programming is a paradigm for concurrent and distributed software, whereby descriptions of the intended communications (choreographies) are automatically compiled into distributed code with strong safety and liveness properties (e.g., deadlock-freedom). Recent efforts tried to combine the theories of choreographic programming and higher-order functional programming, in order to integrate the benefits of the former with the modularity of the latter. However, they do not offer a satisfactory theory of compilation compared to the literature, because of important syntactic and semantic shortcomings: compilation is not modular (editing a part might require recompiling everything) and the generated code can perform unexpected global synchronisations. In this paper, we find that these shortcomings are not mere coincidences. Rather, they stem from genuine new challenges posed by the integration of choreographies and functions: knowing which participants are involved in a choreography becomes nontrivial, and divergence in applications requires rethinking how to prove the semantic correctness of compilation. We present a novel theory of compilation for functional choreographies that overcomes these challenges, based on types and a careful design of the semantics of choreographies and distributed code. The result: a modular notion of compilation, which produces code that is deadlock-free and correct (it operationally corresponds to its source choreography).   
+
+  Cite as    
+ Luís Cruz-Filipe, Eva Graversen, Lovro Lugović, Fabrizio Montesi, and Marco Peressotti. Modular Compilation for Higher-Order Functional Choreographies. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 7:1-7:37, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{cruzfilipe_et_al:LIPIcs.ECOOP.2023.7 author = {Cruz-Filipe, Lu{\'\i}s and Graversen, Eva and Lugovi\'{c}, Lovro and Montesi, Fabrizio and Peressotti, Marco}, title = {{Modular Compilation for Higher-Order Functional Choreographies}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {7:1--7:37}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.7}, URN = {urn:nbn:de:0030-drops-182005}, doi = {10.4230/LIPIcs.ECOOP.2023.7}, annote = {Keywords: Choreographies, Concurrency, \lambda-calculus, Type Systems} }  @InProceedings{cruzfilipe_et_al:LIPIcs.ECOOP.2023.7 author = {Cruz-Filipe, Lu{\'\i}s and Graversen, Eva and Lugovi\'{c}, Lovro and Montesi, Fabrizio and Peressotti, Marco}, title = {{Modular Compilation for Higher-Order Functional Choreographies}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {7:1--7:37}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.7}, URN = {urn:nbn:de:0030-drops-182005}, doi = {10.4230/LIPIcs.ECOOP.2023.7}, annote = {Keywords: Choreographies, Concurrency, \lambda-calculus, Type Systems} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.8    
+
+ Wiring Circuits Is Easy as {0,1,ω}, or Is It...   
+ Authors:  Jan de Muijnck-Hughes and Wim Vanderbauwhede  
+  Abstract    
+ Quantitative Type-Systems support fine-grained reasoning about term usage in our programming languages. Hardware Design Languages are another style of language in which quantitative typing would be beneficial. When wiring components together we must ensure that there are no unused ports, dangling wires, or accidental fan-ins and fan-outs. Although many wire usage checks are detectable using static analysis tools, such as Verilator, quantitative typing supports making these extrinsic checks an intrinsic aspect of the type-system. With quantitative typing of bound terms, we can provide design-time checks that all wires and ports have been used, and ensure that all wiring decisions are explicitly made, and are neither implicit nor accidental. We showcase the use of quantitative types in hardware design languages by detailing how we can retrofit quantitative types onto SystemVerilog netlists, and the impact that such a quantitative type-system has when creating designs. Netlists are gate-level descriptions of hardware that are produced as the result of synthesis, and it is from these netlists that hardware is generated (fabless or fabbed). First, we present a simple structural type-system for a featherweight version of SystemVerilog netlists that demonstrates how we can type netlists using standard structural techniques, and what it means for netlists to be type-safe but still lead to ill-wired designs. We then detail how to retrofit the language with quantitative types, make the type-system sub-structural, and detail how our new type-safety result ensures that wires and ports are used once. Our ideas have been proven both practically and formally by realising our work in Idris2, through which we can construct a verified language implementation that can type-check existing designs. From this work we can look to promote quantitative typing back up the synthesis chain to a more comprehensive hardware description language; and to help develop new and better hardware description languages with quantitative typing.   
+
+  Cite as    
+ Jan de Muijnck-Hughes and Wim Vanderbauwhede. Wiring Circuits Is Easy as {0,1,ω}, or Is It.... In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 8:1-8:28, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{demuijnckhughes_et_al:LIPIcs.ECOOP.2023.8 author = {de Muijnck-Hughes, Jan and Vanderbauwhede, Wim}, title = {{Wiring Circuits Is Easy as \{0,1,\omega\}, or Is It...}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {8:1--8:28}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.8}, URN = {urn:nbn:de:0030-drops-182010}, doi = {10.4230/LIPIcs.ECOOP.2023.8}, annote = {Keywords: Hardware Design, Linear Types, Dependent Types, DSLs, Idris, SystemVerilog, Netlists} }  @InProceedings{demuijnckhughes_et_al:LIPIcs.ECOOP.2023.8 author = {de Muijnck-Hughes, Jan and Vanderbauwhede, Wim}, title = {{Wiring Circuits Is Easy as \{0,1,\omega\}, or Is It...}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {8:1--8:28}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.8}, URN = {urn:nbn:de:0030-drops-182010}, doi = {10.4230/LIPIcs.ECOOP.2023.8}, annote = {Keywords: Hardware Design, Linear Types, Dependent Types, DSLs, Idris, SystemVerilog, Netlists} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.9    
+
+ VeriFx: Correct Replicated Data Types for the Masses   
+ Authors:  Kevin De Porre, Carla Ferreira, and Elisa Gonzalez Boix  
+  Abstract    
+ Distributed systems adopt weak consistency to ensure high availability and low latency, but state convergence is hard to guarantee due to conflicts. Experts carefully design replicated data types (RDTs) that resemble sequential data types and embed conflict resolution mechanisms that ensure convergence. Designing RDTs is challenging as their correctness depends on subtleties such as the ordering of concurrent operations. Currently, researchers manually verify RDTs, either by paper proofs or using proof assistants. Unfortunately, paper proofs are subject to reasoning flaws and mechanized proofs verify a formalization instead of a real-world implementation. Furthermore, writing mechanized proofs is reserved for verification experts and is extremely time-consuming. To simplify the design, implementation, and verification of RDTs, we propose VeriFx, a specialized programming language for RDTs with automated proof capabilities. VeriFx lets programmers implement RDTs atop functional collections and express correctness properties that are verified automatically. Verified RDTs can be transpiled to mainstream languages (currently Scala and JavaScript). VeriFx provides libraries for implementing and verifying Conflict-free Replicated Data Types (CRDTs) and Operational Transformation (OT) functions. These libraries implement the general execution model of those approaches and define their correctness properties. We use the libraries to implement and verify an extensive portfolio of 51 CRDTs, 16 of which are used in industrial databases, and reproduce a study on the correctness of OT functions.   
+
+  Cite as    
+ Kevin De Porre, Carla Ferreira, and Elisa Gonzalez Boix. VeriFx: Correct Replicated Data Types for the Masses. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 9:1-9:45, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{deporre_et_al:LIPIcs.ECOOP.2023.9 author = {De Porre, Kevin and Ferreira, Carla and Gonzalez Boix, Elisa}, title = {{VeriFx: Correct Replicated Data Types for the Masses}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {9:1--9:45}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.9}, URN = {urn:nbn:de:0030-drops-182028}, doi = {10.4230/LIPIcs.ECOOP.2023.9}, annote = {Keywords: distributed systems, eventual consistency, replicated data types, verification} }  @InProceedings{deporre_et_al:LIPIcs.ECOOP.2023.9 author = {De Porre, Kevin and Ferreira, Carla and Gonzalez Boix, Elisa}, title = {{VeriFx: Correct Replicated Data Types for the Masses}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {9:1--9:45}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.9}, URN = {urn:nbn:de:0030-drops-182028}, doi = {10.4230/LIPIcs.ECOOP.2023.9}, annote = {Keywords: distributed systems, eventual consistency, replicated data types, verification} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.10    
+
+ On Leveraging Tests to Infer Nullable Annotations   
+ Authors:  Jens Dietrich, David J. Pearce, and Mahin Chandramohan  
+  Abstract    
+ Issues related to the dereferencing of null pointers are a pervasive and widely studied problem, and numerous static analyses have been proposed for this purpose. These are typically based on dataflow analysis, and take advantage of annotations indicating whether a type is nullable or not. The presence of such annotations can significantly improve the accuracy of null checkers. However, most code found in the wild is not annotated, and tools must fall back on default assumptions, leading to both false positives and false negatives. Manually annotating code is a laborious task and requires deep knowledge of how a program interacts with clients and components. We propose to infer nullable annotations from an analysis of existing test cases. For this purpose, we execute instrumented tests and capture nullable API interactions. Those recorded interactions are then refined (santitised and propagated) in order to improve their precision and recall. We evaluate our approach on seven projects from the spring ecosystems and two google projects which have been extensively manually annotated with thousands of @Nullable annotations. We find that our approach has a high precision, and can find around half of the existing @Nullable annotations. This suggests that the method proposed is useful to mechanise a significant part of the very labour-intensive annotation task.   
+
+  Cite as    
+ Jens Dietrich, David J. Pearce, and Mahin Chandramohan. On Leveraging Tests to Infer Nullable Annotations. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 10:1-10:25, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{dietrich_et_al:LIPIcs.ECOOP.2023.10 author = {Dietrich, Jens and Pearce, David J. and Chandramohan, Mahin}, title = {{On Leveraging Tests to Infer Nullable Annotations}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {10:1--10:25}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.10}, URN = {urn:nbn:de:0030-drops-182037}, doi = {10.4230/LIPIcs.ECOOP.2023.10}, annote = {Keywords: null analysis, null safety, testing, program analysis} }  @InProceedings{dietrich_et_al:LIPIcs.ECOOP.2023.10 author = {Dietrich, Jens and Pearce, David J. and Chandramohan, Mahin}, title = {{On Leveraging Tests to Infer Nullable Annotations}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {10:1--10:25}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.10}, URN = {urn:nbn:de:0030-drops-182037}, doi = {10.4230/LIPIcs.ECOOP.2023.10}, annote = {Keywords: null analysis, null safety, testing, program analysis} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.11    
+
+ super-Charging Object-Oriented Programming Through Precise Typing of Open Recursion   
+ Authors:  Andong Fan and Lionel Parreaux  
+  Abstract    
+ We present a new variation of object-oriented programming built around three simple and orthogonal constructs: classes for storing object state, interfaces for expressing object types, and mixins for reusing and overriding implementations. We show that the latter can be made uniquely expressive by leveraging a novel feature that we call precisely-typed open recursion. This features uses "this" and "super" annotations to express the requirements of any given partial method implementation on the types of respectively the current object and the inherited definitions. Crucially, the fact that mixins do not introduce types nor subtyping relationships means they can be composed even when the overriding and overridden methods have incomparable types. Together with advanced type inference and structural typing support provided by the MLscript programming language, we show that this enables an elegant and powerful solution to the Expression Problem.   
+
+  Cite as    
+ Andong Fan and Lionel Parreaux. super-Charging Object-Oriented Programming Through Precise Typing of Open Recursion. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 11:1-11:28, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{fan_et_al:LIPIcs.ECOOP.2023.11 author = {Fan, Andong and Parreaux, Lionel}, title = {{super-Charging Object-Oriented Programming Through Precise Typing of Open Recursion}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {11:1--11:28}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.11}, URN = {urn:nbn:de:0030-drops-182047}, doi = {10.4230/LIPIcs.ECOOP.2023.11}, annote = {Keywords: Object-Oriented Programming, the Expression Problem, Open Recursion} }  @InProceedings{fan_et_al:LIPIcs.ECOOP.2023.11 author = {Fan, Andong and Parreaux, Lionel}, title = {{super-Charging Object-Oriented Programming Through Precise Typing of Open Recursion}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {11:1--11:28}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.11}, URN = {urn:nbn:de:0030-drops-182047}, doi = {10.4230/LIPIcs.ECOOP.2023.11}, annote = {Keywords: Object-Oriented Programming, the Expression Problem, Open Recursion} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.12    
+
+ LoRe: A Programming Model for Verifiably Safe Local-First Software (Extended Abstract)   
+ Authors:  Julian Haas, Ragnar Mogk, Elena Yanakieva, Annette Bieniusa, and Mira Mezini  
+  Abstract    
+ Local-first software manages and processes private data locally while still enabling collaboration between multiple parties connected via partially unreliable networks. Such software typically involves interactions with users and the execution environment (the outside world). The unpredictability of such interactions paired with their decentralized nature make reasoning about the correctness of local-first software a challenging endeavor. Yet, existing solutions to develop local-first software do not provide support for automated safety guarantees and instead expect developers to reason about concurrent interactions in an environment with unreliable network conditions. We propose LoRe, a programming model and compiler that automatically verifies developer-supplied safety properties for local-first applications. LoRe combines the declarative data flow of reactive programming with static analysis and verification techniques to precisely determine concurrent interactions that violate safety invariants and to selectively employ strong consistency through coordination where required. We propose a formalized proof principle and demonstrate how to automate the process in a prototype implementation that outputs verified executable code. Our evaluation shows that LoRe simplifies the development of safe local-first software when compared to state-of-the-art approaches and that verification times are acceptable.   
+
+  Cite as    
+ Julian Haas, Ragnar Mogk, Elena Yanakieva, Annette Bieniusa, and Mira Mezini. LoRe: A Programming Model for Verifiably Safe Local-First Software (Extended Abstract). In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 12:1-12:15, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{haas_et_al:LIPIcs.ECOOP.2023.12 author = {Haas, Julian and Mogk, Ragnar and Yanakieva, Elena and Bieniusa, Annette and Mezini, Mira}, title = {{LoRe: A Programming Model for Verifiably Safe Local-First Software (Extended Abstract)}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {12:1--12:15}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.12}, URN = {urn:nbn:de:0030-drops-182056}, doi = {10.4230/LIPIcs.ECOOP.2023.12}, annote = {Keywords: Local-First Software, Reactive Programming, Invariants, Consistency, Automated Verification} }  @InProceedings{haas_et_al:LIPIcs.ECOOP.2023.12 author = {Haas, Julian and Mogk, Ragnar and Yanakieva, Elena and Bieniusa, Annette and Mezini, Mira}, title = {{LoRe: A Programming Model for Verifiably Safe Local-First Software (Extended Abstract)}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {12:1--12:15}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.12}, URN = {urn:nbn:de:0030-drops-182056}, doi = {10.4230/LIPIcs.ECOOP.2023.12}, annote = {Keywords: Local-First Software, Reactive Programming, Invariants, Consistency, Automated Verification} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.13    
+
+ Dynamic Determinacy Race Detection for Task-Parallel Programs with Promises   
+ Authors:  Feiyang Jin, Lechen Yu, Tiago Cogumbreiro, Jun Shirako, and Vivek Sarkar  
+  Abstract    
+ Much of the past work on dynamic data-race and determinacy-race detection algorithms for task parallelism has focused on structured parallelism with fork-join constructs and, more recently, with future constructs. This paper addresses the problem of dynamic detection of data-races and determinacy-races in task-parallel programs with promises, which are more general than fork-join constructs and futures. The motivation for our work is twofold. First, promises have now become a mainstream synchronization construct, with their inclusion in multiple languages, including C++, JavaScript, and Java. Second, past work on dynamic data-race and determinacy-race detection for task-parallel programs does not apply to programs with promises, thereby identifying a vital need for this work. This paper makes multiple contributions. First, we introduce a featherweight programming language that captures the semantics of task-parallel programs with promises and provides a basis for formally defining determinacy using our semantics. This definition subsumes functional determinacy (same output for same input) and structural determinacy (same computation graph for same input). The main theoretical result shows that the absence of data races is sufficient to guarantee determinacy with both properties. We are unaware of any prior work that established this result for task-parallel programs with promises. Next, we introduce a new Dynamic Race Detector for Promises that we call DRDP. DRDP is the first known race detection algorithm that executes a task-parallel program sequentially without requiring the serial-projection property; this is a critical requirement since programs with promises do not satisfy the serial-projection property in general. Finally, the paper includes experimental results obtained from an implementation of DRDP. The results show that, with some important optimizations introduced in our work, the space and time overheads of DRDP are comparable to those of more restrictive race detection algorithms from past work. To the best of our knowledge, DRDP is the first determinacy race detector for task-parallel programs with promises.   
+
+  Cite as    
+ Feiyang Jin, Lechen Yu, Tiago Cogumbreiro, Jun Shirako, and Vivek Sarkar. Dynamic Determinacy Race Detection for Task-Parallel Programs with Promises. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 13:1-13:30, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{jin_et_al:LIPIcs.ECOOP.2023.13 author = {Jin, Feiyang and Yu, Lechen and Cogumbreiro, Tiago and Shirako, Jun and Sarkar, Vivek}, title = {{Dynamic Determinacy Race Detection for Task-Parallel Programs with Promises}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {13:1--13:30}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.13}, URN = {urn:nbn:de:0030-drops-182060}, doi = {10.4230/LIPIcs.ECOOP.2023.13}, annote = {Keywords: Race detection, Promise, Determinism, Determinacy-race, Serial projection} }  @InProceedings{jin_et_al:LIPIcs.ECOOP.2023.13 author = {Jin, Feiyang and Yu, Lechen and Cogumbreiro, Tiago and Shirako, Jun and Sarkar, Vivek}, title = {{Dynamic Determinacy Race Detection for Task-Parallel Programs with Promises}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {13:1--13:30}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.13}, URN = {urn:nbn:de:0030-drops-182060}, doi = {10.4230/LIPIcs.ECOOP.2023.13}, annote = {Keywords: Race detection, Promise, Determinism, Determinacy-race, Serial projection} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.14    
+
+ Algebraic Replicated Data Types: Programming Secure Local-First Software   
+ Authors:  Christian Kuessner, Ragnar Mogk, Anna-Katharina Wickert, and Mira Mezini  
+  Abstract    
+ This paper is about programming support for local-first applications that manage private data locally, but still synchronize data between multiple devices. Typical use cases are synchronizing settings and data, and collaboration between multiple users. Such applications must preserve the privacy and integrity of the user’s data without impeding or interrupting the user’s normal workflow - even when the device is offline or has a flaky network connection. From the programming perspective, availability along with privacy and security concerns pose significant challenges, for which developers have to learn and use specialized solutions such as conflict-free replicated data types (CRDTs) or APIs for centralized data stores. This work relieves developers from this complexity by enabling the direct and automatic use of algebraic data types - which developers already use to express the business logic of the application - for synchronization and collaboration. Moreover, we use this approach to provide end-to-end encryption and authentication between multiple replicas (using a shared secret), that is suitable for a coordination-free setting. Overall, our approach combines all the following advantages: it (1) allows developers to design custom data types, (2) provides data privacy and integrity when using untrusted intermediaries, (3) is coordination free, (4) guarantees eventual consistency by construction (i.e., independent of developer errors), (5) does not cause indefinite growth of metadata, (6) has sufficiently efficient implementations for the local-first setting.   
+
+  Cite as    
+ Christian Kuessner, Ragnar Mogk, Anna-Katharina Wickert, and Mira Mezini. Algebraic Replicated Data Types: Programming Secure Local-First Software. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 14:1-14:33, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{kuessner_et_al:LIPIcs.ECOOP.2023.14 author = {Kuessner, Christian and Mogk, Ragnar and Wickert, Anna-Katharina and Mezini, Mira}, title = {{Algebraic Replicated Data Types: Programming Secure Local-First Software}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {14:1--14:33}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.14}, URN = {urn:nbn:de:0030-drops-182076}, doi = {10.4230/LIPIcs.ECOOP.2023.14}, annote = {Keywords: local-first, data privacy, coordination freedom, CRDTs, AEAD} }  @InProceedings{kuessner_et_al:LIPIcs.ECOOP.2023.14 author = {Kuessner, Christian and Mogk, Ragnar and Wickert, Anna-Katharina and Mezini, Mira}, title = {{Algebraic Replicated Data Types: Programming Secure Local-First Software}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {14:1--14:33}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.14}, URN = {urn:nbn:de:0030-drops-182076}, doi = {10.4230/LIPIcs.ECOOP.2023.14}, annote = {Keywords: local-first, data privacy, coordination freedom, CRDTs, AEAD} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.15    
+
+ Behavioural Types for Local-First Software   
+ Authors:  Roland Kuhn, Hernán Melgratti, and Emilio Tuosto  
+  Abstract    
+ Peer-to-peer systems are the most resilient form of distributed computing, but the design of robust protocols for their coordination is difficult. This makes it hard to specify and reason about global behaviour of such systems. This paper presents swarm protocols to specify such systems from a global viewpoint. Swarm protocols are projected to machines, that is local specifications of peers. We take inspiration from behavioural types with a key difference: peers communicate through an event notification mechanism rather than through point-to-point message passing. Our goal is to adhere to the principles of local-first software where network devices collaborate on a common task while retaining full autonomy: every participating device can locally make progress at all times, not encumbered by unavailability of other devices or network connections. This coordination-free approach leads to inconsistencies that may emerge during computations. Our main result shows that under suitable well-formedness conditions for swarm protocols consistency is eventually recovered and the locally observable behaviour of conforming machines will eventually match the global specification. Our model elaborates on the Actyx industrial platform and provides the basis for tool support: we sketch an implemented prototype which proves this work a viable step towards reasoning about local-first and peer-to-peer software systems.   
+
+  Cite as    
+ Roland Kuhn, Hernán Melgratti, and Emilio Tuosto. Behavioural Types for Local-First Software. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 15:1-15:28, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{kuhn_et_al:LIPIcs.ECOOP.2023.15 author = {Kuhn, Roland and Melgratti, Hern\'{a}n and Tuosto, Emilio}, title = {{Behavioural Types for Local-First Software}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {15:1--15:28}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.15}, URN = {urn:nbn:de:0030-drops-182086}, doi = {10.4230/LIPIcs.ECOOP.2023.15}, annote = {Keywords: Distributed coordination, local-first software, behavioural types, publish-subscribe, asynchronous communication} }  @InProceedings{kuhn_et_al:LIPIcs.ECOOP.2023.15 author = {Kuhn, Roland and Melgratti, Hern\'{a}n and Tuosto, Emilio}, title = {{Behavioural Types for Local-First Software}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {15:1--15:28}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.15}, URN = {urn:nbn:de:0030-drops-182086}, doi = {10.4230/LIPIcs.ECOOP.2023.15}, annote = {Keywords: Distributed coordination, local-first software, behavioural types, publish-subscribe, asynchronous communication} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.16    
+
+ Constraint Based Compiler Optimization for Energy Harvesting Applications   
+ Authors:  Yannan Li and Chao Wang  
+  Abstract    
+ We propose a method for optimizing the energy efficiency of software code running on small computing devices in the Internet of Things (IoT) that are powered exclusively by electricity harvested from ambient energy in the environment. Due to the weak and unstable nature of the energy source, it is challenging for developers to manually optimize the software code to deal with mismatch between the intermittent power supply and the computation demand. Our method overcomes the challenge by using a combination of three techniques. First, we use static program analysis to automatically identify opportunities for precomputation, i.e., computation that may be performed ahead of time as opposed to just in time. Second, we optimize the precomputation policy, i.e., a way to split and reorder steps of a computation task in the original software to match the intermittent power supply while satisfying a variety of system requirements; this is accomplished by formulating energy optimization as a constraint satisfiability problem and then solving the problem using an off-the-shelf SMT solver. Third, we use a state-of-the-art compiler platform (LLVM) to automate the program transformation to ensure that the optimized software code is correct by construction. We have evaluated our method on a large number of benchmark programs, which are C programs implementing secure communication protocols that are popular for energy-harvesting IoT devices. Our experimental results show that the method is efficient in optimizing all benchmark programs. Furthermore, the optimized programs significantly outperform the original programs in terms of energy efficiency and latency, and the overall improvement ranges from 2.3X to 36.7X.   
+
+  Cite as    
+ Yannan Li and Chao Wang. Constraint Based Compiler Optimization for Energy Harvesting Applications. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 16:1-16:29, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{li_et_al:LIPIcs.ECOOP.2023.16 author = {Li, Yannan and Wang, Chao}, title = {{Constraint Based Compiler Optimization for Energy Harvesting Applications}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {16:1--16:29}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.16}, URN = {urn:nbn:de:0030-drops-182096}, doi = {10.4230/LIPIcs.ECOOP.2023.16}, annote = {Keywords: Compiler, energy optimization, constraint solving, cryptography, IoT} }  @InProceedings{li_et_al:LIPIcs.ECOOP.2023.16 author = {Li, Yannan and Wang, Chao}, title = {{Constraint Based Compiler Optimization for Energy Harvesting Applications}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {16:1--16:29}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.16}, URN = {urn:nbn:de:0030-drops-182096}, doi = {10.4230/LIPIcs.ECOOP.2023.16}, annote = {Keywords: Compiler, energy optimization, constraint solving, cryptography, IoT} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.17    
+
+ Restrictable Variants: A Simple and Practical Alternative to Extensible Variants   
+ Authors:  Magnus Madsen, Jonathan Lindegaard Starup, and Matthew Lutze  
+  Abstract    
+ We propose restrictable variants as a simple and practical alternative to extensible variants. Restrictable variants combine nominal and structural typing: a restrictable variant is an algebraic data type indexed by a type-level set formula that captures its set of active labels. We introduce new pattern-matching constructs that allows programmers to write functions that only match on a subset of variants, i.e., pattern-matches may be non-exhaustive. We then present a type system for restrictable variants which ensures that such non-exhaustive matches cannot get stuck at runtime. An essential feature of restrictable variants is that the type system can capture structure-preserving transformations: specifically the introduction and elimination of variants. This property is important for writing reusable functions, yet many row-based extensible variant systems lack it. In this paper, we present a calculus with restrictable variants, two partial pattern-matching constructs, and a type system that ensures progress and preservation. The type system extends Hindley-Milner with restrictable variants and supports type inference with an extension of Algorithm W with Boolean unification. We implement restrictable variants as an extension of the Flix programming language and conduct a few case studies to illustrate their practical usefulness.   
+
+  Cite as    
+ Magnus Madsen, Jonathan Lindegaard Starup, and Matthew Lutze. Restrictable Variants: A Simple and Practical Alternative to Extensible Variants. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 17:1-17:27, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{madsen_et_al:LIPIcs.ECOOP.2023.17 author = {Madsen, Magnus and Starup, Jonathan Lindegaard and Lutze, Matthew}, title = {{Restrictable Variants: A Simple and Practical Alternative to Extensible Variants}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {17:1--17:27}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.17}, URN = {urn:nbn:de:0030-drops-182109}, doi = {10.4230/LIPIcs.ECOOP.2023.17}, annote = {Keywords: restrictable variants, extensible variants, refinement types, Boolean unification} }  @InProceedings{madsen_et_al:LIPIcs.ECOOP.2023.17 author = {Madsen, Magnus and Starup, Jonathan Lindegaard and Lutze, Matthew}, title = {{Restrictable Variants: A Simple and Practical Alternative to Extensible Variants}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {17:1--17:27}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.17}, URN = {urn:nbn:de:0030-drops-182109}, doi = {10.4230/LIPIcs.ECOOP.2023.17}, annote = {Keywords: restrictable variants, extensible variants, refinement types, Boolean unification} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.18    
+
+ Programming with Purity Reflection: Peaceful Coexistence of Effects, Laziness, and Parallelism   
+ Authors:  Magnus Madsen and Jaco van de Pol  
+  Abstract    
+ We present purity reflection, a programming language feature that enables higher-order functions to inspect the purity of their function arguments and to vary their behavior based on this information. The upshot is that operations on data structures can selectively use lazy and/or parallel evaluation while ensuring that side effects are never lost or re-ordered. The technique builds on a recent Hindley-Milner style type and effect system based on Boolean unification which supports both effect polymorphism and complete type inference. We illustrate that avoiding the so-called 'poisoning problem' is crucial to support purity reflection. We propose several new data structures that use purity reflection to switch between eager and lazy, sequential and parallel evaluation. We propose a DelayList, which is maximally lazy but switches to eager evaluation for impure operations. We also propose a DelayMap which is maximally lazy in its values, but also exploits eager and parallel evaluation. We implement purity reflection as an extension of the Flix programming language. We present a new effect-aware form of monomorphization that eliminates purity reflection at compile-time. And finally, we evaluate the cost of this new monomorphization on compilation time and on code size, and determine that it is minimal.   
+
+  Cite as    
+ Magnus Madsen and Jaco van de Pol. Programming with Purity Reflection: Peaceful Coexistence of Effects, Laziness, and Parallelism. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 18:1-18:27, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{madsen_et_al:LIPIcs.ECOOP.2023.18 author = {Madsen, Magnus and van de Pol, Jaco}, title = {{Programming with Purity Reflection: Peaceful Coexistence of Effects, Laziness, and Parallelism}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {18:1--18:27}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.18}, URN = {urn:nbn:de:0030-drops-182112}, doi = {10.4230/LIPIcs.ECOOP.2023.18}, annote = {Keywords: type and effect systems, purity reflection, lazy evaluation, parallel evaluation} }  @InProceedings{madsen_et_al:LIPIcs.ECOOP.2023.18 author = {Madsen, Magnus and van de Pol, Jaco}, title = {{Programming with Purity Reflection: Peaceful Coexistence of Effects, Laziness, and Parallelism}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {18:1--18:27}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.18}, URN = {urn:nbn:de:0030-drops-182112}, doi = {10.4230/LIPIcs.ECOOP.2023.18}, annote = {Keywords: type and effect systems, purity reflection, lazy evaluation, parallel evaluation} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.19    
+
+ Exact Separation Logic: Towards Bridging the Gap Between Verification and Bug-Finding   
+ Authors:  Petar Maksimović, Caroline Cronjäger, Andreas Lööw, Julian Sutherland, and Philippa Gardner  
+  Abstract    
+ Over-approximating (OX) program logics, such as separation logic (SL), are used for verifying properties of heap-manipulating programs: all terminating behaviour is characterised, but established results and errors need not be reachable. OX function specifications are thus incompatible with true bug-finding supported by symbolic execution tools such as Pulse and Pulse-X. In contrast, under-approximating (UX) program logics, such as incorrectness separation logic, are used to find true results and bugs: established results and errors are reachable, but there is no mechanism for understanding if all terminating behaviour has been characterised. We introduce exact separation logic (ESL), which provides fully-verified function specifications compatible with both OX verification and UX true bug-funding: all terminating behaviour is characterised and all established results and errors are reachable. We prove soundness for ESL with mutually recursive functions, demonstrating, for the first time, function compositionality for a UX logic. We show that UX program logics require subtle definitions of internal and external function specifications compared with the familiar definitions of OX logics. We investigate the expressivity of ESL and, for the first time, explore the role of abstraction in UX reasoning by verifying abstract ESL specifications of various data-structure algorithms. In doing so, we highlight the difference between abstraction (hiding information) and over-approximation (losing information). Our findings demonstrate that abstraction cannot be used as freely in UX logics as in OX logics, but also that it should be feasible to use ESL to provide tractable function specifications for self-contained, critical code, which would then be used for both verification and true bug-finding.   
+
+  Cite as    
+ Petar Maksimović, Caroline Cronjäger, Andreas Lööw, Julian Sutherland, and Philippa Gardner. Exact Separation Logic: Towards Bridging the Gap Between Verification and Bug-Finding. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 19:1-19:27, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{maksimovic_et_al:LIPIcs.ECOOP.2023.19 author = {Maksimovi\'{c}, Petar and Cronj\"{a}ger, Caroline and L\"{o}\"{o}w, Andreas and Sutherland, Julian and Gardner, Philippa}, title = {{Exact Separation Logic: Towards Bridging the Gap Between Verification and Bug-Finding}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {19:1--19:27}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.19}, URN = {urn:nbn:de:0030-drops-182123}, doi = {10.4230/LIPIcs.ECOOP.2023.19}, annote = {Keywords: Separation logic, program correctness, program incorrectness, abstraction} }  @InProceedings{maksimovic_et_al:LIPIcs.ECOOP.2023.19 author = {Maksimovi\'{c}, Petar and Cronj\"{a}ger, Caroline and L\"{o}\"{o}w, Andreas and Sutherland, Julian and Gardner, Philippa}, title = {{Exact Separation Logic: Towards Bridging the Gap Between Verification and Bug-Finding}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {19:1--19:27}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.19}, URN = {urn:nbn:de:0030-drops-182123}, doi = {10.4230/LIPIcs.ECOOP.2023.19}, annote = {Keywords: Separation logic, program correctness, program incorrectness, abstraction} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.20    
+
+ Morpheus: Automated Safety Verification of Data-Dependent Parser Combinator Programs   
+ Authors:  Ashish Mishra and Suresh Jagannathan  
+  Abstract    
+ Parser combinators are a well-known mechanism used for the compositional construction of parsers, and have shown to be particularly useful in writing parsers for rich grammars with data-dependencies and global state. Verifying applications written using them, however, has proven to be challenging in large part because of the inherently effectful nature of the parsers being composed and the difficulty in reasoning about the arbitrarily rich data-dependent semantic actions that can be associated with parsing actions. In this paper, we address these challenges by defining a parser combinator framework called Morpheus equipped with abstractions for defining composable effects tailored for parsing and semantic actions, and a rich specification language used to define safety properties over the constituent parsers comprising a program. Even though its abstractions yield many of the same expressivity benefits as other parser combinator systems, Morpheus is carefully engineered to yield a substantially more tractable automated verification pathway. We demonstrate its utility in verifying a number of realistic, challenging parsing applications, including several cases that involve non-trivial data-dependent relations.   
+
+  Cite as    
+ Ashish Mishra and Suresh Jagannathan. Morpheus: Automated Safety Verification of Data-Dependent Parser Combinator Programs. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 20:1-20:27, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{mishra_et_al:LIPIcs.ECOOP.2023.20 author = {Mishra, Ashish and Jagannathan, Suresh}, title = {{Morpheus: Automated Safety Verification of Data-Dependent Parser Combinator Programs}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {20:1--20:27}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.20}, URN = {urn:nbn:de:0030-drops-182138}, doi = {10.4230/LIPIcs.ECOOP.2023.20}, annote = {Keywords: Parsers, Verification, Domain-specific languages, Functional programming, Refinement types, Type systems} }  @InProceedings{mishra_et_al:LIPIcs.ECOOP.2023.20 author = {Mishra, Ashish and Jagannathan, Suresh}, title = {{Morpheus: Automated Safety Verification of Data-Dependent Parser Combinator Programs}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {20:1--20:27}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.20}, URN = {urn:nbn:de:0030-drops-182138}, doi = {10.4230/LIPIcs.ECOOP.2023.20}, annote = {Keywords: Parsers, Verification, Domain-specific languages, Functional programming, Refinement types, Type systems} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.21    
+
+ Automata Learning with an Incomplete Teacher   
+ Authors:  Mark Moeller, Thomas Wiener, Alaia Solko-Breslin, Caleb Koch, Nate Foster, and Alexandra Silva  
+  Abstract    
+ The preceding decade has seen significant interest in use of active learning to build models of programs and protocols. But existing algorithms assume the existence of an idealized oracle - a so-called Minimally Adequate Teacher (MAT) - that cannot be fully realized in practice and so is usually approximated with testing. This work proposes a new framework for active learning based on an incomplete teacher. This new formulation, called iMAT, neatly handles scenarios in which the teacher has access to only a finite number of tests or otherwise has gaps in its knowledge. We adapt Angluin’s L^⋆ algorithm for learning finite automata to incomplete teachers and we build a prototype implementation in OCaml that uses an SMT solver to help fill in information not supplied by the teacher. We demonstrate the behavior of our iMAT prototype on a variety of learning problems from a standard benchmark suite.   
+
+  Cite as    
+ Mark Moeller, Thomas Wiener, Alaia Solko-Breslin, Caleb Koch, Nate Foster, and Alexandra Silva. Automata Learning with an Incomplete Teacher. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 21:1-21:30, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{moeller_et_al:LIPIcs.ECOOP.2023.21 author = {Moeller, Mark and Wiener, Thomas and Solko-Breslin, Alaia and Koch, Caleb and Foster, Nate and Silva, Alexandra}, title = {{Automata Learning with an Incomplete Teacher}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {21:1--21:30}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.21}, URN = {urn:nbn:de:0030-drops-182145}, doi = {10.4230/LIPIcs.ECOOP.2023.21}, annote = {Keywords: Finite Automata, Active Learning, SMT Solvers} }  @InProceedings{moeller_et_al:LIPIcs.ECOOP.2023.21 author = {Moeller, Mark and Wiener, Thomas and Solko-Breslin, Alaia and Koch, Caleb and Foster, Nate and Silva, Alexandra}, title = {{Automata Learning with an Incomplete Teacher}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {21:1--21:30}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.21}, URN = {urn:nbn:de:0030-drops-182145}, doi = {10.4230/LIPIcs.ECOOP.2023.21}, annote = {Keywords: Finite Automata, Active Learning, SMT Solvers} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.22    
+
+ Modular Verification of State-Based CRDTs in Separation Logic   
+ Authors:  Abel Nieto, Arnaud Daby-Seesaram, Léon Gondelman, Amin Timany, and Lars Birkedal  
+  Abstract    
+ Conflict-free Replicated Datatypes (CRDTs) are a class of distributed data structures that are highly-available and weakly consistent. The CRDT taxonomy is further divided into two subclasses: state-based and operation-based (op-based). Recent prior work showed how to use separation logic to verify convergence and functional correctness of op-based CRDTs while (a) verifying implementations (as opposed to high-level protocols), (b) giving high level specifications that abstract from low-level implementation details, and (c) providing specifications that are modular (i.e. allow client code to use the CRDT like an abstract data type). We extend this separation logic approach to verification of CRDTs to handle state-based CRDTs, while respecting the desiderata (a)-(c). The key idea is to track the state of a CRDT as a function of the set of operations that produced that state. Using the observation that state-based CRDTs are automatically causally-consistent, we obtain CRDT specifications that are agnostic to whether a CRDT is state- or op-based. When taken together with prior work, our technique thus provides a unified approach to specification and verification of op- and state-based CRDTs. We have tested our approach by verifying StateLib, a library for building state-based CRDTs. Using StateLib, we have further verified convergence and functional correctness of multiple example CRDTs from the literature. Our proofs are written in the Aneris distributed separation logic and are mechanized in Coq.   
+
+  Cite as    
+ Abel Nieto, Arnaud Daby-Seesaram, Léon Gondelman, Amin Timany, and Lars Birkedal. Modular Verification of State-Based CRDTs in Separation Logic. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 22:1-22:27, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{nieto_et_al:LIPIcs.ECOOP.2023.22 author = {Nieto, Abel and Daby-Seesaram, Arnaud and Gondelman, L\'{e}on and Timany, Amin and Birkedal, Lars}, title = {{Modular Verification of State-Based CRDTs in Separation Logic}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {22:1--22:27}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.22}, URN = {urn:nbn:de:0030-drops-182154}, doi = {10.4230/LIPIcs.ECOOP.2023.22}, annote = {Keywords: separation logic, distributed systems, CRDT, replicated data type, formal verification} }  @InProceedings{nieto_et_al:LIPIcs.ECOOP.2023.22 author = {Nieto, Abel and Daby-Seesaram, Arnaud and Gondelman, L\'{e}on and Timany, Amin and Birkedal, Lars}, title = {{Modular Verification of State-Based CRDTs in Separation Logic}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {22:1--22:27}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.22}, URN = {urn:nbn:de:0030-drops-182154}, doi = {10.4230/LIPIcs.ECOOP.2023.22}, annote = {Keywords: separation logic, distributed systems, CRDT, replicated data type, formal verification} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.23    
+
+ Information Flow Analysis for Detecting Non-Determinism in Blockchain   
+ Authors:  Luca Olivieri, Luca Negrini, Vincenzo Arceri, Fabio Tagliaferro, Pietro Ferrara, Agostino Cortesi, and Fausto Spoto  
+  Abstract    
+ A mandatory feature for blockchain software, such as smart contracts and decentralized applications, is determinism. In fact, non-deterministic behaviors do not allow blockchain nodes to reach one common consensual state or a deterministic response, which causes the blockchain to be forked, stopped, or to deny services. While domain-specific languages are deterministic by design, general-purpose languages widely used for the development of smart contracts such as Go, provide many sources of non-determinism. However, not all non-deterministic behaviours are critical. In fact, only those that affect the state or the response of the blockchain can cause problems, as other uses (for example, logging) are only observable by the node that executes the application and not by others. Therefore, some frameworks for blockchains, such as Hyperledger Fabric or Cosmos SDK, do not prohibit the use of non-deterministic constructs but leave the programmer the burden of ensuring that the blockchain application is deterministic. In this paper, we present a flow-based approach to detect non-deterministic vulnerabilities which could compromise the blockchain. The analysis is implemented in GoLiSA, a semantics-based static analyzer for Go applications. Our experimental results show that GoLiSA is able to detect all vulnerabilities related to non-determinism on a significant set of applications, with better results than other open-source analyzers for blockchain software written in Go.   
+
+  Cite as    
+ Luca Olivieri, Luca Negrini, Vincenzo Arceri, Fabio Tagliaferro, Pietro Ferrara, Agostino Cortesi, and Fausto Spoto. Information Flow Analysis for Detecting Non-Determinism in Blockchain. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 23:1-23:25, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{olivieri_et_al:LIPIcs.ECOOP.2023.23 author = {Olivieri, Luca and Negrini, Luca and Arceri, Vincenzo and Tagliaferro, Fabio and Ferrara, Pietro and Cortesi, Agostino and Spoto, Fausto}, title = {{Information Flow Analysis for Detecting Non-Determinism in Blockchain}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {23:1--23:25}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.23}, URN = {urn:nbn:de:0030-drops-182167}, doi = {10.4230/LIPIcs.ECOOP.2023.23}, annote = {Keywords: Static Analysis, Program Verification, Non-determinism, Blockchain, Smart contracts, DApps, Go language} }  @InProceedings{olivieri_et_al:LIPIcs.ECOOP.2023.23 author = {Olivieri, Luca and Negrini, Luca and Arceri, Vincenzo and Tagliaferro, Fabio and Ferrara, Pietro and Cortesi, Agostino and Spoto, Fausto}, title = {{Information Flow Analysis for Detecting Non-Determinism in Blockchain}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {23:1--23:25}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.23}, URN = {urn:nbn:de:0030-drops-182167}, doi = {10.4230/LIPIcs.ECOOP.2023.23}, annote = {Keywords: Static Analysis, Program Verification, Non-determinism, Blockchain, Smart contracts, DApps, Go language} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.24    
+
+ Toward Tool-Independent Summaries for Symbolic Execution   
+ Authors:  Frederico Ramos, Nuno Sabino, Pedro Adão, David A. Naumann, and José Fragoso Santos  
+  Abstract    
+ We introduce a new symbolic reflection API for implementing tool-independent summaries for the symbolic execution of C programs. We formalise the proposed API as a symbolic semantics and extend two state-of-the-art symbolic execution tools with support for it. Using the proposed API, we implement 67 tool-independent symbolic summaries for a total of 26 libc functions. Furthermore, we present SumBoundVerify, a fully automatic summary validation tool for checking the bounded correctness of the symbolic summaries written using our symbolic reflection API. We use SumBoundVerify to validate 37 symbolic summaries taken from 3 state-of-the-art symbolic execution tools, angr, Binsec and Manticore, detecting a total of 24 buggy summaries.   
+
+  Cite as    
+ Frederico Ramos, Nuno Sabino, Pedro Adão, David A. Naumann, and José Fragoso Santos. Toward Tool-Independent Summaries for Symbolic Execution. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 24:1-24:29, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{ramos_et_al:LIPIcs.ECOOP.2023.24 author = {Ramos, Frederico and Sabino, Nuno and Ad\~{a}o, Pedro and Naumann, David A. and Fragoso Santos, Jos\'{e}}, title = {{Toward Tool-Independent Summaries for Symbolic Execution}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {24:1--24:29}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.24}, URN = {urn:nbn:de:0030-drops-182171}, doi = {10.4230/LIPIcs.ECOOP.2023.24}, annote = {Keywords: Symbolic Execution, Runtime Modelling, Symbolic Summaries} }  @InProceedings{ramos_et_al:LIPIcs.ECOOP.2023.24 author = {Ramos, Frederico and Sabino, Nuno and Ad\~{a}o, Pedro and Naumann, David A. and Fragoso Santos, Jos\'{e}}, title = {{Toward Tool-Independent Summaries for Symbolic Execution}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {24:1--24:29}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.24}, URN = {urn:nbn:de:0030-drops-182171}, doi = {10.4230/LIPIcs.ECOOP.2023.24}, annote = {Keywords: Symbolic Execution, Runtime Modelling, Symbolic Summaries} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.25    
+
+ A Direct-Style Effect Notation for Sequential and Parallel Programs   
+ Authors:  David Richter, Timon Böhler, Pascal Weisenburger, and Mira Mezini  
+  Abstract    
+ Modeling sequential and parallel composition of effectful computations has been investigated in a variety of languages for a long time. In particular, the popular do-notation provides a lightweight effect embedding for any instance of a monad. Idiom bracket notation, on the other hand, provides an embedding for applicatives. First, while monads force effects to be executed sequentially, ignoring potential for parallelism, applicatives do not support sequential effects. Composing sequential with parallel effects remains an open problem. This is even more of an issue as real programs consist of a combination of both sequential and parallel segments. Second, common notations do not support invoking effects in direct-style, instead forcing a rigid structure upon the code. In this paper, we propose a mixed applicative/monadic notation that retains parallelism where possible, but allows sequentiality where necessary. We leverage a direct-style notation where sequentiality or parallelism is derived from the structure of the code. We provide a mechanisation of our effectful language in Coq and prove that our compilation approach retains the parallelism of the source program.   
+
+  Cite as    
+ David Richter, Timon Böhler, Pascal Weisenburger, and Mira Mezini. A Direct-Style Effect Notation for Sequential and Parallel Programs. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 25:1-25:22, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{richter_et_al:LIPIcs.ECOOP.2023.25 author = {Richter, David and B\"{o}hler, Timon and Weisenburger, Pascal and Mezini, Mira}, title = {{A Direct-Style Effect Notation for Sequential and Parallel Programs}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {25:1--25:22}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.25}, URN = {urn:nbn:de:0030-drops-182181}, doi = {10.4230/LIPIcs.ECOOP.2023.25}, annote = {Keywords: do-notation, parallelism, concurrency, effects} }  @InProceedings{richter_et_al:LIPIcs.ECOOP.2023.25 author = {Richter, David and B\"{o}hler, Timon and Weisenburger, Pascal and Mezini, Mira}, title = {{A Direct-Style Effect Notation for Sequential and Parallel Programs}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {25:1--25:22}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.25}, URN = {urn:nbn:de:0030-drops-182181}, doi = {10.4230/LIPIcs.ECOOP.2023.25}, annote = {Keywords: do-notation, parallelism, concurrency, effects} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.26    
+
+ Sinatra: Stateful Instantaneous Updates for Commercial Browsers Through Multi-Version eXecution   
+ Authors:  Ugnius Rumsevicius, Siddhanth Venkateshwaran, Ellen Kidane, and Luís Pina  
+  Abstract    
+ Browsers are the main way in which most users experience the internet, which makes them a prime target for malicious entities. The best defense for the common user is to keep their browser always up-to-date, installing updates as soon as they are available. Unfortunately, updating a browser is disruptive as it results in loss of user state. Even though modern browsers reopen all pages (tabs) after an update to minimize inconvenience, this approach still loses all local user state in each page (e.g., contents of unsubmitted forms, including associated JavaScript validation state) and assumes that pages can be refreshed and result in the same contents. We believe this is an important barrier that keeps users from updating their browsers as frequently as possible. In this paper, we present the design, implementation, and evaluation of Sinatra, which supports instantaneous browser updates that do not result in any data loss through a novel Multi-Version eXecution (MVX) approach for JavaScript programs, combined with a sophisticated proxy. Sinatra works in pure JavaScript, does not require any browser support, thus works on closed-source browsers, and requires trivial changes to each target page, that can be automated. First, Sinatra captures all the non-determinism available to a JavaScript program (e.g., event handlers executed, expired timers, invocations of Math.random). Our evaluation shows that Sinatra requires 6MB to store such events, and the memory grows at a modest rate of 253KB/s as the user keeps interacting with each page. When an update becomes available, Sinatra transfer the state by re-executing the same set of non-deterministic events on the new browser. During this time, which can be as long as 1.5 seconds, Sinatra uses MVX to allow the user to keep interacting with the old browser. Finally, Sinatra changes the roles in less than 10ms, and the user starts interacting with the new browser, effectively performing a browser update with zero downtime and no loss of state.   
+
+  Cite as    
+ Ugnius Rumsevicius, Siddhanth Venkateshwaran, Ellen Kidane, and Luís Pina. Sinatra: Stateful Instantaneous Updates for Commercial Browsers Through Multi-Version eXecution. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 26:1-26:29, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{rumsevicius_et_al:LIPIcs.ECOOP.2023.26 author = {Rumsevicius, Ugnius and Venkateshwaran, Siddhanth and Kidane, Ellen and Pina, Lu{\'\i}s}, title = {{Sinatra: Stateful Instantaneous Updates for Commercial Browsers Through Multi-Version eXecution}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {26:1--26:29}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.26}, URN = {urn:nbn:de:0030-drops-182190}, doi = {10.4230/LIPIcs.ECOOP.2023.26}, annote = {Keywords: Internet browsers, dynamic software updating, multi-version execution} }  @InProceedings{rumsevicius_et_al:LIPIcs.ECOOP.2023.26 author = {Rumsevicius, Ugnius and Venkateshwaran, Siddhanth and Kidane, Ellen and Pina, Lu{\'\i}s}, title = {{Sinatra: Stateful Instantaneous Updates for Commercial Browsers Through Multi-Version eXecution}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {26:1--26:29}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.26}, URN = {urn:nbn:de:0030-drops-182190}, doi = {10.4230/LIPIcs.ECOOP.2023.26}, annote = {Keywords: Internet browsers, dynamic software updating, multi-version execution} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.27    
+
+ An Efficient Vectorized Hash Table for Batch Computations   
+ Authors:  Hesam Shahrokhi and Amir Shaikhha  
+  Abstract    
+ In recent years, the increasing demand for high-performance analytics on big data has led the research on batch hash tables. It is shown that this type of hash table can benefit from the cache locality and multi-threading more than ordinary hash tables. Moreover, the batch design for hash tables is amenable to using advanced features of modern processors such as prefetching and SIMD vectorization. While state-of-the-art research and open-source projects on batch hash tables made efforts to propose improved designs by better usage of mentioned hardware features, their approaches still do not fully exploit the existing opportunities for performance improvements. Furthermore, there is a gap for a high-level batch API of such hash tables for wider adoption of these high-performance data structures. In this paper, we present Vec-HT, a parallel, SIMD-vectorized, and prefetching-enabled hash table for fast batch processing. To allow developers to fully take advantage of its performance, we recommend a high-level batch API design. Our experimental results show the superiority and competitiveness of this approach in comparison with the alternative implementations and state-of-the-art for the data-intensive workloads of relational join processing, set operations, and sparse vector processing.   
+
+  Cite as    
+ Hesam Shahrokhi and Amir Shaikhha. An Efficient Vectorized Hash Table for Batch Computations. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 27:1-27:27, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{shahrokhi_et_al:LIPIcs.ECOOP.2023.27 author = {Shahrokhi, Hesam and Shaikhha, Amir}, title = {{An Efficient Vectorized Hash Table for Batch Computations}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {27:1--27:27}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.27}, URN = {urn:nbn:de:0030-drops-182203}, doi = {10.4230/LIPIcs.ECOOP.2023.27}, annote = {Keywords: Hash tables, Vectorization, Parallelization, Prefetching} }  @InProceedings{shahrokhi_et_al:LIPIcs.ECOOP.2023.27 author = {Shahrokhi, Hesam and Shaikhha, Amir}, title = {{An Efficient Vectorized Hash Table for Batch Computations}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {27:1--27:27}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.27}, URN = {urn:nbn:de:0030-drops-182203}, doi = {10.4230/LIPIcs.ECOOP.2023.27}, annote = {Keywords: Hash tables, Vectorization, Parallelization, Prefetching} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.28    
+
+ Hinted Dictionaries: Efficient Functional Ordered Sets and Maps   
+ Authors:  Amir Shaikhha, Mahdi Ghorbani, and Hesam Shahrokhi  
+  Abstract    
+ This paper introduces hinted dictionaries for expressing efficient ordered sets and maps functionally. As opposed to the traditional ordered dictionaries with logarithmic operations, hinted dictionaries can achieve better performance by using cursor-like objects referred to as hints. Hinted dictionaries unify the interfaces of imperative ordered dictionaries (e.g., C++ maps) and functional ones (e.g., Adams' sets). We show that such dictionaries can use sorted arrays, unbalanced trees, and balanced trees as their underlying representations. Throughout the paper, we use Scala to present the different components of hinted dictionaries. We also provide a C++ implementation to evaluate the effectiveness of hinted dictionaries. Hinted dictionaries provide superior performance for set-set operations in comparison with the standard library of C++. Also, they show a competitive performance in comparison with the SciPy library for sparse vector operations.   
+
+  Cite as    
+ Amir Shaikhha, Mahdi Ghorbani, and Hesam Shahrokhi. Hinted Dictionaries: Efficient Functional Ordered Sets and Maps. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 28:1-28:30, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{shaikhha_et_al:LIPIcs.ECOOP.2023.28 author = {Shaikhha, Amir and Ghorbani, Mahdi and Shahrokhi, Hesam}, title = {{Hinted Dictionaries: Efficient Functional Ordered Sets and Maps}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {28:1--28:30}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.28}, URN = {urn:nbn:de:0030-drops-182214}, doi = {10.4230/LIPIcs.ECOOP.2023.28}, annote = {Keywords: Functional Collections, Ordered Dictionaries, Sparse Linear Algebra} }  @InProceedings{shaikhha_et_al:LIPIcs.ECOOP.2023.28 author = {Shaikhha, Amir and Ghorbani, Mahdi and Shahrokhi, Hesam}, title = {{Hinted Dictionaries: Efficient Functional Ordered Sets and Maps}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {28:1--28:30}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.28}, URN = {urn:nbn:de:0030-drops-182214}, doi = {10.4230/LIPIcs.ECOOP.2023.28}, annote = {Keywords: Functional Collections, Ordered Dictionaries, Sparse Linear Algebra} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.29    
+
+ Semantics for Noninterference with Interaction Trees   
+ Authors:  Lucas Silver, Paul He, Ethan Cecchetti, Andrew K. Hirsch, and Steve Zdancewic  
+  Abstract    
+ Noninterference is the strong information-security property that a program does not leak secrets through publicly-visible behavior. In the presence of effects such as nontermination, state, and exceptions, reasoning about noninterference quickly becomes subtle. We advocate using interaction trees (ITrees) to provide compositional mechanized proofs of noninterference for multi-language, effectful, nonterminating programs, while retaining executability of the semantics. We develop important foundations for security analysis with ITrees: two indistinguishability relations, leading to two standard notions of noninterference with adversaries of different strength, along with metatheory libraries for reasoning about each. We demonstrate the utility of our results using a simple imperative language with embedded assembly, along with a compiler into that assembly language.   
+
+  Cite as    
+ Lucas Silver, Paul He, Ethan Cecchetti, Andrew K. Hirsch, and Steve Zdancewic. Semantics for Noninterference with Interaction Trees. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 29:1-29:29, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{silver_et_al:LIPIcs.ECOOP.2023.29 author = {Silver, Lucas and He, Paul and Cecchetti, Ethan and Hirsch, Andrew K. and Zdancewic, Steve}, title = {{Semantics for Noninterference with Interaction Trees}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {29:1--29:29}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.29}, URN = {urn:nbn:de:0030-drops-182227}, doi = {10.4230/LIPIcs.ECOOP.2023.29}, annote = {Keywords: verification, information-flow, denotational semantics, monads} }  @InProceedings{silver_et_al:LIPIcs.ECOOP.2023.29 author = {Silver, Lucas and He, Paul and Cecchetti, Ethan and Hirsch, Andrew K. and Zdancewic, Steve}, title = {{Semantics for Noninterference with Interaction Trees}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {29:1--29:29}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.29}, URN = {urn:nbn:de:0030-drops-182227}, doi = {10.4230/LIPIcs.ECOOP.2023.29}, annote = {Keywords: verification, information-flow, denotational semantics, monads} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.30    
+
+ Interaction Tree Specifications: A Framework for Specifying Recursive, Effectful Computations That Supports Auto-Active Verification   
+ Authors:  Lucas Silver, Eddy Westbrook, Matthew Yacavone, and Ryan Scott  
+  Abstract    
+ This paper presents a specification framework for monadic, recursive, interactive programs that supports auto-active verification, an approach that combines user-provided guidance with automatic verification techniques. This verification tool is designed to have the flexibility of a manual approach to verification along with the usability benefits of automatic approaches. We accomplish this by augmenting Interaction Trees, a Coq datastructure for representing effectful computations, with logical quantifier events. We show that this yields a language of specifications that are easy to understand, automatable, and are powerful enough to handle properties that involve non-termination. Our framework is implemented as a library in Coq. We demonstrate the effectiveness of this framework by verifying real, low-level code.   
+
+  Cite as    
+ Lucas Silver, Eddy Westbrook, Matthew Yacavone, and Ryan Scott. Interaction Tree Specifications: A Framework for Specifying Recursive, Effectful Computations That Supports Auto-Active Verification. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 30:1-30:26, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{silver_et_al:LIPIcs.ECOOP.2023.30 author = {Silver, Lucas and Westbrook, Eddy and Yacavone, Matthew and Scott, Ryan}, title = {{Interaction Tree Specifications: A Framework for Specifying Recursive, Effectful Computations That Supports Auto-Active Verification}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {30:1--30:26}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.30}, URN = {urn:nbn:de:0030-drops-182239}, doi = {10.4230/LIPIcs.ECOOP.2023.30}, annote = {Keywords: coinduction, specification, verification, monads} }  @InProceedings{silver_et_al:LIPIcs.ECOOP.2023.30 author = {Silver, Lucas and Westbrook, Eddy and Yacavone, Matthew and Scott, Ryan}, title = {{Interaction Tree Specifications: A Framework for Specifying Recursive, Effectful Computations That Supports Auto-Active Verification}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {30:1--30:26}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.30}, URN = {urn:nbn:de:0030-drops-182239}, doi = {10.4230/LIPIcs.ECOOP.2023.30}, annote = {Keywords: coinduction, specification, verification, monads} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.31    
+
+ Breaking the Negative Cycle: Exploring the Design Space of Stratification for First-Class Datalog Constraints   
+ Authors:  Jonathan Lindegaard Starup, Magnus Madsen, and Ondřej Lhoták  
+  Abstract    
+ The λ_Dat calculus brings together the power of functional and declarative logic programming in one language. In λ_Dat, Datalog constraints are first-class values that can be constructed, passed around as arguments, returned, composed with other constraints, and solved. A significant part of the expressive power of Datalog comes from the use of negation. Stratified negation is a particularly simple and practical form of negation accessible to ordinary programmers. Stratification requires that Datalog programs must not use recursion through negation. For a Datalog program, this requirement is straightforward to check, but for a λ_Dat program, it is not so simple: A λ_Dat program constructs, composes, and solves Datalog programs at runtime. Hence stratification cannot readily be determined at compile-time. In this paper, we explore the design space of stratification for λ_Dat. We investigate strategies to ensure, at compile-time, that programs constructed at runtime are guaranteed to be stratified, and we argue that previous design choices in the Flix programming language have been suboptimal.   
+
+  Cite as    
+ Jonathan Lindegaard Starup, Magnus Madsen, and Ondřej Lhoták. Breaking the Negative Cycle: Exploring the Design Space of Stratification for First-Class Datalog Constraints. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 31:1-31:28, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{starup_et_al:LIPIcs.ECOOP.2023.31 author = {Starup, Jonathan Lindegaard and Madsen, Magnus and Lhot\'{a}k, Ond\v{r}ej}, title = {{Breaking the Negative Cycle: Exploring the Design Space of Stratification for First-Class Datalog Constraints}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {31:1--31:28}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.31}, URN = {urn:nbn:de:0030-drops-182244}, doi = {10.4230/LIPIcs.ECOOP.2023.31}, annote = {Keywords: Datalog, first-class Datalog constraints, negation, stratified negation, type system, row polymorphism, the Flix programming language} }  @InProceedings{starup_et_al:LIPIcs.ECOOP.2023.31 author = {Starup, Jonathan Lindegaard and Madsen, Magnus and Lhot\'{a}k, Ond\v{r}ej}, title = {{Breaking the Negative Cycle: Exploring the Design Space of Stratification for First-Class Datalog Constraints}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {31:1--31:28}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.31}, URN = {urn:nbn:de:0030-drops-182244}, doi = {10.4230/LIPIcs.ECOOP.2023.31}, annote = {Keywords: Datalog, first-class Datalog constraints, negation, stratified negation, type system, row polymorphism, the Flix programming language} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.32    
+
+ Asynchronous Multiparty Session Type Implementability is Decidable - Lessons Learned from Message Sequence Charts   
+ Authors:  Felix Stutz  
+  Abstract    
+ Multiparty session types (MSTs) provide efficient means to specify and verify asynchronous message-passing systems. For a global type, which specifies all interactions between roles in a system, the implementability problem asks whether there are local specifications for all roles such that their composition is deadlock-free and generates precisely the specified executions. Decidability of the implementability problem is an open question. We answer it positively for global types with sender-driven choice, which allow a sender to send to different receivers upon branching and a receiver to receive from different senders. To achieve this, we generalise results from the domain of high-level message sequence charts (HMSCs). This connection also allows us to comprehensively investigate how HMSC techniques can be adapted to the MST setting. This comprises techniques to make the problem algorithmically more tractable as well as a variant of implementability that may open new design space for MSTs. Inspired by potential performance benefits, we introduce a generalisation of the implementability problem that we, unfortunately, prove to be undecidable.   
+
+  Cite as    
+ Felix Stutz. Asynchronous Multiparty Session Type Implementability is Decidable - Lessons Learned from Message Sequence Charts. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 32:1-32:31, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{stutz:LIPIcs.ECOOP.2023.32 author = {Stutz, Felix}, title = {{Asynchronous Multiparty Session Type Implementability is Decidable - Lessons Learned from Message Sequence Charts}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {32:1--32:31}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.32}, URN = {urn:nbn:de:0030-drops-182251}, doi = {10.4230/LIPIcs.ECOOP.2023.32}, annote = {Keywords: Multiparty session types, Verification, Message sequence charts} }  @InProceedings{stutz:LIPIcs.ECOOP.2023.32 author = {Stutz, Felix}, title = {{Asynchronous Multiparty Session Type Implementability is Decidable - Lessons Learned from Message Sequence Charts}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {32:1--32:31}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.32}, URN = {urn:nbn:de:0030-drops-182251}, doi = {10.4230/LIPIcs.ECOOP.2023.32}, annote = {Keywords: Multiparty session types, Verification, Message sequence charts} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.33    
+
+ ConDRust: Scalable Deterministic Concurrency from Verifiable Rust Programs   
+ Authors:  Felix Suchert, Lisza Zeidler, Jeronimo Castrillon, and Sebastian Ertel  
+  Abstract    
+ SAT/SMT-solvers and model checkers automate formal verification of sequential programs. Formal reasoning about scalable concurrent programs is still manual and requires expert knowledge. But scalability is a fundamental requirement of current and future programs. Sequential imperative programs compose statements, function/method calls and control flow constructs. Concurrent programming models provide constructs for concurrent composition. Concurrency abstractions such as threads and synchronization primitives such as locks compose the individual parts of a concurrent program that are meant to execute in parallel. We propose to rather compose the individual parts again using sequential composition and compile this sequential composition into a concurrent one. The developer can use existing tools to formally verify the sequential program while the translated concurrent program provides the dearly requested scalability. Following this insight, we present ConDRust, a new programming model and compiler for Rust programs. The ConDRust compiler translates sequential composition into a concurrent composition based on threads and message-passing channels. During compilation, the compiler preserves the semantics of the sequential program along with much desired properties such as determinism. Our evaluation shows that our ConDRust compiler generates concurrent deterministic code that can outperform even non-deterministic programs by up to a factor of three for irregular algorithms that are particularly hard to parallelize.   
+
+  Cite as    
+ Felix Suchert, Lisza Zeidler, Jeronimo Castrillon, and Sebastian Ertel. ConDRust: Scalable Deterministic Concurrency from Verifiable Rust Programs. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 33:1-33:39, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{suchert_et_al:LIPIcs.ECOOP.2023.33 author = {Suchert, Felix and Zeidler, Lisza and Castrillon, Jeronimo and Ertel, Sebastian}, title = {{ConDRust: Scalable Deterministic Concurrency from Verifiable Rust Programs}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {33:1--33:39}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.33}, URN = {urn:nbn:de:0030-drops-182263}, doi = {10.4230/LIPIcs.ECOOP.2023.33}, annote = {Keywords: concurrent programming, verification, scalability} }  @InProceedings{suchert_et_al:LIPIcs.ECOOP.2023.33 author = {Suchert, Felix and Zeidler, Lisza and Castrillon, Jeronimo and Ertel, Sebastian}, title = {{ConDRust: Scalable Deterministic Concurrency from Verifiable Rust Programs}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {33:1--33:39}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.33}, URN = {urn:nbn:de:0030-drops-182263}, doi = {10.4230/LIPIcs.ECOOP.2023.33}, annote = {Keywords: concurrent programming, verification, scalability} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.34    
+
+ Dependent Merges and First-Class Environments   
+ Authors:  Jinhao Tan and Bruno C. d. S. Oliveira  
+  Abstract    
+ In most programming languages a (runtime) environment stores all the definitions that are available to programmers. Typically, environments are a meta-level notion, used only conceptually or internally in the implementation of programming languages. Only a few programming languages allow environments to be first-class values, which can be manipulated directly in programs. Although there is some research on calculi with first-class environments for statically typed programming languages, these calculi typically have significant restrictions. In this paper we propose a statically typed calculus, called 𝖤_i, with first-class environments. The main novelty of the 𝖤_i calculus is its support for first-class environments, together with an expressive set of operators that manipulate them. Such operators include: reification of the current environment, environment concatenation, environment restriction, and reflection mechanisms for running computations under a given environment. In 𝖤_i any type can act as a context (i.e. an environment type) and contexts are simply types. Furthermore, because 𝖤_i supports subtyping, there is a natural notion of context subtyping. There are two important ideas in 𝖤_i that generalize and are inspired by existing notions in the literature. The 𝖤_i calculus borrows disjoint intersection types and a merge operator, used in 𝖤_i to model contexts and environments, from the λ_i calculus. However, unlike the merges in λ_i, the merges in 𝖤_i can depend on previous components of a merge. From implicit calculi, the 𝖤_i calculus borrows the notion of a query, which allows type-based lookups on environments. In particular, queries are key to the ability of 𝖤_i to reify the current environment, or some parts of it. We prove the determinism and type soundness of 𝖤_i, and show that 𝖤_i can encode all well-typed λ_i programs.   
+
+  Cite as    
+ Jinhao Tan and Bruno C. d. S. Oliveira. Dependent Merges and First-Class Environments. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 34:1-34:32, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{tan_et_al:LIPIcs.ECOOP.2023.34 author = {Tan, Jinhao and Oliveira, Bruno C. d. S.}, title = {{Dependent Merges and First-Class Environments}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {34:1--34:32}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.34}, URN = {urn:nbn:de:0030-drops-182277}, doi = {10.4230/LIPIcs.ECOOP.2023.34}, annote = {Keywords: First-class Environments, Disjointness, Intersection Types} }  @InProceedings{tan_et_al:LIPIcs.ECOOP.2023.34 author = {Tan, Jinhao and Oliveira, Bruno C. d. S.}, title = {{Dependent Merges and First-Class Environments}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {34:1--34:32}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.34}, URN = {urn:nbn:de:0030-drops-182277}, doi = {10.4230/LIPIcs.ECOOP.2023.34}, annote = {Keywords: First-class Environments, Disjointness, Intersection Types} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.35    
+
+ Synthesis-Aided Crash Consistency for Storage Systems   
+ Authors:  Jacob Van Geffen, Xi Wang, Emina Torlak, and James Bornholt  
+  Abstract    
+ Reliable storage systems must be crash consistent - guaranteed to recover to a consistent state after a crash. Crash consistency is non-trivial as it requires maintaining complex invariants about persistent data structures in the presence of caching, reordering, and system failures. Current programming models offer little support for implementing crash consistency, forcing storage system developers to roll their own consistency mechanisms. Bugs in these mechanisms can lead to severe data loss for applications that rely on persistent storage. This paper presents a new synthesis-aided programming model for building crash-consistent storage systems. In this approach, storage systems can assume an angelic crash-consistency model, where the underlying storage stack promises to resolve crashes in favor of consistency whenever possible. To realize this model, we introduce a new labeled writes interface for developers to identify their writes to disk, and develop a program synthesis tool, DepSynth, that generates dependency rules to enforce crash consistency over these labeled writes. We evaluate our model in a case study on a production storage system at Amazon Web Services. We find that DepSynth can automate crash consistency for this complex storage system, with similar results to existing expert-written code, and can automatically identify and correct consistency and performance issues.   
+
+  Cite as    
+ Jacob Van Geffen, Xi Wang, Emina Torlak, and James Bornholt. Synthesis-Aided Crash Consistency for Storage Systems. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 35:1-35:26, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{vangeffen_et_al:LIPIcs.ECOOP.2023.35 author = {Van Geffen, Jacob and Wang, Xi and Torlak, Emina and Bornholt, James}, title = {{Synthesis-Aided Crash Consistency for Storage Systems}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {35:1--35:26}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.35}, URN = {urn:nbn:de:0030-drops-182285}, doi = {10.4230/LIPIcs.ECOOP.2023.35}, annote = {Keywords: program synthesis, crash consistency, file systems} }  @InProceedings{vangeffen_et_al:LIPIcs.ECOOP.2023.35 author = {Van Geffen, Jacob and Wang, Xi and Torlak, Emina and Bornholt, James}, title = {{Synthesis-Aided Crash Consistency for Storage Systems}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {35:1--35:26}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.35}, URN = {urn:nbn:de:0030-drops-182285}, doi = {10.4230/LIPIcs.ECOOP.2023.35}, annote = {Keywords: program synthesis, crash consistency, file systems} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.36    
+
+ Synthesizing Conjunctive Queries for Code Search   
+ Authors:  Chengpeng Wang, Peisen Yao, Wensheng Tang, Gang Fan, and Charles Zhang  
+  Abstract    
+ This paper presents Squid, a new conjunctive query synthesis algorithm for searching code with target patterns. Given positive and negative examples along with a natural language description, Squid analyzes the relations derived from the examples by a Datalog-based program analyzer and synthesizes a conjunctive query expressing the search intent. The synthesized query can be further used to search for desired grammatical constructs in the editor. To achieve high efficiency, we prune the huge search space by removing unnecessary relations and enumerating query candidates via refinement. We also introduce two quantitative metrics for query prioritization to select the queries from multiple candidates, yielding desired queries for code search. We have evaluated Squid on over thirty code search tasks. It is shown that Squid successfully synthesizes the conjunctive queries for all the tasks, taking only 2.56 seconds on average.   
+
+  Cite as    
+ Chengpeng Wang, Peisen Yao, Wensheng Tang, Gang Fan, and Charles Zhang. Synthesizing Conjunctive Queries for Code Search. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 36:1-36:30, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{wang_et_al:LIPIcs.ECOOP.2023.36 author = {Wang, Chengpeng and Yao, Peisen and Tang, Wensheng and Fan, Gang and Zhang, Charles}, title = {{Synthesizing Conjunctive Queries for Code Search}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {36:1--36:30}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.36}, URN = {urn:nbn:de:0030-drops-182294}, doi = {10.4230/LIPIcs.ECOOP.2023.36}, annote = {Keywords: Query Synthesis, Multi-modal Program Synthesis, Code Search} }  @InProceedings{wang_et_al:LIPIcs.ECOOP.2023.36 author = {Wang, Chengpeng and Yao, Peisen and Tang, Wensheng and Fan, Gang and Zhang, Charles}, title = {{Synthesizing Conjunctive Queries for Code Search}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {36:1--36:30}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.36}, URN = {urn:nbn:de:0030-drops-182294}, doi = {10.4230/LIPIcs.ECOOP.2023.36}, annote = {Keywords: Query Synthesis, Multi-modal Program Synthesis, Code Search} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.37    
+
+ Do Machine Learning Models Produce TypeScript Types That Type Check?   
+ Authors:  Ming-Ho Yee and Arjun Guha  
+  Abstract    
+ Type migration is the process of adding types to untyped code to gain assurance at compile time. TypeScript and other gradual type systems facilitate type migration by allowing programmers to start with imprecise types and gradually strengthen them. However, adding types is a manual effort and several migrations on large, industry codebases have been reported to have taken several years. In the research community, there has been significant interest in using machine learning to automate TypeScript type migration. Existing machine learning models report a high degree of accuracy in predicting individual TypeScript type annotations. However, in this paper we argue that accuracy can be misleading, and we should address a different question: can an automatic type migration tool produce code that passes the TypeScript type checker? We present TypeWeaver, a TypeScript type migration tool that can be used with an arbitrary type prediction model. We evaluate TypeWeaver with three models from the literature: DeepTyper, a recurrent neural network; LambdaNet, a graph neural network; and InCoder, a general-purpose, multi-language transformer that supports fill-in-the-middle tasks. Our tool automates several steps that are necessary for using a type prediction model, including (1) importing types for a project’s dependencies; (2) migrating JavaScript modules to TypeScript notation; (3) inserting predicted type annotations into the program to produce TypeScript when needed; and (4) rejecting non-type predictions when needed. We evaluate TypeWeaver on a dataset of 513 JavaScript packages, including packages that have never been typed before. With the best type prediction model, we find that only 21% of packages type check, but more encouragingly, 69% of files type check successfully.   
+
+  Cite as    
+ Ming-Ho Yee and Arjun Guha. Do Machine Learning Models Produce TypeScript Types That Type Check?. In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 37:1-37:28, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{yee_et_al:LIPIcs.ECOOP.2023.37 author = {Yee, Ming-Ho and Guha, Arjun}, title = {{Do Machine Learning Models Produce TypeScript Types That Type Check?}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {37:1--37:28}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.37}, URN = {urn:nbn:de:0030-drops-182307}, doi = {10.4230/LIPIcs.ECOOP.2023.37}, annote = {Keywords: Type migration, deep learning} }  @InProceedings{yee_et_al:LIPIcs.ECOOP.2023.37 author = {Yee, Ming-Ho and Guha, Arjun}, title = {{Do Machine Learning Models Produce TypeScript Types That Type Check?}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {37:1--37:28}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.37}, URN = {urn:nbn:de:0030-drops-182307}, doi = {10.4230/LIPIcs.ECOOP.2023.37}, annote = {Keywords: Type migration, deep learning} }    
+
+  Document   
+ Experience Paper   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.38    
+
+ Building Code Transpilers for Domain-Specific Languages Using Program Synthesis (Experience Paper)   
+ Authors:  Sahil Bhatia, Sumer Kohli, Sanjit A. Seshia, and Alvin Cheung  
+  Abstract    
+ Domain-specific languages (DSLs) are prevalent across many application domains. Such languages let developers easily express computations using high-level abstractions that result in performant implementations. To leverage DSLs, however, application developers need to master the DSL’s syntax and manually rewrite existing code. Compilers can aid in this effort, but part of building a compiler requires transpiling code from the source code to the target DSL. Such transpilation is typically done via pattern-matching rules on the source code. Sadly, developing such rules is often a painstaking and error-prone process. In this paper, we describe our experience in using program synthesis to build code transpilers. To do so, we developed MetaLift, a new framework for building transpilers that transform general-purpose code into DSLs using program synthesis. To use MetaLift, transpiler developers first define the target DSL’s semantics using MetaLift’s specification language, and specify the search space for each input code fragment to be transpiled using MetaLift’s API. MetaLift then leverages program synthesizers and theorem provers to automatically find transpilations expressed in the target DSL that is provably semantic equivalent to the input code. We have used MetaLift to build three DSL transpilers targeting different programming models and application domains. Our results show that the MetaLift-based compilers can translate many benchmarks used in prior work created by specialized implementations, but can be built using orders-of-magnitude fewer lines of code as compared to prior work.   
+
+  Cite as    
+ Sahil Bhatia, Sumer Kohli, Sanjit A. Seshia, and Alvin Cheung. Building Code Transpilers for Domain-Specific Languages Using Program Synthesis (Experience Paper). In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 38:1-38:30, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{bhatia_et_al:LIPIcs.ECOOP.2023.38 author = {Bhatia, Sahil and Kohli, Sumer and Seshia, Sanjit A. and Cheung, Alvin}, title = {{Building Code Transpilers for Domain-Specific Languages Using Program Synthesis}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {38:1--38:30}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.38}, URN = {urn:nbn:de:0030-drops-182316}, doi = {10.4230/LIPIcs.ECOOP.2023.38}, annote = {Keywords: Program Synthesis, Code Transpilation, DSLs, Verification} }  @InProceedings{bhatia_et_al:LIPIcs.ECOOP.2023.38 author = {Bhatia, Sahil and Kohli, Sumer and Seshia, Sanjit A. and Cheung, Alvin}, title = {{Building Code Transpilers for Domain-Specific Languages Using Program Synthesis}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {38:1--38:30}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.38}, URN = {urn:nbn:de:0030-drops-182316}, doi = {10.4230/LIPIcs.ECOOP.2023.38}, annote = {Keywords: Program Synthesis, Code Transpilation, DSLs, Verification} }    
+
+  Document   
+ Experience Paper   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.39    
+
+ Rust for Morello: Always-On Memory Safety, Even in Unsafe Code (Experience Paper)   
+ Authors:  Sarah Harris, Simon Cooksey, Michael Vollmer, and Mark Batty  
+  Abstract    
+ Memory safety issues are a serious concern in systems programming. Rust is a systems language that provides memory safety through a combination of a static checks embodied in the type system and ad hoc dynamic checks inserted where this analysis becomes impractical. The Morello prototype architecture from ARM uses capabilities, fat pointers augmented with object bounds information, to catch failures of memory safety. This paper presents a compiler from Rust to the Morello architecture, together with a comparison of the performance of Rust’s runtime safety checks and the hardware-supported checks of Morello. The cost of Morello’s always-on memory safety guarantees is 39% in our 19 benchmark suites from the Rust crates repository (comprising 870 total benchmarks). For this cost, Morello’s capabilities ensure that even unsafe Rust code benefits from memory safety guarantees.   
+
+  Cite as    
+ Sarah Harris, Simon Cooksey, Michael Vollmer, and Mark Batty. Rust for Morello: Always-On Memory Safety, Even in Unsafe Code (Experience Paper). In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 39:1-39:27, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{harris_et_al:LIPIcs.ECOOP.2023.39 author = {Harris, Sarah and Cooksey, Simon and Vollmer, Michael and Batty, Mark}, title = {{Rust for Morello: Always-On Memory Safety, Even in Unsafe Code}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {39:1--39:27}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.39}, URN = {urn:nbn:de:0030-drops-182322}, doi = {10.4230/LIPIcs.ECOOP.2023.39}, annote = {Keywords: Compilers, Rust, Memory Safety, CHERI} }  @InProceedings{harris_et_al:LIPIcs.ECOOP.2023.39 author = {Harris, Sarah and Cooksey, Simon and Vollmer, Michael and Batty, Mark}, title = {{Rust for Morello: Always-On Memory Safety, Even in Unsafe Code}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {39:1--39:27}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.39}, URN = {urn:nbn:de:0030-drops-182322}, doi = {10.4230/LIPIcs.ECOOP.2023.39}, annote = {Keywords: Compilers, Rust, Memory Safety, CHERI} }    
+
+  Document   
+ Experience Paper   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.40    
+
+ On Using VeriFast, VerCors, Plural, and KeY to Check Object Usage (Experience Paper)   
+ Authors:  João Mota, Marco Giunti, and António Ravara  
+  Abstract    
+ Typestates are a notion of behavioral types that describe protocols for stateful objects, specifying the available methods for each state. Ensuring methods are called in the correct order (protocol compliance), and that, if and when the program terminates, all objects are in the final state (protocol completion) is crucial to write better and safer programs. Objects of this kind are commonly shared among different clients or stored in collections, which may also be shared. However, statically checking protocol compliance and completion when objects are shared is challenging. To evaluate the support given by state of the art verification tools in checking the correct use of shared objects with protocol, we present a survey on four tools for Java: VeriFast, VerCors, Plural, and KeY. We describe the implementation of a file reader, linked-list, and iterator, check for each tool its ability to statically guarantee protocol compliance and completion, even when objects are shared in collections, and evaluate the programmer’s effort in making the code acceptable to these tools. With this study, we motivate the need for lightweight methods to verify the presented kinds of programs.   
+
+  Cite as    
+ João Mota, Marco Giunti, and António Ravara. On Using VeriFast, VerCors, Plural, and KeY to Check Object Usage (Experience Paper). In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 40:1-40:29, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{mota_et_al:LIPIcs.ECOOP.2023.40 author = {Mota, Jo\~{a}o and Giunti, Marco and Ravara, Ant\'{o}nio}, title = {{On Using VeriFast, VerCors, Plural, and KeY to Check Object Usage}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {40:1--40:29}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.40}, URN = {urn:nbn:de:0030-drops-182330}, doi = {10.4230/LIPIcs.ECOOP.2023.40}, annote = {Keywords: Java, Typestates, VeriFast, VerCors, Plural, KeY} }  @InProceedings{mota_et_al:LIPIcs.ECOOP.2023.40 author = {Mota, Jo\~{a}o and Giunti, Marco and Ravara, Ant\'{o}nio}, title = {{On Using VeriFast, VerCors, Plural, and KeY to Check Object Usage}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {40:1--40:29}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.40}, URN = {urn:nbn:de:0030-drops-182330}, doi = {10.4230/LIPIcs.ECOOP.2023.40}, annote = {Keywords: Java, Typestates, VeriFast, VerCors, Plural, KeY} }    
+
+  Document   
+ Pearl/Brave New Idea   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.41    
+
+ The Dolorem Pattern: Growing a Language Through Compile-Time Function Execution (Pearl/Brave New Idea)   
+ Authors:  Simon Henniger and Nada Amin  
+  Abstract    
+ Programming languages are often designed as static, monolithic units. As a result, they are inflexible. We show a new mechanism of programming language design that allows to more flexible languages: by using compile-time function execution and metaprogramming, we implement a language mostly in itself. Our approach is usable for creating feature-rich, yet low-overhead system programming languages. We illustrate it on two systems, one that lowers to C and one that lowers to LLVM.   
+
+  Cite as    
+ Simon Henniger and Nada Amin. The Dolorem Pattern: Growing a Language Through Compile-Time Function Execution (Pearl/Brave New Idea). In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 41:1-41:27, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{henniger_et_al:LIPIcs.ECOOP.2023.41 author = {Henniger, Simon and Amin, Nada}, title = {{The Dolorem Pattern: Growing a Language Through Compile-Time Function Execution}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {41:1--41:27}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.41}, URN = {urn:nbn:de:0030-drops-182343}, doi = {10.4230/LIPIcs.ECOOP.2023.41}, annote = {Keywords: extensible languages, meta programming, macros, program generation, compilation} }  @InProceedings{henniger_et_al:LIPIcs.ECOOP.2023.41 author = {Henniger, Simon and Amin, Nada}, title = {{The Dolorem Pattern: Growing a Language Through Compile-Time Function Execution}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {41:1--41:27}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.41}, URN = {urn:nbn:de:0030-drops-182343}, doi = {10.4230/LIPIcs.ECOOP.2023.41}, annote = {Keywords: extensible languages, meta programming, macros, program generation, compilation} }    
+
+  Document   
+ Pearl/Brave New Idea   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.42    
+
+ Synthetic Behavioural Typing: Sound, Regular Multiparty Sessions via Implicit Local Types (Pearl/Brave New Idea)   
+ Authors:  Sung-Shik Jongmans and Francisco Ferreira  
+  Abstract    
+ Programming distributed systems is difficult. Multiparty session typing (MPST) is a method to automatically prove safety and liveness of protocol implementations relative to protocol specifications. In this paper, we introduce two new techniques to significantly improve the expressiveness of the MPST method: projection is based on implicit local types instead of explicit; type checking is based on the operational semantics of implicit local types instead of on the syntax. That is, the reduction relation on implicit local types is used not only "a posteriori" to prove type soundness (as usual), but also "a priori" to define the typing rules - synthetically. Classes of protocols that can now be specified/implemented/verified for the first time using the MPST method include: recursive protocols in which different roles participate in different branches; protocols in which a receiver chooses the sender of the first communication; protocols in which multiple roles synchronously choose both the sender and the receiver of a next communication, implemented as mixed input/output processes. We present the theory of the new techniques, as well as their future potential, and we demonstrate their present capabilities to effectively support regular expressions as global types (not possible before).   
+
+  Cite as    
+ Sung-Shik Jongmans and Francisco Ferreira. Synthetic Behavioural Typing: Sound, Regular Multiparty Sessions via Implicit Local Types (Pearl/Brave New Idea). In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 42:1-42:30, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{jongmans_et_al:LIPIcs.ECOOP.2023.42 author = {Jongmans, Sung-Shik and Ferreira, Francisco}, title = {{Synthetic Behavioural Typing: Sound, Regular Multiparty Sessions via Implicit Local Types}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {42:1--42:30}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.42}, URN = {urn:nbn:de:0030-drops-182358}, doi = {10.4230/LIPIcs.ECOOP.2023.42}, annote = {Keywords: behavioural types, multiparty session types, choreographies} }  @InProceedings{jongmans_et_al:LIPIcs.ECOOP.2023.42 author = {Jongmans, Sung-Shik and Ferreira, Francisco}, title = {{Synthetic Behavioural Typing: Sound, Regular Multiparty Sessions via Implicit Local Types}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {42:1--42:30}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.42}, URN = {urn:nbn:de:0030-drops-182358}, doi = {10.4230/LIPIcs.ECOOP.2023.42}, annote = {Keywords: behavioural types, multiparty session types, choreographies} }    
+
+  Document   
+ Pearl/Brave New Idea   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.43    
+
+ On the Rise of Modern Software Documentation (Pearl/Brave New Idea)   
+ Authors:  Marco Raglianti, Csaba Nagy, Roberto Minelli, Bin Lin, and Michele Lanza  
+  Abstract    
+ Classical software documentation, as it was conceived and intended decades ago, is not the only reality anymore. Official documentation from authoritative and official sources is being replaced by real-time collaborative platforms and ecosystems that have seen a surge, influenced by changes in society, technology, and best practices. These modern tools influence the way developers document the conception, design, and implementation of software. As a by-product of these shifts, developers are changing their way of communicating about software. Where once official documentation stood as the only truth about a project, we now find a multitude of volatile and heterogeneous documentation sources, forming a complex and ever-changing documentation landscape. Software projects often include a top-level README file with important information, which we leverage to identify their documentation landscape. Starting from ∼12K GitHub repositories, we mine their README files to extract links to additional documentation sources. We present a qualitative analysis, revealing multiple dimensions of the documentation landscape (e.g., content type, source type), highlighting important insights. By analyzing instant messaging application links (e.g., Gitter, Slack, Discord) in the histories of README files, we show how this part of the landscape has grown and evolved in the last decade. Our findings show that modern documentation encompasses communication platforms, which are exploding in popularity. This is not a passing phenomenon: On the contrary, it entails a number of unknowns and socio-technical problems the research community is currently ill-prepared to tackle.   
+
+  Cite as    
+ Marco Raglianti, Csaba Nagy, Roberto Minelli, Bin Lin, and Michele Lanza. On the Rise of Modern Software Documentation (Pearl/Brave New Idea). In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 43:1-43:24, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{raglianti_et_al:LIPIcs.ECOOP.2023.43 author = {Raglianti, Marco and Nagy, Csaba and Minelli, Roberto and Lin, Bin and Lanza, Michele}, title = {{On the Rise of Modern Software Documentation}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {43:1--43:24}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.43}, URN = {urn:nbn:de:0030-drops-182369}, doi = {10.4230/LIPIcs.ECOOP.2023.43}, annote = {Keywords: software documentation landscape, GitHub README, instant messaging} }  @InProceedings{raglianti_et_al:LIPIcs.ECOOP.2023.43 author = {Raglianti, Marco and Nagy, Csaba and Minelli, Roberto and Lin, Bin and Lanza, Michele}, title = {{On the Rise of Modern Software Documentation}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {43:1--43:24}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.43}, URN = {urn:nbn:de:0030-drops-182369}, doi = {10.4230/LIPIcs.ECOOP.2023.43}, annote = {Keywords: software documentation landscape, GitHub README, instant messaging} }    
+
+  Document   
+ Pearl/Brave New Idea   
+ DOI: 10.4230/LIPIcs.ECOOP.2023.44    
+
+ Python Type Hints Are Turing Complete (Pearl/Brave New Idea)   
+ Authors:  Ori Roth  
+  Abstract    
+ Grigore proved that Java generics are Turing complete by describing a reduction from Turing machines to Java subtyping. Furthermore, he demonstrated that his "subtyping machines" could have metaprogramming applications if not for their extremely high compilation times. The current work reexamines Grigore’s study in the context of another prominent programming language - Python. We show that the undecidable Java fragment used in Grigore’s construction is included in Python’s type system, making it Turing complete. In contrast to Java, Python type hints are checked by third-party static analyzers and run-time type checkers. The new undecidability result means that both kinds of type checkers cannot fully incorporate Python’s type system and guarantee termination. The paper includes a survey of infinite subtyping cycles in various type checkers and type reification in different Python distributions. In addition, we present an alternative reduction in which the Turing machines are simulated in real time, resulting in a significantly faster compilation. Our work is accompanied by a Python implementation of both reductions that compiles Turing machines into Python subtyping machines.   
+
+  Cite as    
+ Ori Roth. Python Type Hints Are Turing Complete (Pearl/Brave New Idea). In 37th European Conference on Object-Oriented Programming (ECOOP 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 263, pp. 44:1-44:15, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{roth:LIPIcs.ECOOP.2023.44 author = {Roth, Ori}, title = {{Python Type Hints Are Turing Complete}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {44:1--44:15}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.44}, URN = {urn:nbn:de:0030-drops-182372}, doi = {10.4230/LIPIcs.ECOOP.2023.44}, annote = {Keywords: nominal Subtyping with Variance, Python} }  @InProceedings{roth:LIPIcs.ECOOP.2023.44 author = {Roth, Ori}, title = {{Python Type Hints Are Turing Complete}}, booktitle = {37th European Conference on Object-Oriented Programming (ECOOP 2023)}, pages = {44:1--44:15}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-281-5}, ISSN = {1868-8969}, year = {2023}, volume = {263}, editor = {Ali, Karim and Salvaneschi, Guido}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2023.44}, URN = {urn:nbn:de:0030-drops-182372}, doi = {10.4230/LIPIcs.ECOOP.2023.44}, annote = {Keywords: nominal Subtyping with Variance, Python} }    
+
+ Filters  
+
+ Authors 
+   Show All  Collapse 
+  Show All 
+  A 
+  Adão, Pedro 
+  Ali, Karim 
+  Amin, Nada 
+  Arceri, Vincenzo 
+  B 
+  Barwell, Adam D. 
+  Batty, Mark 
+  Bauwens, Jim 
+  Bhatia, Sahil 
+  Bianchini, Riccardo 
+  Bieniusa, Annette 
+  Birkedal, Lars 
+  Böhler, Timon 
+  Bornholt, James 
+  Botelho Guerra, Henrique 
+  Brandl, Katharina 
+  C 
+  Castrillon, Jeronimo 
+  Castro-Perez, David 
+  Cecchetti, Ethan 
+  Chandramohan, Mahin 
+  Cheung, Alvin 
+  Cogumbreiro, Tiago 
+  Cooksey, Simon 
+  Cortesi, Agostino 
+  Costa Seco, João 
+  Cronjäger, Caroline 
+  Cruz-Filipe, Luís 
+  D 
+  Daby-Seesaram, Arnaud 
+  Dagnino, Francesco 
+  de Muijnck-Hughes, Jan 
+  De Porre, Kevin 
+  Dietrich, Jens 
+  E 
+  Erdweg, Sebastian 
+  Ertel, Sebastian 
+  F 
+  Fan, Andong 
+  Fan, Gang 
+  Ferrara, Pietro 
+  Ferreira, Carla 
+  Ferreira, Francisco 
+  Ferreira, João F. 
+  Foster, Nate 
+  Fragoso Santos, José 
+  G 
+  Gardner, Philippa 
+  Ghorbani, Mahdi 
+  Giannini, Paola 
+  Giunti, Marco 
+  Gondelman, Léon 
+  Gonzalez Boix, Elisa 
+  Graversen, Eva 
+  Guha, Arjun 
+  H 
+  Haas, Julian 
+  Hansen, Nils 
+  Harris, Sarah 
+  He, Paul 
+  Henniger, Simon 
+  Hirsch, Andrew K. 
+  Hou, Ping 
+  J 
+  Jagannathan, Suresh 
+  Jin, Feiyang 
+  Jongmans, Sung-Shik 
+  K 
+  Keidel, Sven 
+  Kidane, Ellen 
+  Koch, Caleb 
+  Kohli, Sumer 
+  Kuessner, Christian 
+  Kuhn, Roland 
+  L 
+  Lanza, Michele 
+  Lhoták, Ondřej 
+  Li, Yannan 
+  Lin, Bin 
+  Lööw, Andreas 
+  Lugović, Lovro 
+  Lutze, Matthew 
+  M 
+  Madsen, Magnus 
+  Maksimović, Petar 
+  Melgratti, Hernán 
+  Mezini, Mira 
+  Minelli, Roberto 
+  Mishra, Ashish 
+  Moeller, Mark 
+  Mogk, Ragnar 
+  Montesi, Fabrizio 
+  Mota, João 
+  N 
+  Nagy, Csaba 
+  Naumann, David A. 
+  Negrini, Luca 
+  Nieto, Abel 
+  O 
+  Oliveira, Bruno C. d. S. 
+  Olivieri, Luca 
+  P 
+  Parreaux, Lionel 
+  Pearce, David J. 
+  Peressotti, Marco 
+  Pina, Luís 
+  R 
+  Raglianti, Marco 
+  Ramos, Frederico 
+  Ravara, António 
+  Richter, David 
+  Roth, Ori 
+  Rumsevicius, Ugnius 
+  S 
+  Sabino, Nuno 
+  Salvaneschi, Guido 
+  Sarkar, Vivek 
+  Scott, Ryan 
+  Seshia, Sanjit A. 
+  Shahrokhi, Hesam 
+  Shaikhha, Amir 
+  Shirako, Jun 
+  Silva, Alexandra 
+  Silver, Lucas 
+  Solko-Breslin, Alaia 
+  Spoto, Fausto 
+  Starup, Jonathan Lindegaard 
+  Stutz, Felix 
+  Suchert, Felix 
+  Sutherland, Julian 
+  T 
+  Tagliaferro, Fabio 
+  Tan, Jinhao 
+  Tang, Wensheng 
+  Timany, Amin 
+  Torlak, Emina 
+  Tuosto, Emilio 
+  V 
+  van de Pol, Jaco 
+  Van Geffen, Jacob 
+  Vanderbauwhede, Wim 
+  Venkateshwaran, Siddhanth 
+  Vollmer, Michael 
+  W 
+  Wang, Chao 
+  Wang, Chengpeng 
+  Wang, Xi 
+  Weisenburger, Pascal 
+  Westbrook, Eddy 
+  Wickert, Anna-Katharina 
+  Wiener, Thomas 
+  Y 
+  Yacavone, Matthew 
+  Yanakieva, Elena 
+  Yao, Peisen 
+  Yee, Ming-Ho 
+  Yoshida, Nobuko 
+  Yu, Lechen 
+  Z 
+  Zdancewic, Steve 
+  Zeidler, Lisza 
+  Zhang, Charles 
+  Zhou, Fangyi 
+  Zucca, Elena 
+
+  Subjects 
+   Show All  Collapse 
+  Show All 
+  Computer systems organization 
+  Computer systems organization → Availability 
+  Computer systems organization → Dependable and fault-tolerant systems and networks 
+  Computer systems organization → Distributed architectures 
+  Computer systems organization → Peer-to-peer architectures 
+  Computer systems organization → Secondary storage organization 
+  Computer systems organization → Single instruction, multiple data 
+  Computing methodologies 
+  Computing methodologies → Concurrent programming languages 
+  Computing methodologies → Distributed programming languages 
+  General and reference 
+  General and reference → Evaluation 
+  Human-centered computing 
+  Human-centered computing → Collaborative and social computing 
+  Human-centered computing → User interface programming 
+  Information systems 
+  Information systems → Data management systems 
+  Security and privacy 
+  Security and privacy → Cryptography 
+  Security and privacy → Distributed systems security 
+  Security and privacy → Formal methods and theory of security 
+  Security and privacy → Information flow control 
+  Security and privacy → Logic and verification 
+  Software and its engineering 
+  Software and its engineering 
+  Software and its engineering → Automated static analysis 
+  Software and its engineering → Automatic programming 
+  Software and its engineering → Collaboration in software development 
+  Software and its engineering → Compilers 
+  Software and its engineering → Concurrent programming languages 
+  Software and its engineering → Concurrent programming structures 
+  Software and its engineering → Consistency 
+  Software and its engineering → Data flow languages 
+  Software and its engineering → Distributed programming languages 
+  Software and its engineering → Distributed systems organizing principles 
+  Software and its engineering → Domain specific languages 
+  Software and its engineering → Dynamic analysis 
+  Software and its engineering → Formal software verification 
+  Software and its engineering → Functional languages 
+  Software and its engineering → General programming languages 
+  Software and its engineering → Language features 
+  Software and its engineering → Maintaining software 
+  Software and its engineering → Middleware 
+  Software and its engineering → Object oriented languages 
+  Software and its engineering → Parallel programming languages 
+  Software and its engineering → Reflective middleware 
+  Software and its engineering → Search-based software engineering 
+  Software and its engineering → Software creation and management 
+  Software and its engineering → Software defect analysis 
+  Software and its engineering → Software notations and tools 
+  Software and its engineering → Software reliability 
+  Software and its engineering → Software safety 
+  Software and its engineering → Software testing and debugging 
+  Software and its engineering → Software verification and validation 
+  Software and its engineering → Source code generation 
+  Software and its engineering → Synchronization 
+  Software and its engineering → System modeling languages 
+  Theory of computation 
+  Theory of computation → Abstraction 
+  Theory of computation → Active learning 
+  Theory of computation → Automated reasoning 
+  Theory of computation → Concurrency 
+  Theory of computation → Constraint and logic programming 
+  Theory of computation → Data structures design and analysis 
+  Theory of computation → Denotational semantics 
+  Theory of computation → Distributed algorithms 
+  Theory of computation → Distributed computing models 
+  Theory of computation → Hoare logic 
+  Theory of computation → Lambda calculus 
+  Theory of computation → Logic and verification 
+  Theory of computation → Parallel computing models 
+  Theory of computation → Pre- and post-conditions 
+  Theory of computation → Process calculi 
+  Theory of computation → Program analysis 
+  Theory of computation → Program reasoning 
+  Theory of computation → Program semantics 
+  Theory of computation → Program specifications 
+  Theory of computation → Program verification 
+  Theory of computation → Programming logic 
+  Theory of computation → Separation logic 
+  Theory of computation → Type structures 
+  Theory of computation → Type theory 
+
+  Questions / Remarks / Feedback   X  Feedback for Dagstuhl Publishing  
+     
+  Send    
+   
+  Thanks for your feedback!  
+ Feedback submitted   
+ OK    
+  Could not send message  
+ Please try again later or send an E-mail    
+ OK    
+   About DROPS  
+ Schloss Dagstuhl - Leibniz Center for Informatics has been operating the Dagstuhl Research Online Publication Server (short: DROPS) since 2004. DROPS enables publication of the latest research findings in a fast, uncomplicated manner, in addition to providing unimpeded, open access to them. All the requisite metadata on each publication is administered in accordance with general guidelines pertaining to online publications (cf. Dublin Core). This enables the online publications to be authorized for citation and made accessible to a wide readership on a permanent basis. Access is free of charge for readers following the open access idea which fosters unimpeded access to scientific publications.  
+   
+ Instructions for Authors  
+ Dagstuhl Series   
+  LIPIcs 
+  OASIcs 
+  Dagstuhl Follow-Ups 
+    
+ Dagstuhl Journals   
+  DARTS – Dagstuhl Artifacts Series 
+  Dagstuhl Reports 
+  Dagstuhl Manifestos 
+  LITES 
+  TGDK – Transactions on Graph Data and Knowledge 
+
+ Instructions for Editors  
+ Dagstuhl Series   
+  LIPIcs 
+  OASIcs 
+  Dagstuhl Follow-Ups 
+    
+ Dagstuhl Journals   
+  DARTS – Dagstuhl Artifacts Series 
+  Dagstuhl Reports 
+  Dagstuhl Manifestos 
+  LITES 
+  TGDK – Transactions on Graph Data and Knowledge 
+
+ © 2023-2024 Schloss Dagstuhl – LZI GmbH  Imprint  Privacy  Contact

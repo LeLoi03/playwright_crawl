@@ -1,0 +1,13 @@
+2023  
+  SIAM Conference on Optimization  
+  Tutorial on Riemannian Optimization  
+  Nicolas Boumal    
+
+ This is the resource page for a minitutorial at SIAM OP 2023  in Seattle, WA (June 3rd). The format is two lectures of 90 minutes each.  
+ Here are the slides used during the tutorial  .  
+ These are the Manopt example codes for Max-Cut  in Matlab.  
+ The tutorial builds on my book published by Cambridge University Press  , 2023.  
+ Go to the book webpage  for more info the free pre-publication pdf, lecture material (videos and slides of a full semester course) and exercises with solutions.  
+ For software, check out the Manopt toolboxes, in Matlab  , Python  and Julia  . You can also find a list of much more Riemannian optimization software here  .  
+
+ Last update: June 4, 2023.

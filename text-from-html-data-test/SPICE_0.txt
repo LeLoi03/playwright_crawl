@@ -1,0 +1,206 @@
+Search  Software  Quality      Search the TechTarget Network      Login   Register     
+ Explore the Network  TechTarget Network 
+  Cloud Computing 
+  App Architecture 
+  IT Operations 
+  TheServerSide 
+  AWS 
+    
+ Search  Software  Quality 
+  SDLC 
+  Software Design & Development 
+  Software Development Methodologies 
+  Team Structure & Skills 
+  Test Types 
+  More Topics | Testing Tools & Techniques | Other Content  News 
+  Features 
+  Tips 
+  Webinars 
+  2024 IT Salary Survey Results 
+  Sponsored Sites 
+  More | Answers 
+  Conference Guides 
+  Definitions 
+  Opinions 
+  Podcasts 
+  Quizzes 
+  Tech Accelerators 
+  Tutorials 
+  Videos 
+  Follow: 
+
+ Home 
+  Agile, DevOps and software development methodologies 
+
+ Definition  Software Process Improvement and Capability Determination (SPICE)  
+
+ Share this item with your network: 
+
+ By  Rahul Awati 
+
+  What is Software Process Improvement and Capability Determination (SPICE)?  
+ Software Process Improvement and Capability Determination (SPICE) is an international framework to assess software development  processes. SPICE was developed jointly by International Organization for Standardization ( ISO  ) and the International Electrotechnical Commission (IEC). SPICE is specified in ISO/IEC 15504.  
+  
+  The need for an international software standard  
+ The goal of any company developing software is to produce high-quality software  using a productive and efficient team. However, this doesn't always happen due to gaps or inefficiencies in existing development processes -- issues that development teams  are not always aware of.  
+ Lacking information about the what is  state, development teams cannot initiate improvements to reach a what should be  state. That is why undertaking a detailed assessment of the software development process is important. Ideally, this assessment should follow internationally accepted frameworks  and standards.  
+ Here are some benefits of adopting an international standard:  
+ Organizations can harmonize existing approaches to software process assessments. 
+  Software developers and suppliers can submit one comprehensive process assessment scheme rather than submit numerous schemes. 
+  Organizations can initiate and sustain | continuous improvements | in software processes. 
+  Program managers can ensure alignment between software in development and | organizational goals | and needs. 
+  ISO/IEC provides a suite of standards to undertake such an assessment in a systematic manner. These standards were developed under the SPICE project.  
+
+  SPICE goals, objectives and benefits  
+ People from more than 20 countries were involved in SPICE development. Their primary goal was to develop a consistent and validated framework for software process assessment to improve the quality and productivity of software development processes.  
+ The SPICE standard creates a way to measure process capability and describe the preferred order in which activities should occur in a software development project. At the same time, it avoids a specific improvement approach as in other models, like the Capability Maturity Model  . SPICE emphasizes an organization's management and process definition structures.  
+ The primary goal of SPICE, and ISO/IEC 15504, is to help organizations and software development teams achieve process improvement  based on rigorous definitions of objectives and programs to attain these objectives. It brings numerous benefits to software suppliers, acquirers and assessors.  
+ For software suppliers, SPICE helps determine the capabilities of their own software processes. It helps them create a clear roadmap that highlights the gaps and areas of improvement in software processes. It also helps software suppliers  set priorities to better manage their improvement initiatives.  
+ Software acquirers can use SPICE to determine software suppliers' processes and gauge their overall current and potential capability before investing in a supplier or their software.  
+ For process assessors, SPICE provides a systematic and standardized framework to articulate the various aspects of assessments to be conducted on developed software.  
+  
+  How different organizations can use SPICE  
+ Organizations can use the SPICE standard in three modes:  
+ Capability determination mode. | For purchasing organizations to determine the capability of a potential software supplier. 
+  Process improvement mode. | For software organizations to improve their development and | maintenance 
+  Self-assessment mode. | For software organizations to assess their ability to implement a new | software project | . 
+  Any company that uses the SPICE standard can get maximum benefits by first defining their why  :  
+ to understand a software process 
+  to initiate process improvement 
+  to determine process capability 
+    The SPICE reference model is divided into three modes and includes two dimensions: process and capability. Process is divided into five categories, and each process category is defined by six capability levels.     
+   
+  SPICE explained  
+ As part of ISO/IEC 15504, the SPICE standard is organized around a reference model that is divided into two dimensions: process and capability.  
+ Processes are divided into five categories:  
+ Customer-Supplier. | Processes that directly impact the customer and enable the correct use of the software product. 
+  Engineering. | Processes that directly specify, implement or maintain a | software and its | documentation | . 
+  Support. | Processes that support other processes on a software development project. 
+  Project. | Processes that establish the project and coordinate and | manage its resources. 
+  Organization. | Processes that establish business goals and develop assets to meet those goals. 
+  Each process is also defined by capability levels. A capability level is a set of common features or activities that work together to enhance an organization's or development team's capability to perform a process. Under SPICE, these capability levels are numbered from levels 0 to 5:  
+ 0: Not performed 
+  1: Performed informally 
+  2: Planned and tracked 
+  3: Well-defined 
+  4: Quantitatively controlled 
+  5: Continuously improving 
+  Process capabilities can also acquire process attributes, numbered c.x, where c is the capability level as mentioned above and x is a number associated with a specific, related attribute. Thus, 2.1 represents performance management, 2.2 represents work product management and so on.  
+ The SPICE standard provides a set of documents that are used as a framework to assess software processes. This SPICE document suite contains nine parts, which are explained below.  
+  
+  The SPICE document suite  
+ The SPICE document suite consists of a number of documents organizations can use during various software development phases, including -- but not limited to -- planning, development, monitoring, controlling, supply, support, etc.  
+   Parts 1-6 of the SPICE document suite address process assessment, while parts 7 and 8 address process improvement or process capability determination.     
+  Of the nine SPICE documents, parts 1-6 address aspects related to process assessment. Parts 7 and 8 address the use of process assessment for process improvement or process  
+  capability determination. Here is a brief look at these documents.  
+ Part 1 -- Concepts and introductory guide  
+ This document provides information on process assessment with respect to software. It explains its use in two ways: process improvement and process capability determination. It also provides a general overview on how to select and use the documents.  
+ Part 2 -- A model for process management  
+ This document defines various practices for good software engineering  . It describes various basic and generic processes used in the different phases of production. Basic practices are the essential activities of a specific process, while generic practices are the activities required to manage a process or improve its capability.  
+ Also known as the Baseline Practices Guide (BPG), this document categorizes processes into the five broad process categories explained above. In total, the BPG lists 35+ processes that fall under one of these five categories.  
+ Process capability levels are also described in the BPG. Capability levels help organizations identify the set of improvements that can be performed initially and acknowledges the dependencies among different process practices. The five capability levels are also highlighted earlier.  
+ Part 3 -- Rating processes  
+ This document describes the minimum requirements to conduct a software process assessment. These requirements ensure that the obtained output is consistent, representative and repeatable regarding the process instances assessed. They also help process assessors ensure that the assessment requirements have been met.  
+ Part 4 -- Guide to conducting assessment  
+ This document collects information on the current capability of the organization's processes. This part is initiated if there is a need to determine or improve process capability.  
+ The need for process improvement or capability determination leads to the initiation of process assessment. The output includes capability level ratings of selected processes. In case of process capability determination, the output provides information to help the organization identify, analyze and quantify its strength, weaknesses and risks.  
+ Part 5 -- Construction, selection and use of assessment instruments and tools  
+ This document lays down the requirements for constructing assessment instruments and provides guidance around the usability characteristics of these instruments. An assessment instrument is a tool to evaluate the adequacy or existence of practices. It enables an assessor to judge how well the practices have been implemented. It also helps them to record the collected information.  
+ Part 6 -- Qualification and training of assessors  
+ This document describes the assessor's competencies, education, training and experience. Whenever any software process is assessed using SPICE, at least one qualified assessor should be part of the assessment team. This person ensures that the assessment meets all requirements, checks the consistency of results, and confirms that other team members have the necessary specialized knowledge and skills  to carry out the assessment.  
+ Part 7 -- Guide for use in process improvement  
+ This document includes an overview of process improvement, a methodology for process improvement, the required cultural aspects for successful process improvement and the management perspective of process improvement. It acts as a guide to use process assessments to understand the current state of processes and to create process improvement plans.  
+ Part 8 -- Guide for use in determining supplier process capability  
+ This document provides guidance to utilize process assessment for process capability determination. Simply put, it is a systematic assessment and analysis of the selected software processes of a supplier to identify their strengths, weaknesses and risks to meet a particular software requirement.  
+ The guide presents approaches to determine both core process capability and extended process capability.  
+ Part 9 -- Vocabulary  
+ This document specifies the vocabulary, consisting of definitions, related terms and concepts used in the SPICE standard.  
+    
+ See  software development trends to watch for   and how demand is increasing for  low-code app development platforms   . Also, explore  software development and testing tips   and ways to  balance app innovation with app security   .   
+
+ This was last updated in January 2022    
+  
+  Continue Reading About Software Process Improvement and Capability Determination (SPICE)  
+ Tech giants foster green software engineering movement 
+  23 software development metrics to track today 
+  5 tips for stronger developer team management 
+  Software development must align with your business-side team 
+  Why development team membership should change regularly 
+
+ Related Terms  
+ What is a Waterfall model? Definition and guide   The Waterfall model is a linear, sequential approach to the software development lifecycle (SDLC) that is popular in software ... See complete definition    What is acceptance testing?   Acceptance testing is a quality assurance (QA) process that determines to what degree an application meets end users' approval. See complete definition    What is Jira?   Jira is an application lifecycle management (ALM) and Agile project management tool from Atlassian. See complete definition       
+  
+  Dig Deeper on Agile, DevOps and software development methodologies  
+ Mediterranean diet improves cardiometabolic health in children  
+   By: Veronica Salib 
+  Even plant-based ultra-processed foods are linked to higher CVD risk  
+   By: Veronica Salib 
+  Security continues to lag behind cloud app dev cycles  
+   By: Jon Oltsik 
+  Fear is the mind-killer: Governance key to safety in the cyber dunes 
+
+  Sponsored News   
+ Moving from retrospective to prospective denials management | –Solventum 
+  How to Level Up the Revenue Cycle Management Game Plan | –Greenway Health 
+  See More 
+   Vendor Resources   
+ Link Software Development to Measured Business Value Creation | –JBS Custom Software Solutions 
+  FDA warns the public about lead levels in cinnamon | –XtelligentMedia Healthcare 
+
+ Latest TechTarget resources   Cloud Computing 
+  Application Architecture 
+  IT Operations 
+  Java 
+  AWS 
+   
+   Cloud  Computing    12-step checklist for cloud migration success | Ready to move your on-premises apps to the cloud? From rehosting vs. redesigning to testing and monitoring, follow these key ... 
+  Microsoft Launches Azure Local for Hybrid Cloud, edge uses | Along with Azure Local, Microsoft launched a migration tool for enterprises that want to ditch their VMware by Broadcom VMs. 
+  How to migrate legacy applications to the cloud | Enticing as cloud benefits are, it takes a lot of research and planning to know all the risks and challenges before committing to... 
+    
+ Search  App  Architecture    Webhooks explained simply, with examples | Webhooks make significant use of basic API call mechanisms and set event triggers in a few clicks of a button -- all without the ... 
+  Managing complexity: Event-driven architecture explained | Event-driven architecture is complex, but so are today's data challenges. Discover ways to manage dynamic and distributed ... 
+  8 microservices best practices to remember | From integrating domain-driven design to securing APIs, explore a range of microservices best practices for building a resilient ... 
+    
+ Search  IT  Operations    WasmCloud makes strides with Wasm component model | After a stall in 2023, this year's WASI Preview 2 pushed server-side WebAssembly forward, turning heads at companies such as ... 
+  Rethinking 'secure by design' amid slippery SecOps shifts | An expert discusses the fallout from a CISA report that raised doubts about the last decade's DevSecOps trend, and where the ... 
+  IT pros revise pipelines for software supply chain security | Software supply chain security has reached an awkward stage for enterprise IT, as platform and security pros grapple with adding ... 
+    
+ The  Server  Side  .com    Know these top 5 Scrum antipatterns | Embrace sprints, set clear goals, engage with customers -- these behaviors and others will help your teams avoid common Scrum ... 
+  Top 10 Jenkins alternatives | Tired of the overhead of hosting your own Jenkins installation and looking for some alternatives? Here are 10 of the best. 
+  MySQL vs. PostgreSQL: Compare popular open source databases | This deep dive compares two popular open source database options, MySQL vs. PostgreSQL, across key categories including ... 
+    
+ Search  AWS    Compare Datadog vs. New Relic for IT monitoring in 2024 | Compare Datadog vs. New Relic capabilities including alerts, log management, incident management and more. Learn which tool is ... 
+  AWS Control Tower aims to simplify multi-account management | Many organizations struggle to manage their vast collection of AWS accounts, but Control Tower can help. The service automates ... 
+  Break down the Amazon EKS pricing model | There are several important variables within the Amazon EKS pricing model. Dig into the numbers to ensure you deploy the service ... 
+
+ About Us 
+  Editorial Ethics Policy 
+  Meet The Editors 
+  Contact Us 
+  Advertisers 
+  Partner with Us 
+  Media Kit 
+  Corporate Site 
+  Contributors 
+  Reprints 
+  Answers 
+  Definitions 
+  E-Products 
+  Events 
+  Features 
+  Guides 
+  Opinions 
+  Photo Stories 
+  Quizzes 
+  Tips 
+  Tutorials 
+  Videos 
+    
+ All Rights Reserved, Copyright 2006 - 2024  , TechTarget   
+   
+  Privacy Policy    
+  Cookie Preferences   
+   Cookie Preferences   
+   Do Not Sell or Share My Personal Information    
+
+ Close

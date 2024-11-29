@@ -1,0 +1,47 @@
+The Haskell Foundation   
+ Home  About   
+  News and Info | News  Blog  Press  Resources  FAQ 
+ 2023 GHC Contributors' Workshop  
+ A hands-on introduction to working on GHC, colocated with Zurihac 2023  
+ Location:  Rapperswil, Switzerland   
+ Dates:  June 7-9, 2023   
+ We are excited to announce the 2023 GHC Contributors’ Workshop, June 7-9 2023  , organized by the GHC developers, the Haskell Foundation, and the OST Eastern Switzerland University of Applied Sciences! This is a workshop for those who want to get started working on GHC, those who want to understand GHC’s internals to better diagnose issues with their own code, and those who want to transfer lessons learned in GHC to other compilers. The primary aim of the workshop is to broaden the base of contributors to GHC.  
+ In this three-day event, held on the lakeside campus of OST in lovely Rapperswil, Switzerland, you can learn what you need to know in order to get started working on GHC, right from the core team itself. Because the workshop is immediately prior to Zurihac 2023  , there will be time to work on your project and ask questions.  
+ In-Person Attendance  
+ In-person attendance is now full. For those who have already registered, practical details are listed below.  
+ Free Online Participation  
+ We will be using Zurihac’s Discord server as a chat platform and livestreaming YouTube. Please fill out this registration form  by June 5 in order to participate. Links to streams will be posted to the Discord server.  
+ The Workshop  
+ At this workshop, you can learn the ins and outs of working on GHC, including practical techniques for minimizing rebuilds and diagnosing compiler bugs. The fundamental concepts and idioms of key compiler subsystems will be presented, along with tips and tricks for understanding how they are working in a running compiler. This is a practical workshop: any theory presented will be in service of building things, and we expect that you will arrive with a checkout and build of the source tree ready to go.  
+ Additionally, the speakers will be available to answer questions and to provide mentorship during Zurihac itself, so this is a great opportunity to finish your first MR.  
+ We expect that participants already know Haskell and have worked on some form of programming language implementation in the past, whether as students, at work, or just for fun. Concepts such as parsing, type checking, unification, and code generation should be familiar, but we don’t expect participants to already be experts.  
+ Practical Information and Schedule  
+ The workshop will be held at the Rapperswil-Jona campus of OST  . It is right next to the Rapperswil train station, at Oberseestrasse 10  . The Zurihac 2023 site  has instructions for transportation between Rapperswil and Zürich.  
+ Preparation  
+ Swiss power adapter(s), if necessary 
+  Refillable water bottle 
+  Working account on | gitlab.haskell.org 
+  Checked out and built a recent GHC from source 
+  Checked out and built the JavaScript backend from source 
+ Please check this space for last minute program changes. As of now, the schedule is as follows:  
+ 2023-06-07 
+ 2023-06-08 
+ 2023-06-09 
+ All times are in CEST using a 24-hour clock. Speakers have been asked to plan appropriate breaks during their timeslots.  
+ We don’t expect every participant to attend every presentation. It’s perfectly acceptable to skip a topic that you’re less interested in so you can hack on a topic that you are interested in, taking advantage of ready access to GHC experts for hands-on assistance.  
+ Lunch and Refreshments  
+ Duncan Coutts, Well-Typed  
+ Duncan has been using Haskell since the end of the last century, founded a Haskell consultancy company fifteen years ago, and has had a hand in various Haskell libraries and tools over the years.  
+ Ryan Scott, Galois  
+ Participation  
+ Due to space constraints and to enable scholarships for student participants, there will be a fee for full on-site participation. Fees will be used to cover travel costs for presenters, other direct costs of running the event, and students who don’t have other funding to attend. The fee depends on participant category:  
+  All fees are in US dollars. We want the event to be as accessible as possible, given our limitations, so if the fee is a barrier to attending, please contact David Thrane Christiansen at david@haskell.foundation  to discuss a reduced or waived fee—this goes for all three categories of participant.  
+ A certificate of completion will be available on advance request to students who attend the entire event.  
+ Remote participation will make use of the Zurihac infrastructure. We will do our best to stream presentations and to post recordings as quickly as possible, and we will also have a chat system for remote participants.  
+ If you or your company would like to sponsor the event, enabling more students to have financial support to attend, please contact David Thrane Christiansen at david@haskell.foundation  .  
+ Applications for the event are now closed.  
+ Functors   
+ To learn more about the Haskell Foundation   
+ >> contact us    
+  2024 © Haskell Foundation, submit website bug reports and fixes on GitHub    
+ Haskell Foundation, Inc.   

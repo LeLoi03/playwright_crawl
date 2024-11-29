@@ -1,0 +1,403 @@
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    
+<a id="top"></a>
+
+<div class=" font--jakarta"><header class="wrapper white-scroll">  
+  <!-- NAVIGATION MENU -->
+          
+    <nav class="navbar navbar-expand-lg center-nav navbar-absolute navbar-default">
+      <div class="container flex-lg-row flex-nowrap align-items-center">
+        <div class="navbar-brand w-100 d-flex">
+	            <div class="site-branding">
+      <a href="/" title="Home" rel="home">
+      <img class="logo logo-dark" src="/sites/default/files/logo.png" alt="Home">
+	    <img class="logo logo-light" src="/themes/custom/martex/logo-white.png" alt="Home">
+    </a>
+      </div>
+
+
+          <div class="d-lg-none ms-auto">
+            <button class="hamburger offcanvas-nav-btn ms-auto"><span></span></button>
+          </div>
+        </div>
+        <div class="navbar-collapse offcanvas offcanvas-nav offcanvas-start">
+          <div class="offcanvas-header d-lg-none">
+            <h3 class="text-white fs-30 mb-0">International Telecommunication Networks and Applications Conference</h3>
+            <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+          </div>
+          <div class="offcanvas-body ms-lg-auto d-flex flex-column h-100">
+                
+        
+              <ul class="navbar-nav">
+              
+              <li class="nav-item">
+		      <a href="/" class="nav-link" data-drupal-link-system-path="<front>">Home</a>
+                    </li>
+          
+              <li class="nav-item">
+		      <a href="/about" class="nav-link" data-drupal-link-system-path="node/66">About Us</a>
+                    </li>
+          
+              <li class="nav-item expanded  dropdown has-dropdown active">
+		      <a href="" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Year</a>
+                                  <ul class="dropdown-menu">
+              
+              <li class="nav-item">
+          <a href="/2024/27-29-november-2024-unsw-sydney-australia" class="dropdown-item" data-drupal-link-system-path="node/78">2024</a>
+                    </li>
+          
+              <li class="nav-item active">
+          <a href="/2023/29-november-1-december-2023-melbourne-australia" class="dropdown-item is-active" data-drupal-link-system-path="node/243" aria-current="page">2023</a>
+                    </li>
+          
+              <li class="nav-item">
+          <a href="/2022/30-nov-2-dec-2022-wellington-new-zealand-0" class="dropdown-item" data-drupal-link-system-path="node/246">2022</a>
+                    </li>
+          
+              <li class="nav-item">
+          <a href="/2021/24-26-november-2021-university-new-south-wales-sydney-australia" class="dropdown-item" data-drupal-link-system-path="node/247">2021</a>
+                    </li>
+          
+              <li class="nav-item">
+          <a href="/2020/25-27-november-2020-melbourne-australia" class="dropdown-item" data-drupal-link-system-path="node/248">2020</a>
+                    </li>
+          
+              <li class="nav-item">
+          <a href="/2019/27-29-november-2019-auckland-university-technology-auckland-new-zealand" class="dropdown-item" data-drupal-link-system-path="node/249">2019</a>
+                    </li>
+          
+              <li class="nav-item">
+          <a href="/2018/21-23-november-2018-university-new-south-wales-sydney-australia" class="dropdown-item" data-drupal-link-system-path="node/250">2018</a>
+                    </li>
+          
+              <li class="nav-item">
+          <a href="/2017/22-24-november-2017-rendezvous-hotel-melbourne-australia" class="dropdown-item" data-drupal-link-system-path="node/251">2017</a>
+                    </li>
+          
+              <li class="nav-item">
+          <a href="/2016/7-9-december-2016-university-otago-dunedin-new-zealand" class="dropdown-item" data-drupal-link-system-path="node/252">2016</a>
+                    </li>
+          
+              <li class="nav-item">
+          <a href="/2015/keynote-speakers" class="dropdown-item" data-drupal-link-system-path="node/253">2015</a>
+                    </li>
+          
+              <li class="nav-item">
+          <a href="/2014/26-28-november-2014-melbourne-australia" class="dropdown-item" data-drupal-link-system-path="node/254">2014</a>
+                    </li>
+          
+              <li class="nav-item">
+          <a href="/2013/20-22-november-2013-christchurch-new-zealand" class="dropdown-item" data-drupal-link-system-path="node/375">2013</a>
+                    </li>
+          
+              <li class="nav-item">
+          <a href="/2012/atnac-2012-7-9th-november-2012-brisbane-australia" class="dropdown-item" data-drupal-link-system-path="node/256">2012</a>
+                    </li>
+          </ul>
+  
+              </li>
+          
+              <li class="nav-item">
+		      <a href="/contact" class="nav-link" data-drupal-link-system-path="node/69">Contact</a>
+                    </li>
+          
+              <li class="nav-item">
+		      <a href="https://edas.info/r32136" target="_blank" class="nav-link">Register</a>
+                    </li>
+          
+              <li class="nav-item">
+		      <a href="https://edas.info/N32136" target="_blank" class="nav-link">Submit Paper</a>
+                    </li>
+          </ul>
+  
+
+
+  
+
+            <div class="offcanvas-footer d-lg-none">
+              
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field--item"><div>
+                <a href="mailto:first.last@email.com" class="link-inverse">info@email.com</a>
+                <br> 00 (123) 456 78 90 <br>
+                <nav class="nav social social-white mt-4">
+                  <a href="#"><span class="flaticon-twitter color--white me-4"></span></a>
+                  <a href="#"><span class="flaticon-facebook color--white me-4"></span></a>
+                  <a href="#"><span class="flaticon-dribbble color--white me-4"></span></a>
+                  <a href="#"><span class="flaticon-instagram color--white me-4"></span></a>
+                  <a href="#"><span class="flaticon-youtube color--white me-4"></span></a>
+                </nav>
+                <!-- /.social -->
+              </div></div>
+      
+            </div>
+          </div>
+        </div>
+                <div class="navbar-other w-100 d-flex ms-auto">
+            <div class="ms-auto region region-navigation-other">
+    <nav role="navigation" aria-labelledby="block-martex-navigationother-menu" id="block-martex-navigationother" class="block block-menu navigation menu--navigation-other">
+            
+  <h2 class="visually-hidden" id="block-martex-navigationother-menu">Navigation other</h2>
+  
+
+        
+              <ul class="navbar-nav flex-row align-items-center ms-auto">
+              
+              <li class="nav-item">
+		      <a href="#offcanvas-search" class="d-none d-md-block nav-link-search" data-bs-toggle="offcanvas" data-bs-target="#offcanvas-search">Search</a>
+                    </li>
+          
+              <li class="nav-item">
+		      <a href="/contact" class="btn r-04 btn--theme hover--theme" data-drupal-link-system-path="node/69">Contact</a>
+                    </li>
+          </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+        </div>
+                <!--end of row-->
+      </div>
+      <!--end of container-->
+    </nav>
+    
+    <div class="offcanvas offcanvas-top bg-light" id="offcanvas-search" data-bs-scroll="true">
+    <div class="container d-flex flex-row py-6">
+      <div class="search-form w-100" id="search-form">
+        <form class="search-block-form search-form form-row" data-drupal-selector="search-block-form" action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+  
+
+
+
+
+        
+  <div class="js-form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label mb-4">
+          <label for="edit-keys" class="visually-hidden">Search</label>
+                    <input title="Enter the terms you wish to search for." placeholder="Type keyword and hit enter" data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search form-control">
+
+                      </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper mb-3" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" class="button js-form-submit form-submit btn btn-primary form-control">
+</div>
+
+</form>
+
+      </div>
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+    </div>
+  </div>
+</header>
+<!--end header navbar-->
+
+  <div role="main" id="main-container" class="main-container js-quickedit-main-content">
+    <div class="main-content col order-last" id="content" role="main">
+
+            
+                                <div class="region region-help">
+    <div data-drupal-messages-fallback="" class="hidden"></div>
+
+  </div>
+
+              
+                    <a id="main-content"></a>
+          <div id="block-martex-mainpagecontent" class="block block-system block-system-main-block clearfix">
+<div class="block-inner">
+  
+    
+
+      <article data-history-node-id="243" class="node node--type-landing-page landing-page is-promoted full clearfix">
+
+  
+    
+
+  
+  <div class="content">
+    
+
+
+            
+  <section class="paragraph paragraph--type--paragraph-section wrapper Key______note  sidebar__post  inner-page-hero paragraph--view-mode--default" data-content-align="align-items-start">
+    <div class="container space-md">
+              	
+                <div class="region--top">
+      
+    </div>
+    <div class="row gx-lg-8 gx-xl-12 gy-10">
+    <div class="col-lg-3">
+        <div class="paragraph paragraph--type--paragraph-content paragraph--view-mode--default">
+          
+            <div class="paragraph paragraph--type--paragraph-content paragraph--view-mode--default"><h3>LINKS</h3><ul><li><a class="is-active" href="https://itnac.veepixel.com/2023/29-november-1-december-2023-melbourne-australia">Home</a></li><li><a href="/2023/workshops">Workshops</a></li><li><a href="/2023/accommodation">Accommodation</a></li><li><a href="/sites/default/files/2024-06/itnac2023cfp%20%281%29.pdf" target="_blank">Call for Papers</a></li><li><a href="/2023/committee">Committee</a></li><li><a href="/2023/conference-program">Conference Program</a></li><li><a href="/2023/information-authors">Information for authors</a></li><li><a href="/2023/information-overseas-participants">Information for overseas participants</a></li><li><a href="/2023/information-sponsors">Information for sponsors</a></li><li><a href="/2023/past-conferences">Past Conferences</a></li><li><a href="/2023/registration">Registration</a></li><li><a href="/2023/special-issues">Special Issues</a></li><li><a href="/2023/venue">Venue</a></li></ul></div><div class="paragraph paragraph--type--paragraph-content paragraph--view-mode--default"><h3>SPONSOR</h3><p><img src="/sites/default/files/images/ieee_mb_blue_2.jpg" width="300" height="87" loading="lazy"></p><p><img src="/sites/default/files/images/ieee-comsoc.png" width="300" height="116" loading="lazy"></p><p><img src="/sites/default/files/images/IEEE-CS_LogoTM-orange_jpeg.jpg" width="300" height="92" loading="lazy"></p><p><img src="/sites/default/files/images/aaictlogo.png" width="120" height="32" loading="lazy"></p></div><div class="paragraph paragraph--type--paragraph-content paragraph--view-mode--default"><h3>KEY DATES 2023</h3><ul><li>Late papers accepted - email committee</li><li>Extended deadline - 17 September 2023</li><li>Acceptance notification - 1 October 2023</li><li>Final paper deadline - 15 October 2023</li><li>Early bird deadline - 20 October 2023</li><li>Registration deadline - 1 November 2023</li><li>Conference - 29 Nov - 1 Dec&nbsp;2023</li></ul></div>
+    
+      </div>
+
+    </div>
+    <div class="col-lg-9">
+        <div class="paragraph paragraph--type--paragraph-content paragraph--view-mode--default">
+          
+            <h3>29 November to 1 December 2023 Melbourne, Australia</h3>
+    
+      </div>
+  <div class="paragraph paragraph--type--paragraph-content paragraph--view-mode--default">
+          
+            <div class="Key______note"><p>Conference content will be submitted to major&nbsp;Abstracting and Indexing (A&amp;I) databases including IEEE Xplore&nbsp;EI COMPENDEX, Scopus, and Google Scholar.</p><div><p><span>ITNAC 2023 will be held onsite and online due to the COVID-19 pandemic.</span> Authors of accepted papers will be provided with an opportunity to participate at ITNAC 2023. We welcome the opportunity to ensure that our community can come together at the difficult time.</p></div><div><h3>Keynotes</h3><table style="border-collapse:separate;border-spacing:10px;width:100%;"><tbody><tr><td style="padding:4px;width:152px;"><p align="left"><img src="/sites/default/files/2023/images/yu.jpg" alt="Professor Yu" width="150" height="164" loading="lazy"></p></td><td style="padding:4px;"><p align="left"><strong>Opening Keynote</strong><br><strong>Distinguished Professor Xinghuo Yu, RMIT, IEEE Fellow</strong>, Topic -&nbsp;Dealing with Spatial and Temporal Complexities in Cyber-Physical Systems: Simple solutions for complex problems - <a href="/sites/default/files/2023/keynote2023-yu.pdf" target="_blank">Read more</a></p></td><td style="padding:4px;width:152px;"><p align="left"><img src="/sites/default/files/2023/images/kapur.jpg" alt="Professor Buyya" width="150" height="156" loading="lazy"></p></td><td style="padding:4px;"><p align="left"><strong>Sukhdev Kapur, Juniper Networks</strong>, Topic -&nbsp;Automation and Orchestration of 5G Network Slices across RAN, Core, and Transport domains in the context of 5G Network Slicing - <a href="/sites/default/files/2023/keynote2023-sukhdev.pdf" target="_blank">Read more</a></p></td></tr><tr><td style="padding:4px;width:152px;"><p align="left"><img src="/sites/default/files/2023/images/buyya.jpg" alt="Professor Buyya" width="150" height="232" loading="lazy"></p></td><td style="padding:4px;"><p align="left"><strong>Professor Rajkumar Buyya, University of Melbourne, IEEE Fellow</strong>, Topic -&nbsp;Neoteric Frontiers in Cloud, Edge, and Quantum Computing - <a href="/sites/default/files/2023/keynote2023-buyya.pdf" target="_blank">Read more</a></p></td><td style="padding:4px;width:152px;"><p align="left"><img src="/sites/default/files/2023/images/chilamkurti.png" alt="Professor Abawajy" width="150" height="200" loading="lazy"></p></td><td><strong>Professor Naveen Chilamkurti, La Trobe University</strong>, Topic - Addressing Data Leakage in Split Learning: Attacks and Defence Strategies - <a href="/sites/default/files/2023/keynote2023-chilamkurti.pdf" target="_blank">Read more</a></td></tr></tbody></table><h3>ITNAC Focus Topics</h3><div class="row"><div class="col-sm-6"><p>With the increasing focus on modelling and simulation in the fields of cyber-networks, data mining, cyber security, distributed computing, mobile computing, cognitive computing, cloud computing, computing tools, applications, simulation tools, system performance and data and computer communications the demand for high quality research outcomes has never been greater. ITNAC has been the forum for researchers and engineers to present and discuss topics related to advanced computing and data communication network technologies, services and applications.</p><p>Novel contributions are presented in the form of keynote speeches by international experts, peer-reviewed technical papers, and posters. ITNAC 2023&nbsp;seeks to address and capture highly innovative and state-of-the-art research from academia, industry and standardization bodies.</p><p>ITNAC 2023&nbsp;is an international conference and forum for the presentation of research outcomes covering timely and relevant aspects concerning modelling and simulation of distributed, mobile, cognitive and cloud computing, computer and data communications, local and metropolitan networks, optical, wired and wireless telecommunication networks and applications. Contributions are welcome on all advanced research and particularly (but not limited to) on the following topics:</p></div><div class="col-sm-6"><ul><li>Wireline networks</li><li>Wireless networks</li><li><span>Modelling and Simulation</span></li><li><span>Cyber-Networks, Data Mining and Cyber-Security</span></li><li><span>Distributed, Cognitive and Cloud Computing</span></li><li><span>Network&nbsp;Applications &amp; Convergence</span></li><li><span>Local and Metropolitan Networks</span></li><li><span>Community and corporate Wi-Fi</span></li><li><span>Data Communications</span></li><li><span>Networks and Management</span></li><li><span>Software Defined Networking</span></li><li><span>Internet Technologies and Applications</span></li><li>Emerging Technologies</li><li><span>Mobility and Vehicular Networks</span></li><li><span>Mobile Cellular and Wireless Networks</span></li><li><span>Optical Communications</span></li><li><span>Wireless Sensor Networks</span></li><li><span>Power Efficiency and Sustainability</span></li></ul></div></div><div class="row"><div class="col-sm-6"><h3>Wireline Networks</h3><p>The field of wireline networking has evolved in recent years and the shift to fibre networks is increasing. Advances in optical communications, hybrid networks, and the utilization of new and innovative approaches to make networks more reliable and resilient has continued.</p><p>The goal of this track is to provide a forum for the presentation of new advances, ideas, and solutions from theoretical, experimental, and applied research to address specific new challenges and emerging issues concerned with this field. We seek papers describing original, previously unpublished research results.</p></div><div class="col-sm-6"><p>Topics of interest include, but are not limited to:</p><ul><li>Optical Communications &amp; Networking</li><li>Cloud &amp; Data Center Networks</li><li>Software-Defined Infrastructure</li><li>(Networks, Storage, and Compute)</li><li>Core Network Architectures and Protocols</li><li>Network Resilience</li><li>Anomaly Detection</li><li>Reliability Performance Analysis</li><li>Carrier Networks</li><li>Metro, Local &amp; Access Networks</li><li>Submarine Networks</li><li>High-performance Routing</li><li>Heterogeneous Networks</li><li>Network Architectures for Smart Grid</li><li>Hybrid Wireline-Wireless Networks</li><li>xDSL networks</li></ul></div></div><div class="row"><div class="col-sm-6"><h3>Mobile &amp; Wireless Networks</h3><p>The field of mobile and wireless networks is a rapidly evolving area. Recent advances in technologies for emerging mobile and wireless networks, including mobile ad hoc networks, vehicular networks, 5G/6G cellular networks, among others, have the potential to enable many new mobile and wireless services and applications that can profoundly impact our lives in positive ways.</p><p>The goal of this track is to provide a forum for the presentation of new advances, ideas, and solutions from theoretical, experimental, and applied research to address specific new challenges and emerging issues concerned with this field. We seek papers describing original, previously unpublished research results.</p></div><div class="col-sm-6"><p>Topics of interest include, but are not limited to:</p><ul><li>5G and 6G</li><li>Wireless access and routing protocols</li><li>Cross-layer design optimisation</li><li>Green, low power, energy efficient and sustainable networking</li><li>Nature and bio-inspired approaches to networking</li><li>Network-based mobile positioning and tracking systems</li><li>Cognitive and cooperative principles for networking</li><li>Inter-working, integration, and convergence issues</li><li>Mobile social and ambient networks</li><li>Mobile and fixed wireless broadband access networks</li><li>QoS provisioning and resource management</li><li>Terminal and network mobility</li><li>Traffic engineering, congestion and admission control</li><li>Techno-economic analysis and business models for emerging networks</li><li>Novel network-enabled applications and services</li><li>Networking standards and regulations</li><li>Security and privacy issues</li></ul></div></div><div class="row"><div class="col-sm-6"><h3>Internet and Communications Technologies</h3><p>In the current and the envisioned future Internet, a variety of new technologies and applications is emerging. New networking architectures and design concepts are to be developed which consider interactions with the real world, as well as emerging issues like energy-efficiency or socio-economic aspects. A holistic view is necessary which takes into account the network of the Future, the Internet of services, media and enterprise Internet, but also the Internet of Things. However, there are still significant challenges for the theoretical understanding and on the deployment of Internet technologies.</p><p>The goal of the Internet technology track is to bring together people from academia and industry and to stimulate discussions on future Internet applications and future wireline and wireless Internet architectures to accelerate their development. We seek papers describing original, previously unpublished research results.</p><p><img src="/sites/default/files/inline-images/tech_img.jpg" data-entity-uuid="dc3b2de7-0560-4aed-819a-bdd6c059af98" data-entity-type="file" alt="tech" width="380" height="275" loading="lazy"></p></div><div class="col-sm-6"><p>Topics of interest include, but are not limited to:</p><ul><li><strong>Emerging Technologies:</strong><ul><li>Virtualization technology and programmability of FI elements</li><li>Service-oriented architectures and service composition</li><li>Future Internet routing schemes or transport concepts</li><li>IPv6 and its derivatives</li><li>Economic Traffic Management</li><li>Massive MIMO</li><li>Mesh networks, ad-hoc networks, sensor networks, femtocells</li><li>Self-configuring and self-optimizing cellular networks</li><li>Dynamic Spectrum Access and Cognitive Radio</li><li>Airborne Communications</li><li>Ultra-reliable and Low-Latency Communications</li><li>Hybrid Satellite-Terrestrial Communications</li><li>Nano and Molecular Communications and Networks</li><li>Vehicular Networks</li></ul></li><li><strong>Emerging Applications:</strong><ul><li>Content-centric networks</li><li>Social networks</li><li>Multilevel and location-aware mobile services</li><li>Cloud computing</li><li>Software as a service</li><li>Grid computing</li><li>Peer-to-peer networks and overlays</li><li>Multimedia support e.g. vehicle-2-X communications</li><li>Internet governance</li></ul></li><li><strong>Emerging Issues:</strong><ul><li>Artificial Intelligence</li><li>Next Generation Internet Architecture</li><li>Energy efficiency and energy awareness</li><li>Network application awareness</li><li>Network management systems and control plane</li><li>Coarse-grained QoS solutions for scalable Future Internet services</li><li>Quality of Experience</li><li>Support of mobility of devices, users, sessions, networks, and services</li><li>Security and privacy mechanism</li><li>Flexibility to realize new innovations</li></ul></li></ul></div></div><div class="row"><div class="col-sm-6"><img src="/sites/default/files/inline-images/type_koo.jpg" data-entity-uuid="f2c2dc86-66c7-4602-9d08-7461631dd28e" data-entity-type="file" alt="rde" width="382" height="350" loading="lazy"></div><div class="col-sm-6"><h3>IPv6 mobility and vehicular networks</h3><ul><li>Mobility management and topology control</li><li>Location-based services and positioning</li><li>Micro and macro-mobility</li><li>Mobility, location and handoff management</li><li>Mobile and wireless IPv6</li><li>IPv6 security</li><li>Wireless broadband mobile access</li><li>ad hoc and sensor networks</li><li>Wireless multicasting</li><li>Wireless mesh networks</li><li>Topology control in wireless networks</li><li>Physical and MAC layer issues</li><li>IPv6 GeoNetworking</li><li>Cross-layer design and optimization for vehicular networks and cognitive networks</li><li>Security issues for vehicular and cognitive networks</li></ul></div></div><div class="row"><div class="col-sm-6"><h3>Network Applications and Convergence</h3><p>Network-Based Applications are a fast growing area for network services.</p><p>The goal of this track is to provide a forum for the presentation of new advances, ideas, and solutions from theoretical, experimental, and applied research to address specific new challenges and emerging issues concerned with this field. We seek papers describing original, previously unpublished research results.</p></div><div class="col-sm-6"><p>Topics of interest include, but are not limited to:</p><ul><li>Software Defined Networks (SDN)</li><li>SDN as Enabling Technology for 5G</li><li>Network Virtualization</li><li>Cloud &amp; Crowd Computing</li><li>Smart Homes &amp; Smart Cities &amp; Smart Buildings</li><li>Resource Planning &amp; Management</li><li>Smartphone Networked Apps</li><li>Content Delivery Networks</li><li>Big Data &amp; Analytics</li><li>Augmented &amp; Virtual Reality</li><li>Cyber-Physical Systems &amp; Networks</li><li>Game Theory in Networks</li><li>Tactile Internet</li><li>Access Control</li><li>Scheduling Algorithms</li><li>Security, Trust and Privacy</li></ul></div></div><div class="row"><div class="col-sm-6"><h3>Optical Communications</h3><p>Optical communication technologies will continue to be increasingly important in supporting the future Internet's expected scaling requirements of billions of users, their IT needs and aggregated huge bandwidths. Over the last two decades, optical communication technologies have increased the transmission capacity per fiber by several orders of magnitude, achieving Tbit/s transmissions. If the data traffic usage continues to increase at the current rate, a further increase in the transmission capacity of several orders of magnitude will be needed over the coming decades. This implies that future optical systems and networks should be able to support capacities well over Peta bit/s. However, the current technologies have already begun to reveal several fundamental limits; the electronic speed limit, the Shannon and quantum limit, and the IP<span>&nbsp;</span>bottleneck. The future technologies must overcome these limits ensuring sustainable growth of network traffic. The optical communications theme aims to provide a forum for the presentation and discussion of significant progress of research, development and applications of cutting-edge technologies in optical communication devices, subsystems, systems and networks.</p><img src="/sites/default/files/inline-images/Optical%20Communications.jpg" data-entity-uuid="8463be77-db46-4943-9222-8be4aba3c579" data-entity-type="file" alt="ttt" width="400" height="390" loading="lazy"></div><div class="col-sm-6"><p>Topics of interest include, but are not limited to:</p><ul><li><strong>Next Generation Broadband Access Networks, Subsystems and Systems</strong><ul><li>Optical Ethernet, EPON/GPON, 10Gb/s Ethernet, 100Gb/s Ethernet</li><li>WDM Access Networks, WDM-PON</li><li>Wired/wireless convergence, Telecom/broadcast convergence, IPTV</li><li>Hybrid optical-wireless access networks, Radio-over-fiber</li><li>Higher order modulations and OFDM in optical access networks</li><li>Fiber-to-the-Home/Fiber-to-the-Curve (FTTH/FTTC)</li><li>Grid/cloud computing over optical networks</li><li>Green Internet and energy efficiency</li></ul></li><li><strong>Next Generation Optical Networks, Subsystems and Systems</strong><ul><li>Optical core network architecture, design, control, and management</li><li>Optical cross-connect/add-drop multiplexers, ROADM, and switching subsystems</li><li>Optical packet/burst/flow switching networks and subsystems</li><li>Large capacity optical transmission, WDM, OTDM</li><li>OFDM, higher order modulations and advanced modulation formats in photonics</li><li>Energy efficient optical networks</li><li>Impairments mitigations and performance monitoring techniques</li><li>Digital signal processing in photonics systems</li><li>Free Space optical communications</li></ul></li><li><strong>Optical Fiber, Components, and Devices</strong><ul><li>Fiber design, characterization, fabrication, installation,, and maintenance</li><li>Photonics Crystal fibers</li><li>Polymer/non-silica fibers</li><li>Optical active device and modules</li><li>Optical passive device and modules</li><li>Fiber Bragg grating, fiber lasers/amplifiers, MUX/DEMUX, and demodulators</li><li>Silicon photonics</li><li>Optical MEM</li></ul></li></ul></div></div><div class="row"><div class="col-sm-6"><h3>Wireless Sensor Networks</h3><p>The field of wireless sensor networks is now getting more and more mature, but new design concepts, experimental and theoretical findings, and applications continue to emerge at a rapid pace. Furthermore, there are still significant challenges for the theoretical understanding and practical application of sensor networks.</p><p>The goal of the sensor networking track is to bring together people from academia and industry who have interest in the area of wireless ad hoc and sensor networks. We seek papers describing original, previously unpublished research results.</p></div><div class="col-sm-6"><p>Topics of interest include, but are not limited to:</p><ul><li>Networking protocols: MAC, routing, transport, next generation</li><li>Cooperative communication approaches</li><li>Cross-layer design and optimization</li><li>Broadcasting, multicasting, geocasting</li><li>Quality-of-service, reliability and fault tolerance, coverage and connectivity</li><li>Security</li><li>Supplementary services: localization, time synchronization</li><li>Body sensor networks</li><li>Operating Systems and Software</li><li>Middleware and Macroprogramming</li><li>Information and query processing</li><li>Prototypes, field experiments, testbeds</li><li>Theoretical limits, network scaling</li><li>Novel applications</li></ul></div></div><div class="row"><div class="col-sm-6"><h3>Networks and Management</h3><p>Telecommunications and networking policy, regulation and management are an important aspect of deregulation and competition policy formulation. There are significant challenges for the development of an understanding of the dynamics of telecommunications markets. The&nbsp;introduction of solutions and case studies provide an opportunity to analyse outcomes and to learn from research into policy and management practices.</p></div><div class="col-sm-6"><p>Topics of interest include, but are not limited to:</p><ul><li>General topics related to networks and applications</li><li>Broadband Network Management</li><li>Regional and Remote Networks</li><li>Next generation network regulation</li><li>Communication technology fundamentals</li></ul></div></div></div></div>
+    
+      </div>
+
+    </div>
+  </div>
+      <div class="region--bottom">
+        <div class="paragraph paragraph--type--paragraph-layout container     footer___close___brand paragraph--view-mode--default">
+                <div class="region--top">
+      
+    </div>
+    <div class="row gx-8 gy-8">
+    <div class="col-md-6 col-lg-4">
+        <div class="paragraph paragraph--type--paragraph-content paragraph--view-mode--default">
+          
+            <img src="/sites/default/files/inline-images/junipernetworks_logo_0.png" data-entity-uuid="47d9f0fb-3d33-49ad-a7b4-d052023db40c" data-entity-type="file" width="267" height="134" loading="lazy">
+    
+      </div>
+
+    </div>
+    <div class="col-md-6 col-lg-4">
+        <div class="paragraph paragraph--type--paragraph-content paragraph--view-mode--default">
+          
+            <img src="/sites/default/files/inline-images/aaictlogoslider.jpg" data-entity-uuid="8b32d4f0-a0e4-482d-a2f9-6d8649b501f1" data-entity-type="file" width="267" height="134" loading="lazy">
+    
+      </div>
+
+    </div>
+    <div class="col-md-6 col-lg-4">
+        <div class="paragraph paragraph--type--paragraph-content paragraph--view-mode--default">
+          
+            <img src="/sites/default/files/inline-images/x_img_01.jpg" data-entity-uuid="775dbc97-4e6c-4dc3-a623-2eb73dddc21a" data-entity-type="file" width="267" height="134" loading="lazy">
+    
+      </div>
+
+    </div>
+  </div>
+      <div class="region--bottom">
+      
+    </div>
+  
+      </div>
+
+    </div>
+  
+                  </div>
+
+    
+
+  </section>
+
+            
+  <section class="paragraph paragraph--type--paragraph-section wrapper home__newsletter paragraph--view-mode--default" data-content-align="align-items-start">
+    <div class="container space-md">
+              	
+                <div class="region--top">
+      
+    </div>
+    <div class="row gx-lg-8 gx-xl-12 gy-10">
+
+    <div class="col-lg-6">
+        <div class="paragraph paragraph--type--paragraph-content paragraph--view-mode--default">
+          
+            <div class="newsletter-txt"><h4 class="s-22 w-600">The subscriber's email address. Stay informed - subscribe to our newsletter.</h4></div>
+    
+      </div>
+
+    </div>
+
+    <div class="col-lg-6">
+        <div class="paragraph paragraph--type--paragraph-content paragraph--view-mode--default">
+          
+            <div class="subscribe-inline"><div class="simplenews-subscriptions-block-d014df31-66bb-405d-84da-d3475a01b866 simplenews-subscriber-form block block-simplenews block-simplenews-subscription-block clearfix" data-drupal-selector="simplenews-subscriptions-block-d014df31-66bb-405d-84da-d3475a01b866" id="block-martex-simplenewssubscription">
+<div class="block-inner">
+  
+    
+
+      
+<form action="/2023/29-november-1-december-2023-melbourne-australia" method="post" id="simplenews-subscriptions-block-d014df31-66bb-405d-84da-d3475a01b866" accept-charset="UTF-8">
+  <div class="field--type-email field--name-mail field--widget-email-default js-form-wrapper form-wrapper mb-3" data-drupal-selector="edit-mail-wrapper" id="edit-mail-wrapper">      
+
+
+
+
+
+  <div class="js-form-item js-form-type-email form-type-email js-form-item-mail-0-value form-item-mail-0-value mb-4">
+          <label for="edit-mail-0-value" class="js-form-required form-required">Email</label>
+                    <input data-drupal-selector="edit-mail-0-value" aria-describedby="edit-mail-0-value--description" type="email" id="edit-mail-0-value" name="mail[0][value]" value="" size="60" maxlength="254" placeholder="" class="form-email required form-control" required="required" aria-required="true">
+
+                          <small id="edit-mail-0-value--description" class="description text-muted">
+        The subscriber's email address.
+      </small>
+      </div>
+
+  </div>
+<div class="field--type-entity-reference field--name-subscriptions field--widget-simplenews-subscription-select js-form-wrapper form-wrapper mb-3" data-drupal-selector="edit-subscriptions-wrapper" id="edit-subscriptions-wrapper"></div>
+<input data-drupal-selector="form-jxiqxnr17y3-rmuzcnjo-eclzs1-cll5hfnenfnkt8m" type="hidden" name="form_build_id" value="form-jXIqXnr17y3-RmuZcnjO-EClZs1_ClL5hFnEnFnKt8M" class="form-control">
+<input data-drupal-selector="edit-simplenews-subscriptions-block-d014df31-66bb-405d-84da-d3475a01b866" type="hidden" name="form_id" value="simplenews_subscriptions_block_d014df31-66bb-405d-84da-d3475a01b866" class="form-control">
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper mb-3" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Subscribe" class="button button--primary js-form-submit form-submit btn btn-primary form-control">
+</div>
+
+</form>
+
+  </div>
+</div></div>
+    
+      </div>
+
+    </div>
+
+  </div>
+
+      <div class="region--bottom">
+      
+    </div>
+  
+                  </div>
+
+    
+
+  </section>
+
+    
+  </div>
+
+</article>
+
+  </div>
+</div>
+
+          </div>
+  </div>
+<!--end main-->
+
+<footer class="footer ">
+	<div class="container pt-13 pt-md-15 pb-7">
+			  <div class="region region-footer">
+    		
+<section id="block-martex-footerblock2" class="block-content-custom_block block block-block-content block-block-content0f984b0d-6dd8-47fb-a84f-08f9742efde0 wrapper">
+            
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field--item"><!-- FOOTER CONTENT --><div class="row"><!-- FOOTER LINKS --><div class="col-sm-4 col-md-4 col-xl-3"><div class="footer-links fl-1"><!-- Title --><h6 class="s-17 w-700">PAST CONFERENCES</h6><!-- Links --><ul class="foo-links clearfix"><li><a href="/2023/29-november-1-december-2023-melbourne-australia">2023</a></li><li><a href="/2022/30-nov-2-dec-2022-wellington-new-zealand-0">2022</a></li><li><a href="/2021/24-26-november-2021-university-new-south-wales-sydney-australia">2021</a></li><li><a href="/2020/25-27-november-2020-melbourne-australia">2020</a></li><li><a href="/2019/27-29-november-2019-auckland-university-technology-auckland-new-zealand">2019</a></li><li><a href="/2018/21-23-november-2018-university-new-south-wales-sydney-australia">2018</a></li><li><a href="/2017/22-24-november-2017-rendezvous-hotel-melbourne-australia">2017</a></li><li><a href="/2016/7-9-december-2016-university-otago-dunedin-new-zealand">2016</a></li><li><a href="/2015/keynote-speakers">2015</a></li><li><a href="/2014/26-28-november-2014-melbourne-australia">2014</a></li><li><a href="/2013/20-22-november-2013-christchurch-new-zealand">2013</a></li><li><a href="/2012/atnac-2012-7-9th-november-2012-brisbane-australia">2012</a></li></ul></div></div><!-- END FOOTER LINKS --><!-- FOOTER LINKS --><div class="col-sm-4 col-md-4 col-xl-3"><div class="footer-links fl-2"><!-- Title --><h6 class="s-17 w-700">CONFERENCE LINKS</h6><!-- Links --><ul class="foo-links clearfix"><li><a href="/sites/default/files/itnac2024cfp.pdf" target="_blank">Call For Papers</a></li><li><a href="/2024/registration">Registration</a></li><li><a href="https://edas.info/N29259" target="_blank">Pricing</a></li></ul></div></div><!-- END FOOTER LINKS --><!-- FOOTER LINKS --><div class="col-sm-4 col-md-4 col-xl-3"><div class="footer-links fl-3"><!-- Title --><h6 class="s-17 w-700">VENUE</h6><!-- Links --><ul class="foo-links clearfix"><li><a href="/2024/venue">Venue</a></li></ul></div></div><!-- END FOOTER LINKS --><!-- FOOTER LINKS --><div class="col-sm-4 col-md-4 col-xl-3"><div class="footer-links fl-4"><!-- Title --><h6 class="s-17 w-700">Connect With Us</h6><!-- Social Links --><ul class="footer-socials ico-25 text-center clearfix"><li><a href="https://twitter.com/ITNACANZ">Twitter</a></li><li><a href="https://www.facebook.com/#!/groups/348634321816301/">Facebook</a></li><li><a href="http://www.linkedin.com/groups/Australasian-Telecommunication-Networks-Applications-Conference-4397736?home=&amp;gid=4397736&amp;trk=anet_ug_hm&amp;goback=%2Enmp_*1_*1_*1_*1_*1_*1%2Egna_4397736">LinkedIn</a></li></ul></div></div><!-- END FOOTER LINKS --></div><!-- END FOOTER CONTENT --><hr><!-- FOOTER DIVIDER LINE --><!-- BOTTOM FOOTER --><div class="bottom-footer"><div class="row row-cols-1 row-cols-md-2 d-flex align-items-center"><!-- FOOTER COPYRIGHT --><div class="col"><div class="footer-copyright"><p class="p-sm">© 2024 itnac.org.au AAICT Inc.</p></div></div></div><!-- End row --></div><!-- END BOTTOM FOOTER --></div>
+      
+     
+
+   
+</section>
+
+
+
+
+
+
+
+  </div>
+
+		</div>
+</footer>
+<!--end footer-->
+
+</div>
+  </div>

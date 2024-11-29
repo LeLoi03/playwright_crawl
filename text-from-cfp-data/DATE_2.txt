@@ -1,0 +1,865 @@
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    <div id="sup-header" class="d-flex">
+  <div class="offset-md-1 col-8 col-md-7 next">
+    31 March - 2 April 2025 |<br>Lyon, France
+  </div>
+  <div class="col-4 text-right social-icons d-flex justify-content-end">
+          <!-- a href="https://www.linkedin.com/company/date-conference/" title="Facebook URL"><img src="/themes/custom/date_conference_theme/images/social/facebook.png" title="Facebook Presence" alt="Facebook Presence" /></a -->
+      <a href="https://www.linkedin.com/company/date-conference/" title="Linkedin URL"><img src="/themes/custom/date_conference_theme/images/social/linkedin.png" title="Linkedin Presence" alt="Linkedin Presence"></a>
+              <a href="https://twitter.com/DateConference" title="X URL"><img src="/themes/custom/date_conference_theme/images/social/x.png" title="X Presence" alt="X Presence"></a>
+          <nav role="navigation" aria-labelledby="block-useraccountmenu-menu" id="block-useraccountmenu" class="navbar navbar-account">
+            
+  <h2 class="visually-hidden" id="block-useraccountmenu-menu">User account menu</h2>
+  
+
+        
+              <ul class="navbar-nav">
+              <li>
+        <a href="/user/login" data-drupal-link-system-path="user/login"><span>Log in</span><i class="fa fa-sign-in"></i></a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+  </div>
+</div>
+<header role="banner" id="header" class="d-flex front">
+    <div id="block-date-conference-theme-branding" class="offset-1 col-11 col-md-6 col-lg-3 system-branding-block">
+  
+    
+        <a href="/" title="Home" rel="home">
+      <img src="/themes/custom/date_conference_theme/date25/DATE2025_logo_white_flat.png" alt="Home">
+    </a>
+      <span>Design, Automation and Test in Europe Conference |<br> The European Event for Electronic System Design &amp; Test</span>
+</div>
+  <nav class="navbar navbar-expand-xl ml-auto">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="header .navbar-collapse" aria-controls="mainmenu" aria-expanded="false" aria-label="Toggle navigation">
+      <input type="checkbox">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+
+    <div class="collapse navbar-collapse row" id="mainmenu">
+      
+        <ul class="navbar-nav ml-xl-auto">
+                  <li class="nav-item menu-item--expanded dropdown">
+                <a href="/author-guidelines" class="nav-link" data-drupal-link-system-path="node/120">Authors' Guidelines</a>
+                  <div class="submenu-trigger closed">
+            <div class="circle">
+              <div class="horizontal"></div>
+              <div class="vertical"></div>
+            </div>
+          </div>
+                                    <ul class="dropdown-menu">
+                    <li class="dropdown-item">
+                <a href="/author-notification-d-t-and-e-tracks" data-drupal-link-system-path="node/110">Author Notification</a>
+                      </li>
+                <li class="dropdown-item">
+                <a href="/author-guidelines" data-drupal-link-system-path="node/120">Authors' Guidelines for Camera-Ready Submission of Accepted Papers</a>
+                      </li>
+                <li class="dropdown-item">
+                <a href="/guidelines-embedded-tutorial-and-workshop-organisers" data-drupal-link-system-path="node/1287">Guidelines for Tutorial and Workshop Organisers</a>
+                      </li>
+      </ul>
+    
+              </li>
+                <li class="nav-item">
+                <a href="/registration" class="nav-link" data-drupal-link-system-path="node/55">Registration</a>
+                  <div class="submenu-trigger closed">
+            <div class="circle">
+              <div class="horizontal"></div>
+              <div class="vertical"></div>
+            </div>
+          </div>
+                      </li>
+                <li class="nav-item menu-item--expanded dropdown">
+                <a href="/venue" class="nav-link" data-drupal-link-system-path="node/80">Venue</a>
+                  <div class="submenu-trigger closed">
+            <div class="circle">
+              <div class="horizontal"></div>
+              <div class="vertical"></div>
+            </div>
+          </div>
+                                    <ul class="dropdown-menu">
+                    <li class="dropdown-item">
+                <a href="/accommodation-travel" data-drupal-link-system-path="node/823">Accommodation &amp; Travel</a>
+                      </li>
+                <li class="dropdown-item">
+                <a href="/venue" data-drupal-link-system-path="node/80">Conference Venue</a>
+                      </li>
+      </ul>
+    
+              </li>
+                <li class="nav-item menu-item--expanded dropdown">
+                <a href="/promotion-sponsorship" class="nav-link" data-drupal-link-system-path="node/73">Promotion &amp; Sponsorship</a>
+                  <div class="submenu-trigger closed">
+            <div class="circle">
+              <div class="horizontal"></div>
+              <div class="vertical"></div>
+            </div>
+          </div>
+                                    <ul class="dropdown-menu">
+                    <li class="dropdown-item">
+                <a href="/sponsors" data-drupal-link-system-path="sponsors">Sponsors and Promotion Partners</a>
+                      </li>
+      </ul>
+    
+              </li>
+                <li class="nav-item">
+                <a href="/call-for-papers" class="nav-link" data-drupal-link-system-path="node/108">Call for Papers</a>
+                  <div class="submenu-trigger closed">
+            <div class="circle">
+              <div class="horizontal"></div>
+              <div class="vertical"></div>
+            </div>
+          </div>
+                      </li>
+                <li class="nav-item menu-item--expanded dropdown">
+                <a href="/committees" class="nav-link" data-drupal-link-system-path="node/121">Committees</a>
+                  <div class="submenu-trigger closed">
+            <div class="circle">
+              <div class="horizontal"></div>
+              <div class="vertical"></div>
+            </div>
+          </div>
+                                    <ul class="dropdown-menu">
+                    <li class="dropdown-item menu-item--expanded">
+                <a href="/dec" title="DEC - DATE Executive Committee" data-drupal-link-system-path="dec">DEC - DATE Executive Committee</a>
+                      </li>
+                <li class="dropdown-item menu-item--expanded dropdown">
+                <a href="/tpc" title="TPC - DATE Technical Programme Committee" data-drupal-link-system-path="tpc">TPC - DATE Technical Programme Committee</a>
+                                    <ul class="dropdown-menu">
+                    <li class="dropdown-item">
+                <a href="/tpc-rules" data-drupal-link-system-path="node/85">TPC Rules</a>
+                      </li>
+      </ul>
+    
+              </li>
+                <li class="dropdown-item">
+                <a href="/date-fellows" data-drupal-link-system-path="node/394">DATE Fellows</a>
+                      </li>
+                <li class="dropdown-item">
+                <a href="/dsc" title="DSC - DATE Sponsors Committee" data-drupal-link-system-path="dsc">DSC - DATE Sponsors Committee</a>
+                      </li>
+      </ul>
+    
+              </li>
+                <li class="nav-item">
+                <a href="/archive" class="nav-link" data-drupal-link-system-path="node/87">Archive</a>
+                  <div class="submenu-trigger closed">
+            <div class="circle">
+              <div class="horizontal"></div>
+              <div class="vertical"></div>
+            </div>
+          </div>
+                      </li>
+      </ul>
+    
+
+
+    </div>
+  </nav>
+
+
+</header>
+
+  <div class="header-image">
+    <img src="/sites/date25/files/styles/frontpage_header_image/public/frontpage_headerimage/DATE%202025_keyvisual-copyright_0.png?itok=aRE0aEAf" width="1920" height="300" alt="" loading="lazy">
+
+
+  </div>
+
+  <div id="sponsors" class="sponsors sponsors__header d-flex justify-content-center">
+    <div class="views-element-container">    <a href="/company-profile/association-computing-machinery-special-interest-group-design-automation-acm-sigda" hreflang="en"><img loading="lazy" src="/sites/date25/files/styles/company_logo/public/2019-05/acm-sigda-logo.png?itok=bz0Gsffu" width="100" height="93" alt="Association for Computing Machinery - Special Interest Group on Design Automation (ACM SIGDA)">
+
+</a>
+
+
+    <a href="/company-profile/electronic-system-design-esd-alliance" hreflang="en"><img loading="lazy" src="/sites/date25/files/styles/company_logo/public/2020-11/semi_esda_stacked_200.png?itok=NdffTEsU" width="125" height="98" alt="Electronic System Design (ESD) Alliance">
+
+</a>
+
+
+    <a href="/company-profile/european-design-and-automation-association-edaa" hreflang="en"><img loading="lazy" src="/sites/date25/files/styles/company_logo/public/2019-05/edaa-logo_0.jpg?itok=Q26tc1Qc" width="125" height="93" alt="European Design and Automation Association (EDAA)">
+
+</a>
+
+
+    <a href="/company-profile/ieee-council-electronic-design-automation-ieee-ceda" hreflang="en"><img loading="lazy" src="/sites/date25/files/styles/company_logo/public/2019-05/IEEE-CEDA-Logo_0.png?itok=O_aDTz8i" width="125" height="33" alt="IEEE Council on Electronic Design Automation (IEEE CEDA) ">
+
+</a>
+
+
+
+</div>
+
+  </div>
+
+
+<main role="main">
+  <a id="main-content" tabindex="-1"></a>
+      <div class="container-fluid">
+    <div id="block-dateheader" class="contextual-region container">
+  
+    
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden clearfix field__item"><h2>Photos are available in the <a href="https://www.date-conference.com/gallery/index.php/DATE-2024"><span class="date-tag-blue">DATE 20<span class="date-tag-red">24</span></span> Gallery</a>.</h2>
+<!--p><strong>The time zone for all times mentioned at the DATE website is CEST – Central Europe Summer Time (UTC+2). AoE = Anywhere on Earth.</strong></p--><p><strong>The time zone for all times mentioned at the DATE website is CET – Central Europe Time (UTC+1). AoE = Anywhere on Earth.</strong></p>
+</div>
+      
+  </div>
+<div id="block-date-conference-theme-content">
+  
+    
+      <div class="views-element-container"><div class="js-view-dom-id-4f0be8b1a3146a417120efe6edf685c7310c1bc75124212ff88623533160bbdd view--frontpage">
+  
+  
+  
+
+  
+  
+  
+
+  <div data-drupal-views-infinite-scroll-content-wrapper="" class="views-infinite-scroll-content-wrapper clearfix"><div class="row">
+        
+    
+    
+    <div class="views-row col-12"><article class="teaser">
+  
+<span><time datetime="2024-11-18T14:00:00+01:00" title="Monday, 18 November 2024 14:00">Mon, 18 Nov 2024 14:00</time>
+</span>
+
+  
+      <h2>
+      <a href="/registration" rel="bookmark">
+<span>Registration &amp; Participation</span>
+</a>
+    </h2>
+    
+
+  <div>
+    
+            <div class="field field--name-field-preamble field--type-text-long field--label-hidden clearfix field__item"><p>The online registration to the conference is only possible via the online registration platform which is available until <strong>2 April 2025</strong>. Please kindly note that everyone who wants to attend the conference or single sessions, must create an account and register, with which you can check your registration or make additional programme bookings later. If you participated in <span class="date-tag-blue">DATE 20<span class="date-tag-red">24</span></span> in Valencia, Spain, please use the same login data.</p>
+<p><a class="btn btn__yellow" href="https://kit-react.de/portal/init?mnemonic=DATE2025Profil" rel="tag" title="Click here to register for DATE"><strong>Click here to create your account and register for <span class="date-tag-blue">DATE 20<span class="date-tag-red">25</span></span></strong></a></p>
+</div>
+      <ul class="links inline nav float-right"><li><a href="/registration" rel="tag" title="Registration &amp; Participation" class="btn btn__darkblue" hreflang="en">Read more<span class="visually-hidden"> about Registration &amp; Participation</span></a></li></ul><p style="font-weight: bold; margin: 0; padding: 0; margin-top: 10px; margin-left: 5px;">Share this page on social media</p>
+<div class="shariff" data-url="https://www.date-conference.com/registration" data-title="Registration &amp;amp; Participation | DATE 2025" data-services="[&quot;twitter&quot;,&quot;linkedin&quot;,&quot;mail&quot;]" data-theme="colored" data-css="complete" data-orientation="horizontal" data-mail-url="mailto:" data-lang="en">
+    
+        
+</div>
+
+  </div>
+</article>
+</div>
+      
+    
+    
+    <div class="views-row col-12"><article class="teaser">
+  
+<span><time datetime="2024-11-18T14:00:00+01:00" title="Monday, 18 November 2024 14:00">Mon, 18 Nov 2024 14:00</time>
+</span>
+
+  
+      <h2>
+      <a href="/author-guidelines" rel="bookmark">
+<span>Authors' Guidelines for Camera-Ready Submission of Accepted Papers</span>
+</a>
+    </h2>
+    
+
+  <div>
+    
+            <div class="field field--name-field-preamble field--type-text-long field--label-hidden clearfix field__item"><p>Deadline: <b>Friday, 17 January 2025 AoE</b></p>
+<p>Your submission for <span class="date-tag-blue">DATE 20<span class="date-tag-red">25</span></span> has been accepted. Congratulations!</p>
+<p><a href="/author-guidelines">This page</a> contains instructions to prepare the final material required to publish your contribution in time for the conference.</p>
+</div>
+      <ul class="links inline nav float-right"><li><a href="/author-guidelines" rel="tag" title="Authors' Guidelines for Camera-Ready Submission of Accepted Papers" class="btn btn__darkblue" hreflang="en">Read more<span class="visually-hidden"> about Authors' Guidelines for Camera-Ready Submission of Accepted Papers</span></a></li></ul><p style="font-weight: bold; margin: 0; padding: 0; margin-top: 10px; margin-left: 5px;">Share this page on social media</p>
+<div class="shariff" data-url="https://www.date-conference.com/author-guidelines" data-title="Authors&amp;#039; Guidelines for Camera-Ready Submission of Accepted Papers | DATE 2025" data-services="[&quot;twitter&quot;,&quot;linkedin&quot;,&quot;mail&quot;]" data-theme="colored" data-css="complete" data-orientation="horizontal" data-mail-url="mailto:" data-lang="en">
+    
+        
+</div>
+
+  </div>
+</article>
+</div>
+      
+    
+          <div class="sponsors sponsors__loop d-flex justify-content-center">
+                  <div class="sponsor-group">
+            <h3>Sponsor Societies</h3>
+            <div class="views-element-container">    <a href="/company-profile/association-computing-machinery-special-interest-group-design-automation-acm-sigda" hreflang="en"><img loading="lazy" src="/sites/date25/files/styles/company_logo/public/2019-05/acm-sigda-logo.png?itok=bz0Gsffu" width="100" height="93" alt="Association for Computing Machinery - Special Interest Group on Design Automation (ACM SIGDA)">
+
+</a>
+
+
+    <a href="/company-profile/electronic-system-design-esd-alliance" hreflang="en"><img loading="lazy" src="/sites/date25/files/styles/company_logo/public/2020-11/semi_esda_stacked_200.png?itok=NdffTEsU" width="125" height="98" alt="Electronic System Design (ESD) Alliance">
+
+</a>
+
+
+    <a href="/company-profile/european-design-and-automation-association-edaa" hreflang="en"><img loading="lazy" src="/sites/date25/files/styles/company_logo/public/2019-05/edaa-logo_0.jpg?itok=Q26tc1Qc" width="125" height="93" alt="European Design and Automation Association (EDAA)">
+
+</a>
+
+
+    <a href="/company-profile/ieee-council-electronic-design-automation-ieee-ceda" hreflang="en"><img loading="lazy" src="/sites/date25/files/styles/company_logo/public/2019-05/IEEE-CEDA-Logo_0.png?itok=O_aDTz8i" width="125" height="33" alt="IEEE Council on Electronic Design Automation (IEEE CEDA) ">
+
+</a>
+
+
+
+</div>
+
+          </div>
+                  <div class="sponsor-group">
+            <h3>Technical Co-Sponsor Societies</h3>
+            <div class="views-element-container">    <a href="/company-profile/ieee-computer-society" hreflang="en"><img loading="lazy" src="/sites/date25/files/styles/company_logo/public/2021-02/IEEE-CS_LogoTM-orange_jpeg.jpg?itok=4BS2DZIu" width="125" height="38" alt="IEEE Computer Society">
+
+</a>
+
+
+    <a href="/company-profile/ieee-computer-society-test-technology-technical-community-tttc" hreflang="en"><img loading="lazy" src="/sites/date25/files/styles/company_logo/public/2022-07/IEEE-TTTC-orange-black-white-white-bg.png?itok=esocRiyZ" width="125" height="49" alt="IEEE Computer Society Test Technology Technical Community (TTTC)">
+
+</a>
+
+
+    <a href="/company-profile/ieee-solid-state-circuits-society-ieee-sscs" hreflang="en"><img loading="lazy" src="/sites/date25/files/styles/company_logo/public/2019-05/sscs_1.jpg?itok=5a4hvXwK" width="125" height="106" alt="IEEE Solid-State Circuits Society (IEEE SSCS)">
+
+</a>
+
+
+
+</div>
+
+          </div>
+                  <div class="sponsor-group">
+            <h3>Media Partners</h3>
+            <div class="views-element-container">    <a href="/company-profile/61st-design-automation-conference-dac" hreflang="en"><img loading="lazy" src="/sites/date25/files/styles/company_logo/public/2023-12/DAC_61.png?itok=6r9PNZ-S" width="125" height="51" alt="DAC 2024">
+
+</a>
+
+
+    <a href="/company-profile/asia-and-south-pacific-design-automation-conference-asp-dac" hreflang="en"><img loading="lazy" src="/sites/date25/files/styles/company_logo/public/2019-05/asp-dac-logo_1.gif?itok=cItfE712" width="125" height="42" alt="Asia and South Pacific Design Automation Conference (ASP-DAC)">
+
+</a>
+
+
+    <a href="/company-profile/international-conference-computer-aided-design-iccad" hreflang="en"><img loading="lazy" src="/sites/date25/files/styles/company_logo/public/2024-02/Logo.png?itok=KYZUWswS" width="125" height="85" alt="ICCAD 2024">
+
+</a>
+
+
+
+</div>
+
+          </div>
+                  <div class="sponsor-group">
+            <h3>Sister Events</h3>
+            <div class="views-element-container">    <a href="/company-profile/61st-design-automation-conference-dac" hreflang="en"><img loading="lazy" src="/sites/date25/files/styles/company_logo/public/2023-12/DAC_61.png?itok=6r9PNZ-S" width="125" height="51" alt="DAC 2024">
+
+</a>
+
+
+    <a href="/company-profile/asia-and-south-pacific-design-automation-conference-asp-dac" hreflang="en"><img loading="lazy" src="/sites/date25/files/styles/company_logo/public/2019-05/asp-dac-logo_1.gif?itok=cItfE712" width="125" height="42" alt="Asia and South Pacific Design Automation Conference (ASP-DAC)">
+
+</a>
+
+
+    <a href="/company-profile/international-conference-computer-aided-design-iccad" hreflang="en"><img loading="lazy" src="/sites/date25/files/styles/company_logo/public/2024-02/Logo.png?itok=KYZUWswS" width="125" height="85" alt="ICCAD 2024">
+
+</a>
+
+
+
+</div>
+
+          </div>
+              </div>
+    
+    <div class="views-row col-12"><article class="teaser">
+  
+<span><time datetime="2024-11-14T08:46:25+01:00" title="Thursday, 14 November 2024 08:46">Thu, 14 Nov 2024 08:46</time>
+</span>
+
+  
+      <h2>
+      <a href="/edaa-outstanding-dissertations-award-2025" rel="bookmark">
+<span>EDAA Outstanding Dissertations Award 2025</span>
+</a>
+    </h2>
+    
+
+  <div>
+    
+            <div class="field field--name-field-preamble field--type-text-long field--label-hidden clearfix field__item"><p><a href="https://www.edaa.com/awards/">https://www.edaa.com/awards/</a></p>
+<p>EDAA is a non-profit association. Its purpose is to operate for educational, scientific and technical purposes for the benefit of the international electronics design and design automation community. The Association, in the field of design and design automation of electronic circuits and systems, promotes a series of high quality technical international conferences and workshops across Europe and cooperates actively to maintain harmonious relationships with other national and international technical societies and groups promoting the purpose of the Association. EDAA is the main sponsor of DATE, the premier Design, Automation and Test Conference in Europe.</p>
+<h2>EDAA Outstanding Dissertations Award 2025</h2>
+<p>In recognition of the importance of university research to the advancement of design, automation and test, and to encourage young researchers to work in the field, EDAA has established an award for outstanding Ph.D. dissertations in 4 categories:</p>
+<ul>
+<li>Topic 1 – New directions in systems design methods and tools, simulation and validation, embedded software design and optimization for embedded, cyber-physical, secure and learning systems</li>
+<li>Topic 2 – New directions in system-on-chip platforms co-design, novel architectures for future computing in design flows, and power management.</li>
+<li>Topic 3 – New directions in logic, physical design and CAD for analog/mixed-signal, nanoscale and emerging technologies (such as quantum-, neuromorphic- or biological computing).</li>
+<li>Topic 4 – New directions in safety, reliability, security-aware hardware design, validation and test</li>
+</ul>
+<p>In each category, one award can be given. Each award consists of a 1000 € prize and certificate. The awards will be presented at the <span class="date-tag-blue">DATE 20<span class="date-tag-red">25</span></span> conference, where the awardees need to be present.</p>
+<h3>Nomination</h3>
+<p>Eligible are all Ph.D. dissertations which have been defended in the last 2 years before the submission deadline. The total reporting time should not be more than 6 years since the starting of the PhD that should clearly be stated in the applicant CV.</p>
+<p>The nominations must be submitted electronically, exclusively in PDF format, through the following URL address: <a href="http://www.edaa.com/awards">http://www.edaa.com/awards</a> Details for the nomination PDF can be found in the call linked below.</p>
+<p>Nomination deadline is 13 December 2024 at midnight (AOE).</p>
+<h3>Award Chair</h3>
+<p>Ian O'Connor, Ecole Centrale de Lyon, Institut des Nanotechnologies de Lyon, France, and EDAA Vice-Chair Email: <span class="spamspan"><span class="u">ian<span class="o"> [dot] </span>oconnor</span><img class="spamspan-image lazyload" alt="at" data-src="/modules/contrib/spamspan/image.gif"><span class="d">ec-lyon<span class="o"> [dot] </span>fr</span></span></p>
+<p>Download the detailed call for nominations here: <a href="https://www.edaa.com/wp-content/uploads/2024/10/EDAA_OutstandingDissertation_Award-2025.pdf">https://www.edaa.com/wp-content/uploads/2024/10/EDAA_OutstandingDissert…</a></p>
+</div>
+      <ul class="links inline nav float-right"><li><a href="/edaa-outstanding-dissertations-award-2025" rel="tag" title="EDAA Outstanding Dissertations Award 2025" class="btn btn__darkblue" hreflang="en">Read more<span class="visually-hidden"> about EDAA Outstanding Dissertations Award 2025</span></a></li></ul><p style="font-weight: bold; margin: 0; padding: 0; margin-top: 10px; margin-left: 5px;">Share this page on social media</p>
+<div class="shariff" data-url="https://www.date-conference.com/edaa-outstanding-dissertations-award-2025" data-title="EDAA Outstanding Dissertations Award 2025 | DATE 2025" data-services="[&quot;twitter&quot;,&quot;linkedin&quot;,&quot;mail&quot;]" data-theme="colored" data-css="complete" data-orientation="horizontal" data-mail-url="mailto:" data-lang="en">
+    
+        
+</div>
+
+  </div>
+</article>
+</div>
+      
+    
+    
+    <div class="views-row col-12"><article class="teaser">
+  
+<span><time datetime="2024-11-14T08:37:16+01:00" title="Thursday, 14 November 2024 08:37">Thu, 14 Nov 2024 08:37</time>
+</span>
+
+  
+      <h2>
+      <a href="/edaa-achievement-award-2025" rel="bookmark">
+<span>EDAA Achievement Award 2025</span>
+</a>
+    </h2>
+    
+
+  <div>
+    
+            <div class="field field--name-field-preamble field--type-text-long field--label-hidden clearfix field__item"><p><a href="https://www.edaa.com/awards/">https://www.edaa.com/awards/</a></p>
+<p>EDAA is a non-profit association. Its purpose is to operate for educational, scientific and technical purposes for the benefit of the international electronics design and design automation community. The Association, in the field of design and design automation of electronic circuits and systems, promotes a series of high quality technical international conferences and workshops across Europe and cooperates actively to maintain harmonious relationships with other national and international technical societies and groups promoting the purpose of the Association. EDAA is the main sponsor of DATE, the premier Design, Automation and Test Conference in Europe.</p>
+<h2>EDAA Achievement Award 2025</h2>
+<p>In 2025, the European Design and Automation Association (EDAA) will grant the 23rd EDAA Achievement Award.</p>
+<h3>Scope and Goals</h3>
+<p>The EDAA Achievement Award shall be given to individuals who made outstanding contributions to the state of the art in electronic design, electronic design automation, testing of electronic systems as well as embedded systems and software, during their career.</p>
+<p>Candidates can be of any age. In order to be eligible, candidates must have made innovative contributions which had an impact on the way electronic and embedded systems are being designed. The goal of granting the award is to make the excellent work accomplish by people working within the above scope more widely known and to help publicizing the results more broadly.</p>
+<h3>Nomination</h3>
+<p>Nominations should be sent to the Chair of EDAA, Robert Wille (<span class="spamspan"><span class="u">robert<span class="o"> [dot] </span>wille</span><img class="spamspan-image lazyload" alt="at" data-src="/modules/contrib/spamspan/image.gif"><span class="d">tum<span class="o"> [dot] </span>de</span></span>), by 15 December 2024. Nominations should include a 2-/3-page appraisal of the candidate's work.</p>
+<p>The award will be handed over during the <span class="date-tag-blue">DATE 20<span class="date-tag-red">25</span></span> opening ceremony in Lyon, France.</p>
+<p>Download the detailed call for nominations here: <a href="https://www.edaa.com/wp-content/uploads/2024/11/EDAA_Achievement_Call-2025.pdf">https://www.edaa.com/wp-content/uploads/2024/11/EDAA_Achievement_Call-2…</a></p>
+</div>
+      <ul class="links inline nav float-right"><li><a href="/edaa-achievement-award-2025" rel="tag" title="EDAA Achievement Award 2025" class="btn btn__darkblue" hreflang="en">Read more<span class="visually-hidden"> about EDAA Achievement Award 2025</span></a></li></ul><p style="font-weight: bold; margin: 0; padding: 0; margin-top: 10px; margin-left: 5px;">Share this page on social media</p>
+<div class="shariff" data-url="https://www.date-conference.com/edaa-achievement-award-2025" data-title="EDAA Achievement Award 2025 | DATE 2025" data-services="[&quot;twitter&quot;,&quot;linkedin&quot;,&quot;mail&quot;]" data-theme="colored" data-css="complete" data-orientation="horizontal" data-mail-url="mailto:" data-lang="en">
+    
+        
+</div>
+
+  </div>
+</article>
+</div>
+      
+    
+    
+    <div class="views-row col-12"><article class="teaser">
+  
+<span><time datetime="2024-11-12T20:00:00+01:00" title="Tuesday, 12 November 2024 20:00">Tue, 12 Nov 2024 20:00</time>
+</span>
+
+  
+      <h2>
+      <a href="/author-notification-d-t-and-e-tracks" rel="bookmark">
+<span>Author Notification for D, A, T and E tracks</span>
+</a>
+    </h2>
+    
+
+  <div>
+    
+            <div class="field field--name-field-preamble field--type-text-long field--label-hidden clearfix field__item"><h3>Submission IDs of Accepted Regular Paper</h3>
+<h4>Official author notifications and reviews will be sent to authors by 19 November 2024.</h4>
+<div style="column-count:10;column-gap:10px;column-rule:1px solid black;">
+<p>7<br>8<br>12<br>18<br>21<br>32<br>52<br>54<br>55<br>62<br>66<br>69<br>70<br>76<br>81<br>83<br>87<br>96<br>97<br>100<br>106<br>114<br>115<br>118<br>121<br>125<br>128<br>130<br>139<br>152<br>155<br>159<br>160<br>166<br>169<br>177<br>179<br>184<br>201<br>219<br>224<br>228<br>235<br>240<br>245<br>246<br>254<br>256<br>257<br>259<br>260<br>264<br>267<br>280<br>284<br>298<br>301<br>303<br>305<br>306<br>312<br>315<br>321<br>323<br>325<br>331<br>335<br>336<br>337<br>343<br>348<br>358<br>377<br>382<br>384<br>388<br>389<br>391<br>402<br>404<br>405<br>415<br>417<br>425<br>427<br>431<br>445<br>447<br>450<br>451<br>463<br>465<br>474<br>475<br>480<br>488<br>493<br>495<br>498<br>501<br>508<br>514<br>518<br>527<br>529<br>532<br>538<br>544<br>547<br>549<br>553<br>555<br>560<br>563<br>565<br>568<br>582<br>584<br>589<br>592<br>601<br>611<br>613<br>617<br>627<br>628<br>629<br>636<br>638<br>642<br>647<br>648<br>663<br>666<br>667<br>673<br>674<br>675<br>677<br>680<br>682<br>685<br>689<br>694<br>695<br>696<br>700<br>707<br>708<br>715<br>716<br>717<br>731<br>737<br>738<br>751<br>752<br>754<br>755<br>756<br>759<br>768<br>771<br>772<br>773<br>782<br>784<br>793<br>808<br>809<br>812<br>818<br>825<br>827<br>830<br>837<br>840<br>842<br>845<br>847<br>851<br>853<br>855<br>856<br>861<br>865<br>868<br>882<br>883<br>885<br>891<br>896<br>899<br>902<br>914<br>918<br>920<br>921<br>922<br>926<br>932<br>939<br>942<br>943<br>950<br>953<br>957<br>961<br>962<br>974<br>978<br>988<br>996<br>998<br>1009<br>1010<br>1013<br>1014<br>1016<br>1025<br>1026<br>1030<br>1032<br>1036<br>1041<br>1044<br>1051<br>1077<br>1081<br>1082<br>1091<br>1098<br>1102<br>1105<br>1115<br>1119<br>1130<br>1139<br>1141<br>1145<br>1146<br>1152<br>1153<br>1155<br>1157<br>1158<br>1165<br>1170<br>1172<br>1180<br>1188<br>1190<br>1191<br>1196<br>1208<br>1209<br>1216<br>1217<br>1218<br>1227<br>1232<br>1235<br>1239<br>1246<br>1250<br>1252<br>1253<br>1254<br>1281<br>1285<br>1304<br>1305<br>1324<br>1328<br>1338<br>1346<br>1355<br>1365<br>1373<br>1374<br>1390<br>1394<br>1397<br>1400<br>1405<br>1407<br>1418<br>1426<br>1438<br>1442<br>1451<br>1454<br>1459<br>1464<br>1467<br>1481<br>1484<br>1524<br>1525<br>1532<br>1543<br>1551<br>&nbsp;</p>
+</div>
+<h3>Submission IDs of Accepted Extended Abstracts</h3>
+<h4>Official author notifications and reviews will be sent to authors by 19 November 2024.</h4>
+<div style="column-count:10;column-gap:10px;column-rule:1px solid black;">
+<p>5<br>14<br>24<br>31<br>42<br>43<br>63<br>102<br>136<br>137<br>138<br>143<br>193<br>199<br>200<br>203<br>232<br>252<br>328<br>349<br>368<br>390<br>413<br>448<br>485<br>510<br>516<br>522<br>539<br>545<br>546<br>579<br>583<br>669<br>692<br>698<br>724<br>741<br>743<br>791<br>800<br>802<br>815<br>819<br>877<br>889<br>969<br>977<br>1043<br>1048<br>1060<br>1066<br>1088<br>1103<br>1116<br>1124<br>1164<br>1167<br>1195<br>1201<br>1203<br>1220<br>1233<br>1303<br>1320<br>1334<br>1345<br>1353<br>1368<br>1377<br>1410<br>1429<br>1453<br>1457<br>1518<br>1535</p>
+</div>
+</div>
+      <ul class="links inline nav float-right"><li><a href="/author-notification-d-t-and-e-tracks" rel="tag" title="Author Notification for D, A, T and E tracks" class="btn btn__darkblue" hreflang="en">Read more<span class="visually-hidden"> about Author Notification for D, A, T and E tracks</span></a></li></ul><p style="font-weight: bold; margin: 0; padding: 0; margin-top: 10px; margin-left: 5px;">Share this page on social media</p>
+<div class="shariff" data-url="https://www.date-conference.com/author-notification-d-t-and-e-tracks" data-title="Author Notification for D, A, T and E tracks | DATE 2025" data-services="[&quot;twitter&quot;,&quot;linkedin&quot;,&quot;mail&quot;]" data-theme="colored" data-css="complete" data-orientation="horizontal" data-mail-url="mailto:" data-lang="en">
+    
+        
+</div>
+
+  </div>
+</article>
+</div>
+      
+    
+    
+    <div class="views-row col-12 col-lg-6"><article class="teaser">
+  
+<span><time datetime="2024-11-06T14:11:00+01:00" title="Wednesday, 6 November 2024 14:11">Wed, 6 Nov 2024 14:11</time>
+</span>
+
+  
+      <h2>
+      <a href="/promotion-sponsorship" rel="bookmark">
+<span>Promotion &amp; Sponsorship</span>
+</a>
+    </h2>
+    
+
+  <div>
+    
+            <div class="field field--name-field-preamble field--type-text-long field--label-hidden clearfix field__item"><p class="text-align-justify"><span class="date-tag-blue">DATE 20<span class="date-tag-red">25</span></span><strong> offers numerous opportunities to get in contact with the DATE community and to advertise their novel solutions.</strong></p>
+<p class="text-align-justify"><a class="btn btn__yellow" href="/DATE2025-Promotion-Sponsorship-Brochure.pdf">Download the <span class="date-tag-blue">DATE 20<span class="date-tag-red">25</span></span> Promotion &amp; Sponsorship Opportunities here</a></p>
+<p><span class="date-tag-blue">DATE 20<span class="date-tag-red">25</span></span> is the perfect opportunity to present and communicate your technological and business capabilities to scientific, industrial and commercial audiences at one single European event. All companies, institutions, universities, initiatives and projects that are linked to DATE as promotion partners or sponsors benefit from the additional visibility of their corporate identity, their products, services, expertise and cause.</p>
+<p class="text-align-justify">The <span class="date-tag-blue">DATE 20<span class="date-tag-red">25</span></span> promotion &amp; sponsorship opportunities brochure gives you and idea of what <span class="date-tag-blue">DATE 20<span class="date-tag-red">25</span></span> can offer. Tailor-made packages can be arranged to suit your special requests. Feel free to contact us to discuss your needs and ideas.</p>
+<p class="text-align-justify"><strong>We would be delighted to welcome you among our promotion partners and sponsors at DATE, and to welcome you in Lyon for an interesting programme and effective networking.</strong></p>
+<p class="text-align-justify"><strong>For more details, please contact the<br>
+</strong></p><div style="break-inside: avoid-column; clear: left;"><img alt="Kathleen Schäfer, K.I.T. Group GmbH Dresden, DE" title="Kathleen Schäfer, K.I.T. Group GmbH Dresden, DE" style="max-width:61px; height:auto; margin-right: 10px; margin-bottom: 10px; float: left;" src="https://past.date-conference.com/date19/files/pictures/picture-60825.jpg"><b>Conference Organisation | Sponsorship</b><br>Kathleen Schäfer, K.I.T. Group GmbH Dresden, DE<br><a href="mailto:date@kitdresden.de">date@kitdresden.de</a></div>
+<p></p>
+</div>
+      <ul class="links inline nav float-right"><li><a href="/promotion-sponsorship" rel="tag" title="Promotion &amp; Sponsorship" class="btn btn__darkblue" hreflang="en">Read more<span class="visually-hidden"> about Promotion &amp; Sponsorship</span></a></li></ul><p style="font-weight: bold; margin: 0; padding: 0; margin-top: 10px; margin-left: 5px;">Share this page on social media</p>
+<div class="shariff" data-url="https://www.date-conference.com/promotion-sponsorship" data-title="Promotion &amp;amp; Sponsorship | DATE 2025" data-services="[&quot;twitter&quot;,&quot;linkedin&quot;,&quot;mail&quot;]" data-theme="colored" data-css="complete" data-orientation="horizontal" data-mail-url="mailto:" data-lang="en">
+    
+        
+</div>
+
+  </div>
+</article>
+</div>
+      
+    
+    
+    <div class="views-row col-12 col-lg-6"><article class="teaser">
+  
+<span><time datetime="2024-07-17T17:16:39+02:00" title="Wednesday, 17 July 2024 17:16">Wed, 17 Jul 2024 17:16</time>
+</span>
+
+  
+      <h2>
+      <a href="/call-for-papers" rel="bookmark">
+<span>DATE 2025 - Call for Papers</span>
+</a>
+    </h2>
+    
+
+  <div>
+    
+            <div class="field field--name-field-preamble field--type-text-long field--label-hidden clearfix field__item"><p>The DATE conference is the main European event bringing together designers and design automation users, researchers and vendors as well as specialists in the hardware and software design, test and manufacturing of electronic circuits and systems. DATE puts a strong emphasis on both technology and systems, covering ICs/SoCs, reconfigurable hardware and embedded systems as well as embedded software.</p>
+<p>The three-day event consists of a conference with regular papers, late breaking results papers and extended abstracts, complemented by timely keynotes, special days, focus sessions, embedded tutorials, half-day workshops and multi-partner project sessions. The event will also host the Young People Programme and unplugged sessions fostering the networking and the exchange of information on relevant issues, recent research outcomes and career opportunities.</p>
+<p><span class="date-tag-blue">DATE 20<span class="date-tag-red">25</span></span> is the 28th edition of an event that has always been the place for researchers, young professionals and industrial partners to meet, present their research and discuss the current development and next trends, with high emphasis on social interaction.</p>
+<p>At <span class="date-tag-blue">DATE 20<span class="date-tag-red">25</span></span>, the DATE community, again, comes together for the conference in an intensive three-day format, focussing on interaction as well as further strengthening the community. The vast majority of regular papers will be presented in technical sessions using short flash-presentations, where the emphasis is on poster-supported live interactions (in addition to the common full-length presentation videos available before, during and after the conference). By this, we continue to focus on the core value of conferences: meeting, discussing and exchanging.</p>
+<ul class="links inline nav" style="margin-bottom:20px;margin-top:20px;">
+<li style="margin-right:10px;"><a class="btn btn__yellow" href="/DATE2025-Call-for-Papers.pdf" download="" hreflang="en" rel="tag" title="Download the DATE Call for Papers (web version) here">Download the <span class="date-tag-blue">DATE 20<span class="date-tag-red">25</span></span> <strong>Call for Papers</strong> (web version) here</a></li>
+<li style="margin-right:10px;"><a class="btn btn__yellow" href="/DATE2025-Call-for-Papers-print.pdf" download="" hreflang="en" rel="tag" title="Download the DATE Call for Papers (print version) here">Download the <span class="date-tag-blue">DATE 20<span class="date-tag-red">25</span></span> <strong>Call for Papers</strong> (printversion) here</a></li>
+</ul>
+</div>
+      <ul class="links inline nav float-right"><li><a href="/call-for-papers" rel="tag" title="DATE 2025 - Call for Papers" class="btn btn__darkblue" hreflang="en">Read more<span class="visually-hidden"> about DATE 2025 - Call for Papers</span></a></li></ul><p style="font-weight: bold; margin: 0; padding: 0; margin-top: 10px; margin-left: 5px;">Share this page on social media</p>
+<div class="shariff" data-url="https://www.date-conference.com/call-for-papers" data-title="DATE 2025 - Call for Papers | DATE 2025" data-services="[&quot;twitter&quot;,&quot;linkedin&quot;,&quot;mail&quot;]" data-theme="colored" data-css="complete" data-orientation="horizontal" data-mail-url="mailto:" data-lang="en">
+    
+        
+</div>
+
+  </div>
+</article>
+</div>
+      
+    
+    
+    <div class="views-row col-12 col-lg-6"><article class="teaser">
+  
+<span><time datetime="2024-03-27T16:18:30+01:00" title="Wednesday, 27 March 2024 16:18">Wed, 27 Mar 2024 16:18</time>
+</span>
+
+  
+      <h2>
+      <a href="/date-2025-call-papers" rel="bookmark">
+<span>DATE 2025 - Call for Papers</span>
+</a>
+    </h2>
+    
+
+  <div>
+    
+            <div class="field field--name-field-preamble field--type-text-long field--label-hidden clearfix field__item"><h2 class="text-align-center"><img style="float:left;" alt="DATE Logo" width="116" height="66" class="lazyload" data-src="https://date24.date-conference.com/sites/date24/files/inline-images/DATE2025_logo_blue_shadow.png" loading="lazy">Design, Automation and Test in Europe Conference</h2>
+<h2 class="text-align-center">The European Event for Electronic System Design &amp; Test</h2>
+<h2 class="text-align-center"><a href="https://maps.app.goo.gl/4f6dHf4ZGXEzeNB39">Palais des congrès de Lyon, Lyon, France</a>, 31 March - 2 April 2025</h2>
+<h1 class="text-align-center">Call for Papers</h1>
+</div>
+      
+  <div class="field field--name-field-news-attachments field--type-file field--label-above clearfix">
+    <div class="field__label">Download further information:</div>
+        <div class="field__items">
+                    <div class="field__item"><span class="file file--mime-application-pdf file--application-pdf"><a href="/sites/date25/files/2024-06/DATE2025-Call-for-Papers-short.pdf" type="application/pdf" title="DATE2025-Call-for-Papers-short.pdf">DATE 2025 Call for Papers (short version)</a></span>
+  <span>(100.29 KB)</span>
+</div>
+                </div>
+      </div>
+<ul class="links inline nav float-right"><li><a href="/date-2025-call-papers" rel="tag" title="DATE 2025 - Call for Papers" class="btn btn__darkblue" hreflang="en">Read more<span class="visually-hidden"> about DATE 2025 - Call for Papers</span></a></li></ul><p style="font-weight: bold; margin: 0; padding: 0; margin-top: 10px; margin-left: 5px;">Share this page on social media</p>
+<div class="shariff" data-url="https://www.date-conference.com/date-2025-call-papers" data-title="DATE 2025 - Call for Papers | DATE 2025" data-services="[&quot;twitter&quot;,&quot;linkedin&quot;,&quot;mail&quot;]" data-theme="colored" data-css="complete" data-orientation="horizontal" data-mail-url="mailto:" data-lang="en">
+    
+        
+</div>
+
+  </div>
+</article>
+</div>
+      
+    
+    
+    <div class="views-row col-12 col-lg-6"><article class="teaser">
+  
+<span><time datetime="2024-03-25T11:49:01+01:00" title="Monday, 25 March 2024 11:49">Mon, 25 Mar 2024 11:49</time>
+</span>
+
+  
+      <h2>
+      <a href="/awards" rel="bookmark">
+<span>DATE 2024 Awards</span>
+</a>
+    </h2>
+    
+
+  <div>
+    
+            <div class="field field--name-field-preamble field--type-text-long field--label-hidden clearfix field__item"><h2 class="text-align-center">EDAA Achievement Award 2024</h2>
+<p class="text-align-center">Ingrid Verbauwhede, KU Leuven, BE</p>
+<p class="text-align-center"><a href="https://www.date-conference.com/edaa-achievement-award-2023-goes-jason-cong">https://www.date-conference.com/edaa-achievement-award-2024-goes-ingrid-verbauwhede</a></p>
+<h2 class="text-align-center">IEEE CEDA Service Award</h2>
+<p class="text-align-center">Ian O’Connor, École Centrale de Lyon, FR</p>
+<h2 class="text-align-center">IEEE CS TTTC Outstanding Contribution Award</h2>
+<p class="text-align-center">Andy D. Pimentel, University of Amsterdam, NL</p>
+<h2 class="text-align-center">ACM SIGDA/CEDA/EDAA PhD Forum Prize</h2>
+<p class="text-align-center">Lukas Burgholzer, TU Munich, DE<br><br>
+DESIGN AUTOMATION TOOLS AND SOFTWARE FOR QUANTUM COMPUTING</p>
+<p class="text-align-center">Matteo Risso, Politecnico di Torino, IT<br><br>
+AUTOMATIC HARDWARE-AWARE DESIGN AND OPTIMIZATION OF DEEP LEARNING MODELS</p>
+<h1 class="text-align-center">EDAA Outstanding Dissertation Awards</h1>
+<h3 class="text-align-center">Topic 1 – New directions in systems design methods and tools, simulation and validation, embedded software design and optimization for embedded, cyber-physical, secure and learning systems</h3>
+<p class="text-align-center">Stefan Nikolic, EPFL, CH (Advisor: Prof. Paolo Ienne, EPFL, CH)<br><br>
+Automating the Design of Programmable Interconnect for Reconfigurable Architectures -</p>
+<h3 class="text-align-center">Topic 2 – New directions in SoC platforms co-design, novel architectures for future computing in design flows, and power management</h3>
+<p class="text-align-center">NO AWARD</p>
+<h3 class="text-align-center">Topic 3 – New directions in logic, physical design and CAD for analog/mixed-signal, nano-scale and emerging technologies</h3>
+<p class="text-align-center">Nan Wu, UC Santa Barbara, US (Advisor: Prof. Yuan Xie, UC Santa Barbara, US)<br><br>
+Machine Learning Empowered Agile Hardware Design and Design Automation</p>
+<h3 class="text-align-center">Topic 4 – New directions in safety, reliability and security-aware hardware design, validation and test</h3>
+<p class="text-align-center">Zhixin Pin, University of Florida, US (Advisor: Prof. Prabhat Mishra, University of Florida, US)<br><br>
+Defending Systems Against Malicious Attacks using Machine Learning</p>
+<h2 class="text-align-center">DATE Fellow Award</h2>
+<p class="text-align-center">Ian O´Connor, École Centrale de Lyon, FR</p>
+<p class="text-align-center">For outstanding service contribution for DATE as General Chair of <span class="date-tag-blue">DATE 20<span class="date-tag-red">23</span></span>.</p>
+<h2 class="text-align-center">DATE Best Paper Awards</h2>
+<h3 class="text-align-center">D-Track:</h3>
+<p class="text-align-center"><strong>Xueyuan Liu<sup>1</sup>, Zhuoran Song<sup>1</sup>, Guohao Dai<sup>1</sup>, Gang Li<sup>1</sup>, Can Xiao<sup>2</sup>, Yan Xiang<sup>2</sup>, Dehui Kong<sup>2</sup>, Ke Xu<sup>2</sup>&nbsp;</strong>and <strong>Xiaoyao Liang</strong><sup>1</sup><br><br>
+<sup>1</sup>Shanghai Jiao Tong University, CN;&nbsp;<sup>2</sup>Sanechips Technology, CN<br><br>
+<br><br>
+FusionArch: A Fusion-Based Accelerator for Point-Based Point Cloud Neural Networks (<a href="/programme#BPA04">Session BPA04 Novel Architecture Solutions</a>)</p>
+<h3 class="text-align-center">A-Track:</h3>
+<p class="text-align-center"><strong>Matteo Risso<sup>1</sup>, Chen Xie<sup>1</sup>, Francesco Daghero<sup>1</sup>, Alessio Burrello<sup>2</sup>, Seyedmorteza Mollaei<sup>1</sup>, Marco Castellano<sup>3</sup>, Enrico Macii<sup>1</sup>, Massimo Poncino<sup>1</sup>&nbsp;</strong>and <strong>Daniele Jahier Pagliari<sup>1</sup></strong><br><br>
+<sup>1</sup>Politecnico di Torino, IT;&nbsp;<sup>2</sup>Politecnico di Torino | Università di Bologna, IT;&nbsp;<sup>3</sup>STMicroelectronics, IT<br><br>
+<br><br>
+HW-SW Optimization of DNNs for Privacy-preserving People Counting on Low-resolution Infrared Arrays (<a href="/programme#BPA01">Session BPA01 Better Machine Learning</a>)</p>
+<h3 class="text-align-center">T-Track:</h3>
+<p class="text-align-center"><strong>Yujin Lim, Dongwhee Kim </strong>and <strong>Jungrae Kim, Sungkyunkwan</strong> University, KR<br><br>
+<br><br>
+SELCC: Enhancing MLC Reliability and Endurance with Single-Cell Error Correction Codes (<a href="/programme#BPA02">Session BPA02 Reliability and Optimizations</a>)</p>
+<h3 class="text-align-center">E-Track:</h3>
+<p class="text-align-center"><strong>Yifeng Xiao<sup>1</sup>, Chanwook Oh<sup>1</sup>, Michele Lora<sup>2</sup>&nbsp;</strong>and <strong>Pierluigi Nuzzo<sup>1</sup></strong><br><br>
+<sup>1</sup>University of Southern California, US;&nbsp;<sup>2</sup>Università di Verona, IT<br><br>
+<br><br>
+Efficient Exploration of Cyber-Physical System Architectures Using Contracts and Subgraph Isomorphism (<a href="/programme#BPA04">Session BPA04 Novel Architecture Solutions</a>)</p>
+<h2 class="text-align-center">Outstanding Reviewer Awards</h2>
+<p class="text-align-center">for contributing most valuable reviews for submitted papers, by giving insightful and constructive feedback to the authors, timely submitting manuscript reviews as well as consistent and timely engagement through the selection process, including both online discussion and TPC meeting.</p>
+<h3 class="text-align-center">D-Track:</h3>
+<p class="text-align-center"><strong>Todor Stefanov</strong>, Leiden University, NL</p>
+<p class="text-align-center"><strong>Alejandro Valero</strong>, Universidad de Zaragoza, ES</p>
+<h3 class="text-align-center">A-Track:</h3>
+<p class="text-align-center"><strong>Michael Pehl</strong>, Technical University of Munich, DE</p>
+<p class="text-align-center"><strong>Giovanni Amedeo Cirillo</strong>, STMicroelectronics, IT</p>
+<h3 class="text-align-center">T-Track:</h3>
+<p class="text-align-center"><strong>Harish Dixit</strong>, Meta Platforms Inc., US</p>
+<p class="text-align-center"><strong>Riccardo Cantoro</strong>, Politecnico di Torino, IT</p>
+<h3 class="text-align-center">E-Track:</h3>
+<p class="text-align-center"><strong>Hadjer Benmeziane</strong>, IBM Research, CH</p>
+<p class="text-align-center"><strong>Mohammad Ashjaei</strong>, Mälardalen University, SE</p>
+<h2 class="text-align-center">Young People Programme University Fair Award</h2>
+<p class="text-align-center"><strong>Marc Solé Bonet<sup>1</sup>, Ivan Rodriguez Ferrandez<sup>2</sup>, Dimitris Aspetakis<sup>1</sup>, Jannis Wolf<sup>1</sup>, Matina Maria Trompouki<sup>1</sup></strong>and <strong>Leonidas Kosmidis<sup>2</sup></strong><br><br>
+<sup>1</sup>BSC, ES; <sup>2</sup>UPC | BSC, ES<br><br>
+<br><br>
+Hardware and Software Designs for High Performance and Reliable Space Processing</p>
+<p class="text-align-center">&nbsp;</p>
+<p class="text-align-center">We would like to thank the jury who carefully reviewed all presentations and selected the winner.</p>
+<p class="text-align-center">Hassan Najafi, Antonio Miele, Marcello Traiola, Angeliki Kritikakou, Jose Cano Reyes, Li Zhang</p>
+<h2 class="text-align-center">ASD Outstanding Paper Award</h2>
+<p class="text-align-center">in line with the DATE Special Initiative "Autonomous Systems Design"</p>
+<p class="text-align-center"><strong>Justin Davis </strong>and <strong>Mehmet Belviranli</strong>, Colorado School of Mines, US<br><br>
+<br><br>
+Context-aware Multi-Model Object Detection for Diversely Heterogeneous Compute Systems</p>
+</div>
+      <ul class="links inline nav float-right"><li><a href="/awards" rel="tag" title="DATE 2024 Awards" class="btn btn__darkblue" hreflang="en">Read more<span class="visually-hidden"> about DATE 2024 Awards</span></a></li></ul><p style="font-weight: bold; margin: 0; padding: 0; margin-top: 10px; margin-left: 5px;">Share this page on social media</p>
+<div class="shariff" data-url="https://www.date-conference.com/awards" data-title="DATE 2024 Awards | DATE 2025" data-services="[&quot;twitter&quot;,&quot;linkedin&quot;,&quot;mail&quot;]" data-theme="colored" data-css="complete" data-orientation="horizontal" data-mail-url="mailto:" data-lang="en">
+    
+        
+</div>
+
+  </div>
+</article>
+</div>
+      
+    
+    
+    <div class="views-row col-12 col-lg-6"><article class="teaser">
+  
+<span><time datetime="2024-02-13T15:57:43+01:00" title="Tuesday, 13 February 2024 15:57">Tue, 13 Feb 2024 15:57</time>
+</span>
+
+  
+      <h2>
+      <a href="/edaa-achievement-award-2024-goes-ingrid-verbauwhede" rel="bookmark">
+<span>EDAA Achievement Award 2024 goes to Ingrid Verbauwhede</span>
+</a>
+    </h2>
+    
+
+  <div>
+    
+            <div class="field field--name-field-preamble field--type-text-long field--label-hidden clearfix field__item"><p><img alt="Ingrid Verbauwhede" data-entity-type="file" data-entity-uuid="8ea5879a-9717-45f4-b813-2e4bfcfff411" style="float: left; padding-right: 10px; width: 25%;" class="lazyload" data-src="/sites/date24/files/inline-images/Ingrid%20Verbauwhede.jpg">The Achievement Award is given to individuals who made outstanding contributions to state of the art in electronic design, automation and testing of electronic systems in their life. To be eligible, candidates must have made innovative contributions that impacted how electronic systems are being designed.</p>
+<p>Past recipients have been Kurt ANTREICH (2003), Hugo DE MAN (2004), Jochen JESS (2005), Robert BRAYTON (2006), Tom W. WILLIAMS (2007), Ernest S. KUH (2008), Jan M. RABAEY (2009), Daniel D. GAJSKI (2010), Melvin A. BREUER (2011), Alberto L. SANGIOVANNI-VINCENTELLI (2012), Peter MARWEDEL (2013), Rolf ERNST (2014), Lothar THIELE (2015), Giovanni DE MICHELI (2016), C. L. David LIU (2017), Mary Jane IRWIN (2018), Jacob ABRAHAM (2019), Luca BENINI (2020), Georges GIELEN (2021), Edward A. LEE (2022), and Jason Cong (2023).</p>
+<p>Dr. Ingrid Verbauwhede is currently a full professor in the research group COSIC at KU Leuven and an adjunct professor at UCLA. She is recognized as a pioneer in hardware security. She is an expert in interdisciplinary research linking design for security with novel technologies and circuits as well as in investigating the requirements of novel cryptographic algorithms on secure hardware and HW/SW co-design. Her ability to cross the gap between cryptographic algorithm and protocol development, and actual implementation in hardware, software, and embedded systems has been widely recognized. In fact, she has made outstanding contributions, resulting in highly cited work, in several key aspects of EDA: electronic design for security, design automation and integration of security in digital EDA design flows, and test for security, with a focus on attacks and countermeasures to resist side-channel and fault attacks. Her work's application covers ASICs, FPGAs, and embedded microcontrollers. She has more than 450 publications in international journals and conferences and, according to Google Scholar, she has more than 30000 citations and an overall H-index of 90.</p>
+</div>
+      
+  <div class="field field--name-field-news-attachments field--type-file field--label-above clearfix">
+    <div class="field__label">Download further information:</div>
+        <div class="field__items">
+                    <div class="field__item"><span class="file file--mime-application-pdf file--application-pdf"><a href="/sites/date25/files/2024-02/EDAA_Press_Release_Verbauwhede-2024%5B1%5D.pdf" type="application/pdf" title="EDAA_Press_Release_Verbauwhede-2024[1].pdf">EDAA Press Release - EDAA Achievement Award 2024 goes to Ingrid Verbauwhede</a></span>
+  <span>(256.88 KB)</span>
+</div>
+                </div>
+      </div>
+<ul class="links inline nav float-right"><li><a href="/edaa-achievement-award-2024-goes-ingrid-verbauwhede" rel="tag" title="EDAA Achievement Award 2024 goes to Ingrid Verbauwhede" class="btn btn__darkblue" hreflang="en">Read more<span class="visually-hidden"> about EDAA Achievement Award 2024 goes to Ingrid Verbauwhede</span></a></li></ul><p style="font-weight: bold; margin: 0; padding: 0; margin-top: 10px; margin-left: 5px;">Share this page on social media</p>
+<div class="shariff" data-url="https://www.date-conference.com/edaa-achievement-award-2024-goes-ingrid-verbauwhede" data-title="EDAA Achievement Award 2024 goes to Ingrid Verbauwhede | DATE 2025" data-services="[&quot;twitter&quot;,&quot;linkedin&quot;,&quot;mail&quot;]" data-theme="colored" data-css="complete" data-orientation="horizontal" data-mail-url="mailto:" data-lang="en">
+    
+        
+</div>
+
+  </div>
+</article>
+</div>
+  </div>
+</div>
+
+    
+<ul class="js-pager__items pager" data-drupal-views-infinite-scroll-pager="automatic">
+  <li class="pager__item">
+    <a class="button" href="?page=1" title="Load more items" rel="next">Load More</a>
+  </li>
+</ul>
+
+
+  
+  
+
+  
+  <a href="https://www.date-conference.com/rss.xml" class="feed-icon">
+  Subscribe to 
+</a>
+
+</div>
+</div>
+
+  </div>
+<div class="simplenews-subscriptions-block-c10b10c9-c3fe-4f15-9b86-e23b2dad0d4b simplenews-subscriber-form fp-cta d-flex text-center" data-drupal-selector="simplenews-subscriptions-block-c10b10c9-c3fe-4f15-9b86-e23b2dad0d4b" id="block-simplenewssubscription">
+  <div>
+    
+          <h2>DATE Newsletter Subscription</h2>
+        
+    <div id="edit-message" class="js-form-item form-item js-form-type-item form-item-message js-form-item-message form-no-label">
+        Stay informed - subscribe to our newsletter.
+        </div>
+
+  </div>
+  <div class="form-fields">
+          <form data-action="/" class="antibot" action="/antibot" method="post" id="simplenews-subscriptions-block-c10b10c9-c3fe-4f15-9b86-e23b2dad0d4b" accept-charset="UTF-8">
+  <noscript>
+  <div class="antibot-no-js antibot-message antibot-message-warning">You must have JavaScript enabled to use this form.</div>
+</noscript>
+<div class="field--type-entity-reference field--name-subscriptions field--widget-simplenews-subscription-select js-form-wrapper form-wrapper" data-drupal-selector="edit-subscriptions-wrapper" id="edit-subscriptions-wrapper"></div>
+<input data-drupal-selector="form-unqse88-z0oncyg-tvsoctsu2m6w9qhkd-bcxtt4iky" type="hidden" name="form_build_id" value="form-UNqSE88_z0onCyG_tVsOctSU2M6W9qhkD-Bcxtt4IkY">
+<input data-drupal-selector="edit-simplenews-subscriptions-block-c10b10c9-c3fe-4f15-9b86-e23b2dad0d4b" type="hidden" name="form_id" value="simplenews_subscriptions_block_c10b10c9-c3fe-4f15-9b86-e23b2dad0d4b">
+<input data-drupal-selector="edit-antibot-key" type="hidden" name="antibot_key" value="">
+<div class="field--type-email field--name-mail field--widget-email-default js-form-wrapper form-wrapper" data-drupal-selector="edit-mail-wrapper" id="edit-mail-wrapper">      <div class="js-form-item form-item js-form-type-email form-item-mail-0-value js-form-item-mail-0-value form-no-label">
+        <input data-drupal-selector="edit-mail-0-value" type="email" id="edit-mail-0-value" name="mail[0][value]" value="" size="60" maxlength="254" placeholder="" class="form-email required" required="required" aria-required="true">
+
+        </div>
+
+  </div>
+
+
+                    <fieldset data-drupal-selector="edit-captcha" class="captcha captcha-type-challenge--math">
+          <legend class="captcha__title js-form-required form-required">
+            CAPTCHA
+          </legend>
+                  <div class="captcha__element">
+            <input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="783584">
+<input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="GcvKbYkoQ28eCRKcCcQpaMvoqfc_niGC8GQqLqoj0fI">
+<div class="js-form-item form-item js-form-type-textfield form-item-captcha-response js-form-item-captcha-response">
+      <label for="edit-captcha-response" class="js-form-required form-required">Math question</label>
+        <span class="field-prefix">5 + 9 =</span>
+      <input autocomplete="off" data-drupal-selector="edit-captcha-response" aria-describedby="edit-captcha-response--description" type="text" id="edit-captcha-response" name="captcha_response" value="" size="4" maxlength="2" class="form-text required" required="required" aria-required="true">
+
+            <div id="edit-captcha-response--description" class="description">
+      Solve this simple math problem and enter the result. E.g. for 1+3, enter 4.
+    </div>
+  </div>
+
+          </div>
+                      <div class="captcha__description description">This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.</div>
+                          </fieldset>
+            <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Subscribe" class="button button--primary js-form-submit form-submit">
+<a href="/simplenews/validate" data-drupal-selector="edit-manage" id="edit-manage">Manage existing</a></div>
+
+</form>
+
+      </div>
+</div>
+
+  </div>
+
+</main>
+
+  <footer id="footer" role="contentinfo">
+      <div class="container-fluid d-flex">
+    <nav role="navigation" aria-labelledby="block-date-conference-theme-footer-menu" id="block-date-conference-theme-footer">
+            
+  <h2 class="visually-hidden" id="block-date-conference-theme-footer-menu">Footer menu</h2>
+  
+
+        
+              <ul>
+              <li>
+        <a href="/privacy-policy" data-drupal-link-system-path="node/75">Privacy Statement</a>
+              </li>
+          <li>
+        <a href="/copyright-information" data-drupal-link-system-path="node/818">Copyright Information</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+  </footer>
+
+  </div>

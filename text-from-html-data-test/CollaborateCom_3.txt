@@ -1,0 +1,263 @@
+Collaborative Computing: Networking, Applications and Worksharing | springerprofessional.de  Skip to main content    Menu   Disciplines Chevron down icon     Chevron up icon        Automotive    Business IT + Informatics    Construction + Real Estate    Electrical Engineering + Electronics    Energy + Sustainability    Insurance + Risk    Finance + Banking    Management + Leadership    Marketing + Sales    Mechanical Engineering + Materials      
+   
+ Events       
+   
+ DE    EN     
+
+ Books       
+   
+ Journals       
+   
+ Topic Page Chevron down icon     Chevron up icon        Marketing      
+
+ Start single access now       
+   
+ Access for companies       
+
+ Springer Professional     
+   
+   Search   Enter your search terms       Search     
+  
+ EXTENDED SEARCH      
+
+  Log in      
+
+ Springer Professional  
+
+ JAVASCRIPT NEEDED    
+ Please enable JavaScript on your browser, so that you can use all features of this website.   
+
+  INTERNET EXPLORER IS NO LONGER SUPPORTED    
+ Your version of Internet Explorer is no longer supported by this system. Please install one of the following browsers: Microsoft Edge, Safari, Chrome or Firefox   
+
+ Top    
+
+ 2024 | Book  
+
+ Read chapter  Read first chapter     
+   
+ Collaborative Computing: Networking, Applications and Worksharing  
+ 19th EAI International Conference, CollaborateCom 2023, Corfu Island, Greece, October 4-6, 2023, Proceedings, Part III  
+ Editors: Honghao Gao, Xinheng Wang, Nikolaos Voros   
+   
+ Publisher: Springer Nature Switzerland    
+ Book Series : Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering    
+ Part of: Springer Professional "Wirtschaft+Technik"  ,   Springer Professional "Technik"  ,   Springer Professional "Wirtschaft"    
+   
+ Table of Contents    
+
+      Search      
+ insite    
+ SEARCH    
+
+ About this book  
+ The three-volume set LNICST 561, 562 563 constitutes the refereed post-conference proceedings of the 19th EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing, CollaborateCom 2023, held in Corfu Island, Greece, during October 4-6, 2023.  
+   
+  The 72 full papers presented in these proceedings were carefully reviewed and selected from 176 submissions. The papers are organized in the following topical sections:  
+   
+  Volume I : Collaborative Computing, Edge Computing & Collaborative working, Blockchain applications, Code Search and Completion, Edge Computing Scheduling and Offloading.  
+  Volume II: Deep Learning and Application, Graph Computing, Security and Privacy Protection and Processing and Recognition.  
+  Volume III: Onsite Session Day 2, Federated learning and application, Collaborative working, Edge Computing and Prediction, Optimization and Applications.  
+
+ MyTopic Alert   
+  Login for updating and creating your alerts.  
+
+ Advertisement   
+
+ Table of Contents  
+ Frontmatter  
+  
+ Onsite Session Day 2  
+ Frontmatter  
+  
+ Multi-agent Reinforcement Learning Based Collaborative Multi-task Scheduling for Vehicular Edge Computing  
+  Abstract   
+ Nowadays, connected vehicles equipped with advanced computing and communication capabilities are increasingly viewed as mobile computing platforms capable of offering various in-vehicle services, including but not limited to autonomous driving, collision avoidance, and parking assistance. However, providing these time-sensitive services requires the fusion of multi-task processing results from multiple sensors in connected vehicles, which poses a significant challenge to designing an effective task scheduling strategy that can minimize service requests’ completion time and reduce vehicles’ energy consumption. In this paper, a multi-agent reinforcement learning-based collaborative multi-task scheduling method is proposed to achieve a joint optimization on completion time and energy consumption. Firstly, the reinforcement learning-based scheduling method can allocate multiple tasks dynamically according to the dynamic-changing environment. Then, a cloud-edge-end collaboration scheme is designed to complete the tasks efficiently. Furthermore, the transmission power can be adjusted based on the position and mobility of vehicles to reduce energy consumption. The experimental results demonstrate that the designed task scheduling method outperforms benchmark methods in terms of comprehensive performance.   
+   
+ Peisong Li, Ziren Xiao, Xinheng Wang, Kaizhu Huang, Yi Huang, Andrei Tchernykh   
+
+ A Novel Topology Metric for Indoor Point Cloud SLAM Based on Plane Detection Optimization  
+  Abstract   
+ Accurate self-localization and navigation in complex indoor environments are essential functions for the intelligent robots. However, the existing SLAM algorithms rely heavily on differential GPS or additional measuring devices (such as expensive laser tracker), which not only increase research costs but also limit the deployment of algorithms in specific scenarios. In recent years, reference-free pose estimation methods based on the topological structure of point cloud maps have gained popularity, especially in indoor artificial scenes where rich planar information is available. Some existing algorithms suffer from inaccuracies in spatial point cloud plane segmentation and normal estimation, leading to the introduction of evaluation errors. This paper introduces the optimization of plane segmentation results by incorporating deep learning-based point cloud semantic segmentation and proposes measurement indicators based on the Plane Normals Entropy (PNE) and Co-Plane Variance (CPV) to estimate the rotation and translation components of SLAM poses. Furthermore, we introduce a ternary correlation measure to analyze the relationship between noise, relative pose estimation, and the two proposed measures, building upon the conventional binary correlation measure. Our proposed PNE and CPV metrics were quantitatively evaluated on two different scenarios of LiDAR point cloud data in Gazebo simulator, and the results demonstrate that these metrics exhibit superior binary and triple correlation and computational efficiency, making them a promising solution for accurate self-localization and navigation in complex indoor environments.   
+   
+ Zhenchao Ouyang, Jiahe Cui, Yunxiang He, Dongyu Li, Qinglei Hu, Changjie Zhang   
+
+ On the Performance of Federated Learning Network  
+  Abstract   
+ Federated Learning is a decentralised network platform where the edge nodes train their local models and send their updated weights to the server. The server combines all the various local weights received and sends the aggregated model back to the edge nodes for further training, and this process continues until convergence is achieved. This study models the Federated Learning (FL) network. The Traffic speed (TS), Round trip time (RTT), and Bandwidth delay-product (BDP) parameters have been considered for modelling the Federated Learning network. Through experimentation, it can be inferred that the TS has a high impact and high correlation on the BDP within the network, and the RTT has a low impact on the BDP. The decentralised and classical machine learning models’ predictions have been compared. It has been observed that the decentralised machine learning model’s prediction outperforms the classical machine learning model’s prediction. The link experiences low latency because only the updated weights are transmitted within the link and not the raw data.   
+   
+ Godwin Idoje, Tasos Dagiuklas, Muddesar Iqbal   
+
+ Federated Learning and Application  
+ Frontmatter  
+  
+ FedECCR: Federated Learning Method with Encoding Comparison and Classification Rectification  
+  Abstract   
+ Federated learning is a distributed training method that integrates multi-party data information using privacy-preserving technologies through dispersed client data sets to jointly construct a global model under the coordination of a central server. However, in practical applications, there is a high degree of data distribution skewness among clients, which causes the optimization direction of the client models to diverge, resulting in model bias and reducing the accuracy of the global model. Existing methods require the calculation and transmission of much information to correct the optimization direction of the client models, or only roughly limit the deviation of the client models end-to-end, ignoring targeted processing of the internal structure of the model, resulting in unclear improvement effects. To address these problems, we propose a federated optimization algorithm FedECCR based on encoding contrast and classification correction. This algorithm divides the model into an encoder and a classifier. It utilizes prototype contrastive training of the model encoder and unbiased classification correction of the classifier. This approach notably improves the accuracy of the global model while maintaining low communication costs. We conducted experiments on multiple data sets to evaluate the validity of our method, and the quantified results showed that FedECCR can improve the global model classification accuracy by approximately 1% to 6% compared to FedAvg, FedProx, and MOON.   
+   
+ Yan Zeng, Hui Zheng, Xin Wang, Beibei Zhang, Mingyao Zhou, Jilin Zhang, YongJian Ren   
+
+ CSA_FedVeh: Cluster-Based Semi-asynchronous Federated Learning Framework for Internet of Vehicles  
+  Abstract   
+ In Internet of Vehicles (IoV) system, Federated Learning (FL) is a novel distributed approach to processing real-time vehicle data that enables training of shared learning models while ensuring data privacy. However, existing FL still face numerous challenges in IoV. Firstly, the fast convergence with FL models is difficult to achieve due to the high mobility of vehicles and the non-independent identical distribution (Non-IID) among data collected by vehicles. Moreover, the parameter aggregation process of FL incurs significant communication overhead, and the varying computing power of vehicles results in the straggler. To address these issues, this paper proposes a Cluster-based Semi-Asynchronous Federated Learning framework for IoV (CSA_FedVeh). Specifically, we propose a Space-Time and Weight DBSCAN density clustering algorithm (STW-DBSCAN) that relies on both the space-time location and model weight similarities of vehicles. Clustering of vehicles can alleviate the impact of Non-IID data, and the joint training of data vehicles can reduce resource consumption and mitigate the straggler effect. In addition, we adopt a semi-asynchronous FL aggregation mechanism to reduce communication time and improve FL efficiency. Experimental results show that compared with baselines under Non-IID datasets, CSA_FedVeh can reduce the running time by about 24.6% to 60.2%, and reduce communication consumption by 3.4% to 62.07% on MNIST dataset and 1.01% to 68.6% on GTSRD dataset.   
+   
+ Dun Cao, Jiasi Xiong, Nanfang Lei, Robert Simon Sherratt, Jin Wang   
+
+ Efficiently Detecting Anomalies in IoT: A Novel Multi-Task Federated Learning Method  
+  Abstract   
+ With the development of IoT technology, a significant amount of time series data is continuously generated, and anomaly detection of this data is crucial. However, time series data in IoT is dynamic and heterogeneous, and most centralized learning also suffers from security and privacy issues. To address these issues, we propose a multi-task anomaly detection approach based on federated learning (MTAD-FL) to address these problems. First, we propose a distributed framework based on Multi-Task Federated Learning (MT-FL), which aims to solve multiple tasks simultaneously while exploiting similarities and differences between tasks; second, to identify complex anomaly patterns and features in the IoT environment, we construct a Squeeze Excitation (SE) based and External Attention (EA) based Enhance Dual Network (SE-EA-EDN) feature extractor to monitor real-time data features from IoT systems efficiently; finally, we design a Local-Global Feature-based Parallel Knowledge Transfer (LGF-PKT) to parallelize the updating of weights of local and global features. To validate the effectiveness of our approach, we conducted comparative experiments on three publicly available datasets, SMD, SWaT, and SKAB, and MTAD-FL improved F1 by 11%, 67.8%, and 27.5%, respectively, over the other methods.   
+   
+ Junfeng Hao, Juan Chen, Peng Chen, Yang Wang, Xianhua Niu, Lei Xu, Yunni Xia   
+
+ A Novel Deep Federated Learning-Based and Profit-Driven Service Caching Method  
+  Abstract   
+ Service caching is an emerging solution to addressing massive service request in a distributed environment for supporting rapidly growing services and applications. With the explosive increases in global mobile data traffic, service caching over the edge computing architecture, Mobile edge computing (MEC), emerges for alleviating traffic congestion as well as for optimizing the efficiency of task processing. In this manuscript, we propose a novel profit-driven service caching method based on a federated learning model for service prediction and a deep reinforcement learning mode for yielding caching decisions (FPDRD) in an edge environment. The proposed method is temporal service popularity and user preference-aware. It aims to ensure quality of service (QoS) of delivery of cached service while maximizing the profits of network service providers. Experimental results clearly demonstrate that the FPDRD method outperforms traditional methods in multiple aspects.   
+   
+ Zhaobin Ouyang, Yunni Xia, Qinglan Peng, Yin Li, Peng Chen, Xu Wang   
+
+ A Multi-behavior Recommendation Algorithm Based on Personalized Federated Learning  
+  Abstract   
+ Multi-behavior recommendation algorithms comprehensively use various types of interaction behaviors between users and items, such as clicking, collecting, purchasing, and commenting, to model user preferences and item features. It captures high-level interactions between users and items, and effectively alleviates the data sparsity problem in recommendation algorithms. However, most existing multi-behavior recommendation algorithms are mainly centralized learning models. User behavior data is collected and uploaded to the server to train recommendation model parameters, which poses a risk of data leakage and compromises user privacy. To address this problem, a multi-behavior recommendation algorithm based on the federated learning paradigm (FedMB) is proposed. This approach uses the federated learning framework to establish a separate model for each end device and utilizes the data of the end device for user-end model training, which improves the privacy and security of user data. To enhance privacy and security during parameters uploaded, all uploaded parameters will be encrypted, At the same time, the precedence chart is used to optimize the model parameters distributed by the server, thereby improving the recommendation quality of the overall model. Compared with that of the latest methods, our federated model achieves good performance on the three datasets.   
+   
+ Zhongqin Bi, Yutang Duan, Weina Zhang, Meijing Shan   
+
+ FederatedMesh: Collaborative Federated Learning for Medical Data Sharing in Mesh Networks  
+  Abstract   
+ Edge computing is a paradigm that involves performing local processing on lightweight devices at the edge of networks to improve response times and reduce bandwidth consumption. While machine learning (ML) models can run on smaller computing devices at the edge, training ML models presents challenges for low-capacity devices. This paper aimed to evaluate the performance of Federated Learning (FL) - a distributed ML framework, when training a medical dataset using Raspberry Pi devices as client nodes. The testing accuracy, CPU usage, RAM memory usage and network performance were measured for different number of clients and epochs. The results showed that increasing the number of devices generally improved the testing accuracy, with the greatest improvement observed in the earlier epochs. However, increasing the number of devices also increased the CPU usage, with a significant increase observed in the later epochs. Additionally, the RAM memory usage increased slightly as the number of clients and epochs increased. The findings suggest that FL can be an effective way to train medical models using distributed devices, but careful consideration must be given to the trade-off between accuracy and computational resources.   
+   
+ Lamir Shkurti, Mennan Selimi, Adrian Besimi   
+
+ Collaborative Working  
+ Frontmatter  
+  
+ Enhance Broadcasting Throughput by Associating Network Coding with UAVs Relays Deployment in Emergency Communications  
+  Abstract   
+ During emergency scenarios, network access may be disrupted due to damaged Base Stations (BSs), and deploying Unmanned Aerial Vehicles (UAVs) as communication relays is common in rescue scenarios due to their convenience in ensuring network access. In such situations, the dissemination of rescue-related information messages is crucial, and broadcast messages are often prioritized. Thus, ensuring high broadcast throughput while guaranteeing accessibility for all victims and rescue teams is a significant challenge. Moreover, the broadcast burden is further aggravated by multiple rescue teams broadcasting messages simultaneously. To address this issue, Network Coding Based Cooperative (NCBC) broadcast scheme is a promising approach for enhancing broadcast throughput in emergency scenarios. By employing the NCBC broadcast scheme, we show that the broadcast throughput can be significantly improved. We propose a heuristic algorithm for generating optimal deployment of UAVs using network coding strategy and evaluate the broadcast throughput quantitatively. Simulation results show that our approach can ensure user accessibility and yield at least 26.69% throughput improvement compared to the traditional copy-and-forward relay protocol in a typical scenario.   
+   
+ Chaonong Xu, Yujie Jiang   
+
+ Dynamic Target User Selection Model for Market Promotion with Multiple Stakeholders  
+  Abstract   
+ While recommendation platforms present merchants with a vast and transparent sales avenue, they have inadvertently favored dominant merchants, often sidelining small-sized businesses. Addressing this challenge, platforms are deploying multifaceted market promotion strategies both to help merchants identify potential users and to spotlight emerging items for users. A crucial aspect of these strategies is the efficient selection of target users. By channeling resources towards the most responsive users, there’s potential for a heightened return on marketing investments. In light of limited research in this domain, we put forth a tri-stakeholder considered user selection model with social networks (TriSUMS). This model recognizes the intertwined interests of three core stakeholders: merchants (items), platforms, and users. It harmonizes the objectives of these stakeholders through an integrated reward function and incorporates social networks to identify the prime target users for items of merchants adeptly. We validate TriSUMS using an exhaustive exposure user-item interaction dataset, assessed within a solid offline reinforcement learning framework.   
+   
+ Linxin Guo, Shiqi Wang, Min Gao, Chongming Gao   
+
+ Collaborative Decision-Making Processes Analysis of Service Ecosystem: A Case Study of Academic Ecosystem Involution  
+  Abstract   
+ With the collaboration of several intelligent services, a crowd intelligence service network has been formed, and a service ecosystem has gradually emerged. As a novel service organization model, the Service Ecosystem (SE) can provide more sophisticated, precise, and thorough services and has attracted widespread attention. However, it also brings negative effects such as involution, and information cocoon room. Thus, how to analyze the collaborative decision-making mechanism between the SE regulation algorithm and the crowd intelligence group, exploring the reasons behind the negative effects, and finding effective intervention strategies have become problems in this field. To solve the challenges, we propose a Computational Experiments-based method Decision-making processes Analysis model in SE, namely CEDA. The proposed CEDA model consists of three modules: the autonomous evolution mechanism module, the learning evolution mechanism module, and the collaborative decision-making analysis module. Among them, the computational experiments can provide a customized test environment for the analysis of collaborative decision-making processes and find out the appropriate intervention strategy. Finally, the validity of the CEDA model is verified through the case of academic ecosystem involution. The results show that computational experiments can provide new ideas and paths for collaborative decision-making processes analysis.   
+   
+ Xiangpei Yan, Xiao Xue, Chao Peng, Donghua Liu, Zhiyong Feng, Wang Xiao   
+
+ Operationalizing the Use of Sensor Data in Mobile Crowdsensing: A Systematic Review and Practical Guidelines  
+  Abstract   
+ Smartphones have found their way into many domains because they can be used to measure phenomena of common interest. The Global Overview Report Digital 2022 states that two-thirds of the world’s population uses a smartphone. This creates a power for measurements that many researchers would like to leverage. However, this in turn requires standardized approaches to collaborative data collection. Mobile crowdsensing (MCS) is a paradigm that pursues collaborative measurements with smartphones and the available sensor technology. Although literature on MCS has existed since 2006, there is still little work that has systematically studied existing systems. Especially when developing technical systems based on MCS, design decisions must be made that affect the subsequent operation. In this paper, we therefore conducted a PRISMA-based literature review on MCS, considering two aspects: First, we wanted to be able to better categorize existing systems, and second, we wanted to derive guidelines for developers that can support design decisions. Out of a total of 661 identified publications, we were able to include 117 papers in the analysis. Based on five main criteria (application area, goals, sensor utilization, time constraints, processing device), we show which goals the research area is currently pursuing and which approaches are being used to achieve these goals. Following this, we derive practical guidelines to support researchers and developers in making design decisions.   
+   
+ Robin Kraft, Maximilian Blasi, Marc Schickler, Manfred Reichert, Rüdiger Pryss   
+
+ Enriching Process Models with Relevant Process Details for Flexible Human-Robot Teaming  
+  Abstract   
+ Human-robot teaming is crucial for future automation in small and medium enterprises. In that context, domain-specific process models are used as an intuitive description of work to share between two agents. Process designers usually introduce a certain degree of abstraction into the models. This way, models are better to trace for humans, and a single model can moreover enable flexibility by capturing several process variations. However, abstraction can lead to unintentional omission of information (e.g., experience of skilled workers). This may impair the quality of process results. To balance the trade-off between model readability and flexibility, we contribute a novel human-robot teaming approach with incremental learning of relevant process details (RPDs). RPDs are extracted from imagery during process execution and used to enrich an integrated process model which unifies human worker instruction and robot programming. Experiments based on two use cases demonstrate the practical feasibility and scalability of our approach.   
+   
+ Myriel Fichtner, Sascha Sucker, Dominik Riedelbauch, Stefan Jablonski, Dominik Henrich   
+
+ Edge Computing  
+ Frontmatter  
+  
+ Joint Optimization of PAoI and Queue Backlog with Energy Constraints in LoRa Gateway Systems  
+  Abstract   
+ Peak Age of Information(PAoI), as a performance indicator representing the freshness of information, has attracted the attention of researchers in recent years. The data packet transmission rate in the LoRa network determines the information freshness level for system packets. In order to study the optimal scheduling of data packets, we try to use the PAoI to describe the real-time level of the end devices( \( EDs \)  ) and reduce it. We use edge servers to process monitoring data packets at the edge of the network to improve the efficiency of \( EDs \)  and the information freshness level of data. Since packet transmission will be constrained by \( EDs \)  battery queue energy and gateway queue backlog, we propose an optimization problem that aims to minimize the long-term average PAoI of \( EDs \)  while ensuring network stability. With the Lyapunov optimization framework, the long-term stochastic optimization problem is transformed into a single-slot optimization problem. Furthermore, to avoid the problem of too large search space, we propose a dynamic strategy space reduction algorithm (SSDR) to shrink the strategy space. The simulation experiments show that our SSDR algorithm can optimize the PAoI index of \( EDs \)  in various situations and satisfy the constraints of long-term optimization.   
+   
+ Lei Shi, Rui Ji, Zhen Wei, Shilong Feng, Zhehao Li   
+
+ Enhancing Session-Based Recommendation with Multi-granularity User Interest-Aware Graph Neural Networks  
+  Abstract   
+ Session-based recommendation aims at predicting the next interaction based on short-term behaviors within an anonymous session. Conventional session-based recommendation methods primarily focus on studying the sequential relationships of items in a session while often failing to adequately consider the impact of user interest on the next interaction item. This paper proposes the M  ulti-granularity U  ser I  nterest-aware G  raph N  eural N  etworks (MUI-GNN) model, which leverages item attributes and global context information to capture users’ multi-granularity interest. Specifically, in addition to capturing the sequential information within sessions, our model incorporates individual and group interest of users at item and global granularity, respectively, enabling more accurate item representations. In MUI-GNN, a session graph utilizes the sequential relationships between different interactions to infer the scenario of the session. An item graph explores individual user interest by searching items with similar attributes, while a global graph mines similar behavior patterns between different sessions to uncover group interest among users. We apply contrastive learning to reduce noise interference during the graph construction process and help the model obtain more contextual information. Extensive experiments conducted on three real-world datasets have demonstrated that the proposed MUI-GNN outperforms state-of-the-art session-based recommendation models.   
+   
+ Cairong Yan, Yiwei Zhang, Xiangyang Feng, Yanglan Gan   
+
+ Delay-Constrained Multicast Throughput Maximization in MEC Networks for High-Speed Railways  
+  Abstract   
+ Multi-access Edge Computing presents a compelling solution for delivering seamless connectivity to computing services. In this study, we aim to optimize multicast throughput to ensure high-quality experiences for passengers engaged in inter-train interactions within dedicated MEC networks designed for high-speed railways. Considering the unique challenges associated with high-speed railways, we model multicast routing paths as group Steiner trees. Subsequently, we devise a rapid tree construction method by converting the root search into the Generalized Assignment Problem (GAP). This innovative approach skillfully balances accuracy and computational efficiency. We demonstrate that this problem can be effectively reduced to the bounded knapsack problem with setups. In addition, we recognize the presence of precedence constraints between tasks and their respective outcomes. Consequently, we introduce a new variant of the knapsack problem, which we refer to as the Precedence-constrained Bounded Knapsack Problem with Setups. Our approach, termed the GAP- and knapsack-based Group Steiner Tree (GKGST), offers a relative performance guarantee of 1/2. We evaluate the GKGST algorithm against three baseline algorithms, which are adapted and extended from existing literature. Simulation results indicate that our proposed algorithm exhibits considerable potential for enhanced performance.   
+   
+ Junyi Xu, Zhenchun Wei, Xiaohui Yuan, Zengwei Lyu, Lin Feng, Jianghong Han   
+
+ An Evolving Transformer Network Based on Hybrid Dilated Convolution for Traffic Flow Prediction  
+  Abstract   
+ Decision making based on predictive traffic flow is one of effective solutions to relieve road congestion. Capturing and modeling the dynamic temporal relationships in global data is an important part of the traffic flow prediction problem. Transformer network has been proven to have powerful capabilities in capturing long-range dependencies and interactions in sequences, making it widely used in traffic flow prediction tasks. However, existing transformer-based models still have limitations. On the one hand, they ignore the dynamism and local relevance of traffic flow time series due to static embedding of input data. On the other hand, they do not take into account the inheritance of attention patterns due to the attention scores of each layer’s are learned separately. To address these two issues, we propose an evolving transformer network based on hybrid dilated convolution, namely HDCformer. First, a novel sequence embedding layer based on dilated convolution can dynamically learn the local relevance of traffic flow time series. Secondly, we add residual connections between attention modules of adjacent layers to fully capture the evolution trend of attention patterns between layers. Our HDCformer is evaluated on two real-world datasets and the results show that our model outperforms state-of-the-art baselines in terms of MAE, RMSE, and MAPE.   
+   
+ Qi Yu, Weilong Ding, Maoxiang Sun, Jihai Huang   
+
+ Prediction, Optimization and Applications  
+ Frontmatter  
+  
+ DualDNSMiner: A Dual-Stack Resolver Discovery Method Based on Alias Resolution  
+  Abstract   
+ With the rapid development of IPv6 network applications, the transition to IPv6 dns has accelerated. In this process, dual-stack resolvers take on the crucial role that ensures the resolution of domains under hybrid network conditions. However, the lagging deployment of IPv6 defence measures may undermine the overall security of resolvers, making the discovery of dual-stack resolvers vital for DNS security analysis. Previous methods for discovering dual-stack resolvers are built on strong but impractical assumptions, ignoring resolvers with multiple alias IP addresses. In this article, we propose a new dual-stack resolvers discovery model based on alias resolution - DualDNSMiner. DualDNSMiner involves address alias resolution technology in order to recognize hosts with multiple alias addresses and identify dual-stack resolvers. Large-scale measurement experiments show that, DualDNSMiner can reliably discover over 80% more new dual-stack resolvers compared to previous judgment rules. In addition, we put forth a novel approach to validate the accuracy of our findings. The results demonstrate that the precision of DualDNSMiner can exceed over 90%. Finally, the results of DualDNSMiner provide the first proof of the widespread use of alias addresses in DNS resolvers, which is crucial for analyzing the process of DNS’s IPv6 evolution.   
+   
+ Dingkang Han, Yujia Zhu, Liang Jiao, Dikai Mo, Yong Sun, Yuedong Zhang, Qingyun Liu   
+
+ DT-MUSA: Dual Transfer Driven Multi-source Domain Adaptation for WEEE Reverse Logistics Return Prediction  
+  Abstract   
+ Reverse logistics (RL) return prediction for Waste Electrical and Electronic Equipment (WEEE) has gained attention due to its potential to improve operational efficiency in the recycling industry. However, in data-scarce regions, commonly used deep learning models perform poorly. Existing multi-source cross-domain transfer learning models can partially overcome data scarcity by using historical data from multiple sources. However, these models aggregate multi-source domain data into a single-source domain in transfer, ignoring the differences in time series features among source domains. Additionally, the lack of historical data in the target domain makes fine-tuning the prediction model inoperative. To address these issues, we propose Dual Transfer Driven Multi-Source domain Adaptation (DT-MUSA) for WEEE RL return prediction. DT-MUSA includes a dual transfer model that combines sample transfer and model transfer and a basic prediction model MUCAN (Multi-time Scale CNN-Attention Network). It employs a multi-task learning to aggregate predictors from multiple regions and avoids negative transfer learning. The dual transfer model enables fine-tuning of the base model MUCAN by generating long-term time series data through sample transfer. We applied DT-MUSA to real cases of an RL recycling company and conducted extensive experiments. The results show that DT-MUSA outperforms baseline prediction models significantly.   
+   
+ Ruiqi Liu, Min Gao, Yujiang Wu, Jie Zeng, Jia Zhang, Jinyong Gao   
+
+ A Synchronous Parallel Method with Parameters Communication Prediction for Distributed Machine Learning  
+  Abstract   
+ With the development of machine learning technology in various fields, such as medical care, smart manufacturing, etc., the data has exploded. It is a challenge to train a deep learning model for different application domains with large-scale data and limited resources of a single device. The distributed machine-learning technology, which uses a parameter server and multiple clients to train a model collaboratively, is an excellent method to solve this problem. However, it needs much communication between different devices with limited communication resources. The stale synchronous parallel method is a mainstream communication method to solve this problem, but it always leads to high synchronization delay and low computing efficiency as the inappropriate delay threshold value set by the user based on experience. This paper proposes a synchronous parallel method with parameters communication prediction for distributed machine learning. It predicts the optimal timing for synchronization, which can solve the problem of long synchronization waiting time caused by the inappropriate threshold settings in the stale synchronous parallel method. Moreover, it allows fast nodes to continue local training while performing global synchronization, which can improve the resource utilization of work nodes. Experimental results show that compared with the delayed synchronous parallel method, the training time and quality, and resource usage of our method are both significantly improved.   
+   
+ Yanguo Zeng, Meiting Xue, Peiran Xu, Yukun Shi, Kaisheng Zeng, Jilin Zhang, Lupeng Yue   
+
+ Backmatter  
+
+ Metadata   
+
+ Title  Collaborative Computing: Networking, Applications and Worksharing    
+ Editors  Honghao Gao  
+  Xinheng Wang  
+  Nikolaos Voros  
+     
+ Copyright Year  2024    
+ Publisher  Springer Nature Switzerland     
+   
+ Electronic ISBN  978-3-031-54531-3    
+ Print ISBN  978-3-031-54530-6    
+ DOI  https://doi.org/10.1007/978-3-031-54531-3     
+
+ Premium Partner  
+
+ Image Credits  Neuer Inhalt/© ITandMEDIA   
+
+ Disciplines | Automotive 
+  Business IT + Informatics 
+  Construction + Real Estate 
+  Electrical Engineering + Electronics 
+  Energy + Sustainability 
+  Insurance + Risk 
+  Finance + Banking 
+  Management + Leadership 
+  Marketing + Sales 
+  Mechanical Engineering + Materials 
+  Books 
+  Journals 
+  Topic Page | Marketing 
+  Events 
+  Start single access now 
+  Access for companies 
+
+  About us:     
+  
+ Who we are    Help    Contact us    Payment Methods      
+ Our products:     
+  
+ Individual access    Access for companies    PatentFit    MyAlerts    Professional Book Archive    MyNewsletter    Carl Hanser Publishing House - Books    AI-assisted search      
+ Legal Information:     
+  
+ Imprint    Terms & Conditions    Privacy Policy    Cookies    Manage cookies/Do not sell my data    California Consumer Privacy Statement      
+ Further links:     
+  
+ RSS-Feeds    Social Media    Media data    Corporate Solutions      
+   
+ Springer Nature Logo    © Springer Fachmedien Wiesbaden GmbH  
+   
+ Version: 0.3926.0

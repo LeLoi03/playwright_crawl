@@ -1,0 +1,102 @@
+CAV 2023   
+ 35th International Conference on Computer Aided Verification  
+
+ Menu  
+ Skip to content  Home 
+  Attending 
+  Organisation 
+  Keynotes 
+  Proceedings 
+  Program 
+  Workshops | Mentoring 
+  Accepted Papers 
+  CAV Award 
+  Call for Papers 
+  Artifact Evaluation 
+
+ Accepted Papers  
+  
+ Research papers   
+ Compositional Probabilistic Model Checking with String Diagrams of MDPs | Kazuki Watanabe (The Graduate University for Advanced Studies (SOKENDAI)), Clovis Eberhart (National Institute of Informatics), Kazuyuki Asada (Tohoku University), Ichiro Hasuo (National Institute of Informatics) 
+  Incremental Dead State Detection in Logarithmic Time | Caleb Stanford (UC San Diego and UC Davis), Margus Veanes (MSR Redmond) 
+  Hybrid Controller Synthesis for Nonlinear Systems Subject to Reach-avoid Constraints | Zhengfeng Yang (East China Normal University), Li Zhang (East China Normal University), Xia Zeng (Southwest University), Xiaochao Tang (East China Normal University), Chao Peng (East China Normal University), Zhenbing Zeng (Shanghai University) 
+  Verifying the Verifier: eBPF Range Analysis Verification | Harishankar Vishwanathan (Rutgers University), Matan Shachnai (Rutgers University), Srinivas Narayana (Rutgers University), Santosh Nagarakatte (Rutgers University) 
+  Certified Verification for Algebraic Abstraction | Ming-Hsien Tsai (National Institute of Cyber Security), Yu-Fu Fu (Georgia Institute of Technology), Jiaxiang Liu (Shenzhen University), Xiaomu Shi (Shenzhen University), Bow-Yaw Wang (Academia Sinica), Bo-Yin Yang (Academia Sinica) 
+  Fast Termination and Workflow Nets | Philip Offtermatt (Université de Sherbrooke & University of Warsaw), Filip Mazowiecki (University of Warsaw), Piotr Hofman (University of Warsaw) 
+  QEBVerif: Quantization Error Bound Verification of Neural Networks | Yedi Zhang (Shanghaitech University), Fu Song (ShanghaiTech University), Jun Sun (Singapore Management University) 
+  Formula Normalizations in Verification | Simon Guilloud (EPFL), Mario Bucev (EPFL), Dragana Milovancevic (EPFL), Viktor Kunčak (EPFL) 
+  Search and Explore: Symbiotic Policy Synthesis in POMDPs | Roman Andriushchenko (Brno University of Technology, Czech Republic), Alexander Bork (RWTH-Aachen University, Germany), Milan Ceska (Brno University of Technology, Czech Republic), Sebastian Junges (Radboud University, Netherlands), Joost-Pieter Katoen (RWTH-Aachen University, Germany), Filip Macak (Brno University of Technology, Czech Republic) 
+  Satisfiability Modulo Finite Fields | Alex Ozdemir (Stanford University), Gereon Kremer (Stanford University, Certora), Clark Barrett (Stanford University), Cesare Tinelli (The University of Iowa) 
+  Automated Verification of Correctness for Masked Arithmetic Programs | Mingyang Liu (ShanghaiTech University), Fu Song (ShanghaiTech University), Taolue Chen (Birkbeck, University of London) 
+  Efficient Sensitivity Analysis for Parametric Robust Markov Chains | Thom Badings (Radboud University), Sebastian Junges (Radboud University), Ahmadreza Marandi (Eindhoven University of Technology), Ufuk Topcu (The University of Texas at Austin), Nils Jansen (Radboud University) 
+  Active Learning of Deterministic Timed Automata with Myhill-Nerode Style Characterization | Masaki Waga (Kyoto University) 
+  Complete Multiparty Session Type Projection with Automata | Elaine Li (New York University), Felix Stutz (MPI-SWS), Thomas Wies (New York University), Damien Zufferey (Unaffiliated) 
+  Process Equivalence Problems as Energy Games | Benjamin Bisping (TU Berlin) 
+  Boolean Abstractions for Realizability Modulo Theories | Andoni Rodriguez (IMDEA Software Institute), Cesar Sanchez (IMDEA Software Institute) 
+  Decision Procedures for Sequence Theories | Artur Jeż (University of Wroclaw), Anthony Lin (Technische Universität Kaiserslautern and Max-Planck Institute for Software Systems), Oliver Markgraf (Technische Universität Kaiserslautern), Philipp Ruemmer (University of Regensburg) 
+  Policy Synthesis and Reinforcement Learning for Discounted LTL | Rajeev Alur (University Of Pennsylvania), Osbert Bastani (University of Pennsylvania), Kishor Jothimurugan (University of Pennsylvania), Mateo Perez (University of Colorado Boulder), Fabio Somenzi (University of Colorado Boulder), Ashutosh Trivedi (University of Colorado Boulder) 
+  Automatic Program Instrumentation for Automatic Verification | Distinguished paper | Jesper Amilon (KTH Royal Institute of Technology), Zafer Esen (Uppsala University), Dilian Gurov (KTH Royal Institute of Technology), Christian Lidström (KTH Royal Institute of Technology), Philipp Rümmer (University of Regensburg) 
+  Model Checking Race-freedom When “Sequential Consistency for Data-race-free Programs” is Guaranteed | Wenhao Wu (University of Delaware), Jan Hueckelheim (Argonne National Laboratory), Paul Hovland (Argonne National Laboratory), Ziqing Luo (University of Delaware), Stephen F. Siegel (University of Delaware) 
+  Rely-Guarantee Reasoning for Causally Consistent Shared Memory | Ori Lahav (Tel Aviv University), Brijesh Dongol (University of Surrey), Heike Wehrheim (University of Oldenburg) 
+  Safe Environmental Envelopes of Discrete Systems | Romulo Meira-Goes (Pennsylvania State University), Ian Dardik (Carnegie Mellon University), Eunsuk Kang (Carnegie Mellon University), Stéphane Lafortune (University of Michigan, Ann Arbor), Stavros Tripakis (Northeastern University) 
+  Partial Quantifier Elimination And Property Generation | Eugene Goldberg (None) 
+  Online Causation Monitoring of Signal Temporal Logic | Zhenya Zhang (Kyushu University), Jie An (National Institute of Informatics), Paolo Arcaini (National Institute of Informatics), Ichiro Hasuo (National Institute of Informatics) 
+  Second-Order Hyperproperties | Raven Beutner (CISPA Helmholtz Center for Information Security, Germany), Bernd Finkbeiner (CISPA Helmholtz Center for Information Security), Hadar Frenkel (CISPA Helmholtz Center for Information Security), Niklas Metzger (CISPA Helmholtz Center for Information Security) 
+  Bounded Verification for Finite-Field-Blasting (in a Compiler for Zero Knowledge Proofs) | Alex Ozdemir (Stanford University), Riad Wahby (Carnegie Mellon University), Fraser Brown (Carnegie Mellon University), Clark Barrett (Stanford University) 
+  Exploiting Adjoints in Property Directed Reachability Analysis | Distinguished paper | Mayuko Kori (National Institute of Informatics), Flavio Ascari (University of Pisa), Filippo Bonchi (University of Pisa), Roberto Bruni (University of Pisa), Roberta Gori (University of Pisa), Ichiro Hasuo (National Institute of Informatics) 
+  Ownership guided C to Rust translation | Hanliang Zhang (University of Bristol), Cristina David (University of Bristol), Yijun Yu (The Open University), Meng Wang (University of Bristol) 
+  Synthesizing Trajectory Queries from Examples | Stephen Mell (University of Pennsylvania), Favyen Bastani (Allen Institute for AI), Steve Zdancewic (University of Pennsylvania), Osbert Bastani (University of Pennsylvania) 
+  SR-SFLL: Structurally Robust Stripped Functionality Logic Locking | Gourav Takhar (Indian Institute of Technology Kanpur), Subhajit Roy (Indian Institute of Technology Kanpur) 
+  Synthesizing Permissive Winning Strategy Templates for Parity Games | Ashwani Anand (Max Planck Institute for Software Systems), Satya Prakash Nayak (Max Planck Institute for Software Systems), Anne-Kathrin Schmuck (Max Planck Institute for Software Systems) 
+  Solving String Constraints using SAT | Kevin Lotz (Kiel University), Amit Goel (AWS), Bruno Dutertre (AWS), Benjamin Kiesl-Reiter (AWS), Soonho Kong (AWS), Rupak Majumdar (AWS), Dirk Nowotka (Kiel University) 
+  Local Search for Solving Satisfiability of Polynomial Formulas | Haokun Li (Peking University), Bican Xia (Peking University), Tianqi Zhao (Peking University) 
+  Fast Approximations of Quantifier Elimination | Distinguished paper | Isabel Garcia-Contreras (University of Waterloo), Hari Govind V K (University of Waterloo), Sharon Shoham (Tel Aviv University), Arie Gurfinkel (University of Waterloo) 
+  Monitoring Algorithmic Fairness | Thomas A. Henzinger (Instititue of Science and Technology Austria), Mahyar Karimi (University of Tehran), Konstantin Kueffner (Instititue of Science and Technology Austria), Kaushik Mallik (Instititue of Science and Technology Austria) 
+  Automated Tail Bound Analysis for Probabilistic Recurrence Relations | Yican Sun (Peking University), Hongfei Fu (Shanghai Jiao Tong University), Krishnendu Chatterjee (IST Austria), Amir Kafshdar Goharshady (Hong Kong University of Science and Technology) 
+  MDPs as Distribution Transformers: Affine Invariant Synthesis for Safety Objectives | S. Akshay (IIT Bombay), Krishnendu Chatterjee (Institute of Science and Technology Austria (ISTA)), Tobias Meggendorfer (Institute of Science and Technology Austria (ISTA)), Đorđe Žikelić (Institute of Science and Technology Austria (ISTA)) 
+  Learning Assumptions for Compositional Verification of Timed Automata | Hanyue Chen (Tongji University), Yu Su (Tongji University), Miaomiao Zhang (Tongji University), Zhiming Liu (Southwest University), Junri Mi (Tongji University) 
+  Early Verification of Legal Compliance via Bounded Satisfiability Checking | Nick Feng (University of Toronto), Lina Marsso (University of Toronto), Mehrdad Sabetzadeh (EECS, University of Ottawa), Marsha Chechik (University of Toronto) 
+  Unblocking Dynamic Partial Order Reduction | Michalis Kokologiannakis (MPI-SWS), Iason Marmanis (MPI-SWS), Viktor Vafeiadis (MPI-SWS) 
+  Commutativity For Concurrent Program Termination Proofs | Azadeh Farzan (University of Toronto), Danya Lette (University of Toronto) 
+  Certifying the Fairness of KNN in the Presence of Dataset Bias | Yannan Li (University of Southern California), Jingbo Wang (University of Southern California), Chao Wang (University of Southern California) 
+  Making IP=PSPACE Practical: Efficient Interactive Protocols for BDD Algorithms | Eszter Couillard (Technische Universität München), Philipp Czerner (Technische Universität München), Javier Esparza (Technische Universität München), Rupak Majumdar (Max Planck Institute for Software Systems) 
+  A Unified Model for Real-Time Systems: Symbolic Techniques and Implementation | S. Akshay (Indian Institute of Technology Bombay), Paul Gastin (Université Paris-Saclay, ENS Paris-Saclay, CNRS), R Govind (Indian Institute of Technology Bombay), Aniruddha Joshi (Indian Institute of Technology Bombay), B Srivathsan (Chennai Mathematical Institute, India) 
+  Overcoming Memory Weakness with Unified Fairness | Parosh Aziz Abdulla (Uppsala University), Mohamed Faouzi Atig (Uppsala University), Adwait Godbole (University of California, Berkeley), Shankaranarayanan Krishna (IIT Bombay), Mihir Vahanwala (MPI-SWS, Saarbrücken) 
+  Rounding Meets Approximate Model Counting | Distinguished paper | Jiong Yang (National University of Singapore), Kuldeep S. Meel (National University of Singapore) 
+  Searching for i-Good Lemmas to Accelerate Safety Model Checking | Yechuan Xia (East China Normal University), Anna Becchi (Fondazione Bruno Kessler), Alessandro Cimatti (FBK), Alberto Griggio (Fondazione Bruno Kessler), Jianwen Li (East China Normal University), Geguang Pu (East China Normal University) 
+  Guessing Winning Policies in LTL Synthesis by Semantic Learning | Jan Kretinsky (Technische Universität München), Max Prokop (Technische Universität München), Tobias Meggendorfer (Institute of Science and Technology Austria), Sabine Rieder (Technische Universität München) 
+  Counter-Example Guided Knowledge Compilation for Boolean Functional Synthesis | S. Akshay (IIT Bombay), Supratik Chakraborty (IIT Bombay), Sahil Jain (IIT Bombay) 
+   Tool papers   
+ Formally Verified EVM Block-Optimizations | Elvira Albert (Universidad Complutense de Madrid), Samir Genaim (Universidad Complutense de Madrid), Daniel Kirchner (Ethereum Foundation & University of Bamberg), Enrique Martin-Martin (Universidad Complutense de Madrid) 
+  Symbolic Quantum Simulation with Quasimodo | Meghana Sistla (The University of Texas at Austin), Swarat Chaudhuri (UT Austin), Thomas Reps (University of Wisconsin) 
+  Lincheck: A Practical Framework for Testing Concurrent Data Structures on JVM | Nikita Koval (JetBrains), Alexander Fedorov (IST Austria), Maria Sokolova (JetBrains), Dmitry Tsitelov (Devexperts), Dan Alistarh (IST Austria) 
+  Verse: A Python library for reasoning about multi-agent hybrid system scenarios | Yangge Li (University of Illinois at Urbana-Champaign), Haoqing Zhu (University of Illinois at Urbana-Champaign), Katherine Braught (University of Illinois at Urbana-Champaign), Keyi Shen (University of Illinois at Urbana-Champaign), Sayan Mitra (University of Illinois at Urbana-Champaign) 
+  CoqCryptoLine: A Verified Model Checker with Certified Results | Ming-Hsien Tsai (National Institute of Cyber Security), Yu-Fu Fu (Georgia Institute of Technology), Jiaxiang Liu (Shenzhen University), Xiaomu Shi (Shenzhen University), Bow-Yaw Wang (Academia Sinica), Bo-Yin Yang (Academia Sinica) 
+  The Golem Horn Solver | Distinguished paper | Martin Blicha (Università della Svizzera italiana), Konstantin Britikov (Università della Svizzera italiana), Natasha Sharygina (Università della Svizzera italiana) 
+  Bitwuzla | Distinguished paper | Aina Niemetz (Stanford University), Mathias Preiner (Stanford University) 
+  AutoQ: An Automata-based Quantum Circuit Verifier | Yu-Fang Chen (Academia Sinica), Kai-Min Chung (Academia Sinica), Ondřej Lengál (Brno University of Technology), Jyun-Ao Lin (Academia Sinica), Wei-Lun Tsai (Academia Sinica) 
+  Kratos2: an SMT-Based Model Checker for Imperative Programs | Alberto Griggio (Fondazione Bruno Kessler), Martin Jonáš (Masaryk University, Czech Republic) 
+  3D Environment Modeling for Falsification and Beyond with Scenic 3.0 | Eric Vin (University of California, Santa Cruz), Shun Kashiwa (University of California, Santa Cruz), Matthew Rhea (SentinelOne), Daniel J. Fremont (University of California, Santa Cruz), Edward Kim (University of California, Berkeley), Tommaso Dreossi (insitro), Shromona Ghosh (Waymo LLC), Xiangyu Yue (The Chinese University of Hong Kong), Alberto L. Sangiovanni-Vincentelli (University of California, Berkeley), Sanjit A. Seshia (University of California, Berkeley) 
+  nekton: a linearizability proof checker | Roland Meyer (TU Braunschweig), Anton Opaterny (TU Braunschweig), Thomas Wies (New York University), Sebastian Wolff (New York University) 
+  nl2spec: Interactively Translating Unstructured Natural Language to Temporal Logics with Large Language Models | Matthias Cosler (CISPA Helmholtz Center for Information Security), Christopher Hahn (Stanford University), Daniel Mendoza (Stanford University), Frederik Schmitt (CISPA Helmholtz Center for Information Security), Caroline Trippel (Stanford University) 
+  NNV 2.0: The Neural Network Verification Tool | Diego Manzanas Lopez (Vanderbilt University), Sung Woo Choi (University of Nebraska), Hoang Dung Tran (University of Nebraska), Taylor T. Johnson (Vanderbilt University) 
+  A Flexible Toolchain for Symbolic Rabin Games under Fairness and Stochastic Uncertainties | Rupak Majumdar (MPI-SWS), Kaushik Mallik (ISTA), Mateusz Rychlicki (University of Leeds), Anne-Kathrin Schmuck (Max Planck Institute for Software Systems), Sadegh Soudjani (Newcastle University) 
+  R2U2 Version 3.0: Re-imagining a Toolchain for Specification, Resource Estimation, and Optimized Observer Generation for Runtime Verification in Hardware and Software | Chris Johannsen (Iowa State University), Phillip Jones (Iowa State University), Brian Kempa (Iowa State University), Kristin Yvonne Rozier (Iowa State University), Pei Zhang (Google) 
+   Industrial Experience Report or Case Study   
+ Automated Analyses of IOT Event Monitoring Systems | Andrew Apicelli (Amazon Web Services, Inc.), Sam Bayless (Amazon Web Services, Inc.), Ankush Das (Amazon Web Services, Inc.), Andrew Gacek (Amazon Web Services, Inc.), Dhiva Jaganathan (Amazon Web Services, Inc.), Saswat Padhi (Google LLC), Vaibhav Sharma (Amazon.com Services LLC), Michael W. Whalen (Amazon Web Services, Inc.), Raveesh Yadav (Amazon Web Services, Inc.) 
+  Closed-loop Analysis of Vision-based Autonomous Systems: A Case Study | Corina Pasareanu (KBR Inc., NASA Ames, Carnegie Mellon University), Ravi Mangal (Carnegie Mellon University), Divya Gopinath (KBR Inc., NASA Ames), Sinem Getir Yaman (University of York), Calum Imrie (University of York), Radu Calinescu (University of York), Huafeng Yu (Boeing Research and Technology) 
+  Verifying Generalization in Deep Learning | Guy Amir (The Hebrew University of Jerusalem), Osher Maayan (The Hebrew University of Jerusalem), Tom Zelazny (The Hebrew University of Jerusalem), Guy Katz (The Hebrew University of Jerusalem), Michael Schapira (The Hebrew University of Jerusalem) 
+
+ Sponsors    
+
+ Platinum sponsors  
+
+ Gold sponsors  
+
+ Silver sponsors  
+
+ Bronze sponsors  
+
+ Institutional support  
+
+ Proudly powered by WordPress  |  Theme: Expound by Konstantin Kovshenin

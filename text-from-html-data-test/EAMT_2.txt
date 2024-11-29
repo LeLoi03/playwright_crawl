@@ -1,0 +1,464 @@
+ACL Anthology     News (current) 
+  FAQ (current) 
+  Corrections (current) 
+  Submissions (current) 
+  Github 
+
+ Conference of the European Association for Machine Translation (2023)  
+  Volumes  
+ Proceedings of the 24th Annual Conference of the European Association for Machine Translation | 62 papers 
+  Proceedings of the Second International Workshop on Automatic Translation for Signed and Spoken Languages | 7 papers 
+  Proceedings of the 1st Workshop on Open Community-Driven Machine Translation | 6 papers 
+  Proceedings of the First Workshop on Gender-Inclusive Translation Technologies | 10 papers 
+  Proceedings of the 1st International Workshop on Multilingual, Multimodal and Multitask Language Generation | 8 papers 
+
+ Show all abstracts   Hide all abstracts     up   pdf (full)   
+  bib (full)   Proceedings of the 24th Annual Conference of the European Association for Machine Translation   
+ pdf  bib   
+   Proceedings of the 24th Annual Conference of the European Association for Machine Translation    
+  Mary Nurminen  | Judith Brenner  | Maarit Koponen  | Sirkku Latomaa  | Mikhail Mikhailov  | Frederike Schierl  | Tharindu Ranasinghe  | Eva Vanmassenhove  | Sergi Alvarez Vidal  | Nora Aranberri  | Mara Nunziatini  | Carla Parra Escartín  | Mikel Forcada  | Maja Popovic  | Carolina Scarton  | Helena Moniz    
+ pdf  bib   
+   Towards Efficient Universal Neural Machine Translation    
+  Biao Zhang    
+ pdf  bib  abs   
+   Tailoring Domain Adaptation for Machine Translation Quality Estimation    
+  Javad Pourmostafa Roshan Sharami  | Dimitar Shterionov  | Frédéric Blain  | Eva Vanmassenhove  | Mirella De Sisto  | Chris Emmery  | Pieter Spronck    
+ While quality estimation (QE) can play an important role in the translation process, its effectiveness relies on the availability and quality of training data. For QE in particular, high-quality labeled data is often lacking due to the high-cost and effort associated with labeling such data. Aside from the data scarcity challenge, QE models should also be generalizabile, i.e., they should be able to handle data from different domains, both generic and specific. To alleviate these two main issues — data scarcity and domain mismatch — this paper combines domain adaptation and data augmentation within a robust QE system. Our method is to first train a generic QE model and then fine-tune it on a specific domain while retaining generic knowledge. Our results show a significant improvement for all the language pairs investigated, better cross-lingual inference, and a superior performance in zero-shot learning scenarios as compared to state-of-the-art baselines.   
+   
+ pdf  bib  abs   
+   Example-Based Machine Translation from Textto a Hierarchical Representation of Sign Language    
+  Elise Bertin-Lemée  | Annelies Braffort  | Camille Challant  | Claire Danet  | Michael Filhol    
+ This article presents an original method for Text-to-Sign Translation. It compensates data scarcity using a domain-specific parallel corpus of alignments between text and hierarchical formal descriptions of Sign Language videos. Based on the detection of similarities present in the source text, the proposed algorithm recursively exploits matches and substitutions of aligned segments to build multiple candidate translations for a novel statement. This helps preserving Sign Language structures as much as possible before falling back on literal translations too quickly, in a generative way. The resulting translations are in the form of AZee expressions, designed to be used as input to avatar synthesis systems. We present a test set tailored to showcase its potential for expressiveness and generation of idiomatic target language, and observed limitations. This work finally opens prospects on how to evaluate this kind of translation.   
+   
+ pdf  bib  abs   
+   Unsupervised Feature Selection for Effective Parallel Corpus Filtering    
+  Mikko Aulamo  | Ona de Gibert  | Sami Virpioja  | Jörg Tiedemann    
+ This work presents an unsupervised method of selecting filters and threshold values for the OpusFilter parallel corpus cleaning toolbox. The method clusters sentence pairs into noisy and clean categories and uses the features of the noisy cluster center as filtering parameters. Our approach utilizes feature importance analysis to disregard filters that do not differentiate between clean and noisy data. A randomly sampled subset of a given corpus is used for filter selection and ineffective filters are not run for the full corpus. We use a set of automatic evaluation metrics to assess the quality of translation models trained with data filtered by our method and data filtered with OpusFilter’s default parameters. The trained models cover English-German and English-Ukrainian in both directions. The proposed method outperforms the default parameters in all translation directions for almost all evaluation metrics.   
+   
+ pdf  bib  abs   
+   Filtering and rescoring the CCM  atrix corpus for Neural Machine Translation training    
+  Antoni Oliver González  | Sergi Álvarez    
+ There are several parallel corpora available for many language pairs, such as CCMatrix, built from mass downloads of web content and automatic detection of segments in one language and the translation equivalent in another. These techniques can produce large parallel corpora, but of questionable quality. In many cases, the segments are not in the required languages, or if they are, they are not translation equivalents. In this article, we present an algorithm for filtering out the segments in languages other than the required ones and re-scoring the segments using SBERT. A use case on the Spanish-Asturian and Spanish-Catalan CCMatrix corpus is presented.   
+   
+ pdf  bib  abs   
+   BLEU  Meets COMET  : Combining Lexical and Neural Metrics Towards Robust Machine Translation Evaluation    
+  Taisiya Glushkova  | Chrysoula Zerva  | André F. T. Martins    
+ Although neural-based machine translation evaluation metrics, such as COMET or BLEURT, have achieved strong correlations with human judgements, they are sometimes unreliable in detecting certain phenomena that can be considered as critical errors, such as deviations in entities and numbers. In contrast, traditional evaluation metrics such as BLEU or chrF, which measure lexical or character overlap between translation hypotheses and human references, have lower correlations with human judgements but are sensitive to such deviations. In this paper, we investigate several ways of combining the two approaches in order to increase robustness of state-of-the-art evaluation methods to translations with critical errors. We show that by using additional information during training, such as sentence-level features and word-level tags, the trained metrics improve their capability to penalize translations with specific troublesome phenomena, which leads to gains in correlations with humans and on the recent DEMETR benchmark on several language pairs.   
+   
+ pdf  bib  abs   
+   Exploiting large pre-trained models for low-resource neural machine translation    
+  Aarón Galiano-Jiménez  | Felipe Sánchez-Martínez  | Víctor M. Sánchez-Cartagena  | Juan Antonio Pérez-Ortiz    
+ Pre-trained models have drastically changed the field of natural language processing by providing a way to leverage large-scale language representations to various tasks. Some pre-trained models offer general-purpose representations, while others are specialized in particular tasks, like neural machine translation (NMT). Multilingual NMT-targeted systems are often fine-tuned for specific language pairs, but there is a lack of evidence-based best-practice recommendations to guide this process. Moreover, the trend towards even larger pre-trained models has made it challenging to deploy them in the computationally restrictive environments typically found in developing regions where low-resource languages are usually spoken. We propose a pipeline to tune the mBART50 pre-trained model to 8 diverse low-resource language pairs, and then distil the resulting system to obtain lightweight and more sustainable models. Our pipeline conveniently exploits back-translation, synthetic corpus filtering, and knowledge distillation to deliver efficient, yet powerful bilingual translation models 13 times smaller than the original pre-trained ones, but with close performance in terms of BLEU.   
+   
+ pdf  bib  abs   
+   Enhancing Supervised Learning with Contrastive Markings in Neural Machine Translation Training    
+  Nathaniel Berger  | Miriam Exel  | Matthias Huck  | Stefan Riezler    
+ Supervised learning in Neural Machine Translation (NMT) standardly follows a teacher forcing paradigm where the conditioning context in the model’s prediction is constituted by reference tokens, instead of its own previous predictions. In order to alleviate this lack of exploration in the space of translations, we present a simple extension of standard maximum likelihood estimation by a contrastive marking objective. The additional training signals are extracted automatically from reference translations by comparing the system hypothesis against the reference, and used for up/down-weighting correct/incorrect tokens. The proposed new training procedure requires one additional translation pass over the training set, and does not alter the standard inference setup. We show that training with contrastive markings yields improvements on top of supervised learning, and is especially useful when learning from postedits where contrastive markings indicate human error corrections to the original hypotheses.   
+   
+ pdf  bib  abs   
+   Return to the Source: Assessing Machine Translation Suitability    
+  Francesco Fernicola  | Silvia Bernardini  | Federico Garcea  | Adriano Ferraresi  | Alberto Barrón-Cedeño    
+ We approach the task of assessing the suitability of a source text for translation by transferring the knowledge from established MT evaluation metrics to a model able to predict MT quality a priori from the source text alone. To open the door to experiments in this regard, we depart from reference English-German parallel corpora to build a corpus of 14,253 source text-quality score tuples. The tuples include four state-of-the-art metrics: cushLEPOR, BERTScore, COMET, and TransQuest. With this new resource at hand, we fine-tune XLM-RoBERTa, both in a single-task and a multi-task setting, to predict these evaluation scores from the source text alone. Results for this methodology are promising, with the single-task model able to approximate well-established MT evaluation and quality estimation metrics - without looking at the actual machine translations - achieving low RMSE values in the [0.1-0.2] range and Pearson correlation scores up to 0.688.   
+   
+ pdf  bib  abs   
+   Empirical Analysis of Beam Search Curse and Search Errors with Model Errors in Neural Machine Translation    
+  Jianfei He  | Shichao Sun  | Xiaohua Jia  | Wenjie Li    
+ Beam search is the most popular decoding method for Neural Machine Translation (NMT) and is still a strong baseline compared with the newly proposed sampling-based methods. To better understand beam search, we investigate its two well-recognized issues, beam search curse and search errors, at the sentence level. We find that only less than 30% of sentences in the test set experience these issues. Meanwhile, there is a related phenomenon. For the majority of sentences, their gold references have lower probabilities than the predictions from beam search. We also test with different levels of model errors including a special test using training samples and models without regularization. We find that these phenomena still exist even for a model with an accuracy of 95% although they are mitigated. These findings show that it is not promising to improve beam search by seeking higher probabilities in searching and further reducing its search errors. The relationship between the quality and the probability of predictions at the sentence level in our results provides useful information to find new ways to improve NMT.   
+   
+ pdf  bib  abs   
+   An Empirical Study of Leveraging Knowledge Distillation for Compressing Multilingual Neural Machine Translation Models    
+  Varun Gumma  | Raj Dabre  | Pratyush Kumar    
+ Knowledge distillation (KD) is a well-known method for compressing neural models. However, works focusing on distilling knowledge from large multilingual neural machine translation (MNMT) models into smaller ones are practically nonexistent, despite the popularity and superiority of MNMT. This paper bridges this gap by presenting an empirical investigation of knowledge distillation for compressing MNMT models. We take Indic to English translation as a case study and demonstrate that commonly used language-agnostic and language-aware KD approaches yield models that are 4-5x smaller but also suffer from performance drops of up to 3.5 BLEU. To mitigate this, we then experiment with design considerations such as shallower versus deeper models, heavy parameter sharing, multistage training, and adapters. We observe that deeper compact models tend to be as good as shallower non-compact ones and that fine-tuning a distilled model on a high-quality subset slightly boosts translation quality. Overall, we conclude that compressing MNMT models via KD is challenging, indicating immense scope for further research.   
+   
+ pdf  bib  abs   
+   Empirical Assessment of k NN  - MT  for Real-World Translation Scenarios    
+  Pedro Henrique Martins  | João Alves  | Tânia Vaz  | Madalena Gonçalves  | Beatriz Silva  | Marianna Buchicchio  | José G. C. de Souza  | André F. T. Martins    
+ This paper aims to investigate the effectiveness of the k-Nearest Neighbor Machine Translation model (kNN-MT) in real-world scenarios. kNN-MT is a retrieval-augmented framework that combines the advantages of parametric models with non-parametric datastores built using a set of parallel sentences. Previous studies have primarily focused on evaluating the model using only the BLEU metric and have not tested kNN-MT in real world scenarios. Our study aims to fill this gap by conducting a comprehensive analysis on various datasets comprising different language pairs and different domains, using multiple automatic metrics and expert evaluated Multidimensional Quality Metrics (MQM). We compare kNN-MT with two alternate strategies: fine-tuning all the model parameters and adapter-based finetuning. Finally, we analyze the effect of the datastore size on translation quality, and we examine the number of entries necessary to bootstrap and configure the index.   
+   
+ pdf  bib  abs   
+   Evaluation of C  hinese- E  nglish Machine Translation of Emotion-Loaded Microblog Texts: A Human Annotated Dataset for the Quality Assessment of Emotion Translation    
+  Shenbin Qian  | Constantin Orasan  | Felix Do Carmo  | Qiuliang Li  | Diptesh Kanojia    
+ In this paper, we focus on how current Machine Translation (MT) engines perform on the translation of emotion-loaded texts by evaluating outputs from Google Translate according to a framework proposed in this paper. We propose this evaluation framework based on the Multidimensional Quality Metrics (MQM) and perform detailed error analyses of the MT outputs. From our analysis, we observe that about 50% of MT outputs are erroneous in preserving emotions. After further analysis of the erroneous examples, we find that emotion carrying words and linguistic phenomena such as polysemous words, negation, abbreviation etc., are common causes for these translation errors.   
+   
+ pdf  bib  abs   
+   Assessing the Importance of Frequency versus Compositionality for Subword-based Tokenization in NMT     
+  Benoist Wolleb  | Romain Silvestri  | Georgios Vernikos  | Ljiljana Dolamic  | Andrei Popescu-Belis    
+ Subword tokenization is the de-facto standard for tokenization in neural language models and machine translation systems. Three advantages are frequently put forward in favor of subwords: shorter encoding of frequent tokens, compositionality of subwords, and ability to deal with unknown words. As their relative importance is not entirely clear yet, we propose a tokenization approach that enables us to separate frequency (the first advantage) from compositionality, thanks to the use of Huffman coding, which tokenizes words using a fixed amount of symbols. Experiments with CS-DE, EN-FR and EN-DE NMT show that frequency alone accounts for approximately 90% of the BLEU scores reached by BPE, hence compositionality has less importance than previously thought.   
+   
+ pdf  bib  abs   
+   What Works When in Context-aware Neural Machine Translation?    
+  Harritxu Gete  | Thierry Etchegoyhen  | Gorka Labaka    
+ Document-level Machine Translation has emerged as a promising means to enhance automated translation quality, but it is currently unclear how effectively context-aware models use the available context during translation. This paper aims to provide insight into the current state of models based on input concatenation, with an in-depth evaluation on English–German and English–French standard datasets. We notably evaluate the impact of data bias, antecedent part-of-speech, context complexity, and the syntactic function of the elements involved in discursive phenomena. Our experimental results indicate that the selected models do improve the overall translation in context, with varying sensitivity to the different factors we examined. We notably show that the selected context-aware models operate markedly better on regular syntactic configurations involving subject antecedents and pronouns, with degraded performance as the configurations become more dissimilar.   
+   
+ pdf  bib  abs   
+   Investigating the Translation Performance of a Large Multilingual Language Model: the Case of BLOOM     
+  Rachel Bawden  | François Yvon    
+ The NLP community recently saw the release of a new large open-access multilingual language model, BLOOM (BigScience et al., 2022) covering 46 languages. We focus on BLOOM’s multilingual ability by evaluating its machine translation performance across several datasets (WMT, Flores-101 and DiaBLa) and language pairs (high- and low-resourced). Our results show that 0-shot performance suffers from overgeneration and generating in the wrong language, but this is greatly improved in the few-shot setting, with very good results for a number of language pairs. We study several aspects including prompt design, model sizes, cross-lingual transfer and the use of discursive context.   
+   
+ pdf  bib  abs   
+   The MT  @ BZ  corpus: machine translation & legal language    
+  Flavia De Camillis  | Egon W. Stemle  | Elena Chiocchetti  | Francesco Fernicola    
+ The paper reports on the creation, annotation and curation of the MT@BZ corpus, a bilingual (Italian–South Tyrolean German) corpus of machine-translated legal texts from the officially multilingual Province of Bolzano, Italy. It is the first human error-annotated corpus (using an adapted SCATE taxonomy) of machine-translated legal texts in this language combination that includes a lesser-used standard variety. The data of the project will be made available on GitHub and another repository. The output of the customized engine achieved notably better BLEU, TER and chrF2 scores than the baseline. Over 50% of the segments needed no human revision due to customization. The most frequent error categories were mistranslations and bilingual (legal) terminology errors. Our contribution brings fine-grained insights to Machine translation evaluation research, as it concerns a less common language combination, a lesser-used language variety and a societally relevant specialized domain. Such results are necessary to implement and inform the use of MT in institutional contexts of smaller language communities.   
+   
+ pdf  bib  abs   
+   Investigating Lexical Sharing in Multilingual Machine Translation for I  ndian Languages    
+  Sonal Sannigrahi  | Rachel Bawden    
+ Multilingual language models have shown impressive cross-lingual transfer ability across a diverse set of languages and tasks. To improve the cross-lingual ability of these models, some strategies include transliteration and finer-grained segmentation into characters as opposed to subwords. In this work, we investigate lexical sharing in multilingual machine translation (MT) from Hindi, Gujarati, Nepali into English. We explore the trade-offs that exist in translation performance between data sampling and vocabulary size, and we explore whether transliteration is useful in encouraging cross-script generalisation. We also verify how the different settings generalise to unseen languages (Marathi and Bengali). We find that transliteration does not give pronounced improvements and our analysis suggests that our multilingual MT models trained on original scripts are already robust to cross-script differences even for relatively low-resource languages.   
+   
+ pdf  bib  abs   
+   Large Language Models Are State-of-the-Art Evaluators of Translation Quality    
+  Tom Kocmi  | Christian Federmann    
+ We describe GEMBA, a GPT-based metric for assessment of translation quality, which works both with a reference translation and without. In our evaluation, we focus on zero-shot prompting, comparing four prompt variants in two modes, based on the availability of the reference. We investigate seven versions of GPT models, including ChatGPT. We show that our method for translation quality assessment only works with GPT 3.5 and larger models. Comparing to results from WMT22’s Metrics shared task, our method achieves state-of-the-art accuracy in both modes when compared to MQM-based human labels. Our results are valid on the system level for all three WMT22 Metrics shared task language pairs, namely English into German, English into Russian, and Chinese into English. This provides a first glimpse into the usefulness of pre-trained, generative large language models for quality assessment of translations. We publicly release all our code and prompt templates used for the experiments described in this work, as well as all corresponding scoring results, to allow for external validation and reproducibility.   
+   
+ pdf  bib  abs   
+   State Spaces Aren’t Enough: Machine Translation Needs Attention    
+  Ali Vardasbi  | Telmo Pessoa Pires  | Robin Schmidt  | Stephan Peitz    
+ Structured State Spaces for Sequences (S4) is a recently proposed sequence model with successful applications in various tasks, e.g. vision, language modelling, and audio. Thanks to its mathematical formulation, it compresses its input to a single hidden state, and is able to capture long range dependencies while avoiding the need for an attention mechanism. In this work, we apply S4 to Machine Translation (MT), and evaluate several encoder-decoder variants on WMT’14 and WMT’16. In contrast with the success in language modeling, we find that S4 lags behind the Transformer by approximately 4 BLEU points, and that it counter-intuitively struggles with long sentences. Finally, we show that this gap is caused by S4’s inability to summarize the full source sentence in a single hidden state, and show that we can close the gap by introducing an attention mechanism.   
+   
+ pdf  bib  abs   
+   Automatic Discrimination of Human and Neural Machine Translation in Multilingual Scenarios    
+  Malina Chichirau  | Rik van Noord  | Antonio Toral    
+ We tackle the task of automatically discriminating between human and machine translations. As opposed to most previous work, we perform experiments in a multilingual setting, considering multiple languages and multilingual pretrained language models. We show that a classifier trained on parallel data with a single source language (in our case German–English) can still perform well on English translations that come from different source languages, even when the machine translations were produced by other systems than the one it was trained on. Additionally, we demonstrate that incorporating the source text in the input of a multilingual classifier improves (i) its accuracy and (ii) its robustness on cross-system evaluation, compared to a monolingual classifier. Furthermore, we find that using training data from multiple source languages (German, Russian and Chinese) tends to improve the accuracy of both monolingual and multilingual classifiers. Finally, we show that bilingual classifiers and classifiers trained on multiple source languages benefit from being trained on longer text sequences, rather than on sentences.   
+   
+ pdf  bib  abs   
+   Adaptive Machine Translation with Large Language Models    
+  Yasmin Moslem  | Rejwanul Haque  | John D. Kelleher  | Andy Way    
+ Consistency is a key requirement of high-quality translation. It is especially important to adhere to pre-approved terminology and adapt to corrected translations in domain-specific projects. Machine translation (MT) has achieved significant progress in the area of domain adaptation. However, real-time adaptation remains challenging. Large-scale language models (LLMs) have recently shown interesting capabilities of in-context learning, where they learn to replicate certain input-output text generation patterns, without further fine-tuning. By feeding an LLM at inference time with a prompt that consists of a list of translation pairs, it can then simulate the domain and style characteristics. This work aims to investigate how we can utilize in-context learning to improve real-time adaptive MT. Our extensive experiments show promising results at translation time. For example, GPT-3.5 can adapt to a set of in-domain sentence pairs and/or terminology while translating a new sentence. We observe that the translation quality with few-shot in-context learning can surpass that of strong encoder-decoder MT systems, especially for high-resource languages. Moreover, we investigate whether we can combine MT from strong encoder-decoder models with fuzzy matches, which can further improve translation quality, especially for less supported languages. We conduct our experiments across five diverse language pairs, namely English-to-Arabic (EN-AR), English-to-Chinese (EN-ZH), English-to-French (EN-FR), English-to-Kinyarwanda (EN-RW), and English-to-Spanish (EN-ES).   
+   
+ pdf  bib  abs   
+   Segment-based Interactive Machine Translation at a Character Level    
+  Angel Navarro  | Miguel Domingo  | Francisco Casacuberta    
+ To produce high quality translations, human translators need to review and correct machine translation hypothesis in what it is known as post-editing. In order to reduce the human effort of this process, interactive machine translation proposed a collaborative framework in which human and machine work together to generate the translations. Among the many protocols proposed throughout the years, the segment-based one established a paradigm in which the post-editor was allowed to validate correct word sequences from a translation hypothesis and introduced a word correction to help the system improve the next hypothesis. In this work we propose an extension to this protocol: instead of having to the type the complete word correction, the system will complete the user’s correction while they are typing. We evaluated our proposal under a simulated environment, achieving a significant reduction of the human effort.   
+   
+ pdf  bib  abs   
+   Gender-Fair Post-Editing: A Case Study Beyond the Binary    
+  Manuel Lardelli  | Dagmar Gromann    
+ Machine Translation (MT) models are well-known to suffer from gender bias, especially for gender beyond a binary conception. Due to the multiplicity of language-specific strategies for gender representation beyond the binary, debiasing MT is extremely challenging. As an alternative, we propose a case study on gender-fair post-editing. In this study, six professional translators each post-edited three English to German machine translations. For each translation, participants were instructed to use a different gender-fair language strategy, that is, gender-neutral rewording, gender-inclusive characters, and a neosystem. The focus of this study is not on translation quality but rather on the ease of integrating gender-fair language into the post-editing process. Findings from non-participant observation and interviews show clear differences in temporal and cognitive effort between participants and strategy as well as in the success of using gender-fair language.   
+   
+ pdf  bib  abs   
+   “Translationese” (and “post-editese”?) no more: on importing fuzzy conceptual tools from Translation Studies in MT  research    
+  Miguel A. Jimenez-Crespo    
+ During recent years, MT research has imported a number of conceptual tools from Translation Studies such as “translationese” or “translation universals”. These notions were the object of intense conceptual debates in Corpus-Based Translation Studies (CBTS), and number of seminal publications and conference forums recommended substituting them by less problematic terms such as “the language of translation” or “typical” or “general features of translated language”. This paper critically analyses the arguments put forward in the early 2000’s in CBTS to against the use of these terms, and whether the same issues apply to current MT re-search using them. Here, the paper will discuss, (1) the impact of the negative or pejorative nature of the term “translationese” on the status of professional translators and translation products in academia and society (2) the danger of over-generalizations or overextending claims found in specific and very limited textual subsets, as well as (3) the need to reframe the search of tendencies in translated language away from “universals” towards probabilistic, situational or conditional tendencies. It will be argued that MT re-search would benefit from clearly defined terms to deal with notions related to language variation in specific new variants of translation, proposing neutral terms such as “NMT translated language” or “the language of NMT”, as well as “general features/ tendencies in NMT / PE translations”. A proposal will be made in order to reach a “convergence” of MT and TS research and the probabilistic and descriptive study of features of (NMT or human) translated language.   
+   
+ pdf  bib  abs   
+   A social media NMT  engine for a low-resource language combination    
+  María Do Campo Bayón  | Pilar Sánchez-Gijón    
+ The aim of this article is to present a new Neural Machine Translation (NMT) from Spanish into Galician for the social media domain that was trained with a Twitter corpus. Our main goal is to outline the methods used to build the corpus and the steps taken to train the engine in a low-resource language context. We have evalu-ated the engine performance both with regular automatic metrics and with a new methodology based on the non-inferiority process and contrasted this information with an error classification human evalua-tion conducted by professional linguists. We will present the steps carried out fol-lowing the conclusions of a previous pilot study, describe the new process followed, analyze the new engine and present the final conclusions.   
+   
+ pdf  bib  abs   
+   Analysing Mistranslation of Emotions in Multilingual Tweets by Online MT  Tools    
+  Hadeel Saadany  | Constantin Orasan  | Rocio Caro Quintana  | Felix Do Carmo  | Leonardo Zilio    
+ It is common for websites that contain User-Generated Text (UGT) to provide an automatic translation option to reach out to their linguistically diverse users. In such scenarios, the process of translating the users’ emotions is entirely automatic with no human intervention, neither for post-editing, nor for accuracy checking. In this paper, we assess whether automatic translation tools can be a successful real-life utility in transferring emotion in multilingual tweets. Our analysis shows that the mistranslation of the source tweet can lead to critical errors where the emotion is either completely lost or flipped to an opposite sentiment. We identify linguistic phenomena specific to Twitter data which pose a challenge in translation of emotions and show how frequent these features are in different language pairs. We also show that commonly-used quality metrics can lend false confidence in the performance of online MT tools specifically when the source emotion is distorted in telegraphic messages such as tweets.   
+   
+ pdf  bib  abs   
+   D  ata L  it MT  – Teaching Data Literacy in the Context of Machine Translation Literacy    
+  Janiça Hackenbuchner  | Ralph Krüger    
+ This paper presents the DataLitMT project conducted at TH Koln – University of Applied Sciences. The project develops learning resources for teaching data literacy in its translation-specific form of professional machine translation (MT) literacy to students of translation and specialised communication programmes at BA and MA levels. We discuss the need for data literacy teaching in a translation/specialised communication context, present the three theoretical pillars of the project (consisting of a Professional MT Literacy Framework, an MT-specific data literacy framework and a competence matrix derived from these frameworks) and give an overview of the learning resources developed as part of the project.   
+   
+ pdf  bib  abs   
+   Do Humans Translate like Machines? Students’ Conceptualisations of Human and Machine Translation    
+  Salmi Leena  | Aletta G. Dorst  | Maarit Koponen  | Katinka Zeven    
+ This paper explores how students conceptualise the processes involved in human and machine translation, and how they describe the similarities and differences between them. The paper presents the results of a survey involving university students (B.A. and M.A.) taking a course on translation who filled out an online questionnaire distributed in Finnish, Dutch and English. Our study finds that students often describe both human translation and machine translation in similar terms, suggesting they do not sufficiently distinguish between them and do not fully understand how machine translation works. The current study suggests that training in Machine Translation Literacy may need to focus more on the conceptualisations involved and how conceptual and vernacular misconceptions may affect how translators understand human and machine translation.   
+   
+ pdf  bib  abs   
+   Adapting Machine Translation Education to the Neural Era: A Case Study of MT  Quality Assessment    
+  Lieve Macken  | Bram Vanroy  | Arda Tezcan    
+ The use of automatic evaluation metrics to assess Machine Translation (MT) quality is well established in the translation industry. Whereas it is relatively easy to cover the word- and character-based metrics in an MT course, it is less obvious to integrate the newer neural metrics. In this paper we discuss how we introduced the topic of MT quality assessment in a course for translation students. We selected three English source texts, each having a different difficulty level and style, and let the students translate the texts into their L1 and reflect upon translation difficulty. Afterwards, the students were asked to assess MT quality for the same texts using different methods and to critically reflect upon obtained results. The students had access to the MATEO web interface, which contains word- and character-based metrics as well as neural metrics. The students used two different reference translations: their own translations and professional translations of the three texts. We not only synthesise the comments of the students, but also present the results of some cross-lingual analyses on nine different language pairs.   
+   
+ pdf  bib  abs   
+   PE  effort and neural-based automatic MT  metrics: do they correlate?    
+  Sergi Alvarez  | Antoni Oliver    
+ Neural machine translation (NMT) has shown overwhelmingly good results in recent times. This improvement in quality has boosted the presence of NMT in nearly all fields of translation. Most current translation industry workflows include postediting (PE) of MT as part of their process. For many domains and language combinations, translators post-edit raw machine translation (MT) to produce the final document. However, this process can only work properly if the quality of the raw MT output can be assured. MT is usually evaluated using automatic scores, as they are much faster and cheaper. However, traditional automatic scores have not been good quality indicators and do not correlate with PE effort. We analyze the correlation of each of the three dimensions of PE effort (temporal, technical and cognitive) with COMET, a neural framework which has obtained outstanding results in recent MT evaluation campaigns.   
+   
+ pdf  bib  abs   
+   Migrant communities living in the N  etherlands and their use of MT  in healthcare settings    
+  Susana Valdez  | Ana Guerberof Arenas  | Kars Ligtenberg    
+ As part of a larger project on the use of MT in healthcare settings among migrant communities, this paper investigates if, when, how and with what (potential) challenges migrants use MT based on a survey of 201 non-native speakers of Dutch currently living in the Netherlands. Three main findings stand out from our analysis. First, most migrants use MT to understand health information in Dutch and communicate with health professionals. How MT is used and received varies depending on the context and the L2 language level, as well as age, but not on the educational level. Second, some users face challenges of different kinds, including a lack of trust or perceived inaccuracies. Some of these challenges are related to comprehension, which brings us to our third point. We argue that a more nuanced understanding of medical translation is needed in expert-to-non-expert health communication. This questionnaire helped us identify several topics we hope to explore in the project’s next phase.   
+   
+ pdf  bib  abs   
+   Measuring Machine Translation User Experience ( MTUX  ): A Comparison between A  ttrak D  iff and User Experience Questionnaire    
+  Vicent Briva-Iglesias  | Sharon O’Brien    
+ Perceptions and experiences of machine translation (MT) users before, during, and after their interaction with MT systems, products or services has been overlooked both in academia and in industry. Tradi-tionally, the focus has been on productivi-ty and quality, often neglecting the human factor. We propose the concept of Ma-chine Translation User Experience (MTUX) for assessing, evaluating, and getting further information about the user experiences of people interacting with MT. By conducting a human-computer in-teraction (HCI)-based study with 15 pro-fessional translators, we analyse which is the best method for measuring MTUX, and conclude by suggesting the use of the User Experience Questionnaire (UEQ). The measurement of MTUX will help eve-ry stakeholder in the MT industry - devel-opers will be able to identify pain points for the users and solve them in the devel-opment process, resulting in better MTUX and higher adoption of MT systems or products by MT users.   
+   
+ pdf  bib  abs   
+   Coming to Terms with Glossary Enforcement: A Study of Three Approaches to Enforcing Terminology in NMT     
+  Fred Bane  | Anna Zaretskaya  | Tània Blanch Miró  | Celia Soler Uguet  | João Torres    
+ Enforcing terminology constraints is less straight-forward in neural machine translation (NMT) than statistical machine translation. Current methods, such as alignment-based insertion or the use of factors or special tokens, each have their strengths and drawbacks. We describe the current state of research on terminology enforcement in transformer-based NMT models, and present the results of our investigation into the performance of three different approaches. In addition to reference based quality metrics, we also evaluate the linguistic quality of the translations thus produced. Our results show that each approach is effective, though a negative impact on translation fluency remains evident.   
+   
+ pdf  bib  abs   
+   Quality Analysis of Multilingual Neural Machine Translation Systems and Reference Test Translations for the E  nglish- R  omanian language pair in the Medical Domain    
+  Miguel Angel Rios Gaona  | Raluca-Maria Chereji  | Alina Secara  | Dragos Ciobanu    
+ Multilingual Neural Machine Translation (MNMT) models allow to translate across multiple languages based on only one system. We study the quality of a domain-adapted MNMT model in the medical domain for English-Romanian with automatic metrics and a human error typology annotation based on the Multidimensional Quality Metrics (MQM). We further expand the MQM typology to include terminology-specific error categories. We compare the out-of-domain MNMT with the in-domain adapted MNMT on a standard test dataset of abstracts from medical publications. The in-domain MNMT model outperforms the out-of-domain MNMT in all measured automatic metrics and produces fewer errors. In addition, we perform the manual annotation over the reference test dataset to study the quality of the reference translations. We identify a high number of omissions, additions, and mistranslations in the reference dataset, and comment on the assumed accuracy of existing datasets. Finally, we compare the correlation between the COMET, BERTScore, and chrF automatic metrics with the MQM annotated translations. COMET shows a better correlation with the MQM scores compared to the other metrics.   
+   
+ pdf  bib  abs   
+   Computational analysis of different translations: by professionals, students and machines    
+  Maja Popovic  | Ekaterina Lapshinova-Koltunski  | Maarit Koponen    
+ In this work, we analyse different translated texts in terms of various text features. We compare two types of human translations, professional and students’, and machine translation outputs in terms of lexical and grammatical variety, sentence length,as well as frequencies of different POS tags and POS-trigrams. Our experimentsare carried out on parallel translations into three languages, Croatian, Finnish andRussian, all originating from the same source English texts. Our results indicatethat machine translations are closest to the source text, followed by student translations. Also, student translations are similar both to professional as well as to MT, sometimes even more to MT. Furthermore, we identify sets of features which are convenient for distinguishing machine from human translations.   
+   
+ pdf  bib  abs   
+   Quality in Human and Machine Translation: An Interdisciplinary Survey    
+  Bettina Hiebl  | Dagmar Gromann    
+ Quality assurance is a central component of human and machine translation. In translation studies, translation quality focuses on human evaluation and dimensions, such as purpose, comprehensibility, target audience among many more. Within the field of machine translation, more operationalized definitions of quality lead to automated metrics relying on reference translations or quality estimation. A joint approach to defining and assessing translation quality holds the promise to be mutually beneficial. To contribute towards that objective, this systematic survey provides an interdisciplinary analysis of the concept of translation quality from both perspectives. Thereby, it seeks to inspire cross-fertilization between both fields and further development of an interdisciplinary concept of translation quality.   
+   
+ pdf  bib  abs   
+   How can machine translation help generate A  rab melodic improvisation?    
+  Fadi Al-Ghawanmeh  | Alexander Jensenius  | Kamel Smaili    
+ This article presents a system to generate Arab music improvisation using machine translation. To reach this goal, we developed a machine translation model to translate a vocal improvisation into an automatic instrumental oud (Arab lute) response. Given the melodic and non-metric musical form, it was necessary to develop efficient textual representations for classical machine translation models to be as successful as NLP applications. We experimented with SMT and NMT to train our parallel corpus (Vocal to Instrumental) of 6991 sentences. The best model was then used to generate improvisation by iteratively translating thThis article presents a system to generate Arab music improvisation using machine translation (MT). To reach this goal, we developed a MT model to translate a vocal improvisation into an automatic instrumental oud (Arab lute) response. Given the melodic and non-metric musical form, it was necessary to develop efficient textual representations in order for classical MT models to be as successful as in common NLP applications. We experimented with Statistical and Neural MT to train our parallel corpus (Vocal to Instrument) of 6991 sentences. The best model was then used to generate improvisation by iteratively translating the translations of the most common patterns of each maqām (n-grams), producing elaborated variations conditioned to listener feedback. We constructed a dataset of 717 instrumental improvisations to extract their n-grams. Objective evaluation of MT was conducted at two levels: a sentence-level evaluation using the BLEU metric, and a higher level evaluation using musically informed metrics. Objective measures were consistent with one another. Subjective evaluations by experts from the maqām music tradition were promising, and a useful reference for understanding objective results.e translations of the most common patterns of each maqām (n-grams), producing elaborated variations conditioned to listener feedback. We constructed a dataset of 717 instrumental improvisations to extract their n-grams. Objective evaluation of machine translation was conducted at two levels: a sentence-level evaluation using the BLEU metric, and a higher level evaluation using musically informed metrics. Objective measures were consistent with one another. Subjective evaluations by experts from the maqām music tradition were promising, and a useful reference for understanding objective results.   
+   
+ pdf  bib  abs   
+   Do online Machine Translation Systems Care for Context? What About a GPT  Model?    
+  Sheila Castilho  | Clodagh Quinn Mallon  | Rahel Meister  | Shengya Yue    
+ This paper addresses the challenges of evaluating document-level machine translation (MT) in the context of recent advances in context-aware neural machine translation (NMT). It investigates how well online MT systems deal with six context-related issues, namely lexical ambiguity, grammatical gender, grammatical number, reference, ellipsis, and terminology, when a larger context span containing the solution for those issues is given as input. Results are compared to the translation outputs from the online ChatGPT. Our results show that, while the change of punctuation in the input yields great variability in the output translations, the context position does not seem to have a great impact. Moreover, the GPT model seems to outperform the NMT systems but performs poorly for Irish. The study aims to provide insights into the effectiveness of online MT systems in handling context and highlight the importance of considering contextual factors in evaluating MT systems.   
+   
+ pdf  bib  abs   
+   Incorporating Human Translator Style into E  nglish- T  urkish Literary Machine Translation    
+  Zeynep Yirmibeşoğlu  | Olgun Dursun  | Harun Dalli  | Mehmet Şahin  | Ena Hodzik  | Sabri Gürses  | Tunga Güngör    
+ Although machine translation systems are mostly designed to serve in the general domain, there is a growing tendency to adapt these systems to other domains like literary translation. In this paper, we focus on English-Turkish literary translation and develop machine translation models that take into account the stylistic features of translators. We fine-tune a pre-trained machine translation model by the manually-aligned works of a particular translator. We make a detailed analysis of the effects of manual and automatic alignments, data augmentation methods, and corpus size on the translations. We propose an approach based on stylistic features to evaluate the style of a translator in the output translations. We show that the human translator style can be highly recreated in the target machine translations by adapting the models to the style of the translator.   
+   
+ pdf  bib  abs   
+   Machine translation of anonymized documents with human-in-the-loop    
+  Konstantinos Chatzitheodorou  | M. Ángeles García Escrivá  | Carmen Grau Lacal    
+ In this paper, we introduce a workflow that utilizes human-in-the-loop for post-editing anonymized texts, with the aim of reconciling the competing needs of data privacy and data quality. By combining the strengths of machine translation and human post-editing, our methodology facilitates the efficient and effective translation of anonymized texts, while ensuring the confidentiality of sensitive information. Our experimental results validate that this approach is capable of providing all necessary information to the translators for producing high-quality translations effectively. Overall, our workflow offers a promising solution for organizations seeking to achieve both data privacy and data quality in their translation processes.   
+   
+ pdf  bib  abs   
+   Context-aware and gender-neutral Translation Memories    
+  Marjolene Paulo  | Vera Cabarrão  | Helena Moniz  | Miguel Menezes  | Rachel Grewcock  | Eduardo Farah    
+ This work proposes an approach to use Part-Of-Speech (POS) information to automatically detect context-dependent Translation Units (TUs) from a Translation Memory database pertaining to the customer support domain. In line with our goal to minimize context-dependency in TUs, we show how this mechanism can be deployed to create new gender-neutral and context-independent TUs. Our experiments, conducted across Portuguese (PT), Brazilian Portuguese (PT-BR), Spanish (ES), and Spanish-Latam (ES-LATAM), show that the occurrence of certain POS with specific words is accurate in identifying context dependency. In a cross-client analysis, we found that ~10% of the most frequent 13,200 TUs were context-dependent, with gender determining context-dependency in 98% of all confirmed cases. We used these findings to suggest gender-neutral equivalents for the most frequent TUs with gender constraints. Our approach is in use in the Unbabel translation pipeline, and can be integrated into any other Neural Machine Translation (NMT) pipeline.   
+   
+ pdf  bib  abs   
+   Improving Machine Translation in the E  -commerce Luxury Space. A case study    
+  José-Manuel De-la-Torre-Vilariño  | Juan-Luis García-Mendoza  | Alessia Petrucci    
+ This case study presents a Multilingual e-commerce Project, which principal aim is to create an improved system that translates product titles and descriptions, plus other content in multiple languages. The project consisted of two main phases; a research-intensive solution using state-of-the-art Machine Translation systems and baseline language models for two language pairs, and the development of a Machine Translation system. The features implemented included Quality Estimation, model benchmarking, entity recognizers, and automatic domain detection. mBART model was used to create the system for the specific domain of e-commerce, for luxury items.   
+   
+ pdf  bib  abs   
+   Quality Fit for Purpose: Building Business Critical Errors Test Suites    
+  Mariana Cabeça  | Marianna Buchicchio  | Madalena Gonçalves  | Christine Maroti  | João Godinho  | Pedro Coelho  | Helena Moniz  | Alon Lavie    
+ This paper illustrates a new methodology based on Test Suites (Avramidis et al., 2018) with focus on Business Critical Errors (BCEs) (Stewart et al., 2022) to evaluate the output of Machine Translation (MT) and Quality Estimation (QE) systems. We demonstrate the value of relying on semi-automatic evaluation done through scalable BCE-focused Test Suites to monitor both MT and QE systems’ performance for 8 language pairs (LPs) and a total of 4 error categories. This approach allows us to not only track the impact of new features and implementations in a real business environment, but also to identify strengths and weaknesses in models regarding different error types, and subsequently know what to improve henceforth.   
+   
+ pdf  bib  abs   
+   Using MT  for multilingual covid-19 case load prediction from social media texts    
+  Maja Popovic  | Vasudevan Nedumpozhimana  | Meegan Gower  | Sneha Rautmare  | Nishtha Jain  | John Kelleher    
+ In the context of an epidemiological study involving multilingual social media, this paper reports on the ability of machine translation systems to preserve content relevant for a document classification task designed to determine whether the social media text is related to covid. The results indicate that machine translation does provide a feasible basis for scaling epidemiological social media surveillance to multiple languages. Moreover, a qualitative error analysis revealed that the majority of classification errors are not caused by MT errors.   
+   
+ pdf  bib  abs   
+   Building Machine Translation Tools for Patent Language: A Data Generation Strategy at the E  uropean Patent Office    
+  Matthias Wirth  | Volker D. Hähnke  | Franco Mascia  | Arnaud Wéry  | Konrad Vowinckel  | Marco del Rey  | Raúl Mohedano del Pozo  | Pau Montes  | Alexander Klenner-Bajaja    
+ The European Patent Office (EPO) is an international organisation responsible for granting patents and promoting global cooperation in the intellectual property world. With three official languages (English, German, French) and a need to constantly access and manipulate information in multiple languages, machine translation is essential for the EPO. Over the last years we have developed internal machine translation engines, specifically for the translation of patent language. This article presents our data generation strategy: it describes our approach to the generation of parallel corpora of documents, training datasets of aligned sentences, and respective evaluation datasets. Details on the challenges and technical implementation are presented, as well as statistics of the training dataset generation process.   
+   
+ pdf  bib  abs   
+   Terminology in Neural Machine Translation: A Case Study of the C  anadian H  ansard    
+  Rebecca Knowles  | Samuel Larkin  | Marc Tessier  | Michel Simard    
+ Incorporating terminology into a neural machine translation (NMT) system is a feature of interest for many users of machine translation. In this case study of English-French Canadian Parliamentary text, we examine the performance of standard NMT systems at handling terminology and consider the tradeoffs between potential performance improvements and the efforts required to maintain terminological resources specifically for NMT.   
+   
+ pdf  bib  abs   
+   Developing User-centred Approaches to Technological Innovation in Literary Translation ( DUAL  - T  )    
+  Paola Ruffo  | Joke Daems  | Lieve Macken    
+ DUAL-T is an EU-funded project which aims at involving literary translators in the testing of technology-inclusive workflows. Participants will be asked to translate three short stories using, respectively, (1) a text editor combined with online resources, (2) a Computer-Aided Translation (CAT) tool, and (3) a Machine Translation Post-editing (MTPE) tool.   
+   
+ pdf  bib  abs   
+   The Post-Edit Me! project    
+  Marie-Aude Lefer  | Romane Bodart  | Adam Obrusnik  | Justine Piette    
+ In this paper, we present the Post-Edit Me! project, which aims to support machine translation post-editing training and learning in translator education, with particular emphasis on quality evaluation of students’ productions. We describe the main components of the project, from the perspectives of both translation lecturers and translation students, and the project’s outcomes to date, namely the MTPEAS annotation system used to assess students’ post-edited texts and the postedit.me app we are currently developing to automate the evaluation workflow.   
+   
+ pdf  bib  abs   
+   TAN  - IBE  : Neural Machine Translation for the romance languages of the I  berian Peninsula    
+  Antoni Oliver  | Mercè Vàzquez  | Marta Coll-Florit  | Sergi Álvarez  | Víctor Suárez  | Claudi Aventín-Boya  | Cristina Valdés  | Mar Font  | Alejandro Pardos    
+ The main goal of this project is to explore the techniques for training NMT systems applied to Spanish, Portuguese, Catalan, Galician, Asturian, Aragonese and Aranese. These languages belong to the same Romance family, but they are very different in terms of the linguistic resources available. Asturian, Aragonese and Aranese can be considered low resource languages. These characteristics make this setting an excellent place to explore training techniques for low-resource languages: transfer learning and multilingual systems, among others. The first months of the project have been dedicated to the compilation of monolingual and parallel corpora for Asturian, Aragonese and Aranese.   
+   
+ pdf  bib  abs   
+   GAMETRAPP  : Training app for post-editing neural machine trans-lation using gamification in professional settings    
+  Cristina Toledo Báez    
+ The GAMETRAPP project, funded by Spanish Ministry for Science and Inno-vation, aims to facilitate industry profes-sionals training on full post-editing of neural machine translation by means of a gamified environment.   
+   
+ pdf  bib  abs   
+   MATEO  : MA  chine Translation Evaluation Online    
+  Bram Vanroy  | Arda Tezcan  | Lieve Macken    
+ We present MAchine Translation Evaluation Online (MATEO), a project that aims to facilitate machine translation (MT) evaluation by means of an easy-to-use interface that can evaluate given machine translations with a battery of automatic metrics. It caters to both experienced and novice users who are working with MT, such as MT system builders, teachers and students of (machine) translation, and researchers.   
+   
+ pdf  bib  abs   
+   S  ign ON  : Sign Language Translation. Progress and challenges.    
+  Vincent Vandeghinste  | Dimitar Shterionov  | Mirella De Sisto  | Aoife Brady  | Mathieu De Coster  | Lorraine Leeson  | Josep Blat  | Frankie Picron  | Marcello Paolo Scipioni  | Aditya Parikh  | Louis ten Bosch  | John O’Flaherty  | Joni Dambre  | Jorn Rijckaert  | Bram Vanroy  | Victor Ubieto Nogales  | Santiago Egea Gomez  | Ineke Schuurman  | Gorka Labaka  | Adrián Núnez-Marcos  | Irene Murtagh  | Euan McGill  | Horacio Saggion    
+ SignON ( https://signon-project.eu/  ) is a Horizon 2020 project, running from 2021 until the end of 2023, which addresses the lack of technology and services for the automatic translation between sign languages (SLs) and spoken languages, through an inclusive, human-centric solution, hence contributing to the repertoire of communication media for deaf, hard of hearing (DHH) and hearing individuals. In this paper, we present an update of the status of the project, describing the approaches developed to address the challenges and peculiarities of SL machine translation (SLMT).   
+   
+ pdf  bib  abs   
+   G  o S  t- P  ar C  -Sign: Gold Standard Parallel Corpus of Sign and spoken language    
+  Mirella De Sisto  | Vincent Vandeghinste  | Lien Soetemans  | Caro Brosens  | Dimitar Shterionov    
+ Good quality training data for Sign Language Machine Translation (SLMT) is extremely scarce, and this is one of the challenges that any project focusing on Machine Translation (MT) which also targets sign languages is currently facing. The goal of this ongoing project is to create a parallel corpus of authentic Flemish Sign Language (VGT) and written Dutch which can be employed as gold standard in automated sign language translation. The availability of a gold standard corpus like Gost-ParC-Sign can facilitate the advances of SLMT; consequently, it supports and promotes inclusiveness in MT and, on a more general level, in language technology   
+   
+ pdf  bib  abs   
+   M  a C  o C  u: Massive collection and curation of monolingual and bilingual data: focus on under-resourced languages    
+  Marta Bañón  | Mălina Chichirău  | Miquel Esplà-Gomis  | Mikel Forcada  | Aarón Galiano-Jiménez  | Taja Kuzman  | Nikola Ljubešić  | Rik van Noord  | Leopoldo Pla Sempere  | Gema Ramírez-Sánchez  | Peter Rupnik  | Vit Suchomel  | Antonio Toral  | Jaume Zaragoza-Bernabeu    
+ We present the most relevant results of the project MaCoCu: Massive collection and curation of monolingual and bilingual data: focus on under-resourced languages in its second year. To date, parallel and monolingual corpora have been produced for seven low-resourced European languages by crawling large amounts of textual data from selected top-level domains of the Internet; both human and automatic evaluation show its usefulness. In addition, several large language models pretrained on MaCoCu data have been published, as well as the code used to collect and curate the data.   
+   
+ pdf  bib  abs   
+   First WMT  Shared Task on Sign Language Translation ( WMT  - SLT  22)    
+  Mathias Müller  | Sarah Ebling  | Eleftherios Avramidis  | Alessia Battisti  | Michèle Berger  | Richard Bowden  | Annelies Braffort  | Necati Cihan Camgoz  | Cristina España-Bonet  | Roman Grundkiewicz  | Zifan Jiang  | Oscar Koller  | Amit Moryossef  | Regula Perrollaz  | Sabine Reinhard  | Annette Rios Gonzales  | Dimitar Shterionov  | Sandra Sidler-Miserez  | Katja Tissi  | Davy Van Landuyt    
+ This paper is a brief summary of the First WMT Shared Task on Sign Language Translation (WMT-SLT22), a project partly funded by EAMT. The focus of this shared task is automatic translation between signed and spoken languages. Details can be found on our website ( https://www.wmt-slt.com/  ) or in the findings paper (Müller et al., 2022).   
+   
+ pdf  bib  abs   
+   DECA  : Democratic epistemic capacities in the age of algorithms    
+  Maarit Koponen  | Mary Nurminen  | Nina Havumetsä  | Juha Lång    
+ The DECA project consortium investigates epistemic capacities, defined as an individual’s access to reliable knowledge, their ability to participate in knowledge production, and society’s capacity to make informed, sustainable policy decisions. In this paper, we focus specifically on the parts of the project examining the challenges posed by multilinguality in these processes and the potential role of MT in supporting access to, and production of, knowledge.   
+   
+ pdf  bib  abs   
+   C  or C  o D  ial - Machine translation techniques for corpus-based computational dialectology    
+  Yves Scherrer  | Olli Kuparinen  | Aleksandra Miletic    
+ This paper presents CorCoDial, a research project funded by the Academy of Finland aiming to leverage machine translation technology for corpus-based computational dialectology. In this paper, we briefly present intermediate results of our project-related research.   
+   
+ pdf  bib  abs   
+   How STAR  Transit NXT  can help translators measure and increase their MT  post-editing efficiency    
+  Julian Hamm  | Judith Klein    
+ As machine translation (MT) is being more tightly integrated into modern CAT-based translation workflows, measuring and increasing MT efficiency has become one of the main concerns of LSPs and companies trying to optimise their processes in terms of quality and performance. When it comes to measur-ing MT efficiency, STAR’s CAT tool Transit NXT offers post-editing distance (PED) and MT error categorisation as two core features of Transit’s compre-hensive QA module. With DeepL glossa-ry integration and MT confidence scores, translators will also have access to two new features which can help them in-crease their MT post-editing efficiency.   
+   
+ pdf  bib  abs   
+   PROPICTO  : Developing Speech-to-Pictograph Translation Systems to Enhance Communication Accessibility    
+  Lucía Ormaechea  | Pierrette Bouillon  | Maximin Coavoux  | Emmanuelle Esperança-Rodier  | Johanna Gerlach  | Jerôme Goulian  | Benjamin Lecouteux  | Cécile Macaire  | Jonathan Mutal  | Magali Norré  | Adrien Pupier  | Didier Schwab    
+ PROPICTO is a project funded by the French National Research Agency and the Swiss National Science Foundation, that aims at creating Speech-to-Pictograph translation systems, with a special focus on French as an input language. By developing such technologies, we intend to enhance communication access for non-French speaking patients and people with cognitive impairments.   
+   
+ pdf  bib  abs   
+   HPLT  : High Performance Language Technologies    
+  Mikko Aulamo  | Nikolay Bogoychev  | Shaoxiong Ji  | Graeme Nail  | Gema Ramírez-Sánchez  | Jörg Tiedemann  | Jelmer van der Linde  | Jaume Zaragoza    
+ We describe the High Performance Language Technologies project (HPLT), a 3-year EU-funded project started in September 2022. HPLT will build a space combining petabytes of natural language data with large-scale model training. It will derive monolingual and bilingual datasets from the Internet Archive and CommonCrawl and build efficient and solid machine translation (MT) as well as large language models (LLMs). HPLT aims at providing free, sustainable and reusable datasets, models and workflows at scale using high-performance computing (HPC).   
+
+   up   pdf (full)   
+  bib (full)   Proceedings of the Second International Workshop on Automatic Translation for Signed and Spoken Languages   
+ pdf  bib   
+   Proceedings of the Second International Workshop on Automatic Translation for Signed and Spoken Languages    
+  Dimitar Shterionov  | Mirella De Sisto  | Mathias Muller  | Davy Van Landuyt  | Rehana Omardeen  | Shaun Oboyle  | Annelies Braffort  | Floris Roelofsen  | Fred Blain  | Bram Vanroy  | Eleftherios Avramidis    
+ pdf  bib  abs   
+   Analyzing the Potential of Linguistic Features for Sign Spotting: A Look at Approximative Features    
+  Natalie Hollain  | Martha Larson  | Floris Roelofsen    
+ Sign language processing is the field of research that aims to recognize, retrieve, and spot signs in videos. Various approaches have been developed, varying in whether they use linguistic features and whether they use landmark detection tools or not. Incorporating linguistics holds promise for improving sign language processing in terms of performance, generalizability, and explainability. This paper focuses on the task of sign spotting and aims to expand on the approximative linguistic features that have been used in previous work, and to understand when linguistic features deliver an improvement over landmark features. We detect landmarks with Mediapipe and extract linguistically relevant features from them, including handshape, orientation, location, and movement. We compare a sign spotting model using linguistic features with a model operating on landmarks directly, finding that the approximate linguistic features tested in this paper capture some aspects of signs better than the landmark features, while they are worse for others.   
+   
+ pdf  bib  abs   
+   A Linked Data Approach for linking and aligning Sign Language and Spoken Language Data    
+  Thierry Declerck  | Sam Bigeard  | Fahad Khan  | Irene Murtagh  | Sussi Olsen  | Mike Rosner  | Ineke Schuurman  | Andon Tchechmedjiev  | Andy Way    
+ We present work dealing with a Linked Open Data (LOD)-compliant representation of Sign Language (SL) data, with the goal of supporting the cross-lingual alignment of SL data and their linking to Spoken Language (SpL) data. The proposed representation is based on activities of groups of researchers in the field of SL who have investigated the use of Open Multilingual Wordnet (OMW) datasets for (manually) cross-linking SL data or for linking SL and SpL data. Another group of researchers is proposing an XML encoding of articulatory elements of SLs and (manually) linking those to an SpL lexical resource. We propose an RDF-based representation of those various data. This unified formal representation offers a semantic repository of information on SL and SpL data that could be accessed for supporting the creation of datasets for training or evaluating NLP applications dealing with SLs, thinking for example of Machine Translation (MT) between SLs and between SLs and SpLs.   
+   
+ pdf  bib  abs   
+   An Open-Source Gloss-Based Baseline for Spoken to Signed Language Translation    
+  Amit Moryossef  | Mathias Müller  | Anne Göhring  | Zifan Jiang  | Yoav Goldberg  | Sarah Ebling    
+ Sign language translation systems are complex and require many components. As a result, it is very hard to compare methods across publications. We present an open-source implementation of a text-to-gloss-to-pose-to-video pipeline approach, demonstrating conversion from German to Swiss German Sign Language, French to French Sign Language of Switzerland, and Italian to Italian Sign Language of Switzerland. We propose three different components for the text-to-gloss translation: a lemmatizer, a rule-based word reordering and dropping component, and a neural machine translation system. Gloss-to-pose conversion occurs using data from a lexicon for three different signed languages, with skeletal poses extracted from videos. To generate a sentence, the text-to-gloss system is first run, and the pose representations of the resulting signs are stitched together.   
+   
+ pdf  bib  abs   
+   A New E  nglish- D  utch- NGT  Corpus for the Hospitality Domain    
+  Mirella De Sisto  | Vincent Vandeghinste  | Dimitar Shterionov    
+ One of the major challenges hampering the development of language technology which targets sign languages is the extremely limited availability of good quality data geared towards machine learning and deep learning approaches. In this paper we introduce the NGT-Dutch Hotel Review Corpus (NGT-HoReCo), which addresses this issue by providing multimodal parallel data in English, Dutch and Sign Language of the Netherlands (NGT). The corpus contains 283 hotel reviews in written English, translated into written Dutch and into NGT videos. It will be made publicly available through CLARIN and through the ELG platform.   
+   
+ pdf  bib  abs   
+   BSL  - H  ansard: A parallel, multimodal corpus of E  nglish and interpreted B  ritish S  ign L  anguage data from parliamentary proceedings    
+  Euan McGill  | Horacio Saggion    
+ BSL-Hansard is a novel open source and multimodal resource composed by combining Sign Language video data in BSL and English text from the official transcription of British parliamentary sessions. This paper describes the method followed to compile BSL-Hansard including time alignment of text using the MAUS (Schiel, 2015) segmentation system, gives some statistics about this dataset, and suggests experiments. These primarily include end-to-end Sign Language-to-text translation, but is also relevant for broader machine translation, and speech and language processing tasks.   
+   
+ pdf  bib  abs   
+   Towards Accommodating Gerunds within the Sign Language Lexicon    
+  Zaid Mohammed  | Irene Murtagh    
+ This work is part of ongoing research work that focuses on the linguistic analysis and computational description of five different Sign Languages (SLs), namely Irish Sign Language (ISL), Flemish Sign Language (VGT), Dutch Sign Language (NGT), Spanish Sign Language (LSE), and British Sign Language (BSL). This work will be leveraged to inform the development of SL lexicon entries for a Sign Language Machine Translation (SLMT) system. In particular, this research focuses on ISL. We investigate the existence of constructions similar to or equivalent in functionality to gerunds in spoken language, in particular, English. The initial findings indicate that such constructions do indeed exist and that they can take many forms.   
+
+   up   pdf (full)   
+  bib (full)   Proceedings of the 1st Workshop on Open Community-Driven Machine Translation   
+ pdf  bib   
+   Proceedings of the 1st Workshop on Open Community-Driven Machine Translation    
+  Miquel Esplà-Gomis  | Mikel L. Forcada  | Taja Kuzman  | Nikola Ljubešić  | Rik van Noord  | Gema Ramírez-Sánchez  | Jörg Tiedemann  | Antonio Toral    
+ pdf  bib  abs   
+   Training and integration of neural machine translation with MTUOC     
+  Antoni Oliver  | Sergi Alvarez    
+ In this paper the goals and main objectives of the project MTUOC are presented. This project aims to ease the process of training and integrating neural machine translation (NMT) systems into professional translation environments. The MTUOC project distributes a series of auxiliary tools that allow to perform parallel corpus compilation and preprocessing, as well as the training of NMT systems. The project also distributes a server that implements most of the communication protocols used in computer assisted translation tools.   
+   
+ pdf  bib  abs   
+   Design of an Open-Source Architecture for Neural Machine Translation    
+  Séamus Lankford  | Haithem Afli  | Andy Way    
+ adaptNMT is an open-source application that offers a streamlined approach to the development and deployment of Recurrent Neural Networks and Transformer models. This application is built upon the widely-adopted OpenNMT ecosystem, and is particularly useful for new entrants to the field, as it simplifies the setup of the development environment and creation of train, validation, and test splits. The application offers a graphing feature that illustrates the progress of model training, and employs SentencePiece for creating subword segmentation models. Furthermore, the application provides an intuitive user interface that facilitates hyperparameter customization. Notably, a single-click model development approach has been implemented, and models developed by adaptNMT can be evaluated using a range of metrics. To encourage eco-friendly research, adaptNMT incorporates a green report that flags the power consumption and kgCO2 emissions generated during model development. The application is freely available.   
+   
+ pdf  bib  abs   
+   Creating a parallel F  innish- E  asy F  innish dataset from news articles    
+  Anna Dmitrieva  | Aleksandra Konovalova    
+ Modern natural language processing tasks such as text simplification or summarization are typically formulated as monolingual machine translation tasks. This requires appropriate datasets to train, tune, and evaluate the models. This paper describes the creation of a parallel Finnish-Easy Finnish dataset from the Yle News archives. The dataset contains 1919 manually verified pairs of articles, each containing an article in Easy Finnish (selkosuomi) and a corresponding article from Standard Finnish news. Standard Finnish texts total 687555 words, and Easy Finnish texts have 106733 words. This new aligned resource was created automatically based on the Yle News archives from the Language Bank of Finland (Kielipankki) and manually checked by a human expert. The dataset is available for download from Kielipankki. This resource will allow for more effective Easy Language research and for creating applications for automatic simplification and/or summarization of Finnish texts.   
+   
+ pdf  bib   
+   A P  ython Tool for Selecting Domain-Specific Data in Machine Translation    
+  Javad Pourmostafa Roshan Sharami  | Dimitar Shterionov  | Pieter Spronck    
+ pdf  bib   
+   MutNMT  , an open-source NMT  tool for educational purposes    
+  Gema Ramírez Sánchez    
+   
+   up   pdf (full)   
+  bib (full)   Proceedings of the First Workshop on Gender-Inclusive Translation Technologies   
+ pdf  bib   
+   Proceedings of the First Workshop on Gender-Inclusive Translation Technologies    
+  Eva Vanmassenhove  | Beatrice Savoldi  | Luisa Bentivogli  | Joke Daems  | Janiça Hackenbuchner    
+ pdf  bib  abs   
+   The User-Aware A  rabic Gender Rewriter    
+  Bashar Alhafni  | Ossama Obeid  | Nizar Habash    
+ We introduce the User-Aware Arabic Gender Rewriter, a user-centric web-based system for Arabic gender rewriting in contexts involving two users. The system takes either Arabic or English sentences as input, and provides users with the ability to specify their desired first and/or second person target genders. The system outputs gender rewritten alternatives of the Arabic sentences (provided directly or as translation outputs) to match the target users’ gender preferences.   
+   
+ pdf  bib  abs   
+   Gender-Fair Language in Translation: A Case Study    
+  Angela Balducci Paolucci  | Manuel Lardelli  | Dagmar Gromann    
+ With an increasing visibility of non-binary individuals, a growing number of language-specific strategies to linguistically include all genders or neutralize any gender references can be observed. Due to this multiplicity of proposed strategies and gender-specific grammatical differences across languages, selecting the one option to translate gender-fair language is challenging for machines and humans alike. As a first step towards gender-fair translation, we conducted a survey with translators to compare four gender-fair translations from a notional gender language, English, to a grammatical gender language, German. Proposed translations were rated by means of best-worst scaling as well as regarding their readability and comprehensibility. Participants expressed a clear preference for strategies with gender-inclusive character, i.e., colon.   
+   
+ pdf  bib  abs   
+   Gender Lost In Translation: How Bridging The Gap Between Languages Affects Gender Bias in Zero-Shot Multilingual Translation    
+  Lena Cabrera  | Jan Niehues    
+ Neural machine translation (NMT) models often suffer from gender biases that harm users and society at large. In this work, we explore how bridging the gap between languages for which parallel data is not available affects gender bias in multilingual NMT, specifically for zero-shot directions. We evaluate translation between grammatical gender languages which requires preserving the inherent gender information from the source in the target language. We study the effect of encouraging language-agnostic hidden representations on models’ ability to preserve gender and compare pivot-based and zero-shot translation regarding the influence of the bridge language (participating in all language pairs during training) on gender preservation. We find that language-agnostic representations mitigate zero-shot models’ masculine bias, and with increased levels of gender inflection in the bridge language, pivoting surpasses zero-shot translation regarding fairer gender preservation for speaker-related gender agreement.   
+   
+ pdf  bib  abs   
+   Gender-inclusive translation for a gender-inclusive sport: strategies and translator perceptions at the International Quadball Association    
+  Joke Daems    
+ Gender-inclusive language is of key importance to the IQA, the international governing body for quadball, a mixed-gender contact sport that explicitly welcomes players of all genders. While relatively straightforward for English, the picture becomes more complicated for most of the other IQA working languages. This paper provides an overview of the strategies currently chosen by translation team leaders for different IQA languages, the factors that influenced this decision and their connection with existing research on inclusive language strategies. It further explores the awareness and attitudes of IQA translators towards those strategies and factors.   
+   
+ pdf  bib  abs   
+   Participatory Research as a Path to Community-Informed, Gender-Fair Machine Translation    
+  Dagmar Gromann  | Manuel Lardelli  | Katta Spiel  | Sabrina Burtscher  | Lukas Daniel Klausner  | Arthur Mettinger  | Igor Miladinovic  | Sigrid Schefer-Wenzl  | Daniela Duh  | Katharina Bühn    
+ Recent years have seen a strongly increased visibility of non-binary people in public discourse. Accordingly, considerations of gender-fair language go beyond a binary conception of male/female. However, language technology, especially machine translation (MT), still suffers from binary gender bias. Proposing a solution for gender-fair MT beyond the binary from a purely technological perspective might fall short to accommodate different target user groups and in the worst case might lead to misgendering. To address this challenge, we propose a method and case study building on participatory action research to include experiential experts, i.e., queer and non-binary people, translators, and MT experts, in the MT design process. The case study focuses on German, where central findings are the importance of context dependency to avoid identity invalidation and a desire for customizable MT solutions.   
+   
+ pdf  bib  abs   
+   Reducing Gender Bias in NMT  with FUDGE     
+  Tianshuai Lu  | Noëmi Aepli  | Annette Rios    
+ Gender bias appears in many neural machine translation (NMT) models and commercial translation software. Research has become more aware of this problem in recent years and there has been work on mitigating gender bias. However, the challenge of addressing gender bias in NMT persists. This work utilizes a controlled text generation method, Future Discriminators for Generation (FUDGE), to reduce the so-called Speaking As gender bias. This bias emerges when translating from English to a language that openly marks the gender of the speaker. We evaluate the model on MuST-SHE, a challenge set to specifically evaluate gender translation. The results demonstrate improvements in the translation accuracy of the feminine terms.   
+   
+ pdf  bib  abs   
+   Gender Neutralization for an Inclusive Machine Translation: from Theoretical Foundations to Open Challenges    
+  Andrea Piergentili  | Dennis Fucci  | Beatrice Savoldi  | Luisa Bentivogli  | Matteo Negri    
+ Gender inclusivity in language technologies has become a prominent research topic. In this study, we explore gender-neutral translation (GNT) as a form of gender inclusivity and a goal to be achieved by machine translation (MT) models, which have been found to perpetuate gender bias and discrimination. Specifically, we focus on translation from English into Italian, a language pair representative of salient gender-related linguistic transfer problems. To define GNT, we review a selection of relevant institutional guidelines for gender-inclusive language, discuss its scenarios of use, and examine the technical challenges of performing GNT in MT, concluding with a discussion of potential solutions to encourage advancements toward greater inclusivity in MT.   
+   
+ pdf  bib  abs   
+   Gender, names and other mysteries: Towards the ambiguous for gender-inclusive translation    
+  Danielle Saunders  | Katrina Olsen    
+ The vast majority of work on gender in MT focuses on ‘unambiguous’ inputs, where gender markers in the source language are expected to be resolved in the output. Conversely, this paper explores the widespread case where the source sentence lacks explicit gender markers, but the target sentence contains them due to richer grammatical gender. We particularly focus on inputs containing person names. Investigating such sentence pairs casts a new light on research into MT gender bias and its mitigation. We find that many name-gender co-occurrences in MT data are not resolvable with ‘unambiguous gender’ in the source language, and that gender-ambiguous examples can make up a large proportion of training examples. From this, we discuss potential steps toward gender-inclusive translation which accepts the ambiguity in both gender and translation.   
+   
+ pdf  bib  abs   
+   How adaptive is adaptive machine translation, really? A gender-neutral language use case    
+  Aida Kostikova  | Joke Daems  | Todor Lazarov    
+ This study examines the effectiveness of adaptive machine translation (AMT) for gender-neutral language (GNL) use in English-German translation using the ModernMT engine. It investigates gender bias in initial output and adaptability to two distinct GNL strategies, as well as the influence of translation memory (TM) use on adaptivity. Findings indicate that despite inherent gender bias, machine translation (MT) systems show potential for adapting to GNL with appropriate exposure and training, highlighting the importance of customisation, exposure to diverse examples, and better representation of different forms for enhancing gender-fair translation strategies.   
+
+   up   pdf (full)   
+  bib (full)   Proceedings of the 1st International Workshop on Multilingual, Multimodal and Multitask Language Generation   
+ pdf  bib   
+   Proceedings of the 1st International Workshop on Multilingual, Multimodal and Multitask Language Generation    
+  Anabela Barreiro  | Max Silberztein  | Elena Lloret  | Marcin Paprzycki    
+ pdf  bib   
+   Controllability for E  nglish- U  krainian Machine Translation Based on Specialized Corpora    
+  Daniil Maksymenko  | Olena Turuta  | Nataliia Saichyshyna  | Maksym Yerokhin  | Oleksii Turuta    
+ pdf  bib   
+   R  oo A  d: A Computationally Creative Online Advertisement Generator    
+  Mika Hämäläinen  | Khalid Alnajjar    
+ pdf  bib   
+   Variable-length Neural Interlingua Representations for Zero-shot Neural Machine Translation    
+  Zhuoyuan Mao  | Haiyue Song  | Raj Dabre  | Chenhui Chu  | Sadao Kurohashi    
+ pdf  bib   
+   Towards an Efficient Approach for Controllable Text Generation    
+  Iván Martínez-Murillo  | Paloma Moreda  | Elena Lloret    
+ pdf  bib   
+   Natural Language Generation in the Logos Model    
+  Sara Amato  | Kutz Arrieta    
+ pdf  bib   
+   Improving P  olish to E  nglish Neural Machine Translation with Transfer Learning: Effects of Data Volume and Language Similarity    
+  Juuso Eronen  | Michal Ptaszynski  | Karol Nowakowski  | Zheng Lin Chia    
+ pdf  bib   
+   A Multilingual Paraphrasary of Multiwords    
+  Anabela Barreiro  | Cristina Mota    
+
+    ACL materials are Copyright © 1963–2024 ACL; other materials are copyrighted by their respective copyright holders. Materials prior to 2016 here are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 International License  . Permission is granted to make copies for the purposes of teaching and research. Materials published in or after 2016 are licensed on a Creative Commons Attribution 4.0 International License  .  
+ The ACL Anthology is managed and built by the ACL Anthology team  of volunteers.  
+ Site last built on 24 November 2024 at 17:31 UTC with commit 5f12c57  .

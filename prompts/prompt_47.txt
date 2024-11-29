@@ -1,0 +1,408 @@
+input:
+1. COG_0 conference:
+sponsoring 
+ The annual IEEE Conference on Games (IEEE CoG)  seeks to be the premier venue for technical, scientific, and engineering work on video games, board  games, and other types of games. Games offer a fantastic domain for  computational creativity, game design, technology, education, social sciences  and, undoubtedly, artificial and computational intelligence. IEEE CoG is a venue  to discuss recent advances and explore future directions.   
+ IEEE CoG 2023 will take place at Northeastern University  , which is located in Boston in the United States, from August 21st to 24th  .  
+ Contact:  ieeecog2023@gmail.com  
+ Important Deadlines (all Anytime on Earth – AoE)  :  
+  Competitions and tutorial  proposal: 27th February 2023   
+  Submission of full technical papers (required: title, abstract, authors)  : 17th March 2023    
+  Edit full technical paper submissions (paper, supplementary material)  : 24th March 2023    
+  Notification of acceptance of full technical papers  : 9th May 2023   
+  Submission of auxiliary  (competition, vision, short paper, and demo) papers  : 19th May 2023    
+  Submission of the camera-ready version of full technical papers  : 28th May 2023   
+  Notification of acceptance of auxiliary papers  : 17th June 2023   
+  Games industry presentation  proposals: 19th June 2023    
+  Journal paper presentation  proposals: 19th June 2023    
+  Academic presentation  proposals :  19th June 2023    
+  Notification of acceptance of presentations  : 26th June 2023   
+  Submission of the camera-ready version of auxiliary papers  : 7th July 2023   
+  Early bird (and author) registration  : 21st July 2023    
+ Industry Day Program      
+ Code of Conduct    
+  IEEE CoG 2023 follows IEEE’s nondisrimination policy  , which prohibits discrimination, harassment, and bullying against any person for any reason (e.g., age, race, political affiliation), and IEEE’s Code of Ethics  , which commits members to the highest ethical and professional conduct. The organization further commits to providing a harassment-free, accessible, and pleasant conference experience where every participant feels welcome and included. Participants can contact any member of the Organization  in confidence. They can also make use of IEEE’s Ethics Reporting Line  .   
+ sponsors  
+ Twitter       
+ © 2023 All rights reserved​
+2. COG_1 conference:
+Description + Evaluation Criteria:  
+   Bot Bowl is an AI competition using the Bot Bowl framework (previously known as FFAI). The Bot Bowl framework simulates the board game Blood Bowl by Games Workshop and offers APIs for scripted bots, search-based, and ML algorithms in Python. It’s also possible to use another programming language while there are no existing APIs for that. Blood Bowl is a major challenge for artificial agents due to its complexity and lack of rewards. This also means that we don’t have any basic baseline agents that are able to score points in this game! We do, however, provide tutorials on how to develop scripted, search-based, or ML bots.  
+ The competition will have one track using the traditional board size of 26×15  
+  squares with 11 players on each side. We will, like last year, restrict the game to  
+ The players start with the same base cards and build their decks during the game by buying cards from a shared resource pool called the Tavern (a concept similar to Dominion). Tales of Tributes encourages strategic long-term planning – to ensure the deck we build contains enough strong cards and is not clustered with weak ones. In the meantime, because of a huge randomness factor influencing, e.g., which cards occur in the Tavern, it is usually hard to stick with a pre-made plan – so it also requires considerable adaptiveness.   
+ Tales of Tribute AI Competition aims to fill the void after the Hearthstone AI Competition while being significantly more challenging than a toy problem covered by Legends of Code and Magic and the Strategy Card Game AI Competition.   
+ The competition will be run using ScriptsOfTribute, an open reimplementation of the original game in the .Net framework designed especially for this event. It features the game manager that allows running AI agents implemented as C# classes against each other and a graphical user interface that support human vs. AI games.   
+ The competition’s winners will be decided upon the global winrate in all vs. all tournament, conducted on a large number of mirror matches using the same seeds. Deadline (August 7th).   
+ Tracks:  Single track  
+ Description + Evaluation Criteria:  
+   Are you aware of any sound design (a set of sound effects combined with the source code that implements their timing-control algorithm) in video games that considers visually impaired players? Enhanced with a better sound design than its predecessor FightingICE, DareFightingICE is a fighting game platform for creating a sound design for such players. As in the first competition at CoG 2022, this year, there are also two tracks. The first track is an AI competition, and the second is a sound-design competition.  
+ Submissions  — of an AI capable of operating with only audio input information or/and a sound design for visually impaired players — are welcome.  
+ In the sound design track, the winning sound design is the one that has not only the highest sum of the scores from blindfolded human test players (scores here include both relative game scores compared when playing without being blindfolded and subjective scores assessing sound aesthetic) but also the highest performance from the sample deep-learning AI fighting against the sample MCTS AI when the former is trained using the sound design of interest.  
+ The winning AI — if trainable — and the winning sound design will be used in the sound design track and the AI track in the next competition, respectively.  
+ Submission deadlines   
+ Description:   
+   The Dota 2 5v5 AI Competition challenges participants to code a bot that competes against (and wins!) other player bots in standard Dota 2 matches. The competition runs on the original Dota 2 game, thanks to the Dota 2 5v5 Framework, that lets you develop, deploy, and run your own python program that controls the 5 heroes in any Dota 2 team: Radiant or Dire. Your bot will face other participantsʼ bots in standard 5v5 matches. You can freely choose 5 among all the available heroes for your team. Depending on the number of entries, we would arrange either an elimination or a round-robin tournament. The winner will be the bot with most wins and, in case of tie, the one that beats its opponents faster. The framework saves the time elapsed from the match start to the Ancientʼs destruction event, which determines the end of a match.   
+ Tracks:   One   
+ Video:   
+   Our website contains the following information, for the public:   
+ An online form to submit the entries. 
+  Detailed rules for the competition, including submission instructions. • The results of the previous three years, including code, generated settlement, competition  maps and scores. 
+  A detailed explanation of the scoring criteria, including the actual instructions given to our  judges. 
+  A list of examples of good Minecraft settlements. 
+  Links to our other communication platforms: Discord, Twitter and our Wiki. • Links to a code repository containing example code for both submission options: 
+  Submission of an Amulet Script – a Minecraft editor that allows for custom filters 
+  Links to related publications. 
+  Timelines for the 6th round of GDMC, 2023:   
+ February 2023: Announcement of the new Round. 
+  15 of June, 2023: Submission Deadline. 
+  15 of August, 2023: Deadline for Evaluation by Judges. 
+ Description:   
+   The goal of the competition is to build AI agents for a 2-player collaborative physics-based puzzle platformer game (Geometry Friends). The agents control, each, a different character (circle or rectangle) with distinct characteristics. Their goal is to collaborate in order to collect a set of diamonds in a set of levels as fast as possible. The game presents problems of combined task and motion planning and promotes collaboration at different levels. Participants can tackle  cooperative levels with the full complexity of the problem or single- player levels for dealing with task and motion planning without the complexity of collaboration.   
+ The winner is the submission that achieves a higher overall score after running 10 different levels. The score of each level depends on the performance of the task regarding the number of collectibles caught and the time the agents take to solve the level.   
+ Tracks:  
+   The competition has 3 tracks: Cooperative, Single Player Circle, Single Player Rectangle   
+ Description + Evaluation Criteria:   
+   The IEEE CoG StarCraft competitions have made remarkable progress in advancing the creation and evolution of new StarCraft bots. Participants have employed various strategies to enhance the bots, leading to the enrichment of game AI and methodologies. Furthermore, recent developments in game AI, particularly through the application of deep learning and reinforcement learning, have also contributed to the advancement of StarCraft AIs. Nevertheless, developing AI for the game remains a formidable challenge, given the need to effectively manage a vast number of units and buildings while considering resource management and high-level tactics. The competition’s primary goal is to stimulate the growth of real-time strategy (RTS) game AI and overcome complex issues such as uncertainty, unit management, and the game’s real-time nature.   
+ The winner of the competition will be determined through a round-robin tournament, with as many rounds as possible conducted before the deadline for the announcement of the winners. If it is estimated that there is insufficient time to complete another round or insufficient time to prepare before announcing the winners, the tournament will be concluded at the end of a full round.   
+ Tracks:  Single track: 1 vs. 1 full game   
+ CoG-2023 multi-agent google research football competition  
+     more info  
+ Title:   CoG-2023 Multi-Agent Google Research Football Competition   
+ Organizers:   
+   Haifeng Zhang, Institute of Automation, Chinese Academy of Sciences, China   
+ Description:   
+   The competition will be named CoG-2023 Multi-Agent Google Research Football Competition as it plans to use the multi-agent scenarios of the Google Research Football (GRF) simulators [1] as the testbed. The GRF simulator bears great similarity to well-known football games like FIFA and REAL Football, vividly modelling the dynamics of the ball and player movement as well as their interaction such as passing, shooting, etc. The competition focuses on the full game scenario built on GRF simulator where two teams of players compete for goals on the pitch (as shown in Fig. 1).  The competition will be held on Jidi platform which offers online evaluation of submitted policies on various simulated environments and holds Kaggle-like  customized competitions. Regarding the scale of the game, the GRF competition has two tracks as two separate contests, one easy track using the 5vs5 multi agent full-game scenario and one hard track using the 11vs11 multi-agent full game scenario.   
+ Previous GRF Competitions:   
+ Jidi plans to continue the competition on GRF in year 2023 after discovering interesting tactics from MARL CoG 2022 GRF tracks. On the 5v5 track particularly, many top participants have learned a high-pass glitch existing in the goal-keeperʼs built-in logic and taken advantage of such loopholes to form an extremely strong tactics. On the 11v11 track, some collaborative behavior between players have emerged and a game clip can be found in [4]. To further encourage multi-agent learning research, we will hold two tracks on 5v5 and 11v11 full-game scenarios respectively:   
+ The VGC AI Competition aims to emulate the Esports scenario of human video game championships of Pokémon with AI agents, including the game balance  
+ aspect. Player agents must master Pokémon battling and team building, with only information about past team choices. Balancing agents must adapt the Pokémon attributes to motivate more variety of choices by pre-set player agents.   
+ Tentative submission deadline: 30th June 2023  
+ Tracks:  The competition is organized in three tracks:   
+ In the Battle Track, battle agents must be able to pilot any given team. The winner is determined by the outcome of battles structured as a tree championship. 
+  The Championship Track focuses on the team-building aspect of the VGCs. Player agents (battle+team-building duo) must be able to adapt to the meta by assembling the best teams to counter the teams they predict they will be facing. The winner is determined by the final ELO ranking after many epochs of competition. 
+  In the Meta-Game Balance Track, a balancing agent has to maintain a Pokémon roster. Entries will be evaluated in parallel by accumulated points over temporal checkpoints, accumulating the output of a fitness function that measures the diversity of the meta by a pre-set team-building agents. 
+  Contact Email address:  chatgpt4pcg@gmail.com   
+ Submission deadline:   
+ Twitter       
+ © 2023 All rights reserved​
+3. COG_2 conference:
+Institution Edition 
+  Discover | Subject category 
+  Conference in Socialist Republic of Vietnam 
+  Contribution library 
+  Browse by venue 
+ Log in  Sign up    
+ 2023 IEEE Conference on Games (CoG)  
+ Aug. 21 - 24, 2023  
+ AboutComputing and Processing; Robotics and Control Systems  
+  Keywords:Games,Serious Games,Game Development,Game Technology,Computer Games,Casual Games,Console Games,Immersive Games,Intelligent Agents,Computational and artificial intelligence,Game Design,Multi-agent system,  
+  Scope:The annual IEEE Conference on Games (IEEE CoG) brings together leading researchers and practitioners from academia and industry in the field of games to discuss recent advances and explore future directions. It covers all topics in the field of games, from game design to game intelligence and game theory, including scientific, technical, engineering and societal aspects.  
+  Sponsor Type:1  
+ Call for paper  
+ Submit Comment  
+ All Comments  
+ Submission Template  
+ ×    
+  Paper Template  
+  Paper Template  
+ Home 
+ Important Date  
+ Conference Date | Aug 21  
+ 2023  
+  to  Aug 24  
+ 2023 
+  Aug 24  2023 | Registration deadline 
+ Sponsored By
+4. COG_3 conference:
+Education  Best Online Masters in Education  Doctorate Degree in Education  Master's Degree in Education  Educational Leadership Doctoral Programs Online  Best Online Physical Education Degree    
+ Social Work  Accelerated MSW Programs  Best Online Social Work Degree  LCSW Online Programs  Online MSW Programs No GRE Required  Masters Degree in Social Work Online    
+ Best Online MBA Programs  Best Accelerated MBA Programs  Online MBA Programs Cost  Best MBA Acceptance Rates  How Hard is it to Get an MBA  MBA in Information Technology  Is an Online MBA Worth It?  Best Accelerated MBA Programs Online  Best Online Executive MBA Programs  Easiest Online MBA Programs    
+ Popular Degree Programs  Best Doctorate Degree Online no Dissertation  Best Degrees That Make the Most Money  Best Online Certificate Programs That Pay Well  Best Online Degree Programs  Accelerated Online Degree Programs for Working Adults  Accredited Self-Paced Online Colleges?  Easiest Online Degrees That Pay Well  Easiest College Majors  Best Associate Degrees    
+ Additional Degrees  Library Science Degree  Supply Chain Management Degree  Finance Degree  Accredited Online Counseling Programs  Cyber Security Degree  Best Online Graphic Design Degree  History Degree  Human Resources Degree  Best Online Nutrition Degree  Nutrition Degree  Logistics Degree  Best Library Science Degree Online  Human Services Degree  Bookkeeping Certification  Masters in Forensic Accounting    
+ Home 
+  Best Conferences - Computer Science 
+  IEEE Conference on Games (IEEE CoG) 
+ IEEE Conference on Games (IEEE CoG)  
+   Boston, United States  
+   Submission Deadline: Friday 17 Mar 2023   
+   Conference Dates: Aug 21, 2023 - Aug 24, 2023   
+ Research  
+  Impact Score 2.30   
+ OFFICIAL WEBSITE  Conference Organizers: Deadline extended?  
+  Click here to edit   
+  The conference investigates areas of study like Artificial intelligence, Machine learning, Computational intelligence, Human–computer interaction and Evolutionary computation. Topics in Artificial intelligence explored in Computational Intelligence and Games were investigated in conjunction with research in Monte Carlo tree search and Game theory. Monte Carlo method and Tree (data structure) are the foundational disciplines used for the Monte Carlo tree search research featured in the event.  
+ The event explores research in Machine learning and the adjacent study of Video game. Many of the studies tackled connect Evolutionary computation with a similar field of study like Evolutionary algorithm. While the event focused on Game mechanics, it was also able to explore topics like Game design and Combinatorial game theory.  
+ The presented Game design research focuses mostly on Non-cooperative game and, on occasion, topics in Repeated game. The majority of Repeated game studies are focused on the issues of Simultaneous game. Combinatorial game theory research presented falls under the umbrella topic of Sequential game.  
+ What are the most cited papers published at the conference?  
+  Research areas of the most cited articles at Computational Intelligence and Games:  
+ The conference papers tackle a plethora of topics, such as Artificial intelligence, Machine learning, Human–computer interaction, Computational intelligence and Game design. The published papers tackle studies in Video game and the interrelated subject of Monte Carlo tree search to gain insights into Artificial intelligence. Issues in Game design were discussed in the most cited publications, taking into consideration concepts from other disciplines like Game mechanics and Non-cooperative game.  
+ Papers citation over time  
+ A key indicator for each conference is its effectiveness in reaching other researchers with the papers published at that venue.  
+  Mike Preuss | (18 papers) | published 2 papers at the last edition the same number as at the previous edition, 
+  Kyung-Joong Kim | (15 papers) | published 2 papers at the last edition, 3 less than at the previous edition. 
+  The overall trend for top authors publishing at this conference is outlined below. The chart shows the number of publications at each edition of the conference for top authors.  
+ Research.com  
+  Maastricht University | (15 papers) | published 3 papers at the last edition, 
+  Sejong University | (14 papers) | published 2 papers at the last edition, 3 less than at the previous edition. 
+  The overall trend for top affiliations publishing at this conference is outlined below. The chart shows the number of publications at each edition of the conference for top affiliations.  
+ Research.com  
+ Publication chance based on affiliation  
+ The publication chance index shows the ratio of articles published by the best research institutions at the conference edition to all articles published within that conference. The best research institutions were selected based on the largest number of articles published during all editions of the conference.  
+ Returning Authors Index  
+ A very common phenomenon observed among researchers publishing scientific articles is the intentional selection of conferences they have already attended in the past. In particular, it is worth analyzing the case when the authors participate in the same conference from year to year.  
+ The Returning Authors Index presented below illustrates the ratio of authors who participated in both a given as well as the previous edition of the conference in relation to all participants in a given year.  
+ Research.com  
+ Returning Institution Index  
+ The graph below shows the Returning Institution Index, illustrating the ratio of institutions that participated in both a given and the previous edition of the conference in relation to all affiliations present in a given year.  
+ Research.com  
+ The experience to innovation index  
+ Our experience to innovation index was created to show a cross-section of the experience level of authors publishing at a conference. The index includes the authors publishing at the last edition of a conference  , grouped by total number of publications throughout their academic career (P) and the total number of citations of these publications ever received (C).  
+ The group intervals were selected empirically to best show the diversity of the authors' experiences, their labels were selected as a convenience, not as judgment. The authors were divided into the following groups:  
+ Novice - P < 5 or C < 25 (the number of publications less than 5 or the number of citations less than 25), 
+ IEEE Conference on Games   
+ Aug 21, 2022 - Aug 24, 2022  
+ Beijing, China  
+ IEEE Conference on Games (IEEE CoG)   
+ Aug 21, 2023 - Aug 24, 2023  
+ Boston, United States  
+  Fastest Online Master's in Applied Behavior Analysis for 2024   
+ Edit Submission Deadline  
+ IEEE Conference on Games (IEEE CoG)  
+     Your email address      
+  New submission deadline      
+  Further information      
+ SEND MESSAGE
+5. COINE_0 conference:
+International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems (COINE), co-located with AAMAS 2023   
+ Call for Papers   Paper Submissions   Committees   Accepted for Presentation   Keynote   Schedule   Contact    
+ Workshop registration link available now 
+  Schedule is avaible now 
+  Notifications sent out on March 28, 2023 
+  Paper submission deadline extended to March 5, 2023 (Closed) 
+  Objectives  
+ Coordination, organizations, institutions, norms and ethics are five key governance elements for the regulation of open multi-agent systems. The goal of the workshop is to bring together researchers in autonomous agents and multi-agent systems working on the scientific and technological aspects of social coordination, organizational theory, normative MAS, artificial or electronic institutions, norm-aware and ethical agents.  
+ The pervasiveness of “open systems” raises a range of challenges and opportunities for technologies in the area of autonomous agents and multi-agent systems. However, achieving and maintaining a “good” society is difficult to achieve as the participating entities (including human users), their modes of interaction or the intended purpose of the system may change over time. Moreover, in the case of open multi-agent systems, the autonomy of the agents can work against the effectiveness of the society. As a further trajectory of influence, coordination techniques such as distributed ledger technology can increase the autonomy and complexity of these open systems as a whole and challenge their governance. There is therefore a need for tools and techniques for articulating interactions in order to make the system more effective in attaining collective goals, more certain for participants or more predictable.  
+ This edition of COINE will be hosted by AAMAS 2023  and will complement the main conference program by allowing a more relaxed and in-depth discussion of MAS from a social perspective. Under its new COINE brand, this workshop will not only be of interest to its traditional sub-community of AAMAS participants (those researchers working on coordination, organisational, institutional and normative models and technologies for MAS), but also invites researchers investigating the growing field of ethical governance of MAS.  
+ Important Dates  
+ Paper submission: | January 30, 2023 | February 22, 2023 | March 5, 2023 (Closed) 
+  Author notifications: | March 13, 2023 | March 27, 2023 | March 27, 2023 
+  Camera-ready deadline: | April 3, 2023 | April 16, 2023 | April 16, 2023 
+  Workshop: 29 May 2023
+6. COINE_1 conference:
+Coordination, Organization, Institutions, Norms and Ethics in Agent Systems (COINE)    
+ The International Workshop Series      
+ About COINE        
+ Previous workshops on COINE topics        
+ The next COINE Workshops      
+ COINE@AAMAS 2024 
+  The previous COINE Workshops      
+ 2023   
+  COINE@AAMAS 2023 
+  2022   
+  COINE@AAMAS 2022 
+  The Coordination, Organizations, Institutions, and Norms in Agent Systems  book series        
+ The COINE Steering Committee | Multi-agent systems are often understood as complex entities where a multitude of agents interact, usually with some intended individual or collective purpose. Such a view usually assumes some form of structure  , or set of norms  or conventions  that articulate or restrain interactions in order to make them more effective in attaining those goals, more certain for participants or more predictable. The engineering of effective regulatory mechanisms is a key problem for the design of open complex multi-agent systems.  
+ In recent years, social  and organizational  aspects of agency have become a major issue in MAS research. Moreover recent applications of MAS on Web Services, Grid Computing and Ubiquitous Computing enforce the need for using these aspects in order to ensure social order within these environments. Openness heterogeneity, and scalability of MAS pose new demands on traditional MAS interaction models. The view of coordination  and control  has to be expanded to consider not only an agent-centric perspective but societal  and organization-centric  views as well.  
+ Following a series of very successful events in the last years, the topics of coordination  , organization  , institutions  , norms  and ethics  have become an important area of research within the agent community. The overall problem of analyzing the social, legal, economic and technological dimensions of agent organizations, and the co-evolution of agent interactions, provide theoretically demanding and interdisciplinary research questions at different levels of abstraction.  
+ In order to reach different research communities working in these related topics, some of the researchers that were working in the field have decided to create the COINE  workshop series. This workshop series will provide a space for the convergence of concerns and developments from MAS researchers that have been involved with these issues from the complementary perspectives of coordination, organizations institutions and norms. Aditionally, the series will facilitate and coordinate the organization of twin yearly events co-located with large international conferences, diverse in focus and geographically. 
+  Back to COINE Home Page   
+  Send questions and comments to Jaime Simão Sichman  at jaime.sichman@poli.usp.br   
+  Last Update: June 16, 2024
+7. COLING_0 conference:
+Github 
+ International Conference on Computational Linguistics (COLING)  
+  Acronym:  COLING  Venue ID:  coling     
+  2024   
+  Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024): Tutorial Summaries | 14 papers 
+ 2022
+8. COLING_1 conference:
+메인메뉴  
+ ABOUT COLING | ABOUT COLING 
+  COMMITTEES | Organizing Committee 
+  Program Committee 
+  CALLS | Call for Papers 
+  Call for Tutorials 
+  Submission & Style Files 
+  PROGRAMME | Conference Programme 
+  Invited Speakers 
+  Exhibition Information 
+  ABOUT COLING | ABOUT COLING 
+  COMMITTEES | Organizing Committee 
+  Program Committee 
+  CALLS | Call for Papers 
+  Call for Tutorials 
+  Submission & Style Files 
+  PROGRAMME | Conference Programme 
+  Invited Speakers 
+  Exhibition Information 
+ For COLING' 2022 ATTENDEE  
+ The Underline platform with the schedule, Pre-recorded videos and sessions: Underline | The Whova web app for asynchronous text chats only : whova 
+  International Conference on  
+  Computational Linguistics  
+ October 12-17, 2022  
+ Gyeongju, Republic of Korea  
+  International Conference on  
+  Computational Linguistics  
+ October 12-17, 2022  
+ Gyeongju, Republic of Korea  
+  International Conference on  
+  Computational Linguistics  
+ October 12-17, 2022  
+ Gyeongju, Republic of Korea  
+  International Conference on  
+  Computational Linguistics  
+ October 12-17, 2022  
+ Gyeongju, Republic of Korea  
+ Underline Platform   Whova   Proceedings   Download Photos   COLING addresses the Seven Grand Challenges  
+ The 7 societal Grand challenges   
+ Health, demographic change and wellbeing 
+  Secure societies - protecting freedom and security of the world 
+  IMPORTANT DATES  
+ Submission deadline (long & short papers): May 17, 2022 
+  Author Rebuttal period: July 16-21, 2022 
+  Final Reviewing: July 22-29, 2022 
+  Notification of acceptance: August 15, 2022 
+  Camera-ready papers due: September 15, 2022 
+  Conference date: October 12-17, 2022 
+  NEWS  
+ Shuttle Bus Schedule has been updated!   2022. 10. 07 
+  Removal of COVID-19 test requirement for all international arrivals!   2022. 10. 06 
+  Early-Registration Period has been extended to October 4, 2022.   2022. 09. 25 
+  Retired Scholar can register at a discounted price.   2022. 09. 21 
+  List of Accepted Papers   2022. 09. 07 
+  SUPPORTERS       
+ COLING’2022 : COMMITTED TO DIVERSITY, INCLUSION AND ANTI-HARASSMENT  
+ COLING’2022 adheres to a strong Anti-Harassment Policy  . Any participant who experiences harassment or hostile behavior may contact any current member of the Local Organization Committee. Please be assured that your concerns will be kept in strict confidence, and we will consult with you on any actions taken.  
+ Diversity & Inclusion, both in terms of approaches and participation, are an integral part of who COLING is as a community. To find out more about the unique history of the COLING series of conferences, CLICK HERE   
+ COLING 2022  The 29th International Conference on Computational Linguistics
+9. COLING_2 conference:
+메인메뉴  
+ ABOUT COLING | ABOUT COLING 
+  COMMITTEES | Organizing Committee 
+  Program Committee 
+  CALLS | Call for Papers 
+  Call for Tutorials 
+  Submission & Style Files 
+  PROGRAMME | Conference Programme 
+  Invited Speakers 
+  Exhibition Information 
+  ABOUT COLING | ABOUT COLING 
+  COMMITTEES | Organizing Committee 
+  Program Committee 
+  CALLS | Call for Papers 
+  Call for Tutorials 
+  Submission & Style Files 
+  PROGRAMME | Conference Programme 
+  Invited Speakers 
+ THE 29TH INTERNATIONAL CONFERENCE ON COMPUTATIONAL LINGUISTICS  
+ October 12-17, 2022 / Gyeongju, Republic of Korea  
+ Accepted Papers  
+ UECA-Prompt: Universal Prompt for Emotion Cause Analysis | Xiaopeng Zheng, Zhiyue Liu, Zizhen Zhang, Zhaoyang Wang and Jiahai Wang 
+ BRCC and SentiBahasaRojak: The First Bahasa Rojak Corpus for Pretraining and Sentiment Analysis Dataset | Nanda Putri Romadhona, Sin-En Lu, Bo-Han Lu and Richard Tzong-Han Tsai 
+ Re-Examining FactBank: Predicting the Author’s Presentation of Factuality | John Murzaku, Peter Zeng, Magdalena Markowska and Owen Rambow 
+ Deciphering and Characterizing Out-of-Vocabulary Words: A Bulgarian Case Study | Georgie Botev, Arya D. McCarthy, Winston Wu and David Yarowsky 
+ Knowledge Is Flat: A Seq2Seq Generative Framework for Various Knowledge Graph Completion | Chen Chen, Yufei Wang, Bing Li and Kwok-Yan Lam 
+ A New Challenge: Multi-label Unknown Intent Detection | Yawen Ouyang, Zhen Wu, Xinyu Dai, Shujian Huang and Jiajun CHEN 
+ Brains and Beauty: Gender Roles from Word Embeddings in a Century of Children’s Books | Patricia Chiril, Callista N. Christ, Anjali Das, Emileigh Harrison, Anjali Adukia, Celia Anderson, Alex Eble and Hakizumwami Birali Runesha 
+ Does GPT-3 Generate Empathetic Dialogues? A Novel In-Context Example Selection Method and Automatic Evaluation Metric for Empathetic Dialogue Generation | Young-Jun Lee, Chae-Gyun Lim and Ho-Jin Choi 
+ Generalizable Implicit Hate Speech Detection using Contrastive Learning | Youngwook Kim, Shinwoo Park and Yo-Sub Han 
+ Meta-CQG: A Meta-Learning Framework for Complex Question Generation over Knowledge Graph | Kun Zhang, Yunqi Qiu, Yuanzhuo Wang, Long Bai, Xuhiu Jiang, Wei Li and Huawei Shen 
+ Gestures Are Used Rationally: Information Theoretic Evidence from Neural Sequential Models | Yang Xu, Yang Cheng and Riya Bhatia (yang.xu@sdsu.edu) 
+ Keyphrase Prediction from Video Transcripts: New Dataset and Directions | Amir Pouran Ben Veyseh, Quan Hung Tran, Seunghyun Yoon, Varun Manjunatha, Hanieh Deilamsalehy, Rajiv Jain, Trung Bui, Walter W. Chang, Franck Dernoncourt and Thien Huu Nguyen (apouranb@uoregon.edu) 
+ Event Extraction in Video Transcripts | Amir Pouran Ben Veyseh, Viet Dac Lai, Franck Dernoncourt and Thien Huu Nguyen (apouranb@uoregon.edu) 
+ Joint Goal Segmentation and Goal Success Prediction on Multi-Domain Conversations | Meiguo Wang, Benjamin Yao, Bin Guo, Xiaohu Liu, Yu Zhang, Tuan-Hung Pham and Chenlei Guo (baiguiyujia@gmail.com) 
+ Evons: A Dataset for Fake and Real News Virality Analysis and Prediction | Kriste Krstovski, Bruce Kogut and Angela Ryu (kriste.krstovski@columbia.edu) 
+ Teaching Neural Module Networks to Do Arithmetic | Jiayi Chen, Xiao-Yu Guo, Yuan-Fang Li and Gholamreza Haffari (xiaoyu.guo@monash.edu) 
+ Target-Guided Open-Domain Conversation Planning | Yosuke Kishinami, Reina Akama, Shiki Sato, Ryoko Tokuhisa, Jun Suzuki and Kentaro Inui (yosuke.kishinami.q8@dc.tohoku.ac.jp) 
+ TERMinator: A system for scientific texts processing | Elena Bruches, Olga Yurievna Tikhobaeva, Yana Yurievna Dementyeva and Tatiana Batura (tatiana.v.batura@gmail.com) 
+ Aligning Multilingual Embeddings for Improved Code-switched Natural Language Understanding | Barah Fazili and Preethi Jyothi (pjyothi@cse.iitb.ac.in) 
+  SUPPORTERS       
+ COLING 2022  The 29th International Conference on Computational Linguistics
+10. COLING_3 conference:
+메인메뉴  
+ ABOUT COLING | ABOUT COLING 
+  COMMITTEES | Organizing Committee 
+  Program Committee 
+  CALLS | Call for Papers 
+  Call for Tutorials 
+  Submission & Style Files 
+  PROGRAMME | Conference Programme 
+  Invited Speakers 
+  Exhibition Information 
+  ABOUT COLING | ABOUT COLING 
+  COMMITTEES | Organizing Committee 
+  Program Committee 
+  CALLS | Call for Papers 
+  Call for Tutorials 
+  Submission & Style Files 
+  PROGRAMME | Conference Programme 
+  Invited Speakers 
+ THE 29TH INTERNATIONAL CONFERENCE ON COMPUTATIONAL LINGUISTICS  
+ October 12-17, 2022 / Gyeongju, Republic of Korea  
+ Registration  
+ Registration Guideline 
+  FAQ 
+  COLING 2022 offers discounted registration fees to those interested in the conference with Early Registration Fee from August 30 to September 25, 2022.  October 4, 2022.   
+  We highly recommend that you complete your online registration through the link below.  
+  IMPORTANT NOTE  
+ Retired scholars | can select 'Student / Retired Scholar' category, and please upload the certificate of honorary professor or ID card in the student ID upload section. 
+  All papers must be presented at the conference, whether as Oral or Poster presentations either in-person or virtually. 
+  At least one presenter | for each accepted paper must register to the COLING 2022 at | the Main & In-person, Full & In-person fee rate | (even if the paper will be presented virtually) by the early registration deadline | (by September 25, 2022). | October 4, 2022. | This additional fee is paid for uploading videos, posters, slides, etc. to the virtual and metaverse platform. 
+  All presenters must select a presentation format (in-person presentation or virtual presentation) during the registration process. 
+  Authors who have accepted multiple papers in COLING2022 can register as presenters of up to two papers. If you want to register as a presenter for two papers, | Please complete your registration with | first paper through full payment | . 
+  For the second paper, please submit “another” registration form with the second paper number and set your payment method as “By Bank Transfer”. Then please let the secretariat know your registration number (4 digits) by email ( | reg@coling2022.org | ). Our staff will manage your second registration status as “Paid” in a day or two without your additional payment. 
+  Failure to register will result in the cancellation of the paper’s publication in COLING 2022 Proceedings. 
+ On-line Registration System     
+ COLING 2022 Registration Fee   
+ All schedules are based on AoE (UTC-12) time  
+  (AUG. 30 ~ Sep. 25   
+  OCT.4  ) | Regular  
+  (Oct. 05 ~ Oct. 11) | Onsite/Late  
+  (Oct. 12 ~ Oct. 17) 
+ Full Conference  
+  (Main + W&T)  
+  If you would like to change the registration type (In-Person ↔ Virtual), please email the Secretariat. ( | reg@coling2022.org | ) 
+  Change of registration type requires a refund and re-register, and if the payment was made with the Early registration fee, the change must be completed by Sep. 30 to purchase in the same registration fee. And after that, it will only be paid with the Regular/Onsite registration fee. 
+  COLING 2022 Registration Fee Includes   
+ Full Conference  
+  (Main + W&T)  
+  (6 days) | In-Person | All main conference sessions (oral, poster, virtual platform) and All workshop & tutorial sessions (onsite, virtual platform) 
+  Exhibition, Reception, Lunch, Coffee Break, Conference bag and materials, Excursion, and Banquet 
+ Virtual | All main conference sessions (virtual platform only) and All workshop & tutorial sessions (virtual platform only) 
+ Main Conference  
+  (4 days) | In-Person | All main conference sessions (oral, poster, virtual platform) 
+  Exhibition, Reception, Lunch, Coffee Break, Conference bag and materials, Excursion, and Banquet 
+ Virtual | All main conference sessions (virtual platform only) 
+ How to Register   
+ Step 1. | Sign up & log in 
+  Step 2. | Click the ‘Registration Submission’  button 
+  Step 3. | Fill out the Online registration form 
+  Step 4. | Click the ‘Submit’  button 
+ Cancellation and Refund Policy   
+ Please notify COLING 2022 secretariat in writing to | reg@coling2022.org | to request a refund and cancel your registration. 
+  All bank service charges are to be paid by the registrant. 
+   Refunds will be made after the workshop and the registration fees are refundable as specified below. 
+ Cancellation / Refund Request | Refund 
+ After September 26th, 2022 | No Refund 
+ COLING 2022 Secretariat  
+ If you have any questions regarding registration, please feel free to contact us.  
+  [Invoice] : | You can check the invoice after submitting the form before completing the payment. 
+  [Receipt], [Confirmation Letter] : | You can check these documents after completing the payment. 
+  [e-Name Badge], [e-Participation Certificate] : | You can check these documents after the start date of the conference (from Oct. 12, 2022). 
+ Q.  I would like to change the card I paid for. 
+ A.  If you would like to change the card that has already been paid, please send the | Registration Number (4 digits) | and | Payment Date | to the secretariat | (reg@coling2022.org) | . 
+ COLING 2022 Secretariat  
+ If you have any questions regarding registration, please feel free to contact us.  
+  SUPPORTERS       
+ COLING 2022  The 29th International Conference on Computational Linguistics
+
+output:1. COG_0 information:
+2. COG_1 information:
+3. COG_2 information:
+4. COG_3 information:
+5. COINE_0 information:
+6. COINE_1 information:
+7. COLING_0 information:
+8. COLING_1 information:
+9. COLING_2 information:
+10. COLING_3 information:

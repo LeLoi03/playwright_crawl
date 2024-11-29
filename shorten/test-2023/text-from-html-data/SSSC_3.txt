@@ -1,0 +1,93 @@
+9 July – 14 July 2023 (8 July - 9 July 2023 Workshops & Tutorials)   
+   Contact 
+  Diversity and Inclusion 
+  Contact 
+  Submission | Instructions to Authors and Chair Persons 
+  Instructions for Presenters (Interactive/Video) 
+  Submission 
+  Call for papers 
+  Important Dates 
+  Submit a contribution 
+  Submit a Final Manuscript 
+  Invited Sessions and Open Invited Tracks 
+  Demonstrator Papers 
+  Call for Competition Proposals 
+  IFAC World Congress Awards 
+  Developing Countries - Young Author Support 
+  D&I Travel Support 
+  Program | Online Programs and Participation 
+  Call for Sponsors and Exhibitors 
+  Call for Special Event Co-Sponsors for Competitions 
+  Media and Resources | IFAC 2023 Final Report 
+  IFAC App 
+  Photo Album 
+  Flyers and CFPs 
+  About IFAC and the World Congresses 
+  IFAC 2023 Call for Papers 
+  IFAC 2023 Banner 
+  Inquiry | Inquiry 
+  FAQ 
+ Notice:   
+  [15, April]  Detailed workshop information (speaker, abstract) added.  
+  [6, April]  Detailed tutorial information (speaker, abstract) added.   
+ Workshop and Tutorials    
+ The workshops and tutorials will be held on 8th and 9th July, prior to the main congress schedule.  
+ All the workshops/tutorials are given on-site and there is no arrangement for on-line access. By registering for the workshops/tutorials, the registrants are entitled to attend multiple workshops/tutorials at the same rate shown in the registration page. For any inquiry concerning the workshops/tutorials, please send email to <e-mail address closed> .  
+ All the information below is tentative  at the moment of 17 March, 2023.  
+ Duration | Room | Type | Title 
+ Saturday, 8th July 
+ Sunday, 9th July 
+ * Due to security reasons, you cannot go directly to the room. Check-in at the registration desk with your Photo ID to obtain and wear an appropriate badge.   
+ Workshops   
+ Saturday, 8th July   
+ Modeling and Data Integration for Control and Optimization of Chemical and Biological Systems     
+  6)  Pattern Recognition and Deep Learning Techniques for Alarm Flood Analysis (Dr. Wenkai Hu)  
+ Sunday, 9th July   
+  Emerging Trends in Resilient Control of Networked Systems     
+ Abstract:    
+  Controller design faces the challenge of ensuring desired performance and safe operation while managing uncertainties, which can arise from unknown system dynamics, external disturbances, or interactions with unknown entities. Machine learning techniques, like Gaussian processes, can estimate these uncertainties and provide valuable insights.  
+  Gaussian processes have gained popularity in the past two decades due to their bias-variance trade-off and connection to Bayesian mathematics. Unlike many methods, Gaussian processes offer a regression function and an uncertainty measure for predictions. This unique feature makes them ideal for various control applications, such as model predictive control, robust control, reinforcement learning, and optimization tasks. The uncertainty measure enables convergence, performance, and safety guarantees. However, incorporating Gaussian processes into closed-loop control systems presents challenges like closed-loop uncertainty propagation and real-time feasible online learning.  
+ This tutorial-style workshop aims to introduce the fundamentals of Gaussian processes for modeling and control, highlighting open challenges and opportunities. Experienced experts from academia and industry will cover the basics of Gaussian processes, showcasing their potential for the control community and recent advancements in learning-based control under uncertainties. The workshop targets graduate-level students and experienced theoretical and practical control engineers interested in enhancing their controller design knowledge using Gaussian processes and machine learning.  
+ Website:    
+  Sadegh Soudjani (Newcastle University, United Kingdom)  
+ Abstract:    
+  The framework of cyber-physical systems (CPS) that captures the tight interaction of computational systems with the physical world is believed to carry great promises for analysis and design of systems in many safety-critical industrial applications. Examples of such applications include aerospace, automotive, transportation systems, robotics, chemical process, energy, and healthcare. Within CPS, embedded control software plays a significant role by monitoring and adjusting several physical variables through feedback loops where physical processes affect computation and vice versa. Although CPS have become ubiquitous in modern technology due to significant advances in computational devices, closed-form mathematical models for those complex systems are either not available or equally complex to be constructed. Consequently, one cannot employ model-based techniques to analyze and design this type of complex unknown systems. Hence, data-driven techniques are essential to provide formal analysis for CPS with unknown dynamics.  
+  Over the past decade, two types of direct and indirect data-driven techniques have been proposed in the relevant literature for the formal analysis and design of unknown CPS. More specifically, indirect data-driven techniques are those which leverage system identification to learn approximate models of unknown systems, followed by model-based controller analysis approaches. Their advantage is that once the identification phase is achieved, one may rely on the powerful armada of techniques available in model-based control. On the downside, most identification techniques are mainly limited to linear or some specific class of nonlinear systems, and accordingly, acquiring an accurate model for complex systems via those indirect techniques could be expensive. In comparison, direct data-driven techniques are those that bypass the system identification phase and directly employ system measurements for the verification and controller design of unknown CPS.  
+  In this workshop, we bring together a number of researchers active in the area of data-driven verification and control of CPS. The contributions will describe recently developed efforts towards new frontiers on the subject. Along with cherishing the exchange of ideas between researchers in the field, we aim to achieve the following goals for the audience attending the workshop:  
+ Tutorials   
+ Saturday, 8th July   
+  Estimation of Noise Parameters in State Space Models     
+  Knowledge of a system model is crucial for many state estimation, signal processing, fault detection, and optimal control problems. The model is often designed to be consistent with the random behavior of the system quantities and properties of the measurements. While the deterministic part of the model often arises from mathematical modeling based on physical, chemical, or biological laws governing the system's behavior, the stochastic part's statistics are often challenging to find by the modeling and must be identified using the measured data. Incorrect description of the noise statistics may significantly worsen estimation, signal processing, detection, control quality, or even failure of the underlying algorithms. The tutorial introduces a more than six decades-long history, recent advances, and state-of-the-art methods for estimating the properties of the noises, including implementation issues. In particular, the estimation of state-space model noise means, covariance matrices, and other parameters are treated.  
+ Sunday, 9th July   
+  Mechatronics and robotics for manipulation: design and control     
+  Mourad BENOUSSAAD will give the fifth lecture. Physical Human-robot Interaction is a promising and challenging robotics field but requires to be improved to achieve more complex tasks. One of these complex tasks can be a co-manipulation between human and robot of heavy, bulky or flexible object. To consider a certain number of issues related to the interaction stability, safety and human ergonomics and comfort, the human should be considered more deeply as system than just an external perturbation force. This lecture will introduce to physical human-robotics manipulation where the human-object-robot interaction is considered as a whole system, which can be entirely modeled, measured and partially or completely controlled.  
+  Gerardo FLORES will introduce to aerial manipulation, i.e. manipulation of objects by using aerial vehicles equipped with manipulators. Such approach to manipulation has several advantages like modularity of the manipulators, large positioning of the object, unlimited size of the object.  
+  The final lecture will be given by Sofiane KHADRAOUI. His talk will introduce the modeling of manipulators and the controllers design by considering the challenges raised when manipulating objects: nonlinearities, models uncertainties, objects deformation, sides effects of the environment.  
+ Website:    
+  Diversity and Inclusion 
+  Contact 
+  Submission | Instructions to Authors and Chair Persons 
+  Instructions for Presenters (Interactive/Video) 
+  Submission 
+  Call for papers 
+  Important Dates 
+  Submit a contribution 
+  Submit a Final Manuscript 
+  Invited Sessions and Open Invited Tracks 
+  Demonstrator Papers 
+  Call for Competition Proposals 
+  IFAC World Congress Awards 
+  Developing Countries - Young Author Support 
+  D&I Travel Support 
+  Program | Online Programs and Participation 
+  Call for Sponsors and Exhibitors 
+  Call for Special Event Co-Sponsors for Competitions 
+  Media and Resources | IFAC 2023 Final Report 
+  IFAC App 
+  Photo Album 
+  Flyers and CFPs 
+  About IFAC and the World Congresses 
+  IFAC 2023 Call for Papers 
+  IFAC 2023 Banner 
+  Inquiry | Inquiry 
+  FAQ 

@@ -1,0 +1,273 @@
+PLDI 2023   Sat 17 - Wed 21 June 2023 Orlando, Florida, United States    
+
+ Toggle navigation        
+ Attending | Venue: Orlando World Center Marriott 
+  PLDI'23 Attendee's Guide 
+  Registration 
+  Code of Conduct 
+  Sponsorship 
+  Visa 
+  Volunteers 
+  Childcare 
+  Program | PLDI Program 
+  Your Program 
+   Sat 17 Jun 
+  Sun 18 Jun 
+  Mon 19 Jun 
+  Tue 20 Jun 
+  Wed 21 Jun 
+  Tracks | PLDI 2023 
+  FCRC 
+  PLDI Research Papers 
+  Social 
+  Research Artifacts 
+  Tutorials 
+  Workshops and Tutorials 
+  SRC 
+  Volunteering 
+  W@PLDI 
+  LGBTQ+ Lunch 
+  SIGPLAN 
+   Co-hosted Conferences 
+  ISMM 
+  LCTES 
+  Workshops 
+  ARRAY 
+  ASA 
+  CSC 
+  CTSTA 
+  DRAGSTERS 
+  EGRAPHS 
+  Infer 
+  PLARCH 
+  PLMW@PLDI 
+  SOAP 
+  Organization | PLDI 2023 Committees 
+  Organizing Committee 
+  Track Committees 
+  PLDI Research Papers 
+  Research Artifacts 
+  Workshops and Tutorials 
+  SRC 
+  Volunteering 
+  Contributors 
+  People Index 
+   Co-hosted Conferences 
+  ISMM | Organizing Committee 
+  Program Committee 
+  LCTES | Organizing Committee 
+  Program Committee 
+  Steering Committee 
+  Workshops 
+  ARRAY | Organizing Committee 
+  Program Committee 
+  ASA | Organizing Committee 
+  CSC | Organizing Committee 
+  Program Committee 
+  CTSTA | Organizing Committee 
+  Program Committee 
+  DRAGSTERS | Organizing Committee 
+  Program Committee 
+  EGRAPHS | Organizing Committee 
+  Program Committee 
+  Infer | Organizing Committee 
+  Program Committee 
+  PLARCH | Organizing Committee 
+  Program Committee 
+  PLMW@PLDI | Organizing Committee 
+  SOAP | Organizing Committee 
+  Program Committee 
+  Search 
+  Series | Series 
+   PLDI 2025 
+  PLDI 2024 
+  PLDI 2023 
+  PLDI 2022 
+  PLDI 2021 
+  PLDI 2020 
+  PLDI 2019 
+  PLDI 2018 
+  PLDI 2017 
+  PLDI 2016 
+  PLDI 2015 
+  Sign in 
+  Sign up 
+
+  PLDI 2023  ( series  ) /  PLDI Workshops and Tutorials  
+   
+ About 
+  Workshop Speaker's Guide 
+  Call for Workshops and Tutorials 
+  Please submit your proposals for workshops and tutorials! Once decisions are made, the list of workshops will appear here.  
+   
+ Call for Workshops and Tutorials  
+  
+ PLDI 2023 is a world-class forum for researchers and practitioners in programming language design and implementation. As in previous years, PLDI is soliciting proposals for co-located workshops and tutorials that will take place on Saturday June 17th, and Sunday June 18th  . Please propose your workshop or tutorial via the submission system.  
+ The following details will be asked on submission:  
+ Name of the workshop/tutorial. 
+  Duration of the workshop/tutorial. 
+  Organizers: names, affiliation, contact information, brief (100 words) biography. 
+  A short description (150-200 words) of the topic. 
+  Event format: workshop/tutorial; type of submissions, if any; review process; results dissemination. 
+  Expected attendance and target audience within the PLDI community. 
+  How you plan to foster an inclusive environment and promote a diverse attendance. 
+  Information on any previous iterations of the workshop or tutorial. 
+  Note:  Workshops must make their own acceptance decisions by April 21, 2023  if there will be proceedings (final versions due May 5, 2023  ), or by May 5, 2023  if they do not have proceedings.  
+ Submission   
+ Workshops that would like their proceedings included in the ACM Digital Library must submit a proposal by November 18, 2022  .  
+ Workshops and tutorials that will have no formal proceedings should submit a proposal by November 30, 2022  .  
+ Review   
+ Proposals are reviewed by the Workshop and Tutorials Chairs, and if necessary, by the PLDI general chair.  
+ Proposals will be evaluated according to the relevance of the topic, the expertise and experience of the workshop organizers, and their potential to attract participants. 
+  Proposals submitted between November 18th and 30th will be evaluated on a first-come-first-served basis. 
+  Notification   
+ We will notify workshop/tutorial acceptance by December 9th  .  
+ Timeline   
+ Submission deadline (with proceedings): November 18   
+ Submission deadline (no proceedings): November 30   
+ Notification: December 9   
+ Dissemination   
+ A proposal should clearly state how the results of the workshop — i.e., published papers and other outcomes — will be made available to participants and others before and after the workshop event. The Workshops and Tutorials Chair will provide guidance to the organizers of accepted workshops that wish to publish proceedings in the ACM Digital Library. For those that choose to publish their papers in ACM Digital Library, please add the following text in the workshop call for papers and on the website:  
+ AUTHORS TAKE NOTE:  The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to two weeks prior to the first day of your conference. The official publication date affects the deadline for any patent filings related to published work. (For those rare conferences whose proceedings are published in the ACM Digital Library after the conference is over, the official publication date remains the first day of the conference.)  
+ Workshops that elect to publish proceedings can do so in the ACM Digital Library with sponsoring by SIGPLAN. The application for SIGPLAN sponsorship includes reviewing the proposed program committee with the SIGPLAN Executive Committee, a process which the chairs will help facilitate.  
+ Workshop Co-Chairs   
+ Nadia Polikarpova, U. of California at San Diego 
+  Zachary Tatlock, U. of Washington 
+
+ Workshop Speaker's Guide  
+   
+ PLDI’23 Workshop Speaker’s Guide   
+ This document is for those presenting a paper at a PLDI’23 workshop ( ARRAY  , ASA  , CSC  , DRAGSTERS  , EGRAPHS  , Infer  , PLARCH  , PLMW  , or SOAP  ). There are separate guides for PLDI, ISMM, and LCTES speakers.  
+ Congratulations on being a presenter! This document will help ensure your presentation runs smoothly and has the best possible audience impact. Please read it in its entirety.  
+ Checklist   
+ Before PLDI:  
+ Prepare and | practice | . 
+  Ensure that | your talk runs for the correct duration | (be sure to check). 
+  Sign up for Discord | ( | details here | ). 
+  Check the program | to establish when and where your talk will be. 
+  Complete the | video consent form | (details below). 
+  Ensure you have a | HDMI adaptor | for your device. 
+  Before your talk:  
+ Familiarize yourself with the room | you will be speaking in. 
+  Find and | introduce yourself to your session chair | . 
+  Find the Discord channel | for your session, so you can monitor questions. 
+  Ensure that you are in the room no later than 5 minutes before your session. 
+  After your talk:  
+ Expect | questions from the floor | and session chair. 
+  Once you’ve finished your talk, | check Discord for questions | . 
+  Overview   
+ Your program chair should have reached out to you with details about what is expected of you as a presenter. This document assumes you are familiar with those parameters.  
+ Video Consent   
+ All workshop talks will be streamed via Discord and YouTube, and will be available later via SIGPLAN’s YouTube channel. All speakers must therefore consent to being recorded.  
+ If you are participating in ARRAY or SOAP, which have published proceedings, then you will have completed the consent form when you finalized your paper with the publisher.  
+ If you are participating in any other workshop, you will need to complete the ACM video consent form  and upload it using this Google form  .  
+ Preparing Your Talk   
+ Your work will have a greater impact if you’re well prepared.  
+ It is very important that you run to schedule. The schedule is extremely tight, with hard stops imposed by FCRC scheduling. Session chairs have been asked to stick rigidly to the schedule.  
+ Guidelines   
+ Make sure you know how long you have for your talk. | If your program chair has not given you explicit guidance, you should allow for five to ten minutes for questions and speaker change-over. 
+  Your talk should be prepared for the standard | 16:9 widescreen ratio | . If your talk is in a different ratio, at best it will be | pillarboxed | , wasting screen real estate and diminishing impact, and at worst, it won’t display correctly. 
+  You will present your talk from a lectern, using a fixed lectern mic. 
+  You will need to provide your talk ahead of time in either pdf or powerpoint. 
+  If you have an embedded video in your presentation, please inform the video team during your mandatory video check before your session. 
+  Uploading Your Presentation   
+ As an insurance against technical failures, we ask all speakers to make a backup copy of their presentation available to the video team by uploading it the day before the session. You’re welcome to upload fresh copies at any time.  
+ Format: your presentation must be saved as a powerpoint or pdf file (sorry!) 
+  Naming: 
+  For ARRAY and SOAP, please use the paper ID assigned to you by the publisher (e.g. <paper ID>.[ppt,pptx,pdf]) 
+  For all other workshops, please use the workshop name followed by speaker name in lower case with a [ppt,pptx,pdf] suffix (e.g. <arrray-smith.pptx). 
+  Location: please use this link: | https://bit.ly/pldi23upload 
+  This requirement gives you assurance that if some major technical problem were to arise (such as a failure of your laptop), you will still be able to give your talk. If you do not make your presentation available in advance, and significant technical problems arise, we may have to shorten your presentation to keep to our tight schedule.  
+ The requirement for you to use pdf or powerpoint for your backup copy is a pragmatic tradeoff. These slides will only be used in case of a technical emergency. We want to have the highest possible assurance that they will work without fuss on a third party device should such an emergency occur. If you use Google slides, Keynote, or some other software, please use the export feature to create either powerpoint or pdf backups.  
+ If you elect not to upload a backup copy, please understand that this limits our volunteers’ capacity to assist you if a technical problem arises when you give your presentation.  
+ Advice   
+ There are many excellent sources of advice on giving good talks, including from Simon Peyton Jones  , Michael Hicks  , Michael Ernst  , Ranjit Jhala  , and Derek Dreyer  . Make good use of these!  
+ Video Check   
+ All speakers are expected to be in the room and check in with their session chair and the video volunteer no later than 5 minutes before their session starts.  
+ Q&A   
+ If you stick to the above schedule you will have a good amount of time for questions. The in-room audience will not ask questions from their seats, but will be able to ask questions via a queue at a single microphone on a mic stand in the center of the room. In-room attendees and remote attendees will also be able to ask questions via Discord. Your session chair will monitor questions on Discord and might ask questions as they see them appearing there.  
+ It is good practice as the speaker to repeat your understanding of the question before providing your answer. This is particularly important when time is tight because it reduces opportunities for time being wasted on account of a misunderstanding.  
+ Once your talk is finished, please go on to Discord and respond to any questions or follow-up questions that appear there.  
+ Remote Audience   
+ Your talk will be streamed to Discord and YouTube. Your remote audience will be able to write questions in the Discord channel created for your session (they won’t be able to ask questions via audio or video). They should see your slides, and a video feed of you speaking.. As mentioned above, your session chair may relay questions from Discord.  
+ Remote Presenters   
+ Authors are expected to be present at the conference. If it is impossible for any of the authors to attend PLDI in person, you will need to have informed your program chair well in advance, and they may make special arrangements for you to present remotely.  
+ The following notes apply only to those who have received permission from their program chair to present remotely. You should have been in direct contact with the PLDI video team on Discord.   
+ Discord   
+ We will use Discord as the virtual platform for this conference. You should familiarize yourself with Discord as an audience member well before your talk. We will use it for: a) the remote audience, b) delivery of remote talks, and c) communicating logistics.  
+ If you are a remote speaker, 15 minutes before your talk, you should go to the voice channel #speakers-queue and wait to receive the Presenter role. With that, you’ll be able to see a private channel. Once that happens, share your screen and wait for the sign to start the presentation.  
+ If you don’t receive the role, send a private message to Hanneli and let her know you are presenting shortly.  
+ Connectivity   
+ Please do the best you can to ensure that you have good connectivity at the time of your presentation. To protect against the possibility of a major technical failure, we encourage you to record a 15 minute video version of your talk, and share it with the video team well before your talk (see notes above for sharing slides). The video team can then use your video as a back-up in case of a major problem.  
+ Limitations   
+ Remote speakers should take care before including embedded audio in their talk. While this is possible, it can be difficult. If you need to do this, please consult directly with the video team and have it tested well in advance.  
+ Q&A   
+ Your session chair will introduce you and field questions just as for in-person sessions. You do not need to monitor Discord during your talk. Your Q&A will involve answering questions verbally, just as for in-person talks, only you’ll do so via video. As with in-person sessions, timing is very tight, so please be sure to stick to your 15 minute speaking time, or risk losing your Q&A time. You can respond to follow-up questions online after your talk has finished.  
+
+ Important Dates   AoE (UTC-12h)     
+
+ Sat 17 - Sun 18 Jun 2023  
+  Workshops and Tutorials 
+ Fri 9 Dec 2022  
+  Workshop/tutorial acceptance notification 
+ Wed 30 Nov 2022  
+  Workshop/tutorial submission (without proceedings) 
+ Fri 18 Nov 2022  
+  Workshop submission (with proceedings) 
+
+ Submission Link   
+   
+   Submit proposal     
+   
+ Workshop Co-Chairs    
+   
+ Nadia Polikarpova    
+ University of California at San Diego   
+ United States 
+  Zachary Tatlock    
+ University of Washington   
+ United States 
+
+ x  Mon 25 Nov 08:25    
+
+  PLDI 2023   
+  using conf.researchr.org  ( v1.67.1  )  
+   Support page    
+     
+ Tracks  
+ FCRC   
+  PLDI Research Papers   
+  Social   
+  Research Artifacts   
+  Tutorials   
+  Workshops and Tutorials   
+  SRC   
+  Volunteering   
+  W@PLDI   
+  LGBTQ+ Lunch   
+  SIGPLAN    
+ Co-hosted Conferences  
+ ISMM 2023   
+  LCTES 2023   
+  Workshops  
+ ARRAY 2023   
+  ASA 2023   
+  CSC 2023   
+  CTSTA 2023   
+  DRAGSTERS 2023   
+  EGRAPHS 2023   
+  Infer 2023   
+  PLARCH 2023   
+  PLMW@PLDI 2023   
+  SOAP 2023    
+
+ Attending  
+ Venue: Orlando World Center Marriott   
+  PLDI'23 Attendee's Guide   
+  Registration   
+  Code of Conduct   
+  Sponsorship   
+  Visa   
+  Volunteers   
+  Childcare    
+ Sign Up

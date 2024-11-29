@@ -1,0 +1,467 @@
+POPL 2023   Sun 15 - Sat 21 January 2023 Boston, Massachusetts, United States    
+
+ Toggle navigation        
+ Attending | Venue: Boston Park Plaza 
+  Supporting POPL 
+  Registration 
+  Information for Students 
+  Information for Presenters 
+  Information for Virtual Attendees 
+  Nearby Events 
+  Program | POPL Program 
+  Your Program 
+   Filter by Day | Sun 15 Jan 
+  Mon 16 Jan 
+  Tue 17 Jan 
+  Wed 18 Jan 
+  Thu 19 Jan 
+  Fri 20 Jan 
+  Sat 21 Jan 
+  Tracks | POPL 2023 
+  POPL 
+  Session Previews 
+  Artifact Evaluation 
+  Diversity, Equity and Inclusion 
+  Student Research Competition 
+  Student Volunteers 
+  TutorialFest 
+  Workshops and Co-located Events 
+   Co-hosted Conferences 
+  CPP 
+  VMCAI 
+  Workshops 
+  CoqPL 
+  LAFI | LAFI 
+  - Introduction to the tensor-programs framework, a PL approach that helps analyse theoretical properties of deep learning. 
+  PEPM 
+  PLMW @ POPL 
+  PriSC 
+  ProLaLa 
+  Co-hosted Symposia 
+  PADL 
+  Organization | POPL 2023 Committees 
+  Organizing Committee 
+  Track Committees 
+  POPL 
+  Artifact Evaluation 
+  Student Research Competition 
+  TutorialFest 
+  Contributors 
+  People Index 
+   Co-hosted Conferences 
+  CPP | Organizing Committee 
+  Program Committee 
+  Steering Committee 
+  VMCAI | Organizing Committee 
+  Program Committee 
+  Artifact Evaluation Committee 
+  Workshops 
+  CoqPL | Program Committee 
+  LAFI | Organizing Committee 
+  Program Committee 
+  Steering Committee 
+  PEPM | Organizing Committee 
+  Program Committee 
+  Steering Committee 
+  PLMW @ POPL | Organizing Committee 
+  Speakers 
+  Panelists 
+  PriSC | Program Committee 
+  Steering Committee 
+  ProLaLa | Program Committee 
+  Co-hosted Symposia 
+  PADL | Programme Chairs 
+  Program Committee 
+  Search 
+  Series | Series 
+   POPL 2025 
+  POPL 2024 
+  POPL 2023 
+  POPL 2022 
+  POPL 2021 
+  POPL 2020 
+  POPL 2019 
+  POPL 2018 
+  POPL 2017 
+  POPL 2016 
+  Sign in 
+  Sign up 
+
+  POPL 2023  ( series  ) /  PADL 2023 ( series  ) /  PADL 2023: The 25th International Symposium on Practical Aspects of Declarative Languages  
+   
+ About 
+  Program 
+  Accepted Papers 
+  - 
+  Call for Papers 
+  Declarative languages comprise several well-established classes of formalisms, namely, functional, logic, and constraint programming. Such formalisms enjoy both sound theoretical bases and the availability of attractive frameworks for application development. Indeed, they have been already successfully applied to many different real-world situations, ranging from database management to active networks to software engineering to decision support systems.  
+ New developments in theory and implementation fostered applications in new areas. At the same time, applications of declarative languages to novel and challenging problems raise many interesting research issues, including designing for scalability, language extensions for application deployment, and programming environments. Thus, applications drive the progress in the theory and implementation of declarative systems, and benefit from this progress as well.  
+ PADL is a well-established forum for researchers and practitioners to present original work emphasizing novel applications and implementation techniques for all forms of declarative programming, including functional and logic programming, database and constraint programming, and theorem proving.  
+ Topics of interest include, but are not limited to:  
+ Innovative applications of declarative languages 
+  Declarative domain-specific languages and applications 
+  Practical applications of theoretical results 
+  New language developments and their impact on applications 
+  Declarative languages and software engineering 
+  Evaluation of implementation techniques on practical applications 
+  Practical experiences and industrial applications 
+  Novel uses of declarative languages in the classroom 
+  Practical extensions such as constraint-based, probabilistic, and reactive languages 
+  PADL 2023 especially welcomes new ideas and approaches related to applications, design and implementation of declarative languages going beyond the scope of the past PADL symposia, for example, advanced database languages and contract languages, as well as verification and theorem proving methods that rely on declarative languages.  
+   
+ Dates    
+
+   Program Display Configuration  
+   
+   Time Zone   
+   
+ The program is currently displayed in (GMT-05:00) Eastern Time (US & Canada)  .   Use conference time zone: (GMT-05:00) Eastern Time (US & Canada)    Select other time zone   (GMT-12:00) AoE (Anywhere On Earth)  (GMT-11:00) Midway Island, Samoa  (GMT-10:00) Hawaii-Aleutian  (GMT-10:00) Hawaii  (GMT-09:30) Marquesas Islands  (GMT-09:00) Gambier Islands  (GMT-09:00) Alaska  (GMT-08:00) Tijuana, Baja California  (GMT-08:00) Pitcairn Islands  (GMT-08:00) Pacific Time (US & Canada)  (GMT-07:00) Mountain Time (US & Canada)  (GMT-06:00) Chihuahua, La Paz, Mazatlan  (GMT-07:00) Arizona  (GMT-06:00) Saskatchewan, Central America  (GMT-05:00) Guadalajara, Mexico City, Monterrey  (GMT-05:00) Easter Island  (GMT-06:00) Central Time (US & Canada)  (GMT-05:00) Eastern Time (US & Canada)  (GMT-05:00) Cuba  (GMT-05:00) Bogota, Lima, Quito, Rio Branco  (GMT-04:00) Caracas  (GMT-03:00) Santiago  (GMT-04:00) La Paz  (GMT-03:00) Faukland Islands  (GMT-04:00) Manaus, Amazonas, Brazil  (GMT-04:00) Atlantic Time (Goose Bay)  (GMT-04:00) Atlantic Time (Canada)  (GMT-03:30) Newfoundland  (GMT-03:00) UTC-3  (GMT-03:00) Montevideo  (GMT-03:00) Miquelon, St. Pierre  (GMT-03:00) Greenland  (GMT-03:00) Buenos Aires  (GMT-03:00) Brasilia, Distrito Federal, Brazil  (GMT-02:00) Mid-Atlantic  (GMT-01:00) Cape Verde Is.  (GMT-01:00) Azores  (UTC) Coordinated Universal Time  (GMT) Belfast  (GMT) Dublin  (GMT) Lisbon  (GMT) London  (GMT) Monrovia, Reykjavik  (GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna  (GMT+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague  (GMT+01:00) Brussels, Copenhagen, Madrid, Paris  (GMT+01:00) West Central Africa  (GMT+02:00) Windhoek  (GMT+02:00) Athens  (GMT+02:00) Beirut  (GMT+02:00) Cairo  (GMT+02:00) Gaza  (GMT+02:00) Harare, Pretoria  (GMT+02:00) Jerusalem  (GMT+03:00) Minsk  (GMT+03:00) Syria  (GMT+03:00) Moscow, St. Petersburg, Volgograd  (GMT+03:00) Nairobi  (GMT+03:30) Tehran  (GMT+04:00) Abu Dhabi, Muscat  (GMT+04:00) Yerevan  (GMT+04:30) Kabul  (GMT+05:00) Ekaterinburg  (GMT+05:00) Tashkent  (GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi  (GMT+05:45) Kathmandu  (GMT+06:00) Astana, Dhaka  (GMT+07:00) Novosibirsk  (GMT+06:30) Yangon (Rangoon)  (GMT+07:00) Bangkok, Hanoi, Jakarta  (GMT+07:00) Krasnoyarsk  (GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi  (GMT+08:00) Irkutsk, Ulaan Bataar  (GMT+08:00) Perth  (GMT+08:45) Eucla  (GMT+09:00) Osaka, Sapporo, Tokyo  (GMT+09:00) Seoul  (GMT+09:00) Yakutsk  (GMT+10:30) Adelaide  (GMT+09:30) Darwin  (GMT+10:00) Brisbane  (GMT+11:00) Hobart  (GMT+10:00) Vladivostok  (GMT+11:00) Lord Howe Island  (GMT+11:00) Solomon Is., New Caledonia  (GMT+11:00) Magadan  (GMT+12:00) Norfolk Island  (GMT+12:00) Anadyr, Kamchatka  (GMT+13:00) Auckland, Wellington  (GMT+12:00) Fiji, Kamchatka, Marshall Is.  (GMT+13:45) Chatham Islands  (GMT+13:00) Nuku'alofa  (GMT+14:00) Kiritimati     
+
+   The GMT offsets shown reflect the offsets at the moment of the conference  .     
+   
+ Time Band   
+   
+ By setting a time band, the program will dim events that are outside this time window. This is useful for (virtual) conferences with a continuous program (with repeated sessions).  
+  The time band will also limit the events that are included in the personal iCalendar subscription service.   Display full program    Specify a time band   -      
+
+  Save    
+
+  Close    
+
+ ×    You're viewing the program in a time zone which is different from your device's time zone change time zone     
+
+ Mon 16 Jan   
+  
+ Displayed time zone: Eastern Time (US & Canada)  change      
+
+ 09:00 - 10:00 | Opening & Invited Talk PADL   at The Loft   
+  Chair(s): Daniela Inclezan  Miami University 
+ 09:00   
+ 60m    
+ Talk | Towards Declarative Content Generation for Creativity Support Tools   PADL   
+ Chris Martens  Northeastern University 
+
+ 10:00 - 10:30 | Reasoning PADL   at The Loft   
+  Chair(s): Anssi Yli-Jyrä  Tampere University 
+ 10:00   
+ 30m    
+ Talk | Using Hybrid Knowledge Bases for Meta-reasoning over OWL 2 QL   PADL   
+ Haya Majid Qureshi  Alpen-Adria-Universität Klagenfurt  , Wolfgang Faber  University of Klagenfurt 
+
+ 11:00 - 12:30 | Domain Specific Languages PADL   at The Loft   
+  Chair(s): Sarat Chandra Varanasi  The University of Texas at Dallas, General Electric Research 
+ 11:00   
+ 30m    
+ Talk | Fluo: A Domain-Specific Language for Experiments in Fluorescence Microscopy (Application Paper)   PADL   
+ Birthe van den Berg  KU Leuven  , Tom Schrijvers  KU Leuven  , Peter Dedecker  KU Leuven 
+ 11:30   
+ 30m    
+ Talk | SwitchLog: A Logic Programming Language for Network Switches   PADL   
+ Vaibhav Mehta  Princeton University  , Devon Loehr  Princeton University  , John Sonchack  University of Pennsylvania, USA  , David Walker  Princeton University 
+ 12:00   
+ 30m    
+ Talk | Formalizing and Reasoning about Contracts between Agents   PADL   
+ Dylan Flynn   , Chasity Nadeau   , Jeannine Shantz   , Marcello Balduccini  Saint Joseph's University, USA  , Tran Cao Son  New Mexico State University  , Edward Griffor 
+
+ 14:00 - 15:30 | Applications of Answer Set Programming (I) PADL   at The Loft   
+  Chair(s): Wolfgang Faber  Alpen-Adria-Universität, Austria 
+ 14:00   
+ 30m    
+ Talk | Jury-trial Story Construction and Analysis using Goal-directed Answer Set Programming   PADL   
+ Zesheng Xu  The University of Texas at Dallas  , Gopal Gupta  University of Texas at Dallas, USA  , Elmer Salazar  The University of Texas at Dallas  , Joaquín Arias  Universidad Rey Juan Carlos  , Sarat Chandra Varanasi  The University of Texas at Dallas, General Electric Research 
+ 14:30   
+ 30m    
+ Talk | Solving Vehicle Equipment Specification Problems with Answer Set Programming   PADL   
+ Raito Takeuchi  Nagoya University  , Mutsunori Banbara  Nagoya University  , Naoyuki Tamura  Kobe University, JAPAN  , Torsten Schaub  University of Potsdam 
+ 15:00   
+ 30m    
+ Talk | Pruning Redundancy in Answer Set Optimization Applied to Preventive Maintenance Scheduling   PADL   
+ Anssi Yli-Jyrä  Tampere University  , Masood Feyzbakhsh Rankooh  Tampere University  , Tomi Janhunen  Tampere University 
+
+ 16:00 - 17:30 | Applications of Answer Set Programming (II) PADL   at The Loft   
+  Chair(s): Mutsunori Banbara  Nagoya University 
+ 16:00   
+ 30m    
+ Talk | Integrating ASP-based incremental reasoning in the videogame development workflow (Application Paper)   PADL   
+ Denise Angilica  Università Della Calabria  , Giovambattista Ianni  University of Calabria, Italy  , Francesco Pacenza  Department of Mathematics and Computer Science, University of Calabria  , Jessica Zangari  Università della Calabria 
+ 16:30   
+ 30m    
+ Talk | UAV Compliance Checking using Answer Set Programming and Minimal Explanations towards Compliance (Application Paper)   PADL   
+ Sarat Chandra Varanasi  The University of Texas at Dallas, General Electric Research  , Baoluo Meng  GE Research  , Christopher Alexander  GE Research  , Szabolcs Borgyos  GE Research 
+ 17:00   
+ 30m    
+ Talk | Flexible Job-shop Scheduling for Semiconductor Manufacturing with Hybrid Answer Set Programming (Application Paper)   PADL   
+ Ramsha Ali  University of Klagenfurt  , Mohammed M. S. El-Kholany  University of Klagenfurt  , Martin Gebser  University of Klagenfurt, Austria 
+
+ Tue 17 Jan   
+  
+ Displayed time zone: Eastern Time (US & Canada)  change      
+
+ 09:00 - 10:00 | Invited Talk PADL   at The Loft   
+  Chair(s): Michael Hanus  Kiel University 
+ 09:00   
+ 60m    
+ Talk | Modern Macros   PADL   
+ Robert Bruce Findler  Northwestern University 
+
+ 10:00 - 10:30 | Debugging PADL   at The Loft   
+  Chair(s): Steven Libby  University of Portland 
+ 10:00   
+ 30m    
+ Talk | Automatic Rollback Suggestions for Incremental Datalog Evaluation   PADL   
+ David Zhao  The University of Sydney  , Pavle Subotic  Microsoft Azure  , Mukund Raghothaman  University of Southern California  , Bernhard Scholz  University of Sydney 
+
+ 11:00 - 12:30 | Functional (Logic) Programming PADL   at The Loft   
+  Chair(s): William E. Byrd  University of Alabama at Birmingham, USA 
+ 11:00   
+ 30m    
+ Talk | RICE: An Optimizing Curry Compiler   PADL   
+ Steven Libby  University of Portland 
+ 11:30   
+ 30m    
+ Talk | Embedding Functional Logic Programming in Haskell via a Compiler Plugin   PADL   
+ Kai-Oliver Prott  University of Kiel, Germany  , Finn Teegen  University of Kiel, Germany  , Jan Christiansen  Flensburg University of Applied Sciences, Germany    
+  DOI   File Attached 
+ 12:00   
+ 30m    
+ Talk | Program Synthesis Using Example Propagation   PADL   
+ Niek Mulleners  Utrecht University  , Johan Jeuring  Utrecht University  , Bastiaan Heeren  Open University of the Netherlands, Netherlands 
+
+ 14:00 - 15:30 | Verification PADL   at The Loft   
+  Chair(s): Linda Brodo  Università di Sassari 
+ 14:00   
+ 30m    
+ Talk | Execution Time Program Verification With Tight Bounds   PADL   
+ Ana Carolina Silva  FCUP  , Manuel Barbosa  HASLab - INESC TEC and FCUP  , Mario Florido  Universidade do Porto 
+ 14:30   
+ 30m    
+ Talk | From Starvation Freedom to All-Path Reachability Problems in Constrained Rewriting   PADL   
+ Misaki Kojima  Nagoya University  , Naoki Nishida  Nagoya University    
+  DOI   File Attached 
+ 15:00   
+ 30m    
+ Talk | Multiple Query Satisfiability of Constrained Horn Clauses   PADL   
+ Emanuele De Angelis  CNR-IASI  , Fabio Fioravanti  University of Chieti-Pescara  , Alberto Pettorossi  University of Rome Tor Vergata, Italy  , Maurizio Proietti  CNR-IASI 
+
+ 16:00 - 17:30 | Analysis and Symbolic Methods PADL   at The Loft   
+  Chair(s): Naoki Nishida  Nagoya University 
+ 16:00   
+ 30m    
+ Talk | Dynamic slicing of Reaction Systems based on assertions and monitors   PADL   
+ Linda Brodo  Università di Sassari  , Roberto Bruni  University of Pisa  , Moreno Falaschi  Dipartimento di Ingegneria dell'Informazione e Scienze Matematiche, University of Siena 
+ 16:30   
+ 30m    
+ Talk | Linear Algebraic Abduction with Partial Evaluation   PADL   
+ Tuan Nguyen  National Institute of Informatics  , Katsumi Inoue  NII  , Chiaki Sakama  Wakayama University    
+  DOI   File Attached 
+
+ Accepted Papers  
+  
+ Title 
+ Automatic Rollback Suggestions for Incremental Datalog Evaluation  PADL   
+ David Zhao  , Pavle Subotic  , Mukund Raghothaman  , Bernhard Scholz 
+ Dynamic slicing of Reaction Systems based on assertions and monitors  PADL   
+ Linda Brodo  , Roberto Bruni  , Moreno Falaschi 
+ Embedding Functional Logic Programming in Haskell via a Compiler Plugin  PADL   
+ Kai-Oliver Prott  , Finn Teegen  , Jan Christiansen    
+  DOI   File Attached 
+ Execution Time Program Verification With Tight Bounds  PADL   
+ Ana Carolina Silva  , Manuel Barbosa  , Mario Florido 
+ Flexible Job-shop Scheduling for Semiconductor Manufacturing with Hybrid Answer Set Programming (Application Paper)  PADL   
+ Ramsha Ali  , Mohammed M. S. El-Kholany  , Martin Gebser 
+ Fluo: A Domain-Specific Language for Experiments in Fluorescence Microscopy (Application Paper)  PADL   
+ Birthe van den Berg  , Tom Schrijvers  , Peter Dedecker 
+ Formalizing and Reasoning about Contracts between Agents  PADL   
+ Dylan Flynn  , Chasity Nadeau  , Jeannine Shantz  , Marcello Balduccini  , Tran Cao Son  , Edward Griffor 
+ From Starvation Freedom to All-Path Reachability Problems in Constrained Rewriting  PADL   
+ Misaki Kojima  , Naoki Nishida    
+  DOI   File Attached 
+ Integrating ASP-based incremental reasoning in the videogame development workflow (Application Paper)  PADL   
+ Denise Angilica  , Giovambattista Ianni  , Francesco Pacenza  , Jessica Zangari 
+ Jury-trial Story Construction and Analysis using Goal-directed Answer Set Programming  PADL   
+ Zesheng Xu  , Gopal Gupta  , Elmer Salazar  , Joaquín Arias  , Sarat Chandra Varanasi 
+ Linear Algebraic Abduction with Partial Evaluation  PADL   
+ Tuan Nguyen  , Katsumi Inoue  , Chiaki Sakama    
+  DOI   File Attached 
+ Multiple Query Satisfiability of Constrained Horn Clauses  PADL   
+ Emanuele De Angelis  , Fabio Fioravanti  , Alberto Pettorossi  , Maurizio Proietti 
+ Program Synthesis Using Example Propagation  PADL   
+ Niek Mulleners  , Johan Jeuring  , Bastiaan Heeren 
+ Pruning Redundancy in Answer Set Optimization Applied to Preventive Maintenance Scheduling  PADL   
+ Anssi Yli-Jyrä  , Masood Feyzbakhsh Rankooh  , Tomi Janhunen 
+ RICE: An Optimizing Curry Compiler  PADL   
+ Steven Libby 
+ Solving Vehicle Equipment Specification Problems with Answer Set Programming  PADL   
+ Raito Takeuchi  , Mutsunori Banbara  , Naoyuki Tamura  , Torsten Schaub 
+ SwitchLog: A Logic Programming Language for Network Switches  PADL   
+ Vaibhav Mehta  , Devon Loehr  , John Sonchack  , David Walker 
+ UAV Compliance Checking using Answer Set Programming and Minimal Explanations towards Compliance (Application Paper)  PADL   
+ Sarat Chandra Varanasi  , Baoluo Meng  , Christopher Alexander  , Szabolcs Borgyos 
+ Using Hybrid Knowledge Bases for Meta-reasoning over OWL 2 QL  PADL   
+ Haya Majid Qureshi  , Wolfgang Faber 
+
+ Call for Papers  
+  
+ PADL is a well-established forum for researchers and practitioners to present original work emphasizing novel applications and implementation techniques for all forms of declarative programming, including functional and logic programming, database and constraint programming, and theorem proving.  
+ Topics of interest include, but are not limited to:  
+ Innovative applications of declarative languages 
+  Declarative domain-specific languages and applications 
+  Practical applications of theoretical results 
+  New language developments and their impact on applications 
+  Declarative languages and software engineering 
+  Evaluation of implementation techniques on practical applications 
+  Practical experiences and industrial applications 
+  Novel uses of declarative languages in the classroom 
+  Practical extensions such as constraint-based, probabilistic, and reactive languages 
+  PADL 2023 especially welcomes new ideas and approaches related to applications, design and implementation of declarative languages going beyond the scope of the past PADL symposia, for example, advanced database languages and contract languages, as well as verification and theorem proving methods that rely on declarative languages.  
+ Submissions   
+ PADL 2023 welcomes three kinds of submission:  
+ Technical papers (max. 15 pages): Technical papers must describe original, previously unpublished research results. 
+  Application papers (max. 8 pages): Application papers are a mechanism to present important practical applications of declarative languages that occur in industry or in areas of research other than Computer Science. Application papers are expected to describe complex and/or real-world applications that rely on an innovative use of declarative languages. Application descriptions, engineering solutions and real-world experiences (both positive and negative) are solicited. 
+  Extended abstracts (max. 3 pages): Describing new ideas, a new perspective on already published work, or work-in-progress that is not yet ready for a full publication. Extended abstracts will be posted on the symposium website but will not be published in the formal proceedings. 
+  All page limits exclude references. Submissions must be written in English and formatted according to the standard Springer LNCS style, see https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines   
+ Page numbers (and, if possible, line numbers) should appear on the manuscript to help the reviewers in writing their reports. So, for LaTeX, we recommend that authors use:  
+ \pagestyle{plain} \usepackage{lineno} \linenumbers   The conference proceedings of PADL 2023 will be published by Springer-Verlag in the Lecture Notes in Computer Science  series.  
+ Work that already appeared in unpublished or informally published workshops proceedings may be submitted but the authors should notify the program chairs where it has previously appeared.  
+ Papers should be submitted electronically at https://easychair.org/conferences/?conf=padl2023   
+ Important Dates   
+ Abstract submission: October 12, 2022 (AoE)  
+ Paper submission: October 19, 2022 (AoE)  
+ Notification: November 15, 2022  
+ Camera-ready papers: December 1, 2022  
+ Symposium: January 16-17, 2023  
+ Distinguished Papers   
+ The authors of a small number of distinguished papers will be invited to submit a longer version for journal publication after the symposium. For papers related to logic programming, that will be in the journal Theory and Practice of Logic Programming (TPLP)  , and for papers related to functional programming, in Journal of Functional Programming (JFP)  . The extended journal submissions should be substantially (roughly 30%) extended: explanations for which there was no space, illuminating examples and proofs, additional definitions and theorems, further experimental results, implementational details and feedback from practical/engineering use, extended discussion of related work, and so on. These submissions will then be subject to the usual peer review process by the journal, although with the aim of a swifter review process by reusing original reviews from PADL.  
+
+ Publication links   
+   
+  Proceedings    
+
+ Important Dates   AoE (UTC-12h)     
+
+ Mon 16 - Tue 17 Jan 2023  
+  Symposium 
+ Tue 15 Nov 2022  
+  Notification 
+ Wed 19 Oct 2022  
+  Paper submission 
+ Wed 12 Oct 2022  
+  Abstract submission 
+
+ Programme Chairs    
+   
+ Michael Hanus    
+ Kiel University   
+ Germany 
+  Daniela Inclezan    
+ Miami University   
+ United States 
+    
+ Program Committee    
+   
+ Andreas Abel    
+ Gothenburg University   
+ Sweden 
+  Annette Bieniusa    
+ University of Kaiserslautern-Landau   
+ Germany 
+  Joachim Breitner    
+ Epic Games   
+ Germany 
+  William E. Byrd    
+ University of Alabama at Birmingham, USA   
+ United States 
+  Pedro Cabalar    
+ University of Corunna   
+ Spain 
+  Francesco Calimeri    
+ University of Calabria 
+  Stefania Costantini    
+ Dipartimento di Ingegneria e Scienze dell'Informazione eMatematica, Univ. dell'Aquila 
+  Esra Erdem    
+ Sabanci University, Turkey   
+ Turkey 
+  Martin Gebser    
+ University of Klagenfurt, Austria   
+ Austria 
+  Robert Glück    
+ University of Copenhagen   
+ Denmark 
+  Gopal Gupta    
+ University of Texas at Dallas, USA   
+ United States 
+  Michael Hanus Co-chair    
+ Kiel University   
+ Germany 
+  Daniela Inclezan Co-chair    
+ Miami University   
+ United States 
+  Tomi Janhunen    
+ Tampere University   
+ Finland 
+  Patricia Johann    
+ Appalachian State University 
+  Yukiyoshi Kameyama    
+ University of Tsukuba   
+ Japan 
+  Ekaterina Komendantskaya    
+ Heriot-Watt University, UK 
+  Simona Perri    
+ University of Calabria, Italy 
+  Enrico Pontelli    
+ New Mexico State University 
+  Tom Schrijvers    
+ KU Leuven   
+ Belgium 
+  Paul Tarau    
+ University of North Texas   
+ United States 
+  Peter Thiemann    
+ University of Freiburg, Germany 
+  Peter Van Roy    
+ Université catholique de Louvain   
+ Belgium 
+  Janis Voigtländer    
+ University of Duisburg-Essen 
+  Ningning Xie    
+ University of Toronto   
+ Canada 
+
+ x  Mon 25 Nov 09:52    
+
+  POPL 2023   
+  contact form    
+  using conf.researchr.org  ( v1.67.1  )  
+   Support page    
+     
+ Tracks  
+ POPL   
+  Session Previews   
+  Artifact Evaluation   
+  Diversity, Equity and Inclusion   
+  Student Research Competition   
+  Student Volunteers   
+  TutorialFest   
+  Workshops and Co-located Events    
+ Co-hosted Conferences  
+ CPP 2023   
+  VMCAI 2023   
+  Workshops  
+ CoqPL 2023   
+  LAFI 2023   
+  PEPM 2023   
+  PLMW @ POPL 2023   
+  PriSC 2023   
+  ProLaLa 2023   
+  Co-hosted Symposia  
+ PADL 2023    
+
+ Attending  
+ Venue: Boston Park Plaza   
+  Supporting POPL   
+  Registration   
+  Information for Students   
+  Information for Presenters   
+  Information for Virtual Attendees   
+  Nearby Events    
+ Sign Up

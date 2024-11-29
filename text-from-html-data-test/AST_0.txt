@@ -1,0 +1,613 @@
+AST 2023   Mon 15 - Tue 16 May 2023 Melbourne, Australia    
+ co-located with ICSE 2023    
+
+ Toggle navigation        
+ Attending | Venue: Melbourne Convention Exhibition Centre | MCEC 
+  ICSE 2023 
+  Keynotes 
+  Melbourne 
+  Victoria 
+  Australia 
+  Code of Conduct 
+  Diversity and Inclusion Plan 
+  Main Conference In-Person Presenter Instructions 
+  Main Conference Virtual Presenter Instructions 
+  Workshop and Co-Located Event Instructions 
+  Session Chair Instructions 
+  Venue Floor Map 
+  Accommodation 
+  Registration 
+  Visa Letter of Invitation 
+  Social Events 
+  Recruitment Opportunities at ICSE 2023 
+  IEEE Computer Society Open Conference Statement 
+  Travel Support 
+  Childcare Support 
+  Program | AST Program 
+  Your Program 
+   Mon 15 May 
+  Tue 16 May 
+  Track/Call 
+  Organization | AST 2023 Committees 
+  Track Committees 
+  Organizing Committee 
+  Program Committee 
+  Steering Committee 
+  Contributors 
+  People Index 
+  Search 
+  Series | Series 
+   AST 2025 
+  AST 2024 
+  AST 2023 
+  AST 2022 
+  AST 2021 
+  AST 2020 
+  Sign in 
+  Sign up 
+
+  ICSE 2023  ( series  ) /  AST 2023 ( series  ) /  AST 2023  
+   
+ About 
+  Program 
+  Accepted Papers 
+  Presentation Instructions 
+  Submission 
+  Keynotes 
+  Registration 
+  Previous Editions 
+  Awards 
+  Call for Papers 
+  The 4th ACM/IEEE International Conference on Automation of Software Test (AST 2023)   
+ Software pervasiveness in both industry and digital society, as well as the proliferation of Artificial Intelligence (AI) technologies are continuously leading to emerging needs from both software producers and consumers. Infrastructures, software components, and applications aim to hide their increasing complexity in order to appear more human-centric. However, the potential risk from design errors, poor integrations, and time-consuming engineering phases can result in unreliable solutions that can barely meet their intended objectives. In this context, Software Engineering processes keep demanding for the investigation of novel and further refined approaches to Software Quality Assurance (SQA). Software testing automation is a discipline that has produced noteworthy research in the last decade. The search for solutions to automatically test any concept of software is critical, and it encompasses several areas: from the generation of the test cases, test oracles, test stubs/mocks; through the definition of selection and prioritization criteria; up to the engineering of infrastructures governing the execution of testing sessions locally or remotely in the cloud.  
+ AST continues with a long record of international scientific forums on methods and solutions to automate software testing. This year AST 2023 is the 4th edition of a conference that was formerly organized as workshops since 2006. The conference promotes high quality research contributions on methods for software test automation, and original case studies reporting practices in this field. We invite contributions that focus on: i) lessons learned about experiments of automatic testing in practice; ii) experiences of the adoption of testing tools, methods and techniques; iii) best practices to follow in testing and their measurable consequences; and iv) theoretical approaches that are applicable to the industry in the context of AST.  
+ Authors of the best papers presented at AST 2023 will be invited to submit an extension of their work for possible inclusion in a special issue in Software Testing, Verification, and Reliability (STVR) journal.   
+ Call for papers.   
+
+ Supporting Organizations   
+
+ Dates    
+
+   Program Display Configuration  
+   
+   Time Zone   
+   
+ The program is currently displayed in (GMT+10:00) Hobart  .   Use conference time zone: (GMT+10:00) Hobart    Select other time zone   (GMT-12:00) AoE (Anywhere On Earth)  (GMT-11:00) Midway Island, Samoa  (GMT-09:00) Hawaii-Aleutian  (GMT-10:00) Hawaii  (GMT-09:30) Marquesas Islands  (GMT-09:00) Gambier Islands  (GMT-08:00) Alaska  (GMT-07:00) Tijuana, Baja California  (GMT-08:00) Pitcairn Islands  (GMT-07:00) Pacific Time (US & Canada)  (GMT-06:00) Mountain Time (US & Canada)  (GMT-06:00) Chihuahua, La Paz, Mazatlan  (GMT-07:00) Arizona  (GMT-06:00) Saskatchewan, Central America  (GMT-05:00) Guadalajara, Mexico City, Monterrey  (GMT-06:00) Easter Island  (GMT-05:00) Central Time (US & Canada)  (GMT-04:00) Eastern Time (US & Canada)  (GMT-04:00) Cuba  (GMT-05:00) Bogota, Lima, Quito, Rio Branco  (GMT-04:00) Caracas  (GMT-04:00) Santiago  (GMT-04:00) La Paz  (GMT-03:00) Faukland Islands  (GMT-04:00) Manaus, Amazonas, Brazil  (GMT-03:00) Atlantic Time (Goose Bay)  (GMT-03:00) Atlantic Time (Canada)  (GMT-02:30) Newfoundland  (GMT-03:00) UTC-3  (GMT-03:00) Montevideo  (GMT-02:00) Miquelon, St. Pierre  (GMT-02:00) Greenland  (GMT-03:00) Buenos Aires  (GMT-03:00) Brasilia, Distrito Federal, Brazil  (GMT-02:00) Mid-Atlantic  (GMT-01:00) Cape Verde Is.  (GMT) Azores  (UTC) Coordinated Universal Time  (GMT+01:00) Belfast  (GMT+01:00) Dublin  (GMT+01:00) Lisbon  (GMT+01:00) London  (GMT) Monrovia, Reykjavik  (GMT+02:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna  (GMT+02:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague  (GMT+02:00) Brussels, Copenhagen, Madrid, Paris  (GMT+01:00) West Central Africa  (GMT+02:00) Windhoek  (GMT+03:00) Athens  (GMT+03:00) Beirut  (GMT+02:00) Cairo  (GMT+03:00) Gaza  (GMT+02:00) Harare, Pretoria  (GMT+03:00) Jerusalem  (GMT+03:00) Minsk  (GMT+03:00) Syria  (GMT+03:00) Moscow, St. Petersburg, Volgograd  (GMT+03:00) Nairobi  (GMT+03:30) Tehran  (GMT+04:00) Abu Dhabi, Muscat  (GMT+04:00) Yerevan  (GMT+04:30) Kabul  (GMT+05:00) Ekaterinburg  (GMT+05:00) Tashkent  (GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi  (GMT+05:45) Kathmandu  (GMT+06:00) Astana, Dhaka  (GMT+07:00) Novosibirsk  (GMT+06:30) Yangon (Rangoon)  (GMT+07:00) Bangkok, Hanoi, Jakarta  (GMT+07:00) Krasnoyarsk  (GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi  (GMT+08:00) Irkutsk, Ulaan Bataar  (GMT+08:00) Perth  (GMT+08:45) Eucla  (GMT+09:00) Osaka, Sapporo, Tokyo  (GMT+09:00) Seoul  (GMT+09:00) Yakutsk  (GMT+09:30) Adelaide  (GMT+09:30) Darwin  (GMT+10:00) Brisbane  (GMT+10:00) Hobart  (GMT+10:00) Vladivostok  (GMT+10:30) Lord Howe Island  (GMT+11:00) Solomon Is., New Caledonia  (GMT+11:00) Magadan  (GMT+11:00) Norfolk Island  (GMT+12:00) Anadyr, Kamchatka  (GMT+12:00) Auckland, Wellington  (GMT+12:00) Fiji, Kamchatka, Marshall Is.  (GMT+12:45) Chatham Islands  (GMT+13:00) Nuku'alofa  (GMT+14:00) Kiritimati     
+
+   The GMT offsets shown reflect the offsets at the moment of the conference  .     
+   
+ Time Band   
+   
+ By setting a time band, the program will dim events that are outside this time window. This is useful for (virtual) conferences with a continuous program (with repeated sessions).  
+  The time band will also limit the events that are included in the personal iCalendar subscription service.   Display full program    Specify a time band   -      
+
+  Save    
+
+  Close    
+
+ ×    You're viewing the program in a time zone which is different from your device's time zone change time zone     
+
+ Mon 15 May   
+  
+ Displayed time zone: Hobart  change      
+
+ 09:00 - 10:30 | Introduction and Keynote AST 2023   at Meeting Room 107 
+ 09:00   
+ 30m    
+ Talk | Automation of Software Test; Confererence - Past, Present and Visions   AST 2023   
+ Mehrdad Saadatmand  RISE Research Institutes of Sweden  , Sigrid Eldh  Ericsson AB, Mälardalen University, Carleton Unviersity 
+ 09:30   
+ 60m    
+ Keynote | Lessons from 10 Years of Automated Debugging Research   AST 2023   
+ K:  Shin Yoo  KAIST    
+  Media Attached 
+
+ 11:00 - 12:30 | Faults, AI and Tools AST 2023   at Meeting Room 107 
+ 11:00   
+ 22m    
+ Talk | An Method of Intelligent Duplicate Bug Report Detection Based on Technical Term Extraction   AST 2023   
+ Xiaoxue Wu  Yangzhou University  , Wenjing Shan  Yangzhou University  , Wei Zheng  Northwestern Polytechnical University  , Zhiguo Chen  Northwestern Polytechnical University  , Tao Ren  Yangzhou University  , Xiaobing Sun  Yangzhou University 
+ 11:22   
+ 22m    
+ Talk | A Reinforcement Learning Approach to Generate Test Cases for Web Applications   AST 2023   
+ Xiaoning Chang  Institute of Software, Chinese Academy of Sciences  , Zheheng Liang  Joint Laboratory on Cyberspace Security of China Southern Power Grid  , Yifei Zhang  State Key Lab of Computer Sciences, Institute of Software, Chinese Academy of Sciences  , Lei Cui  Joint Laboratory on Cyberspace Security of China Southern Power Grid  , Zhenyue Long   , Guoquan Wu  Institute of Software at Chinese Academy of Sciences; University of Chinese Academy of Sciences; University of Chinese Academy of Sciences Nanjing College; China Southern Power Grid  , Yu Gao  Institute of Software, Chinese Academy of Sciences, China  , Wei Chen  Institute of Software at Chinese Academy of Sciences; University of Chinese Academy of Sciences; University of Chinese Academy of Sciences Nanjing College  , Jun Wei  Institute of Software at Chinese Academy of Sciences; University of Chinese Academy of Sciences; University of Chinese Academy of Sciences Chongqing School  , Tao Huang  Institute of Software Chinese Academy of Sciences 
+ 11:45   
+ 22m    
+ Talk | Cross-Project setting using Deep learning Architectures in Just-In-Time Software Fault Prediction: An Investigation   AST 2023   
+ Sushant Kumar Pandey  Chalmers and University of Gothenburg  , Anil Kumar Tripathi  Indian Institute of Technology (BHU), Varanasi 
+ 12:07   
+ 22m    
+ Talk | On Comparing Mutation Testing Tools through Learning-based Mutant Selection      AST 2023   
+ Milos Ojdanic  University of Luxembourg  , Ahmed Khanfir  University of Luxembourg  , Aayush Garg  University of Luxembourg, Luxembourg  , Renzo Degiovanni  SnT, University of Luxembourg  , Mike Papadakis  University of Luxembourg, Luxembourg  , Yves Le Traon  University of Luxembourg, Luxembourg    
+  File Attached 
+
+ 13:45 - 15:15 | Metrics and Benchmarks AST 2023   at Meeting Room 107 
+ 13:45   
+ 22m    
+ Talk | AutoMetric: Towards Measuring Open-Source Software Quality Metrics Automatically   AST 2023   
+ Taejun Lee  Korea University  , Heewon Park  Korea University  , Heejo Lee  Korea University 
+ 14:07   
+ 22m    
+ Talk | Learning to Learn to Predict Performance Regressions in Production at Meta   AST 2023   
+ Moritz Beller  Meta Platforms, Inc., USA  , Hongyu Li  Liquido  , Vivek Nair  Meta Platforms, Inc.  , Vijayaraghavan Murali  Meta Platforms, Inc.  , Imad Ahmad  Meta Platforms, Inc.  , Jürgen Cito  TU Wien  , Drew Carlson  Ex-Meta Platforms, Inc.  , Gareth Ari Aye  Meta Platforms, Inc.  , Wes Dyer  Meta Platforms, Inc.    
+  Pre-print 
+ 14:30   
+ 22m    
+ Talk | SourceWarp: A scalable, SCM-driven testing and benchmarking approach to support data-driven and agile decision making for CI/CD tools and DevOps platforms   AST 2023   
+ Julian Thome  GitLab Inc.  , James Johnson  --  , Isaac Dawson  GitLab Inc.  , Dinesh Bolkensteyn  GitLab Inc.  , Michael Henriksen  GitLab Inc.  , Mark Art  GitLab Inc. 
+ 14:52   
+ 22m    
+ Talk | Structural Test Input Generation for 3-Address Code Coverage Using Path-Merged Symbolic Execution   AST 2023   
+ Soha Hussein  University of Minnesota, USA / Ain Shams University, Egypt  , Stephen McCamant  University of Minnesota, USA  , Elena Sherman  Boise State University  , Vaibhav Sharma  Amazon  , Michael Whalen  Amazon Web Services and the University of Minnesota 
+
+ 15:45 - 17:15 | Testing AST 2023   at Meeting Room 107 
+ 15:45   
+ 22m    
+ Talk | Better Safe Than Sorry! Automated Identification of Functionality-Breaking Security-Configuration Rules   AST 2023   
+ Patrick Stöckle  Technical University of Munich (TUM) / Siemens AG  , Michael Sammereier  Technical University of Munich  , Bernd Grobauer  Siemens AG  , Alexander Pretschner  Technical University of Munich    
+  Link to publication   DOI   Pre-print 
+ 16:07   
+ 22m    
+ Talk | Cross-coverage testing of functionally equivalent programs   AST 2023   
+ Antonia Bertolino  National Research Council, Italy  , Guglielmo De Angelis  CNR-IASI  , Felicita Di Giandomenico  ISTI-CNR  , Francesca Lonetti  CNR-ISTI    
+  Pre-print 
+ 16:30   
+ 22m    
+ Talk | Towards a Review on Simulated ADAS/AD Testing   AST 2023   
+ Yavuz Koroglu  Graz University of Technology  , Franz Wotawa  Graz University of Technology 
+
+ 18:00 - 21:00 | Dinner AST 2023   at Offsite 
+ 18:00   
+ 3h    
+ Social Event | Social Dinner at Meat Market, South Wharf   AST 2023 
+
+ Tue 16 May   
+  
+ Displayed time zone: Hobart  change      
+
+ 09:00 - 10:30 | Welcome and Keynote 2 AST 2023   at Meeting Room 107 
+ 09:00   
+ 30m    
+ Talk | AST Day II Welcome   AST 2023 
+ 09:30   
+ 60m    
+ Keynote | Automatic for the People   AST 2023   
+ K:  Andy Zaidman  Delft University of Technology    
+  Media Attached 
+
+ 11:00 - 12:30 | Test Flakiness AST 2023   at Meeting Room 107 
+ 11:00   
+ 22m    
+ Talk | On the Effect of Instrumentation on Test Flakiness   AST 2023   
+ Shawn Rasheed  Universal College of Learning  , Jens Dietrich  Victoria University of Wellington  , Amjed Tahir  Massey University    
+  Pre-print 
+ 11:22   
+ 22m    
+ Talk | Debugging Flaky Tests using Spectrum-based Fault Localization   AST 2023   
+ Martin Gruber  BMW Group, University of Passau  , Gordon Fraser  University of Passau    
+  Pre-print 
+ 11:45   
+ 22m    
+ Talk | FlakyCat: Predicting Flaky Tests Categories using Few-Shot Learning   AST 2023   
+ Amal Akli  University of Luxembourg  , Guillaume Haben  University of Luxembourg  , Sarra Habchi  Ubisoft  , Mike Papadakis  University of Luxembourg, Luxembourg  , Yves Le Traon  University of Luxembourg, Luxembourg 
+ 12:07   
+ 22m    
+ Talk | Detecting Potential User-data Save & Export Losses due to Android App Termination   AST 2023   
+ Sydur Rahaman  New Jersey Institute of Technology  , Umar Farooq  University of California at Riverside  , Iulian Neamtiu  New Jersey Institute of Technology  , Zhijia Zhao  University of California at Riverside 
+
+ 13:45 - 15:15 | Test Prioritization AST 2023   at Meeting Room 107 
+ 13:45   
+ 22m    
+ Talk | Orchestration Strategies for Regression Test Suites   AST 2023   
+ Renan Greca  Gran Sasso Science Institute, ISTI-CNR  , Breno Miranda  Federal University of Pernambuco  , Antonia Bertolino  National Research Council, Italy    
+  Pre-print 
+ 14:07   
+ 22m    
+ Talk | Evaluating the Trade-offs of Text-based Diversity in Test Prioritization   AST 2023   
+ Ranim Khojah  Chalmers | University of Gothenburg  , Chi Hong Chao  Chalmers | University of Gothenburg  , Francisco Gomes de Oliveira Neto  Chalmers University of Technology, Sweden / University of Gothenburg, Sweden 
+ 14:30   
+ 22m    
+ Talk | MuTCR: Test Case Recommendation via Multi-Level Signature Matching   AST 2023   
+ Weisong Sun  Nanjing University  , Weidong Qian  China Ship Scientific Research Center  , Bin Luo  Nanjing University  , Zhenyu Chen  Nanjing University 
+ 14:52   
+ 22m    
+ Talk | Test Case Prioritization using Transfer Learning in Continuous Integration Environments   AST 2023   
+ Rezwana Mamata  Ontario Tech University  , Akramul Azim  Ontario Tech University  , Ramiro Liscano  Ontario Tech University  , Kevin Smith  International Business Machines Corporation (IBM)  , Yee-Kang Chang  International Business Machines Corporation (IBM)  , Gkerta Seferi  International Business Machines Corporation (IBM)  , Qasim Tauseef  International Business Machines Corporation (IBM) 
+
+ 15:45 - 17:15 | Summary, Panel, Awards AST 2023   at Meeting Room 107 
+ 15:45   
+ 45m    
+ Panel | Panel Discussions and AST Summary Remarks   AST 2023   
+ Andy Zaidman  Delft University of Technology  , Antonia Bertolino  National Research Council, Italy  , Mike Papadakis  University of Luxembourg, Luxembourg  , Shin Yoo  KAIST  , Sigrid Eldh  Ericsson AB, Mälardalen University, Carleton Unviersity  , Mehrdad Saadatmand  RISE Research Institutes of Sweden 
+ 16:30   
+ 45m    
+ Awards | Award Session and Closure   AST 2023 
+
+ Accepted Papers  
+  
+ Title 
+ An Method of Intelligent Duplicate Bug Report Detection Based on Technical Term Extraction  AST 2023   
+ Xiaoxue Wu  , Wenjing Shan  , Wei Zheng  , Zhiguo Chen  , Tao Ren  , Xiaobing Sun 
+ A Reinforcement Learning Approach to Generate Test Cases for Web Applications  AST 2023   
+ Xiaoning Chang  , Zheheng Liang  , Yifei Zhang  , Lei Cui  , Zhenyue Long  , Guoquan Wu  , Yu Gao  , Wei Chen  , Jun Wei  , Tao Huang 
+ AutoMetric: Towards Measuring Open-Source Software Quality Metrics Automatically  AST 2023   
+ Taejun Lee  , Heewon Park  , Heejo Lee 
+ Better Safe Than Sorry! Automated Identification of Functionality-Breaking Security-Configuration Rules  AST 2023   
+ Patrick Stöckle  , Michael Sammereier  , Bernd Grobauer  , Alexander Pretschner    
+  Link to publication   DOI   Pre-print 
+ Cross-coverage testing of functionally equivalent programs  AST 2023   
+ Antonia Bertolino  , Guglielmo De Angelis  , Felicita Di Giandomenico  , Francesca Lonetti    
+  Pre-print 
+ Cross-Project setting using Deep learning Architectures in Just-In-Time Software Fault Prediction: An Investigation  AST 2023   
+ Sushant Kumar Pandey  , Anil Kumar Tripathi 
+ Debugging Flaky Tests using Spectrum-based Fault Localization  AST 2023   
+ Martin Gruber  , Gordon Fraser    
+  Pre-print 
+ Detecting Potential User-data Save & Export Losses due to Android App Termination  AST 2023   
+ Sydur Rahaman  , Umar Farooq  , Iulian Neamtiu  , Zhijia Zhao 
+ Evaluating the Trade-offs of Text-based Diversity in Test Prioritization  AST 2023   
+ Ranim Khojah  , Chi Hong Chao  , Francisco Gomes de Oliveira Neto 
+ FlakyCat: Predicting Flaky Tests Categories using Few-Shot Learning  AST 2023   
+ Amal Akli  , Guillaume Haben  , Sarra Habchi  , Mike Papadakis  , Yves Le Traon 
+ Learning to Learn to Predict Performance Regressions in Production at Meta  AST 2023   
+ Moritz Beller  , Hongyu Li  , Vivek Nair  , Vijayaraghavan Murali  , Imad Ahmad  , Jürgen Cito  , Drew Carlson  , Gareth Ari Aye  , Wes Dyer    
+  Pre-print 
+ MuTCR: Test Case Recommendation via Multi-Level Signature Matching  AST 2023   
+ Weisong Sun  , Weidong Qian  , Bin Luo  , Zhenyu Chen 
+ On Comparing Mutation Testing Tools through Learning-based Mutant Selection     AST 2023   
+ Milos Ojdanic  , Ahmed Khanfir  , Aayush Garg  , Renzo Degiovanni  , Mike Papadakis  , Yves Le Traon    
+  File Attached 
+ On the Effect of Instrumentation on Test Flakiness  AST 2023   
+ Shawn Rasheed  , Jens Dietrich  , Amjed Tahir    
+  Pre-print 
+ Orchestration Strategies for Regression Test Suites  AST 2023   
+ Renan Greca  , Breno Miranda  , Antonia Bertolino    
+  Pre-print 
+ SourceWarp: A scalable, SCM-driven testing and benchmarking approach to support data-driven and agile decision making for CI/CD tools and DevOps platforms  AST 2023   
+ Julian Thome  , James Johnson  , Isaac Dawson  , Dinesh Bolkensteyn  , Michael Henriksen  , Mark Art 
+ Structural Test Input Generation for 3-Address Code Coverage Using Path-Merged Symbolic Execution  AST 2023   
+ Soha Hussein  , Stephen McCamant  , Elena Sherman  , Vaibhav Sharma  , Michael Whalen 
+ Test Case Prioritization using Transfer Learning in Continuous Integration Environments  AST 2023   
+ Rezwana Mamata  , Akramul Azim  , Ramiro Liscano  , Kevin Smith  , Yee-Kang Chang  , Gkerta Seferi  , Qasim Tauseef 
+ Towards a Review on Simulated ADAS/AD Testing  AST 2023   
+ Yavuz Koroglu  , Franz Wotawa 
+
+ Call for Papers  
+  
+ Software pervasiveness in both industry and digital society, as well as the proliferation of Artificial Intelligence (AI) technologies are continuously leading to emerging needs from both software producers and consumers. Infrastructures, software components, and applications aim to hide their increasing complexity in order to appear more human-centric. However, the potential risk from design errors, poor integrations, and time-consuming engineering phases can result in unreliable solutions that can barely meet their intended objectives. In this context, Software Engineering processes keep demanding for the investigation of novel and further refined approaches to Software Quality Assurance (SQA). Software testing automation is a discipline that has produced noteworthy research in the last decade. The search for solutions to automatically test any concept of software is critical, and it encompasses several areas: from the generation of the test cases, test oracles, test stubs/mocks; through the definition of selection and prioritization criteria; up to the engineering of infrastructures governing the execution of testing sessions locally or remotely in the cloud. AST continues with a long record of international scientific forums on methods and solutions to automate software testing. This year AST 2023 is the 4th edition of a conference that was formerly organized as workshops since 2006. The conference promotes high quality research contributions on methods for software test automation, and original case studies reporting practices in this field. We invite contributions that focus on:  
+ lessons learned about experiments of automatic testing in practice; 
+  experiences of the adoption of testing tools, methods and techniques; 
+  best practices to follow in testing and their measurable consequences; and 
+  theoretical approaches that are applicable to the industry in the context of AST. 
+  Topics of Interest   
+ Submissions on the AST 2023 theme are especially encouraged, but papers on other topics relevant to the automation of software tests are also welcome. Topics of interest include, but are not limited to the following:  
+ Test automation of large complex system 
+  Test Automation in Software Process and Evolution, DevOps, Agile, CI/CD flows 
+  Metrics for testing - test efficiency, test coverage 
+  Tools for model-based V&V 
+  Test-driven development 
+  Standardization of test tools 
+  Test coverage metrics and criteria 
+  Product line testing 
+  Formal methods and theories for testing and test automation 
+  Test case generation based on formal and semi-formal models 
+  Testing with software usage models 
+  Testing of reactive and object-oriented systems 
+  Software simulation by models, forecasts of behavior and properties 
+  Application of model checking in testing 
+  Tools for security specification, models, protocols, testing and evaluation 
+  Theoretical foundations of test automation 
+  Models as test oracles; test validation with models 
+  Testing anomaly detectors 
+  Testing cyber physical systems 
+  Automated usability and user experience testing 
+  Automated software testing for AI applications 
+  AI for Automated Software Testing 
+  We are interested in the following aspects related to AST:  
+ Problem identification. | Analysis and specification of requirements for AST, and elicitation of problems that hamper wider adoption of AST 
+  Methodology. | Novel methods and approaches for AST in the context of up-to-date software development methodologies 
+  Technology. | Automation of various test techniques and methods for test-related activities, as well as for testing various types of software 
+  Tools and Environments. | Issues and solutions in the development, operation, maintenance and evolution of tools and environments for AST, and their integration with other types of tools and runtime support platforms 
+  Empirical studies, Experience reports, and Industrial Contributions. | Real experiences in using automated testing techniques, methods and tools in industry 
+  Visions of the future. | Foresight and thought-provoking ideas for AST that can inspire new powerful research trends. 
+  Authors of the best papers presented at AST 2023 will be invited to submit an extension of their work for possible inclusion in a special issue in Software Testing, Verification, and Reliability (STVR) journal   
+
+ Presentation Instructions  
+   
+ To prepare your presentations, please read carefully the instructions that are provided in the following links/documents: 1) https://conf.researchr.org/attending/icse-2023/workshop-and-co-located-event-instructions   
+ 2) https://conf.researchr.org/getImage/icse-2023/orig/Presenter+Information+.pdf   
+   
+ Submission  
+   
+ Three types of submissions are invited for both research and industry:  
+ 1. Regular Papers (up to 10 pages plus 2 additional pages of references)   
+ Research Paper 
+  Industrial Case Study 
+  2. Short Papers (up to 4 pages plus 1 additional page of references)   
+ Research Paper 
+  Industrial Case Study 
+  Doctoral Student Research 
+  3. Industrial Abstracts (up to 2 pages for all materials)   
+ Instructions:  Regular papers include both Research papers that present research in the area of software test automation, and Industrial Case Studies that report on practical applications of test automation. Regular papers must not exceed 10 pages for all materials (including the main text, appendices, figures, tables) plus 2 additional pages of references.  
+ Short papers also include both Research papers and Industrial Case Studies. Short papers must not exceed 4 pages plus 1 additional page of references. As short papers, doctoral students working on software testing are encouraged to submit their work. AST will have an independent session to bring doctoral students working on software testing, with experts assigned to each paper together, to discuss their research in a constructive and international atmosphere, and to prepare for the defense exam. The first author in a submission must be the doctoral student and the second author the advisor. Authors of selected submissions will be invited to make a brief presentation followed by a constructive discussion in a session dedicated to doctoral students.  
+ Industrial abstract talks are specifically conceived to promote industrial participation: We require the first author of such papers to come from industry. Authors of accepted papers get invited to give a talk with the same time length and within the same sessions as regular papers. Industrial abstracts must not exceed 2 pages for all materials.  
+ The submission website is:  https://easychair.org/conferences/?conf=ast2023   
+ All submissions must adhere to the following requirements:  
+ The page limit is strict (10 pages plus 2 additional pages of references for full papers; 4 pages plus 1 additional page of references for short papers; 2 pages for all materials in case of industrial abstracts). It will not be possible to purchase additional pages at any point in the process (including after acceptance). 
+  Submissions must strictly conform to the | IEEE formatting instructions | . All submissions must be in PDF. 
+  Submissions must be unpublished original work and should not be under review or submitted elsewhere while being under consideration. AST 2023 will follow the single-blind review process. In addition, by submitting to AST, authors acknowledge that they are aware of and agree to be bound by the | ACM Policy and Procedures on Plagiarism | and the | IEEE Plagiarism FAQ | . The authors also acknowledge that they conform to the | authorship policy of the ACM | and the | authorship policy of the IEEE | . 
+  The accepted regular and short papers, case studies, and industrial abstracts will be published in the ICSE 2023 Co-located Event Proceedings and included in the IEEE and ACM Digital Libraries. Authors of accepted papers are required to register and present their accepted paper at the conference in order for the paper to be included in the proceedings and the Digital Libraries.  
+ The official publication date is the date the proceedings are made available in the ACM or IEEE Digital Libraries.  
+ This date may be up to two weeks prior to the first day of ICSE 2023. The official publication date affects the deadline for any patent filings related to published work.  
+   
+ Keynotes  
+   
+ Keynote 1: Lessons from 10 Years of Automated Debugging Research   
+ Track  AST 2023 (Keynotes)    
+   
+ Abstract  The last decade or so has seen dramatic developments in automated debugging, including fault localisation and automated program repair. This talk will look back at 10 years of my experience from working on automated debugging, starting from evolving Spectrum Based Fault Localisation, culminating to the latest work on failure reproduction using Large Language Models. We will look at how serendipitous encounters led to new ideas, how getting slightly outside your comfort zone can help you, and how best we can collaborate with industry in order to transfer our research.  
+
+ Bio  Shin Yoo is Associate Professor in the School of Computing, Korea Advanced Institute of Science and Technology (KAIST). He received his PhD from King’s College London in 2009. His research interests include search based software engineering, software testing, fault localisation, and genetic improvements. He received the ACM SIGEVO HUMIES Silver Medal in 2017 for the human competitive application of genetic programming to fault localisation research. He is currently an associate editor for IET Software, Journal of Empirical Software Engineering, and ACM Transactions on Software Engineering and Methodology. He regularly serves in program committees of international conferences in the area of software engineering and software testing. He was the Program Co-chair of International Symposium on Search Based Software Engineering (SSBSE) in 2014, and the Program Co-chair of IEEE International Conference on Software Testing, Verification and Validation (ICST) in 2018. He is the Program Co-chair of ICSE New Ideas and Emerging Results (NIER) track in 2020.  
+
+  Shin Yoo Keynote Speaker    
+ KAIST   
+
+ Slides   Slides    
+
+  Keynote 2: Automatic for the People   
+ Track  AST 2023 (Keynotes)    
+   
+ Abstract  Software testing is one of the key activities to achieve software quality in practice. To that end, both researchers and tool builders have made considerable efforts to make software testing more efficient and more effective. We have the tools, but where do we put our money? In other words, what do we know about software engineers or software testers that actually write and execute tests? What stimulates them, what blocks them, and what do they need from tools, documentation, production code, or their team?  
+
+ Bio  Andy Zaidman is a full professor at Delft University of Technology, the Netherlands. He received his MSc and PhD from the University of Antwerp, Belgium. He has been at Delft University of Technology since 2006.  
+ His research interests include software testing, software evolution and software analytics. He is an active member of the research community and has been involved in the organisation of conferences such as ICSME, WCRE (general chair & program chair), CSMR, VISSOFT (program chair) and MSR (general chair). In 2015 he gave a talk a TEDxDelft “Making Testing Fun”.  
+ In 2013 he received a prestigious NWO Vidi career grant from NWO, the Dutch science foundation, for his work in the area of software testing and software evolution. In 2019, he received the Vici career grant, the most prestigious career grant from the Dutch science foundation.  
+ Follow me on Twitter @azaidman   
+
+  Andy Zaidman Keynote Speaker    
+ Delft University of Technology   
+
+ Slides   Slides    
+
+ Registration  
+   
+ Please refer to the ICSE Registration page.   
+   
+ Previous Editions  
+   
+ 2022 - Pittsburgh, USA 
+  2021 - Virtual (originally in Madrid, Spain) 
+  2020 - Seoul - South Korea 
+  2019 - Montreal - Canada 
+  2018 - Gothenburg - Sweden 
+  2017 - Buenos Aires - Argentina 
+  2016 - Austin - Texas 
+  2015 - Firenze - Italy 
+  2014 - Hyderabad - India 
+  2013 - San Jose California - USA 
+  2012 - Zurich - Switzerland 
+  2011 - Waikiki - Hawaii 
+  2010 - Cape Town - South Africa 
+  2009 - Vancouver - Canada 
+  2008 - Leipzig - Germany 
+  2007 - Minneapolis - USA 
+  2006 - Shanghai - China 
+    
+ Awards  
+   
+ AST 2023 Best Paper Awards   
+ AST 2023 Best Paper Award: | Milos Ojdanic, Ahmed Khanfir, Aayush Garg, Renzo Degiovanni, Mike Papadakis, and Yves Le Traon. | On Comparing Mutation Testing Tools through Learning-based Mutant Selection 
+  AST 2023 1st Runner- up Paper Award: | Antonia Bertolino, Guglielmo De Angelis, Felicita Di Giandomenico and Francesca Lonetti. | Cross-coverage testing of functionally equivalent programs 
+  AST 2023 2nd Runner-up Paper Award: | Ranim Khojah, Chi Hong Chao and Francisco Gomes de Oliveira Neto. | Evaluating the Trade-offs of Text-based Diversity in Test Prioritization 
+   PC Reviewer Stars   
+ Xavier Devroey 
+  Lin Chen 
+  José Miguel Rojas 
+  Xiang Gao 
+
+ Questions? Use the AST contact form  .    
+    
+ Important Dates   AoE     
+
+ Mon 15 - Tue 16 May 2023  
+  Conference 
+ Fri 17 Mar 2023  
+  Camera ready deadline 
+ Thu 2 Mar 2023  
+  Notification of acceptance 
+ Mon 30 Jan 2023  
+  Submission deadline (extended) 
+
+ Submission Link   
+   
+   https://easychair.org/my/conference?conf=ast2023     
+   
+ Organizing Committee    
+   
+ Mehrdad Saadatmand General Chair    
+ RISE Research Institutes of Sweden   
+ Sweden 
+  Chunrong Fang Program Co-Chair    
+ Nanjing University   
+ China 
+  Sigrid Eldh Program Co-Chair    
+ Ericsson AB, Mälardalen University, Carleton Unviersity   
+ Sweden 
+  Li Li Program Co-Chair    
+ Beihang University   
+ China 
+  Alejandra Garrido Proceedings Chair    
+ LIFIA, University of La Plata & CONICET, Argentina 
+  Muhammad Abbas Web and Publicity chair    
+ RISE Research Institutes of Sweden AB   
+ Sweden 
+    
+ Program Committee    
+   
+ Shaukat Ali    
+ Simula Research Laboratory   
+ Norway 
+  Cyrille Artho    
+ KTH Royal Institute of Technology, Sweden 
+  Jeremy Bradbury    
+ Ontario Tech University   
+ Canada 
+  Lin Chen    
+ Nanjing University   
+ China 
+  Steve Counsell    
+ Brunel University London   
+ United Kingdom 
+  Xuan-Bach D. Le    
+ The University of Melbourne 
+  Serge Demeyer    
+ University of Antwerp; Flanders Make   
+ Belgium 
+  Xavier Devroey    
+ University of Namur   
+ Belgium 
+  Zhen Dong    
+ Fudan University, China   
+ China 
+  Eduard Paul Enoiu    
+ Mälardalen University   
+ Sweden 
+  Michael Felderer    
+ German Aerospace Center (DLR)   
+ Germany 
+  Xiang Gao    
+ Beihang University, China   
+ China 
+  Vahid Garousi    
+ Queen's University Belfast   
+ United Kingdom 
+  Sinem Getir Yaman    
+ University of York, UK   
+ United Kingdom 
+  Rahul Gopinath    
+ University of Sydney   
+ Australia 
+  Robert Hierons    
+ University of Sheffield   
+ United Kingdom 
+  Rubing Huang    
+ Macau University of Science and Technology (MUST)   
+ China 
+  Muhammad Zohaib Iqbal    
+ Quest Lab   
+ Pakistan 
+  Yvan Labiche    
+ Carleton University 
+  Yves Le Traon    
+ University of Luxembourg, Luxembourg   
+ Luxembourg 
+  Mahshid Helali Moghadam    
+ Scania CV AB   
+ Sweden 
+  Mika Mäntylä    
+ University of Oulu   
+ Finland 
+  Ana Paiva    
+ Faculty of Engineering, University of Porto and INESC TEC   
+ Portugal 
+  Gilles Perrouin    
+ Fonds de la Recherche Scientifique - FNRS & University of Namur   
+ Belgium 
+  Goran Petrović    
+ Google Inc 
+  Ivan Porres    
+ Åbo Akademi University   
+ Finland 
+  Rudolf Ramler    
+ Software Competence Center Hagenberg   
+ Austria 
+  José Miguel Rojas    
+ The University of Sheffield   
+ United Kingdom 
+  Seung Yeob Shin    
+ University of Luxembourg 
+  Yulei Sui    
+ University of New South Wales, Sydney   
+ Australia 
+  Xiaoyu Sun    
+ Australian National University, Australia   
+ Australia 
+  Tanja E. J. Vos    
+ Universitat Politècnica de València and Open Universiteit 
+  Ziyuan Wang    
+ Nanjing University of Posts and Telecommunications 
+  Franz Wotawa    
+ Graz University of Technology   
+ Austria 
+  Jingwei Xu 
+  Yinxing Xue    
+ University of Science and Technology of China   
+ China 
+  Guowei Yang    
+ University of Queensland   
+ Australia 
+  Juan Zhai    
+ Rutgers University 
+  Man Zhang    
+ Kristiania University 
+  Zhiyi Zhang    
+ Nanjing University of Aeronautics and Astronautics 
+  Weiqin Zou    
+ Nanjing University 
+    
+ Steering Committee    
+   
+ Fevzi Belli    
+ Paderborn University, Germany   
+ Germany 
+  Antonia Bertolino    
+ National Research Council, Italy   
+ Italy 
+  Christof J. Budnik    
+ Siemens Corporation, Corporate Technology   
+ United States 
+  Shing-Chi Cheung    
+ Hong Kong University of Science and Technology   
+ China 
+  Jenny Li    
+ Kean University, USA 
+  Steve Masticola    
+ Siemens, USA 
+  W. Eric Wong    
+ University of Texas at Dallas   
+ United States 
+  Hong Zhu    
+ Oxford Brookes University   
+ United Kingdom 
+
+ x  Mon 25 Nov 08:29    
+
+  AST 2023   
+  using conf.researchr.org  ( v1.67.1  )  
+   Support page    
+     
+ Tracks  
+ AST 2023    
+
+ Attending  
+ Venue: Melbourne Convention Exhibition Centre | MCEC   
+  Keynotes   
+  Melbourne   
+  Victoria   
+  Australia   
+  Code of Conduct   
+  Diversity and Inclusion Plan   
+  Main Conference In-Person Presenter Instructions   
+  Main Conference Virtual Presenter Instructions   
+  Workshop and Co-Located Event Instructions   
+  Session Chair Instructions   
+  Venue Floor Map   
+  Accommodation   
+  Registration   
+  Visa Letter of Invitation   
+  Social Events   
+  Recruitment Opportunities at ICSE 2023   
+  IEEE Computer Society Open Conference Statement   
+  Travel Support   
+  Childcare Support    
+ Sign Up

@@ -1,0 +1,617 @@
+PPoPP 2023   Sat 25 February - Wed 1 March 2023 Montreal, Canada    
+
+ Toggle navigation        
+ Attending | Venue: Hotel Bonaventure Montreal 
+  Registration 
+  Visa Information 
+  Code of Conduct 
+  Student Travel Grant 
+  Local Info 
+  Program | PPoPP Program 
+  Your Program 
+   Sat 25 Feb 
+  Sun 26 Feb 
+  Mon 27 Feb 
+  Tue 28 Feb 
+  Wed 1 Mar 
+  Tracks | PPoPP 2023 
+  Keynotes 
+  Main Conference 
+  Workshops and Tutorials 
+  Artifact Evaluation 
+  Co-located Conferences 
+  Organization | PPoPP 2023 Committees 
+  Organizing Committee 
+  Steering Committee 
+  Track Committees 
+  Main Conference 
+  Workshops and Tutorials 
+  Artifact Evaluation 
+  Contributors 
+  People Index 
+  Search 
+  Series | Series 
+   PPoPP 2025 
+  PPoPP 2024 
+  PPoPP 2023 
+  PPoPP 2022 
+  PPoPP 2021 
+  PPoPP 2020 
+  PPoPP 2019 
+  PPoPP 2018 
+  PPoPP 2017 
+  PPoPP 2016 
+  PPoPP 2015 
+  PPoPP 2014 
+  PPoPP 2013 
+  PPoPP 2012 
+  PPoPP 2011 
+  PPoPP 2010 
+  PPoPP 2009 
+  Sign in 
+  Sign up 
+
+  PPoPP 2023  ( series  ) /  Main Conference PPoPP 2023   
+   
+ About 
+  Program 
+  Accepted Papers 
+  Call for Papers 
+  PPoPP is the premier forum for leading work on all aspects of parallel programming, including theoretical foundations, techniques, languages, compilers, runtime systems, tools, and practical experience. In the context of the symposium, “parallel programming” encompasses work on concurrent and parallel systems (multicore, multi-threaded, heterogeneous, clustered, and distributed systems; grids; datacenters; clouds; and large scale machines). Given the rise of parallel architectures in the consumer market (desktops, laptops, and mobile devices) and data centers, PPoPP is particularly interested in work that addresses new parallel workloads and issues that arise out of extreme-scale applications or cloud platforms, as well as techniques and tools that improve the productivity of parallel programming or work towards improved synergy with such emerging architectures.  
+ Proceedings will be available in the ACM Digital Library.  
+   
+ Dates    
+
+ Plenary    
+
+   Program Display Configuration  
+   
+   Time Zone   
+   
+ The program is currently displayed in (GMT-05:00) Eastern Time (US & Canada)  .   Use conference time zone: (GMT-05:00) Eastern Time (US & Canada)    Select other time zone   (GMT-12:00) AoE (Anywhere On Earth)  (GMT-11:00) Midway Island, Samoa  (GMT-10:00) Hawaii-Aleutian  (GMT-10:00) Hawaii  (GMT-09:30) Marquesas Islands  (GMT-09:00) Gambier Islands  (GMT-09:00) Alaska  (GMT-08:00) Tijuana, Baja California  (GMT-08:00) Pitcairn Islands  (GMT-08:00) Pacific Time (US & Canada)  (GMT-07:00) Mountain Time (US & Canada)  (GMT-06:00) Chihuahua, La Paz, Mazatlan  (GMT-07:00) Arizona  (GMT-06:00) Saskatchewan, Central America  (GMT-05:00) Guadalajara, Mexico City, Monterrey  (GMT-05:00) Easter Island  (GMT-06:00) Central Time (US & Canada)  (GMT-05:00) Eastern Time (US & Canada)  (GMT-05:00) Cuba  (GMT-05:00) Bogota, Lima, Quito, Rio Branco  (GMT-04:00) Caracas  (GMT-03:00) Santiago  (GMT-04:00) La Paz  (GMT-03:00) Faukland Islands  (GMT-04:00) Manaus, Amazonas, Brazil  (GMT-04:00) Atlantic Time (Goose Bay)  (GMT-04:00) Atlantic Time (Canada)  (GMT-03:30) Newfoundland  (GMT-03:00) UTC-3  (GMT-03:00) Montevideo  (GMT-03:00) Miquelon, St. Pierre  (GMT-03:00) Greenland  (GMT-03:00) Buenos Aires  (GMT-03:00) Brasilia, Distrito Federal, Brazil  (GMT-02:00) Mid-Atlantic  (GMT-01:00) Cape Verde Is.  (GMT-01:00) Azores  (UTC) Coordinated Universal Time  (GMT) Belfast  (GMT) Dublin  (GMT) Lisbon  (GMT) London  (GMT) Monrovia, Reykjavik  (GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna  (GMT+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague  (GMT+01:00) Brussels, Copenhagen, Madrid, Paris  (GMT+01:00) West Central Africa  (GMT+02:00) Windhoek  (GMT+02:00) Athens  (GMT+02:00) Beirut  (GMT+02:00) Cairo  (GMT+02:00) Gaza  (GMT+02:00) Harare, Pretoria  (GMT+02:00) Jerusalem  (GMT+03:00) Minsk  (GMT+03:00) Syria  (GMT+03:00) Moscow, St. Petersburg, Volgograd  (GMT+03:00) Nairobi  (GMT+03:30) Tehran  (GMT+04:00) Abu Dhabi, Muscat  (GMT+04:00) Yerevan  (GMT+04:30) Kabul  (GMT+05:00) Ekaterinburg  (GMT+05:00) Tashkent  (GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi  (GMT+05:45) Kathmandu  (GMT+06:00) Astana, Dhaka  (GMT+07:00) Novosibirsk  (GMT+06:30) Yangon (Rangoon)  (GMT+07:00) Bangkok, Hanoi, Jakarta  (GMT+07:00) Krasnoyarsk  (GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi  (GMT+08:00) Irkutsk, Ulaan Bataar  (GMT+08:00) Perth  (GMT+08:45) Eucla  (GMT+09:00) Osaka, Sapporo, Tokyo  (GMT+09:00) Seoul  (GMT+09:00) Yakutsk  (GMT+10:30) Adelaide  (GMT+09:30) Darwin  (GMT+10:00) Brisbane  (GMT+11:00) Hobart  (GMT+10:00) Vladivostok  (GMT+11:00) Lord Howe Island  (GMT+11:00) Solomon Is., New Caledonia  (GMT+11:00) Magadan  (GMT+12:00) Norfolk Island  (GMT+12:00) Anadyr, Kamchatka  (GMT+13:00) Auckland, Wellington  (GMT+12:00) Fiji, Kamchatka, Marshall Is.  (GMT+13:45) Chatham Islands  (GMT+13:00) Nuku'alofa  (GMT+14:00) Kiritimati     
+
+   The GMT offsets shown reflect the offsets at the moment of the conference  .     
+   
+ Time Band   
+   
+ By setting a time band, the program will dim events that are outside this time window. This is useful for (virtual) conferences with a continuous program (with repeated sessions).  
+  The time band will also limit the events that are included in the personal iCalendar subscription service.   Display full program    Specify a time band   -      
+
+  Save    
+
+  Close    
+
+ ×    You're viewing the program in a time zone which is different from your device's time zone change time zone     
+
+ Sun 26 Feb   
+  
+ Displayed time zone: Eastern Time (US & Canada)  change      
+
+ 18:00 - 20:00 | Reception and Poster Session Main Conference   at Salon Ville-Marie 
+ 18:00   
+ 2h    
+ Poster | POSTER: Stream-K: Work-centric Parallel Decomposition for Dense Matrix-Matrix Multiplication on the GPU   Main Conference   
+ Muhammad Osama  University of California, Davis  , Duane Merrill  NVIDIA Corporation  , Cris Cecka  NVIDIA Corporation  , Michael Garland  NVIDIA  , John D. Owens  University of California, Davis    
+  Pre-print 
+ 18:00   
+ 2h    
+ Poster | POSTER: Unexpected Scaling in Path Copying Trees   Main Conference   
+ Vitaly Aksenov  Inria & ITMO University  , Trevor Brown  University of Toronto  , Alexander Fedorov  IST Austria  , Ilya Kokorin  ITMO University 
+ 18:00   
+ 2h    
+ Poster | POSTER: Transactional Composition of Nonblocking Data Structures   Main Conference   
+ Wentao Cai  University of Rochester  , Haosen Wen  University of Rochester  , Michael L. Scott  University of Rochester 
+ 18:00   
+ 2h    
+ Poster | POSTER: The ERA Theorem for Safe Memory Reclamation   Main Conference   
+ Gali Sheffi  Technion - Israel  , Erez Petrank  Technion 
+ 18:00   
+ 2h    
+ Poster | POSTER: AArch64 Atomics: Might they be harming your performance?   Main Conference   
+ Ricardo Jesus  EPCC, The University of Edinburgh  , Michele Weiland  EPCC, The University of Edinburgh 
+ 18:00   
+ 2h    
+ Poster | POSTER: Fast Parallel Exact Inference on Bayesian Networks   Main Conference   
+ Jiantong Jiang  The University of Western Australia  , Zeyi Wen  The Hong Kong University of Science and Technology (Guangzhou)  , Atif Mansoor  The University of Western Australia  , Ajmal Mian  The University of Western Australia 
+ 18:00   
+ 2h    
+ Poster | POSTER: High-Throughput GPU Random Walk with Fine-tuned Concurrent Query Processing   Main Conference   
+ Cheng Xu  Shanghai Jiao Tong University  , Chao Li  Shanghai Jiao Tong University  , Pengyu Wang  Shanghai Jiao Tong University  , Xiaofeng Hou  Hong Kong University of Science and Technology  , Jing Wang  Shanghai Jiao Tong University  , Shixuan Sun  National University of Singapore  , Minyi Guo  Shanghai Jiao Tong University  , Hanqing Wu  Alibaba Inc  , Dongbai Chen  Alibaba Inc  , Xiangwen Liu  Alibaba Inc 
+ 18:00   
+ 2h    
+ Poster | POSTER: Efficient All-reduce for Distributed DNN Training in Optical Interconnect Systems   Main Conference   
+ Fei Dai  University of Otago  , Yawen Chen  University of Otago  , Zhiyi Huang  University of Otago  , Haibo Zhang  University of Otago  , Fangfang Zhang  Qilu University of Technology 
+ 18:00   
+ 2h    
+ Poster | POSTER: CuPBoP: A framework to make CUDA portable   Main Conference   
+ Ruobing Han  Georgia Institute of Technology  , Jun Chen  Georgia Institute of Technology  , Bhanu Garg  Georgia Institute of Technology  , Jeffrey Young  Georgia Institute of Technology  , Jaewoong Sim  Seoul National University  , Hyesoon Kim  Georgia Tech 
+ 18:00   
+ 2h    
+ Poster | POSTER: Generating Fast FFT Kernels on CPUs via FFT-Specific Intrinsics   Main Conference   
+ Zhihao Li  SKLP, Institute of Computing Technology, CAS  , Haipeng Jia  SKLP, Institute of Computing Technology, CAS  , Yunquan Zhang  SKLP, Institute of Computing Technology, CAS  , Yuyan Sun  Huawei Technologies Co., Ltd  , Yiwei Zhang  SKLP, Institute of Computing Technology, CAS  , Tun Chen  SKLP, Institute of Computing Technology, CAS 
+ 18:00   
+ 2h    
+ Poster | POSTER: Learning to Parallelize in a Shared-Memory Environment with Transformers   Main Conference   
+ Re'em Harel   , Yuval Pinter   , Gal Oren  Technion - Israel Institute of Technology    
+  Pre-print 
+
+ Mon 27 Feb   
+  
+ Displayed time zone: Eastern Time (US & Canada)  change      
+
+ 07:45 - 08:10 | Coffee/Tea Catering    
+  (food not provided) 
+ 07:45   
+ 25m    
+ Coffee break | Coffee/Tea   Catering 
+
+ 08:10 - 08:30 | Welcome Main Conference   at Montreal 4 
+
+ 09:30 - 10:00 | Coffee break Catering 
+ 09:30   
+ 30m    
+ Coffee break | Break   Catering 
+
+ 10:00 - 12:00 | Session 1: Principles Main Conference   at Montreal 4   
+  Chair(s): Erez Petrank  Technion 
+ 10:00   
+ 20m    
+ Talk | Boosting Performance and QoS for Concurrent GPU B+trees by Combining-based Synchronization   Main Conference   
+ Weihua Zhang  Fudan University  , Chuanlei Zhao  Fudan University  , Lu Peng  Tulane University  , Yuzhe Lin  Fudan University  , Fengzhe Zhang  Fudan University  , Yunping Lu  Fudan University 
+ 10:20   
+ 20m    
+ Talk | The State-of-the-Art LCRQ Concurrent Queue Algorithm Does NOT Require CAS2   Main Conference   
+ Nikita Koval  JetBrains  , Raed Romanov  Higher School of Economics 
+ 10:40   
+ 20m    
+ Talk | Provably Good Randomized Strategies for Data Placement in Distributed Key-Value Stores   Main Conference   
+ Zhe Wang  Washington University in St. Louis  , Jinhao Zhao  Washington University in St. Louis  , Kunal Agrawal  Washington University in St. Louis, USA  , Jing Li  New Jersey Institute of Technology  , He Liu  Apple Inc.  , Meng Xu  Apple Inc. 
+ 11:00   
+ 20m    
+ Talk | 2PLSF: Two-Phase Locking with Starvation-Freedom   Main Conference   
+ Pedro Ramalhete  Cisco Systems  , Andreia Correia  University of Neuchâtel  , Pascal Felber  University of Neuchâtel 
+ 11:20   
+ 20m    
+ Talk | Provably Fast and Space-Efficient Parallel Biconnectivity   Main Conference   
+ Xiaojun Dong  University of California, Riverside  , Letong Wang  University of California, Riverside  , Yan Gu  UC Riverside  , Yihan Sun  University of California, Riverside 
+ 11:40   
+ 20m    
+ Talk | Practically and Theoretically Efficient Garbage Collection for Multiversioning   Main Conference   
+ Yuanhao Wei  Carnegie Mellon University, USA  , Guy E. Blelloch  Carnegie Mellon University, USA  , Panagiota Fatourou  FORTH ICS and University of Crete, Greece  , Eric Ruppert  York University 
+
+ 12:00 - 13:50 | Lunch Catering   at St-Laurent 1-2 
+ 12:00   
+ 1h50m    
+ Lunch | Lunch   Catering 
+
+ 13:50 - 15:10 | Session 2: Programming Main Conference   at Montreal 4   
+  Chair(s): Michael Scott  University of Rochester 
+ 13:50   
+ 20m    
+ Talk | A Programming Model for GPU Load Balancing   Main Conference   
+ Muhammad Osama  University of California, Davis  , Serban D. Porumbescu  University of California, Davis  , John D. Owens  University of California, Davis 
+ 14:10   
+ 20m    
+ Talk | Exploring the Use of WebAssembly in HPC   Main Conference   
+ Mohak Chadha  Chair of Computer Architecture and Parallel Systems, Technical University of Munich  , Nils Krueger  Chair of Computer Architecture and Parallel Systems, Technical University of Munich  , Jophin John  Chair of Computer Architecture and Parallel Systems, Technical University of Munich  , Anshul Jindal  Chair of Computer Architecture and Parallel Systems, Technical University of Munich  , Michael Gerndt  TUM  , Shajulin Benedict  Indian Institute of Information Technology Kottayam, Kerala, India 
+ 14:30   
+ 20m    
+ Talk | Fast and Scalable Channels in Kotlin Coroutines   Main Conference   
+ Nikita Koval  JetBrains  , Dan Alistarh  IST Austria  , Roman Elizarov  JetBrains 
+ 14:50   
+ 20m    
+ Talk | High-Performance GPU-to-CPU Transpilation and Optimization via High-Level Parallel Constructs   Main Conference   
+ William S. Moses  Massachusetts Institute of Technology  , Ivan Radanov Ivanov  Tokyo Institute of Technology  , Jens Domke  RIKEN Center for Computational Science  , Toshio Endo  Tokyo Institute of Technology  , Johannes Doerfert  Lawrence Livermore National Laboratory  , Oleksandr Zinenko  Google 
+
+ 15:10 - 15:40 | Coffee break Catering 
+ 15:10   
+ 30m    
+ Coffee break | Break   Catering 
+
+ 15:40 - 17:00 | Session 3: Practice Main Conference   at Montreal 4   
+  Chair(s): I-Ting Angelina Lee  Washington University in St. Louis, USA 
+ 15:40   
+ 20m    
+ Talk | A Scalable Hybrid Total FETI Method for Massively Parallel FEM Simulations   Main Conference   
+ Kehao Lin  Hangzhou Dianzi University  , Chunbao Zhou  Computer Network Information Center, Chinese Academy of Sciences  , Yan Zeng  Hangzhou Dianzi University  , Ningming Nie  Computer Network Information Center, Chinese Academy of Sciences  , Jue Wang  Computer Network Information Center, Chinese Academy of Sciences  , Shigang Li  Beijing University of Posts and Telecommunications  , Yangde Feng  Computer Network Information Center, Chinese Academy of Sciences  , Yangang Wang  Computer Network Information Center, Chinese Academy of Sciences  , Kehan Yao  Hangzhou Dianzi University  , Tiechui Yao  Computer Network Information Center, Chinese Academy of Sciences  , Jilin Zhang  Hangzhou Dianzi University  , Jian Wan  Hangzhou Dianzi University 
+ 16:00   
+ 20m    
+ Talk | Lifetime-based Optimization for Simulating Quantum Circuits on a New Sunway Supercomputer   Main Conference   
+ Yaojian Chen  Tsinghua University  , Yong Liu  National Supercomputer center in wuxi  , Xinmin Shi  Information Engineering University  , Jiawei Song  National Supercomputer center in wuxi  , Xin Liu  National Supercomputer center in wuxi  , Lin Gan  Tsinghua University  , Chu Guo  Information Engineering University  , Haohuan Fu  Tsinghua University  , Jie Gao  National Research Centre of Parallel Engineering and Technology  , Dexun Chen  National Supercomputer center in wuxi  , Guangwen Yang  Tsinghua University 
+ 16:20   
+ 20m    
+ Talk | High-Performance Filters for GPUs   Main Conference   
+ Hunter James McCoy  University of Utah  , Steven Hofmeyr  Lawrence Berkeley National Laboratory  , Katherine Yelick  University of California at Berkeley & Lawrence Berkeley National Lab  , Prashant Pandey  University of Utah 
+ 16:40   
+ 20m    
+ Talk | High-Performance and Scalable Agent-Based Simulation with BioDynaMo   Main Conference   
+ Lukas Breitwieser  European Organization for Nuclear Research (CERN), ETH Zurich  , Ahmad Hesam  Delft University of Technology  , Fons Rademakers  European Organization for Nuclear Research (CERN)  , Juan Gómez Luna  ETH Zurich  , Onur Mutlu  ETH Zurich    
+  Pre-print   Media Attached 
+
+ 17:00 - 18:00 | Business Meeting Main Conference   at Montreal 4 
+
+ Tue 28 Feb   
+  
+ Displayed time zone: Eastern Time (US & Canada)  change      
+
+ 09:30 - 10:00 | Coffee break Catering 
+ 09:30   
+ 30m    
+ Coffee break | Break   Catering 
+
+ 10:00 - 11:40 | Session 4: Parallelism Main Conference   at Montreal 4   
+  Chair(s): Gagan Agrawal  The Ohio State University 
+ 10:00   
+ 20m    
+ Talk | OpenCilk: A Modular and Extensible Software Infrastructure for Fast Task-Parallel Code   Main Conference   
+ TB Schardl  MIT CSAIL  , I-Ting Angelina Lee  Washington University in St. Louis, USA 
+ 10:20   
+ 20m    
+ Talk | Merchandiser: Data Placement on Heterogeneous Memory for Task-Parallel HPC Applications with Load-Balance Awareness   Main Conference   
+ Zhen Xie  Argonne National Laboratory  , Jie Liu  University of California, Merced  , Jiajia Li  North Carolina State University  , Dong Li  University of California, Merced 
+ 10:40   
+ 20m    
+ Talk | Visibility Algorithms for Dynamic Dependence Analysis and Distributed Coherence   Main Conference   
+ Michael Bauer  NVIDIA  , Elliott Slaughter  SLAC National Accelerator Laboratory  , Sean Treichler  NVIDIA  , Wonchan Lee  NVIDIA  , Michael Garland  NVIDIA  , Alex Aiken  Stanford University 
+ 11:00   
+ 20m    
+ Talk | Block-STM: Scaling Blockchain Execution by Turning Ordering Curse to a Performance Blessing   Main Conference   
+ Rati Gelashvili  Aptos  , Alexander Spiegelman  Aptos  , Zhuolun Xiang  Aptos  , George Danezis  Mysten Labs & University College London  , Zekun Li  Aptos  , Dahlia Malkhi  Chainlink Labs  , Yu Xia  MIT  , Runtian Zhou  Aptos 
+ 11:20   
+ 20m    
+ Talk | TL4x - Buffered Durable Transactions on Disk as Fast as in Memory   Main Conference   
+ Gal Assa  Technion  , Andreia Correia  University of Neuchâtel  , Pedro Ramalhete  Cisco Systems  , Valerio Schiavoni  University of Neuchatel  , Pascal Felber  University of Neuchâtel 
+
+ 12:00 - 13:50 | Lunch Catering   at St-Laurent 1-2 
+ 12:00   
+ 1h50m    
+ Lunch | Lunch   Catering 
+
+ 13:50 - 15:10 | Session 5: Decompositions Main Conference   at Montreal 4   
+  Chair(s): Milind Chabbi  Uber Technologies Inc. 
+ 13:50   
+ 20m    
+ Talk | TDC: Towards Extremely Efficient CNNs on GPUs via Hardware-Aware Tucker Decomposition   Main Conference   
+ Lizhi Xiang  University of utah  , Miao Yin  Rutgers University  , Chengming Zhang  Indiana University  , Aravind Sukumaran-Rajam  Meta  , Saday Sadayappan  University of Utah, USA  , Bo Yuan  Rutgers University  , Dingwen Tao  Indiana University 
+ 14:10   
+ 20m    
+ Talk | Improving Energy Saving of One-sided Matrix Decompositions on CPU-GPU Heterogeneous Systems   Main Conference   
+ Jieyang Chen  University of Alabama at Birmingham  , Xin Liang  University of Kentucky  , Kai Zhao  University of Alabama at Birmingham  , Hadi Zamani Sabzi  University of California Riverside  , Laxmi Bhuyan  University of California, Riverside  , zizhong chen  University of California, Riverside 
+ 14:30   
+ 20m    
+ Talk | End-to-End LU Factorization of Large Matrices on GPUs   Main Conference   
+ Yang Xia   , Peng Jiang  The University of Iowa  , Rajiv Ramnath  The Ohio State University  , Gagan Agrawal  Augusta University 
+ 14:50   
+ 20m    
+ Talk | Fast Eigenvalue Decomposition via WY Representation on Tensor Core   Main Conference   
+ Shaoshuai Zhang  University of Houston  , Ruchi Shah  University of Houston  , Hiroyuki Ootomo  Tokyo Institute of Technology  , Rio Yokota  Tokyo Institute of Technology  , Panruo Wu  University of Houston 
+
+ 15:10 - 15:40 | Coffee break Catering 
+ 15:10   
+ 30m    
+ Coffee break | Break   Catering 
+
+ 15:40 - 16:40 | Session 6: Kernels Main Conference   at Montreal 4   
+  Chair(s): Martin Kong  The Ohio State University 
+ 15:40   
+ 20m    
+ Talk | iQAN: Fast and Accurate Vector Search with Efficient Intra-Query Parallelism on Multi-Core Architectures   Main Conference   
+ Zhen Peng  William & Mary  , Minjia Zhang  Microsoft Research  , Kai Li  Kent State University  , Ruoming Jin  Kent State University  , Bin Ren  College of William & Mary 
+ 16:00   
+ 20m    
+ Talk | WISE: Predicting the Performance of Sparse Matrix Vector Multiplication with Machine Learning   Main Conference   
+ Serif Yesil  University of Illinois Urbana-Champaign  , Azin Heidarshenas  University of Illinois Urbana-Champaign  , Adam Morrison  Tel Aviv University  , Josep Torrellas  University of Illinois at Urbana-Champaign 
+ 16:20   
+ 20m    
+ Talk | Efficient Direct Convolution Using Long SIMD Instructions   Main Conference   
+ Alexandre Santana  Barcelona Supercomputing Center  , Adrià Armejach Sanosa  Barcelona Supercomputing Center & Universitat Politècnica de Catalunya  , Marc Casas  Barcelona Supercomputing Center 
+
+ 16:40 - 18:00 | Break Main Conference 
+
+ 18:00 - 22:00 | Banquet Main Conference   at St-Laurent 1-2 
+
+ Wed 1 Mar   
+  
+ Displayed time zone: Eastern Time (US & Canada)  change      
+
+ 09:30 - 10:00 | Coffee break Catering 
+ 09:30   
+ 30m    
+ Coffee break | Break   Catering 
+
+ 10:00 - 11:40 | Session 7: Machine Learning Main Conference   at Montreal 4   
+  Chair(s): Milind Kulkarni  Purdue University 
+ 10:00   
+ 20m    
+ Talk | TGOpt: Redundancy-Aware Optimizations for Temporal Graph Attention Networks   Main Conference   
+ Yufeng Wang  University of Illinois at Urbana-Champaign  , Charith Mendis  University of Illinois at Urbana-Champaign 
+ 10:20   
+ 20m    
+ Talk | Dynamic N:M Fine-grained Structured Sparse Attention Mechanism   Main Conference   
+ Zhaodong Chen  University of California, Santa Barbara  , Zheng Qu  University of California, Santa Barbara  , Yuying Quan  University of California, Santa Barbara  , Liu Liu   , Yufei Ding  UC Santa Barbara  , Yuan Xie  UCSB 
+ 10:40   
+ 20m    
+ Talk | Elastic Averaging for Efficient Pipelined DNN Training   Main Conference   
+ Zihao Chen  East China Normal University  , Chen Xu  East China Normal University  , Weining Qian  East China Normal University  , Aoying Zhou  East China Normal University 
+ 11:00   
+ 20m    
+ Talk | DSP: Efficient GNN Training with Multiple GPUs   Main Conference   
+ Zhenkun Cai  The Chinese University of Hong Kong  , Qihui Zhou  The Chinese University of Hong Kong  , Xiao Yan  Southern University of Science and Technology  , Da Zheng  Amazon Web Services  , Xiang Song  Amazon Web Services  , Chenguang Zheng  The Chinese University of Hong Kong  , James Cheng  The Chinese University of Hong Kong  , George Karypis  Amazon Web Services 
+ 11:20   
+ 20m    
+ Talk | PiPAD: Pipelined and Parallel Dynamic GNN Training on GPUs   Main Conference   
+ Chunyang Wang  Beihang University  , Desen Sun  Beihang University  , Yuebin Bai  Beihang University 
+
+ 12:00 - 12:20 | Closing Main Conference   at Montreal 4 
+
+ Accepted Papers  
+  
+ Title 
+ 2PLSF: Two-Phase Locking with Starvation-Freedom  Main Conference   
+ Pedro Ramalhete  , Andreia Correia  , Pascal Felber 
+ A Programming Model for GPU Load Balancing  Main Conference   
+ Muhammad Osama  , Serban D. Porumbescu  , John D. Owens 
+ A Scalable Hybrid Total FETI Method for Massively Parallel FEM Simulations  Main Conference   
+ Kehao Lin  , Chunbao Zhou  , Yan Zeng  , Ningming Nie  , Jue Wang  , Shigang Li  , Yangde Feng  , Yangang Wang  , Kehan Yao  , Tiechui Yao  , Jilin Zhang  , Jian Wan 
+ Block-STM: Scaling Blockchain Execution by Turning Ordering Curse to a Performance Blessing  Main Conference   
+ Rati Gelashvili  , Alexander Spiegelman  , Zhuolun Xiang  , George Danezis  , Zekun Li  , Dahlia Malkhi  , Yu Xia  , Runtian Zhou 
+ Boosting Performance and QoS for Concurrent GPU B+trees by Combining-based Synchronization  Main Conference   
+ Weihua Zhang  , Chuanlei Zhao  , Lu Peng  , Yuzhe Lin  , Fengzhe Zhang  , Yunping Lu 
+ DSP: Efficient GNN Training with Multiple GPUs  Main Conference   
+ Zhenkun Cai  , Qihui Zhou  , Xiao Yan  , Da Zheng  , Xiang Song  , Chenguang Zheng  , James Cheng  , George Karypis 
+ Dynamic N:M Fine-grained Structured Sparse Attention Mechanism  Main Conference   
+ Zhaodong Chen  , Zheng Qu  , Yuying Quan  , Liu Liu  , Yufei Ding  , Yuan Xie 
+ Efficient Direct Convolution Using Long SIMD Instructions  Main Conference   
+ Alexandre Santana  , Adrià Armejach Sanosa  , Marc Casas 
+ Elastic Averaging for Efficient Pipelined DNN Training  Main Conference   
+ Zihao Chen  , Chen Xu  , Weining Qian  , Aoying Zhou 
+ End-to-End LU Factorization of Large Matrices on GPUs  Main Conference   
+ Yang Xia  , Peng Jiang  , Rajiv Ramnath  , Gagan Agrawal 
+ Exploring the Use of WebAssembly in HPC  Main Conference   
+ Mohak Chadha  , Nils Krueger  , Jophin John  , Anshul Jindal  , Michael Gerndt  , Shajulin Benedict 
+ Fast and Scalable Channels in Kotlin Coroutines  Main Conference   
+ Nikita Koval  , Dan Alistarh  , Roman Elizarov 
+ Fast Eigenvalue Decomposition via WY Representation on Tensor Core  Main Conference   
+ Shaoshuai Zhang  , Ruchi Shah  , Hiroyuki Ootomo  , Rio Yokota  , Panruo Wu 
+ High-Performance and Scalable Agent-Based Simulation with BioDynaMo  Main Conference   
+ Lukas Breitwieser  , Ahmad Hesam  , Fons Rademakers  , Juan Gómez Luna  , Onur Mutlu    
+  Pre-print   Media Attached 
+ High-Performance Filters for GPUs  Main Conference   
+ Hunter James McCoy  , Steven Hofmeyr  , Katherine Yelick  , Prashant Pandey 
+ High-Performance GPU-to-CPU Transpilation and Optimization via High-Level Parallel Constructs  Main Conference   
+ William S. Moses  , Ivan Radanov Ivanov  , Jens Domke  , Toshio Endo  , Johannes Doerfert  , Oleksandr Zinenko 
+ Improving Energy Saving of One-sided Matrix Decompositions on CPU-GPU Heterogeneous Systems  Main Conference   
+ Jieyang Chen  , Xin Liang  , Kai Zhao  , Hadi Zamani Sabzi  , Laxmi Bhuyan  , zizhong chen 
+ iQAN: Fast and Accurate Vector Search with Efficient Intra-Query Parallelism on Multi-Core Architectures  Main Conference   
+ Zhen Peng  , Minjia Zhang  , Kai Li  , Ruoming Jin  , Bin Ren 
+ Lifetime-based Optimization for Simulating Quantum Circuits on a New Sunway Supercomputer  Main Conference   
+ Yaojian Chen  , Yong Liu  , Xinmin Shi  , Jiawei Song  , Xin Liu  , Lin Gan  , Chu Guo  , Haohuan Fu  , Jie Gao  , Dexun Chen  , Guangwen Yang 
+ Merchandiser: Data Placement on Heterogeneous Memory for Task-Parallel HPC Applications with Load-Balance Awareness  Main Conference   
+ Zhen Xie  , Jie Liu  , Jiajia Li  , Dong Li 
+ OpenCilk: A Modular and Extensible Software Infrastructure for Fast Task-Parallel Code  Main Conference   
+ TB Schardl  , I-Ting Angelina Lee 
+ PiPAD: Pipelined and Parallel Dynamic GNN Training on GPUs  Main Conference   
+ Chunyang Wang  , Desen Sun  , Yuebin Bai 
+ Practically and Theoretically Efficient Garbage Collection for Multiversioning  Main Conference   
+ Yuanhao Wei  , Guy E. Blelloch  , Panagiota Fatourou  , Eric Ruppert 
+ Provably Fast and Space-Efficient Parallel Biconnectivity  Main Conference   
+ Xiaojun Dong  , Letong Wang  , Yan Gu  , Yihan Sun 
+ Provably Good Randomized Strategies for Data Placement in Distributed Key-Value Stores  Main Conference   
+ Zhe Wang  , Jinhao Zhao  , Kunal Agrawal  , Jing Li  , He Liu  , Meng Xu 
+ TDC: Towards Extremely Efficient CNNs on GPUs via Hardware-Aware Tucker Decomposition  Main Conference   
+ Lizhi Xiang  , Miao Yin  , Chengming Zhang  , Aravind Sukumaran-Rajam  , Saday Sadayappan  , Bo Yuan  , Dingwen Tao 
+ TGOpt: Redundancy-Aware Optimizations for Temporal Graph Attention Networks  Main Conference   
+ Yufeng Wang  , Charith Mendis 
+ The State-of-the-Art LCRQ Concurrent Queue Algorithm Does NOT Require CAS2  Main Conference   
+ Nikita Koval  , Raed Romanov 
+ TL4x - Buffered Durable Transactions on Disk as Fast as in Memory  Main Conference   
+ Gal Assa  , Andreia Correia  , Pedro Ramalhete  , Valerio Schiavoni  , Pascal Felber 
+ Visibility Algorithms for Dynamic Dependence Analysis and Distributed Coherence  Main Conference   
+ Michael Bauer  , Elliott Slaughter  , Sean Treichler  , Wonchan Lee  , Michael Garland  , Alex Aiken 
+ WISE: Predicting the Performance of Sparse Matrix Vector Multiplication with Machine Learning  Main Conference   
+ Serif Yesil  , Azin Heidarshenas  , Adam Morrison  , Josep Torrellas 
+
+ Call for Papers  
+  
+ PPoPP 2023: 28th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming  
+ Montreal, Canada. (collocated with CC-2023, HPCA-2023 and CGO-2023) Dates: 25 February - 1 March, 2023.  
+ Submission URL: https://ppopp23.hotcrp.com   
+ Important dates:   
+ Full paper submission: August 17, 2022 
+  Author response period: October 26–October 28, 2022 
+  Author notification: November 7, 2022 
+  Artifact submission to AE committee: November 16, 2022 
+  Artifact notification by AE committee: December 30, 2022 
+  Final paper due: January 6, 2023 
+  All deadlines are at midnight anywhere on earth (AoE), and are firm.  
+ Scope:   
+ PPoPP is the premier forum for leading work on all aspects of parallel programming, including theoretical foundations, techniques, languages, compilers, runtime systems, tools, and practical experience. In the context of the symposium, “parallel programming” encompasses work on concurrent and parallel systems (multicore, multi-threaded, heterogeneous, clustered, and distributed systems; grids; data centers; clouds; and large scale machines). Given the rise of parallel architectures in the consumer market (desktops, laptops, and mobile devices) and data centers, PPoPP is particularly interested in work that addresses new parallel workloads and issues that arise out of extreme-scale applications or cloud platforms, as well as techniques and tools that improve the productivity of parallel programming or work towards improved synergy with such emerging architectures.  
+ Specific topics of interest include (but are not limited to):  
+ Compilers and runtime systems for parallel and heterogeneous systems 
+  Concurrent data structures 
+  Development, analysis, or management tools 
+  Fault tolerance for parallel systems 
+  Formal analysis and verification 
+  High-performance / scientific computing 
+  Libraries 
+  Middleware for parallel systems 
+  Parallel algorithms 
+  Parallel applications and frameworks 
+  Parallel programming for deep memory hierarchies including nonvolatile memory 
+  Parallel programming languages 
+  Parallel programming theory and models 
+  Parallelism in non-scientific workloads: web, search, analytics, cloud, machine learning 
+  Performance analysis, debugging and optimization 
+  Programming tools for parallel and heterogeneous systems 
+  Software engineering for parallel programs 
+  Software for heterogeneous architectures 
+  Software productivity for parallel programming 
+  Synchronization and concurrency control 
+  Papers should report on original research relevant to parallel programming and should contain enough background materials to make them accessible to the entire parallel programming research community. Papers describing experience should indicate how they illustrate general principles or lead to new insights; papers about parallel programming foundations should indicate how they relate to practice. PPoPP submissions will be evaluated based on their technical merit and accessibility. Submissions should clearly motivate the importance of the problem being addressed, compare to the existing body of work on the topic, and explicitly and precisely state the paper’s key contributions and results towards addressing the problem. Submissions should strive to be accessible both to a broad audience and to experts in the area.  
+ Paper Submission:   
+ Conference submission site: https://ppopp23.hotcrp.com  .  
+ All submissions must be made electronically through the conference web site and include an abstract (100–400 words), author contact information, the full list of authors and their affiliations. Full paper submissions must be in PDF formatted printable on both A4 and US letter size paper.  
+ All papers must be prepared in ACM Conference Format using the 2-column  acmart  format: use the SIGPLAN proceedings template acmart-sigplanproc-template.tex  for Latex,and interim-layout.docx  for Word. You may also want to consult the official ACM information on the Master Article Template  and related tools. Important note: The Word template (interim-layout.docx) on the ACM website uses 9pt font; you need to increase it to 10pt.  
+ Papers should contain a maximum of 10 pages of text (in a typeface no smaller than 10 point) or figures, NOT INCLUDING references. There is no page limit for references and they must include the name of all authors (not {et al.}). Appendices are not allowed, but the authors may submit supplementary material, such as proofs or source code; all supplementary material must be in PDF or ZIP format. Looking at supplementary material is at the discretion of the reviewers.  
+ Submission is double blind and authors will need to identify any potential conflicts of interest with PC and Extended Review Committee members, as defined here: http://www.sigplan.org/Resources/Policies/Review/  (ACM SIGPLAN policy).  
+ PPoPP 2023 will employ a double-blind reviewing process. To facilitate this process, submissions should not reveal the identity of the authors in any way. Authors should leave out author names and affiliations from the body of their submission. They should also ensure that any references to authors’ own related work should be in the third person (e.g., not “We build on our previous work …” but rather “We build on the work of …”). The purpose of this process is to help the PC and external reviewers come to an initial judgment about the paper without bias, not to make it impossible for them to discover the authors if they were to try. Nothing should be done in the name of anonymity that weakens the submission or makes the job of reviewing the paper more difficult. In particular, important background references should not be omitted or anonymized. In addition, authors should feel free to disseminate their ideas or draft versions of their paper as they normally would. For instance, authors may post drafts of their papers on the web or give talks on their research ideas. Authors with further questions on double-blind reviewing are encouraged to contact the Program Chairs by email.  
+ Submissions should be in PDF and printable on both US Letter and A4 paper. Papers may be resubmitted to the submission site multiple times up until the deadline, but the last version submitted before the deadline will be the version reviewed. Papers that exceed the length requirement, that deviate from the expected format, or that are submitted late will be rejected.  
+ All submissions that are not accepted for regular presentations will be automatically considered for posters. Two-page summaries of accepted posters will be included in the conference proceedings.  
+ To allow reproducibility, we encourage authors of accepted papers to submit their papers for Artifact Evaluation (AE). The AE process begins after the acceptance notification, and is run by a separate committee whose task is to assess how the artifacts support the work described in the papers. Artifact evaluation is voluntary and will not affect paper acceptance, but will be taken into consideration when selecting papers for awards. Papers that go through the AE process successfully will receive one or several of the ACM reproducibility badges, printed on the papers themselves. More information will be posted on the AE website.  
+ Deadlines expire at midnight anywhere on earth.  
+ Publication Date:   
+ The titles of all accepted papers are typically announced shortly after the author notification date (late November 2022). Note, however, that this is not the official publication date. The official publication date is the date the proceedings are made available in the ACM Digital Library. ACM will make the proceedings available via the Digital Library for one month, up to 2 weeks prior to the first day of the conference. The official publication date affects the deadline for any patent filings related to published work.  
+ ACM Publications Policies:   
+ By submitting your article to an ACM Publication, you are hereby acknowledging that you and your co-authors are subject to all ACM Publications Policies, including ACM’s new Publications Policy on Research Involving Human Participants and Subjects. Alleged violations of this policy or any ACM Publications Policy will be investigated by ACM and may result in a full retraction of your paper, in addition to other potential penalties, as per ACM Publications Policy." https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects   
+ Please ensure that you and your co-authors obtain an ORCID ID, so you can complete the publishing process for your accepted paper. ACM has been involved in ORCID from the start and we have recently made a commitment to collect ORCID IDs from all of our published authors. The collection process has started and will roll out as a requirement throughout 2022. We are committed to improve author discoverability, ensure proper attribution and contribute to ongoing community efforts around name normalization; your ORCID ID will help in these efforts.  
+
+ Important Dates   AoE (UTC-12h)     
+
+ Fri 6 Jan 2023  
+  Final paper due 
+ Mon 7 Nov 2022  
+  Author notification 
+ Wed 26 - Fri 28 Oct 2022  
+  Author response period 
+ Wed 17 Aug 2022   
+  Full paper submission 
+
+ Submission Link   
+   
+   https://ppopp23.hotcrp.com     
+   
+ Program Committee    
+   
+ Sriram Krishnamoorthy Program Co-Chair    
+ Pacific Northwest National Laboratories 
+  Milind Kulkarni Program Co-Chair    
+ Purdue University   
+ United States 
+  Christophe Alias PC Member    
+ INRIA 
+  Naama Ben-David PC Member    
+ VMWare Research 
+  Swarnendu Biswas PC Member    
+ IIT Kanpur   
+ India 
+  Michael D. Bond PC Member    
+ Ohio State University, USA 
+  Aydin Buluc PC Member    
+ University of California at Berkeley & Lawrence Berkeley National Lab 
+  Sebastian Burckhardt PC Member    
+ Microsoft Research   
+ United States 
+  Milind Chabbi PC Member    
+ Uber Technologies Inc.   
+ United States 
+  Laxman Dhulipala PC Member    
+ University of Maryland, College Park 
+  Patrick Eugster PC Member    
+ USI Lugano; Purdue University   
+ Switzerland 
+  Jeremy Fineman PC Member    
+ Georgetown 
+  Michal Friedman PC Member    
+ ETH Zurich, Switzerland 
+  Tobias Grosser PC Member    
+ University of Edinburgh   
+ United Kingdom 
+  Rachid Guerraoui PC Member    
+ EPFL 
+  Giulia Guidi PC Member    
+ University of California at Berkeley & Lawrence Berkeley National Lab   
+ United States 
+  Troels Henriksen PC Member    
+ University of Copenhagen, Denmark   
+ Denmark 
+  Changhee Jung PC Member    
+ Purdue University, USA 
+  Fredrik Kjolstad PC Member    
+ Stanford University   
+ United States 
+  Martin Kong PC Member    
+ The Ohio State University   
+ United States 
+  I-Ting Angelina Lee PC Member    
+ Washington University in St. Louis, USA 
+  Jaejin Lee PC Member    
+ Seoul National University, South Korea 
+  Jiajia Li PC Member    
+ North Carolina State University   
+ United States 
+  Xu Liu PC Member    
+ North Carolina State University   
+ United States 
+  Kanak Mahadik PC Member    
+ Adobe Research 
+  Santosh Nagarakatte PC Member    
+ Rutgers University   
+ United States 
+  Cosmin Oancea PC Member    
+ University of Copenhagen, Denmark   
+ Denmark 
+  Ivy Bo Peng PC Member    
+ KTH Royal Institute of Technology   
+ Sweden 
+  Erez Petrank PC Member    
+ Technion   
+ Israel 
+  Jacques Pienaar PC Member    
+ Google, USA 
+  Louis-Noël Pouchet PC Member    
+ Colorado State University, USA 
+  Paruj Ratanaworabhan PC Member    
+ Kasetsart University   
+ Thailand 
+  Tim Rogers PC Member    
+ Purdue U. 
+  Julian Shun PC Member    
+ MIT 
+  Shuaiwen Leon Song PC Member    
+ University of Sydney   
+ Australia 
+  Guangming Tan PC Member    
+ Chinese Academy of Sciences(CAS) 
+  Kenjiro Taura PC Member    
+ The University of Tokyo   
+ Japan 
+  Jyothi Vedurada PC Member    
+ IIT Hyderabad   
+ India 
+  Yuanhao Wei PC Member    
+ Carnegie Mellon University, USA 
+  Alexandra Jimborean ERC member    
+ University of Murcia   
+ Spain 
+  Frank Mueller ERC member    
+ North Carolina State University, USA 
+  Madan Musuvathi ERC member    
+ Microsoft Research 
+  Marc Shapiro ERC member    
+ Sorbonne-Université (LIP6) & Inria   
+ France 
+  Didem Unat ERC member    
+ Koç University 
+
+ x  Mon 25 Nov 09:52    
+
+  PPoPP 2023   
+  contact form    
+  using conf.researchr.org  ( v1.67.1  )  
+   Support page    
+     
+ Tracks  
+ Keynotes   
+  Main Conference   
+  Workshops and Tutorials   
+  Artifact Evaluation   
+  Co-located Conferences    
+
+ Attending  
+ Venue: Hotel Bonaventure Montreal   
+  Registration   
+  Visa Information   
+  Code of Conduct   
+  Student Travel Grant   
+  Local Info    
+ Sign Up

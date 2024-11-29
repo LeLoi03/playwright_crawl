@@ -1,0 +1,222 @@
+Home 
+  CCS30 
+  Workshops 
+  Keynotes 
+  Call For | Call For Artifacts 
+  Call For Paper 
+  Call For Posters 
+  Call For Sponsors 
+  Call For Workshops 
+  Attending | Venue Location 
+  Venue Navigator 
+  Student Travel Grants 
+  Visa Letter 
+  Registration 
+  Hotel Offers 
+  Childcare 
+  Travel Guide 
+  Program 
+  Proceedings | CCS Conference '23 
+  AISEC '23 
+  ARTMAN '23 
+  ASHES '23 
+  CCSW '23 
+  CPSIoTSec '23 
+  MTD '23 
+  SaTS '23 
+  SCORED '23 
+  WAHC '23 
+  WPES '23 
+  HEPack4ML '23 
+  Photo Album 
+  Organization | Organizing Committee 
+  Program Committee 
+  Poster Committee 
+  AE Committee 
+  Code | Code of Conduct 
+  Diversity and Inclusion 
+
+ Call For Paper  
+   
+ Last Update : [2 September, 2023]  
+
+ The 30th ACM Conference on Computer and Communications Security (CCS) seeks submissions presenting novel contributions related to all real-world aspects of computer security and privacy. Theoretical papers must make a convincing case for the relevance of their results to practice. Authors are encouraged to write the abstract and introduction of their paper in a way that makes the results accessible and compelling to a general computer-security researcher. In particular, authors should bear in mind that anyone on the program committee may be asked to review any paper.  
+
+ CCS has 2 Review Cycles   
+ In 2023.   
+    
+ For each submission,  
+  one of the following decisions will be made:  
+    
+ Accept  
+   
+ Papers in this category will be accepted for publication in the proceedings and presentation at the conference possibly after making minor changes with the oversight of a shepherd.  
+
+ Minor Revision  
+   
+ Papers in this category are considered to be promising but need some minor additional work (e.g., minor experiments, proofs to minor lemmas). Authors will be given the opportunity to resubmit such papers, with appropriate revisions, in which case they should clearly explain in a well-marked appendix how the revisions address the comments of the reviewers. The revised paper will then be re-evaluated, and either accepted or rejected.  
+
+ Reject  
+   
+ Papers in this category are declined for inclusion in the conference. Papers rejected from the first review cycle may not be submitted again (even in revised form) to the second review cycle.  
+
+ Authors of each accepted paper must ensure that at least one author registers for the conference, and that their paper is presented in-person at the conference if at all possible.   
+
+ Important Dates  
+ and Deadlines  
+    
+ Quick Overview:  
+    
+ 19 January, 2023 [First Review Cycle]   
+   
+ The submission deadline of the first round review.   
+  Submit your paper at https://ccs2023a.hotcrp.com/    
+
+ 4 May, 2023 [Second Review Cycle]   
+   
+ The submission deadline of the second round review.   
+  Submit your paper at https://ccs2023b.hotcrp.com/    
+
+ First Review Cycle:  
+ 19 January, 2023  : Paper Submission Deadline  
+  Submission Site: https://ccs2023a.hotcrp.com 
+  17 March, 2023:  Author Notification 
+    
+ Second Review Cycle:  
+ 4 May, 2023  : Paper Submission Deadline  
+  Submission Site: https://ccs2023b.hotcrp.com 
+  3 June, 2023  : Early Reject Notification 
+  23 - 27 June, 2023  : Author Rebuttal 
+  28 June - 7 July, 2023  : Optional Reviewer-Author Interaction 
+  2 September, 2023  : Author Notification 
+
+ Paper Submission  
+ Information  
+    
+ Quick Overview:  
+    
+ 11:59 PM AoE / (UTC-12)   
+   
+ Submission must be received by 11:59 PM AoE (UTC-12) on the day of the corresponding deadline.   
+
+ No Double Submission  
+   
+ Submitted papers must not substantially overlap with papers that have been published or accepted for publication or that are simultaneously in submission to a journal, conference, or workshop with published proceedings.  
+
+ Must be anonymized  
+   
+ All submission should be properly anonymized; papers not properly anonymized may be rejected without review.  
+
+ All submissions must be received by 11:59 PM AoE (UTC-12) on the day of the corresponding deadline. Submitted papers must not substantially overlap with papers that have been published or accepted for publication, or that are simultaneously in submission to a journal, conference, or workshop with published proceedings. All submissions should be properly anonymized; papers not properly anonymized may be rejected without review.  
+ All submitted papers will be evaluated based on their merits, particularly their importance to practical aspects of computer and communications security and privacy, novelty, quality of execution, and presentation. For papers that might raise ethical concerns, authors are expected to convince reviewers that proper procedures (such as IRB approval or responsible disclosure) have been followed, and due diligence has been made to minimize potential harm.  
+ Submitted papers may be rejected for being out of scope, at the discretion of the PC chairs. Authors who have questions about whether their paper is in scope are encouraged to ask the PC chairs in advance.  
+
+ Paper Format  
+    
+ Quick Overview:  
+    
+ PDF File Format  
+   
+ Submission must be converted or readied in PDF File Format. Please contact your IT service provider if you have any difficulties on preparing your submission(s).  
+
+ Double-Column ACM format (Sigconf style)   
+   
+ Please refer ACM Proceedings Template  for more information.  
+
+ 12 Pages Maximum   
+   
+ Bibliography, Well-marked Appendices, and Supplementary Material are excluded.  
+
+ Submissions must be a PDF file in double-column ACM format  (see ACM Proceedings Template  , using the sigconf style  ), no more than 12 pages long  , excluding the bibliography, well-marked appendices, and supplementary material. Note that reviewers are not required to read the appendices or any supplementary material. Authors should not change the font or the margins of the ACM format. Submissions not following the required format may be rejected without review.  
+
+ Providing Artifacts at Submission Time  
+ Submissions whose claimed contributions rely on artifacts (e.g., code, models, data sets) are expected to make these accessible to the reviewers, unless there are good reasons not to, in which case these reasons must be mentioned in the submission.  
+ Submissions whose claimed contributions do not rely on artifacts do not need to submit artifacts.  
+
+ Optional Artifact Evaluation (New!)   
+ A published scientific paper consists of a constellation of artifacts that extend beyond the document itself: software, hardware, evaluation data and documentation, raw survey results, mechanized proofs, models, test suites, benchmarks, and so on. To emphasize the importance of such artifacts, the benefits to the authors and the community as a whole, and promote the reproducibility of experimental results, ACM CCS will, for the first time, introduce an optional artifact evaluation (AE) process, inspired by similar efforts at several other conferences. All authors of accepted papers (including shepherd approved and minor revisions) are encouraged to submit artifacts for AE.  
+ Each artifact submitted will be reviewed by the Artifact Evaluation Committee (AEC); a special call for artifacts will follow in early January.   
+
+ Program Committee Chairs  
+ Email: ccs2023-pcchairs@cispa.de  
+
+ Cas Cremers  
+    
+ CISPA Helmholtz Center for Information Security  
+
+ Engin Kirda  
+    
+ Northeastern University  
+
+ Track Chairs  
+
+ Manuel Egele  
+    
+ Boston University  
+ Software Security  
+
+ Nick Nikiforakis  
+    
+ Stony Brook University  
+ Web Security  
+
+ Leyla Bilge  
+    
+ NortonLifeLock Research Group  
+ Network Security  
+
+ Steve Kremer  
+    
+ Inria  
+ Formal Methods and Programming Languages  
+
+ Veelasha Moonsamy  
+    
+ Ruhr University Bochum  
+ Hardware, Side Channels, and Cyber-Physical Systems  
+
+ Dario Fiore  
+    
+ IMDEA Software Institute  
+ Applied Cryptography  
+
+ Selcuk Uluagac  
+    
+ Florida International University  
+ Machine Learning and Security  
+
+ Elissa Redmiles  
+    
+ Max Planck Institute  
+ Security Usability and Measurement  
+
+ Ghassan Karame  
+    
+ Ruhr-University Bochum  
+ Blockchain and Distributed Systems  
+
+ Rob Jansen  
+    
+ U.S. Naval Research Laboratory  
+ Privacy and Anonymity  
+
+ ACM CCS 2023 features a multi-track format. Each track operates as a separate mini-conference, with its own Track Program Chair and Track Program Committee. The overall process is managed by the Conference Co-Chairs (Cas Cremers and Engin Kirda).  
+ At the time of submission, authors must select one track, which should be the most relevant to the topic of the paper. We understand that some papers might span multiple topics. In specific cases, PC members might be asked to provide reviews for papers outside their track, in an effort to provide the best possible reviews to the authors. The chairs may decide to move a paper to another track.  
+
+ Conflicts of Interest  
+ The conference requires cooperation from both authors and program-committee members to ensure a fair review process. For this purpose, authors must report all program-committee members who, in their opinion, have a conflict of interest and therefore may not be able to provide an unbiased review.  
+ Mandatory declared conflicts of interest include current or former doctoral advisor/advisee, members of the same institution, close family members, and recent co-authors (within the past 2 years). For any other declared conflict, authors are required to explain the nature of the conflict, which will be reviewed by the Conference Co-Chairs and the Track Chairs. The chairs reserve the right to request further explanation and can remove non-mandatory conflicts at their discretion.  
+ Track Chairs are allowed to submit papers, and those papers will be handled by the Conference Co-Chairs. They are only allowed to submit two papers in their own track, and any number in other tracks.  
+ Program-committee members who have a genuine conflict of interest with a paper, including the Conference Co-Chairs and the Track Chairs, will be excluded from evaluation and discussion of that paper. When a Track Chair has a conflict, the paper will be handled by the Conference Co-Chairs. When a Conference Co-Chair is conflicted, the other Co-Chair will be responsible for managing that paper. When both Conference Co-Chairs are in conflict, a committee member will be appointed to handle the paper. Conference Co-Chairs are not allowed to be authors or co-authors of any submissions.  
+
+ Policy for Peer-Review Integrity  
+ All SIGSAC sponsored conferences and workshops are required to follow ACM policies against harassment activities  and ACM Code of Ethics and Professional Conduct.  Also all authors, PC members and non-PC reviewers are required to follow ACM Publications Policies.   
+ Particularly, we require all reviewers to uphold the integrity of the peer review process and avoid conflict of interest of any form (e.g., reviewer collusion ring). Those who violate these policies will be penalized according to ACM policies  . If you would like to report a violation, please contact program chairs of your conferences/workshops or SIGSAC officers. We are committed to protecting the confidentiality of your communication.  
+
+ Diversity and Inclusion  
+ ACM CCS is committed to promoting diversity and inclusion in our community. If you have suggestions, concerns, or complaints related to biases or sexual harassment, we encourage you to reach out to the Conference Co-Chairs. We are committed to protecting the anonymity of such reports and helping to address your concerns. We value your feedback and ideas to help us all build a healthier and more welcoming community.  
+ We encourage the authors to be mindful of not using language or examples that further the marginalization, stereotyping, or erasure of any group of people, especially historically marginalized and/or under-represented groups (URGs) in computing. Of course, exclusionary treatment can arise unintentionally. Be vigilant and actively guard against such issues in your writing. Reviewers will also be empowered to monitor and demand changes if such issues arise in your submissions. Please check the link   for more information.  
+
+ Copyright © 2022-2023 ACM/SIGSAC.  
+   
+ DTU Compute

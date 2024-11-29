@@ -1,0 +1,613 @@
+REGISTRATION 
+  SUBMISSION | Call For Papers 
+  Call For Workshop Proposals 
+  COMMITTEES | Organizing Committee 
+  Program Committee 
+  CONFERENCE | Keynotes 
+  Program 
+  Venue 
+  Panel 
+  Industrial Talks 
+  Social Events 
+  Photos 
+  CO-LOCATED EVENTS | WSCAD 2023 
+  HPCDL 2023 
+  WCC 2023 
+  WAMCA 2023 
+  PAST EDITIONS 
+
+ Promoted by:   
+      
+ Photographer Zé Carlos de Andrade    
+ SBAC-PAD 2023  
+ 35th IEEE International Symposium on Computer Architecture and High Performance Computing  
+  
+  October 17-20, 2023 — Porto Alegre, Brazil   
+
+  Program  
+  
+  Program Overview  
+
+ Time | Tuesday, October 17 | Wednesday, October 18 | Thursday, October 19 | Friday, October 20 
+ 08:00 | Registration | Registration | Registration | Registration 
+ 09:00 | HPC/DL | WAMCA | WSCAD Tutorials (1, 2, and 3) | SBAC-PAD 1 | WSCAD 1 | WSCAD WIC 1 | SBAC-PAD 4 | WSCAD 4 | WSCAD CTD 1 | SBAC-PAD 7 | WSCAD 7 
+ 10:30 | Coffee-break | Coffee-break | Coffee-break | Coffee-break 
+ 11:00 | HPC/DL | WAMCA | WSCAD Tutorials (1, 2, and 3) | Keynote - Ivona Brandic | Keynote - Bronson Messer | Keynote - Alba Cristina Magalhaes Alves de Melo 
+ 12:00 | Lunch (Not included) | Lunch (Not included) | Lunch (Not included) | Lunch (Not included) 
+ 13:30 | HPC/DL | WCC | WSCAD Tutorials (4, 5, and 6) | SBAC-PAD 2 | WSCAD 2 | WSCAD WIC 2 | SBAC-PAD 5 | WSCAD 5 | WSCAD CTD 2 | SBAC-PAD 8 
+ 14:30 | Closing Session 
+ 15:00 | Coffee-break | Coffee-break | Coffee-break 
+ 15:30 | HPC/DL | WCC | WSCAD Tutorials (4, 5, and 6) | SBAC-PAD 3 | WSCAD 3 | WSCAD WEAC | Industrial Talk 2 (Lenovo) |  
+ 16:30 | SBAC-PAD 6 | WSCAD 6 | CEACPAD Meeting 
+ 17:00 | Opening Session | Industrial Talk 1 (Dell) 
+ 17:30 | Panel: HPC Investments in Brazil 
+ 18:00 | Philippe O. A. Navaux - Academic Trajectory |  
+ 18:30 |  
+ 19:30 | Cocktail | Dinner 
+ 22:30 |  
+
+  Program Details  
+
+  Tuesday, October 17  
+  08:00  Foyer   
+   
+ Registration  
+
+  09:00  Auditorium   
+   
+ HPC/DL   
+ 09:00 - 09:15   
+ Opening Session  
+   
+ 09:15 - 10:30   
+ Developing Efficient Scientific Gateways for Supercomputer Environments Supported by Deep Learning Models  
+ Speaker  : Prof. Carla Osthoff (LNCC)  
+ The scientific gateway BioinfoPortal for bioinformatics applications is hosted in the National Laboratory for Scientific Computing (LNCC) and is coupled to the Santos Dumont (SDumont) supercomputer environment. BioinfoPortal offers a catalog of bioinformatics computational software that benefits from the parallel and distributed architecture offered by LNCC. Task submissions consume SDumont nodes shared by other supercomputer users; then, it is required to set the best configuration, defined by the best choice of the number of threads/nodes, to be allocated for every task submission. This talk presents research analysis using Deep Neural Networks to estimate the computational time required to execute bioinformatics software in several scenarios using a pre-configured number of nodes and threads. We aim to demonstrate the computational behavior of software in Bioinfoportal and which computational scenario can be chosen to execute software in SDumont efficiently. Results support that the neural networks can predict the most representative variable and identify the configuration with the lowest computational time. This way, BioinforPortal consuming time can lead to an efficient and green gateway, increasing Santos Dumont Supercomputing execution job throughput and decreasing job execution queue waiting time.  
+
+  09:00  Room 501   
+   
+ WAMCA   
+ 09:00 - 09:50   
+ Session 1 - Compilation and Performance  
+ Chair  : Claude Tadonki (MINES ParisTech - PSL)  
+ DASS: Dynamic Adaptive Sub-Target Specialization   
+ Tyler Gobran (University of Alberta, Canada), João P. L. de Carvalho (University of Alberta, Canada), Christopher Barton (IBM Corporation, Canada), Quinn Pham (University of Alberta, Canada), José Nelson Amaral (University of Alberta, Canada), Nemanja Ivanovic (IBM Corporation, Canada)   
+ Analyzing C++ Stream Parallelism in Shared-Memory when Porting to Flink and Storm   
+ Renato B. Hoffmann (Pontifical Catholic University of Rio Grande do Sul), Leonardo G. Faé (Pontifical Catholic University of Rio Grande do Sul), Isabel H. Manssour (Pontifical Catholic University of Rio Grande do Sul), Dalvan Griebler (Pontifical Catholic University of Rio Grande do Sul)   
+   
+ 09:50 - 10:40   
+ Session 2 - Shared Memory Management  
+ Chair  : Claude Tadonki (MINES ParisTech - PSL)  
+ A Source-to-Source NUMA Profiling Approach   
+ Leticia S.F. Machado (Universidade Federal de São Carlos), Claude Tadonki (Centre de Recherche en Informatique (CRI) Mines ParisTech - PSL, Fontainebleau, France), Hermes Senger (Universidade Federal de São Carlos)   
+ Energy Consumption Analysis of Instruction Cache Prefetching Methods   
+ Morteza Baradaran (University of Virginia, USA), Ali Ansari (Sharif University of Technology, Iran), Mohammad Sadrosadati (Sharif University of Technology, Iran), Hamid Sarbazi-Azad (Sharif University of Technology, Iran)   
+
+  09:00    
+ WSCAD Tutorials (1, 2, and 3)   
+ 09:00 - 10:30   
+ Processamento e Análise de Big Data e Aplicação de Algoritmos de Machine Learning através da utilização da Plataforma HPCC Systems  
+ Authors  : Mauro Marques (LexisNexis Risk Solutions), Alysson Oliveira (LexisNexis Risk Solutions)  
+ Room 502   
+ Ao longo do minicurso, os participantes terão a oportunidade de conhecer os conceitos essenciais de processamento e análise de volumes massivos de dados (Big Data) e o processo de desenvolvimento de um serviço de consulta fazendo uso da plataforma opensource composta por um Cluster Computacional de Alto Desempenho (HPCC Systems) e, também, a utilização de algoritmos de Aprendizado de Máquina, bem como terão a possibilidade de aplicar os conhecimentos adquiridos em um ambiente de treinamento disponibilizado em sala de aula.  
+   
+ 09:00 - 10:30   
+ Getting up and Running with the OpenMP Cluster Programming Model  
+ Authors  : Emilio Francesquini (Universidade Federal do ABC), Herve Yviquel (UNICAMP) Marcio Pereira (UNICAMP), Sandro Rigo (UNICAMP), Guido Araujo (UNICAMP)  
+ Room 514   
+ The authors will present the new OpenMP Cluster (OMPC) distributed programming model in this tutorial. The OMPC runtime allows the programmer to annotate their code using OpenMP target offloading directives and run the application in a distributed environment seamlessly using a task-based programming model. OMPC is responsible for scheduling tasks to available nodes, transferring input/output data between nodes, and triggering remote execution all the while handling fault tolerance. The runtime leverages the LLVM infrastructure and is implemented using the well-known MPI library.  
+   
+ 09:00 - 10:30   
+ Além do Básico: Otimizando Aplicações Paralelas em Arquiteturas Modernas  
+ Authors  : Arthur Lorenzon (UFRGS)  
+ Room 515   
+ Este minicurso ensina as ferramentas e técnicas fundamentais para otimizar o desempenho e consumo de energia de aplicações escritas em linguagens C/C++, explorando a combinação de diferentes tipos de processadores, como CPUs e GPUs. O minicurso não exige nenhum conhecimento prévio em interfaces de programação paralela, mas requer alguns conhecimentos básicos em C/C++, sistemas operacionais e arquitetura de computadores.  
+
+  10:30  Foyer   
+   
+ Coffee-break  
+
+  11:00  Auditorium   
+   
+ HPC/DL   
+ 11:00 - 12:00   
+ Paper Session 1  
+ Chair  : Flavia Bernardini (UFF) / Edson Borin (UNICAMP)  
+ Assessing the Performance of an Architecture-Aware Optimization Tool for Neural Networks   
+ Raúl Marichal (Universidad de la República, Uruguay), Ernesto Dufrechou (Universidad de la República, Uruguay), Pablo Ezzatti (Universidad de la República, Uruguay)   
+ An Exploratory Study of Deep Learning for Predicting Computational Tasks Behavior in HPC Systems   
+ Alexandre Henrique Lopes Porto (National Laboratory for Scientific Computing), Micaella Coelho (National Laboratory for Scientific Computing), Kary Ocaña (National Laboratory for Scientific Computing), Carla Osthoff (National Laboratory for Scientific Computing), Francieli Boito (University of Bordeaux, CNRS, Bordeaux INP, INRIA, LaBRI), Douglas O. Cardoso (Smart Cities Research Center, Polytechnic Institute of Tomar)   
+
+  11:00  Room 501   
+   
+ WAMCA   
+ 11:00 - 11:40   
+ Session 3 - Accelerators and Checkpointing  
+ Chair  : Claude Tadonki (MINES ParisTech - PSL)  
+ Multi-GPU accelerating strategies of Ant Colony Optimization algorithms using Rank Based and Strong Elitist versions   
+ Juan Aedo (Universidad de La Frontera), Mariela González-Flores (Universidad de Aysén), Andrés Ávila (Universidad de La Frontera)   
+
+  11:00    
+ WSCAD Tutorials (1, 2, and 3)   
+ 11:00 - 12:00   
+ Processamento e Análise de Big Data e Aplicação de Algoritmos de Machine Learning através da utilização da Plataforma HPCC Systems  
+ Authors  : Mauro Marques (LexisNexis Risk Solutions), Alysson Oliveira (LexisNexis Risk Solutions)  
+ Room 502   
+ Ao longo do minicurso, os participantes terão a oportunidade de conhecer os conceitos essenciais de processamento e análise de volumes massivos de dados (Big Data) e o processo de desenvolvimento de um serviço de consulta fazendo uso da plataforma opensource composta por um Cluster Computacional de Alto Desempenho (HPCC Systems) e, também, a utilização de algoritmos de Aprendizado de Máquina, bem como terão a possibilidade de aplicar os conhecimentos adquiridos em um ambiente de treinamento disponibilizado em sala de aula.  
+   
+ 11:00 - 12:00   
+ Getting up and Running with the OpenMP Cluster Programming Model  
+ Authors  : Emilio Francesquini (Universidade Federal do ABC), Herve Yviquel (UNICAMP) Marcio Pereira (UNICAMP), Sandro Rigo (UNICAMP), Guido Araujo (UNICAMP)  
+ Room 514   
+ The authors will present the new OpenMP Cluster (OMPC) distributed programming model in this tutorial. The OMPC runtime allows the programmer to annotate their code using OpenMP target offloading directives and run the application in a distributed environment seamlessly using a task-based programming model. OMPC is responsible for scheduling tasks to available nodes, transferring input/output data between nodes, and triggering remote execution all the while handling fault tolerance. The runtime leverages the LLVM infrastructure and is implemented using the well-known MPI library.  
+   
+ 11:00 - 12:00   
+ Além do Básico: Otimizando Aplicações Paralelas em Arquiteturas Modernas  
+ Authors  : Arthur Lorenzon (UFRGS)  
+ Room 515   
+ Este minicurso ensina as ferramentas e técnicas fundamentais para otimizar o desempenho e consumo de energia de aplicações escritas em linguagens C/C++, explorando a combinação de diferentes tipos de processadores, como CPUs e GPUs. O minicurso não exige nenhum conhecimento prévio em interfaces de programação paralela, mas requer alguns conhecimentos básicos em C/C++, sistemas operacionais e arquitetura de computadores.  
+
+  12:00    
+ Lunch (Not included)  
+
+  13:30  Auditorium   
+   
+ HPC/DL   
+ 13:30 - 15:00   
+ Paper Session 2  
+ Chair  : Flavia Bernardini (UFF) / Edson Borin (UNICAMP)  
+ PINNProv: Provenance for Physics-informed Neural Networks   
+ Lyncoln S. de Oliveira (Federal University of Rio de Janeiro, Brazil; Universidade Federal Fluminense, Brazil), Liliane Kunstmann (Federal University of Rio de Janeiro, Brazil), Débora Pina (Federal University of Rio de Janeiro, Brazil), Daniel de Oliveira (Universidade Federal Fluminense, Brazil), Marta Mattoso (Federal University of Rio de Janeiro, Brazil)   
+ Exploring Federated Learning to Trace Depression in Social Media with Language Models   
+ Arthur Vasconcelos (Universidade Federal Fluminense, Brazil), Lúcia Drummond (Universidade Federal Fluminense, Brazil), Rafaela Brum (Universidade Federal Fluminense, Brazil), Aline Paes (Universidade Federal Fluminense, Brazil)   
+ Computing Seismic Attributes with Deep-Learning Models   
+ Nícolas Hecker (Universidade Estadual de Campinas (UNICAMP), Brazil), Otávio O. Napoli (Universidade Estadual de Campinas (UNICAMP), Brazil), Carlos A. Astudillo (Universidade Estadual de Campinas (UNICAMP), Brazil), João Paulo Navarro (NVIDIA, Brazil), Alan Souza (Petróleo Brasileiro S.A. (PETROBRAS), Brazil), Daniel Miranda (Petróleo Brasileiro S.A. (PETROBRAS), Brazil), Leandro A. Villas (Universidade Estadual de Campinas (UNICAMP), Brazil), Edson Borin (Universidade Estadual de Campinas (UNICAMP), Brazil)   
+
+  13:30  Room 501   
+   
+ WCC   
+ 13:30 - 13:40   
+ Opening Session  
+   
+ 13:40 - 14:20   
+ Bridging the Resource Chasm: Sustainable Structured Parallelism for HPC and Cloud Applications  
+ Speaker  : Horacio González-Vélez  
+ In the ever-evolving landscape of cloud computing and high-performance applications, this talk delves into the critical juncture of HPC and cloud, with special emphasis on key challenges such as Power Consumption, Speed and Energy of Data Movement, Fault Tolerance, and Billion-Way Parallelism. This keynote explores the intersection of cloud computing and high-performance computing from a programmability perspective, shedding light on how they can harmonise to propel us into the next era of sustainability. The discussion will delve into the challenges and opportunities that arise when pushing the boundaries of programmability and performance in the cloud, particularly in the context of Power, Data Movement, Fault Tolerance, and Billion-Way Parallelism. It will address strategies for optimising resources to meet the demanding requirements of high-performance applications, including those in fields such as scientific research and data-intensive workloads, emphasising the importance of programmability, sustainability, energy efficiency, and cost-effectiveness.  
+   
+ 14:20 - 15:00   
+ Technical Session 1  
+ Chair  : Márcio Castro (UFSC) / Philippe O. A. Navaux (UFRGS)  
+ Harnessing Cloud Computing for Geophysical Exploration   
+ Rodrigo C. Machado (UFRGS), Cristiano A. Kunas (UFRGS), Arthur F. Lorenzon (UFRGS), Philippe O. A. Navaux (UFRGS)   
+ Exploring the Serverless First Strategy in Cloud Application Development   
+ Adriano Prado Cavalheiro (UNIPAMPA), Claudio Schepke (UNIPAMPA)   
+
+  13:30    
+ WSCAD Tutorials (4, 5, and 6)   
+ 13:30 - 15:00   
+ Are you Root? Reproducible Experiments in User Space  
+ Authors  : Vinicius Garcia Pinto (UFRGS), Lucas Nesi (UFRGS), Lucas Mello Schnorr (UFRGS)  
+ Room 502   
+ Plataformas computacionais para processamento de alto desempenho usualmente são compartilhadas por usuários com demandas variadas. Com frequência aplicações legadas ou aquelas que possuem requisitos e dependências muito específicas sobrecarregam os administradores do sistema ou simplesmente tem sua execução inviabilizada. Uma solução passa a ser configurar, compilar e instalar a aplicação e as respectivas dependências inteiramente em espaço de usuário. Entretanto, tal tarefa é custosa e propensa a erros, o que motiva a adoção de soluções automatizadas. Neste minicurso, propomos a apresentação de duas soluções que permitem a instalação de pacotes inteiramente em espaço de usuário de maneira reprodutível e compartilhável.  
+   
+ 13:30 - 15:00   
+ Abordagem Gamificada para Introdução em Arquitetura de Hardware Evolutivo  
+ Authors  : Bernardo Cunha (PUC Minas), Carlos Augusto Martins (PUC Minas)  
+ Room 514   
+ Este minicurso consiste em 3 partes, de aproximadamente 50 minutos. Inicialmente, haverá exposição dos conceitos básicos para compreensão do tema, utilizando abordagem gamificada. Na segunda parte, os participantes colocarão estas novas informações em prática, "hackeando" o sistema evolutivo, experimentando variações nos parâmetros de entrada e de configuração. Por último, será escolhida a melhor abordagem a ser implementada em um próximo encontro (virtual), é demonstrado como o sistema selecionado pode ser implementado utilizando um dispositivo de computação reconfigurável (FPGA).  
+   
+ 13:30 - 15:00   
+ Armazenamento - Melhores Práticas - Construindo Sistemas de Armazenamento com a Performance Adequada  
+ Authors  : Guilherme Friol  
+ Room 515   
+ Este minicurso abordará as principais formas de conexões existentes, tais como SATA, SCSI, SAS, iSCSI, Fibre Channel, entre outras. Os participantes poderão compreender as vantagens e desvantagens de cada uma dessas opções, bem como entender a importância da escolha correta na hora de definir a solução de armazenamento adequada para cada situação. Serão discutidos os diversos tipos de dispositivos de armazenamento existentes no mercado, tais como unidade de disco rígido (HDD) , unidades de disco sólido (SSD), unidades de fita (tape drive), cartões de memória, entre outros. Os participantes poderão entender as características de cada um desses dispositivos, bem como saber qual a melhor opção.  
+
+  15:00  Foyer   
+   
+ Coffee-break  
+
+  15:30  Auditorium   
+   
+ HPC/DL   
+ 15:30 - 17:00   
+ Panel: Towards developing HPC through ML and ML through HPC - the Chicken Egg dilemma  
+ Panelists  : Profa. Lucia Drummond (UFF), Prof. Antônio Tadeu Azevedo Gomes (LNCC), Profa. Mariza Ferro (UFF), Dr. Fabio Alves de Oliveira (NVidia)  
+ Moderator  : Profa. Flavia Bernardini (UFF)  
+ Machine Learning (ML) area have evolved in the last years due to the development of High Performance Computing (HPC). On the other hand, we also have seen many works for evolving HPC through ML. In this context, we could ask: If the community needs HPC to make huge ML-based models more effective, but this same community also needs ML to empower HPC, which area starts this run? Are they exclusive or can we consider both initiatives? This panel aims to discuss this chicken-egg dilemma.  
+
+  15:30  Room 501   
+   
+ WCC   
+ 15:30 - 17:00   
+ Technical Session 2  
+ Chair  : Márcio Castro (UFSC) / Philippe O. A. Navaux (UFRGS)  
+ A Preliminary Review of Function as a Service Platform Running with AWS Spot Instances   
+ Luciana Marques (USP), Alfredo Goldman (USP)   
+ Evaluation Model and Performance Analysis of NIC Aggregations in Containerized Private Clouds   
+ Anderson Mattheus Maliszewski (UFRGS), Dalvan Griebler (PUCRS), Eduardo Roloff (UFRGS), Rodrigo Righi (UNISINOS), Philippe O. A. Navaux (UFRGS)   
+ A Performance Comparison of HPC Workloads on Traditional and Cloud-based HPC Clusters   
+ Vanderlei Munhoz (UFSC), Antoine Bonfils (Polytech Grenoble), Márcio Castro (UFSC), Odorico Mendizabal (UFSC)   
+ Optimizing Microservices Performance and Resource Utilization through Containerized Grouping: An Experimental Study   
+ Fernando Buzato (USP), Alfredo Goldman (USP)   
+ Conceptual and comparative analysis of application metrics in microservices   
+ Lucas Eduardo Pulcinelli (USP), Diego Pedroso (USP), Sarita Bruschi (USP)   
+
+  15:30    
+ WSCAD Tutorials (4, 5, and 6)   
+ 15:30 - 17:00   
+ Are you Root? Reproducible Experiments in User Space  
+ Authors  : Vinicius Garcia Pinto (UFRGS), Lucas Nesi (UFRGS), Lucas Mello Schnorr (UFRGS)  
+ Room 502   
+ Plataformas computacionais para processamento de alto desempenho usualmente são compartilhadas por usuários com demandas variadas. Com frequência aplicações legadas ou aquelas que possuem requisitos e dependências muito específicas sobrecarregam os administradores do sistema ou simplesmente tem sua execução inviabilizada. Uma solução passa a ser configurar, compilar e instalar a aplicação e as respectivas dependências inteiramente em espaço de usuário. Entretanto, tal tarefa é custosa e propensa a erros, o que motiva a adoção de soluções automatizadas. Neste minicurso, propomos a apresentação de duas soluções que permitem a instalação de pacotes inteiramente em espaço de usuário de maneira reprodutível e compartilhável.  
+   
+ 15:30 - 17:00   
+ Abordagem Gamificada para Introdução em Arquitetura de Hardware Evolutivo  
+ Authors  : Bernardo Cunha (PUC Minas), Carlos Augusto Martins (PUC Minas)  
+ Room 514   
+ Este minicurso consiste em 3 partes, de aproximadamente 50 minutos. Inicialmente, haverá exposição dos conceitos básicos para compreensão do tema, utilizando abordagem gamificada. Na segunda parte, os participantes colocarão estas novas informações em prática, "hackeando" o sistema evolutivo, experimentando variações nos parâmetros de entrada e de configuração. Por último, será escolhida a melhor abordagem a ser implementada em um próximo encontro (virtual), é demonstrado como o sistema selecionado pode ser implementado utilizando um dispositivo de computação reconfigurável (FPGA).  
+   
+ 15:30 - 17:00   
+ Armazenamento - Melhores Práticas - Construindo Sistemas de Armazenamento com a Performance Adequada  
+ Authors  : Guilherme Friol  
+ Room 515   
+ Este minicurso abordará as principais formas de conexões existentes, tais como SATA, SCSI, SAS, iSCSI, Fibre Channel, entre outras. Os participantes poderão compreender as vantagens e desvantagens de cada uma dessas opções, bem como entender a importância da escolha correta na hora de definir a solução de armazenamento adequada para cada situação. Serão discutidos os diversos tipos de dispositivos de armazenamento existentes no mercado, tais como unidade de disco rígido (HDD) , unidades de disco sólido (SSD), unidades de fita (tape drive), cartões de memória, entre outros. Os participantes poderão entender as características de cada um desses dispositivos, bem como saber qual a melhor opção.  
+
+  17:00  Theater   
+   
+ Opening Session  
+
+  18:00  Theater   
+   
+ Philippe O. A. Navaux - Academic Trajectory (Honorary Researcher SBAC-PAD 2022)  
+ Speaker  : Philippe O. A. Navaux - 2021 CEACPAD Award on HPC  
+ Those who received the CEACPAD award are invited to present their trajectory. We will present an overview of the main points of my career as a researcher and educator with more than 100 master's and PhD students and more than 400 published papers. From the first steps in electronic engineering projects in physical labs to current works on projects with hospitals and oil and gas companies.  
+
+  19:30  Museum   
+   
+ Cocktail  
+
+  Wednesday, October 18  
+  08:00  Foyer   
+   
+ Registration  
+
+  09:00  Theater   
+   
+ SBAC-PAD 1 | Best Papers I  
+ Chair  : Jay Lofstead (Sandia National Laboratories, USA)  
+ Improved Computation of Database Operators via Vector Processing Near-Data   
+ Sairo Santos, Tiago Rodrigo Kepe and Marco Antonio Zanata Alves   
+ Analysing Mechanisms for Virtual Channel Management in Low-Diameter Networks   
+ Alejandro Cano Cos, Cristóbal Camarero Coterillo, Carmen Martínez Fernández and Ramón Beivide Palacio   
+ Dynasor: A Dynamic Memory Layout for Accelerating Sparse MTTKRP for Tensor Decomposition on Multi-core CPU   
+ Sasindu Wijeratne, Rajgopal Kannan and Viktor Prasanna   
+
+  09:00  Auditorium   
+   
+ WSCAD 1 | Arquitetura e Sistema Operacional   
+ Chair  : Arthur Lorenzon (UFRGS)  
+ New Kids on the Unblocking: Strategies to Overcome Blocking Networks   
+ Caio Morais (UFV), Jeronimo Penha (CEFET/MG), José Augusto Nacif (UFV), Ricardo Ferreira (UFV)   
+ Virtualização e Migração de Processos em um Sistema Operacional Distribuído para Lightweight Manycores   
+ Nicolas Vanz (UFSC), João Souto (UFSC), Márcio Castro (UFSC)   
+ KCGRA- Uma Arquitetura Reconfigurável de Dominio Específico para K-means   
+ Matheus da Silva Alves (UFV), Lucas Bragança da Silva (UFV), Jeronimo Penha (CEFET/MG), Ricardo Ferreira (UFV), José Augusto Nacif (UFV)   
+ Instruction-Level Loop Perforation   
+ Daniela Catelan (UFMS), Ricardo Santos (UFMS), Liana Duenha (UFMS), Lucas Wanner (UNICAMP)   
+
+  09:00  Room 501   
+   
+ WSCAD WIC 1 | Simulação e Compilação   
+ Chair  : Guilherme Galante (Unioeste)  
+ Simulador do Algoritmo de Tomasulo com Conjunto de Instruções RISC-V   
+ Thiago Nolasco (PUC Minas), Danielle Vieira (PUC Minas), João Augusto dos Santos Silva (PUC Minas), Henrique Cota de Freitas (PUC Minas)   
+ Abordagem para Aprendizado do Simulador gem5 para Pesquisadores Iniciantes   
+ Pedro Rigotto (PUC Minas), Henrique Cota de Freitas (PUC Minas)   
+ Performance Evaluation of Intel and AMD Memory Hierarchies Using a Simulation-driven Approach With Gem5   
+ João Victor Vieira (PUC Minas), Matheus Souza (PUC Minas), Henrique Cota de Freitas (PUC Minas)   
+ A Systematic Literature Review on Optimization Techniques for Quantum Computing Compilers   
+ Camilla Da Rocha (PUC Minas), Ana Luiza Santos (PUC Minas), Matheus Souza (PUC Minas)   
+
+  10:30  Foyer   
+   
+ Coffee-break  
+
+  11:00  Theater   
+   
+ Benchmarking of Hybrid Computational Continuum   
+ Speaker  : Ivona Brandic  
+ Chair  : César De Rose  
+ Real life applications can be executed on devices that range in size from smartphones to warehouse size data centers. Meanwhile, architectures are becoming heterogeneous including various accelerators and even non von Neumann computers into the computational continuum. In this talk we discuss challenges when benchmarking different types of applications on a hybrid computational continuum. First, we present the methods for decomposition and execution of HPC applications on hybrid Classic/Quantum systems. Second, we discuss the benefits but also problems and challenges when executing applications of hybrid systems. Third, we revisit the current state of the art testbeds for the execution and benchmarking of hybrid classic/quantum.  
+
+  12:00    
+ Lunch (Not included)  
+
+  13:30  Theater   
+   
+ SBAC-PAD 2 | Architecture  
+ Chair  : Krishna Kavi (University of North Texas, USA)  
+ Using Logging-on-Write to Improve Non-Volatile Memory Checkpoints via Processing-in-Memory   
+ Kleber Kruger, Ricardo Pannain and Rodolfo Azevedo   
+ A Practical Approach For Workload-Aware Data Movement in Disaggregated Memory Systems   
+ Amit Puri, Kartheek Bellamkonda, Kailash Narreddy, John Jose, Tamarapalli Venkatesh   
+ Performance Modeling and Estimation of a Configurable Output Stationary Neural Network Accelerator   
+ Ali Oudrhiri, Emilien Taly, Nathan Bain, Alix Munier, Roberto Guizzetti, and Pascal Urard   
+
+  13:30  Auditorium   
+   
+ WSCAD 2 | Aprendizado de Máquina e Computação em Borda   
+ Chair  : Márcio Castro (UFSC)  
+ Prediction of Reservoir Simulation Jobs Times Using a Real-World SLURM Log   
+ Alan Nunes (UFF), Felipe Portella (PETROBRAS), Paulo Estrela (PETROBRAS), Renzo Malini (PETROBRAS), Bruno Lopes (UFF), Arthur Vasconcelos (UFF), Gabriel Leite (UFF), Lúcia Drummond (UFF)   
+ Análise da Execução de Algoritmos de Aprendizado de Máquina em Dispositivos Embarcados   
+ Lucas Alf (PUCRS), Renato Barreto Hoffmann Filho (PUCRS), Caetano Müler (PUCRS), Dalvan Griebler (PUCRS)   
+ Estratégia de Posicionamento de Aplicações Sensíveis à Privacidade e Latência em Bordas Federadas   
+ Marcos Konzen (IFFar/UFPEL), Paulo De Souza (PUCRS), Fabio Rossi (IFFar), Julio Mattos (UFPEL)   
+ Dynamic Provisioning of Container Registries in Edge Computing Infrastructures   
+ Lucas Roges (PUCRS), Tiago Ferreto (PUCRS)   
+
+  13:30  Room 501   
+   
+ WSCAD WIC 2 | Avaliação e Otimização de Desempenho   
+ Chair  : Arthur Lorenzon (UFRGS)  
+ Case Study on the Use of Winograd-Based Convolution for CNN Inference in FPGA   
+ Artur Pereira (UnB), Marcus Lamar (UnB)   
+ Análise do Desempenho Computacional de Algoritmos Paralelizados com OpenMP e MPI Executados em Raspberry Pi   
+ Augusto Linhares Junqueira Ignácio (IFRO), Wanderson Roger Azevedo Dias (IFRO)   
+ Avaliando eficiência energética em padrões de algoritmos para computação científica e de alto desempenho   
+ Paulo Anjos (UNIFESP), Alvaro Fazenda (UNIFESP)   
+ Estudo de Desempenho de Duas Estratégias Paralelas Aplicadas ao Ajuste de Parâmetros de um Modelo Matemático da Esclerose Múltipla   
+ Gustavo Gonçalves Silva (UFJF), Matheus Avila Moreira de Paula (UFJF), Barbara de Melo Quintela (UFJF), Marcelo Lobosco (UFJF)   
+ Implementando Elasticidade no Nível do Sistema Operacional   
+ Valquíria Belusso (Unioeste), Guilherme Galante (Unioeste)   
+
+  15:00  Foyer   
+   
+ Coffee-break  
+
+  15:30  Theater   
+   
+ SBAC-PAD 3 | Distributed Systems  
+ Chair  : Viktor Prasanna (University of Southern California, USA)  
+ Improving Fault Tolerance in Blockchain Sharding using One-to-Many Block-to-Shard Mapping   
+ Tirathraj Ramburn and Dhrubajyoti Goswami   
+ A Distributed Algorithm for Identifying Strongly Connected Components on Incremental Graphs   
+ Sudharshan Srinivasan, Arindam Khanda, Sriram Srinivasan, Aashish Pandey, Sajal Das, Sanjukta Bhowmick and Boyana Norris   
+ Performance Modeling of MARE2DEM's Adaptive Mesh Refinement for Makespan Estimation   
+ Bruno da Silva Alves and Lucas Mello Schnorr   
+
+  15:30  Auditorium   
+   
+ WSCAD 3 | GPU e Blockchain   
+ Chair  : Antonio C. S. Beck Filho (UFRGS)  
+ Comparison of scalable distributed algorithms for assessing the kNNG in multi-GPU   
+ Gabriel Orlando (UFSCar), Hermes Senger (UFSCar), Murilo Naldi (UFSCar)   
+ Data mapping strategies for multi-GPU implementation of a seismic application   
+ Yuri Freire (UFSCar), Edson Gomi (UFSCar), Hermes Senger (UFSCar)   
+ BWJOIN: A Blockwise GPU-based Algorithm for Set Similarity Joins   
+ Rafael Quirino (UFG), Andre Moreira Quirino (Visiona Tecnologia Espacial), Leonardo Andrade Ribeiro (UFG), Wellington Martins (UFG)   
+ The Impact of Hyperledger Fabric Setup on Blockchain Performance when Using Large Volumes of Heterogeneous Medical Data   
+ Ana Spengler (ICMC-USP), Paulo Lopes de Souza (ICMC-USP)   
+
+  15:30  Room 501   
+   
+ WSCAD WEAC | Educação em Arquitetura de Computadores   
+ Chair  : Carlos Augusto Martins (PUC Minas) e Ricardo Menotti (UFSCar)  
+ Aprendendo Hierarquia de Memória e a Exploração das Localidades Espacial e Temporal com o Simulador Amnesia   
+ Danielle Vieira (PUC Minas), Thiago Nolasco (PUC Minas), João Augusto dos Santos Silva (PUC Minas), Cecília Bouchardet (PUC Minas), Henrique Cota de Freitas (PUC Minas)   
+ Enhancing Supercomputing Education through a Low-Cost Cluster: A Case Study at Insper   
+ Lícia Lima (Insper), Tiago Demay (Insper), Leonardo Rosa (Insper), André Batista (Insper), Luciano Silva (Insper)   
+ Ensino de Software Pipelining e Escalonamento em GPUs com Python   
+ Ricardo Ferreira (UFV), José Augusto Nacif (UFV)   
+ ODS como Temática para a Prática em Circuitos Digitais: relato de experiência   
+ Denise Stringhini (UNIFESP), Thaina Tosta (UNIFESP), Tiago Oliveira (UNIFESP)   
+ Experiências com o Ensino de Arquiteturas e Programação Paralela: da Construção à Avaliação   
+ Guilherme Galante (Unioeste)   
+
+  17:00  Theater   
+   
+ High Performance Computing Solutions with Dell technologies   
+ Speaker  : Rogério Chola (Dell)  
+ Chair  : Dalvan Griebler  
+
+  17:30  Theater   
+   
+ Panel: Brazil HPC Investment needs for the coming years    
+ Panelists  : Dr. Luiz Monnerat, Pedro Leite da Silva Dias, Antônio Tadeu A. Gomes  
+ Moderator  : Philippe Olivier Alexandre Navaux  
+ In the last TOP500, Brazil appears with 9 computers on the list. There are currently several investments in machines being prepared, including a call for 100 million reais for machines. The Panel will discuss upcoming investments in supercomputing centers and the country's needs in this area.  
+
+  Thursday, October 19  
+  08:00  Foyer   
+   
+ Registration  
+
+  09:00  Theater   
+   
+ SBAC-PAD 4 | Best Papers II  
+ Chair  : Vinod Rebello (Universidade Federal Fluminense, Brazil)  
+ Exploiting the Potential of Flexible Processing Units   
+ Mateo Vazquez, Muhammad Waqar Azhar and Pedro Trancoso   
+ Trading Performance, Power, and Area on Low-Precision Posit MAC Units for CNN Training   
+ Luís Crespo, Pedro Tomás, Nuno Roma and Nuno Neves   
+ BEASY: Making EASY backfilling renewable-only   
+ Igor Fontana de Nardin, Patricia Stolf and Stephane Caux   
+
+  09:00  Auditorium   
+   
+ WSCAD 4 | Dimensionamento, Balanceamento, Escalabilidade e Produtividade   
+ Chair  : Wellington Martins (UFG)  
+ GraspCC-LB: Dimensionamento de Recursos para Execução de Workflows em Ambientes de Computação de Alto Desempenho   
+ Luis Alvarenga (CEFET/RJ), Yuri Frota (UFF), Daniel de Oliveira (UFF), Rafaelli Coutinho (CEFET/RJ)   
+ Analisando a Escalabilidade e a Acurácia de Implementações Paralelas e Distribuídas para a Detecção de Comunidades em Grafos   
+ Gabriel Santos (PUCRS), Cesar De Rose (PUCRS), Kartik Lakhotia (Intel Labs)   
+ Balanceamento de Carga Dinâmico em Ambientes Kubernetes com o Kubernetes Scheduling Extension (KSE)   
+ Pedro Moritz de Carvalho Neto (UFSC), Márcio Castro (UFSC), Frank Siqueira (UFSC)   
+ Extending the Planning Poker Method to Estimate the Development Effort of Parallel Applications   
+ Gabriella Andrade (PUCRS), Dalvan Griebler (PUCRS), Rodrigo Santos (UNIRIO), Luiz Gustavo Fernandes (PUCRS)   
+
+  09:00  Room 501   
+   
+ WSCAD CTD 1 | Mestrado   
+ Chair  : Alba Melo (UnB) e Rodrigo Righi (Unisinos)  
+ Impacts of Parallel Programming on Limited-Resource Hardware   
+ Renato Barreto Hoffmann Filho (PUCRS)   
+ Conversão dinâmica de instruções para processamento vetorial em memória   
+ Rodrigo Sokulski (UFPR)   
+ Thermal Optimization for OpenMP Applications through Thread Throttling and Turbo Boosting   
+ Sandro Matheus Marques (Unipampa)   
+
+  10:30  Foyer   
+   
+ Coffee-break  
+
+  11:00  Theater   
+   
+ Frontier: The World’s Most Powerful Computer for Science   
+ Speaker  : Bronson Messer  
+ Chair  : Tiago Ferreto  
+ The first exascale computer, called Frontier, has been delivered to Oak Ridge National Laboratory this past year. This unique scientific instrument is the culmination of more than a decade of concerted effort. I will relate a bit of the history of hybrid-node computing at the Oak Ridge Leadership Computing Facility (OLCF) and how Frontier represents the latest iteration of that approach. Some details of Frontier’s architecture will be discussed, including an overview of the new AMD GPUs that provide the bulk of the computational power for Frontier. Finally, we will take a look at some problems that will benefit from the increased capability at exascale and I will convey some lesson learned from trying to get the applications attacking these problems running on this machine.  
+
+  12:00    
+ Lunch (Not included)  
+
+  13:30  Theater   
+   
+ SBAC-PAD 5 | Performance Engineering  
+ Chair  : Edson Borin (UNICAMP)  
+ Performance Tuning for GPU-Embedded Systems: Machine-Learning-based and Analytical Model-driven Tuning Methodologies   
+ Adrián Perez Diéguez and Margarita Amor López   
+ Comparing Performance and Portability between CUDA and SYCL for Protein Database Search on NVIDIA, AMD, and Intel GPUs   
+ Manuel Costanzo, Enzo Rucci, Carlos García Sánchez, Marcelo Naiouf and Manuel Prieto-Mátias   
+ Achieving Enhanced Performance Combining Checkpointing and Dynamic State Partitioning   
+ Henrique dos Santos Goulart, João Gabriel Trombeta, Álvaro Junio Pereira Franco, and Odorico Machado Mendizabal   
+
+  13:30  Auditorium   
+   
+ WSCAD 5 | Computação em Nuvem   
+ Chair  : Eduardo Camilo Inacio (UniSenai)  
+ Functionalities as a Service - An Approach to Conciliate Interoperability and Data Reduction in E-Health   
+ João Pedro da Costa (UFJF), Mario Dantas (UFJF), José Maria David (UFJF), Fernando Silva (UFJF)   
+ Evaluating the Parallel Simulation of Dynamics of Electrons in Molecules on AWS Spot Instances   
+ Vanderlei Pereira Filho (UFSC), Márcio Castro (UFSC), Luis Guilherme Carvalho Rego (UFSC)   
+ Análise de Custo e Desempenho de um Sistema de Modelagem Atmosférica Tolerante a Falhas no AWS ParallelCluster   
+ Mateus Melo (UFF), Roberto Pinto Souto (LNCC), Lúcia Drummond (UFF)   
+ Explorando a Variabilidade de Processo para Otimizar a Eficiência Energética em Servidores de Nuvem   
+ Thiago dos Santos Gonçalves (UFRGS), Antonio Carlos Schneider Beck (UFRGS), Arthur Lorenzon (UFRGS)   
+ How FaaS with DBaaS performs in different regions: an evaluation by the Orama Framework   
+ Leonardo Rebouças de Carvalho (UnB), Bruno Kamienski (UnB), Aleteia Araujo (UnB)   
+
+  13:30  Room 501   
+   
+ WSCAD CTD 2 | Doutorado   
+ Chair  : Alba Melo (UnB) e Rodrigo Righi (Unisinos)  
+ Advanced Computational Strategies for Reverse Time Migration   
+ Carlos Barbosa (COPPE/UFRJ)   
+ Suporte Arquitetural para Computação Aproximada   
+ Isaias Felzmann (UNICAMP)   
+ Easing the Benchmarking of Parallel Stream Processing on Multi-cores   
+ Adriano Garcia (PUCRS)   
+
+  15:00  Foyer   
+   
+ Coffee-break  
+
+  15:30  Theater   
+   
+ Lenovo Neptune - learn about disruptive liquid cooling solutions for servers   
+ Speaker  : Joaquim Merino (Lenovo)  
+ Chair  : Dalvan Griebler  
+ Discover Lenovo's HPC solutions, #1 in supplying supercomputers in the Top500. Be surprised by Lenovo Neptune, liquid server cooling technology that guarantees better performance, savings and enables companies and organizations to achieve their ESG objectives.  
+
+  16:30  Theater   
+   
+ SBAC-PAD 6 | Systems Optimization  
+ Chair  : Jay Lofstead (Sandia National Laboratories, USA)  
+ Toward Open Repository of Performance Portability of Applications, Benchmarks and Models   
+ Ami Marowka   
+ NeurOPar, A Neural Network-driven EDP Optimization Strategy for Parallel Workloads   
+ Cristiano Alex Kunas, Fábio Rossi, Marcelo Caggiani Luizelli, Rodrigo Calheiros, Philippe Navaux and Arthur Lorenzon   
+ Forecasting file lifecycles for intelligent data placement in hierarchical storage   
+ Adrian Khelili, Sophie Robert Hayek and Soraya Zertal   
+
+  16:30  Auditorium   
+   
+ WSCAD 6 | Computação em GPU   
+ Chair  : Matheus Souza (PUC Minas)  
+ KNN paralelo em GPU para grandes volumes de dados com agregação de consultas   
+ Michel Brasil Cordeiro (UFPR), Wagner Zola (UFPR)   
+ A GPU-based DP algorithm for solving multiple instances of the knapsack problem   
+ Dayllon Xavier (UFG), Humberto José Longo (UFG), Leslie Richard Foulds (UFG), Wellington Martins (UFG)   
+ Avaliação de estilos de código para árvore de decisão em GPU com Microbenchmarks   
+ Jeronimo Penha (CEFET/MG), Alysson Kelvim Caetano da Silva (UFV), Olavo Silva (UFV), Icaro Moreira (UFV), José Augusto Nacif (UFV), Ricardo Ferreira (UFV)   
+ A constructive parallel heuristic approach for the MWPSP   
+ Rafael de Castro Silva (UFG), Vinicius Coelho (UFG), Wellington Martins (UFG), Leslie Richard Foulds (UFG), Humberto José Longo (UFG)   
+
+  16:30  Room 501   
+   
+ CEACPAD Meeting   
+
+  19:30  Veleiros do Sul   
+   
+ Dinner  
+
+  Friday, October 20  
+  08:00  Foyer   
+   
+ Registration  
+
+  09:00  Theater   
+   
+ SBAC-PAD 7 | Parallel Applications  
+ Chair  : J. Nelson Amaral (University of Alberta, Canada)  
+ Reverse Time Migration with Lossy and Lossless Wavefield Compression   
+ Carlos Henrique dos Santos Barbosa and Alvaro Luiz Gayoso de Azeredo Coutinho   
+ Improving the discovery and clustering of three-dimensional protein patterns with OpenMP   
+ Alejandro Valdés-Jiménez, Miguel Reyes-Parada, Gabriel Nuñez-Vivanco, Fabio Durán-Verdugo and Daniel Jiménez-González   
+ A Shared Memory SMC Sampler for Decision Trees   
+ Efthyvoulos Drousiotis, Alessandro Varsi, Paul Spirakis, and Simon Maskell   
+
+  09:00  Auditorium   
+   
+ WSCAD 7 | Programação e Gerenciamento de Recursos   
+ Chair  : Ricardo Ferreira (UFV)  
+ Structured platform-aware programming   
+ Francisco Carvalho-Junior (UFC), Julio Mendes (Arpeggeo Technologies), Allberson Oliveira (Unilab), Tiago Carneiro (IMEC, Belgium), Claro Sales (UFC), Pedro Sales (UFC)   
+ Conversão do NAS Parallel Benchmarks para C++ Standard   
+ Arthur Bianchessi (PUCRS), Leonardo Mallmann (PUCRS), Renato Hoffman (PUCRS), Dalvan Griebler (PUCRS)   
+ PM.NET: Uma biblioteca de desenvolvimento para memória persistente com C#   
+ Henrique Guirelli (UFABC), Emilio Francesquini (UFABC), Alexandro Baldassin (UNESP)   
+ Impact of a dynamic Allocation Policy for Resource and Job Management Systems in deadline-oriented Scenarios   
+ Barry Linnert (TU-Berlin), Cesar De Rose (PUCRS), Hans-Ulrich Heiss (TU-Berlin)   
+ Fragmentando o DNA de Ferramentas de Alinhamento Progressivo: uma Metaferramenta Eficiente   
+ Mario João JR (UERJ/UFF), Alexandre Sena (UERJ), Vinod Rebello (UFF)   
+
+  10:30  Foyer   
+   
+ Coffee-break  
+
+  11:00  Theater   
+   
+ Pairwise, Structural and Multiple Biological Sequence Comparison in HPC Platforms: the Quest for the Optimal Solution   
+ Speaker  : Alba Cristina Magalhaes Alves de Melo  
+ Chair  : Arthur Lorenzon  
+ Biological sequence comparison is an important problem in Bioinformatics and its goal is to define how similar the sequences are, producing a score, and highlighting their similarities, producing an alignment. There are many ways to compare biological sequences and all of them require high performance computing solutions, when the optimal solution is needed. In this talk, we will deal with three types of sequence comparison. First, we discuss pairwise sequence comparison, which is often solved with dynamic programming using variants of the Smith-Waterman algorithm, producing the optimal solution with time complexity O(n^2), where n is the length of the sequences. We present our MASA tools, which can be used in CPU or GPU to pairwise compare long DNA sequences. The last version of MASA for GPUs (MASA-CUDAlign-MultiBP) attained the best performance in the literature in 2021. Then, we examine the structural RNA alignment problem, that is also solved with dynamic programming, using the Sankoff algorithm, with time complexity O(n^6). We present our CUDA-Sankoff tool and show that it has very good speedups. Next, we discuss the multiple sequence alignment (MSA) problem, which is proven NP-Complete. We present our PA-Star CPU-based tool, which executes a variant of the A-Star algorithm to compute the optimal MSA. We show that PA-Star is able to compare multiple sequences in reduced time, when compared to the literature. At the end of the talk, we will do a covid-19 case study, showing how our three tools are used to compare SARS-CoV-2 sequences.  
+
+  12:00    
+ Lunch (Not included)  
+
+  13:30  Theater   
+   
+ SBAC-PAD 8 | Cloud Computing  
+ Chair  : Lucas Mello Schnorr (Federal University of Rio Grande do Sul, Brazil)  
+ Kub: Elastic HPC Workloads on Containerized Environments   
+ Daniel Medeiros, Jacob Wahlgren, Gabin Schieffer and Ivy Peng   
+ WCSim: A Cloud Computing Simulator with Support for Bag of Tasks Workflows   
+ Maicon Santos, Gabriel Grabher, Matheus Kovaleski, Cláudio Geyer, and Gerson Cavalheiro   
+
+  14:30  Theater   
+   
+ Closing Session  
+
+  SBAC-PAD 2023  
+ All Rights Reserved

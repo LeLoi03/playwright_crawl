@@ -1,0 +1,235 @@
+Logic-Based Program Synthesis and Transformation | springerprofessional.de  Skip to main content    Menü   Fachgebiete Chevron down icon     Chevron up icon        Automobil + Motoren    Bauwesen + Immobilien    Business IT + Informatik    Elektrotechnik + Elektronik    Energie + Nachhaltigkeit    Finance + Banking    Management + Führung    Marketing + Vertrieb    Maschinenbau + Werkstoffe    Versicherung + Risiko      
+   
+ DE     
+ EN      
+   
+ Bücher       
+   
+ Zeitschriften       
+   
+ Themenseiten Chevron down icon     Chevron up icon        Organisationspsychologie    Projektmanagement    Marketing    Smart Manufacturing      
+
+ Weitere Formate Chevron down icon     Chevron up icon        Podcasts    Webinare Technik    Webinare Wirtschaft    Kongresse    Veranstaltungskalender    Awards    MyNewsletter      
+
+ Jetzt Einzelzugang starten       
+   
+ Zugang für Unternehmen       
+   
+ Referenzkunden       
+   
+ Sustainability in Automotive       
+
+ Gesamtlebenszyklus wird immer wichtiger  
+ In der Digitalkonferenz am 5. Dezember 2024 geht es um die wachsende Bedeutung der Kreislaufwirtschaft in der Automobilindustrie und wie nachhaltige Werkstoffe sowie wiederverwendbare Komponenten dazu beitragen können.  
+
+ Springer Professional     
+   
+   Suche   Suchbegriffe eingeben       Suchen     
+  
+ Erweiterte Suche      
+
+  Anmelden      
+
+ Springer Professional  
+
+ JAVASCRIPT BENÖTIGT    
+ Bitte aktivieren Sie Java-Script in Ihrem Browser, damit Sie alle Vorteile und Funktionen dieser Website nutzen können.   
+
+  INTERNET EXPLORER WIRD NICHT MEHR UNTERSTÜZT    
+ Der Internet Explorer wird als Browser seitens Microsoft nicht mehr unterstützt. Für Ihr optimales Nutzungserlebnis wählen Sie bitte Microsoft Edge, Safari, Chrome oder Firefox als Browser.   
+
+ nach oben    
+
+ 2023 | Buch  
+
+ Kapitel lesen  Erstes Kapitel lesen     
+   
+ Logic-Based Program Synthesis and Transformation  
+ 33rd International Symposium, LOPSTR 2023, Cascais, Portugal, October 23-24, 2023, Proceedings  
+ herausgegeben von: Robert Glück, Bishoksan Kafle   
+   
+ Verlag: Springer Nature Switzerland    
+ Buchreihe : Lecture Notes in Computer Science    
+ Enthalten in: Springer Professional "Wirtschaft+Technik"  ,   Springer Professional "Technik"  ,   Springer Professional "Wirtschaft"    
+   
+ Inhaltsverzeichnis    
+
+      Suchen      
+ insite    
+ SUCHEN    
+
+ Über dieses Buch  
+ This book constitutes the refereed proceedings of the 33rd International Symposium on Logic-Based Program Synthesis and Transformation, LOPSTR 2023, held in Cascais, Portugal, during October 23-24, 2023.  
+ The 8 full papers and 4 short papers included in this book were carefully reviewed and selected from 29 submissions. They were organized in topical sections as follows: Horn Clauses Analysis, Transformation and Synthesis; Static analysis and Type systems; Unification and substitution in (C)LP; and Knowledge representation and AI-based learning.  
+
+ MyTopic Alert   
+  Loggen Sie sich ein, um Ihre Alerts zu aktualisieren und Neue anzulegen.  
+
+ Anzeige   
+
+ Inhaltsverzeichnis  
+ Frontmatter  
+  
+ Keynote  
+ Frontmatter  
+  
+ Unification Modulo Equational Theories in Languages with Binding Operators (Invited Talk)  
+  Abstract   
+ Unification (i.e., solving equations between terms) is a key step in the implementation of logic programming languages and theorem provers, and is also used in type inference algorithms for functional languages and as a mechanism to analyse rewrite-based specifications (e.g., to find critical pairs). Matching is a version of unification in which only one of the terms in the equation can be instantiated. In this talk, we present matching and unification algorithms for languages that include binding operators as well as operators that satisfy equational axioms, such as associativity and commutativity.   
+   
+ Maribel Fernández   
+
+ Horn Clauses Analysis, Transformation and Synthesis  
+ Frontmatter  
+  
+ Design Datalog Templates for Synthesizing Bidirectional Programs from Tabular Examples  
+  Abstract   
+ In the database community, many synthesizers have been proposed to synthesize unidirectional programs (queries) from tabular examples, but it remains as a challenge to synthesize bidirectional programs  (view update strategies) from examples over tables that have internal functional dependencies. In this work, we propose a systematic method to synthesize bidirectional programs from examples with functional dependencies using ProSynth  . By forward propagation of functional dependencies from the source through intermediate relations to the view via a set of atomic forward programs, we show how to design Datalog templates encoding the well-behaved view update strategies  with minimal effects  as well as the constraints  and effects  imposed by the specified functional dependencies, to guide the synthesis of atomic backward programs which could be combined into a complete backward program. We have fully implemented our proposed approach in a tool called SynthBP  , which is capable of automatically synthesizing bidirectional programs for 31 out of 32 practical benchmarks.   
+   
+ Bach Nguyen Trong, Kanae Tsushima, Zhenjiang Hu   
+
+ Transforming Big-Step to Small-Step Semantics Using Interpreter Specialisation  
+  Abstract   
+ Natural semantics (big-step) and structural operational semantics (small-step) each have advantages, so it can be useful to produce both semantic forms for a language. Previous work has shown that big-step semantics can be transformed to small-step semantics. This is also the goal of our work, but our main contribution is to show that this can be done by specialisation of an interpreter that imposes a small-step execution on big-step transition rules. This is arguably more direct, transparent and flexible than previous methods. The paper contains two examples and further examples are available in an online repository.   
+   
+ John P. Gallagher, Manuel Hermenegildo, José Morales, Pedro Lopez-Garcia   
+
+ Constrained Horn Clauses Satisfiability via Catamorphic Abstractions  
+  Abstract   
+ Catamorphisms are functions recursively defined on Algebraic Data Types (such as lists and trees), which are often used to compute suitable abstractions (such as list size and tree height) of programs that manipulate those data types. It is well known that program properties specified through catamorphisms can be proved by showing the satisfiability of suitable Constrained Horn Clauses (CHCs). We address the problem of checking the satisfiability of sets of CHCs that encode program properties, and we propose a method for transforming a given set of CHCs into an equisatisfiable one where catamorphisms are no longer present. As a consequence, clauses with catamorphisms can be handled without extending the satisfiability algorithms present in existing CHC solvers. Through an experimental evaluation on a non-trivial benchmark consisting of many list and tree processing sets of CHCs, we show that our technique is indeed effective and significantly enhances the performance of state-of-the-art CHC solvers.   
+   
+ Emanuele De Angelis, Fabio Fioravanti, Alberto Pettorossi, Maurizio Proietti   
+
+ Static Analysis and Type Systems  
+ Frontmatter  
+  
+ A Reusable Machine-Calculus for Automated Resource Analyses  
+  Abstract   
+ We introduce an automated resource analysis technique is introduced, targeting a Call-By-Push-Value abstract machine, with memory prediction as a practical goal. The machine has a polymorphic and linear type system enhanced with a first-order logical fragment, which encodes both low-level operational semantics of resource manipulations and high-level synthesis of algorithmic complexity.   
+ Resource analysis must involve a diversity of static analysis, for escape, aliasing, algorithmic invariants, and more. Knowing this, we implement the Automated Amortized Resource Analysis  framework (AARA) from scratch in our generic system. In this setting, access to resources is a state-passing effect which produces a compile-time approximation of runtime resource usage.   
+ We implemented type inference constraint generation for our calculus, accompanied with an elaboration of bounds for iterators on algebraic datatypes, for minimal ML-style programming languages with Call-by-Value and Call-By-Push-Value semantics. The closed-formed bounds are derived as multivariate polynomials over the integers. This now serves as a base for the development of an experimental toolkit for automated memory analysis of functional languages.   
+   
+ Hector Suzanne, Emmanuel Chailloux   
+
+ A Rule-Based Approach for Designing and Composing Abstract Domains  
+  Abstract   
+ Abstract interpretation allows constructing sound static analysis tools by safely approximating program semantics. Frameworks for abstract interpretation typically provide an implementation of a specialized iteration strategy to compute an abstract fixpoint, as well as a number of abstract domains in order to approximate different program properties. However, the design and implementation of additional domains, as well as their combinations, is eventually necessary to successfully prove arbitrary program properties. We propose a rule-based methodology for rapid design and prototyping of new domains and combining existing ones, with a focus on the analysis of logic programs. We provide several examples for domains combining numerical properties and data types and apply them to proving complex program properties.   
+   
+ Daniel Jurjo, José Morales, Pedro Lopez-Garcia, Manuel Hermenegildo   
+
+ A Logical Interpretation of Asynchronous Multiparty Compatibility  
+  Abstract   
+ Session types specify the protocols that communicating processes must follow in a concurrent system. When composing two or more processes, a session typing system must check whether such processes are compatible  , i.e., that all sent messages are eventually received and no deadlock ever occurs. After the propositions-as-types paradigm, relating session types to linear logic, previous work has shown that duality  , in the binary case, and more generally coherence  , in the multiparty case, are sufficient syntactic conditions to guarantee compatibility for two or more processes, yet do not characterise all compatible set of processes.   
+ In this work, we generalise duality/coherence to a notion of forwarder compatibility  . Forwarders are specified as a restricted family of proofs in linear logic, therefore defining a specific set of processes that can act as middleware by transfering messages without using them. As such, they can guide a network of processes to execute asynchronously. Our main result establishes forwarder compatibility as a sufficient and necessary condition to fully capture all well-typed multiparty compatible processes.   
+   
+ Marco Carbone, Sonia Marin, Carsten Schürmann   
+
+ Relational Solver for Java Generics Type System  
+  Abstract   
+ We present a solver for Java generics type system implemented using relational verifier-to-solver approach. The solver finds solutions for a system of subtyping inequations with free variables and thus can be used to determine a concrete type satisfying a set of constraints. The context of this work is symbolic execution for testing and verification of Java  programs.   
+   
+ Peter Lozov, Dmitry Kosarev, Dmitry Ivanov, Dmitry Boulytchev   
+
+ Unification and Substitution in (C)LP  
+ Frontmatter  
+  
+ Predicate Anti-unification in (Constraint) Logic Programming  
+  Abstract   
+ The concept of anti-unification refers to the process of determining the most specific generalization (msg) of two or more input program objects. In the domain of logic programming, anti-unification has primarily been investigated for computing msgs of tree-like program structures such as terms, atoms, and goals (the latter typically seen as ordered sequences).   
+ In this work, we study the anti-unification of whole predicate definitions. We provide a definition of a predicate generalization that allows to characterize the problem of finding the most specific generalization of two predicates as a (computationally hard) search problem. The complexity stems from the fact that a correspondence needs to be constructed between (1) some of the arguments of each of the predicates, (2) some of the clauses in each of the predicate’s definitions, and (3) some of the body atoms in each pair of associated clauses. We propose a working algorithm that simultaneously computes these correspondences in a greedy manner. While our algorithm does not necessarily compute the most specific generalization, we conjecture that it allows to compute, in general, a sufficiently good generalization in an acceptable time.   
+   
+ Gonzague Yernaux, Wim Vanhoof   
+
+ A Term Matching Algorithm and Substitution Generality  
+  Abstract   
+ We revisit a simple non-deterministic algorithm for term matching and employ it for deciding substitution generality as well, using witness term  technique. The technique alleviates the need for ad-hoc proofs involving generality of substitutions.   
+   
+ Marija Kulaš   
+
+ Knowledge Representation and AI-Based Learning  
+ Frontmatter  
+  
+ A Novel EGs-Based Framework for Systematic Propositional-Formula Simplification  
+  Abstract   
+ This paper presents a novel simplification calculus for propositional logic derived from Peirce’s Existential Graphs’ rules of inference and implication graphs. Our rules can be applied to arbitrary propositional logic formulae (not only in CNF), are equivalence-preserving, guarantee a monotonically decreasing number of clauses and literals, and maximise the preservation of structural problem information. Our techniques can also be seen as higher-level SAT preprocessing, and we show how one of our rules (TWSR) generalises and streamlines most of the known equivalence-preserving SAT preprocessing methods. We further show how this rule can be extended with a novel n-ary implication graph to capture all known equivalence-preserving preprocessing procedures. Finally, we discuss the complexity and implementation of our framework as a solver-agnostic algorithm to simplify Boolean satisfiability problems and arbitrary propositional formula.   
+   
+ Jordina Francès de Mas, Juliana Bowles   
+
+ From Static to Dynamic Access Control Policies via Attribute-Based Category Mining  
+  Abstract   
+ We present an algorithm to mine a logic-based, dynamic access control policy from an access control matrix (ACM) or a role based access control (RBAC) policy augmented with principal and resource attributes. Both ACM and RBAC are static (changes in authorisations require the intervention of an administrator) whereas attribute-based policies are dynamic: authorisations change in an autonomous way when attribute values change. Given an ACM or RBAC policy, we obtain a dynamic policy by synthesising category definitions from principal and resource attributes, to our knowledge, the first such mechanism explored. The result is a category-based policy where categories are defined via logic formulas involving attributes and their values. Preliminary experimental results show that the miner provides a foundation for the synthesis of dynamic policies derived from categories.   
+   
+ Anna Bamberger, Maribel Fernández   
+
+ Towards a Certified Proof Checker for Deep Neural Network Verification  
+  Abstract   
+ Recent developments in deep neural networks (DNNs) have led to their adoption in safety-critical systems, which in turn has heightened the need for guaranteeing their safety. These safety properties of DNNs can be proven using tools developed by the verification community. However, these tools are themselves prone to implementation bugs and numerical stability problems, which make their reliability questionable. To overcome this, some verifiers produce proofs of their results which can be checked by a trusted checker. In this work, we present a novel implementation of a proof checker for DNN verification. It improves on existing implementations by offering numerical stability and greater verifiability. To achieve this, we leverage two key capabilities of Imandra, an industrial theorem prover: its support for exact real arithmetic and its formal verification infrastructure. So far, we have implemented a proof checker in Imandra, specified its correctness properties and started to verify the checker’s compliance with them. Our ongoing work focuses on completing the formal verification of the checker and further optimising its performance.   
+   
+ Remi Desmartin, Omri Isac, Grant Passmore, Kathrin Stark, Ekaterina Komendantskaya, Guy Katz   
+
+ Backmatter  
+
+ Metadaten   
+
+ Titel  Logic-Based Program Synthesis and Transformation    
+ herausgegeben von  Robert Glück  
+  Bishoksan Kafle  
+     
+ Copyright-Jahr  2023    
+ Verlag  Springer Nature Switzerland     
+   
+ Electronic ISBN  978-3-031-45784-5    
+ Print ISBN  978-3-031-45783-8    
+ DOI  https://doi.org/10.1007/978-3-031-45784-5     
+
+ Premium Partner  
+
+ » zur Fachgebietsseite Business IT + Informatik 
+
+ Bildnachweise  Rittal/© Rittal, NTT Data/© NTT Data, Wildix/© Wildix, Ceyoniq Technology GmbH/© Ceyoniq Technology GmbH, arvato Systems GmbH/© arvato Systems GmbH, Ninox Software GmbH/© Ninox Software GmbH, Everyday Software S.L./© Everyday Software S.L., Redgate/© Redgate, CELONIS Labs GmbH, DC-Datacenter-Group GmbH/© DC-Datacenter-Group GmbH, all for one/© all for one, G Data CyberDefense/© G Data CyberDefense   
+
+ Weitere Formate | Podcasts 
+  Webinare Technik 
+  Webinare Wirtschaft 
+  Kongresse 
+  Veranstaltungskalender 
+  Awards 
+  MyNewsletter 
+  Fachgebiete | Automobil + Motoren 
+  Bauwesen + Immobilien 
+  Business IT + Informatik 
+  Elektrotechnik + Elektronik 
+  Energie + Nachhaltigkeit 
+  Finance + Banking 
+  Management + Führung 
+  Marketing + Vertrieb 
+  Maschinenbau + Werkstoffe 
+  Versicherung + Risiko 
+  Bücher 
+  Zeitschriften 
+  Themenseiten | Organisationspsychologie 
+  Projektmanagement 
+  Marketing 
+  Smart Manufacturing 
+  Jetzt Einzelzugang starten 
+  Zugang für Unternehmen 
+  Referenzkunden 
+  Sustainability in Automotive 
+   MyNewsletter 
+
+  Über uns:     
+  
+ In eigener Sache    Das Team    Redaktionelles Leitbild    Hilfe    Referenzen      
+ Unsere Produkte:     
+  
+ Einzelzugang    Zugang für Unternehmen    PatentFit    MyAlerts    Professional Book Archive    MyNewsletter    Carl Hanser Verlag - Bücher    KI-gestützte Suche      
+ Rechtliche Informationen:     
+  
+ Impressum    AGB    Datenschutzerklärung    Cookies    Cookies verwalten    Verträge hier kündigen    Zahlungsarten      
+ Weiterführende Links:     
+  
+ RSS-Feeds    Social Media    Mediadaten    Corporate Solutions    Whitepaper    Gabler Wirtschaftslexikon    Gabler Banklexikon    Versicherungsmagazin      
+   
+ Springer Nature Logo    © Springer Fachmedien Wiesbaden GmbH  
+   
+ Version: 0.3926.0

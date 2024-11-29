@@ -1,0 +1,54 @@
+ nach oben    
+ 2023 | Buch  
+ Kapitel lesen  Erstes Kapitel lesen     
+ Cooperative Design, Visualization, and Engineering  
+ 20th International Conference on Cooperative Design, Visualization and Engineering, CDVE 2023, Mallorca, Spain, October 1–4, 2023, Proceedings  
+ herausgegeben von: Yuhua Luo   
+ Über dieses Buch  
+ This book constitutes the proceedings of the 20th International Conference on Cooperative Design, Visualization, and Engineering, CDVE 2023, held in Palma de Mallorca, Spain, in October 2023.  
+ Frontmatter  
+ Proposal and Evaluation of Collaborative Event-Triggered Algorithms in Ultra-Dense Wireless Sensor Network  
+  Abstract   
+ A Cooperative Protocol for Wireless Energy Networks  
+  Abstract   
+ The recent revival of Tesla’s original idea of transferring power without the use of wires has led to the conception of a wireless energy network as a new networking paradigm. Starting from the bases established in a previous article, this paper proposes a protocol to regulate the interaction between energy users and energy providers. Specifically, in that earlier publication, two categories of energy providers were introduced, namely a primary source and multiple secondary sources. The proposed protocol promotes cooperation between primary and secondary sources to save as much energy as possible in the process of supplying energy to users.   
+ Juan Lladó, Sebastià Galmés   
+ Modeling and Visualization of Complex Systems with the Use of GraphTool  
+  Abstract   
+ This paper proposes a model of a complex design system in the form of a system of graphs with attributed and labeled not only nodes and edges but also entire graphs. The primary task of the graph system is to collect data from information provided by the context and organize this data according to the relationships between them, including adding metadata represented by layers with graph labels that designate the appropriate graphs for layers. At the layer level, we can define relationships between layers as relationships between nodes of graphs belonging to different layers. The proposed model has been implemented in GraphTool which is designed to support modeling and visualization of this graph system type using computer tools for graph transformation. The approach presented in this paper will be illustrated by an example that, concerns human resources management in a large software company and is an example of a description of human cooperation.   
+ Iwona Świderska, Ewa Grabska, Wojciech Palacz   
+ Tool for Game Plot Line Visualization for Designers, Testers and Players  
+  Abstract   
+ This paper presents a tool for automatic and interactive visualization of game plots, which can be used to check whether the designers’ work meets the constraints of the world, to help testers control played game story paths. The referential designers’ game plots can be imported from any flowchart diagrams as an XML file and the actual gameplay variant is generated on the fly and applied to the original design based on detected common diagram points.   
+ Leszek Nowak, Iwona Grabska-Gradzińska, Wojciech Palacz, Ewa Grabska, Maria Guzik   
+ A Multilevel Industrial Internet Value Co-creation System Structure and Mechanism  
+  Abstract   
+ Industrial Internet is a new form of industrial organization that accelerates the reshaping and transformation of the industrial chain, making the structure of the industrial value chain increasingly complex. Under this context, traditional organizational theory and value theory are insufficient to support a comprehensive and systematic industry analysis. This paper integrates ecological theory and value co-creation theory to propose a multilevel and dynamic evolutionary value co-creation system architecture for Industrial Internet. It analyzes the key elements, value creation motivation and activities at different levels and provides decision methods and suggestions for government, Industrial Internet leaders and participants to make industrial policies.   
+ Siwei Yang, Shuangxi Huang, Yunjian Qiu, Xing Luo, Xi He   
+ Deep Regression Learning for Collaborative Electronically Assisted Astronomy  
+  Abstract   
+ Observing deep sky is a fascinating activity, and the democratization of automated telescopes for the general public makes the practice of Electronically Assisted Astronomy even more accessible. In this paper, we show how Deep Regression Learning can be useful for supporting collaboration between astronomers to obtain better images.   
+ Olivier Parisot   
+ A Deeping Learning Based Framework and System for Effective Land Use Mapping  
+  Abstract   
+ This paper proposes and implements a novel framework that uses deep learning to classify and visualise satellite land images. The proposed framework uses deep learning to accurately detect features in satellite images, automating the extraction of useful information from large datasets. It involves building and training a deep learning module using various algorithms and settings to improve geographic data processing. Overall, this paper contributes to the field of spatial image processing and highlights the potential benefits of deep learning in land-use mapping and related applications. The implementation of this technology can increase agricultural productivity, improve natural disaster management, and protect the environment.   
+ Xiaojin Liao, Xiaodi Huang, Weidong Huang   
+ Visual Design with Representation of Patterns Using Composition Graphs  
+  Abstract   
+ This paper concerns the computer-aided process of designing architectural objects in the form of 3D primitive configurations following the general-to-detail principle. Design objects are represented by labeled specific graphs called composition graphs (CP-graphs) with nodes that have bonds to which edges are attached. The problem of grouping 3D design primitives in patterns with the possibility of their multiple uses is considered. This paper aims to show how to create equivalents of patterns at the level of CP-graphs and what possibilities this type of graph structure gives.   
+ Ewa Grabska, Agnieszka Mars   
+ Turning Human into 2D Virtual Character Using Real-Time Motion Capture  
+  Abstract   
+ As technologies are advancing, people are also more interested in virtual reality experiences where not only virtual characters are intriguing but also how they are created and used. This paper proposes a way to apply motion capture using computer vision-based techniques to generate a 2D virtual character that can simulate human performance in real-time. Our proposed method is divided into two key phases in order to achieve a fully functional result: (1) the first phase consists of collecting virtual character data, and (2) the second phase constructs systems to detect and track the human upper body movements. In order to give the virtual character the capability to imitate human actions, which mainly includes the upper body motion-tracking system. The experiment demonstrates that the system is able to capture human upper body and facial expression which naturally simulate realistic 2D virtual characters in real-time. Ultimately, this technique provides a simpler, cheaper, and more efficient way of creating virtual humans in a digital environment, as well as proposes the potential applications of virtual humans in a variety of applications, such as identity security, the entertainment industry, education, and other areas that are related to human interaction with computers.   
+ Ky Trung Nguyen, Linh Xuan Vu, Thi Thanh Quynh Nguyen   
+ Partnerships as a Means to Improve the Conditions for Achieving Sustainability in SMEs  
+  Abstract   
+ Environmental sustainability is a global challenge that requires urgent action. Companies, including small and medium-sized enterprises (SMEs), play a crucial role in achieving a sustainable future. However, SMEs often face challenges due to limited resources making it difficult to initiate sustainability efforts independently. One way to overcome these challenges is through partnerships. However, only limited knowledge exists on establishing partnerships in practice to improve the conditions for achieving sustainability. Hence, this article highlights the significance of establishing a partnership to improve sustainability conditions in an SME. The topic is investigated through a single case study at a Danish SME. The case study shows several practical aspects to consider when setting up a partnership to improve the conditions for achieving sustainability in an SME. E.g., an attractive value proposition for the chosen stakeholder(s) and a real opportunity to gain insight into sustainability factors. The results of this study are limited and should only be regarded as preliminary.   
+ Esben Skov Laursen, Christina Koch Pedersen, René Bennyson   
+ SmartOTP Solution for Small and Medium-Sized Businesses  
+  Abstract   
+ With the rise of Web 2.0 and Web 3.0, personal information and identity have become a primary part of our lives, along with it, the security of said information. Most of the websites allow us to have our own user account to represent ourselves online. But with hacking and identity theft having no sign of decreasing, it is getting harder to trust those user accounts. As a result, identity authentication solutions have become a focus of attention for some time. One of the more focused solutions is One-Time Password (OTP). There are currently many commercial OTP solutions from many identity providers such as Amazon Web Service, Microsoft Azure, and Google Cloud that are complete and flexible to be applied to almost any use case. However, some businesses may require a simple and scalable solution that can quickly adapt to their needs. The paper presents such a solution for small and medium sized businesses. The paper describes the architecture and technologies applied to the solution to be able to achieve that goal. The approaches and results of the paper are completely applicable to businesses of any size.   
+ Le Viet Thang, Phan Duy Hung   
+ herausgegeben von  Yuhua Luo  
+ Copyright-Jahr  2023    
+ Verlag  Springer Nature Switzerland     

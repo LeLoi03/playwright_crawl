@@ -1,0 +1,899 @@
+DROPS 
+  Series | LIPIcs – Leibniz International Proceedings in Informatics 
+  OASIcs – Open Access Series in Informatics 
+  Dagstuhl Follow-Ups 
+  Schloss Dagstuhl Jahresbericht 
+   Discontinued Series 
+  Journals | DARTS – Dagstuhl Artifacts Series 
+  Dagstuhl Reports 
+  Dagstuhl Manifestos 
+  LITES – Leibniz Transactions on Embedded Systems 
+  TGDK – Transactions on Graph Data and Knowledge 
+  Conferences | AFT 
+  AIB 
+  AofA 
+  APPROX 
+  ATMOS 
+  CALCO 
+  CCC 
+  CONCUR 
+  COSIT 
+  CP 
+  CPM 
+  CSL 
+  DISC 
+  DITAM 
+  DNA 
+  ECOOP 
+  ECRTS 
+  ESA 
+  FAB 
+  FMBC 
+   FORC 
+  FSCD 
+  FSTTCS 
+  FUN 
+  GD 
+  GIScience 
+  ICALP 
+  ICDT 
+  ICPEC 
+  IPEC 
+  iPMVM 
+  ISAAC 
+  ITC 
+  ITCS 
+  ITP 
+  LDK 
+  MFCS 
+  Microservices 
+  NG-RES 
+  OPODIS 
+   PARMA 
+  RANDOM 
+  SAND 
+  SAT 
+  SEA 
+  SLATE 
+  SNAPL 
+  SoCG 
+  STACS 
+  SWAT 
+  TIME 
+  Tokenomics 
+  TQC 
+  TYPES 
+  WABI 
+  WCET 
+  About DROPS 
+        
+  Metadata Export | Metadata Export 
+  OAI Interface 
+
+   Volume    Export XML 
+  Export ACM-XML 
+  Export DOAJ-XML 
+  Export Schema.org 
+  Export BibTeX 
+  Export HTML 
+
+  LIPIcs, Volume 279  
+ 34th International Conference on Concurrency Theory (CONCUR 2023)  
+   
+  Part of: | Series: | Leibniz International Proceedings in Informatics (LIPIcs) | Part of: | Conference: | International Conference on Concurrency Theory (CONCUR) 
+
+ Event  
+ CONCUR 2023, September 18-23, 2023, Antwerp, Belgium   
+ Editors  
+ Guillermo A. Pérez            
+ University of Antwerp, Belgium 
+    
+ Jean-François Raskin            
+ Université libre de Bruxelles, Belgium 
+
+ Publication Details  
+ published at: 2023-09-07 
+  Publisher: Schloss Dagstuhl – Leibniz-Zentrum für Informatik 
+  ISBN: 978-3-95977-299-0 
+  DBLP: | db/conf/concur/concur2023 
+
+  Access Numbers  
+ Detailed Access Statistics available here 
+  Total Document Accesses (updated on a weekly basis): | 0   PDF Downloads   0   Metadata Views 
+
+ Documents   
+ No documents found matching your filter selection.   
+  Document   
+ Complete Volume   
+ DOI: 10.4230/LIPIcs.CONCUR.2023    
+
+ LIPIcs, Volume 279, CONCUR 2023, Complete Volume   
+ Authors:  Guillermo A. Pérez and Jean-François Raskin  
+  Abstract    
+ LIPIcs, Volume 279, CONCUR 2023, Complete Volume   
+
+  Cite as    
+ 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 1-666, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @Proceedings{perez_et_al:LIPIcs.CONCUR.2023 title = {{LIPIcs, Volume 279, CONCUR 2023, Complete Volume}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {1--666}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023}, URN = {urn:nbn:de:0030-drops-189936}, doi = {10.4230/LIPIcs.CONCUR.2023}, annote = {Keywords: LIPIcs, Volume 279, CONCUR 2023, Complete Volume} }  @Proceedings{perez_et_al:LIPIcs.CONCUR.2023 title = {{LIPIcs, Volume 279, CONCUR 2023, Complete Volume}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {1--666}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023}, URN = {urn:nbn:de:0030-drops-189936}, doi = {10.4230/LIPIcs.CONCUR.2023}, annote = {Keywords: LIPIcs, Volume 279, CONCUR 2023, Complete Volume} }    
+
+  Document   
+ Front Matter   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.0    
+
+ Front Matter, Table of Contents, Preface, Conference Organization   
+ Authors:  Guillermo A. Pérez and Jean-François Raskin  
+  Abstract    
+ Front Matter, Table of Contents, Preface, Conference Organization   
+
+  Cite as    
+ 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 0:i-0:x, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{perez_et_al:LIPIcs.CONCUR.2023.0 author = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, title = {{Front Matter, Table of Contents, Preface, Conference Organization}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {0:i--0:x}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.0}, URN = {urn:nbn:de:0030-drops-189942}, doi = {10.4230/LIPIcs.CONCUR.2023.0}, annote = {Keywords: Front Matter, Table of Contents, Preface, Conference Organization} }  @InProceedings{perez_et_al:LIPIcs.CONCUR.2023.0 author = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, title = {{Front Matter, Table of Contents, Preface, Conference Organization}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {0:i--0:x}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.0}, URN = {urn:nbn:de:0030-drops-189942}, doi = {10.4230/LIPIcs.CONCUR.2023.0}, annote = {Keywords: Front Matter, Table of Contents, Preface, Conference Organization} }    
+
+  Document   
+ Invited Paper   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.1    
+
+ CONCUR Test-Of-Time Award 2023 (Invited Paper)   
+ Authors:  Bengt Jonsson, Marta Kwiatkowska, and Igor Walukiewicz  
+  Abstract    
+ This short article recaps the purpose of the CONCUR Test-of-Time Award and presents the paper that received the Award in 2023.   
+
+  Cite as    
+ Bengt Jonsson, Marta Kwiatkowska, and Igor Walukiewicz. CONCUR Test-Of-Time Award 2023 (Invited Paper). In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 1:1-1:2, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{jonsson_et_al:LIPIcs.CONCUR.2023.1 author = {Jonsson, Bengt and Kwiatkowska, Marta and Walukiewicz, Igor}, title = {{CONCUR Test-Of-Time Award 2023}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {1:1--1:2}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.1}, URN = {urn:nbn:de:0030-drops-189953}, doi = {10.4230/LIPIcs.CONCUR.2023.1}, annote = {Keywords: CONCUR Test-of-Time Award} }  @InProceedings{jonsson_et_al:LIPIcs.CONCUR.2023.1 author = {Jonsson, Bengt and Kwiatkowska, Marta and Walukiewicz, Igor}, title = {{CONCUR Test-Of-Time Award 2023}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {1:1--1:2}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.1}, URN = {urn:nbn:de:0030-drops-189953}, doi = {10.4230/LIPIcs.CONCUR.2023.1}, annote = {Keywords: CONCUR Test-of-Time Award} }    
+
+  Document   
+ Invited Talk   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.2    
+
+ On Verifying Concurrent Programs Under Weakly Consistent Models (Invited Talk)   
+ Authors:  Ahmed Bouajjani  
+  Abstract    
+ Developing correct and performant concurrent systems is a major challenge. When programming an application using a memory system, a natural expectation would be that each memory update is immediately visible to all concurrent threads (which corresponds to strong consistency). However, for performance reasons, only weaker guarantees can be ensured by memory systems, defined by what sets of updates can be made visible to each thread at any moment, and by the order in which they are made visible. The conditions on the visibility order guaranteed by a memory system corresponds to its memory consistency model. Weak consistency models admit complex and unintuitive behaviors, which makes the task of application programmers extremely hard. It is therefore important to determine an adequate level of consistency for each given application: a level that is weak enough to ensure performance, but also strong enough to ensure correctness of the application behaviors. This leads to the consideration of several important verification problems: - the correctness of an application program running over a weak consistency model; - the robustness of an application program w.r.t. consistency weakening; - the fact that an implementation of a system (memory, storage system) guarantees a given (weak) consistency model. The talk gives a broad presentation of these issues and some results in this research area. The talk is based on several joint works with students and colleagues during the last few years.   
+
+  Cite as    
+ Ahmed Bouajjani. On Verifying Concurrent Programs Under Weakly Consistent Models (Invited Talk). In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, p. 2:1, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{bouajjani:LIPIcs.CONCUR.2023.2 author = {Bouajjani, Ahmed}, title = {{On Verifying Concurrent Programs Under Weakly Consistent Models}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {2:1--2:1}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.2}, URN = {urn:nbn:de:0030-drops-189961}, doi = {10.4230/LIPIcs.CONCUR.2023.2}, annote = {Keywords: Concurrent programs, weakly consistent models} }  @InProceedings{bouajjani:LIPIcs.CONCUR.2023.2 author = {Bouajjani, Ahmed}, title = {{On Verifying Concurrent Programs Under Weakly Consistent Models}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {2:1--2:1}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.2}, URN = {urn:nbn:de:0030-drops-189961}, doi = {10.4230/LIPIcs.CONCUR.2023.2}, annote = {Keywords: Concurrent programs, weakly consistent models} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.3    
+
+ Reachability and Bounded Emptiness Problems of Constraint Automata with Prefix, Suffix and Infix   
+ Authors:  Jakub Michaliszyn, Jan Otop, and Piotr Wieczorek  
+  Abstract    
+ We study constraint automata, which are finite-state automata over infinite alphabets consisting of tuples of words. A constraint automaton can compare the words of the consecutive tuples using Boolean combinations of the relations prefix, suffix, infix and equality. First, we show that the reachability problem of such automata is PSpace-complete. Second, we study automata over infinite sequences with Büchi conditions. We show that the problem: given a constraint automaton, is there a bound B and a sequence of tuples of words of length bounded by B, which is accepted by the automaton, is also PSpace-complete. These results contribute towards solving the long-standing open problem of the decidability of the emptiness problem for constraint automata, in which the words can have arbitrary lengths.   
+
+  Cite as    
+ Jakub Michaliszyn, Jan Otop, and Piotr Wieczorek. Reachability and Bounded Emptiness Problems of Constraint Automata with Prefix, Suffix and Infix. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 3:1-3:16, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{michaliszyn_et_al:LIPIcs.CONCUR.2023.3 author = {Michaliszyn, Jakub and Otop, Jan and Wieczorek, Piotr}, title = {{Reachability and Bounded Emptiness Problems of Constraint Automata with Prefix, Suffix and Infix}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {3:1--3:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.3}, URN = {urn:nbn:de:0030-drops-189971}, doi = {10.4230/LIPIcs.CONCUR.2023.3}, annote = {Keywords: constraint automata, emptiness problem} }  @InProceedings{michaliszyn_et_al:LIPIcs.CONCUR.2023.3 author = {Michaliszyn, Jakub and Otop, Jan and Wieczorek, Piotr}, title = {{Reachability and Bounded Emptiness Problems of Constraint Automata with Prefix, Suffix and Infix}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {3:1--3:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.3}, URN = {urn:nbn:de:0030-drops-189971}, doi = {10.4230/LIPIcs.CONCUR.2023.3}, annote = {Keywords: constraint automata, emptiness problem} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.4    
+
+ The Best of Both Worlds: Model-Driven Engineering Meets Model-Based Testing   
+ Authors:  P. H. M. van Spaendonck and Tim A. C. Willemse  
+  Abstract    
+ We study the connection between stable-failures refinement and the ioco conformance relation. Both behavioural relations underlie methodologies that have gained traction in industry: stable-failures refinement is used in several commercial Model-Driven Engineering tool suites, whereas the ioco conformance relation is used in Model-Based Testing tools. Refinement-based Model-Driven Engineering approaches promise to generate executable code from high-level models, thus guaranteeing that the code upholds specified behavioural contracts. Manual testing, however, is still required to gain confidence that the model-to-code transformation and the execution platform do not lead to unexpected contract violations. We identify conditions under which also this last step in the design methodology can be automated using the ioco conformance relation and the associated tools.   
+
+  Cite as    
+ P. H. M. van Spaendonck and Tim A. C. Willemse. The Best of Both Worlds: Model-Driven Engineering Meets Model-Based Testing. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 4:1-4:16, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{vanspaendonck_et_al:LIPIcs.CONCUR.2023.4 author = {van Spaendonck, P. H. M. and Willemse, Tim A. C.}, title = {{The Best of Both Worlds: Model-Driven Engineering Meets Model-Based Testing}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {4:1--4:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.4}, URN = {urn:nbn:de:0030-drops-189988}, doi = {10.4230/LIPIcs.CONCUR.2023.4}, annote = {Keywords: stable-failures refinement, Model-Driven Engineering, input output conformance, Input Output Labelled Transition Systems, internal choice} }  @InProceedings{vanspaendonck_et_al:LIPIcs.CONCUR.2023.4 author = {van Spaendonck, P. H. M. and Willemse, Tim A. C.}, title = {{The Best of Both Worlds: Model-Driven Engineering Meets Model-Based Testing}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {4:1--4:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.4}, URN = {urn:nbn:de:0030-drops-189988}, doi = {10.4230/LIPIcs.CONCUR.2023.4}, annote = {Keywords: stable-failures refinement, Model-Driven Engineering, input output conformance, Input Output Labelled Transition Systems, internal choice} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.5    
+
+ Process-Algebraic Models of Multi-Writer Multi-Reader Non-Atomic Registers   
+ Authors:  Myrthe S. C. Spronck and Bas Luttik  
+  Abstract    
+ We present process-algebraic models of multi-writer multi-reader safe, regular and atomic registers. We establish the relationship between our models and alternative versions presented in the literature. We use our models to formally analyse by model checking to what extent several well-known mutual exclusion algorithms are robust for relaxed atomicity requirements. Our analyses refute correctness claims made about some of these algorithms in the literature.   
+
+  Cite as    
+ Myrthe S. C. Spronck and Bas Luttik. Process-Algebraic Models of Multi-Writer Multi-Reader Non-Atomic Registers. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 5:1-5:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{spronck_et_al:LIPIcs.CONCUR.2023.5 author = {Spronck, Myrthe S. C. and Luttik, Bas}, title = {{Process-Algebraic Models of Multi-Writer Multi-Reader Non-Atomic Registers}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {5:1--5:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.5}, URN = {urn:nbn:de:0030-drops-189995}, doi = {10.4230/LIPIcs.CONCUR.2023.5}, annote = {Keywords: mutual exclusion, model checking, non-atomic reads and writes, regular register} }  @InProceedings{spronck_et_al:LIPIcs.CONCUR.2023.5 author = {Spronck, Myrthe S. C. and Luttik, Bas}, title = {{Process-Algebraic Models of Multi-Writer Multi-Reader Non-Atomic Registers}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {5:1--5:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.5}, URN = {urn:nbn:de:0030-drops-189995}, doi = {10.4230/LIPIcs.CONCUR.2023.5}, annote = {Keywords: mutual exclusion, model checking, non-atomic reads and writes, regular register} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.6    
+
+ Geometry of Reachability Sets of Vector Addition Systems   
+ Authors:  Roland Guttenberg, Mikhail Raskin, and Javier Esparza  
+  Abstract    
+ Vector Addition Systems (VAS), aka Petri nets, are a popular model of concurrency. The reachability set of a VAS is the set of configurations reachable from the initial configuration. Leroux has studied the geometric properties of VAS reachability sets, and used them to derive decision procedures for important analysis problems. In this paper we continue the geometric study of reachability sets. We show that every reachability set admits a finite decomposition into disjoint almost hybridlinear sets enjoying nice geometric properties. Further, we prove that the decomposition of the reachability set of a given VAS is effectively computable. As a corollary, we derive a new proof of Hauschildt’s 1990 result showing the decidability of the question whether the reachability set of a given VAS is semilinear. As a second corollary, we prove that the complement of a reachability set, if it is infinite, always contains an infinite linear set.   
+
+  Cite as    
+ Roland Guttenberg, Mikhail Raskin, and Javier Esparza. Geometry of Reachability Sets of Vector Addition Systems. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 6:1-6:16, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{guttenberg_et_al:LIPIcs.CONCUR.2023.6 author = {Guttenberg, Roland and Raskin, Mikhail and Esparza, Javier}, title = {{Geometry of Reachability Sets of Vector Addition Systems}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {6:1--6:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.6}, URN = {urn:nbn:de:0030-drops-190005}, doi = {10.4230/LIPIcs.CONCUR.2023.6}, annote = {Keywords: Vector Addition System, Petri net, Reachability Set, Almost hybridlinear, Partition, Geometry} }  @InProceedings{guttenberg_et_al:LIPIcs.CONCUR.2023.6 author = {Guttenberg, Roland and Raskin, Mikhail and Esparza, Javier}, title = {{Geometry of Reachability Sets of Vector Addition Systems}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {6:1--6:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.6}, URN = {urn:nbn:de:0030-drops-190005}, doi = {10.4230/LIPIcs.CONCUR.2023.6}, annote = {Keywords: Vector Addition System, Petri net, Reachability Set, Almost hybridlinear, Partition, Geometry} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.7    
+
+ Safety Analysis of Parameterised Networks with Non-Blocking Rendez-Vous   
+ Authors:  Lucie Guillou, Arnaud Sangnier, and Nathalie Sznajder  
+  Abstract    
+ We consider networks of processes that all execute the same finite-state protocol and communicate via a rendez-vous mechanism. When a process requests a rendez-vous, another process can respond to it and they both change their control states accordingly. We focus here on a specific semantics, called non-blocking, where the process requesting a rendez-vous can change its state even if no process can respond to it. In this context, we study the parameterised coverability problem of a configuration, which consists in determining whether there is an initial number of processes and an execution allowing to reach a configuration bigger than a given one. We show that this problem is EXPSPACE-complete and can be solved in polynomial time if the protocol is partitioned into two sets of states, the states from which a process can request a rendez-vous and the ones from which it can answer one. We also prove that the problem of the existence of an execution bringing all the processes in a final state is undecidable in our context. These two problems can be solved in polynomial time with the classical rendez-vous semantics.   
+
+  Cite as    
+ Lucie Guillou, Arnaud Sangnier, and Nathalie Sznajder. Safety Analysis of Parameterised Networks with Non-Blocking Rendez-Vous. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 7:1-7:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{guillou_et_al:LIPIcs.CONCUR.2023.7 author = {Guillou, Lucie and Sangnier, Arnaud and Sznajder, Nathalie}, title = {{Safety Analysis of Parameterised Networks with Non-Blocking Rendez-Vous}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {7:1--7:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.7}, URN = {urn:nbn:de:0030-drops-190015}, doi = {10.4230/LIPIcs.CONCUR.2023.7}, annote = {Keywords: Parameterised verification, Coverability, Counter machines} }  @InProceedings{guillou_et_al:LIPIcs.CONCUR.2023.7 author = {Guillou, Lucie and Sangnier, Arnaud and Sznajder, Nathalie}, title = {{Safety Analysis of Parameterised Networks with Non-Blocking Rendez-Vous}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {7:1--7:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.7}, URN = {urn:nbn:de:0030-drops-190015}, doi = {10.4230/LIPIcs.CONCUR.2023.7}, annote = {Keywords: Parameterised verification, Coverability, Counter machines} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.8    
+
+ Separability and Non-Determinizability of WSTS   
+ Authors:  Eren Keskin and Roland Meyer  
+  Abstract    
+ There is a recent separability result for the languages of well-structured transition systems (WSTS) that is surprisingly general: disjoint WSTS languages are always separated by a regular language. The result assumes that one of the languages is accepted by a deterministic WSTS, and it is not known whether this assumption is needed. There are two ways to get rid of the assumption, none of which has led to conclusions so far: (i) show that WSTS can be determinized or (ii) generalize the separability result to non-deterministic WSTS languages. Our contribution is to show that (i) does not work but (ii) does. As for (i), we give a non-deterministic WSTS language that we prove cannot be accepted by a deterministic WSTS. The proof relies on a novel characterization of the languages accepted by deterministic WSTS. As for (ii), we show how to find finitely represented inductive invariants without having the tool of ideal decompositions at hand. Instead, we work with closures under converging sequences. Our results hold for upward- and downward-compatible WSTS.   
+
+  Cite as    
+ Eren Keskin and Roland Meyer. Separability and Non-Determinizability of WSTS. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 8:1-8:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{keskin_et_al:LIPIcs.CONCUR.2023.8 author = {Keskin, Eren and Meyer, Roland}, title = {{Separability and Non-Determinizability of WSTS}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {8:1--8:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.8}, URN = {urn:nbn:de:0030-drops-190025}, doi = {10.4230/LIPIcs.CONCUR.2023.8}, annote = {Keywords: WSTS, regular separability, determinization} }  @InProceedings{keskin_et_al:LIPIcs.CONCUR.2023.8 author = {Keskin, Eren and Meyer, Roland}, title = {{Separability and Non-Determinizability of WSTS}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {8:1--8:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.8}, URN = {urn:nbn:de:0030-drops-190025}, doi = {10.4230/LIPIcs.CONCUR.2023.8}, annote = {Keywords: WSTS, regular separability, determinization} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.9    
+
+ Compositional Correctness and Completeness for Symbolic Partial Order Reduction   
+ Authors:  Åsmund Aqissiaq Arild Kløvstad, Eduard Kamburjan, and Einar Broch Johnsen  
+  Abstract    
+ Partial Order Reduction (POR) and Symbolic Execution (SE) are two fundamental abstraction techniques in program analysis. SE is particularly useful as a state abstraction technique for sequential programs, while POR addresses equivalent interleavings in the execution of concurrent programs. Recently, several promising connections between these two approaches have been investigated, which result in symbolic partial order reduction: partial order reduction of symbolically executed programs. In this work, we provide compositional notions of completeness and correctness for symbolic partial order reduction. We formalize completeness and correctness for (1) abstraction over program states and (2) trace equivalence, such that the abstraction gives rise to a complete and correct SE, the trace equivalence gives rise to a complete and correct POR, and their combination results in complete and correct symbolic partial order reduction. We develop our results for a core parallel imperative programming language and mechanize the proofs in Coq.   
+
+  Cite as    
+ Åsmund Aqissiaq Arild Kløvstad, Eduard Kamburjan, and Einar Broch Johnsen. Compositional Correctness and Completeness for Symbolic Partial Order Reduction. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 9:1-9:16, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{klvstad_et_al:LIPIcs.CONCUR.2023.9 author = {Kl{\o}vstad, \r{A}smund Aqissiaq Arild and Kamburjan, Eduard and Johnsen, Einar Broch}, title = {{Compositional Correctness and Completeness for Symbolic Partial Order Reduction}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {9:1--9:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.9}, URN = {urn:nbn:de:0030-drops-190035}, doi = {10.4230/LIPIcs.CONCUR.2023.9}, annote = {Keywords: Symbolic Execution, Coq, Trace Semantics, Partial Order Reduction} }  @InProceedings{klvstad_et_al:LIPIcs.CONCUR.2023.9 author = {Kl{\o}vstad, \r{A}smund Aqissiaq Arild and Kamburjan, Eduard and Johnsen, Einar Broch}, title = {{Compositional Correctness and Completeness for Symbolic Partial Order Reduction}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {9:1--9:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.9}, URN = {urn:nbn:de:0030-drops-190035}, doi = {10.4230/LIPIcs.CONCUR.2023.9}, annote = {Keywords: Symbolic Execution, Coq, Trace Semantics, Partial Order Reduction} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.10    
+
+ Monus Semantics in Vector Addition Systems with States   
+ Authors:  Pascal Baumann, Khushraj Madnani, Filip Mazowiecki, and Georg Zetzsche  
+  Abstract    
+ Vector addition systems with states (VASS) are a popular model for concurrent systems. However, many decision problems have prohibitively high complexity. Therefore, it is sometimes useful to consider overapproximating semantics in which these problems can be decided more efficiently. We study an overapproximation, called monus semantics, that slightly relaxes the semantics of decrements: A key property of a vector addition systems is that in order to decrement a counter, this counter must have a positive value. In contrast, our semantics allows decrements of zero-valued counters: If such a transition is executed, the counter just remains zero. It turns out that if only a subset of transitions is used with monus semantics (and the others with classical semantics), then reachability is undecidable. However, we show that if monus semantics is used throughout, reachability remains decidable. In particular, we show that reachability for VASS with monus semantics is as hard as that of classical VASS (i.e. Ackermann-hard), while the zero-reachability and coverability are easier (i.e. EXPSPACE-complete and NP-complete, respectively). We provide a comprehensive account of the complexity of the general reachability problem, reachability of zero configurations, and coverability under monus semantics. We study these problems in general VASS, two-dimensional VASS, and one-dimensional VASS, with unary and binary counter updates.   
+
+  Cite as    
+ Pascal Baumann, Khushraj Madnani, Filip Mazowiecki, and Georg Zetzsche. Monus Semantics in Vector Addition Systems with States. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 10:1-10:18, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{baumann_et_al:LIPIcs.CONCUR.2023.10 author = {Baumann, Pascal and Madnani, Khushraj and Mazowiecki, Filip and Zetzsche, Georg}, title = {{Monus Semantics in Vector Addition Systems with States}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {10:1--10:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.10}, URN = {urn:nbn:de:0030-drops-190047}, doi = {10.4230/LIPIcs.CONCUR.2023.10}, annote = {Keywords: Vector addition systems, Overapproximation, Reachability, Coverability} }  @InProceedings{baumann_et_al:LIPIcs.CONCUR.2023.10 author = {Baumann, Pascal and Madnani, Khushraj and Mazowiecki, Filip and Zetzsche, Georg}, title = {{Monus Semantics in Vector Addition Systems with States}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {10:1--10:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.10}, URN = {urn:nbn:de:0030-drops-190047}, doi = {10.4230/LIPIcs.CONCUR.2023.10}, annote = {Keywords: Vector addition systems, Overapproximation, Reachability, Coverability} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.11    
+
+ Subtyping Context-Free Session Types   
+ Authors:  Gil Silva, Andreia Mordido, and Vasco T. Vasconcelos  
+  Abstract    
+ Context-free session types describe structured patterns of communication on heterogeneously typed channels, allowing the specification of protocols unconstrained by tail recursion. The enhanced expressive power provided by non-regular recursion comes, however, at the cost of the decidability of subtyping, even if equivalence is still decidable. We present an approach to subtyping context-free session types based on a novel kind of observational preorder we call XYZW-simulation, which generalizes XY-simulation (also known as covariant-contravariant simulation) and therefore also bisimulation and plain simulation. We further propose a subtyping algorithm that we prove to be sound, and present an empirical evaluation in the context of a compiler for a programming language. Due to the general nature of the simulation relation upon which it is built, this algorithm may also find applications in other domains.   
+
+  Cite as    
+ Gil Silva, Andreia Mordido, and Vasco T. Vasconcelos. Subtyping Context-Free Session Types. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 11:1-11:19, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{silva_et_al:LIPIcs.CONCUR.2023.11 author = {Silva, Gil and Mordido, Andreia and Vasconcelos, Vasco T.}, title = {{Subtyping Context-Free Session Types}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {11:1--11:19}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.11}, URN = {urn:nbn:de:0030-drops-190055}, doi = {10.4230/LIPIcs.CONCUR.2023.11}, annote = {Keywords: Session types, Subtyping, Simulation, Simple grammars, Non-regular recursion} }  @InProceedings{silva_et_al:LIPIcs.CONCUR.2023.11 author = {Silva, Gil and Mordido, Andreia and Vasconcelos, Vasco T.}, title = {{Subtyping Context-Free Session Types}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {11:1--11:19}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.11}, URN = {urn:nbn:de:0030-drops-190055}, doi = {10.4230/LIPIcs.CONCUR.2023.11}, annote = {Keywords: Session types, Subtyping, Simulation, Simple grammars, Non-regular recursion} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.12    
+
+ Asymptotic Complexity Estimates for Probabilistic Programs and Their VASS Abstractions   
+ Authors:  Michal Ajdarów and Antonín Kučera  
+  Abstract    
+ The standard approach to analyzing the asymptotic complexity of probabilistic programs is based on studying the asymptotic growth of certain expected values (such as the expected termination time) for increasing input size. We argue that this approach is not sufficiently robust, especially in situations when the expectations are infinite. We propose new estimates for the asymptotic analysis of probabilistic programs with non-deterministic choice that overcome this deficiency. Furthermore, we show how to efficiently compute/analyze these estimates for selected classes of programs represented as Markov decision processes over vector addition systems with states.   
+
+  Cite as    
+ Michal Ajdarów and Antonín Kučera. Asymptotic Complexity Estimates for Probabilistic Programs and Their VASS Abstractions. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 12:1-12:16, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{ajdarow_et_al:LIPIcs.CONCUR.2023.12 author = {Ajdar\'{o}w, Michal and Ku\v{c}era, Anton{\'\i}n}, title = {{Asymptotic Complexity Estimates for Probabilistic Programs and Their VASS Abstractions}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {12:1--12:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.12}, URN = {urn:nbn:de:0030-drops-190065}, doi = {10.4230/LIPIcs.CONCUR.2023.12}, annote = {Keywords: Probabilistic programs, asymptotic complexity, vector addition systems} }  @InProceedings{ajdarow_et_al:LIPIcs.CONCUR.2023.12 author = {Ajdar\'{o}w, Michal and Ku\v{c}era, Anton{\'\i}n}, title = {{Asymptotic Complexity Estimates for Probabilistic Programs and Their VASS Abstractions}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {12:1--12:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.12}, URN = {urn:nbn:de:0030-drops-190065}, doi = {10.4230/LIPIcs.CONCUR.2023.12}, annote = {Keywords: Probabilistic programs, asymptotic complexity, vector addition systems} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.13    
+
+ Universal Quantification Makes Automatic Structures Hard to Decide   
+ Authors:  Christoph Haase and Radosław Piórkowski  
+  Abstract    
+ Automatic structures are structures whose universe and relations can be represented as regular languages. It follows from the standard closure properties of regular languages that the first-order theory of an automatic structure is decidable. While existential quantifiers can be eliminated in linear time by application of a homomorphism, universal quantifiers are commonly eliminated via the identity ∀x.Φ≡¬(∃x.¬Φ). If Φ is represented in the standard way as an NFA, a priori this approach results in a doubly exponential blow-up. However, the recent literature has shown that there are classes of automatic structures for which universal quantifiers can be eliminated by different means without this blow-up by treating them as first-class citizens and not resorting to double complementation. While existing lower bounds for some classes of automatic structures show that a singly exponential blow-up is unavoidable when eliminating a universal quantifier, it is not known whether there may be better approaches that avoid the naïve doubly exponential blow-up, perhaps at least in restricted settings. In this paper, we answer this question negatively and show that there is a family of NFA representing automatic relations for which the minimal NFA recognising the language after eliminating a single universal quantifier is doubly exponential, and deciding whether this language is empty is ExpSpace-complete.   
+
+  Cite as    
+ Christoph Haase and Radosław Piórkowski. Universal Quantification Makes Automatic Structures Hard to Decide. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 13:1-13:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{haase_et_al:LIPIcs.CONCUR.2023.13 author = {Haase, Christoph and Pi\'{o}rkowski, Rados{\l}aw}, title = {{Universal Quantification Makes Automatic Structures Hard to Decide}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {13:1--13:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.13}, URN = {urn:nbn:de:0030-drops-190075}, doi = {10.4230/LIPIcs.CONCUR.2023.13}, annote = {Keywords: automatic structures, universal projection, state complexity, tiling problems} }  @InProceedings{haase_et_al:LIPIcs.CONCUR.2023.13 author = {Haase, Christoph and Pi\'{o}rkowski, Rados{\l}aw}, title = {{Universal Quantification Makes Automatic Structures Hard to Decide}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {13:1--13:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.13}, URN = {urn:nbn:de:0030-drops-190075}, doi = {10.4230/LIPIcs.CONCUR.2023.13}, annote = {Keywords: automatic structures, universal projection, state complexity, tiling problems} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.14    
+
+ About Decisiveness of Dynamic Probabilistic Models   
+ Authors:  Alain Finkel, Serge Haddad, and Lina Ye  
+  Abstract    
+ Decisiveness of infinite Markov chains with respect to some (finite or infinite) target set of states is a key property that allows to compute the reachability probability of this set up to an arbitrary precision. Most of the existing works assume constant weights for defining the probability of a transition in the considered models. However numerous probabilistic modelings require the (dynamic) weight to also depend on the current state. So we introduce a dynamic probabilistic version of counter machine (pCM). After establishing that decisiveness is undecidable for pCMs even with constant weights, we study the decidability of decisiveness for subclasses of pCM. We show that, without restrictions on dynamic weights, decisiveness is undecidable with a single state and single counter pCM. On the contrary with polynomial weights, decisiveness becomes decidable for single counter pCMs under mild conditions. Then we show that decisiveness of probabilistic Petri nets (pPNs) with polynomial weights is undecidable even when the target set is upward-closed unlike the case of constant weights. Finally we prove that the standard subclass of pPNs with a regular language is decisive with respect to a finite set whatever the kind of weights.   
+
+  Cite as    
+ Alain Finkel, Serge Haddad, and Lina Ye. About Decisiveness of Dynamic Probabilistic Models. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 14:1-14:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{finkel_et_al:LIPIcs.CONCUR.2023.14 author = {Finkel, Alain and Haddad, Serge and Ye, Lina}, title = {{About Decisiveness of Dynamic Probabilistic Models}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {14:1--14:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.14}, URN = {urn:nbn:de:0030-drops-190089}, doi = {10.4230/LIPIcs.CONCUR.2023.14}, annote = {Keywords: infinite Markov chain, reachability probability, decisiveness} }  @InProceedings{finkel_et_al:LIPIcs.CONCUR.2023.14 author = {Finkel, Alain and Haddad, Serge and Ye, Lina}, title = {{About Decisiveness of Dynamic Probabilistic Models}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {14:1--14:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.14}, URN = {urn:nbn:de:0030-drops-190089}, doi = {10.4230/LIPIcs.CONCUR.2023.14}, annote = {Keywords: infinite Markov chain, reachability probability, decisiveness} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.15    
+
+ Probabilistic Operational Correspondence   
+ Authors:  Anna Schmitt and Kirstin Peters  
+  Abstract    
+ Encodings are the main way to compare process calculi. By applying quality criteria to encodings we analyse their quality and rule out trivial or meaningless encodings. Thereby, operational correspondence is one of the most common and most important quality criteria. It ensures that processes and their translations have the same abstract behaviour. We analyse probabilistic versions of operational correspondence to enable such a verification for probabilistic systems. Concretely, we present three versions of probabilistic operational correspondence: weak, middle, and strong. We show the relevance of the weaker version using an encoding from a sublanguage of probabilistic CCS into the probabilistic π-calculus. Moreover, we map this version of probabilistic operational correspondence onto a probabilistic behavioural relation that directly relates source and target terms. Then we can analyse the quality of the criterion by analysing the relation it induces between a source term and its translation. For the second version of probabilistic operational correspondence we proceed in the opposite direction. We start with a standard simulation relation for probabilistic systems and map it onto a probabilistic operational correspondence criterion.   
+
+  Cite as    
+ Anna Schmitt and Kirstin Peters. Probabilistic Operational Correspondence. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 15:1-15:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{schmitt_et_al:LIPIcs.CONCUR.2023.15 author = {Schmitt, Anna and Peters, Kirstin}, title = {{Probabilistic Operational Correspondence}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {15:1--15:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.15}, URN = {urn:nbn:de:0030-drops-190090}, doi = {10.4230/LIPIcs.CONCUR.2023.15}, annote = {Keywords: Probabilistic Process Calculi, Encodings, Operational Correspondence} }  @InProceedings{schmitt_et_al:LIPIcs.CONCUR.2023.15 author = {Schmitt, Anna and Peters, Kirstin}, title = {{Probabilistic Operational Correspondence}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {15:1--15:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.15}, URN = {urn:nbn:de:0030-drops-190090}, doi = {10.4230/LIPIcs.CONCUR.2023.15}, annote = {Keywords: Probabilistic Process Calculi, Encodings, Operational Correspondence} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.16    
+
+ A Game of Pawns   
+ Authors:  Guy Avni, Pranav Ghorpade, and Shibashis Guha  
+  Abstract    
+ We introduce and study pawn games, a class of two-player zero-sum turn-based graph games. A turn-based graph game proceeds by placing a token on an initial vertex, and whoever controls the vertex on which the token is located, chooses its next location. This leads to a path in the graph, which determines the winner. Traditionally, the control of vertices is predetermined and fixed. The novelty of pawn games is that control of vertices changes dynamically throughout the game as follows. Each vertex of a pawn game is owned by a pawn. In each turn, the pawns are partitioned between the two players, and the player who controls the pawn that owns the vertex on which the token is located, chooses the next location of the token. Control of pawns changes dynamically throughout the game according to a fixed mechanism. Specifically, we define several grabbing-based mechanisms in which control of at most one pawn transfers at the end of each turn. We study the complexity of solving pawn games, where we focus on reachability objectives and parameterize the problem by the mechanism that is being used and by restrictions on pawn ownership of vertices. On the positive side, even though pawn games are exponentially-succinct turn-based games, we identify several natural classes that can be solved in PTIME. On the negative side, we identify several EXPTIME-complete classes, where our hardness proofs are based on a new class of games called Lock & Key games, which may be of independent interest.   
+
+  Cite as    
+ Guy Avni, Pranav Ghorpade, and Shibashis Guha. A Game of Pawns. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 16:1-16:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{avni_et_al:LIPIcs.CONCUR.2023.16 author = {Avni, Guy and Ghorpade, Pranav and Guha, Shibashis}, title = {{A Game of Pawns}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {16:1--16:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.16}, URN = {urn:nbn:de:0030-drops-190100}, doi = {10.4230/LIPIcs.CONCUR.2023.16}, annote = {Keywords: Graph games, Reachability games, Pawn games, Dynamic vertex control} }  @InProceedings{avni_et_al:LIPIcs.CONCUR.2023.16 author = {Avni, Guy and Ghorpade, Pranav and Guha, Shibashis}, title = {{A Game of Pawns}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {16:1--16:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.16}, URN = {urn:nbn:de:0030-drops-190100}, doi = {10.4230/LIPIcs.CONCUR.2023.16}, annote = {Keywords: Graph games, Reachability games, Pawn games, Dynamic vertex control} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.17    
+
+ Safety and Liveness of Quantitative Automata   
+ Authors:  Udi Boker, Thomas A. Henzinger, Nicolas Mazzocchi, and N. Ege Saraç  
+  Abstract    
+ The safety-liveness dichotomy is a fundamental concept in formal languages which plays a key role in verification. Recently, this dichotomy has been lifted to quantitative properties, which are arbitrary functions from infinite words to partially-ordered domains. We look into harnessing the dichotomy for the specific classes of quantitative properties expressed by quantitative automata. These automata contain finitely many states and rational-valued transition weights, and their common value functions Inf, Sup, LimInf, LimSup, LimInfAvg, LimSupAvg, and DSum map infinite words into the totally-ordered domain of real numbers. In this automata-theoretic setting, we establish a connection between quantitative safety and topological continuity and provide an alternative characterization of quantitative safety and liveness in terms of their boolean counterparts. For all common value functions, we show how the safety closure of a quantitative automaton can be constructed in PTime, and we provide PSpace-complete checks of whether a given quantitative automaton is safe or live, with the exception of LimInfAvg and LimSupAvg automata, for which the safety check is in ExpSpace. Moreover, for deterministic Sup, LimInf, and LimSup automata, we give PTime decompositions into safe and live automata. These decompositions enable the separation of techniques for safety and liveness verification for quantitative specifications.   
+
+  Cite as    
+ Udi Boker, Thomas A. Henzinger, Nicolas Mazzocchi, and N. Ege Saraç. Safety and Liveness of Quantitative Automata. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 17:1-17:18, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{boker_et_al:LIPIcs.CONCUR.2023.17 author = {Boker, Udi and Henzinger, Thomas A. and Mazzocchi, Nicolas and Sara\c{c}, N. Ege}, title = {{Safety and Liveness of Quantitative Automata}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {17:1--17:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.17}, URN = {urn:nbn:de:0030-drops-190118}, doi = {10.4230/LIPIcs.CONCUR.2023.17}, annote = {Keywords: quantitative safety, quantitative liveness, quantitative automata} }  @InProceedings{boker_et_al:LIPIcs.CONCUR.2023.17 author = {Boker, Udi and Henzinger, Thomas A. and Mazzocchi, Nicolas and Sara\c{c}, N. Ege}, title = {{Safety and Liveness of Quantitative Automata}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {17:1--17:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.17}, URN = {urn:nbn:de:0030-drops-190118}, doi = {10.4230/LIPIcs.CONCUR.2023.17}, annote = {Keywords: quantitative safety, quantitative liveness, quantitative automata} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.18    
+
+ History-Deterministic Vector Addition Systems   
+ Authors:  Sougata Bose, David Purser, and Patrick Totzke  
+  Abstract    
+ We consider history-determinism, a restricted form of non-determinism, for Vector Addition Systems with States (VASS) when used as acceptors to recognise languages of finite words. History-determinism requires that the non-deterministic choices can be resolved on-the-fly; based on the past and without jeopardising acceptance of any possible continuation of the input word. Our results show that the history-deterministic (HD) VASS sit strictly between deterministic and non-deterministic VASS regardless of the number of counters. We compare the relative expressiveness of HD systems, and closure-properties of the induced language classes, with coverability and reachability semantics, and with and without ε-labelled transitions. Whereas in dimension 1, inclusion and regularity remain decidable, from dimension two onwards, HD-VASS with suitable resolver strategies, are essentially able to simulate 2-counter Minsky machines, leading to several undecidability results: It is undecidable whether a VASS is history-deterministic, or if a language equivalent history-deterministic VASS exists. Checking language inclusion between history-deterministic 2-VASS is also undecidable.   
+
+  Cite as    
+ Sougata Bose, David Purser, and Patrick Totzke. History-Deterministic Vector Addition Systems. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 18:1-18:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{bose_et_al:LIPIcs.CONCUR.2023.18 author = {Bose, Sougata and Purser, David and Totzke, Patrick}, title = {{History-Deterministic Vector Addition Systems}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {18:1--18:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.18}, URN = {urn:nbn:de:0030-drops-190120}, doi = {10.4230/LIPIcs.CONCUR.2023.18}, annote = {Keywords: Vector Addition Systems, History-determinism, Good-for Games} }  @InProceedings{bose_et_al:LIPIcs.CONCUR.2023.18 author = {Bose, Sougata and Purser, David and Totzke, Patrick}, title = {{History-Deterministic Vector Addition Systems}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {18:1--18:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.18}, URN = {urn:nbn:de:0030-drops-190120}, doi = {10.4230/LIPIcs.CONCUR.2023.18}, annote = {Keywords: Vector Addition Systems, History-determinism, Good-for Games} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.19    
+
+ Games with Trading of Control   
+ Authors:  Orna Kupferman and Noam Shenwald  
+  Abstract    
+ The interaction among components in a system is traditionally modeled by a game. In the turned-based setting, the players in the game jointly move a token along the game graph, with each player deciding where to move the token in vertices she controls. The objectives of the players are modeled by ω-regular winning conditions, and players whose objectives are satisfied get rewards. Thus, the game is non-zero-sum, and we are interested in its stable outcomes. In particular, in the rational-synthesis problem, we seek a strategy for the system player that guarantees the satisfaction of the system’s objective in all rational environments. In this paper, we study an extension of the traditional setting by trading of control. In our game, the players may pay each other in exchange for directing the token also in vertices they do not control. The utility of each player then combines the reward for the satisfaction of her objective and the profit from the trading. The setting combines challenges from ω-regular graph games with challenges in pricing, bidding, and auctions in classical game theory. We study the theoretical properties of parity trading games: best-response dynamics, existence and search for Nash equilibria, and measures for equilibrium inefficiency. We also study the rational-synthesis problem and analyze its tight complexity in various settings.   
+
+  Cite as    
+ Orna Kupferman and Noam Shenwald. Games with Trading of Control. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 19:1-19:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{kupferman_et_al:LIPIcs.CONCUR.2023.19 author = {Kupferman, Orna and Shenwald, Noam}, title = {{Games with Trading of Control}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {19:1--19:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.19}, URN = {urn:nbn:de:0030-drops-190137}, doi = {10.4230/LIPIcs.CONCUR.2023.19}, annote = {Keywords: Parity Games, Rational Synthesis, Game Theory, Auctions} }  @InProceedings{kupferman_et_al:LIPIcs.CONCUR.2023.19 author = {Kupferman, Orna and Shenwald, Noam}, title = {{Games with Trading of Control}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {19:1--19:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.19}, URN = {urn:nbn:de:0030-drops-190137}, doi = {10.4230/LIPIcs.CONCUR.2023.19}, annote = {Keywords: Parity Games, Rational Synthesis, Game Theory, Auctions} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.20    
+
+ Expressiveness Results for an Inductive Logic of Separated Relations   
+ Authors:  Radu Iosif and Florian Zuleger  
+  Abstract    
+ In this paper we study a Separation Logic of Relations (SLR) and compare its expressiveness to (Monadic) Second Order Logic [(M)SO]. SLR is based on the well-known Symbolic Heap fragment of Separation Logic, whose formulæare composed of points-to assertions, inductively defined predicates, with the separating conjunction as the only logical connective. SLR generalizes the Symbolic Heap fragment by supporting general relational atoms, instead of only points-to assertions. In this paper, we restrict ourselves to finite relational structures, and hence only consider Weak (M)SO, where quantification ranges over finite sets. Our main results are that SLR and MSO are incomparable on structures of unbounded treewidth, while SLR can be embedded in SO in general. Furthermore, MSO becomes a strict subset of SLR, when the treewidth of the models is bounded by a parameter and all vertices attached to some hyperedge belong to the interpretation of a fixed unary relation symbol. We also discuss the problem of identifying a fragment of SLR that is equivalent to MSO over models of bounded treewidth.   
+
+  Cite as    
+ Radu Iosif and Florian Zuleger. Expressiveness Results for an Inductive Logic of Separated Relations. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 20:1-20:20, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{iosif_et_al:LIPIcs.CONCUR.2023.20 author = {Iosif, Radu and Zuleger, Florian}, title = {{Expressiveness Results for an Inductive Logic of Separated Relations}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {20:1--20:20}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.20}, URN = {urn:nbn:de:0030-drops-190146}, doi = {10.4230/LIPIcs.CONCUR.2023.20}, annote = {Keywords: Separation Logic, Model Theory, Monadic Second Order Logic, Treewidth} }  @InProceedings{iosif_et_al:LIPIcs.CONCUR.2023.20 author = {Iosif, Radu and Zuleger, Florian}, title = {{Expressiveness Results for an Inductive Logic of Separated Relations}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {20:1--20:20}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.20}, URN = {urn:nbn:de:0030-drops-190146}, doi = {10.4230/LIPIcs.CONCUR.2023.20}, annote = {Keywords: Separation Logic, Model Theory, Monadic Second Order Logic, Treewidth} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.21    
+
+ Hypernode Automata   
+ Authors:  Ezio Bartocci, Thomas A. Henzinger, Dejan Nickovic, and Ana Oliveira da Costa  
+  Abstract    
+ We introduce hypernode automata as a new specification formalism for hyperproperties of concurrent systems. They are finite automata with nodes labeled with hypernode logic formulas and transitions labeled with actions. A hypernode logic formula specifies relations between sequences of variable values in different system executions. Unlike HyperLTL, hypernode logic takes an asynchronous view on execution traces by constraining the values and the order of value changes of each variable without correlating the timing of the changes. Different execution traces are synchronized solely through the transitions of hypernode automata. Hypernode automata naturally combine asynchronicity at the node level with synchronicity at the transition level. We show that the model-checking problem for hypernode automata is decidable over action-labeled Kripke structures, whose actions induce transitions of the specification automata. For this reason, hypernode automaton is a suitable formalism for specifying and verifying asynchronous hyperproperties, such as declassifying observational determinism in multi-threaded programs.   
+
+  Cite as    
+ Ezio Bartocci, Thomas A. Henzinger, Dejan Nickovic, and Ana Oliveira da Costa. Hypernode Automata. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 21:1-21:16, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{bartocci_et_al:LIPIcs.CONCUR.2023.21 author = {Bartocci, Ezio and Henzinger, Thomas A. and Nickovic, Dejan and Oliveira da Costa, Ana}, title = {{Hypernode Automata}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {21:1--21:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.21}, URN = {urn:nbn:de:0030-drops-190153}, doi = {10.4230/LIPIcs.CONCUR.2023.21}, annote = {Keywords: Hyperproperties, Asynchronous, Automata, Logic} }  @InProceedings{bartocci_et_al:LIPIcs.CONCUR.2023.21 author = {Bartocci, Ezio and Henzinger, Thomas A. and Nickovic, Dejan and Oliveira da Costa, Ana}, title = {{Hypernode Automata}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {21:1--21:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.21}, URN = {urn:nbn:de:0030-drops-190153}, doi = {10.4230/LIPIcs.CONCUR.2023.21}, annote = {Keywords: Hyperproperties, Asynchronous, Automata, Logic} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.22    
+
+ Quantitative Verification with Neural Networks   
+ Authors:  Alessandro Abate, Alec Edwards, Mirco Giacobbe, Hashan Punchihewa, and Diptarko Roy  
+  Abstract    
+ We present a data-driven approach to the quantitative verification of probabilistic programs and stochastic dynamical models. Our approach leverages neural networks to compute tight and sound bounds for the probability that a stochastic process hits a target condition within finite time. This problem subsumes a variety of quantitative verification questions, from the reachability and safety analysis of discrete-time stochastic dynamical models, to the study of assertion-violation and termination analysis of probabilistic programs. We rely on neural networks to represent supermartingale certificates that yield such probability bounds, which we compute using a counterexample-guided inductive synthesis loop: we train the neural certificate while tightening the probability bound over samples of the state space using stochastic optimisation, and then we formally check the certificate’s validity over every possible state using satisfiability modulo theories; if we receive a counterexample, we add it to our set of samples and repeat the loop until validity is confirmed. We demonstrate on a diverse set of benchmarks that, thanks to the expressive power of neural networks, our method yields smaller or comparable probability bounds than existing symbolic methods in all cases, and that our approach succeeds on models that are entirely beyond the reach of such alternative techniques.   
+
+  Cite as    
+ Alessandro Abate, Alec Edwards, Mirco Giacobbe, Hashan Punchihewa, and Diptarko Roy. Quantitative Verification with Neural Networks. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 22:1-22:18, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{abate_et_al:LIPIcs.CONCUR.2023.22 author = {Abate, Alessandro and Edwards, Alec and Giacobbe, Mirco and Punchihewa, Hashan and Roy, Diptarko}, title = {{Quantitative Verification with Neural Networks}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {22:1--22:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.22}, URN = {urn:nbn:de:0030-drops-190162}, doi = {10.4230/LIPIcs.CONCUR.2023.22}, annote = {Keywords: Data-driven Verification, Quantitative Verification, Probabilistic Programs, Stochastic Dynamical Models, Counterexample-guided Inductive Synthesis, Neural Networks} }  @InProceedings{abate_et_al:LIPIcs.CONCUR.2023.22 author = {Abate, Alessandro and Edwards, Alec and Giacobbe, Mirco and Punchihewa, Hashan and Roy, Diptarko}, title = {{Quantitative Verification with Neural Networks}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {22:1--22:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.22}, URN = {urn:nbn:de:0030-drops-190162}, doi = {10.4230/LIPIcs.CONCUR.2023.22}, annote = {Keywords: Data-driven Verification, Quantitative Verification, Probabilistic Programs, Stochastic Dynamical Models, Counterexample-guided Inductive Synthesis, Neural Networks} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.23    
+
+ Satisfiability Checking of Multi-Variable TPTL with Unilateral Intervals Is PSPACE-Complete   
+ Authors:  Shankara Narayanan Krishna, Khushraj Nanik Madnani, Rupak Majumdar, and Paritosh Pandya  
+  Abstract    
+ We investigate the decidability of the {0,∞} fragment of Timed Propositional Temporal Logic (TPTL). We show that the satisfiability checking of TPTL^{0,∞} is PSPACE-complete. Moreover, even its 1-variable fragment (1-TPTL^{0,∞}) is strictly more expressive than Metric Interval Temporal Logic (MITL) for which satisfiability checking is EXPSPACE complete. Hence, we have a strictly more expressive logic with computationally easier satisfiability checking. To the best of our knowledge, TPTL^{0,∞} is the first multi-variable fragment of TPTL for which satisfiability checking is decidable without imposing any bounds/restrictions on the timed words (e.g. bounded variability, bounded time, etc.). The membership in PSPACE is obtained by a reduction to the emptiness checking problem for a new "non-punctual’’ subclass of Alternating Timed Automata with multiple clocks called Unilateral Very Weak Alternating Timed Automata (VWATA^{0,∞}) which we prove to be in PSPACE. We show this by constructing a simulation equivalent non-deterministic timed automata whose number of clocks is polynomial in the size of the given VWATA^{0,∞}.   
+
+  Cite as    
+ Shankara Narayanan Krishna, Khushraj Nanik Madnani, Rupak Majumdar, and Paritosh Pandya. Satisfiability Checking of Multi-Variable TPTL with Unilateral Intervals Is PSPACE-Complete. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 23:1-23:18, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{krishna_et_al:LIPIcs.CONCUR.2023.23 author = {Krishna, Shankara Narayanan and Madnani, Khushraj Nanik and Majumdar, Rupak and Pandya, Paritosh}, title = {{Satisfiability Checking of Multi-Variable TPTL with Unilateral Intervals Is PSPACE-Complete}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {23:1--23:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.23}, URN = {urn:nbn:de:0030-drops-190171}, doi = {10.4230/LIPIcs.CONCUR.2023.23}, annote = {Keywords: TPTL, Satisfiability, Non-Punctuality, Decidability, Expressiveness, ATA} }  @InProceedings{krishna_et_al:LIPIcs.CONCUR.2023.23 author = {Krishna, Shankara Narayanan and Madnani, Khushraj Nanik and Majumdar, Rupak and Pandya, Paritosh}, title = {{Satisfiability Checking of Multi-Variable TPTL with Unilateral Intervals Is PSPACE-Complete}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {23:1--23:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.23}, URN = {urn:nbn:de:0030-drops-190171}, doi = {10.4230/LIPIcs.CONCUR.2023.23}, annote = {Keywords: TPTL, Satisfiability, Non-Punctuality, Decidability, Expressiveness, ATA} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.24    
+
+ Model-Checking Parametric Lock-Sharing Systems Against Regular Constraints   
+ Authors:  Corto Mascle, Anca Muscholl, and Igor Walukiewicz  
+  Abstract    
+ In parametric lock-sharing systems processes can spawn new processes to run in parallel, and can create new locks. The behavior of every process is given by a pushdown automaton. We consider infinite behaviors of such systems under strong process fairness condition. A result of a potentially infinite execution of a system is a limit configuration, that is a potentially infinite tree. The verification problem is to determine if a given system has a limit configuration satisfying a given regular property. This formulation of the problem encompasses verification of reachability as well as of many liveness properties. We show that this verification problem, while undecidable in general, is decidable for nested lock usage. We show Exptime-completeness of the verification problem. The main source of complexity is the number of parameters in the spawn operation. If the number of parameters is bounded, our algorithm works in Ptime for properties expressed by parity automata with a fixed number of ranks.   
+
+  Cite as    
+ Corto Mascle, Anca Muscholl, and Igor Walukiewicz. Model-Checking Parametric Lock-Sharing Systems Against Regular Constraints. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 24:1-24:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{mascle_et_al:LIPIcs.CONCUR.2023.24 author = {Mascle, Corto and Muscholl, Anca and Walukiewicz, Igor}, title = {{Model-Checking Parametric Lock-Sharing Systems Against Regular Constraints}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {24:1--24:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.24}, URN = {urn:nbn:de:0030-drops-190184}, doi = {10.4230/LIPIcs.CONCUR.2023.24}, annote = {Keywords: Parametric systems, Locks, Model-checking} }  @InProceedings{mascle_et_al:LIPIcs.CONCUR.2023.24 author = {Mascle, Corto and Muscholl, Anca and Walukiewicz, Igor}, title = {{Model-Checking Parametric Lock-Sharing Systems Against Regular Constraints}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {24:1--24:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.24}, URN = {urn:nbn:de:0030-drops-190184}, doi = {10.4230/LIPIcs.CONCUR.2023.24}, annote = {Keywords: Parametric systems, Locks, Model-checking} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.25    
+
+ A General Approach to Under-Approximate Reasoning About Concurrent Programs   
+ Authors:  Azalea Raad, Julien Vanegue, Josh Berdine, and Peter O'Hearn  
+  Abstract    
+ There is a large body of work on concurrent reasoning including Rely-Guarantee (RG) and Concurrent Separation Logics. These theories are over-approximate: a proof identifies a superset of program behaviours and thus implies the absence of certain bugs. However, failure to find a proof does not imply their presence (leading to false positives in over-approximate tools). We describe a general theory of under-approximate reasoning for concurrency. Our theory incorporates ideas from Concurrent Incorrectness Separation Logic and RG based on a subset rather than a superset of interleavings. A strong motivation of our work is detecting software exploits; we do this by developing concurrent adversarial separation logic (CASL), and use CASL to detect information disclosure attacks that uncover sensitive data (e.g. passwords) and out-of-bounds attacks that corrupt data. We also illustrate our approach with classic concurrency idioms that go beyond prior under-approximate theories which we believe can inform the design of future concurrent bug detection tools.   
+
+  Cite as    
+ Azalea Raad, Julien Vanegue, Josh Berdine, and Peter O'Hearn. A General Approach to Under-Approximate Reasoning About Concurrent Programs. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 25:1-25:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{raad_et_al:LIPIcs.CONCUR.2023.25 author = {Raad, Azalea and Vanegue, Julien and Berdine, Josh and O'Hearn, Peter}, title = {{A General Approach to Under-Approximate Reasoning About Concurrent Programs}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {25:1--25:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.25}, URN = {urn:nbn:de:0030-drops-190195}, doi = {10.4230/LIPIcs.CONCUR.2023.25}, annote = {Keywords: Under-approximate reasoning, incorrectness logic, bug detection, software exploits, separation logic} }  @InProceedings{raad_et_al:LIPIcs.CONCUR.2023.25 author = {Raad, Azalea and Vanegue, Julien and Berdine, Josh and O'Hearn, Peter}, title = {{A General Approach to Under-Approximate Reasoning About Concurrent Programs}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {25:1--25:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.25}, URN = {urn:nbn:de:0030-drops-190195}, doi = {10.4230/LIPIcs.CONCUR.2023.25}, annote = {Keywords: Under-approximate reasoning, incorrectness logic, bug detection, software exploits, separation logic} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.26    
+
+ DNN Verification, Reachability, and the Exponential Function Problem   
+ Authors:  Omri Isac, Yoni Zohar, Clark Barrett, and Guy Katz  
+  Abstract    
+ Deep neural networks (DNNs) are increasingly being deployed to perform safety-critical tasks. The opacity of DNNs, which prevents humans from reasoning about them, presents new safety and security challenges. To address these challenges, the verification community has begun developing techniques for rigorously analyzing DNNs, with numerous verification algorithms proposed in recent years. While a significant amount of work has gone into developing these verification algorithms, little work has been devoted to rigorously studying the computability and complexity of the underlying theoretical problems. Here, we seek to contribute to the bridging of this gap. We focus on two kinds of DNNs: those that employ piecewise-linear activation functions (e.g., ReLU), and those that employ piecewise-smooth activation functions (e.g., Sigmoids). We prove the two following theorems: (i) the decidability of verifying DNNs with a particular set of piecewise-smooth activation functions, including Sigmoid and tanh, is equivalent to a well-known, open problem formulated by Tarski; and (ii) the DNN verification problem for any quantifier-free linear arithmetic specification can be reduced to the DNN reachability problem, whose approximation is NP-complete. These results answer two fundamental questions about the computability and complexity of DNN verification, and the ways it is affected by the network’s activation functions and error tolerance; and could help guide future efforts in developing DNN verification tools.   
+
+  Cite as    
+ Omri Isac, Yoni Zohar, Clark Barrett, and Guy Katz. DNN Verification, Reachability, and the Exponential Function Problem. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 26:1-26:18, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{isac_et_al:LIPIcs.CONCUR.2023.26 author = {Isac, Omri and Zohar, Yoni and Barrett, Clark and Katz, Guy}, title = {{DNN Verification, Reachability, and the Exponential Function Problem}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {26:1--26:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.26}, URN = {urn:nbn:de:0030-drops-190205}, doi = {10.4230/LIPIcs.CONCUR.2023.26}, annote = {Keywords: Formal Verification, Computability Theory, Deep Neural Networks} }  @InProceedings{isac_et_al:LIPIcs.CONCUR.2023.26 author = {Isac, Omri and Zohar, Yoni and Barrett, Clark and Katz, Guy}, title = {{DNN Verification, Reachability, and the Exponential Function Problem}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {26:1--26:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.26}, URN = {urn:nbn:de:0030-drops-190205}, doi = {10.4230/LIPIcs.CONCUR.2023.26}, annote = {Keywords: Formal Verification, Computability Theory, Deep Neural Networks} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.27    
+
+ Faithful Simulation of Randomized BFT Protocols on Block DAGs   
+ Authors:  Hagit Attiya, Constantin Enea, and Shafik Nassar  
+  Abstract    
+ Byzantine Fault-Tolerant (BFT) protocols that are based on Directed Acyclic Graphs (DAGs) are attractive due to their many advantages in asynchronous blockchain systems. These DAG-based protocols can be viewed as a simulation of some BFT protocol on a DAG. Many DAG-based BFT protocols rely on randomization, since they are used for agreement and ordering of transactions, which cannot be achieved deterministically in asynchronous systems. Randomization is achieved either through local sources of randomness, or by employing shared objects that provide a common source of randomness, e.g., common coins. A DAG simulation of a randomized protocol should be faithful, in the sense that it precisely preserves the properties of the original BFT protocol, and in particular, their probability distributions. We argue that faithfulness is ensured by a forward simulation. We show how to faithfully simulate any BFT protocol that uses public coins and shared objects, like common coins.   
+
+  Cite as    
+ Hagit Attiya, Constantin Enea, and Shafik Nassar. Faithful Simulation of Randomized BFT Protocols on Block DAGs. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 27:1-27:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{attiya_et_al:LIPIcs.CONCUR.2023.27 author = {Attiya, Hagit and Enea, Constantin and Nassar, Shafik}, title = {{Faithful Simulation of Randomized BFT Protocols on Block DAGs}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {27:1--27:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.27}, URN = {urn:nbn:de:0030-drops-190210}, doi = {10.4230/LIPIcs.CONCUR.2023.27}, annote = {Keywords: Byzantine failures, Hyperproperties, Forward Simulation} }  @InProceedings{attiya_et_al:LIPIcs.CONCUR.2023.27 author = {Attiya, Hagit and Enea, Constantin and Nassar, Shafik}, title = {{Faithful Simulation of Randomized BFT Protocols on Block DAGs}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {27:1--27:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.27}, URN = {urn:nbn:de:0030-drops-190210}, doi = {10.4230/LIPIcs.CONCUR.2023.27}, annote = {Keywords: Byzantine failures, Hyperproperties, Forward Simulation} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.28    
+
+ Real Equation Systems with Alternating Fixed-Points   
+ Authors:  Jan Friso Groote and Tim A. C. Willemse  
+  Abstract    
+ We introduce the notion of a Real Equation System (RES), which lifts Boolean Equation Systems (BESs) to the domain of extended real numbers. Our RESs allow arbitrary nesting of least and greatest fixed-point operators. We show that each RES can be rewritten into an equivalent RES in normal form. These normal forms provide the basis for a complete procedure to solve RESs. This employs the elimination of the fixed-point variable at the left side of an equation from its right-hand side, combined with a technique often referred to as Gauß-elimination. We illustrate how this framework can be used to verify quantitative modal formulas with alternating fixed-point operators interpreted over probabilistic labelled transition systems.   
+
+  Cite as    
+ Jan Friso Groote and Tim A. C. Willemse. Real Equation Systems with Alternating Fixed-Points. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 28:1-28:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{groote_et_al:LIPIcs.CONCUR.2023.28 author = {Groote, Jan Friso and Willemse, Tim A. C.}, title = {{Real Equation Systems with Alternating Fixed-Points}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {28:1--28:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.28}, URN = {urn:nbn:de:0030-drops-190225}, doi = {10.4230/LIPIcs.CONCUR.2023.28}, annote = {Keywords: Real Equation System, Solution method, Gau{\ss}-elimination, Model checking, Quantitative modal mu-calculus} }  @InProceedings{groote_et_al:LIPIcs.CONCUR.2023.28 author = {Groote, Jan Friso and Willemse, Tim A. C.}, title = {{Real Equation Systems with Alternating Fixed-Points}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {28:1--28:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.28}, URN = {urn:nbn:de:0030-drops-190225}, doi = {10.4230/LIPIcs.CONCUR.2023.28}, annote = {Keywords: Real Equation System, Solution method, Gau{\ss}-elimination, Model checking, Quantitative modal mu-calculus} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.29    
+
+ Constraint Automata on Infinite Data Trees: from CTL(ℤ)/CTL^*(ℤ) to Decision Procedures   
+ Authors:  Stéphane Demri and Karin Quaas  
+  Abstract    
+ We introduce the class of tree constraint automata with data values in ℤ (equipped with the less than relation and equality predicates to constants), and we show that the nonemptiness problem is EXPTIME-complete. Using an automata-based approach, we establish that the satisfiability problem for CTL(ℤ) (CTL with constraints in ℤ) is EXPTIME-complete, and the satisfiability problem for CTL^*(ℤ) is 2ExpTime-complete (only decidability was known so far). By-product results with other concrete domains and other logics, are also briefly discussed.   
+
+  Cite as    
+ Stéphane Demri and Karin Quaas. Constraint Automata on Infinite Data Trees: from CTL(ℤ)/CTL^*(ℤ) to Decision Procedures. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 29:1-29:18, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{demri_et_al:LIPIcs.CONCUR.2023.29 author = {Demri, St\'{e}phane and Quaas, Karin}, title = {{Constraint Automata on Infinite Data Trees: from CTL(\mathbb{Z})/CTL^*(\mathbb{Z}) to Decision Procedures}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {29:1--29:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.29}, URN = {urn:nbn:de:0030-drops-190238}, doi = {10.4230/LIPIcs.CONCUR.2023.29}, annote = {Keywords: Constraints, Constraint Automata, Temporal Logics, Infinite Data Trees} }  @InProceedings{demri_et_al:LIPIcs.CONCUR.2023.29 author = {Demri, St\'{e}phane and Quaas, Karin}, title = {{Constraint Automata on Infinite Data Trees: from CTL(\mathbb{Z})/CTL^*(\mathbb{Z}) to Decision Procedures}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {29:1--29:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.29}, URN = {urn:nbn:de:0030-drops-190238}, doi = {10.4230/LIPIcs.CONCUR.2023.29}, annote = {Keywords: Constraints, Constraint Automata, Temporal Logics, Infinite Data Trees} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.30    
+
+ Visibility and Separability for a Declarative Linearizability Proof of the Timestamped Stack   
+ Authors:  Jesús Domínguez and Aleksandar Nanevski  
+  Abstract    
+ Linearizability is a standard correctness criterion for concurrent algorithms, typically proved by establishing the algorithms' linearization points (LP). However, LPs often hinder abstraction, and for some algorithms such as the timestamped stack, it is unclear how to even identify their LPs. In this paper, we show how to develop declarative proofs of linearizability by foregoing LPs and instead employing axiomatization of so-called visibility relations. While visibility relations have been considered before for the timestamped stack, our study is the first to show how to derive the axiomatization systematically and intuitively from the sequential specification of the stack. In addition to the visibility relation, a novel separability relation emerges to generalize real-time precedence of procedure invocation. The visibility and separability relations have natural definitions for the timestamped stack, and enable a novel proof that reduces the algorithm to a simplified form where the timestamps are generated atomically.   
+
+  Cite as    
+ Jesús Domínguez and Aleksandar Nanevski. Visibility and Separability for a Declarative Linearizability Proof of the Timestamped Stack. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 30:1-30:16, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{dominguez_et_al:LIPIcs.CONCUR.2023.30 author = {Dom{\'\i}nguez, Jes\'{u}s and Nanevski, Aleksandar}, title = {{Visibility and Separability for a Declarative Linearizability Proof of the Timestamped Stack}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {30:1--30:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.30}, URN = {urn:nbn:de:0030-drops-190245}, doi = {10.4230/LIPIcs.CONCUR.2023.30}, annote = {Keywords: Linearizability, Visibility Relations, Timestamped Stack} }  @InProceedings{dominguez_et_al:LIPIcs.CONCUR.2023.30 author = {Dom{\'\i}nguez, Jes\'{u}s and Nanevski, Aleksandar}, title = {{Visibility and Separability for a Declarative Linearizability Proof of the Timestamped Stack}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {30:1--30:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.30}, URN = {urn:nbn:de:0030-drops-190245}, doi = {10.4230/LIPIcs.CONCUR.2023.30}, annote = {Keywords: Linearizability, Visibility Relations, Timestamped Stack} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.31    
+
+ History-Deterministic Parikh Automata   
+ Authors:  Enzo Erlich, Shibashis Guha, Ismaël Jecker, Karoliina Lehtinen, and Martin Zimmermann  
+  Abstract    
+ Parikh automata extend finite automata by counters that can be tested for membership in a semilinear set, but only at the end of a run. Thereby, they preserve many of the desirable properties of finite automata. Deterministic Parikh automata are strictly weaker than nondeterministic ones, but enjoy better closure and algorithmic properties. This state of affairs motivates the study of intermediate forms of nondeterminism. Here, we investigate history-deterministic Parikh automata, i.e., automata whose nondeterminism can be resolved on the fly. This restricted form of nondeterminism is well-suited for applications which classically call for determinism, e.g., solving games and composition. We show that history-deterministic Parikh automata are strictly more expressive than deterministic ones, incomparable to unambiguous ones, and enjoy almost all of the closure properties of deterministic automata.   
+
+  Cite as    
+ Enzo Erlich, Shibashis Guha, Ismaël Jecker, Karoliina Lehtinen, and Martin Zimmermann. History-Deterministic Parikh Automata. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 31:1-31:16, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{erlich_et_al:LIPIcs.CONCUR.2023.31 author = {Erlich, Enzo and Guha, Shibashis and Jecker, Isma\"{e}l and Lehtinen, Karoliina and Zimmermann, Martin}, title = {{History-Deterministic Parikh Automata}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {31:1--31:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.31}, URN = {urn:nbn:de:0030-drops-190250}, doi = {10.4230/LIPIcs.CONCUR.2023.31}, annote = {Keywords: Parikh automata, History-determinism, Reversal-bounded Counter Machines} }  @InProceedings{erlich_et_al:LIPIcs.CONCUR.2023.31 author = {Erlich, Enzo and Guha, Shibashis and Jecker, Isma\"{e}l and Lehtinen, Karoliina and Zimmermann, Martin}, title = {{History-Deterministic Parikh Automata}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {31:1--31:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.31}, URN = {urn:nbn:de:0030-drops-190250}, doi = {10.4230/LIPIcs.CONCUR.2023.31}, annote = {Keywords: Parikh automata, History-determinism, Reversal-bounded Counter Machines} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.32    
+
+ Computing Minimal Distinguishing Hennessy-Milner Formulas is NP-Hard, but Variants are Tractable   
+ Authors:  Jan Martens and Jan Friso Groote  
+  Abstract    
+ We study the problem of computing minimal distinguishing formulas for non-bisimilar states in finite LTSs. We show that this is NP-hard if the size of the formula must be minimal. Similarly, the existence of a short distinguishing trace is NP-complete. However, we can provide polynomial algorithms, if minimality is formulated as the minimal number of nested modalities, and it can even be extended by recursively requiring a minimal number of nested negations. A prototype implementation shows that the generated formulas are much smaller than those generated by the method introduced by Cleaveland.   
+
+  Cite as    
+ Jan Martens and Jan Friso Groote. Computing Minimal Distinguishing Hennessy-Milner Formulas is NP-Hard, but Variants are Tractable. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 32:1-32:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{martens_et_al:LIPIcs.CONCUR.2023.32 author = {Martens, Jan and Groote, Jan Friso}, title = {{Computing Minimal Distinguishing Hennessy-Milner Formulas is NP-Hard, but Variants are Tractable}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {32:1--32:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.32}, URN = {urn:nbn:de:0030-drops-190268}, doi = {10.4230/LIPIcs.CONCUR.2023.32}, annote = {Keywords: Distinguishing behaviour, Hennessy-Milner logic, NP-hardness} }  @InProceedings{martens_et_al:LIPIcs.CONCUR.2023.32 author = {Martens, Jan and Groote, Jan Friso}, title = {{Computing Minimal Distinguishing Hennessy-Milner Formulas is NP-Hard, but Variants are Tractable}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {32:1--32:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.32}, URN = {urn:nbn:de:0030-drops-190268}, doi = {10.4230/LIPIcs.CONCUR.2023.32}, annote = {Keywords: Distinguishing behaviour, Hennessy-Milner logic, NP-hardness} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.33    
+
+ Complexity of Membership and Non-Emptiness Problems in Unbounded Memory Automata   
+ Authors:  Clément Bertrand, Cinzia Di Giusto, Hanna Klaudel, and Damien Regnault  
+  Abstract    
+ We study the complexity relationship between three models of unbounded memory automata: nu-automata (ν-A), Layered Memory Automata (LaMA)and History-Register Automata (HRA). These are all extensions of finite state automata with unbounded memory over infinite alphabets. We prove that the membership problem is NP-complete for all of them, while they fall into different classes for what concerns non-emptiness. The problem of non-emptiness is known to be Ackermann-complete for HRA, we prove that it is PSPACE-complete for ν-A.   
+
+  Cite as    
+ Clément Bertrand, Cinzia Di Giusto, Hanna Klaudel, and Damien Regnault. Complexity of Membership and Non-Emptiness Problems in Unbounded Memory Automata. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 33:1-33:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{bertrand_et_al:LIPIcs.CONCUR.2023.33 author = {Bertrand, Cl\'{e}ment and Di Giusto, Cinzia and Klaudel, Hanna and Regnault, Damien}, title = {{Complexity of Membership and Non-Emptiness Problems in Unbounded Memory Automata}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {33:1--33:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.33}, URN = {urn:nbn:de:0030-drops-190277}, doi = {10.4230/LIPIcs.CONCUR.2023.33}, annote = {Keywords: memory automata, \nu-automata, LaMA, HRA, complexity, non-emptiness, membership} }  @InProceedings{bertrand_et_al:LIPIcs.CONCUR.2023.33 author = {Bertrand, Cl\'{e}ment and Di Giusto, Cinzia and Klaudel, Hanna and Regnault, Damien}, title = {{Complexity of Membership and Non-Emptiness Problems in Unbounded Memory Automata}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {33:1--33:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.33}, URN = {urn:nbn:de:0030-drops-190277}, doi = {10.4230/LIPIcs.CONCUR.2023.33}, annote = {Keywords: memory automata, \nu-automata, LaMA, HRA, complexity, non-emptiness, membership} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.34    
+
+ Modal Logics for Mobile Processes Revisited   
+ Authors:  Tiange Liu, Alwen Tiu, and Jim de Groot  
+  Abstract    
+ We revisit the logical characterisations of various bisimilarity relations for the finite fragment of the π-calculus. Our starting point is the early and the late bisimilarity, first defined in the seminal work of Milner, Parrow and Walker, who also proved their characterisations in fragments of a modal logic (which we refer to as the MPW logic). Two important refinements of early and late bisimilarity, called open and quasi-open bisimilarity, respectively, were subsequently proposed by Sangiorgi and Walker. Horne, et. al., showed that open and quasi-bisimilarity are characterised by intuitionistic modal logics: OM (for open bisimilarity) and FM (for quasi-open bisimilarity). In this work, we attempt to unify the logical characterisations of these bisimilarity relations, showing that they can be characterised by different sublogics of a unifying logic. A key insight to this unification derives from a reformulation of the four bisimilarity relations (early, late, open and quasi-open) that uses an explicit name context, and an observation that these relations can be distinguished by the relative scoping of names and their instantiations in the name context. This name context and name substitution then give rise to an accessibility relation in the underlying Kripke semantics of our logic, that is captured logically by an S4-like modal operator. We then show that the MPW, the OM and the FM logics can be embedded into fragments of our unifying classical modal logic. In the case of OM and FM, the embedding uses the fact that intuitionistic implication can be encoded in modal logic S4.   
+
+  Cite as    
+ Tiange Liu, Alwen Tiu, and Jim de Groot. Modal Logics for Mobile Processes Revisited. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 34:1-34:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{liu_et_al:LIPIcs.CONCUR.2023.34 author = {Liu, Tiange and Tiu, Alwen and de Groot, Jim}, title = {{Modal Logics for Mobile Processes Revisited}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {34:1--34:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.34}, URN = {urn:nbn:de:0030-drops-190289}, doi = {10.4230/LIPIcs.CONCUR.2023.34}, annote = {Keywords: pi-calculus, modal logic, intuitionistic logic, bisimilarity} }  @InProceedings{liu_et_al:LIPIcs.CONCUR.2023.34 author = {Liu, Tiange and Tiu, Alwen and de Groot, Jim}, title = {{Modal Logics for Mobile Processes Revisited}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {34:1--34:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.34}, URN = {urn:nbn:de:0030-drops-190289}, doi = {10.4230/LIPIcs.CONCUR.2023.34}, annote = {Keywords: pi-calculus, modal logic, intuitionistic logic, bisimilarity} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.35    
+
+ Deciding What Is Good-For-MDPs   
+ Authors:  Sven Schewe, Qiyi Tang, and Tansholpan Zhanabekova  
+  Abstract    
+ Nondeterministic good-for-MDPs (GFM) automata are for MDP model checking and reinforcement learning what good-for-games automata are for reactive synthesis: a more compact alternative to deterministic automata that displays nondeterminism, but only so much that it can be resolved locally, such that a syntactic product can be analysed. GFM has recently been introduced as a property for reinforcement learning, where the simpler Büchi acceptance conditions it allows to use is key. However, while there are classic and novel techniques to obtain automata that are GFM, there has not been a decision procedure for checking whether or not an automaton is GFM. We show that GFM-ness is decidable and provide an EXPTIME decision procedure as well as a PSPACE-hardness proof.   
+
+  Cite as    
+ Sven Schewe, Qiyi Tang, and Tansholpan Zhanabekova. Deciding What Is Good-For-MDPs. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 35:1-35:16, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{schewe_et_al:LIPIcs.CONCUR.2023.35 author = {Schewe, Sven and Tang, Qiyi and Zhanabekova, Tansholpan}, title = {{Deciding What Is Good-For-MDPs}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {35:1--35:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.35}, URN = {urn:nbn:de:0030-drops-190290}, doi = {10.4230/LIPIcs.CONCUR.2023.35}, annote = {Keywords: B\"{u}chi automata, Markov Decision Processes, Omega-regular objectives, Reinforcement learning} }  @InProceedings{schewe_et_al:LIPIcs.CONCUR.2023.35 author = {Schewe, Sven and Tang, Qiyi and Zhanabekova, Tansholpan}, title = {{Deciding What Is Good-For-MDPs}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {35:1--35:16}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.35}, URN = {urn:nbn:de:0030-drops-190290}, doi = {10.4230/LIPIcs.CONCUR.2023.35}, annote = {Keywords: B\"{u}chi automata, Markov Decision Processes, Omega-regular objectives, Reinforcement learning} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.36    
+
+ The Semilinear Home-Space Problem Is Ackermann-Complete for Petri Nets   
+ Authors:  Petr Jančar and Jérôme Leroux  
+  Abstract    
+ A set of configurations H is a home-space for a set of configurations X of a Petri net if every configuration reachable from (any configuration in) X can reach (some configuration in) H. The semilinear home-space problem for Petri nets asks, given a Petri net and semilinear sets of configurations X, H, if H is a home-space for X. In 1989, David de Frutos Escrig and Colette Johnen proved that the problem is decidable when X is a singleton and H is a finite union of linear sets with the same periods. In this paper, we show that the general (semilinear) problem is decidable. This result is obtained by proving a duality between the reachability problem and the non-home-space problem. In particular, we prove that for any Petri net and any linear set of configurations L we can effectively compute a semilinear set C of configurations, called a non-reachability core for L, such that for every set X the set L is not a home-space for X if, and only if, C is reachable from X. We show that the established relation to the reachability problem yields the Ackermann-completeness of the (semilinear) home-space problem. For this we also show that, given a Petri net with an initial marking, the set of minimal reachable markings can be constructed in Ackermannian time.   
+
+  Cite as    
+ Petr Jančar and Jérôme Leroux. The Semilinear Home-Space Problem Is Ackermann-Complete for Petri Nets. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 36:1-36:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{jancar_et_al:LIPIcs.CONCUR.2023.36 author = {Jan\v{c}ar, Petr and Leroux, J\'{e}r\^{o}me}, title = {{The Semilinear Home-Space Problem Is Ackermann-Complete for Petri Nets}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {36:1--36:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.36}, URN = {urn:nbn:de:0030-drops-190300}, doi = {10.4230/LIPIcs.CONCUR.2023.36}, annote = {Keywords: Petri nets, home-space property, semilinear sets, Ackermannian complexity} }  @InProceedings{jancar_et_al:LIPIcs.CONCUR.2023.36 author = {Jan\v{c}ar, Petr and Leroux, J\'{e}r\^{o}me}, title = {{The Semilinear Home-Space Problem Is Ackermann-Complete for Petri Nets}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {36:1--36:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.36}, URN = {urn:nbn:de:0030-drops-190300}, doi = {10.4230/LIPIcs.CONCUR.2023.36}, annote = {Keywords: Petri nets, home-space property, semilinear sets, Ackermannian complexity} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.37    
+
+ Singly Exponential Translation of Alternating Weak Büchi Automata to Unambiguous Büchi Automata   
+ Authors:  Yong Li, Sven Schewe, and Moshe Y. Vardi  
+  Abstract    
+ We introduce a method for translating an alternating weak Büchi automaton (AWA), which corresponds to a Linear Dynamic Logic (LDL) formula, to an unambiguous Büchi automaton (UBA). Our translations generalise constructions for Linear Temporal Logic (LTL), a less expressive specification language than LDL. In classical constructions, LTL formulas are first translated to alternating very weak automata (AVAs) - automata that have only singleton strongly connected components (SCCs); the AVAs are then handled by efficient disambiguation procedures. However, general AWAs can have larger SCCs, which complicates disambiguation. Currently, the only available disambiguation procedure has to go through an intermediate construction of nondeterministic Büchi automata (NBAs), which would incur an exponential blow-up of its own. We introduce a translation from general AWAs to UBAs with a singly exponential blow-up, which also immediately provides a singly exponential translation from LDL to UBAs. Interestingly, the complexity of our translation is smaller than the best known disambiguation algorithm for NBAs (broadly (0.53n)ⁿ vs. (0.76n)ⁿ), while the input of our construction can be exponentially more succinct.   
+
+  Cite as    
+ Yong Li, Sven Schewe, and Moshe Y. Vardi. Singly Exponential Translation of Alternating Weak Büchi Automata to Unambiguous Büchi Automata. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 37:1-37:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{li_et_al:LIPIcs.CONCUR.2023.37 author = {Li, Yong and Schewe, Sven and Vardi, Moshe Y.}, title = {{Singly Exponential Translation of Alternating Weak B\"{u}chi Automata to Unambiguous B\"{u}chi Automata}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {37:1--37:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.37}, URN = {urn:nbn:de:0030-drops-190313}, doi = {10.4230/LIPIcs.CONCUR.2023.37}, annote = {Keywords: B\"{u}chi automata, unambiguous automata, alternation, weak, disambiguation} }  @InProceedings{li_et_al:LIPIcs.CONCUR.2023.37 author = {Li, Yong and Schewe, Sven and Vardi, Moshe Y.}, title = {{Singly Exponential Translation of Alternating Weak B\"{u}chi Automata to Unambiguous B\"{u}chi Automata}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {37:1--37:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.37}, URN = {urn:nbn:de:0030-drops-190313}, doi = {10.4230/LIPIcs.CONCUR.2023.37}, annote = {Keywords: B\"{u}chi automata, unambiguous automata, alternation, weak, disambiguation} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.38    
+
+ Contextual Behavioural Metrics   
+ Authors:  Ugo Dal Lago and Maurizio Murgia  
+  Abstract    
+ We introduce contextual behavioural metrics (CBMs) as a novel way of measuring the discrepancy in behaviour between processes, taking into account both quantitative aspects and contextual information. This way, process distances by construction take the environment into account: two (non-equivalent) processes may still exhibit very similar behaviour in some contexts, e.g., when certain actions are never performed. We first show how CBMs capture many well-known notions of equivalence and metric, including Larsen’s environmental parametrized bisimulation. We then study compositional properties of CBMs with respect to some common process algebraic operators, namely prefixing, restriction, non-deterministic sum, parallel composition and replication.   
+
+  Cite as    
+ Ugo Dal Lago and Maurizio Murgia. Contextual Behavioural Metrics. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 38:1-38:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{dallago_et_al:LIPIcs.CONCUR.2023.38 author = {Dal Lago, Ugo and Murgia, Maurizio}, title = {{Contextual Behavioural Metrics}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {38:1--38:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.38}, URN = {urn:nbn:de:0030-drops-190320}, doi = {10.4230/LIPIcs.CONCUR.2023.38}, annote = {Keywords: Behavioural metrics, Labelled Transition Systems, Differential Semantics} }  @InProceedings{dallago_et_al:LIPIcs.CONCUR.2023.38 author = {Dal Lago, Ugo and Murgia, Maurizio}, title = {{Contextual Behavioural Metrics}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {38:1--38:17}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.38}, URN = {urn:nbn:de:0030-drops-190320}, doi = {10.4230/LIPIcs.CONCUR.2023.38}, annote = {Keywords: Behavioural metrics, Labelled Transition Systems, Differential Semantics} }    
+
+  Document   
+ DOI: 10.4230/LIPIcs.CONCUR.2023.39    
+
+ Priority Downward Closures   
+ Authors:  Ashwani Anand and Georg Zetzsche  
+  Abstract    
+ When a system sends messages through a lossy channel, then the language encoding all sequences of messages can be abstracted by its downward closure, i.e. the set of all (not necessarily contiguous) subwords. This is useful because even if the system has infinitely many states, its downward closure is a regular language. However, if the channel has congestion control based on priorities assigned to the messages, then we need a finer abstraction: The downward closure with respect to the priority embedding. As for subword-based downward closures, one can also show that these priority downward closures are always regular. While computing finite automata for the subword-based downward closure is well understood, nothing is known in the case of priorities. We initiate the study of this problem and provide algorithms to compute priority downward closures for regular languages, one-counter languages, and context-free languages.   
+
+  Cite as    
+ Ashwani Anand and Georg Zetzsche. Priority Downward Closures. In 34th International Conference on Concurrency Theory (CONCUR 2023). Leibniz International Proceedings in Informatics (LIPIcs), Volume 279, pp. 39:1-39:18, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{anand_et_al:LIPIcs.CONCUR.2023.39 author = {Anand, Ashwani and Zetzsche, Georg}, title = {{Priority Downward Closures}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {39:1--39:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.39}, URN = {urn:nbn:de:0030-drops-190339}, doi = {10.4230/LIPIcs.CONCUR.2023.39}, annote = {Keywords: downward closure, priority order, pushdown automata, non-deterministic finite automata, abstraction, computability} }  @InProceedings{anand_et_al:LIPIcs.CONCUR.2023.39 author = {Anand, Ashwani and Zetzsche, Georg}, title = {{Priority Downward Closures}}, booktitle = {34th International Conference on Concurrency Theory (CONCUR 2023)}, pages = {39:1--39:18}, series = {Leibniz International Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-299-0}, ISSN = {1868-8969}, year = {2023}, volume = {279}, editor = {P\'{e}rez, Guillermo A. and Raskin, Jean-Fran\c{c}ois}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.39}, URN = {urn:nbn:de:0030-drops-190339}, doi = {10.4230/LIPIcs.CONCUR.2023.39}, annote = {Keywords: downward closure, priority order, pushdown automata, non-deterministic finite automata, abstraction, computability} }    
+
+ Filters  
+
+ Authors 
+   Show All  Collapse 
+  Show All 
+  A 
+  Abate, Alessandro 
+  Ajdarów, Michal 
+  Anand, Ashwani 
+  Attiya, Hagit 
+  Avni, Guy 
+  B 
+  Barrett, Clark 
+  Bartocci, Ezio 
+  Baumann, Pascal 
+  Berdine, Josh 
+  Bertrand, Clément 
+  Boker, Udi 
+  Bose, Sougata 
+  Bouajjani, Ahmed 
+  D 
+  Dal Lago, Ugo 
+  de Groot, Jim 
+  Demri, Stéphane 
+  Di Giusto, Cinzia 
+  Domínguez, Jesús 
+  E 
+  Edwards, Alec 
+  Enea, Constantin 
+  Erlich, Enzo 
+  Esparza, Javier 
+  F 
+  Finkel, Alain 
+  G 
+  Ghorpade, Pranav 
+  Giacobbe, Mirco 
+  Groote, Jan Friso 
+  Guha, Shibashis 
+  Guillou, Lucie 
+  Guttenberg, Roland 
+  H 
+  Haase, Christoph 
+  Haddad, Serge 
+  Henzinger, Thomas A. 
+  I 
+  Iosif, Radu 
+  Isac, Omri 
+  J 
+  Jančar, Petr 
+  Jecker, Ismaël 
+  Johnsen, Einar Broch 
+  Jonsson, Bengt 
+  K 
+  Kamburjan, Eduard 
+  Katz, Guy 
+  Keskin, Eren 
+  Klaudel, Hanna 
+  Kløvstad, Åsmund Aqissiaq Arild 
+  Krishna, Shankara Narayanan 
+  Kučera, Antonín 
+  Kupferman, Orna 
+  Kwiatkowska, Marta 
+  L 
+  Lehtinen, Karoliina 
+  Leroux, Jérôme 
+  Li, Yong 
+  Liu, Tiange 
+  Luttik, Bas 
+  M 
+  Madnani, Khushraj 
+  Madnani, Khushraj Nanik 
+  Majumdar, Rupak 
+  Martens, Jan 
+  Mascle, Corto 
+  Mazowiecki, Filip 
+  Mazzocchi, Nicolas 
+  Meyer, Roland 
+  Michaliszyn, Jakub 
+  Mordido, Andreia 
+  Murgia, Maurizio 
+  Muscholl, Anca 
+  N 
+  Nanevski, Aleksandar 
+  Nassar, Shafik 
+  Nickovic, Dejan 
+  O 
+  O'Hearn, Peter 
+  Oliveira da Costa, Ana 
+  Otop, Jan 
+  P 
+  Pandya, Paritosh 
+  Pérez, Guillermo A. 
+  Peters, Kirstin 
+  Piórkowski, Radosław 
+  Punchihewa, Hashan 
+  Purser, David 
+  Q 
+  Quaas, Karin 
+  R 
+  Raad, Azalea 
+  Raskin, Jean-François 
+  Raskin, Mikhail 
+  Regnault, Damien 
+  Roy, Diptarko 
+  S 
+  Sangnier, Arnaud 
+  Saraç, N. Ege 
+  Schewe, Sven 
+  Schmitt, Anna 
+  Shenwald, Noam 
+  Silva, Gil 
+  Spronck, Myrthe S. C. 
+  Sznajder, Nathalie 
+  T 
+  Tang, Qiyi 
+  Tiu, Alwen 
+  Totzke, Patrick 
+  V 
+  van Spaendonck, P. H. M. 
+  Vanegue, Julien 
+  Vardi, Moshe Y. 
+  Vasconcelos, Vasco T. 
+  W 
+  Walukiewicz, Igor 
+  Wieczorek, Piotr 
+  Willemse, Tim A. C. 
+  Y 
+  Ye, Lina 
+  Z 
+  Zetzsche, Georg 
+  Zhanabekova, Tansholpan 
+  Zimmermann, Martin 
+  Zohar, Yoni 
+  Zuleger, Florian 
+
+  Subjects 
+   Show All  Collapse 
+  Show All 
+  Computing methodologies 
+  Computing methodologies → Distributed algorithms 
+  Computing methodologies → Machine learning 
+  Computing methodologies → Neural networks 
+  General and reference 
+  General and reference → Verification 
+  Mathematics of computing 
+  Mathematics of computing → Markov processes 
+  Security and privacy 
+  Security and privacy → Logic and verification 
+  Software and its engineering 
+  Software and its engineering → Concurrent programming structures 
+  Software and its engineering → Formal software verification 
+  Theory of computation 
+  Theory of computation 
+  Theory of computation → Automata over infinite objects 
+  Theory of computation → Concurrency 
+  Theory of computation → Distributed computing models 
+  Theory of computation → Formal languages and automata theory 
+  Theory of computation → Logic 
+  Theory of computation → Logic and verification 
+  Theory of computation → Modal and temporal logics 
+  Theory of computation → Models of computation 
+  Theory of computation → Parallel computing models 
+  Theory of computation → Probabilistic computation 
+  Theory of computation → Problems, reductions and completeness 
+  Theory of computation → Process calculi 
+  Theory of computation → Program analysis 
+  Theory of computation → Program reasoning 
+  Theory of computation → Program verification 
+  Theory of computation → Programming logic 
+  Theory of computation → Quantitative automata 
+  Theory of computation → Regular languages 
+  Theory of computation → Separation logic 
+  Theory of computation → Shared memory algorithms 
+  Theory of computation → Type structures 
+  Theory of computation → Verification by model checking 
+
+  Questions / Remarks / Feedback   X  Feedback for Dagstuhl Publishing  
+     
+  Send    
+   
+  Thanks for your feedback!  
+ Feedback submitted   
+ OK    
+  Could not send message  
+ Please try again later or send an E-mail    
+ OK    
+   About DROPS  
+ Schloss Dagstuhl - Leibniz Center for Informatics has been operating the Dagstuhl Research Online Publication Server (short: DROPS) since 2004. DROPS enables publication of the latest research findings in a fast, uncomplicated manner, in addition to providing unimpeded, open access to them. All the requisite metadata on each publication is administered in accordance with general guidelines pertaining to online publications (cf. Dublin Core). This enables the online publications to be authorized for citation and made accessible to a wide readership on a permanent basis. Access is free of charge for readers following the open access idea which fosters unimpeded access to scientific publications.  
+   
+ Instructions for Authors  
+ Dagstuhl Series   
+  LIPIcs 
+  OASIcs 
+  Dagstuhl Follow-Ups 
+    
+ Dagstuhl Journals   
+  DARTS – Dagstuhl Artifacts Series 
+  Dagstuhl Reports 
+  Dagstuhl Manifestos 
+  LITES 
+  TGDK – Transactions on Graph Data and Knowledge 
+
+ Instructions for Editors  
+ Dagstuhl Series   
+  LIPIcs 
+  OASIcs 
+  Dagstuhl Follow-Ups 
+    
+ Dagstuhl Journals   
+  DARTS – Dagstuhl Artifacts Series 
+  Dagstuhl Reports 
+  Dagstuhl Manifestos 
+  LITES 
+  TGDK – Transactions on Graph Data and Knowledge 
+
+ © 2023-2024 Schloss Dagstuhl – LZI GmbH  Imprint  Privacy  Contact

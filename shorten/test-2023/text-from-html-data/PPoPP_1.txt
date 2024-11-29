@@ -1,0 +1,122 @@
+PPoPP 2023   Sat 25 February - Wed 1 March 2023 Montreal, Canada    
+ Toggle navigation        
+  Student Travel Grant 
+  Local Info 
+  Program | PPoPP Program 
+  Your Program 
+   Sat 25 Feb 
+  Sun 26 Feb 
+  Mon 27 Feb 
+  Tue 28 Feb 
+  Wed 1 Mar 
+  Tracks | PPoPP 2023 
+  Keynotes 
+  Main Conference 
+  Artifact Evaluation 
+  Co-located Conferences 
+  Organization | PPoPP 2023 Committees 
+  Organizing Committee 
+  Steering Committee 
+  Series | Series 
+  PPoPP 2024 
+  PPoPP 2023 
+  PPoPP 2022 
+  Sign up 
+  PPoPP 2023  ( series  ) /  Main Conference PPoPP 2023   
+ About 
+  Accepted Papers 
+  Call for Papers 
+  PPoPP is the premier forum for leading work on all aspects of parallel programming, including theoretical foundations, techniques, languages, compilers, runtime systems, tools, and practical experience. In the context of the symposium, “parallel programming” encompasses work on concurrent and parallel systems (multicore, multi-threaded, heterogeneous, clustered, and distributed systems; grids; datacenters; clouds; and large scale machines). Given the rise of parallel architectures in the consumer market (desktops, laptops, and mobile devices) and data centers, PPoPP is particularly interested in work that addresses new parallel workloads and issues that arise out of extreme-scale applications or cloud platforms, as well as techniques and tools that improve the productivity of parallel programming or work towards improved synergy with such emerging architectures.  
+ Proceedings will be available in the ACM Digital Library.  
+   The GMT offsets shown reflect the offsets at the moment of the conference  .     
+ Time Band   
+ ×    You're viewing the program in a time zone which is different from your device's time zone change time zone     
+ Sun 26 Feb   
+ Displayed time zone: Eastern Time (US & Canada)  change      
+ 2h    
+ Poster | POSTER: Unexpected Scaling in Path Copying Trees   Main Conference   
+ Vitaly Aksenov  Inria & ITMO University  , Trevor Brown  University of Toronto  , Alexander Fedorov  IST Austria  , Ilya Kokorin  ITMO University 
+ 2h    
+ Poster | POSTER: Efficient All-reduce for Distributed DNN Training in Optical Interconnect Systems   Main Conference   
+ Fei Dai  University of Otago  , Yawen Chen  University of Otago  , Zhiyi Huang  University of Otago  , Haibo Zhang  University of Otago  , Fangfang Zhang  Qilu University of Technology 
+ 2h    
+ Poster | POSTER: Learning to Parallelize in a Shared-Memory Environment with Transformers   Main Conference   
+ Re'em Harel   , Yuval Pinter   , Gal Oren  Technion - Israel Institute of Technology    
+  Pre-print 
+ Mon 27 Feb   
+ Displayed time zone: Eastern Time (US & Canada)  change      
+ 20m    
+ Talk | Provably Good Randomized Strategies for Data Placement in Distributed Key-Value Stores   Main Conference   
+ Zhe Wang  Washington University in St. Louis  , Jinhao Zhao  Washington University in St. Louis  , Kunal Agrawal  Washington University in St. Louis, USA  , Jing Li  New Jersey Institute of Technology  , He Liu  Apple Inc.  , Meng Xu  Apple Inc. 
+ 20m    
+ Talk | Exploring the Use of WebAssembly in HPC   Main Conference   
+ Mohak Chadha  Chair of Computer Architecture and Parallel Systems, Technical University of Munich  , Nils Krueger  Chair of Computer Architecture and Parallel Systems, Technical University of Munich  , Jophin John  Chair of Computer Architecture and Parallel Systems, Technical University of Munich  , Anshul Jindal  Chair of Computer Architecture and Parallel Systems, Technical University of Munich  , Michael Gerndt  TUM  , Shajulin Benedict  Indian Institute of Information Technology Kottayam, Kerala, India 
+ 20m    
+ Talk | Fast and Scalable Channels in Kotlin Coroutines   Main Conference   
+ Nikita Koval  JetBrains  , Dan Alistarh  IST Austria  , Roman Elizarov  JetBrains 
+ Tue 28 Feb   
+ Displayed time zone: Eastern Time (US & Canada)  change      
+ 20m    
+ Talk | TL4x - Buffered Durable Transactions on Disk as Fast as in Memory   Main Conference   
+ Gal Assa  Technion  , Andreia Correia  University of Neuchâtel  , Pedro Ramalhete  Cisco Systems  , Valerio Schiavoni  University of Neuchatel  , Pascal Felber  University of Neuchâtel 
+ Wed 1 Mar   
+ Displayed time zone: Eastern Time (US & Canada)  change      
+ End-to-End LU Factorization of Large Matrices on GPUs  Main Conference   
+ Yang Xia  , Peng Jiang  , Rajiv Ramnath  , Gagan Agrawal 
+ Exploring the Use of WebAssembly in HPC  Main Conference   
+ Mohak Chadha  , Nils Krueger  , Jophin John  , Anshul Jindal  , Michael Gerndt  , Shajulin Benedict 
+ Fast and Scalable Channels in Kotlin Coroutines  Main Conference   
+ Nikita Koval  , Dan Alistarh  , Roman Elizarov 
+ Fast Eigenvalue Decomposition via WY Representation on Tensor Core  Main Conference   
+ Provably Fast and Space-Efficient Parallel Biconnectivity  Main Conference   
+ Xiaojun Dong  , Letong Wang  , Yan Gu  , Yihan Sun 
+ Provably Good Randomized Strategies for Data Placement in Distributed Key-Value Stores  Main Conference   
+ Zhe Wang  , Jinhao Zhao  , Kunal Agrawal  , Jing Li  , He Liu  , Meng Xu 
+ TDC: Towards Extremely Efficient CNNs on GPUs via Hardware-Aware Tucker Decomposition  Main Conference   
+ The State-of-the-Art LCRQ Concurrent Queue Algorithm Does NOT Require CAS2  Main Conference   
+ Nikita Koval  , Raed Romanov 
+ TL4x - Buffered Durable Transactions on Disk as Fast as in Memory  Main Conference   
+ Gal Assa  , Andreia Correia  , Pedro Ramalhete  , Valerio Schiavoni  , Pascal Felber 
+ Visibility Algorithms for Dynamic Dependence Analysis and Distributed Coherence  Main Conference   
+ Call for Papers  
+ PPoPP 2023: 28th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming  
+ Montreal, Canada. (collocated with CC-2023, HPCA-2023 and CGO-2023) Dates: 25 February - 1 March, 2023.  
+ Important dates:   
+ Full paper submission: August 17, 2022 
+  Author response period: October 26–October 28, 2022 
+  Author notification: November 7, 2022 
+  Artifact submission to AE committee: November 16, 2022 
+  Artifact notification by AE committee: December 30, 2022 
+  Final paper due: January 6, 2023 
+  All deadlines are at midnight anywhere on earth (AoE), and are firm.  
+ Scope:   
+ PPoPP is the premier forum for leading work on all aspects of parallel programming, including theoretical foundations, techniques, languages, compilers, runtime systems, tools, and practical experience. In the context of the symposium, “parallel programming” encompasses work on concurrent and parallel systems (multicore, multi-threaded, heterogeneous, clustered, and distributed systems; grids; data centers; clouds; and large scale machines). Given the rise of parallel architectures in the consumer market (desktops, laptops, and mobile devices) and data centers, PPoPP is particularly interested in work that addresses new parallel workloads and issues that arise out of extreme-scale applications or cloud platforms, as well as techniques and tools that improve the productivity of parallel programming or work towards improved synergy with such emerging architectures.  
+ Specific topics of interest include (but are not limited to):  
+ Compilers and runtime systems for parallel and heterogeneous systems 
+  Software productivity for parallel programming 
+  Synchronization and concurrency control 
+  Papers should report on original research relevant to parallel programming and should contain enough background materials to make them accessible to the entire parallel programming research community. Papers describing experience should indicate how they illustrate general principles or lead to new insights; papers about parallel programming foundations should indicate how they relate to practice. PPoPP submissions will be evaluated based on their technical merit and accessibility. Submissions should clearly motivate the importance of the problem being addressed, compare to the existing body of work on the topic, and explicitly and precisely state the paper’s key contributions and results towards addressing the problem. Submissions should strive to be accessible both to a broad audience and to experts in the area.  
+ Paper Submission:   
+ All papers must be prepared in ACM Conference Format using the 2-column  acmart  format: use the SIGPLAN proceedings template acmart-sigplanproc-template.tex  for Latex,and interim-layout.docx  for Word. You may also want to consult the official ACM information on the Master Article Template  and related tools. Important note: The Word template (interim-layout.docx) on the ACM website uses 9pt font; you need to increase it to 10pt.  
+ Papers should contain a maximum of 10 pages of text (in a typeface no smaller than 10 point) or figures, NOT INCLUDING references. There is no page limit for references and they must include the name of all authors (not {et al.}). Appendices are not allowed, but the authors may submit supplementary material, such as proofs or source code; all supplementary material must be in PDF or ZIP format. Looking at supplementary material is at the discretion of the reviewers.  
+ PPoPP 2023 will employ a double-blind reviewing process. To facilitate this process, submissions should not reveal the identity of the authors in any way. Authors should leave out author names and affiliations from the body of their submission. They should also ensure that any references to authors’ own related work should be in the third person (e.g., not “We build on our previous work …” but rather “We build on the work of …”). The purpose of this process is to help the PC and external reviewers come to an initial judgment about the paper without bias, not to make it impossible for them to discover the authors if they were to try. Nothing should be done in the name of anonymity that weakens the submission or makes the job of reviewing the paper more difficult. In particular, important background references should not be omitted or anonymized. In addition, authors should feel free to disseminate their ideas or draft versions of their paper as they normally would. For instance, authors may post drafts of their papers on the web or give talks on their research ideas. Authors with further questions on double-blind reviewing are encouraged to contact the Program Chairs by email.  
+ Submissions should be in PDF and printable on both US Letter and A4 paper. Papers may be resubmitted to the submission site multiple times up until the deadline, but the last version submitted before the deadline will be the version reviewed. Papers that exceed the length requirement, that deviate from the expected format, or that are submitted late will be rejected.  
+ All submissions that are not accepted for regular presentations will be automatically considered for posters. Two-page summaries of accepted posters will be included in the conference proceedings.  
+ To allow reproducibility, we encourage authors of accepted papers to submit their papers for Artifact Evaluation (AE). The AE process begins after the acceptance notification, and is run by a separate committee whose task is to assess how the artifacts support the work described in the papers. Artifact evaluation is voluntary and will not affect paper acceptance, but will be taken into consideration when selecting papers for awards. Papers that go through the AE process successfully will receive one or several of the ACM reproducibility badges, printed on the papers themselves. More information will be posted on the AE website.  
+ Deadlines expire at midnight anywhere on earth.  
+ Publication Date:   
+ The titles of all accepted papers are typically announced shortly after the author notification date (late November 2022). Note, however, that this is not the official publication date. The official publication date is the date the proceedings are made available in the ACM Digital Library. ACM will make the proceedings available via the Digital Library for one month, up to 2 weeks prior to the first day of the conference. The official publication date affects the deadline for any patent filings related to published work.  
+ ACM Publications Policies:   
+ Please ensure that you and your co-authors obtain an ORCID ID, so you can complete the publishing process for your accepted paper. ACM has been involved in ORCID from the start and we have recently made a commitment to collect ORCID IDs from all of our published authors. The collection process has started and will roll out as a requirement throughout 2022. We are committed to improve author discoverability, ensure proper attribution and contribute to ongoing community efforts around name normalization; your ORCID ID will help in these efforts.  
+ Important Dates   AoE (UTC-12h)     
+ Fri 6 Jan 2023  
+  Final paper due 
+ Mon 7 Nov 2022  
+  Author notification 
+ Wed 26 - Fri 28 Oct 2022  
+  Author response period 
+ Wed 17 Aug 2022   
+  Full paper submission 
+ Submission Link   
+  PPoPP 2023   
+  contact form    

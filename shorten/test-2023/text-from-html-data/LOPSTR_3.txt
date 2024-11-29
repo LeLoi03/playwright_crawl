@@ -1,0 +1,14 @@
+ nach oben    
+ 2023 | Buch  
+ Kapitel lesen  Erstes Kapitel lesen     
+ Transforming Big-Step to Small-Step Semantics Using Interpreter Specialisation  
+  Abstract   
+ Natural semantics (big-step) and structural operational semantics (small-step) each have advantages, so it can be useful to produce both semantic forms for a language. Previous work has shown that big-step semantics can be transformed to small-step semantics. This is also the goal of our work, but our main contribution is to show that this can be done by specialisation of an interpreter that imposes a small-step execution on big-step transition rules. This is arguably more direct, transparent and flexible than previous methods. The paper contains two examples and further examples are available in an online repository.   
+ John P. Gallagher, Manuel Hermenegildo, José Morales, Pedro Lopez-Garcia   
+ A Novel EGs-Based Framework for Systematic Propositional-Formula Simplification  
+  Abstract   
+ This paper presents a novel simplification calculus for propositional logic derived from Peirce’s Existential Graphs’ rules of inference and implication graphs. Our rules can be applied to arbitrary propositional logic formulae (not only in CNF), are equivalence-preserving, guarantee a monotonically decreasing number of clauses and literals, and maximise the preservation of structural problem information. Our techniques can also be seen as higher-level SAT preprocessing, and we show how one of our rules (TWSR) generalises and streamlines most of the known equivalence-preserving SAT preprocessing methods. We further show how this rule can be extended with a novel n-ary implication graph to capture all known equivalence-preserving preprocessing procedures. Finally, we discuss the complexity and implementation of our framework as a solver-agnostic algorithm to simplify Boolean satisfiability problems and arbitrary propositional formula.   
+ Jordina Francès de Mas, Juliana Bowles   
+  Bishoksan Kafle  
+ Copyright-Jahr  2023    
+ Verlag  Springer Nature Switzerland     

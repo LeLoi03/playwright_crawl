@@ -1,0 +1,452 @@
+input:
+1. CRITIS_2 conference:
+Overview    Event     
+ International Conference on Critical Information Infrastructures Security (CRITIS 2023)  
+ CRITIS 2023 brings forth innovative research on critical information infrastructures protection C(I)IP, exploring ideas that address challenges to resilience and societal safety & security, and fostering dialogue with stakeholders.  
+ date  : 13/09/2023 - 15/09/2023  
+ venue  : Helsinki, Finland  
+ Organiser  : Laurea University of Applied Sciences
+2. CRYPTO_0 conference:
+Crypto 2023  
+ August 19-24, 2023  
+ Santa Barbara, USA  
+     Home 
+  Technical Program | Main program  Rump session  Affiliated events  Accepted papers  Call for papers  Paper submission 
+  Attend | Registration  Venue & travel  Visas  Code of conduct 
+  Sponsors 
+ This site is designed for browsers with javascript.  
+ The dates, name, and location for the conference are in a json file.   
+ Website Updates  
+ 22 Aug 2023  
+ The rump session  program is online  
+ This is only the most recent website update. The history of the website updates are now available on a separate page  .    
+ Crypto 2023  
+  Copyright © 2024  by the  IACR  International Association for Cryptologic Research   •   
+  Privacy Policy
+3. CRYPTO_1 conference:
+Advances in Cryptology – CRYPTO 2023 | springerprofessional.de  Skip to main content    Menü   Fachgebiete Chevron down icon     Chevron up icon        Automobil + Motoren    Bauwesen + Immobilien    Business IT + Informatik    Elektrotechnik + Elektronik    Energie + Nachhaltigkeit    Finance + Banking    Management + Führung    Marketing + Vertrieb    Maschinenbau + Werkstoffe    Versicherung + Risiko      
+ DE     
+ nach oben    
+ 2023 | Buch  
+ Kapitel lesen  Erstes Kapitel lesen     
+ Advances in Cryptology – CRYPTO 2023  
+ herausgegeben von: Helena Handschuh, Anna Lysyanskaya   
+ Exploring Decryption Failures of BIKE: New Class of Weak Keys and Key Recovery Attacks  
+  Abstract   
+ Code-based cryptography has received a lot of attention recently because it is considered secure under quantum computing. Among them, the QC-MDPC based scheme is one of the most promising due to its excellent performance. QC-MDPC based schemes are usually subject to a small rate of decryption failure, which can leak information about the secret key. This raises two crucial problems: how to accurately estimate the decryption failure rate and how to use the failure information to recover the secret key. However, the two problems are challenging due to the difficulty of geometrically characterizing the bit-flipping decoder employed in QC-MDPC, such as using decoding radius.   
+  Abstract   
+ We present cryptanalysis of the inhomogenous short integer solution ( \(\textsf{ISIS}_{}\)  ) problem for anomalously small moduli \(q\)  by exploiting the geometry of BKZ reduced bases of q  -ary lattices.   
+ We apply this cryptanalysis to examples from the literature where taking such small moduli has been suggested. A recent work [Espitau–Tibouchi–Wallet–Yu, CRYPTO 2022] suggests small \(q\)  versions of the lattice signature scheme Falcon  and its variant Mitaka  . For one small \(q\)  parametrisation of Falcon  we reduce the estimated security against signature forgery by approximately 26 bits. For one small \(q\)  parametrisation of Mitaka  we successfully forge a signature in 15 s.   
+ Léo Ducas, Thomas Espitau, Eamonn W. Postlethwaite   
+  Abstract   
+ In this paper we present the first practical-time attack on GOST with secret S-boxes. The attack works in the related-key model and is faster than all previous attacks in this model which assume that the S-boxes are known. The complexity of the attack is less than \(2^{27}\)  encryptions. It was fully verified, and runs in a few seconds on a PC. The attack is based on a novel type of related-key differentials of GOST, inspired by local collisions.   
+ Our new technique may be applicable to certain GOST-based hash functions as well. To demonstrate this, we show how to find a collision on a Davies-Meyer construction based on GOST with an arbitrary initial value, in less than \(2^{10}\)  hash function evaluations.   
+ Orr Dunkelman, Nathan Keller, Ariel Weizmann   
+ Moving a Step of ChaCha in Syncopated Rhythm  
+  Abstract   
+ The stream cipher ChaCha is one of the most widely used ciphers in the real world, such as in TLS, SSH and so on. In this paper, we study the security of ChaCha via differential cryptanalysis based on probabilistic neutrality bits (PNBs). We introduce the syncopation  technique for the PNB-based approximation in the backward direction, which significantly amplifies its correlation by utilizing the property of ARX structure. In virtue of this technique, we present a new and efficient method for finding a good set of PNBs. A refined framework of key-recovery attack is then formalized for round-reduced ChaCha. The new techniques allow us to break 7.5 rounds of ChaCha without the last XOR and rotation, as well as to bring faster attacks on 6 rounds and 7 rounds of ChaCha.   
+ Shichang Wang, Meicheng Liu, Shiqi Hou, Dongdai Lin   
+ Cryptanalysis of Symmetric Primitives over Rings and a Key Recovery Attack on Rubato  
+  Abstract   
+ Symmetric primitives are a cornerstone of cryptography, and have traditionally been defined over fields, where cryptanalysis is now well understood. However, a few symmetric primitives defined over rings  \(\mathbb Z _q\)  for a composite number \(q\)  have recently been proposed, a setting where security is much less studied. In this paper we focus on studying established algebraic attacks typically defined over fields and the extent of their applicability to symmetric primitives defined over the ring of integers modulo a composite \(q\)  . Based on our analysis, we present an attack on full Rubato  , a family of symmetric ciphers proposed by Ha et al. at Eurocrypt 2022 designed to be used in a transciphering framework for approximate fully homomorphic encryption. We show that at least 25 \(\%\)  of the possible choices for \(q\)  satisfy certain conditions that lead to a successful key recovery attack with complexity significantly lower than the claimed security level for five of the six ciphers in the Rubato  family.   
+ Lorenzo Grassi, Irati Manterola Ayala, Martha Norberg Hovd, Morten Øygarden, Håvard Raddum, Qingju Wang   
+ Learning with Physical Rounding for Linear and Quadratic Leakage Functions  
+  Abstract   
+ Fresh re-keying is a countermeasure against side-channel analysis where an ephemeral key is derived from a long-term key using a public random value. Popular instances of such schemes rely on key-homomorphic primitives, so that the re-keying process is easy to mask and the rest of the (e.g., block cipher) computations can run with cheaper countermeasures. The main requirement for these schemes to be secure is that the leakages of the ephemeral keys do not allow recovering the long-term key. The Learning with Physical Rounding (LWPR) problem formalizes this security in a practically-relevant model where the adversary can observe noise-free leakages. It can be viewed as a physical version of the Learning With Rounding (LWR) problem, where the rounding is performed by a leakage function and therefore does not have to be computed explicitly. In this paper, we first consolidate the intuition that LWPR cannot be secure in a serial implementation context without additional countermeasures (like shuffling), due to attacks exploiting worst-case leakages that can be mounted with practical data complexity. We then extend the understanding of LWPR in a parallel implementation setting. On the one hand, we generalize its robustness against cryptanalysis taking advantage of any (i.e., not only worst-case) leakage. A previous work claimed security in the specific context of a Hamming weight leakage function. We clarify necessary conditions to maintain this guarantee, based on the degree of the leakage function and the accuracy of its coefficients. On the other hand, we show that parallelism inherently provides good security against attacks exploiting worst-case leakages. We finally confirm the practical relevance of these findings by validating our assumptions experimentally for an exemplary implementation.   
+ Clément Hoffmann, Pierrick Méaux, Charles Momin, Yann Rotella, François-Xavier Standaert, Balazs Udvarhelyi   
+ Coefficient Grouping for Complex Affine Layers  
+  Abstract   
+ Designing symmetric-key primitives for applications in Fully Homomorphic Encryption (FHE) has become important to address the issue of the ciphertext expansion. In such a context, cryptographic primitives with a low-AND-depth decryption circuit are desired. Consequently, quadratic nonlinear functions are commonly used in these primitives, including the well-known \(\chi \)  function over \(\mathbb {F}_2^n\)  and the power map over a large finite field \(\mathbb {F}_{p^n}\)  . In this work, we study the growth of the algebraic degree for an SPN cipher over \(\mathbb {F}_{2^n}^{m}\)  , whose S-box is defined as the combination of a power map \(x\mapsto x^{2^d+1}\)  and an \(\mathbb {F}_2\)  -linearized affine polynomial \(x\mapsto c_0+\sum _{i=1}^{w}c_ix^{2^{h_i}}\)  where \(c_1,\ldots ,c_w\ne 0\)  . Specifically, motivated by the fact that the original coefficient grouping technique published at EUROCRYPT 2023 becomes less efficient for \(w>1\)  , we develop a variant technique that can efficiently work for arbitrary w  . With this new technique to study the upper bound of the algebraic degree, we answer the following questions from a theoretic perspective: 1.  can the algebraic degree increase exponentially when \(w=1\)  ?   
+ 2.  what is the influence of w  , d  and \((h_1,\ldots ,h_w)\)  on the growth of the algebraic degree?   
+ Horst Meets Fluid-SPN: Griffin for Zero-Knowledge Applications  
+  Abstract   
+ Zero-knowledge (ZK) applications form a large group of use cases in modern cryptography, and recently gained in popularity due to novel proof systems. For many of these applications, cryptographic hash functions are used as the main building blocks, and they often dominate the overall performance and cost of these approaches.   
+ Therefore, in the last years several new hash functions were built in order to reduce the cost in these scenarios, including Poseidon  and Rescue  among others. These hash functions often look very different from more classical designs such as AES or SHA-2. For example, they work natively over prime fields rather than binary ones. At the same time, for example Poseidon  and Rescue  share some common features, such as being SPN schemes and instantiating the nonlinear layer with invertible power maps. While this allows the designers to provide simple and strong arguments for establishing their security, it also introduces crucial limitations in the design, which may affect the performance in the target applications.   
+ In this paper, we propose the Horst  construction, in which the addition in a Feistel scheme \((x,y)\mapsto (y+F(x), x)\)  is extended via a multiplication, i.e., \((x,y)\mapsto (y\times G(x) + F(x), x)\)  .   
+ By carefully analyzing the performance metrics in SNARK and STARK protocols, we show how to combine an expanding Horst  scheme with a Rescue  -like SPN scheme in order to provide security and better efficiency in the target applications. We provide an extensive security analysis for our new design Griffin  and a comparison with all current competitors.   
+ On the Security of Keyed Hashing Based on Public Permutations  
+  Abstract   
+ Doubly-extendable cryptographic keyed functions (deck) generalize the concept of message authentication codes (MAC) and stream ciphers in that they support variable-length strings as input and return variable-length strings as output. A prominent example of building deck functions is Farfalle, which consists of a set of public permutations and rolling functions that are used in its compression and expansion layers. By generalizing the compression layer of Farfalle, we prove its universality in terms of the probability of differentials over the public permutation used in it. As the compression layer of Farfalle is inherently parallel, we compare it to a generalization of a serial compression function inspired by Pelican-MAC. The same public permutation may result in different universalities depending on whether the compression is done in parallel or serial. The parallel construction consistently performs better than the serial one, sometimes by a big factor. We demonstrate this effect using Xoodoo  \([3]\)  , which is a round-reduced variant of the public permutation used in the deck function Xoofff.   
+ Jonathan Fuchs, Yann Rotella, Joan Daemen   
+ : Isogeny-Based (Partially) Blind Signatures from the Class Group Action with a Twist  
+  Abstract   
+ In this paper, we construct the first provably-secure isogeny-based (partially) blind signature scheme. While at a high level the scheme resembles the Schnorr blind signature, our work does not directly follow from that construction, since isogenies do not offer as rich an algebraic structure. Specifically, our protocol does not fit into the linear identification protocol  abstraction introduced by Hauck, Kiltz, and Loss (EUROCYRPT’19), which was used to generically construct Schnorr-like blind signatures based on modules such as classical groups and lattices. Consequently, our scheme does not seem susceptible to the recent efficient ROS attack exploiting the linear nature of the underlying mathematical tool.   
+ Weak Instances of Class Group Action Based Cryptography via Self-pairings  
+  Abstract   
+ In this paper we study non-trivial self-pairings with cyclic domains that are compatible with isogenies between elliptic curves oriented by an imaginary quadratic order \(\mathcal {O}\)  . We prove that the order m  of such a self-pairing necessarily satisfies \(m \mid \varDelta _\mathcal {O}\)  (and even \(2m \mid \varDelta _\mathcal {O}\)  if \(4 \mid \varDelta _\mathcal {O}\)  and \(4m \mid \varDelta _\mathcal {O}\)  if \(8 \mid \varDelta _\mathcal {O}\)  ) and is not a multiple of the field characteristic. Conversely, for each m  satisfying these necessary conditions, we construct a family of non-trivial cyclic self-pairings of order m  that are compatible with oriented isogenies, based on generalized Weil and Tate pairings.   
+ As an application, we identify weak instances of class group actions on elliptic curves assuming the degree of the secret isogeny is known. More in detail, we show that if \(m^2 \mid \varDelta _\mathcal {O}\)  for some prime power m  then given two primitively \(\mathcal {O}\)  -oriented elliptic curves \((E, \iota )\)  and \((E',\iota ') = [\mathfrak {a}](E,\iota )\)  connected by an unknown invertible ideal \(\mathfrak {a}\subseteq \mathcal {O}\)  , we can recover \(\mathfrak {a}\)  essentially at the cost of a discrete logarithm computation in a group of order \(m^2\)  , assuming the norm of \(\mathfrak {a}\)  is given and is smaller than \(m^2\)  . We give concrete instances, involving ordinary elliptic curves over finite fields, where this turns into a polynomial time attack.   
+ Finally, we show that these self-pairings simplify known results on the decisional Diffie–Hellman problem for class group actions on oriented elliptic curves.   
+ Metadaten   
+ Titel  Advances in Cryptology – CRYPTO 2023    
+ herausgegeben von  Helena Handschuh  
+  Anna Lysyanskaya  
+ Copyright-Jahr  2023    
+ Verlag  Springer Nature Switzerland
+4. CRYPTO_3 conference:
+View More    
+ Paperback (1st ed. 2023)   
+ Paperback (1st ed. 2023) 
+ SHIP THIS ITEM  Ships in 1-2 days | Instant Purchase 
+  PICK UP IN STORE  Your local store may have stock of this item. | Available within 2 business hours 
+  Want it Today?  
+  Check Store Availability 
+ Publisher: | Springer Nature Switzerland 
+ Publication date: | 07/28/2023 
+ Edition description: | 1st ed. 2023 
+ Product dimensions: | 6.10(w) x 9.25(h) x (d)
+5. CSCL_3 conference:
+Events & Activities | IEEE ICALT – About | ICALT 2024 | Home and Announcement 
+  Call for Paper | ICALT 2024 Author Guidelines 
+  ICALT 2024 Doctoral Consortium 
+  ICALT 2024 Committee | ICALT 2024 Organizing Committee 
+  ICALT 2024 Tourist 
+  ICALT 2024 Award | ICALT 2024 Student Award 
+  ICALT 2024 Best Paper Award Nominations 
+  ICALT 2024 Program | ICALT 2024 Conference Program 
+  ICALT 2024 Keynote Speakers 
+  ICALT 2024 Preface of Proceedings 
+  ICALT 2023 | ICALT 2023 Author Guidelines 
+  ICALT 2023 Doctoral Consortium 
+  ICALT 2023 Committee | ICALT 2023 Organizing Committee 
+  ICALT 2023 Track Program Committee Chair 
+  ICALT 2023 Track Program Committee Member 
+  ICALT 2023 Volunteers 
+  ICALT 2023 Registration 
+  ICALT 2023 Travel | ICALT 2023 Getting Here 
+  ICALT 2023 Venue 
+  ICALT 2023 Accommodation 
+  ICALT 2023 Transportation 
+  ICALT 2023 VISA 
+  ICALT 2023 Tourist 
+  ICALT 2023 Award | ICALT 2023 Student Award 
+  ICALT 2023 Best Paper Award Nominations 
+  ICALT 2023 Conference Program 
+  ICALT 2023 Keynote Speakers 
+  ICALT 2023 Preface of Proceedings 
+  ICALT 2022 | Home and Announcement 
+  Equity, Diversity and Inclusion Statement 
+  Award | Best Paper Award Nominations 
+  Student Award 
+  Student Award Winner 
+  Track Program Committee Member 
+  Volunteers 
+  Program | Author Guidelines 
+  Registration 
+  Keynote Speakers 
+  Best Paper Award Nominations 
+  Conference Program 
+  Preface of Proceedings 
+  Award | Student Award 
+  Student Award Winners 
+  Best Paper Award Nominations 
+  Program | Keynote Speakers 
+  Conference Program 
+  Volunteers 
+  Track Program Committee Member 
+  Call for Papers | Author Guidelines 
+  Doctoral Consortium 
+  Registration 
+  Bulletin | Scope 
+  Editorial Board 
+  Author Guidelines 
+  Publishing Workflow 
+  Subscription 
+ CALL FOR PAPERS  
+ Deadline: January 13th, 2023  
+ Track description and topics of interest   
+ The CSCL track has a focus on the role of technology as a catalyst for social interaction and collaborative knowledge construction. Contemporary technologies, such as mobile devices, social media systems, cloud computing, web systems for adaptive and intelligent collaboration support, conversational agents, tangibles and tabletops and many others, provide exciting new opportunities for learners to communicate and collaborate in highly interactive learning environments. Enriched with innovative multimodal representations, such environments activate and challenge learners and stimulate knowledge building processes. Understanding these processes and their outcomes from various perspectives and at multiple levels is a major challenge for the CSCL researchers and educators.  
+ The CSCL track provides a unique opportunity for researchers and practitioners who work in the broader area of technology-enhanced collaborative learning to present their latest work from a technological, empirical, theoretical, conceptual, and design-based perspective. The track invites papers (full/short/poster submissions) that reflect state-of-the-art research advances spanning both the technological dimension (design and development of CSCL tools) and the pedagogical perspective (implementation of CSCL tools in authentic contexts, impact of CSCL approaches, empirical results, and valuable reflections).  
+ The pandemic situation posed challenges to our educational systems that have been addressed by widescale use of educational technology. The missing social contacts had to be addressed – at least partially – by a wider usage of collaborative tools and scenarios. Therefore, we especially encourage experience reports from practice that applied collaborative tools and scenarios for this year’s conference.  
+ Major thematic areas of the track include:  
+ Anecdotes and best practice of CSCL in emergency teaching during the pandemic 
+  Empirical results of CSCL usage (lab and field studies) 
+  Mobile and non-standard (e.g. tabletops, furniture, wearables, peer gaze awareness) technologies for collaborative learning 
+  Learning analytics and interaction analysis to model, represent, and support group learning dynamics 
+  Adaptive/Intelligent systems to support tutoring/scaffolding/scripting in CSCL settings 
+  Learning Design and formalization approaches to support the CSCL perspective 
+  Support of (web-based) learning communities with CSCL tools 
+  Support of (web-based) workplace learning with CSCL tools 
+  Use of social media and analysis of resulting networks in CSCL scenarios 
+  Architectures and interoperability approaches for CSCL tools 
+  Co-Construction of open educational resources and connectivist MOOCs 
+  HCI Design issues of collaborative applications 
+  Connecting digital and physical resources for collaborative learning 
+  Internet of Things (IoT) in CSCL 
+  Pedagogical agents to support the CSCL perspective 
+  Computational thinking in CSCL settings 
+  Collaboration, competition and conflict in educational games, gamification of CSCL scenarios 
+  Teaching and Learning 21st century skills related to CSCL aspects 
+  Peer assessment / Peer reviewing 
+  Program Committee Member   
+  Events & Activities | IEEE ICALT – About | ICALT 2024 | Home and Announcement 
+  Call for Paper | ICALT 2024 Author Guidelines 
+  ICALT 2024 Doctoral Consortium 
+  ICALT 2024 Committee | ICALT 2024 Organizing Committee 
+  ICALT 2024 Tourist 
+  ICALT 2024 Award | ICALT 2024 Student Award 
+  ICALT 2024 Best Paper Award Nominations 
+  ICALT 2024 Program | ICALT 2024 Conference Program 
+  ICALT 2024 Keynote Speakers 
+  ICALT 2024 Preface of Proceedings 
+  ICALT 2023 | ICALT 2023 Author Guidelines 
+  ICALT 2023 Doctoral Consortium 
+  ICALT 2023 Committee | ICALT 2023 Organizing Committee 
+  ICALT 2023 Track Program Committee Chair 
+  ICALT 2023 Track Program Committee Member 
+  ICALT 2023 Volunteers 
+  ICALT 2023 Registration 
+  ICALT 2023 Travel | ICALT 2023 Getting Here 
+  ICALT 2023 Venue 
+  ICALT 2023 Accommodation 
+  ICALT 2023 Transportation 
+  ICALT 2023 VISA 
+  ICALT 2023 Tourist 
+  ICALT 2023 Award | ICALT 2023 Student Award 
+  ICALT 2023 Best Paper Award Nominations 
+  ICALT 2023 Conference Program 
+  ICALT 2023 Keynote Speakers 
+  ICALT 2023 Preface of Proceedings 
+  ICALT 2022 | Home and Announcement 
+  Equity, Diversity and Inclusion Statement 
+  Award | Best Paper Award Nominations 
+  Student Award 
+  Student Award Winner 
+  Track Program Committee Member 
+  Volunteers 
+  Program | Author Guidelines 
+  Registration 
+  Keynote Speakers 
+  Best Paper Award Nominations 
+  Conference Program 
+  Preface of Proceedings 
+  Award | Student Award 
+  Student Award Winners 
+  Best Paper Award Nominations 
+  Program | Keynote Speakers 
+  Conference Program 
+  Volunteers 
+  Track Program Committee Member 
+  Call for Papers | Author Guidelines 
+  Doctoral Consortium 
+  Registration 
+  Bulletin | Scope 
+  Editorial Board 
+  Author Guidelines 
+  Publishing Workflow 
+  Subscription
+6. CSCWD_1 conference:
+0      
+ Início   » Eventos   » CSCWD 2023 – 26th International Conference on Computer Supported Cooperative Work in Design    
+ Professional    
+ CSCWD 2023 – 26th International Conference on Computer Supported Cooperative Work in Design  
+  From  May, 24th of 2023 to  May, 26th of 2023   
+   JW Marriott Hotel Rio de Janeiro                      
+  Description  
+  Description  
+  Design of complex artifacts and systems requires the cooperation of multidisciplinary design teams. The 2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2023) provides a forum for researchers and practitioners involved in different but related domains to confront research results and discuss key problems. The scope of CSCWD 2023 includes the research and development of collaboration technologies and their applications to the design of processes, products, systems, and services in industries and societies. Collaboration technologies include theories, methods, mechanisms, protocols, software tools, platforms, and services that support communication, coordination and collaboration among people, software and hardware systems. Related fields of research include human-computer interaction, business process management, collaborative virtual environments, enterprise modeling, security and privacy, as well as social aspects and human factors related to collaboration and design. The major topics of interest to the conference include, but are not limited to:  
+ Collaboration theory and methodology 
+  Design of collaboration methods, processes, mechanisms, and protocols 
+ Costs in USD and correspondent amount in BRL (Reais – Brazilian Currency):   
+ CATEGORY | Registration by March 17, 2023 | Registration after March 17, 2023 
+ Cots in USD and correspondent amount in BRL (Reais – Brazilian Currency):   
+ CATEGORY | Registration by March 17, 2023 | Registration after March 17, 2023 
+  Important information  :  
+ The total amount of your registration will be charged in REAIS (BRL – Brazilian Currency) – There might be some discrepancy in the final total in your currency, as the exchange rate depends exclusively on the banks and credit cards companies.  
+ Registration and Refund Policy:   
+ An accepted paper will be published in the proceedings | ONLY | if at least one author registers for the conference. 
+  An accepted paper must have a | registration completed by March 17, 2023 | , otherwise it is considered to be withdrawn. 
+  One single extra paper for the same author may be included in a registration, provided the extra paper fee is paid. 
+  Student registration can be used to attend the conference, but CANNOT be used for the publication of accepted papers. 
+  A student attendee must provide a copy of his/her student ID or a letter from the related Department Head/Chair stating that the attendee is a full time student. The document can be uploaded during registration process. 
+ If you have any trouble filling out the form or during payment process, please do contact us at creacteve@creacteve.com.br, we will be happy to help you.  
+ CSCWD 2023 Conference Registration Form  
+   Personal Information  
+    *  Family Name       *  Given Name       *  Title  Dr.  Prof.  Mr.  Miss  Ms. 
+      *  Affiliation       *  Email       Mailing Address       *  Country       *  Mobile #       IEEE Membership Number       *  Paper ID(s)       *  Paper Title(s) | *  Type of participation  ONSITE 
+  ONLINE | ONLINE Participation  
+    *  Category  IEEE member  Non-member  IEEE student member  Non-member student 
+      *  Student ID  Upload here your student ID or a letter from the related Department Head/Chair stating that you are a full time student.  
+          *  Do you have an extra paper?  Yes 
+  No 
+      *  How many extra papers?  Extra Papers 
+      *  Extra Papers ID(s)       *  Extra Papers Title(s)           *  Do you have extra pages in your paper(s)?  Yes 
+  No 
+      *  How many extra pages?  Extra Pages | ONSITE Participation  
+      *  Student ID  Upload here your student ID or a letter from the related Department Head/Chair stating that you are a full time student.  
+          *  Do you have an extra paper?  Yes 
+  No 
+      *  How many extra papers?  Extra Papers 
+      *  Extra Papers ID(s)       *  Extra Papers Title(s)           *  Do you have extra pages in your paper?  Yes 
+  No 
+      *  How many extra pages?  Extra Pages 
+      *  How many extra tickets?  Extra Tickets 
+ CSCWD 2023 Conference Registration Form quantity     
+ Add to cart
+7. CSCWD_2 conference:
+Institution Edition 
+  Discover | Subject category 
+  Conference in Socialist Republic of Vietnam 
+  Contribution library 
+  Browse by venue 
+ Log in  Sign up    
+ 2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD)  
+ May. 24 - 26, 2023  
+ Rio de Janeiro · Brazil  
+ Introduction  
+ Design of complex artifacts and systems requires the cooperation of multidisciplinary design teams. The 2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2023) provides a forum for researchers and practitioners involved in different but related domains to confront research results and discuss key problems. The scope of CSCWD 2023 includes the research and development of collaboration technologies and their applications to the design of processes, products, systems, and services in industries and societies. Collaboration technologies include theories, methods, mechanisms, protocols, software tools, platforms, and services that support communication, coordination and collaboration among people, software and hardware systems. Related fields of research include human-computer interaction, business process management, collaborative virtual environments, enterprise modeling, security and privacy, as well as social aspects and human factors related to collaboration and design.  
+ Sponsor Type:1; 9; 9; 9; 9; 9  
+ Claudia Motta  
+ Call for paper  
+ Important date  
+ 2022-11-15   
+ Draft paper submission deadline   
+ 2023-01-31   
+ Draft paper acceptance notification   
+ Submission Topics  
+ The major topics of interest to the conference include, but are not limited to:  
+ · Collaboration theory and methodology  
+ All Comments  
+ Submission Template  
+ ×    
+  Paper Template  
+  Paper Template  
+ Home 
+ Important Date  
+ Conference Date | May 24  
+ 2023  
+  to  May 26  
+ 2023 
+  Nov 15  2022 | Draft paper submission deadline 
+  Jan 31  2023 | Draft Paper Acceptance Notification 
+  May 26  2023 | Registration deadline 
+ Sponsored By  
+ CSCWD International Working Group  
+  IEEE Systems, Man, and Cybernetics Society  
+  Kunming University  
+ Previous Conferences  
+ 2024-05-08 China Tianjin | 2024 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD) 
+  2022-05-04 China Hangzhou | 2022 IEEE 25th International Conference on Computer Supported Cooperative Work in Design 
+  2022-05-04 China 杭州市(Hangzhou) | The 2022 IEEE 25th International Conference on Computer Supported Cooperative Work in Design
+8. CSCWD_3 conference:
+Search       
+ 2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD) Conference     
+  Scholarly Activity
+9. CSCW_0 conference:
+Skip to footer 
+   CSCW 2023  
+ Menu  Search for:        
+  Diversity, Equity, and Inclusion 
+  Hybrid Experience 
+  Information for Paper Presenters 
+  Local Events 
+  Local Guide 
+  Program overview 
+  CODE OF CONDUCT 
+  About CSCW | Organizing Committee 
+  Program Committee 
+  Steering Committee 
+ The 26th ACM Conference On Computer-Supported Cooperative Work And Social Computing  
+ October 14-18, 2023 (Minneapolis, MN, USA)  
+ The 26th ACM Conference On Computer-Supported Cooperative Work And Social Computing  
+ The 2023 ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW) will occur in Minneapolis, MN, USA (with additional hybrid/virtual participation) on October 14-18, 2023. For information about paper submissions, please see our submissions page.   
+ News  
+  The keynote speakers have been finalized! The opening keynote will be Cory Doctorow, and the closing keynote will be Rumman Chowdhury. | Check out here | . 
+  Check out the | complete set of workshops | on October 14th and 15th, with 4 in-person, 10 hybrid, and 6 online-only offerings! 
+  You can now register to attend CSCW 2023. Find more information about registration | here | . 
+  Sponsors  
+ Skip back to main navigation    
+ © 2023   
+ Mastodon 
+  Twitter
+10. CSCW_1 conference:
+Skip to footer 
+   CSCW 2023   
+ Menu  Search for:        
+  Diversity, Equity, and Inclusion 
+  Hybrid Experience 
+  Information for Paper Presenters 
+  Local Events 
+  Local Guide 
+  Program overview 
+  CODE OF CONDUCT 
+  About CSCW | Organizing Committee 
+  Program Committee 
+  Steering Committee 
+ Program overview  
+  CSCW 2023 Main Program  
+ This program info is also available on the SIGCHI web app  , which you will be able to use for easier planning.  
+ If you have any questions about the schedule, please contact the papers chairs ( papers2023@cscw.acm.org  ) and general chairs ( chairs2023@cscw.acm.org  )  
+  Monday October 16   
+ 9:00am – 10:30am: Opening Keynote: Cory Doctorow “An Audacious Plan to Halt the Internet’s Enshittification and Throw It Into Reverse”  
+ Room: Great Lakes BC  
+ 10:30am – 11:00am: Coffee Break  
+ 11:00am – 12:30pm: COVID-19 + CSCW  
+ Room:  Lake Superior B  
+  Session chair:  Azra Ismail  
+  Cura: Curation at Social Media Scale | Wanrong He, Mitchell Gordon, Lindsay Popowski, and Michael Bernstein 
+  11:00am – 12:30pm: Panel  
+ What is History ‘for’ in CSCW Research?  
+  David Ribes, Robert Soden, Seyram Avle, Sarah E. Fox, Phoebe Sengers  
+ Room:  Mirage Room  
+  Data Subjects’ Perspectives on Emotion Artificial Intelligence Use in the Workplace: A Relational Ethics Lens | Shanley Corvite, Kat Roemmich, Tillie Rosenberg, and Nazanin Andalibi 
+  2:30pm – 4:00pm: Panel  
+ LLMs and the Infrastructure of CSCW  
+  Chinmay Kulkarni, Mina Lee, Tongshuang Wu, Kenneth Holstein, Hariharan Subramonyam, Min Kyung Lee, Q. Vera Liao   
+ Room:  Mirage Room  
+  ConvEx: A Visual Conversation Exploration System for Discord Moderators | Frederick Choi, Tanvi Bajpai, Sowmya Pratipati, and Eshwar Chandrasekharan 
+  4:30pm – 6:00pm: Panel  
+ Getting Data for CSCW Research  
+  Shagun Jhaver, Kiran Garimella, Munmun De Choudhury, Christo Wilson, Aditya Vashistha, Tanushree Mitra  
+  Room:  Mirage Room  
+ Room:  Boundary Waters Complex  
+  Tuesday October 17   
+ 9:00am – 10:30am: Workplace I  
+ Room:  Great Lakes A2  
+  Values in Emotion Artificial Intelligence Hiring Services: Technosolutions to Organizational Problems | Kat Roemmich, Tillie Rosenberg, Serena Fan, and Nazanin Andalibi 
+  Pronouns in the Workplace: Developing Sociotechnical Systems for Digitally Mediated Gender Expression | Benjamin Ale-Ebrahim, Tristan Gohring, Elizabeth Fetterolf, and Mary Gray 
+  9:00am – 10:30am: Gender and CSCW  
+ Room:  Lake Superior B  
+  Session chair:  Sharifa Sultana  
+  “My Culture, My People, My Hometown” Chinese Ethnic Minorities Seeking Cultural Sustainability by Video Blogging | Si Chen, Xinyue Chen, Yun Huang, and Zhicong Lu 
+  9:00am – 10:30am: Panel  
+ Funding Opportunities for CSCW Research at NSF  
+  David J. Mendonca, Daniel Cosley  
+   Room:  Mirage Room  
+ “Enjoy, but Moderately!”: Designing a Social Companion Robot for Social Engagement and Behavior Moderation in Solitary Drinking Context | Yugyeong Jung, Gyuwon Jung, Sooyeon Jeong, Chaewon Kim, Woontack Woo, Hwajung Hong, and Uichin Lee 
+  Beyond the Session: Centering Teleoperators in Socially Assistive Robot-Child Interactions Reveals the Bigger Picture | Saad Elbeleidy, Terran Mott, Dan Liu, Ellen Yi-Luen Do, Elizabeth Reddy, and Tom Williams 
+  Periscope: A Robotic Camera System to Support Remote Physical Collaboration | Pragathi Praveena, Yeping Wang, Emmanuel Senft, Michael Gleicher, and Bilge Mutlu 
+  “Would I Feel More Secure With a Robot?”: Understanding Perceptions of Security Robots in Public Spaces | Gabriela Marcu, Iris Lin, Brandon Williams, Lionel Robert, and Florian Schaub 
+  11:00am – 12:30pm: Mental Health II  
+  Organizing Oceanographic Infrastructure: The Work of Making a Software Pipeline Repurposable | Andrew Neang, Will Sutherland, David Ribes, and Charlotte Lee 
+  Competencies for Code Review | Pavlína Wurzel Gonçalves, Gül Calikli, Alexander Serebrenik, and Alberto Bacchelli 
+  4:30pm – 6:00pm: CSCW Contexts  
+ Room:  Lake Superior B  
+  Session chair:  Cindy Lin  
+ Room:  Nicollet Ballroom  
+  Wednesday, October 18   
+ 9:00am – 10:30am: Future of Work  
+ Room:  Regency Room  
+  Room:  Mirage Room  
+ Internet Research Ethics: A CSCW Community Discussion  
+  Casey Fiesler, Jessica Pater, Janet Read, Jessica Vitak, Michael Zimmer  
+  Room:  Skyway Room  
+  Understanding Safety Risks and Safety Design in Social VR Environments | Qingxiao Zheng, Shengyang Xu, Wang Lingqing, Yiliu Tang, Rohan Charudatt Salvi, Guo Freeman, and Yun Huang 
+  Sliding into My DMs: Detecting Uncomfortable or Unsafe Sexual Risk Experiences within Instagram Direct Messages Grounded in the Perspective of Youth | Afsaneh Razi, Seunghyun Kim, Ashwaq Alsoubai, Shiza Ali, Gianluca Stringhini, Munmun De Choudhury, and Pamela Wisniewski 
+  2:30pm – 4:00pm: CSCW Across Borders  
+ Room:  Regency Room  
+  Session chair:  Stevie Chancellor  
+ Skip back to main navigation    
+ © 2023   
+ Mastodon 
+  Twitter
+
+output:1. CRITIS_2 information:
+2. CRYPTO_0 information:
+3. CRYPTO_1 information:
+4. CRYPTO_3 information:
+5. CSCL_3 information:
+6. CSCWD_1 information:
+7. CSCWD_2 information:
+8. CSCWD_3 information:
+9. CSCW_0 information:
+10. CSCW_1 information:

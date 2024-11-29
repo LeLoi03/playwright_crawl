@@ -1,0 +1,18 @@
+  Membership 
+ Dynamic Languages Symposium (DLS)  
+  The Dynamic Languages Symposium (DLS) is a forum for discussion of dynamic languages, their implementation and application. While mature dynamic languages including Smalltalk, Lisp, Scheme, Self, Prolog, and APL continue to grow and inspire new converts, a new generation of dynamic scripting languages such as JavaScript, Python, Ruby, PHP, Tcl Lua, and Clojure are successful in a wide range of applications. DLS provides a place for researchers and practitioners to come together and share their knowledge, experience, and ideas for future research and development.  
+ DLS 2023  
+ Cascais, Portugal, October, 2023 
+  Co-located with SPLASH 2023 
+  PC chair: Stefan Marr, University of Kent, UK 
+  Citation: This paper explored the costs, both at micro and macro scale of various strategies for protecting gradual types in a gradually-typed programming language, examining how different strategies affected untyped typed, or both components of code. It is a seminal contribution to understanding the performance of gradual typing, which since then has been an area of important research. The strategies used in gradually-typed languages today can trace their lineage back to the strategies described and proposed in this paper. In particular, the proposed hybrid approach has been adapted time and time again by many systems, giving this work a lasting impact beyond its original scope. 
+  Title: Self-optimizing AST interpreters 
+  Citation: Over the past decade, the authors and their collaborators have taken the ideas from this paper and turned it into the Truffle and GraalVM system which has revolutionized how we implement languages on the JVM. Today, the GraalVM is a major product and Truffle is a language implementation technology producing high-performance implementations of everything from Ruby to C all built upon the ideas of AST rewriting in the interpreter. 
+  Title: Bootstrapping a Self-Hosted Research Virtual Machine for JavaScript: An Experience Report 
+  Past Events  
+ DLS 2023 | Cascais, Portugal, October 24, 2023 
+  Co-located with SPLASH 2023 
+  PC chairs: Stefan Marr, University of Kent, UK 
+  DLS 2022 | Auckland, New Zealand, Dec 6, 2022 
+  Co-located with SPLASH 2022 
+  PC chairs: Arjun Guha, Northeastern University, USA; Wolfgang De Meuter, Vrije Universiteit Brussel, Belgium 

@@ -1,0 +1,122 @@
+HotNets 2023: Twenty-Second ACM Workshop on Hot Topics in Networks  
+ November 28-29, 2023 — Cambridge, Massachusetts, USA |  
+
+ Home 
+  Committees 
+  Policies 
+  Call for Papers 
+  Accepted Papers 
+  Program 
+  Hotel Information 
+  Visa Information 
+    
+ Schedule  
+ All times are in US Eastern Standard Time (UTC-05:00).  
+  Please note that in the US, daylight savings time ends on November 5th, 2023.  
+ Day 1 / Tuesday, November 28th, 2023 
+ 08:15 - 9:00 | Breakfast 
+ 09:00 - 9:15 | Introduction and Opening Remarks 
+ 09:15 - 10:30 | Session 1: On the process of research.   
+  Session Chair: Katerina Argyraki (EPFL) 
+ Of Apples and Oranges: Fair Comparisons in Heterogenous Systems Evaluation    
+  Hugo Sadok (Carnegie Mellon University); Aurojit Panda (New York University); Justine Sherry (Carnegie Mellon University) 
+ Physical Deployability Matters    
+  Jeffrey C. Mogul, John Wilkes (Google) 
+ A Case Against CXL Memory Pooling    
+  Philip Levis, Kun Lin, Amy Tai (Google) 
+ Logical memory pools: Flexible and local disaggregated memory    
+  Emmanuel Amaro (VMware Research); Stephanie Wang (UC Berkeley); Aurojit Panda (New York University); Marcos K. Aguilera (VMware Research) 
+ 10:30 - 10:45 | Break 
+ 10:45 - noon | Session 2: Can LLMs reason about networking problems, and their solution?   
+  Session Chair: Ranjita Bhagwan (Google) 
+ Towards Interactive Research Agents for Internet Incident Investigation    
+  Yajie Zhou, Nengneng Yu (Boston University); Zaoxing Liu (University of Maryland) 
+ PROSPER: Extracting Protocol Specifications Using Large Language Models    
+  Prakhar Sharma, Vinod Yegneswaran (SRI International) 
+ Towards Integrating Formal Methods into ML-Based Systems for Networking    
+  Fengchen Gong, Divya Raghunathan, Aarti Gupta, Maria Apostolaki (Princeton University) 
+ Toward Reproducing Network Research Results Using Large Language Models    
+  Qiao Xiang, Yuling Lin, Mingjun Fan, Bang Huang, Siyong Huang, Ridi Wen (Xiamen University); Franck Le (IBM Research); Linghe Kong (Shanghai Jiao Tong University, China); Jiwu Shu (Xiamen University) 
+ noon - 1:15pm | Lunch Break 
+ 1:15pm - 2:45pm | Session 3: The architecture of the Internet, and datacenter networks.   
+  Session Chair: Radhika Mittal (UIUC) 
+ Caching and Neutrality    
+  Muhammad Abdullah, Pavlos Nikolopoulos, Katerina Argyraki (EPFL) 
+ The Central Problem with Distributed Content: Common CDN Deployments Centralize Traffic In A Risky Way    
+  Kevin Vermeulen (LAAS-CNRS); Loqman Salamatian, Sang Hoon Kim (Columbia University); Matt Calder (Meta / Columbia University); Ethan Katz-Bassett (Columbia University) 
+ Where on earth is the Spatial Name System?    
+  Ryan Gibb, Anil Madhavapeddy, Jon Crowcroft (University of Cambridge) 
+ Simplifying Cloud Management with Cloudless Computing    
+  Yiming Qiu, Patrick Tser Jern Kon, Jiarong Xing, Yibo Huang, Hongyi Liu (Rice University); Xinyu Wang, Peng Huang, Mosharaf Chowdhury (University of Michigan); Ang Chen (Rice University) 
+ Application Defined Networks    
+  Xiangfeng Zhu, Weixin Deng (University of Washington); Banruo Liu (Tsinghua University); Jingrong Chen, Yongji Wu (Duke University); Thomas Anderson, Arvind Krishnamurthy (University of Washington); Ratul Mahajan (University of Washington, Amazon); Danyang Zhuo (Duke University) 
+ 2:45pm - 3:00pm | Break 
+ 3:00pm - 4:30pm | Session 4: Measure twice, solve once.   
+  Session Chair: Maria Apostolaki (Princeton) 
+ Don’t Forget the User: It’s Time to Rethink Network Measurements    
+  Aryan Taneja (Microsoft Research); Rahul Bothra (Microsoft Research and UIUC); Debopam Bhattacherjee, Rohan Gandhi (Microsoft Research); Venkata N. Padmanabhan (Microsoft Research India); Ranjita Bhagwan (Google); Nagarajan Natarajan, Saikat Guha (Microsoft Research India); Ross Cutler (Microsoft) 
+ Internet Science Moonshot: Expanding BGP Data Horizons    
+  Thomas Alfroy, Thomas Holterbach (University of Strasbourg); Thomas Krenc, kc Claffy (UC San Diego / CAIDA); Cristel Pelsser (UCLouvain) 
+ Learning a QoE Metric from Social Media and Gaming Footage    
+  Catalina Alvarez, Katerina Argyraki (EPFL) 
+ Datacenter Network Deserves Better Traffic Models    
+  Sijiang Huang, Lingfeng Peng (Tsinghua University); Mowei Wang, Yashe Liu, Zhenhua Liu (Huawei Technologies); Xin Wang (SUNY Stony Brook); Yong Cui (Tsinghua University) 
+ Generative, High-Fidelity Network Traces    
+  Xi Jiang, Shinan Liu (University of Chicago); Aaron Gember-Jacobson (Colgate University); Paul Schmitt (University of Hawaii, Manoa / Invisv); Francesco Bronzino (École Normale Supérieure de Lyon); Nick Feamster (University of Chicago) 
+ 4:30pm - 4:45pm | Break 
+ 4:45pm - 6:00pm | Session 5: Beam me up, Scotty!   
+  Session Chair: Venkat Arun (UT Austin) 
+ Boosting Application Performance using Heterogeneous Virtual Channels: Challenges and Opportunities    
+  Talal Touseef, William Sentosa, Milind Kumar Vaddiraju (UIUC); Debopam Bhattacharjee (Microsoft Research); Balakrishnan Chandrasekaran (Vrije Universiteit Amsterdam); Brighten Godfrey (UIUC and VMware); Shubham Tiwari (Microsoft Research) 
+ Enriching Telepresence with Semantic-driven Holographic Communication    
+  Ruizhi Cheng, Kaiyan Liu, Nan Wu, Bo Han (George Mason University) 
+ Automatic Calibration in Crowd-sourced Network of Spectrum Sensors    
+  Ali Abedi (Stanford University, UC Berkeley); Josh Sanz, Anant Sahai (UC Berkeley) 
+ Cosmic Backscatter: New Ways to Communicate via Modulated Noise    
+  Zerina Kapetanovic (Stanford University); Shanti Garman, Dara Stotland, Joshua Smith (University of Washington) 
+ 06:00pm - 9:00pm | Reception 
+ Day 2 / Wednesday, November 29th, 2023 
+ 08:15 - 9:15 | Breakfast 
+ 9:15am - 10:30am | Session 6: Can LLMs Manage Networks?   
+  Session Chair: Nate Foster (Cornell) 
+ Adapting Foundation Models for Operator Data Analytics    
+  Manikanta Kotaru (Microsoft) 
+ A Holistic View of AI-driven Network Incident Management    
+  Pouya Hamadanian (Microsoft Research, MIT); Behnaz Arzani, Sadjad Fouladi, Siva Kesava Reddy Kakarla (Microsoft Research); Rodrigo Fonseca (Azure Systems Research); Denizcan Billor, Ahmad Cheema, Edet Nkposong (Microsoft); Ranveer Chandra (Microsoft Research) 
+ What do LLMs need to Synthesize Correct Router Configurations?    
+  Rajdeep Mondal, Alan Tang (UCLA); Ryan Beckett (Microsoft Research); Todd Millstein, George Varghese (UCLA) 
+ Enhancing Network Management Using Code Generated by Large Language Models    
+  Sathiya Kumaran Mani (Microsoft); Yajie Zhou (Microsoft and Boston University); Kevin Hsieh (Microsoft Research); Santiago Segarra (Microsoft and Rice University); Trevor Eberl, Eliran Azulai, Ido Frizler, Ranveer Chandra, Srikanth Kandula (Microsoft) 
+ 10:30am - 10:45am | Break 
+ 10:45am - noon | Session 7: What should we worry about when managing congestion?   
+  Session Chair: Gianni Antichi (Politecnico di Milano and Queen Mary University of London) 
+ Slowdown as a Metric for Congestion Control Fairness    
+  Adrian Zapletal, Fernando Kuipers (Delft University of Technology) 
+ Harnessing ML For Network Protocol Assessment: A Congestion Control Use Case    
+  Parsa Pazhooheshy, Soheil Abbasloo, Yashar Ganjali (University of Toronto) 
+ Green With Envy: Unfair Congestion Control Algorithms Can Be More Energy Efficient    
+  Serhat Arslan, Sundararajan Renganathan, Bruce Spang (Stanford University) 
+ How I Learned to Stop Worrying About CCA Contention    
+  Lloyd Brown (UC Berkeley); Yash Kothari (CMU); Akshay Narayan (UC Berkeley); Arvind Krishnamurthy (University of Washington); Aurojit Panda (New York University); Justine Sherry (Carnegie Mellon University); Scott Shenker (ICSI AND UC Berkeley) 
+ noon - 1:15pm | Lunch Break 
+ 1:15pm - 2:30pm | Session 8: New hardware for new networks.   
+  Session Chair: Justine Sherry (CMU) 
+ QVISOR: Virtualizing Packet Scheduling Policies    
+  Albert Gran Alcoz, Laurent Vanbever (ETH Zürich) 
+ Mars Attacks! Software Protection Against Space Radiation    
+  Haoda Wang (Columbia University); Steven Myint, Vandi Verma (Jet Propulsion Laboratory, California Institute of Technology); Yonatan Winetraub (Cryptosat); Junfeng Yang, Asaf Cidon (Columbia University) 
+ The Future is Analog: Energy-Efficient Cognitive Network Functions over Memristor-Based Analog Computations    
+  Saad Saleh (University of Groningen); Boris Koldehofe (Technische Universität Ilmenau) 
+ On-Fiber Photonic Computing    
+  Mingran Yang, Zhizhen Zhong, Manya Ghobadi (Massachusetts Institute of Technology) 
+ 2:30pm - 2:45pm | Break 
+ 2:45pm - 4:00pm | Session 9: Who keeps us safe...?   
+  Session Chair: Aurojit Panda (NYU) 
+ Securing Public Clouds using Dynamic Communication Graphs    
+  Sathiya Kumaran Mani, Kevin Hsieh, Santiago Segarra, Trevor Eberl, Ranveer Chandra, Eliran Azulai, Narayan Annamalai, Deepak Bansal, Srikanth Kandula (Microsoft) 
+ Expressive Policies For Microservice Networks    
+  Karuna Grewal (Cornell University); Brighten Godfrey (University of Illinois, Urbana Champaign); Justin Hsu (Cornell University) 
+ Lightweb: Private web browsing without all the baggage    
+  Emma Dauterman (UC Berkeley); Henry Corrigan-Gibbs (MIT) 
+ No Root Store Left Behind    
+  James Larisch (Harvard University); Waqar Aqeel (Google); Taejoong “Tijay” Chung (Virginia Tech); Eddie Kohler (Harvard University); Dave Levin (University of Maryland); Bruce Maggs (Duke University and Emerald Innovations); Bryan Parno (Carnegie Mellon University); Christo Wilson (Northeastern University)

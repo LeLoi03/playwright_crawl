@@ -1,0 +1,21 @@
+   Papers published on a yearly basis  
+ 2023 
+  2022 
+ ...read more  read less    
+     PDF   Go to Paper       
+ ...read more  read less    
+  Abstract:  We address the problem of vehicle detection and tracking for traffic monitoring in Smart City applications. We introduce a novel approach for vehicle tracking by simultaneous detection and viewpoint estimation. An Extended Kalman Filter (EKF) is adapted to describe the vehicle’s motion when not only the pose of the object is measured, but also its viewpoint with respect to the camera. Specifically, we enhance the motion model with observations of the vehicle viewpoint jointly extracted by the detection step. The approach is evaluated on a novel and challenging dataset with different video sequences recorded at urban environments, which is released with the paper. Our experimental validation confirms that the integration of an EKF with both detections and viewpoint estimations results beneficial.   
+ ...read more  read less    
+ Go to Paper       
+ ...read more  read less    
+  Abstract:  The “NP-Complete” class gathers very significant practical problems such as Sat, Max-Sat, partitioning. There is not polynomial algorithm for the resolution of these problems. As a result, the interest in heuristics and meta-heuristics is still growing. In this paper, we present a very recent metaheuristic introduced to solve a 3-sat problem. This metaheuristic can be classified as an evolutionary algorithm. It is based on the process of bees' reproduction. We adapted it for the resolution of the Max-Sat problem. We tested it on a medical benchmark obtained from a data-mining problem that we translated into a Max-Sat problem.   
+ ...read more  read less    
+ Go to Paper       
+ ...read more  read less    
+  Abstract:  Tissue P systems with cell division is a computing model in the framework of Membrane Computing based on intercellular communication and cooperation between neurons. The ability of cell division allows us to obtain an exponential amount of cells in linear time and to design cellular solutions to NP -complete problems in polynomial time. In this paper we present a solution to the Subset Sum problem via a family of such devices. This is the first solution to a numerical NP -complete problem by using tissue P systems with cell division.   
+ ...read more  read less    
+ Go to Paper       
+ ...read more  read less    
+ Go to Paper       
+ Year | Papers 
+ 2023 | 1 

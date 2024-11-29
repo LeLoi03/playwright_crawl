@@ -1,0 +1,45 @@
+SSBSE 2023   Fri 8 Dec 2023 San Francisco, California, United States    
+ co-located with ESEC/FSE 2023    
+ Toggle navigation        
+ Attending | Venue: San Francisco Marriott Marquis 
+  SSBSE Registration 
+  Sponsorship 
+  Program | SSBSE Program 
+  Your Program 
+   Fri 8 Dec 
+  Tracks | SSBSE 2023 
+  Research Papers 
+  Hot off the Press 
+  RENE / NIER 
+  Challenge Track 
+  Organization | SSBSE 2023 Committees 
+  Organizing Committee 
+  Steering Committee 
+  Search 
+  Series | Series 
+    SSBSE 2024 
+  SSBSE 2023 
+  SSBSE 2022 
+  Sign in 
+  Sign up 
+  ESEC/FSE 2023  ( series  ) /   SSBSE 2023  ( series  ) /  Keynote SSBSE 2023   
+ About 
+ Abstract   
+ Trustworthy artificial intelligence (Trusted AI) is essential when autonomous, safety-critical systems use learning-enabled components (LECs) in uncertain environments. When reliant on deep learning, these learning-enabled systems (LES) must address the reliability, interpretability, and robustness (collectively, the assurance) of learning models. Three types of uncertainty most significantly affect assurance. First, uncertainty about the physical environment can cause suboptimal, and sometimes catastrophic, results as the system struggles to adapt to unanticipated or poorly-understood environmental conditions. For example, when lane markings are occluded (either on the camera and/or the physical lanes), lane management functionality can be critically compromised. Second, uncertainty in the cyber environment can create unexpected and adverse consequences, including not only performance impacts (network load, real-time responses, etc.) but also potential threats or overt (cybersecurity) attacks. Third, uncertainty can exist with the components themselves and affect how they interact upon reconfiguration. Left unchecked, it may cause unexpected and unwanted feature interactions. While learning-enabled technologies have made great strides in addressing uncertainty, challenges remain in addressing the assurance of such systems when encountering uncertainty not addressed in training data. Furthermore, we need to consider LESs as first-class software-based systems that should be rigorously developed, verified, and maintained; i.e., software engineered. In addition to developing specific strategies to address these concerns, appropriate software architectures are needed to coordinate LECs and ensure they deliver acceptable behavior even under uncertain conditions. To this end, this presentation overviews a number of our multi-disciplinary research projects involving industrial collaborators, which collectively support a search-based software engineering, model-based approach to address Trusted AI and provide assurance for learning-enabled systems (i.e., SBSE4LES). In addition to sharing lessons learned from more than two decades of research addressing assurance for (learning-enabled) self-adaptive systems operating under a range of uncertainty, near-term and longer-term research challenges for addressing assurance of LESs will be overviewed.  
+ Bio   
+   The GMT offsets shown reflect the offsets at the moment of the conference  .     
+ Time Band   
+ ×    You're viewing the program in a time zone which is different from your device's time zone change time zone     
+ Fri 8 Dec   
+ Displayed time zone: Pacific Time (US & Canada)  change      
+ 30m    
+ Coffee break | Break   SSBSE Social 
+ Lunch | Lunch   SSBSE Social 
+ 30m    
+ Coffee break | Break   SSBSE Social 
+  SSBSE 2023   
+  contact form    
+ Attending  
+ Venue: San Francisco Marriott Marquis   
+  SSBSE Registration    
+ Sign Up

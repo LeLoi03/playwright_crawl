@@ -1,0 +1,209 @@
+ICIT 2023     
+ The 2nd International Conference on Intelligence of Things   
+
+ Toggle navigation    ICIT 2023     
+ HOME 
+  COMMITTEE 
+  AUTHORS | Call for Papers 
+  Submission Guidelines 
+  Presentation Guidelines 
+  SPECIAL SESSION 
+  PROGRAM | Tracks & Topics 
+  Tentative Program 
+  REGISTRATION 
+  VENUE 
+  SPONSORS 
+  HISTORY 
+
+ 25 th - 27 th October, 2023   
+ HCMUT, Ho Chi Minh City, Vietnam   
+ Submission - June 10, 2023  July 1, 2023 (Hard deadline) 
+  Notification - July 20, 2023 
+  Camera Ready - July 25, 2023 
+  Registration - July 25, 2023 
+
+ The 2nd International Conference on Intelligence of Things 2023   
+
+ Introduction   
+ The International Conference on Intelligence of things (ICIT) is an International Conference on the current state of technology and the outcome of ongoing research in the area of the Internet of things, the intelligence of things (IoT2/AIoT), and related fields of Information Technology, technically sponsored by Springer.  
+  After the first successful organization, the 2nd ICIT 2023 continues to be organized by Ho Chi Minh City University of Technology (HCMUT), Hanoi University of Mining and Geology (HUMG), Vietnam National University of Agriculture (VNUA), Ho Chi Minh City Open University, and Quy Nhon University.  
+  ICIT 2023 will be hosted by Ho Chi Minh City University of Technology (HCMUT) in Ho Chi Minh City, Vietnam from October 25 to October 27, 2023.  
+  Accepted and presented papers will be published by Springer in series Lecture Notes on Data Engineering and Communications Technologies, indexed by SCOPUS (Q3). https://www.scimagojr.com/journalsearch.php?q=21100975545&tip=sid&clean=0   
+
+  Conference Venue    
+ ICIT 2023 will be held in Ho Chi Minh City University of Technology (HCMUT), 268 Ly Thuong Kiet street, District 10, HCMC, Vietnam.  
+
+  Publication    
+ Accepted and presented papers will be published by Springer in series Lecture Notes on Data Engineering and Communications Technologies, indexed by SCOPUS.  
+
+  Paper Submission    
+ All manuscripts have to be formatted according to the templates provided by Springer ( https://www.springer.com/us/authors-editors/conference-proceedings/conference-proceedings-guidelines  ) and submitted in a single PDF. The maximum length of a manuscript is up to 10 pages.  
+   
+  Authors are invited to submit their manuscripts electronically as PDF files through EDAS system at https://edas.info/N30742   
+
+ K  EYNOTES:   
+ Prof. Ngoc-Thanh Nguyen   
+  Wroclaw University of Science and Technology    
+  
+   Collective Intelligence and Applications in Sentiment Analysis   
+ Abstract  
+ In this talk I will present a general framework for building intelligent collectives. A concrete task of prediction market will be described as an example. It will be shown that two aspects (diversity and independency ) play an important role in making proper decisions. I will show that the positive impact of diversity and independence on collective performance. With some restrictions, the hypothesis "The more diverse the collective, the higher the collective performance" is formally proved. The second part of this presentation will concern the application of collective intelligent methods for sentiment analysis. It will be shown that the set of user opinions (sentiments) can be treated as a collective and choosing a proper integration mechanism is important for achieving high quality of the analysis.  
+ Biography of Prof. Ngoc-Thanh Nguyen  
+ Prof. Ngoc-Thanh Nguyen is currently a full Professor of Wroclaw University of Science and Technology in Poland and the Head of Department of Applied Informatics. He is now a member of the State Council of Scientific Excellence of Poland and a member of the Committee on Informatics of the Polish Academy of Sciences. He was an invited and visiting professor in many universities, such as Friedrich-Alexander University (Germany), Vrije Universiteit in Amsterdam (Netherlands), Japan Advanced Institute of Science and Technology (Japan), Yeungnam University (Korea), University of Technology Sydney (Australia), National Kaohsiung University (Taiwan) and Universidad Autónoma de Madrid (Spain). He is the Chair of IEEE SMC Technical Committee on Computational Collective Intelligence, he received the title of Distinguished Scientist and Distinguished Speaker of ACM, and Distinguished Visitor of IEEE. He is the Editor-in-Chief of Transactions on Computational Collective Intelligence (Springer), Vietnam Journal of Computer Science (World Scientific) and Journal of Information and Telecommunication (Taylor&Francis). Prof. Ngoc Thanh Nguyen is an author of 2 European patents in information systems. He has headed a number of research projects funded by EU programs like COST, DAAD, Polonor and National Foundation of Research and Development. He serves as an expert of National Center of Research and Development and of European Commission in evaluating research projects in such programs as MSCA-IF, REA-FET, EUREKA and COST. He has given 24 plenary and keynote speeches for international conferences, and more than 45 invited lectures in many countries. He has published 46 books and more than 450 journal and conference papers. Prof. Nguyen is on the TOP 2% list of scientists whose publications are most cited by other authors, compiled by Stanford University and Elsevier. He is a recipient of the Gold Cross of Merit awarded by the President of Poland in 2022.  
+
+ Dr. Emanuel M. Popovici   
+  Electrical and Electronic Engineering, University College Cork    
+  
+   Artificial Intelligence(AI) and Internet of Things(IoT) Technologies in Healthcare Applications: Heart and Brain Case Studies   
+ Abstract  
+ Disadvantaged communities across the world are disproportionately affected by a lack of access to healthcare with high societal and individual costs. Conditions such as congenital heart disease and brain seizures can have devastating effects if not detected in time. The main issue is that there is often a lack of trained personnel and/or expensive equipment to detect these conditions. Advances in the Internet of Things and AI technologies can provide reliable, low-cost solutions to detect these conditions without disrupting existing hospital protocols and operating within a secure framework. In our approach, solutions that involve the communion between the medical professional and AI are of special interest. These solutions must be explainable to gain wider acceptance in a medical setting. The presentation will discuss some implementations using EDGE and IoT platforms for an AI-driven auscultation for congenital heart disease and AI-driven sonification of brainwaves. Some aspects of IoT/EDGE security will also be briefly discussed.  
+  Special thanks to my colleagues: Prof. Andriy Temko; Dr. Andreea Factor; Prof Viktoria Shelevytska, Prof. Volodymyr Sarana, , Dr. Sergi Gomez Quintana, Feargal O’Sullivan, Lavanya Pampana, Dominic Lightbody, Duc-Minh Ngo, Tien Van Nguyen, Giuseppe Carracciolo, Leah Twomey, Adam Creed, as well as our funders and supporters.  
+ Biography of Dr. Emanuel M. Popovici  
+ Emanuel Popovici is a Senior Lecturer with the Department of Electrical and Electronic Engineering, University College Cork. He is currently the Director of the multi-award-winning Embedded.Systems@UCC group. His research interests include embedded system design for reliable and secure computing and communications, hardware accelerators for AI/ML and security with particular emphasis on the IoT and the EDGE. His research group achieved over 50 awards and distinctions, including three-time winners in the prestigious Global IEEE/IBM Smarter Planet Challenge, Best Engineering Lab in Ireland, Best Collaboration Achievements, Best Paper awards(IEEE/IET), Reed and Mallik Medal, student competitions, and entrepreneurial awards. His research is inspired by George Boole (the first Professor of Mathematics at UCC) and Claude Shannon (a renowned Professor at MIT). Embedded.Systems@UCC group is proudly associated with the SFI Insight Centre for Data Analytics and the SFI Marei Centre for Energy, Climate and Marine Research.   
+
+ Prof. Koichiro Ishibashi (IEEE Fellow)   
+  The University of Electro-Communications, Tokyo, Japan    
+  
+   Energy Harvesting Technologies and Low Power Sensors for Trillion Sensor Universe   
+ Abstract  
+ We are expecting the era of Trillion Sensor Universe(TSU), when trillion of sensors are distributed to environment. Since most of the distributed sensors needs to operate for long time without maintenance, the sensors should not utilize power of batteries. The combination of energy harvesting power supplies and low power sensor nodes is the key technology to realize the TSU. In this keynote talk, I would like to introduce challenges of energy harvesting technologies, especially focusing on RF energy harvesting and Wireless Power Transfer (WPT) technics for power supply of sensors for IoT. Then I will show characteristics of energy harvesting BEAT Sensors which operate for 24 hours a day without batteries, and achieve the communication range of more than 5 km. Energy saving lighting system using energy harvesting illumination Beat Sensors and the system operation will also be introduced.  
+ Biography of Prof. Koichiro Ishibashi (IEEE Fellow)  
+ Dr. Koichiro Ishibashi has been a professor of The University of Electro-Communications (UEC), Tokyo, Japan since 2011. He has been the Director of UEC ASEAN Research and Education Center (UAREC) since 2017. He has been serving a guest professor at Ho Chi Minh City University of Technology and Ho Chi Minh City University of Science since 2012.  
+  After receiving PH. D degree from Tokyo Institute of Technology in 1985, he worked at Central Research Laboratory, Hitachi Ltd., at Semiconductor Technology Academic Research Center (STARC) and at Renesas Electronics, where he had investigated low power technologies for high density SRAMs and MCUs. Since 2005, he has been a Fellow of IEEE for the technical contributions to developments of low-power SRAMs and MCUs.  
+  He has presented more than 200 academic papers at international conferences and journals including more than 20 invited presentations. He was awarded R&D 100 for the development of SH4 Series Microprocessor in 1999.  
+  His current interests are IoT technologies including Ultra low power LSI design technology, Technologies for energy harvesting sensor networks and applications, and Biomedical electronics using contactless sensors and data processing by AI.   
+
+ TOPICS  OF INTEREST   
+ We would like to invite you to contribute your original work on topics in the following, but not limited to, tracks and special sessions:   
+  
+  Internet of Things Applications   
+
+ Track 1  
+   
+ Smart Cities, Smart Public Places, and Smart Environments 
+  Smart Home, and IoT-based Building Automation 
+  Smart Agriculture and Water Management 
+  Smart factories and Industry 4.0 
+  e-Health, Assisted Living and e-Wellness 
+  Wearables, Body Sensor Networks, Smart Portable Devices 
+  Automotive, Intelligent Transport Systems 
+  IoT-based Supply Chains 
+  Smart Grid, Energy Management 
+  Industrial IoT Service Creation and Management Aspects 
+  Crowd-sensing, human-centric sensing 
+  Internet of things ecosystem 
+  Security and surveillance systems 
+  AIoT and Big Data in Earth Observation 
+  AIoT and Big Data to Climate Change and Sustainable Development 
+
+  Connectivity for Internet of things   
+   
+ Track 2  
+   
+ 5G/6G Networks and IoT 
+  IoT Protocols and Standards (IPv6, 6LoWPAN, RPL, 6TiSCH, WoT, oneM2M, etc.) 
+  Heterogeneous Networks, Web of Things, Web of Everything 
+  Sensor and Actuator Networks 
+  Software Defined Network (SDN), Network Function Virtualization (NFV) and IoT 
+  Machine to Machine (M2M)/Devices-to-Devices communications and IoT 
+  Edge Computing, Fog Computing and IoT 
+  Routing and Control Protocols 
+  Named Data Networking for IoT 
+  Internet of vehicles (IoV) networks and systems 
+  Unmanned aerial vehicle (UAV) communications 
+  Autonomous Underwater Vehicle (AUV) communications 
+  Semantic communications for IoT 
+
+  Internet of Things Technologies   
+   
+ Track 3  
+   
+ IoT Architectures and Technologies 
+  Ultra-low power IoT Technologies and Embedded Systems Architectures 
+  Sensors Data Management, IoT Mining and Analytics 
+  Resource Management, Access Control 
+  Mobility, Localization and Management Aspects 
+  Identity Management and Object Recognition 
+  Localization Technologies 
+  IoT-Enabled Smart Cities- Network Virtualization 
+  Network Programmability 
+  Cloud Computing Services 
+  Network Measurements 
+  Multi/Many-core Architectures and Applications 
+  High-Performance Computing 
+  Hardware Accelerator Computing 
+  Other topics in IoTs & Networking Management 
+
+  Internet of Things Security and Privacy   
+   
+ Track 4  
+   
+ IoT Privacy, data protection and Security Concerns 
+  IoT Privacy and Security Tests, Certification, and Labelling 
+  Security and Data protection risk analysis and mitigation 
+  Identification and Authentication Issues 
+  Wireless Sensor Network for IoT Security 
+  Intrusion Detection in IoT 
+  Cryptography, Key Management, Authentication and Authorization for IoT 
+  Physical/MAC/Network Attacks in Internet of Things 
+  Cross-layer Attacks in IoT 
+  Security with QoS Optimization in IoT 
+  Privacy based Channel Access in IoT 
+  Big Data and Information Integrity in IoT 
+  Communication Security in IoT 
+  IoT and blockchain 
+
+  Intelligence  
+  systems   
+   
+ Track 5  
+   
+ Knowledge representation in IoT 
+  Natural Language Processing in IoT 
+  Big data and IoT Data Analytics 
+  Cognitive aspects of AI in IoTs 
+  Fuzzy systems for IoT 
+  Neural Networks for IoT 
+  Nature Inspired algorithms for IoT 
+  Agent-based algorithms for IoT 
+  AI/ML-based IoT for image and video analysis 
+  AI/ML-enhanced IoT for anomaly detection 
+  AI/ML-powered IoT for predictive performance optimization 
+  AI/ML-powered IOT solutions for healthcare 
+  AI/ML-enabled IOT solutions for home automation 
+
+  Intelligence Technologies: Smart Devices and Solutions for IoTs  
+   
+ Track 6  
+   
+ Reconfigurable, Array Antennas for Intelligent Wireless Links 
+  Intelligent Reflecting Surfaces (IRS) 
+  Satellite Communications (SATCOM) Applications 
+  IoT, Small, Wearable, Biomedical Antennas 
+  Radio Frequency (RF) Devices and Systems 
+  Blockchain Based Smart Devices 
+  Embedded AI/ML for Intelligence Solutions 
+  Robots and AI/ML 
+  Automation and Control Applications 
+
+ O  RGANIZERS   
+
+ GALLERY   
+
+ ICIT 2023   
+
+ Contact  
+ Faculty of Computer Science and Engineering   
+ HCMC University of Technology   
+ Address:  Building A3, 268 Ly Thuong Kiet Street, District 10 HCMC, Vietnam  
+ Phone:  (+84-28) 38647256 (ext.:5843)  
+ Fax:  (+84-28) 38645137  
+ Email:  conf.cse@hcmut.edu.vn  
+ Website:  https://www.cse.hcmut.edu.vn/ICIT2023  
+   
+ Sitemap  
+ Home 
+  Commitee 
+  Submission 
+
+ © 2023 The CSE Faculty, HCMUT  , inc. All rights reserved.

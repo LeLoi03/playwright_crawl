@@ -1,0 +1,217 @@
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    <div id="page-wrapper">
+  <div id="page">
+    <header id="header" class="header" role="banner" aria-label="Site header">
+                      <nav class="navbar bg-light navbar-expand-lg navbar-light" id="navbar-main">
+                              <a href="/" title="Home" rel="home" class="navbar-brand">
+              <img src="/sites/default/files/WACV_Hawaii%202023_HomePageCorner.png" alt="Home" class="img-fluid d-inline-block align-top">
+            
+    </a>
+    
+
+                          <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#CollapsingNavbar" aria-controls="CollapsingNavbar" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+              <div class="collapse navbar-collapse" id="CollapsingNavbar">
+                  <nav role="navigation" aria-labelledby="block-cvpr-main-menu-menu" id="block-cvpr-main-menu" class="block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-cvpr-main-menu-menu">Main navigation</h2>
+  
+
+        
+              <ul class="clearfix nav navbar-nav">
+                    <li class="nav-item active">
+                          <a href="/home" class="nav-link active nav-link--home is-active" data-drupal-link-system-path="node/1">Home</a>
+              </li>
+                <li class="nav-item menu-item--collapsed">
+                          <a href="/organizers" class="nav-link nav-link--organizers" data-drupal-link-system-path="organizers">Organizers</a>
+              </li>
+                <li class="nav-item menu-item--collapsed">
+                          <a href="/node/129" title="link" class="nav-link nav-link--node-129" data-drupal-link-system-path="node/129">Submissions</a>
+              </li>
+                <li class="nav-item menu-item--collapsed">
+                          <a href="/node/150" title="link" class="nav-link nav-link--node-150" data-drupal-link-system-path="node/150">Program</a>
+              </li>
+                <li class="nav-item menu-item--collapsed">
+                          <a href="/sponsors" title="link" class="nav-link nav-link--sponsors" data-drupal-link-system-path="sponsors">Sponsors</a>
+              </li>
+                <li class="nav-item menu-item--collapsed">
+                          <a href="/node/78" title="Link" class="nav-link nav-link--node-78" data-drupal-link-system-path="node/78">Attend</a>
+              </li>
+                <li class="nav-item menu-item--collapsed">
+                          <a href="/jobs" title="link" class="nav-link nav-link--jobs" data-drupal-link-system-path="jobs">Jobs</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+                	          </div>
+                                          </nav>
+    </header>
+          <div class="highlighted">
+        <aside class="container-fluid section clearfix" role="complementary">
+            <div data-drupal-messages-fallback="" class="hidden"></div>
+
+
+        </aside>
+      </div>
+            <div id="main-wrapper" class="layout-main-wrapper clearfix">
+              <div id="main" class="container-fluid">
+          
+          <div class="row row-offcanvas row-offcanvas-left clearfix">
+              <main class="main-content col" id="content" role="main">
+                <section class="section">
+                  <a id="main-content" tabindex="-1"></a>
+                    <div id="block-cvpr-content" class="block block-system block-system-main-block">
+  
+    
+      <div class="content">
+      
+
+<article data-history-node-id="1" role="article" about="/home" typeof="schema:WebPage" class="node node--type-page node--view-mode-full clearfix">
+  <header>
+    
+          <span property="schema:name" content="Home" class="rdf-meta hidden"></span>
+
+      </header>
+  <div class="node__content clearfix">
+    
+      <div class="field field--name-field-stacks field--type-stacks-type field--label-hidden field__items">
+              <div class="field__item">  <div id="" class=" ">
+    <div class="row">
+                    <div class="col-sm-3">
+                <div class="inner-col-content">
+                    <h3>ABOUT</h3>
+
+<p>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) is the premier international computer vision event comprising the main conference and several co-located workshops and tutorials. With its high quality and low cost, it provides an exceptional value for students, academics and industry researchers.</p>
+
+<p>&nbsp;</p>
+
+<div><a href="https://www.thecvf.com/" target="_blank"><img src="http://cvpr2019.thecvf.com/images/sponsors/cvf_.jpg" width="40%"></a> <a href="https://www.computer.org/" target="_blank"><img src="http://cvpr2019.thecvf.com/images/sponsors/ieee_cs_.png" width="55%"></a></div>
+
+                                    </div>
+            </div>
+                            <div class="col-sm-9" style="background:url(https://wacv2023.thecvf.com/sites/default/files/2022-08/WACV%202023_Hero%20Image%20with%20Logo.jpg) no-repeat; background-size: cover; background-position: center;">
+                <div class="hero-text inner-col-content">
+                    <div id="home-banner">
+<div class="home-top-content">
+<div class="bigtop-header-title">
+<h1 class="super hidden-xs">&nbsp;</h1>
+</div>
+</div>
+</div>
+
+                </div>
+            </div>
+            </div>
+  </div>
+</div>
+              <div class="field__item">    <div class="row">
+                    <div class="col-sm-6 bg-grey">
+                <div class="inner-col-content">
+                    <div class="bg-grey card-popup-animated">
+<h3>WACV 2023</h3>
+
+<p style="text-align:start">Waikoloa, Hawaii</p>
+
+<p style="text-align:start">WACV 2023 January 3-7<br>
+Workshops January 3 &amp; &nbsp;7<br>
+Main Conference January 4-6<br><a href="https://fg2023.ieee-biometrics.org/">Face &amp; Gestures</a> (co-located with WACV 2023) Workshops January 5 &amp; 6, Main Conference January 7 &amp; 8</p>
+
+<p>All registrations will be full passport which will allow you to attend any session for WACV and FG.</p>
+
+<p>&nbsp;</p>
+</div>
+
+                </div>
+            </div>
+        
+                    <div class="col-sm-6">
+                <div class="inner-col-content">
+                    <div class="bg-white card-popup-animated">
+<h3>NEWS AND UPDATES</h3>
+
+<h4>01/27 -&nbsp;<a href="https://www.springer.com/journal/138/updates/23945438">Call for Papers (submission by invitation only):</a>&nbsp;MVA Special Issue on&nbsp;<a href="https://wacv2023.thecvf.com/node/174">WACV 2023 Award Finalist Papers</a></h4>
+
+<h4>12/31 - Paper Visualizations can be viewed <a href="https://wacv2023.thecvf.com/papers-visualizations?filter=authors">here</a></h4>
+
+<h4>12/29 - The virtual site and the onsite badge retrieval emails have gone out. If you can't find the email with the 'magic link' for the virtual site go to <a href="https://events.rdmobile.com/Account/Login" rel="noopener" target="_blank">https://events.rdmobile.com/Account/Login</a></h4>
+
+<h4>For the app - download eventsential app from playstore and search for WACV</h4>
+
+<h4>The QR code cannot be resent but you can still get your badge with your last name or confirmation number.</h4>
+
+<h4>12/20 - Shuttle schedule can be found <a href="https://wacv2023.thecvf.com/node/87">here</a></h4>
+
+<h4>12/01 -&nbsp;Full schedule detail posted <a href="https://wacv2023.thecvf.com/node/150">here</a><br>
+A bus schedule to/from the Courtyard Marriott will be posted shortly.</h4>
+
+<h4>11/28 -&nbsp;Video/poster uploads due by 12/9 at 9am. Instructions can be found <a href="https://video.vast.uccs.edu/">here</a></h4>
+
+<h4>11/16 - The early registration deadline has been changed to November 23<sup>rd</sup>.&nbsp; Please plan accordingly.</h4>
+
+<h4>10/17 - Local poster printing can be found <a href="https://wacv2023.thecvf.com/node/142">here</a></h4>
+
+<h4>10/05 -&nbsp;The Courtyard Marriott is now open for reservations <a href="https://wacv2023.thecvf.com/node/87">here</a></h4>
+
+<h4>09/27 -&nbsp;Registration is&nbsp;<a href="https://na.eventscloud.com/ereg/index.php?eventid=716241&amp;" rel="noopener" target="_blank">LIVE</a></h4>
+
+<h4>09/27 -&nbsp;Room Reservations are open <a href="https://wacv2023.thecvf.com/node/87">here</a></h4>
+
+<h4>08/24 - Visa information available <a href="https://wacv2023.thecvf.com/node/78">here</a></h4>
+
+<h4>08/16 - Accepted Workshops are available can be found <a href="https://wacv2023.thecvf.com/node/138">here</a></h4>
+
+<h4>08/06 -&nbsp;Round 2 deadlines are approaching! Register your paper by August 22 more info <a href="https://wacv2023.thecvf.com/node/129">here</a></h4>
+
+<h4>06/10 - Sponsor information is updated <a href="https://wacv2023.thecvf.com/node/76">here</a></h4>
+
+<h4>05/21 - Call for Workshop Proposals can be found <a href="https://wacv2023.thecvf.com/node/81">here</a></h4>
+
+<h4>05/10 - Submission Deadlines can be found <a href="https://wacv2023.thecvf.com/node/129">here</a></h4>
+</div>
+
+                </div>
+            </div>
+            </div>
+</div>
+              <div class="field__item">
+  <div id="" class=" ">
+    
+    <div class="row light-grey">
+    <div class="col-sm-12 mt-3 mb-3">
+        <div class="card text-center light-grey">
+            <div class="card-body">
+                <h5 class="card-title">WACV 2023 begins</h5>
+                <div class="card-text">
+                    <div data-countdown="2023/01/03 16:00" class="countdown"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+  </div>
+</div>
+          </div>
+  
+  </div>
+</article>
+
+    </div>
+  </div>
+
+
+                </section>
+              </main>
+                                  </div>
+        </div>
+    </div>
+        <footer class="site-footer">
+              <div class="container-fluid">
+                                      </div>
+    </footer>
+  </div>
+</div>
+
+  </div>

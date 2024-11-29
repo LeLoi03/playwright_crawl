@@ -1,0 +1,166 @@
+Welcome  
+ Homepage 
+  Reproducibility 
+  Inclusion and Diversity 
+  News 
+  Organization  
+ Organization 
+  SIGMOD PC 
+  SIGMOD ARC 
+  PODS PC 
+  SIGMOD Industry PC 
+  SIGMOD Demo PC 
+  Sponsor Opportunities 
+  ACM SIGMOD Online 
+
+  Special and Co-located Events  
+ Student Research Competition 
+  Affiliated Workshops 
+  Programming Contest 
+  New Researchers Symposium 
+
+  Participant Information  
+ Registration 
+  Fees 
+  Conference Format 
+  Authors Instructions 
+  Session Chair & Presenter Instructions 
+  Student Travel Award 
+  Accommodations 
+  Conference Venue 
+  Banquet 
+  Restaurants 
+  Visa Information 
+  Airport & Transportation 
+
+ SIGMOD Program  
+ Program Overview 
+  Detailed Program 
+  Research Papers 
+  Demo Papers 
+  Tutorials 
+  Industrial Papers 
+  Keynote Talks 
+  Awards 
+  Panel Discussions 
+  PODS Program  
+ Program Overview 
+  Detailed Program 
+  Research Papers 
+  Keynote Talk 
+  Invited Tutorials 
+  Gems of PODS 
+  Calls For Submissions  
+ Important Dates 
+  SIGMOD Call for Research Papers 
+  PODS Call for Research Papers 
+  SIGMOD Call for Tutorial Proposals 
+  SIGMOD Call for Industrial Track Papers 
+  SIGMOD Call for Workshop Proposals 
+  SIGMOD Call for Demonstration Proposals 
+  SIGMOD call for Doctoral Dissertation Award 
+  SIGMOD Call for Awards Nomination 
+   
+  Follow me on Twitter  
+ Tweets by SIGMOD/PODS 2023   
+
+ Conference Program: PODS Sessions  
+ The PODS proceedings can be accessed here  .  
+ Keynote Talk 
+  Research Sessions 
+  Tutorials 
+   
+  PODS Keynote   
+ Databases as Graphs: Predictive Queries for Declarative Machine Learning  
+ Jure Leskovec, Stanford University  
+  Monday June 19 8:00 am – 9:30 am  
+  Location: Grand ABC   
+  Session Chair: Floris Geerts and Hung Ngo  
+   
+  RESEARCH SESSIONS  
+  Session 1: Test of Time Awards and Gems of PODS  
+ Monday June 19 9:30 am – 10:30 am  
+  Location: Evergreen E   
+  Session Chair: Hung Ngo  
+ (Test of Time) Communication Steps for Parallel Query Processing | Paul Beame, Paraschos Koutris, Dan Suciu 
+  (Test of Time) Ontology-based data access: a study through disjunctive datalog, CSP, and MMSNP | Meghyn Bienvenu, Balder ten Cate, Carsten Lutz, Frank Wolter 
+  (Gems of PODS) Applications of Sketching and Pathways to Impact | Graham Cormode (Facebook and University of Warwick) 
+   
+  Session 2: Query Languages & Transaction Processing  
+ Monday June 19 11:00 am – 12:30 pm  
+  Location: Evergreen E   
+  Session Chair: Miguel Romero Orth  
+ SQL Nulls and Two-Valued Logic | Leonid Libkin and Liat Peterfreund 
+  Generative Datalog with Stable Negation | Mario Alviano, Matthias Lanzinger, Michael Morak and Andreas Pieris 
+  Synthesizing nested relational queries from implicit specifications | Michael Benedikt, Cécilia Pradic and Christoph Wernhard 
+  Distributed Consistency Beyond Queries | Tim Baccaert and Bas Ketsman 
+   
+  Session 3: Awards (Best Paper and Distinguished Papers)  
+ Monday June 19 2:00 pm – 3:30 pm  
+  Location: Evergreen E   
+  Session Chair: Hung Ngo  
+ Space-Time Tradeoffs for Conjunctive Queries with Access Patterns | Hangdong Zhao, Shaleen Deep and Paraschos Koutris 
+  Allocating Isolation Levels to Transactions in a Multiversion Setting | Brecht Vandevoort, Bas Ketsman and Frank Neven 
+  Better Differentially Private Approximate Histograms and Heavy Hitters using the Misra-Gries Sketch | Christian Lebeda and Jakub Tetek 
+  (Best Paper)  Extremal Fitting Problems for Conjunctive Queries | Balder Ten Cate, Victor Dalmau, Maurice Funk and Carsten Lutz 
+   
+  Session 4: Sampling and Streaming  
+ Monday June 19 4:00 pm – 6:00 pm  
+  Location: Evergreen E   
+  Session Chair: Paris Koutris  
+ On Optimal Join Sampling and the Hardness of Output-Sensitive Join Algorithms | Shiyuan Deng, Shangqi Lu and Yufei Tao 
+  Guaranteeing the O(AGM/OUT) Runtime for Uniform Sampling and Size Estimation over Joins | Kyoungmin Kim, Jaehyun Ha, George Fletcher and Wook-Shin Han 
+  Set Cover in the One-pass Edge-arrival Streaming Model | Sanjeev Khanna, Christian Konrad and Cezar Alexandro 
+  Coloring in Graph Streams via Deterministic and Adversarially Robust Algorithms | Sepehr Assadi, Amit Chakrabarti, Prantar Ghosh and Manuel Stoeckl 
+  Towards Better Bounds for Finding Quasi-Identifiers | Hoa Vu, Quoc-Tung Le, Duy-Hoang Ta and Ryan Hildebrant 
+  Weighted Minwise Hashing Beats Linear Sketching for Inner Product Estimation | Aline Bessa, Majid Daliri, Juliana Freire, Cameron Musco, Christopher Musco, Aécio Santos and Haoxiang Zhang 
+   
+  Session 5: Differential privacy & distributed processing  
+ Tuesday June 20 2:00 pm – 3:30 pm  
+  Location: Evergreen BC   
+  Session Chair: Nofar Carmeli  
+ Node-Differentially Private Estimation of the Number of Connected Components | Iden Kalemaj, Sofya Raskhodnikova, Adam Smith and Charalampos Tsourakakis 
+  Universal Private Estimators | Wei Dong and Ke Yi 
+  Differentially Private Data Release over Multiple Tables | Badih Ghazi, Xiao Hu, Ravi Kumar and Pasin Manurangsi 
+  Optimal Uncoordinated Unique IDs | Peter Dillinger, Martin Farach-Colton, Guido Tagliavini and Stefan Walzer 
+   
+  Session 6: Queries and Graphs  
+ Tuesday June 20 4:00 pm – 5:30 pm  
+  Location: Evergreen BC   
+  Session Chair: Andreas Pieris  
+ Conjunctive Regular Path Queries under Injective Semantics | Diego Figueira and Miguel Romero 
+  GPC: A Pattern Calculus for Property Graphs | Nadime Francis, Amelie Gheerbrant, Paolo Guagliardo, Leonid Libkin, Victor Marsault, Wim Martens, Filip Murlak, Liat Peterfreund, Alexandra Rogova and Domagoj Vrgoc 
+  Static Analysis of Graph Database Transformations | Sławek Staworko, Iovka Boneva, Benoit Groz, Jan Hidders and Filip Murlak 
+   
+  Session 7: Query Processing  
+ Wednesday June 21 2:00 pm – 3:30 pm  
+  Location: Evergreen BC   
+  Session Chair: Bas Ketsman  
+ Indexing for Keyword Search with Structured Constraints | Shangqi Lu and Yufei Tao 
+  Conjunctive Queries With Self-Joins, Towards a Fine-Grained Complexity Analysis | Nofar Carmeli and Luc Segoufin 
+  Bounded Treewidth and the Infinite Core Chase -- Complications and Workarounds toward Decidable Querying | Jean-François Baget, Marie-Laure Mugnier and Sebastian Rudolph 
+  Efficient Computation of Quantiles over Joins | Nikolaos Tziavelis, Nofar Carmeli, Wolfgang Gatterbauer, Benny Kimelfeld and Mirek Riedewald 
+   
+  Session 8: Uncertainty  
+ Wednesday June 21 4:00 pm – 5:30 pm  
+  Location: Evergreen BC   
+  Session Chair: Stavros Sintos  
+ Better Cardinality Estimators for HyperLogLog, PCSA, and Beyond | Seth Pettie and Dingyu Wang 
+  Quantifying the Loss of Acyclic Join Dependencies | Batya Kenig and Nir Weinberger 
+  Probabilistic Query Evaluation: the Combined FPRAS Landscape | Timothy van Bremen and Kuldeep S. Meel 
+  Querying Incomplete Numerical Data: Between Certain and Possible Answers | Marco Console, Leonid Libkin and Liat Peterfreund 
+   
+  TUTORIAL SESSIONS  
+  Invited Tutorial 1  
+ Tuesday June 20 11:00 am – 12:30 pm  
+  Location: Evergreen BC   
+  Session Chair: Hung Ngo  
+ Sampling Big Ideas in Query Optimization | Edith Cohen (Google) 
+   Invited Tutorial 2  
+ Wednesday June 21 11:00 am – 12:30 pm  
+  Location: Evergreen BC   
+  Session Chair: Hung Ngo  
+ A Query Language Perspective on Graph Learning | Floris Geerts (University of Antwerp) 
+
+ Credits   
+  Follow our progress:

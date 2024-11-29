@@ -1,0 +1,1079 @@
+18th Conference on Computer Science and Intelligence Systems  
+ September 17–20, 2023  . Warsaw, Poland  
+  
+ Annals of Computer Science and Intelligence Systems, Volume 35   
+ ISSN 2300-5963   
+   
+ Volume 34  Volume 36    
+ Proceedings of the 18th Conference on Computer Science and Intelligence Systems  
+ ISBN 978-83-967447-8-4 (Web),  
+  978-83-967447-9-1 (USB),  
+  978-83-969601-0-8 (ART)   
+ IEEE  Catalog Number: CFP2385N-ART (ART),  
+  CFP2385N-USB (USB)   
+ DOI: http://dx.doi.org/10.15439/978-83-967447-8-4    
+   
+ Complete FedCSIS Proceedings (PDF, 76.459 M)    
+ Search results for    
+ Search this volume:     
+ Main track | Invited 
+  Regular 
+  Short 
+  Thematic tracks | Regular 
+  Short 
+  Competitions | PolEval 
+  Cybersecurity… 
+  CAICCAIC 
+  TICRC 
+  Top 
+  🔎 
+   
+ Preface   
+ Dear  it is our pleasure to present to you Proceedings of the 18 th  Conference on Computer Science and Intelligence Systems (FedCSIS 2023), which took place on September 17-20, 2023, in Warsaw, Poland.  
+ FedCSIS 2023 was chaired by Jarosław Arabas and Sławomir Zadrożny, while Przemysław Biecek acted as the Chair of the Organizing Committee. This year, FedCSIS was organized by the Polish Information Processing Society (Mazovia Chapter), IEEE Poland Section Computer Society Chapter, Systems Research Institute of Polish Academy of Sciences, as well as Faculty of Electronics and Information Technology and Faculty of Mathematics and Information Sciences of Warsaw University of Technology.  
+ FedCSIS 2023 was technically co-sponsored by IEEE Poland Section, IEEE Czechoslovakia Section Computer Society Chapter, IEEE Poland Section Systems, Man, and Cybernetics Society Chapter, IEEE Poland Section Computational Intelligence Society Chapter, Committee of Computer Science of Polish Academy of Sciences, and Mazovia Cluster ICT. Moreover, two years ago, the FedCSIS conference series formed strategic alliance with QED Software, a Polish software company developing AI-based products, and this collaboration has been continued.  
+ FedCSIS 2023 was sponsored by QED Software, Samsung, Hewlett Packard Enterprise, Łukasiewicz Research Network – Institute of Innovative Technologies EMAG, MDPI, Sages, Efigo, and CloudFerro.  
+ This year, another round of evolutionary adaptations, to the FedCSIS conference series, took place. Specifically, they concerned the conference structure. Post conference publications (Proceedings, Position Papers and Communication Papers volumes) illustrate the direction of this evolutionary process. In short, starting from 2023, FedCSIS conferences have Main Track with five Topical Areas, Thematic Tracks and, possibly, Competitions. The new structure emphasizes the integrity of the conference. For all five Topical Areas, situated within a general domain of Computer Science, the continually emerging topic of Intelligence Systems, stands as the common denominator. All Thematic Tracks refer to Intelligence Systems as well, from different perspectives. Even Competitions, having strong roots in the realm of AI, data science, machine learning, computer vision, and natural language processing, are regarded as a path toward introducing more Intelligence into Computer Science and IT.  
+ In this context, these Proceedings consist of six parts. Part 1 contains Invited Contributions. Part 2 collects Main Track full contributions (arranged alphabetically, according to the last name of the first author, with Topical Area represented in the metadata). Part 3 contains Main Track short contributions. Part 4 contains full contributions, originating from Thematic Tracks. (Again, texts are arranged alphabetically, according to the last name of the first author, with the name of Thematic Track stated in the metadata.) Part 5 collects short papers from all Thematic Tracks. Finally, Part 6 is devoted to Competitions that run within the context of FedCSIS conferences.  
+ Keeping this in mind, let us now introduce Keynote Speakers, the remaining Invited Contributions, and the five Topical Areas of FedCSIS 2023 Main Track.  
+ I. Invited Contributions  
+ FedCSIS 2023 invited four keynote lecturers to deliver lectures matching Topical Areas and thus providing a broader context for the conference participants. Moreover, two past FedCSIS keynote speakers have been invited to prepare contributions, which refer to the core focus of the conference series. There are also two contributions corresponding to the additional invited talks and three contributions corresponding to tutorials. The aforementioned common denominator of all FedCSIS Topical Areas is clearly visible in this part. First, we can see here the core AI works on trustworthiness and robustness of neuro-symbolic and neural network models. Second, there are contributions related to the foundations of intelligent decision making and uncertainty modeling, using tools taken e.g. from soft computing and information theory. On the other hand, we have also contributions referring to machine learning and data science software, as well as examples of applications of AI methods in practical domains. This generally reflects our understanding of the place of Intelligence Systems in the realm of Computer Science. Namely, according to our vision, it is to develop and adjust the AI-related methods to let them work efficiently as the essential component of modern software systems and solutions.  
+ II. Advanced Artificial Intelligence in Applications  
+ This Topical Area is a conceptual continuation of a series of international AAIA Symposiums, which have been held since 2006. It aims at covering wide range of core aspects of AI. Nowadays, AI is usually perceived as closely related to the data, therefore, the scope of this Topical Area includes elements of machine learning, data science, and big data processing, with important emerging aspects such as interactive learning and human-centered AI, as well as interpretable learning, explainable AI, and the aforementioned topic of trustworthiness. Furthermore, since the realm of AI is far richer, the ultimate goal of this Topical Area is to show relationships between all of AI subareas, emphasizing a cross-disciplinary nature of various research branches. In 2023, the collection of papers accepted to this Topical Area has reflected this cross-disciplinary nature particularly well. We can see here various areas of AI (also outside so-called “core AI”), as well as a mix of theoretical and practical contributions. From the perspective of the general scope of FedCSIS, this Topical Area embraces particularly AI methods and examples of their applications in different practical fields.  
+ This Topical Area is curated by:  
+ + Corizzo, Roberto, American University, USA  
+ + Sosnowski, Łukasz, Systems Research Institute of Polish Academy of Sciences, Poland  
+ + Szczuka, Marcin, University of Warsaw, Poland  
+ + Zdravevski, Eftim, Ss. Cyril and Methodius University, Macedonia  
+ III. Computer Science & Systems  
+ This Topical Area aims at integrating and creating synergy between Computer Science and related disciplines, with AI being of the core interest. The area’s scope spans themes ranging from hardware issues close to computer engineering via software issues tackled by the theory and applications of Computer Science. When compared to the previously-discussed Topical Area on “Advanced Artificial Intelligence in Applications”, herein we are interested more in software system realizations and computational aspects. Therefore, we make a step from AI regarded as the set of methods towards Intelligence Systems understood as software systems with the elements of AI. As an example, the domains such as reinforcement learning or AI-based games and simulations are studied here not only from the perspective of the quality of obtained results but also taking into account their performance, resource consumption, and scalability.  
+ This Topical Area is curated by:  
+ + Casalino, Gabriella, University of Bari "Aldo Moro", Italy  
+ + Ducange, Pietro, University of Pisa, Italy  
+ + Pawłowski, Wiesław, University of Gdańsk, Poland  
+ + Świechowski, Maciej, QED Software, Poland  
+ + Wasielewska-Michniewska, Katarzyna, Systems Research Institute of Polish  
+ Academy of Sciences, Poland  
+ IV. Network Systems & Applications  
+ Modern network systems encompass a wide range of solutions and technologies, including wireless and wired networks, network systems, services, and applications. On the one hand, network technologies are used in majority of areas that make human life easier and more comfortable. On the other hand, the rapid need for network deployment brings new challenges in network management and network design, which are reflected in hardware, software, services, and security-related problems. Going back to the main scope of FedCSIS, it is obvious that appropriate network solutions are one of the crucial layers of scalable modern software systems, including those with the elements of AI. On the other hand, equally obviously, AI methods can be useful to make network systems and their applications more efficient. Accordingly, the aim of this Topical Area is to bring more Intelligence into network systems. Moreover, besides network systems, one should think also about network models, network algorithms, etc. Therefore, this Topical Area covers not only the technological side, but also the societal and social impacts of network developments. This Topical Area is curated by:  
+ + Armando, Alessandro, University of Genova, Italy  
+ + Awad, Ali Ismail, United Arab Emirates University, United Arab Emirates  
+ + Furtak, Janusz, Military University of Technology, Poland  
+ + Hodoň, Michal, University of Žilina, Slovakia  
+ + Suri, Niranjan, Institute of Human and Machine Cognition, United States  
+ V. Information Technology for Business & Society  
+ The aim this Topical Area is to integrate and create synergy between disciplines of IT, Intelligence Systems, and social sciences. Collected contributions address issues relevant to IT and necessary for practical, everyday needs of business, other organizations and society at large. Moreover, they take a socio-technical view on Intelligence Systems and, at the same time, relate to ethical, social and political issues that they raise. Thus, from the viewpoint of the FedCSIS as a whole, this Topical Area goes beyond Computer Science itself. It refers to the fact that every software system or solution, and especially a system or solution with some flavors of Intelligence, needs to be carefully deployed in real life. In other words, it is not only about machines – it is also about humans. Accordingly, this Topical Area embraces particularly research on methods and processes of adoption of AI and Intelligence Systems in society and particular markets of business applications. Going back to one of the aforementioned invited contributions, the means for trustworthiness can be regarded as an important tool in such processes too.  
+ This Topical Area is curated by:  
+ + Cano, Alberto, Virginia Commonwealth University, United States  
+ + Dias, Gonçalo, University of Aveiro, Portugal  
+ + Miller, Gloria, Maxmetrics, Germany  
+ + Naldi, Maurizio, LUMSA University, Italy  
+ + Wątróbski, Jarosław, University of Szczecin, Poland  
+ + Ziemba, Ewa, University of Economics in Katowice, Poland  
+ VI. Software, System & Service Engineering  
+ For decades, an open question in the software industry remains, how to provide fast and effective software process and software services, and how to come to software systems, embedded systems, autonomous systems, or cyber-physical systems that will address the open issue of supporting information management process in many, particularly complex organization systems. Even more, it is a hot issue how to provide a synergy between systems in common, and software services as a mandatory component of each modern organization, particularly in terms of IoT, big data, and Industry 4.0 paradigms. Therefore, the main goal of this Topical Area is to address open questions and real potentials for various applications of modern approaches and technologies to develop and implement effective software services in a support of information management and system engineering. We can see here a clear linkage to AI and Intelligence Systems as well. On the one hand (going back to one of invited talks reported in Invited Contributions), AI tools can be applied to improve the quality of software and to optimize the performance of computer systems. While on the other hand (going back again to one of the papers associated with the FedCSIS 2023 keynote lectures), AI-based models and algorithms need to be tested, maintained and monitored just like any other components of complex software systems. This Topical Area is curated by:  
+ + Luković, Ivan, University of Belgrade, Serbia  
+ + Kolukısa Tarhan, Ayça, Hacettepe University, Turkey  
+ + Mernik, Marjan, University of Maribor, Slovenia  
+ + Popović, Aleksandar, University of Montenegro, Montenegro  
+ VII. Zdzisław Pawlak Awards  
+ The above-described five Topical Areas of FedCSIS Main Track reflect five fundamental aspects of understanding, developing, and applying Intelligence Systems. This topical integrity is emphasized by the Professor Zdzisław Pawlak award, considered in four categories: Best Paper, Young Researcher, Industry Cooperation, and International Cooperation. Over time, this award has gone through significant evolution together with the FedCSIS conference series. Originally, it was granted only to papers published within the series of AAIA Symposiums. However, although Professor Zdzisław Pawlak has been often recognized as “the father of Polish AI”, his research achievements have gone far beyond AI itself, in particular, toward AI applications and Intelligence Systems as we mean them. Accordingly, over time, we decided to expand this award to the whole conference – not only all Main Track Topical Areas but also all Thematic Tracks.  
+ This year, Award Committee (a part of FedCSIS Senior Program Committee) had a particularly hard task to select a single winner of Best Paper Award. Therefore, after discussion, additional paper was distinguished with Distinction Award. The following contributions have been awarded:  
+ In the category | Best Paper: | Julian Premm, Hagen Peukert, Dennis Rössel, Mareike Silber, for the paper „Analysis of a GPT-3 chatbot with respect to its input in a sales dialogue” 
+  Additional | Distinction Award: | Giovanna Castellano, Pasquale De Marinis, Gennaro Vessio, for the paper „Applying Knowledge Distillation to Improve Weed Mapping With Drones” 
+  In the category | Young Researcher: | Anastasiya Danilenka, for the paper „Mitigating the effects of non-IID data in federated learning with a self-adversarial balancing method” 
+  In the category | Industry Cooperation: | Mikołaj Pudo, Mateusz Wosik, Artur Janicki, for the paper „Open Vocabulary Keyword Spotting with Small-Footprint ASR-based Architecture and Language Models” 
+  In the category | International Cooperation Award: | Samaneh Mohammadi, Mohammadreza Mohammadi, Sima Sinaei, Ehsan Nowroozi, Francesco Flammini, Mauro Conti, for the paper „Balancing Privacy and Accuracy in Federated Learning for Speech Emotion Recognition” 
+  Industry Cooperation Award was sponsored by QED Software, International Cooperation Award – by MDPI, while the remaining awards were sponsored by Mazovia Branch of Polish Information Processing Society. Here, it is also worth noting that each of those five papers comes from a different Topical Area or Thematic Track. Yet, they are all aligned with what we described before as the FedCSIS common denominator.  
+ VIII. Statistics  
+ Each contribution, found in this volume, was refereed by at least two referees and the acceptance rate of regular full papers was approximately 19% (68 accepted contributions, out of 358 general submissions).  
+ IX. Committees  
+ The Senior Program Committee of FedCSIS 2023 consisted of:  
+ van der Aalst, Wil, RWTH Aachen University, Germany 
+  Alba, Enrique, University of Málaga, Spain 
+  Aiello, Marco, University of Stuttgart, Germany 
+  Armando, Alessandro, University of Genova, Italy 
+  Atiquzzaman, Mohammed, University of Oklahoma, Norman, USA 
+  Awad, Ali Ismail, United Arab Emirates University, United Arab Emirates 
+  Blum, Christian, Artificial Intelligence Research Institute (IIIA-CSIC), Spain 
+  Bosch, Jan, Chalmers University of Technology, Sweden 
+  Boustras, George, European University, Cyprus 
+  Bryant, Barrett, University of North Texas, USA 
+  Buyya, Rajkumar, University of Melbourne, Australia 
+  Cano, Alberto, Virginia Commonwealth University, United States 
+  Casalino, Gabriella, University of Bari "Aldo Moro", Italy 
+  Corizzo, Roberto, American University, USA 
+  Cornelis, Chris, Ghent University, Belgium 
+  Dias, Gonçalo, University of Aveiro, Portugal 
+  Djidjev, Hristo, Los Alamos National Laboratory, USA and Institute of Information and Communication Technologies, Bulgaria 
+  Ducange, Pietro, University of Pisa, Italy 
+  Duch, Włodzisław, Nicolaus Copernicus University, Poland 
+  Fill, Hans-George, University of Fribourg, Switzerland 
+  Fred, Ana, Instituto Superior Técnico (IST—Technical University of Lisbon), Portugal 
+  Furtak, Janusz, Military University of Technology, Poland 
+  Giancarlo Guizzardi, Free University of Bolzano-Bozen, Italy 
+  Herrera, Francisco, University of Granada, Spain 
+  Hinchey, Mike, Lero, University of Limerick, Ireland 
+  Hodoň, Michal, University of Žilina, Slovakia 
+  Kacprzyk, Janusz, Systems Research Institute, Polish Academy of Sciences, Poland 
+  King, Irwin, The Chinese University of Hong Kong, China 
+  Kolukısa Tarhan, Ayça, Hacettepe University, Turkey 
+  Komorowski, Jan, Uppsala University, Sweden 
+  Kwaśnicka, Halina, Wrocław University of Science and Technology, Poland 
+  Luck, Michael, King's College London, United Kingdom 
+  Luković, Ivan, University of Belgrade, Serbia 
+  Matwin, Stan, Dalhousie University, University of Ottawa, Canada and Institute of Computer Science, Polish Academy of Science, Poland 
+  Mernik, Marjan, University of Maribor, Slovenia 
+  Michalewicz, Zbigniew, University of Adelaide, Australia 
+  Miller, Gloria, maxmetrics, Germany 
+  Naldi, Maurizio, LUMSA University, Italy 
+  Pawłowski, Wiesław, University of Gdańsk and Systems Research Institute, Polish Academy of Sciences, Poland 
+  Pedrycz, Witold, University of Alberta, Canada 
+  Popović, Aleksandar, University of Montenegro, Montenegro 
+  Raś, Zbigniew, University of North Carolina, United States 
+  Segal, Michael, Ben-Gurion University of the Negev, Israel 
+  Skowron, Andrzej, Systems Research Institute, Polish Academy of Sciences, Poland 
+  Słowiński, Roman, Poznań University of Technology, Poland 
+  Sosnowski, Łukasz, Systems Research Institute, Polish Academy of Sciences, Poland 
+  Sowa, John F., VivoMind Research, LLC, USA 
+  Spanoudakis George, University of London, United Kingdom 
+  Suri, Niranjan, Institute of Human and Machine Cognition, United States 
+  Świechowski, Maciej, QED Software, Poland 
+  Szczuka, Marcin, University of Warsaw, Poland 
+  Wasielewska-Michniewska, Katarzyna, Systems Research Institute, Polish Academy of Sciences, Poland 
+  Wątróbski, Jarosław, University of Szczecin, Poland 
+  Zdravevski, Eftim, Ss. Cyril and Methodius University, Macedonia 
+  Ziemba, Ewa, University of Econmics in Katowice, Poland 
+  The FedCSIS 2023 Program Committee consisted of:  
+ Abramowicz, Witold, Poznań University of Economics and Business, Poland 
+  Ahad, Mohd Abdul, Jamia Hamdard, India 
+  Ahmad, Muhammad Ovais, Karlstad University, Sweden 
+  Al-Naday, Mays, University of Essex, United Kingdom 
+  Almeida, Luis, University of Porto, Portugal 
+  Alshayeb, Mohammad, King Fahd University of Petroleum & Minerals, Saudi Arabia 
+  Anastassi, Zacharias, ASPETE School of Pedagogical and Technological Education, Greece 
+  Andres, Frederic, National Institute of Informatics, Japan 
+  Aneta Poniszewska-Maranda, Lodz University of Technology, Poland 
+  Arabas, Jaroslaw, Warsaw University of Technology, Poland 
+  Arruda Filho, Emílio José, University FUMEC, Brasil 
+  Atanassov, Krassimir T., Bulgarian Academy of Sciences, Bulgaria 
+  Atasever, Mesut, Uşak University, Turkey 
+  Azad, Mohammad, Jouf University, Saudi Arabia 
+  Aziz, Shariq, University of Lahore, Pakistan 
+  Babur, Önder, Wageningen University & Research, the Netherlands 
+  Bacco, Manlio, Institute of Information Science and Technologies, National Research Council, Italy 
+  Bachan, Jolanta, Adam Mickiewicz University, Poland 
+  Badica, Amelia, University of Craiova, Romania 
+  Badica, Costin, University of Craiova, Romania 
+  Bajdor, Paula, Czestochowa University of Technology, Poland 
+  Balazs, Krisztian, Budapest University of Technology and Economics, Hungary 
+  Baldán Lozano, Francisco Javier, University of Granada, Spain 
+  Ballas, Rüdiger G., Mobile University of Technology, Germany 
+  Banach, Richard, University of Manchester, United Kingdom 
+  Banaszak, Zbigniew, Warsaw University of Technology, Poland 
+  Barisic, Ankica, Université Côte d'Azur, France 
+  Barreiro, Anabela, Universidade de Lisboa, Portugal 
+  Bartosz Walter, Poznań University of Technology, Poland 
+  Bauer, Markus, InfAI, Germany 
+  Belciug, Smaranda, University of Craiova, Romania 
+  Bellinger, Colin, National Research Council of Canada, Canada 
+  Ben-Assuli, Ofir, Ono Academic College, Israel 
+  Białas, Andrzej, Institute of Innovative Technologies EMAG, Poland 
+  Bicevskis, Janis, University of Latvia, Riga 
+  Bielecki, Wlodzimierz, ZUT Szczecin, Poland 
+  Bigi, Brigitte, Laboratoire Parole et Langage, CNRS, France 
+  Binnewitt, Johanna, BIBB, and University of Cologne, Germany 
+  Biro, M, Software Competence Center Hagenberg, Austria 
+  Bjeladinovic, Srdja, University of Belgrade, Serbia 
+  Blachnik, Marcin, Silesian University of Technology, Poland 
+  Blasband, Darius, RainCode, Belgium 
+  Bluemke, Ilona, Warsaw University of Technology, Poland 
+  Bodyanskiy, Yevgeniy, Kharkiv National University of Radio Electronics, NURE, Ukraine 
+  Boeva, Veselka, Blekinge Institute of Technology, Sweden 
+  Bogumiła Hnatkowska, Wrocław University of Science and Technology, Poland 
+  Boiński, Tomasz, Gdańsk University of Technology, Poland 
+  Bolanowski, Marek, Rzeszow University of Technology, Poland 
+  Borkowski, Bolesław, University of Warsaw, Poland 
+  Borzemski, Leszek, Wroclaw University of Technology, Poland 
+  Brezovan, Marius, University of Craiova, Romania 
+  Bridova, Ivana, University of Zilina, Slovakia 
+  Bronselaer, Antoon, Ghent University, Belgium 
+  Brugnano, Luigi, Università di Firenze, Italy 
+  Brzoza-Woch, Ada, AGH University of Science and Technology, Poland 
+  Bubak, Marian, AGH Krakow, Poland and University of Amsterdam, the Netherlands 
+  Buchalcevova, Alena, University of Economics, Czech Republic 
+  Burczynski, Tadeusz, Polish Academy of Sciences, Poland 
+  Byrski, Aleksander, AGH University Science and Technology, Poland 
+  Cabri, Giacomo, Università di Modena e Reggio Emilia, Italy 
+  Camilli, Matteo, Politecnico di Milano, Italy 
+  Cano, Alberto, Virginia Commonwealth University, USA 
+  Caraffini, Fabio, Swansea University, United Kingdom 
+  Carbone, Roberto, Security & Trust Unit, FBK, Italy 
+  Carchiolo, Vincenza, Universita di Catania, Italy 
+  Casalino, Gabriella, Università degli studi di Bari "A.Moro", Italy 
+  Castrillon-Santana, Modesto, University of Las Palmas de Gran Canaria, Spain 
+  Ceci, Michelangelo, University of Bari "A. Moro", Italy 
+  Charytanowicz, Malgorzata, Catholic University of Lublin, Poland 
+  Chelly, Zaineb, Université Paris-Saclay, UVSQ, DAVID, France 
+  Cherukuri, Aswani Kumar, VIT University, India 
+  Chomiak-Orsa, Iwona, Wroclaw University of Economics and Business, Poland 
+  Chren, Stanislav, Aalto University, Finland 
+  Christozov, Dimitar, American University in Bulgaria, Bulgaria 
+  Chudán, David, Prague University of Economics and Business, Czech Republic 
+  Cicirelli, Franco, Dimes - Unical, Italy 
+  Ciucci, Davide, Università di Milano-Bicocca, Italy 
+  Clarke, Nathan, University of Plymouth, United Kingdom 
+  Colantonio, Sara, ISTI-CNR, Italy 
+  Corpetti, Thomas, University of Rennes, France 
+  Courty, Nicolas, University of Bretagne Sud, France 
+  Coviello, Giuseppe, Politecnico di Bari, Italy 
+  Cyganek, Bogusław, AGH University of Science and Technology, Poland 
+  Czarnacka-Chrobot, Beata, Warsaw School of Economics, Poland 
+  D'Ambra, Pasqua, IAC-CNR, Italy 
+  da Silva, Marcelino Silva, Federal University of Pará, Brasil 
+  Dabrowski, Wlodzimierz, Warsaw University of Technology, Poland 
+  Dahyot, Rozenn, Maynooth University, Dublin, Ireland 
+  Dajda, Jacek, AGH University Of Science And Technology, Poland 
+  Damasevicius, Robertas, Silesian University of Technology, Poland 
+  Daszczuk, Wiktor, Warsaw University of Technology, Poland 
+  De Juana-Espinosa, Susana, Universidad de Alicante, Spain 
+  de Souza, Efren Lopes, Universidade Federal do Oeste do Pará, Brasil 
+  De Tré, Guy, Ghent University, Belgium 
+  Derezinska, Anna, Warsaw University of Technology, Poland 
+  Dettmer, Sandra, Swansea University, United Kingdom 
+  Dey, Lipika, Innovation Labs, TCS, India 
+  Dimitrieski, Vladimir, Faculty Of Technical Sciences, Serbia 
+  Domanska, Joanna, Institute of Theoretical and Applied Informatics, Poland 
+  Drag, Pawel, Wroclaw University, Poland 
+  Drezewski, Rafal, AGH University of Science and Technology, Poland 
+  Düntsch, Ivo, Brock University, Canada 
+  Duarte Salinas, Diana, Emory University, USA 
+  Dupas, Remy, Université de Bordeaux, France 
+  Durillo, Juan J., Leibniz Supercomputing Centre (LRZ), Germany 
+  Dutta, Arpita, National University of Singapore, Singapore 
+  Dutta, Arpita, National University of Singapore 
+  Dutta, Soma, University of Warmia and Mazury in Olsztyn, Poland 
+  Eisenbardt, Monika, Univeristy of Economics Katowice, Poland 
+  Ekpenyong, Moses, University of Uyo, Nigeria 
+  El-Halim, Essam H. Houssein, Minia University, Egypt 
+  Engelbrecht, Andries, University of Stellenbosch, South Africa 
+  Erata, Ferhat, Yale University, USA 
+  Escalona, M. J., University of Seville, Spain 
+  Fafoutis, Xenofon, Technical University of Denmark 
+  Fareh, Messa, University Blida 1, Algeria 
+  Farooq, Ali, University of Turku, Finland 
+  Fechner, Richard, University of Tübingen, Germany 
+  Felkner, Anna, NASK – Research and Academic Computer Network, Poland 
+  Fialko, Sergiy, Cracow University of Technology, Poland 
+  Filipe, Vitor, INESC TEC / UTAD, Portugal 
+  Flasinski, Mariusz, Jagiellonian University, Poland 
+  Fonseca, José Manuel, UNINOVA, Portugal 
+  Fourneau, Jean-Michel, DAVID, Universite de Versailles St Quentin, France 
+  Fournier-Viger, Philippe, University of Moncton, Canada 
+  Fuchs, Christoph, University of Bonn, Germany 
+  Fujita, Hamido, Iwate Prefectural University, Japan 
+  Furnell, Steven, University of Nottingham, United Kingdom 
+  G. Barbosa, Jorge, University of Porto, Portugal 
+  G.-Tóth, Boglárka, University of Szeged, Hungary 
+  Gabryelczyk, Renata, University of Warsaw, Poland 
+  Ganea, Eugen, University of Craiova, Romania 
+  García-Mireles, Gabriel, Universidad de Sonora, Mexico 
+  Gawin, Bartłomiej, University of Gdańsk, Poland 
+  Gawkowski, Piotr, Warsaw University of Technology, Poland 
+  Gburzyński, Paweł, University of Alberta, Canada; Vistula University, Poland 
+  Ge, Mouzhi, Deggendorf Institute of Technology, Germany 
+  Georgiev, Krassimir, Bulgarian Academy of Sciences, Institute of Information and Communication Technologies, Bulgaria 
+  Gepner, Pawel, PAWEŁ GEPNER AI, Poland 
+  Geri, Nitza, The Open University of Israel, Israel 
+  Gheisari, Mehdi, Islamic Azad University, Iran 
+  Giannoutakis, Konstantinos, University of Macedonia, Greece 
+  Girardi, Rosario, UFMA, Brazil 
+  Gjoreski, Hristijan, Ss. Cyril and Methodius University in Skopje, North Macedonia 
+  Gobov, Denys, NTUU KPI, Ukraine 
+  Goczyła, Krzysztof, Gdańsk University of Technology, Poland 
+  Godboley, Sangharatna, NIT Nagpur, India 
+  Göknil, Arda, SINTEF Digital, Norway 
+  Gomes, Luis, Universidade NOVA de Lisboa, Portugal 
+  Gomolinska, Anna, University of Bialystok, Poland 
+  González-Deleito, Nicolás, Sirris, Belgium 
+  Gora, Paweł, University of Warsaw, Poland 
+  Grabara, Dariusz, University of Economics in Katowice, Poland 
+  Grabowski, Mariusz, Cracow University of Economics, Poland 
+  Gracanin, Denis, Virginia Tech, United States 
+  Graliński, Filip, Adam Mickiewicz University, Poznań, Poland 
+  Gravvanis, George, Democritus University of Thrace, Greece 
+  Grochla, Krzysztof, Institute of Theoretical and Applied Informatics of PAS, Poland 
+  Grönman, Jere, Tampere University, Finland 
+  Gunasekaran, Karthick, University of Massachusetts / Amazon, United States 
+  Habela, Piotr, Polish-Japanese Institute of Information Technology, Poland 
+  Hadj Salem, Khadija, INESC TEC, Portugal 
+  Hakius, Bettina, BTA Wiedenest, Germany 
+  Halasz, David, Masaryk University, Czech Republic 
+  Halawi, Leila, Embry-Riddle Aeronautical University, USA 
+  Hamel, Oussama, University Blida 1, Algeria 
+  Hammoudeh, Mohammad, Manchester Metropolitan University, United Kingdom 
+  Hanslo, Ridewaan, University of Pretoria, South Africa 
+  Harężlak, Katarzyna, Silesian University of Technology, Poland 
+  Hasso, Hussein, Fraunhofer FKIE, Wachtberg, Germany 
+  Heil, Sebastian, Technische Universität Chemnitz, Germany 
+  Hein, Kristine, BIBB, Bonn, Germany 
+  Helsingius, Mika, Finnish Defence Research Agency, Finland 
+  Hernes, Marcin, Wroclaw University of Economics and Business, Poland 
+  Herold, Sebastian, Karlstad University, Sweden 
+  Herrera Viedma, Enrique, University of Granada, Spain 
+  Hnatkowska, Bogumila, Wroclaw University of Technology, Poland 
+  Horváth, Zoltán, Eötvös Loránd University, Hungary 
+  Hosobe, Hiroshi, Hosei University, Japan 
+  Hrach, Christian, InfAI, Germany 
+  Hsiao, Michael, Virginia Tech, United States 
+  Hu, Bao-Gang, Institute of Automation, Chinese Academy of Sciences, China 
+  Hübenthal, Tobias, University of Cologne, Germany 
+  Hullam, Gabor, Budapest University of Technology and Economics, Hungary 
+  Hussain, Shahid, Institute of Business Administration, Pakistan 
+  Huzar, Zbigniew, Wroclaw University of Technology, Poland 
+  Ienco, Dino, Territories, Environment, Remote Sensing and Spatial Information, France 
+  Ignaciuk, Przemyslaw, Lodz University of Technology, Poland 
+  Inayat, Irum, National University of Computers and Emerging Sciences, Pakistan 
+  Iserte, Sergio, Universitat Jaume I, Spain 
+  Iwanowski, Marcin, Warsaw University of Technology, Poland 
+  Jakovljevic, Niksa, University of Novi Sad, Serbia 
+  Jana, Purbita, The Institute of Mathematical Sciences (IMSc.), India 
+  Janicki, Artur, Warsaw University of Technology, Poland 
+  Janicki, Ryszard, McMaster University, Canada 
+  Janousek, Jan, Czech Technical University Prague, Czechia 
+  Jarzabek, Stanislaw, Bialystok University of Technology, Poland 
+  Jassem, Krzysztof, Adam Mickiewicz University, Poland 
+  Jaworski, Rafał, Adam Mickiewicz University, Poland 
+  Jelonek, Dorota, Czestochowa University of Technology, Poland 
+  Jensen, Richard, Aberystwyth University, United Kingdom 
+  Johnsen, Frank, Norwegian Defence Research Establishment, FFI, Norway 
+  Jovanovik, Milos, Ss. Cyril and Methodius University in Skopje, North Macedonia 
+  Kacprzyk, Janusz, Systems Research Institute, Polish Academy of Sciences, Poland 
+  Kaczmarek, Katarzyna, University of Strathclyde, United Kingdom 
+  Kaloyanova, Kalinka, University of Sofia, Bulgaria 
+  Kanciak, Krzysztof, Military University of Technology, Poland 
+  Kania, Krzysztof, University of Economics in Katowice, Poland 
+  Kapczyński, Adrian, Silesian University of Technology, Poland 
+  Karaduman, Burak, University of Antwerp, Belgium 
+  Kasprzak, Wlodzimierz, Politechnika Warszawska, Poland 
+  Katic, Marija, University of London, United Kingdom 
+  Keir, Paul, University of the West of Scotland, Scotland 
+  Kelner, Jan, Military University of Technology, Poland 
+  Keswani, Bright, Suresh Gyan Vihar University, Jaipur, India 
+  Khan, Md. Aquil, Indian Institute of Technology Indore, India 
+  Khlif, Wiem, FSEGS, Tunisia 
+  Kieraś, Witold, Institute of Computer Science, Polish Academy of Sciences, Poland 
+  Kimovski, Dragi, University of Klagenfurt, Austria 
+  Kitchenham, Barbara, Keele University, United Kingdom 
+  Klapp, Iftach, Institute of Agricultural Engineering, Volcani Institute, Agricultural Research Organization Bet Dagan, Israel 
+  Klein, Sarah, Sirris, Belgium 
+  Kliegr, Tomáš, Prague University of Economics and Business, Czech Republic 
+  Kluza, Krzysztof, AGH University of Science and Technology, Poland 
+  Kobylinski, Andrzej, Warsaw School of Economics, Poland 
+  Koczy, Laszlo, Szechenyi Istvan University, Hungary 
+  Kokosinski, Zbigniew, Cracow University of Technology, Poland 
+  Kolog, Emmanuel Awuni, University of Ghana, Ghana 
+  Kononova, Anna, LIACS, Leiden University, the Netherlands 
+  Kopczyńska, Sylwia, Poznan University of Technology, Poland 
+  Koržinek, Danijel, Polish-Japanese Academy of Information Technology, Poland 
+  Kosar, Tomaz, University of Maribor, Slovenia 
+  Kosiuczenko, Piotr, ISI, WAT, Poland 
+  Koumaras, Harilaos, National Centre For Scientific Research Demokritos, Greece 
+  Kovatcheva, Eugenia, University of Library Studies and Information Technologies, Bulgaria 
+  Kozak, Jan, University of Economics in Katowice, Poland 
+  Kozielski, Stanislaw, Silesian University of Technology, Poland 
+  Kozłowski, Artur, Łukasiewicz Research Network, Poland 
+  Krajsic, Philippe, University Leipzig, Germany 
+  Krawczyk, Henryk, Gdańsk University of Technology, Poland 
+  Krawiec, Krzysztof, Poznan University of Technology, Poland 
+  Krdžavac, Nenad, Technische Informationsbibliothek (TIB), Germany 
+  Kretowski, Marek, Bialystok University of Technology, Poland 
+  Kropp, Martin, University of Applied Sciences and Arts Northwestern Switzerland, Switzerland 
+  Krüger, Kai, BIBB, Bonn, Germany 
+  Kryvinska, Natalia, Comenius University in Bratislava, Slovakia 
+  Kryvyi, Serhii, Taras Shevchenko National University of Kyiv, Ukraine 
+  Kuchanskyy, Vladislav, National Academy of Sciences in Ukraine, Institute of Electrodynamics of the National Academy of Sciences of Ukraine 
+  Kulakov, Andrea, University "Ss.Cyril and Methodius", North Macedonia 
+  Kulczycki, Piotr, Systems Research Institute, Polish Academy of Sciences, Poland 
+  Kurasova, Olga, Institute of Mathematics and Informatics, Bulgaria 
+  Kusy, Maciej, Rzeszow University of Technology, Poland 
+  Kwasnicka, Halina, Politechnika Wroclawska, Poland 
+  Kwater, Tadeusz, Państwowa Wyższa Szkoła Techniczno-Ekonomiczna, Poland 
+  Kwolek, Bogdan, AGH University of Science and Technology, Poland 
+  Lacalle Úbeda, Ignacio, Universitat Politècnica de València, Spain 
+  Laccetti, Giuliano, University of Naples Federico II and INFN, Italy 
+  Lameski, Petre, Ss. Cyril and Methodius University in Skopje, North Macedonia 
+  Lano, Kevin, King's College London, United Kingdom 
+  Lasek, Piotr, University of Rzeszów, Poland 
+  Laskov, Lasko, New Bulgarian University, Bulgaria 
+  Lastovetsky, Alexey, University College Dublin, Ireland 
+  Lech Madeyski, Wrocław University of Science and Technology, Poland 
+  Lencastre, Maria, Escola Politécnica de Pernambuco – UPE, Brasil 
+  Lerga, Jonatan, University of Rijeka, Croatia 
+  Leszczyna, Rafał, Gdańsk University of Technology, Poland 
+  Lewowski, Tomasz, Wrocław University of Science and Technology, Poland 
+  Li, Tianrui, Southwest Jiaotong University, China 
+  Ligeza, Antoni, AGH University of Science and Technology, Poland 
+  Lilik, Ferenc, Szechenyi Istvan University, Hungary 
+  Lin, Zhe, Department of Philosophy Xiamen University Xiamen, China 
+  Lirkov, Ivan, Institute of Information and Communication Technologies, Bulgarian Academy of Sciences, Bulgaria 
+  Ljubić, Sandi, University of Rijeka, Croatia 
+  Lloret, Elena, University of Alicante, Spain 
+  Lobato, Fábio, Federal University of Western Pará, Brasil 
+  Lovassy, Rita, Obuda University, Hungary 
+  Ltaief, Hatem, King Abdullah University of Science and Technology, Saudi Arabia 
+  Luna, Jose, University of Cordoba, Spain 
+  Lunesu, Ilaria, University of Cagliari, Italy 
+  Luque, Gabriel, University of Málaga, Spain 
+  Luszczek, Piotr, University of Tennessee Knoxville, USA 
+  Machado, José, Universidade do Minho, Portugal 
+  Madeyski, Lech, Wroclaw University of Science and Technology, Poland 
+  Majdik, Andras, Institute for Computer Science and Control, Hungary 
+  Malecki, Piotr, Institute of Nuclear Physics PAN, Poland 
+  Mangioni, Giuseppe, University of Catania, Italy 
+  Manso, Marco, PARTICLE LTD., Portugal 
+  Mansurova, Madina, al-Farabi Kazakh National University, Kazakhstan 
+  Maravilla, Javier Calpe, University of Valencia, Spain 
+  Marchiori, Massimo, UNIPD and EISMD, Italy 
+  Marcińczuk, Michał, Wroclaw University of Science and Technology, Poland 
+  Marciniak, Jacek, Adam Mickiewicz University, Poland 
+  Marcinkowski, Bartosz, University of Gdansk, Poland 
+  Marek Bolanowski, Rzeszow University of Technology, Poland 
+  Marghitu, Daniela, Auburn University, USA 
+  Martínez López, Pablo E., UNQ, Argentina 
+  Maślankowski, Jacek, University of Gdańsk, Poland 
+  Mathà, Roland, Distributed and Parallel Systems Group, Austria 
+  Matson, Eric, Purdue University, USA 
+  Matthies, Christoph, Hasso Plattner Institute, University of Potsdam, Germany 
+  Melzer, Sylvia, Universität Hamburg, Germany 
+  Mele, Valeria, University of Naples Federico II, Italy 
+  Meneses, Claudio, Pontificia Universidad Católica de Chile, Chile 
+  Mercier-Laurent, Eunika, Jean Moulin Lyon 3 University, France 
+  Mernik, Marjan, University of Maribor, Slovenia 
+  Mesiar, Radko, Slovak University of Technology, Slovakia 
+  Michał Smialek, Warsaw University of Technology, Poland 
+  Michalik, Krzysztof, University of Economics in Katowice, Poland 
+  Micota, Flavia, West University of Timisoara, Romania 
+  Mignone, Paolo, Bari University, Italy 
+  Mihaescu, Marian Cristian, University of Craiova, Romania 
+  Mihajlov, Martin, Jozef Stefan Institute, Slovenia 
+  Mihálydeák, Tamás, University of Debrecen, Hungary 
+  Milašinović, Boris, University of Zagreb, Croatia 
+  Mildorf, Tomas, University of West Bohemia, Czech Republic 
+  Milella, Annalisa, Institute of Intelligent and Industrial Technologies and Systems for Advanced Manufacturing, National Research Council, Italy 
+  Miler, Jakub, Gdansk University of Technology, Poland 
+  Miller, Gloria, maxmetrics, Germany 
+  Millham, Richard, Durban University of Technology, South Africa 
+  Milosavljevic, Gordana, Faculty of Technical Sciences, Serbia 
+  Mirosław Ochodek, Poznań University of Technology, Poland 
+  Misra, Sanjay, Østfold University, Norway 
+  Mocanu, Mihai, University of Craiova, Romania 
+  Modoni, Gianfranco, STIIMA-CNR, Italy 
+  Mohapatra, Durga Prasad, NIT, India 
+  Mongay Batalla, Jordi, National Institute of Technology, Poland 
+  Mora, André Damas, UNINOVA, Portugal 
+  Morales Trujillo, Miguel Ehécatl, University of Canterbury, New Zealand 
+  Moshkov, Mikhail, King Abdullah University of Science and Technology, Saudi Arabia 
+  Mozgovoy, Maxim, The University of Aizu, Japan 
+  Mullins, Roisin, University of Wales Trinity Saint David, United Kingdom 
+  Muñoz, Andres, Cadiz University, Spain 
+  Muszyńska, Karolina, University of Szczecin, Poland 
+  Myszkowski, Pawel, Wrocław University of Science and Technology, Poland 
+  Nawrocki, Jerzy, Poznan University of Technology, Poland 
+  Nazaruka, Erika, Riga Technical University, Latvia 
+  Neumann, Michael, Hochschule Hannover, Germany 
+  Ng, Yen Ying, Nicolaus Copernicus University, Poland 
+  Niewiadomska-Szynkiewicz, Ewa, Warsaw University of Technology, Poland 
+  Noguera i Clofent, Carles, Institute of Information Theory and Automation (UTIA), Academy of Sciences of the Czech Republic, Czech Republic 
+  Nosović, Novica, University of Sarajevo, Bosnia and Herzegovina 
+  Noyer, Arne, Ostfalia University of Applied Sciences, Germany 
+  Nutini, Francesco, Institute for Electromagnetic Sensing of the Environment, National Research Council, Milano, Italy 
+  Ó Cinnéide, Mel, National University of Ireland, Dublin, Ireland 
+  Ochodek, Mirosław, Poznan University of Technology, Poland 
+  Ogrodniczuk, Maciej, Institute of Computer Science, Polish Academy of Sciences, Poland 
+  Okarma, Krzysztof, West Pomeranian University of Technology in Szczecin, Poland 
+  Oppermann, Alexander, Physikalisch-Technische Bundesanstalt, Germany 
+  Ota, Daniel, Fraunhofer, Germany 
+  Ozkan, Necmettin, Kuveyt Turk Participation Bank, Turkey 
+  Ozkaya, Mert, Yeditepe University, Turkey 
+  Palau, Carlos, Universitat Politècnica de València, Spain 
+  Paliwoda-Pękosz, Grażyna, Cracow University of Economics, Poland 
+  Palma, Raul, Supercomputing and Networking Center, Poland 
+  Palmigiano, Alessandra, The Vrije Universiteit Amsterdam, the Netherlands 
+  Paluszyński, Wiesław, TIC sp. z o.o., Poland 
+  Pamin, Jerzy, Cracow University of Technology, Poland 
+  Pancerz, Krzysztof, Academy of Zamosc, Poland 
+  Panda, Subhrakanta, BITS-PILANI Hyderabad Campus, India 
+  Pandey, Dr. Rajiv, Amity University, India 
+  Pandey, Sushant Kumar, University of Gothenburg, Sweden 
+  Pankowska, Malgorzata, University of Economics in Katowice, Poland 
+  Papaspyrou, Nikolaos S., National Technical University of Athens, Greece 
+  Paszkiewicz, Andrzej, Politechnika Rzeszowska im. I. Łukasiewicza, Poland 
+  Pataricza, András, Budapest University of Technology and Economics, Hungary 
+  Pazienza, Andrea, Innovation Lab, Exprivia S.p.A., Italy 
+  Pekergin N., Nihal, Univ. Paris-Est-Creteil, France 
+  Peralta, Daniel, Ghent University, Belgium 
+  Perechuda, Kazimierz, Wroclaw University of Economics and Business, Poland 
+  Pereira Nunes, Bernardo, The Australian National University, Australia 
+  Pereira, Rui Humberto, ISCAP/IPP, Portugal 
+  Petcu, Dana, West University of Timisoara, Romania 
+  Peters, Georg, Hochschule München, Germany 
+  Petrik, Milan, Czech University of Life Sciences Prague, Czech Republic 
+  Petrovska, Biserka, Goce Delcev University, North Macedonia 
+  Pęzik, Piotr, University of Lodz, Poland 
+  Piasecki, Maciej, Wroclaw University of Science and Technology, Poland 
+  Piotr Kosiuczenko, Military University of Technology in Warsaw, Poland 
+  Pires, Ivan Miguel, Universidade da Beira Interior, Portugal 
+  Po, Laura, Universitá di Modena e Reggio Emilia, Italy 
+  Poniszewska-Maranda, Aneta, Lodz University of Technology, Poland 
+  Porta, Marco, University of Pavia, Italy 
+  Porubän, Jaroslav, Technical University of Košice, Slovakia 
+  Provotar, Oleksandr, Taras Shevchenko National University of Kyiv, Ukraine 
+  Przybyła-Kasperek, Małgorzata, Uniwersytet Śląski w Katowicach, Poland 
+  Przybylek, Michal, Warsaw University, Poland 
+  Ptaszynski, Michal, Kitami Institute of Technology, Japan 
+  Puime, Felix, Universidade de A Coruña, Spain 
+  Queirós, Ricardo, ESMAD-P.PORTO & CRACS – INESC TEC, Portugal 
+  Radlinski, Lukasz, West Pomeranian University of Technology, Poland 
+  Ramanna, Sheela, University of Winnipeg, Canada 
+  Rangel Henriques, Pedro, University of Minho, Portugal 
+  Rantanen, Petri, Tampere University of Technology, Finland 
+  Rauch, Jan, Prague University of Economics and Business, Czech Republic 
+  Rechavi, Amit, Ruppin Academic Center, Israel 
+  Reformat, Marek, University of Alberta, Canada 
+  Ristic, Sonja, University of Novi Sad, Serbia 
+  Rojek, Krzysztof, Czestochowa University of Technology, Poland 
+  Rollo, Federica, University of Modena and Reggio Emilia, Italy 
+  Roman, Adam, Jagiellonian University, Poland 
+  Rossi, Bruno, Masaryk University, Czech Republic 
+  Rossi, Bruno, Masaryk University, Czechia 
+  Roszczyk, Radosław, Warsaw University of Technology, Poland 
+  Rot, Artur, Wroclaw University of Economics, Poland 
+  Rozevskis, Uldis, University of Latvia, Latvia 
+  Rusho, Yonit, Shenkar College of Engineering and Design, Israel 
+  Rycerz, Katarzyna, AGH University of Science and Technology, Poland 
+  Sá, Juliana, Universidade da Beira Interior, Portugal Hospital Center of Cova da Beira, Portugal 
+  Saari, Mika, Tampere University of Technology, Finland 
+  Sachdeva, Shelly, NIT, DELHI, India 
+  Sachenko, Anatoly, Ternopil State Economic University, Ukraine 
+  Sadowska, Małgorzata, Politechnika Wrocławska, Poland 
+  Salem, Abdel-Badeeh, Ain Shams University, Egypt 
+  Salvetti, Ovidio, Institute of Information Science and Technologies, National Research Council, Pisa, Italy 
+  Samolej, Slawomir, Rzeszow University of Technology, Poland 
+  Samotyy, Volodymyr, Lviv State University of Life Safety, Ukraine 
+  Santiago, Joanna, ISEG - University of Lisbon, Portugal 
+  Santos, Pedro Miguel, Instituto Superior de Engenharia do Porto, ISEP, Portugal 
+  Saraiva, João, University of Minho, Portugal 
+  Sarwas, Grzegorz, Warsaw University, Poland 
+  Saurabh, Nishant, Utrecht University, the Netherlands 
+  Sawerwain, Marek, University of Zielona Góra, Poland 
+  Schaefer, Gerald, Loughborough University, Leicestershire, United Kingdom 
+  Schnepf, Timo, BIBB, Bonn, Germany 
+  Schön, Eva-Maria, University of Applied Sciences Emden/Leer, Germany 
+  Schreiner, Wolfgang, Johannes Kepler University Linz, Austria 
+  Schreiner, Wolfgang, Research Institute for Symbolic Computation (RISC), Austria 
+  Schreurs, Jeanne, Hasselt University, Belgium 
+  Scozzari, Andrea, Institute of Information Science and Technologies, National Research Council, Italy 
+  Segedinac, Milan, Faculty of Technical Scieneces, Serbia 
+  Sekerinski, Emil, McMaster University, Canada 
+  Sen, Jayanta, Government General Degree College, India 
+  Shen, Hong, The University of Adelaide, Australia 
+  Sidje, Roger B., University of Alabama, USA 
+  Sierra, Jose Luis, Universidad Complutense de Madrid, Spain 
+  Sifaleras, Angelo, University of Macedonia, School of Information Sciences, North Macedonia 
+  Sikorski, Marcin, Gdansk University of Technology, Poland 
+  Sikorski, Marcin, Gdansk University, Poland 
+  Silaghi, Gheorghe Cosmin, Babes-Bolyai University, Romania 
+  Silva, Lincoln, UERJ, Brazil 
+  Singer, Jeremy, University of Glasgow, Scotland 
+  Singh, Pradeep, KIET Group of Institutions, India 
+  Singh, Yashwant, Jaypee University of Information Technology Waknaghat, India 
+  Sinkala, Zipani Tom, Karlstad Univeristy, Sweden 
+  Skonieczny, Łukasz, Warsaw University of Technology, Poland 
+  Skórzewski, Paweł, Adam Mickiewicz University, Poland 
+  Skowron, Andrzej, Systems Research Institute, Polish Academy of Sciences and Cardinal Stefan Wyszynski University, Poland 
+  Skruch, Pawel, AGH University of Krakow, Poland 
+  Skubalska-Rafajłowicz, Ewa, Wrocław University of Science and Technology, Poland 
+  Slivnik, Bostjan, University of Ljubljana, Slovenia 
+  Smialek, Michal, Warsaw University of Technology, Poland 
+  Smywiński-Pohl, Aleksander, AGH University of Science and Technology in Krakow, Poland 
+  Soares, Michel, Federal University of Sergipe, Brazil 
+  Sobczak, Andrzej, SGH, Poland 
+  Sobińska, Małgorzata, Wroclaw University of Economics and Business, Poland 
+  Sojka, Michal, Czech Technical University in Prague, Czechia 
+  Solanki, Vijender Kumar, CMR Institute of Technology (Autonomous), India 
+  Soltysik-Piorunkiewicz, Anna, University of Economics in Katowice, Poland 
+  Sosnowski, Janusz, Institute of Computer Science, Poland 
+  Sosnowski, Zenon A., Bialystok University of Technology, Poland 
+  Sousa Pinto, Agostinho, Instituto Politécnico do Porto, Portugal 
+  Sozer, Hasan, Ozyegin University, Turkey 
+  Stanczyk, Urszula, Silesian University of Technology, Poland 
+  Stanislaw Jarzabek, Bialystok University of Technology, Poland 
+  Stankosky, Michael, The University of Scranton, United States 
+  Stark, Sandra, University Leipzig, Germany 
+  Stasiak, Andrzej, Wojskowa Akademia Techniczna, Poland 
+  Stavness, Ian, University of Saskatchewan, Canada 
+  Steinbrink, Nicholas, the Bertelsmann Stiftung, Germany 
+  Stencel, Krzysztof, University of Warsaw, Poland 
+  Štěpánek, Lubomír, Charles University; Prague University of Economics and Business, Czech Republic 
+  Stoean, Catalin, Romanian Institute of Science and Technology, Cluj-Napoca, and Universidad de Malaga, Romania 
+  Stoean, Catalin, University of Craiova, Romania 
+  Stoica, Cosmin, University of Craiova, Romania 
+  Stój, Jacek, Silesian University of Technology, Poland 
+  Stojanov, Riste, Faculty of Computer Science and Engineering, North Macedonia 
+  Subbotin, Sergey, National University "Zaporizhzhia Polytechnic", Ukraine 
+  Suraj, Zbigniew, Rzeszów University, Poland 
+  Swacha, Jakub, University of Szczecin, Poland 
+  Świechowski, Maciej, QED Software, Poland 
+  Sylwia Kopczyńska, Poznań University of Technology, Poland 
+  Symeonidis, Symeon, Democritus Univesity of Thrace, Greece 
+  Szafran, Bartlomiej, AGH University of Science and Technology, Poland 
+  Szczech, Izabela, Poznan University of Technology, Poland 
+  Szczerbicki, Edward, University of New Castle, Australia 
+  Szmit, Maciej, University of Lodz, Poland 
+  Szmuc, Tomasz, AGH University of Science and Technology, Poland 
+  Szpyrka, Marcin, AGH University of Science and Technology, Poland 
+  Szumski, Oskar, University of Warsaw Faculty of Management, Poland 
+  Szwoch, Mariusz, Gdansk University of Technology, Poland 
+  Szyjewski, Zdzislaw, Uniwersytet Szczeciński, Poland 
+  Taglino, Francesco, IASI-CNR, Italy 
+  Tanwar, Sudeep, Nirma University, India 
+  Terra, Marcus, University of Londrina, Brazil 
+  Timpel, Patrick, WIG2, Germany 
+  Tomasz, Andrysiak, University of Technology and Life Sciences (UTP), Poland 
+  Tomczyk, Łukasz, Jagiellonian University, Poland 
+  Toraldo, Gerardo, Università della Campania "l.Vanvitelli", Italy 
+  Tormasi, Alex, Szechenyi Istvan University, Hungary 
+  Töreyin, Behçet Uğur, Technical University, Turkey 
+  Toscano, Piero, Institute of Bioeconomy, National Research Council, Italy 
+  Trendowicz, Adam, Fraunhofer, Germany 
+  Trocan, Maria, Institut Supérieur d'Électronique de Paris, France 
+  Trocan, Maria, Institut Supérieur d'Electronique de Paris, France 
+  Trybus, Bartosz, Rzeszów University of Technology, Poland 
+  Trybus, Leszek, Rzeszow University of Technology, Poland 
+  Tudoroiu, Nicolae, John Abbott College, Canada 
+  Tudruj, Marek, Institute of Computer Science, Polish Academy of Sciences, Poland 
+  Tyagi, Sudhanshu, Thapar Institute of Engineering & Technology, India 
+  Unland, Rainer, University of Duisburg-Essen, Germany 
+  Ustimenko, Vasyl, The University of Maria Curie Sklodowska in Lublin, Poland 
+  Van Landuyt, Dimitri, Katholieke Universiteit Leuven, Belgium 
+  Varanda Pereira, Maria João, Instituto Politécnico de Bragança, Portugal 
+  Vardanega, Tullio, University of Padua, Italy 
+  Vasiliev, Julian, University of Economics, Bulgaria 
+  Vazquez-Poletti, Jose Luis, Universidad Complutense de Madrid, Spain 
+  Vecchio, Massimo, Fondazione Bruno Kessler (FBK), Italy 
+  Vega Vega-Rodríguez, Miguel A., University of Extremadura, Spain 
+  Velev, Miroslav, Aries Design Automation, United States 
+  Verstraete, Jörg, Systems Research Institute, Polish Academy of Sciences, Poland 
+  Vescoukis, Vassilios, National Technical University of Athens, Greece 
+  Vitek, Jan, Northeastern University, USA 
+  Vogiatzis, Chrysafis, University of Illinois at Urbana-Champaign, United States 
+  Wahid, Khan Ferdous, Airbus Group, Germany 
+  Walkowiak-Gall, Anita, Politechnika Wroclawska, Poland 
+  Walkowska, Justyna, DeepL, Poland 
+  Waloszek, Wojciech, Gdańsk University of Technology, Poland 
+  Walter, Bartosz, PCSS & PPoz, Poland 
+  Wardziński, Andrzej, Gdańsk University of Technology, Poland 
+  Wasielewska, Katarzyna, Systems Research Institute, Polish Academy of Sciences, Poland 
+  Wątróbski, Jarosław, West Pomeranian University of Technology, Poland 
+  Weber, Richard, Universidad de Chile, Chile 
+  Węcel, Krzysztof, Poznań University of Economics and Business, Poland 
+  Weerasinghe, Shakthi, Deakin University, Australia 
+  Wegrzynowicz, Patrycja, NASK Research and Academic Computer Network, Poland 
+  Wei, Wei, Xi'an University of Technology, China 
+  Weil, Vera, University of Cologne, Germany 
+  Werewka, Jan, AGH University of Science and Technology, Poland 
+  Wielki, Janusz, Opole University of Technology, Poland 
+  Wierzchoń, Piotr, Adam Mickiewicz University, Poland 
+  Winnige, Stefan, BIBB, Bonn, Germany 
+  Wisniewski, Piotr, Nicolaus Copernicus University, Poland 
+  Wiszniewski, Bogdan, Gdansk University of Technology, Poland 
+  Wnuk, Krzysztof, BTH, Sweden 
+  Woliński, Marcin, Institute of Computer Science, Polish Academy of Sciences, Poland 
+  Wróblewska, Alina, Institute of Computer Science, Polish Academy of Sciences, Poland 
+  Wróblewska, Anna, Warsaw University of Technology, Poland 
+  Wrona, Konrad, NATO Communications and Information Agency, the Netherlands 
+  Wysocki, Marian, Rzeszow University of Technology, Poland 
+  Wyrzykowski, Krzysztof, NET PC, Poland 
+  Xenakis, Christos, University of Piraeus, Greece 
+  Xuetao, Jin, Communication University of China, China 
+  Yang, Yujiu, Tsinghua University, China 
+  Yao, Yiyu, University of Regina, Canada 
+  Zadrożny, Slawomir, Systems Research Institute, Poland 
+  Zaitsev, Dmitry 
+  Zajac, Mieczyslaw, Cracow University of Technology, Poland 
+  Zalewski, Andrzej, Warsaw University of Technology, Poland 
+  Zalewski, Janusz, Florida Gulf Coast University, USA 
+  Zawadzka, Teresa, Gdańsk University of Technology, Poland 
+  Zaytsev, Vadim, Universiteit Twente, the Netherlands 
+  Zborowski, Marek, University of Warsaw, Poland 
+  Zdravevski, Eftim, University "Ss.Cyril and Methodius", Macedonia 
+  Zhang, Hongyu, The University of Newcastle, United Kingdom 
+  Zhu, Yungang, Jilin University, China 
+  Zieliński, Zbigniew, Military University of Technology, Poland 
+  Zielosko, Beata, Uniwersytet Śląski w Katowicach, Poland 
+  Ziemba, Ewa, University of Economics in Katowice, Poland 
+  Ziemba, Paweł, University of Szczecin, Poland 
+  Zitouni, M. Sami, University of Dubai, United Arab Emirates 
+  X. Acknowledgments  
+ In conclusion, let us emphasize that delivery of FedCSIS 2023 required a dedicated effort of many people. We would like to express our warmest gratitude to all Topical Area Curators, to the members of the Senior Program Committee and to the members of the Program Committee, for their hard work in attracting and reviewing all submissions. We thank the authors of papers for their great contribution to the theory and practice of Computer Science and Intelligence Systems. We are grateful to Keynote, Invited, and Tutorial Speakers, for sharing their knowledge and wisdom with the participants. Last, but not least, we acknowledge one more time Jarosław Arabas, Sławomir Zadrożny, and Przemysław Biecek. We are very grateful for your efforts!  
+ We hope that you all had an inspiring conference. We also hope to meet you again for the 19th Conference on Computer Science and Intelligence Systems (FedCSIS 2024) which will take place in Belgrade, Serbia on September 8-11, 2024. Finally, we hope that you will find the evolution of the FedCSIS Conference concept as something that properly addresses the current needs of research and applications. We want to continue looking at Computer Science from different angles but in the same time, acknowledging the topic Intelligence Systems as the central point of everything that we are considering.  
+ Co-Chairs of the FedCSIS Conference Series   
+ Maria Ganzha  , Warsaw University of Technology, and Systems Research Institute Polish Academy of Sciences, Poland.  
+ Leszek Maciaszek  (Honorary Chair), Macquarie University, Australia and Wrocław University of Economics, Poland.  
+ Marcin Paprzycki  , Systems Research Institute Polish Academy of Sciences, and Warsaw University of Management, Poland.  
+ Dominik Ślęzak  , University of Warsaw, Poland and QED Software, Poland and DeepSeas, USA.  
+   
+ Hide Preface    
+ Main Track  
+ Main Track Invited Contributions  
+ Measuring Trustworthiness in Neuro-Symbolic Integration | 6019 | Trustworthiness, Neuro-Symbolic Integration, symbolic knowledge extraction, symbolic knowledge injection | Andrea Agiollo, Andrea Omicini, | pages 1–10. | Invited 
+  Deciphering Clinical Narratives - Augmented Intelligence for Decision Making in Healthcare Sector | 3385 | Clinical Notes, BioNER, Clustering, Anomaly Detection, Autoencoder, Shapley Value | Lipika Dey, Sudeshna Jana, Tirthankar Dasgupta, Tanay Gupta, | pages 11–24. | Invited 
+  When to Trust AI: Advances and Challenges for Certification of Neural Networks | 2324 | neural network certification, AI safety, AI robustness | Marta Kwiatkowska, Xiyue Zhang, | pages 25–37. | Invited 
+  Multiple Criteria Decision Aiding by Constructive Preference Learning (Keynote Lecture — Extended Abstract) | 6419 | Multiple Criteria Decision Aiding, Constructive Preference Learning, Dominance Relations | Roman Słowiński, | pages 39–39. | Invited 
+  Online Learning Framework for Radio Link Failure Prediction in FANETs | 8996 | Online learning, RLF prediction, UAV | Kiril Danilchenko, Nir Lazmi, Michael Segal, | pages 41–48. | Invited 
+  A Survey on Congestion Control and Scheduling for Multipath TCP: Machine Learning vs Classical Approaches | 9832 | Multipath TCP, congestion control, scheduling, deep reinforcement learning, machine learning | Maisha Maliha, Golnaz Habibi, Mohammed Atiquzzaman, | pages 49–61. | Invited 
+  Abstract Approach to Entropy and Co-Entropy in Measurable and Probability Spaces (Invited Lecture — Extended Abstract) | 0004 | Gianpiero Cattaneo, | pages 63–64. | Invited 
+  Towards reliable rule mining about code smells: The McPython approach (Invited Lecture — Extended Abstract) | 2071 | Code smells, SLR, | Maciej Ziobrowski, Mirosław Ochodek, Jerzy Nawrocki, Bartosz Walter, | pages 65–66. | Invited 
+  Combination of Fuzzy Sets and Rough Sets for Machine Learning Purposes (Tutorial Lecture — Extended Abstract) | 0001 | Chris Cornelis, Henri Bollaert, | pages 67–67. | Invited 
+  Rough Sets: Introduction, History and Selected Applications (Tutorial Lecture — Extended Abstract) | 0003 | Soma Dutta, Davide Ciucci, | pages 69–70. | Invited 
+  Reducts in Rough Sets: Algorithmic Insights, Open Source Libraries and Applications (Tutorial – Extended Abstract) | 0002 | Andrzej Janusz, Sebastian Stawicki, | pages 71–71. | Invited 
+  Main Track Regular Papers  
+ Type 1 Diabetes Mellitus Saudi Patients' Perspective on the Adopting IoT-Enabled CGM: Validation of Critical Factors in the IAI-CGM A Framework | 4851 | IAI-CGM, TIDM, | Hamad Almansour, Natalia Beloff, Martin White, | pages 73–81. | ITBS 
+  Defect Backlog Size Prediction for Open-Source Projects with the Autoregressive Moving Average and Exponential Smoothing Models | 5474 | Defect backlog, ARIMA, | Paulina Anioła, Sushant Kumar Pandey, Miroslaw Staron, Mirosław Ochodek, | pages 83–92. | S3E 
+  Can Unlabelled Data Improve AI Applications? A Comparative Study on Self-Supervised Learning in Computer Vision. | 8371 | Artificial Intelligence, Self-Supervised Learning, Computer Vision | Markus Bauer, Christoph Augenstein, | pages 93–101. | AAIA 
+  CADM: Big Data to Limit Creative Accounting in Saudi-Listed Companies | 3888 | Creative Accounting, Bigdata, | Maysoon Bineid, Natalia Beloff, Martin White, Anastasia Khanina, | pages 103–110. | ITBS 
+  Toward an Optimal Solution to the Network Partitioning Problem | 2832 | ‎Graph partitioning‎, ‎Community detection‎‎, | Arman Ferdowsi, Maryam Dehghan Chenary, | pages 111–117. | NSA 
+  Diffusion Limits for Shortest Remaining Processing Time Queues with Multiple Customer Types | 4407 | Heavy traffic, Queueing, | Robert Gieroba, Łukasz Kruk, | pages 119–130. | NSA 
+  Genetic Algorithm for Planning and Scheduling Problem -- StarCraft II Build Order case study | 6015 | Build Order Planning, Genetic Algorithm, Cumulative Scheduling, Producer/Consumer Problem, StarCraft II | Konrad Gmyrek, Michał Antkiewicz, Pawel Myszkowski, | pages 131–140. | AAIA 
+  Discovering relationships between data in enterprise system using log analysis | 4617 | knowledge discovery, log analysis, | Łukasz Korzeniowski, Krzysztof Goczyła, | pages 141–150. | S3E 
+  The Use of Digital Technologies in German Business Consultancies | 7831 | Digitalization, Digital Technology, Consulting, Business Consultancy | Christian Leyh, Marcel Lange, Alisa Lorenz, | pages 151–160. | ITBS 
+  A Framework for Assessing the Sustainability of Intelligent Transport Systems in the Smart City Context | 6002 | smart city, smart mobility, smart traffic management, intelligent transport systems, sustainability | Alisa Lorenz, Nils Madeja, Christian Leyh, | pages 161–169. | ITBS 
+  Time-series Anomaly Detection and Classification with Long Short-Term Memory Network on Industrial Manufacturing Systems | 5263 | anomaly detection, anomaly classification, | Tijana Markovic, Alireza Dehlaghi-Ghadim, Miguel Leon, Ali Balador, Sasikumar Punnekkat, | pages 171–181. | AAIA 
+  XOR-based decomposition and its application in memory-based and reversible logic synthesis | 4382 | reversible logic synthesis, memory-based logic synthesis, | Tomasz Mazurkiewicz, | pages 183–190. | CSS 
+  Balancing Privacy and Accuracy in Federated Learning for Speech Emotion Recognition | 444 | Federated Learning, Privacy-preserving Mechanism, Differential Privacy, Speech Emotion Recognition | Samaneh Mohammadi, Mohammadreza Mohammadi, Sima Sinaei, Ali Balador, Ehsan Nowroozi, Francesco Flammini, Mauro Conti, | pages 191–199. | AAIA 
+  Back to the Essential: A Literature-Based Review on Agile Mindset | 6360 | Agility, Agile Mindset, systematic literature review, SLR, project management, Scrum | Necmettin Ozkan, Karen Eilers, Mehmet Şahin Gök, | pages 201–211. | ITBS 
+  Sign language interpreting - relationships between research in different areas - overview | 2503 | sign language, automatic interpreting, | Barbara Probierz, Jan Kozak, Adam Piasecki, Angelika Podlaszewska, | pages 213–223. | ITBS 
+  Enhancing naive classifier for positive unlabeled data based on logistic regression approach | 1402 | binary classification, logistic regression, | Mateusz Płatek, Jan Mielniczuk, | pages 225–233. | AAIA 
+  Improving the Efficiency of Meta AutoML via Rule-based Training Strategies | 708 | Meta AutoML, AutoML, Green AI, Training strategies, OMA-ML | Alexander Zender, Bernhard G. Humm, Tim Pachmann, | pages 235–246. | AAIA 
+  Main Track Short Papers  
+ Towards automated detection of adversarial attacks on tabular data | 3838 | machine learning diagnostics, rough sets, | Piotr Biczyk, Łukasz Wawrowski, | pages 247–251. | AAIA 
+  Change of Brand Management in Social Media During the Russia-Ukraine War: Findings from Poland | 3585 | social media, brand management, | Magdalena Grzanka, Artur Strzelecki, | pages 253–258. | ITBS 
+  Continual learning of a time series model using a mixture of HMMs with application to the IoT fuel sensor verification | 1856 | Hidden Markov Model, HMM mixture model, | Przemysław Głomb, Michal Cholewa, Pawel Foszner, Jakub Bularz, | pages 259–264. | AAIA 
+  Towards an HPC cluster digital twin and scheduling framework for improved energy efficiency | 3797 | HPC, energy efficiency, | Alexander Kammeyer, Florian Burger, Daniel Lübbert, Katinka Wolter, | pages 265–268. | ITBS 
+  Perception of vector and triangle representations of fuzzy number most possible value changes | 9557 | Fuzzy number visualization, Fuzzy number vector representation, Visual processing, Project uncertainty, Usability. | Dorota Kuchta, Jerzy Grobelny, Rafał Michalski, Jan Schneider, | pages 269–274. | ITBS 
+  Emotion-Based Literature Books Recommender Systems | 8647 | Recommender Systems, Emotions Analysis, Social Media Book Reviews | Elena-Ruxandra Luțan, Costin Bădică, | pages 275–280. | ITBS 
+  BERT-CLSTM model for the classification of Moroccan commercial courts verdicts | 3561 | AI, Commercial court, | Taoufiq El Moussaoui, Loqman Chakir, | pages 281–284. | AAIA 
+  Calculating and comparing solar radiation results using GIS in the City Sarajevo area | 6245 | QGIS, PVGIS, SAGA, GRASS, DEM | Nedim Mujić, Almir Karabegović, | pages 285–290. | CSS 
+  Towards Industry 4.0: Machine malfunction prediction based on IIoT streaming data | 677 | Industrial Internet of Things, Industry 4.0, Machine malfunction prediction, Machine failure prediction | Dragana Nikolova, Petre Lameski, Ivan Miguel Pires, Eftim Zdravevski, | pages 291–296. | AAIA 
+  Reranking for a Polish Medical Search Engine | 1627 | rerankinkg, medical search, | Jakub Pokrywka, Krzysztof Jassem, Piotr Wierzchoń, Piotr Badylak, Grzegorz Kurzyp, | pages 297–302. | AAIA 
+  Developing Field Theory in Mizar | 3409 | Interactive theorem proving, Mizar system, | Christoph Schwarzweller, | pages 303–308. | AAIA 
+  Clusterization methods for multi-variant e-commerce interfaces | 1377 | e-commerce, personalization, | Adam Wasilewski, | pages 309–313. | ITBS 
+  QMAK: Interacting with Machine Learning Models and Visualizing Classification Process | 4101 | explainable machine learning, classification visualization, | Arkadiusz Wojna, Katarzyna Jachim, Łukasz Kosson, Łukasz Kowalski, Damian Mański, Michał Mański, Krzysztof Mroczek, Krzysztof Niemkiewicz, Robert Piszczatowski, Maciej Próchniak, Tomasz Romańczuk, Piotr Skibiński, Marcin Staszczyk, Michał Szostakiewicz, Leszek Tur, Damian Wójcik, Maciej Zuchniak, | pages 315–318. | AAIA 
+  Thematic Tracks  
+ Preface to Thematic Tracks   
+ Parts  4 and 5 of FedCSIS 2023 Proceedings contain contributions originating from Thematic Tracks. Let us present each one of them.  
+ I. Advances in Programming Languages  
+ Programming languages are programmers' most basic tools. With appropriate programming languages one can drastically reduce the cost of building new applications, as well as maintaining existing ones. In the last decades, there have been many advances in programming languages technology, in traditional programming paradigms such as functional, logic, and object-oriented programming, as well as the development of new paradigms, such as aspect-oriented programming. The main driving force was, and will be, to better express programmers' ideas. Therefore, research in programming languages is an endless activity and the core of computer science. New language features, new programming paradigms, and better compile-time and run-time mechanisms can be foreseen in the future. Here, the potential future role of AI models in programming should also be taken into account. In this context, the aim of this Thematic Track was to provide a forum for exchange of ideas and experience in topics concerned with programming languages and systems.  
+ Thematic Track organizers:  
+ + Janousek, Jan, Czech Technical University, Czech Republic  
+ + Luković, Ivan, University of Belgrade, Serbia  
+ + Mernik, Marjan, University of Maribor, Slovenia  
+ + Rangel Henriques, Pedro, Universidade do Minho, Portugal  
+ + Slivnik, Boštjan, University of Ljubljana, Slovenia  
+ + Varanda Pereira, Maria Joao, Instituto Politecnico de Braganca, Portugal  
+ II. Artificial Intelligence in Agriculture  
+ AI is increasingly used in agriculture, to address multiple issues, from plant disease detection to weeding automation, soil status monitoring, crop prediction, irrigation management, and decreased use of resources, for improving product quality and process productivity. AI can, in fact, provide highly positive effects on precision agriculture by optimizing, automating and forecasting multiple aspects of farming and revolutionizing the sector, providing helpful information and driving decisions using multiple sources of data and different sensors. Moreover, in the climate change era, AI can improve sustainability by optimizing the use of resources, such as in the case of water and soil management. This Thematic Track welcomed contributions concerning all aspects of interdisciplinary research and applications related to AI in agriculture.  
+ Thematic Track organizers:  
+ + Charvat, Karel, Czech Center for Science and Society, Czech Republic  
+ + Martinelli, Massimo, National Research Council of Italy, Italy  
+ + Moroni, Davide, National Research Council of Italy, Italy  
+ + Procházka, Ales, University of Chemistry and Technology & Czech Technical University CIIRC, Czech Republic  
+ III. Artificial Intelligence in Digital Humanities, Computational Social Sciences and Economics Research  
+ This Thematic Track was dedicated to the computational study of social sciences, economics and humanities, including all subjects like, for example, education, labor market, history, religious studies, theology, cultural heritage, and informative predictions for decision-making and behavioral-science perspectives. Besides new discoveries, it was dedicated to the reflections about their growth within the field of computer science and it emphasized the interdisciplinary exchange and dissemination with a clear focus on computational and AI-based methods. Since there is a clear methodological overlap between the considered domains of social sciences, economics and humanities, and often similar algorithms and AI approaches are considered for them, this track should be seen as a place for discussing a “joint toolbox” as a support for scholars from these fields with human and context-aware agents. It included also research related to trustworthy data infrastructure housing both quantitative and qualitative data.  
+ Thematic Track organizers:  
+ + Cooper, Anthony-Paul, Durham University, United Kingdom and University of Turku, Finland  
+ + Dörpinghaus, Jens, BIBB and University of Koblenz, Germany  
+ + Helmrich, Robert, BIBB and University of Bonn, Germany  
+ + Speckesser, Stefan, Brighton University, United Kingdom  
+ IV. Challenges for Natural Language Processing  
+ This Thematic Track consisted of contributions related to all aspects of NLP. Of particular interest were works addressing NLP tools, multimodal problems, cross-lingual learning and processing of natural languages. Moreover, this track was also hosting the NLP-related competitions, results of which are presented in Part 6 of these proceedings. This Thematic Track was co-organized by the Multi-task, Multilingual, Multi-modal Language Generation COST Action (CA18231).  
+ Thematic Track organizers:  
+ + Kobyliński, Łukasz, Institute of Computer Science, Polish Academy of Sciences, Poland  
+ + Kubis, Marek, Faculty of Mathematics and Computer Science, Adam Mickiewicz University, Poland  
+ V. Complex Networks: Theory and Application  
+ In the nature and the world around us, one can observe many network structures that interconnect various elements such as cells, people, urban centers, network devices, companies, manufacturing machines, etc. Moreover, it is easy to notice that most of them evolve over time. The analysis of such systems from the complex networks point of view allows for better understanding of the processes within them, which can be used to optimize their structure, improve their management methods, detect failures, improve their operating efficiency and plan their development and evolution. The main goal of this Thematic Track was to exchange knowledge and experience between specialists from different areas who, in their research and design work, use theories and solutions characteristic for complex systems.  
+ This Thematic Track was organized within framework of the project financed by the Minister of Education and Science of the Republic of Poland within the “Regional Initiative of Excellence” program for years 2019–2023. Project number 027/RID/2018/19, amount granted 11 999 900 PLN.  
+ Thematic Track organizers:  
+ + Bolanowski, Marek, Rzeszów University of Technology, Poland  
+ + Kondratenko, Yuriy, Petro Mohyla Black Sea National University, Ukraine  
+ + Paszkiewicz, Andrzej, Rzeszów University of Technology, Poland  
+ VI. Computational Optimization  
+ Many real world problems, arising in engineering, economics, medicine and other domains, can be formulated as optimization tasks. These problems are frequently characterized by non-convex, non-differentiable, discontinuous, noisy or dynamic objective functions and constraints, which ask for adequate computational methods. The aim of this Thematic Track was to stimulate the communication between researchers working on different fields of optimization and practitioners who need reliable and efficient computational optimization methods. Contributions related to both theoretical and practical aspects of optimization methods were represented.  
+ Thematic Track organizers:  
+ + Fidanova, Stefka, Bulgarian Academy of Sciences, Bulgaria  
+ + Mucherino, Antonio, IRISA, University of Rennes, France  
+ + Zaharie, Daniela, West University of Timisoara, Romania  
+ VII. Computer Aspects of Numerical Algorithms  
+ Numerical algorithms are widely used by scientists engaged in various areas. There is a special need of highly efficient and easy-to-use scalable tools for solving large scale problems. This Thematic Track was devoted to numerical algorithms, with the particular attention focused on the latest scientific trends in this area and on problems related to implementation of libraries of efficient numerical algorithms. The main goal of this track was to facilitate meeting of researchers and exchange of their experiences.  
+ Thematic Track organizers:  
+ + Bylina, Beata, Maria Curie-Skłodowska University, Poland  
+ + Bylina, Jarosław, Maria Curie-Skłodowska University, Poland  
+ + Cyganek, Bogusław, AGH University of Science and Technology, Poland  
+ + Lirkov, Ivan, Bulgarian Academy of Sciences, Bulgaria  
+ + Stpiczyński, Przemysław, Maria Curie-Skłodowska University, Poland  
+ VIII. Cyber-Physical Systems Software Engineering  
+ This Thematic Track has its roots in the IEEE Software Engineering Workshop (SEW), which is the oldest Software Engineering event in the world, dating back to 1969. It was originally run as the NASA Software Engineering Workshop and focused on software engineering issues relevant to NASA and the space industry. After the 25th edition, it became the NASA/IEEE Software Engineering Workshop and expanded its remit to address many more areas of software engineering, with emphasis on practical issues, industrial experience and case studies in addition to traditional technical papers. Since its 31st edition, it has been sponsored by IEEE and has continued to broaden its areas of interest. Now it is an integral part of the FedCSIS conference series, as one of important Thematic Tracks.  
+ One extremely hot new area are Cyber-Physical Systems (CPS), which encompass the investigation of approaches related to the development and use of modern software systems interfacing with real world and controlling their surroundings. CPS are physical and engineering systems closely integrated with their typically networked environment. Modern airplanes, automobiles, or medical devices are practically networks of computers. Sensors, robots, and intelligent devices are abundant. Human life depends on them. CPS systems transform how people interact with the physical world just like the Internet transformed how people interact with one another. Accordingly, this Thematic Track brought together researchers with interest in software engineering, both with CPS and broader focus. Moreover, it provided a forum for reporting on past experiences, for describing new and emerging results and approaches, and for exchanging ideas on best practice and future directions.  
+ Thematic Track organizers:  
+ + Bowen, Jonathan, Museophile Ltd., United Kingdom  
+ + Hinchey, Mike, Irish Software Engineering Research Centre, Ireland  
+ + Szmuc, Tomasz, AGH University of Science and Technology, Poland  
+ + Zalewski, Janusz, Florida Gulf Coast University, United States  
+ IX. Cyber Security, Privacy, and Trust  
+ Nowadays, information security is a backbone for protecting both user data and electronic transactions. Protecting communications and data infrastructures of an increasingly inter-connected world have become vital. Security has also emerged as an important scientific discipline whose many multifaceted complexities require synergy of computer science, engineering, and information systems communities. Information security has some well-founded technical research directions which encompass access level (user authentication and authorization), protocol security, software security, and data cryptography. Moreover, some other emerging topics related to organizational security aspects have appeared beyond the long-standing research directions. In this context, this Thematic Track focused on the diversity of the cyber information security developments and deployments in order to highlight the most recent challenges and report the most recent researches. It was designed as an umbrella for all cyber security technical aspects, user privacy techniques, and trust. In addition, it went beyond the technicalities and covered some emerging topics like social and organizational security research directions. Thematic Track organizers:  
+ + Białas, Andrzej, Institute of Innovative Technologies EMAG, Poland  
+ + Masud, Mohammad, United Arab Emirates University, United Arab Emirates  
+ X. Data Science in Health, Ecology and Commerce  
+ This Thematic Track was a forum for exchange of ideas concerning all forms of data analysis, data economics, information systems and data based research, focusing on the interaction of those three fields. Here, data-driven solutions can be generated by understanding complex real-world (health-related) problems, critical thinking and analytics to derive knowledge from (Big) data. The past years have shown a forthcoming interest on innovative data technology and analytics solutions that link and utilize large amounts of data across individual digital ecosystems. Here, scenarios, in the field of health, smart cities or agriculture, merge data from various IoT devices, social media or applications and demonstrate the great potential for gaining new insights, supporting decisions, or providing smarter services. Together with inexpensive sensors and computing power they provide foundation of a world that bases its decisions on data. However, this is only the beginning of the journey, and the pertinent methods and technologies, and the potential application fields, as well as the impact on society and economy, have to be explored. This endeavor needs the knowledge of researchers from different fields applying diverse perspectives and using different methodological directions to find a way to grasp and fully understand the power and opportunities of data science. Bringing together researchers and practitioners of pertinent fields was one of focal points of this Thematic Track.  
+ Thematic Track organizers:  
+ + Bumberger, Jan, Helmholtz‐Centre for Environmental Research – UFZ, Germany  
+ + Franczyk, Bogdan, University of Leipzig, Germany  
+ + Häckl, Dennis, University of Leipzig and WIG2 Institute for Health Economics and Health Service Research, Germany  
+ + Militzer-Horstmann, Carsta, WIG2 Institute for Health Economics and Health Service Research, Germany  
+ + Reinhold, Olaf, University of Leipzig / Social CRM Research Center, Germany  
+ XI. Distributed Edge AI – Risks and Challenges  
+ The advent of end and edge nodes, with increased computational and storage capabilities, makes it possible to perform a large range of computations, with special focus on AI-based tasks on privacy-sensitive data, locally at the edge. This makes it possible to rely on a backend cloud only for communicating results of non-private data, for example by aggregation, or performing computations requiring the combination and further processing of results from different edge devices, or historical data sources, as it is done in the federated learning approaches. In addition, this increase in computation capabilities enables also neighboring edge devices to perform tasks collaboratively, leveraging each other's computational resources, before offloading data and computations to the cloud backend. This Thematic Track focused on AI and ML techniques related to edge computing systems, and security and privacy approaches in view of data sharing, in order to enable smart and sustainable planning and operation of resource constrained IoT ecosystems, and edge computing applications. It was organized within the scope of the European ITEA3 MIRAI R&D project. Thematic Track organizers:  
+ + Hristoskova, Anna, Sirris, Belgium  
+ + Klein, Sarah, Sirris, Belgium  
+ XII. Information Systems Management  
+ This Thematic Track facilitated a forum for exchange of ideas, for practitioners and theorists working in the broad area of information systems management in organizations. It focused on three complimentary directions: management of information systems in an organization, uses of information systems to empower managers, and information systems for sustainable development. Here, the interest encompassed all aspects of planning, organizing, resourcing, coordinating, controlling and leading the management function to ensure a smooth operation of information systems in organizations. Moreover, the contributions discussing the uses of intelligence systems and information technology to automate or otherwise facilitate the management function were included. Researches on the influence of intelligence systems on sustainability were welcomed as well.  
+ Thematic Track organizers:  
+ + Bicevska, Zane, University of Latvia, Latvia  
+ + Chmielarz, Witold, University of Warsaw, Poland  
+ + Duan, Yanqing, University of Bedfordshire, United Kingdom  
+ + Leyh, Christian, University of Applied Sciences, Germany  
+ XIII. Internet of Things – Enablers, Challenges and Applications  
+ The Internet of Things (IoT) is a technology which is rapidly emerging around the world. IoT applications include: smart city initiatives, wearable devices aimed to real-time health monitoring, smart homes and buildings, smart vehicles, environment monitoring, intelligent border protection, logistics support. IoT is a paradigm that assumes a pervasive presence in the environment of many smart things, including sensors, actuators, embedded systems and other similar devices. Widespread connectivity, getting cheaper smart devices and a great demand for data, testify to that the IoT will continue to grow by leaps and bounds. The business models of various industries are being redesigned on basis of the IoT paradigm. This Thematic Track focused on the IoT challenges in networking and information management, security and privacy, logistics, situation awareness, and medical care. It was organized within the scope of the European ASSIST-IoT and aerOS projects.  
+ Thematic Track organizers:  
+ + Chudzikiewicz, Jan, Military University of Technology, Poland  
+ + Zieliński, Zbigniew, Military University of Technology, Poland  
+ XIV. Knowledge Acquisition and Management  
+ Knowledge management is a large multidisciplinary field having its roots in management and AI. Activity of an extended organization should be supported by an organized and optimized flow of knowledge to effectively help all participants in their work. The aim of this Thematic Track was to discuss approaches, techniques and tools in the knowledge acquisition and other knowledge management areas with a focus on contribution of AI for improvement of human-machine intelligence and face the challenges of this century. It shared information and experiences, as well as delved into current trends of methodological, technological and implementation aspects of knowledge management processes.  
+ Thematic Track organizers:  
+ + Berka, Petr, Prague University of Economics and Business, Czech Republic  
+ + Hauke, Krzysztof, Wrocław University of Economics, Poland  
+ + Owoc, Mieczyslaw, Wrocław University of Economics, Poland  
+ + Pondel, Maciej, Wrocław University of Economics, Poland  
+ XV. Meta Environment for Citizens, Business and Entertainment  
+ This Thematic Track was focused on the development of Web 3.0, in particular in relation to the use of virtual reality (VR) and augmented reality (AR), on top of emerging technologies such as blockchain and widely understood IoT. The genesis of those ideas and components came from the video game industry, but also, its strong presence in business, medicine, banking, government, etc. All that, placed on top of IoT and other solicited concepts, as well as blockchain technologies, allowed discussion of new ideas related to the amalgamation of the technology aspects. The goals of the track were to expand understanding of current composition of different technologies cross business areas, including those that indicate the initial or minor presence in business and its opportunity to strengthen its presence, discover new areas of development of discussed subjects, as well as redesign well known applications with the new approach and concepts. Moreover, researches and observations related to the use of technology in business, medicine or science in a way that increases efficiency as well as ensuring a qualitative leap were welcome. Thematic Track organizers:  
+ + Szumski, Oskar, University of Warsaw, Poland  
+ + Tan, Qing, Athabasca University, Canada  
+ XVI. Multimedia Applications and Processing  
+ Multimedia, computer vision, graphics, and machine learning have become ubiquitous in modern information systems, creating new challenges for detection, recognition, indexing, access, search, retrieval, automated understanding, and processing, resulting in many applications based on image and signal processing, machine learning and various multimedia technologies. Recent advances in pervasive computers, networks, telecommunications, and information technology, along with the proliferation of multimedia mobile devices, have stimulated the rapid development of intelligent applications. These key technologies, using virtual reality, augmented reality, and computational intelligence, are creating a multimedia revolution that significantly impacts a broad spectrum of consumer, business, healthcare, educational and governmental domains. Advancements in AI resulted in the rapid growth of both methods and applications of machine learning approaches in computer vision, image processing, and analysis. Further advances in parallel computing, in the first decade of the 21st century, combined with development of deep neural networks, became a real game-changer in machine vision. This Thematic Track covered a range of AI-based theories, methods, algorithms, technologies, and systems for diversified and heterogeneous digital multimedia, imaging, computer graphics and machine learning areas. Moreover, it provided an opportunity for researchers and professionals to discuss present and future challenges and potential collaboration for future progress in these fields.  
+ Thematic Track organizers:  
+ + Iwanowski, Marcin, Warsaw University of Technology, Poland  
+ + Kwaśnicka, Halina, Wrocław University of Science and Technology, Poland  
+ + Śluzek, Andrzej, Khalifa University, United Arab Emirates  
+ + Stanescu, Liana, University of Craiova, Romania  
+ XVII. Practical Aspects of and Solutions for Software Engineering  
+ This Thematic Track was a follow-up to the KKIO series of software engineering conferences, organized, since 1999, under the auspices of the Polish Information Processing Society. The track was focused on emerging challenges and solutions for software engineering industry. A particular interest was related to validation and demonstration of practical applications of the proposed approaches. The track gathered contributions concerned with practical aspects of software engineering, relevant to the IT industry (including challenges and needs), research ideas and solutions aimed at addressing such aspects, and became a place to establish the cooperation between scientific and industrial partners.  
+ Thematic Track organizers:  
+ + Jarzębowicz, Aleksander, Gdańsk University of Technology, Poland  
+ + Przybyłek, Adam, Gdańsk University of Technology, Poland  
+ + Staroń, Mirosław, University of Gothenburg, Sweden  
+ XVIII. Recent Advances in Information Technology  
+ The aim of this Thematic Track was to provide a platform for exchange of ideas between early-stage researchers, in computer science and intelligence systems, Ph.D. students in particular. Furthermore, it provided all participants an opportunity to get feedback on their studies from experienced members of the AI and IT research communities. In fact, this track – as in previous years – played the role of so-called Doctoral Symposium, a well-established tradition of the FedCSIS conference series. Here, special care was taken to provide support and mentoring for young researchers and to facilitate frutiful discussion and exchange of ideas.  
+ Thematic Track organizers:  
+ + Dedinec, Aleksandra, Faculty of Computer Science and Engineering, Ss. Cyril and Methodius University, North Macedonia  
+ + Gil, David, Computer Technology Department, University of Alicante, Spain  
+ + Kowalski, Piotr, Systems Research Institute, Polish Academy of Sciences and AGH University of Science and Technology, Poland  
+ + Łukasik, Szymon, Systems Research Institute, Polish Academy of Sciences and AGH University of Science and Technology, Poland  
+ XIX. Rough Sets: Theory and Applications  
+ This Thematic Track discussed research related to the state-of-the-art and future perspectives of rough sets, considered from both a theoretical standpoint and real-world applications. Rough set theory is a versatile mathematical framework that has proven successful in AI, knowledge representation, approximate reasoning, data mining, machine learning, and pattern recognition, among other areas. The track was devoted to all the mentioned areas, with an additional emphasis on problems of modeling AI processes using rough set-based techniques. The track provided an opportunity for interdisciplinary exchange and collaboration among scientists from diverse backgrounds, including mathematics, computer science, statistics, physics, engineering, and social sciences. Moreover, it allowed staying up-to-date with the state-of-the-art in rough set theory and its applications, and to discuss future research directions and opportunities. Last but not least, the track was synchronized with Rough Set School which provided a more fundamental background for the theory and applications of rough sets. Thematic Track organizers:  
+ + Artiemjew, Piotr, University of Warmia and Mazury in Olsztyn, Poland  
+ + Chelly Dagdia, Zaineb, UVSQ, France  
+ + Mani, A., Indian Statistical Institute, India  
+ XX. Scalable Computing  
+ The world of large-scale computing continuously evolves. The most recent addition to the mix comes from numerous data streams that materialize from exploding number of cheap sensors installed “everywhere”, on the one hand, and ability to capture and study events with systematically increasing granularity, on the other. To address the needs for scaling computational and storage infrastructures, concepts like: edge, fog and dew computing emerged. Novel issues, involved in “pushing computing away from the center”, did not replace open questions that existed in the context of grid and cloud computing. Rather, they added new dimensions of complexity and resulted in the need of addressing scalability across more and more complex ecosystems consisting of individual sensors and micro-computers (e.g. Raspberry PI based systems) as well as supercomputers available within the Cloud (e.g. Cray computers and/or machines for large ML model training, facilitated – for instance – within the MS Azure Cloud). Addressing research questions that arise in individual “parts” as well as across the ecosystem viewed from a holistic perspective, with scalability as the main focus, was the goal of this Thematic Track.  
+ Thematic Track organizers:  
+ + Gepner, Paweł, Warsaw University of Technology, Poland  
+ + Gusev, Marjan, University Ss. Cyril and Methodius, Macedonia  
+ + Petcu, Dana, West University of Timisoara, Romania  
+ + Ristov, Sashko, University of Innsbruck, Austria  
+ + Stencel, Krzysztof, University of Warsaw, Poland  
+ Hide Preface to Thematic Tracks    
+ Thematic Tracks Regular Papers  
+ Psychological Safety, Leadership and Non-Technical Debt in Large Scale Agile Software Development | 8595 | Psychological Safety, Leadership, Non-Technical Debt, Agile, large-scale, Software development | Muhammad Ovais Ahmad, | pages 327–334. | KKIO 
+  Comparative Analysis of Word Embedding and Machine Learning Techniques for Classification of Software Developer Communications on Gitter | 6950 | Functional Requirements, Non-Functional Requirements, Deep Learning, Data Imbalance Methods, Feature Selection, Classification Techniques, Word Embedding. | Tumu Akshar, Lov Kumar, Dr. Yogita, Lalita Bhanu Murthy, | pages 335–346. | SEW 
+  Dual-Path Image Reconstruction: Bridging Vision Transformer and Perceptual Compressive Sensing Networks | 978 | Deep learning, Perception, | Zakaria Bairi, Kadda Beghdad Bey, Olfa Ben-Ahmed, Abdenour Amamra, Abbas Bradai, | pages 347–354. | MMAP 
+  On combining image features and word embeddings for image captioning | 997 | image captioning, neural image feature extractors, | Mateusz Bartosiewicz, Marcin Iwanowski, Martika Wiszniewska, Karolina Frączak, Paweł Leśnowolski, | pages 355–365. | MMAP 
+  IoT and Edge Computing using virtualized low-resource integer Machine Learning with support for CNN, ANN, and Decision Trees | 7745 | Virtualization, Virtual Machines, Tiny ML, Sensor Networks, Microservices, Low-power Systems, Vector Operations | Stefan Bosse, | pages 367–376. | IoT 
+  Impact of processor frequency scaling on performance and energy consumption for WZ factorization on multicore architecture | 6213 | processor frequency scaling, performance, energy, WZ factorization | Beata Bylina, Jarosław Bylina, Monika Piekarz, | pages 377–383. | CANA 
+  Simulating Large-Scale Topographic Terrain Features with Reservoirs and Flowing Water | 2137 | procedural generation, terrain simulation, | Łukasz Błaszczyk, Michalina Mizura, Aleksander Płocharski, Joanna Porter-Sobieraj, | pages 385–392. | MMAP 
+  Applying Knowledge Distillation to Improve Weed Mapping With Drones | 960 | Computer Vision, Knowledge Distillation, | Giovanna Castellano, Pasquale De Marinis, Gennaro Vessio, | pages 393–400. | AgriAI 
+  Mutual Learning Algorithm for Kidney Cyst, Kidney Tumor and Kidney Stone Diagnosis | 378 | Mutual learning, Teacher-student network, CNN, Model distillation, Kidney Disease, Kidney Cyst, Kidney Tumor, Kidney Stone | Sabrina Chowdhury, Snehasis Mukhopadhyay, Kumpati S. Narendra, | pages 401–410. | DSH 
+  A Graph Matching Algorithm to extend Wise Systems with Semantic | 4672 | knowledge-based systems, graph matching, | Abdelhafid Dahhani, Ilham Alloui, Sébastien Monnet, Flavien Vernier, | pages 411–420. | KAM 
+  Modelling and Solving the Precedence-Constrained Minimum-Cost Arborescence Problem with Waiting-Times | 6191 | Combinatorial Optimization, Arborescences, Precedence-Constraints | Mauro Dell'Amico, Jafar Jamal, Roberto Montemanni, | pages 421–430. | WCO 
+  Optimum Large Sensor Data Filtering, Networking and Computing | 5436 | data acquisition, parallel processing, | Maciej Drozdowski, Joanna Berlińska, Thomas Robertazzi, | pages 431–440. | WSC 
+  Resilient s-ACD for Asynchronous Collaborative Solutions of Systems of Linear Equations | 8932 | Asynchronous Methods, Iterative Methods, Numerical Methods, Linear Solver, Collaborative Autonomy, Edge Computing | Lucas Erlandson, Zachary Atkins, Alyson Fox, Christopher Vogl, Agnieszka Miedlar, Colin Ponce, | pages 441–450. | WSC 
+  Risk-Based Continuous Quality Control for Software in Legal Metrology | 6171 | automatic quality control, functional identification, risk assessment, legal metrology | Marko Esche, Levin Ho, Martin Nischwitz, Reinhard Meyer, | pages 451–461. | KKIO 
+  Classifying Industrial Sectors from German Textual Data with a Domain Adapted Transformer | 6694 | Classification, BERT, Domain Adapted Transformer, computational social sciences, Industrial Sectors | Richard Fechner, Jens Dörpinghaus, Anja Firll, | pages 463–470. | CNLPS 
+  Towards Enhancing Open Innovation Efficiency: A Method for Ontological Integration of BPMN and EMMO | 8906 | Open innovation, Elementary Multiperspective Material Ontology, Business Process Modeling and Notations, EMMO, BPMN, Ontology, Ontology integration | Christophe Feltus, Damien Nicolas, Carlos Kavka, Djamel Khadraoui, Salim Belouttar, Natalia Konchakova, Heinz A. Preisig, Peter Klein, | pages 471–479. | KAM 
+  Compiler Support for Parallel Evaluation of C++ Constant Expressions | 4268 | compilation, static analysis, | Andrew Gozillon, Hossein Haeri, James Riordan, Paul Keir, | pages 481–490. | WAPL 
+  Explainability in RIONA Algorithm Combining Rule Induction and Instance-Based Learning | 4139 | classification, supervised learning, | Grzegorz Góra, Andrzej Skowron, Arkadiusz Wojna, | pages 491–502. | RSTA 
+  Estimation of absolute distance and height of people based on monocular view and deep neural networks for edge devices operating in the visible and thermal spectra | 3560 | absolute distance estimation, absolute height estimation, | Jan Gąsienica-Józkowy, Bogusław Cyganek, Mateusz Knapik, Szymon Głogowski, Łukasz Przebinda, | pages 503–511. | MMAP 
+  The reception of holidays in social networks: A case study on Twitter | 6718 | social network analysis, Twitter analysis, digital theology, data clustering, practical theology, Jewish-Christian studies, religious and cultural studies | Bettina K. Hakius, | pages 513–522. | AI 
+  Is Homomorphic Encryption Feasible for Smart Mobility? | 695 | Smart Mobility, Privacy, Homomorphic Encryption | Anika Hannemann, Erik Buchmann, | pages 523–532. | NEMESIS 
+  Efficient exact A* algorithm for the single plant Hydro Unit Commitment problem | 5158 | dynamic programming, Hydro Unit Commitment, | Alexandre Heintzmann, Christian Artigues, Pascale Bendotti, Sandra Ulrich Ngueveu, Cécile Rottner, | pages 533–543. | WCO 
+  Clustering Corticosteroids Responsiveness in Sepsis Patients using Game-Theoretic Rough Sets | 9521 | Game-Theoretic Rough Sets, Missing values, Clustering corticosteroid responsiveness, Application, Sepsis patients | Rahma Hellali, Zaineb Chelly Dagdia, Karine Zeitouni, | pages 545–556. | RSTA 
+  Tenure and Background of CIOs in Germany: Influencing Factors and International Comparison | 5836 | CIO, Chief Information Officer, | Patrick Hillebrand, Markus Westner, | pages 557–566. | ISM 
+  A reusability-oriented use-case model specification language | 5469 | requirement specification, metamodel, | Bogumiła Hnatkowska, Piotr Zabawa, | pages 567–576. | KKIO 
+  AI-based Maize and Weeds detection on the edge with CornWeed Dataset | 2125 | CornWeed dataset, Maize weed detection, | Naeem Iqbal, Christoph Manss, Christian Scholz, Daniel Koenig, Matthias Igelbrink, Arno Ruckelshausen, | pages 577–584. | AgriAI 
+  BIGOS - Benchmark Intended Grouping of Open Speech Corpora for Polish Automatic Speech Recognition | 1609 | automatic speech recognition, asr, | Michał Junczyk, | pages 585–590. | CNLPS 
+  MLP-COMET-based decision model re-identification for continuous decision-making in the complex network environment | 5438 | MCDA, MCDM, | Bartłomiej Kizielewicz, Jakub Więckowski, Jarosław Jankowski, | pages 591–602. | ISM 
+  List Of Pareto Optimal Solutions of a Biobjective Shortest Path Problem | 3718 | bicriterion optimization, Pareto optimal solutions, | Lasko Laskov, Marin Marinov, | pages 603–613. | WCO 
+  Comparative Analysis of Exact, Heuristic and Metaheuristic Algorithms for Flexible Assembly Scheduling | 2715 | flexible assembly scheduling, mathematical programming, | Octavian Maghiar, Teodora Selea, Adrian Copie, Flavia Micota, Mircea Marin, | pages 615–625. | WCO 
+  Current Trends in Automated Test Case Generation | 9829 | software testing, test case generation, test data generation, papers survey | Tomas Potuzak, Richard Lipka, | pages 627–636. | SEW 
+  Analysis of a GPT-3 chatbot with respect to its input in a sales dialogue | 3513 | GPT-3 chatbot, sales dialogue, | Julian Premm, Hagen Peukert, Dennis Rössel, Mareike Silber, | pages 637–647. | ISM 
+  Standards-based Cyber Threat Intelligence sharing using private Blockchains | 6880 | Blockchain, Cyber Threat Intelligence, Cyber Defense, TAXII | Kimon-Antonios Provatas, Ioannis Tzannetos, Vassilios Vescoukis, | pages 649–656. | NEMESIS 
+  Open Vocabulary Keyword Spotting with Small-Footprint ASR-based Architecture and Language Models | 8594 | keyword spotting, open vocabulary keyword spotting, query-by-text, automatic speech recognition, language model | Mikołaj Pudo, Mateusz Wosik, Artur Janicki, | pages 657–666. | CNLPS 
+  Algorithmic Handling of Time Expanded Networks | 6717 | Network Flows, Routing, Scheduling, Combinatorial Optimization, Integer Linear Programming | Alain Quilliot, Jose-Luis Figueroa, Hélène Toussaint, | pages 667–676. | WCO 
+  Factors for Effective Communication of IT Costs and IT Business Value | 7224 | Effective Communication, Perception, Success Factors, IT Costs, IT Business Value, Business-IT Alignment, COBIT | Constanze Riedinger, Melanie Huber, Niculin Prinz, | pages 677–687. | ISM 
+  An Enhancement of Reinforcement Learning by Scheduling with Learning Effects | 4564 | Scheduling, Learning effect, | Radosław Rudek, | pages 689–697. | CANA 
+  Multi-queue service for task scheduling based on data availability | 8957 | multi-queue, task scheduling, distributed systems, large-scale computing, grid computing | Kamil Rybiński, Michał Śmiałek, | pages 699–709. | KKIO 
+  Semi-persistent services for IoT networks using RESTful approach | 287 | address-free networking, zero-configuration networking, P2P broadcasting networks, BLE mesh, ad-hoc networks, RESTful approach | Jarogniew Rykowski, | pages 711–720. | IoT 
+  Exception Handling in Programmable Controllers with Denotational Model | 5651 | semantic model, programmable controllers, | Jan Sadolewski, Bartosz Trybus, | pages 721–730. | CN 
+  An Innovative Drastic Metric for Ranking Similarity in Decision-Making Problems | 6502 | a true metric, new distance metric, decision-making, distance of rankings | Wojciech Sałabun, Andrii Shekhovtsov, | pages 731–738. | ISM 
+  Classifying Speech Acts in Political Communication: A Transformer-based Approach with Weak Supervision and Active Learning | 3485 | Speech Act Classification, Political Communication, | Klaus Schmidt, Andreas Niekler, Cathleen Kantner, Manuel Burghardt, | pages 739–748. | AI 
+  Investigating the Effect of Partial and Real-Time Feedback in INMAP Code-To-Architecture Mapping | 5070 | Software Architecture Conformance, Automated Source Code Mapping, | Zipani Tom Sinkala, Sebastian Herold, | pages 749–758. | SEW 
+  Hashtag Discernability - Competitiveness Study of Graph Spectral and Other Clustering Methods | 2398 | clustering, graph spectral clustering, | Bartłomiej Starosta, Mieczysław Kłopotek, Slawomir T. Wierzchon, Dariusz Czerski, | pages 759–767. | CNLPS 
+  An Experimental Framework for Secure and Reliable Data Streams Distribution in Federated IoT Environments | 3882 | Internet of Things, Blockchain, | Jakub Sychowiec, Zbigniew Zielinski, | pages 769–780. | IoT 
+  On the Applicability of the Pareto Principle to Source-Code Growth in Open Source Projects | 5221 | software evolution, the Pareto principle, | Korneliusz Szymański, Mirosław Ochodek, | pages 781–789. | KKIO 
+  Scheduling Jobs to Minimize a Convex Function of Resource Usage | 4164 | scheduling, load balancing, | Evelin Szögi, Tamas Kis, | pages 791–799. | WCO 
+  Target search with an allocation of search effort to overlapping cones of observation | 7181 | Moving Target search, Dynamic Programming, FAB algorithm, Overlapping Observation Cones | Hugo Vaillaud, Claire Hanen, Emmanuel Hyon, Cyrille Enderli, | pages 801–811. | WCO 
+  Exploring the Prevalence of Anti-patterns in the Application of Scrum in Software Development Organizations | 9562 | Scrum, Agile, Anti-patterns | Michał Wróbel, Dorota Przała, Paweł Weichbroth, | pages 813–822. | KKIO 
+  Analysis of the Impact of Data Augmentation on the Performance of Deep Learning Models in Multispectral Food Authenticity Identification | 3643 | food safety, deep learning, | Yaru Zhang, Arif Yilmaz, Mirela Popa, Christopher Brewster, | pages 823–832. | AgriAI 
+  Filtering Decision Rules Driven by Sequential Forward and Backward Selection of Attributes: An Illustrative Example in Stylometric Domain | 7295 | selection of attributes, decision rules, ranking of attributes | Beata Zielosko, Urszula Stańczyk, Kamil Jabloński, | pages 833–842. | RSTA 
+  Automatic Colorization of Digital Movies using Decolorization Models and SSIM Index | 3017 | monochrome movies, re-colorization, | Andrzej Śluzek, Marcin Dudziński, Tomasz Świsłocki, | pages 843–853. | MMAP 
+  Thematic Tracks Short Papers  
+ IoT for the Maritime Industry: Challenges and Emerging Applications | 3625 | Internet of things, maritime industry, | Sheraz Aslam, Herodotos Herodotou, Eduardo Garro, Alvaro Martinez Romero, Maria Angeles Burgos, Alessandro Cassera, George Papas, Petros Dias, Michalis Michaelides, | pages 855–858. | IoT 
+  Binary Classification of Agricultural Crops Using Sentinel Satellite Data and Machine Learning Techniques | 1703 | Crop Classification, AgriAI, | Paolo Bertellini, Gianluca D'Addese, Giorgia Franchini, Simone Parisi, Carmelo Scribano, Daniele Zanirato, Marko Bertogna, | pages 859–864. | AgriAI 
+  Experiments on software error prediction using Decision Tree and Random Forest algorithms | 363 | error prediction, decision tree, random forest, PROMISE repository | Ilona Bluemke, Paweł Borsukiewicz, | pages 865–869. | SEW 
+  Diagnosing Machine Learning Problems in Federated Learning Systems: A Case Study | 722 | Federated Learning, System Monitoring, ML Diagnosis, Exploding Gradients, Machine Learning, Topology | Karolina Bogacka, Anastasiya Danilenka, Katarzyna Wasielewska-Michniewska, | pages 871–876. | DS 
+  Use of traffic sampling in anomaly detection for high-throughput network links | 6381 | computer network, anomaly detection, ISP, network traffic sampling, cybersecurity | Marek Bolanowski, Andrzej Paszkiewicz, Hubert Mazur, | pages 877–882. | CN 
+  L1-Norm Principal Component Analysis Using Quaternion Rotations | 3368 | L1-norm, PCA, | Adam Borowicz, | pages 883–888. | WCO 
+  Efficient Deep Learning Approach for Olive Disease Classification | 4794 | Convolutional Neural Networks, EfficientNet, | Antonio Bruno, Davide Moroni, Massimo Martinelli, | pages 889–894. | AgriAI 
+  The scalability in terms of the time and the energy for several matrix factorizations on a multicore machine | 3506 | scalability, energy, | Beata Bylina, Monika Piekarz, | pages 895–900. | CANA 
+  Selection of floating photovoltaic system considering strong sustainability paradigm using SSP-COPRAS method | 492 | Floating photovoltaic systems selection, Multi-criteria decision making, SSP-COPRAS, Strong sustainability paradigm | Aleksandra Bączkiewicz, Jarosław Wątróbski, | pages 901–905. | ISM 
+  Urban scene semantic segmentation using the U-Net model | 3686 | image segmentation, semantic segmentation, | Marcin Ciecholewski, | pages 907–912. | MMAP 
+  The Effects of Native Language on Requirements Quality | 9537 | requirements, native langauge, quality of requirements, natural language, errors | Fayona Cowperthwaite, Jennifer Horkoff, Sylwia Kopczyńska, | pages 913–917. | KKIO 
+  One-shot federated learning with self-adversarial data | 1102 | Federated learning, One-shot learning, | Anastasiya Danilenka, Karolina Bogacka, Katarzyna Wasielewska-Michniewska, | pages 919–924. | DS 
+  Mitigating the effects of non-IID data in federated learning with a self-adversarial balancing method | 6549 | federated learning, non-IID data, performance, adversarial federated learning | Anastasiya Danilenka, | pages 925–930. | DS 
+  Real-time Communication Model for IoT Systems | 8513 | realtime routing, tasks scheduling, Internet of Things, communication protocols, realtime system | Stanisław Deniziak, Mirosław Płaza, Łukasz Arcab, | pages 931–936. | IoT 
+  Review of Automated Code Refactoring of C# Programs | 7277 | code refactoring, unit testing, code quality, code and test maintenance, C# | Anna Derezinska, Dawid Sygocki, | pages 937–941. | KKIO 
+  Employee Technostress in South Africa’s Hybrid Workplaces: Causes and Coping Mechanisms | 2907 | technostress, hybrid workplaces, | Shelley Dowrie, Jean-Paul Van Belle, Marita Turpin, | pages 943–947. | ISM 
+  Improving Domain-Specific Retrieval by NLI Fine-Tuning | 7569 | natural language inference, multilingual large language models, contrastive fine-tuning, information retrieval | Roman Dusek, Aleksander Wawer, Christopher Galias, Lidia Wojciechowska, | pages 949–953. | CNLPS 
+  Ant Colony Optimization for Workforce Planning with Hybridization | 9586 | Workforce Planning, Ant Colony Optimization, Metaheuristics, Hybrid Method, Local Search | Stefka Fidanova, Maria Ganzha, | pages 955–959. | WCO 
+  Future and Backward Exploration of XR Environments | 2375 | Exploration, Semantic Web, | Jakub Flotyński, Paweł Sobociński, Michał Śliwicki, Mikołaj Maik, | pages 961–965. | MMAP 
+  Improving the Performance of Multiscene Marketing Video Content through its Dynamics Adjustments | 7106 | video message, efficiency, dynamics of a video message, eyetracking, marketing | Kacper Fornalczyk, Kamil Bortko, Aneta Disterheft, Jarosław Jankowski, | pages 967–972. | ISM 
+  Performance assessment of OpenMP constructs and benchmarks using modern compilers and multi-core CPUs | 7822 | benchmarking OpenMP constructs, parallel programming, multi-core CPU, performance investigation, benchmarks | Bartłomiej Gawrych, Pawel Czarnul, | pages 973–978. | WSC 
+  A short note on computing permutations | 5568 | algorithms, recursion, | Paweł Gburzyński, Janusz Zalewski, | pages 979–982. | SEW 
+  Association Rule Mining for Requirement Elicitation Techniques in IT Projects | 4831 | associations rules mining, requirements elicitation, | Denys Gobov, Nikolai Sokolovskiy, | pages 983–987. | KKIO 
+  Potentials and Challenges of Gamification in Recruiting | 4012 | Gamification, Recruiting, | Ralf Haerting, Maren Gerst, Jasmin Zerrer, | pages 989–994. | MECBE 
+  Recognition of Weeds in Cornfields | 2610 | weed recognition, corn field, | Gábor Hartyányi, Laszlo Czuni, | pages 995–999. | AgriAI 
+  Price-Shaped Optimal Water Reflow in Prosumer Energy Cascade Hydro Plants | 6642 | hydro plants, green energy, optimal control, networked systems, time-delay systems | Przemysław Ignaciuk, Michał Morawski, | pages 1001–1005. | CN 
+  Semi-Active Control of a Shear Building based on Reinforcement Learning: Robustness to measurement noise and model error | 8946 | structural control, semi-active control, reinforcement learning, tuned mass damper | Aleksandra Jedlińska, Dominik Pisarski, Grzegorz Mikułowski, Bartłomiej Błachowski, Łukasz Jankowski, | pages 1007–1010. | SEW 
+  Gender-aware speaker's emotion recognition based on 1-D and 2-D features | 4485 | emotion recognition, gender recognition, | Włodzimierz Kasprzak, Mateusz Hryciów, | pages 1011–1015. | MMAP 
+  Detecting type of hearing loss with different AI classification methods: a performance review | 3083 | hearing loss, classification, | Michał Kassjański, Marcin Kulawiak, Tomasz Przewoźny, Dmitry Tretiakow, Jagoda Kuryłowicz, Andrzej Molisz, Krzysztof Koźmiński, Aleksandra Kwaśniewska, Paulina Mierzwińska-Dolny, Miłosz Grono, | pages 1017–1022. | DS 
+  Dynamic SITCOM: an innovative approach to re-identify social network evaluation models | 539 | Complex networks, SITCOM, MCDA, MCDM, Centrality measures, Re-identification, Similarity | Bartłomiej Kizielewicz, Jarosław Jankowski, | pages 1023–1027. | ISM 
+  IoTrust - a HW/SW framework supporting security core baseline features for IoT | 6946 | IoT, cybersecurity, SoC, TEE, HWRoT | Mateusz Korona, Bartosz Zabołotny, Fryderyk Kozioł, Mateusz Biernacki, Radosław Giermakowski, Paweł Rurka, Marta Chmiel, Mariusz Rawski, | pages 1029–1034. | NEMESIS 
+  On Gower Similarity Coefficient and Missing Values | 3575 | Gower similarity coefficient, mixed-type attributes, | Marzena Kryszkiewicz, | pages 1035–1040. | RSTA 
+  Mechanism for detecting cause-and-effect relationships in court judgments | 4827 | natural language processing, machine learning, | Łukasz Kurant, | pages 1041–1046. | CNLPS 
+  Expectation-Maximization Algorithms for Gaussian Mixture Models Using Linear Algebra Libraries on Parallel Shared-Memory Systems | 9859 | Gaussian mixture models, EM algorithm, parallel algorithms, OpenMP, BLAS | Wojciech Kwedlo, | pages 1047–1052. | WSC 
+  Performance Analysis of a 3D Elliptic Solver on Intel Xeon Computer System | 5683 | parallel algorithm, PCG method, | Ivan Lirkov, Marcin Paprzycki, Maria Ganzha, | pages 1053–1058. | CANA 
+  Controllability for English-Ukrainian Machine Translation by Using Style Transfer Techniques | 895 | Machine Translation, Controllability, NLG, Style Transfer | Daniil Maksymenko, Nataliia Saichyshyna, Marcin Paprzycki, Maria Ganzha, Oleksii Turuta, Mirela Alhasani, | pages 1059–1068. | CNLPS 
+  EpiDoc Data Matching for Federated Information Retrieval in the Humanities | 1515 | federated information retrieval, EpiDoc, | Sylvia Melzer, Meike Klettke, Franziska Weise, Kaja Harter-Uibopuu, Ralf Möller, | pages 1069–1074. | AI 
+  VICRA: Variance-Invariance-Covariance Regularization for Attack Prediction | 1151 | Self-supervised learning, Deep Learning, | Aditya Srinivas Menon, Gouri Nair, | pages 1075–1080. | NEMESIS 
+  Segmentation Methods Evaluation on Grapevine Leaf Diseases | 7053 | vine disease detection, remote sensing, deep learning | Szilard Molnar, Levente Tamas, | pages 1081–1085. | AgriAI 
+  Automatic speaker's age classification in the Common Voice database | 2483 | speaker classification, Common Voice database, | Adam Nowakowski, Włodzimierz Kasprzak, | pages 1087–1091. | MMAP 
+  Sensitivity Study of a Large-scale Air Pollution Model on the Bulgarian Petascale Supercomputer Discoverer | 5063 | sensitivity analysis, air pollution, | Tzvetan Ostromsky, Ivan Dimov, Rayna Georgieva, Venelin Todorov, | pages 1093–1100. | WCO 
+  Inscrutability versus Privacy and Automation versus Labor in Human-Centered AI: Approaching Ethical Paradoxes and Directions for Research | 7504 | Critical Theory, ethical paradox, inscrutability of AI technology, privacy violation, labor substitution | Hagen Peukert, | pages 1101–1105. | AI 
+  New measures of algorithms quality for permutation flow-shop scheduling problem | 7072 | Permutation flow-shop scheduling problem, Makespan, ART.NEH, ARID | Radosław Puka, Iwona Skalna, Tomasz Derlecki, | pages 1107–1111. | WCO 
+  PSE for Analysis of 3D Tomographic Images in Materials Science | 669 | Tomographic Images, Problem Solving Environment (PSE), Materials Science, GPUs | Paulo Quaresma, Pedro Medeiros, Adriano Lopes, Alexandre Velhinho | pages 1113–1117. | MMAP 
+  Path Length-Driven Hypergraph Partitioning: An Integer Programming Approach | 592 | Hypergraph partitioning, Critical path, multi-level scheme | Julien Rodriguez, Francois Galea, François Pellegrini, Lilia Zaourar, | pages 1119–1123. | WCO 
+  Laundry Cluster Management Using Cloud | 2510 | cloud computing, washing machines, | Mateusz Salach, Bartosz Trybus, Bartosz Pawłowicz, Marcin Hubacz, | pages 1125–1129. | CN 
+  Text embeddings and clustering for characterizing online communities on Reddit | 6275 | data mining, natural language processing, Reddit, clustering, text embedding, social media, online social networks | Jan Sawicki, | pages 1131–1136. | DS 
+  Runge-Kutta Method and WSM6 Microphysics for Weather Prediction on Hybrid Parallel Platform | 7199 | Runge-Kutta Method, WSM6 microphysics, Hybrid Parallel Algorithms, Multi-GPU Algorithms, High performance Computing | Hércules C. Silva, Marco A. Stefanes, Vinícius Capistrano, | pages 1137–1141. | WSC 
+  Incident Detection with Pruned Residual Multilayer Perceptron Networks | 6021 | IoT, Cybersecurity, Intrusion Detection System, Residual Neural Networks | Mohamad Soubra, Marek Kisiel-Dorohinicki, Marcin Kurdziel, Marek Zachara, | pages 1143–1148. | NEMESIS 
+  Optimizing Machine Translation for Virtual Assistants: Multi-Variant Generation with VerbNet and Conditional Beam Search | 8601 | machine translation, intelligent virtual assistants, natural language understanding | Marcin Sowański, Artur Janicki, | pages 1149–1154. | DS 
+  Performance of Portable Sparse Matrix-Vector Product Implemented Using OpenACC | 9640 | sparse matrices, storage formats, matrix-vector multiplication, OpenACC, performance | Kinga Stec, Przemyslaw Stpiczynski, | pages 1155–1160. | CANA 
+  Using graph solutions to identify "troll farms" and fake news propagation channels | 2738 | fake news, MIB, | Patryk Sulej, Krzysztof Hryniów, | pages 1161–1166. | NEMESIS 
+  A Stochastic Optimization Technique for UNI-DEM framework | 8893 | Stochastic optimization methods, Monte Carlo lattice approach, Sensitivity analysis, Air pollution modelling | Venelin Todorov, Slavi Georgiev, Ivan Dimov, Tzvetan Ostromsky, | pages 1167–1172. | WCO 
+  Extremal algebraic graphs, quadratic multivariate public keys and temporal rules | 1191 | Multivariate Cryptography, Extremal Graph theory, | Vasyl Ustimenko, Aneta Wroblewska, | pages 1173–1178. | NEMESIS 
+  On Extremal Algebraic Graphs and implementations of new cubic Multivariate Public Keys | 7763 | Multivariate Cryptography, Public Keys, Multivariate quadratic rules, Graph based Cryptography | Vasyl Ustimenko, Tymoteusz Chojecki, Michal Klisowski, | pages 1179–1184. | NEMESIS 
+  Comparing Performance of Machine Learning Libraries across Computing Platforms | 3594 | Machine Learning, Embedded Systems, | Pedro Vicente, Pedro M. Santos, Barikisu Asulba, Nuno Martins, Joana Sousa, Luís Almeida, | pages 1185–1189. | DE 
+  Deep Neural Networks application for Cup-to-Disc ratio estimation in eye fundus images | 944 | Deep neural network, Image preprocessing, | Sandra Virbukaitė, Jolita Bernatavičienė, | pages 1191–1195. | MMAP 
+  On some concept lattice of social choice functions | 3892 | formal concept analysis, knowledge modeling, | Piotr Wasilewski, Janusz Kacprzyk, Sławomir Zadrożny, | pages 1197–1203. | RSTA 
+  Postquantum symmetric cryptography inspired by neural networks | 9901 | private-key cryptography, postquantum cryptography, neural networks | Wojciech Węgrzynek, Paweł Topa, | pages 1205–1210. | NEMESIS 
+  Adding Linguistic Information to Transformer Models Improves Biomedical Event Detection? | 2076 | Biomedical Event Extraction, Event Detection, | Laura Zanella, Yannick Toussaint, | pages 1211–1216. | CNLPS 
+  Sensitivity analysis of the criteria weights used in selected MCDA methods in the multi-criteria assessment of banking services in Poland in 2022 | 3745 | assessment of banking websites, multi-criteria methods, | Marek Zborowski, Witold Chmielarz, | pages 1217–1222. | MECBE 
+  Let's estimate all parameters as probabilities: Precise estimation using Chebyshev's inequality, Bernoulli distribution, and Monte Carlo simulations | 1144 | estimate as a probability, Monte Carlo simulation, | Lubomír Štěpánek, Filip Habarta, Ivana Malá, Luboš Marek, | pages 1223–1227. | CANA 
+  A lower bound for proportion of visibility polygon's surface to entire polygon's surface: Estimated by Art Gallery Problem and proven that cannot be greatly improved | 4335 | visibility polygon, visibility region, | Lubomír Štěpánek, Filip Habarta, Ivana Malá, Luboš Marek, | pages 1229–1233. | WCO 
+  Social Media, Topic Modeling and Sentiment Analysis in Municipal Decision Support | 1479 | smart cities, topic modeling, | Miloš Švaňa, | pages 1235–1239. | KAM 
+  Competitions  
+ PolEval  
+ Preface to PolEval   
+ PolEval  is an annual NLP challenge organized since 2017. The choice of the name of the challenge was deliberate: as most research concentrates on the most popular languages (especially English), the aim of PolEval was to promote work on processing Polish. By focusing on Polish, it actively promotes the creation of new resources in this language, facilitates further research and contributes to creating new and improved methods and models for Polish.  
+ The goal of PolEval is thus to:  
+ develop established procedures for evaluating systems solving a wide range of tasks in NLP, 
+  create annotated datasets that can be used for training and evaluation of systems, 
+  objectively compare systems performing various tasks in the field of natural language processing, 
+  bring researchers from the scientific and business communities closer together and exchanging knowledge between them, 
+  facilitate popularization of NLP issues in the context of the Polish language. 
+  To achieve these goals, PolEval proposes a well-formulated task framework in which the scope, input data, expected output data, evaluation methods training and test data are prepared by the organizers. This way the challenge aims to be a platform for objective comparison of methods, models and systems for processing Polish.  
+ Hide Preface to PolEval    
+ PolEval 2022/23 Challenge Tasks and Results | 5627 | poleval, shared task, | Łukasz Kobyliński, Maciej Ogrodniczuk, Piotr Rybak, Piotr Przybyła, Piotr Pęzik, Agnieszka Mikołajczyk, Wojciech Janowski, Michał Marcińczuk, Aleksander Smywiński-Pohl, | pages 1243–1250. | CNLPS_PolEval 
+  Punctuation Prediction for Polish Texts using Transformers | 1633 | poleval, punctuation prediction, | Jakub Pokrywka, | pages 1251–1254. | CNLPS_PolEval 
+  Abbreviation Disambiguation in Polish Press News Using Encoder-Decoder Models | 839 | poleval, abbreviation disambiguation, | Krzysztof Wróbel, Jakub Karbowski, Paweł Lewkowicz, | pages 1255–1264. | CNLPS_PolEval 
+  Passage Retrieval of Polish Texts Using OKAPI BM25 and an Ensemble of Cross Encoders | 9253 | poleval, passage retrieval, question answering | Jakub Pokrywka, | pages 1265–1269. | CNLPS_PolEval 
+  Hybrid retrievers with generative re-rankers | 8119 | poleval, passage retrieval, question answering | Marek Kozłowski, | pages 1271–1276. | CNLPS_PolEval 
+  Multi-index Retrieve and Rerank with Sequence-to-Sequence Model | 3900 | poleval, passage retrieval, | Konrad Wojtasik, | pages 1277–1279. | CNLPS_PolEval 
+  Passage Retrieval in question answering systems in Polish language | 586 | passage retrieval, information retrieval, | Anna Pacanowska, | pages 1281–1286. | CNLPS_PolEval 
+  Cybersecurity Threat Detection in the Behavior of IoT Devices  
+ Preface to Cybersecurity Threat Detection in the Behavior of IoT Devices   
+ Cybersecurity  Threat Detection in the Behavior of IoT Devices was the 9th competition organized in association with the FedCSIS conference series at KnowledgePit.ai. The goal was to detect attacks on IoT devices on the basis of data provided by Efigo company, describing the changing behavior of devices, and known moments of cyberattack attempts. The data set was generated as a part of a SPINET project aiming at improving the cybersecurity of IoT device networks.  
+ The increasing significance of many IoT device applications motivates scientists to develop techniques for cyber safety improvement in many ways. In our case, based on the changing device behavior, it was expected that the profile of processes running on the device should change during the attack attempts.  
+ The competition data was collected in a simulated environment - IoT devices were emulated in a separated network, where attacking servers were also plugged in. The scenario of attacks was known, so it was possible to tag the behavioral data as “normal” and “unusual”. Based on that information participants tried to develop classification models to predict whether the device is being attacked or not.  
+ The top four competitor groups were invited to submit a paper describing their solutions to our special event at the FedCSIS 2023 conference. These papers are included in this chapter of the conference proceedings and are preceded by a paper describing in detail the competition, authored by the organizers. The most of presented approaches were based on gradient-boosting algorithms. That is not surprising - such models play an essential role in different fields of application. However, they are not so easy to interpret which may cause difficulties in better understanding the nature of IoT devices' behavior change during cyberattacks.  
+ Andrzej Janusz   
+ Marcin Michalak   
+ Hide Preface to Cybersecurity Threat Detection in the Behavior of IoT Devices    
+ Cybersecurity Threat Detection in the Behavior of IoT Devices: Analysis of Data Mining Competition Results | 3089 | Keywords—data science competitions, KnowledgePit.ai platform, | Michał Czerwiński, Marcin Michalak, Piotr Biczyk, Błażej Adamczyk, Daniel Iwanicki, Iwona Kostorz, Maksym Brzęczek, Andrzej Janusz, Marek Hermansa, Łukasz Wawrowski, Artur Kozłowski, | pages 1289–1293. | FedCSIS 
+  Tackling Variable-length Sequences with High-cardinality Features in Cyber-attack Detection | 2385 | Internet of Things, Cybersecurity, | Chang Lin, | pages 1295–1299. | FedCSIS 
+  Beating Gradient Boosting: Target-Guided Binning for Massively Scalable Classification in Real-Time | 7166 | gradient boosting, feature selection, predictive binning, cybersecurity | Dymitr Ruta, Ming Liu, Ling Cen, | pages 1301–1306. | FedCSIS 
+  Spotting Cyber Breaches in IoT Devices | 7136 | cybersecurity, data mining competition, LightGBM | Sławomir Pioroński, Tomasz Górecki, | pages 1307–1310. | FedCSIS 
+  Gradient boosting models for cybersecurity threat detection with aggregated time series features | 4457 | Cybersecurity threat detection, Gradient Boosting Trees, | Ming Liu, Ling Cen, Dymitr Ruta, | pages 1311–1315. | FedCSIS 
+  Center for Artificial Intelligence Challenge on Conversational AI Correctness  
+ Preface to Center for Artificial Intelligence Challenge on Conversational AI Correctness   
+ Center  Center for Artificial Intelligence Challenge on Conversational AI Correctness was organized as part of the 1st Symposium on Challenges for Natural Language Processing. The goal of this competition was to develop Natural Language Understanding models that are robust against speech recognition errors.  
+ Regardless of near-human accuracy of Automatic Speech Recognition in general-purpose transcription tasks, speech recognition errors can significantly deteriorate the performance of a Natural Language Understanding model that follows the speech-to-text module in a virtual assistant. The problem is even more apparent when an ASR system from an external vendor is used as an integral part of a conversational system without any further adaptation. The contestants were expected to develop Natural Language Understanding models that maintain satisfactory performance despite the presence of ASR errors in the input.  
+ The data for the competition consist of natural language utterances along with semantic frames that represent the commands targeted at a virtual assistant. The approach used to prepare the data for the challenge was meant to promote models robust to various types of errors in the input, making it impossible to solve the task by simply learning a shallow mapping from incorrectly recognized words to the correct ones. It reflects real-world scenarios where the NLU system is presented with inputs that exhibit various disturbances due to changes in the ASR model, acoustic conditions, speaker variation, and other causes.  
+ This chapter includes the paper discussing the objectives, evaluation rules and results of the competition, authored by the organizers followed by the detailed description of the leading solution contributed by the winners of the challenge.  
+ Hide Preface to Center for Artificial Intelligence Challenge on Conversational AI Correctness    
+ Center for Artificial Intelligence Challenge on Conversational AI Correctness | 6058 | natural language understanding, automatic speech recognition, spoken dialogue systems, conversational AI | Marek Kubis, Paweł Skórzewski, Marcin Sowański, Tomasz Ziętkiewicz, | pages 1319–1324. | CNLPS_PolEval 
+  Boosting conversational AI correctness by accounting for ASR errors using a sequence to sequence model | 9627 | CAICCAIC challenge, Conversational AI, Spoken Dialogue Systems | Szymon Jadczak, Rafał Jaworski, | pages 1325–1328. | CNLPS_PolEval 
+  Temporal Image Caption Retrieval Competition  
+ Preface to Temporal Image Caption Retrieval Competition   
+ Temporal  Image Caption Retrieval Competition was organized as part of the 1st Symposium on Challenges for Natural Language Processing. The goal of the competition was, given a picture from a newspaper and the newspaper's publication daily date, to retrieve a picture caption from a given caption set.  
+ Multimodal models, especially combining vision and text, are gaining great recognition. One such multimodal challenge is Text-Image retrieval, which is to retrieve an image for a text query or retrieve a text for a given image. In this challenge, we introduce a task in the Text-Image retrieval setup, additionally extending the modalities with temporal data.  
+ Language models rarely utilize any input information except for text. E.g additional data could be a text domain, document timestamp, website URL, or other metadata information. However, models trained solely on text data may be limited in usage. Additional temporal information is useful when factual knowledge is required, but the facts change over time.  
+ The presented task is based on the Chronicling America [ Lee, B. C. G., Mears, J., Jakeway, E., Ferriter, M., Adams, C., Yarasavage, N., … & Weld, D. S.  (2020). The Newspaper Navigator Dataset: Extracting Headlines and Visual Content from 16 Million Historic Newspaper Pages in Chronicling America.  In Proceedings of the 29th ACM International Conference on Information & Knowledge Management (CIKM '20). Association for Computing Machinery, New York, NY, USA, 3055–3062.  ] and Challenging America [ Pokrywka, J., Gralinski, F., Jassem, K., Kaczmarek, K., Jurkiewicz, K., & Wierzchoń, P.  (2022, July). Challenging America: Modeling language in longer time scales.  In Findings of the Association for Computational Linguistics: NAACL 2022 ( pp. 737-749  ).] projects. Chronicling America is an open database of over 16 million pages of digitized historic American newspapers covering 274 years. Challenging America is a set of temporal challenges built from the Chronicling America dataset.  
+ This chapter includes the paper discussing the objectives, evaluation rules and results of the competition, authored by the organizers followed by the detailed description of the leading solution contributed by the winners of the challenge.  
+ Hide Preface to Cybersecurity Threat Detection in the Behavior of IoT Devices    
+ Temporal Image Caption Retrieval Competition – Description and Results | 7280 | shared task, diachronic linguistics, challenging america | Jakub Pokrywka, Piotr Wierzchoń, Kornel Weryszko, Krzysztof Jassem, | pages 1331–1336. | CNLPS_PolEval 
+  Multimodal Neural Networks in the Problem of Captioning Images in Newspapers | 4192 | TICRC, CNLPS, | Patryk Kaszuba, | pages 1337–1340. | CNLPS_PolEval 
+    
+ TeXnical Editor: Aleksander Denisiuk   
+  E-mail: denisiuk@matman.uwm.edu.pl   
+  Phone/fax: +48-89-5246089

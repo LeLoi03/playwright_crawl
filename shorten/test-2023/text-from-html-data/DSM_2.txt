@@ -1,0 +1,94 @@
+  Program | SPLASH Program 
+  Your Program 
+   Sun 20 Oct 
+  Mon 21 Oct 
+  Tue 22 Oct 
+  Wed 23 Oct 
+  Thu 24 Oct 
+  Fri 25 Oct 
+  Keynotes 
+  AGERE 
+  AI-SEPS 
+  DSM 
+  IC 
+  LIVE 
+  Program Committee 
+  Steering Committee 
+  DSM | Organizing Committee 
+  Program Committee 
+  IC | Organizing Committee 
+  SPLASH 2024 
+  SPLASH 2023 
+  SPLASH 2022 
+  Workshop events 
+  Call for Papers and Demonstrations 
+  Domain-Specific Modeling (DSM) languages provide a viable and time-tested solution for continuing to raise the level of abstraction, and thus productivity, beyond coding, making systems and software development faster and easier.  
+ In DSM, the models are constructed using concepts that represent things in the application domain, not concepts of a given programming language. The modeling language follows the domain abstractions and semantics, allowing developers to perceive them-selves as working directly with domain concepts. Together with frameworks and platforms, DSM can automate a large portion of software production.  
+ ACM DL provides the proceedings of the workshop   
+   The GMT offsets shown reflect the offsets at the moment of the conference  .     
+ Time Band   
+ ×    You're viewing the program in a time zone which is different from your device's time zone change time zone     
+ Sun 20 Oct   
+ Displayed time zone: Beirut  change      
+ 30m    
+ Talk | Introduction   DSM 
+ Industry talk | A mosaic of models as the driver for Domain-Specific Modeling in the Robotics Industry - Keynote by Anastasia Mavrommati, MathWorks   DSM 
+ 20m    
+ Talk | Methodology to develop Domain Specific Modeling Languages   DSM 
+ 20m    
+ Talk | A Constraint Modeling Framework for Domain-Specific Languages   DSM 
+ 20m    
+ Talk | A Meta-Metamodel for Dynamic Constraint Feedback in Modeling Languages   DSM 
+ 20m    
+ Talk | ModelFlow: Towards Reactive Model Management Workflows   DSM 
+ 20m    
+ Talk | Mind the Gap: Lessons Learned from Translating Grammars between MontiCore and Xtext   DSM 
+ 20m    
+ Talk | Experience Report on the Development of a Specialized Multi-Views Multi-Stakeholders Model-based Engineering Framework   DSM 
+ 20m    
+ Demonstration | Mutation Testing for DSLs: Tool Demo   DSM 
+ 30m    
+ Meeting | Group work topic selection   DSM 
+ Meeting | Group work   DSM 
+ 30m    
+ Talk | Group work reporting   DSM 
+ Workshop events  
+ Title 
+ A Constraint Modeling Framework for Domain-Specific Languages  DSM 
+ A Meta-Metamodel for Dynamic Constraint Feedback in Modeling Languages  DSM 
+ A mosaic of models as the driver for Domain-Specific Modeling in the Robotics Industry - Keynote by Anastasia Mavrommati, MathWorks  DSM 
+ Experience Report on the Development of a Specialized Multi-Views Multi-Stakeholders Model-based Engineering Framework  DSM 
+ Group work  DSM 
+ Group work reporting  DSM 
+ Group work topic selection  DSM 
+ Introduction  DSM 
+ Methodology to develop Domain Specific Modeling Languages  DSM 
+ Mind the Gap: Lessons Learned from Translating Grammars between MontiCore and Xtext  DSM 
+ ModelFlow: Towards Reactive Model Management Workflows  DSM 
+ Mutation Testing for DSLs: Tool Demo  DSM 
+ Call for Papers and Demonstrations  
+ The goals of the workshop are to collect and exchange experiences related to building and using DSMs; continue building and extending the DSM community; and address in focus groups the issues raised in the presented papers and at previous workshops  .  
+ The 17th workshop on DSM welcomes submissions that address Domain-Specific Modeling on practical or theoretical levels. They can be research papers, experience reports, position papers or demonstration papers. Some of the issues that we would like to see addressed in this workshop are:  
+ Industry/academic experience reports describing success/failure in implementing and using DSM languages/tools 
+  Approaches to identify constructs for DSM languages 
+  Novel features in language workbenches / tools to support DSM 
+  Approaches to implement metamodel-based modeling languages 
+  Metamodeling frameworks and languages 
+  Modularization technologies for DSM languages and models 
+  Novel approaches for code generation from domain-specific models 
+  Issues of support/maintenance for systems built with DSM 
+  Evolution of languages along with their domain 
+  Organizational and process issues in DSM adoption and use 
+  Format and Submission   
+ Full papers: up to 10 pages, including references 
+  Demo papers: up to 2 pages, excluding references 
+  Submissions should use the ACM SIGPLAN Conference acmart Format with ‘sigplan’ Subformat  , 10 point font. All submissions should be in PDF format. If you use LaTeX or Word, please use the provided ACM SIGPLAN acmart Templates provided here  . Otherwise, follow the author instructions.  
+ If you are formatting your paper using LaTeX, you will need to set the 10pt option in the \documentclass command. If you are formatting your paper using Word, you may wish to use the provided Word template that supports this font size. Please include page numbers in your submission with the LaTeX \settopmatter{printfolios=true} command. Please also ensure that your submission is legible when printed on a black and white printer. In particular, please check that colors remain distinct and font sizes are legible.  
+ Accepted full papers will be published in ACM DL.  
+  Workshop 
+  Registration deadline 
+  Camera Ready Due 
+  Acceptance Notification 
+  Extended Submission Deadline 
+ Submission Link   
+  DSM'19   

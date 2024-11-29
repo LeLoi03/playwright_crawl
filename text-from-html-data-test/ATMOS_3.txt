@@ -1,0 +1,548 @@
+DROPS 
+  Series | LIPIcs – Leibniz International Proceedings in Informatics 
+  OASIcs – Open Access Series in Informatics 
+  Dagstuhl Follow-Ups 
+  Schloss Dagstuhl Jahresbericht 
+   Discontinued Series 
+  Journals | DARTS – Dagstuhl Artifacts Series 
+  Dagstuhl Reports 
+  Dagstuhl Manifestos 
+  LITES – Leibniz Transactions on Embedded Systems 
+  TGDK – Transactions on Graph Data and Knowledge 
+  Conferences | AFT 
+  AIB 
+  AofA 
+  APPROX 
+  ATMOS 
+  CALCO 
+  CCC 
+  CONCUR 
+  COSIT 
+  CP 
+  CPM 
+  CSL 
+  DISC 
+  DITAM 
+  DNA 
+  ECOOP 
+  ECRTS 
+  ESA 
+  FAB 
+  FMBC 
+   FORC 
+  FSCD 
+  FSTTCS 
+  FUN 
+  GD 
+  GIScience 
+  ICALP 
+  ICDT 
+  ICPEC 
+  IPEC 
+  iPMVM 
+  ISAAC 
+  ITC 
+  ITCS 
+  ITP 
+  LDK 
+  MFCS 
+  Microservices 
+  NG-RES 
+  OPODIS 
+   PARMA 
+  RANDOM 
+  SAND 
+  SAT 
+  SEA 
+  SLATE 
+  SNAPL 
+  SoCG 
+  STACS 
+  SWAT 
+  TIME 
+  Tokenomics 
+  TQC 
+  TYPES 
+  WABI 
+  WCET 
+  About DROPS 
+        
+  Metadata Export | Metadata Export 
+  OAI Interface 
+
+   Volume    Export XML 
+  Export ACM-XML 
+  Export DOAJ-XML 
+  Export Schema.org 
+  Export BibTeX 
+  Export HTML 
+
+  OASIcs, Volume 115  
+ 23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)  
+   
+  Part of: | Series: | Open Access Series in Informatics (OASIcs) | Part of: | Conference: | Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS) 
+
+ Event  
+ ATMOS 2023, September 7-8, 2023, Amsterdam, The Netherlands   
+ Editors  
+ Daniele Frigioni            
+ University of L'Aquila, Italy 
+    
+ Philine Schiewe            
+ Aalto University, Finland 
+
+ Publication Details  
+ published at: 2023-08-31 
+  Publisher: Schloss Dagstuhl – Leibniz-Zentrum für Informatik 
+  ISBN: 978-3-95977-302-7 
+  DBLP: | db/conf/atmos/atmos2023 
+
+  Access Numbers  
+ Detailed Access Statistics available here 
+  Total Document Accesses (updated on a weekly basis): | 0   PDF Downloads   0   Metadata Views 
+
+ Documents   
+ No documents found matching your filter selection.   
+  Document   
+ Complete Volume   
+ DOI: 10.4230/OASIcs.ATMOS.2023    
+
+ OASIcs, Volume 115, ATMOS 2023, Complete Volume   
+ Authors:  Daniele Frigioni and Philine Schiewe  
+  Abstract    
+ OASIcs, Volume 115, ATMOS 2023, Complete Volume   
+
+  Cite as    
+ 23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023). Open Access Series in Informatics (OASIcs), Volume 115, pp. 1-268, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @Proceedings{frigioni_et_al:OASIcs.ATMOS.2023 title = {{OASIcs, Volume 115, ATMOS 2023, Complete Volume}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {1--268}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023}, URN = {urn:nbn:de:0030-drops-187604}, doi = {10.4230/OASIcs.ATMOS.2023}, annote = {Keywords: OASIcs, Volume 115, ATMOS 2023, Complete Volume} }  @Proceedings{frigioni_et_al:OASIcs.ATMOS.2023 title = {{OASIcs, Volume 115, ATMOS 2023, Complete Volume}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {1--268}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023}, URN = {urn:nbn:de:0030-drops-187604}, doi = {10.4230/OASIcs.ATMOS.2023}, annote = {Keywords: OASIcs, Volume 115, ATMOS 2023, Complete Volume} }    
+
+  Document   
+ Front Matter   
+ DOI: 10.4230/OASIcs.ATMOS.2023.0    
+
+ Front Matter, Table of Contents, Preface, Conference Organization   
+ Authors:  Daniele Frigioni and Philine Schiewe  
+  Abstract    
+ Front Matter, Table of Contents, Preface, Conference Organization   
+
+  Cite as    
+ 23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023). Open Access Series in Informatics (OASIcs), Volume 115, pp. 0:i-0:xii, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{frigioni_et_al:OASIcs.ATMOS.2023.0 author = {Frigioni, Daniele and Schiewe, Philine}, title = {{Front Matter, Table of Contents, Preface, Conference Organization}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {0:i--0:xii}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.0}, URN = {urn:nbn:de:0030-drops-187619}, doi = {10.4230/OASIcs.ATMOS.2023.0}, annote = {Keywords: Front Matter, Table of Contents, Preface, Conference Organization} }  @InProceedings{frigioni_et_al:OASIcs.ATMOS.2023.0 author = {Frigioni, Daniele and Schiewe, Philine}, title = {{Front Matter, Table of Contents, Preface, Conference Organization}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {0:i--0:xii}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.0}, URN = {urn:nbn:de:0030-drops-187619}, doi = {10.4230/OASIcs.ATMOS.2023.0}, annote = {Keywords: Front Matter, Table of Contents, Preface, Conference Organization} }    
+
+  Document   
+ DOI: 10.4230/OASIcs.ATMOS.2023.1    
+
+ Optimal Bicycle Routes with Few Signal Stops   
+ Authors:  Ekkehard Köhler, Markus Rogge, Robert Scheffler, and Martin Strehler  
+  Abstract    
+ With the increasing popularity of cycling as a mode of transportation, there is a growing need for efficient routing algorithms that consider the specific requirements of cyclists. This paper studies the optimization of bicycle routes while minimizing the number of stops at traffic signals. In particular, we consider three different types of stopping strategies and three types of routes, namely paths, trails, and walks. We present hardness results as well as a pseudo-polynomial algorithm for the problem of computing an optimal route with respect to a pre-defined stop bound.   
+
+  Cite as    
+ Ekkehard Köhler, Markus Rogge, Robert Scheffler, and Martin Strehler. Optimal Bicycle Routes with Few Signal Stops. In 23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023). Open Access Series in Informatics (OASIcs), Volume 115, pp. 1:1-1:14, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{kohler_et_al:OASIcs.ATMOS.2023.1 author = {K\"{o}hler, Ekkehard and Rogge, Markus and Scheffler, Robert and Strehler, Martin}, title = {{Optimal Bicycle Routes with Few Signal Stops}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {1:1--1:14}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.1}, URN = {urn:nbn:de:0030-drops-187628}, doi = {10.4230/OASIcs.ATMOS.2023.1}, annote = {Keywords: Constrained shortest path, traffic signals, bicycle routes} }  @InProceedings{kohler_et_al:OASIcs.ATMOS.2023.1 author = {K\"{o}hler, Ekkehard and Rogge, Markus and Scheffler, Robert and Strehler, Martin}, title = {{Optimal Bicycle Routes with Few Signal Stops}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {1:1--1:14}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.1}, URN = {urn:nbn:de:0030-drops-187628}, doi = {10.4230/OASIcs.ATMOS.2023.1}, annote = {Keywords: Constrained shortest path, traffic signals, bicycle routes} }    
+
+  Document   
+ DOI: 10.4230/OASIcs.ATMOS.2023.2    
+
+ Using Light Spanning Graphs for Passenger Assignment in Public Transport   
+ Authors:  Irene Heinrich, Olli Herrala, Philine Schiewe, and Topias Terho  
+  Abstract    
+ In a public transport network a passenger’s preferred route from a point x to another point y is usually the shortest path from x to y. However, it is simply impossible to provide all the shortest paths of a network via public transport. Hence, it is a natural question how a lighter sub-network should be designed in order to satisfy both the operator as well as the passengers. We provide a detailed analysis of the interplay of the following three quality measures of lighter public transport networks: - building cost: the sum of the costs of all edges remaining in the lighter network, - routing costs: the sum of all shortest paths costs weighted by the demands, - fairness: compared to the original network, for each two points the shortest path in the new network should cost at most a given multiple of the shortest path in the original network. We study the problem by generalizing the concepts of optimum communication spanning trees (Hu, 1974) and optimum requirement graphs (Wu, Chao, and Tang, 2002) to generalized optimum requirement graphs (GORGs), which are graphs achieving the social optimum amongst all subgraphs satisfying a given upper bound on the building cost. We prove that the corresponding decision problem is NP-complete, even on orb-webs, a variant of grids which serves as an important model of cities with a center. For the case that the given network is a parametric city (cf. Fielbaum et. al., 2017) with a heavy vertex we provide a polynomial-time algorithm solving the GORG-problem. Concerning the fairness-aspect, we prove that light spanners are a strong concept for public transport optimization. We underpin our theoretical considerations with integer programming-based experiments that allow us to compare the fairness-approach with the routing cost-approach as well as passenger assignment approaches from the literature.   
+
+  Cite as    
+ Irene Heinrich, Olli Herrala, Philine Schiewe, and Topias Terho. Using Light Spanning Graphs for Passenger Assignment in Public Transport. In 23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023). Open Access Series in Informatics (OASIcs), Volume 115, pp. 2:1-2:16, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{heinrich_et_al:OASIcs.ATMOS.2023.2 author = {Heinrich, Irene and Herrala, Olli and Schiewe, Philine and Terho, Topias}, title = {{Using Light Spanning Graphs for Passenger Assignment in Public Transport}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {2:1--2:16}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.2}, URN = {urn:nbn:de:0030-drops-187637}, doi = {10.4230/OASIcs.ATMOS.2023.2}, annote = {Keywords: passenger assignment, line planning, public transport, discrete optimization, complexity, algorithm design} }  @InProceedings{heinrich_et_al:OASIcs.ATMOS.2023.2 author = {Heinrich, Irene and Herrala, Olli and Schiewe, Philine and Terho, Topias}, title = {{Using Light Spanning Graphs for Passenger Assignment in Public Transport}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {2:1--2:16}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.2}, URN = {urn:nbn:de:0030-drops-187637}, doi = {10.4230/OASIcs.ATMOS.2023.2}, annote = {Keywords: passenger assignment, line planning, public transport, discrete optimization, complexity, algorithm design} }    
+
+  Document   
+ Short Paper   
+ DOI: 10.4230/OASIcs.ATMOS.2023.3    
+
+ Convergence Properties of Newton’s Method for Globally Optimal Free Flight Trajectory Optimization (Short Paper)   
+ Authors:  Ralf Borndörfer, Fabian Danecker, and Martin Weiser  
+  Abstract    
+ The algorithmic efficiency of Newton-based methods for Free Flight Trajectory Optimization is heavily influenced by the size of the domain of convergence. We provide numerical evidence that the convergence radius is much larger in practice than what the theoretical worst case bounds suggest. The algorithm can be further improved by a convergence-enhancing domain decomposition.   
+
+  Cite as    
+ Ralf Borndörfer, Fabian Danecker, and Martin Weiser. Convergence Properties of Newton’s Method for Globally Optimal Free Flight Trajectory Optimization (Short Paper). In 23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023). Open Access Series in Informatics (OASIcs), Volume 115, pp. 3:1-3:6, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{borndorfer_et_al:OASIcs.ATMOS.2023.3 author = {Bornd\"{o}rfer, Ralf and Danecker, Fabian and Weiser, Martin}, title = {{Convergence Properties of Newton’s Method for Globally Optimal Free Flight Trajectory Optimization}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {3:1--3:6}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.3}, URN = {urn:nbn:de:0030-drops-187642}, doi = {10.4230/OASIcs.ATMOS.2023.3}, annote = {Keywords: shortest path, flight planning, free flight, optimal control, global optimization, Newton’s method} }  @InProceedings{borndorfer_et_al:OASIcs.ATMOS.2023.3 author = {Bornd\"{o}rfer, Ralf and Danecker, Fabian and Weiser, Martin}, title = {{Convergence Properties of Newton’s Method for Globally Optimal Free Flight Trajectory Optimization}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {3:1--3:6}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.3}, URN = {urn:nbn:de:0030-drops-187642}, doi = {10.4230/OASIcs.ATMOS.2023.3}, annote = {Keywords: shortest path, flight planning, free flight, optimal control, global optimization, Newton’s method} }    
+
+  Document   
+ DOI: 10.4230/OASIcs.ATMOS.2023.4    
+
+ Non-Pool-Based Line Planning on Graphs of Bounded Treewidth   
+ Authors:  Irene Heinrich, Philine Schiewe, and Constantin Seebach  
+  Abstract    
+ Line planning, i.e. choosing routes which are to be serviced by vehicles in order to satisfy network demands, is an important aspect of public transport planning. While there exist heuristic procedures for generating lines from scratch, most theoretical investigations consider the problem of choosing lines only from a predefined line pool. We consider the line planning problem when all simple paths can be used as lines and present an algorithm which is fixed-parameter tractable, i.e. it is efficient on instances with small parameter. As a parameter we consider the treewidth of the public transport network, along with its maximum degree as well as the maximum allowed frequency.   
+
+  Cite as    
+ Irene Heinrich, Philine Schiewe, and Constantin Seebach. Non-Pool-Based Line Planning on Graphs of Bounded Treewidth. In 23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023). Open Access Series in Informatics (OASIcs), Volume 115, pp. 4:1-4:19, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{heinrich_et_al:OASIcs.ATMOS.2023.4 author = {Heinrich, Irene and Schiewe, Philine and Seebach, Constantin}, title = {{Non-Pool-Based Line Planning on Graphs of Bounded Treewidth}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {4:1--4:19}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.4}, URN = {urn:nbn:de:0030-drops-187656}, doi = {10.4230/OASIcs.ATMOS.2023.4}, annote = {Keywords: line planning, public transport, treewidth, integer programming, fixed parameter tractability} }  @InProceedings{heinrich_et_al:OASIcs.ATMOS.2023.4 author = {Heinrich, Irene and Schiewe, Philine and Seebach, Constantin}, title = {{Non-Pool-Based Line Planning on Graphs of Bounded Treewidth}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {4:1--4:19}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.4}, URN = {urn:nbn:de:0030-drops-187656}, doi = {10.4230/OASIcs.ATMOS.2023.4}, annote = {Keywords: line planning, public transport, treewidth, integer programming, fixed parameter tractability} }    
+
+  Document   
+ DOI: 10.4230/OASIcs.ATMOS.2023.5    
+
+ Integrating Line Planning for Construction Sites into Periodic Timetabling via Track Choice   
+ Authors:  Berenike Masing, Niels Lindner, and Christian Liebchen  
+  Abstract    
+ We consider maintenance sites for urban rail systems, where unavailable tracks typically require changes to the regular timetable, and often even to the line plan. In this paper, we present an integrated mixed-integer linear optimization model to compute an optimal line plan that makes best use of the available tracks, together with a periodic timetable, including its detailed routing on the tracks within the stations. The key component is a flexible, turn-sensitive event-activity network that allows to integrate line planning and train routing using a track choice extension of the Periodic Event Scheduling Problem (PESP). Major goals are to maintain as much of the regular service as possible, and to keep the necessary changes rather local. Moreover, we present computational results on real construction site scenarios on the S-Bahn Berlin network. We demonstrate that this integrated problem is indeed solvable on practically relevant instances.   
+
+  Cite as    
+ Berenike Masing, Niels Lindner, and Christian Liebchen. Integrating Line Planning for Construction Sites into Periodic Timetabling via Track Choice. In 23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023). Open Access Series in Informatics (OASIcs), Volume 115, pp. 5:1-5:15, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{masing_et_al:OASIcs.ATMOS.2023.5 author = {Masing, Berenike and Lindner, Niels and Liebchen, Christian}, title = {{Integrating Line Planning for Construction Sites into Periodic Timetabling via Track Choice}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {5:1--5:15}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.5}, URN = {urn:nbn:de:0030-drops-187669}, doi = {10.4230/OASIcs.ATMOS.2023.5}, annote = {Keywords: Periodic Timetabling, Line Planning, Track Choice, Mixed-Integer Programming, Construction Sites, Railway Rescheduling} }  @InProceedings{masing_et_al:OASIcs.ATMOS.2023.5 author = {Masing, Berenike and Lindner, Niels and Liebchen, Christian}, title = {{Integrating Line Planning for Construction Sites into Periodic Timetabling via Track Choice}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {5:1--5:15}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.5}, URN = {urn:nbn:de:0030-drops-187669}, doi = {10.4230/OASIcs.ATMOS.2023.5}, annote = {Keywords: Periodic Timetabling, Line Planning, Track Choice, Mixed-Integer Programming, Construction Sites, Railway Rescheduling} }    
+
+  Document   
+ DOI: 10.4230/OASIcs.ATMOS.2023.6    
+
+ A Symbolic Design Method for ETCS Hybrid Level 3 at Different Degrees of Accuracy   
+ Authors:  Stefan Engels, Tom Peham, and Robert Wille  
+  Abstract    
+ The European Train Control System (Hybrid) Level 3 (ETCS Hybrid Level 3) allows for introducing Virtual Subsections (VSS) into existing railway infrastructures. These VSS work similarly to blocks in conventional block signaling but do not require installation or maintenance of trackside train detection. This added flexibility can be used to adapt a given railway network’s (virtual) layout to the changing demands of new schedules. Automated methods are needed to properly use this flexibility and design such layouts on demand and avoid time-intensive manual labor. Recently, approaches inspired by design automation of electronic hardware have been proposed to address this need. But those methods - which are particularly well suited for inherently discrete problems in electronic design automation - have struggled with modeling continuous properties like train positions, time, and acceleration. This work proposes a Mixed Integer Linear Programming (MILP) formulation that, for the first time, can accurately model design problems for ETCS Hybrid Level 3 by including essential, continuous constraints, e.g., for train dynamics or braking curves. The formulation is designed to be flexible and extendable, allowing the user to include/exclude certain constraints or simplify the model as needed. By this, the user can decide whether he/she wants to quickly generate a less accurate solution or a more accurate one at the expense of higher runtimes - basically allowing him/her to trade-off accuracy and efficiency. A case study showcases the potential of the proposed approach and sketches examples to analyze which trade-offs are worthwhile and which simplifications can be safely made. The resulting tool and the benchmarks considered in this work are publicly available at https://github.com/cda-tum/mtct (as part of the Munich Train Control Toolkit, MTCT).   
+
+  Cite as    
+ Stefan Engels, Tom Peham, and Robert Wille. A Symbolic Design Method for ETCS Hybrid Level 3 at Different Degrees of Accuracy. In 23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023). Open Access Series in Informatics (OASIcs), Volume 115, pp. 6:1-6:17, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{engels_et_al:OASIcs.ATMOS.2023.6 author = {Engels, Stefan and Peham, Tom and Wille, Robert}, title = {{A Symbolic Design Method for ETCS Hybrid Level 3 at Different Degrees of Accuracy}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {6:1--6:17}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.6}, URN = {urn:nbn:de:0030-drops-187676}, doi = {10.4230/OASIcs.ATMOS.2023.6}, annote = {Keywords: ETCS, MILP, design automation, block signaling, virtual subsection} }  @InProceedings{engels_et_al:OASIcs.ATMOS.2023.6 author = {Engels, Stefan and Peham, Tom and Wille, Robert}, title = {{A Symbolic Design Method for ETCS Hybrid Level 3 at Different Degrees of Accuracy}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {6:1--6:17}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.6}, URN = {urn:nbn:de:0030-drops-187676}, doi = {10.4230/OASIcs.ATMOS.2023.6}, annote = {Keywords: ETCS, MILP, design automation, block signaling, virtual subsection} }    
+
+  Document   
+ DOI: 10.4230/OASIcs.ATMOS.2023.7    
+
+ Periodic Timetabling with Cyclic Order Constraints   
+ Authors:  Enrico Bortoletto, Niels Lindner, and Berenike Masing  
+  Abstract    
+ Periodic timetabling for highly utilized railway networks is a demanding challenge. We formulate an infrastructure-aware extension of the Periodic Event Scheduling Problem (PESP) by requiring that not only events, but also activities using the same infrastructure must be separated by a minimum headway time. This extended problem can be modeled as a mixed-integer program by adding constraints on the sum of periodic tensions along certain cycles, so that it shares some structural properties with standard PESP. We further refine this problem by fixing cyclic orders at each infrastructure element. Although the computational complexity remains unchanged, the mixed-integer programming model then becomes much smaller. Furthermore, we also discuss how to find a minimal subset of infrastructure elements whose cyclic order already prescribes the order for the remaining parts of the network, and how cyclic order information can be modeled in a mixed-integer programming context. In practice, we evaluate the impact of cyclic orders on a real-world instance on the S-Bahn Berlin network, which turns out to be computationally fruitful.   
+
+  Cite as    
+ Enrico Bortoletto, Niels Lindner, and Berenike Masing. Periodic Timetabling with Cyclic Order Constraints. In 23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023). Open Access Series in Informatics (OASIcs), Volume 115, pp. 7:1-7:18, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{bortoletto_et_al:OASIcs.ATMOS.2023.7 author = {Bortoletto, Enrico and Lindner, Niels and Masing, Berenike}, title = {{Periodic Timetabling with Cyclic Order Constraints}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {7:1--7:18}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.7}, URN = {urn:nbn:de:0030-drops-187689}, doi = {10.4230/OASIcs.ATMOS.2023.7}, annote = {Keywords: Periodic Timetabling, Railway Timetabling, Periodic Event Scheduling Problem, Cyclic Orders, Mixed-Integer Programming} }  @InProceedings{bortoletto_et_al:OASIcs.ATMOS.2023.7 author = {Bortoletto, Enrico and Lindner, Niels and Masing, Berenike}, title = {{Periodic Timetabling with Cyclic Order Constraints}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {7:1--7:18}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.7}, URN = {urn:nbn:de:0030-drops-187689}, doi = {10.4230/OASIcs.ATMOS.2023.7}, annote = {Keywords: Periodic Timetabling, Railway Timetabling, Periodic Event Scheduling Problem, Cyclic Orders, Mixed-Integer Programming} }    
+
+  Document   
+ DOI: 10.4230/OASIcs.ATMOS.2023.8    
+
+ Fewer Trains for Better Timetables: The Price of Fixed Line Frequencies in the Passenger-Oriented Timetabling Problem   
+ Authors:  Pedro José Correia Duarte, Marie Schmidt, Dennis Huisman, and Lucas P. Veelenturf  
+  Abstract    
+ This paper introduces the Passenger-Oriented Timetabling problem with flexible frequencies (POT-flex) in the context of railway planning problems. POT-flex aims at creating feasible railway timetables minimising total perceived passenger travel time. The contribution of the POT-flex lies in its relaxation of the generally adopted assumption that line frequencies should be a fixed part of the input. Instead, we consider flexible line frequencies, encompassing a minimum and maximum frequency per line, allowing the timetabling model to decide on optimal line frequencies to obtain better solutions using fewer train services per line. We develop a mixed-integer programming formulation for POT-flex based on the Passenger-Oriented Timetabling (POT) formulation of [Polinder et al., 2021] and compare the performance of the new formulation against the POT formulation on three instances. We find that POT-flex allows to find feasible timetables in instances containing bottlenecks, and show improvements of up to 2% on the largest instance tested. These improvements highlight the cost that fixed line frequencies can have on timetabling.   
+
+  Cite as    
+ Pedro José Correia Duarte, Marie Schmidt, Dennis Huisman, and Lucas P. Veelenturf. Fewer Trains for Better Timetables: The Price of Fixed Line Frequencies in the Passenger-Oriented Timetabling Problem. In 23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023). Open Access Series in Informatics (OASIcs), Volume 115, pp. 8:1-8:18, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{correiaduarte_et_al:OASIcs.ATMOS.2023.8 author = {Correia Duarte, Pedro Jos\'{e} and Schmidt, Marie and Huisman, Dennis and Veelenturf, Lucas P.}, title = {{Fewer Trains for Better Timetables: The Price of Fixed Line Frequencies in the Passenger-Oriented Timetabling Problem}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {8:1--8:18}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.8}, URN = {urn:nbn:de:0030-drops-187695}, doi = {10.4230/OASIcs.ATMOS.2023.8}, annote = {Keywords: PESP, Passenger Oriented Timetabling, Perceived Travel Time} }  @InProceedings{correiaduarte_et_al:OASIcs.ATMOS.2023.8 author = {Correia Duarte, Pedro Jos\'{e} and Schmidt, Marie and Huisman, Dennis and Veelenturf, Lucas P.}, title = {{Fewer Trains for Better Timetables: The Price of Fixed Line Frequencies in the Passenger-Oriented Timetabling Problem}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {8:1--8:18}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.8}, URN = {urn:nbn:de:0030-drops-187695}, doi = {10.4230/OASIcs.ATMOS.2023.8}, annote = {Keywords: PESP, Passenger Oriented Timetabling, Perceived Travel Time} }    
+
+  Document   
+ DOI: 10.4230/OASIcs.ATMOS.2023.9    
+
+ Recoverable Robust Periodic Timetabling   
+ Authors:  Vera Grafe and Anita Schöbel  
+  Abstract    
+ We apply the concept of recoverable robustness to periodic timetabling, resulting in the Recoverable Robust Periodic Timetabling Problem (RRPT), which integrates periodic timetabling and delay management. Although the computed timetable is periodic, the model is able to take the aperiodicity of the delays into account. This is an important step in finding a good trade-off between short travel times and delay resistance. We present three equivalent formulations for this problem, differing in the way the timetabling subproblem is handled, and compare them in a first experimental study. We also show that our model yields solutions of high quality.   
+
+  Cite as    
+ Vera Grafe and Anita Schöbel. Recoverable Robust Periodic Timetabling. In 23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023). Open Access Series in Informatics (OASIcs), Volume 115, pp. 9:1-9:16, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{grafe_et_al:OASIcs.ATMOS.2023.9 author = {Grafe, Vera and Sch\"{o}bel, Anita}, title = {{Recoverable Robust Periodic Timetabling}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {9:1--9:16}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.9}, URN = {urn:nbn:de:0030-drops-187708}, doi = {10.4230/OASIcs.ATMOS.2023.9}, annote = {Keywords: Public Transport, Recoverable Robustness, Periodic Timetabling, Delay Management, Mixed Integer Programming} }  @InProceedings{grafe_et_al:OASIcs.ATMOS.2023.9 author = {Grafe, Vera and Sch\"{o}bel, Anita}, title = {{Recoverable Robust Periodic Timetabling}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {9:1--9:16}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.9}, URN = {urn:nbn:de:0030-drops-187708}, doi = {10.4230/OASIcs.ATMOS.2023.9}, annote = {Keywords: Public Transport, Recoverable Robustness, Periodic Timetabling, Delay Management, Mixed Integer Programming} }    
+
+  Document   
+ DOI: 10.4230/OASIcs.ATMOS.2023.10    
+
+ Submodularity Property for Facility Locations of Dynamic Flow Networks   
+ Authors:  Peerawit Suriya, Vorapong Suppakitpaisarn, Supanut Chaidee, and Phapaengmueng Sukkasem  
+  Abstract    
+ This paper considers facility location problems within dynamic flow networks, shifting the focus from minimizing evacuation time to handling situations with a constrained evacuation timeframe. Our study sets two main goals: 1) Determining a fixed-size set of locations that can maximize the number of evacuees, and 2) Identifying the smallest set of locations capable of accommodating all evacuees within the time constraint. We introduce flow_t(S) to represent the number of evacuees for given locations S within a fixed time limit t. We prove that flow_t functions is a monotone submodular function, which allows us to apply an approximation algorithm specifically designed for maximizing such functions with size restrictions. For the second objective, we implement an approximation algorithm tailored to solving the submodular cover problem. We conduct experiments on the real datasets of Chiang Mai, and demonstrate that the approximation algorithms give solutions which are close to optimal for all of the experiments we have conducted.   
+
+  Cite as    
+ Peerawit Suriya, Vorapong Suppakitpaisarn, Supanut Chaidee, and Phapaengmueng Sukkasem. Submodularity Property for Facility Locations of Dynamic Flow Networks. In 23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023). Open Access Series in Informatics (OASIcs), Volume 115, pp. 10:1-10:13, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{suriya_et_al:OASIcs.ATMOS.2023.10 author = {Suriya, Peerawit and Suppakitpaisarn, Vorapong and Chaidee, Supanut and Sukkasem, Phapaengmueng}, title = {{Submodularity Property for Facility Locations of Dynamic Flow Networks}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {10:1--10:13}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.10}, URN = {urn:nbn:de:0030-drops-187711}, doi = {10.4230/OASIcs.ATMOS.2023.10}, annote = {Keywords: Approximation Algorithms, Dynamic Networks, Facility Location, Submodular Function Optimization} }  @InProceedings{suriya_et_al:OASIcs.ATMOS.2023.10 author = {Suriya, Peerawit and Suppakitpaisarn, Vorapong and Chaidee, Supanut and Sukkasem, Phapaengmueng}, title = {{Submodularity Property for Facility Locations of Dynamic Flow Networks}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {10:1--10:13}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.10}, URN = {urn:nbn:de:0030-drops-187711}, doi = {10.4230/OASIcs.ATMOS.2023.10}, annote = {Keywords: Approximation Algorithms, Dynamic Networks, Facility Location, Submodular Function Optimization} }    
+
+  Document   
+ DOI: 10.4230/OASIcs.ATMOS.2023.11    
+
+ Spillback Changes the Long-Term Behavior of Dynamic Equilibria in Fluid Queuing Networks   
+ Authors:  Theresa Ziemke, Leon Sering, and Kai Nagel  
+  Abstract    
+ We study the long-term behavior of dynamic traffic equilibria and find that it heavily depends on whether spillback is captured in the traffic model or not. We give an example where no steady state is reached. Although the example consists of a single-commodity instance with constant inflow rate, the Nash flow over time consists of infinitely many phases. This is in contrast to what has been proven for Nash flows over time without spillback [Cominetti et al., 2021; N. Olver et al., 2021]. Additionally, we show that similar phase oscillations as in the Nash flow over time with spillback can be observed in the co-evolutionary transport simulation MATSim. This reaffirms the robustness of the findings as the simulation does (in contrast to Nash flows over time) not lead to exact user equilibra and, moreover, models discrete time steps and vehicles.   
+
+  Cite as    
+ Theresa Ziemke, Leon Sering, and Kai Nagel. Spillback Changes the Long-Term Behavior of Dynamic Equilibria in Fluid Queuing Networks. In 23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023). Open Access Series in Informatics (OASIcs), Volume 115, pp. 11:1-11:14, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{ziemke_et_al:OASIcs.ATMOS.2023.11 author = {Ziemke, Theresa and Sering, Leon and Nagel, Kai}, title = {{Spillback Changes the Long-Term Behavior of Dynamic Equilibria in Fluid Queuing Networks}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {11:1--11:14}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.11}, URN = {urn:nbn:de:0030-drops-187722}, doi = {10.4230/OASIcs.ATMOS.2023.11}, annote = {Keywords: flows over time, transport simulation, Nash flow, dynamic equilibrium, long-term behavior, steady state, oscillation, spillback, MATSim} }  @InProceedings{ziemke_et_al:OASIcs.ATMOS.2023.11 author = {Ziemke, Theresa and Sering, Leon and Nagel, Kai}, title = {{Spillback Changes the Long-Term Behavior of Dynamic Equilibria in Fluid Queuing Networks}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {11:1--11:14}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.11}, URN = {urn:nbn:de:0030-drops-187722}, doi = {10.4230/OASIcs.ATMOS.2023.11}, annote = {Keywords: flows over time, transport simulation, Nash flow, dynamic equilibrium, long-term behavior, steady state, oscillation, spillback, MATSim} }    
+
+  Document   
+ DOI: 10.4230/OASIcs.ATMOS.2023.12    
+
+ A Faster Algorithm for Recognizing Directed Graphs Invulnerable to Braess’s Paradox   
+ Authors:  Akira Matsubayashi and Yushi Saito  
+  Abstract    
+ Braess’s paradox is a counterintuitive and undesirable phenomenon, in which for a given graph with prescribed source and sink vertices and cost functions for all edges, removal of edges decreases the cost of a Nash flow from source to sink. The problem of deciding if the phenomenon occurs is generally NP-hard. In this paper, we consider the problem of deciding if, for a given graph with prescribed source and sink vertices, Braess’s paradox does not occur for any cost functions. It is known that this problem can be solved in O(nm²) time for directed graphs, where n and m are the numbers of vertices and edges of the input graph, respectively. In this paper, we propose a faster O(m²) time algorithm solving this problem for directed graphs. Our approach is based on a simple implementation of a known characterization that the subgraph of a given graph induced by all source-sink paths is series-parallel. The faster running time is achieved by speeding up the simple implementation using another characterization that a certain structure is embedded in the given graph. Combined with a known technique, the proposed algorithm can also be used to design a faster O(km²) time algorithm for directed graphs with k source-sink pairs, which improves the previous O(knm²) time algorithm.   
+
+  Cite as    
+ Akira Matsubayashi and Yushi Saito. A Faster Algorithm for Recognizing Directed Graphs Invulnerable to Braess’s Paradox. In 23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023). Open Access Series in Informatics (OASIcs), Volume 115, pp. 12:1-12:19, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{matsubayashi_et_al:OASIcs.ATMOS.2023.12 author = {Matsubayashi, Akira and Saito, Yushi}, title = {{A Faster Algorithm for Recognizing Directed Graphs Invulnerable to Braess’s Paradox}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {12:1--12:19}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.12}, URN = {urn:nbn:de:0030-drops-187738}, doi = {10.4230/OASIcs.ATMOS.2023.12}, annote = {Keywords: Braess’s paradox, series-parallel graph, route-induced graph, Nash flow} }  @InProceedings{matsubayashi_et_al:OASIcs.ATMOS.2023.12 author = {Matsubayashi, Akira and Saito, Yushi}, title = {{A Faster Algorithm for Recognizing Directed Graphs Invulnerable to Braess’s Paradox}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {12:1--12:19}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.12}, URN = {urn:nbn:de:0030-drops-187738}, doi = {10.4230/OASIcs.ATMOS.2023.12}, annote = {Keywords: Braess’s paradox, series-parallel graph, route-induced graph, Nash flow} }    
+
+  Document   
+ DOI: 10.4230/OASIcs.ATMOS.2023.13    
+
+ Assignment Based Resource Constrained Path Generation for Railway Rolling Stock Optimization   
+ Authors:  Boris Grimm, Ralf Borndörfer, and Julian Bushe  
+  Abstract    
+ The fundamental task of every passenger railway operator is to offer an attractive railway timetable to the passengers while operating it as cost efficiently as possible. The available rolling stock has to be assigned to trips so that all trips are operated, operational requirements are satisfied, and the operating costs are minimum. This so-called Rolling Stock Rotation Problem (RSRP) is well studied in the literature. In this paper we consider an acyclic version of the RSRP that includes vehicle maintenance. As the latter is an important aspect, maintenance services have to be planned simultaneously to ensure the rotation’s feasibility in practice. Indeed, regular maintenance is important for the safety and reliability of the rolling stock as well as enforced by law in many countries. We present a new integer programming formulation that links a hyperflow to model vehicle compositions and their coupling decisions to a set of path variables that take care of the resource consumption of the individual vehicles. To solve the model we developed different column generation algorithms which are compared to each other as well as to the MILP flow formulation of [Ralf Borndörfer et al., 2016] on a test set of real world instances.   
+
+  Cite as    
+ Boris Grimm, Ralf Borndörfer, and Julian Bushe. Assignment Based Resource Constrained Path Generation for Railway Rolling Stock Optimization. In 23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023). Open Access Series in Informatics (OASIcs), Volume 115, pp. 13:1-13:15, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{grimm_et_al:OASIcs.ATMOS.2023.13 author = {Grimm, Boris and Bornd\"{o}rfer, Ralf and Bushe, Julian}, title = {{Assignment Based Resource Constrained Path Generation for Railway Rolling Stock Optimization}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {13:1--13:15}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.13}, URN = {urn:nbn:de:0030-drops-187741}, doi = {10.4230/OASIcs.ATMOS.2023.13}, annote = {Keywords: Railway Rolling Stock Optimization, Integer Programming, Column Generation} }  @InProceedings{grimm_et_al:OASIcs.ATMOS.2023.13 author = {Grimm, Boris and Bornd\"{o}rfer, Ralf and Bushe, Julian}, title = {{Assignment Based Resource Constrained Path Generation for Railway Rolling Stock Optimization}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {13:1--13:15}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.13}, URN = {urn:nbn:de:0030-drops-187741}, doi = {10.4230/OASIcs.ATMOS.2023.13}, annote = {Keywords: Railway Rolling Stock Optimization, Integer Programming, Column Generation} }    
+
+  Document   
+ DOI: 10.4230/OASIcs.ATMOS.2023.14    
+
+ Scheduling Electric Buses with Stochastic Driving Times   
+ Authors:  Philip de Bruin, Marjan van den Akker, Han Hoogeveen, and Marcel van Kooten Niekerk  
+  Abstract    
+ To try to make the world more sustainable and reduce air pollution, diesel buses are being replaced with electric buses. This leads to challenges in scheduling, as electric buses need recharging during the day. Moreover, buses encounter varying traffic conditions and passenger demands, leading to delays. Scheduling electric buses with these stochastic driving times is also called the Stochastic Vehicle Scheduling Problem. The classical approach to make a schedule more robust against these delays, is to add slack to the driving time. However, this approach doesn't capture the variance of a distribution well, and it doesn't account for dependencies between trips. We use discrete event simulation in order to evaluate the robustness of a schedule. Then, to create a schedule, we use a hybrid approach, where we combine integer linear programming and simulated annealing with the use of these simulations. We show that with the use of our hybrid algorithm, the punctuality of the buses increase, and they also have a more timely arrival. However, we also see a slight increase in operating cost, as we need slightly more buses compared to when we use deterministic driving times.   
+
+  Cite as    
+ Philip de Bruin, Marjan van den Akker, Han Hoogeveen, and Marcel van Kooten Niekerk. Scheduling Electric Buses with Stochastic Driving Times. In 23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023). Open Access Series in Informatics (OASIcs), Volume 115, pp. 14:1-14:19, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{debruin_et_al:OASIcs.ATMOS.2023.14 author = {de Bruin, Philip and van den Akker, Marjan and Hoogeveen, Han and van Kooten Niekerk, Marcel}, title = {{Scheduling Electric Buses with Stochastic Driving Times}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {14:1--14:19}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.14}, URN = {urn:nbn:de:0030-drops-187753}, doi = {10.4230/OASIcs.ATMOS.2023.14}, annote = {Keywords: Electric Vehicle Scheduling Problem, Simulated Annealing, Hybrid Algorithm, Simulation, Stochastic Driving Times} }  @InProceedings{debruin_et_al:OASIcs.ATMOS.2023.14 author = {de Bruin, Philip and van den Akker, Marjan and Hoogeveen, Han and van Kooten Niekerk, Marcel}, title = {{Scheduling Electric Buses with Stochastic Driving Times}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {14:1--14:19}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.14}, URN = {urn:nbn:de:0030-drops-187753}, doi = {10.4230/OASIcs.ATMOS.2023.14}, annote = {Keywords: Electric Vehicle Scheduling Problem, Simulated Annealing, Hybrid Algorithm, Simulation, Stochastic Driving Times} }    
+
+  Document   
+ Short Paper   
+ DOI: 10.4230/OASIcs.ATMOS.2023.15    
+
+ Non-Linear Charge Functions for Electric Vehicle Scheduling with Dynamic Recharge Rates (Short Paper)   
+ Authors:  Fabian Löbel, Ralf Borndörfer, and Steffen Weider  
+  Abstract    
+ The ongoing electrification of logistics systems and vehicle fleets increases the complexity of associated vehicle routing or scheduling problems. Battery-powered vehicles have to be scheduled to recharge in-service, and the relationship between charging time and replenished driving range is non-linear. In order to access the powerful toolkit offered by mixed-integer and linear programming techniques, this battery behavior has to be linearized. Moreover, as electric fleets grow, power draw peaks have to be avoided to save on electricity costs or to adhere to hard grid capacity limits, such that it becomes desirable to keep recharge rates dynamic. We suggest a novel linearization approach of battery charging behavior for vehicle scheduling problems, in which the recharge rates are optimization variables and not model parameters.   
+
+  Cite as    
+ Fabian Löbel, Ralf Borndörfer, and Steffen Weider. Non-Linear Charge Functions for Electric Vehicle Scheduling with Dynamic Recharge Rates (Short Paper). In 23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023). Open Access Series in Informatics (OASIcs), Volume 115, pp. 15:1-15:6, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{lobel_et_al:OASIcs.ATMOS.2023.15 author = {L\"{o}bel, Fabian and Bornd\"{o}rfer, Ralf and Weider, Steffen}, title = {{Non-Linear Charge Functions for Electric Vehicle Scheduling with Dynamic Recharge Rates}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {15:1--15:6}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.15}, URN = {urn:nbn:de:0030-drops-187765}, doi = {10.4230/OASIcs.ATMOS.2023.15}, annote = {Keywords: Electric Vehicle Scheduling, Battery Powered Vehicles, Charging Process, Non-linear Charging, Recharge Modeling, Dynamic Recharge Rate} }  @InProceedings{lobel_et_al:OASIcs.ATMOS.2023.15 author = {L\"{o}bel, Fabian and Bornd\"{o}rfer, Ralf and Weider, Steffen}, title = {{Non-Linear Charge Functions for Electric Vehicle Scheduling with Dynamic Recharge Rates}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {15:1--15:6}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.15}, URN = {urn:nbn:de:0030-drops-187765}, doi = {10.4230/OASIcs.ATMOS.2023.15}, annote = {Keywords: Electric Vehicle Scheduling, Battery Powered Vehicles, Charging Process, Non-linear Charging, Recharge Modeling, Dynamic Recharge Rate} }    
+
+  Document   
+ DOI: 10.4230/OASIcs.ATMOS.2023.16    
+
+ Subproblem Separation in Logic-Based Benders' Decomposition for the Vehicle Routing Problem with Local Congestion   
+ Authors:  Aigerim Saken and Stephen J. Maher  
+  Abstract    
+ Subproblem separation is a common strategy for the acceleration of the logic-based Benders' decomposition (LBBD). However, it has only been applied to problems with an inherently separable subproblem structure. This paper proposes a new method to separate the subproblem using the connected components algorithm. The subproblem separation is applied to the vehicle routing problem with local congestion (VRPLC). Accordingly, new Benders' cuts are derived for the new subproblem formulation. The computational experiments evaluate the effectiveness of subproblem separation for different methods applying new cuts. It is shown that subproblem separation significantly benefits the LBBD scheme.   
+
+  Cite as    
+ Aigerim Saken and Stephen J. Maher. Subproblem Separation in Logic-Based Benders' Decomposition for the Vehicle Routing Problem with Local Congestion. In 23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023). Open Access Series in Informatics (OASIcs), Volume 115, pp. 16:1-16:12, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{saken_et_al:OASIcs.ATMOS.2023.16 author = {Saken, Aigerim and Maher, Stephen J.}, title = {{Subproblem Separation in Logic-Based Benders' Decomposition for the Vehicle Routing Problem with Local Congestion}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {16:1--16:12}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.16}, URN = {urn:nbn:de:0030-drops-187771}, doi = {10.4230/OASIcs.ATMOS.2023.16}, annote = {Keywords: logic-based Benders' decomposition, vehicle routing, subproblem separation, connected components} }  @InProceedings{saken_et_al:OASIcs.ATMOS.2023.16 author = {Saken, Aigerim and Maher, Stephen J.}, title = {{Subproblem Separation in Logic-Based Benders' Decomposition for the Vehicle Routing Problem with Local Congestion}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {16:1--16:12}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.16}, URN = {urn:nbn:de:0030-drops-187771}, doi = {10.4230/OASIcs.ATMOS.2023.16}, annote = {Keywords: logic-based Benders' decomposition, vehicle routing, subproblem separation, connected components} }    
+
+  Document   
+ Short Paper   
+ DOI: 10.4230/OASIcs.ATMOS.2023.17    
+
+ Optimizing Fairness over Time with Homogeneous Workers (Short Paper)   
+ Authors:  Bart van Rossum, Rui Chen, and Andrea Lodi  
+  Abstract    
+ There is growing interest in including fairness in optimization models. In particular, the concept of fairness over time, or, long-term fairness, is gaining attention. In this paper, we focus on fairness over time in online optimization problems involving the assignment of work to multiple homogeneous workers. This encompasses many real-life problems, including variants of the vehicle routing problem and the crew scheduling problem. The online assignment problem with fairness over time is formally defined. We propose a simple and interpretable assignment policy with some desirable properties. In addition, we perform a case study on the capacitated vehicle routing problem. Empirically, we show that the most cost-efficient solution usually results in unfair assignments while much more fair solutions can be attained with minor efficiency loss using our policy.   
+
+  Cite as    
+ Bart van Rossum, Rui Chen, and Andrea Lodi. Optimizing Fairness over Time with Homogeneous Workers (Short Paper). In 23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023). Open Access Series in Informatics (OASIcs), Volume 115, pp. 17:1-17:6, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{vanrossum_et_al:OASIcs.ATMOS.2023.17 author = {van Rossum, Bart and Chen, Rui and Lodi, Andrea}, title = {{Optimizing Fairness over Time with Homogeneous Workers}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {17:1--17:6}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.17}, URN = {urn:nbn:de:0030-drops-187784}, doi = {10.4230/OASIcs.ATMOS.2023.17}, annote = {Keywords: Fairness, Online Optimization, Combinatorial Optimization, Vehicle Routing} }  @InProceedings{vanrossum_et_al:OASIcs.ATMOS.2023.17 author = {van Rossum, Bart and Chen, Rui and Lodi, Andrea}, title = {{Optimizing Fairness over Time with Homogeneous Workers}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {17:1--17:6}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.17}, URN = {urn:nbn:de:0030-drops-187784}, doi = {10.4230/OASIcs.ATMOS.2023.17}, annote = {Keywords: Fairness, Online Optimization, Combinatorial Optimization, Vehicle Routing} }    
+
+  Document   
+ Short Paper   
+ DOI: 10.4230/OASIcs.ATMOS.2023.18    
+
+ Simple Policies for Capacitated Resupply Problems (Short Paper)   
+ Authors:  Mette Wagenvoort, Martijn van Ee, Paul Bouman, and Kerry M. Malone  
+  Abstract    
+ We consider the Capacitated Resupply Problem in which locations with a given demand rate should be resupplied by vehicles such that they do not run out of stock and the number of vehicles is minimised. Compared to related problems, we consider the scenario where the payload of the vehicles may not suffice to bring the stock level back to full capacity. We focus on the Homogeneous Capacitated Resupply Problem and present both simple policies that provide 2-approximations and an optimal greedy policy that runs in pseudo-polynomial time.   
+
+  Cite as    
+ Mette Wagenvoort, Martijn van Ee, Paul Bouman, and Kerry M. Malone. Simple Policies for Capacitated Resupply Problems (Short Paper). In 23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023). Open Access Series in Informatics (OASIcs), Volume 115, pp. 18:1-18:6, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2023)  
+   Copy BibTex To Clipboard    
+   
+  @InProceedings{wagenvoort_et_al:OASIcs.ATMOS.2023.18 author = {Wagenvoort, Mette and van Ee, Martijn and Bouman, Paul and Malone, Kerry M.}, title = {{Simple Policies for Capacitated Resupply Problems}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {18:1--18:6}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.18}, URN = {urn:nbn:de:0030-drops-187799}, doi = {10.4230/OASIcs.ATMOS.2023.18}, annote = {Keywords: resupply problems, periodic schedules, approximation guarantee, greedy policy} }  @InProceedings{wagenvoort_et_al:OASIcs.ATMOS.2023.18 author = {Wagenvoort, Mette and van Ee, Martijn and Bouman, Paul and Malone, Kerry M.}, title = {{Simple Policies for Capacitated Resupply Problems}}, booktitle = {23rd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS 2023)}, pages = {18:1--18:6}, series = {Open Access Series in Informatics (OASIcs)}, ISBN = {978-3-95977-302-7}, ISSN = {2190-6807}, year = {2023}, volume = {115}, editor = {Frigioni, Daniele and Schiewe, Philine}, publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik}, address = {Dagstuhl, Germany}, URL = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ATMOS.2023.18}, URN = {urn:nbn:de:0030-drops-187799}, doi = {10.4230/OASIcs.ATMOS.2023.18}, annote = {Keywords: resupply problems, periodic schedules, approximation guarantee, greedy policy} }    
+
+ Filters  
+
+ Authors 
+   Show All  Collapse 
+  Show All 
+  B 
+  Borndörfer, Ralf 
+  Bortoletto, Enrico 
+  Bouman, Paul 
+  Bushe, Julian 
+  C 
+  Chaidee, Supanut 
+  Chen, Rui 
+  Correia Duarte, Pedro José 
+  D 
+  Danecker, Fabian 
+  de Bruin, Philip 
+  E 
+  Engels, Stefan 
+  F 
+  Frigioni, Daniele 
+  G 
+  Grafe, Vera 
+  Grimm, Boris 
+  H 
+  Heinrich, Irene 
+  Herrala, Olli 
+  Hoogeveen, Han 
+  Huisman, Dennis 
+  K 
+  Köhler, Ekkehard 
+  L 
+  Liebchen, Christian 
+  Lindner, Niels 
+  Löbel, Fabian 
+  Lodi, Andrea 
+  M 
+  Maher, Stephen J. 
+  Malone, Kerry M. 
+  Masing, Berenike 
+  Matsubayashi, Akira 
+  N 
+  Nagel, Kai 
+  P 
+  Peham, Tom 
+  R 
+  Rogge, Markus 
+  S 
+  Saito, Yushi 
+  Saken, Aigerim 
+  Scheffler, Robert 
+  Schiewe, Philine 
+  Schmidt, Marie 
+  Schöbel, Anita 
+  Seebach, Constantin 
+  Sering, Leon 
+  Strehler, Martin 
+  Sukkasem, Phapaengmueng 
+  Suppakitpaisarn, Vorapong 
+  Suriya, Peerawit 
+  T 
+  Terho, Topias 
+  V 
+  van den Akker, Marjan 
+  van Ee, Martijn 
+  van Kooten Niekerk, Marcel 
+  van Rossum, Bart 
+  Veelenturf, Lucas P. 
+  W 
+  Wagenvoort, Mette 
+  Weider, Steffen 
+  Weiser, Martin 
+  Wille, Robert 
+  Z 
+  Ziemke, Theresa 
+
+  Subjects 
+   Show All  Collapse 
+  Show All 
+  Applied computing 
+  Applied computing → Transportation 
+  Computing methodologies 
+  Computing methodologies → Agent / discrete models 
+  Computing methodologies → Discrete-event simulation 
+  Computing methodologies → Modeling and simulation 
+  Computing methodologies → Planning and scheduling 
+  Computing methodologies → Planning under uncertainty 
+  Mathematics of computing 
+  Mathematics of computing → Combinatorial optimization 
+  Mathematics of computing → Combinatorics 
+  Mathematics of computing → Continuous functions 
+  Mathematics of computing → Continuous optimization 
+  Mathematics of computing → Discrete mathematics 
+  Mathematics of computing → Discrete optimization 
+  Mathematics of computing → Discretization 
+  Mathematics of computing → Graph algorithms 
+  Mathematics of computing → Graph theory 
+  Mathematics of computing → Integer programming 
+  Mathematics of computing → Linear programming 
+  Mathematics of computing → Mathematical optimization 
+  Mathematics of computing → Network flows 
+  Mathematics of computing → Network optimization 
+  Mathematics of computing → Nonconvex optimization 
+  Mathematics of computing → Ordinary differential equations 
+  Mathematics of computing → Paths and connectivity problems 
+  Mathematics of computing → Permutations and combinations 
+  Theory of computation 
+  Theory of computation → Design and analysis of algorithms 
+  Theory of computation → Discrete optimization 
+  Theory of computation → Dynamic graph algorithms 
+  Theory of computation → Fixed parameter tractability 
+  Theory of computation → Graph algorithms analysis 
+  Theory of computation → Mathematical optimization 
+  Theory of computation → Network flows 
+  Theory of computation → Problems, reductions and completeness 
+  Theory of computation → Routing and network design problems 
+
+  Questions / Remarks / Feedback   X  Feedback for Dagstuhl Publishing  
+     
+  Send    
+   
+  Thanks for your feedback!  
+ Feedback submitted   
+ OK    
+  Could not send message  
+ Please try again later or send an E-mail    
+ OK    
+   About DROPS  
+ Schloss Dagstuhl - Leibniz Center for Informatics has been operating the Dagstuhl Research Online Publication Server (short: DROPS) since 2004. DROPS enables publication of the latest research findings in a fast, uncomplicated manner, in addition to providing unimpeded, open access to them. All the requisite metadata on each publication is administered in accordance with general guidelines pertaining to online publications (cf. Dublin Core). This enables the online publications to be authorized for citation and made accessible to a wide readership on a permanent basis. Access is free of charge for readers following the open access idea which fosters unimpeded access to scientific publications.  
+   
+ Instructions for Authors  
+ Dagstuhl Series   
+  LIPIcs 
+  OASIcs 
+  Dagstuhl Follow-Ups 
+    
+ Dagstuhl Journals   
+  DARTS – Dagstuhl Artifacts Series 
+  Dagstuhl Reports 
+  Dagstuhl Manifestos 
+  LITES 
+  TGDK – Transactions on Graph Data and Knowledge 
+
+ Instructions for Editors  
+ Dagstuhl Series   
+  LIPIcs 
+  OASIcs 
+  Dagstuhl Follow-Ups 
+    
+ Dagstuhl Journals   
+  DARTS – Dagstuhl Artifacts Series 
+  Dagstuhl Reports 
+  Dagstuhl Manifestos 
+  LITES 
+  TGDK – Transactions on Graph Data and Knowledge 
+
+ © 2023-2024 Schloss Dagstuhl – LZI GmbH  Imprint  Privacy  Contact

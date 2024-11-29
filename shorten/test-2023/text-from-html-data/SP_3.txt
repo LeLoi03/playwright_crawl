@@ -1,0 +1,84 @@
+  Technical Committee 
+ MAY 22-25, 2023 AT THE HYATT REGENCY SAN FRANCISCO, CA & ONLINE  
+  Security and Privacy  
+ Systematization of Knowledge Papers  
+ Submission Deadlines & Decisions  
+ Based on the experience in the past three years, the reviewing process for IEEE S&P is changed to three submission deadlines. For each submission, one of the following decisions will be made:  
+ Accept  : Papers in this category will be accepted for publication in the proceedings and presentation at the conference. Within one month of acceptance, all accepted papers must submit a camera-ready copy incorporating reviewer feedback. The papers will immediately be published, open access, in the Computer Society’s Digital Library, and they may be cited as “To appear in the IEEE Symposium on Security & Privacy, May 2023”. 
+  Conditional accept  : These papers should be accepted, but with shepherding to check that some minor revisions requested by reviewers are made. Minor revisions typically are editorial changes that are relatively straightforward for authors to execute in the time between decisions and the camera-ready deadline. Minor revisions generally should not require new experiments or analyses that have a reasonable likelihood of failure. 
+  Major Revision  : A limited number of papers will be invited to submit a major revision; such papers will receive a specific set of expectations to be met by that revision. Authors can submit a revised paper to the next two submission deadlines after the notification. The authors should clearly explain in a well-marked appendix how the revisions address the comments of the reviewers. The revised paper will then be re-evaluated, and either accepted or rejected. We will try to assign the same set of reviewers. 
+  All papers accepted by March 10, 2023 will appear in the proceedings of the symposium in May 2023 and invited to present their work. These include for example papers that were submitted in December 2022 and were accepted without revision, or papers that were submitted in April 2022, got the Major Revision decision, and resubmitted the revised paper in August or December.  
+ Important Dates  
+ First deadline  
+ Paper submission deadline: April 1, 2022 
+  Early-reject notification: May 9, 2022 
+  Rebuttal period: June 7 - June 21, 2022 
+  Acceptance notification: June 24, 2022 
+  Camera-ready deadline: August 13, 2022 
+  Second deadline  
+ Paper submission deadline: August 19, 2022 
+  Early-reject notification: September 26, 2022 
+  Rebuttal period: October 24 - November 7, 2022 
+  Acceptance notification: November 9, 2022 
+  Camera-ready deadline: December 10, 2022 
+  Third deadline  
+ Paper submission deadline: December 2, 2022 
+  Early-reject notification: January 23, 2023 
+  Rebuttal period: February 21 - March 7, 2023 
+  Acceptance notification: March 10, 2023 
+  Camera-ready deadline: April 7, 2023 
+  Rebuttal Period  
+ We will introduce a rebuttal period during which authors have the opportunity to exchange messages with the reviewers and respond to questions asked. To this end, we will use HotCRP’s anonymous communication feature to enable a communication channel between authors and reviewers. The authors should mainly focus on factual errors in the reviews and concrete questions posed by the reviewers. New research results can also be discussed if they help to clarify open questions. More instructions will be sent out to the authors at the beginning of the rebuttal period.  
+ Major Revision Submissions & Rejected Papers  
+ As described above, some number of papers will receive a Major Revision decision, rather than Accept, Conditional Accept, or Reject. This decision will be accompanied by a detailed summary of the expectations for the revision, in addition to the standard reviewer comments. The authors may prepare a major revision, which may include running additional experiments, improving the paper’s presentation, or other such improvements. Papers meeting the expectations will typically be accepted. Those that do not will be rejected. Only in exceptional circumstances will additional revisions be requested. Authors can submit a revised paper to the next two submission deadlines after the notification. Upon receiving a Major Revision decision, authors can choose to withdraw their paper or not submit a revision, but they will be asked to not submit the same or similar work again (following the same rules as for Rejected papers) for 1 year from the date of the original submission. The table below summarizes the eligible 2022 deadlines for papers that received a revise decision or reject decision for a paper submitted to IEEE S&P’22 for each of the three 2022 cycles.  
+ 2022 deadlines | Revise decision  
+  Eligible 2023 deadlines | Reject decision  
+  Eligible 2023 deadlines 
+  (April 1,2022) | Second deadline  
+  (Aug 19, 2022)  
+  Third deadline  
+  (Dec 2, 2022) 
+  (April 1, 2022)  
+  Second deadline  
+  (August 19, 2022) | Third deadline  
+  (Dec 2, 2022) 
+  Instructions for Paper Submission  
+ These instructions apply to both the research papers and systematization of knowledge (SoK) papers. All submissions must be original work; the submitter must clearly document any overlap with previously published or simultaneously submitted papers from any of the authors. Failure to point out and explain overlap will be grounds for rejection. Simultaneous submission of the same paper to another venue with proceedings or a journal is not allowed and will be grounds for automatic rejection. Contact the program committee chairs if there are questions about this policy.  
+ Anonymous Submission  
+ Papers must be submitted in a form suitable for anonymous review: no author names or affiliations may appear on the title page, and papers should avoid revealing authors’ identity in the text. When referring to their previous work, authors are required to cite their papers in the third person, without identifying themselves. In the unusual case in which a third-person reference is infeasible, authors can blind the reference itself. Papers that are not properly anonymized may be rejected without review. PC members who have a genuine conflict of interest with a paper, including the PC Co-Chairs and the Associate Chairs, will be excluded from evaluation and discussion of that paper.  
+ While a paper is under submission to the IEEE Security & Privacy Symposium, authors may choose to give talks about their work, post a preprint of the paper to an archival repository such as arXiv, and disclose security vulnerabilities to vendors. Authors should refrain from widely advertising their results, but in special circumstances they should contact the PC chairs to discuss exceptions. Authors are not allowed to directly contact PC members to discuss their submission.  
+ The submissions will be treated confidentially by the PC chairs and the program committee members. Program committee members are not allowed to share the submitted papers with anyone, with the exception of qualified external reviewers approved by the program committee chairs. Please contact the PC chairs if you have any questions or concerns.  
+ Conflicts of Interest  
+ During submission of a research paper, the submission site will request information about conflicts of interest of the paper's authors with program committee (PC) members. It is the full responsibility of all authors of a paper to identify all and only their potential conflict-of-interest PC members, according to the following definition. A paper author has a conflict of interest with a PC member when and only when one or more of the following conditions holds:  
+ The PC member is a co-author of the paper. 
+  The PC member has been a co-worker in the same company or university within the past two years. | For student interns, the student is conflicted with their supervisors and with members of the same research group. If the student no longer works for the organization, then they are not conflicted with a PC member from the larger organization. 
+  The PC member has been a collaborator within the past two years. 
+  The PC member is or was the author's primary thesis advisor, no matter how long ago. 
+  The author is or was the PC member's primary thesis advisor, no matter how long ago. 
+  The PC member is a relative or close personal friend of the author. 
+  For any other situation where the authors feel they have a conflict with a PC member, they must explain the nature of the conflict to the PC chairs, who will mark the conflict if appropriate. The program chairs will review declared conflicts. Papers with incorrect or incomplete conflict of interest information as of the submission closing time are subject to immediate rejection.  
+ Research Ethics Committee  
+ New to Oakland 2023 is a research ethics committee (REC) that will check papers flagged by reviewers as potentially including ethically fraught research. The REC will review flagged papers and may suggest to the PC Chairs rejection of a paper on ethical grounds. The REC consists of members of the PC. Authors are encouraged to review the Menlo Report  for general ethical guidelines for computer and information security research.  
+ Ethical Considerations for Vulnerability Disclosure  
+ Longer disclosure windows (which may keep vulnerabilities from the public for extended periods of time) should only be considered in exceptional situations, e.g., if the affected parties have provided convincing evidence the vulnerabilities were previously unknown and the full rollout of mitigations requires additional time. The authors are encouraged to consult with the PC chairs in case of questions or concerns.  
+ The version of the paper submitted for review must discuss in detail the steps the authors have taken or plan to take to address these vulnerabilities; but, consistent with the timelines above, the authors do not have to disclose vulnerabilities ahead of submission. If a paper raises significant ethical and/or legal concerns, it will be checked by the REC and it might be rejected based on these concerns. The PC chairs will be happy to consult with authors about how this policy applies to their submissions.  
+ Ethical Considerations for Human Subjects Research  
+ Submissions that describe experiments that could be viewed as involving human subjects, that analyze data derived from human subjects (even anonymized data), or that otherwise may put humans at risk should:  
+ Disclose whether the research received an approval or waiver from each of the authors' institutional ethics review boards (IRB) if applicable. 
+  Discuss steps taken to ensure that participants and others who might have been affected by an experiment were treated ethically and with respect. 
+  If a submission deals with any kind of personal identifiable information (PII) or other kinds of sensitive data, the version of the paper submitted for review must discuss in detail the steps the authors have taken to mitigate harms to the persons identified. If a paper raises significant ethical and/or legal concerns, it will be checked by the REC and it might be rejected based on these concerns. The PC chairs will be happy to consult with authors about how this policy applies to their submissions.  
+ Financial and Non-financial competing interests  
+ In the interests of transparency and to help readers form their own judgements of potential bias, the IEEE Symposium on Security & Privacy requires authors and PC members to declare any competing financial and/or non-financial interests in relation to the work described. Authors need to include a disclosure of relevant financial interests in the camera-ready versions of their papers. This includes not just the standard funding lines, but should also include disclosures of any financial interest related to the research described. For example, "Author X is on the Technical Advisory Board of the ByteCoin Foundation,"  or "Professor Y is the CTO of DoubleDefense, which specializes in malware analysis."  More information regarding this policy is available here  .  
+ Reviews from Prior Submissions  
+ For papers that were previously submitted to, and rejected from, another conference, authors are required to submit a separate document containing the prior reviews along with a description of how those reviews were addressed in the current version of the paper. Authors are only required to include reviews from the last time the paper was submitted. Reviewers will only see the provided supplementary material after finishing their own review to avoid being biased in formulating their own opinions; once their reviews are complete, however, reviewers will be given the opportunity to provide additional comments based on the submission history of the paper. Authors who try to circumvent this rule (e.g., by changing the title of the paper without significantly changing the contents) may have their papers rejected without further consideration, at the discretion of the PC chairs.  
+ Page Limit and Formatting  
+ Submitted papers may include up to 13 pages of text and up to 5 pages for references and appendices, totaling no more than 18 pages. The same applies to camera-ready papers, although, at the PC chairs’ discretion, additional pages may be allowed for references and appendices. Reviewers are not required to read appendices.  
+ Papers must be formatted for US letter (not A4) size paper. The text must be formatted in a two-column layout, with columns no more than 9.5 in. tall and 3.5 in. wide. The text must be in Times font, 10-point or larger, with 11-point or larger line spacing.  
+ Authors may use the IEEE conference proceedings templates. LaTeX submissions using the IEEE templates should use IEEEtran.cls version 1.8b with options “conference,compsoc.” (That is, begin your LaTeX document with the line \documentclass[conference,compsoc]{IEEEtran}.)  
+ Whether or not a submission uses the IEEE templates, the authors alone are responsible for ensuring that their paper complies with the formatting guidelines above (column size, margins, font size, line spacing etc.). All submissions will be automatically checked for conformance to these requirements. Failure to adhere to the page limit and formatting requirements are grounds for rejection without review.  
+ Conference Submission Server  
+ Submissions must be in Portable Document Format (.pdf). Authors should pay special attention to unusual fonts, images, and figures that might create problems for reviewers.  
+  Publication and Presentation  
+ Authors are responsible for obtaining appropriate publication clearances. One of the authors of the accepted paper is expected to present the paper at the conference.  
+ Program Committee  
+  PC Chairs  

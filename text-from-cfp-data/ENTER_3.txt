@@ -1,0 +1,1368 @@
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" charset="UTF-8" data-document-language="true" data-domain-script="b8f578b7-0b59-46c6-bbc7-94854d5b56f1"></script>
+
+<section data-style="a18 a17 o9" data-script="o1 m18" class="o-main-header" data-main-header="true">
+        
+
+     <section data-style="a17 a18 " class="a-layout-row a-layout-row__no-margin-top">
+        
+        
+             <div class="a-layout-content-block a-layout-content--with-advertisement">
+            <div class="o-main-header__container">
+                
+                    <div class="o-main-header__dropdown-menu o-main-header__dropdown-menu__main-menu-wrapper">
+                        <button type="button" aria-expanded="false" aria-controls="id_menu" class="o-main-header__dropdown-menu__button o-main-header__main-menu-button">
+                            
+<svg data-style="a29" class="a-icon " role="img" viewBox="0 0 24 24" aria-hidden="true">
+    
+    <path d="M5.252 7.078a.478.478 0 0 0-.174.67c.166.272-.374.252 6.93.252 6.487 0 6.614-.002 6.74-.078a.485.485 0 0 0 0-.844C18.622 7.002 18.495 7 12 7s-6.622.002-6.748.078m0 4a.478.478 0 0 0-.174.67c.166.272-.374.252 6.93.252 6.487 0 6.614-.002 6.74-.078a.485.485 0 0 0 0-.844C18.622 11.002 18.495 11 12 11s-6.622.002-6.748.078m0 4a.478.478 0 0 0-.174.67c.166.272-.374.252 6.93.252 6.487 0 6.614-.002 6.74-.078a.485.485 0 0 0 0-.844C18.622 15.002 18.495 15 12 15s-6.622.002-6.748.078"></path>
+</svg>
+                            <span class="o-main-header__menu-name">Menu</span>
+                        </button>
+                        <div id="id_menu" class="o-main-header-menu__dropdown-content o-main-header__dropdown-menu__main-content o-main-header__main-menu">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="m-main-header-menu__wrapper">
+    <div data-style="m15" class="m-main-header-menu" data-main-header-menu="true">
+        <div class="m-main-header-menu__col-1">
+            
+<div data-style="m16" class="m-menu-category ">
+    
+        <span class="m-menu-category__name">
+            
+                
+                    Disciplines
+                
+            
+            
+                <button class="m-menu-category__toggle">
+                    <span class="m-menu-category__toggle-icons">
+                        <span class="m-menu-category-down">
+                            
+<svg data-style="a29" role="img" viewBox="0 0 24 24" class="a-icon  ">
+    <title>Chevron down icon</title>
+        <path d="M12 13.5858L15.2929 10.2929C15.6834 9.90237 16.3166 9.90237 16.7071 10.2929C17.0976 10.6834 17.0976 11.3166 16.7071 11.7071L12.7071 15.7071C12.3166 16.0976 11.6834 16.0976 11.2929 15.7071L7.29289 11.7071C6.90237 11.3166 6.90237 10.6834 7.29289 10.2929C7.68342 9.90237 8.31658 9.90237 8.70711 10.2929L12 13.5858Z"></path>
+</svg>
+                        </span>
+                        <span class="m-menu-category-up">
+                            
+<svg data-style="a29" class="a-icon  " role="img" viewBox="0 0 24 24">
+    <title>Chevron up icon</title>
+        <path d="M12 10.4142L15.2929 13.7071C15.6834 14.0976 16.3166 14.0976 16.7071 13.7071C17.0976 13.3166 17.0976 12.6834 16.7071 12.2929L12.7071 8.29289C12.3166 7.90237 11.6834 7.90237 11.2929 8.29289L7.29289 12.2929C6.90237 12.6834 6.90237 13.3166 7.29289 13.7071C7.68342 14.0976 8.31658 14.0976 8.70711 13.7071L12 10.4142Z"></path>
+</svg>
+                        </span>
+                    </span>
+                </button>
+            
+        </span>
+    
+    <div class="m-menu-category__toggle-content">
+        
+            
+                
+                    
+
+
+
+    <a href="/en/automotive/10895872" data-style="a37" class="a-navigation-link a-navigation-link--category m-menu-category__toggle-content--link">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Automotive</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+        
+            
+                
+                    
+
+
+
+    <a href="/en/business-it-informatics/23797454" data-style="a37" class="a-navigation-link a-navigation-link--category m-menu-category__toggle-content--link">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Business IT + Informatics</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+        
+            
+                
+                    
+
+
+
+    <a href="/en/construction-real-estate/23797768" data-style="a37" class="a-navigation-link a-navigation-link--category m-menu-category__toggle-content--link">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Construction + Real Estate</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+        
+            
+                
+                    
+
+
+
+    <a href="/en/electrical-engineering-electronics/23797336" data-style="a37" class="a-navigation-link a-navigation-link--category m-menu-category__toggle-content--link">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Electrical Engineering + Electronics</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+        
+            
+                
+                    
+
+
+
+    <a href="/en/energy--sustainability/23798160" data-style="a37" class="a-navigation-link a-navigation-link--category m-menu-category__toggle-content--link">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Energy + Sustainability</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+        
+            
+                
+                    
+
+
+
+    <a href="/en/insurance--risk/23798170" data-style="a37" class="a-navigation-link a-navigation-link--category m-menu-category__toggle-content--link">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Insurance + Risk</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+        
+            
+                
+                    
+
+
+
+    <a href="/en/finance-banking/23789512" data-style="a37" class="a-navigation-link a-navigation-link--category m-menu-category__toggle-content--link">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Finance + Banking</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+        
+            
+                
+                    
+
+
+
+    <a href="/en/management-leadership/23406646" data-style="a37" class="a-navigation-link a-navigation-link--category m-menu-category__toggle-content--link">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Management + Leadership</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+        
+            
+                
+                    
+
+
+
+    <a href="/en/marketing-sales/23797752" data-style="a37" class="a-navigation-link a-navigation-link--category m-menu-category__toggle-content--link">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Marketing + Sales</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+        
+            
+                
+                    
+
+
+
+    <a href="/en/mechanical-engineering-materials/23793486" data-style="a37" class="a-navigation-link a-navigation-link--category m-menu-category__toggle-content--link">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Mechanical Engineering + Materials</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+        
+    </div>
+</div>
+
+
+<div data-style="m16" class="m-menu-category ">
+    
+        <span class="m-menu-category__name">
+            
+                
+                    
+
+
+
+    <a href="/en/events/10820428" data-style="a37" class="a-navigation-link a-navigation-link--category-head">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Events</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+            
+        </span>
+    
+    <div class="m-menu-category__toggle-content">
+        
+    </div>
+</div>
+
+
+            
+
+    
+        <div class="m-main-header-menu__language-switch">
+            
+                
+
+
+
+    <a href="/information-and-communication-technologies-in-tourism-2023/23923080" data-style="a37" class="a-navigation-link a-navigation-link--language">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">DE</span>
+        
+    </span>
+
+    </a>
+
+
+            
+                
+
+
+
+    <div data-style="a37" class="a-navigation-link a-navigation-link--language">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text selected">EN</span>
+        
+    </span>
+
+    </div>
+
+
+            
+        </div>
+    
+
+        </div>
+        <div class="m-main-header-menu__col-2">
+            
+<div data-style="m16" class="m-menu-category ">
+    
+        <span class="m-menu-category__name">
+            
+                
+                    
+
+
+
+    <a href="/en/books/10653746" data-style="a37" class="a-navigation-link a-navigation-link--category-head">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Books</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+            
+        </span>
+    
+    <div class="m-menu-category__toggle-content">
+        
+    </div>
+</div>
+
+
+<div data-style="m16" class="m-menu-category ">
+    
+        <span class="m-menu-category__name">
+            
+                
+                    
+
+
+
+    <a href="/en/journals/10699760" data-style="a37" class="a-navigation-link a-navigation-link--category-head">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Journals</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+            
+        </span>
+    
+    <div class="m-menu-category__toggle-content">
+        
+    </div>
+</div>
+
+
+<div data-style="m16" class="m-menu-category ">
+    
+        <span class="m-menu-category__name">
+            
+                
+                    Topic Page
+                
+            
+            
+                <button class="m-menu-category__toggle">
+                    <span class="m-menu-category__toggle-icons">
+                        <span class="m-menu-category-down">
+                            
+<svg data-style="a29" role="img" viewBox="0 0 24 24" class="a-icon  ">
+    <title>Chevron down icon</title>
+        <path d="M12 13.5858L15.2929 10.2929C15.6834 9.90237 16.3166 9.90237 16.7071 10.2929C17.0976 10.6834 17.0976 11.3166 16.7071 11.7071L12.7071 15.7071C12.3166 16.0976 11.6834 16.0976 11.2929 15.7071L7.29289 11.7071C6.90237 11.3166 6.90237 10.6834 7.29289 10.2929C7.68342 9.90237 8.31658 9.90237 8.70711 10.2929L12 13.5858Z"></path>
+</svg>
+                        </span>
+                        <span class="m-menu-category-up">
+                            
+<svg data-style="a29" class="a-icon  " role="img" viewBox="0 0 24 24">
+    <title>Chevron up icon</title>
+        <path d="M12 10.4142L15.2929 13.7071C15.6834 14.0976 16.3166 14.0976 16.7071 13.7071C17.0976 13.3166 17.0976 12.6834 16.7071 12.2929L12.7071 8.29289C12.3166 7.90237 11.6834 7.90237 11.2929 8.29289L7.29289 12.2929C6.90237 12.6834 6.90237 13.3166 7.29289 13.7071C7.68342 14.0976 8.31658 14.0976 8.70711 13.7071L12 10.4142Z"></path>
+</svg>
+                        </span>
+                    </span>
+                </button>
+            
+        </span>
+    
+    <div class="m-menu-category__toggle-content">
+        
+            
+                
+                    
+
+
+
+    <a href="/en/marketing/26660848" data-style="a37" class="a-navigation-link a-navigation-link--category m-menu-category__toggle-content--link">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Marketing</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+        
+    </div>
+</div>
+
+
+        </div>
+        <div class="m-main-header-menu__col-3 ">
+            
+                
+                
+<div data-style="m16" class="m-menu-category ">
+    
+        <span class="m-menu-category__name">
+            
+                
+                    
+
+
+
+    <a href="/en/productinformation/18523532" data-style="a37" class="a-navigation-link a-navigation-link--category-head">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Start single access now</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+            
+        </span>
+    
+    <div class="m-menu-category__toggle-content">
+        
+    </div>
+</div>
+
+
+<div data-style="m16" class="m-menu-category ">
+    
+        <span class="m-menu-category__name">
+            
+                
+                    
+
+
+
+    <a href="/en/company-access/15559382" data-style="a37" class="a-navigation-link a-navigation-link--category-head">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Access for companies</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+            
+        </span>
+    
+    <div class="m-menu-category__toggle-content">
+        
+    </div>
+</div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+                <div class="o-main-header__logos o-main-header__item">
+                    
+                        <div class="o-main-header__logo">
+                            
+
+    <a data-style="a22" href="/en" class="a-brand a-brand__primary" target="_self">
+        <span>Springer Professional</span>
+    </a>
+
+    
+
+                        </div>
+                    
+
+                    
+
+                    
+                </div>
+                
+                    <div class="o-main-header__search o-main-header__dropdown-menu o-main-header__dropdown-menu__search-menu-wrapper">
+                    
+                        <button type="button" aria-expanded="false" aria-controls="id_search" class="o-main-header__dropdown-menu__button o-main-header__search-menu-button">
+                            
+<svg data-style="a29" class="a-icon  " role="img" viewBox="0 0 24 24" aria-hidden="true">
+    
+    <path d="M19.4804 18.4546C19.7633 18.7374 19.7704 19.2038 19.4871 19.4871C19.2121 19.7621 18.7415 19.7674 18.4546 19.4804L15.4103 16.4362C14.2066 17.414 12.6717 18 11 18C7.13401 18 4 14.866 4 11C4 7.13401 7.13401 4 11 4C14.866 4 18 7.13401 18 11C18 12.6717 17.414 14.2066 16.4362 15.4103L19.4804 18.4546ZM11 17C14.3137 17 17 14.3137 17 11C17 7.68629 14.3137 5 11 5C7.68629 5 5 7.68629 5 11C5 14.3137 7.68629 17 11 17Z"></path>
+</svg>
+                            <span class="o-main-header__menu-name"> Search</span>
+                        </button>
+                        <div id="id_search" class="o-main-header-menu__dropdown-content o-main-header__dropdown-menu__search-content o-main-header__search-menu" data-main-header-search-focus="true">
+                        
+<div data-style="a17 m19" data-script="m8" class="m-header-search-menu a-layout-content-block">
+    <div class="m-header-search-menu__content">
+        
+
+
+
+
+
+<section data-style="a14" class="a-search-box">
+     
+<form action="/en/search" method="POST" class="a-search-box__form" rel="search" autocomplete="off">
+    
+        <label for="StandardSearchType" class="a-search-box__label">Enter your search terms</label>
+        <span class="a-search-box__icon">
+<svg data-style="a29" class="a-icon  " role="img" viewBox="0 0 24 24" aria-hidden="true">
+    
+    <path d="M19.4804 18.4546C19.7633 18.7374 19.7704 19.2038 19.4871 19.4871C19.2121 19.7621 18.7415 19.7674 18.4546 19.4804L15.4103 16.4362C14.2066 17.414 12.6717 18 11 18C7.13401 18 4 14.866 4 11C4 7.13401 7.13401 4 11 4C14.866 4 18 7.13401 18 11C18 12.6717 17.414 14.2066 16.4362 15.4103L19.4804 18.4546ZM11 17C14.3137 17 17 14.3137 17 11C17 7.68629 14.3137 5 11 5C7.68629 5 5 7.68629 5 11C5 14.3137 7.68629 17 11 17Z"></path>
+</svg></span>
+
+        
+
+
+
+    <input type="search" id="StandardSearchType" name="query" value="" class="a-search-box__content" placeholder="Enter your search terms" maxlength="1024">
+
+
+
+
+
+
+        <input type="hidden" name="searchType" value="StandardSearchType">
+        
+        <button class="a-search-box__submit" type="submit" value="search">Search</button>
+    
+</form>
+
+    <div class="autocomplete-wrapper"></div>
+</section>
+        
+            
+
+    <a data-style="a13" href="#" title="Open extended search" class="a-link m-header-search-menu__text">
+        <span class="a-link__content-wrapper">
+            
+            <span class="a-link__text ">EXTENDED SEARCH</span>
+        </span>
+    </a>
+
+        
+    </div>
+</div>
+
+                        </div>
+                    
+                    </div>
+                    
+                        <div class="divider"></div>
+                    
+                    <div class="o-main-header__dropdown-menu o-main-header__dropdown-menu__profile-menu-wrapper">
+                    
+                        
+                            
+
+    <a data-style="a13" href="/en/login?returnUrl=%2Fen%2Finformation-and-communication-technologies-in-tourism-2023%2F23923080" title="Log in" class="a-link ">
+        <span class="a-link__content-wrapper">
+            
+                <span class="a-link__icon">
+                    
+                        
+                            
+<div data-style="a7" class="a-sn-icon a-sn-icon-user"></div>
+
+                        
+                    
+                </span>
+            
+            <span class="a-link__text o-main-header__menu-name">Log in</span>
+        </span>
+    </a>
+
+                        
+                    
+                    </div>
+                
+            </div>
+        </div>
+        
+        
+    </section>
+
+
+
+    </section>
+
+<div data-style="m15" class="m-main-header-menu" data-main-header-menu="true">
+        <div class="m-main-header-menu__col-1">
+            
+<div data-style="m16" class="m-menu-category ">
+    
+        <span class="m-menu-category__name">
+            
+                
+                    Disciplines
+                
+            
+            
+                <button class="m-menu-category__toggle">
+                    <span class="m-menu-category__toggle-icons">
+                        <span class="m-menu-category-down">
+                            
+<svg data-style="a29" role="img" viewBox="0 0 24 24" class="a-icon  ">
+    <title>Chevron down icon</title>
+        <path d="M12 13.5858L15.2929 10.2929C15.6834 9.90237 16.3166 9.90237 16.7071 10.2929C17.0976 10.6834 17.0976 11.3166 16.7071 11.7071L12.7071 15.7071C12.3166 16.0976 11.6834 16.0976 11.2929 15.7071L7.29289 11.7071C6.90237 11.3166 6.90237 10.6834 7.29289 10.2929C7.68342 9.90237 8.31658 9.90237 8.70711 10.2929L12 13.5858Z"></path>
+</svg>
+                        </span>
+                        <span class="m-menu-category-up">
+                            
+<svg data-style="a29" class="a-icon  " role="img" viewBox="0 0 24 24">
+    <title>Chevron up icon</title>
+        <path d="M12 10.4142L15.2929 13.7071C15.6834 14.0976 16.3166 14.0976 16.7071 13.7071C17.0976 13.3166 17.0976 12.6834 16.7071 12.2929L12.7071 8.29289C12.3166 7.90237 11.6834 7.90237 11.2929 8.29289L7.29289 12.2929C6.90237 12.6834 6.90237 13.3166 7.29289 13.7071C7.68342 14.0976 8.31658 14.0976 8.70711 13.7071L12 10.4142Z"></path>
+</svg>
+                        </span>
+                    </span>
+                </button>
+            
+        </span>
+    
+    <div class="m-menu-category__toggle-content">
+        
+            
+                
+                    
+
+
+
+    <a href="/en/automotive/10895872" data-style="a37" class="a-navigation-link a-navigation-link--category m-menu-category__toggle-content--link">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Automotive</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+        
+            
+                
+                    
+
+
+
+    <a href="/en/business-it-informatics/23797454" data-style="a37" class="a-navigation-link a-navigation-link--category m-menu-category__toggle-content--link">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Business IT + Informatics</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+        
+            
+                
+                    
+
+
+
+    <a href="/en/construction-real-estate/23797768" data-style="a37" class="a-navigation-link a-navigation-link--category m-menu-category__toggle-content--link">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Construction + Real Estate</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+        
+            
+                
+                    
+
+
+
+    <a href="/en/electrical-engineering-electronics/23797336" data-style="a37" class="a-navigation-link a-navigation-link--category m-menu-category__toggle-content--link">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Electrical Engineering + Electronics</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+        
+            
+                
+                    
+
+
+
+    <a href="/en/energy--sustainability/23798160" data-style="a37" class="a-navigation-link a-navigation-link--category m-menu-category__toggle-content--link">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Energy + Sustainability</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+        
+            
+                
+                    
+
+
+
+    <a href="/en/insurance--risk/23798170" data-style="a37" class="a-navigation-link a-navigation-link--category m-menu-category__toggle-content--link">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Insurance + Risk</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+        
+            
+                
+                    
+
+
+
+    <a href="/en/finance-banking/23789512" data-style="a37" class="a-navigation-link a-navigation-link--category m-menu-category__toggle-content--link">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Finance + Banking</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+        
+            
+                
+                    
+
+
+
+    <a href="/en/management-leadership/23406646" data-style="a37" class="a-navigation-link a-navigation-link--category m-menu-category__toggle-content--link">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Management + Leadership</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+        
+            
+                
+                    
+
+
+
+    <a href="/en/marketing-sales/23797752" data-style="a37" class="a-navigation-link a-navigation-link--category m-menu-category__toggle-content--link">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Marketing + Sales</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+        
+            
+                
+                    
+
+
+
+    <a href="/en/mechanical-engineering-materials/23793486" data-style="a37" class="a-navigation-link a-navigation-link--category m-menu-category__toggle-content--link">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Mechanical Engineering + Materials</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+        
+    </div>
+</div>
+
+
+<div data-style="m16" class="m-menu-category ">
+    
+        <span class="m-menu-category__name">
+            
+                
+                    
+
+
+
+    <a href="/en/events/10820428" data-style="a37" class="a-navigation-link a-navigation-link--category-head">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Events</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+            
+        </span>
+    
+    <div class="m-menu-category__toggle-content">
+        
+    </div>
+</div>
+
+
+            
+
+    
+        <div class="m-main-header-menu__language-switch">
+            
+                
+
+
+
+    <a href="/information-and-communication-technologies-in-tourism-2023/23923080" data-style="a37" class="a-navigation-link a-navigation-link--language">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">DE</span>
+        
+    </span>
+
+    </a>
+
+
+            
+                
+
+
+
+    <div data-style="a37" class="a-navigation-link a-navigation-link--language">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text selected">EN</span>
+        
+    </span>
+
+    </div>
+
+
+            
+        </div>
+    
+
+        </div>
+        <div class="m-main-header-menu__col-2">
+            
+<div data-style="m16" class="m-menu-category ">
+    
+        <span class="m-menu-category__name">
+            
+                
+                    
+
+
+
+    <a href="/en/books/10653746" data-style="a37" class="a-navigation-link a-navigation-link--category-head">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Books</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+            
+        </span>
+    
+    <div class="m-menu-category__toggle-content">
+        
+    </div>
+</div>
+
+
+<div data-style="m16" class="m-menu-category ">
+    
+        <span class="m-menu-category__name">
+            
+                
+                    
+
+
+
+    <a href="/en/journals/10699760" data-style="a37" class="a-navigation-link a-navigation-link--category-head">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Journals</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+            
+        </span>
+    
+    <div class="m-menu-category__toggle-content">
+        
+    </div>
+</div>
+
+
+<div data-style="m16" class="m-menu-category ">
+    
+        <span class="m-menu-category__name">
+            
+                
+                    Topic Page
+                
+            
+            
+                <button class="m-menu-category__toggle">
+                    <span class="m-menu-category__toggle-icons">
+                        <span class="m-menu-category-down">
+                            
+<svg data-style="a29" role="img" viewBox="0 0 24 24" class="a-icon  ">
+    <title>Chevron down icon</title>
+        <path d="M12 13.5858L15.2929 10.2929C15.6834 9.90237 16.3166 9.90237 16.7071 10.2929C17.0976 10.6834 17.0976 11.3166 16.7071 11.7071L12.7071 15.7071C12.3166 16.0976 11.6834 16.0976 11.2929 15.7071L7.29289 11.7071C6.90237 11.3166 6.90237 10.6834 7.29289 10.2929C7.68342 9.90237 8.31658 9.90237 8.70711 10.2929L12 13.5858Z"></path>
+</svg>
+                        </span>
+                        <span class="m-menu-category-up">
+                            
+<svg data-style="a29" class="a-icon  " role="img" viewBox="0 0 24 24">
+    <title>Chevron up icon</title>
+        <path d="M12 10.4142L15.2929 13.7071C15.6834 14.0976 16.3166 14.0976 16.7071 13.7071C17.0976 13.3166 17.0976 12.6834 16.7071 12.2929L12.7071 8.29289C12.3166 7.90237 11.6834 7.90237 11.2929 8.29289L7.29289 12.2929C6.90237 12.6834 6.90237 13.3166 7.29289 13.7071C7.68342 14.0976 8.31658 14.0976 8.70711 13.7071L12 10.4142Z"></path>
+</svg>
+                        </span>
+                    </span>
+                </button>
+            
+        </span>
+    
+    <div class="m-menu-category__toggle-content">
+        
+            
+                
+                    
+
+
+
+    <a href="/en/marketing/26660848" data-style="a37" class="a-navigation-link a-navigation-link--category m-menu-category__toggle-content--link">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Marketing</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+        
+    </div>
+</div>
+
+
+        </div>
+        <div class="m-main-header-menu__col-3 ">
+            
+                
+                
+<div data-style="m16" class="m-menu-category ">
+    
+        <span class="m-menu-category__name">
+            
+                
+                    
+
+
+
+    <a href="/en/productinformation/18523532" data-style="a37" class="a-navigation-link a-navigation-link--category-head">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Start single access now</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+            
+        </span>
+    
+    <div class="m-menu-category__toggle-content">
+        
+    </div>
+</div>
+
+
+<div data-style="m16" class="m-menu-category ">
+    
+        <span class="m-menu-category__name">
+            
+                
+                    
+
+
+
+    <a href="/en/company-access/15559382" data-style="a37" class="a-navigation-link a-navigation-link--category-head">
+        
+    <span class="a-navigation-link__content-wrapper">
+        
+            
+        
+
+        
+            <span class="a-navigation-link__text ">Access for companies</span>
+        
+    </span>
+
+    </a>
+
+
+                
+            
+            
+        </span>
+    
+    <div class="m-menu-category__toggle-content">
+        
+    </div>
+</div>
+
+
+            
+        </div>
+    </div>
+
+<div id="id_search" class="o-main-header-menu__dropdown-content o-main-header__dropdown-menu__search-content o-main-header__search-menu" data-main-header-search-focus="true">
+                        
+<div data-style="a17 m19" data-script="m8" class="m-header-search-menu a-layout-content-block">
+    <div class="m-header-search-menu__content">
+        
+
+
+
+
+
+<section data-style="a14" class="a-search-box">
+     
+<form action="/en/search" method="POST" class="a-search-box__form" rel="search" autocomplete="off">
+    
+        <label for="StandardSearchType" class="a-search-box__label">Enter your search terms</label>
+        <span class="a-search-box__icon">
+<svg data-style="a29" class="a-icon  " role="img" viewBox="0 0 24 24" aria-hidden="true">
+    
+    <path d="M19.4804 18.4546C19.7633 18.7374 19.7704 19.2038 19.4871 19.4871C19.2121 19.7621 18.7415 19.7674 18.4546 19.4804L15.4103 16.4362C14.2066 17.414 12.6717 18 11 18C7.13401 18 4 14.866 4 11C4 7.13401 7.13401 4 11 4C14.866 4 18 7.13401 18 11C18 12.6717 17.414 14.2066 16.4362 15.4103L19.4804 18.4546ZM11 17C14.3137 17 17 14.3137 17 11C17 7.68629 14.3137 5 11 5C7.68629 5 5 7.68629 5 11C5 14.3137 7.68629 17 11 17Z"></path>
+</svg></span>
+
+        
+
+
+
+    <input type="search" id="StandardSearchType" name="query" value="" class="a-search-box__content" placeholder="Enter your search terms" maxlength="1024">
+
+
+
+
+
+
+        <input type="hidden" name="searchType" value="StandardSearchType">
+        
+        <button class="a-search-box__submit" type="submit" value="search">Search</button>
+    
+</form>
+
+    <div class="autocomplete-wrapper"></div>
+</section>
+        
+            
+
+    <a data-style="a13" href="#" title="Open extended search" class="a-link m-header-search-menu__text">
+        <span class="a-link__content-wrapper">
+            
+            <span class="a-link__text ">EXTENDED SEARCH</span>
+        </span>
+    </a>
+
+        
+    </div>
+</div>
+
+                        </div>

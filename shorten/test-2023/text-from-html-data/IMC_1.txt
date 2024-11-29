@@ -1,0 +1,78 @@
+Toggle navigation      IMC 2023    
+ Home 
+  Calls | Call for Papers 
+  Call for Posters 
+  Call for Travel Grant Applicants 
+  Submission Instructions 
+  Presentation Guidelines 
+  Paper Anonymity 
+  Committees 
+  Local Info | Conference Venue 
+  Side Events | Hackathon 
+ Call For Papers, ACM IMC 2023  
+ The Internet Measurement Conference (IMC) is a highly selective venue for the presentation of measurement-based research in data communications. As we are in the era of data-driven research, IMC 2023 will focus on improving the standard in the collection, usage, and sharing of network measurements for the research community. Despite the efforts in stimulating reproducibility of research as well as sharing of data, little progress has been made in our community to make research data open. Therefore, without fundamentally changing the topics in scope compared to previous years, our attention when assessing contributions will be particularly on the willingness of the authors to share their data and make their work reproducible.  
+ New this year:  To encourage data sharing and reproducibility, authors will be required to make a declaration on artifact availability (full, partial, or no availability) for the submitted work. Since legitimate reasons (such as proprietary and privacy reasons) may prevent authors from sharing artifacts, papers will be assessed based on whether the contributions warrant acceptance despite the lack of artifact availability. In the case of no availability of artifacts, the authors are expected to explain why this is the case in a specific section. Artifact submission is not required at the paper submission time. All papers accepted to the program will be shepherded to ensure that the artifacts promised have been made available.  
+ IMC takes a broad view of contributions that are considered in scope for improving the practice of network measurement, including, but not limited to:  
+ collection and analysis of data that yield new insights about network structure and network performance (e.g., traffic, topology, routing, energy utilization, performance) 
+  collection and analysis of data that yield new insights about application and end-user behavior (e.g., economics, privacy, security, application interaction with protocols) 
+  experimental networks, prototype networks, and future internetworks 
+  Replicability Track:   
+ IMC 2023 will trial a new Replicability Track for submissions that aim to reproduce or replicate results that have been previously published at IMC. Papers accepted to this track will be published in ACM SIGCOMM Computer Communication Review (CCR). Priority will be given to replicability studies, although reproducibility studies are also in scope. For the definitions, please see ACM’s site  . The authors of outstanding replicability papers may receive an invitation to present at the main conference. In that case, the paper would also be included in IMC’s proceedings (rather than CCR).  
+ Submissions to this track are two-phase. Prospective authors are invited to submit an Expression of Interest (EoI) via the submission system in the form of an abstract which must explain:  
+ Which paper the authors aim to replicate 
+  Whether the paper will be replicated or reproduced 
+  What the IMC community stands to learn from the replication or reproduction 
+  Chosen approach, and why it will lead to new insights 
+  A small committee will evaluate the EoIs and their potential to be of interest to the IMC community. The authors of strong abstracts will receive an invitation to a full submission.  
+ The EoI serves to avoid misunderstandings and disappointment for authors as we acknowledge that replicating or reproducing a paper is a very significant effort to which potential authors would commit much time.  
+ Full submissions will then be assessed by a sub-committee of the TPC. Full submissions must otherwise conform to the same criteria and rules as full submissions on the main track (see below).  
+ See the Important Dates section  for the EoI deadline. Full submissions have the same deadlines (abstract registration and full submission) as the IMC main deadline.  
+ Review process and criteria  
+ IMC 2023 invites two forms of submissions:  
+ Full papers | (up to 13 pages for text and figures + unlimited pages for references and appendix) that describe original research, with succinctness appropriate to the topics and themes they discuss. 
+  Short papers | (up to 6 pages for text and figures + unlimited pages for references and appendix) that convey work that is less mature but shows exciting promise, OR offer results that do not merit a full submission. Short papers could articulate a high-level vision and describe challenging future directions that the authors believe the community should tackle; validate, verify, or update important results; or present new ideas that challenge existing assumptions. 
+  Any submission exceeding the short paper page-length limit will be evaluated as a full paper.  
+ Authors should submit only original work that has not been published before and is not under submission to any other venue. We will consider full paper submissions that extend previously published short, preliminary papers (including IMC short papers), in accordance with the SIGCOMM policy  and the ACM Plagiarism Policy  . The ACM policy on simultaneous submissions  does not consider technical reports (including arXiv) to be concurrent publication or submission.  
+ IMC 2023 will bestow two awards on paper submissions, (1) a Best Paper award; and (2) a Community Contribution award. The best paper award will recognize the outstanding paper at the conference, and all accepted papers are eligible for it. The community contribution award will recognize a paper with an outstanding contribution to the community in the form of a new dataset, source code distribution, open platform, or other noteworthy service to the community. To be eligible for the community award, the authors must make data or source code publicly available or have a software artifact that is accessible and usable by the public at the time of the camera-ready deadline. The authors indicate their eligibility on the submission form and are also encouraged to include a link to the contribution in the submitted paper.  
+ A few accepted papers may be forwarded for fast-track submission to IEEE/ACM Transactions on Networking.  
+ Early Rejection  
+ The review process will have several reviewing rounds. To allow authors time to improve their work and submit to other venues, authors of submissions for which there is a consensus on rejection will be notified early.  
+ Anonymity Guidelines  
+ Authors are expected to make a good-faith effort to anonymize papers. As an author, you should not identify yourself in the paper either explicitly or by implication (e.g., through the references).  
+ Anonymization of important details are not required, if they are critical for the evaluation of the paper. For example, system names may be left de-anonymized, if the system name is important for a reviewer to be able to evaluate the work, and the paper may point to existing public datasets and artifacts that highlight or underscore the contributions outlined in the paper.  
+ Please follow the following guidelines:  
+ Author names and affiliations must not appear on any submission. 
+  Identifying information such as grant numbers must not be included on submissions. 
+  The text of the submission must refer to the authors’ own previous work in the third person, unless the previous work provides important context for evaluation of the existing contribution (e.g., the paper describes an implementation or deployment of a method previously developed by the same authors). 
+  Authors are explicitly allowed to post their submissions on Arxiv or other public websites, and reviewers will be discouraged from searching for such listings while a submission is under review. However, authors are strongly discouraged from engaging in publicity for their papers while they are under review, unless doing so is in the public interest (e.g., responsible disclosure). Authors who are unsure of whether they are allowed to publicize their double-blind submissions should contact the program committee co-chairs at imc2023pcchairs@acm.org  .  
+ Additional details on paper anonymity are available here  and in the statement released by the IMC Steering Committee here  .  
+ Ethics  
+ The program committee may raise concerns around the ethics of the work, even if it does not involve human subjects. All papers must include, in a clearly marked appendix section with the heading “Ethics”, a statement about ethical issues; papers that do not include such a statement may be rejected.  This could be, if appropriate for the paper, simply the sentence “This work does not raise any ethical issues.”. If the work involves human subjects or potentially sensitive data (e.g., user traffic or social network information, evaluation of censorship, etc.), the paper should clearly discuss these issues, perhaps in a separate subsection.  
+ Research that entails experiments involving human subjects or user data (e.g., network traffic, passwords, social network information) should adhere to community norms. Any work that raises potential ethics considerations should indicate this on the submission form. The basic principles of ethical research are outlined in the Belmont Report  : (1) respect for persons (which may involve obtaining consent); (2) beneficence (a careful consideration of risks and benefits); and (3) justice (ensuring that parts of the population that bear the risks of the research also are poised to obtain some benefit from it). Authors should further consult the ACM policy on research involving human subjects  for further information on ethical principles that apply to this conference.  
+ Research involving human subjects must be approved by the researchers’ respective Institutional Review Boards before the research takes place. Authors should indicate on the submission form whether the work involves human subjects. If so, the authors must indicate whether an IRB protocol has been approved for the research, or if the research has been determined exempt (either self-determination or IRB determination). We expect that any research follows the practices and procedures of the institution(s) where the work is being carried out; for example, some universities require separate approval for the use of campus data. We expect researchers to abide by these protocols.  
+ We recognize that different IRBs follow different procedures for determining the status of human subject research, and approval or exempt status from a single institution may not align with community norms. To help the Ethics Committee review cases of concern, there is a need for more information about the research protocol. To this end, if the work involves human subjects, the authors must include with their submission a copy of the form that was used to determine IRB status (approved or exempt), sufficiently anonymized to preserve double-blind review.  
+ If the submission describes research involving human subjects and none of the authors are at an institution with an IRB (or equivalent), the authors are nonetheless expected to follow a research protocol that adheres to ethical principles, as stated in the ACM policy on research involving human subjects  . In such cases, the authors must use the Ethics section of their appendix to explain how their research protocol satisfies the principles of ethical research.  
+ Some research does not involve human subjects yet nonetheless raises questions of ethics, which may be wide-ranging and not necessarily limited to direct effects. We encourage authors to be mindful of the ethics of the research that they undertake; these considerations are often not clear-cut, but often warrant thoughtful consideration. Discussions of these issues should be placed in the “Ethics” appendix section mentioned above, or in the main body of the paper where appropriate.  
+ Additionally, the program committee reserves the right to conduct additional evaluations and reviews of research ethics and reserves the right to independent judgment concerning the ethics of the conducted research.  
+ Contact the program committee co-chairs at imc2023pcchairs@acm.org  if you have any questions.  
+  Providing a linked FAQ explaining the rationale for the policy and providing additional details 
+  Please refer to the updated ACM Policy on Authorship  .  
+ Submission guidelines  
+ Below is a summary of key submission guidelines, but it is not exhaustive. For a complete list of requirements, visit the detailed submission instructions page  . Authors are expected to comply with all the requirements listed on that page.   
+ All submissions must satisfy the following requirements:  
+ Full papers: | up to 13 pages for technical content + unlimited pages for references and appendix 
+  Note that, apart from the mandatory Ethics appendix, reviewers have no obligation to read anything in the appendices. Please use this space judiciously, and as a rule of thumb, keep it to no longer than three pages.  
+ Formatting should be as follows:  
+ 10-point font for main text. Fonts used in other elements of the paper (e.g., figures) should be no smaller than 9 point. 
+  It is your responsibility to ensure that your submission satisfies the above requirements. If you are using LaTeX, you may make use of this template for ACM conference proceedings. With the older versions of this template you must add “10pt” to the documentclass command to meet the submission requirements. The current template sets 10pt by default. (Unlike the official template, it only includes an example for conference proceedings.) 
+  Submissions that do not comply with these requirements will be rejected without review. The ACM template  style file satisfies the formatting requirements, provided you compile your source with options that produce letter page size and  10-point  fonts. The following settings in your LaTeX source should achieve that (but please verify the output):  
+ \documentclass[10pt,sigconf,letterpaper,anonymous]{acmart}   As an example, we also provide a sample template for ACM conference proceedings  , which you can make use of.  
+ Early reject notification | Approximately Friday July 14, 2023 
+ Notification | Friday August 18, 2023 
+ Presentation submission | Friday October, 20 at 2:00PM CEST 
+ Camera-ready due | TBA 
+ CCR submission (papers on the replicability track only) | TBA 
+ Conference | October 24 - 26, 2023 
+ Submission Site  
+ Last modified: Oct 26 2023   
+ Automne au Parc du Mont-Royal  © Hussein Abdallah  , CC BY 2.0

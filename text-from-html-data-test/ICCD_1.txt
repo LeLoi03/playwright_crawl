@@ -1,0 +1,284 @@
+ICCD 2023    
+ Home 
+  Program 
+  Agenda 
+  Keynotes 
+  Panel 
+  Best Paper Award Nomination 
+  Social Events 
+  Attend 
+  Conference Registration 
+  Hotel Information 
+  Venue 
+  Author Resources 
+  Camera-Ready Submission 
+  Submission Guidelines 
+  Call for Contributions 
+  Call for Papers 
+  Committees 
+  Organizing Committee 
+  Program Committee 
+  Steering Committee 
+  Past Conferences 
+   
+  Important Dates:  
+ Abstract Submission  
+   
+  June 23, 2023, 11:59pm AOE   
+  June 25, 2023, 11:59pm AOE   
+  (EXTENDED, firm deadline)   
+ Paper Submission  
+   
+  June 23, 2023, 11:59pm AOE   
+  June 27, 2023, 11:59pm AOE   
+  (EXTENDED, firm deadline)   
+ Contact Us           
+ Web Chair | 2023 IEEE International Conference on Computer Design (ICCD)  
+  
+ Tentative Program - all times are in Eastern Time (ET)    Regular papers [R] have 20 mins (16 mins for presentation+4 mins for Q&A); Short papers [S] have 10 mins (8 mins for presentation+2 mins for Q&A) - All times are in ET  
+ The Opening, Closing, Keynote, Panel, and A sessions will be in the City View Room. The B sessions will be in the State Room  
+  
+ Monday, November 6, 2023 
+ 07:30-08:00 | Registration 
+ 08:00-08:20 | Opening session (General and Program Chairs) 
+ 08:20-09:20 | Keynote: Azalia Mirhoseini (Stanford University) - Pushing the Limits of Scaling Laws in the Age of Large Language Models   
+  Session Chair: Guru Prasadh Venkataramani, The George Washington University 
+ 09:20-10:40 | Session 1A: Verification & Security  
+  Session Chair: Fan Yao, University of Central Florida | 09:20-10:40 | Session 1B: Logic and Circuit Design  
+  Session Chair: Weidong Cao, The George Washington University 
+ 09:20 | (R) Leveraging Firmware Reverse Engineering for Stealthy Sensor Attacks via Binary Modification. Sutej Kulkarni, Ryan Tsang, Asmita Asmita, Houman Homayoun and Soheil Salehi | 09:20 | (R) MNHOKA - PPA efficient M-Term Non-Homogeneous Hybrid Overlap-free Karatsuba Multiplier for GF (2^n) Polynomial multiplier. Gogireddy Ravi Kiran Reddy, Sanampudi Gopala Krishna Reddy, Vasanthi D R and Madhav Rao 
+ 09:40 | (R) Transcend Adversarial Examples: Diversified Adversarial Attacks to Test Deep Learning Model. Wei Kong | 09:40 | (R) ApproxCNN: Evaluation Of CNN With Approximated Layers Using In-Exact Multipliers. Bindu G Gowda, Raghava S N, Prashanth H C, Pratyush Nandi and Madhav Rao 
+ 10:00 | (R) REMU: Enabling Cost-Effective Checkpointing and Deterministic Replay in FPGA-based Emulation. Yuxiao Chen, Yisong Chang, Ke Zhang, Mingyu Chen and Yungang Bao | 10:00 | (R) ACET: An Adaptive Clock Scheme Exploiting Comprehensive Timing Slack for Reconfigurable Processors. Shuya Ji, Weidong Yang, Jianfei Jiang, Naifeng Jing, Weiguang Sheng, Ang Li and Qin Wang 
+ 10:20 | (R) Model Checking TileLink Cache Coherence Protocols By Murphi. Zimin Li, Yongjian Li, Kaifan Wang, Kun Ma and Shizhen Yu | 10:20 | (S) ImprLM: An Improved Logarithmic Multiplier Design Approach via Iterative Linear-Compensation and Modified Dynamic Segment. Yao Shangshang and Shen Li 
+ 10:30 | (S) SFDoP: A Scalable Fused BFloat16 Dot-Product Architecture for DNN. Jing Zhang, Hongbing Tan and Libo Huang 
+ 10:40-11:00 | Coffee Break 
+ 11:00-11:40 | Session 2A: Brain-Inspired Circuits  
+  Session Chair: Soheil Salehi, University of Arizona | 11:00-11:40 | Session 2B: Quantum Computing  
+  Session Chair: Hao Zheng, University of Central Florida 
+ 11:00 | (R) MindCrypt: The Brain as a Random Number Generator for SoC-Based Brain-Computer Interfaces. Guy Eichler, Biruk Seyoum, Kuan-Lin Chiu and Luca Carloni | 11:00 | (R) HiSEP-Q: A Highly Scalable and Efficient Quantum Control Processor for Superconducting Qubits. Xiaorang Guo, Kun Qin and Martin Schulz 
+ 11:20 | (R) BrainTTA: A 28.6 TOPS/W Compiler Programmable Transport-Triggered NN SoC. Maarten Molendijk, Floran de Putter, Manil Dev Gomony, Pekka Jääskeläinen and Henk Corporaal | 11:20 | (R) Enhancing Virtual Distillation with Circuit Cutting for Quantum Error Mitigation. Peiyi Li, Ji Liu, Hrushikesh Pramod Patil, Paul Hovland and Huiyang Zhou 
+ 11:40-12:40 | Session 3A: SRAM & NVM  
+  Session Chair: Soheil Salehi, University of Arizona | 11:40-12:40 | Session 3B: Cache Memory  
+  Session Chair: Hao Zheng, University of Central Florida 
+ 11:40 | (R) ICON: An IR drop compensation method at OU granularity with low overhead for eNVM-based accelerators. Jinpeng Liu, Wei Tong, Bing Wu, Huan Cheng and Chengning Wang | 11:40 | (R) Offline and Online Algorithms for Cache Allocation with Monte Carlo Tree Search and a Learned Model. Yibin Gu, Hua Wang, Man Luo, Jingyu Tang and Ke Zhou 
+ 12:00 | (R) Resonant Compute-In-Memory (RCIM) 10T SRAM Macro for Boolean Logic. Dhandeep Challagundla, Ignatius Bezzam, Biprangshu Saha and Riadul Islam | 12:00 | (R) Morpheus: An Adaptive DRAM Cache with Online Granularity Adjustment for Disaggregated Memory. Xu Zhang, Tianyue Lu, Yisong Chang, Ke Zhang and Mingyu Chen 
+ 12:20 | (R) Small Footprint 6T-SRAM Design with MIV-Transistor Utilization in M3D-IC Technology Madhava Sarma Vemuri and Umamaheswara Rao Tida | 12:20 | (R) Locality-aware Speculative Cache for Fast Partial Updates in Erasure-Coded Cloud Clusters. Hai Zhou, Yuchong Hu, Dan Feng, Wei Wang and Huadong Huang 
+ 12:40-13:40 | Lunch 
+ 13:40-14:40 | Session 4A: Accelerators  
+  Session Chair: Christian Pilato, Politecnico di Milano | 13:40-14:40 | Session 4B: Persistent Memory  
+  Session Chair: Ren-Shuo Liu, National Tsing Hua University 
+ 13:40 | (R) A Cost-Efficient Failure-Tolerant Scheme for Distributed DNN Training. Menglei Chen, Yu Hua, Rong Bai and Jianming Huang | 13:40 | (R) Accelerating Persistent Hash Indexes via Reducing Negative Searches. Renzhi Xiao, Hong Jiang, Dan Feng, Yuchong Hu, Wei Tong, Kang Liu, Yucheng Zhang, Xueliang Wei and Zhengtao Li 
+ 14:00 | (R) RealArch: A Real-Time Scheduler for Mapping Multi-Tenant DNNs on Multi-Core Accelerators. Xuhang Wang, Zhuoran Song and Xiaoyao Liang | 14:00 | (S) Prediction-Guided Metadata Backup for Improving Lifetime on Flash-based Swap. Taejoon Song, JuneHyung Kim, Myeongseon Kim and YoungJin Kim 
+ 14:20 | (S) Polyform: A Versatile Architecture for Multi-DNN Execution via Spatial and Temporal Acceleration. Lingxiang Yin, Amir Ghazizadeh, Shilin Tian, Ahmed Louri and Hao Zheng | 14:10 | (S) RWORT: A Read and Write Optimized Radix Tree for Persistent Memory. Jinlei Hu, Zijie Wei, Jianxi Chen and Dan Feng 
+ 14:30 | (S) STAG: Enabling Low Latency and Low Staleness of GNN-based Services with Dynamic Graphs. Jiawen Wang, Quan Chen, Deze Zeng, Zhuo Song, Chen Chen and Minyi Guo | 14:20 | (R) PMA: A Persistent Memory Allocator with High Efficiency and Crash Consistency Guarantee. Xiangyu Xiang, Yu Hua and Hao Xu 
+ 14:40-15:00 | Coffee Break 
+ 15:00-16:00 | Session 5A: Storage  
+  Session Chair: Fan Yao, University of Central Florida | 15:00-16:00 | Session 5B: Memory Systems  
+  Session Chair: Biruk Seyoum, Columbia University 
+ 15:00 | (R) An Effective and Balanced Storage Extension Approach for Sharding Blockchain Systems. Tingyu Fan, Xiulong Liu, Baochao Chen and Wenyu Qu | 15:00 | (R) CostFM: A High Cost-Performance Fingerprint Management Mechanism for Shared SSDs. Hao Liu, Fang Wang, Mengting Lu and Wenpeng He 
+ 15:20 | (R) BlzFS: Crash Consistent Log-structured File System Based on Byte-loggable Zone for ZNS SSD. Wenjie Qi, Zhipeng Tan, Ziyue Zhang, Jing Zhang, Chao Yu, Ying Yuan and Shikai Tan | 15:20 | (R) Enabling Encrypted Delta Compression for Outsourced Storage Systems via Preserving Similarity Chuang Gan, Yuchong Hu, Leyan Zhao, Xin Zhao, Pengyu Gong, Wenhao Zhang, Lin Wang and Dan Feng 
+ 15:40 | (R) K8sES: Optimizing Kubernetes with Enhanced Storage Service-Level Objectives. Hao Wen, Zhichao Cao, Bingzhe Li, David Du, Ayman Abouelwafa, Doug Voigt, Shiyong Liu, Jim Diehl and Fenggang Wu | 15:40 | (S) FlashDAM: Flexible I/O Throttling for the User Experience of Mobile Systems. Changlong Li, Chao Wang, Xuehai Zhou and Edwin H.-M. Sha 
+ 15:50 | (S) HyperMetric: Robust Hyperdimensional Computing on Error-prone Memories using Metric Learning. Weihong Xu, Viji Swaminathan, Sumukh Pinge, Sean Fuhrman and Tajana Rosing 
+ 16:15- | Social Event: Foggy Bottom and Georgetown walks 
+ Tuesday, November 7, 2023 
+ 08:30-09:00 | Registration 
+ 09:00-10:00 | Keynote: David Atienza (EPFL) - Accelerator-Based Edge AI Architectures for a Connected and Sustainable World   
+  Session Chair: Christian Pilato, Politecnico di Milano 
+ 10:00-11:00 | Session 6A: GPU & Graph  
+  Session Chair: Nuno Roma, University of Lisbon | 10:00-11:00 | Session 6B: File Systems  
+  Session Chair: Sai Manoj Pudukotai Dinakarrao, George Mason University 
+ 10:00 | (R) KeSCo: Compiler-based Kernel Scheduling for Multi-task GPU Applications. Zejia Lin, Zewei Mo, Xuanteng Huang, Xianwei Zhang and Yutong Lu | 10:00 | (R) HyF2FS: A Filesystem to Fully Exploit the Parallelism of Hybrid Storage. Jintong Zhang, Jianxi Chen, Kezheng Liu, Panfei Yuan and Yongkang Zhuo 
+ 10:20 | (R) Beyond Compression Ratio: A Throughput Analysis of Memory Compression Techniques for GPUs. Manuel Renz and Sohan Lal | 10:20 | (R) SMRTS: A Performance and Cost-Effectiveness Optimized SSD-SMR Tiered File System with Data Deduplication. Zhichao Cao, Hao Wen, Fenggang Wu and David H.C. Du 
+ 10:40 | (S) PANG: A Pattern-Aware GCN Accelerator for Universal Graphs. Yibo Du, Shengwen Liang, Huawei Li, Xiaowei Li, Yinhe Han and Ying Wang | 10:40 | (R) [Best Paper Nominee] Low-Latency and Scalable Full-path Indexing Metadata Service for Distributed File Systems. Chao Dong, Fang Wang, Yuxin Yang, Mengya Lei, Jianshun Zhang and Dan Feng 
+ 11:00-11:20 | Coffee Break 
+ 11:20-12:30 | Session 7A: SSDs  
+  Session Chair: Weidong Cao, The George Washington University | 11:20-12:30 | Session 7B: Logic Synthesis  
+  Session Chair: Nan Wu, The George Washington University 
+ 11:20 | (R) FlexZNS: Building High-Performance ZNS SSDs with Size-Flexible and Parity-Protected Zones. Yu Wang, You Zhou, Zhonghai Lu, Xiaoyi Zhang, Kun Wang, Feng Zhu, Shu Li, Changsheng Xie and Fei Wu | 11:20 | (R) GPT-LS: Generative Pre-Trained Transformer with Off-line Reinforcement Learning for Logic Synthesis. Chenyang Lv, Ziling Wei, Weikang Qian, Junjie Ye, Chang Feng and Zhezhi He 
+ 11:40 | (R) LifetimeKV: Narrowing the Lifetime Gap of SSTs in LSMT-Based KV Stores for ZNS SSDs. Biyong Liu, Yuan Xia, Xueliang Wei and Wei Tong | 11:40 | (R) Delay-Driven Physically-Aware Logic Synthesis with Informed Search. Linyu Zhu and Xinfei Guo 
+ 12:00 | (R) Persimmon: an append-only ZNS-first filesystem. Devashish R. Purandare, Sam Schmidt and Ethan L. Miller | 12:00 | (R) Adaptive Reconvergence-driven AIG Rewriting via Strategy Learning. Liwei Ni, Zonglin Yang, Jiaxi Zhang, Junfeng Liu, Huawei Li, Biwei Xie and Xingquan Li 
+ 12;20 | (S) Turn Waste Into Wealth: Alleviating Read/Write Interference in ZNS SSDs. Weilin Zhu and Wei Tong | 12:20 | (S) AiMap: Learning to Improve Technology Mapping for ASICs via Delay Prediction. Junfeng Liu, Liwei Ni, Xingquan Li, Min Zhou, Lei Chen, Xing Li, Qinghua Zhao and Shuai Ma 
+ 12:30-13:30 | Lunch 
+ 13:30-14:40 | Panel: Technologies, Systems, and Techniques to support Novel Computing Paradigms   
+  (Session Chair:Pedro Trancoso, Chalmers University of Technology ) 
+ 14:40-15:00 | Coffee Break 
+ 15:00-16:00 | Session 8A: GPU II  
+  Session Chair: Zhichao Cao, Arizona State University | 15:00-16:00 | Session 8B: Accelerators  
+  Session Chair: Bahar Asgari, University of Maryland 
+ 15:00 | (R) FlexGM: An Adaptive Runtime System to Accelerate Graph Matching Networks on GPUs. Yue Dai, Xulong Tang and Youtao Zhang | 15:00 | (R) HyAcc: A Hybrid CAM-MAC RRAM-based Accelerator for Recommendation Model. Xuan Zhang, Zhuoran Song, Xing Li, Zhezhi He, Li Jiang, Naifeng Jing and Xiaoyao Liang 
+ 15:20 | (R) NTTFusion: Efficient Number Theoretic Transform Acceleration on GPUs. Zhiwei Wang, Peinan Li, Rui Hou and Dan Meng | 15:20 | (R) ViTframe: Vision Transformer Acceleration via Informative Frame Selection for Video Recognition. Chunyu Qi, Zilong Li, Zhuoran Song and Xiaoyao Liang 
+ 15:40 | (R) MixRec: Orchestrating Concurrent Recommendation Model Training on CPU-GPU platform. Jiazhi Jiang, Rui Tian, Jiangsu Du, Dan Huang and Yutong Lu | 15:40 | (R) ACCO: Automated Causal CNN Scheduling Optimizer for Real-Time Edge Accelerators. Jun Yin, Linyan Mei, Andre Guntoro and Marian Verhelst 
+ 16:00-17:00 | Session 9A: Co-Design  
+  Session Chair: Zhichao Cao, Arizona State University | 16:00-17:00 | Session 9B: Dataflow & Reinforcement Learning  
+  Session Chair: Bahar Asgari, University of Maryland 
+ 16:00 | (R) Re-compact: Structured Pruning and SpMM Kernel Co-design for Accelerating DNNs on GPUs. Yuling Zhang, Ao Ren, Xianzhang Chen, Qiu Lin, Yujuan Tan and Duo Liu | 16:00 | (R) Conveyor: Towards Asynchronous Dataflow in Systolic Array to Exploit Unstructured Sparsity. Seongwook Kim, Gwangeun Byeon, Sihyung Kim, Hyungjin Kim and Seokin Hong 
+ 16:20 | (R) FM-P2L: An Algorithm Hardware Co-design of Fixed-Point MSBs with Power-of-2 LSBs in CNN Accelerators. Jun-Shen Wu and Ren-Shuo Liu | 16:20 | (R) DFGC: DFG-aware NoC Control based on Time Stamp Prediction for Dataflow Architecture. Tianyu Liu, Wenming Li and Zhihua Fan 
+ 16:40 | (S) Hardware-Software Co-Design for Content-Based Sparse Attention. Rui Tang, Xiaoyu Zhang, Rui Liu, Zhejian Luo, Xiaoming Chen and Yinhe Han | 16:40 | (S) Alleviating Transfer Latency in DataFlow Accelerator for DSP Applications. Haibin Wu, Wenming Li, Zhihua Fan, Zhen Wang, Tianyu Liu, Junying Huang, Shengzhong Tang, Yanhuan Liu, Kunming Zhang, Xiaochun Ye and Dongrui Fan 
+ 16:50 | (S) Towards Quantized Stochastic Computing by Leveraging Reduced Precision Binary Numbers through Bit Truncation. Donghui Lee and Yongtae Kim | 16:50 | (S) FLASH-RL: Federated Learning Addressing System and Static Heterogeneity using Reinforcement Learning. Sofiane Bouaziz, Hadjer Benmeziane, Youcef Imine, Leila Hamdad, Smail Niar and Hamza Ouarnoughi 
+ 18:00-20:00 | Conference Dinner 
+ Wednesday, November 8, 2023 
+ 08:30-09:00 | Registration 
+ 09:00-10:00 | Keynote: David Z. Pan (UT Austin) - AI for Chip Design & EDA: Everything, Everywhere, All at Once (?)   
+  Session Chair: Rathish Jayabharathi 
+ 10:00-11:00 | Session 10A: Matrix Multiplication & Sparsity  
+  Session Chair: Nuno Roma, University of Lisbon | 10:00-11:00 | Session 10B: Fault Tolerance & Resilience  
+  Session Chair: Ren-Shuo Liu, National Tsing Hua University 
+ 10:00 | (R) PrSpMV: An Efficient Predictable Kernel for SpMV. Gelin Fu, Tian Xia, Shaoru Qu, Zhongpei Luo, Shuyu Li, Pengyu Cheng, Runfan Guo, Yitong Ding and Pengju Ren | 10:00 | (R) [Best Paper Nominee] Revitalizing Buffered I/O: Optimization of Page Reclaim and I/O Throttling. Jongseok Kim, Chanu Yu and Euiseong Seo 
+ 10:20 | (R) Releasing the Potential of Tensor Core for Unstructured SpMM using Tiled-CSR Format. Zeyu Xue, Mei Wen, Zhaoyun Chen, Yang Shi, Minjin Tang, Jianchao Yang and Zhongdi Luo | 10:20 | (S) ResCheck: Resilient Checkpointing for Energy Harvesting Systems. Keni Qiu, Chuting Xu, Kunyu Zhou and Dehui Qiu 
+ 10:30 | (S) Heart: A Scalable, High-performance ART for Persistent Memory Liangxu Nie, Shengan Zheng, Bowen Zhang, Jinyan Xu and Linpeng Huang 
+ 10:40 | (R) Tailoring Tiling-based GEMM Performance using Supervised Learning. Yongseung Yu, Donghyun Son, Yeonghyun Lee, Sunghyun Park, Giha Ryu, Myeongjin Cho, Jiwon Seo and Yongjun Park | 10:40 | (S) DCR: Decomposition-Aware Column Re-Mapping for Stuck-At-Fault Tolerance in ReRAM Arrays. Hyeonsu Bang, Kang Eun Jeon, Johnny Rhe and Jong Hwan Ko 
+ 10:50 | (S) Snapshot: Fast, Userspace Crash Consistency for CXL and PM Using msync. Suyash Mahar, Mingyao Shen, Terence Kelly and Steven Swanson 
+ 11:00-11:20 | Coffee Break 
+ 11:20-12:50 | Session 11A: Processing-In-Memory  
+  Session Chair: Biruk Seyoum, Columbia University | 11:20-12:50 | Session 11B: Electronic Design Automation  
+  Session Chair: Nan Wu, The George Washington University 
+ 11:20 | (R) [Best Paper Nominee] GIM: Versatile GNN Acceleration with Reconfigurable Processing-in-Memory. Chen Nie, Guoyang Chen, Weifeng Zhang and Zhezhi He | 11:20 | (R) Cerasure: Fast Acceleration Strategies for XOR-Based Erasure Codes. Tianyang Niu, Min Lyu, Wei Wang, Qiliang Li and Yinlong Xu 
+ 11:40 | (R) PSQ: An Automatic Search Framework for Data-Free Quantization on PIM-based Architecture. Fangxin Liu, Ning Yang and Li Jiang | 11:40 | (R) A DSP shared is a DSP earned: HLS Task-Level Multi-Pumping for High-Performance Low-Resource Designs. Giovanni Brignone, Mihai Lazarescu and Luciano Lavagno 
+ 12:00 | (R) Exploiting and Enhancing Computation Latency Variability for High-Performance Time-Domain Computing-in-Memory Neural Network Accelerators. Chia-Chun Wang, Yun-Chen Lo, Jun-Shen Wu, Yu-Chih Tsai, Chia-Cheng Chang, Tsen-Wei Hsu, Min-Wei Chu, Chuan-Yao Lai and Ren-Shuo Liu | 12:00 | (R) Efficient RISC-V-on-x64 Floating Point Simulation. Niko Zurstraben, Nils Bosbach, Jan Moritz Joseph, Lukas Jünger, Jan Henrik Weinstock and Rainer Leupers 
+ 12:20 | (R) Input-Aware Flow-Based In-Memory Computing. Suraj Singireddy, Muhammad Rashedul Haq Rashed, Sven Thijssen, Rickard Ewetz and Sumit Kumar Jha | 12:20 | (R) [Best Paper Nominee] HF-LDPC: HLS-friendly QC-LDPC FPGA Decoder with High Throughput and Flexibility. Yifan Zhang, Cao Qiang, Shaohua Wang, Jie Yao and Hong Jiang 
+ 12:40 | (S) BICEP: Exploiting Bitline Inversion for Efficient Operation-Unit-Based Compute-in-Memory Architecture: No Retraining Needed! Yun-Chen Lo, Chia-Chun Wang and Ren-Shuo Liu | 12:40 | (S) GNNHLS: Evaluating Graph Neural Network Inference via High-Level Synthesis. Chenfeng Zhao, Zehao Dong, Yixin Chen, Xuan Zhang and Roger Chamberlain 
+ 12:50-13:50 | Lunch 
+ 13:50-15:00 | Session 12A: Test & Verification  
+  Session Chair: Sai Manoj Pudukotai Dinakarrao, George Mason University | 13:50-15:00 | Session 12B: Compression & Accelerators  
+  Session Chair: Pedro Trancoso, Chalmers University of Technology 
+ 13:50 | (R) Architectural Contracts for Safe Speculation. Franz A. Fuchs, Jonathan Woodruff, Peter Rugg, Marno van der Maas, Alexandre Joannou, Alexander Richardson, Jessica Clarke, Nathaniel Wesley Filardo, Brooks Davis, John Baldwin, Peter G. Neumann, Simon W. Moore and Robert N. M. Watson | 13:50 | (R) BIRD: A Lightweight and Adaptive Compressor for Communication-Efficient Distributed Learning Using Tensor-wise Bi-Random Sampling. Donglei Wu, Weihao Yang, Cai Deng, Xiangyu Zou, Shiyi Li and Wen Xia 
+ 14:10 | (R) Execute on Clear (EoC): Enhancing Security for Unsafe Speculative Instructions by Precise Identification and Safe Execution. Xiaoni Meng, Qiusong Yang, Yiwei Ci, Pei Zhao, Shan Zhao and Mingshu Li | 14:10 | (R) MultiFuse: Efficient Cross Layer Fusion for DNN Accelerators with Multi-level Memory Hierarchy. Chia-Wei Chang, Jing-Jia Liou, Chih-Tsun Huang, Wei-Chung Hsu and Juin-Ming Lu 
+ 14:30 | (R) RunSAFER: A Novel Runtime Fault Detection Approach for Systolic Array Accelerators. Eleonora Vacca, Giorgio Ajmone and Luca Sterpone | 14:30 | (R) DEQ: Dynamic Element-wise Quantization for Efficient Attention Architecture. Xuhang Wang, Zhuoran Song, Qiyue Huang and Xiaoyao Liang 
+ 14:50 | (S) A Compressed and Accurate Sparse Deep Learning-based Workload-Aware Timing Error Model. Styliani Tompazi and Georgios Karakonstantis | 14:50 | (S) CNN Inference Accelerators with Adjustable Feature Map Compression Ratios. Yu-Chih Tsai, Chung-Yueh Liu, Chia-Chun Wang, Tsen-Wei Hsu and Ren-Shuo Liu 
+ 15:00-15:20 | Closing Session & Best Paper Award Ceremony | Monday, November 6, 2023 | 07:30-08:00 | Registration | 08:00-08:20 | Opening session (General and Program Chairs) | 08:20-09:20 | Keynote: Azalia Mirhoseini (Stanford University) - Pushing the Limits of Scaling Laws in the Age of Large Language Models   
+  Session Chair: Guru Prasadh Venkataramani, The George Washington University | 09:20-10:40 | Session 1A: Verification & Security  
+  Session Chair: Fan Yao, University of Central Florida | 09:20-10:40 | Session 1B: Logic and Circuit Design  
+  Session Chair: Weidong Cao, The George Washington University | 09:20 | (R) Leveraging Firmware Reverse Engineering for Stealthy Sensor Attacks via Binary Modification. Sutej Kulkarni, Ryan Tsang, Asmita Asmita, Houman Homayoun and Soheil Salehi | 09:20 | (R) MNHOKA - PPA efficient M-Term Non-Homogeneous Hybrid Overlap-free Karatsuba Multiplier for GF (2^n) Polynomial multiplier. Gogireddy Ravi Kiran Reddy, Sanampudi Gopala Krishna Reddy, Vasanthi D R and Madhav Rao | 09:40 | (R) Transcend Adversarial Examples: Diversified Adversarial Attacks to Test Deep Learning Model. Wei Kong | 09:40 | (R) ApproxCNN: Evaluation Of CNN With Approximated Layers Using In-Exact Multipliers. Bindu G Gowda, Raghava S N, Prashanth H C, Pratyush Nandi and Madhav Rao | 10:00 | (R) REMU: Enabling Cost-Effective Checkpointing and Deterministic Replay in FPGA-based Emulation. Yuxiao Chen, Yisong Chang, Ke Zhang, Mingyu Chen and Yungang Bao | 10:00 | (R) ACET: An Adaptive Clock Scheme Exploiting Comprehensive Timing Slack for Reconfigurable Processors. Shuya Ji, Weidong Yang, Jianfei Jiang, Naifeng Jing, Weiguang Sheng, Ang Li and Qin Wang | 10:20 | (R) Model Checking TileLink Cache Coherence Protocols By Murphi. Zimin Li, Yongjian Li, Kaifan Wang, Kun Ma and Shizhen Yu | 10:20 | (S) ImprLM: An Improved Logarithmic Multiplier Design Approach via Iterative Linear-Compensation and Modified Dynamic Segment. Yao Shangshang and Shen Li | 10:30 | (S) SFDoP: A Scalable Fused BFloat16 Dot-Product Architecture for DNN. Jing Zhang, Hongbing Tan and Libo Huang | 10:40-11:00 | Coffee Break | 11:00-11:40 | Session 2A: Brain-Inspired Circuits  
+  Session Chair: Soheil Salehi, University of Arizona | 11:00-11:40 | Session 2B: Quantum Computing  
+  Session Chair: Hao Zheng, University of Central Florida | 11:00 | (R) MindCrypt: The Brain as a Random Number Generator for SoC-Based Brain-Computer Interfaces. Guy Eichler, Biruk Seyoum, Kuan-Lin Chiu and Luca Carloni | 11:00 | (R) HiSEP-Q: A Highly Scalable and Efficient Quantum Control Processor for Superconducting Qubits. Xiaorang Guo, Kun Qin and Martin Schulz | 11:20 | (R) BrainTTA: A 28.6 TOPS/W Compiler Programmable Transport-Triggered NN SoC. Maarten Molendijk, Floran de Putter, Manil Dev Gomony, Pekka Jääskeläinen and Henk Corporaal | 11:20 | (R) Enhancing Virtual Distillation with Circuit Cutting for Quantum Error Mitigation. Peiyi Li, Ji Liu, Hrushikesh Pramod Patil, Paul Hovland and Huiyang Zhou | 11:40-12:40 | Session 3A: SRAM & NVM  
+  Session Chair: Soheil Salehi, University of Arizona | 11:40-12:40 | Session 3B: Cache Memory  
+  Session Chair: Hao Zheng, University of Central Florida | 11:40 | (R) ICON: An IR drop compensation method at OU granularity with low overhead for eNVM-based accelerators. Jinpeng Liu, Wei Tong, Bing Wu, Huan Cheng and Chengning Wang | 11:40 | (R) Offline and Online Algorithms for Cache Allocation with Monte Carlo Tree Search and a Learned Model. Yibin Gu, Hua Wang, Man Luo, Jingyu Tang and Ke Zhou | 12:00 | (R) Resonant Compute-In-Memory (RCIM) 10T SRAM Macro for Boolean Logic. Dhandeep Challagundla, Ignatius Bezzam, Biprangshu Saha and Riadul Islam | 12:00 | (R) Morpheus: An Adaptive DRAM Cache with Online Granularity Adjustment for Disaggregated Memory. Xu Zhang, Tianyue Lu, Yisong Chang, Ke Zhang and Mingyu Chen | 12:20 | (R) Small Footprint 6T-SRAM Design with MIV-Transistor Utilization in M3D-IC Technology Madhava Sarma Vemuri and Umamaheswara Rao Tida | 12:20 | (R) Locality-aware Speculative Cache for Fast Partial Updates in Erasure-Coded Cloud Clusters. Hai Zhou, Yuchong Hu, Dan Feng, Wei Wang and Huadong Huang | 12:40-13:40 | Lunch | 13:40-14:40 | Session 4A: Accelerators  
+  Session Chair: Christian Pilato, Politecnico di Milano | 13:40-14:40 | Session 4B: Persistent Memory  
+  Session Chair: Ren-Shuo Liu, National Tsing Hua University | 13:40 | (R) A Cost-Efficient Failure-Tolerant Scheme for Distributed DNN Training. Menglei Chen, Yu Hua, Rong Bai and Jianming Huang | 13:40 | (R) Accelerating Persistent Hash Indexes via Reducing Negative Searches. Renzhi Xiao, Hong Jiang, Dan Feng, Yuchong Hu, Wei Tong, Kang Liu, Yucheng Zhang, Xueliang Wei and Zhengtao Li | 14:00 | (R) RealArch: A Real-Time Scheduler for Mapping Multi-Tenant DNNs on Multi-Core Accelerators. Xuhang Wang, Zhuoran Song and Xiaoyao Liang | 14:00 | (S) Prediction-Guided Metadata Backup for Improving Lifetime on Flash-based Swap. Taejoon Song, JuneHyung Kim, Myeongseon Kim and YoungJin Kim | 14:20 | (S) Polyform: A Versatile Architecture for Multi-DNN Execution via Spatial and Temporal Acceleration. Lingxiang Yin, Amir Ghazizadeh, Shilin Tian, Ahmed Louri and Hao Zheng | 14:10 | (S) RWORT: A Read and Write Optimized Radix Tree for Persistent Memory. Jinlei Hu, Zijie Wei, Jianxi Chen and Dan Feng | 14:30 | (S) STAG: Enabling Low Latency and Low Staleness of GNN-based Services with Dynamic Graphs. Jiawen Wang, Quan Chen, Deze Zeng, Zhuo Song, Chen Chen and Minyi Guo | 14:20 | (R) PMA: A Persistent Memory Allocator with High Efficiency and Crash Consistency Guarantee. Xiangyu Xiang, Yu Hua and Hao Xu | 14:40-15:00 | Coffee Break | 15:00-16:00 | Session 5A: Storage  
+  Session Chair: Fan Yao, University of Central Florida | 15:00-16:00 | Session 5B: Memory Systems  
+  Session Chair: Biruk Seyoum, Columbia University | 15:00 | (R) An Effective and Balanced Storage Extension Approach for Sharding Blockchain Systems. Tingyu Fan, Xiulong Liu, Baochao Chen and Wenyu Qu | 15:00 | (R) CostFM: A High Cost-Performance Fingerprint Management Mechanism for Shared SSDs. Hao Liu, Fang Wang, Mengting Lu and Wenpeng He | 15:20 | (R) BlzFS: Crash Consistent Log-structured File System Based on Byte-loggable Zone for ZNS SSD. Wenjie Qi, Zhipeng Tan, Ziyue Zhang, Jing Zhang, Chao Yu, Ying Yuan and Shikai Tan | 15:20 | (R) Enabling Encrypted Delta Compression for Outsourced Storage Systems via Preserving Similarity Chuang Gan, Yuchong Hu, Leyan Zhao, Xin Zhao, Pengyu Gong, Wenhao Zhang, Lin Wang and Dan Feng | 15:40 | (R) K8sES: Optimizing Kubernetes with Enhanced Storage Service-Level Objectives. Hao Wen, Zhichao Cao, Bingzhe Li, David Du, Ayman Abouelwafa, Doug Voigt, Shiyong Liu, Jim Diehl and Fenggang Wu | 15:40 | (S) FlashDAM: Flexible I/O Throttling for the User Experience of Mobile Systems. Changlong Li, Chao Wang, Xuehai Zhou and Edwin H.-M. Sha | 15:50 | (S) HyperMetric: Robust Hyperdimensional Computing on Error-prone Memories using Metric Learning. Weihong Xu, Viji Swaminathan, Sumukh Pinge, Sean Fuhrman and Tajana Rosing | 16:15- | Social Event: Foggy Bottom and Georgetown walks | Tuesday, November 7, 2023 | 08:30-09:00 | Registration | 09:00-10:00 | Keynote: David Atienza (EPFL) - Accelerator-Based Edge AI Architectures for a Connected and Sustainable World   
+  Session Chair: Christian Pilato, Politecnico di Milano | 10:00-11:00 | Session 6A: GPU & Graph  
+  Session Chair: Nuno Roma, University of Lisbon | 10:00-11:00 | Session 6B: File Systems  
+  Session Chair: Sai Manoj Pudukotai Dinakarrao, George Mason University | 10:00 | (R) KeSCo: Compiler-based Kernel Scheduling for Multi-task GPU Applications. Zejia Lin, Zewei Mo, Xuanteng Huang, Xianwei Zhang and Yutong Lu | 10:00 | (R) HyF2FS: A Filesystem to Fully Exploit the Parallelism of Hybrid Storage. Jintong Zhang, Jianxi Chen, Kezheng Liu, Panfei Yuan and Yongkang Zhuo | 10:20 | (R) Beyond Compression Ratio: A Throughput Analysis of Memory Compression Techniques for GPUs. Manuel Renz and Sohan Lal | 10:20 | (R) SMRTS: A Performance and Cost-Effectiveness Optimized SSD-SMR Tiered File System with Data Deduplication. Zhichao Cao, Hao Wen, Fenggang Wu and David H.C. Du | 10:40 | (S) PANG: A Pattern-Aware GCN Accelerator for Universal Graphs. Yibo Du, Shengwen Liang, Huawei Li, Xiaowei Li, Yinhe Han and Ying Wang | 10:40 | (R) [Best Paper Nominee] Low-Latency and Scalable Full-path Indexing Metadata Service for Distributed File Systems. Chao Dong, Fang Wang, Yuxin Yang, Mengya Lei, Jianshun Zhang and Dan Feng | 11:00-11:20 | Coffee Break | 11:20-12:30 | Session 7A: SSDs  
+  Session Chair: Weidong Cao, The George Washington University | 11:20-12:30 | Session 7B: Logic Synthesis  
+  Session Chair: Nan Wu, The George Washington University | 11:20 | (R) FlexZNS: Building High-Performance ZNS SSDs with Size-Flexible and Parity-Protected Zones. Yu Wang, You Zhou, Zhonghai Lu, Xiaoyi Zhang, Kun Wang, Feng Zhu, Shu Li, Changsheng Xie and Fei Wu | 11:20 | (R) GPT-LS: Generative Pre-Trained Transformer with Off-line Reinforcement Learning for Logic Synthesis. Chenyang Lv, Ziling Wei, Weikang Qian, Junjie Ye, Chang Feng and Zhezhi He | 11:40 | (R) LifetimeKV: Narrowing the Lifetime Gap of SSTs in LSMT-Based KV Stores for ZNS SSDs. Biyong Liu, Yuan Xia, Xueliang Wei and Wei Tong | 11:40 | (R) Delay-Driven Physically-Aware Logic Synthesis with Informed Search. Linyu Zhu and Xinfei Guo | 12:00 | (R) Persimmon: an append-only ZNS-first filesystem. Devashish R. Purandare, Sam Schmidt and Ethan L. Miller | 12:00 | (R) Adaptive Reconvergence-driven AIG Rewriting via Strategy Learning. Liwei Ni, Zonglin Yang, Jiaxi Zhang, Junfeng Liu, Huawei Li, Biwei Xie and Xingquan Li | 12;20 | (S) Turn Waste Into Wealth: Alleviating Read/Write Interference in ZNS SSDs. Weilin Zhu and Wei Tong | 12:20 | (S) AiMap: Learning to Improve Technology Mapping for ASICs via Delay Prediction. Junfeng Liu, Liwei Ni, Xingquan Li, Min Zhou, Lei Chen, Xing Li, Qinghua Zhao and Shuai Ma | 12:30-13:30 | Lunch | 13:30-14:40 | Panel: Technologies, Systems, and Techniques to support Novel Computing Paradigms   
+  (Session Chair:Pedro Trancoso, Chalmers University of Technology ) | 14:40-15:00 | Coffee Break | 15:00-16:00 | Session 8A: GPU II  
+  Session Chair: Zhichao Cao, Arizona State University | 15:00-16:00 | Session 8B: Accelerators  
+  Session Chair: Bahar Asgari, University of Maryland | 15:00 | (R) FlexGM: An Adaptive Runtime System to Accelerate Graph Matching Networks on GPUs. Yue Dai, Xulong Tang and Youtao Zhang | 15:00 | (R) HyAcc: A Hybrid CAM-MAC RRAM-based Accelerator for Recommendation Model. Xuan Zhang, Zhuoran Song, Xing Li, Zhezhi He, Li Jiang, Naifeng Jing and Xiaoyao Liang | 15:20 | (R) NTTFusion: Efficient Number Theoretic Transform Acceleration on GPUs. Zhiwei Wang, Peinan Li, Rui Hou and Dan Meng | 15:20 | (R) ViTframe: Vision Transformer Acceleration via Informative Frame Selection for Video Recognition. Chunyu Qi, Zilong Li, Zhuoran Song and Xiaoyao Liang | 15:40 | (R) MixRec: Orchestrating Concurrent Recommendation Model Training on CPU-GPU platform. Jiazhi Jiang, Rui Tian, Jiangsu Du, Dan Huang and Yutong Lu | 15:40 | (R) ACCO: Automated Causal CNN Scheduling Optimizer for Real-Time Edge Accelerators. Jun Yin, Linyan Mei, Andre Guntoro and Marian Verhelst | 16:00-17:00 | Session 9A: Co-Design  
+  Session Chair: Zhichao Cao, Arizona State University | 16:00-17:00 | Session 9B: Dataflow & Reinforcement Learning  
+  Session Chair: Bahar Asgari, University of Maryland | 16:00 | (R) Re-compact: Structured Pruning and SpMM Kernel Co-design for Accelerating DNNs on GPUs. Yuling Zhang, Ao Ren, Xianzhang Chen, Qiu Lin, Yujuan Tan and Duo Liu | 16:00 | (R) Conveyor: Towards Asynchronous Dataflow in Systolic Array to Exploit Unstructured Sparsity. Seongwook Kim, Gwangeun Byeon, Sihyung Kim, Hyungjin Kim and Seokin Hong | 16:20 | (R) FM-P2L: An Algorithm Hardware Co-design of Fixed-Point MSBs with Power-of-2 LSBs in CNN Accelerators. Jun-Shen Wu and Ren-Shuo Liu | 16:20 | (R) DFGC: DFG-aware NoC Control based on Time Stamp Prediction for Dataflow Architecture. Tianyu Liu, Wenming Li and Zhihua Fan | 16:40 | (S) Hardware-Software Co-Design for Content-Based Sparse Attention. Rui Tang, Xiaoyu Zhang, Rui Liu, Zhejian Luo, Xiaoming Chen and Yinhe Han | 16:40 | (S) Alleviating Transfer Latency in DataFlow Accelerator for DSP Applications. Haibin Wu, Wenming Li, Zhihua Fan, Zhen Wang, Tianyu Liu, Junying Huang, Shengzhong Tang, Yanhuan Liu, Kunming Zhang, Xiaochun Ye and Dongrui Fan | 16:50 | (S) Towards Quantized Stochastic Computing by Leveraging Reduced Precision Binary Numbers through Bit Truncation. Donghui Lee and Yongtae Kim | 16:50 | (S) FLASH-RL: Federated Learning Addressing System and Static Heterogeneity using Reinforcement Learning. Sofiane Bouaziz, Hadjer Benmeziane, Youcef Imine, Leila Hamdad, Smail Niar and Hamza Ouarnoughi | 18:00-20:00 | Conference Dinner | Wednesday, November 8, 2023 | 08:30-09:00 | Registration | 09:00-10:00 | Keynote: David Z. Pan (UT Austin) - AI for Chip Design & EDA: Everything, Everywhere, All at Once (?)   
+  Session Chair: Rathish Jayabharathi | 10:00-11:00 | Session 10A: Matrix Multiplication & Sparsity  
+  Session Chair: Nuno Roma, University of Lisbon | 10:00-11:00 | Session 10B: Fault Tolerance & Resilience  
+  Session Chair: Ren-Shuo Liu, National Tsing Hua University | 10:00 | (R) PrSpMV: An Efficient Predictable Kernel for SpMV. Gelin Fu, Tian Xia, Shaoru Qu, Zhongpei Luo, Shuyu Li, Pengyu Cheng, Runfan Guo, Yitong Ding and Pengju Ren | 10:00 | (R) [Best Paper Nominee] Revitalizing Buffered I/O: Optimization of Page Reclaim and I/O Throttling. Jongseok Kim, Chanu Yu and Euiseong Seo | 10:20 | (R) Releasing the Potential of Tensor Core for Unstructured SpMM using Tiled-CSR Format. Zeyu Xue, Mei Wen, Zhaoyun Chen, Yang Shi, Minjin Tang, Jianchao Yang and Zhongdi Luo | 10:20 | (S) ResCheck: Resilient Checkpointing for Energy Harvesting Systems. Keni Qiu, Chuting Xu, Kunyu Zhou and Dehui Qiu | 10:30 | (S) Heart: A Scalable, High-performance ART for Persistent Memory Liangxu Nie, Shengan Zheng, Bowen Zhang, Jinyan Xu and Linpeng Huang | 10:40 | (R) Tailoring Tiling-based GEMM Performance using Supervised Learning. Yongseung Yu, Donghyun Son, Yeonghyun Lee, Sunghyun Park, Giha Ryu, Myeongjin Cho, Jiwon Seo and Yongjun Park | 10:40 | (S) DCR: Decomposition-Aware Column Re-Mapping for Stuck-At-Fault Tolerance in ReRAM Arrays. Hyeonsu Bang, Kang Eun Jeon, Johnny Rhe and Jong Hwan Ko | 10:50 | (S) Snapshot: Fast, Userspace Crash Consistency for CXL and PM Using msync. Suyash Mahar, Mingyao Shen, Terence Kelly and Steven Swanson | 11:00-11:20 | Coffee Break | 11:20-12:50 | Session 11A: Processing-In-Memory  
+  Session Chair: Biruk Seyoum, Columbia University | 11:20-12:50 | Session 11B: Electronic Design Automation  
+  Session Chair: Nan Wu, The George Washington University | 11:20 | (R) [Best Paper Nominee] GIM: Versatile GNN Acceleration with Reconfigurable Processing-in-Memory. Chen Nie, Guoyang Chen, Weifeng Zhang and Zhezhi He | 11:20 | (R) Cerasure: Fast Acceleration Strategies for XOR-Based Erasure Codes. Tianyang Niu, Min Lyu, Wei Wang, Qiliang Li and Yinlong Xu | 11:40 | (R) PSQ: An Automatic Search Framework for Data-Free Quantization on PIM-based Architecture. Fangxin Liu, Ning Yang and Li Jiang | 11:40 | (R) A DSP shared is a DSP earned: HLS Task-Level Multi-Pumping for High-Performance Low-Resource Designs. Giovanni Brignone, Mihai Lazarescu and Luciano Lavagno | 12:00 | (R) Exploiting and Enhancing Computation Latency Variability for High-Performance Time-Domain Computing-in-Memory Neural Network Accelerators. Chia-Chun Wang, Yun-Chen Lo, Jun-Shen Wu, Yu-Chih Tsai, Chia-Cheng Chang, Tsen-Wei Hsu, Min-Wei Chu, Chuan-Yao Lai and Ren-Shuo Liu | 12:00 | (R) Efficient RISC-V-on-x64 Floating Point Simulation. Niko Zurstraben, Nils Bosbach, Jan Moritz Joseph, Lukas Jünger, Jan Henrik Weinstock and Rainer Leupers | 12:20 | (R) Input-Aware Flow-Based In-Memory Computing. Suraj Singireddy, Muhammad Rashedul Haq Rashed, Sven Thijssen, Rickard Ewetz and Sumit Kumar Jha | 12:20 | (R) [Best Paper Nominee] HF-LDPC: HLS-friendly QC-LDPC FPGA Decoder with High Throughput and Flexibility. Yifan Zhang, Cao Qiang, Shaohua Wang, Jie Yao and Hong Jiang | 12:40 | (S) BICEP: Exploiting Bitline Inversion for Efficient Operation-Unit-Based Compute-in-Memory Architecture: No Retraining Needed! Yun-Chen Lo, Chia-Chun Wang and Ren-Shuo Liu | 12:40 | (S) GNNHLS: Evaluating Graph Neural Network Inference via High-Level Synthesis. Chenfeng Zhao, Zehao Dong, Yixin Chen, Xuan Zhang and Roger Chamberlain | 12:50-13:50 | Lunch | 13:50-15:00 | Session 12A: Test & Verification  
+  Session Chair: Sai Manoj Pudukotai Dinakarrao, George Mason University | 13:50-15:00 | Session 12B: Compression & Accelerators  
+  Session Chair: Pedro Trancoso, Chalmers University of Technology | 13:50 | (R) Architectural Contracts for Safe Speculation. Franz A. Fuchs, Jonathan Woodruff, Peter Rugg, Marno van der Maas, Alexandre Joannou, Alexander Richardson, Jessica Clarke, Nathaniel Wesley Filardo, Brooks Davis, John Baldwin, Peter G. Neumann, Simon W. Moore and Robert N. M. Watson | 13:50 | (R) BIRD: A Lightweight and Adaptive Compressor for Communication-Efficient Distributed Learning Using Tensor-wise Bi-Random Sampling. Donglei Wu, Weihao Yang, Cai Deng, Xiangyu Zou, Shiyi Li and Wen Xia | 14:10 | (R) Execute on Clear (EoC): Enhancing Security for Unsafe Speculative Instructions by Precise Identification and Safe Execution. Xiaoni Meng, Qiusong Yang, Yiwei Ci, Pei Zhao, Shan Zhao and Mingshu Li | 14:10 | (R) MultiFuse: Efficient Cross Layer Fusion for DNN Accelerators with Multi-level Memory Hierarchy. Chia-Wei Chang, Jing-Jia Liou, Chih-Tsun Huang, Wei-Chung Hsu and Juin-Ming Lu | 14:30 | (R) RunSAFER: A Novel Runtime Fault Detection Approach for Systolic Array Accelerators. Eleonora Vacca, Giorgio Ajmone and Luca Sterpone | 14:30 | (R) DEQ: Dynamic Element-wise Quantization for Efficient Attention Architecture. Xuhang Wang, Zhuoran Song, Qiyue Huang and Xiaoyao Liang | 14:50 | (S) A Compressed and Accurate Sparse Deep Learning-based Workload-Aware Timing Error Model. Styliani Tompazi and Georgios Karakonstantis | 14:50 | (S) CNN Inference Accelerators with Adjustable Feature Map Compression Ratios. Yu-Chih Tsai, Chung-Yueh Liu, Chia-Chun Wang, Tsen-Wei Hsu and Ren-Shuo Liu | 15:00-15:20 | Closing Session & Best Paper Award Ceremony 
+ Monday, November 6, 2023 
+ 07:30-08:00 | Registration 
+ 08:00-08:20 | Opening session (General and Program Chairs) 
+ 08:20-09:20 | Keynote: Azalia Mirhoseini (Stanford University) - Pushing the Limits of Scaling Laws in the Age of Large Language Models   
+  Session Chair: Guru Prasadh Venkataramani, The George Washington University 
+ 09:20-10:40 | Session 1A: Verification & Security  
+  Session Chair: Fan Yao, University of Central Florida | 09:20-10:40 | Session 1B: Logic and Circuit Design  
+  Session Chair: Weidong Cao, The George Washington University 
+ 09:20 | (R) Leveraging Firmware Reverse Engineering for Stealthy Sensor Attacks via Binary Modification. Sutej Kulkarni, Ryan Tsang, Asmita Asmita, Houman Homayoun and Soheil Salehi | 09:20 | (R) MNHOKA - PPA efficient M-Term Non-Homogeneous Hybrid Overlap-free Karatsuba Multiplier for GF (2^n) Polynomial multiplier. Gogireddy Ravi Kiran Reddy, Sanampudi Gopala Krishna Reddy, Vasanthi D R and Madhav Rao 
+ 09:40 | (R) Transcend Adversarial Examples: Diversified Adversarial Attacks to Test Deep Learning Model. Wei Kong | 09:40 | (R) ApproxCNN: Evaluation Of CNN With Approximated Layers Using In-Exact Multipliers. Bindu G Gowda, Raghava S N, Prashanth H C, Pratyush Nandi and Madhav Rao 
+ 10:00 | (R) REMU: Enabling Cost-Effective Checkpointing and Deterministic Replay in FPGA-based Emulation. Yuxiao Chen, Yisong Chang, Ke Zhang, Mingyu Chen and Yungang Bao | 10:00 | (R) ACET: An Adaptive Clock Scheme Exploiting Comprehensive Timing Slack for Reconfigurable Processors. Shuya Ji, Weidong Yang, Jianfei Jiang, Naifeng Jing, Weiguang Sheng, Ang Li and Qin Wang 
+ 10:20 | (R) Model Checking TileLink Cache Coherence Protocols By Murphi. Zimin Li, Yongjian Li, Kaifan Wang, Kun Ma and Shizhen Yu | 10:20 | (S) ImprLM: An Improved Logarithmic Multiplier Design Approach via Iterative Linear-Compensation and Modified Dynamic Segment. Yao Shangshang and Shen Li 
+ 10:30 | (S) SFDoP: A Scalable Fused BFloat16 Dot-Product Architecture for DNN. Jing Zhang, Hongbing Tan and Libo Huang 
+ 10:40-11:00 | Coffee Break 
+ 11:00-11:40 | Session 2A: Brain-Inspired Circuits  
+  Session Chair: Soheil Salehi, University of Arizona | 11:00-11:40 | Session 2B: Quantum Computing  
+  Session Chair: Hao Zheng, University of Central Florida 
+ 11:00 | (R) MindCrypt: The Brain as a Random Number Generator for SoC-Based Brain-Computer Interfaces. Guy Eichler, Biruk Seyoum, Kuan-Lin Chiu and Luca Carloni | 11:00 | (R) HiSEP-Q: A Highly Scalable and Efficient Quantum Control Processor for Superconducting Qubits. Xiaorang Guo, Kun Qin and Martin Schulz 
+ 11:20 | (R) BrainTTA: A 28.6 TOPS/W Compiler Programmable Transport-Triggered NN SoC. Maarten Molendijk, Floran de Putter, Manil Dev Gomony, Pekka Jääskeläinen and Henk Corporaal | 11:20 | (R) Enhancing Virtual Distillation with Circuit Cutting for Quantum Error Mitigation. Peiyi Li, Ji Liu, Hrushikesh Pramod Patil, Paul Hovland and Huiyang Zhou 
+ 11:40-12:40 | Session 3A: SRAM & NVM  
+  Session Chair: Soheil Salehi, University of Arizona | 11:40-12:40 | Session 3B: Cache Memory  
+  Session Chair: Hao Zheng, University of Central Florida 
+ 11:40 | (R) ICON: An IR drop compensation method at OU granularity with low overhead for eNVM-based accelerators. Jinpeng Liu, Wei Tong, Bing Wu, Huan Cheng and Chengning Wang | 11:40 | (R) Offline and Online Algorithms for Cache Allocation with Monte Carlo Tree Search and a Learned Model. Yibin Gu, Hua Wang, Man Luo, Jingyu Tang and Ke Zhou 
+ 12:00 | (R) Resonant Compute-In-Memory (RCIM) 10T SRAM Macro for Boolean Logic. Dhandeep Challagundla, Ignatius Bezzam, Biprangshu Saha and Riadul Islam | 12:00 | (R) Morpheus: An Adaptive DRAM Cache with Online Granularity Adjustment for Disaggregated Memory. Xu Zhang, Tianyue Lu, Yisong Chang, Ke Zhang and Mingyu Chen 
+ 12:20 | (R) Small Footprint 6T-SRAM Design with MIV-Transistor Utilization in M3D-IC Technology Madhava Sarma Vemuri and Umamaheswara Rao Tida | 12:20 | (R) Locality-aware Speculative Cache for Fast Partial Updates in Erasure-Coded Cloud Clusters. Hai Zhou, Yuchong Hu, Dan Feng, Wei Wang and Huadong Huang 
+ 12:40-13:40 | Lunch 
+ 13:40-14:40 | Session 4A: Accelerators  
+  Session Chair: Christian Pilato, Politecnico di Milano | 13:40-14:40 | Session 4B: Persistent Memory  
+  Session Chair: Ren-Shuo Liu, National Tsing Hua University 
+ 13:40 | (R) A Cost-Efficient Failure-Tolerant Scheme for Distributed DNN Training. Menglei Chen, Yu Hua, Rong Bai and Jianming Huang | 13:40 | (R) Accelerating Persistent Hash Indexes via Reducing Negative Searches. Renzhi Xiao, Hong Jiang, Dan Feng, Yuchong Hu, Wei Tong, Kang Liu, Yucheng Zhang, Xueliang Wei and Zhengtao Li 
+ 14:00 | (R) RealArch: A Real-Time Scheduler for Mapping Multi-Tenant DNNs on Multi-Core Accelerators. Xuhang Wang, Zhuoran Song and Xiaoyao Liang | 14:00 | (S) Prediction-Guided Metadata Backup for Improving Lifetime on Flash-based Swap. Taejoon Song, JuneHyung Kim, Myeongseon Kim and YoungJin Kim 
+ 14:20 | (S) Polyform: A Versatile Architecture for Multi-DNN Execution via Spatial and Temporal Acceleration. Lingxiang Yin, Amir Ghazizadeh, Shilin Tian, Ahmed Louri and Hao Zheng | 14:10 | (S) RWORT: A Read and Write Optimized Radix Tree for Persistent Memory. Jinlei Hu, Zijie Wei, Jianxi Chen and Dan Feng 
+ 14:30 | (S) STAG: Enabling Low Latency and Low Staleness of GNN-based Services with Dynamic Graphs. Jiawen Wang, Quan Chen, Deze Zeng, Zhuo Song, Chen Chen and Minyi Guo | 14:20 | (R) PMA: A Persistent Memory Allocator with High Efficiency and Crash Consistency Guarantee. Xiangyu Xiang, Yu Hua and Hao Xu 
+ 14:40-15:00 | Coffee Break 
+ 15:00-16:00 | Session 5A: Storage  
+  Session Chair: Fan Yao, University of Central Florida | 15:00-16:00 | Session 5B: Memory Systems  
+  Session Chair: Biruk Seyoum, Columbia University 
+ 15:00 | (R) An Effective and Balanced Storage Extension Approach for Sharding Blockchain Systems. Tingyu Fan, Xiulong Liu, Baochao Chen and Wenyu Qu | 15:00 | (R) CostFM: A High Cost-Performance Fingerprint Management Mechanism for Shared SSDs. Hao Liu, Fang Wang, Mengting Lu and Wenpeng He 
+ 15:20 | (R) BlzFS: Crash Consistent Log-structured File System Based on Byte-loggable Zone for ZNS SSD. Wenjie Qi, Zhipeng Tan, Ziyue Zhang, Jing Zhang, Chao Yu, Ying Yuan and Shikai Tan | 15:20 | (R) Enabling Encrypted Delta Compression for Outsourced Storage Systems via Preserving Similarity Chuang Gan, Yuchong Hu, Leyan Zhao, Xin Zhao, Pengyu Gong, Wenhao Zhang, Lin Wang and Dan Feng 
+ 15:40 | (R) K8sES: Optimizing Kubernetes with Enhanced Storage Service-Level Objectives. Hao Wen, Zhichao Cao, Bingzhe Li, David Du, Ayman Abouelwafa, Doug Voigt, Shiyong Liu, Jim Diehl and Fenggang Wu | 15:40 | (S) FlashDAM: Flexible I/O Throttling for the User Experience of Mobile Systems. Changlong Li, Chao Wang, Xuehai Zhou and Edwin H.-M. Sha 
+ 15:50 | (S) HyperMetric: Robust Hyperdimensional Computing on Error-prone Memories using Metric Learning. Weihong Xu, Viji Swaminathan, Sumukh Pinge, Sean Fuhrman and Tajana Rosing 
+ 16:15- | Social Event: Foggy Bottom and Georgetown walks 
+ Tuesday, November 7, 2023 
+ 08:30-09:00 | Registration 
+ 09:00-10:00 | Keynote: David Atienza (EPFL) - Accelerator-Based Edge AI Architectures for a Connected and Sustainable World   
+  Session Chair: Christian Pilato, Politecnico di Milano 
+ 10:00-11:00 | Session 6A: GPU & Graph  
+  Session Chair: Nuno Roma, University of Lisbon | 10:00-11:00 | Session 6B: File Systems  
+  Session Chair: Sai Manoj Pudukotai Dinakarrao, George Mason University 
+ 10:00 | (R) KeSCo: Compiler-based Kernel Scheduling for Multi-task GPU Applications. Zejia Lin, Zewei Mo, Xuanteng Huang, Xianwei Zhang and Yutong Lu | 10:00 | (R) HyF2FS: A Filesystem to Fully Exploit the Parallelism of Hybrid Storage. Jintong Zhang, Jianxi Chen, Kezheng Liu, Panfei Yuan and Yongkang Zhuo 
+ 10:20 | (R) Beyond Compression Ratio: A Throughput Analysis of Memory Compression Techniques for GPUs. Manuel Renz and Sohan Lal | 10:20 | (R) SMRTS: A Performance and Cost-Effectiveness Optimized SSD-SMR Tiered File System with Data Deduplication. Zhichao Cao, Hao Wen, Fenggang Wu and David H.C. Du 
+ 10:40 | (S) PANG: A Pattern-Aware GCN Accelerator for Universal Graphs. Yibo Du, Shengwen Liang, Huawei Li, Xiaowei Li, Yinhe Han and Ying Wang | 10:40 | (R) [Best Paper Nominee] Low-Latency and Scalable Full-path Indexing Metadata Service for Distributed File Systems. Chao Dong, Fang Wang, Yuxin Yang, Mengya Lei, Jianshun Zhang and Dan Feng 
+ 11:00-11:20 | Coffee Break 
+ 11:20-12:30 | Session 7A: SSDs  
+  Session Chair: Weidong Cao, The George Washington University | 11:20-12:30 | Session 7B: Logic Synthesis  
+  Session Chair: Nan Wu, The George Washington University 
+ 11:20 | (R) FlexZNS: Building High-Performance ZNS SSDs with Size-Flexible and Parity-Protected Zones. Yu Wang, You Zhou, Zhonghai Lu, Xiaoyi Zhang, Kun Wang, Feng Zhu, Shu Li, Changsheng Xie and Fei Wu | 11:20 | (R) GPT-LS: Generative Pre-Trained Transformer with Off-line Reinforcement Learning for Logic Synthesis. Chenyang Lv, Ziling Wei, Weikang Qian, Junjie Ye, Chang Feng and Zhezhi He 
+ 11:40 | (R) LifetimeKV: Narrowing the Lifetime Gap of SSTs in LSMT-Based KV Stores for ZNS SSDs. Biyong Liu, Yuan Xia, Xueliang Wei and Wei Tong | 11:40 | (R) Delay-Driven Physically-Aware Logic Synthesis with Informed Search. Linyu Zhu and Xinfei Guo 
+ 12:00 | (R) Persimmon: an append-only ZNS-first filesystem. Devashish R. Purandare, Sam Schmidt and Ethan L. Miller | 12:00 | (R) Adaptive Reconvergence-driven AIG Rewriting via Strategy Learning. Liwei Ni, Zonglin Yang, Jiaxi Zhang, Junfeng Liu, Huawei Li, Biwei Xie and Xingquan Li 
+ 12;20 | (S) Turn Waste Into Wealth: Alleviating Read/Write Interference in ZNS SSDs. Weilin Zhu and Wei Tong | 12:20 | (S) AiMap: Learning to Improve Technology Mapping for ASICs via Delay Prediction. Junfeng Liu, Liwei Ni, Xingquan Li, Min Zhou, Lei Chen, Xing Li, Qinghua Zhao and Shuai Ma 
+ 12:30-13:30 | Lunch 
+ 13:30-14:40 | Panel: Technologies, Systems, and Techniques to support Novel Computing Paradigms   
+  (Session Chair:Pedro Trancoso, Chalmers University of Technology ) 
+ 14:40-15:00 | Coffee Break 
+ 15:00-16:00 | Session 8A: GPU II  
+  Session Chair: Zhichao Cao, Arizona State University | 15:00-16:00 | Session 8B: Accelerators  
+  Session Chair: Bahar Asgari, University of Maryland 
+ 15:00 | (R) FlexGM: An Adaptive Runtime System to Accelerate Graph Matching Networks on GPUs. Yue Dai, Xulong Tang and Youtao Zhang | 15:00 | (R) HyAcc: A Hybrid CAM-MAC RRAM-based Accelerator for Recommendation Model. Xuan Zhang, Zhuoran Song, Xing Li, Zhezhi He, Li Jiang, Naifeng Jing and Xiaoyao Liang 
+ 15:20 | (R) NTTFusion: Efficient Number Theoretic Transform Acceleration on GPUs. Zhiwei Wang, Peinan Li, Rui Hou and Dan Meng | 15:20 | (R) ViTframe: Vision Transformer Acceleration via Informative Frame Selection for Video Recognition. Chunyu Qi, Zilong Li, Zhuoran Song and Xiaoyao Liang 
+ 15:40 | (R) MixRec: Orchestrating Concurrent Recommendation Model Training on CPU-GPU platform. Jiazhi Jiang, Rui Tian, Jiangsu Du, Dan Huang and Yutong Lu | 15:40 | (R) ACCO: Automated Causal CNN Scheduling Optimizer for Real-Time Edge Accelerators. Jun Yin, Linyan Mei, Andre Guntoro and Marian Verhelst 
+ 16:00-17:00 | Session 9A: Co-Design  
+  Session Chair: Zhichao Cao, Arizona State University | 16:00-17:00 | Session 9B: Dataflow & Reinforcement Learning  
+  Session Chair: Bahar Asgari, University of Maryland 
+ 16:00 | (R) Re-compact: Structured Pruning and SpMM Kernel Co-design for Accelerating DNNs on GPUs. Yuling Zhang, Ao Ren, Xianzhang Chen, Qiu Lin, Yujuan Tan and Duo Liu | 16:00 | (R) Conveyor: Towards Asynchronous Dataflow in Systolic Array to Exploit Unstructured Sparsity. Seongwook Kim, Gwangeun Byeon, Sihyung Kim, Hyungjin Kim and Seokin Hong 
+ 16:20 | (R) FM-P2L: An Algorithm Hardware Co-design of Fixed-Point MSBs with Power-of-2 LSBs in CNN Accelerators. Jun-Shen Wu and Ren-Shuo Liu | 16:20 | (R) DFGC: DFG-aware NoC Control based on Time Stamp Prediction for Dataflow Architecture. Tianyu Liu, Wenming Li and Zhihua Fan 
+ 16:40 | (S) Hardware-Software Co-Design for Content-Based Sparse Attention. Rui Tang, Xiaoyu Zhang, Rui Liu, Zhejian Luo, Xiaoming Chen and Yinhe Han | 16:40 | (S) Alleviating Transfer Latency in DataFlow Accelerator for DSP Applications. Haibin Wu, Wenming Li, Zhihua Fan, Zhen Wang, Tianyu Liu, Junying Huang, Shengzhong Tang, Yanhuan Liu, Kunming Zhang, Xiaochun Ye and Dongrui Fan 
+ 16:50 | (S) Towards Quantized Stochastic Computing by Leveraging Reduced Precision Binary Numbers through Bit Truncation. Donghui Lee and Yongtae Kim | 16:50 | (S) FLASH-RL: Federated Learning Addressing System and Static Heterogeneity using Reinforcement Learning. Sofiane Bouaziz, Hadjer Benmeziane, Youcef Imine, Leila Hamdad, Smail Niar and Hamza Ouarnoughi 
+ 18:00-20:00 | Conference Dinner 
+ Wednesday, November 8, 2023 
+ 08:30-09:00 | Registration 
+ 09:00-10:00 | Keynote: David Z. Pan (UT Austin) - AI for Chip Design & EDA: Everything, Everywhere, All at Once (?)   
+  Session Chair: Rathish Jayabharathi 
+ 10:00-11:00 | Session 10A: Matrix Multiplication & Sparsity  
+  Session Chair: Nuno Roma, University of Lisbon | 10:00-11:00 | Session 10B: Fault Tolerance & Resilience  
+  Session Chair: Ren-Shuo Liu, National Tsing Hua University 
+ 10:00 | (R) PrSpMV: An Efficient Predictable Kernel for SpMV. Gelin Fu, Tian Xia, Shaoru Qu, Zhongpei Luo, Shuyu Li, Pengyu Cheng, Runfan Guo, Yitong Ding and Pengju Ren | 10:00 | (R) [Best Paper Nominee] Revitalizing Buffered I/O: Optimization of Page Reclaim and I/O Throttling. Jongseok Kim, Chanu Yu and Euiseong Seo 
+ 10:20 | (R) Releasing the Potential of Tensor Core for Unstructured SpMM using Tiled-CSR Format. Zeyu Xue, Mei Wen, Zhaoyun Chen, Yang Shi, Minjin Tang, Jianchao Yang and Zhongdi Luo | 10:20 | (S) ResCheck: Resilient Checkpointing for Energy Harvesting Systems. Keni Qiu, Chuting Xu, Kunyu Zhou and Dehui Qiu 
+ 10:30 | (S) Heart: A Scalable, High-performance ART for Persistent Memory Liangxu Nie, Shengan Zheng, Bowen Zhang, Jinyan Xu and Linpeng Huang 
+ 10:40 | (R) Tailoring Tiling-based GEMM Performance using Supervised Learning. Yongseung Yu, Donghyun Son, Yeonghyun Lee, Sunghyun Park, Giha Ryu, Myeongjin Cho, Jiwon Seo and Yongjun Park | 10:40 | (S) DCR: Decomposition-Aware Column Re-Mapping for Stuck-At-Fault Tolerance in ReRAM Arrays. Hyeonsu Bang, Kang Eun Jeon, Johnny Rhe and Jong Hwan Ko 
+ 10:50 | (S) Snapshot: Fast, Userspace Crash Consistency for CXL and PM Using msync. Suyash Mahar, Mingyao Shen, Terence Kelly and Steven Swanson 
+ 11:00-11:20 | Coffee Break 
+ 11:20-12:50 | Session 11A: Processing-In-Memory  
+  Session Chair: Biruk Seyoum, Columbia University | 11:20-12:50 | Session 11B: Electronic Design Automation  
+  Session Chair: Nan Wu, The George Washington University 
+ 11:20 | (R) [Best Paper Nominee] GIM: Versatile GNN Acceleration with Reconfigurable Processing-in-Memory. Chen Nie, Guoyang Chen, Weifeng Zhang and Zhezhi He | 11:20 | (R) Cerasure: Fast Acceleration Strategies for XOR-Based Erasure Codes. Tianyang Niu, Min Lyu, Wei Wang, Qiliang Li and Yinlong Xu 
+ 11:40 | (R) PSQ: An Automatic Search Framework for Data-Free Quantization on PIM-based Architecture. Fangxin Liu, Ning Yang and Li Jiang | 11:40 | (R) A DSP shared is a DSP earned: HLS Task-Level Multi-Pumping for High-Performance Low-Resource Designs. Giovanni Brignone, Mihai Lazarescu and Luciano Lavagno 
+ 12:00 | (R) Exploiting and Enhancing Computation Latency Variability for High-Performance Time-Domain Computing-in-Memory Neural Network Accelerators. Chia-Chun Wang, Yun-Chen Lo, Jun-Shen Wu, Yu-Chih Tsai, Chia-Cheng Chang, Tsen-Wei Hsu, Min-Wei Chu, Chuan-Yao Lai and Ren-Shuo Liu | 12:00 | (R) Efficient RISC-V-on-x64 Floating Point Simulation. Niko Zurstraben, Nils Bosbach, Jan Moritz Joseph, Lukas Jünger, Jan Henrik Weinstock and Rainer Leupers 
+ 12:20 | (R) Input-Aware Flow-Based In-Memory Computing. Suraj Singireddy, Muhammad Rashedul Haq Rashed, Sven Thijssen, Rickard Ewetz and Sumit Kumar Jha | 12:20 | (R) [Best Paper Nominee] HF-LDPC: HLS-friendly QC-LDPC FPGA Decoder with High Throughput and Flexibility. Yifan Zhang, Cao Qiang, Shaohua Wang, Jie Yao and Hong Jiang 
+ 12:40 | (S) BICEP: Exploiting Bitline Inversion for Efficient Operation-Unit-Based Compute-in-Memory Architecture: No Retraining Needed! Yun-Chen Lo, Chia-Chun Wang and Ren-Shuo Liu | 12:40 | (S) GNNHLS: Evaluating Graph Neural Network Inference via High-Level Synthesis. Chenfeng Zhao, Zehao Dong, Yixin Chen, Xuan Zhang and Roger Chamberlain 
+ 12:50-13:50 | Lunch 
+ 13:50-15:00 | Session 12A: Test & Verification  
+  Session Chair: Sai Manoj Pudukotai Dinakarrao, George Mason University | 13:50-15:00 | Session 12B: Compression & Accelerators  
+  Session Chair: Pedro Trancoso, Chalmers University of Technology 
+ 13:50 | (R) Architectural Contracts for Safe Speculation. Franz A. Fuchs, Jonathan Woodruff, Peter Rugg, Marno van der Maas, Alexandre Joannou, Alexander Richardson, Jessica Clarke, Nathaniel Wesley Filardo, Brooks Davis, John Baldwin, Peter G. Neumann, Simon W. Moore and Robert N. M. Watson | 13:50 | (R) BIRD: A Lightweight and Adaptive Compressor for Communication-Efficient Distributed Learning Using Tensor-wise Bi-Random Sampling. Donglei Wu, Weihao Yang, Cai Deng, Xiangyu Zou, Shiyi Li and Wen Xia 
+ 14:10 | (R) Execute on Clear (EoC): Enhancing Security for Unsafe Speculative Instructions by Precise Identification and Safe Execution. Xiaoni Meng, Qiusong Yang, Yiwei Ci, Pei Zhao, Shan Zhao and Mingshu Li | 14:10 | (R) MultiFuse: Efficient Cross Layer Fusion for DNN Accelerators with Multi-level Memory Hierarchy. Chia-Wei Chang, Jing-Jia Liou, Chih-Tsun Huang, Wei-Chung Hsu and Juin-Ming Lu 
+ 14:30 | (R) RunSAFER: A Novel Runtime Fault Detection Approach for Systolic Array Accelerators. Eleonora Vacca, Giorgio Ajmone and Luca Sterpone | 14:30 | (R) DEQ: Dynamic Element-wise Quantization for Efficient Attention Architecture. Xuhang Wang, Zhuoran Song, Qiyue Huang and Xiaoyao Liang 
+ 14:50 | (S) A Compressed and Accurate Sparse Deep Learning-based Workload-Aware Timing Error Model. Styliani Tompazi and Georgios Karakonstantis | 14:50 | (S) CNN Inference Accelerators with Adjustable Feature Map Compression Ratios. Yu-Chih Tsai, Chung-Yueh Liu, Chia-Chun Wang, Tsen-Wei Hsu and Ren-Shuo Liu 
+ 15:00-15:20 | Closing Session & Best Paper Award Ceremony
