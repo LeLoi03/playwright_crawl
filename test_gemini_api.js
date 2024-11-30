@@ -5,7 +5,7 @@ import { createReadStream } from 'fs';
 import path from 'path'
 
 // AIzaSyAxMJPBLzIYe0gqh52YoycpAdcZQe2Io04
-const apiKey = "AIzaSyDbVwKlX_cCQ48aKqtPpJVnM4FDZJkoTu0";
+const apiKey = "AIzaSyAV319MCiDorKNeNykl68MAzlIJk6YRz3g";
 const genAI = new GoogleGenerativeAI(apiKey);
 
 const systemInstruction = `
@@ -65,8 +65,8 @@ export async function readPromptCSV(filePath) {
       createReadStream(filePath)
         .pipe(csv())
         .on('data', (row) => {
-          const inputText = (row['input:'] || '').trim();
-          const outputText = (row['output:'] || '').trim();
+          const inputText = (row['input'] || '').trim();
+          const outputText = (row['output'] || '').trim();
 
           if (inputText) allInputs.push(inputText);
           if (outputText) allOutputs.push(outputText);
@@ -155,8 +155,9 @@ async function processPrompt(filePath, outputFileName, globalIndex) {
     });
 
     const responseText = response.response.text();
-    const outputPath = `./responses/${outputFileName}`;
-    await fs.promises.writeFile(outputPath, responseText, "utf-8");
+    // const outputPath = `./responses/${outputFileName}`;
+    // await fs.promises.writeFile(outputPath, responseText, "utf-8");
+    console.log(responseText);
 
     const countResult = await model.countTokens(
       parts
@@ -196,13 +197,13 @@ async function run() {
     const tokenCountFilePath = './batch_token_counts.txt';
     fs.writeFileSync(tokenCountFilePath, '', 'utf8'); // Xóa nội dung cũ nếu file đã tồn tại
 
-    // Chạy các request song song, nhưng mỗi lần chỉ gửi 15 request
+    // Chạy các request song song, nhưng mỗi lần chỉ gửi 1 request
     while (promptFiles.length > 0) {
-      // Lấy 15 file đầu tiên
-      const filesToProcess = promptFiles.slice(0, 15);
+      // Lấy 1 file đầu tiên
+      const filesToProcess = promptFiles.slice(0, 1);
       const outputFiles = filesToProcess.map(() => `response_${globalIndex++}.txt`); // Đảm bảo chỉ số tăng liên tục
 
-      // Gửi 15 request song song
+      // Gửi 1 request song song
       const tokenCounts = await Promise.all(
         filesToProcess.map((filePath) =>
           processPrompt(
@@ -220,12 +221,12 @@ async function run() {
       // Ghi tổng token của batch vào file
       fs.appendFileSync(tokenCountFilePath, `Batch tổng token: ${batchTotalTokens}\n`, 'utf8');
 
-      // Đợi 1 phút sau khi hoàn thành việc gửi 15 request
+      // Đợi 1 phút sau khi hoàn thành việc gửi 1 request
       console.log("Waiting for 1 minute before sending next batch...");
       await new Promise(resolve => setTimeout(resolve, 65000)); // Nghỉ 1 phút
 
       // Loại bỏ các file đã xử lý và cập nhật lại danh sách các file chưa xử lý
-      promptFiles = promptFiles.slice(15); // Loại bỏ 15 file đầu tiên đã xử lý
+      promptFiles = promptFiles.slice(1); // Loại bỏ 1 file đầu tiên đã xử lý
     }
 
     console.log("All requests processed.");
