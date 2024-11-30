@@ -34,30 +34,30 @@ const generationConfig = {
   responseMimeType: "text/plain",
 };
 
-
 const getConferenceList = async (browserContext) => {
   const baseUrl = `${process.env.PORTAL}?search=&by=${process.env.BY}&source=${process.env.CORE}&sort=${process.env.SORT}&page=`;
 
   const totalPages = await getTotalPages(browserContext, baseUrl + "1");
   const allConferences = [];
 
-  for (let i = 1; i <= totalPages; i++) {
-    const pageUrl = baseUrl + i;
+  // Tạo danh sách URL cho tất cả các trang
+  const pageUrls = Array.from({ length: totalPages }, (_, i) => baseUrl + (i + 1));
 
-    // Dùng hàng đợi để giới hạn số tab hoạt động
-    await queue.add(async () => {
+  // Dùng hàng đợi để xử lý song song
+  const tasks = pageUrls.map((pageUrl, index) =>
+    queue.add(async () => {
       try {
         const conferences = await getConferencesOnPage(browserContext, pageUrl);
-        console.log(`Page ${i} processed successfully.`);
+        console.log(`Page ${index + 1} processed successfully.`);
         allConferences.push(...conferences);
       } catch (error) {
-        console.error(`Error processing page ${i}: ${error.message}`);
+        console.error(`Error processing page ${index + 1}: ${error.message}`);
       }
-    });
-  }
+    })
+  );
 
-  await queue.onIdle(); // Đợi hàng đợi hoàn thành
-  console.log(allConferences.length)
+  await queue.onIdle(); // Đợi tất cả tasks hoàn thành
+  console.log(`Total conferences retrieved: ${allConferences.length}`);
   return allConferences;
 };
 
@@ -66,96 +66,96 @@ const searchConferenceLinks = async (browserContext, conference) => {
   const links = [];
   const page = await browserContext.newPage();
 
-  // Tắt tài nguyên không cần thiết
-  await page.route("**/*", (route) => {
-    const request = route.request();
-    const resourceType = request.resourceType();
-
-    if (
-      ['image', 'media', 'font', 'stylesheet', 'script'].includes(resourceType) ||
-      request.url().includes("google-analytics") ||
-      request.url().includes("ads") ||
-      request.url().includes("tracking")
-    ) {
-      route.abort(); // Bỏ qua yêu cầu
-    } else {
-      route.continue(); // Tiếp tục yêu cầu
-    }
-  });
-
-  let timeout; // Biến để kiểm soát timeout
-
-  try {
-    // Đặt timeout toàn bộ cho quá trình tìm kiếm
-    timeout = setTimeout(() => {
-      console.warn("Search process is taking too long. Closing the page.");
-      page.close();
-    }, 60000); // 60 giây
-
-    // Truy cập Google
-    await page.goto('https://www.google.com/', { waitUntil: 'load', timeout: 60000 });
-
-    // Tìm hộp tìm kiếm và nhập từ khóa
-    await page.waitForSelector("#APjFqb", { timeout: 30000 });
-    await page.fill("#APjFqb", `${conference.Title} ${conference.Acronym} 2023`);
-    await page.press("#APjFqb", "Enter");
-    await page.waitForSelector("#search");
-
-    const unwantedDomains = [
-      "scholar.google",
-      "translate.google",
-      "google.com",
-      "wikicfp.com",
-      "dblp.org",
-      "medium.com",
-      "dl.acm.org",
-      "easychair.org",
-      "youtube.com",
-      "https://portal.core.edu.au/conf-ranks/",
-      "facebook.com",
-      "amazon.com",
-      "wikipedia.org",
-      "linkedin.com",
-      "springer.com",
-      "proceedings.com"
-    ];
-
-    // Lấy liên kết
-    while (links.length < maxLinks) {
-      const newLinks = await page.$$eval("#search a", (elements) => {
-        return elements
-          .map((el) => el.href)
-          .filter((href) => href && href.startsWith("https://"));
-      });
-
-      newLinks.forEach((link) => {
+      // Tắt tài nguyên không cần thiết
+      await page.route("**/*", (route) => {
+        const request = route.request();
+        const resourceType = request.resourceType();
+        
         if (
-          !links.includes(link) &&
-          !unwantedDomains.some((domain) => link.includes(domain)) &&
-          !link.includes("2024") &&
-          links.length < maxLinks
+          ['image', 'media', 'font', 'stylesheet', 'script'].includes(resourceType) ||
+          request.url().includes("google-analytics") ||
+          request.url().includes("ads") ||
+          request.url().includes("tracking")
         ) {
-          links.push(link);
+          route.abort(); // Bỏ qua yêu cầu
+        } else {
+          route.continue(); // Tiếp tục yêu cầu
         }
       });
 
-      if (links.length < maxLinks) {
-        await page.keyboard.press("PageDown");
-        await page.waitForTimeout(2000);
-      } else {
-        break;
+      let timeout; // Biến để kiểm soát timeout
+
+      try {
+        // Đặt timeout toàn bộ cho quá trình tìm kiếm
+        timeout = setTimeout(() => {
+          console.warn("Search process is taking too long. Closing the page.");
+          page.close();
+        }, 60000); // 60 giây
+
+        // Truy cập Google
+        await page.goto('https://www.google.com/', { waitUntil: 'load', timeout: 60000 });
+
+        // Tìm hộp tìm kiếm và nhập từ khóa
+        await page.waitForSelector("#APjFqb", { timeout: 30000 });
+        await page.fill("#APjFqb", `${conference.Title} ${conference.Acronym} 2023`);
+        await page.press("#APjFqb", "Enter");
+        await page.waitForSelector("#search");
+
+        const unwantedDomains = [
+          "scholar.google",
+          "translate.google",
+          "google.com",
+          "wikicfp.com",
+          "dblp.org",
+          "medium.com",
+          "dl.acm.org",
+          "easychair.org",
+          "youtube.com",
+          "https://portal.core.edu.au/conf-ranks/",
+          "facebook.com",
+          "amazon.com",
+          "wikipedia.org",
+          "linkedin.com",
+          "springer.com",
+          "proceedings.com"
+        ];
+
+        // Lấy liên kết
+        while (links.length < maxLinks) {
+          const newLinks = await page.$$eval("#search a", (elements) => {
+            return elements
+              .map((el) => el.href)
+              .filter((href) => href && href.startsWith("https://"));
+          });
+
+          newLinks.forEach((link) => {
+            if (
+              !links.includes(link) &&
+              !unwantedDomains.some((domain) => link.includes(domain)) &&
+              !link.includes("2024") &&
+              links.length < maxLinks
+            ) {
+              links.push(link);
+            }
+          });
+
+          if (links.length < maxLinks) {
+            await page.keyboard.press("PageDown");
+            await page.waitForTimeout(2000);
+          } else {
+            break;
+          }
+        }
+
+      } catch (error) {
+        console.error(`Error while searching for conference links: ${error.message}`);
+      } finally {
+        // Xóa timeout nếu trang kết thúc sớm
+        if (timeout) clearTimeout(timeout);
+
+        // Đóng trang
+        await page.close();
       }
-    }
-
-  } catch (error) {
-    console.error(`Error while searching for conference links: ${error.message}`);
-  } finally {
-    // Xóa timeout nếu trang kết thúc sớm
-    if (timeout) clearTimeout(timeout);
-
-    // Đóng trang
-    await page.close();
-  }
 
   return links.slice(0, maxLinks);
 };
@@ -443,72 +443,71 @@ export async function readPromptCSV(filePath) {
   });
 }
 
-const saveHTMLContent = async (browser, conference, links, allResults, batch, batchIndexRef) => {
+const saveHTMLContent = async (browserContext, conference, links, allResults, batch, batchIndexRef, queue) => {
   try {
-    for (let i = 0; i < links.length; i++) {
-      const page = await browser.newPage();
+    const tasks = links.map((link, i) =>
+      queue.add(async () => {
+        const page = await browserContext.newPage(); // Tạo tab mới trong browserContext dùng chung
 
-      // Tắt tài nguyên không cần thiết
-      await page.route("**/*", (route) => {
-        const request = route.request();
-        const resourceType = request.resourceType();
+        try {
+          // Tắt tải các tài nguyên không cần thiết
+          await page.route("**/*", (route) => {
+            const request = route.request();
+            const resourceType = request.resourceType();
 
-        if (
-          ["image", "media", "font", "stylesheet", "script"].includes(resourceType) ||
-          request.url().includes("google-analytics") ||
-          request.url().includes("ads") ||
-          request.url().includes("tracking")
-        ) {
-          route.abort();
-        } else {
-          route.continue();
+            if (
+              ["image", "media", "font", "stylesheet", "script"].includes(resourceType) ||
+              request.url().includes("google-analytics") ||
+              request.url().includes("ads") ||
+              request.url().includes("tracking")
+            ) {
+              route.abort();
+            } else {
+              route.continue();
+            }
+          });
+
+          // Thiết lập timeout
+          const timeoutPromise = new Promise((_, reject) =>
+            setTimeout(() => reject(new Error("Timeout")), 45000)
+          );
+
+          await Promise.race([page.goto(link, { waitUntil: "domcontentloaded" }), timeoutPromise]);
+
+          // Lấy nội dung HTML
+          const htmlContent = await page.content();
+
+          // Xử lý nội dung HTML
+          const fileName = `${conference.Acronym}_${i}`;
+          const document = cleanDOM(htmlContent);
+          let fullText = traverseNodes(document.body);
+          fullText = removeExtraEmptyLines(fullText);
+
+          batch.push({
+            conferenceText: `${fileName} conference:\n${fullText.trim()}`,
+            informationText: "",
+          });
+
+          // Lưu batch khi đạt số lượng 100
+          if (batch.length === 100) {
+            const currentBatchIndex = batchIndexRef.current++;
+            allResults.push([...batch]);
+            batch.length = 0; // Reset batch
+          }
+        } catch (error) {
+          console.error(`Error loading page ${link}: ${error.message}`);
         }
-      });
+      })
+    );
 
-      try {
-        // Timeout nếu trang tải quá lâu
-        const timeoutPromise = new Promise((_, reject) =>
-          setTimeout(() => reject(new Error("Timeout")), 45000)
-        );
-
-        await Promise.race([page.goto(links[i], { waitUntil: "domcontentloaded" }), timeoutPromise]);
-
-        // Lấy nội dung HTML
-        const htmlContent = await page.content();
-
-        // Xử lý nội dung HTML
-        const localIndex = i;
-        const conferenceName = conference.Acronym;
-        const fileName = `${conferenceName}_${localIndex}`;
-        const document = cleanDOM(htmlContent);
-        let fullText = traverseNodes(document.body);
-        fullText = removeExtraEmptyLines(fullText);
-
-        batch.push({
-          conferenceText: `${fileName} conference:\n${fullText.trim()}`,
-          informationText: "",
-        });
-
-        // Lưu batch khi đạt số lượng 100
-        if (batch.length === 100) {
-          const currentBatchIndex = batchIndexRef.current++;
-          const tokenCounts = await saveBatchToFile(batch, currentBatchIndex);
-          allResults.push([...batch]);
-          batch.length = 0; // Reset batch
-        }
-      } catch (error) {
-        console.error(`Error loading page ${links[i]}: ${error.message}`);
-      } finally {
-        await page.close();
-      }
-    }
-
+    await queue.onIdle(); // Đợi tất cả các tác vụ trong hàng đợi hoàn thành
     return { batch, allResults };
   } catch (error) {
     console.error("Error in saveHTMLContent:", error);
     return { batch, allResults };
   }
 };
+
 
 const saveBatchToFile = async (batch, batchIndex) => {
   try {
@@ -536,7 +535,6 @@ const saveBatchToFile = async (batch, batchIndex) => {
     return 0;
   }
 };
-
 
 const callGeminiAPI = async (batch, batchIndex) => {
   try {
@@ -600,7 +598,7 @@ const callGeminiAPI = async (batch, batchIndex) => {
 const run = async () => {
   const browser = await playwright.chromium.launch({
     executablePath: EDGE_PATH,
-    headless: true,
+    headless: false,
     args: [
       "--disable-notifications",
       "--disable-geolocation",
@@ -623,36 +621,42 @@ const run = async () => {
   const allResults = [];
   const batch = [];
   const batchIndexRef = { current: 1 };
+  const maxTabs = 5; // Số tab tối đa
+  const queue = new PQueue({ concurrency: maxTabs }); // Hàng đợi dùng chung
 
   try {
     console.log("Starting crawler...");
-    const allConferences = await getConferenceList(browserContext);
+    const allConferences = await getConferenceList(browserContext); // Lấy danh sách hội nghị
 
-    // Duyệt qua từng conference
     const tasks = allConferences.map((conference) =>
       queue.add(async () => {
         console.log(`Crawling data for conference: ${conference.Acronym}`);
-        const links = await searchConferenceLinks(browserContext, conference);
 
-        if (links.length > 0) {
-          console.log(`Found ${links.length} links for conference: ${conference.Acronym}`);
-          const { batch: updatedBatch, allResults: updatedResults } =
-            await saveHTMLContent(browser, conference, links, allResults, batch, batchIndexRef);
+        try {
+          const links = await searchConferenceLinks(browserContext, conference);
 
-          batch.length = updatedBatch.length;
-          allResults.splice(0, allResults.length, ...updatedResults);
-        } else {
-          console.warn(`No valid links found for conference: ${conference.Acronym}`);
+          if (links.length > 0) {
+            console.log(`Found ${links.length} links for conference: ${conference.Acronym}`);
+            const { batch: updatedBatch, allResults: updatedResults } =
+              await saveHTMLContent(browserContext, conference, links, allResults, batch, batchIndexRef);
+
+            batch.length = updatedBatch.length;
+            allResults.splice(0, allResults.length, ...updatedResults);
+          } else {
+            console.warn(`No valid links found for conference: ${conference.Acronym}`);
+          }
+        } catch (error) {
+          console.error(`Error processing conference ${conference.Acronym}: ${error.message}`);
         }
       })
     );
 
-    await Promise.all(tasks);
+    await queue.onIdle(); // Đợi tất cả tasks hoàn thành
 
     // Xử lý batch cuối cùng
     if (batch.length > 0) {
       const currentBatchIndex = batchIndexRef.current++;
-      await saveBatchToFile(batch, currentBatchIndex);
+      // await saveBatchToFile(batch, currentBatchIndex);
       allResults.push([...batch]);
     }
 
@@ -660,9 +664,10 @@ const run = async () => {
   } catch (error) {
     console.error("Error during crawling:", error);
   } finally {
-    await browser.close();
+    await browser.close(); // Đóng browser khi hoàn tất
   }
 };
+
 
 
 (async () => {
