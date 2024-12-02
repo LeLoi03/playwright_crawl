@@ -740,7 +740,7 @@ const getConferenceList = async (browserContext) => {
   const totalPages = await getTotalPages(browserContext, baseUrl + "1");
   const allConferences = [];
 
-  for (let i = 1; i <= 1; i++) { // Sửa lạiiiiiiiiiiiii
+  for (let i = 1; i <= totalPages; i++) { // Sửa lạiiiiiiiiiiiii
     const pageUrl = baseUrl + i;
 
     // Dùng hàng đợi để giới hạn số tab hoạt động
