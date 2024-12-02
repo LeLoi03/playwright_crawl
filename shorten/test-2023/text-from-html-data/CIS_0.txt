@@ -1,9 +1,0 @@
-Proceedings of the   
-  The Nineteenth International Conference on Computational Intelligence and Security (CIS 2023)  
-  December 1 – 4, 2023, Haikou, China  
- Design of System for Chinese Sign Language Corpus Construction Peng Jin 1,2,a  , Yi Liu 3,b  , Xueqiang Lv 1  and Siyuan Jing 2,3   
- ABSTRACT  
- One of the factors that hinder the development of sign language recognition and translation is the absence of large-scale corpus of sign language. However, construction of a large corpus with hundreds of thousands of sign language sentences as well as the aligned videos, annotations, skeleton etc., is not a simple task without the support of a system. In this paper, we introduce a system for management of construction of large-scale corpuses of Chinese sign language. The process of construction includes four steps, which are original data collection, gloss transcription, video record and video annotation. For each step, an operation of quality check is required. Moreover, some intelligent techniques are exploited to facilitate the management of corpus construction, such as text similarity identification, gloss word retrieval, and so on. The details of the system design and crucial techniques are explained in the paper. We hope the proposed system can promote the development of large-scale sign language construction as well as the recognition and translation of sign language.  
- Keywords:  Sign language, Pattern recognition, Machine translation, Corpus, System design.  
-  Download PDF    
- © 2023 CIS 2023 Organizers. All rights reserved.
