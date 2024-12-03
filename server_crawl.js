@@ -1,5 +1,5 @@
-const express = require('express');
-const { exec } = require('child_process');
+import { express} from ('express');
+import { exec } from ('child_process');
 const app = express();
 
 // Middleware để xử lý JSON
@@ -7,7 +7,7 @@ app.use(express.json());
 
 // Endpoint để chạy file crawl
 app.post('/run-crawl', (req, res) => {
-    exec('node /đường/dẫn/tới/file_crawl.js', (error, stdout, stderr) => {
+    exec('node test_new.js', (error, stdout, stderr) => {
         if (error) {
             return res.status(500).send(`Error: ${error.message}`);
         }
