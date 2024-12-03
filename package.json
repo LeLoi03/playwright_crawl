@@ -13,6 +13,7 @@
   "dependencies": {
     "@google/generative-ai": "^0.21.0",
     "@playwright/test": "^1.49.0",
+    "axios": "^1.7.8",
     "csv-parser": "^3.0.0",
     "date-fns": "^4.1.0",
     "datefinder": "^1.0.4",

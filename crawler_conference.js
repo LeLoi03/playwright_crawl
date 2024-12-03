@@ -195,25 +195,21 @@ const saveHTMLFromCallForPapers = async (page, conference, i) => {
 
         if (!mainContent) {
           mainContent = await page.content();
-          // console.log("\nNo 'main' content found on the Call for Papers page.");
-        } else {
-          // Kiểm tra và tạo thư mục cfp-data nếu chưa tồn tại
-          if (!fs.existsSync("./cfp-data")) {
-            fs.mkdirSync("./cfp-data");
-          }
-
-          // Lưu nội dung vào file .txt trong thư mục text-from-cfp-data
-          const outputFilePath = `${conference.Acronym}_${i}`;
-
-          // Kiểm tra và tạo thư mục text-from-cfp-data nếu chưa tồn tại
-          if (!fs.existsSync("./text-from-cfp-data")) {
-            fs.mkdirSync("./text-from-cfp-data");
-          }
-
-          const txtFilename = `./text-from-cfp-data/${outputFilePath}.txt`;
-          fs.writeFileSync(txtFilename, mainContent);  // Lưu nội dung của phần main
-          // console.log(`\nExtracted and saved CFP content successfully: ${outputFilePath}`);
         }
+        // console.log("\nNo 'main' content found on the Call for Papers page.");
+
+
+        // Lưu nội dung vào file .txt trong thư mục text-from-cfp-data
+        const outputFilePath = `${conference.Acronym}_${i}`;
+
+        // Kiểm tra và tạo thư mục text-from-cfp-data nếu chưa tồn tại
+        if (!fs.existsSync("./text-from-cfp-data")) {
+          fs.mkdirSync("./text-from-cfp-data");
+        }
+
+        const txtFilename = `./text-from-cfp-data/${outputFilePath}.txt`;
+        fs.writeFileSync(txtFilename, mainContent);  // Lưu nội dung của phần main
+        // console.log(`\nExtracted and saved CFP content successfully: ${outputFilePath}`);
 
         // Lưu URL vào tệp JSON trong thư mục cfp-link
         if (!fs.existsSync("./cfp-link")) {
@@ -602,7 +598,7 @@ const getConferencesOnPage = async (browserContext, url) => {
 const main = async () => {
   const browser = await playwright.chromium.launch({ 
     executablePath: EDGE_PATH, // Sử dụng Microsoft Edge
-    headless: true ,
+    headless: false ,
     args: [
       '--disable-notifications',
       '--disable-geolocation',

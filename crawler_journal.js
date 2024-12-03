@@ -77,7 +77,7 @@ const processPage = async (page, url) => {
 // Chương trình chính
 (async () => {
   const browser = await chromium.launch({
-    headless: true, // Chạy headless (ẩn trình duyệt)
+    headless: false, // Chạy headless (ẩn trình duyệt)
     executablePath: EDGE_PATH, // Đường dẫn trình duyệt Edge (hoặc Chromium)
   });
 

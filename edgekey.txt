@@ -1,0 +1,14 @@
+scp D:/2023-playwright/server_crawl.js admin_leloi@20.187.150.7:/đường/dẫn/tới/máy-ảo
+wget https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_131.0.2903.70-1_amd64.deb
+sudo apparmor_parser -R /etc/apparmor.d/snap.chromium.chromium
+
+sudo apparmor_parser -R /var/lib/snapd/apparmor/profiles/snap.chromium.chromedriver
+
+
+sudo apparmor_parser -R /var/lib/snapd/apparmor/profiles/snap.chromium.chromium
+
+
+sudo dpkg -i microsoft-edge-stable_131.0.2903.70-1_amd64.deb
+
+
+<a href="/conf-changes/serve_file/icore-addition.pdf/">ICORE addition and upgrade requirements</a>

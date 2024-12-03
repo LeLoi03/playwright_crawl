@@ -1,4 +1,4 @@
-import { express } from 'express';
+import express from 'express';
 import { exec } from 'child_process';
 const app = express();
 

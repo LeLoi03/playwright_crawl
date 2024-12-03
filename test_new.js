@@ -765,23 +765,6 @@ const searchConferenceLinks = async (browserContext, conference) => {
   const links = [];
   const page = await browserContext.newPage();
 
-  // Tắt tài nguyên không cần thiết
-  await page.route("**/*", (route) => {
-    const request = route.request();
-    const resourceType = request.resourceType();
-
-    if (
-      ['image', 'media', 'font', 'stylesheet', 'script'].includes(resourceType) ||
-      request.url().includes("google-analytics") ||
-      request.url().includes("ads") ||
-      request.url().includes("tracking")
-    ) {
-      route.abort(); // Bỏ qua yêu cầu
-    } else {
-      route.continue(); // Tiếp tục yêu cầu
-    }
-  });
-
   let timeout; // Biến để kiểm soát timeout
 
   try {
@@ -1142,29 +1125,184 @@ export async function readPromptCSV(filePath) {
   });
 }
 
-const saveHTMLContent = async (browser, conference, links, allBatches, batch, batchIndexRef, allResponsesRef) => {
+const saveHTMLFromCallForPapers = async (page, conference, i) => {
+  try {
+    const tabs = [
+      "cfp",
+      "paper",
+      "call",
+      "research",
+      "track"
+    ];
+
+    const clickableElements = await page.$$eval("a", (els) => {
+      return els.map((el) => ({
+        url: el.href.toLowerCase(),
+        tag: el.tagName.toLowerCase(),
+        element: el.outerHTML
+      }));
+    });
+
+    
+
+    // Tạo mảng để lưu các đường link Call for Papers
+    const cfpLinks = [];
+    let foundTab = false;
+
+    for (const tab of tabs) {
+      const matchedElement = clickableElements.find((el) => el.url.includes(tab.toLowerCase()));
+
+      if (matchedElement) {
+        console.log(`\nFound tab '${tab}' in <${matchedElement.tag}> by URL`);
+
+        const fullUrl = new URL(matchedElement.url, page.url()).href;
+
+        // Chuyển hướng tới trang của tab Call for Papers
+        await page.goto(fullUrl, { waitUntil: "domcontentloaded", timeout: 30000 });
+
+        
+        // Lấy URL của trang hiện tại sau khi nhấp vào tab Call for Papers
+        const currentURL = page.url();
+        cfpLinks.push(currentURL);  // Lưu URL vào mảng cfpLinks
+
+
+        // Lấy nội dung từ tất cả các phần tử có chứa thuộc tính "main"
+        let mainContent = await page.$$eval("*", (els) => {
+          return els
+            .filter(el => Array.from(el.attributes).some(attr => attr.name.toLowerCase().includes("main")))
+            .map(el => el.outerHTML)
+            .join("\n\n");
+        });
+
+        if (!mainContent) {
+
+          mainContent = await page.content();
+          // Xử lý nội dung HTML
+          
+
+          // console.log("\nNo 'main' content found on the Call for Papers page.");
+        } 
+
+        const document = cleanDOM(mainContent);
+        let fullText = traverseNodes(document.body);
+        fullText = removeExtraEmptyLines(fullText);
+
+        // Lưu nội dung vào file .txt trong thư mục text-from-cfp-data
+        const outputFilePath = `${conference.Acronym}_${i}`;
+
+
+        const txtFilename = `./text-from-cfp-data/${outputFilePath}.txt`;
+        fs.writeFileSync(txtFilename, fullText);  // Lưu nội dung của phần main
+        // console.log(`\nExtracted and saved CFP content successfully: ${outputFilePath}`);
+      
+
+        // Tạo file json lưu đường link
+        const linksFilename = `./cfp-link/${conference.Acronym}_${i}.json`;
+        fs.writeFileSync(linksFilename, JSON.stringify(cfpLinks, null, 2));
+        // console.log(`\nSaved CFP links to: ${linksFilename}`);
+
+        foundTab = true;
+
+        return fullText;
+      }
+    }
+
+    // Nếu không tìm thấy tab nào phù hợp
+    if (!foundTab) {
+      // console.log(`\nNo 'Call for Papers' section found for ${conference.Acronym}`);
+      return "";
+    }
+
+  } catch (error) {
+    console.log("\nError in saveHTMLFromCallForPapers:", error);
+    
+  }
+};
+
+const saveHTMLFromImportantDates = async (page, conference, i) => {
+  try {
+    const tabs = [
+      "importantdates",
+      "dates",
+    ];
+
+    const clickableElements = await page.$$eval("a", (els) => {
+      return els.map((el) => ({
+        url: el.href.toLowerCase(),
+        tag: el.tagName.toLowerCase(),
+        element: el.outerHTML
+      }));
+    });
+
+    const importantDatesLinks = [];
+    let foundTab = false;
+
+    for (const tab of tabs) {
+      // Tạo biểu thức chính quy để tìm từ khóa chính xác
+      const regex = new RegExp(`\\b${tab}\\b`, "i");  // "\\b" là giới hạn từ (word boundary), "i" là không phân biệt hoa thường
+
+      const matchedElement = clickableElements.find((el) => regex.test(el.url));
+
+      if (matchedElement) {
+        console.log(`\nFound tab '${tab}' in <${matchedElement.tag}> by URL`);
+
+
+        // Tạo URL đầy đủ nếu cần thiết (trường hợp là relative URL)
+        const fullUrl = new URL(matchedElement.url, page.url()).href;
+
+        // Chuyển hướng tới trang của tab Call for Papers
+        await page.goto(fullUrl, { waitUntil: "domcontentloaded", timeout: 30000 });
+
+
+        const currentURL = page.url(); // Đảm bảo đây là URL mới
+        importantDatesLinks.push(currentURL);
+
+        const htmlContent = await page.content();
+        // Xử lý nội dung HTML
+        const document = cleanDOM(htmlContent);
+        let fullText = traverseNodes(document.body);
+        fullText = removeExtraEmptyLines(fullText);
+
+        const outputFilePath = `${conference.Acronym}_${i}`;
+
+        if (!fs.existsSync("./text-from-important-dates")) {
+          fs.mkdirSync("./text-from-important-dates");
+        }
+
+        const txtFilename = `./text-from-important-dates/${outputFilePath}.txt`;
+        extractTextFromHTML(fullText, txtFilename);
+        // console.log(`\nExtracted and saved Important Dates successfully: ${outputFilePath}`);
+
+        if (!fs.existsSync("./important-dates-link")) {
+          fs.mkdirSync("./important-dates-link");
+        }
+
+        const linksFilename = `./important-dates-link/${conference.Acronym}_${i}.json`;
+        fs.writeFileSync(linksFilename, JSON.stringify(importantDatesLinks, null, 2));
+        // console.log(`\nSaved Important Dates links to: ${linksFilename}`);
+
+        foundTab = true;
+        return fullText;
+      }
+    }
+
+    if (!foundTab) {
+      return "";
+      // console.log(`No 'Important Dates' section found for ${conference.Acronym}`);
+    }
+
+  } catch (error) {
+    console.log("Error in saveHTMLFromImportantDates:", error);
+  }
+};
+
+const saveHTMLContent = async (browserContext, conference, links, allBatches, batch, batchIndexRef, allResponsesRef) => {
   try {
 
 
     for (let i = 0; i < links.length; i++) {
-      const page = await browser.newPage();
+      const page = await browserContext.newPage();
 
-      // Tắt tài nguyên không cần thiết
-      await page.route("**/*", (route) => {
-        const request = route.request();
-        const resourceType = request.resourceType();
-
-        if (
-          ["image", "media", "font", "stylesheet", "script"].includes(resourceType) ||
-          request.url().includes("google-analytics") ||
-          request.url().includes("ads") ||
-          request.url().includes("tracking")
-        ) {
-          route.abort();
-        } else {
-          route.continue();
-        }
-      });
 
       try {
         // Timeout nếu trang tải quá lâu
@@ -1182,13 +1320,22 @@ const saveHTMLContent = async (browser, conference, links, allBatches, batch, ba
         let fullText = traverseNodes(document.body);
         fullText = removeExtraEmptyLines(fullText);
 
+        const cfp = await saveHTMLFromCallForPapers(page, conference, i);
+        const imp = await saveHTMLFromImportantDates(page, conference, i);
+
+        let finalContent = "";
+        finalContent = fullText + 'Call for papers data:' + cfp 
+        + 'Important dates data' + imp;
+
         batch.push({
           conferenceName: conference.Title,
           conferenceAcronym: conference.Acronym,
           conferenceIndex: i,
           conferenceLink: links[i],
-          conferenceText: `Conference ${conference.Acronym}_${i}:\n${fullText.trim()}`
+          conferenceText: `Conference ${conference.Acronym}_${i}:\n${finalContent.trim()}`
         });
+
+
 
         // Lưu batch khi đạt số lượng 50
         if (batch.length === 50) {
@@ -1368,10 +1515,7 @@ const callGeminiAPI = async (batch, batchIndex) => {
 
 async function determineMainLinksWithResponses(allBatches, allResponses) {
   try {
-    // Tạo đối tượng map để lưu trữ số dòng và nội dung response tương ứng với mỗi conference
     const conferenceMap = {};
-
-    // Xử lý allResponses để lấy dữ liệu và số dòng tương ứng
     const responseLines = allResponses.split("\n");
     let currentKey = null;
     let currentResponse = [];
@@ -1383,26 +1527,25 @@ async function determineMainLinksWithResponses(allBatches, allResponses) {
           conferenceMap[currentKey] = {
             response: currentResponse.join("\n"),
             numLines: currentResponse.length,
+            nonNullFields: countNonNullFields(currentResponse), // Đếm số giá trị không null
           };
         }
-        currentKey = match[2]; // Lấy conferenceKey (VD: "HCOMP_1")
+        currentKey = match[2];
         currentResponse = [];
       } else if (currentKey) {
         currentResponse.push(line.trim());
       }
     });
 
-    // Thêm response cuối cùng vào map
     if (currentKey && currentResponse.length > 0) {
       conferenceMap[currentKey] = {
         response: currentResponse.join("\n"),
         numLines: currentResponse.length,
+        nonNullFields: countNonNullFields(currentResponse),
       };
     }
 
-    // Tạo danh sách kết quả chỉ giữ lại link chính
     const finalResults = [];
-
     allBatches.flat().forEach((conference) => {
       const { conferenceAcronym, conferenceIndex } = conference;
       const conferenceKey = `${conferenceAcronym}_${conferenceIndex}`;
@@ -1410,10 +1553,13 @@ async function determineMainLinksWithResponses(allBatches, allResponses) {
       if (conferenceMap[conferenceKey]) {
         const currentMainKey = `${conferenceAcronym}_main`;
         const currentNumLines = conferenceMap[conferenceKey].numLines;
+        const currentNonNullFields = conferenceMap[conferenceKey].nonNullFields;
 
         if (
-          !conferenceMap[currentMainKey] ||
-          currentNumLines > conferenceMap[currentMainKey].numLines
+          !conferenceMap[currentMainKey] || // Nếu chưa có dữ liệu
+          currentNumLines > conferenceMap[currentMainKey].numLines || // Số dòng nhiều hơn
+          (currentNumLines === conferenceMap[currentMainKey].numLines &&
+            currentNonNullFields > conferenceMap[currentMainKey].nonNullFields) // Cùng số dòng, nhưng nhiều giá trị không null hơn
         ) {
           conferenceMap[currentMainKey] = {
             ...conferenceMap[conferenceKey],
@@ -1423,18 +1569,16 @@ async function determineMainLinksWithResponses(allBatches, allResponses) {
       }
     });
 
-    // Lấy kết quả cuối cùng từ conferenceMap
     for (const key in conferenceMap) {
       if (key.endsWith("_main")) {
         const { data, response } = conferenceMap[key];
         finalResults.push({
           ...data,
-          response, // Ghép response vào kết quả cuối
+          response,
         });
       }
     }
 
-    // Ghi kết quả vào file
     const outputFilePath = "./mainLinksWithResponses.json";
     await fs.promises.writeFile(outputFilePath, JSON.stringify(finalResults, null, 2), "utf8");
     console.log(`Final results with responses have been saved to ${outputFilePath}`);
@@ -1442,46 +1586,16 @@ async function determineMainLinksWithResponses(allBatches, allResponses) {
     return finalResults;
   } catch (error) {
     console.error("Error in determining main links with responses:", error.message);
-    return []; // Trả về danh sách rỗng nếu xảy ra lỗi
-
+    return [];
   }
 }
 
-// const writeToCSV = async (finalResults, filePath) => {
-//   try {
-//     // Header của file CSV
-//     const headers = ["Conference name", "Conference acronym", "Main link", "Response"];
-//     const rows = [headers.join(",")]; // Dòng đầu tiên là header
 
-//     // Duyệt qua danh sách kết quả cuối cùng
-//     finalResults.forEach((result) => {
-//       const row = [
-//         result.conferenceName,
-//         result.conferenceAcronym,
-//         result.conferenceLink,
-//         `"${result.response.replace(/"/g, '""')}"`, // Escape các ký tự " trong response
-//       ].join(",");
-//       rows.push(row);
-//     });
-
-//     // Ghi dữ liệu vào file CSV
-//     await fs.promises.writeFile(filePath, rows.join("\n"), "utf8");
-//     console.log(`CSV file successfully saved to ${filePath}`);
-//   } catch (error) {
-//     console.error("Error writing CSV file:", error);
-//   }
-// };
-
-// Hàm đọc file JSON
-// const readJSONFile = (filePath) => {
-//   try {
-//     const data = fs.readFileSync(filePath, "utf8");
-//     return JSON.parse(data);
-//   } catch (error) {
-//     console.error("Error reading JSON file:", error);
-//     return [];
-//   }
-// };
+// Hàm đếm số giá trị không null
+function countNonNullFields(responseLines) {
+  const nonNullRegex = /^[^:]+:\s+(?!null$).+/; // Dòng không chứa giá trị `null`
+  return responseLines.filter((line) => nonNullRegex.test(line)).length;
+}
 
 // Định nghĩa các từ khóa cho từng loại cột
 const keywords = {
@@ -1591,7 +1705,7 @@ const writeCSVFile = (filePath, data) => {
 const run = async () => {
   const browser = await playwright.chromium.launch({
     executablePath: EDGE_PATH,
-    headless: true,
+    headless: false,
     args: [
       "--disable-notifications",
       "--disable-geolocation",
@@ -1611,6 +1725,24 @@ const run = async () => {
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
   });
 
+  // Tắt các tài nguyên không cần thiết tại cấp độ context
+  await browserContext.route("**/*", (route) => {
+    const request = route.request();
+    const resourceType = request.resourceType();
+
+    if (
+      ["image", "media", "font", "stylesheet", "script"].includes(resourceType) ||
+      request.url().includes("google-analytics") ||
+      request.url().includes("ads") ||
+      request.url().includes("tracking")
+    ) {
+      route.abort();
+    } else {
+      route.continue();
+    }
+  });
+
+
   const allBatches = [];
   const allResponsesRef = { current: "" };
   const batch = [];
@@ -1628,7 +1760,7 @@ const run = async () => {
 
         if (links.length > 0) {
           const { batch: updatedBatch, allBatches: updatedBatches } =
-            await saveHTMLContent(browser, conference, links, allBatches, batch, batchIndexRef, allResponsesRef);
+            await saveHTMLContent(browserContext, conference, links, allBatches, batch, batchIndexRef, allResponsesRef);
 
           batch.length = updatedBatch.length;
           allBatches.splice(0, allBatches.length, ...updatedBatches);
