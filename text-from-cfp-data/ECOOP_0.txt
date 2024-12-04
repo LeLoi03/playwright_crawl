@@ -1,0 +1,205 @@
+ECOOP 2025   Mon 30 June - Fri 4 July 2025 Bergen, Norway    
+
+ Toggle navigation        
+ Attending | Venue: Western Norway University of Applied Sciences 
+  Getting There (And Away) 
+  Weather 
+  Tracks | ECOOP 2025 
+  GPCE 
+  Technical Papers 
+  Workshops/Colocated Events 
+  Doctoral Symposium 
+  Organization | ECOOP 2025 Committees 
+  Organizing Committee 
+  Track Committees 
+  GPCE 
+  Technical Papers 
+  Doctoral Symposium 
+  Contributors 
+  People Index 
+  Search 
+  Series | Series 
+   ECOOP 2025 
+  ECOOP 2024 
+  ECOOP 2023 
+  ECOOP 2022 
+  ECOOP 2021 
+  ECOOP 2020 
+  ECOOP 2019 
+  ECOOP 2018 
+  ECOOP 2017 
+  ECOOP 2016 
+  ECOOP 2015 
+   2014: Uppsala 
+  2013: Montpellier 
+  2012: Beijing 
+  2011: Lancaster 
+  2010: Maribor 
+  2009: Genova 
+  2008: Cyprus 
+  2007: Berlin 
+  2006: Nice 
+  2005: Glasgow 
+  Sign in 
+  Sign up 
+
+  ECOOP 2025  ( series  ) /  Technical Papers ECOOP 2025   
+   
+ Call for Papers   
+ ECOOP is a conference about programming originally focused on object orientation, but now including all practical and theoretical investigations of programming languages, systems and environments. ECOOP solicits innovative solutions to real problems as well as evaluations of existing solutions.  
+ Authors are asked to pick one of the following categories:  
+ Research. | The most traditional category for papers that advance the state of the art. 
+  Replication. | An empirical evaluation that reconstructs a published experiment in a different context in order to validate the results of that earlier work. 
+  Experience. | Applications of known PL techniques in practice as well as tools. Industry papers will be reviewed by practitioners. We welcome negative results that may provide inspiration for future research. 
+  Pearls/Brave New Ideas. | Articles that either explain a known idea in an elegant way or unconventional papers introducing ideas that may take some time to substantiate. These papers may be short. 
+  Submissions   
+ Submission must not have been published, or have major overlap with previous work. In case of doubt, contact the chairs. Proceedings are published in open access by Dagstuhl LIPIcs in the Dagstuhl LIPIcs LaTeX-style template  . To reduce friction when resubmitting, ACM’s PACMPL and TOPLAS formatted papers can be submitted as such (with the understanding that if accepted, they will be reformatted).  
+ ECOOP uses double-anonymous reviewing. Authors’ identities are only revealed if a paper is accepted. Papers must omit author names and institutions, and use the third person when referencing the authors’ own work. Nothing should be done in the name of anonymity that weakens the submission; see the FAQ  . If in doubt, contact the chairs.  
+ There is no page limit on submissions, but authors must understand that reviewers have a fixed time budget for each paper, so the length of the feedback is likely to be unaffected by length. Brevity is a virtue. Authors also have to consider that the camera-ready version must be (at most) 25 pages  in LIPIcs format (not including references).  
+ Authors will be given a three-day period to read and respond to the reviews of their papers before the program committee meeting. Responses have no length limit.  
+ ECOOP will continue to have two deadlines for submissions. Papers submitted in each round can be (a) accepted, (b) rejected, or (c) asked for revisions. Rejected papers that are submitted to the immediate next round can be desk-rejected if they do not sufficiently differ from the previous submission. Revisions can be submitted at any later round. Papers retain their reviewers during revision.  
+ Review Criteria   
+ Each paper will be evaluated based on the following criteria:  
+ Soundness: How well the paper’s contributions are supported by rigorous application of appropriate research methods; 
+  Significance: The extent to which the paper’s contributions are novel, original, and important, with respect to the existing body of knowledge; 
+  Presentation: Whether the paper’s quality of writing meets the high standards of ECOOP. 
+  After author response and reviewer discussion, papers will be accepted if the PC decides that the paper meets our high bar for Soundness and Presentation, and if ONE reviewer judges the paper to meet the bar for Significance. The goal of this process is to ensure quality of writing and confidence in results, while assuming that if one reviewer finds the paper to be significant then there will be readers who do so as well.  
+ Artifact Evaluation and Intent   
+ To support replication of experiments, authors of research papers may submit artifacts to the Artifact Evaluation Committee. They will be asked whether they intend to submit an artifact at submission time. It is understood that some papers do not have artifacts. AEC members will serve on the extended review committee.  
+ Journal First and Journal After   
+ We have Journal First/After arrangements with ACM’s Transactions on Programming Languages and Systems (TOPLAS), Elsevier’s Science of Computer Programming (SCP) and AITO’s Journal of Object Technology (JOT).  
+ Only new research papers are eligible to be Journal First (JF). JF papers will have an extended abstract in the ECOOP proceedings. The deadline is the same as Round 1 of submissions and the notification is aligned with Round 2 notification. TOPLAS JF papers should be submitted according to this announcement. SCP JF papers should follow this call for papers. JF papers are presented at the conference and eligible for awards.  
+ Journal After (JA) papers are papers for which the authors request to be considered for post conference journal publication. Once accepted by the ECOOP PC, these papers will be forwarded to the journal editors. Reviews and reviewers will be forwarded and used at the editor’s discretion. JA papers will have an extended abstract (up to 12 pages) in the conference proceedings.  
+   
+ Important Dates   AoE (UTC-12h)     
+
+ Mon 6 Jan 2025   
+  Round 1 Submissions 
+ Mon 17 - Tue 18 Feb 2025  
+  Round 1 Author response deadline 
+ Fri 28 Feb 2025  
+  Round 1 Notification 
+ Wed 5 Mar 2025   
+  Round 2 Submissions 
+ Tue 8 - Thu 10 Apr 2025  
+  Round 2 Author response deadline 
+ Fri 25 Apr 2025  
+  Round 2 Notification 
+ Mon 30 Jun 09:00 - Wed 2 Jul 18:00 2025   
+  Main conference 
+
+ Programme Committee    
+   
+ Elvira Albert    
+ Complutense University of Madrid   
+ Spain 
+  Jonathan Aldrich    
+ Carnegie Mellon University   
+ United States 
+  Aaron Bembenek    
+ University of Melbourne   
+ Australia 
+  Einar Broch Johnsen    
+ University of Oslo   
+ Norway 
+  Luís Caires    
+ INESC-ID / Instituto Superior Tecnico, University of Lisbon   
+ Portugal 
+  Farzaneh Derakhshan    
+ Illinois Institute of Technology   
+ United States 
+  Werner Dietl    
+ University of Waterloo   
+ Canada 
+  Sophia Drossopoulou    
+ Imperial College London   
+ United Kingdom 
+  Serena Elisa Ponta    
+ SAP Security Research 
+  Sebastian Erdweg    
+ JGU Mainz   
+ Germany 
+  João F. Ferreira    
+ INESC-ID and IST, University of Lisbon   
+ Portugal 
+  Carla Ferreira    
+ NOVA University Lisbon   
+ Portugal 
+  Elisa Gonzalez Boix    
+ Vrije Universiteit Brussel   
+ Belgium 
+  Ping Hou    
+ University of Oxford   
+ United Kingdom 
+  Jules Jacobs    
+ Cornell University 
+  Sung-Shik Jongmans    
+ Open University of the Netherlands; CWI   
+ Netherlands 
+  Robbert Krebbers    
+ Radboud University Nijmegen   
+ Netherlands 
+  Mira Mezini    
+ TU Darmstadt; hessian.AI; National Research Center for Applied Cybersecurity ATHENE   
+ Germany 
+  Daniele Nantes-Sobrinho    
+ Imperial College London   
+ United Kingdom 
+  Federico Olmedo    
+ University of Chile   
+ Chile 
+  Albert Rubio    
+ Complutense University of Madrid   
+ Spain 
+  Alexandra Silva    
+ Cornell University   
+ United States 
+  Peter Thiemann    
+ University of Freiburg, Germany 
+  Niki Vazou    
+ IMDEA Software Institute 
+  Michael Vollmer    
+ University of Kent   
+ United Kingdom 
+  Di Wang    
+ Peking University   
+ China 
+  Pascal Weisenburger    
+ University of St. Gallen   
+ Switzerland 
+  Max Willsey    
+ UC Berkeley   
+ United States 
+  Tobias Wrigstad    
+ Uppsala University   
+ Sweden 
+  Jingling Xue    
+ UNSW Sydney   
+ Australia 
+  Wenjia Ye    
+ National University of Singapore   
+ Singapore 
+  Lingming Zhang    
+ University of Illinois at Urbana-Champaign   
+ United States 
+
+ x  Wed 4 Dec 12:59    
+
+  ECOOP 2025   
+  contact form    
+  using conf.researchr.org  ( v1.67.1  )  
+   Support page    
+     
+ Tracks  
+ GPCE   
+  Technical Papers   
+  Workshops/Colocated Events   
+  Doctoral Symposium    
+
+ Attending  
+ Venue: Western Norway University of Applied Sciences   
+  Getting There (And Away)   
+  Weather    
+ Sign Up    
+
+  

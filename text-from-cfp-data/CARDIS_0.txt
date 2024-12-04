@@ -1,0 +1,55 @@
+ 
+ CARDIS 2023  
+  15-16 Nov 2023  
+  In-person conference    
+ CARDIS 2023   Home  Program  Accepted Papers  Tutorials  Program Committee    
+ Registration     
+ Calls for Participation  Call for Papers  Call for Sponsors  Call for Tutorials  Call for PhD Forum    
+ Practical Information  Venue & Travel  About Amsterdam    
+ All CARDIS events     
+  
+ Call for Papers  
+ PDF version   
+ Scope  
+ CARDIS has been the venue for security experts from industry and academia to exchange on security of smart cards and related applications since 1994. Smart cards play an increasingly important role in our day-to-day life through their use in banking cards SIM cards, electronic passports, and IoT devices. It is thus naturally of utmost importance to understand their security features and to develop sound protocols and countermeasures while keeping reasonable performance. In this respect, CARDIS aims to gather security experts from industry, academia, and standardization bodies to make steps forward in the field of embedded security.  
+ The 22nd edition of CARDIS is organized by the Complex Cyber Infrastructure  group of the University of Amsterdam  in Amsterdam, NL. CARDIS 2023 will be an in-person event, with the possibility to attend talks remotely (presenters are required to participate to the conference in presence).  
+ Topics  
+ The program committee is seeking original papers on the design, development, deployment, evaluation, penetration testing and application of smart cards and secure embedded systems. Submissions across a broad range of the development phase are encouraged, from exploratory research and proof-of-concept studies to practical applications and deployment. Topics of interest include, but are not limited to:  
+ Security and applications of: 
+  Smart cards: identification, access control, pay TV 
+  IoT devices: automotive, medical, mobile payment, mobile connected devices 
+  Trusted computing: mobile TPM, Trusted Execution Environments 
+  Embedded systems: operating systems, memory, virtual machines 
+  Machine learning for embedded systems implementations 
+  Cryptographic implementations of: 
+  Lightweight cryptographic algorithms 
+  Post-quantum cryptographic algorithms 
+  Random number generators, PUFs 
+  White-box cryptography 
+  Attacks and countermeasures: 
+  Side-channel (timing, power, cache) attacks and countermeasures 
+  Fault and combined attacks and countermeasures 
+  Reverse engineering, (anti-)cloning, (anti-)tampering, (anti-)counterfeiting 
+  Tools: 
+  Automated analysis 
+  Formal verification and secure design 
+  Machine learning analysis 
+  Paper Submission  
+ Authors are invited to submit papers electronically in PDF format using the submission form available on https://easychair.org/conferences/?conf=cardis2023  . Submissions must be original, unpublished, anonymous and not submitted to journals or other conferences with proceedings. Submissions must be written in English and should be at most 20 pages in total (including references and appendices). Papers not meeting these guidelines risk rejection without consideration. All submissions will be blind-refereed. Submission implies the willingness of at least one of the authors to register and present the paper. The proceedings will be published in the Springer Lecture Notes in Computer Science (LNCS) series. Both submissions and accepted papers must follow the LNCS default author instructions accessible on the Springer webpage: https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines  .  
+ Important Dates  
+  
+ Submission deadline: | June 30, 2023  Submission site 
+ Notification of acceptance: | September 16, 2023 
+ Pre-proceedings paper due: | October 2, 2023 
+ Conference dates: | November 15-16, 2023 
+ Final version due: | November 30, 2023 
+  
+ All deadlines are 23:59:59 Anywhere on Earth (AoE).  
+ Organization  
+ General Chair:  Francesco Regazzoni, University of Amsterdam, NL  
+ Program Chairs:  Shivam Bhasin, Nanyang Technological University, SG, and Thomas Roche, NinjaLab, FR  
+ Local Arrangements Co-Chairs:  Kostas Papagiannopoulos, University of Amsterdam, NL, and Marco Brohet, University of Amsterdam, NL  
+
+ Used a lot of code by Thore Tiemann from older CARDIS 2019  , CARDIS 2020  , CARDIS 2021  and CARDIS 2022  webpages. Thanks to Yuri Demchenko  for the banner picture. © 2023. All rights reserved. Powered by HTML5 and CSS3.  
+  
+  

@@ -1,0 +1,123 @@
+Skip to the content  24th ACM IVA Conference    
+ 24th ACM International Conference on Intelligent Virtual Agents   
+   
+    Menu      
+ Home 
+  Calls | Call for Papers 
+  Call for Workshops/Tutorials 
+  Call for Demos 
+  Call for Doctoral Consortium 
+  Program | Program at a glance 
+  Detailed Program | Paper Sessions 
+  Keynotes 
+  Accepted Papers and Demos 
+  Doctoral Consortium 
+  Workshops/Tutorials 
+  Organizers | Organizing Committee 
+  Senior Program Committee 
+  Program Committee 
+  Attending | Venue 
+  Social Events 
+  Submission 
+  Registration 
+  SIGAI Student Travel Grants 
+
+ Close Menu     Home 
+  Calls  Show sub menu | Call for Papers 
+  Call for Workshops/Tutorials 
+  Call for Demos 
+  Call for Doctoral Consortium 
+  Program  Show sub menu | Program at a glance 
+  Detailed Program  Show sub menu | Paper Sessions 
+  Keynotes 
+  Accepted Papers and Demos 
+  Doctoral Consortium 
+  Workshops/Tutorials 
+  Organizers  Show sub menu | Organizing Committee 
+  Senior Program Committee 
+  Program Committee 
+  Attending  Show sub menu | Venue 
+  Social Events 
+  Submission 
+  Registration 
+  SIGAI Student Travel Grants 
+
+ Call for Papers  
+
+ Call for Papers  
+ Intelligent Virtual Agents (IVA) Annual Conference is the premier international event for interdisciplinary research on the design, application, and evaluation of Intelligent Virtual Agents (IVAs) with a specific focus on the ability to socially interact.  
+ IVA 2024, the 24th Annual Conference, will be held in Glasgow, Scotland, September 16-19, 2024.   
+ Note IVA 2024 will be co-located with the conference on Affective Computing and Intelligent Interaction (ACII), with select joint sessions and social events and the ability to attend ACII paper sessions.   
+ IVAs are interactive characters that exhibit human-like capabilities including communicating using natural human modalities such as facial expressions, speech and gesture. IVAs are also capable of real-time perception, cognition, emotion and action that allows them to participate in dynamic social interactions.  
+ IVA 2024 aims to showcase cutting-edge research on the design, application, and evaluation of IVAs, as well as the basic research underlying the technology that supports human-agent interaction such as social perception, dialog modeling, and social behavior planning. We also welcome submissions on central theoretical issues, uses of virtual agents in psychological research and showcases of working applications.  
+ IVA 2024 offers two submission tracks: Papers (8 pages, not including references) and Extended Abstracts (3 pages, not including references).  
+ All submissions will be double-blind peer-reviewed by expert reviewers. All accepted full paper submissions will be presented orally and published in the proceedings. Accepted extended abstracts will be presented as a talk or a poster, depending on the outcome of the review process. Accepted extended abstracts will also be published in the proceedings, unless the authors do not want it published.  
+ Interdisciplinary Format   
+ IVA is traditionally a highly interdisciplinary conference. As part of ensuring that, IVA 2024 will account for different publication norms across disciplines. For example, conference publication is a norm in Computer Science whereas journal publications are the norm in Psychology. To accommodate these differences while fostering trans-disciplinary interaction, accepted extended abstracts may be selected for oral presentation in addition to the standard of a poster presentation. Also, authors of extended abstracts will have the option of whether their abstract publication is archival.  
+ SCOPE AND LIST OF TOPICS   
+ IVA invites submissions on a broad range of topics, including but not limited to:  
+ Agent design and modeling of:   
+ Cognition 
+  Emotion (including personality and cultural differences) 
+  Socially communicative behavior (e.g., of emotions, personality traits) 
+  Conversational behavior 
+  Social perception 
+  Machine learning approaches to agent modeling 
+  Approaches to realizing adaptive behavior 
+  Models informed by theoretical and empirical research in psychology 
+  Multimodal interaction:   
+ Verbal and nonverbal behavior coordination 
+  Face-to-face communication skills 
+  Engagement 
+  Managing co-presence and interpersonal relation 
+  Multi-party interaction 
+  Data driven multimodal modeling 
+  Social agent architectures:   
+ Design criteria and design methodologies 
+  Engineering of real-time human-agent interaction 
+  Standards / measures to support interoperability 
+  Portability and reuse 
+  Specialized tools, toolkits and tool chains 
+  Evaluation methods and studies:   
+ Evaluation methodologies and user studies 
+  Ethical considerations and societal impact 
+  Applicable lessons across fields (e.g. between robotics and virtual agents) 
+  Social agents as a means to study and model human behavior 
+  Applications:   
+ Applications in education, skills training, health, counseling, games, art, etc. 
+  Virtual agents in games and simulations 
+  Social agents as tools in psychology 
+  Migration of agents between platforms 
+   
+ Special Theme   
+ A special theme this year at IVA will be on the use of multimodal machine learning and large language/foundation models in agent design and implementation, as well as comparison of these techniques to alternative approaches. These advances promise to make virtual agents more robust, human-like and capable of autonomous open-ended interaction. At the same time these advances can raise critical ramifications for the design process’s ability to ensure the behavior of the agent is appropriately circumscribed for an application.  
+ Note: IVA 2024 will as usual have a doctoral consortium  , workshops and demos  .  
+ INSTRUCTIONS FOR AUTHORS   
+ IVA2024 uses Easychair for receiving submissions:  
+ https://easychair.org/conferences/?conf=iva24   
+ Paper and extended abstract submissions should be anonymous and prepared in the “ACM Standard” format, more specifically the “SigConf” format.  
+ The LaTeX template for the “ACM Standard”/”SigConf” format can be found inside the official 2017 ACM Master article template package. Please use the most recent version (1.65) available at: | https://www.acm.org/publications/proceedings-template 
+  Please use: \documentclass[sigconf]{acmart}, 2-column format 
+  The “ACM Standard” Microsoft Word template is currently not part of the downloadable package as the ACM is currently revising it to improve accessibility of resulting PDF-documents. Please use the “Interim Word Template” instead: | https://www.acm.org/binaries/content/assets/publications/word_style/interim-template-style/interim-layout-.docx 
+  By submitting your article to an ACM Publication, you are hereby acknowledging that you and your co-authors are subject to all | ACM Publications Policies | , including ACM’s new | Publications Policy on Research Involving Human Participants and Subjects | . Alleged violations of this policy or any ACM Publications Policy will be investigated by ACM and may result in a full retraction of your paper, in addition to other potential penalties, as per ACM Publications Policy. 
+  Please ensure that you and your co-authors | obtain an ORCID ID | , so you can complete the publishing process for your accepted paper. ACM has been involved in ORCID from the start and we have recently made a | commitment to collect ORCID IDs from all of our published authors | . The collection process has started and will roll out as a requirement throughout 2022. We are committed to improve author discoverability, ensure proper attribution and contribute to ongoing community efforts around name normalization; your ORCID ID will help in these efforts. 
+  IVA 2024 accepts two types of submissions:  
+ Full papers: 8 pages (plus references) 
+  Extended abstracts: 3 pages (plus references) 
+  All submissions should be in PDF-format.  
+ ADDITIONAL MATERIAL: Authors may refer to additional (anonymized) material in their paper. We recommend the use of the Open Science Framework  . OSF is a free, open platform to support your research and enable collaboration. Authors can upload different types of material in their project, anonymized for the review process. Once a paper is published, the OSF project can be linked to the authors and their publication.  
+ IMPORTANT DATES   
+ Preliminary abstract submissions (mandatory, to assign reviewers) | Submission Deadline: | 28th March 2024 | 8 th April 2024   (23:59 UTC-12) 
+  Papers and Extended Abstracts Submission | Submission Deadline: | 5 th  April 2024 | 16th April 2024  (23:59 UTC-12) 
+  Review Process | Initial Review Notification/Start Rebuttal Phase: | 12 th  May 2024 
+  Rebuttals Due: | 19 th  May 2024 (23:59 UTC-12) 
+  Notification of acceptance: | 7 th  June 2024 
+  Camera Ready Due: | 7 th  July 2024 (23:59 UTC-12) 
+  All deadlines are anywhere on earth (UTC−12)  
+
+ © 2024 24th ACM IVA Conference   
+ Powered by WordPress   
+   
+ To the top ↑   Up ↑      
+  
+  

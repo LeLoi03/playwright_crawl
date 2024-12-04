@@ -1,0 +1,155 @@
+  
+ What are you looking for?   
+
+ Toggle menu    SYSTOR 2024 | Organizers 
+  Program Committee 
+  Past Conferences 
+  Program | Keynotes 
+  Full Program 
+  Accepted Papers 
+  Accepted Posters 
+  ISW 2024 
+  Call for Papers | Research Track 
+  Posters Track 
+  Highlights Track 
+  Submission Instructions 
+  Sponsors | Our Sponsors 
+  Become a Sponsor 
+  ISW 2024 | Program 
+  Keynote 
+  Highlight Papers and Panel 
+  ISW Accepted Posters 
+  Arriving & Parking 
+  Pictures 
+
+ Call for Papers  
+
+ Call for Papers  
+  
+ The ACM International Systems and Storage Conference (SYSTOR) is an international forum for interaction across the systems research community. The program includes innovative, peer-reviewed research papers in the broad area of systems, as well as distinguished keynote lecturers, a poster session, and social events. ACM SYSTOR is designed to engage academic and industrial researchers and practitioners, welcoming both students and seasoned professionals.   
+
+ Call for Papers  
+ SYSTOR has traditionally welcomed academic and industrial papers in systems including storage, cloud and distributed systems, networking, and systems security, broadly construed. While continuing on this tradition, this year, we are broadening the scope to also include research on systems issues in AI and/or sustainability, including those that involve workload optimization, data processing, lifecycle of systems, carbon footprint transparency, and system re-designs. SYSTOR encourages submissions that describe results from experimental system prototypes, as well as experience papers describing practical deployments, and valuable lessons learned from them.   
+ Topics of interest include, but are not limited to:   
+ Systems and workload optimization for AI/ML systems 
+  Sustainability/carbon footprint of computer and network systems 
+  System security and trust 
+  Big Data infrastructure 
+  Cloud, edge, data center, and distributed systems 
+  Embedded and real-time systems 
+  Fault tolerance, reliability, and availability 
+  File and storage systems 
+  Networked, mobile, wireless, peer-to-peer, and sensor systems 
+  Operating systems, computer architecture, and their interactions 
+  Performance evaluation and workload characterization 
+  Runtime systems and compiler/programming-language support 
+  System deployment, usage, and experience 
+  System design or adaptation for emerging storage technologies 
+  Virtualization and containers 
+  Storage 3.0 
+  SYSTOR 2024 solicits submissions in four separate categories:   
+ Full Papers Track | – original research, at most 12 pages, excluding references 
+  Short Papers Track | – original research, at most 5 pages, excluding references 
+  Posters with Extended Abstract Track | – original work presented as a poster, accompanied by an extended abstract in the conference proceedings 
+  Highlights Track for the Israeli Systems Workshop | – papers previously published in a systems conference 
+  Attendance  
+ Systor 2024 is postponed to September 23-24 and will be virtual.  
+    
+ Due to concerns about the current situation in Israel, ACM Systor 2024 conference will be virtual, in collaboration with the Israeli Systems Workshop on September 25  in the Academic College of Tel Aviv-Yafo, Israel.  
+
+ // Important Dates  
+
+ Full and Short Papers Track 
+ Paper Submission | Wednesday, June 19, 2024 (11:59:59pm CEST)   
+  Monday, June 24, 2024 (11:59:59pm CEST) 
+ Acceptance Notification | Wednesday, August 7, 2024 
+ Camera-ready | Monday, August 26, 2024 
+
+ Posters with Extended Abstract  
+  Track 
+ Poster & Abstract Submission | Monday, July 15, 2024 (11:59:59pm CEST) 
+ Acceptance Notification | Sunday, July 28, 2024 
+ Camera-ready | Wednesday, August 14, 2024 
+
+ Highlight Papers for the Israeli Systems Workshop 
+ Abstract Submission | Wednesday, July 24, 2024 (11:59:59pm CEST) 
+ Acceptance Notification | Thursday, August 8, 2024 
+
+ Additional posters for the Israeli Systems Workshop 
+ Abstract Submission | September 5, 2024 
+
+ Systor Virtual Conference | September 23-24, 2024 
+ The Israeli Systems Workshop | September 25, 2024 
+
+ // Research Track  
+
+ SYSTOR accepts both full-length and short papers. A short paper is intended for an idea that can be described and evaluated in fewer pages; the goal of the short paper is not for preliminary work or workshop-style position papers.   
+ A good SYSTOR paper should present a novel, compelling solution to a well-motivated problem. The evaluation should demonstrate the strengths and weaknesses of the solution in settings that are as realistic as possible, including test applications workloads, system parameters, and assumed constraints. Authors should clearly describe their contribution in the context of prior work, and draw meaningful conclusions from their work.   
+ The program committee also encourages submissions that describe lessons learned from operational (especially large-scale) system deployments. Such submissions are expected to include sufficient details of the system, its design goals, and the methods used for evaluating whether these goals were met.   
+ The program committee will value submissions accompanied by supplemental material such as traces and open-source code that can help reproduce the reported results, and advance additional research in the field.   
+ A small set of outstanding papers will be forwarded to a suitable journal, such as ACM journal Transactions on Storage (TOS) or Transactions on Computer Systems (TOCS), for a fast-tracked review process for an expanded version of the paper.   
+ As a published ACM author, you and your co-authors are subject to all  ACM Publications Policies   , including ACM’s new  Publications Policy on Research Involving Human Participants and Subjects   .   
+ Accepted papers may be invited to participate also in the Israeli Systems Workshop.  
+
+ // Posters Track  
+
+ SYSTOR also welcomes academic and industrial posters. See “Call for Papers” above for foci and relevant areas.   
+ A good poster submission will articulate and motivate an interesting problem, and describe a new insight or approach to addressing this problem. It will clearly present the work in progress (or attained results), and the expected outcomes from future work. The poster should present these details in a manner that is clear and captivating.   
+ Poster submissions should include a one-page extended abstract, and a draft of the poster. The extended abstracts of accepted posters will be included in the online conference proceedings in the ACM Digital Library. The program committee will review poster submissions in a single-blind manner.   
+ As a published ACM author, you and your co-authors are subject to all  ACM Publications Policies   , including ACM’s new  Publications Policy on Research Involving Human Participants and Subjects   .   
+ Accepted posters can opt-in for physical presentation at the Israeli Systems Workshop in person.  
+ Additional posters to be presented (physically) in ISW – the Israeli Systems Workshop  only, can be submitted by September 5.  
+   Send a title, abstract and name of presenter to sarelco@mta.ac.il  and moshesu@mta.ac.il   
+
+ // HIGHLIGHTS TRACK - ISRAELI SYSTEMS WORKSHOP  
+
+ The highlights track gives an opportunity for research, published over the last year in a systems conference (e.g., SOSP, OSDI, FAST, ASPLOS, EuroSys, ATC, NSDI), to reach a broader audience with a second presentation (similar to ATC’s “Best of the Rest” track). Highlight papers will be presented in-person  at the Israeli Systems Workshop on September 25, so at least one author must physically attend the workshop.  
+ Submission should include the paper abstract and details (where / when) of the previous publication. The paper will not be republished in the SYSTOR conference proceedings in the ACM Digital Library.  
+
+ // Submission Instructions  
+
+ Research papers (full and short) should be submitted through: https://systor24.hotcrp.com   
+ Posters should be submitted through: https://systor24posters.hotcrp.com   
+ Highlight papers for the Israeli Systems Workshop should be submitted through: https://systor24highlights.hotcrp.com   
+ Additional posters to be presented (physically) in ISW – the Israeli Systems Workshop  only, can be submitted by September 5.  
+   Send a title, abstract and name of presenter to sarelco@mta.ac.il  and moshesu@mta.ac.il   
+  
+ Review Process  
+ The program committee will review submissions  to the Research Track in a double-blind manner. All submissions should be properly anonymized, removing all identifiable information whenever possible including obvious self-references. Papers not properly anonymized may be rejected without review.   
+ Any submissions accompanied by a non-disclosure agreement will be returned without review  .   
+ Copyright and originality of the work  
+ SYSTOR will enforce  ACM’s Plagiarism policy   regarding copying and resubmission of prior work. Simultaneous submissions are not allowed: any work submitted to SYSTOR must not be under consideration for another workshop, conference, or journal.   
+ AUTHORS TAKE NOTE:  The official publication date is the earlier of either the first day of the conference or the date the proceedings are made available in the ACM Digital Library. This date may be up to  two weeks prior   to the first day of your conference. The official publication date affects the deadline for any patent filings related to published work.   
+ Formatting instructions  
+ Papers should be submitted electronically as a PDF. All text and figures must fit within a 7”x9” text block, centered on the page, using two columns with .33 inches of separation. The paper should be typeset using a 10-point font (Times New Roman or similar) with a 12-point (single-spaced) leading.   
+ For the Full and Short Paper Tracks, please follow  paper formatting instructions   . The author kit, which contains the Latex style and template,  is available here   .   
+ For the Posters Track, please follow  poster formatting instructions   . The author kit, which contains the Latex style and template, is available here   .   
+ Please ensure that your paper satisfies all the above requirements for content and formatting before submission; if you have a question about any of these issues, please email the program chairs: Sam H. Noh and Aviad Zuck  .    
+ Additional instructions regarding camera-ready versions of accepted papers will be sent directly to the corresponding authors and will appear  he  re  after the notification to authors.   
+ Virtual presentation instructions  
+ Please follow the video preparation and presentation instructions provided here  .  
+ Arxiv  
+ A paper submitted to SYSTOR can be submitted simultaneously to Arxiv, with some changes. We would like the authors to make an honest effort to preserve anonymity. Please ensure the SYSTOR submission is using a different title and a different system name from the Arxiv version. It would be useful to let the chairs know if there is an Arxiv paper so that we can intervene if PC members find it accidentally and think the submission is plagiarizing the Arxiv paper.   
+ Open Source  
+ The authors of a SYSTOR submission are encouraged to associate a source code repo with their submission, but this repo must be completely anonymized. It is alright if a named (= not anonymized) source code repo exists, so long as it isn’t associated/linked with the submission in any way. An anonymized repo can be a clone of the named repo which is modified to be anonymous. Another way to do this is  https://anonymous.4open.science/   .   
+
+ // Sponsored by  
+
+ // In cooperation with  
+
+ // Platinum Sponsors  
+
+ // Gold Sponsors  
+
+ // Silver Sponsors  
+
+ Join us for SYSTOR 2024!  
+
+ Contact us  
+  General Chair     
+
+  Sponsorship     
+
+ Copyright © 2024 SYSTOR  . All rights reserved   
+
+       

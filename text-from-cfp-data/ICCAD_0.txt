@@ -1,0 +1,276 @@
+ IEEE.org    
+   
+ IEEE Xplore Digital Library    
+   
+ IEEE Standards    
+   
+ IEEE Spectrum    
+   
+ More Sites    
+
+ ICCAD 2024       
+ About | Executive Committee 
+  Conference History 
+  Bylaws 
+  FAQ 
+  Program | Final Program 
+  Keynote Speakers 
+  ICCAD on Broadway 
+  Contests 
+  Workshops 
+  Tutorials 
+  Special Sessions 
+  2024 Award Winners 
+  Authors | Final Author Instructions 
+  Accepted Papers 
+  Initial Author Instructions 
+  Workforce Development Activities | Student Scholar Program 
+  Student Research Competition 
+  Job Fair 
+  CADathlon@ICCAD 2024 
+  Activity Organizers 
+  Travel/Venue | Conference Hotel 
+  Avoid Hotel Fraud 
+  Things to Do 
+  Visa Information 
+  Registration 
+  Become a Patron 
+
+ Accepted Papers  Accepted Papers  
+
+ We are thrilled to announce the ICCAD 2024 accepted paper listing!    
+ The formal notification of acceptance will be sent on June 30th as planned.   
+  
+ ID | Title 
+ 510 | Quantum State Preparation Circuit Optimization Exploiting Don't Cares 
+ 514 | A Neural-Ordinary-Differential-Equations Based Generic Approach for Process Modeling in DTCO: A Case Study in Chemical-Mechanical Planarization and Copper Plating 
+ 520 | ATPlace2.5D: Analytical Thermal-Aware Chiplet Placement Framework for Large-Scale 2.5D-IC 
+ 522 | RapidIR: A Practical Infrastructure for FPGA High-Level Physical Synthesis 
+ 523 | HeLEM-GR: Heterogeneous Global Routing with Linearized Exponential Multiplier Method 
+ 526 | HeteroExcept: A CPU-GPU Heterogeneous Algorithm to Accelerate Exception-aware Static Timing Analysis 
+ 527 | OSCA: End-to-end Serial Stochastic Computing Neural Acceleration with Fine-grained Scaling and Piecewise Activation 
+ 529 | ZnH2: Augmenting ZNS-based Storage System with Host-managed Heterogeneous Zones 
+ 546 | Hybrid Power Failure Recovery for Intermittent Computing 
+ 550 | AyE-Edge: Automated Deployment Space Search Empowering Accuracy yet Efficient Real-Time Object Detection on the Edge 
+ 557 | One-for-All: An Unified Learning-based Framework for Efficient Cross-Corner Timing Signoff 
+ 568 | Automatic Generation of Timing Models from RTL for Hardware Accelerators 
+ 571 | HybriDIFT: Scalable Memory-Aware Dynamic Information Flow Tracking for Hardware 
+ 575 | ALISE: Accelerating Large Language Model Serving with Speculative Scheduling 
+ 594 | AESHA: Accelerating Eigen-decomposition-based Sparse Transformer with Hybrid RRAM-SRAM Architecture 
+ 596 | PrivQuant: Communication-Efficient Private Inference with Quantized Network/Protocol Co-Optimization 
+ 598 | KirchhoffNet: A Scalable Ultra Fast Analog Neural Network 
+ 599 | FSMM: An Efficient Matrix Multiplication Accelerator Supporting Flexible Sparsity 
+ 602 | Joint Placement Optimization for Hierarchical Analog/Mixed-Signal Circuits 
+ 609 | SeGen: Automatic Topology Generator for Sequencing Elements 
+ 614 | NAND-Tree: A 3D NAND Flash Based Processing In Memory Accelerator for Tree-Based Models on Large-Scale Tabular Data 
+ 615 | Edge-BiT: Software-Hardware Co-design for Optimizing Binarized Transformer Networks Inference on Edge FPGA 
+ 630 | CircuitSeer: RTL Post-PnR Delay Prediction via Coupling Functional and Structural Representation 
+ 632 | The Power of Graph Signal Processing for Chip Placement Acceleration 
+ 650 | Fusion of Global Placement and Gate Sizing with Differentiable Optimization 
+ 652 | R-HLS: An IR for Dynamic High-Level Synthesis and Memory Disambiguation based on Regions and State Edges 
+ 656 | Beyond the Yield Barrier: Variational Importance Sampling Yield Analysis 
+ 658 | Residual-INR: Communication Efficient On-Device Learning Using Implicit Neural Representation 
+ 662 | Robust Implementation of Retrieval-Augmented Generation on Edge-based Computing-in-Memory Architectures 
+ 668 | GL0AM: GPU Logic Simulation Using 0-Delay and Re-simulation Acceleration Method 
+ 670 | Physically Aware Synthesis Revisited: Guiding Technology Mapping with Primitive Logic Gate Placement 
+ 679 | ALISA: An Adaptive Learned Index Structure for Spatial Data on Solid-State Drives 
+ 682 | On Reducing the Execution Latency of Superconducting Quantum Processors via Quantum Job Scheduling 
+ 685 | Natural language is not enough: Benchmarking multi-modal generative AI for Verilog generation 
+ 687 | EasyPart: An Effective and Comprehensive Hypergraph Partitioner for FPGA-based Emulation 
+ 693 | HG-PIPE: Vision Transformer Acceleration with Hybrid-Grained Pipeline 
+ 699 | Multi-Objective Software-Hardware Co-Optimization for HD-PIM via Noise-Aware Bayesian Optimization 
+ 702 | GAT-Steiner: Rectilinear Steiner Minimal Tree Prediction Using GNNs 
+ 705 | Bayesian-Informed Hyperdimensional Learning for Intelligent and Efficient Data Processing 
+ 707 | On the Security Vulnerabilities of MRAM-based In-Memory Computing Architectures against Model Extraction Attacks 
+ 715 | Word-Level Augmentation of Formal Proof by Learning from Simulation Traces 
+ 724 | RandOhm: Mitigating Impedance Side-channel Attacks using Randomized Circuit Configurations 
+ 728 | An Effective Analytical Placement Approach to Handle Fence Region Constraint 
+ 730 | Barber: Balancing Thermal Relaxation Deviations of NISQ Programs by Exploiting Bit-Inverted Circuits 
+ 734 | SysMix: Mixed-Size Placement for Systolic-Array-Based Hierarchical Designs 
+ 739 | LSMR: Synergy Randomness in Liquid State Machine and RRAM-based Analog-digital Accelerator 
+ 741 | LACO: A Latency-Constraint Offline Neural Network Scheduler towards Reliable Self-Driving Perception 
+ 753 | TSO-Flow: A Topology Synthesis and Optimization Workflow for Operational Amplifiers with Invertible Graph Generative Model 
+ 755 | AdaPI: Facilitating DNN Model Adaptivity for Efficient Private Inference in Edge Computing 
+ 757 | ProPD: Dynamic Token Tree Pruning and Generation for LLM Parallel Decoding 
+ 763 | CAMSHAP: Accelerating Machine Learning Model Explainability with Analog CAM 
+ 765 | ReCon: Reconfiguring Analog Rydberg Atom Quantum Computers for Quantum Generative Adversarial Networks 
+ 777 | An FPGA-based Key-Switching Accelerator with Ultra-High Throughput for FHE 
+ 782 | TAP-CAM: A Tunable Approximate Matching Engine based on Ferroelectric Content Addressable Memory 
+ 789 | A Sparsity-Aware Autonomous Path Planning Accelerator with Algorithm-Architecture Co-Design 
+ 795 | DDP-Fsim: Efficient and Scalable Fault Simulation for Deterministic Patterns with Two-Dimensional Parallelism 
+ 796 | Improving Timing & Power Trade-off in Post-place Optimization Using Multi-agent Reinforcement Learning 
+ 799 | CellRejuvo: Rescuing the Aging of 3D NAND Flash Cells with Dense-Sparse Cell Reprogramming 
+ 802 | PACiM: A Sparsity-Centric Hybrid Compute-in-Memory Architecture via Probabilistic Approximation 
+ 803 | BPINN-EM: Fast Stochastic Analysis of Electromigration Damage using Bayesian Physics-Informed Neural Networks 
+ 804 | MAXCell: PPA-Directed Multi-Height Cell Layout Routing Optimization using Anytime MaXSAT with Constraint Learning 
+ 805 | JigsawPlanner: Jigsaw-like Floorplanner for Eliminating Whitespace and Overlap among Complex Rectilinear Modules 
+ 806 | Layout-level Hardware Trojan Prevention in the Context of Physical Design 
+ 808 | StarRoute: Adaptive Compute-Efficient FPGA Routing with Pluggable Intra-Connection Bidirectional Exploration 
+ 809 | An O(m+n)-Space Spatiotemporal Denoising Filter with Cache-Like Memories for Dynamic Vision Sensors 
+ 827 | Accelerating Quantum Circuit Simulation with Symbolic Execution and Loop Summarization 
+ 828 | BasisN: Reprogramming-Free RRAM-Based In-Memory-Computing by Basis Combination for Deep Neural Networks 
+ 830 | ARO: Autoregressive Operator Learning for Transferable and Multi-fidelity 3D-IC Thermal Analysis With Active Learning 
+ 838 | Voxel-CIM: An Efficient Compute-in-Memory Accelerator for Voxel-based Point Cloud Neural Networks 
+ 847 | REMNA: Variation-Resilient and Energy-Efficient MLC FeFET Computing-in-Memory Using NAND Flash-Like Read and Adaptive Control 
+ 851 | A Co-optimization Framework with Multi-layer Constraints for Manufacturability 
+ 852 | VeriCHERI: Exhaustive Formal Security Verification of CHERI at the RTL 
+ 856 | GACER: Granularity-Aware ConcurrEncy Regulation for Multi-Tenant Deep Learning 
+ 862 | A Hardware-Aware Gate Cutting Framework for Practical Quantum Circuit Knitting 
+ 867 | Multi-phase Coupled CMOS Ring Oscillator based Potts Machine 
+ 880 | Equivalence Checking for Flow-Based Computing using Iterative SAT Solving 
+ 881 | SCATTER: Algorithm-Circuit Co-Sparse Photonic Accelerator with Thermal-Tolerant, Power-Efficient In-situ Light Redistribution 
+ 885 | Efficient Task Transfer for HLS DSE 
+ 893 | MapFormer: Attention-based multi-DNN manager for throughout & power co-optimization on embedded devices 
+ 894 | Enhancing DNN Accelerator Integrity via Selective and Permuted Recomputation 
+ 907 | HDXpose: Harnessing Hyperdimensional Computing's Explainability for Adversarial Attacks 
+ 915 | SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator 
+ 923 | Evolutionary Approximation of Ternary Neurons for On-sensor Printed Neural Networks 
+ 927 | Foveated HDR: Efficient HDR Content Generation on Edge Devices Leveraging User's Visual Attention 
+ 931 | Customized Retrieval Augmented Generation and Benchmarking for EDA Tool Documentation QA 
+ 942 | Enforcing hard constraints in physics-informed learning for transient TSV electromigration analysis 
+ 947 | RareLS: Rarity-Reducing Logic Synthesis for Mitigating Hardware Trojan Threats 
+ 949 | Co-Designing Binarized Transformer and Hardware Accelerator for Efficient End-to-End Edge Deployment 
+ 962 | DISC: Exploiting Data Parallelism of Non-Stencil Computations on CGRAs via Dynamic Iteration Scheduling 
+ 965 | Partial Differential Equation Acceleration by Exploiting Value Similarity 
+ 966 | Revisiting sensitivity-based analog sizing with derivative-aware Bayesian optimization and error-suppressed adjoint analysis 
+ 968 | FLOP: A Flexible Memory-Optimized Processor for Parallel Graph Mining on FPGA 
+ 972 | FaStTherm: Fast and Stable Full-Chip Transient Thermal Predictor Considering Nonlinear Effects 
+ 973 | FlexHE: A flexible Kernel Generation Framework for Homomorphic Encryption-Based Private Inference 
+ 974 | Hierarchical Power Co-Optimization and Management for LLM Chiplet Designs 
+ 977 | AdapMoE: Adaptive Sensitivity-based Expert Gating and Management for Efficient MoE Inference 
+ 980 | OCTS: An Optical Clock Tree Synthesis Methodology for 2.5D Systems 
+ 981 | FAS-Trans: Fully Exploiting FFN and Attention Sparsity for Transformer on FPGA 
+ 985 | RABER: Reliability-Aware Bayesian-Optimization-based Control Layer Escape Routing for Flow-based Microfluidics 
+ 986 | MORPH: More Robust ASIC Placement for Hybrid Region Constraint Management 
+ 988 | Is Vanilla Bayesian Optimization Enough for High-Dimensional Architecture Design Optimization? 
+ 995 | MCUBERT: Memory-Efficient BERT Inference on Commodity Microcontrollers 
+ 996 | DiffSAT: Differential MaxSAT Layer for SAT Solving 
+ 998 | TransLib: An Extensible Graph-Aware Library Framework for Automated Generation of Transformer Operators on FPGA 
+ 999 | FabGPT: An Efficient Large Multimodal Model for Complex Wafer Defect Knowledge Queries 
+ 1003 | ReSCIM: Variation-Resilient High Weight-Loading Bandwidth In-Memory Computation Based on Fine-Grained Hybrid Integration of Multi-Level ReRAM and SRAM Cells 
+ 1004 | SEM-CLIP: Precise Few-Shot Learning for Nanoscale Defect Detection in Scanning Electron Microscope Image 
+ 1005 | An Agile Framework for Efficient LLM Accelerator Development and Model Inference 
+ 1006 | Efficient High-Fidelity Two-Dimensional Warpage Modeling for Advanced Packaging Analysis 
+ 1013 | Single Instruction Isolation for RISC-V Vector Test Failures 
+ 1034 | CFIRSTNET: Comprehensive Features for Static IR Drop Estimation with Neural Network 
+ 1058 | Sustainable High-Performance Instruction Selection for Superscalar Processors 
+ 1061 | Automatic Verification and Identification of Partial Retention Register Sets for Low-Power Designs 
+ 1075 | Accelerating Fault Injection for Validating Processor RTL Implementations 
+ 1080 | Efficient Ultra-Dense 3D IC Power Delivery and Cooling Using 3D Thermal Scaffolding 
+ 1082 | ChatOPU: An FPGA-based Overlay Processor for Large Language Models with Unstructured Sparsity 
+ 1084 | MapTune: Advancing ASIC Technology Mapping via Reinforcement Learning Guided Library Tuning 
+ 1098 | Enabling Robust Inverse Lithography with Rigorous Multi-Objective Optimization 
+ 1107 | Differentiable Edge-based OPC 
+ 1114 | An Access Pattern-aware Hybrid Learning-based and Conventional Mapping for Solid-State Drives 
+ 1117 | ConSmax: Hardware-Friendly Alternative Softmax with Learnable Parameters 
+ 1121 | Peak Power and Dynamic IR-drop Assessment via Waveform Augmenting 
+ 1130 | PulseRF: Physics Augmented ML Modeling and Synthesis for High-Frequency RFIC Design 
+ 1140 | AGC: A Unified Architecture for Accelerating K-Nearest Neighbor Graph Construction in Vector Search 
+ 1148 | OFT: An accelerator with eager gradient prediction for attention training 
+ 1156 | A Processing-using-Memory Architecture for Commodity DRAM Devices with Enhanced Compatibility and Reliability 
+ 1166 | A Physical and Timing Aware Placement Optimization Framework Based on Graph Neural Network 
+ 1169 | Leda: Leveraging Tiling Dataflow to Accelerate SpMM on HBM-Equipped FPGAs for GNNs 
+ 1179 | RISCSparse: Point Cloud Inference Engine on RISC-V Processor 
+ 1188 | RTLRewriter: Methodologies for Large Models aided RTL Code Optimization 
+ 1195 | Towards Floating Point-Based Attention-Free LLM: Hybrid PIM with Non-Uniform Data Format and Reduced Multiplications 
+ 1196 | Sustainable Hardware Specialization 
+ 1212 | LiTformer: Efficient Modeling and Analysis of High-Speed Link Transmitters Using Non-Autoregressive Transformer 
+ 1218 | EPipe: Pipeline Inference Framework with High-quality Offline Parallelism Planning for Heterogeneous Edge Devices 
+ 1220 | MatFactory: A Framework for High-performance Matrix Factorization on FPGAs 
+ 1222 | HLSPilot: LLM-based High-Level Synthesis 
+ 1223 | RankTuner: When Design Tool Parameter Tuning Meets Preference Bayesian Optimization 
+ 1226 | Potter: A Parallel Overlap-Tolerant Router for UltraScale FPGAs 
+ 1232 | Optimal Layout Synthesis of Multi-Row Standard Cells for Advanced Technology Nodes 
+ 1236 | EI-PIT: A Parallel-in-Time Exponential Integrator Method for Transient Linear Circuit Simulation 
+ 1237 | APINT: A Full-Stack Framework for Acceleration of Privacy-Preserving Inference of Transformers based on Garbled Circuits 
+ 1239 | InstantGR: Scalable GPU Parallelization for Global Routing 
+ 1240 | Balor: HLS Source Code Evaluator Based on Custom Graphs and Hierarchical GNNs 
+ 1245 | Pseudo Adjoint Optimization: Harnessing the Solution Curve for SPICE Acceleration 
+ 1248 | FlexInt: A New Number Format for Robust Sub-8-Bit Neural Network Inference 
+ 1249 | DeepGate3: Towards Scalable Circuit Representation Learning 
+ 1263 | TReCiM: Lower Power and Temperature-Resilient Multibit 2FeFET-1T Compute-in-Memory Design 
+ 1265 | UFO-MAC: A Unified Framework for Optimization of High-Performance Multipliers and Multiply-Accumulators 
+ 1266 | CSP: Comprehensive Sparsification Preconditioning for Nonlinear Circuit Simulation 
+ 1278 | RL-Fill: Timing-Aware Fill Insertion Using Reinforcement Learning 
+ 1280 | Fast and Efficient 2-bit LLM Inference on GPU: 2/4/16-bit in a Weight Matrix with Asynchronous Dequantization 
+ 1288 | A Machine Learning Guided Cut Choices for ASIC Technology Mapping 
+ 1293 | MARCA: Mamba Accelerator with Reconfigurable Architecture 
+ 1296 | LAG-Sizer: A Novel Gate Sizer Based on Leak Generative Adversarial Network with Feature Fusion 
+ 1314 | ShiftCAM: A Time-Domain Content Addressable Memory Utilizing Shifted Hamming Distance for Robust Genome Analysis 
+ 1315 | MEIC: Re-thinking RTL Debug Automation using LLMs 
+ 1323 | Minimizing Worst-Case Data Transmission Cycles in Wavelength-Routed Optical NoC through Bandwidth Allocation 
+ 1329 | Hybrid Modeling and Weighting for Timing-driven Placement with Efficient Calibration 
+ 1337 | Tiny Deep Ensemble: Uncertainty Estimation in Edge AI Accelerators via Ensembling Normalization Layers with Shared Weights 
+ 1338 | A Hypergraph Partitioner Utilizing a Novel Graph Generative Model 
+ 1349 | Towards Uncertainty-Quantifiable Biomedical Intelligence: Mixed-signal Compute-in-Entropy for Bayesian Neural Networks 
+ 1350 | A Framework for Explainable, Comprehensive, and Customizable Memory-Centric Workloads 
+ 1357 | DoS-FPGA: Denial of Service on Cloud FPGAs via Coordinated Power Hammering 
+ 1361 | AMAZE: Accelerated MiMC Hardware Architecture for Zero-Knowledge Applications on the Edge 
+ 1386 | Multi-Tier 3D SRAM Module Design: Targeting Bit-Line and Word-Line Folding 
+ 1387 | Detecting Fraudulent Services on Quantum Cloud Platforms via Dynamic Fingerprinting 
+ 1397 | Neural Architecture Search for Highly Bespoke Robust Printed Neuromorphic Circuits 
+ 1403 | A Built-In Integrated Rowhammer, Rowpress, and Leakage Detection Sensor for DRAM 
+ 1410 | FloorSet - a VLSI Floorplanning Dataset with Design Constraints of Real-World SOCs. 
+ 1428 | Towards Energy-Aware Federated Learning via MARL: A Dual-Selection Approach for Model and Client 
+ 1432 | ADO-LLM: Analog Design Bayesian Optimization with In-Context Learning of Large Language Models 
+ 1436 | AI-Driven Evaluation and Optimization of Bump Pitch Effects on Chiplet and Interposer Design Quality 
+ 1440 | Modern Fixed-Outline Floorplanning with Rectilinear Soft Modules 
+ 1444 | SMT-based Layout Synthesis for Silicon-based Quantum Computing with Crossbar Architecture 
+ 1467 | TSB: Tiny Shared Block for Efficient DNN Deployment on NVCIM Accelerators 
+ 1472 | ASCENT: Amplifying Power Side-Channel Resilience via Learning & Monte-Carlo Tree Search 
+ 1492 | LaserEscape: Detecting and Mitigating Optical Probing Attacks 
+ 1500 | Reinforcement Learning-Enhanced Cloud-Based Open Source Analog Circuit Generator for Standard and Cryogenic Temperatures in 130-nm and 180-nm OpenPDKs 
+ 1501 | An Effective ECO Methodology for Reducing Back-side Design Rule Violations in Double-sided Signal Routing 
+ 1512 | Three Guides for Efficient Automatic Post-Fabrication Optimization of Modern NAND Flash Memory 
+ 1516 | Spiking Transformer Hardware Accelerators in 3D Integration 
+ 1521 | Accurate, Yet Scalable: A SPICE-based Design and Optimization Framework for eNVM based Analog In-memory Computing 
+ 1530 | Placement Tomography-Based Routing Blockage Generation for DRV Hotspot Mitigation 
+ 1534 | Analyzing the Impact of FinFET Self-Heating on the Performance of RF Power Amplifiers 
+ 1539 | OriGen: Enhancing RTL Code Generation with Code-to-Code Augmentation and Self-Reflection 
+ 1551 | RACI: A Resource-Aware Cooperative Inference Framework on Heterogeneous Edge Devices 
+ 1552 | Hyena: Optimizing Homomorphically Encrypted Convolution for Private CNN Inference 
+ 1554 | TopoOrderPart: a Multi-level Scheduling-Driven Partitioning Framework for Processor-Based Emulation 
+ 1560 | PolarGate: Breaking the Functionality Representation Bottleneck of And-Inverter Graph Neural Network 
+ 1561 | CoCoA: Algorithm-Hardware Co-Design for Large-Scale GNN Training using Compressed Graph 
+ 1578 | eXpect: On the Security Implications of Violations in AXI Implementations 
+ 1579 | TP-DCIM: Transposable Digital SRAM CIM Architecture for Energy-Efficient and High Throughput Transformer Acceleration 
+ 1581 | μLAM: A LLM-Powered Assistant for Real-Time Micro-architectural Attack Detection and Mitigation 
+ 1590 | Explainable and Layout-Aware Timing Prediction 
+ 1600 | Mixed-precision Neural Networks on RISC-V Cores: ISA extensions for Multi-Pumped Soft SIMD Operations 
+
+ IEEE Links    IEEE Home 
+  IEEE Sitemap/More Sites 
+  IEEE Contact & Support 
+  IEEE Accessibility Statement 
+  IEEE Nondiscrimination Policy 
+  IEEE Ethics Reporting 
+  IEEE Privacy Policy 
+    
+ IEEE Home    
+   
+ IEEE Sitemap/More Sites    
+   
+ IEEE Contact & Support    
+   
+ IEEE Accessibility Statement    
+   
+ IEEE Nondiscrimination Policy    
+   
+ IEEE Ethics Reporting    
+   
+ IEEE Privacy Policy    
+
+ This site is created, maintained, and managed by Conference Catalysts, LLC  .   
+ Please feel free to contact us  for any assistance.   
+
+ © Copyright 2024 IEEE - All rights reserved. Use of this website signifies your agreement to the IEEE Terms and Conditions  . A not-for-profit organization, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.  
+
+  About 
+  Program 
+  Authors 
+  Workforce Development Activities 
+  Travel/Venue 
+  Registration 
+  Become a Patron 
+
+  

@@ -1,0 +1,398 @@
+Blogs (1) >>  POPL 2019   Sun 13 - Sat 19 January 2019 Cascais, Portugal    
+
+ Toggle navigation        
+ Attending | Venue: Hotel Cascais Miragem 
+  Online Participation 
+  Registration 
+  Visa 
+  Information for Students 
+  Code of Conduct 
+  Supporting POPL 
+  Program | POPL Program 
+  Your Program 
+   Filter by Day | Sun 13 Jan 
+  Mon 14 Jan 
+  Tue 15 Jan 
+  Wed 16 Jan 
+  Thu 17 Jan 
+  Fri 18 Jan 
+  Sat 19 Jan 
+  Tracks | POPL 2019 
+  Research Papers 
+  Artifact Evaluation 
+  TutorialFest 
+  Student Research Competition 
+  Workshops 
+   Co-hosted Conferences 
+  CPP 
+  VMCAI 
+  Workshops 
+  BEAT 
+  CoqPL 
+  LAFI  (né PPS) 
+  OPCT 
+  Off the Beaten Track 
+  PEPM 
+  PLMW  @POPL 
+  PriSC 
+  Co-hosted Symposia 
+  PADL 
+  Organization | POPL 2019 Committees 
+  Organizing Committee 
+  Steering Committee 
+  Track Committees 
+  Research Papers 
+  Artifact Evaluation 
+  TutorialFest 
+  Student Research Competition 
+  Contributors 
+  People Index 
+   Co-hosted Conferences 
+  CPP | Program Committee 
+  VMCAI | Invited Speakers 
+  Organizing Committee 
+  Program Committee 
+  Workshops 
+  BEAT | Organizing Committee 
+  Program Committee 
+  CoqPL | Organizing Committee 
+  Program Committee 
+  LAFI | Program Committee 
+  Steering Committee 
+  OPCT | Organizing Committee 
+  Program Committee 
+  Off the Beaten Track | Organizing Committee 
+  Program Committee 
+  PEPM | Program Committee 
+  Steering Committee 
+  PLMW | Organizing Committee 
+  Speakers 
+  Panelists 
+  PriSC | Program Committee 
+  Organizing Committee 
+  Co-hosted Symposia 
+  PADL | Organizing Committee 
+  Program Committee 
+  Search 
+  Series | Series 
+   POPL 2025 
+  POPL 2024 
+  POPL 2023 
+  POPL 2022 
+  POPL 2021 
+  POPL 2020 
+  POPL 2019 
+  POPL 2018 
+  POPL 2017 
+  POPL 2016 
+  Sign in 
+  Sign up 
+
+  POPL 2019  ( series  ) /  BEAT 2019 ( series  ) /  BEAT 2019: Fourth Workshop on Behavioral Types  
+   
+ About 
+  Program 
+  Accepted Papers 
+  Call for Talk Proposals 
+  Behavioural types are abstract representations of the sequences of operations that computational entities (say, channels) must perform. Stateful entities offer services in a non-uniform way (one cannot pop from an empty stack); traditional type systems cannot guarantee that operations are only invoked when the entity is in the right state.  
+ Context   
+ Large-scale software systems rely on message-passing protocols: their correctness largely depends on sound protocol implementations. Behavioral types can help in the specification of correct-by-construction systems, and in verifying that programs respect their intended protocols.  
+ Recent years have seen a steady stream of research on behavioral types: their foundations and their transfer to several programming languages. This has led to highly-cited papers in conferences such as POPL and journals such as TOPLAS. Research projects on behavioral types (in the US and Europe) have advanced the theory and applications of behavioral types. There is a sustained interest in specification languages, tools, and frameworks that bring behavioral types into programming practice.  
+ Colocated with POPL, BEAT 2019 aims to enable a growing community to meet, present and discuss current work, and to foster (new) collaborations.  
+ Invited Speakers   
+ BEAT 2019 has the pleasure to have the following invited speakers:  
+ Ugo Dal Lago, University of Bologna, Italy 
+  Jan Hoffmann, Carnegie Mellon University, USA 
+  Rumyana Neykova, Brunel University London, UK 
+  Kirstin Peters, Technical University of Berlin, Germany 
+  Peter Thiemann, University of Freiburg, Germany 
+  Previous Events   
+ The BEAT workshop took place between 2013 and 2015, aligned with the European COST Action BETTY  (2012-2016):  
+ BEAT 2013, 22nd January 2013, co-located with POPL in Rome, Italy. 
+  BEAT 2 | , 23rd-24th September 2013, co-located with SEFM in Madrid, Spain. 
+  BEAT 2014 | , 1st September 2014, co-located with CONCUR in Rome, Italy. 
+  WS-FM / BEAT 2015 | , 4th-5th September 2015, co-located with CONCUR in Madrid, Spain. 
+  BEAT 2019 will continue this successful workshop series, with a focus on tools and industrial use of behavioral types.  
+ Workshop Dinner (after the workshop 19:30)   
+ Marisco na Praça   
+ R. Padre Moisés da Silva 34, 2750-437 Cascais  
+ https://goo.gl/maps/BknGhG4wXYM2   
+
+   Program Display Configuration  
+   
+   Time Zone   
+   
+ The program is currently displayed in (GMT) Belfast  .   Use conference time zone: (GMT) Belfast    Select other time zone   (GMT-12:00) AoE (Anywhere On Earth)  (GMT-11:00) Midway Island, Samoa  (GMT-10:00) Hawaii-Aleutian  (GMT-10:00) Hawaii  (GMT-09:30) Marquesas Islands  (GMT-09:00) Gambier Islands  (GMT-09:00) Alaska  (GMT-08:00) Tijuana, Baja California  (GMT-08:00) Pitcairn Islands  (GMT-08:00) Pacific Time (US & Canada)  (GMT-07:00) Mountain Time (US & Canada)  (GMT-07:00) Chihuahua, La Paz, Mazatlan  (GMT-07:00) Arizona  (GMT-06:00) Saskatchewan, Central America  (GMT-05:00) Guadalajara, Mexico City, Monterrey  (GMT-05:00) Easter Island  (GMT-06:00) Central Time (US & Canada)  (GMT-05:00) Eastern Time (US & Canada)  (GMT-05:00) Cuba  (GMT-05:00) Bogota, Lima, Quito, Rio Branco  (GMT-04:00) Caracas  (GMT-03:00) Santiago  (GMT-04:00) La Paz  (GMT-03:00) Faukland Islands  (GMT-03:00) Manaus, Amazonas, Brazil  (GMT-04:00) Atlantic Time (Goose Bay)  (GMT-04:00) Atlantic Time (Canada)  (GMT-03:30) Newfoundland  (GMT-03:00) UTC-3  (GMT-03:00) Montevideo  (GMT-03:00) Miquelon, St. Pierre  (GMT-03:00) Greenland  (GMT-03:00) Buenos Aires  (GMT-02:00) Brasilia, Distrito Federal, Brazil  (GMT-02:00) Mid-Atlantic  (GMT-01:00) Cape Verde Is.  (GMT-01:00) Azores  (UTC) Coordinated Universal Time  (GMT) Belfast  (GMT) Dublin  (GMT) Lisbon  (GMT) London  (GMT) Monrovia, Reykjavik  (GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna  (GMT+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague  (GMT+01:00) Brussels, Copenhagen, Madrid, Paris  (GMT+01:00) West Central Africa  (GMT+02:00) Windhoek  (GMT+02:00) Athens  (GMT+02:00) Beirut  (GMT+02:00) Cairo  (GMT+02:00) Gaza  (GMT+02:00) Harare, Pretoria  (GMT+02:00) Jerusalem  (GMT+03:00) Minsk  (GMT+02:00) Syria  (GMT+03:00) Moscow, St. Petersburg, Volgograd  (GMT+03:00) Nairobi  (GMT+03:30) Tehran  (GMT+04:00) Abu Dhabi, Muscat  (GMT+04:00) Yerevan  (GMT+04:30) Kabul  (GMT+05:00) Ekaterinburg  (GMT+05:00) Tashkent  (GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi  (GMT+05:45) Kathmandu  (GMT+06:00) Astana, Dhaka  (GMT+07:00) Novosibirsk  (GMT+06:30) Yangon (Rangoon)  (GMT+07:00) Bangkok, Hanoi, Jakarta  (GMT+07:00) Krasnoyarsk  (GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi  (GMT+08:00) Irkutsk, Ulaan Bataar  (GMT+08:00) Perth  (GMT+08:45) Eucla  (GMT+09:00) Osaka, Sapporo, Tokyo  (GMT+09:00) Seoul  (GMT+09:00) Yakutsk  (GMT+10:30) Adelaide  (GMT+09:30) Darwin  (GMT+10:00) Brisbane  (GMT+11:00) Hobart  (GMT+10:00) Vladivostok  (GMT+11:00) Lord Howe Island  (GMT+11:00) Solomon Is., New Caledonia  (GMT+11:00) Magadan  (GMT+11:00) Norfolk Island  (GMT+12:00) Anadyr, Kamchatka  (GMT+13:00) Auckland, Wellington  (GMT+12:00) Fiji, Kamchatka, Marshall Is.  (GMT+13:45) Chatham Islands  (GMT+13:00) Nuku'alofa  (GMT+14:00) Kiritimati     
+
+   The GMT offsets shown reflect the offsets at the moment of the conference  .     
+   
+ Time Band   
+   
+ By setting a time band, the program will dim events that are outside this time window. This is useful for (virtual) conferences with a continuous program (with repeated sessions).  
+  The time band will also limit the events that are included in the personal iCalendar subscription service.   Display full program    Specify a time band   -      
+
+  Save    
+
+  Close    
+
+ ×    You're viewing the program in a time zone which is different from your device's time zone change time zone     
+
+ Sun 13 Jan   
+  
+ Displayed time zone: Belfast  change      
+
+ 08:30 - 10:30 | Session 1 BEAT   at Sala VII   
+  Chair(s): Philip Wadler  University of Edinburgh, UK 
+ 08:30   
+ 10m    
+ Day opening | Opening   BEAT   
+ António Ravara  Department of Informatics, Faculty of Sciences and Technology, NOVA University of Lisbon and NOVA LINCS  , Jorge A. Pérez  University of Groningen, The Netherlands 
+ 08:40   
+ 50m    
+ Talk | Invited Talk: Gradual Session Types — an Ongoing Journey   BEAT   
+ Peter Thiemann  University of Freiburg, Germany 
+ 09:30   
+ 20m    
+ Talk | Gradual Session Types in Imperative Style   BEAT   
+ Kaede Kobayashi  Kyoto University  , Atsushi Igarashi  Kyoto University, Japan 
+ 09:50   
+ 20m    
+ Talk | Checking the Equivalence of Context-Free Session Types   BEAT   
+ Andreia Mordido  Lasige / Faculty of Sciences, Universidade de Lisboa  , Vasco T. Vasconcelos  LASIGE, Faculty of Sciences, University of Lisbon    
+  File Attached 
+ 10:10   
+ 20m    
+ Talk | Effpi: Concurrent Programming with Dependent Behavioural Types   BEAT   
+ Alceste Scalas  Imperial College London  , Elias Benussi  Imperial College London  , Nobuko Yoshida  Imperial College London    
+  File Attached 
+
+ 11:00 - 12:30 | Session 2 BEAT   at Sala VII   
+  Chair(s): Dominic Orchard  University of Kent, UK 
+ 11:00   
+ 50m    
+ Talk | Invited Talk: On Type-Based Complexity Analysis of Programs and Processes   BEAT   
+ Ugo Dal Lago  University of Bologna, Italy / Inria, France 
+ 11:50   
+ 20m    
+ Talk | Global Types with Internal Delegation   BEAT   
+ Ilaria Castellani  INRIA Sophia Antipolis, France  , Mariangiola Dezani  Università di Torino  , Paola Giannini  Universita' del Piemonte Orientale  , Ross Horne  Computer Science and Communications Research Unit, University of Luxembourg    
+  File Attached 
+ 12:10   
+ 20m    
+ Talk | Two Declarative Approaches for Session-Based Concurrency   BEAT   
+ Mauricio Cano 
+
+ 13:30 - 15:30 | Session 3 BEAT   at Sala VII   
+  Chair(s): Paola Giannini  Universita' del Piemonte Orientale 
+ 13:30   
+ 50m    
+ Talk | Invited Talk: Resource-Aware Session Types   BEAT   
+ Jan Hoffmann  Carnegie Mellon University 
+ 14:20   
+ 50m    
+ Talk | Invited Talk: A Session Type Provider: Compile-time Generation of Session Types with Interaction Refinements   BEAT   
+ Rumyana Neykova  Brunel University London    
+  File Attached 
+ 15:10   
+ 20m    
+ Talk | Getting Rid of Null-Dereferences – Behavioural Types to the Rescue   BEAT   
+ Hans Hüttel  Department of Computer Science, Aalborg University  , António Ravara  Department of Informatics, Faculty of Sciences and Technology, NOVA University of Lisbon and NOVA LINCS  , Adrian Francalanza  University of Malta  , Mario Bravetti  Università di Bologna    
+  File Attached 
+
+ 16:00 - 18:25 | Session 4 BEAT   at Sala VII   
+  Chair(s): Adrian Francalanza  University of Malta  , Jorge A. Pérez  University of Groningen, The Netherlands 
+ 16:00   
+ 50m    
+ Talk | Invited Talk: Session Types for Fault-Tolerant Distributed Algorithms   BEAT   
+ Kirstin Peters  TU Berlin 
+ 16:50   
+ 20m    
+ Talk | Behavioral Types as a Semantic Foundation for the GDPR Notion of Purpose   BEAT   
+ Evangelia Vanezi  University of Cyprus  , Dimitrios Kouzapas  University of Cyprus  , Anna Philippou  University of Cyprus 
+ 17:10   
+ 20m    
+ Talk | Relating Process Languages for Security and Communication Correctness   BEAT   
+ Daniele Nantes-Sobrinho  University of Brasília, Brazil  , Jorge A. Pérez  University of Groningen, The Netherlands 
+ 17:30   
+ 10m    
+ Break | Short break   BEAT 
+ 17:40   
+ 20m    
+ Talk | Towards Legally Compliant Governmental Case Work with Dynamic Condition Response Graphs   BEAT   
+ Søren Debois  IT University of Copenhagen  , Thomas H. Hildebrandt   , Hugo A. López  IT University of Copenhagen, Denmark & DCR Solutions A/S    
+  Media Attached 
+ 18:00   
+ 20m    
+ Talk | Hardware Interactions as Behavioural Types   BEAT   
+ Carlos Mão de Ferro  LASIGE, Faculty of Sciences, University of Lisbon  , Francisco Martins  LaSIGE, University of Lisbon  , Tiago Cogumbreiro  University of Massachusetts Boston    
+  File Attached 
+ 18:20   
+ 5m    
+ Day closing | Closing   BEAT   
+ António Ravara  Department of Informatics, Faculty of Sciences and Technology, NOVA University of Lisbon and NOVA LINCS  , Jorge A. Pérez  University of Groningen, The Netherlands 
+
+ Accepted Papers  
+  
+ Title 
+ Behavioral Types as a Semantic Foundation for the GDPR Notion of Purpose  BEAT   
+ Evangelia Vanezi  , Dimitrios Kouzapas  , Anna Philippou 
+ Checking the Equivalence of Context-Free Session Types  BEAT   
+ Andreia Mordido  , Vasco T. Vasconcelos    
+  File Attached 
+ Effpi: Concurrent Programming with Dependent Behavioural Types  BEAT   
+ Alceste Scalas  , Elias Benussi  , Nobuko Yoshida    
+  File Attached 
+ Getting Rid of Null-Dereferences – Behavioural Types to the Rescue  BEAT   
+ Hans Hüttel  , António Ravara  , Adrian Francalanza  , Mario Bravetti    
+  File Attached 
+ Global Types with Internal Delegation  BEAT   
+ Ilaria Castellani  , Mariangiola Dezani  , Paola Giannini  , Ross Horne    
+  File Attached 
+ Gradual Session Types in Imperative Style  BEAT   
+ Kaede Kobayashi  , Atsushi Igarashi 
+ Hardware Interactions as Behavioural Types  BEAT   
+ Carlos Mão de Ferro  , Francisco Martins  , Tiago Cogumbreiro    
+  File Attached 
+ Relating Process Languages for Security and Communication Correctness  BEAT   
+ Daniele Nantes-Sobrinho  , Jorge A. Pérez 
+ Towards Legally Compliant Governmental Case Work with Dynamic Condition Response Graphs  BEAT   
+ Søren Debois  , Thomas H. Hildebrandt  , Hugo A. López    
+  Media Attached 
+ Two Declarative Approaches for Session-Based Concurrency  BEAT   
+ Mauricio Cano 
+
+ Call for Talk Proposals  
+  
+ BEAT 2019 will feature a combination of invited talks and contributed talks.  
+ We solicit talk proposals (3 pages)  on all aspects of behavioral types including, but not limited to, the following:  
+ theoretical foundations 
+  tool implementations 
+  case studies and industrial applications of behavioral types 
+  connections with complementary verification techniques 
+  new research directions for the future 
+  Submission Guidelines   
+ Rather than regular paper submissions, authors should submit talk proposals  , intended as engaging presentations of recent research results, possibly already published.  
+ A submission to BEAT 2019 would typically fall within one of the following categories:  
+ reports of an ongoing work and/or preliminary results; 
+  overviews on recent tool implementations (or extensions of an existing tool) based on behavioral types; 
+  summaries of an already published paper (or a recent series of papers); 
+  overviews of (recent) PhD theses; 
+  descriptions of research projects and consortia; 
+  manifestos, calls to action, personal views on current and future challenges; 
+  overviews of interesting yet underrepresented problems. 
+  This list is by no means exhaustive but merely indicative.  
+ BEAT 2019 will be an informal venue, oriented to interaction, and so it will have no formal proceedings.  
+ Submissions based on already published works should include explicit references/links as appropriate. Reviewers may read such prior published works, but are not obliged to so do.  
+ Submissions will be judged by the program committee on the basis of significance, relevance, and potential of an engaging, compelling talk at the workshop.  
+ Submission Instructions   
+ Submissions should be up to three pages (not including references), as a PDF produced using the EasyChair format  .  
+ Please submit your talk proposal via EasyChair:  
+ https://easychair.org/conferences/?conf=beat2019   
+ It is understood that for each accepted submission one of the co-authors will attend the workshop and give the talk.  
+ Contact Information   
+ Prospective authors are encouraged to contact the organizers in case of questions ( beat2019@easychair.org  ).  
+ Workshop Dinner (after the workshop 19:30)   
+ Marisco na Praça   
+ R. Padre Moisés da Silva 34, 2750-437 Cascais  
+ https://goo.gl/maps/BknGhG4wXYM2   
+
+ Important Dates   AoE (UTC-12h)     
+
+ Sun 13 Jan 2019   
+  BEAT Workshop 
+ Mon 26 Nov 2018  
+  Notification to authors 
+ Mon 12 Nov 2018  
+  Submission deadline 
+
+ Submission Link   
+   
+   https://easychair.org/conferences/?conf=beat2019     
+   
+ Organizing Committee    
+   
+ Jorge A. Pérez    
+ University of Groningen, The Netherlands   
+ Netherlands 
+  António Ravara    
+ Department of Informatics, Faculty of Sciences and Technology, NOVA University of Lisbon and NOVA LINCS   
+ Portugal 
+    
+ Program Committee    
+   
+ Jorge A. Pérez Co-chair    
+ University of Groningen, The Netherlands   
+ Netherlands 
+  António Ravara Co-chair    
+ Department of Informatics, Faculty of Sciences and Technology, NOVA University of Lisbon and NOVA LINCS   
+ Portugal 
+  Stephanie Balzer    
+ Carnegie Mellon University, USA   
+ United States 
+  Laura Bocchi    
+ University of Kent   
+ United Kingdom 
+  Adrian Francalanza    
+ University of Malta   
+ Malta 
+  Paola Giannini    
+ Universita' del Piemonte Orientale   
+ Italy 
+  Sung-Shik Jongmans    
+ Open University of the Netherlands 
+  Hernan Melgratti    
+ University of Buenos Aires, Argentina 
+  Fabrizio Montesi    
+ University of Southern Denmark   
+ Denmark 
+  Dominic Orchard    
+ University of Kent, UK   
+ United Kingdom 
+  Luca Padovani    
+ University of Turin, Italy   
+ Italy 
+  Anna Philippou    
+ University of Cyprus 
+  Philip Wadler    
+ University of Edinburgh, UK   
+ United Kingdom 
+
+ x  Wed 4 Dec 13:42    
+
+  POPL 2019   
+  contact form    
+  using conf.researchr.org  ( v1.67.1  )  
+   Support page    
+     
+ Tracks  
+ Research Papers   
+  Artifact Evaluation   
+  TutorialFest   
+  Student Research Competition   
+  Workshops    
+ Co-hosted Conferences  
+ CPP 2019   
+  VMCAI 2019   
+  Workshops  
+ BEAT 2019   
+  CoqPL 2019   
+  LAFI 2019   
+  OPCT 2019   
+  Off the Beaten Track 2019   
+  PEPM 2019   
+  PLMW 2019   
+  PriSC 2019   
+  Co-hosted Symposia  
+ PADL 2019    
+
+ Attending  
+ Venue: Hotel Cascais Miragem   
+  Online Participation   
+  Registration   
+  Visa   
+  Information for Students   
+  Code of Conduct   
+  Supporting POPL    
+ Sign Up    
+
+  

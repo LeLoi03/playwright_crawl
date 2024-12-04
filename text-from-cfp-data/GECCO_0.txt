@@ -1,0 +1,97 @@
+Loading...   
+
+ Call for Papers   
+ General Information 
+  Important Dates 
+  Paper Categories 
+  Double-Blind Review Process 
+  Publication Policy 
+  Supplementary Material 
+
+ General Information    
+ The Genetic and Evolutionary Computation Conference (GECCO 2025) will present the latest high-quality results in genetic and evolutionary computation. Topics include genetic algorithms, genetic programming, ant colony optimization and swarm intelligence, complex systems, evolutionary combinatorial optimization and metaheuristics, evolutionary machine learning, evolutionary multiobjective optimization, evolutionary numerical optimization, neuroevolution, real-world applications, theory, hybrids and more. The full list of tracks   is available.  
+ The GECCO 2025 Program Committee invites the submission of technical papers describing your best work in genetic and evolutionary computation. Full papers of at most 8 pages (excluding references) should present original work that meets the high-quality standards of GECCO. Accepted full papers appear in the ACM digital library as part of the Main Proceedings  of GECCO. For full papers, a separate abstract needs to be submitted first by January 22, 2025  . Full papers are due by the non-extensible  deadline of January 29, 2025  .  
+ Each paper submitted to GECCO will be rigorously evaluated in a double-blind review process. Evaluation is done on a per-track basis, ensuring high interest and high expertise of the reviewers. Review criteria include the significance of the work, technical soundness, novelty, clarity, writing quality, relevance and, if applicable, sufficiency of information to permit replication.  
+ Besides full papers, poster-only papers of at most 4 pages (including references) may be submitted. Poster-only papers should present original work that has not yet reached the maturity and completeness of research results that are published as full papers at GECCO. The review of poster-only papers follows the same double-blind process mentioned above. Accepted poster-only papers will appear in the ACM digital library as part of the Companion Proceedings  of GECCO. Poster-only papers are due by the non-extensible deadline of January 29, 2025  , and no abstract needs to be submitted first.  
+ By submitting a paper, the author(s) agree that, if their paper is accepted, they will:  
+ Submit a final, revised, camera-ready version to the publisher on or before the camera-ready deadline 
+  Register at least one author before | May 8, 2025 | to attend the conference 
+  Attend the conference (at least one author) 
+  Present the accepted paper at the conference 
+  Each paper accepted needs to have at least one author registered. If an author is presenting more than one paper at the conference, she/he does not pay any additional registration fees.  
+ Important Dates    
+ Full papers (traditional category)  
+ Abstract Deadline: | January 22, 2025 
+  Submission of Full Papers: | January 29, 2025 
+  Notification of acceptance/rejection: | March 19, 2025 
+  Camera-ready deadline: | April 9, 2025 
+  Poster-only papers  
+ Submission of Poster-only papers: | January 29, 2025 
+  Notification of acceptance/rejection: | March 19, 2025 
+  Camera-ready deadline: | April 9, 2025 
+  More detailed information on the review process and the publication policy can be found below. Further instructions for paper formatting and submitting papers can be found on the Paper Submission Instructions   page.  
+ Alternatively, you can follow this link to go directly to the paper submission website    . You must use the submission website to submit all kinds of contributions to GECCO (including the abstract of full papers).  
+ Paper Categories    
+ Full papers   
+  Papers in this category concern the traditional full papers of at most 8 pages (excluding references)  , that are aimed to present original new work in genetic and evolutionary computation that meets the high-quality standards of GECCO. Accepted full papers appear in the ACM digital library as part of the main proceedings of GECCO.  
+ Mandatory abstract submissions of at most 200 words for full papers are due by the non-extensible deadline of January 22 2025  ; submissions of the full papers themselves are due by the non-extensible deadline of January 29, 2025  .   
+ Poster-only papers   
+  Submissions are allowed that are targeted at being a poster-only paper of at most 4 pages (including references)  . Such papers should still present work in genetic and evolutionary computation that is original and new, but has not yet reached the stage of the more mature, complete research results that are typically published in full papers at GECCO. Accepted poster-only papers appear in the ACM digital library as part of the companion proceedings of GECCO. Poster-only papers are due by the non-extensible  deadline of January 29, 2025   . All conditions for the submission of full papers also apply to poster-only papers.  
+ Double-Blind Review Process    
+ Each paper submitted to GECCO will be rigorously reviewed in a double-blind review process. In other words, authors should not know who the reviewers of their work are and reviewers should not know who the authors are. To this end, the following information is very important:  
+ Submitted papers should be ANONYMIZED. This means that they should NOT contain any element that may reveal the identity of their authors. This includes author names, affiliations, and acknowledgments. Moreover, any references to any of the author's own work should be made as if the work belonged to someone else.    
+
+  If you are using LaTeX, consider using the following header to remove author listing and to remove sections marked as containing identifying information (e.g. Acknowledgements):  
+  \documentclass[dvipsnames,format=sigconf,anonymous=true,review=true]{acmart}   
+ Publication Policy    
+ All accepted papers will be published in the ACM Digital Library. Simultaneously submitting work to another conference or journal that is substantially similar to work also submitted to GECCO, is NOT ALLOWED  . Material may later be revised and submitted to a journal, if this is permitted by the journal.  
+ It is also NOT ALLOWED  to submit work to GECCO that is substantially similar to work already accepted or published in other conferences or journals. GECCO is however still interested in such related publications. For this reason, researchers are invited to submit abstracts of their work recently published in top-tier conferences and journals to the Hot Off the Press track. Contributions will be selected to be presented at GECCO based on quality and interest to the GECCO community.  
+ A notable exception to the above is the simultaneous submission of work to arXiv. Reviewers will be asked not to actively look for such submissions, but if they are aware of them, this will not constitute a conflict of interest.  
+ The official publication date is the date the proceedings are made available in the ACM Digital Library. This date will be up to two weeks prior to the first day of the conference. The official publication date affects the deadline for any patent filings related to published work.  
+ The submitted contributions will be checked using anti-plagiarism systems. Those papers or posters with a high percentage of plagiarism, exceeding the page limit, simultaneously submitted to another conference or journal, or falling out of the scope of the conference will be rejected without review.  
+ As a published ACM author, you and your co-authors are subject to all ACM Publications Policies    , including ACM's new Publications Policy on Research Involving Human Participants and Subjects    .  
+ Supplementary Material    
+ It is possible to submit supplementary material (e.g., videos, a PDF appendix, source code, data, mathematical proofs) in addition to the PDF of the paper. In particular, we encourage authors to submit source code to support replication of experiments as described in their paper. At the time of submission, all the supplementary material must also be anonymized.  
+ You can upload supplementary material as a PDF, ZIP archive (.zip) or a compressed tarball (.tgz or .tar.gz). Please use informative filenames and do not upload more than 10MB. Consider making the code available in a publicly accessible repository with a declared plan to enable permanent accessibility (e.g. zenodo).  
+ The supplementary material may or may not be considered when evaluating the paper, at the discretion of the reviewers.  
+
+ About   
+
+ GECCO is sponsored by the Association for Computing Machinery Special Interest Group on Genetic and Evolutionary Computation (SIGEVO). SIG Services: 2 Penn Plaza, Suite 701, New York, NY 10121 USA. 1-800-342-6626 (USA and Canada) or +212-626-0500.  
+
+ Social   
+   
+  follow us on Twitter   
+  join us on LinkedIn   
+  gecco2025@sigevo.org   
+
+ Log in   Email:     
+ Password:    
+  I forgot my password   CapsLock is on.   
+   
+ Log in    
+ Register 
+
+  Stay in SSL mode    
+
+ GECCO 2024  - GECCO 2023   
+  GECCO 2022  - GECCO 2021  - GECCO 2020  - GECCO 2019  - GECCO 2018  - GECCO 2017   
+  GECCO 2016  - GECCO 2015  - GECCO 2014  - GECCO 2013  - GECCO 2012  - GECCO 2011   
+  GECCO 2010  - GECCO 2009  - GECCO 2008  - GECCO 2007  - GECCO 2006  - GECCO 2005   
+  GECCO 2004  - GECCO 2003  - GECCO 2002  - GECCO 2001  - GECCO 2000  - GECCO 1999    
+
+  GECCO 2025     #GECCO2025 
+  Calls | Sponsors 
+  Tutorial Proposals 
+  Workshop Proposals 
+  Competition Proposals 
+  Papers 
+  Humies 
+  Program | Tracks 
+  Info | Important Dates 
+  Organizers 
+  Málaga 
+  Conference Venue 
+  My Info 
+
+  

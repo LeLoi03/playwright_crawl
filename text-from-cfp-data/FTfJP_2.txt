@@ -1,0 +1,375 @@
+Blogs (61) >>  ECOOP and ISSTA 2018   Sun 15 - Sat 21 July 2018 Amsterdam, Netherlands    
+
+ Toggle navigation        
+ Attending | Venue: ISSTA Steering Committee Meeting 
+  Restaurant: Cafe de Jaren 
+  Venue: Uber 
+  Venue: Mövenpick Hotel Amsterdam City Centre 
+  Restaurant: Tobacco Theater 
+  Restaurant: Zaalverhuur Pakhuis de Zwijger 
+  Restaurant: De Koninklijke Industrieele Groote Club 
+  Registration 
+  Program @ a Glance 
+  Travel and Local Info 
+  Visas 
+  Students 
+  Sponsorship 
+  Program | ECOOP and ISSTA Program 
+  Your Program 
+   Filter by Day | Sun 15 Jul 
+  Mon 16 Jul 
+  Tue 17 Jul 
+  Wed 18 Jul 
+  Thu 19 Jul 
+  Fri 20 Jul 
+  Sat 21 Jul 
+  Tracks | ECOOP and ISSTA 2018 
+  Doc Symposium 
+  Summer School 
+  Student Volunteers 
+  Workshops 
+  Posters 
+   Co-hosted Conferences 
+  CurryOn | CurryOn 
+  CurryOn  Curry On Keynotes 
+  CurryOn  Curry On Talks 
+  ECOOP | ECOOP 
+  ECOOP  Artifacts 
+  ECOOP  Keynotes 
+  ECOOP  Research Papers 
+  ECOOP  Journal-First 
+  ISSTA | ISSTA 
+  ISSTA  Artifacts 
+  ISSTA  Keynotes 
+  ISSTA  Steering Committee Meeting (By Invitation Only) 
+  ISSTA  Technical Papers 
+  ISSTA  Tool Demonstrations 
+  Workshops 
+  BenchWork 
+  COP 
+  DPA 
+  FTfJP 
+  ICOOOLPS 
+  INTUITESTBEDS 
+  ISAGT 
+  ML4PL 
+  Panathon 
+  SALAD 
+  SOAP 
+  TAV-CPS/IoT 
+  VORTEX 
+  WoSSCA 
+  Organization | ECOOP and ISSTA 2018 Committees 
+  Organizing Committee 
+  Track Committees 
+  Doc Symposium | Academic Panel 
+  Organizing Committee 
+  Program Committee 
+  Summer School | Speakers 
+  Mentors 
+  Organizing Committee 
+  Student Volunteers 
+  Workshops 
+  Posters 
+  Contributors 
+  People Index 
+   Co-hosted Conferences 
+  CurryOn | Organizing Committee 
+  ECOOP | Organizing Committee 
+  ECOOP Artifacts 
+  ECOOP Research Papers 
+  ISSTA | Organizing Committee 
+  ISSTA Artifacts 
+  ISSTA Technical Papers 
+  ISSTA Tool Demonstrations 
+  Workshops 
+  BenchWork | Organizing Committee 
+  Program Committee 
+  COP | Organizing Committee 
+  Program Committee 
+  DPA | Organizing Committee 
+  FTfJP | Program Committee 
+  Steering Committee 
+  ICOOOLPS | Organizing Committee 
+  Program Committee 
+  INTUITESTBEDS | Organizing Committee 
+  Program Committee 
+  ISAGT | Organizing Committee 
+  Program Committee 
+  ML4PL | Organizing Committee 
+  Program Committee 
+  Panathon | Organizers 
+  SALAD | Organizing Committee 
+  Program Committee 
+  SOAP | Organizing Committee 
+  Program Committee 
+  TAV-CPS/IoT | Organizing Committee 
+  Program Committee 
+  VORTEX | Organizing Committee 
+  Program Committee 
+  WoSSCA | Attendees 
+  Program Committee 
+  Organizing Committee 
+  Search 
+  Series | Series 
+   ISSTA/ECOOP 2024 
+  ECOOP and ISSTA 2023 
+  ECOOP and ISSTA 2021 
+  ECOOP and ISSTA 2018 
+  Sign in 
+  Sign up 
+
+  ECOOP and ISSTA 2018  ( series  ) /  FTfJP 2018 ( series  ) /  FTfJP  
+   
+ About 
+  Program 
+  20th Workshop on Formal Techniques for Java-like Programs   
+ Formal techniques can help analyze programs, precisely describe program behavior, and verify program properties. Languages such as Java, C#, and Scala are interesting targets for formal techniques due to their ubiquity and wide user base, stable and well-defined interfaces and platforms, and powerful (but also complex) libraries. New languages and applications in this space are continually arising, resulting in new PL research challenges.  
+ Work on formal techniques and tools and on the formal underpinnings of programming languages themselves naturally complement each other. FTfJP is an established workshop which has run annually since 1999 alongside ECOOP, with the goal of bringing together people working in both fields. The workshop has a broad PL theme; the most important criterion is that submissions will generate interesting discussions within this community. Example topics of interest include:  
+ Language design and semantics 
+  Type systems 
+  Concurrency and new application domains 
+  Specification and verification of program properties 
+  Program analysis (static or dynamic) 
+  Security 
+  Pearls (programs or proofs) 
+  FTfJP welcomes submissions on technical contributions, case studies, experience reports, challenge proposals, and position papers. Just as the number and the feature set of Java-like languages is expanding, the term “Java-like” should be interpreted broadly.  
+ Accepted Papers  
+  
+ Title 
+ A Formalism for Specification of Java API Interfaces  FTfJP   
+ Davide Ancona  , Francesco Dagnino  , Luca Franceschini    
+  Pre-print 
+ An Exercise in Verifying Sequential Programs with VerCors  FTfJP   
+ Sebastiaan Joosten  , Wytse Oortwijn  , Mohsen Safari  , Marieke Huisman    
+  Pre-print 
+ Incremental Overload Resolution in Object-Oriented Programming Languages  FTfJP   
+ Tamás Szabó  , Edlira Kuci  , Matthijs Bijman  , Mira Mezini  , Sebastian Erdweg    
+  Pre-print 
+ Monotonic Gradual Typing in a Common Calculus  FTfJP   
+ Benjamin Chung  , Jan Vitek    
+  Pre-print 
+ Reasoning about Functional Programming in Java and C++  FTfJP   
+ David Cok    
+  Pre-print 
+ Safely Abstracting Memory Layouts  FTfJP   
+ Juliana Franco  , Alexandros Tasos  , Sophia Drossopoulou  , Tobias Wrigstad  , Susan Eisenbach    
+  Pre-print 
+ Specification Idioms from Industrial Experience  FTfJP   
+ David Cok    
+  Pre-print 
+ Static Latency Tracking with Placement Types  FTfJP   
+ Pascal Weisenburger  , Tobias Reinhard  , Guido Salvaneschi    
+  Pre-print 
+ Tool demonstration: The VerCors Verification Toolset  FTfJP   
+ Wytse Oortwijn    
+  Pre-print 
+ Towards specifications of robustness -- the things that programs do *not* do Keynote     FTfJP   
+ Sophia Drossopoulou 
+  
+ Call for Papers  
+  
+ Contributions related to formal techniques for Java-like programs are sought in two categories:  
+ Full Papers.  In 6 two-column pages, the paper should present a technical contribution, case study, or detailed experience report. We welcome both complete and incomplete technical results; ongoing work is particularly welcome, provided it is substantial enough to stimulate interesting discussions.  
+ Short Papers.  In 2 two-column pages, the paper should advocate a promising research direction, or otherwise present a position likely to stimulate discussion at the workshop. We encourage e.g. established researchers to set out a personal vision, and beginning researchers to present a planned path to a PhD.  
+ Both types of contributions will benefit from feedback received at the workshop. Submissions will be peer reviewed, and will be evaluated based on their clarity and based on their potential to generate interesting discussions. The format of the workshop encourages interaction. FTfJP is a forum in which a wide range of people share their expertise, from experienced researchers to beginning PhD students.  
+ Accepted papers will be published in the ACM Digital Library by default, though authors will be able to opt out of this publication, if desired. The use of ACM’s template for the SIGPLAN format  is required. At least one author of an accepted paper must attend the workshop to present the work and participate in the discussions.  
+
+   Program Display Configuration  
+   
+   Time Zone   
+   
+ The program is currently displayed in (GMT+02:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna  .   Use conference time zone: (GMT+02:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna    Select other time zone   (GMT-12:00) AoE (Anywhere On Earth)  (GMT-11:00) Midway Island, Samoa  (GMT-09:00) Hawaii-Aleutian  (GMT-10:00) Hawaii  (GMT-09:30) Marquesas Islands  (GMT-09:00) Gambier Islands  (GMT-08:00) Alaska  (GMT-07:00) Tijuana, Baja California  (GMT-08:00) Pitcairn Islands  (GMT-07:00) Pacific Time (US & Canada)  (GMT-06:00) Mountain Time (US & Canada)  (GMT-06:00) Chihuahua, La Paz, Mazatlan  (GMT-07:00) Arizona  (GMT-06:00) Saskatchewan, Central America  (GMT-05:00) Guadalajara, Mexico City, Monterrey  (GMT-06:00) Easter Island  (GMT-05:00) Central Time (US & Canada)  (GMT-04:00) Eastern Time (US & Canada)  (GMT-04:00) Cuba  (GMT-05:00) Bogota, Lima, Quito, Rio Branco  (GMT-04:00) Caracas  (GMT-04:00) Santiago  (GMT-04:00) La Paz  (GMT-03:00) Faukland Islands  (GMT-04:00) Manaus, Amazonas, Brazil  (GMT-03:00) Atlantic Time (Goose Bay)  (GMT-03:00) Atlantic Time (Canada)  (GMT-02:30) Newfoundland  (GMT-03:00) UTC-3  (GMT-03:00) Montevideo  (GMT-02:00) Miquelon, St. Pierre  (GMT-02:00) Greenland  (GMT-03:00) Buenos Aires  (GMT-03:00) Brasilia, Distrito Federal, Brazil  (GMT-02:00) Mid-Atlantic  (GMT-01:00) Cape Verde Is.  (GMT) Azores  (UTC) Coordinated Universal Time  (GMT+01:00) Belfast  (GMT+01:00) Dublin  (GMT+01:00) Lisbon  (GMT+01:00) London  (GMT) Monrovia, Reykjavik  (GMT+02:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna  (GMT+02:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague  (GMT+02:00) Brussels, Copenhagen, Madrid, Paris  (GMT+01:00) West Central Africa  (GMT+02:00) Windhoek  (GMT+03:00) Athens  (GMT+03:00) Beirut  (GMT+02:00) Cairo  (GMT+03:00) Gaza  (GMT+02:00) Harare, Pretoria  (GMT+03:00) Jerusalem  (GMT+03:00) Minsk  (GMT+03:00) Syria  (GMT+03:00) Moscow, St. Petersburg, Volgograd  (GMT+03:00) Nairobi  (GMT+04:30) Tehran  (GMT+04:00) Abu Dhabi, Muscat  (GMT+04:00) Yerevan  (GMT+04:30) Kabul  (GMT+05:00) Ekaterinburg  (GMT+05:00) Tashkent  (GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi  (GMT+05:45) Kathmandu  (GMT+06:00) Astana, Dhaka  (GMT+07:00) Novosibirsk  (GMT+06:30) Yangon (Rangoon)  (GMT+07:00) Bangkok, Hanoi, Jakarta  (GMT+07:00) Krasnoyarsk  (GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi  (GMT+08:00) Irkutsk, Ulaan Bataar  (GMT+08:00) Perth  (GMT+08:45) Eucla  (GMT+09:00) Osaka, Sapporo, Tokyo  (GMT+09:00) Seoul  (GMT+09:00) Yakutsk  (GMT+09:30) Adelaide  (GMT+09:30) Darwin  (GMT+10:00) Brisbane  (GMT+10:00) Hobart  (GMT+10:00) Vladivostok  (GMT+10:30) Lord Howe Island  (GMT+11:00) Solomon Is., New Caledonia  (GMT+11:00) Magadan  (GMT+11:00) Norfolk Island  (GMT+12:00) Anadyr, Kamchatka  (GMT+12:00) Auckland, Wellington  (GMT+12:00) Fiji, Kamchatka, Marshall Is.  (GMT+12:45) Chatham Islands  (GMT+13:00) Nuku'alofa  (GMT+14:00) Kiritimati     
+
+   The GMT offsets shown reflect the offsets at the moment of the conference  .     
+   
+ Time Band   
+   
+ By setting a time band, the program will dim events that are outside this time window. This is useful for (virtual) conferences with a continuous program (with repeated sessions).  
+  The time band will also limit the events that are included in the personal iCalendar subscription service.   Display full program    Specify a time band   -      
+
+  Save    
+
+  Close    
+
+ ×    You're viewing the program in a time zone which is different from your device's time zone change time zone     
+
+ Mon 16 Jul   
+  
+ Displayed time zone: Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna  change      
+
+ 11:00 - 12:30 | Session 1 FTfJP   at Hanoi 
+ 11:00   
+ 30m    
+ Full-paper | Monotonic Gradual Typing in a Common Calculus   FTfJP   
+ Benjamin Chung  Northeastern University  , Jan Vitek  Northeastern University    
+  Pre-print 
+ 11:30   
+ 30m    
+ Full-paper | Incremental Overload Resolution in Object-Oriented Programming Languages   FTfJP   
+ Tamás Szabó  itemis AG / TU Delft  , Edlira Kuci  TU Darmstadt, Germany  , Matthijs Bijman  Delft University of Technology  , Mira Mezini  TU Darmstadt  , Sebastian Erdweg  TU Delft    
+  Pre-print 
+ 12:00   
+ 30m    
+ Full-paper | Safely Abstracting Memory Layouts   FTfJP   
+ Juliana Franco  Microsoft Research, Cambridge  , Alexandros Tasos  Imperial College London  , Sophia Drossopoulou  Imperial College London  , Tobias Wrigstad  Uppsala University  , Susan Eisenbach  Imperial College London    
+  Pre-print 
+
+ 14:00 - 15:30 | Session 2 FTfJP   at Hanoi 
+ 14:00   
+ 60m    
+ Talk | Towards specifications of robustness -- the things that programs do *not* do Keynote      FTfJP   
+ Sophia Drossopoulou  Imperial College London 
+ 15:00   
+ 30m    
+ Full-paper | Specification Idioms from Industrial Experience   FTfJP   
+ David Cok  CEA, LIST, Software Safety and Security Laboratory    
+  Pre-print 
+
+ 16:00 - 18:15 | Session 3 FTfJP   at Hanoi 
+ 16:00   
+ 25m    
+ Short-paper | Reasoning about Functional Programming in Java and C++   FTfJP   
+ David Cok  CEA, LIST, Software Safety and Security Laboratory    
+  Pre-print 
+ 16:25   
+ 25m    
+ Short-paper | A Formalism for Specification of Java API Interfaces   FTfJP   
+ Davide Ancona  University of Genova  , Francesco Dagnino  DIBRIS, University of Genova, Italy  , Luca Franceschini  DIBRIS, University of Genova    
+  Pre-print 
+ 16:50   
+ 25m    
+ Short-paper | Static Latency Tracking with Placement Types   FTfJP   
+ Pascal Weisenburger  Technische Universität Darmstadt  , Tobias Reinhard  Technische Universität Darmstadt  , Guido Salvaneschi  TU Darmstadt    
+  Pre-print 
+ 17:15   
+ 30m    
+ Demonstration | Tool demonstration: The VerCors Verification Toolset   FTfJP   
+ Wytse Oortwijn  University of Twente, The Netherlands    
+  Pre-print 
+ 17:45   
+ 30m    
+ Full-paper | An Exercise in Verifying Sequential Programs with VerCors   FTfJP   
+ Sebastiaan Joosten   , Wytse Oortwijn  University of Twente, The Netherlands  , Mohsen Safari  University of Twente, The Netherlands  , Marieke Huisman  University of Twente    
+  Pre-print 
+
+ Important Dates   AoE (UTC-12h)     
+
+ Mon 16 Jul 2018   
+  Workshop! 
+ Thu 14 Jun 2018  
+  Notification of acceptance 
+ Sat 12 May 2018   
+  Submission Deadline (extended, strict) 
+
+ Submission Link   
+   
+   https://easychair.org/conferences/?conf=ftfjp2018     
+   
+ Program Committee    
+   
+ Alexander J. Summers Program Chair    
+ ETH Zurich   
+ Switzerland 
+  William J. Bowman    
+ Northeastern University, USA   
+ United States 
+  John Boyland    
+ Univeristy of Wisconsin, Milwaukee   
+ United States 
+  Mariangiola Dezani    
+ Università di Torino   
+ Italy 
+  Erik Ernst    
+ Google Inc.   
+ Denmark 
+  Juliana Franco    
+ Microsoft Research, Cambridge   
+ United Kingdom 
+  Timothy Jones    
+ Montoux   
+ New Zealand 
+  Laura Kovacs    
+ Chalmers University of Technology   
+ Sweden 
+  Siddharth Krishna    
+ New York University   
+ United States 
+  Oded Padon    
+ Tel Aviv University   
+ Israel 
+  Matthew J. Parkinson    
+ Microsoft Research, UK   
+ United Kingdom 
+  Guido Salvaneschi    
+ TU Darmstadt 
+  Elena Zucca    
+ University of Genova   
+ Italy 
+    
+ Steering Committee    
+   
+ Werner Dietl    
+ University of Waterloo, Canada   
+ Canada 
+  Radu Grigore    
+ University of Kent   
+ United Kingdom 
+  Gary T. Leavens    
+ University of Central Florida   
+ United States 
+  Rosemary Monahan Chair    
+ National University of Ireland 
+  Peter Müller    
+ ETH Zurich   
+ Switzerland 
+
+ x  Wed 4 Dec 13:06    
+
+  ECOOP and ISSTA 2018   
+  contact form    
+  using conf.researchr.org  ( v1.67.1  )  
+   Support page    
+     
+ Tracks  
+ Doc Symposium   
+  Summer School   
+  Student Volunteers   
+  Workshops   
+  Posters    
+ Co-hosted Conferences  
+ CurryOn 2018   
+  ECOOP 2018   
+  ISSTA 2018   
+  Workshops  
+ BenchWork 2018   
+  COP 2018   
+  DPA 2018   
+  FTfJP 2018   
+  ICOOOLPS 2018   
+  INTUITESTBEDS 2018   
+  ISAGT 2018   
+  ML4PL 2018   
+  Panathon 2018   
+  SALAD 2018   
+  SOAP 2018   
+  TAV-CPS/IoT 2018   
+  VORTEX 2018   
+  WoSSCA 2018    
+
+ Attending  
+ Venue: ISSTA Steering Committee Meeting   
+  Restaurant: Cafe de Jaren   
+  Venue: Uber   
+  Venue: Mövenpick Hotel Amsterdam City Centre   
+  Restaurant: Tobacco Theater   
+  Restaurant: Zaalverhuur Pakhuis de Zwijger   
+  Restaurant: De Koninklijke Industrieele Groote Club   
+  Registration   
+  Program @ a Glance   
+  Travel and Local Info   
+  Visas   
+  Students   
+  Sponsorship    
+
+  

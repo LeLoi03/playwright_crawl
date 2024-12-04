@@ -1,0 +1,81 @@
+DX 2024   Mon 4 - Thu 7 November 2024 Vienna, Austria    
+
+ Toggle navigation        
+ Attending | Venue: Europahaus Wien Conference and Event Center 
+  Registration and Accommodation 
+  Program | Schedule 
+  Awards 
+  Invited Speakers 
+  Accepted Papers 
+  Track/Call 
+  Organization | DX 2024 Committees 
+  Track Committees 
+  Organizing Committee 
+  Local Conference Support 
+  Program Committee 
+  Steering Committee 
+  Contributors 
+  People Index 
+  Search 
+   Series 
+  Sign in 
+  Sign up 
+
+ DX 2024 ( series  ) /  Accepted Papers  
+   
+ For DX’24, we had 45 submissions in total - 3 for the journal-/major conference-first (JMCF) track, and 42 for the main track. Out of the 3 JMCF papers, 3 (100%) were accepted (one conditional). Out of the 42 main track papers, 39 went into the reviewing process where we finally accepted 18 (42.9%) as full papers and 13 (31%) as short papers (max. 14 pages). 8 papers (20.51%) were rejected in our final decisions.  
+ Please find below preliminary, alphabetically ordered lists of the papers accepted for inclusion in the DX’24 proceedings:   
+ Accepted full papers:   
+ A Hierarchical Monitoring and Diagnosis System for Autonomous Robots | Gerald Steinbauer-Wagner, Leo Fürbaß, Marco De Bortoli and Louise Travé-Massuyès 
+  A Model-Based Approach for Monitoring and Diagnosing Digital Twin Discrepancies | Elaheh Hosseinkhani, Martin Leucker, Martin Sachenbacher, Hendrik Streichhahn and Lars Bernd Vosteen 
+  A Review of Fault Diagnosis Techniques Applied to Aircraft Air Data Sensors | Lucas Gabriel Lima Lopes, Louise Travé-Massuyès, Carine Jauberthie and Guillaume Alcalay 
+  A Study on Redundancy and Intrinsic Dimension for Data-Driven Fault Diagnosis | Daniel Jung and David Axelsson 
+  Bridging Hardware and Software Diagnosis: Leveraging Fault Signature Matrix and Spectrum-Based Fault Localization Similarities | Louise Travé-Massuyès and Franz Wotawa 
+  Challenges for Model-Based Diagnosis | Ingo Pill and Johan de Kleer 
+  Design Principles for Falsifiable, Replicable and Reproducible Empirical Machine Learning Research | Daniel Vranješ, Jonas Ehrhardt, René Heesch, Lukas Moddemann, Henrik Sebastian Steude and Oliver Niggemann 
+  Diagnosing Multi-Agent STRIPS Plans | Avraham Natan, Roni Stern, Meir Kalech, William Yeoh and Tran Cao Son 
+  Inferring Sensor Placement Using Critical Pairs and Satisfiability Modulo Theory | Alexander Diedrich, René Heesch, Marco Bozzano, Björn Ludwig, Alessandro Cimatti and Oliver Niggemann 
+  Leveraging Answer Set Programming for Continuous Monitoring, Fault Detection, and Explanation of Automated and Autonomous Driving Systems | Lorenz Klampfl and Franz Wotawa 
+  Leveraging Causal Information for Multivariate Timeseries Anomaly Detection | Lukas Heppel, Andreas Gerhardus, Ferdinand Rewicki, Jan Deeken and Günther Waxenegger-Wilfing 
+  Minimalist Diagnosis of Discrete-Event Systems | Gianfranco Lamperti and Marina Zanella 
+  MSO sets and MTES for dummies | Maxence Glotin, Louise Travé-Massuyès and Elodie Chanthery 
+  One-Class Classification and Cluster Ensembles for Anomaly Detection and Diagnosis in Multivariate Time Series Data | Adil Mukhtar, Thomas Hirsch and Gerald Schweiger 
+  Property Learning-Based Fault Detection for Liquid Propellant Rocket Engine Control Systems | Andrea Urgolo, Ingo Pill, Günther Waxenegger-Wilfing and Manuel Freiberger 
+  Quantifying the Sim-To-Real Gap in UAV Disturbance Rejection | Austin Coursey, Marcos Quiñones-Grueiro, Luis Alvarez and Gautam Biswas 
+  Real-Time Sensor Fault Detection in Drones: A Correlation-Based Algorithmic Approach | Inbal Roshanski, Magenya Roshanski and Meir Kalech 
+  Simulation-Based Diagnosis for Cyber-Physical Systems - A General Approach and Case Study on a Dual Three-Phase E-Machine | David Kaufmann, Franz Wotawa and Matus Kozovsky 
+  Accepted short papers:   
+ Achieving Complete Structural Test Coverage in Embedded Systems using Trace-based Monitoring | Alexander Weiss, Albert Schulz, Martin Heininger, Martin Sachenbacher, and Martin Leucker 
+  Data-Driven Diagnosis of Electrified Vehicles: Results From a Structured Literature Review | Stan Muñoz Gutiérrez, Adil Mukhtar and Franz Wotawa 
+  Data-Driven RUL Prediction Using Performance Metrics | Abel Diaz-Gonzalez, Austin Coursey, Marcos Quinones-Grueiro, Chetan S. Kulkarni and Gautam Biswas 
+  Detecting Soft Faults in Heat Pumps | Birgit Hofer and Franz Wotawa 
+  Diagnosing Non-Intermittent Anomalies in Reinforcement Learning Policy Executions | Avraham Natan, Roni Stern and Meir Kalech 
+  Faster Diagnosis with Answer Set Programming | Liliana Marie Prikler and Franz Wotawa 
+  FLEX: Fault Localization with Open-Source LLMs in Powertrain Systems | Herbert Mühlburger and Franz Wotawa 
+  Hyperplanes Based Zonotopic Contractor | Rahma Bengamra, Soheib Fergani and Carine Jauberthie 
+  On a Method to Measure Supervised Multiclass Model’s Interpretability: Application to Degradation Diagnosis | Charles-Maxime Gauriat, Yannick Pencolé, Pauline Ribot and Gregory Brouillet 
+  Test Selection for Diagnosing Multimode Systems | Mattias Krysander and Fatemeh Hashemniya 
+  Transformer-Based Signal Inference for Electrified Vehicle Powertrains | Stan Muñoz Gutiérrez, Adil Mukhtar and Franz Wotawa 
+  Usability of Symbolic Regression for Hybrid System Identification - System Classes and Parameters | Swantje Plambeck, Maximilian Schmidt, Audine Subias, Louise Travé-Massuyès and Goerschwin Fey 
+  Using Multi-Modal LLMs to Create Models for Fault Diagnosis | Silke Merkelbach, Alexander Diedrich, Anna Sztyber-Betley, Louise Travé-Massuyès, Elodie Chanthery, Oliver Niggemann and Roman Dumitrescu 
+  Accepted journal-/major conference-first papers (extended abstracts):   
+ Summary of A Lazy Approach to Neural Numerical Planning with Control Parameters | René Heesch, Alessandro Cimatti, Jonas Ehrhardt, Alexander Diedrich and Oliver Niggemann | The original paper appeared in | 27th European Conference on Artificial Intelligence (ECAI 2024) 
+  Summary of Randomized Problem-Relaxation Solving for Over-Constrained Schedules | Patrick Rodler, Erich Teppan and Dietmar Jannach | The original paper appeared in | 18th International Conference on Principles of Knowledge Representation and Reasoning (KR 2021) 
+  Summary of Sequence-Oriented Diagnosis of Discrete-Event Systems | Gianfranco Lamperti, Stefano Trerotola, Marina Zanella and Xiangfu Zhao | The original paper appeared in | Journal of Artificial Intelligence Research (JAIR) | , 78, 69-141, 2023 
+
+ x  Wed 4 Dec 12:58    
+
+  DX 2024   
+  contact form    
+  using conf.researchr.org  ( v1.67.1  )  
+   Support page    
+     
+ Tracks  
+ DX'24    
+
+ Attending  
+ Venue: Europahaus Wien Conference and Event Center   
+  Registration and Accommodation    
+ Sign Up    
+
+  

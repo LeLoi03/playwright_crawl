@@ -1,0 +1,264 @@
+  
+    
+  Papers     
+    
+  Search or ask a question   
+
+ Pricing     
+ Login  Sign up      
+
+ Home          
+ Chat with PDF         
+ Literature Review            
+ AI Writer       
+ Find Topics       
+ Paraphraser       
+ Citation Generator       
+ Extract Data           
+ AI Detector       
+ PDF to Video        
+ Affiliate Program       
+ Chrome Extension     
+       
+ Use on ChatGPT     
+       
+ Contact Us     
+
+ Home 
+  Papers 
+  Combining metaheuristics and exact algorithms in combinatorial optimization: a survey and classification 
+   
+ Open Access  Book Chapter  DOI     
+   
+ Combining metaheuristics and exact algorithms in combinatorial optimization: a survey and classification  
+  Jakob Puchinger ,  Günther R. Raidl  +1 more   Vienna University of Technology   -  15 Jun 2005   
+ -  Vol. 3562, pp 41-53   
+   
+ Show Less      
+      
+   348    
+     PDF     Podcast     Save    
+   Cite         
+
+ TL;DR:  This survey discusses different state-of-the-art approaches of combining exact algorithms and metaheuristics to solve combinatorial optimization problems and divides the approaches into collaborative versus integrative combinations.   
+    
+ read more  
+   
+ Abstract :  In this survey we discuss different state-of-the-art approaches of combining exact algorithms and metaheuristics to solve combinatorial optimization problems. Some of these hybrids mainly aim at providing optimal solutions in shorter time, while others primarily focus on getting better heuristic solutions. The two main categories in which we divide the approaches are collaborative versus integrative combinations. We further classify the different techniques in a hierarchical way. Altogether, the surveyed work on combinations of exact algorithms and metaheuristics documents the usefulness and strong potential of this research direction.   
+    
+ read more  
+   
+   Show Related Papers     
+
+   Chat with Paper  
+
+   Citations  
+
+ Sort by : Citation Count        
+   
+   PDF   
+
+    Open Access   
+
+  More filters    
+
+ Journal Article  •  DOI       
+
+ An Evolutionary Algorithm for Polishing Mixed Integer Programming Solutions  
+   Edward Rothberg   ILOG   -  01 Oct 2007   -  Informs Journal on Computing    
+   
+ Show Less      
+      
+  TL;DR:  This paper describes an evolutionary approach to improving solutions to mixed integer programming (MIP) models, and proposes coarse-grained approaches to mutating and combining MIP solutions, both built within a large-neighborhood search framework.   
+   
+ ...read more  read less    
+   
+   135    
+   Podcast        
+
+ Journal Article  •  DOI       
+
+ Single and parallel machine capacitated lotsizing and scheduling  
+   Ross J. W. James ,  Bernardo Almada-Lobo  +1 more   University of Canterbury ,  Faculdade de Engenharia da Universidade do Porto   -  01 Dec 2011   -  Computers & Operations Research    
+   
+ Show Less      
+      
+  TL;DR:  A comprehensive set of computational experiments shows the effectiveness and efficiency of the main approach, a stochastic MIP-based local search heuristic, in solving medium to large size problems.   
+   
+ ...read more  read less    
+   
+   108    
+
+     •  Journal Article  •  DOI       
+
+ Decomposition, reformulation, and diving in university course timetabling  
+   Edmund K. Burke ,  Jakub Marecek ,  Andrew J. Parkes ,  Hana Rudová  +3 more   University of Nottingham ,  Masaryk University   -  01 Mar 2010   -  Computers & Operations Research    
+   
+ Show Less      
+      
+  TL;DR:  In the proposed heuristic, an objective-restricted neighbourhood generator produces assignments of periods to events, with decreasing numbers of violations of two period-related soft constraints, which define neighbourhoods that are easier to search with respect to all four soft constraints.   
+   
+ ...read more  read less    
+   
+   91    
+
+     •  Journal Article  •  DOI       
+
+ A Hybrid Solution Approach for Ready-Mixed Concrete Delivery  
+   Verena Schmid ,  Karl F. Doerner ,  Richard F. Hartl ,  Martin W. P. Savelsbergh ,  Wolfgang Stoecher  +4 more   University of Vienna ,  Georgia Institute of Technology ,  Steyr Mannlicher   -  01 Feb 2009   -  Transportation Science    
+   
+ Show Less      
+      
+  TL;DR:  The solution approach effectively integrates optimization and heuristic techniques and outperforms an innovative metaheuristic approach by more than 6% on average for large instances.   
+   
+ ...read more  read less    
+   
+   74    
+   Podcast        
+
+     •  Journal Article  •  DOI       
+
+ On the Hybridization of Memetic Algorithms With Branch-and-Bound Techniques  
+   José E. Gallardo ,  Carlos Cotta ,  Antonio J. Fernández  +2 more    -  01 Feb 2007   
+   
+ Show Less      
+      
+  TL;DR:  A hybrid model that combines BnB and memetic techniques based on the interleaved execution of both approaches can produce better results in both problems at the same computational cost, especially for large problem instances.   
+   
+ ...read more  read less    
+   
+   68    
+     PDF     Podcast        
+
+ 1   2   3   4   5   6   7   8   9   10   11   12   13   14   15   16   17   18   19   20   21   22   23   24   25   26   27   28   29   30   31   32   33   34   35   36   37   38   39   40   41   42   43   44   45   46   47   48   49   50   51   52   53   54   55   56   57   58   59   60   61   62   63   64   65   66   67   68   69   70     
+ ...   
+
+   References  
+
+ Sort by : Citation Count        
+   
+   PDF   
+
+    Open Access   
+
+  More filters    
+
+     •  Book    
+
+ Integer and Combinatorial Optimization  
+   George L. Nemhauser ,  Laurence A. Wolsey  +1 more   Georgia Institute of Technology ,  Université catholique de Louvain   -  01 Jan 1988   
+   
+ Show Less      
+      
+  TL;DR:  This chapter discusses the Scope of Integer and Combinatorial Optimization, as well as applications of Special-Purpose Algorithms and Matching.   
+   
+ ...read more  read less    
+   
+   6.2K    
+     PDF     Podcast        
+
+ Book Chapter  •  DOI       
+
+ Iterated local search  
+   Helena R. Lourenço ,  Olivier C. Martin ,  Thomas Stützle  +2 more   Pompeu Fabra University ,  University of Paris-Sud ,  Technische Universität Darmstadt   -  01 Jan 2003   
+   
+ Show Less      
+      
+  TL;DR:  Iterated Local Search (ILS) as mentioned in this paper is a general purpose metaheuristic for finding good solutions of combinatorial optimization problems, which is based on building a sequence of (locally optimal) solutions by perturbing the current solution and applying local search to that modified solution.   
+   
+ ...read more  read less    
+   
+   969    
+     PDF     Podcast        
+
+     •  Book  •  DOI       
+
+ Parallel Problem Solving from Nature - PPSN VIII  
+   Xin Yao ,  Edmund K. Burke ,  Jose A. Lozano ,  James C. Smith ,  Juan J. Merelo-Guervós ,  John A. Bullinaria ,  Jonathan E. Rowe ,  Peter Tiňo ,  Ata Kabán ,  Hans-Paul Schwefel  +9 more    -  01 Jan 2004   
+   
+ Show Less      
+      
+   918    
+
+     •  Book    
+
+ Meta-Heuristics: Advances and Trends in Local Search Paradigms for Optimization  
+   Stefan Voss ,  Ibrahim H. Osman ,  Catherine Roucairol  +2 more   Steklov Mathematical Institute   -  12 Oct 2012   
+   
+ Show Less      
+      
+  TL;DR:  A meta-heuristic is an iterative master process that guides and modifies the operations of subordinate heuristics to efficiently produce high-quality solutions as discussed by the authors, and recently, there have been significant advances in the theory and application of metaheuristic to the approximate solutions of hard optimization problems.   
+   
+ ...read more  read less    
+   
+   703    
+   Podcast        
+
+ An introduction to variable neighborhood search  
+   Pierre Hansen ,  Nenad Mladenović  +1 more   École Normale Supérieure   -  01 Jan 1999   
+   
+ Show Less      
+      
+  TL;DR:  A relatively unexplored approach to the design of heuristics, the guided change of neighborhood in the search process, is examined, which leads to a new metaheuristic, which is widely applicable.   
+   
+ ...read more  read less    
+   
+   332    
+
+ 1   2   3   4   5   6   7   8   9   10   11     
+ ...   
+
+   Related Papers (5)  
+   
+ Metaheuristics in combinatorial optimization: Overview and conceptual comparison  
+     
+ [...]  
+   
+ Christian Blum ,  Andrea Roli  +1 more   -  01 Sep 2003   -  ACM Computing Surveys    
+   
+ Show Less      
+
+ Combinations of local search and exact algorithms  
+     
+ [...]  
+   
+ Irina Dumitrescu ,  Thomas Stützle  +1 more   -  14 Apr 2003   -  Lecture Notes in Computer Science    
+   
+ Show Less      
+
+ Tabu Search  
+     
+ [...]  
+   
+ Fred Glover ,  Manuel Laguna  +1 more   -  31 Jul 1997   
+   
+ Show Less      
+
+ Integer and Combinatorial Optimization  
+     
+ [...]  
+   
+ George L. Nemhauser ,  Laurence A. Wolsey  +1 more   -  01 Jan 1988   
+   
+ Show Less      
+
+ Greedy Randomized Adaptive Search Procedures  
+     
+ [...]  
+   
+ Thomas A. Feo ,  Mauricio G. C. Resende  +1 more   -  01 Mar 1995   -  Journal of Global Optimization    
+   
+ Show Less      
+
+ Tools    Chat with PDF  Literature Review  AI Writer  Find Topics  Paraphraser  Citation Generator  Extract Data  AI Detector  Citation Booster    
+ Extensions    SciSpace Chrome Extension    
+   
+ SciSpace    About  Careers  Resources  Support  Browse Papers  Pricing  SciSpace Affiliate Program  Cancellation & Refund Policy  Terms  Privacy  Data Sources    
+   
+ Directories    Papers  Topics  Journals  Authors  Conferences  Institutions  Questions  Citation Styles    
+   
+ Contact  support@typeset.io    +1 (760) 284-7800    +91 9916292973             
+
+ © 2024 | PubGenius Inc. | Suite # 217 691 S Milpitas Blvd Milpitas CA 95035, USA    
+
+  

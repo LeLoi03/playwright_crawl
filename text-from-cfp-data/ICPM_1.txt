@@ -1,0 +1,277 @@
+                                                                                Skip to content  Menu     
+ Menu     
+     
+ Process Mining Conference 2024   
+ 6th International Conference on Process Mining, October 14-18, 2024  
+
+ Search for:        
+
+ Primary Menu  
+ ICPM 2024 
+  General Info | Venue – DTU 
+  Travelling & Accommodation 
+  Key Dates 
+  Organizing Committee 
+  Conference | Calls | Research Papers 
+  Demos 
+  Best PhD Dissertation 
+  Doctoral Consortium 
+  Process Discovery Contest 
+  Workshop Proposals 
+  Proceedings 
+  Accepted Papers 
+  Accepted Workshops 
+  Program | Schedule 
+  Keynotes 
+  Industry days | Overview 
+  Tutorial sessions 
+  Training sessions 
+  Use case sessions 
+  Hackathon 
+  Social Events 
+  Co-located Events 
+  ICPM App 
+  Code of Conduct 
+  Sponsors 
+  Search    
+ Search for:        
+
+ Secondary Menu  
+ Registration 
+  Program 
+  Awards 
+  Pictures 
+
+ Call for Research Papers  
+  
+ The International Conference on Process Mining (ICPM) is the premium forum for researchers, practitioners, and developers in process mining. The objective is to explore and exchange knowledge in this field through scientific talks, industry discussions, contests, technical tutorials, and panels. The conference covers all aspects of process mining research and practice, including theory, algorithmic challenges, applications, and connections with other fields.  
+ The conference is technically co-sponsored by the IEEE Computational Intelligence Society and supported by the IEEE Task Force on Process Mining.  
+ Process mining is an innovative research field that focuses on extracting business process insights from transactional data commonly recorded by IT systems, with the ultimate goal of analyzing and improving organizational productivity along performance dimensions such as efficiency, quality, compliance, and risk. By relying on data rather than perceptions gained from interviews and workshops, process mining shifts the way of thinking from “confidence-based” to “evidence-based” business process management. Thus, process mining distinguishes itself within the information systems domain by its fundamental focus on understanding, analyzing, and improving business processes based on process data.  
+ Current process mining challenges include scalability, i.e., dealing with volume, velocity, veracity, and variability of input data, especially in real-time/online settings using event streams; approximation, i.e., balancing computation time with accuracy; understandability and explainability, i.e., providing easy-to-understand and explainable analytics; multi-perspective analysis, i.e., considering data, resources and time beyond the process control flow; measurability, e.g., providing a comprehensive framework for measuring differences between observed and modelled process behavior, and ethical and confidential aspects of process mining, i.e., how to ensure that process mining procedures and results do not violate ethical and privacy principles.  
+    
+ Topics for Research Papers  
+ ICPM 2024 encourages papers on new methodologies, techniques, and applications for process mining, as well as case studies coming from industrial scenarios. Also, papers describing novel tools, fundamental research, and empirical studies on process mining are expected. For the sake of replicability of the presented studies, the addition of supplementary resources is strongly encouraged, such as used datasets, publicly accessible implementations of new techniques, and experimental packages for empirical studies. The use of novel, previously unpublished datasets is most welcome. Research on existing datasets must clearly showcase the novelty or unprecedented results of the applied analysis.  
+ Selected, accepted research papers will be considered for publication in an extended and revised form in a special issue of the flagship journal Process Science, edited by Springer ( https://link.springer.com/journal/44311  ).  
+ The thematic areas in which contributions are sought include, but are not limited to, those listed below.  
+ Process mining techniques    
+ Automated Discovery of Process Models 
+  Conformance/Compliance Analysis 
+  Construction of Event Logs 
+  Event Log Quality Improvement 
+  Decision Mining for Processes 
+  Rule/constraint-based Process Mining 
+  Mining from non-process-aware systems 
+  Analyzing Event Streams 
+  Object-centric and Multi-instance Process Mining 
+  Data-centric Process Mining 
+  Multi-perspective Process Mining 
+  Simulation/optimization for Process Mining 
+  Predictive Process Analytics 
+  Prescriptive Process Analytics and Recommender Systems 
+  Responsible Process Mining 
+  Privacy-preserving Process Mining 
+  Process Model Repair 
+  Process Performance Mining 
+  Variants/deviance Analysis and Root-cause Analysis 
+  Visual Process Analytics 
+  Process Monitoring 
+  Process Querying and Repositories 
+  Process mining fundamental research    
+ Formal Foundations of Process Mining 
+  Comparative and Benchmark Studies on Process Mining 
+  Conceptual Models Related to Process Mining 
+  Human-centered Studies on Process Mining 
+  Process Mining Quality Measures 
+  Process Mining Guidelines 
+  Process mining applications and case studies in    
+ Artificial Intelligence 
+  Blockchain Technologies 
+  Robotic Process Automation (RPA) 
+  Chatbots for Process Mining 
+  Business Activity Monitoring and Business Intelligence 
+  (Cyber) Security and Privacy 
+  Operations Management and Lean Six Sigma 
+  Process Performance Measurement 
+  Process Reengineering 
+  Resource Management 
+  Risk Management 
+  Sensors, Internet-of-Things (IoT) and Wearable Devices 
+  Industry 4.0 
+  Specific domains (such as accounting, finance, government, healthcare, manufacturing, education) 
+   
+ Diversity, Equity, and Inclusion  
+ The Process Mining community welcomes the advancement of diversity, equity, and inclusion (DEI) across our professional endeavors. We celebrate the diversity in our community and foster an environment that welcomes individuals irrespective of age, gender identity, race, ethnicity, socioeconomic status, nationality, beliefs, sexual orientation, physical capabilities, education, and professional background. We urge all participants to uphold DEI principles in their written work, reviews, presentations, and any engagement linked to the ICPM conference.  
+  
+ Open Science Principles  
+ The ICPM conference encourages authors of research papers to follow the principles of transparency, reproducibility, and replicability. In particular, the conference supports the adoption of open data and open source principles and encourages authors to disclose (anonymized and curated) data in order to increase reproducibility and replicability.  
+ Authors are encouraged to make research artefacts (e.g., prototypes, interview protocols, questionnaires) or the datasets (used in, or produced by, the empirical evaluation) reported in the paper available in a suitable form. To facilitate this, we kindly ask authors to include links in their manuscripts to private or public repositories where reviewers can access the associated research artefacts. This information may be presented in a dedicated section, such as “Data availability” or “Reproducibility”. This requirement does not apply to papers that neither involve an empirical study nor a prototype implementation.  
+ Authors who are unable or choose not to share their research artefacts and datasets with the program committee are encouraged to provide an explanation within their submitted manuscript, detailing the reasons behind their decision. This statement may be removed from the final version of the paper if it gets accepted. Possible reasons may involve privacy restrictions or non-disclosure agreements. While sharing research artefacts is not mandatory for submission or acceptance, the program committee members may use this information to inform their decision.  
+ To enhance the accessibility of research artefacts and datasets, authors are advised to make them accessible via public repositories (e.g., Zenodo, Figshare, GitHub, or institutional archives) under an open data license such as the CC0 dedication or the CC-BY 4.0 license. Making research artefacts and datasets available via cloud services such as Dropbox or Google Docs is discouraged due to the volatility of the links associated with these services.  
+ Finally, authors are encouraged to self-archive their pre- and post-prints in open, preserved repositories, such as their institutional preprint repository, arXiv, or other non-profit services, in line with IEEE’s copyright agreement (see IEEE Preprint Policy  ).  
+ Submission Instructions  
+ Submissions must be original contributions that have not been published previously, nor submitted elsewhere while being submitted to ICPM 2024. All files must be prepared using the latest IEEE Computational Intelligence Society conference proceedings guidelines (8.5′′ × 11′′ two-column format). The page limit is set to 8 pages (IEEE Format). All papers must be in English. The use of artificial intelligence (AI)–generated text in an article shall be disclosed in the acknowledgments section of any paper submitted to an IEEE Conference or Periodical. The sections of the paper that use AI-generated text shall have a citation to the AI system used to generate the text.  
+ Templates are available for LaTeX and Word at the following link: https://www.ieee.org/conferences/publishing/templates.html  .  
+ The paper should be submitted through the ICPM 2024 submission system, which is reachable at https://easychair.org/conferences/?conf=icpm2024  where one should select “ICPM 2024”.  
+ Each paper will be reviewed by at least 3 program committee members. Afterwards, there will be a discussion period to finalize the decisions.  
+ At least one author of each accepted contribution is expected to register for the conference to present the paper and sign a copyright release form.  
+ Innovation Track  
+ This year, ICPM 2024 features an Innovation Track to highlight novel research ideas and unconventional applications in Process Mining. Papers with strong potential to spark discussion at the conference but do not fully meet the criteria for the main conference will be invited for presentation at the innovation track. The authors will be asked to create a poster to present their research. The Innovation Track offers a platform for researchers and practitioners to present their work, engage with attendees, and receive feedback on ongoing projects.  
+ Important dates  
+ Abstract submission | : | May 23, 2024 | May 30, 2024 (AOE) 
+  Paper submission: | May 30, 2024 | June 6, 2024 (AOE) (small updates allowed until June 8, 2024 (AOE)) 
+  Notification | : July 16, 2024 
+  Camera-ready | : August 23, 2024 
+  Conference | start | : October 14, 2024 
+  Program chairs  
+ Xixi Lu | , University of Utrecht, Netherlands 
+  Luise Pufahl | , Technical University of Munich, Germany 
+  Minseok Song | , Pohang University of Science and Technology, South Korea 
+  Program committee  
+ Daniel Amyot | , University of Ottawa, Canada 
+  Michael Arias | , Universidad de Costa Rica, Costa Rica 
+  Abel Armas Cervantes | , The University of Melbourne, Australia 
+  Ahmed Awad | , The British University in Dubai, UAE 
+  Hyerim Bae | , Pusan National University, South Korean 
+  Saimir Bala | , Humboldt-Universität zu Berlin, Germany 
+  Iris Beerepoot | , Utrecht University, Netherlands 
+  Robin Bergenthum | , Fern Universität in Hagen, Germany 
+  Andrea Burattin | , Technical University of Denmark, Denmark 
+  Cristina Cabanillas | , University of Seville, Spain 
+  Thomas Chatain | , LSV, ENS Paris-Saclay, Cachan, France 
+  Minsu Cho | , Kwangwoon University, South Korea 
+  Ouyang Chun | , Queensland University of Technology, Australia 
+  Marco Comuzzi | , Ulsan National Institute of Science and Technology, South Korea 
+  Zahra Dasht Bozorgi | , University of Melbourne, Australia 
+  Massimiliano de Leoni | , University of Padua, Italy 
+  Johannes De Smedt | , KU Leuven, Belgium 
+  Jochen De Weerdt | , KU Leuven, Belgium 
+  Andrea Delgado | , Universidad de la República, Uruguay 
+  Pavlos Delias | , International Hellenic University, Greece 
+  Benoit Depaire | , Hasselt University, Belgium 
+  Claudio Di Ciccio | , Sapienza University of Rome, Italy 
+  Chiara Di Francescomarino | , DISI – University of Trento, Italy 
+  Joerg Evermann | , Memorial University of Newfoundland, Canada 
+  Dirk Fahland | , Eindhoven University of Technology, Netherlands 
+  Stephan Fahrenkrog-Petersen | , Weizenbaum Institute for the Networked Society, Germany 
+  Carlos Fernandez-Llatas | , Universitat Politècnica de València, Spain 
+  Walid Gaaloul | , Computer Science Department Telecom SudParis, France 
+  Avigdor Gal | , Technion, Israel 
+  Luciano García-Bañuelos | , Tecnológico de Monterrey, Mexico 
+  Laura Genga | , Eindhoven University of Technology, Netherlands 
+  Alessandro Gianola | , University of Lisbon, Portugal 
+  Oscar Gonzalez-Rojas | , Universidad de los Andes, Colombia 
+  Daniela Grigori | , Laboratoire LAMSADE, University Paris-Dauphine, France 
+  Marwan Hassani | , Eindhoven University of Technology, Netherlands 
+  Mieke Jans | , Hasselt University, Belgium 
+  Gert Janssenswillen | , Hasselt University, Belgium 
+  Anna Kalenkova | , The University of Adelaide, Australia 
+  Agnes Koschmider | , Kiel University, Germany 
+  Sander J.J. Leemans | , RWTH Aachen, Germany 
+  Francesco Leotta | , Sapienza University of Rome, Italy 
+  Cong Liu | , Shandong University of Technology, China 
+  Irina Lomazova | , National Research University Higher School of Economics, Russia 
+  Orlenys Lopez-Pintado | , University of Tartu, Estonia 
+  Felix Mannhardt | , Eindhoven University of Technology, Netherlands 
+  Andrea Marrella | , Sapienza University of Rome, Italy 
+  Fabrizio Maria Maggi | , Free University of Bozen-Bolzano, Italy 
+  Niels Martin | , Hasselt University, Belgium 
+  Raimundas Matulevicius | , University of Tartu, Estonia 
+  Massimo Mecella | , Sapienza University of Rome, Italy 
+  Jan Mendling | , Humboldt-Universität zu Berlin, Germany 
+  Giovanni Meroni | , Technical University of Denmark, Denmark 
+  Marco Montali | , Free University of Bozen-Bolzano, Italy 
+  Jorge Munoz-Gama | , Pontificia Universidad Católica de Chile, Chile 
+  Artem Polyvyanyy | , University of Melbourne, Australia 
+  Mahsa Pourbafrani | , RWTH Aachen University, Germany 
+  Jana-Rebecca Rehse | , University of Mannheim, Germany 
+  Hajo A. Reijers | , Utrecht University, Netherlands 
+  Manuel Resinas | , University of Seville, Spain 
+  Stefanie Rinderle-Ma | , Technical University of Munich, Germany 
+  Andrey Rivkin | , Technical University of Denmark, Denmark 
+  Massimiliano Ronzani | , Fondazione Bruno Kessler, Italy 
+  Lorenzo Rossi | , University of Camerino, Italy 
+  Arik Senderovich | , York University, Canada 
+  Marcos Sepùlveda | , Pontificia Universidad Católica de Chile, Chile 
+  Tijs Slaats | , University of Copenhagen, Denmark 
+  Pnina Soffer | , University of Haifa, Israel 
+  Arthur ter Hofstede | , Queensland University of Technology, Australia 
+  Han van der Aa | , University of Vienna, Austria 
+  Wil van der Aalst | , RWTH Aachen University, Germany 
+  Andrea Vandin | , Scuola Superiore Sant’Anna, Italy 
+  Boudewijn van Dongen | , Eindhoven University of Technology, Netherlands 
+  Sebastiaan van Zelst | , Celonis, Germany 
+  Eric Verbeek | , Eindhoven University of Technology, Netherlands 
+  Hagen Völzer | , University of St.Gallen, Switzerland 
+  Barbara Weber | , University of St.Gallen, Switzerland 
+  Matthias Weidlich | , Humboldt-Universität zu Berlin, Germany 
+  Lijie Wen | , Tsinghua University, China 
+  Karolin Winter | , Eindhoven University of Technology, Netherlands 
+  Moe Thandar Wynn | , Queensland University of Technology, Australia 
+  Francesca Zerbato | , Eindhoven University of Technology, Netherlands 
+
+ Diamond Sponsor  
+
+ Platinum Sponsors  
+
+ Gold Sponsors  
+
+ Sponsors  
+
+ Startup Sponsors  
+
+ Sponsors information   
+
+ Twitter   Twitter   Email    
+
+ IEEE Ethics Reporting   
+  Cookie Policy (EU)   
+
+ Copyright © 2024 Process Mining Conference 2024  . All Rights Reserved. | Clean Journal by Catch Themes    
+
+ Scroll Up   ICPM 2024 
+  General Info | Venue – DTU 
+  Travelling & Accommodation 
+  Key Dates 
+  Organizing Committee 
+  Conference | Calls | Research Papers 
+  Demos 
+  Best PhD Dissertation 
+  Doctoral Consortium 
+  Process Discovery Contest 
+  Workshop Proposals 
+  Proceedings 
+  Accepted Papers 
+  Accepted Workshops 
+  Program | Schedule 
+  Keynotes 
+  Industry days | Overview 
+  Tutorial sessions 
+  Training sessions 
+  Use case sessions 
+  Hackathon 
+  Social Events 
+  Co-located Events 
+  ICPM App 
+  Code of Conduct 
+  Sponsors 
+   
+ Registration 
+  Program 
+  Awards 
+  Pictures 
+
+ Manage Cookie Consent   
+
+ To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.   
+ Functional   Functional    Always active       The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.    
+  Preferences   Preferences         The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.    
+  Statistics   Statistics         The technical storage or access that is used exclusively for statistical purposes.  The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.    
+  Marketing   Marketing         The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.    
+
+ Manage options  Manage services  Manage {vendor_count} vendors  Read more about these purposes    
+   
+ Accept  Deny  View preferences  Save preferences  View preferences    
+ {title}  {title}  {title}    
+
+ Manage consent    
+  

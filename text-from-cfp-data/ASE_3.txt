@@ -1,0 +1,78 @@
+     
+      
+ Toggle navigation        
+ Home 
+  Call For | Papers 
+  Practitioners 
+  Posters 
+  Donors 
+  People | Organizing Committee 
+  Program Committee 
+  Practitioner Committee 
+  Steering Committee 
+  Program 
+  Awards | Call for Nominations 
+  Award Committee 
+  Registration 
+  Venue 
+  Student Travel Grants 
+
+ IEEE Secure Development Conference  
+  & IEEE Digital Privacy Workshop   
+ October 7 - 9, 2024  
+  Carnegie Mellon University Software Engineering Institute  
+  Pittsburgh, PA  
+ Sponsored by the IEEE Computer Society Technical Committee on Security and Privacy   
+  Registration   
+
+ 2024 CFP  
+ Posted on:  January 31st, 2024 by  SecDev    
+   
+ Call For Research Papers and Tutorials   
+ We solicit research and experience papers  on a broad range of topics relating to secure systems development. Examples of topics that are in scope include: development libraries, tools, or processes to produce systems resilient to certain attacks; formal foundations that underpin a language, tool, or testing strategy that improves security; techniques that drastically improve the scalability of security solutions for practical deployment; and experience, designs, or applications showing how to apply cryptographic techniques effectively to secure systems.  
+ ​SecDev also ​seeks hands-on​ ​and​ ​interactive tutorials  ​ ​on​ ​processes,​ ​frameworks,​ ​languages,​ ​and​ ​tools​ ​for​ ​building security​ ​in.​ ​The​ ​goal​ ​is​ ​to​ ​share​ ​knowledge​ ​on​ ​the​ ​art​ ​and​ ​science​ ​of​ ​secure​ ​systems development.​  
+ SecDev also has calls for other types of contributions such as posters and tool demos, and abstracts from practitioners.   
+  Information on these solicitations are available on the SecDev website https://secdev.ieee.org/2024/   
+ Areas of interest include (but are not limited to):   
+ Security/resiliency-focused​ ​system​ ​designs​ ​(HW/SW/architecture) 
+  Tools​ ​and​ ​methodology​ ​for​ ​secure​ ​code​ ​development 
+  Risk​ ​management​ ​and​ ​testing​ ​strategies​ ​to​ ​improve​ ​security 
+  Security​ ​engineering​ ​processes,​ ​from​ ​requirements​ ​to​ ​maintenance 
+  Security benchmarks 
+  Comparative experimental evaluation 
+  From research to practice – gaps and transitions 
+  Programming​ ​languages,​ ​development​ ​tools,​ ​and​ ​ecosystems​ ​supporting​ ​security 
+  Static​ ​program​ ​analysis​ ​for​ ​software​ ​security 
+  Dynamic​ ​analysis​ ​and​ ​runtime​ ​approaches​ ​for​ ​software​ ​security 
+  Automation​ ​of​ ​programming,​ ​deployment,​ ​and​ ​maintenance​ ​tasks​ ​for​ ​security 
+  Software ecosystem and software supply chain security 
+  Distributed​ ​systems​ ​design​ ​and​ ​implementation​ ​for​ ​security 
+  Privacy by design 
+  Human-centered​ ​design​ ​for​ ​systems​ ​security 
+  Formal​ ​verification​ ​and​ ​other​ ​high-assurance​ ​methods​ ​for​ ​security 
+  Code​ ​reviews,​ ​red​ ​teams,​ ​and​ ​other​ ​human-centered​ ​assurance 
+  Mandatory in-person attendance   
+ Note that SecDev is an in-person conference. Hence, for authors of all accepted papers and tutorials, we expect them to register for, and attend the conference in person. Thus, if you can foresee that this will be problematic for you, please do not submit.  
+ Submission​ ​Details  
+ The website for submissions: 
+  https://hotcrp.secdev24-research.ieee-security.org/   
+ Submissions must use the two-column IEEE Proceedings style: 
+  https://www.ieee.org/conferences/publishing/templates.html   
+ Submissions​ ​must​ ​be​ ​one​ ​of​ ​three ​categories:  
+ Long | (up to | 10 pages | ), or | Short | (up to | 6 pages | ) | Research Papers​ | , excluding references and well-marked appendices. These must be well-argued and worthy of publication and citation, on the topics above. Research papers must present new work, evidence, or ideas. Position papers with exceptional visions will also be considered. 
+  Long | (up to | 10 pages | ), or | Short | (up to | 6 pages | , may be shorter) | Experience Papers​ | , excluding references and well-marked appendices. These submissions should be reporting experience on the application of some tool(s) or methodology in a non-trivial setting. Papers in this category must include a discussion on the positive/negative results and the lessons learned. | Authors of accepted Research/Experience papers will present their work at the conference (e.g., in a 30-minute slot) and their papers will appear in the conference’s formal IEEE proceedings. | To improve the fairness of the reviewing process, SecDev will follow a light-weight double-blind reviewing  process. Submitted papers must (a) omit any reference to the authors’ names or the names of their institutions, and (b) reference the authors’ own related work in the third person (e.g., not “We build on our previous work …” but rather “We build on the work of …”). Nothing should be done in the name of anonymity that weakens the submission or makes the job of reviewing the paper more difficult (e.g., important background references should not be omitted or anonymized). Please see the double-blind FAQ for the answers to many common concerns about SecDev’s double-blind reviewing process. When in doubt, contact the program chairs. 
+  Tutorial​ ​proposals | , up to 2 pages and cover (a) the topic; (b) a summary of the tutorial format highlighting hands-on aspects and possibly pointers to relevant materials; (c) the expected audience and expected learning outcomes; (d) prior tutorials or talks on similar topics by the authors (and audience size), if any. The title of the submission should be prefixed with | “Tutorial:” | . Tutorial proposals do not need to be anonymized. | Accepted tutorials should aim to be either 90 minutes or 180 minutes long. We strongly encourage tutorials to have hands-on components and audience interactions. We do not recommend simply slide presentations. Accepted tutorials may have their two-page abstract appear in the conference’s formal IEEE proceedings. Tutorials will occur on the first day of the conference (Monday, October 7)  . Note that if an accepted tutorial requires special materials or environments for hands-on participation, we expect the authors to provide necessary preparation instructions for the attendees. 
+  At least one author of each accepted paper and tutorial must register for the conference and present the paper/tutorial.  
+  We​ ​are​ ​devoted​ ​to​ ​seeking​ ​broad​ ​representation​ ​in​ ​the​ ​program​ ​and​ ​may​ ​take​ ​this​ ​into​ ​account when​ ​reviewing​ ​multiple​ ​submissions​ ​from​ ​the​ ​same​ ​authors.​  
+ If​ ​you​ ​have​ ​any​ ​questions​,​ please​ ​email​ ​​ secdev24-pc@ieee.org  .  
+ Important​ ​Dates  
+ Paper and tutorial​ ​submission deadline: | May 14, 2024 | Note that this year this is a firm deadline, there will be no extensions! 
+  Author​ ​notification: | July 17, 2024 
+  Camera-ready​: | August 15, 2024 
+  Conference: | October​ ​7-9,​ 2024 
+
+ Copyright 2024 IEEE. All rights reserved    
+      
+ This event follows the IEEE Code of Conduct     
+
+    

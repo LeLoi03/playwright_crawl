@@ -1,0 +1,179 @@
+  
+     
+ Toggle navigation          
+ VizSec 2023 Home 
+  Sponsorship 
+  News 
+  Past Years 
+  Data 
+  About 
+
+  VizSec 2016  
+ Welcome to IEEE Symposium on Visualization for Cyber Security  
+ VizSec will be held in Baltimore, MD, USA  in conjunction with IEEE VIS  , on Monday October 24th  . VizSec brings together researchers and practitioners in information visualization and security to address the specific needs of the cyber security community through new and insightful visualization techniques.  
+ The proceedings will be available in the IEEE Digital Library.  
+  Program  
+  
+ 8:30 AM | Welcome and Announcements 
+ 8:40 AM | Keynote  : Jay Jacobs - The State of (Viz) Security 
+ 9:40 AM | Paper Session: Methodology 
+ Laurin Buchanan, Anita D'Amico and Drew Kirkpatrick  
+  Mixed Method Approach to Identify Analytic Questions to be Visualized for Military Cyber Incident Handlers 
+ 10:00 AM | Break 
+ 10:30 AM | Paper Session: Code security 
+ Md. Jawaherul Alam, Michael Goodrich and Timothy Johnson  
+  J-Viz: Finding Algorithmic Complexity Attacks via Graph Visualization of Java Bytecode 
+ Hala Assal, Sonia Chiasson and Robert Biddle  
+  Cesar, Visual representation of source code vulnerabilities 
+ 11:10 AM | Case studies 
+ Dustin Arendt, Dan Best, Russ Burtner and Celeste Lyn Paul  
+  CyberPetri at CDX 2016: Real-time Network Situation Awareness 
+ Sebastian Peryt, Jose Andre Morales, William Casey, Aaron Volkmann and Yang Cai  
+  Visualizing a Malware Distribution Network 
+ Tobias Post, Thomas Wischgoll, Adam R. Bryant, Bernd Hamann, Paul Müller and Hans Hagen  
+  Visually guided Flow Tracking in Software-defined Networking 
+ 11:55 AM | Break 
+ 2:00 PM | Panel  : Use of Visualizations in DoD Cyberspace Operations 
+ 3:00 PM | Paper Session: Security policy and passwords 
+ Hossein Siadati, Bahador Saket and Nasir Memon  
+  Detecting Malicious Logins in Enterprise Networks Using Visualization 
+ Robert Gove  
+  V3SPA: A Visual Analysis, Exploration, and Diffing Tool for SELinux and SEAndroid Security Policies 
+ 3:40 PM | Break 
+ 4:15 PM | Paper Session: Visualizing large scale threats 
+ Ngoc Anh Huynh, Wee Keong Ng, Alex Ulmer and Jörn Kohlhammer  
+  Uncovering Periodic Network Signals of Cyber Attacks 
+ Meenakshi Syamkumar, Ramakrishnan Durairajan and Paul Barford  
+  Bigfoot: A Geo-based Visualization Methodology for Detecting BGP Threats 
+ Michael Marie Aupetit, Yury Zhauniarovich, Giorgos Vasiliadis, Marc Dacier and Yazan Boshmaf  
+  Visualisation of Actionable Knowledge to Mitigate DRDoS Attacks 
+ Bram Cappers and Jarke J. van Wijk  
+  Understanding the Context of Network Traffic Alerts 
+ 5:35 PM | Poster Session 
+  
+  Keynote  
+ Jay Jacobs  
+ The State of (Viz) Security  
+  The information security industry is changing rapidly (like always). It's worthwhile to take a moment to stop and look around to figure out if we are still on a good path. Join Jay Jacobs as he takes looks back over his career along with 12 years of VizSec and takes stock of where we are and some areas we should be moving towards.  
+ Jay Jacobs is a Sr. Data Scientist at BitSight  , before that, he spent four years as the Lead Data Analyst on the Verizon Data Breach Investigations Report (DBIR)  . Jacobs is the Co-Author of Data Driven Security  , a book covering data analysis and visualizations for information security, and hosts the Data-Driven Security podcast  . Jacobs is also a Co-Founder of the Society of Information Risk Analysts (SIRA)  and serves as President on their Board of Directors.  
+  Panel  
+ Moderators: LTC Stoney Trent, US Cyber Command and Anita D'Amico, Secure Decisions  
+ Use of Visualizations in DoD Cyberspace Operations  
+ While information visualization researchers and designers continue to develop new cyber security visualizations, little attention has been paid to how currently-fielded visualizations are actually used in cyberspace operations. Lathrop and Trent (2016) introduce the differences between traditional cyber security roles and expertise and emerging roles and technology requirements in cyber security operations. Cyber technologies and cyberspace operations organizations are co-evolving, so it is critical for researchers to understand practitioner perspectives. U.S. Cyber Command has established a research activity, the Cyber Immersion Lab, that is supporting such understanding. This panel, facilitated by the Cyber Immersion Lab, will provide an overview of the Cyber Mission Force and roles that perform cyberspace operations. Cyber Mission Force members will share insights into how visualizations are currently being used as well as perspectives on how currently-fielded visualizations fail to support real cyber work. Additional time will be reserved for questions and answers.  
+  Papers  
+ Laurin Buchanan, Anita D'Amico and Drew Kirkpatrick, | Mixed Method Approach to Identify Analytic Questions to be Visualized for Military Cyber Incident Handlers 
+  Md. Jawaherul Alam, Michael Goodrich and Timothy Johnson, | J-Viz: Finding Algorithmic Complexity Attacks via Graph Visualization of Java Bytecode 
+  Hala Assal, Sonia Chiasson and Robert Biddle. | Cesar, Visual representation of source code vulnerabilities 
+  Hossein Siadati, Bahador Saket and Nasir Memon, | Detecting Malicious Logins in Enterprise Networks Using Visualization 
+  Robert Gove, | V3SPA: A Visual Analysis, Exploration, and Diffing Tool for SELinux and SEAndroid Security Policies 
+  Ngoc Anh Huynh, Wee Keong Ng, Alex Ulmer and Jörn Kohlhammer, | Uncovering Periodic Network Signals of Cyber Attacks 
+  Meenakshi Syamkumar, Ramakrishnan Durairajan and Paul Barford, | Bigfoot: A Geo-based Visualization Methodology for Detecting BGP Threats 
+  Michael Marie Aupetit, Yury Zhauniarovich, Giorgos Vasiliadis, Marc Dacier and Yazan Boshmaf, | Visualisation of Actionable Knowledge to Mitigate DRDoS Attacks 
+  Bram Cappers and Jarke J. van Wijk, | Understanding the Context of Network Traffic Alerts 
+   Case studies  
+ Dustin Arendt, Dan Best, Russ Burtner and Celeste Lyn Paul, | CyberPetri at CDX 2016: Real-time Network Situation Awareness 
+  Sebastian Peryt, Jose Andre Morales, William Casey, Aaron Volkmann and Yang Cai, | Visualizing a Malware Distribution Network 
+  Tobias Post, Thomas Wischgoll, Adam R. Bryant, Bernd Hamann, Paul Müller and Hans Hagen, | Visually guided Flow Tracking in Software-defined Networking 
+  Posters  
+ Coming Soon.  
+  Call for Papers  
+ The 13th IEEE Symposium on Visualization for Cyber Security (VizSec) is a forum that brings together researchers and practitioners from academia, government, and industry to address the needs of the cyber security community through new and insightful visualization and analysis techniques. VizSec provides an excellent venue for fostering greater exchange and new collaborations on a broad range of security- and privacy-related topics. VizSec will be held in Baltimore, MD, USA  in conjunction with IEEE VIS  , on Monday October 24th.   
+ The purpose of VizSec is to explore effective and scalable visual interfaces for security domains such as network security, computer forensics, reverse engineering, insider threat detection, cryptography, privacy, user assisted attacks prevention, compliance management, wireless security, secure coding, and penetration testing.  
+ Technical Papers  
+ Full papers describing novel contributions in security visualization are solicited. Papers may present techniques, applications, theory, analysis, experiments, or evaluations. We encourage the submission of papers on technologies and methods that promise to improve cyber security practices, including, but not limited to:  
+ Situation awareness and/or understanding 
+  Incident handling including triage, exploration, correlation, and response 
+  Computer forensics 
+  Recording and reporting results of investigations 
+  Assisting proactive security configuration and deployment 
+  Reverse engineering and malware analysis 
+  Vulnerability management 
+  Multiple data source analysis 
+  Analyzing information requirements for computer network defense 
+  Evaluation and/or user testing of VizSec systems 
+  Criteria for assessing the effectiveness of cyber security visualizations (whether from a security goal perspective or a human factors perspective) 
+  Modeling system and network behavior 
+  Modeling attacker and defender behavior 
+  Studying risk and impact of cyber attacks 
+  Predicting future attacks or targets 
+  Security metrics and education 
+  Software security 
+  Mobile application security 
+  Social networking privacy and security 
+   
+  When applicable, visualization and interaction techniques that effectively capture the insights of human analysts and/or allow analysts to collaborate efficiently are particularly desirable.  
+ Case Studies  
+ New for 2016!  Short papers describing practical applications of security visualization are solicited. We encourage the submission of papers discussing the introduction of cyber security visualizations into operational context, including, but not limited to:  
+ Cases where visualization made positive contributions towards meeting operational needs 
+  Gaps or negative outcomes from visualization deployments 
+  Situations where visualization was not utilized, but could have had a positive impact 
+  Lessons learned from operational engagements 
+  Insights gained from the transition process 
+   
+  Cyber security practitioners from industry, as well as the research community, are encouraged to submit case studies. Accepted case studies will be made available on this website.  
+ Posters  
+ Poster submissions may showcase late-breaking results, work in progress, preliminary results, or visual representations relevant to the VizSec community. The poster program will be a great opportunity for the authors to interact with the attendees and solicit feedback. Accepted poster abstracts will be made available on this website.  
+ Tests and Evaluation  
+ When applicable, submissions including tests and evaluations of the proposed tools and techniques are considered particularly desirable. If possible, making the data used for the tests available will also be considered positively. If you do not have real-world data to demonstrate your visualization, you may be interested in looking at the VAST Challenge data sets.  
+  Submissions  
+ Submissions are now closed.  
+  Important Dates  
+ All deadlines are 5:00 PM PST. Papers and Case Studies  
+  
+ August 8, 2016 | Submission for Papers and Case Studies 
+ September 5, 2016 | Author Notification for Papers and Case Studies 
+ October 3, 2016 | Camera Ready Submission and Copyright Forms for Papers 
+  
+ Posters  
+  
+ September 19, 2016 | Abstract Submission for Posters 
+ September 30, 2016 | Author Notification for Posters 
+  
+  Committees  
+ Organizing Committee  
+  
+ Program Committee  
+
+   Get in Touch  
+ Email chair@vizsec.org  for questions regarding the latest VizSec event. For general questions, email info@vizsec.org  or post to our Google group.   
+  Follow @vizsec  on Twitter!  
+   
+  VizSec News  
+ VizSec 2023 Call for Papers and Deadlines 
+  VizSec 2023 Website 
+  VizSec 2022 Program 
+  VizSec 2022 Call for Papers and Deadlines 
+  VizSec 2022 Website 
+  VizSec 2021 Program 
+  VizSec 2021 Call for Papers 
+  VizSec 2021 Website 
+  Inclusivity and Diversity scholarship 
+  VizSec 2020 Registration 
+  VizSec 2020 Call for Papers 
+  VizSec 2019: Program Schedule and Posters Announced 
+  Submission Deadline Extended to June 19th, 2019 
+  Chris Oehmen to Keynote at VizSec 2019 
+  VizSec 2019 Call for Papers 
+  VizSec 2018 Videos and Proceeding Available 
+  VizSec 2017 Videos Posted 
+  VizSec 2017 Program Posted 
+  VizSec 2017 Deadline Extended 
+  VizSec 2017 Best Paper Award 
+  VizSec 2017 Call for Papers 
+  VizSec 2016 papers are in the IEEE DL 
+  Program Schedule Available 
+  Jay Jacob's to Provide Keynote 
+  VizSec 2016 Registration 
+  VizSec 2016 Call for Papers 
+  VizSec 2015 papers are in the IEEE DL 
+  Papers for VizSec 2015 
+  VizSec 2015 Program Schedule 
+  VizSec 2015 Call for Papers 
+    
+  Past VizSec Events  
+ 2022    Hybrid Conference, Oklahoma City, USA   2021    Virtual Conference   2020    Virtual Conference   2019    Vancouver, Canada   2018    Berlin, Germany   2017    Phoenix, AZ, USA   2016    Baltimore, MD, USA   2015    Chicago, Illinois, USA   2014    Paris, France   2013    Atlanta GA, USA   2012    Seattle, WA, USA   2011    Pittsburgh, PA, USA   2010    Ottawa, ON, Canada   2009    Atlantic City, NJ, USA   2008    Cambridge, MA, USA   2007    Sacramento, CA   2006    Washington, DC, USA   2005    Minneapolis, MN, USA   2004    Washington, DC, USA      
+ View all »    
+
+ © The VizSec team; content licensed under CC BY 3.0    
+   
+  

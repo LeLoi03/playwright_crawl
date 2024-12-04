@@ -1,0 +1,154 @@
+Skip to main content      
+ Toggle navigation        
+ ESWC 2025 | About 
+  History 
+  Conference Metadata 
+  CALLS | Call for Contributions ESWC 2025 
+  Call for Papers: Research Track 
+  Call for Papers: In-Use Track 
+  Call for Papers: Resources Track 
+  Call for Workshops 
+  Call for Tutorials 
+  Call for Posters and Demos 
+  Call for Ph.D. Symposium 
+  Call for Papers: Industry Track 
+  Call for Project Networking Session Profiles 
+  Program | Program Overview 
+  Keynote Speakers 
+  PhD Symposium Program 
+  Project Networking 
+  Attending | Registration 
+  Conference Venue 
+  Sponsors and Supporters 
+  Organisation | Organising Committee 
+  ESWC 2025 Sponsorship Packages 
+
+ Call for Papers: Research Track  
+  
+ The research track of ESWC 2025 is looking for contributions addressing theoretical, analytical, and empirical aspects of the Semantic Web, knowledge graphs and semantic technologies in general and their relation with AI. We also encourage contributions at the intersection of these domains and other scientific disciplines. Submissions to the research track should describe novel, significant research, and are expected to provide a principled evaluation.  
+ Submissions are solicited in the following domains of interest:  
+ Semantic Web Foundations and Semantic Technologies   
+ Knowledge representation, ontologies, rules, shapes, and reasoning (within and beyond Description Logics) 
+  Ontology analysis and design 
+  Reuse, modularization, matching, integration, and fusion of ontologies 
+  Ontology-based data access 
+  Knowledge Graphs   
+ Knowledge graph construction 
+  Query processing over knowledge graphs 
+  Provenance and management 
+  Reuse, modularization, matching, integration, and fusion of knowledge graphs 
+  Structured, semi-structured and unstructured data to knowledge graph matching 
+  Knowledge Graphs construction and probing with Foundational Language Models 
+  Decentralized and federated knowledge graphs 
+  Artificial Intelligence, Natural Language Processing and Semantics    
+ Generative AI and semantics 
+  Machine learning on or for semantic sources 
+  Hybrid learning and reasoning systems (explainability, neuro-symbolic) 
+  Natural Language Processing for semantic sources 
+  (Large) Language Models for semantic sources 
+  Retrieval Augmented Generation with knowledge graphs 
+  Representation learning and embeddings for knowledge graphs 
+  Data Quality, Privacy, and Trust   
+ Data quality, transparency, ethics and trust 
+  Fairness and bias 
+  Privacy and security 
+  Semantics on the Web and Interoperability   
+ Linked data 
+  FAIR data management 
+  Internet of things 
+  Information retrieval 
+  Data dynamics, streaming data, and mobile platforms 
+  Science and research data management 
+  Human and Social Aspects   
+ Social and human aspects of the Semantic Web 
+  Crowdsourcing and human-in-the-loop for knowledge engineering 
+  User interfaces, usability, and accessibility 
+  Positioning and delineations  
+ Other tracks | : We strongly recommend that prospective authors carefully check the calls of the other main tracks of the conference in order to identify the optimal track for their submission. Papers that propose new algorithms and architectures should continue to be submitted to the regular research track. 
+  Papers that reuse and apply state-of-the art semantic technology or resources in practical settings should be submitted to the in-use track (i.e., the novelty falls into the in-use application of the semantic technology or resource). 
+  Authors who want to present an interesting industry application but who do not want to submit a full paper should submit to the industry track. 
+  Papers describing concrete resources (datasets, ontologies, vocabularies, annotated corpora, workflows, knowledge graphs, evaluation benchmarks, etc.) should be submitted to the resources track. 
+  Note that research, in-use and resource papers are published within the same proceedings by Springer’s Lecture Notes in Computer Science series.  
+ Positioning with respect to the Machine Learning Community  : Contributions should be clearly related to the Semantic Web or have an impact in the field of semantics. The scope of the conference is semantic technologies and how they enable new research and applications. While semantic technologies are part of a broader interdisciplinary ecosystem, including aspects of Data Management and Artificial Intelligence, such as Machine Learning (ML) and Natural Language Processing (NLP), it remains a distinct scholarly field, with its own research methods, tools, and challenges. Therefore, contributions to other disciplines that have no direct impact on the landscape of semantic technologies are not relevant to the ESWC conference.  
+ Use of LLM generated text  : For ESWC 2025, we adhere to the principles and guidelines stated in the ACM Policy on Authorship  specifically about “Criteria for Authorship” regarding the use of Generative AI technologies for authoring papers: “ Generative AI tools and technologies, such as ChatGPT, may not be listed as authors of an ACM published Work. The use of generative AI tools and technologies to create content is permitted but must be fully disclosed in the Work. For example, the authors could include the following statement in the Acknowledgements section of the Work: ChatGPT was utilized to generate sections of this Work, including text, tables, graphs, code, data, citations, etc.). If you are uncertain ­about the need to disclose the use of a particular tool, err on the side of caution, and include a disclosure in the acknowledgements section of the Work. (…) Basic word processing systems that recommend and insert replacement text, perform spelling or grammar checks and corrections, or systems that do language translations are to be considered exceptions to this disclosure requirement and are generally permitted and need not be disclosed in the Work. As the line between Generative AI tools and basic word processing systems like MS-Word or Grammarly becomes blurred, this Policy will be updated.  ”  
+ In case of any questions regarding this policy, please contact the organizing committee.  
+ Review Criteria  
+ Papers in the research track will be reviewed according to the following criteria:  
+ Relevance to the Semantic Web conference 
+  Novelty 
+  Originality 
+  Impact of the research contributions 
+  Soundness 
+  Design and execution of the evaluation of the work 
+  Clarity and quality of presentation 
+  Grounding in the literature and related work 
+  Reproducibility and availability of resources 
+  We also encourage the submission of interesting and sound approaches, even if these do not fully outperform the state of the art. All papers should include evaluations of the approaches described in the paper. Evaluation metrics should be explained and justified.  
+ Negative results should be reported as well. Evaluations should be repeatable, and papers should provide links to the data sets, source code (including all the external dependencies and versions, as well as the necessary parameters), queries, and other resources.  
+ Important Dates  
+  
+ Abstract submission (mandatory) | December 12, 2024 
+ Paper submission (Hard) | December 19, 2024 
+ Opening of rebuttal period | January 27, 2025 
+ Closing of rebuttal period | January 31, 2025 
+ Notification to authors | February 24, 2025 
+ Camera-ready papers due | March 27, 2025 
+  
+  All deadlines are 23:59 anywhere on earth (UTC-12).  
+ Submission Guidelines  
+ ESWC will not accept work that is under review or has already been published in or accepted for publication in a journal, another conference, or another ESWC track. 
+  Papers must pre-submit an abstract. 
+  The proceedings of this conference will be published in Springer’s Lecture Notes in Computer Science series. The preprints of the accepted papers will be available openly. 
+  Papers must not exceed | 15 pages (plus unlimited references) | and be in English. Authors are permitted to include an optional Appendix of maximum 2 pages. However, reviewers will not be mandated to review the Appendix and all papers must be self contained. 
+  Submissions in the research track are dual anonymous, and should not identify the authors. Use anonymous links (e.g., by Dropbox or similar services) or pseudo-anonymous Github repositories (e.g. | Anonymous Github | ) for supplementary material. For more information on how to do this check out | this article by Daniel Graziotin | . Reviewers will not actively try to identify the authors. 
+  Submissions must be either in PDF or in HTML, formatted in the style of the Springer Publications format for Lecture Notes in Computer Science (LNCS). For details on the LNCS style, see | Springer’s Author Instructions | . For HTML submission guidance, see the | HTML submission guide | . 
+  Authors will have the opportunity to submit a rebuttal to the reviews to clarify explicit questions posed by program committee members. 
+  At least one author per contribution must register for the conference for presentation. 
+  Submission is done through | EasyChair | . When logging in, select the Research track. 
+  Program Chairs  
+ Maribel Acosta  (Technical University of Munich, Germany), maribel.acosta@tum.de   
+ María Poveda-Villalón  (Universidad Politécnica de Madrid, Spain), m.poveda@upm.es   
+ Share on  
+ Facebook 
+  Twitter 
+  LinkedIn 
+
+ ESWC on Mastodon  
+
+ Proceedings published by  
+
+ Follow us  
+
+ ESWC 2025 – NEWS  
+ Calls for Workshops and Tutorials published   
+ 14. October 2024 16:46 
+  Call for Contributions published   
+ 3. October 2024 11:32 
+  ESWC 2025   
+ 30. September 2024 19:32 
+
+ Extended Semantic Web Conference ESWC  
+ The ESWC  is a major venue for discussing the latest scientific results and technology innovations around semantic technologies. Building on its past success, ESWC is seeking to broaden its focus to span other relevant related research areas in which Web semantics plays an important role.  
+
+ Twitter 
+  Mastodon 
+   
+ Theme by Colorlib  Powered by WordPress    
+
+ This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Accept  Reject   
+
+ Privacy & Cookies Policy    
+    Close   Privacy Overview  
+ This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.   
+
+ Necessary   Necessary    
+ Always Enabled    
+ Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.   
+
+ Non-necessary   Non-necessary     
+   
+ Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.   
+
+ SAVE & ACCEPT    
+
+  

@@ -1,0 +1,338 @@
+Write a Blog >>  ECOOP 2017   Sun 18 - Fri 23 June 2017 Barcelona, Spain    
+ co-located with PLDI, ECOOP, Curry On, DEBS, LCTES and ISMM    
+
+ Toggle navigation        
+ Attending | Venue: Universitat Politècnica de Catalunya 
+  Social Events 
+  Sponsoring 
+  Awards 
+  PLDI, ECOOP, Curry On, DEBS, LCTES and ISMM 
+  Registration 
+  Hotels 
+  Anti-Harassment Policy 
+  Program | ECOOP Program 
+  Your Program 
+  Accepted papers 
+   Sun 18 Jun 
+  Mon 19 Jun 
+  Tue 20 Jun 
+  Wed 21 Jun 
+  Thu 22 Jun 
+  Fri 23 Jun 
+  Tracks | ECOOP 2017 
+  ECOOP Artifacts 
+  ECOOP Invited Speakers 
+  ECOOP Research Papers 
+  ECOOP Workshops 
+  ECOOP Doctoral Symposium 
+  ECOOP Student Volunteers 
+  ECOOP Summer School 
+   Workshops 
+  COP  -17 
+  FTfJP 
+  ICOOOLPS 
+  IWACO 
+  JSTools 
+  PMLDC 
+  VORTEX  17 
+  Organization | ECOOP 2017 Committees 
+  Organizing Committee 
+  Track Committees 
+  ECOOP Artifacts 
+  ECOOP Research Papers 
+  ECOOP Workshops 
+  ECOOP Doctoral Symposium | Academic Panel 
+  Invited Speakers 
+  Program Committee 
+  ECOOP Summer School | Speakers 
+  Mentors 
+  Organizers 
+  Contributors 
+  People Index 
+   Workshops 
+  COP | Organizing Committee 
+  Program Committee 
+  FTfJP | Program Committee 
+  ICOOOLPS | Organizing Committee 
+  Program Committee 
+  IWACO | Organizing Committee 
+  Program Committee 
+  JSTools | Organizing Committee 
+  Program Committee 
+  PMLDC | Organizing Committee 
+  Program Committee 
+  VORTEX | Organizing Committee 
+  Program Committee 
+  Search 
+  Series | Series 
+   ECOOP 2025 
+  ECOOP 2024 
+  ECOOP 2023 
+  ECOOP 2022 
+  ECOOP 2021 
+  ECOOP 2020 
+  ECOOP 2019 
+  ECOOP 2018 
+  ECOOP 2017 
+  ECOOP 2016 
+  ECOOP 2015 
+   2014: Uppsala 
+  2013: Montpellier 
+  2012: Beijing 
+  2011: Lancaster 
+  2010: Maribor 
+  2009: Genova 
+  2008: Cyprus 
+  2007: Berlin 
+  2006: Nice 
+  2005: Glasgow 
+  Sign in 
+  Sign up 
+
+  PLDI, ECOOP, Curry On, DEBS, LCTES and ISMM  ( series  ) /   ECOOP 2017  ( series  ) /  COP 2017 ( series  ) /  COP 2017  
+   
+ About 
+  Program 
+  Accepted Papers 
+  Previous Editions 
+  Call for Papers 
+  Welcome to the 9 th  International Workshop on Context-Oriented Programming   
+ Contextual information plays an ever-increasing role in our information-centric world. Current-day software systems adapt continuously to changing execution and usage contexts, even while running. Unfortunately, mainstream programming languages and development environments still do not support this kind of dynamicity very well, leading developers to implement complex designs to anticipate various dimensions of variability.  
+ Context-Oriented Programming directly supports variability at the programming level, depending on a wide range of dynamic attributes. It enables run-time behaviour to be dispatched directly on any detected properties of the execution or user context. Since more than a decade, several researchers have been working on a variety of notions approaching that idea. Implementations ranging from first prototypes to mature platform extensions used in commercial deployments have illustrated how multidimensional dispatch can be supported effectively to achieve expressive runtime variation in behaviour.  
+ The previous editions of this workshop at ECOOP 2009–2016 have shown to be well-received, each attracting around 30 participants. The goal of the 9th Workshop on Context-Oriented Programming is to further establish context orientation as a common thread throughout language design, application development, and system support.  
+  Flyer   
+
+   Program Display Configuration  
+   
+   Time Zone   
+   
+ The program is currently displayed in (GMT+02:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna  .   Use conference time zone: (GMT+02:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna    Select other time zone   (GMT-12:00) AoE (Anywhere On Earth)  (GMT-11:00) Midway Island, Samoa  (GMT-09:00) Hawaii-Aleutian  (GMT-10:00) Hawaii  (GMT-09:30) Marquesas Islands  (GMT-09:00) Gambier Islands  (GMT-08:00) Alaska  (GMT-07:00) Tijuana, Baja California  (GMT-08:00) Pitcairn Islands  (GMT-07:00) Pacific Time (US & Canada)  (GMT-06:00) Mountain Time (US & Canada)  (GMT-06:00) Chihuahua, La Paz, Mazatlan  (GMT-07:00) Arizona  (GMT-06:00) Saskatchewan, Central America  (GMT-05:00) Guadalajara, Mexico City, Monterrey  (GMT-06:00) Easter Island  (GMT-05:00) Central Time (US & Canada)  (GMT-04:00) Eastern Time (US & Canada)  (GMT-04:00) Cuba  (GMT-05:00) Bogota, Lima, Quito, Rio Branco  (GMT-04:00) Caracas  (GMT-04:00) Santiago  (GMT-04:00) La Paz  (GMT-03:00) Faukland Islands  (GMT-04:00) Manaus, Amazonas, Brazil  (GMT-03:00) Atlantic Time (Goose Bay)  (GMT-03:00) Atlantic Time (Canada)  (GMT-02:30) Newfoundland  (GMT-03:00) UTC-3  (GMT-03:00) Montevideo  (GMT-02:00) Miquelon, St. Pierre  (GMT-02:00) Greenland  (GMT-03:00) Buenos Aires  (GMT-03:00) Brasilia, Distrito Federal, Brazil  (GMT-02:00) Mid-Atlantic  (GMT-01:00) Cape Verde Is.  (GMT) Azores  (UTC) Coordinated Universal Time  (GMT+01:00) Belfast  (GMT+01:00) Dublin  (GMT+01:00) Lisbon  (GMT+01:00) London  (GMT) Monrovia, Reykjavik  (GMT+02:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna  (GMT+02:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague  (GMT+02:00) Brussels, Copenhagen, Madrid, Paris  (GMT+01:00) West Central Africa  (GMT+01:00) Windhoek  (GMT+03:00) Athens  (GMT+03:00) Beirut  (GMT+02:00) Cairo  (GMT+03:00) Gaza  (GMT+02:00) Harare, Pretoria  (GMT+03:00) Jerusalem  (GMT+03:00) Minsk  (GMT+03:00) Syria  (GMT+03:00) Moscow, St. Petersburg, Volgograd  (GMT+03:00) Nairobi  (GMT+04:30) Tehran  (GMT+04:00) Abu Dhabi, Muscat  (GMT+04:00) Yerevan  (GMT+04:30) Kabul  (GMT+05:00) Ekaterinburg  (GMT+05:00) Tashkent  (GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi  (GMT+05:45) Kathmandu  (GMT+06:00) Astana, Dhaka  (GMT+07:00) Novosibirsk  (GMT+06:30) Yangon (Rangoon)  (GMT+07:00) Bangkok, Hanoi, Jakarta  (GMT+07:00) Krasnoyarsk  (GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi  (GMT+08:00) Irkutsk, Ulaan Bataar  (GMT+08:00) Perth  (GMT+08:45) Eucla  (GMT+09:00) Osaka, Sapporo, Tokyo  (GMT+09:00) Seoul  (GMT+09:00) Yakutsk  (GMT+09:30) Adelaide  (GMT+09:30) Darwin  (GMT+10:00) Brisbane  (GMT+10:00) Hobart  (GMT+10:00) Vladivostok  (GMT+10:30) Lord Howe Island  (GMT+11:00) Solomon Is., New Caledonia  (GMT+11:00) Magadan  (GMT+11:00) Norfolk Island  (GMT+12:00) Anadyr, Kamchatka  (GMT+12:00) Auckland, Wellington  (GMT+12:00) Fiji, Kamchatka, Marshall Is.  (GMT+12:45) Chatham Islands  (GMT+13:00) Nuku'alofa  (GMT+14:00) Kiritimati     
+
+   The GMT offsets shown reflect the offsets at the moment of the conference  .     
+   
+ Time Band   
+   
+ By setting a time band, the program will dim events that are outside this time window. This is useful for (virtual) conferences with a continuous program (with repeated sessions).  
+  The time band will also limit the events that are included in the personal iCalendar subscription service.   Display full program    Specify a time band   -      
+
+  Save    
+
+  Close    
+
+ ×    You're viewing the program in a time zone which is different from your device's time zone change time zone     
+
+ Tue 20 Jun   
+  
+ Displayed time zone: Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna  change      
+
+ 09:00 - 10:30 | Session 1 COP   at Vertex WS216 
+ 09:00   
+ 15m    
+ Day opening | Welcome   COP 
+ 09:15   
+ 60m    
+ Talk | Keynote on Context-Oriented Language Engineering   COP   
+ S:  Tijs van der Storm  CWI & University of Groningen 
+ 10:15   
+ 15m    
+ Other | Discussion   COP 
+
+ 11:00 - 12:30 | Session 2 COP   at Vertex WS216 
+ 11:00   
+ 30m    
+ Talk | The Declarative Nature of Implicit Layer Activation   COP   
+ Stefan Ramson  Hasso Plattner Institute, Potsdam  , Jens Lincke  Hasso Plattner Institute  , Robert Hirschfeld  HPI 
+ 11:30   
+ 30m    
+ Talk | Push-based Reactive Layer Activation in Context-Oriented Programming   COP   
+ Tetsuo Kamina  Ritsumeikan University  , Tomoyuki Aotani  Tokyo Institute of Technology  , Hidehiko Masuhara  Tokyo Institute of Technology 
+ 12:00   
+ 30m    
+ Talk | Petri-Net Based Testing Environment for Context-Oriented Programming   COP   
+ Harumi Watanabe  Tokai University  , Nobuhiko Ogura  Tokyo City University 
+
+ 14:00 - 15:30 | Session 3 COP   at Vertex WS216 
+ 14:00   
+ 30m    
+ Talk | ContextROS: Context-Oriented Programming for the Robot Operating System   COP   
+ Yuta Saeki  Kyushu University  , Ikuta Tanigawa  Kyushu University  , Kenji Hisazumi  Kyushu University  , Akira Fukuda  Kyushu University 
+ 14:30   
+ 30m    
+ Talk | IoT Robot Simulator and Framework for Context-Oriented Programming   COP   
+ Ikuta Tanigawa  Kyushu University  , Kenji Hisazumi  Kyushu University  , Nobuhiko Ogura  Tokyo City University  , Harumi Watanabe  Tokai University  , Akira Fukuda  Kyushu University 
+ 15:00   
+ 30m    
+ Talk | Peace COrP: Learning to solve conflicts between contexts   COP   
+ Nicolás Cardozo  Universidad de los Andes  , Ivana Dusparic  Trinity College Dublin, Ireland  , Jorge H. Castro  Universidad de los Andes    
+  Media Attached   File Attached 
+
+ 16:00 - 18:00 | Session 4 COP   at Vertex WS216 
+ 16:00   
+ 2h    
+ Other | Discussion   COP 
+
+ Accepted Papers  
+  
+ Title 
+ ContextROS: Context-Oriented Programming for the Robot Operating System  COP   
+ Yuta Saeki  , Ikuta Tanigawa  , Kenji Hisazumi  , Akira Fukuda 
+ IoT Robot Simulator and Framework for Context-Oriented Programming  COP   
+ Ikuta Tanigawa  , Kenji Hisazumi  , Nobuhiko Ogura  , Harumi Watanabe  , Akira Fukuda 
+ Peace COrP: Learning to solve conflicts between contexts  COP   
+ Nicolás Cardozo  , Ivana Dusparic  , Jorge H. Castro    
+  Media Attached   File Attached 
+ Petri-Net Based Testing Environment for Context-Oriented Programming  COP   
+ Harumi Watanabe  , Nobuhiko Ogura 
+ Push-based Reactive Layer Activation in Context-Oriented Programming  COP   
+ Tetsuo Kamina  , Tomoyuki Aotani  , Hidehiko Masuhara 
+ The Declarative Nature of Implicit Layer Activation  COP   
+ Stefan Ramson  , Jens Lincke  , Robert Hirschfeld 
+
+ Call for Papers  
+  
+ Contextual information is playing an ever-increasing role in our information-centric world. Current-day software systems need to adapt continuously to changing execution and usage contexts, even while they are running. Unfortunately, mainstream programming languages and development environments still do not support this level of dynamic adaptivity very well, leading developers to implement complex designs to anticipate various dimensions of variability.  
+ Context-Oriented Programming directly supports variability at the programming level, featuring dedicated programming abstractions enabling programmers to write software applications that adapt dynamically to a wide range of dynamic attributes. It enables run-time behaviour to be dispatched directly on any detected properties of the execution or user context. Since more than a decade, several researchers have been working on a variety of notions approaching that idea.  
+ Implementations ranging from first prototypes to mature platform extensions used in commercial deployments have illustrated how multidimensional dispatch can be supported effectively to achieve expressive runtime variation in behaviour. Our series of International Workshops on Context-Oriented Programming (COP) at ECOOP 2009–2016 have proven to be very successful, each attracting around 30 participants, so continuing this workshop in 2017 in the beautiful city of Barcelona is an obvious next step to advance this vibrant research domain.  
+ Topics   
+ Topics of interest to the workshop include, but are not limited to:  
+ Interesting application domains and scenarios for COP; 
+  Programming language abstractions for COP (e.g. dynamic scoping, roles, traits, prototype-based extensions); 
+  Implementation techniques and mechanisms for COP (e.g. different kinds of dynamic, contextual and multi-dimensional dispatch or pre-dispatch); 
+  Implementation issues for COP such as optimisation, VM support, JIT compilation etc.; 
+  Implemented use cases, case studies or prototypes of COP; 
+  Theoretical foundations for COP (e.g., semantics, type systems); 
+  Configuration languages (e.g. feature description interpreters, transformational approaches); 
+  Interaction between non-functional programming concerns and COP (e.g. security, persistence, concurrency, distribution); 
+  Modularisation approaches for COP (e.g. aspects, modules, layers, plugins); 
+  Guidelines to include COP in programs (e.g. best practices, patterns); 
+  Runtime support for COP (e.g. reflection, dynamic binding); 
+  Tool support (e.g. design tools, IDEs, debuggers); 
+  Support for COP at the modelling level; 
+  Beyond context-oriented behaviour adaptation (e.g., UI adaptation, DB adaptation). 
+  Submission guidelines   
+ COP invites submissions of high-quality papers reporting original research, or describing innovative contributions to, or experience with context-oriented programming, its implementation, and application. Papers that depart significantly from established ideas and practices are particularly welcome.  
+ Submissions must not have been published previously and must not be under review for any other refereed event or publication. The program committee will evaluate each contributed paper based on its relevance, significance, clarity, and originality.  
+ Papers are to be submitted via EasyChair   . They must be written in English, provided as PDF documents, and follow the new ACM Master Article Template   with the sigconf option. They should not exceed 6 pages  .  
+ Dissemination of Workshop results   
+ Accepted papers will be published in the ACM Digital Library.  
+
+ Previous Editions  
+   
+ This is the 9 th  edition of the COP workshop.  
+ In the past, context-oriented programming topics have been presented at several international venues:  
+ LASSY, the Live Adaptation of Software Systems workshop (co-located with Modularity or Programming), 
+  DLS, the Dynamic Languages Symposium (co-located with OOPSLA, ECOOP or SPLASH), 
+  the International Conference on Distributed Applications and Interoperable Systems, 
+  the International and Interdisciplinary conference on Modelling and Using Context, 
+  the Symposium on Software Variability, and 
+  the International Conferences on Self-Adaptive and Self-Organising Systems. 
+  As a confirmation of the maturity of the field, papers on Context-oriented programming have also appeared in journals:  
+ Elsevier Journal of Systems and Software, 
+  ACM Transactions on Autonomous and Adaptive Systems (TAAS), and 
+  Elsevier Science of Computer Programming. 
+  In our COP workshop series, we aim at broadening the spectrum of application fields, and the International Workshops on Context-oriented Programming we have been organizing at ECOOP since 2009-2016 have proved to be an essential step in achieving that goal successfully.  
+
+ Important Dates   AoE (UTC-12h)     
+
+ Tue 20 Jun 2017  
+  Workshop 
+ Mon 15 May 2017  
+  Notifications 
+ Thu 20 Apr 2017  
+  Paper submission 
+ Fri 14 Apr 2017  
+  Submission of title and abstract 
+
+ Organizing Committee    
+   
+ Benoît Duhoux Organizing Committee    
+ Université catholique de Louvain, Belgium   
+ Belgium 
+  Robert Hirschfeld Organizing Committee    
+ HPI   
+ Germany 
+  Atsushi Igarashi Organizing Committee    
+ Kyoto University, Japan   
+ Japan 
+  Hidehiko Masuhara Organizing Committee    
+ Tokyo Institute of Technology   
+ Japan 
+  Kim Mens Organizing Committee    
+ Université catholique de Louvain, Belgium   
+ Belgium 
+    
+ Program Committee    
+   
+ Tomoyuki Aotani    
+ Tokyo Institute of Technology 
+  Nicolás Cardozo    
+ Universidad de los Andes   
+ Colombia 
+  Walter Cazzola    
+ Università degli Studi di Milano   
+ Italy 
+  Dave Clarke    
+ Uppsala Univ. Sweden and KU Leuvern 
+  Tetsuo Kamina    
+ Ritsumeikan University   
+ Japan 
+  Jens Lincke    
+ Hasso Plattner Institute 
+  Stefan Marr    
+ Johannes Kepler University Linz   
+ Austria 
+  Harold Ossher    
+ IBM Thomas J. Watson Research Center   
+ United States 
+  Matteo Pradella    
+ Politecnico di Milano, Italy 
+  Guido Salvaneschi    
+ TU Darmstadt 
+  Lionel Seinturier    
+ University of Lille, Lille, France 
+  Matthias Springer    
+ Tokyo Institute of Technology   
+ Germany 
+  Thomas Springer 
+  Mario Südholt    
+ IMT Atlantique, Nantes, France 
+  Harumi Watanabe    
+ Tokai University   
+ Japan 
+  Tijs van der Storm    
+ CWI & University of Groningen   
+ Netherlands 
+
+ x  Wed 4 Dec 13:00    
+
+  ECOOP 2017   
+  using conf.researchr.org  ( v1.67.1  )  
+   Support page    
+     
+ Tracks  
+ ECOOP Artifacts   
+  ECOOP Invited Speakers   
+  ECOOP Research Papers   
+  ECOOP Workshops   
+  ECOOP Doctoral Symposium   
+  ECOOP Student Volunteers   
+  ECOOP Summer School    
+ Workshops  
+ COP 2017   
+  FTfJP 2017   
+  ICOOOLPS 2017   
+  IWACO 2017   
+  JSTools 2017   
+  PMLDC 2017   
+  VORTEX 2017    
+
+ Attending  
+ Venue: Universitat Politècnica de Catalunya   
+  Social Events   
+  Sponsoring   
+  Awards   
+  Registration   
+  Hotels   
+  Anti-Harassment Policy    
+
+  

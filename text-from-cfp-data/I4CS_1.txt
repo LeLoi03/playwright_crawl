@@ -1,0 +1,1607 @@
+                  
+
+ Home 
+  TNO 
+  Centre for Technical Sciences 
+  Frank Phillipson 
+
+ Frank Phillipson   
+
+ TNO  | tno  ·  Centre for Technical Sciences    
+   
+ Professor   
+
+ Contact        
+
+ Connect with experts in your field   
+ Join ResearchGate to contact this researcher and connect with your scientific community.  
+ Join for free     
+ Log in     
+
+ Contact        
+
+ Connect with experts in your field   
+ Join ResearchGate to contact this researcher and connect with your scientific community.  
+ Join for free     
+ Log in     
+
+ About    
+   
+  Publications 149     
+   
+  Network    
+
+ About   
+ 149   
+ Publications   
+   
+ 30,542   
+ Reads   How we measure 'reads'    
+ A 'read' is counted each time someone views a publication summary (such as the title, abstract, and list of authors), clicks on a figure, or views or downloads the full-text. Learn more    
+
+ 675   
+ Citations   
+
+ Introduction   
+   
+ Skills and Expertise    
+ Information and Communication Technology    
+ Network Architecture    
+ Network    
+ Networking    
+ Heuristics    
+ Algorithms    
+ Applied Mathematics    
+ Econometrics    
+ Computer Networking    
+ Models    
+
+ Publications   
+ Publications (149)   
+
+ Quantum annealing for nearest neighbour compliance problem    
+   
+ Article    
+ Full-text available    
+ Oct 2024 
+
+ Sven Müller 
+  Frank Phillipson 
+    
+ Quantum Computing has emerged as a promising alternative, utilising quantum mechanics for faster computations. This paper explores the nearest neighbour compliance (NNC) Problem in Gate-based Quantum Computers, where quantum gates are constrained to operate on physically adjacent qubits. The NNC problem aims to optimise the insertion of SWAP-gates...   
+
+ View     
+
+ Innovations for Community Services: 24th International Conference, I4CS 2024, Maastricht, The Netherlands, June 12-14, 2024, Proceedings    
+   
+ Book    
+ Full-text available    
+ Jun 2024 
+
+ Frank Phillipson 
+  Gerald Eichler 
+  Christian Erfurth 
+  Günter Fahrnberger 
+    
+ This book constitutes the refereed proceedings of the 24th International Conference on Innovations for Community Services, I4CS 2024, held in Maastricht, The Netherlands, during June 12–14, 2024. The 17 full papers and 5 short papers presented in this book were carefully reviewed and selected from 44 submissions. They cover a variety of topics, in...   
+
+ View     
+
+ Multi-Objective Portfolio Optimization Using a Quantum Annealer    
+   
+ Article    
+ Full-text available    
+ Apr 2024 
+
+ Esteban Aguilera 
+  Jins de Jong 
+  Frank Phillipson 
+  [...] 
+  Mischa Vos 
+    
+ In this study, the portfolio optimization problem is explored, using a combination of classical and quantum computing techniques. The portfolio optimization problem with specific objectives or constraints is often a quadratic optimization problem, due to the quadratic nature of, for example, risk measures. Quantum computing is a promising solution...   
+
+ View     
+
+ +8         
+
+ Enhancing model‐based acoustic localisation using quantum annealing    
+   
+ Article    
+ Full-text available    
+ Mar 2024 
+
+ Robert S. Wezeman 
+  Tariq Bontekoe 
+  Sander von Benda‐Beckmann 
+  Frank Phillipson 
+    
+ Model‐based acoustic localisation estimates the locations of underwater objects by comparing sensor measurements with model predictions. To obtain high quality predictions, propagation models need to be run for a large set of environmental parameters. However, real‐time Model‐based acoustic localisation estimations using onboard computational resou...   
+
+ View     
+
+ A Supervised Machine Learning Approach for the Vehicle Routing Problem    
+   
+ Conference Paper    
+ Jan 2024 
+
+ Sebastian Ammon 
+  Frank Phillipson 
+  Rui Almeida 
+
+ View     
+
+ +5         
+
+ Evaluating three levels of quantum metrics on quantum-inspire hardware    
+   
+ Article    
+ Full-text available    
+ Dec 2023 
+
+ Ward van der Schoot 
+  Robert S. Wezeman 
+  Pieter Eendebak 
+  [...] 
+  Frank Phillipson 
+    
+ With the rise of quantum computing, many quantum devices have been developed and many more devices are being developed as we speak. This begs the question of which device excels at which tasks and how to compare these different quantum devices with one another. The answer is given by quantum metrics, of which many exist today already. Different met...   
+
+ View     
+
+ Efficient Quantum Solution for the Constrained Tactical Capacity Problem for Distributed Electricity Generation    
+   
+ Chapter    
+ Sep 2023 
+
+ Stan G. van der Linde 
+  Ward van der Schoot 
+  Frank Phillipson 
+    
+ With the transition to sustainable energy sources and devices, the demand for and supply of energy increases ever more. With energy grids struggling to keep up with this increase, we need to ensure that supply and demand are correctly matched. The Tactical Capacity Problem tackles this issue by choosing the optimal location of sustainable power sou...   
+
+ View     
+
+ Encounter-Based Density Approximation Using Multi-step and Quantum-Inspired Random Walks    
+   
+ Chapter    
+ Sep 2023 
+
+ Robert S. Wezeman 
+  Niels Neumann 
+  Frank Phillipson 
+  Robert E. Kooij 
+    
+ In this paper we study encounter-based density estimation using different random walks and analyse the effects of the step-size on the convergence of the density approximation. Furthermore, we analyse different types of random walks, namely, a uniform random walk, with every position equally likely to be visited next, a classical random walk and a...   
+
+ View     
+
+ End-to-End Quality of Service Management in the Physical Internet: A Digital Internet Inspired Multi-domain Approach    
+   
+ Chapter    
+ Sep 2023 
+
+ Frank Phillipson 
+    
+ For the layer ‘System Level Functionality’ of the Phyisical Internet, it is needed to estimate end-to-end performance characteristics of transportations that visit multiple logistic domains. This paper proposes an approach based on a Digital Internet functionality: a combination of a Service Level Agreement registry and a Quality of Service process...   
+
+ View     
+
+ Quantum Approaches for Medoid Clustering    
+   
+ Chapter    
+ Sep 2023 
+
+ Thom Sijpesteijn 
+  Frank Phillipson 
+    
+ The \(k\)-medoids problem is an important problem in data clustering, which aims to partition a set of data points into \(k\) clusters, where each cluster is represented by a medoid, i.e., a data point that is the most centrally located in the cluster. Quantum annealing might be helpful in finding the solution to this problem faster. In this paper...   
+
+ View     
+
+ Quantum Computing in Telecommunication—A Survey    
+   
+ Article    
+ Full-text available    
+ Aug 2023 
+
+ Frank Phillipson 
+    
+ Quantum computing, an emerging paradigm based on the principles of quantum mechanics, has the potential to revolutionise various industries, including Telecommunications. This paper explores the transformative impact of quantum computing on the telecommunication market, focusing on its applications in solving computationally intensive problems. By...   
+
+ View     
+
+ A Polynomial Size Model with Implicit SWAP Gate Counting for Exact Qubit Reordering    
+   
+ Chapter    
+ Jun 2023 
+
+ J. Mulderij 
+  Karen Aardal 
+  Irina Chiscop 
+  Frank Phillipson 
+    
+ Due to the physics behind quantum computing, quantum circuit designers must adhere to the constraints posed by the limited interaction distance of qubits. Existing circuits need therefore to be modified via the insertion of SWAP gates, which alter the qubit order by interchanging the location of two qubits’ quantum states. We consider the Nearest N...   
+
+ View     
+
+ Classification of Hybrid Quantum-Classical Computing    
+   
+ Chapter    
+ Jun 2023 
+
+ Frank Phillipson 
+  Niels Neumann 
+  Robert S. Wezeman 
+    
+ As quantum computers mature, the applicability in practice becomes more important. Quantum computers will often be used in a hybrid setting, where classical computers still play an important role in operating and using the quantum computer. However the term hybrid is diffuse and multi-interpretable. In this work we define two classes of hybrid quan...   
+
+ View     
+
+ Translating Constraints into QUBOs for the Quadratic Knapsack Problem    
+   
+ Chapter    
+ Jun 2023 
+
+ Tariq Bontekoe 
+  Frank Phillipson 
+  Ward van der Schoot 
+    
+ One of the first fields where quantum computing will likely show its use is optimisation. Many optimisation problems naturally arise in a quadratic manner, such as the quadratic knapsack problem. The current state of quantum computers requires these problems to be formulated as a quadratic unconstrained binary optimisation problem, or QUBO. Constra...   
+
+ View     
+
+ +1         
+
+ Finding Debt Cycles: QUBO Formulations for the Maximum Weighted Cycle Problem Solved Using Quantum Annealing    
+   
+ Article    
+ Full-text available    
+ Jun 2023 
+
+ Hendrik Künnemann 
+  Frank Phillipson 
+    
+ The problem of finding the maximum weighted cycle in a directed graph map to solve optimization problems is NP-hard, implying that approaches in classical computing are inefficient. Here, Quantum computing might be a promising alternative. Many current approaches to the quantum computer are based on a Quadratic Unconstrained Binary Optimization (QU...   
+
+ View     
+
+ +4         
+
+ Quantum reinforcement learning    
+   
+ Article    
+ Full-text available    
+ Feb 2023 
+
+ Niels Neumann 
+  Paolo B. U. L. de Heer 
+  Frank Phillipson 
+    
+ In this paper, we present implementations of an annealing-based and a gate-based quantum computing approach for finding the optimal policy to traverse a grid and compare them to a classical deep reinforcement learning approach. We extended these three approaches by allowing for stochastic actions instead of deterministic actions and by introducing...   
+
+ View     
+
+ +1         
+
+ Q-score Max-Clique: The First Quantum Metric Evaluation on Multiple Computational Paradigms    
+   
+ Preprint    
+ Full-text available    
+ Feb 2023 
+
+ Ward van der Schoot 
+  Robert S. Wezeman 
+  Niels Neumann 
+  [...] 
+  Rob Kooij 
+    
+ Evaluating the performance of quantum devices is an important step towards scaling quantum devices and eventually using them in practice. The great number of available quantum metrics and the different hardware technologies used to develop quantum computers complicate this evaluation. In addition, different computational paradigms implement quantum...   
+
+ View     
+
+ Power Network Optimization: A Quantum Approach    
+   
+ Article    
+ Full-text available    
+ Jan 2023 
+
+ Giuseppe Colucci 
+  Stan van der Linde 
+  Frank Phillipson 
+    
+ Optimization of electricity surplus is a crucial element for transmission power networks since it leads to reducing costs as well as increasing efficiency across the network as a whole. In this paper, we show how to optimize such network costs using a quantum annealing approach. First, we define the Quadratic Unconstrained Binary Optimization (QUBO...   
+
+ View     
+
+ Power network optimization: a quantum approach    
+   
+ Preprint    
+ Full-text available    
+ Dec 2022 
+
+ Giuseppe Colucci 
+  Stan van der Linde 
+  Frank Phillipson 
+    
+ Optimization of electricity surplus is a crucial element for transmission power networks to reduce costs and efficiently use the available electricity across the network. In this paper we showed how to optimize such a network with quantum annealing. First, we define the QUBO problem for the partitioning of the network, and test the implementation o...   
+
+ View     
+
+ Quantum computer-assisted global optimization in geophysics illustrated with stack power maximization for refraction residual statics estimation    
+   
+ Article    
+ Nov 2022 
+
+ Marcin Dukalski 
+  Diego Rovetta 
+  Stan van der Linde 
+  [...] 
+  Frank Phillipson 
+    
+ Much of recent progress in geophysics can be attributed to the adaptation of heterogeneous high-performance computing architectures. It is projected that the next major leap in many areas of science, and hence hopefully in geophysics too, will be due to the emergence of quantum computers. Finding a right combination of hardware, algorithms and a us...   
+
+ View     
+
+ Classification of Hybrid Quantum-Classical Computing    
+   
+ Preprint    
+ Full-text available    
+ Oct 2022 
+
+ Frank Phillipson 
+  Niels Neumann 
+  Robert S. Wezeman 
+    
+ As quantum computers mature, the applicability in practice becomes more important. Many uses of quantum computers will be hybrid, with classical computers still playing an important role in operating and using the quantum computer. The term hybrid is however diffuse and multi-interpretable. In this work we define two classes of hybrid quantum-class...   
+
+ View     
+
+ Two-Step Approach for the Multi-Objective Container Assignment Problem with Barge Scheduling    
+   
+ Chapter    
+ Oct 2022 
+
+ Frank Phillipson 
+    
+ In this chapter we look at the problem of an LSP controlling the means of transport and responsible for the assignment of orders to these means. Here the demand, i.e., the arrival of orders, is uncertain until the moment of unveiling. The problem we consider falls in the fourth quadrant of Fig. 1.2. The combination of uncertainty or stochasticity a...   
+
+ View     
+
+ Categorisations of Optimisation Problems in Synchromodal Logistics    
+   
+ Chapter    
+ Oct 2022 
+
+ Frank Phillipson 
+    
+ In this chapter, a view is given on optimisation of synchromodal transportation. For this, a framework is presented to distinguish four quadrants, based on local or global information available, combined with a local or global optimisation goal. We discuss how shifts can be made in this framework and how self-organisation can play a role in it. Nex...   
+
+ View     
+
+ Optimising and Recognising 2-Stage Delivery Chains with Time Windows    
+   
+ Chapter    
+ Oct 2022 
+
+ Frank Phillipson 
+    
+ In logistic delivery chains time windows are common. An arrival has to be in a certain time interval, at the expense of waiting time or penalties if the time limits are exceeded. This chapter looks at the optimal placement of those time intervals in a specific case of a barge visiting two ports in sequence. For the second port a possible delay or p...   
+
+ View     
+
+ +1         
+
+ Evaluating the Q-score of Quantum Annealers    
+   
+ Preprint    
+ Full-text available    
+ Aug 2022 
+
+ Ward van der Schoot 
+  Daan Leermakers 
+  Robert S. Wezeman 
+  [...] 
+  Frank Phillipson 
+    
+ We report the Atos Q-score for D-Wave's quantum devices, classical algorithms and hybrid quantum-classical solver. Computing the Q-score entails solving the Max-Cut problem for increasingly large graphs. This work presents the first computation of the Q-score on a quantum device and shows how these quantum devices compare to classical devices at so...   
+
+ View     
+
+ Evaluating the Q-score of Quantum Annealers    
+   
+ Conference Paper    
+ Full-text available    
+ Jul 2022 
+
+ Ward van der Schoot 
+  Daan Leermakers 
+  Robert S. Wezeman 
+  [...] 
+  Frank Phillipson 
+    
+ We report the Atos Q-score for D-Wave’s quantum devices, classical algorithms and hybrid quantum-classical solver. Computing the Q-score entails solving the Max-Cut problem for increasingly large graphs. This work presents the first computation of the Q-score on a quantum device and shows how these quantum devices compare to classical devices at so...   
+
+ View     
+
+ Innovations for Community Services: 22nd International Conference, I4CS 2022, Delft, Netherlands, June 13-15, 2022, Proceedings    
+   
+ Book    
+ Full-text available    
+ Jun 2022 
+
+ Frank Phillipson 
+  Gerald Eichler 
+  Christian Erfurth 
+  Günter Fahrnberger 
+    
+ This book constitutes the refereed proceedings of the 22nd International Conference on Innovations for Community Services, I4CS 2022, held in Delft, The Netherlands, in June 2022. The 15 full papers and 5 short papers presented in this volume were carefully reviewed and selected from 43 submissions. Three invited papers were also included in the v...   
+
+ View     
+
+ A Multi Service Capacitated Facility Location Problem with Stochastic Demand    
+   
+ Chapter    
+ Jun 2022 
+
+ L. J. Kim 
+  Frank Phillipson 
+  Robert S. Wezeman 
+    
+ This paper considers the problem of identifying optimal locations for wireless service installations in smart cities. The problem is modelled as a facility location problem with multiple service types, known as the Multi Service Facility Location Problem (MSCFLP). Given a set of potential facility locations and demand point data, the goal is to ide...   
+
+ View     
+
+ +3         
+
+ Searching for Optimisation    
+   
+ Article    
+ Full-text available    
+ May 2022 
+
+ Frank Phillipson 
+    
+ Operations Research (OR) can be defined as a scientific approach to the solution of problems in the management of complex systems. It uses quantitative methods to help decision makers design, analyse, and improve the performance or operation of these systems. An important part of this, is defining and solving optimisation problems. One can only be...   
+
+ View     
+
+ Residual Statics Estimation with Quantum Annealing    
+   
+ Conference Paper    
+ Jan 2022 
+
+ S. Van der Linde 
+  M. Dukalski 
+  Matthias Möller 
+  [...] 
+  Diego Rovetta 
+
+ View     
+
+ A Quantum Approach for Tactical Capacity Management of Distributed Electricity Generation    
+   
+ Chapter    
+ Jan 2022 
+
+ Frank Phillipson 
+  Irina Chiscop 
+    
+ Matching electricity demand and supply by decentralised generators will be very important in the near future, where more and more electricity has to be produced sustainably. Optimisation problems that address this problem often have quadratic objective functions or constraints, due to the quadratic nature of energy loss. Where classical solvers str...   
+
+ View     
+
+ HPC01 - Hybrid Classical-Quantum Computing in Geophysical Inverse Problems: The Case of Quantum Annealing for Residual Statics Estimation    
+   
+ Conference Paper    
+ Jan 2022 
+
+ S.G. Van der Linde 
+  M. Dukalski 
+  Matthias Möller 
+  [...] 
+  Diego Rovetta 
+
+ View     
+
+ Finding Debt Cycles: Qubo Formulations for the Maximum Weighted Cycle Problem Solved Using Quantum Annealing    
+   
+ Article    
+ Jan 2022 
+
+ Hendrik Künnemann 
+  Frank Phillipson 
+
+ View     
+
+ +5         
+
+ Alternative Initial Probability Tables for Elicitation of Bayesian Belief Networks    
+   
+ Article    
+ Full-text available    
+ Jul 2021 
+
+ Frank Phillipson 
+  Peter Langenkamp 
+  Reinder Wolthuis 
+    
+ Bayesian Belief Networks are used in many fields of application. Defining the conditional dependencies via conditional probability tables requires the elicitation of expert belief to fill these tables, which grow very large quickly. In this work, we propose two methods to prepare these tables based on a low number of input parameters using specific...   
+
+ View     
+
+ Portfolio Optimisation Using the D-Wave Quantum Annealer    
+   
+ Chapter    
+ Jun 2021 
+
+ Frank Phillipson 
+  Harshil Bhatia 
+    
+ The first quantum computers are expected to perform well on quadratic optimisation problems. In this paper a quadratic problem in finance is taken, the Portfolio Optimisation problem. Here, a set of assets is chosen for investment, such that the total risk is minimised, a minimum return is realised and a budget constraint is met. This problem is so...   
+
+ View     
+
+ Performance Analysis of Support Vector Machine Implementations on the D-Wave Quantum Annealer    
+   
+ Chapter    
+ Jun 2021 
+
+ Harshil Bhatia 
+  Frank Phillipson 
+    
+ In this paper a classical classification model, Kernel-Support Vector machine, is implemented as a Quadratic Unconstrained Binary Optimisation problem. Here, data points are classified by a separating hyperplane while maximizing the function margin. The problem is solved for a public Banknote Authentication dataset and the well-known Iris Dataset u...   
+
+ View     
+
+ Multimodal Container Planning: A QUBO Formulation and Implementation on a Quantum Annealer    
+   
+ Chapter    
+ Jun 2021 
+
+ Frank Phillipson 
+  Irina Chiscop 
+    
+ Quantum computing is developing fast. Real world applications are within reach in the coming years. One of the most promising areas is combinatorial optimisation, where the Quadratic Unconstrained Binary Optimisation (QUBO) problem formulation is used to get good approximate solutions. Both the universal quantum computer as well as the quantum anne...   
+
+ View     
+
+ +7         
+
+ Indoor–Outdoor Detection in Mobile Networks Using Quantum Machine Learning Approaches    
+   
+ Article    
+ Full-text available    
+ May 2021 
+
+ Frank Phillipson 
+  Robert S. Wezeman 
+  Irina Chiscop 
+    
+ Communication networks are managed more and more by using artificial intelligence. Anomaly detection, network monitoring and user behaviour are areas where machine learning offers advantages over more traditional methods. However, computer power is increasingly becoming a limiting factor in machine learning tasks. The rise of quantum computers may...   
+
+ View     
+
+ Energy Storage Scheduling: A QUBO Formulation for Quantum Computing    
+   
+ Chapter    
+ Full-text available    
+ May 2021 
+
+ Frank Phillipson 
+  Tariq Bontekoe 
+  Irina Chiscop 
+    
+ Energy storage systems and home energy management and control systems will play an important role in reaching the Paris Agreement on climate change. Underlying scheduling mechanisms will lead to a computational burden when the size of the systems and the size of the control space increase. One, upcoming alternative to overcome this computational bu...   
+
+ View     
+
+ FttX Deployment Using Available Networks and Existing Infrastructures    
+   
+ Chapter    
+ May 2021 
+
+ Niels Neumann 
+  Frank Phillipson 
+    
+ In Fibre-to-the-X, fibre is used to connect new active optic equipment at a certain location. In most cases, a connection to an existing network is required. Costs can be saved by using existing infrastructure, like empty ducts and spare fibres. Often, restrictions are given by municipalities to only use certain tracks or to only follow street patt...   
+
+ View     
+
+ Quantum Computing for Military Applications    
+   
+ Conference Paper    
+ May 2021 
+
+ Niels Neumann 
+  Maran P. P. van Heesch 
+  Frank Phillipson 
+  Antoine Smallegange 
+
+ View     
+
+ Performance Analysis of Support Vector Machine Implementations on the D-Wave Quantum Annealer    
+   
+ Conference Paper    
+ Mar 2021 
+
+ Harshil Bhatia 
+  Frank Phillipson 
+    
+ In this paper a classical classification model, Kernel-Support Vector machine, is implemented as a Quadratic Unconstrained Binary Optimisation problem. Here, data points are classified by a separating hyperplane while maximizing the function margin. The problem is solved for a public Banknote Authentication dataset and the well-known Iris Dataset u...   
+
+ View     
+
+ Energy Storage Scheduling: a QUBO Formulation for Quantum Computing    
+   
+ Conference Paper    
+ Mar 2021 
+
+ Frank Phillipson 
+  Tariq Bontekoe 
+  Irina Chiscop 
+    
+ Energy storage systems and home energy management and control systems will play an important role in reaching the Paris Agreement on climate change. Underlying scheduling mechanisms will lead to a computational burden when the size of the systems and the size of the control space increase. One, upcoming alternative to overcome this computational bu...   
+
+ View     
+
+ Three Quantum Machine Learning Approaches for Mobile User Indoor-Outdoor Detection    
+   
+ Chapter    
+ Mar 2021 
+
+ Frank Phillipson 
+  Robert S. Wezeman 
+  Irina Chiscop 
+    
+ There is a growing trend in using machine learning techniques for detecting environmental context in communication networks. Machine learning is one of the promising candidate areas where quantum computing can show a quantum advantage over their classical algorithmic counterpart on near term Noisy Intermediate-Scale Quantum (NISQ) devices. The goal...   
+
+ View     
+
+ End-to-End Quality of Service Management in the Physical Internet: a Digital Internet Inspired Multi-Domain Approach    
+   
+ Preprint    
+ Full-text available    
+ Feb 2021 
+
+ Frank Phillipson 
+    
+ For the layer 'System Level Functionality' of the Phyisical Internet, it is needed to estimate end-to-end performance characteristics of transportations that visit multiple logistic domains. This paper proposes an approach based on a Digital Internet functionality: a combination of a Service Level Agreement registry and a Quality of Service process...   
+
+ View     
+
+ Flexibility in Home Delivery by Enabling Time Window Changes    
+   
+ Conference Paper    
+ Jan 2021 
+
+ Frank Phillipson 
+  Elisah van Kempen 
+
+ View     
+
+ Flexibility in Home Delivery by Enabling Time Window Changes    
+   
+ Conference Paper    
+ Dec 2020 
+
+ Frank Phillipson 
+  Elisah van Kempen 
+    
+ To enhance the perceived quality of home delivery services more and more flexibility is offered to the receivers. Enabling same-day delivery, communicating predefined narrow time windows, choosing the time windows and alternative address delivery add to the receiver's experience, making the delivery company an interesting partner for parcel-shippin...   
+
+ View     
+
+ A framework for quantifying cyber security risks    
+   
+ Article    
+ Full-text available    
+ Dec 2020 
+
+ Reinder Wolthuis 
+  Frank Phillipson 
+  Hidde-Jan Jongsma 
+  Peter Langenkamp 
+    
+ Recent years have seen an increasing amount of information becoming available which is of benefit to the security risk process. Traditionally, security risk management is an asset-based, qualitative process based on expert opinion and information at hand; periodically a group of experts assesses applicable risks and determines correct risk levels a...   
+
+ View     
+
+ Portfolio Optimisation Using the D-Wave Quantum Annealer    
+   
+ Preprint    
+ Nov 2020 
+
+ Frank Phillipson 
+  Harshil Bhatia 
+    
+ The first quantum computers are expected to perform well at quadratic optimisation problems. In this paper a quadratic problem in finance is taken, the Portfolio Optimisation problem. Here, a set of assets is chosen for investment, such that the total risk is minimised, a minimum return is realised and a budget constraint is met. This problem is so...   
+
+ View     
+
+ Three Quantum Machine Learning Approaches for Mobile User Indoor-Outdoor Detection    
+   
+ Conference Paper    
+ Oct 2020 
+
+ Frank Phillipson 
+  Robert S. Wezeman 
+  Irina Chiscop 
+    
+ There is a growing trend in using machine learning techniques for detecting environmental context in communication networks. Machine learning is one of the promising candidate areas where quantum computing can show a quantum advantage over their classical al-gorithmic counterpart on near term Noisy Intermediate-Scale Quantum (NISQ) devices. The goa...   
+
+ View     
+
+ A polynomial size model with implicit SWAP gate counting for exact qubit reordering    
+   
+ Preprint    
+ Full-text available    
+ Sep 2020 
+
+ Jesse Mulderij 
+  Karen Aardal 
+  Irina Chiscop 
+  Frank Phillipson 
+    
+ Due to the physics behind quantum computing, quantum circuit designers must adhere to the constraints posed by the limited interaction distance of qubits. Existing circuits need therefore to be modified via the insertion of SWAP gates, which alter the qubit order by interchanging the location of two qubits' quantum states. We consider the Nearest N...   
+
+ View     
+
+ Simulation Approach for Container Assignment Under Uncertainty    
+   
+ Chapter    
+ Sep 2020 
+
+ Wouter J. de Koning 
+  Frank Phillipson 
+  Irina Chiscop 
+    
+ In this paper an online optimisation approach is proposed which can be used to find an appropriate combined schedule and container assignment in a Network Design Problem under uncertainty. For this, a simulation based approach on a multi-period time window is proposed, moving forward on the time window after each decision made, assuming that the st...   
+
+ View     
+
+ Dynamic Assignment Vehicle Routing Problem with Time Windows    
+   
+ Chapter    
+ Sep 2020 
+
+ Kim J. Los 
+  Frank Phillipson 
+  Elisah van Kempen 
+  [...] 
+  Uilke Stelwagen 
+    
+ Offering time windows to receivers of last-mile delivery is becoming a distinguishing factor. However, we see that in practice carriers have to create routes for their vehicles based on destination information, that is just being revealed when a parcel arrives in the depot. The parcel has to be assigned directly to a vehicle, making this a Dynamic...   
+
+ View     
+
+ Fair User Equilibrium in a Transportation Space-Time Network    
+   
+ Chapter    
+ Sep 2020 
+
+ Lianne Bruijns 
+  Frank Phillipson 
+  Alex Sangers 
+    
+ Central in this paper is a transportation network, in which containers are transported for multiple agents. This network is modelled by a Space Time Network, in which the travel time of modalities is fixed and independent of the occupancy of the network. To find the best allocation of containers to paths in this network, a flow problem can be solve...   
+
+ View     
+
+ Cutting Planes for Solving Logistic Flow Problems    
+   
+ Chapter    
+ Sep 2020 
+
+ Kishan Kalicharan 
+  Frank Phillipson 
+  Alex Sangers 
+    
+ In logistic problems, an Integral Multi-Commodity Network Design Problem on a time-space network is often used to model the problem of routing transportation means and assigning freight units to those means. In Physical Internet and Synchromodal networks an interactive planning approach is preferable, meaning that calculation times of a single plan...   
+
+ View     
+
+ Simulation Approach for Container Assignment under Uncertainty    
+   
+ Conference Paper    
+ Aug 2020 
+
+ W J De Koning 
+  Frank Phillipson 
+  Irina Chiscop 
+    
+ In this paper an online optimisation approach is proposed which can be used to find an appropriate combined schedule and container assignment in a Network Design Problem under uncertainty. For this, a simulation based approach on a multi-period time window is proposed , moving forward on the time window after each decision made, assuming that the s...   
+
+ View     
+
+ Cutting Planes for Solving Logistic Flow Problems    
+   
+ Conference Paper    
+ Aug 2020 
+
+ Kavisha Kalicharan 
+  Frank Phillipson 
+  Alex Sangers 
+    
+ In logistic problems, an Integral Multi-Commodity Network Design Problem on a time-space network is often used to model the problem of routing transportation means and assigning freight units to those means. In Physical Internet and Synchromodal networks an interactive planning approach is preferable, meaning that calculation times of a single plan...   
+
+ View     
+
+ Dynamic Assignment Vehicle Routing Problem with Time Windows    
+   
+ Conference Paper    
+ Aug 2020 
+
+ K J Los 
+  Frank Phillipson 
+  Elisah van Kempen 
+  [...] 
+  Uilke Stelwagen 
+    
+ Offering time windows to receivers of last-mile delivery is becoming a distinguishing factor. However, we see that in practice carriers have to create routes for their vehicles based on destination information, that is just being revealed when a parcel arrives in the depot. The parcel has to be assigned directly to a vehicle, making this a Dynamic...   
+
+ View     
+
+ Fair User Equilibrium in a Transportation Space-Time Network    
+   
+ Conference Paper    
+ Aug 2020 
+
+ Lianne Bruijns 
+  Frank Phillipson 
+  Alex Sangers 
+    
+ Central in this paper is a transportation network, in which containers are transported for multiple agents. This network is modelled by a Space Time Network, in which the travel time of modalities is fixed and independent of the occupancy of the network. To find the best allocation of containers to paths in this network, a flow problem can be solve...   
+
+ View     
+
+ Multimodal Container Planning: a QUBO Formulation and Implementation on a Quantum Annealer    
+   
+ Preprint    
+ Jul 2020 
+
+ Frank Phillipson 
+  Irina Chiscop 
+    
+ Quantum computing is developing fast. Real world applications are within reach in the coming years. One of the most promising areas is combinatorial optimisation, where the Quadratic Unconstrained Binary Optimisation (QUBO) problem formulation is used to get good approximate solutions. Both the universal quantum computer as the quantum annealer can...   
+
+ View     
+
+ Quantum Hopfield Neural Networks: A New Approach and Its Storage Capacity    
+   
+ Chapter    
+ Jun 2020 
+
+ Nicholas Meinhardt 
+  Niels Neumann 
+  Frank Phillipson 
+    
+ At the interface between quantum computing and machine learning, the field of quantum machine learning aims to improve classical machine learning algorithms with the help of quantum computers. Examples are Hopfield neural networks, which can store patterns and thereby are used as associative memory. However, the storage capacity of such classical n...   
+
+ View     
+
+ Multi-agent Reinforcement Learning Using Simulated Quantum Annealing    
+   
+ Conference Paper    
+ Full-text available    
+ Jun 2020 
+
+ Niels Neumann 
+  Paolo B U L De Heer 
+  Irina Chiscop 
+  Frank Phillipson 
+    
+ With quantum computers still under heavy development, already numerous quantum machine learning algorithms have been proposed for both gate-based quantum computers and quantum annealers. Recently, a quantum annealing version of a reinforcement learning algorithm for grid-traversal using one agent was published. We extend this work based on quantum...   
+
+ View     
+
+ Hybrid Helmholtz machines: a gate-based quantum circuit implementation    
+   
+ Article    
+ Full-text available    
+ Apr 2020 
+
+ Teresa J. van Dam 
+  Niels Neumann 
+  Frank Phillipson 
+  Hans van den Berg 
+    
+ Quantum machine learning has the potential to overcome problems that current classical machine learning algorithms face, such as large data requirements or long learning times. Sampling is one of the aspects of classical machine learning that might benefit from quantum machine learning, as quantum computers intrinsically excel at sampling. Current...   
+
+ View     
+
+ The Talavera Manifesto for Quantum Software Engineering and Programming    
+   
+ Conference Paper    
+ Full-text available    
+ Apr 2020 
+
+ Mario Piattini 
+  Guido Peterssen Nodarse 
+  Ricardo Pérez-Castillo 
+  [...] 
+  Moisés Rodríguez 
+    
+ This paper presents the Talavera Manifesto for quantum software engineering and programming. This manifesto collects some principles and commitments about the quantum software engineering and programming field, as well as some calls for action. This is the result of the discussion and different viewpoints of academia and industry practitioners who...   
+
+ View     
+
+ The Talavera Manifesto for Quantum Software Engineering and Programming    
+   
+ Conference Paper    
+ Full-text available    
+ Apr 2020 
+
+ Mario Piattini 
+  Claudio Andrés Paradela 
+  Frank Phillipson 
+  [...] 
+  Guido Peterssen Nodarse 
+    
+ This paper presents the Talavera Manifesto for quantum software engineering and programming. This manifesto collects some principles and commitments about the quantum software engineering and programming field, as well as some calls for action. This is the result of the discussion and different viewpoints of academia and industry practitioners who...   
+
+ View     
+
+ The Talavera Manifesto for Quantum Software Engineering and Programming    
+   
+ Conference Paper    
+ Full-text available    
+ Mar 2020 
+
+ Mario Piattini 
+  Guido Peterssen Nodarse 
+  Frank Phillipson 
+    
+ This paper presents the Talavera Manifesto for quantum software engineering and programming. This manifesto collects some principles and commitments about the quantum software engineering and programming field, as well as some calls for action. This is the result of the discussion and different viewpoints of academia and industry practitioners who...   
+
+ View     
+
+ Quantum Machine Learning: Benefits and Practical Example    
+   
+ Conference Paper    
+ Full-text available    
+ Mar 2020 
+
+ Frank Phillipson 
+    
+ A quantum computer that is useful in practice, is expected to be developed in the next few years. An important application is expected to be machine learning, where benefits are expected on run time, capacity and learning efficiency. In this paper, these benefits are presented and for each benefit an example application is presented. A quantum hybr...   
+
+ View     
+
+ Quantum Hopfield neural networks: A new approach and its storage capacity    
+   
+ Conference Paper    
+ Full-text available    
+ Mar 2020 
+
+ Nicholas Meinhardt 
+  Niels Neumann 
+  Frank Phillipson 
+    
+ At the interface between quantum computing and machine learning, the field of quantum machine learning aims to improve classical machine learning algorithms with the help of quantum computers. Examples are Hopfield neural networks, which can store patterns and thereby are used as associative memory. However, the storage capacity of such classical n...   
+
+ View     
+
+ +1         
+
+ A Hybrid Solution Method for the Multi-Service Location Set Covering Problem    
+   
+ Conference Paper    
+ Full-text available    
+ Mar 2020 
+
+ Irina Chiscop 
+  Jelle C Nauta 
+  Bert Veerman 
+  Frank Phillipson 
+    
+ The Multi-Service Location Set Covering Problem is an extension of the well-known Set Covering problem. It arises in practical application where a set of physical locations need to be equipped with services to satisfy demands within a certain area, while minimizing costs. In this paper we formulate the problem as a QUBO, apply the hybrid framework...   
+
+ View     
+
+ +6         
+
+ Mathematical formulation of quantum circuit design problems in networks of quantum computers    
+   
+ Article    
+ Full-text available    
+ Mar 2020 
+
+ R. van Houte 
+  J. Mulderij 
+  Thomas Attema 
+  [...] 
+  Frank Phillipson 
+    
+ In quantum circuit design, the question arises how to distribute qubits, used in algorithms, over the various quantum computers, and how to order them within a quantum computer. In order to evaluate these problems, we define the global and local reordering problems for distributed quantum computing. We formalise the mathematical problems and model...   
+
+ View     
+
+ The Talavera Manifesto for Quantum Software Engineering and Programming    
+   
+ Research Proposal    
+ Full-text available    
+ Mar 2020 
+
+ Mario Piattini 
+  Guido Peterssen Nodarse 
+  Ricardo Pérez-Castillo 
+  [...] 
+  Moisés Rodríguez 
+    
+ This paper presents the Talavera Manifesto for quantum software engineering and programming. This manifesto collects some principles and commitments about the quantum software engineering and programming field, as well as some calls for action. This is the result of the discussion and different viewpoints of academia and industry practitioners who...   
+
+ View     
+
+ Immediate Parcel to Vehicle Assignment in Cross Docking    
+   
+ Conference Paper    
+ Feb 2020 
+
+ Frank Phillipson 
+  Sarah de Koff 
+    
+ In this paper we present the Dynamic Assignment Vehicle Routing Problem. This problem arises in parcel to vehicle assignment where the destination of the parcels is not known up to the assignment of the parcel to a delivering vehicle. The assignment has to be done immediately without the possibility of re-assignment afterwards. The problem is defin...   
+
+ View     
+
+ A Classification Framework for Time Stamp Stochastic Assignment Problems    
+   
+ Conference Paper    
+ Feb 2020 
+
+ Kees Kooiman 
+  Frank Phillipson 
+  Alex Sangers 
+    
+ In this paper Time stamp Stochastic Assignment Problems are studied. These problems occur on places where an incoming request or task has to be connected to a resource immediately. A definition and framework for these problems is given in which the different Time stamp Stochastic Assignment Problems can be categorised. An explicit notation is intro...   
+
+ View     
+
+ Dynamic Assignment Vehicle Routing Problem with Generalised Capacity and Unknown Workload    
+   
+ Conference Paper    
+ Feb 2020 
+
+ Frank Phillipson 
+  sarah de koff 
+  Christian van Ommeren 
+  Hans Quak 
+    
+ In this paper we present a modification to the Dynamic Assignment Vehicle Routing Problem. This problem arises in parcel to vehicle assignment where the destination of the parcels is not known up to the assignment of the parcel to a delivering route. The assignment has to be done immediately without the possibility of re-assignment afterwards. We e...   
+
+ View     
+
+ The Talavera Manifesto The Talavera Manifesto for Quantum Software Engineering and Programming Session 1: Quantum Programming Foundations Quantum Technology Impact: The Necessary Workforce for Developing Quantum Software    
+   
+ Conference Paper    
+ Full-text available    
+ Feb 2020 
+
+ Mario Piattini 
+  Guido Peterssen Nodarse 
+  Ricardo Pérez-Castillo 
+  [...] 
+  Moisés Rodríguez 
+
+ View     
+
+ Implementation of a Variational Quantum Circuit for Machine Learning with Compact Data Representation    
+   
+ Article    
+ Jan 2020 
+
+ Nicholas Meinhardt 
+  Bastiaan Dekker 
+  Niels Neumann 
+  Frank Phillipson 
+
+ View     
+
+ Distance-based classifier on the Quantum Inspire    
+   
+ Article    
+ Full-text available    
+ Jan 2020 
+
+ Robert S. Wezeman 
+  Niels Neumann 
+  Frank Phillipson 
+
+ View     
+
+ Immediate Parcel to Vehicle Assignment for Cross Docking in City Logistics: A Dynamic Assignment Vehicle Routing Problem    
+   
+ Conference Paper    
+ Jan 2020 
+
+ Frank Phillipson 
+  S. E. de Koff 
+
+ View     
+
+ Implementation of a Variational Quantum Circuit for Machine Learning with Compact Data Representation    
+   
+ Conference Paper    
+ Nov 2019 
+
+ N. Meinhardt 
+  Bastiaan Dekker 
+  Niels Neumann 
+  Frank Phillipson 
+    
+ Machine learning is already used to solve numerous problems and is growing in importance every day. Computer processing power needed to train machine learning models grows faster than the available processing power itself. Quantum computers may be able to improve the performance of machine learning algorithms by exploiting the power of quantum mech...   
+
+ View     
+
+ Distance-based classifier on the Quantum Inspire    
+   
+ Conference Paper    
+ Nov 2019 
+
+ Robert S. Wezeman 
+  Niels Neumann 
+  Frank Phillipson 
+    
+ With quantum computers entering a new phase of maturity and quantum algorithms covering a growing range of applications, it is important that the two meet at some point in the middle. Currently, the two meet only by toy-problem implementations for some algorithms. In this work, we extend a recently proposed distance-based classifier and give explic...   
+
+ View     
+
+ Quantum implementation of the Shor-code on multiple simulator platforms    
+   
+ Conference Paper    
+ Sep 2019 
+
+ Niels Neumann 
+  Jelle C Nauta 
+  Frank Phillipson 
+
+ View     
+
+ Prune Sampling: a MCMC inference technique for discrete and deterministic Bayesian networks    
+   
+ Preprint    
+ Full-text available    
+ Aug 2019 
+
+ Frank Phillipson 
+  Jurriaan Parie 
+  Ron Weikamp 
+    
+ We introduce and characterise the performance of the Markov chain Monte Carlo (MCMC) inference method Prune Sampling for discrete and deterministic Bayesian networks (BNs). We developed a procedure to obtain the performance of a MCMC sampling method in the limit of infinite simulation time, extrapolated from relatively short simulations. This appro...   
+
+ View     
+
+ Prune Sampling: a MCMC inference technique for discrete and deterministic Bayesian networks    
+   
+ Preprint    
+ Full-text available    
+ Aug 2019 
+
+ Frank Phillipson 
+  Jurriaan Parie 
+  Ron Weikamp 
+    
+ We introduce and characterise the performance of the Markov chain Monte Carlo (MCMC) inference method Prune Sampling for discrete and deterministic Bayesian networks (BNs). We developed a procedure to obtain the performance of a MCMC sampling method in the limit of infinite simulation time, extrapolated from relatively short simulations. This appro...   
+
+ View     
+
+ Quantifying Cyber security Risks    
+   
+ Chapter    
+ Full-text available    
+ Aug 2019 
+
+ Reinder Wolthuis 
+  Frank Phillipson 
+    
+ For financial service providers (but also for companies in many other sectors), it is important to understand their risks. Many business decisions are based on estimations of risk and in the financial sector, risk management is one of the key processes in the day-to-day business. Until recently this risk management was mainly focused on financial r...   
+
+ View     
+
+ Self-organization in parcel distribution – SOLiD’s first results    
+   
+ Conference Paper    
+ Jul 2019 
+
+ Hans Quak 
+  Elisah van Kempen 
+  Bernd van Dijk 
+  Frank Phillipson 
+    
+ To bridge the gap between the long(er) term Physical Internet vision and the short term daily logistics operations, the Dutch Topsector Logistics (TKI Dinalog and NWO) requested a research project that would provide an impulse for self-organizing logistics. This contribution discusses the development of the research project SOLiD, Self-Organizing L...   
+
+ View     
+
+ Multi-Service Capacitated Facility Location Problem with Partial Covering in Smart Cities    
+   
+ Conference Paper    
+ Jun 2019 
+
+ Gerbrich Hoekstra 
+  Frank Phillipson 
+    
+ We consider the problem of distributing various services over urban areas. In this work we introduce the Multi-Service Capacitated Facility Location Problem with Partial Covering (MSCFLP-PC), which extends the MSCFLP by allowing for partial satisfaction of demand, where a penalty has to be paid for the uncovered demand. We present some practical re...   
+
+ View     
+
+ Multi Service Modular Capacitated Facility Location Problem for Smart Cities    
+   
+ Conference Paper    
+ Full-text available    
+ Jun 2019 
+
+ Bert Veerman 
+  Frank Phillipson 
+    
+ This paper introduces the Multi Service Modular Capacitated Facility Location Problem, which extends the Multi Service Capacitated Facility Location Problem by allowing for modular capacities. This extension can lead to significant costs benefits, especially in dense areas. Two heuristics are proposed to solve the problem: the Extended Pricing Heur...   
+
+ View     
+
+ Dynamic Connectivity Metric for Routing in VANETs    
+   
+ Conference Paper    
+ Jun 2019 
+
+ Frank Phillipson 
+    
+ In vehicular ad-hoc networks a path has to be found to send a message from one vehicle to another vehicle. This path has to have a connectivity rate that is high enough to obtain a high probability of arrival of the message. In other approaches, this path is based on current, static information of the distribution of cars. In this paper we propose...   
+
+ View     
+
+ Reduction of Variables in a Logistic Flow Problem    
+   
+ Conference Paper    
+ Full-text available    
+ Jun 2019 
+
+ Kavisha Kalicharan 
+  Frank Phillipson 
+  Alex Sangers 
+  Myrte A. M. De Juncker 
+    
+ In logistic problems, an Integral Multi-Commodity Network Design Problem on a time-space network is often used to model the problem of routing transportation means and assigning freight units to those means. In Physical Internet and Synchromodal networks an interactive planning approach is preferable, meaning that calculation times of a single plan...   
+
+ View     
+
+ User Equilibrium in a Transportation Space-Time Network    
+   
+ Conference Paper    
+ Full-text available    
+ Jun 2019 
+
+ Lianne Bruijns 
+  Frank Phillipson 
+  Alex Sangers 
+    
+ We provide a method to obtain a User Equilibrium in a transportation network, in which we transport containers for multiple agents. The User Equilibrium solution is defined as the solution wherein each agent can travel via their cheapest paths possible, and no agent is harmed by the route choice of other agents. The underlying model used is the Spa...   
+
+ View     
+
+ Decision making in a Dynamic Transportation Network: a Multi-Objective Approach    
+   
+ Conference Paper    
+ Full-text available    
+ Jun 2019 
+
+ M. R. Ortega del Vecchyo 
+  Frank Phillipson 
+  Alex Sangers 
+    
+ Multiple different attributes are important in the container-to-mode assignment on a synchromodal transportation network. This paper proposes an interactive multi-objective optimisation approach for planners of those transportation networks. This approach offers a range of solutions according to her/his preferences, and offers the opportunity to se...   
+
+ View     
+
+ Multi Service Modular Capacitated Facility Location Problem for Smart Cities    
+   
+ Chapter    
+ Jun 2019 
+
+ Bert Veerman 
+  Frank Phillipson 
+    
+ This paper introduces the Multi Service Modular Capacitated Facility Location Problem, which extends the Multi Service Capacitated Facility Location Problem by allowing for modular capacities. This extension can lead to significant costs benefits, especially in dense areas. Two heuristics are proposed to solve the problem: the Extended Pricing Heur...   
+
+ View     
+
+ Multi-Service Capacitated Facility Location Problem with Partial Covering in Smart Cities    
+   
+ Chapter    
+ Jun 2019 
+
+ Gerbrich Hoekstra 
+  Frank Phillipson 
+    
+ We consider the problem of distributing various services over urban areas. In this work we introduce the Multi-Service Capacitated Facility Location Problem with Partial Covering (MSCFLP-PC), which extends the MSCFLP by allowing for partial satisfaction of demand, where a penalty has to be paid for the uncovered demand. We present some practical re...   
+
+ View     
+
+ Dynamic Connectivity Metric for Routing in VANETs    
+   
+ Chapter    
+ Jun 2019 
+
+ Frank Phillipson 
+    
+ In vehicular ad-hoc networks a path has to be found to send a message from one vehicle to another vehicle. This path has to have a connectivity rate that is high enough to obtain a high probability of arrival of the message. In other approaches, this path is based on current, static information of the distribution of cars. In this paper we propose...   
+
+ View     
+
+ Vision on Next Level Quantum Software Tooling    
+   
+ Conference Paper    
+ May 2019 
+
+ Rob F.M. van den Brink 
+  Frank Phillipson 
+  Niels Neumann 
+    
+ Software tools for programming gate-based quantum computers are being developed by many parties. These tools should now grow towards a phase where they support quantum devices running realistic algorithms to outperform classical algorithms on digital computers. At this moment, they lack capabilities for generic gates, capabilities for quantum debug...   
+
+ View     
+
+ +1         
+
+ Machine learning in the quantum era    
+   
+ Article    
+ Full-text available    
+ Apr 2019 
+
+ Niels Neumann 
+  Frank Phillipson 
+  Richard Versluis 
+    
+ Everyday computers can be used to solve numerous tasks which are often too difficult for humans to do quickly. Whether it is finding the shortest route between your home and your work or automatically finding the solutions to puzzles such as sudoku’s, computers can solve these problems faster and often better than humans can. On the other hand, the...   
+
+ View     
+
+ Alternative Connectivity Metric for Routing in VANETs: 4th International Conference, MSPN 2018, Paris, France, June 18-20, 2018, Revised Selected Papers    
+   
+ Chapter    
+ Jan 2019 
+
+ Frank Phillipson 
+  Hacène Fouchal 
+  Kim van Gulik 
+    
+ In vehicular ad-hoc networks a path has to be found to send a message from one vehicle to another vehicle. This path has to have a connectivity rate that is high enough to obtain a high probability of arrival of the message. In other approaches, the average distance between vehicles on a link of the network is used as metric for connectivity. In th...   
+
+ View     
+
+ Location Assignment of Capacitated Services in Smart Cities: 4th International Conference, MSPN 2018, Paris, France, June 18-20, 2018, Revised Selected Papers    
+   
+ Chapter    
+ Jan 2019 
+
+ Gerbrich Hoekstra 
+  Frank Phillipson 
+    
+ This paper introduces the Multi-Service Capacitated Facility Location Problem for assigning equipment to access points. Here multiple services should be offered to customers in a Smart City context. Purpose is to offer the total of services to fulfil the customer demand, given the coverage of the service and their capacity constraints. The problem...   
+
+ View     
+
+ Congestion Control in a Location Service for VANETs: 4th International Conference, MSPN 2018, Paris, France, June 18-20, 2018, Revised Selected Papers    
+   
+ Chapter    
+ Jan 2019 
+
+ Kim van Gulik 
+  Frank Phillipson 
+  Hacène Fouchal 
+    
+ Vehicular ad-hoc networks are self-organized networks to provide communication between the vehicles. It is challenging to determine a routing protocol for the communication between the vehicles since the vehicles are moving in different speeds and directions, which causes a rapidly changing network topology. Other approaches in literature assign tr...   
+
+ View     
+
+ Heuristic Approaches for Location Assignment of Capacitated Services in Smart Cities    
+   
+ Article    
+ Full-text available    
+ Dec 2018 
+
+ Gerbrich Hoekstra 
+  Frank Phillipson 
+    
+ This paper proposes two heuristic approaches to solve the Multi-Service Capacitated Facility Location Problem. This problem covers assigning equipment to access points, offering multiple services in a Smart City context. The access points should offer the services to the customer and fulfil their demand, given the coverage of the service and their...   
+
+ View     
+
+ 1    
+    
+ 2     
+
+ Network   
+ Cited   
+   
+ View All    
+
+ Rolf Drechsler   Universität Bremen 
+  Florian Neukart   Leiden University 
+  Fred Glover   University of Colorado Boulder 
+  Daniel Lidar   University of Southern California 
+  Francesco Petruccione   Stellenbosch University 
+
+ Cited By   
+   
+ View All    
+
+ Herbert Kotzab   University of North Florida 
+  Eneko Osaba   Tecnalia Corporación Tecnológica 
+  Jose Garcia-Alonso   Universidad de Extremadura 
+  Matthias Möller   Delft University of Technology 
+  Mario Piattini   University of Castilla-La Mancha 
+
+ Current institution   
+   
+   TNO    
+   
+ Centre for Technical Sciences 
+  The Hague, Netherlands 
+
+ Current position   
+ Senior Researcher 
+
+ Quantum Applications     
+
+ Co-authors   
+   
+ Top co-authors    
+   
+ Lianne Bruijns   Delft University of Technology 
+  Christian Erfurth   Ernst-Abbe-Hochschule Jena 
+  Moisés Rodríguez   University of Castilla-La Mancha 
+  Ricardo Pérez-Castillo   University of Castilla-La Mancha 
+  Juan Manuel Murillo   Universidad de Extremadura 
+    
+ All co-authors (50)    
+   
+ View All    
+
+      Ignacio García Rodríguez de Guzmán    
+   
+ Department   
+ Department of Information Technologies and Systems 
+
+      Luis Jiménez Navajas    
+   
+ Department   
+ Grupo Alarcos 
+
+      Alex Sangers    
+   
+ Department   
+ Expertise Group for Access Network Technology 
+
+      Rob van der Mei    
+   
+ Department   
+ Research Group for Stochastics 
+
+      Jelle C Nauta    
+   
+ Department   
+ Cybersecurity and Robustness 
+
+      Dylan Huizing    
+   
+ Department   
+ Research Group for Networks and Optimization 
+
+      Irina Chiscop    
+   
+ Department   
+ Cybersecurity and Robustness 
+
+      Guido Peterssen Nodarse    
+
+      Jose Luis Hevia Oliver    
+   
+ Department   
+ Technology and methods 
+
+      Claudio Andrés Paradela    
+   
+ Department   
+ aQuantum 
+
+      Guillermo José Hernández González    
+
+      Ezequiel Murina    
+
+      Matthias Möller    
+   
+ Department   
+ Department of Applied Mathematics 
+
+      Harshil Bhatia    
+
+      Hacène Fouchal    
+   
+ Department   
+ Département Mathématiques – Informatique 
+
+      Juan Carlos Marqueño    
+
+ Advertisement   
+   
+              Join ResearchGate to find the people and research you need to help your work   
+ 25+ million | members 
+  160+ million | publication pages 
+  2.3+ billion | citations 
+  Join for free     
+
+ Top co-authors   
+ Loading...   
+
+ Lab members   
+ Loading...   
+
+ Cited   
+ Loading...   
+
+ Cited By   
+ Loading...   
+
+ Current journal roles   
+ Loading...   
+
+ What type of researcher are you?   
+ Only verified researchers can join ResearchGate and send messages to other members.   
+
+ Academic or student   
+ University students and faculty, institute members, and independent researchers   
+
+ Corporate, government, or NGO researcher   
+ Technology or product developers, R&D specialists, and government or NGO employees in scientific roles   
+
+ Medical   
+ Health care professionals, including clinical researchers   
+
+ Not a researcher   
+ Journalists, citizen scientists, or anyone interested in reading and discovering research   
+
+ You may be eligible for a free account   
+   
+ Sorry, you need to be a researcher to join ResearchGate.   
+ Due to our privacy policy, only current members can send messages to people on ResearchGate.   
+
+ Already a member? Log in    
+   
+ Already a member? Log in    
+   
+ Join for free     
+
+ Back     
+ Close     
+
+ or   
+   
+ Discover by subject area     
+
+ Recruit researchers 
+  Join for free 
+  Login      Email   Tip:  Most researchers use their institutional email address as their ResearchGate login         Password  Forgot password?      Keep me logged in   Log in    or    Continue with Google                
+ Welcome back! Please log in.        Email · Hint  Tip:  Most researchers use their institutional email address as their ResearchGate login          Password   Forgot password?       Keep me logged in    Log in    or    Continue with Google       No account? Sign up 
+
+ Company   
+ About us    
+ News    
+ Careers    
+
+ Support   
+ Help Center    
+
+ Business solutions   
+ Advertising    
+ Recruiting    
+
+ © 2008-2024 ResearchGate GmbH. All rights reserved.   
+   
+ Terms 
+  Privacy 
+  Copyright 
+  Imprint 
+  Consent preferences 
+
+      

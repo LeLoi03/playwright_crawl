@@ -1,0 +1,100 @@
+   
+     
+ September 14-18, 2025  
+ Kuala Lumpur, Malaysia  
+
+     CHES Home 
+  CHES 2025 
+  Technical Program | Call for Papers  Paper Submission  Artifact Evaluation   Call for CHES Challenge Organizers 
+  Sponsors 
+  Contact 
+
+ This site is designed for browsers with javascript.  
+ The dates, name, and location for the conference are in a json file.   
+   
+  Call for Papers  
+ Call for Papers as PDF   
+ Paper Submission   
+   
+ General Information  
+ Having been established in 1999, the Cryptographic Hardware and Embedded Systems (CHES) conference is the premier venue for research on both design and analysis of cryptographic hardware and software implementations. As an area conference of the International Association for Cryptologic Research (IACR), CHES bridges the cryptographic research and engineering communities, and attracts participants from academia, industry, government and beyond. CHES 2025 will take place in Kuala Lumpur, Malaysia in September 14-18, 2025. The conference website is accessible at  
+ https://ches.iacr.org/2025    
+ The scope of CHES is intentionally diverse, meaning we solicit submission of papers on topics including, but not limited to, the following:  
+ Cryptographic implementations:  Hardware architectures 
+  Cryptographic processors and coprocessors 
+  True and pseudorandom number generators 
+  Physical unclonable functions (PUFs) 
+  Efficient software implementation 
+  SHARCS (Special-purpose HARdware for Cryptanalysis, quantum included) 
+  Attacks against implementations, and countermeasures:  Remote, micro-architectural and physical side-channel attacks and countermeasures 
+  Fault attacks and countermeasures 
+  Hardware tampering and tamper-resistance 
+  White-box cryptography and code obfuscation 
+  Reverse engineering of hardware/software 
+  Hardware trojans and countermeasures 
+  Tools and methodologies:  Formal methods, techniques and tools for secure design and verification for hardware/software 
+  Computer aided cryptographic engineering 
+  Domain-specific languages for cryptographic systems 
+  Metrics for the security of embedded systems 
+  FPGA design security 
+  Physical assurance and analysis of embedded systems 
+  Systematization of Knowledge (SoK)    
+ Interactions between cryptographic theory and implementation issues:  Quantum cryptanalysis 
+  Algorithm subversion and subversion prevention 
+  New and emerging cryptographic algorithms and protocols targeting embedded devices 
+  Theoretical hardware models that allow proofs 
+  Applications:  RISC-V security 
+  Trusted execution environments and trusted computing platforms 
+  IP protection for hardware/software and technologies for anti-counterfeiting 
+  Reconfigurable hardware for cryptography 
+  Secure elements, security subsystems, and applications 
+  Security for the Internet of Things and cyberphysical systems (RFID, sensor networks, smart meters, medical implants, smart devices for home automation, industrial control, automotive, etc.) 
+  Secure storage devices (memories, disks, etc.) 
+  Isolation and monitoring hardware for cyberresilience 
+  Engineering of zero-knowledge proof systems 
+  Privacy-preserving computing in practice (MPC, FHE) 
+  Post-quantum security 
+
+ Paper Submission  
+ Author instructions for paper submission are on the submissions page  .  
+ TCHES Publication Model  
+ CHES has transitioned to an open-access journal/conference hybrid model. A comprehensive list of FAQs relating to the model can be found via the TCHES website at  
+ https://tches.iacr.org    
+ In summary:  
+ Submitted papers will undergo a journal-style review process with accepted papers published by Ruhr University Bochum in an issue of the journal IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES). Since it has a Gold Open Access status, all papers published in TCHES are immediately and freely available. 
+  The annual CHES conference consists of presentations for each paper published in the associated issues of TCHES, plus invited talks and a range of additional and social activities. All papers accepted for publication in TCHES between 15 July of year | n | − 1 and 15 July of year n will be presented at CHES of year | n | . 
+  Program Committee  
+
+ Program Co-Chairs  
+ Michael Hutter  
+ PQShield  
+  Austria  
+  
+ Debdeep Mukhopadhyay  
+ Indian Institute of Technology Kharagpur  
+  India  
+
+   ches2025programchairs@iacr.org    
+   
+ General Co-Chairs  
+ Muhammad Reza Z’aba  
+ MIMOS  
+  Malaysia  
+  
+ Muhammad Rezal Kamel Ariffin  
+ Universiti Putra Malaysia  
+  Malaysia  
+  
+ Norziana Jamil  
+ United Arab Emirates University  
+  United Arab Emirates  
+  and  
+  Universiti Tenaga Nasional  
+  Malaysia  
+
+   ches2025@iacr.org    
+
+  Copyright © 2024  by the  IACR  International Association for Cryptologic Research   •   
+  Privacy Policy   
+  Title photo by Muhammad Faiz Zulkeflee  under the Unsplash License    
+  

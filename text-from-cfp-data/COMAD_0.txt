@@ -1,0 +1,89 @@
+     
+
+ Home 
+  For Authors | Publication Policy 
+  Call for Research Track Papers 
+  Call for Applied Data Science Track Papers 
+  Call for Tutorial Proposals 
+  Call for Demo Track Papers 
+  Call for Young Faculty & Researchers’ Symposium Papers 
+  Call for Diversity and Inclusion Track 
+  Call for Data Challenge Proposals 
+  Call for Special Sessions 
+  Research Track vs Applied Data Science Track 
+  Common Instructions and Policies 
+  Data Challenge 
+  Special session for startups 
+  For Attendees | Local Attractions 
+  Accommodation 
+  Conference Venue 
+  Tutorials 
+  Keynotes 
+  ACM India PhD Clinic 
+  Registration 
+  Travel Grants 
+  Accepted Papers 
+  Technical Program 
+  Conference Program 
+  Committees | Organizing Committee 
+  Senior Program Committee 
+  Program Committee 
+  Archives | 2024 
+  2023 
+  2022 
+  2021 
+  2020 
+  2019 
+  2018 
+  CoDS 2017 
+  COMAD 
+  Contact us 
+
+ Call for Research Track Papers  
+
+ Research Track  
+ Effective Jan 1 2024, the ACM International Conference Proceedings Series (ICPS) has a new policy. See this page  to learn about its implications on CODS-COMAD authors.  
+   
+ We invite the submission of papers describing innovative and original research contributions in the areas of data science, data management, data mining, machine learning, and artificial intelligence, as well as papers describing the design, implementation and results of solutions of such advances to real-world problems. Papers can range from theoretical contributions to systems and algorithms to experimental research and benchmarking. We invite two types of submissions:  
+ Full papers: 8 pages + (unlimited) references. 
+  Short papers: 4 pages + (unlimited) references. 
+  The goal of the short papers is to provide a venue for innovative ideas such as engineered solutions, exciting work-in-progress or even negative results that would be interesting to the broader community. The review process will take place in two stages.  
+ In the first stage of the review, papers will be grouped as Accept, Major Revision or Reject. 
+  In the second stage of the review, authors can revise and resubmit Major Revision papers. They will then be regrouped as Accept or Reject. 
+  Authors of accepted full papers must present their work as both a talk and a poster at the conference; accepted short papers must present their work as a poster. All accepted papers will appear in the proceedings of the conference, which will be published in the ACM Digital Library.  
+ Topics of Interest include, but are not limited to, the following:  
+ AI, ML, and Data Mining: | Classification and regression; Knowledge discovery; knowledge representation and knowledge-based systems; data preprocessing and wrangling; feature engineering; reinforcement learning; deep learning; Bayesian methods; time series analysis; optimization; graphical models; statistical relational learning; matrix and tensor methods; parallel and distributed learning; semi- and unsupervised learning; graph mining; network analytics; text analytics and NLP; information retrieval; learning-based computer vision; multimodal learning and analytics; human-in-the-loop learning; planning and reasoning; ML for mobiles and other resource-constrained environments; federated learning; AutoML; causality; weak supervision and data augmentation; new benchmark tasks and datasets for AI/ML/data mining. 
+  Data Management: | Data management systems (subtopics including but not limited to benchmarking, monitoring, testing, and tuning database systems, cloud, distributed, decentralized and parallel data management, database systems on emerging hardware, embedded databases, IoT and Sensor networks, Storage, indexing, and physical database design, Query processing and optimization, Transaction processing, Data warehousing, OLAP, Analytics); Models and Languages (subtopics including but not limited to Data models and semantics, Declarative programming languages and optimization, Spatial and temporal data management, Graphs, social networks, web data, and semantic web, Multimedia and information retrieval, Uncertain, probabilistic, and approximate databases, Streams and complex event processing); Human-Centric Data Management (subtopics including but not limited to Data exploration, visualization, query languages, and user interfaces, Crowdsourced and collaborative data management, User-centric and human-in-the-loop data management, Natural language processing for databases); Data Governance (subtopics including but not limited to Data provenance and workflows, Data integration, information extraction, and schema matching, Data quality, data cleaning, Data security, privacy, and access control, Responsible data management and data fairness, Metadata Management). 
+  Intersection of AI & Data Management: | Structured queries over unstructured data: images, video, natural language, natural language queries; machine learning methods for database engine internals; machine learning methods for database tuning; data management and metadata for machine learning pipelines; knowledge base management. 
+  Data Science Ethics: | Subtopics including, but not limited to quantifying and mitigating fairness and bias issues; improving model trust, transparency and explainability; data privacy; model alignment; environmental costs; governance and regulation. 
+  Sharing and Reproducibility  
+ Authors are strongly encouraged to make their code and data publicly accessible during the review process, unless there is an inevitable reason that prohibits sharing (e.g., it requires data from a specific company or it is medical data where there is no public alternative). Algorithms and resources used in a paper should be described as completely as possible to enable reproducibility. This includes model parameters, experimental methodology, hardware and software platforms used during empirical evaluations, and results. The reproducibility factor will play an important role in the assessment of each submission. In the case where data cannot be released publicly, authors are encouraged to include experiments on relevant public datasets and/or create simulated data with the same properties.  
+ Please read the Dual submission, Plagiarism, and Conflict of Interest policies  before finalising your submission.  
+ Several technical awards are available for best paper, etc. Please see the Awards page  for details.  
+ Partial travel Grants will be available for students (both domestic and international) whose papers are accepted.  
+ Double Anonymity Requirement  
+ CODS-COMAD 2025 will be using double-anonymous reviewing for Research Track papers (but not the ADS Track papers). Please review the instructions below carefully.  
+ Authors’ names and affiliations must not appear on the title page or anywhere else in the submission. Funding sources must not be acknowledged anywhere in the submission. Research group members, or other colleagues or collaborators, must not be acknowledged anywhere in the submission. The file names of any documents submitted must not identify the authors of the submission. Source file naming must also be done with care, to avoid identifying the authors’ names in the submission’s associated metadata. Only after acceptance at the camera-ready stage should the author list, acknowledgments, and funding sources be added to the paper.  
+ To avoid compromising the double-anonymity requirement, we request that the authors refrain from publicizing and uploading versions of their submitted manuscripts to pre-publication servers, such as arXiv, and other online forums during the reviewing period. If a version of a submission already resides on a pre-publication server, such as arXiv, the authors do not need to remove it before submitting to CODS-COMAD.  
+ Be careful when referring to related past work, particularly your own, in the paper. Authors must refer to their own past work in the third person. This allows setting the context for your submission, while at the same time preserving anonymity. Do not omit referring to your own past related work because that could reveal your identity by negation. Limit self-references to only the essential ones. Extended versions of the submitted paper (e.g., technical reports or URLs for downloadable versions) must not be referenced. Many ACM conferences have successfully followed double anonymity for decades to offer more equity for all authors in the reviewing process. Common sense and careful writing can go a long way toward preserving double anonymity without diminishing the quality or impact of a paper. It is the responsibility of the authors to do their very best to preserve double anonymity.  
+ Papers that do not follow the guidelines here, or otherwise potentially reveal the identity of the authors, are subject to Desk Rejection.  
+ Important dates  
+ All deadlines are Anywhere on Earth (AoE, UTC-1200)  
+ July 24th, 2024: Abstract submission 
+  July 31st, 2024: Submission of papers 
+  September 7th, 2024: First stage decision notifications 
+  September 28th, 2024: Submission of revised papers 
+  October 22nd, 2024: Final decision notifications (Accept / Reject) 
+  November 10th | November 18th, 2024: Camera Ready Due 
+  Submission Instructions  
+ Please see this page  for submission instructions.  
+ Program Chairs  
+ Mayank Vatsa, IIT Jodhpur  
+  Suparna Bhattacharya, Hewlett Packard Enterprise  
+  For more details, please reach out to the chairs at comadcods@gmail.com   
+ Program Committee  
+ Please see this page  for program committee members.  
+
+ © Copyright 2024 All Rights Reserved  
+
+  

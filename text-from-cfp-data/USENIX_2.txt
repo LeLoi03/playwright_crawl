@@ -1,0 +1,102 @@
+Đang tải...   
+ Hệ thống không thể thực hiện thao tác ngay bây giờ. Hãy thử lại sau.   
+   
+     Trích dẫn  
+
+     Tìm kiếm nâng cao  
+
+ Tìm bài viết    
+   
+ có tất cả  các từ    
+
+ có cụm từ chính xác     
+
+ có ít nhất một  trong các từ    
+
+ không có  các từ    
+
+ nơi xuất hiện các từ của tôi    
+  bất cứ nơi nào trong bài viết       
+  trong tiêu đề bài viết       
+
+ Trả về các bài viết được viết  bởi    
+
+ ví dụ: "PJ Hayes"  hoặc McCarthy    
+
+ Trả về các bài viết được xuất bản  trong    
+
+ ví dụ: J Biol Chem  hoặc Nature    
+
+ Trả về các bài viết đề ngày  trong khoảng    
+
+ —    
+
+ ví dụ: 1996    
+
+     Đã lưu vào Thư viện của tôi  
+
+ Xong     Xóa bài viết       
+
+   Bài viết     Hồ sơ     
+   Hồ sơ của tôi     Thư viện của tôi     Thông báo     Số liệu     
+   Tìm kiếm nâng cao     
+   Cài đặt     
+   
+   Đăng nhập     
+
+ Đăng nhập    
+
+ Bài viết  Scholar   
+
+   Hồ sơ của tôi     Thư viện của tôi   Năm     Mọi lúc  Từ 2024  Từ 2023  Từ 2020    
+ Sắp xếp theo mức độ liên quan  Sắp xếp theo ngày    
+
+     Mọi loại  Bài viết đánh giá    
+ bao gồm bằng sáng chế     bao gồm trích dẫn       
+
+ Mọi lúc 
+  Từ 2024 
+  Từ 2023 
+  Từ 2020 
+  Phạm vi tùy chọn... 
+
+ —    
+
+ Tìm kiếm      
+    
+ Sắp xếp theo mức độ liên quan 
+  Sắp xếp theo ngày 
+  Mọi loại 
+  Bài viết đánh giá 
+  bao gồm bằng sáng chế 
+  bao gồm trích dẫn 
+
+ [PDF]  usenix.org    
+
+ The design and implementation of hyperupcalls   
+ N Amit  , M Wei  - 2018 USENIX Annual Technical Conference (USENIX …, 2018 - usenix.org   
+ N Amit  , M Wei    
+ 2018 USENIX Annual Technical Conference (USENIX ATC 18), 2018 •  usenix.org   
+ The virtual machine abstraction provides a wide variety of benefits which have undeniably  
+  enabled cloud computing. Virtual machines, however, are a double-edged sword as  
+  hypervisors they run on top of must treat them as a black box, limiting the information which  
+  the hypervisor and virtual machine may exchange, a problem known as the semantic gap. In  
+  this paper, we present the design and implementation of a new mechanism, hyperupcalls,  
+  which enables a hypervisor to safely execute verified code provided by a guest virtual …   
+   
+ Abstract   
+   
+ The virtual machine abstraction provides a wide variety of benefits which have undeniably enabled cloud computing. Virtual machines, however, are a double-edged sword as hypervisors they run on top of must treat them as a black box, limiting the information which the hypervisor and virtual machine may exchange, a problem known as the semantic gap. In this paper, we present the design and implementation of a new mechanism, hyperupcalls, which enables a hypervisor to safely execute verified code provided by a guest virtual machine in order to transfer information. Hyperupcalls are written in C and have complete access to guest data structures such as page tables. We provide a complete framework which makes it easy to access familiar kernel functions from within a hyperupcall. Compared to state-of-the-art paravirtualization techniques and virtual machine introspection, Hyperupcalls are much more flexible and less intrusive. We demonstrate that hyperupcalls can not only be used to improve guest performance for certain operations by up to 2× but hyperupcalls can also serve as a powerful debugging and security tool.   
+   
+ usenix.org   
+
+ Hiện thêm  Ẩn bớt      
+
+   Lưu     Trích dẫn   Trích dẫn 58 bài viết  Bài viết có liên quan  Tất cả 6 phiên bản     Xem dạng HTML       
+
+ Đang hiển thị kết quả tốt nhất cho tìm kiếm này. Xem tất cả kết quả    
+
+ Quyền riêng tư  Điều khoản  Trợ giúp    
+ Giới thiệu về Scholar  Trợ giúp về Tìm kiếm    
+
+  

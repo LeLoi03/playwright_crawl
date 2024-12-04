@@ -1,0 +1,829 @@
+ESEIW 2024   Sun 20 - Fri 25 October 2024 Barcelona, Spain    
+
+ Toggle navigation        
+ Program | ESEIW Program 
+  Your Program 
+  Keynotes 
+   Sun 20 Oct 
+  Mon 21 Oct 
+  Tue 22 Oct 
+  Wed 23 Oct 
+  Thu 24 Oct 
+  Fri 25 Oct 
+  Research tracks | ESEIW 2024 
+  ESEIW ESEM 
+  ESEM Technical Papers 
+  ESEM Emerging Results, Vision and Reflection Papers Track 
+  ESEM Registered Reports 
+  ESEM Journal-First Papers 
+  ESEM IGC 
+  ESEM Research Projects 
+  ESEM Student Volunteers 
+  IDoESE Doctoral Symposium 
+  IASESE Advanced School 
+  ISERN 
+  Organization | ESEIW 2024 Committees 
+  Organizing Committee 
+  ISERN Annual Meeting 
+  Track Committees 
+  ESEM Technical Papers | Contacts 
+  Program Committee 
+  ESEM Emerging Results, Vision and Reflection Papers Track | Contacts 
+  Program Committee 
+  ESEM Registered Reports | Contacts 
+  Program Committee 
+  ESEM Journal-First Papers 
+  ESEM IGC | Contacts 
+  Program Committee 
+  ESEM Research Projects 
+  ESEM Student Volunteers 
+  IDoESE Doctoral Symposium | Contact 
+  Program Committee 
+  IASESE Advanced School 
+  ISERN 
+  Contributors 
+  People Index 
+  Attending | Campus: Polytechnic University of Catalonia, North Campus 
+  Registration 
+  Accommodation 
+  ESEM Social Events 
+  ISERN Social Events 
+  ESEM Code of Conduct 
+  Search 
+  Series | Series 
+    ESEIW 2024 
+  ESEIW 2023 
+  ESEIW 2022 
+  ESEM 2021 
+  Sign in 
+  Sign up 
+
+  ESEIW 2024  ( series  ) /  ESEM Emerging Results, Vision and Reflection Papers Track ESEIW 2024   
+   
+ About 
+  Program 
+  Accepted Papers 
+  Call for Papers   
+ The International Symposium on Empirical Software Engineering and Measurement  (ESEM) Emerging Results, Vision and Reflection papers track features submissions that describe current work in progress from research or practice. Papers should clearly state the longer-term objectives and outline a plan for working towards those objectives.  
+ Emerging Results  communicate initial research results of new ideas to obtain feedback from the empirical software engineering community. Vision papers  must describe long-term challenges and opportunities in empirical software engineering research and practice that are outside of current mainstream topics. Reflection  papers discuss the current impact and implications of studies published in a partnered journal (TSE, IST, EMSE, JSS, TOSEM) from between 3 and 10 years ago (i.e., 2014-2021).  
+
+ General Scope of Submissions   
+ Submissions should not  be under consideration for publication or presentation elsewhere. In addition to the specific scope of this track, submissions may address any aspect of software engineering but must tackle the problem from an empirical perspective and using a rigorous empirical method, including:  
+ Empirical studies using qualitative, quantitative, and mixed methods 
+  Cross- and multi-disciplinary methods and studies 
+  Formal experiments and quasi-experiments 
+  Case studies, action research, ethnography and field studies 
+  Survey research 
+  Simulation studies 
+  Artifact studies 
+  Data mining using statistical and machine learning approaches 
+  Secondary and tertiary studies including | Systematic literature reviews and rapid reviews, that include a strong synthesis part 
+  Meta-analyses, and qualitative, quantitative or structured syntheses of studies 
+  Replication of empirical studies and families of studies 
+  Topics commonly addressed using an empirical approach include, but are not limited to:  
+ Evaluation and comparison of software models, tools, techniques, and practices 
+  Modeling, measuring, and assessing product or process quality and productivity 
+  Continuous software engineering 
+  Software verification and validation, including analysis and testing 
+  Engineering of software systems which include machine learning components and data dependencies 
+  Applications of software engineering to different types of systems and domains (e.g. IoT, Industry 4.0, Context-awareness systems, Cyber-physical systems) 
+  Human factors, teamwork, and behavioral aspects of software engineering 
+  We welcome submissions on these research meta-topics:  
+ Development, evaluation, and comparison of empirical approaches and methods 
+  Infrastructure for conducting empirical studies 
+  Techniques and tools for supporting empirical studies 
+  Empirically-based decision making 
+  We also welcome submissions that:  
+ demonstrate multi-disciplinary work, 
+  transfer and apply empirical methods from other disciplines, 
+  replication studies, and 
+  studies with negative findings. 
+
+ Important Dates   
+ (All dates are end of the day, anywhere on earth)  
+ Abstract:  May 30, 2024  
+  Submission:  June 7, 2024  
+  Notification:  July 17, 2024  July 22, 2024  
+  Camera-ready:  September 6, 2024  
+
+ How to Submit   
+ Submissions to this track are limited to 6 pages plus one page with references and must be submitted through EasyChair by selecting the track “Emerging Results, Vision and Reflection Papers”. All submissions must be written in English and must be submitted via EasyChair  in PDF format.  
+ Please note:   
+ Make sure the paper follows the standard ACM Proceedings template (see https://www.acm.org/publications/proceedings-template  ). 
+  Make sure your paper follows the double-blind instructions and does not reveal the authors’ identities. 
+  The submission must also comply with the IEEE ethics guidelines IEEE ethics guidelines  . In particular, it must not have been published elsewhere and must not be under review elsewhere while under review for ESEM. 
+  The ESEM 2024 Emerging Results, Vision and Reflection Papers track will employ a double-blind review process. Thus, submissions may not reveal their authors’ identities. The authors must make an acceptable effort to honor the double-blind review process. In particular, the authors’ names must be omitted from the submission and references to their prior work should be in the third person. More details on author ethics and peer review can be found at https://conferences.ieeeauthorcenter.ieee.org/  .  
+ All submissions will be peer-reviewed by at least three experts from the international program committee of the track and will receive an additional meta-review. Any papers that are outside the scope of the symposium, exceed the maximum number of pages for the respective category, or do not follow the formatting guidelines will be desk rejected without review. The PC members’ bidding information may be used to assess what is considered out of scope.  
+ Finally, please note that each accepted contribution must have a minimum of one author registered by the deadline for the camera-ready submission for their respective paper type. Also, each paper must be presented by one of the authors. Failure to meet these criteria will result in the paper’s removal from the proceedings.  
+
+ Open Science Policy   
+ Openness in science is key to fostering progress via transparency, reproducibility, and replicability. While all submissions will undergo the same review process independent of whether or not they disclose their tools, data, and code, we expect authors to include a data availability statement in their submissions that either provides links to the open data/replication package or that explains why data cannot be disclosed  (e.g., due to the sensitivity of the data or due to existing non-disclosure agreements). We recommend adding the data availability statement in the submission at the end of the introduction section explaining whether and where the data and related material is available and under which conditions the data/material can be accessed. For submissions based on open data sources, the publication of any cleaned or filtered data is mandatory.   
+ To submit your tools, data, and code while still following the double-blind process, please refer to these guidelines  .  
+ Authors are requested to share their tools, data, and code in the form of a replication package, and provide explanations on how to use and navigate it.  
+ Qualitative studies should provide explanations about the study protocol, coding and transcription schemas, and further relevant information. 
+  Quantitative studies should include information about the source code and its main dependencies (incl. version), description of input/output relevant to every step of data cleaning and labeling, feature engineering, model training, and evaluation. 
+  We recommend providing these explanations in the method section of the paper, while further explanations and concrete instructions on how to navigate and use the replication package can be detailed in a README file.  
+ We recommend to:  
+ Share pre-prints in a non-commercial repository (e.g., arXiv) using an appropriate license (e.g., arXiv default non-exclusive license, Creative Commons CC-BY). When sharing pre-prints, authors must avoid specifying that the manuscript was submitted to ESEM 2024. We recommend against anonymizing them (i.e., by changing authors, title, abstract). The review committee members are instructed NOT to try to find out the identity of authors. 
+  Share replication packages in an archival repository (e.g., Zenodo) using an appropriate license (e.g., based on Creative Commons). 
+  For further information, please refer to “Open Science in Software Engineering”  book chapter and feel free to approach the Open Science chairs (Davide Fucci < davide.fucci@bth.se  > and Martin Solari < martin.solari@ort.edu.uy  >)  
+
+ Track Co-Chairs   
+ Marcela Genero, University of Castilla-La Mancha, Spain  
+ Lucas Layman, University of North Carolina Wilmington, United States  
+   
+ Dates    
+
+ Tracks    
+
+ Plenary    
+
+   Program Display Configuration  
+   
+   Time Zone   
+   
+ The program is currently displayed in (GMT+02:00) Brussels, Copenhagen, Madrid, Paris  .   Use conference time zone: (GMT+02:00) Brussels, Copenhagen, Madrid, Paris    Select other time zone   (GMT-12:00) AoE (Anywhere On Earth)  (GMT-11:00) Midway Island, Samoa  (GMT-09:00) Hawaii-Aleutian  (GMT-10:00) Hawaii  (GMT-09:30) Marquesas Islands  (GMT-09:00) Gambier Islands  (GMT-08:00) Alaska  (GMT-07:00) Tijuana, Baja California  (GMT-08:00) Pitcairn Islands  (GMT-07:00) Pacific Time (US & Canada)  (GMT-06:00) Mountain Time (US & Canada)  (GMT-06:00) Chihuahua, La Paz, Mazatlan  (GMT-07:00) Arizona  (GMT-06:00) Saskatchewan, Central America  (GMT-05:00) Guadalajara, Mexico City, Monterrey  (GMT-05:00) Easter Island  (GMT-05:00) Central Time (US & Canada)  (GMT-04:00) Eastern Time (US & Canada)  (GMT-04:00) Cuba  (GMT-05:00) Bogota, Lima, Quito, Rio Branco  (GMT-04:00) Caracas  (GMT-03:00) Santiago  (GMT-04:00) La Paz  (GMT-03:00) Faukland Islands  (GMT-04:00) Manaus, Amazonas, Brazil  (GMT-03:00) Atlantic Time (Goose Bay)  (GMT-03:00) Atlantic Time (Canada)  (GMT-02:30) Newfoundland  (GMT-03:00) UTC-3  (GMT-03:00) Montevideo  (GMT-02:00) Miquelon, St. Pierre  (GMT-02:00) Greenland  (GMT-03:00) Buenos Aires  (GMT-03:00) Brasilia, Distrito Federal, Brazil  (GMT-02:00) Mid-Atlantic  (GMT-01:00) Cape Verde Is.  (GMT) Azores  (UTC) Coordinated Universal Time  (GMT+01:00) Belfast  (GMT+01:00) Dublin  (GMT+01:00) Lisbon  (GMT+01:00) London  (GMT) Monrovia, Reykjavik  (GMT+02:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna  (GMT+02:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague  (GMT+02:00) Brussels, Copenhagen, Madrid, Paris  (GMT+01:00) West Central Africa  (GMT+02:00) Windhoek  (GMT+03:00) Athens  (GMT+03:00) Beirut  (GMT+02:00) Cairo  (GMT+03:00) Gaza  (GMT+02:00) Harare, Pretoria  (GMT+03:00) Jerusalem  (GMT+03:00) Minsk  (GMT+03:00) Syria  (GMT+03:00) Moscow, St. Petersburg, Volgograd  (GMT+03:00) Nairobi  (GMT+03:30) Tehran  (GMT+04:00) Abu Dhabi, Muscat  (GMT+04:00) Yerevan  (GMT+04:30) Kabul  (GMT+05:00) Ekaterinburg  (GMT+05:00) Tashkent  (GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi  (GMT+05:45) Kathmandu  (GMT+06:00) Astana, Dhaka  (GMT+07:00) Novosibirsk  (GMT+06:30) Yangon (Rangoon)  (GMT+07:00) Bangkok, Hanoi, Jakarta  (GMT+07:00) Krasnoyarsk  (GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi  (GMT+08:00) Irkutsk, Ulaan Bataar  (GMT+08:00) Perth  (GMT+08:45) Eucla  (GMT+09:00) Osaka, Sapporo, Tokyo  (GMT+09:00) Seoul  (GMT+09:00) Yakutsk  (GMT+10:30) Adelaide  (GMT+09:30) Darwin  (GMT+10:00) Brisbane  (GMT+11:00) Hobart  (GMT+10:00) Vladivostok  (GMT+11:00) Lord Howe Island  (GMT+11:00) Solomon Is., New Caledonia  (GMT+11:00) Magadan  (GMT+12:00) Norfolk Island  (GMT+12:00) Anadyr, Kamchatka  (GMT+13:00) Auckland, Wellington  (GMT+12:00) Fiji, Kamchatka, Marshall Is.  (GMT+13:45) Chatham Islands  (GMT+13:00) Nuku'alofa  (GMT+14:00) Kiritimati     
+
+   The GMT offsets shown reflect the offsets at the moment of the conference  .     
+   
+ Time Band   
+   
+ By setting a time band, the program will dim events that are outside this time window. This is useful for (virtual) conferences with a continuous program (with repeated sessions).  
+  The time band will also limit the events that are included in the personal iCalendar subscription service.   Display full program    Specify a time band   -      
+
+  Save    
+
+  Close    
+
+ ×    You're viewing the program in a time zone which is different from your device's time zone change time zone     
+
+ Thu 24 Oct   
+  
+ Displayed time zone: Brussels, Copenhagen, Madrid, Paris  change      
+
+ 11:00 - 12:35 | Open source software and repository mining ESEM Technical Papers  / ESEM Emerging Results, Vision and Reflection Papers Track   at Multimedia (B3 Building - Hall)   
+  Chair(s): Davide Taibi  University of Oulu 
+ 11:00   
+ 20m    
+ Full-paper | Sustaining Maintenance Labor for Healthy Open Source Software Projects through Human Infrastructure: A Maintainer Perspective   ESEM Technical Papers   
+ Johan Linåker  RISE Research Institutes of Sweden  , Georg Link  Bitergia  , Kevin Lumbard  Creighton University 
+ 11:20   
+ 20m    
+ Full-paper | Documenting Ethical Considerations in Open Source AI Models   ESEM Technical Papers   
+ Haoyu Gao  The University of Melbourne  , Mansooreh Zahedi  The Univeristy of Melbourne  , Christoph Treude  Singapore Management University  , Sarita Rosenstock  the University of Melbourne  , Marc Cheong  the University of Melbourne    
+  Pre-print 
+ 11:40   
+ 20m    
+ Full-paper | An Exploratory Mixed-methods Study on General Data Protection Regulation (GDPR) Compliance in Open-Source Software   ESEM Technical Papers   
+ Lucas Franke  Virginia Tech  , Huayu Liang  Virginia Tech  , Sahar Farzanehpour  Virginia Tech  , Aaron Brantly  Virginia Tech  , James C. Davis  Purdue University  , Chris Brown  Virginia Tech    
+  Pre-print 
+ 12:00   
+ 20m    
+ Full-paper | An Empirical Study of API Misuses of Data-Centric Libraries   ESEM Technical Papers   
+ Akalanka Galappaththi  University of Alberta  , Sarah Nadi  New York University Abu Dhabi, University of Alberta  , Christoph Treude  Singapore Management University    
+  Pre-print 
+ 12:20   
+ 15m    
+ Vision and Emerging Results | Automatic Categorization of GitHub Actions with Transformers and Few-shot Learning   ESEM Emerging Results, Vision and Reflection Papers Track   
+ Phuong T. Nguyen  University of L’Aquila  , Juri Di Rocco  University of L'Aquila  , Claudio Di Sipio  University of L'Aquila  , Mudita Shakya  University of L'Aquila  , Davide Di Ruscio  University of L'Aquila  , Massimiliano Di Penta  University of Sannio, Italy    
+  Pre-print 
+
+ 11:00 - 12:30 | Software testing ESEM Technical Papers  / ESEM Emerging Results, Vision and Reflection Papers Track  / ESEM IGC   at Sala de graus (C4 Building)   
+  Chair(s): Marco Torchiano  Politecnico di Torino 
+ 11:00   
+ 20m    
+ Full-paper | Automatic Data Labeling for Software Vulnerability Prediction Models: How Far Are We?   ESEM Technical Papers   
+ Triet Le  The University of Adelaide  , Muhammad Ali Babar  School of Computer Science, The University of Adelaide 
+ 11:20   
+ 20m    
+ Full-paper | Contexts Matter: An Empirical Study on Contextual Influence in Fairness Testing for Deep Learning Systems   ESEM Technical Papers   
+ Chengwen Du  University of Birmingham  , Tao Chen  University of Birmingham 
+ 11:40   
+ 20m    
+ Full-paper | Mitigating Data Imbalance for Software Vulnerability Assessment: Does Data Augmentation Help?   ESEM Technical Papers   
+ Triet Le  The University of Adelaide  , Muhammad Ali Babar  School of Computer Science, The University of Adelaide 
+ 12:00   
+ 15m    
+ Industry talk | From Literature to Practice: Exploring Fairness Testing Tools for the Software Industry Adoption   ESEM IGC   
+ Thanh Nguyen  University of Calgary  , Maria Teresa Baldassarre  Department of Computer Science, University of Bari  , Luiz Fernando de Lima   , Ronnie de Souza Santos  University of Calgary    
+  Pre-print 
+ 12:15   
+ 15m    
+ Vision and Emerging Results | Do Developers Use Static Application Security Testing (SAST) Tools Straight Out of the Box? A large-scale Empirical Study   ESEM Emerging Results, Vision and Reflection Papers Track   
+ Gareth Bennett  Lancaster University  , Tracy Hall  Lancaster University  , Steve Counsell  Brunel University London  , Emily Winter  Lancaster University  , Thomas Shippey  LogicMonitor 
+
+ 11:00 - 12:30 | Empirical research methods ESEM Technical Papers  / ESEM Emerging Results, Vision and Reflection Papers Track   at Telensenyament (B3 Building - 1st Floor)   
+  Chair(s): Stefan Wagner  Technical University of Munich 
+ 11:00   
+ 20m    
+ Full-paper | ChatGPT application in Systematic Literature Reviews in Software Engineering: an evaluation of its accuracy to support the selection activity   ESEM Technical Papers   
+ Katia Romero Felizardo  UTFPR-CP  , Marcia Sampaio Lima  Universidade do Estado do Amazonas - UEA  , Anderson Deizepe  UTFPR-CP  , Tayana Conte  Universidade Federal do Amazonas  , Igor Steinmacher  Northern Arizona University 
+ 11:20   
+ 20m    
+ Full-paper | Is generalisation hindering the adoption of your findings?   ESEM Technical Papers   
+ Rogardt Heldal  Western Norway University of Applied Science 
+ 11:40   
+ 20m    
+ Full-paper | Threats to Validity in Software Engineering -- hypocritical paper section or essential analysis?   ESEM Technical Papers   
+ Patricia Lago  Vrije Universiteit Amsterdam  , Per Runeson  Lund University  , Qunying Song  Lund University  , Roberto Verdecchia  University of Florence    
+  Pre-print 
+ 12:00   
+ 15m    
+ Vision and Emerging Results | Data extraction for systematic mapping study using a large language model - a proof-of-concept study in software engineering   ESEM Emerging Results, Vision and Reflection Papers Track   
+ Katia Romero Felizardo  UTFPR-CP  , Igor Steinmacher  Northern Arizona University  , Marcia Sampaio Lima  Universidade do Estado do Amazonas - UEA  , Anderson Deizepe  UTFPR-CP  , Tayana Conte  Universidade Federal do Amazonas  , Monalessa P. Barcellos  Federal University of Espírito Santo 
+ 12:15   
+ 15m    
+ Vision and Emerging Results | Crossover Designs in Software Engineering Experiments: Review of the State of Analysis   ESEM Emerging Results, Vision and Reflection Papers Track   
+ Julian Frattini  Blekinge Institute of Technology  , Davide Fucci  Blekinge Institute of Technology  , Sira Vegas  Universidad Politecnica de Madrid    
+  Link to publication   DOI   Pre-print   Media Attached 
+
+ 14:00 - 15:30 | Repository mining ESEM Journal-First Papers  / ESEM IGC  / ESEM Technical Papers   at Multimedia (B3 Building - Hall)   
+  Chair(s): Apostolos Ampatzoglou  University of Macedonia 
+ 14:00   
+ 20m    
+ Full-paper | Decoding Android Permissions: A Study of Developer Challenges and Solutions on Stack Overflow   ESEM Technical Papers   
+ Sahrima Jannat Oishwee  University of Saskatchewan  , Zadia Codabux  University of Saskatchewan  , Natalia Stakhanova  University of Saskatchewan 
+ 14:20   
+ 20m    
+ Full-paper | Negative Results of Image Processing for Identifying Duplicate Questions on Stack Overflow   ESEM Technical Papers   
+ Faiz Ahmed  York University  , Suprakash Datta  York University  , Maleknaz Nayebi  York University 
+ 14:40   
+ 20m    
+ Full-paper | Understanding Fairness in Software Engineering: Insights from Stack Exchange Sites   ESEM Technical Papers   
+ Emeralda Sesari  University of Groningen  , Federica Sarro  University College London  , Ayushi Rastogi  University of Groningen, The Netherlands    
+  DOI   Pre-print 
+ 15:00   
+ 15m    
+ Industry talk | Reducing Events to Augment Log-based Anomaly Detection Models: An Empirical Study   ESEM IGC   
+ Lingzhe Zhang  Peking University, China  , Tong Jia  Institute for Artificial Intelligence, Peking University, Beijing, China  , Kangjin Wang  Alibaba Group  , Mengxi Jia  Peking University  , Yong Yang   , Ying Li  School of Software and Microelectronics, Peking University, Beijing, China 
+ 15:15   
+ 15m    
+ Journal Early-Feedback | The upper bound of information diffusion in code review   ESEM Journal-First Papers   
+ Michael Dorner  Blekinge Institute of Technology  , Daniel Mendez  Blekinge Institute of Technology and fortiss  , Krzysztof Wnuk   , Ehsan Zabardast  Blekinge Institute of Technology  , Jacek Czerwonka  Developer Services, Microsoft    
+  Link to publication   DOI   Pre-print 
+
+ 14:00 - 15:30 | Empirical research methods and applications ESEM Technical Papers  / ESEM Emerging Results, Vision and Reflection Papers Track   at Telensenyament (B3 Building - 1st Floor)   
+  Chair(s): Valentina Lenarduzzi  University of Oulu 
+ 14:00   
+ 20m    
+ Full-paper | Game Software Engineering: A Controlled Experiment Comparing Automated Content Generation Techniques   ESEM Technical Papers   
+ Mar Zamorano López  University College London  , África Domingo  Universidad San Jorge  , Carlos Cetina  Universitat Politècnica de València, Spain  , Federica Sarro  University College London 
+ 14:20   
+ 20m    
+ Full-paper | Evaluating Software Modelling Recommendations: Towards Systematic Guidelines for Modelling   ESEM Technical Papers   
+ Shalini Chakraborty  Reykjavik University  , Grischa Liebel  Reykjavik University 
+ 14:40   
+ 20m    
+ Full-paper | What do we know about Hugging Face? A systematic literature review and quantitative validation of qualitative claims   ESEM Technical Papers   
+ Jason Jones  Purdue University  , Wenxin Jiang  Purdue University  , Nicholas Synovic  Loyola University Chicago  , George K. Thiruvathukal  Loyola University Chicago and Argonne National Laboratory  , James C. Davis  Purdue University    
+  DOI   Pre-print 
+ 15:00   
+ 15m    
+ Vision and Emerging Results | On the Creation of Representative Samples of Software Repositories   ESEM Emerging Results, Vision and Reflection Papers Track   
+ June Gorostidi  IN3 - UOC  , Adem Ait  University of Luxembourg  , Jordi Cabot  Luxembourg Institute of Science and Technology  , Javier Luis Cánovas Izquierdo  IN3 - UOC    
+  Pre-print 
+ 15:15   
+ 15m    
+ Vision and Emerging Results | Can ChatGPT emulate humans in software engineering surveys?   ESEM Emerging Results, Vision and Reflection Papers Track   
+ Igor Steinmacher  Northern Arizona University  , Jacob Mcauley Penney  NAU  , Katia Romero Felizardo  UTFPR-CP  , Alessandro Garcia  Pontifical Catholic University of Rio de Janeiro (PUC-Rio)  , Marco Gerosa  Northern Arizona University 
+
+ 16:00 - 17:30 | Software measurement and estimations ESEM Technical Papers  / ESEM IGC  / ESEM Journal-First Papers  / ESEM Emerging Results, Vision and Reflection Papers Track   at Multimedia (B3 Building - Hall)   
+  Chair(s): Beatriz Bernárdez  Universidad de Sevilla 
+ 16:00   
+ 20m    
+ Full-paper | Enhancing Change Impact Prediction by Integrating Evolutionary Coupling with Software Change Relationships   ESEM Technical Papers   
+ Daihong Zhou  School of Computer Science and Information Engineering, Shanghai Institute of Technology  , Jiyue Zhang  School of Computer Science, Fudan University  , Ping Yu  Fudan University, China  , Wunan Guo  School of Optical-Electrical and Computer Engineering, University of Shanghai for Science and Technology 
+ 16:20   
+ 20m    
+ Full-paper | M-score: An Empirically Derived Software Modularity Metric   ESEM Technical Papers   
+ Ernst Pisch  Drexel University  , Yuanfang Cai  Drexel University  , Rick Kazman   , Jason Lefever  Drexel University  , Hongzhou Fang  Drexel University 
+ 16:40   
+ 15m    
+ Vision and Emerging Results | Towards Automated Continuous Security Compliance   ESEM Emerging Results, Vision and Reflection Papers Track   
+ Florian Angermeir  fortiss  , Jannik Fischbach  Netlight GmbH / fortiss GmbH  , Fabiola Moyon  Siemens AG, Munich, Germany  , Daniel Mendez  Blekinge Institute of Technology and fortiss    
+  Pre-print 
+ 17:00   
+ 15m    
+ Journal Early-Feedback | Much more than a prediction: Expert-based software effort estimation as a behavioral act   ESEM Journal-First Papers   
+ Patrícia G. F. Matsubara  Federal University of Mato Grosso do Sul (UFMS)  , Igor Steinmacher  Northern Arizona University  , Bruno Gadelha  UFAM  , Tayana Conte  Universidade Federal do Amazonas    
+  DOI 
+ 17:15   
+ 15m    
+ Industry talk | On the Accuracy of Effort Estimations based on COSMIC Functional Size Measurement: A Case Study   ESEM IGC   
+ Ersin Ersoy  Paycell  , Selami Bagriyanik  Singularity Software Technologies; Istanbul Topkapi University  , Hasan Sozer  Ozyegin University 
+
+ 16:00 - 17:30 | Software vulnerabilities and defects ESEM Technical Papers  / ESEM Emerging Results, Vision and Reflection Papers Track  / ESEM Journal-First Papers   at Sala de graus (C4 Building)   
+  Chair(s): Daniela Cruzes  Norwegian University of Science and Technology 
+ 16:00   
+ 20m    
+ Full-paper | Automated Code-centric Software Vulnerability Assessment: How Far Are We? An Empirical Study in C/C++   ESEM Technical Papers   
+ Anh Nguyen The   , Triet Le  The University of Adelaide  , Muhammad Ali Babar  School of Computer Science, The University of Adelaide    
+  DOI   Pre-print 
+ 16:20   
+ 20m    
+ Full-paper | Empirical Evaluation of Frequency Based Statistical Models for Estimating Killable Mutants   ESEM Technical Papers   
+ Konstantin Kuznetsov  Saarland University, CISPA  , Alessio Gambi  Austrian Institute of Technology (AIT)  , Saikrishna Dhiddi  Passau University  , Julia Hess  Saarland University  , Rahul Gopinath  University of Sydney 
+ 16:40   
+ 20m    
+ Full-paper | Reevaluating the Defect Proneness of Atoms of Confusion in Java Systems   ESEM Technical Papers   
+ Guoshuai Shi  University of Waterloo  , Farshad Kazemi  University of Waterloo  , Michael W. Godfrey  University of Waterloo, Canada  , Shane McIntosh  University of Waterloo    
+  Pre-print 
+ 17:00   
+ 15m    
+ Vision and Emerging Results | DetectBERT: Towards Full App-Level Representation Learning to Detect Android Malware   ESEM Emerging Results, Vision and Reflection Papers Track   
+ Tiezhu Sun  University of Luxembourg  , Nadia Daoudi  Luxembourg Institute of Science and Technology  , Kisub Kim  Singapore Management University, Singapore  , Kevin Allix  Independent Researcher  , Tegawendé F. Bissyandé  University of Luxembourg  , Jacques Klein  University of Luxembourg 
+ 17:15   
+ 15m    
+ Journal Early-Feedback | Identifying concerns when specifying machine learning-enabled systems: A perspective-based approach   ESEM Journal-First Papers   
+ Hugo Villamizar  fortiss GmbH  , Marcos Kalinowski  Pontifical Catholic University of Rio de Janeiro (PUC-Rio)  , Helio Côrtes Vieira Lopes  PUC-Rio  , Daniel Mendez  Blekinge Institute of Technology and fortiss    
+  DOI 
+
+ 16:00 - 17:30 | Machine learning for software engineering ESEM Technical Papers  / ESEM Emerging Results, Vision and Reflection Papers Track  / ESEM Journal-First Papers   at Telensenyament (B3 Building - 1st Floor)   
+  Chair(s): Luigi Quaranta  University of Bari, Italy 
+ 16:00   
+ 20m    
+ Full-paper | A Transformer-based Approach for Augmenting Software Engineering Chatbots Datasets   ESEM Technical Papers   
+ Ahmad Abdellatif  University of Calgary  , Khaled Badran  Concordia University, Canada  , Diego Costa  Concordia University, Canada  , Emad Shihab  Concordia University 
+ 16:20   
+ 20m    
+ Full-paper | Unsupervised and Supervised Co-learning for Comment-based Codebase Refining and its Application in Code Search   ESEM Technical Papers   
+ Gang Hu  School of Information Science & Engineering, Yunnan University  , Xiaoqin Zeng  School of Information Science & Engineering, Yunnan University  , Wanlong Yu   , Min Peng   , YUAN Mengting  School of Computer Science, Wuhan University, Wuhan, China  , Liang Duan 
+ 16:40   
+ 20m    
+ Full-paper | Good things come in three: Generating SO Post Titles with Pre-Trained Models, Self Improvement and Post Ranking   ESEM Technical Papers   
+ Duc Anh Le  Hanoi University of Science and Technology  , Anh M. T. Bui  Hanoi University of Science and Technology  , Phuong T. Nguyen  University of L’Aquila  , Davide Di Ruscio  University of L'Aquila    
+  Pre-print 
+ 17:00   
+ 15m    
+ Vision and Emerging Results | PromptLink: Multi-template prompt learning with adversarial training for issue-commit link recovery   ESEM Emerging Results, Vision and Reflection Papers Track   
+ Yang Deng  The School of Computer Science and Artificial Intelligence, Wuhan Textile University, Wuhan, China  , Bangchao Wang  Wuhan Textile University  , Zhiyuan Zou  The School of Computer Science and Artificial Intelligence, Wuhan Textile University, Wuhan, China  , Luyao Ye  The School of Computer Science and Artificial Intelligence, Wuhan Textile University, Wuhan, China 
+ 17:15   
+ 15m    
+ Journal Early-Feedback | GPTSniffer: A CodeBERT-based classifier to detect source code written by ChatGPT   ESEM Journal-First Papers   
+ Phuong T. Nguyen  University of L’Aquila  , Juri Di Rocco  University of L'Aquila  , Claudio Di Sipio  University of l'Aquila  , Riccardo Rubei  University of L'Aquila  , Davide Di Ruscio  University of L'Aquila  , Massimiliano Di Penta  University of Sannio, Italy    
+  Link to publication   DOI   Pre-print 
+
+ Fri 25 Oct   
+  
+ Displayed time zone: Brussels, Copenhagen, Madrid, Paris  change      
+
+ 11:00 - 12:30 | Human aspects and stakeholders ESEM Emerging Results, Vision and Reflection Papers Track  / ESEM Technical Papers  / ESEM Journal-First Papers   at Multimedia (B3 Building - Hall)   
+  Chair(s): Ronnie de Souza Santos  University of Calgary 
+ 11:00   
+ 20m    
+ Full-paper | An Investigation of How Software Developers Read Machine Learning Code   ESEM Technical Papers   
+ Thomas Weber  LMU Munich  , Christina Winiker  LMU Munich  , Sven Mayer  LMU Munich 
+ 11:20   
+ 20m    
+ Full-paper | What Makes Programmers Laugh? Exploring the Submissions of the Subreddit r/ProgrammerHumor.   ESEM Technical Papers   
+ Miikka Kuutila  Dalhousie University  , Leevi Rantala  University of Oulu  , Junhao Li  University of Oulu  , Simo Hosio  University of Oulu  , Mika Mäntylä  University of Helsinki and University of Oulu    
+  Pre-print 
+ 11:40   
+ 20m    
+ Full-paper | An Exploratory Study on Soft Skills present in Software Positions in Cyprus: a quasi-Replication Study   ESEM Technical Papers   
+ Georgia Kapitsaki  University of Cyprus  , Loukas Chatzivasili  University of Cyprus  , Maria Papoutsoglou  University of Cyprus  , Matthias Galster  University of Canterbury 
+ 12:00   
+ 15m    
+ Vision and Emerging Results | Effective Inclusion of People with Disabilities in Software Development Teams   ESEM Emerging Results, Vision and Reflection Papers Track   
+ Thayssa Rocha  Zup Innovation & UFPA  , Cleidson de Souza  Federal University of Pará Belém  , Luciano Teran  Universidade Federal do Pará  , Marcelle Mota  Universidade Federal do Pará 
+ 12:15   
+ 15m    
+ Journal Early-Feedback | Evaluating software security maturity using OWASP SAMM: Different approaches and stakeholders perceptions   ESEM Journal-First Papers   
+ Davide Fucci  Blekinge Institute of Technology  , Emil Alégroth  Blekinge Institute of Technology  , Michael Felderer  German Aerospace Center (DLR) & University of Cologne  , Christoffer Johannesson  Ericsson AB    
+  DOI 
+
+ 11:00 - 12:30 | Large language models in software engineering I ESEM Technical Papers  / ESEM Emerging Results, Vision and Reflection Papers Track   at Telensenyament (B3 Building - 1st Floor)   
+  Chair(s): Phuong T. Nguyen  University of L’Aquila 
+ 11:00   
+ 20m    
+ Full-paper | Optimizing the Utilization of Large Language Models via Schedule Optimization: An Exploratory Study   ESEM Technical Papers   
+ Yueyue Liu  The University of Newcastle  , Hongyu Zhang  Chongqing University  , Zhiqiang Li  Shaanxi Normal University  , Yuantian Miao  The University of Newcastle 
+ 11:20   
+ 20m    
+ Full-paper | A Comparative Study on Large Language Models for Log Parsing   ESEM Technical Papers   
+ Merve Astekin  Simula Research Laboratory  , Max Hort  Simula Research Laboratory  , Leon Moonen  Simula Research Laboratory and BI Norwegian Business School 
+ 11:40   
+ 20m    
+ Full-paper | Are Large Language Models a Threat to Programming Platforms? An Exploratory Study   ESEM Technical Papers   
+ Md Mustakim Billah  University of Saskatchewan  , Palash Ranjan Roy  University of Saskatchewan  , Zadia Codabux  University of Saskatchewan  , Banani Roy  University of Saskatchewan    
+  Pre-print 
+ 12:00   
+ 15m    
+ Vision and Emerging Results | Automatic Library Migration Using Large Language Models: First Results   ESEM Emerging Results, Vision and Reflection Papers Track   
+ Aylton Almeida  UFMG  , Laerte Xavier  PUC Minas  , Marco Tulio Valente  Federal University of Minas Gerais, Brazil 
+ 12:15   
+ 15m    
+ Vision and Emerging Results | Evaluating Large Language Models in Exercises of UML Class Diagram Modeling   ESEM Emerging Results, Vision and Reflection Papers Track   
+ Daniele De Bari  Politecnico di Torino  , Giacomo Garaccione  Politecnico di Torino  , Riccardo Coppola  Politecnico di Torino  , Marco Torchiano  Politecnico di Torino  , Luca Ardito  Politecnico di Torino 
+
+ 12:30 - 14:00 | Lunch Catering   at Unity (in front of Plaça Telecos) 
+ 12:30   
+ 90m    
+ Lunch | Lunch   Catering 
+
+ 14:00 - 15:30 | Empirical studies in various domains ESEM IGC  / ESEM Journal-First Papers  / ESEM Emerging Results, Vision and Reflection Papers Track   at Multimedia (B3 Building - Hall)   
+  Chair(s): Carolyn Seaman  University of Maryland Baltimore County 
+ 14:00   
+ 15m    
+ Industry talk | Do Test and Environmental Complexity Increase Flakiness? An Empirical Study of SAP HANA   ESEM IGC   
+ Alexander Berndt   , Thomas Bach  SAP  , Sebastian Baltes  University of Bayreuth    
+  Pre-print 
+ 14:15   
+ 15m    
+ Industry talk | Preliminary Insights on Industry Practices for Addressing Fairness Debt   ESEM IGC   
+ Ronnie de Souza Santos  University of Calgary  , Luiz Fernando de Lima   , Maria Teresa Baldassarre  Department of Computer Science, University of Bari  , Rodrigo Spinola  Virginia Commonwealth University    
+  Pre-print 
+ 14:30   
+ 15m    
+ Industry talk | From Struggle to Simplicity with a Usable and Secure API for Encryption in Java   ESEM IGC   
+ Ehsan Firouzi  TU Clausthal  , Ammar Mansuri  TU Clausthal  , Mohammad Ghafari  TU Clausthal  , Maziar Kaveh  Amazon AWS 
+ 14:45   
+ 15m    
+ Journal Early-Feedback | The influence of the city metaphor and its derivates in software visualization   ESEM Journal-First Papers   
+ David Moreno-Lumbreras  Universidad Rey Juan Carlos  , Jesus M. Gonzalez-Barahona  Universidad Rey Juan Carlos  , Gregorio Robles  Universidad Rey Juan Carlos  , Valerio Cosentino  Eventbrite    
+  DOI 
+ 15:00   
+ 15m    
+ Vision and Emerging Results | Code Clone Configuration as a Multi-Objective Search Problem   ESEM Emerging Results, Vision and Reflection Papers Track   
+ Denis Sousa  State University of Ceará  , Matheus Paixao  State University of Ceará  , Chaiyong Ragkhitwetsagul  Mahidol University  , Italo Uchoa  State University of Ceará 
+
+ 14:00 - 15:30 | Large language models in software engineering II ESEM Emerging Results, Vision and Reflection Papers Track  / ESEM IGC   at Telensenyament (B3 Building - 1st Floor)   
+  Chair(s): Claudio Di Sipio  University of l'Aquila 
+ 14:00   
+ 15m    
+ Vision and Emerging Results | Debugging with Open-Source Large Language Models: An Evaluation   ESEM Emerging Results, Vision and Reflection Papers Track   
+ Yacine Majdoub  IResCoMath Lab, University of Gabes  , Eya Ben Charrada  IResCoMath Lab, University of Gabes    
+  Link to publication   DOI   Pre-print 
+ 14:15   
+ 15m    
+ Vision and Emerging Results | Multi-language Software Development in the LLM Era: Insights from Practitioners’ Conversations with ChatGPT   ESEM Emerging Results, Vision and Reflection Papers Track   
+ Lucas Almeida Aguiar  State University of Ceará  , Matheus Paixao  State University of Ceará  , Rafael Carmo  Federal University of Ceará  , Edson Soares  Instituto Atlantico & State University of Ceara (UECE)  , Antonio Leal  State University of Ceará  , Matheus Freitas  State University of Ceará  , Eliakim Gama  State University of Ceará 
+ 14:30   
+ 15m    
+ Vision and Emerging Results | Exploring LLM-Driven Explanations for Quantum Algorithms   ESEM Emerging Results, Vision and Reflection Papers Track   
+ Giordano d'Aloisio  University of L'Aquila  , Sophie Fortz  King's College London  , Carol Hanna  University College London  , Daniel Fortunato  INESC-ID, University of Porto  , Avner Bensoussan  King's College London  , Eñaut Mendiluze Usandizaga  Simula Research Laboratory, Norway  , Federica Sarro  University College London    
+  Pre-print 
+ 14:45   
+ 15m    
+ Industry talk | Beyond Words: On Large Language Models Actionability in Mission-Critical Risk Analysis   ESEM IGC   
+ Matteo Esposito  University of Oulu  , Francesco Palagiano  Multitel di Lerede Alessandro & C. s.a.s.  , Valentina Lenarduzzi  University of Oulu  , Davide Taibi  University of Oulu    
+  Pre-print 
+ 15:00   
+ 15m    
+ Vision and Emerging Results | Detecting Code Smells using ChatGPT: Initial Insights   ESEM Emerging Results, Vision and Reflection Papers Track   
+ Luciana L. Silva  Federal University of Minas Gerais  , Janio R. Silva  IFMG  , João Eduardo Montandon  Universidade Federal de Minas Gerais (UFMG)  , Marcus Andrade  IFMG  , Marco Tulio Valente  Federal University of Minas Gerais, Brazil 
+ 15:15   
+ 15m    
+ Industry talk | ChatGPT’s Potential in Cryptography Misuse Detection: A Comparative Analysis with Static Analysis Tools   ESEM IGC   
+ Ehsan Firouzi  TU Clausthal  , Mohammad Ghafari  TU Clausthal  , Mike Ebrahimi  CUBE 
+
+ 15:30 - 16:00 | Coffee break Catering   at Agora (in front of Plaça Telecos) 
+ 15:30   
+ 30m    
+ Coffee break | Break   Catering 
+
+ 16:00 - 17:10 | Relationships and theory building ESEM Journal-First Papers  / ESEM Technical Papers   at Multimedia (B3 Building - Hall)   
+  Chair(s): Rogardt Heldal  Western Norway University of Applied Science 
+ 16:00   
+ 20m    
+ Full-paper | Gamification of a BPMN Modeling Course: an Analysis of Effectiveness and Student Perception   ESEM Technical Papers   
+ Giacomo Garaccione  Politecnico di Torino  , Riccardo Coppola  Politecnico di Torino  , Luca Ardito  Politecnico di Torino  , Marco Torchiano  Politecnico di Torino 
+ 16:20   
+ 20m    
+ Full-paper | Data Analysis Tools Affect Outcomes of Eye-Tracking Studies   ESEM Technical Papers   
+ Timon Dörzapf  Saarland University, Saarland Informatics Campus  , Norman Peitek  Saarland University  , Marvin Wyrich  Saarland University  , Sven Apel  Saarland University 
+ 16:40   
+ 15m    
+ Journal Early-Feedback | A Theory of Factors Affecting Continuous Experimentation (FACE)   ESEM Journal-First Papers   
+ Rasmus Ros  Theca Systems  , Elizabeth Bjarnason  Lund University, Sweden  , Per Runeson  Lund University    
+  DOI 
+ 16:55   
+ 15m    
+ Journal Early-Feedback | It’s about time: How to study intertemporal choice in systems design   ESEM Journal-First Papers   
+ Fabian Fagerholm  Aalto University  , Andres De los Ríos   , Carol Cárdenas-Castro  S4N  , Jenny Gil  S4N  , Alexander Chatzigeorgiou  University of Macedonia  , Apostolos Ampatzoglou  University of Macedonia  , Christoph Becker  University of Toronto    
+  DOI 
+
+ 16:00 - 17:00 | Empirical studies for programming languages challenges ESEM Technical Papers  / ESEM Emerging Results, Vision and Reflection Papers Track   at Telensenyament (B3 Building - 1st Floor)   
+  Chair(s): Julian Frattini  Blekinge Institute of Technology 
+ 16:00   
+ 20m    
+ Full-paper | Cross-Language Dependencies: An Empirical Study of Kotlin-Java   ESEM Technical Papers   
+ Qiong Feng  Nanjing University of Science and Technology  , Huan Ji  Huawei Nanjing Research Center  , Xiaotian Ma  Nanjing University of Science and Technology  , Peng Liang  Wuhan University, China    
+  Pre-print   Media Attached 
+ 16:20   
+ 20m    
+ Full-paper | Broken Agreement: The Evolution of Solidity Error Handling   ESEM Technical Papers   
+ Charalambos Ioannis Mitropoulos  Technical University of Crete  , Maria Kechagia  University College London  , Chrysostomos Maschas  GRNET  , Sotirios Ioannidis  Technical University of Crete  , Federica Sarro  University College London  , Dimitris Mitropoulos  University of Athens 
+ 16:40   
+ 15m    
+ Vision and Emerging Results | Rusty Linux: Advances in Rust for Linux Kernel Development   ESEM Emerging Results, Vision and Reflection Papers Track   
+ Shane Panter  Boise State University  , Nasir Eisty  Boise State University 
+
+ Accepted Papers  
+  
+ Title 
+ Automatic Categorization of GitHub Actions with Transformers and Few-shot Learning  ESEM Emerging Results, Vision and Reflection Papers Track   
+ Phuong T. Nguyen  , Juri Di Rocco  , Claudio Di Sipio  , Mudita Shakya  , Davide Di Ruscio  , Massimiliano Di Penta    
+  Pre-print 
+ Automatic Library Migration Using Large Language Models: First Results  ESEM Emerging Results, Vision and Reflection Papers Track   
+ Aylton Almeida  , Laerte Xavier  , Marco Tulio Valente 
+ Can ChatGPT emulate humans in software engineering surveys?  ESEM Emerging Results, Vision and Reflection Papers Track   
+ Igor Steinmacher  , Jacob Mcauley Penney  , Katia Romero Felizardo  , Alessandro Garcia  , Marco Gerosa 
+ Code Clone Configuration as a Multi-Objective Search Problem  ESEM Emerging Results, Vision and Reflection Papers Track   
+ Denis Sousa  , Matheus Paixao  , Chaiyong Ragkhitwetsagul  , Italo Uchoa 
+ Crossover Designs in Software Engineering Experiments: Review of the State of Analysis  ESEM Emerging Results, Vision and Reflection Papers Track   
+ Julian Frattini  , Davide Fucci  , Sira Vegas    
+  Link to publication   DOI   Pre-print   Media Attached 
+ Data extraction for systematic mapping study using a large language model - a proof-of-concept study in software engineering  ESEM Emerging Results, Vision and Reflection Papers Track   
+ Katia Romero Felizardo  , Igor Steinmacher  , Marcia Sampaio Lima  , Anderson Deizepe  , Tayana Conte  , Monalessa P. Barcellos 
+ Debugging with Open-Source Large Language Models: An Evaluation  ESEM Emerging Results, Vision and Reflection Papers Track   
+ Yacine Majdoub  , Eya Ben Charrada    
+  Link to publication   DOI   Pre-print 
+ DetectBERT: Towards Full App-Level Representation Learning to Detect Android Malware  ESEM Emerging Results, Vision and Reflection Papers Track   
+ Tiezhu Sun  , Nadia Daoudi  , Kisub Kim  , Kevin Allix  , Tegawendé F. Bissyandé  , Jacques Klein 
+ Detecting Code Smells using ChatGPT: Initial Insights  ESEM Emerging Results, Vision and Reflection Papers Track   
+ Luciana L. Silva  , Janio R. Silva  , João Eduardo Montandon  , Marcus Andrade  , Marco Tulio Valente 
+ Do Developers Use Static Application Security Testing (SAST) Tools Straight Out of the Box? A large-scale Empirical Study  ESEM Emerging Results, Vision and Reflection Papers Track   
+ Gareth Bennett  , Tracy Hall  , Steve Counsell  , Emily Winter  , Thomas Shippey 
+ Effective Inclusion of People with Disabilities in Software Development Teams  ESEM Emerging Results, Vision and Reflection Papers Track   
+ Thayssa Rocha  , Cleidson de Souza  , Luciano Teran  , Marcelle Mota 
+ Evaluating Large Language Models in Exercises of UML Class Diagram Modeling  ESEM Emerging Results, Vision and Reflection Papers Track   
+ Daniele De Bari  , Giacomo Garaccione  , Riccardo Coppola  , Marco Torchiano  , Luca Ardito 
+ Exploring LLM-Driven Explanations for Quantum Algorithms  ESEM Emerging Results, Vision and Reflection Papers Track   
+ Giordano d'Aloisio  , Sophie Fortz  , Carol Hanna  , Daniel Fortunato  , Avner Bensoussan  , Eñaut Mendiluze Usandizaga  , Federica Sarro    
+  Pre-print 
+ Multi-language Software Development in the LLM Era: Insights from Practitioners’ Conversations with ChatGPT  ESEM Emerging Results, Vision and Reflection Papers Track   
+ Lucas Almeida Aguiar  , Matheus Paixao  , Rafael Carmo  , Edson Soares  , Antonio Leal  , Matheus Freitas  , Eliakim Gama 
+ On the Creation of Representative Samples of Software Repositories  ESEM Emerging Results, Vision and Reflection Papers Track   
+ June Gorostidi  , Adem Ait  , Jordi Cabot  , Javier Luis Cánovas Izquierdo    
+  Pre-print 
+ PromptLink: Multi-template prompt learning with adversarial training for issue-commit link recovery  ESEM Emerging Results, Vision and Reflection Papers Track   
+ Yang Deng  , Bangchao Wang  , Zhiyuan Zou  , Luyao Ye 
+ Rusty Linux: Advances in Rust for Linux Kernel Development  ESEM Emerging Results, Vision and Reflection Papers Track   
+ Shane Panter  , Nasir Eisty 
+ Towards Automated Continuous Security Compliance  ESEM Emerging Results, Vision and Reflection Papers Track   
+ Florian Angermeir  , Jannik Fischbach  , Fabiola Moyon  , Daniel Mendez    
+  Pre-print 
+
+ Important Dates   AoE (UTC-12h)     
+
+ Fri 6 Sep 2024  
+  Camera-ready 
+ Mon 22 Jul 2024  
+  Notification 
+ Fri 7 Jun 2024  
+  Submission 
+ Thu 30 May 2024  
+  Abstract 
+
+ Contacts    
+   
+ Marcela Fabiana Genero Bocco Co-chair    
+ University of Castilla-La Mancha   
+ Spain 
+  Lucas Layman Co-chair    
+ University of North Carolina Wilmington   
+ United States 
+    
+ Program Committee    
+   
+ Nauman Ali Committee Member    
+ Blekinge Institute of Technology   
+ Sweden 
+  Shaukat Ali Committee Member    
+ Simula Research Laboratory and Oslo Metropolitan University   
+ Norway 
+  Apostolos Ampatzoglou Committee Member    
+ University of Macedonia   
+ Greece 
+  Leandro Antonelli Committee Member    
+ National University of La Plata 
+  Claudia Ayala Committee Member    
+ Universitat Politècnica de Catalunya, Spain   
+ Spain 
+  Monalessa P. Barcellos Committee Member    
+ Federal University of Espírito Santo   
+ Brazil 
+  Beatriz Bernárdez Committee Member    
+ Universidad de Sevilla   
+ Spain 
+  Cristina Cachero Committee Member    
+ Universidad de Alicante 
+  Carlos Cetina Committee Member    
+ Universitat Politècnica de València, Spain   
+ Spain 
+  Jeremías P. Contell Committee Member    
+ University of the Basque Country (UPV/EHU) 
+  Yania Crespo Committee Member    
+ University of Valladolid   
+ Spain 
+  Jose Antonio Cruz-Lemus Committee Member    
+ University of Castilla-La Mancha   
+ Spain 
+  Jose Luis de la Vara Committee Member    
+ Universidad de Castilla - La Mancha   
+ Spain 
+  Andrea De Lucia Committee Member    
+ University of Salerno   
+ Italy 
+  Cleidson de Souza Committee Member    
+ Federal University of Pará Belém   
+ Brazil 
+  Ronnie de Souza Santos Committee Member    
+ University of Calgary   
+ Canada 
+  Andrea Delgado Committee Member    
+ Universidad de la Republica   
+ Uruguay 
+  Davide Di Ruscio Committee Member    
+ University of L'Aquila   
+ Italy 
+  Oscar Diaz Committee Member    
+ University of the Basque Country, Spain 
+  Jessica Díaz Committee Member    
+ Universidad Politécnica de Madrid   
+ Spain 
+  Andres Diaz Pace Committee Member    
+ UNICEN University 
+  Oscar Dieste Committee Member    
+ Universidad Politécnica de Madrid   
+ Spain 
+  Torgeir Dingsøyr Committee Member    
+ Norwegian University of Science and Technology   
+ Norway 
+  Francisco José Domínguez Mayo Committee Member    
+ University of Seville 
+  María José Escalona Committee Member    
+ University of Seville 
+  Marta Fernández-Diego Committee Member    
+ Universitat Polit�cnica de Val�ncia 
+  Ana M. Fernández-Sáez Committee Member    
+ Telefonica   
+ Spain 
+  Filomena Ferrucci Committee Member    
+ University of Salerno   
+ Italy 
+  Eduardo Figueiredo Committee Member    
+ Federal University of Minas Gerais   
+ Brazil 
+  Felix García Committee Member    
+ University of Castilla-La Mancha   
+ Spain 
+  Alejandra Garrido Committee Member    
+ LIFIA, University of La Plata & CONICET, Argentina 
+  Giovanni Giachetti Committee Member    
+ Universidad Andrés Bello Chile 
+  Javier Gonzalez-Huerta Committee Member    
+ Blekinge Institute of Technology   
+ Sweden 
+  Carmine Gravino Committee Member    
+ University of Salerno 
+  Julian Grigera Committee Member    
+ LIFIA, UNLP 
+  Rachel Harrison Committee Member    
+ Oxford Brookes University   
+ United Kingdom 
+  Rogardt Heldal Committee Member    
+ Western Norway University of Applied Science   
+ Norway 
+  Emilio Insfran Committee Member    
+ Universitat Politècnica de València, Spain   
+ Spain 
+  Emanuel Agustin Irrazábal Committee Member    
+ Universidad Nacional del Nordeste 
+  Jil Klünder Committee Member    
+ Leibniz Universität Hannover   
+ Germany 
+  Jacob Krüger Committee Member    
+ Eindhoven University of Technology   
+ Netherlands 
+  Luigi Lavazza Committee Member    
+ Università degli Studi dell'Insubria   
+ Italy 
+  Jingyue Li Committee Member    
+ Norwegian University of Science and Technology (NTNU)   
+ Norway 
+  Emilia Mendes Committee Member    
+ Aarhus University   
+ Denmark 
+  Mª Angeles Moraga Committee Member    
+ University of Castilla-La Mancha 
+  Elena Navarro Committee Member    
+ University of Castilla-La Mancha   
+ Spain 
+  Ipek Ozkaya Committee Member    
+ Carnegie Mellon University   
+ United States 
+  Nicolas Paez Committee Member    
+ Universidad Nacional de Tres de Febrero   
+ Argentina 
+  Marisa Daniela Panizzi Committee Member    
+ Universidad Nacional de Hurlingham 
+  José Antonio Parejo Maestre Committee Member    
+ University of Sevilla 
+  Vicente Pelechano Committee Member    
+ Universitat Politècnica de València 
+  Mario Piattini Committee Member    
+ University of Castilla-La Mancha, Spain 
+  Sebastián Pizard Committee Member    
+ Universidad de la República   
+ Uruguay 
+  Rafael Prikladnicki Committee Member    
+ School of Technology at PUCRS University   
+ Brazil 
+  Fabio Q. B. da Silva Committee Member    
+ Federal University of Pernambuco   
+ Brazil 
+  Azzurra Ragone Committee Member    
+ University of Bari   
+ Italy 
+  Gabriela Robiolo Committee Member    
+ Universidad Austral   
+ Argentina 
+  Gregorio Robles Committee Member    
+ Universidad Rey Juan Carlos   
+ Spain 
+  Moises Rodríguez Committee Member    
+ University of Castilla-La Mancha   
+ Spain 
+  Pilar Rodriguez Committee Member    
+ Universidad Politécnica de Madrid   
+ Spain 
+  Preethu Rose Anish Committee Member    
+ TCS Research   
+ India 
+  Daniela Cruzes Committee Member    
+ Norwegian University of Science and Technology   
+ Norway 
+  Mary Sánchez-Gordón Committee Member    
+ Østfold University College   
+ Norway 
+  Federica Sarro Committee Member    
+ University College London   
+ United Kingdom 
+  Dag Sjøberg Committee Member    
+ University of Oslo   
+ Norway 
+  Sergio Soares Committee Member    
+ Informatics Center - CIn/UFPE   
+ Brazil 
+  Isabel Sofia Sousa Brito Committee Member    
+ Instituto Politécnico de Beja   
+ Portugal 
+  Margaret-Anne Storey Committee Member    
+ University of Victoria 
+  Damiano Torre Committee Member    
+ University of Luxembourg   
+ Luxembourg 
+  Pedro Valderas Committee Member    
+ Universitat Politècnica de València   
+ Spain 
+  Sira Vegas Committee Member    
+ Universidad Politecnica de Madrid   
+ Spain 
+  Laurie Williams Committee Member    
+ North Carolina State University   
+ United States 
+  Krzysztof Wnuk Committee Member    
+ Blekinge Institute of Technology   
+ Sweden 
+  Mansooreh Zahedi Committee Member    
+ The Univeristy of Melbourne   
+ Australia 
+  Lei Zhang Committee Member    
+ University of Maryland Baltimore County   
+ United States 
+  He Zhang Committee Member    
+ Nanjing University   
+ China 
+
+ x  Wed 4 Dec 13:01    
+
+  ESEIW 2024   
+  contact form    
+  using conf.researchr.org  ( v1.67.1  )  
+   Support page    
+     
+ ESEIW 2024  
+ ESEIW ESEM   
+  ESEM Technical Papers   
+  ESEM Emerging Results, Vision and Reflection Papers Track   
+  ESEM Registered Reports   
+  ESEM Journal-First Papers   
+  ESEM IGC   
+  ESEM Research Projects   
+  ESEM Student Volunteers   
+  IDoESE Doctoral Symposium   
+  IASESE Advanced School   
+  ISERN    
+
+ Attending  
+ Campus: Polytechnic University of Catalonia, North Campus   
+  Registration   
+  Where to stay in Barcelona   
+  ESEM Social Events   
+  ISERN Social Events   
+  ESEM Code of Conduct    
+ Sign Up    
+
+  

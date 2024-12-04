@@ -1,0 +1,604 @@
+Home  ☰  Program   Attending  Workshops  Organizers  More   Sponsors  CFP  Accessibility  Author Guide  UIST Archive    
+
+  Call for Participation  
+ Call for Participation 
+  Papers 
+  Posters 
+  Demos 
+  Workshops 
+  Visions 
+  Doctoral Symposium 
+  Student Innovation Contest 
+  Student Volunteers 
+  Lasting Impact 
+  Deadlines  
+ Note: all deadlines are at 5pm PT unless otherwise specified.  
+  
+ Papers (abstract) | Wednesday, March 27, 2024 
+ Papers (paper PDF) | Wednesday, April 3, 2024 
+ Papers (materials)  
+  incl. Videos, Supplementary materials, Accessibility alt-text and video subtitles | Friday, April 5, 2024 
+ Posters | Friday, July 5, 2024 
+ Demos | Friday, July 19, 2024 
+ Workshops | Friday, July 19, 2024 
+ Visions | Thursday, August 15, 2024 
+ Doctoral Symposium | Friday, July 19, 2024 
+ Student Innovation Contest | Friday, July 26, 2024 
+ Student Volunteers | Friday August 23, 2024 
+  
+ UIST 2024 Author Guide    
+
+  Papers  
+ Papers are the main medium for conveying new research results at UIST and must describe original, unpublished work.  
+ For questions, please email the program chairs at program2024@uist.org  .  
+  
+ Abstract due  
+  incl. title, abstract, author list | Wednesday, March 27, 2024 
+ Papers due (Paper PDF) | Wednesday, April 3, 2024 
+ Materials due  
+  incl. videos, supplementary materials, accessibility alt-text and video subtitles | Friday, April 5, 2024 
+ Initial reviews sent to authors | Monday, June 3, 2024 
+ Rebuttals due | Wednesday, June 12, 2024 
+ Decisions sent to authors (conditional accept or reject) | Saturday, June 29, 2024 
+ Final reviews sent to authors | Wednesday, July 3, 2024 
+ Camera-ready versions due | Wednesday, July 24, 2024 
+ Final acceptance decision | Thursday, August 1, 2024 
+ Video preview due | Wednesday, August 7, 2024 
+  
+ PCS Submissions     
+ Submission Formatting Guidelines for UIST 2024  
+ We strongly recommend submitting papers in the 2-column format  , but will accept papers for review as either 1- or 2-column paper format if you are authoring in Word. The rationale for strongly recommending a 2-column format is that reviewers have generally expressed a strong preference for printing and reading PDFs in a two-column format. Additionally, the PDFs that appear in the digital library are ultimately two-column. However, as we do use the TAPS workflow, we understand that Word users may want to utilize the single-column template.  
+ Your submission must be original  . UIST only accepts original submissions. This means that your submission cannot have been published in another peer-reviewed venue or be under concurrent review at another peer-reviewed venue. Similarly, if you make multiple submissions to UIST 2024 Papers, their contributions must be distinct & self-contained from each other. Please refer to the author guide   for details. Additionally, authors should avoid generated context by AI-agents (e.g., LLMs such as ChatGPT or similar).  
+ Revised Papers from Prior Submissions:  To ensure consistency of the review process, we encourage authors of previously rejected papers to upload the prior version of the paper, corresponding reviews, and summary of changes from the last round of submission as part of the UIST 2024 paper submission process.  
+ Submission Information  
+ Submission Platform   
+ All required materials must be | submitted electronically to PCS | by the abstract and paper deadline. 
+  In PCS, first click “Submissions” at the top of the page, from the dropdown menus for society, conference, and track select “SIGCHI”, “UIST 2024” and “UIST 2024 Papers”, respectively, and press “Go.” This track will be opened a few weeks before the submission deadline. 
+    
+ Submission Format and Length   
+ Required Paper PDF and source files 
+  We will adopt the ACM TAPS Workflow | . 
+  For | LaTeX authors | , submissions should be made using the | double-column format | ( | example PDF | ) using | \documentclass[sigconf,review,anonymous]{acmart} | . 
+  For | Word authors | , submissions should be made using either the double-column format ( | submission template | , | example PDF | ) or the single-column template ( | submission template | , | example PDF | ). 
+  UIST papers are of variable length. Paper length must be based on the weight of the contribution. A new idea presented in a compact format is more likely to be accepted than the same idea in a long format, and shorter, more focused papers are encouraged. As a guideline, consider | Short Papers | being submissions of 5,000 words or less. 
+  Standard Length Papers | being submissions between 5,000 and 12,000 words are considered standard length (about 7,000-8,000 words on average). 
+  Size: < 50 MB (compressed PDF files are encouraged during submission) 
+    
+ Accompanying Video   
+ Optional, but highly encouraged 
+  Resolution of 1080p (1920 x 1080) or 4k (3840 x 2160 px), encoded as MP4 using the H.264 codec 
+  No more than 5 minutes long 
+  Size: < 250 MB 
+  Subtitles are required using a separate .srt or .sbv file 
+    
+ Maximum File Size   
+ Maximum total size for all files < 300 MB 
+    
+ Anonymity   
+ Anonymous, i.e. authors must remove their names and affiliations throughout all submission materials (paper, videos, supplementary material) | (anonymity policy  ) 
+  Discuss your own prior work in 3rd person and include a full reference with names. 
+    
+ Selection Process   
+ Refereed, i.e. the program committee and two external reviewers will review submitted papers 
+    
+ Publication   
+ Archival, i.e. accepted papers will be published in the ACM Digital Library and distributed in digital form to conference attendees 
+    
+ Final Publication Format   
+ As required by the TAPS workflow, camera-ready manuscripts of all papers that have been accepted must be submitted in the formats listed below for final publication in the ACM Digital Library. 
+  For | LaTeX authors | , your source files will be used to auto-generate (1) a double-column PDF ( | example PDF | ), and (2) an accessible and responsive webpage ( | example HTML | ) that will be placed in the Digital Library. 
+  For | Word authors | , you will need to submit your paper in | single-column format | to correctly auto-generate (1) a double-column PDF ( | example PDF | ), and (2) an accessible and responsive webpage ( | example HTML | ) in the Digital Library. 
+    
+ Presentation Format   
+ Talk at the conference delivered by one or more authors of the paper 
+    
+ Video Preview   
+ Video previews are mandatory. 
+  Recommended resolution: 1080p (1920 x 1080) or 4k (3840 x 2160 px), encoded as MP4 using the H.264 codec 
+  Length: 30 seconds 
+  Size: < 150 MB 
+  Subtitles are required using a separate .srt or .sbv file 
+  Please see the | video guide | for more information on producing a video preview. 
+  We strongly recommend that authors make their videos accessible through following the guidelines under | Making Video Figures Accessible | . 
+    
+ Demo   
+ Authors of accepted papers will be invited to participate in the UIST | demo session | . 
+
+ Additional Notes  
+ We will continue to put the papers up publicly on the ACM DL a week in advance of the conference. 
+  Authors may submit a rebuttal after the reviews are released. Though the ACs may indicate if the rebuttal is likely to help the paper being accepted (based on reviews and internal discussions), any author may choose to respond. A rebuttal response by Associate Chairs and external reviewers will be enforced by the Program Chairs as much as possible. 
+  The video has traditionally been due the same day as paper submissions and this has always been stressful. We will allow for 2 more grace days after the paper submission deadline for uploading your optional video. 
+  Accessibility: Accessible submissions are essential for reviewers and are good practice. To this end, we allow 2 more grace days after the paper submission deadline to provide alt-text for all figures and tables and upload video subtitles for making your optional video accessible. Allowing additional time for your paper and video submissions to be accessible will overall help increase the quality of the conference and enable us to facilitate accessible reviewing. If the authors have difficulties with making their submission materials accessible, they are encouraged to contact the UIST 2024 Accessibility Chairs by emailing | accessibility2024@uist.org | and volunteers with questions or for assistance to ensure that all accessible materials are submitted by the deadline. We strongly recommend that authors read the | SIGCHI Guidelines for an Accessible Submission | which describes the process to make a paper submission accessible, as well as the | SIGCHI Technical Requirements and Guidelines for Videos | , which describes the process of accessible video creation and captioning. 
+
+ Program Chairs   
+ program2024@uist.org   
+  Alexandra Ion   
+ Carnegie Mellon University   
+   
+   Pedro Lopes   
+ University of Chicago   
+
+  Posters  
+ Posters provide an interactive forum in which authors can present their work to conference attendees during special poster sessions. Posters are an opportunity to describe new work or work that is still in progress, and work that is already presented in other venues but to share more with the UIST community. Posters are non-archival and will be more lightly reviewed (curated) than papers.  
+ For questions, please email the poster chairs at posters2024@uist.org  .  
+  
+ Submission deadline | Friday, July 5, 2024, 5pm PT 
+ Acceptance notification | Friday, August 2, 2024, 5 pm PT 
+ Camera-ready versions due | Friday, August 9, 2024, 5pm PT 
+ Video preview due | Friday, August 23, 2024, 5pm PT 
+  
+ Submission Information  
+ Submission Platform   
+ All materials must be submitted electronically to PCS 2.0 before the submission deadline  . 
+  In PCS 2.0, first click “Submissions” at the top of the page, from the dropdown menus for society, conference, and track select “SIGCHI”, “UIST 2024” and “UIST 2024 Posters”, respectively, and press “Go.” 
+    
+ Submission Format and Length   
+ Poster’s Extended Abstract 
+  The extended abstract should not exceed 2 pages (excluding references). 
+  The double-column ACM paper template should be used for the submission process. 
+  For Overleaf/LaTeX authors, this means that the following command should be used: \documentclass[sigconf, review]{acmart} 
+  For Microsoft Word authors, submissions should be made using the double-column format ( | submission template | , | example PDF | ). 
+  Accepted submissions will go through the ACM TAPS Workflow | . 
+   
+  Accompanying Poster 
+  Full-size poster design in PDF to be displayed on the Web. 
+  Recommended physical size is less than 30 X 40 inches (76 X 101 cm) in either portrait or landscape. 
+    
+ Accompanying Video   
+ Optional, but highly encouraged. 
+  Videos will be displayed through appropriate web access | (example gallery view from UIST’20  ) 
+  Resolution of 1080p (1920 x 1080) or 4k (3840 x 2160 px), encoded as MP4 using the H.264 codec. 
+  No more than five minutes long. 
+  Size: < 150 MB. 
+  Subtitles are required using a separate .srt or .sbv file. 
+    
+ Maximum File Size   
+ Maximum total size for all files < 150 MB 
+    
+ Anonymity   
+ Not anonymous; include author names and institutions on the extended abstract, poster, and the optional video. 
+    
+ Selection Process   
+ Juried. 
+  Less rigorous than a paper review and does not include an author’s response or conditional acceptance, i.e., authors may expect to only receive light feedback. 
+  Juried content is generally not required to make the same level of lasting and significant contribution as refereed content. 
+    
+ Publication   
+ Non-archival, ideas described in UIST posters can be resubmitted as an extended full paper in subsequent years and ideas already presented in previous years or other venues are also welcomed. 
+  The 2-page extended abstracts will be included in the ACM Digital Library as adjunct proceedings and distributed in digital form to conference attendees, the Poster design will not be included in the ACM Digital Library. 
+    
+ Presentation Format   
+ At least one author is requested to register and stand by their poster during the poster session to speak with conference attendees. 
+    
+ Concurrent UIST Demo Submission   
+ The same work | cannot | be submitted to both the UIST demo and poster tracks. Double submissions will only be considered as demo submissions and will be rejected from the poster track 
+    
+ Novelty of Work   
+ Resubmission of posters previously shown at other venues is allowed. 
+  Please state previous poster venues and differences from previous posters in the appropriate box in PCS. 
+
+ Posters Chairs   
+ posters2024@uist.org   
+  Parastoo Abtahi   
+ Princeton University   
+   
+   Koya Narumi   
+ Keio University   
+
+  Demos  
+ Demos are one of the highlights of the UIST conference. Accepted authors show implementations of novel and compelling interaction concepts, techniques, devices and systems. We particularly encourage highly interactive demos — from novel web systems and prototype devices, to new materials, fabrication methods, XR and large interactive installations. All demo submissions go through a rigorous curation process. The demo chairs will announce recommendations for presentation formats, logistics and provide early access for technical setup before the conference.  
+ For questions, please email the demo chairs at demos2024@uist.org  .  
+  
+ Submission deadline | Friday, July 19, 2024, 5pm PT 
+ Acceptance notification | Friday, August 2, 2024, 5pm PT 
+ Camera-ready versions due | Friday, August 9, 2024, 5pm PT 
+ Video preview due | Friday, August 23, 2024, 5pm PT 
+  
+ Submission Information  
+ Submission Platform   
+ All materials must be submitted electronically to PCS 2.0 before the submission deadline  . 
+  In PCS 2.0, first click “Submissions” at the top of the page, from the dropdown menus for society, conference, and track select “SIGCHI”, “UIST 2024” and “UIST 2024 Demos, respectively, and press “Go.” 
+    
+ Submission Format and Length   
+ Demo Abstract 
+  We will adopt the ACM TAPS Workflow | . 
+  For | LaTeX authors | , submissions should be made using the double-column format ( | example PDF | ) using | \documentclass[sigconf,review]{acmart} | . 
+  For | Word authors | , submissions should be made using either the double-column format ( | submission template | , | example PDF | ) or the single-column template ( | submission template | , | example PDF | ). 
+  We do not have a strong page limit, but we recommend that authors prepare a manuscript of ~1,500-2,000 words to equate to the double column 2-page length, often 4-5 pages in the single column (plus references). Submissions could be both single-column or double-column format in PDF. | We strongly encourage to use the double-column format. 
+   
+  Floor Plan 
+  The demo submission should include a PDF document describing the envisioned setup and interaction (demo hardware components, tables, chairs, lights, and other equipment) so that organizers get a good understanding of your setup. 
+  This will also allow the organizers to better consider your requirements when organizing the demonstration space at the venue. 
+   
+  Demo Video 
+  Optional, but strongly encouraged for regular demo submissions. 
+  This video should be a standalone demonstration of the work 
+  It shows the working demo in appropriate detail 
+  It will be published ahead of time (~2 weeks before the conference) on the conference website 
+  Length: up to 5 min 
+  Resolution of 1080p (1920 x 1080) or 4k (3840 x 2160 px), encoded as MP4 using the H.264 codec 
+  Subtitles are required using a separate .srt or .sbv file 
+    
+ Preview Video   
+ Video previews are mandatory 
+  Resolution of 1080p (1920 x 1080) or 4k (3840 x 2160 px), encoded as MP4 using the H.264 codec 
+  Size: < 150 MB 
+  Length: 30 seconds 
+  Subtitles are required using a separate .srt or .sbv file 
+    
+ Anonymity   
+ Demo submissions are not anonymous. Author names and institutions will be visible to the reviewing committee throughout the submission process. 
+    
+ Selection Process   
+ Demos are juried by the UIST demo chairs, and there is no rebuttal phase 
+  Due to the nature of the juried process, authors will not receive review feedback and will only be informed about the decision 
+    
+ Publication   
+ Non-archival, ideas presented as a UIST demo can be resubmitted as an extended full paper in subsequent years 
+  Demo abstracts will be included in the ACM digital library as adjunct proceedings and distributed in digital form to conference attendees 
+    
+ Presentation Format   
+ At least one author is required to be physically present at the conference and present their demo during demo sessions 
+    
+ Lab Demos   
+ If the authors have multiple demo submissions from the same lab/company, we can group these demos together at the venue. Please indicate the submission IDs of all demos from the same lab on the PCS submission page. 
+    
+ Concurrent UIST Poster Submission   
+ The same work | cannot | be submitted to both the UIST demo and poster tracks. Double submissions will only be considered as a demo submission and will be rejected from the poster track 
+    
+ Novelty of Work   
+ Resubmission of demos previously shown at other venues is allowed 
+    
+ Demos of Accepted UIST 2024 Papers   
+ Authors of accepted full papers who also want to present a demo have to  submit an entry into the demos track. They have two choices: | (1) Regular demo submission  : authors are welcome to submit a demo abstract (approx. 2 pages), which will result in the abstract being included in the ACM digital library adjunct proceedings. This is sometimes relevant to reflect differences between paper and demo, e.g., changes in the list or order of authors. Since demo publications are non-archival, authors are welcome to adapt content from their full UIST paper or other prior publication. We encourage authors to use a distinct title from the full paper (e.g., “Demonstration of …”) to avoid confusion in citations and search results. | (2) Fast track  : Paper authors can indicate in their demo submission that they want to submit a fast track demo. In that case, no demo abstract is required. However, authors are still required to submit a video preview and other relevant data (e.g., title, abstract, floorplan). We intend to accept as many fast track demos as logistics and space allows. 
+    
+ Changes in author list and affiliations   
+ Please make sure that all authors and their affiliation are correct before submitting in PCS 
+  It is not possible to add or remove any author from a demo abstract after submission 
+  It is not possible to change the affiliation of any author after the submission 
+
+ Demos Chairs   
+ demos2024@uist.org   
+  Thijs Roumen   
+ Cornell Tech   
+   
+   Eric Whitmire   
+ Meta   
+
+  Workshops  
+ Workshops provide an interactive forum in which organizers can discuss a designated area of interest with fellow conference attendees during special workshop sessions the day before the paper track begins (i.e., workshops will happen on Sunday). Workshops should reflect the nature of UIST: engaging, interactive and cutting-edge. Consider activities such as discussions, demonstrations, brainstormings, and prototyping. Workshops activities should target the active participation of approximately 20-60 participants. Workshop participants will not   be required to register for the main conference; there will be a fee to attend workshops.  
+ Given space and activity limitations, participants will need to apply by, e.g., answering a few open-ended questions with short answers, to participate; workshop organizers cannot require a position paper or similar longer submission. Similarly, there should be no expectation that workshop participants will submit their own previously published works to attend a workshop.  
+ Workshop descriptions should include a clear scope, a proposed format, a preliminary agenda, and intended audience, and how you will facilitate audience interaction with organizers and each other. We encourage not just typical UIST topics of interest but also intersections between UIST and other communities within and beyond HCI. These workshop descriptions are non-archival but can be included in the ACM DL adjunct proceedings in the same way posters’ extended abstracts are, if the organizers wish. Submissions will be selected by the organizers based on topic fit, quality of anticipated interaction, and anticipated interest.  
+ For questions, please email the workshop chairs at workshops2024@uist.org  .  
+  
+ Submission deadline | Friday, July 19, 2024, 5pm PT 
+ Acceptance notification,  
+  at which point workshop organizers can begin advertising | Friday, August 2, 2024, 5pm PT 
+ [optional] Workshop description camera-ready version due | Friday, August 9, 2024, 5pm PT 
+  
+ Submission Information  
+ Submission Platform   
+ All materials must be submitted electronically to PCS 2.0 before the submission deadline  . 
+  In PCS 2.0, first click “Submissions” at the top of the page, from the dropdown menus for society, conference, and track select “SIGCHI”, “UIST 2024” and “UIST 2024 Workshops”, respectively, and press “Go.” 
+    
+ Submission Format and Length   
+ Workshop Extended Abstract 
+  The extended abstract should not exceed 2 pages (excluding references). 
+  The double-column ACM paper template should be used for the submission process. For Overleaf/LaTeX, this means that the following command should be used: | \documentclass[sigconf, review]{acmart} 
+  Accepted submissions will go through the ACM TAPS Workflow | . 
+    
+ Anonymity   
+ Not anonymous, include author names and institutions on submission 
+    
+ Selection Process   
+ Juried 
+  Less rigorous than paper review and does not include an author’s response or conditional acceptance. 
+  Juried content is generally not required to make the same level of lasting and significant contribution as refereed content. 
+    
+ Publication   
+ Workshop organizers can choose whether their 2-page extended abstract is included in the ACM Digital Library as adjunct proceedings and distributed in digital form to conference attendees. 
+    
+ Presentation Format   
+ Workshops will be full-day events happening the day before the main conference (i.e. Sunday) 
+  At least one workshop organizer is requested to register and facilitate the workshop. 
+  Workshops should reflect the nature of UIST: engaging, interactive and cutting-edge. Consider activities such as demonstrations, brainstormings, and prototyping. 
+  Workshops activities should target an audience of approximately 20-60 participants. 
+
+ Workshops Chairs   
+ workshops2024@uist.org   
+  Te-Yen Wu   
+ Florida State University   
+   
+   Karan Ahuja   
+ Northwestern University   
+
+  Visions  
+ Back for its seventh year, UIST Visions is a venue for forward-thinking ideas to inspire the community and to project the UIST community as thought leaders in technical HCI.  
+ The goal is thus to propose new research directions rather than to report on existing research. Proposals will be reviewed based on novelty and relevance, and how provocative the ideas are.  
+ The author should aim to start a meaningful and well-informed discussion about future directions for computer-human interfaces and interaction techniques. Appropriate topics might be:  
+ future trends 
+  foundational technologies that we need to make progress on 
+  significant, compelling problems that the community might address 
+  topics that are absent from the community’s work 
+  an alternative perspective on what we do 
+   
+ Submission deadline | Thursday, August 15, 2024, 5pm PT 
+ Acceptance notification | TBD 
+ Slide submission | TBD 
+  
+ Submission Information  
+ Eligibility   
+ Single Author 
+    
+ Submission Platform   
+ All submission materials must be submitted electronically to PCS 2.0 http://new.precisionconference.com/~sigchi before the submission deadline | . 
+  In PCS 2.0, first click “Submissions” at the top of the page, from the dropdown menus for society, conference, and track select “SIGCHI”, “UIST 2024” and “UIST 2024 Visions", respectively, and press “Go”. 
+    
+ Submission Format and Length   
+ We will adopt the ACM TAPS Workflow: | https://www.acm.org/publications/taps/word-template-workflow | . The abstract should be up to 1000 words (excluding references), which is roughly equivalent to a 1-page limit. 
+    
+ Accompanying Video   
+ Optional, up to 3 mins 
+    
+ Maximum File Size   
+ Maximum total size for all files < 50 MB 
+    
+ Anonymity   
+ Not anonymous, include the author's name and institution(s) on the 1-page submission 
+    
+ Selection Process   
+ Curated by the UIST vision chairs 
+  Less rigorous than paper review and does not include an author’s response or conditional acceptance, i.e. authors will not receive any formal feedback other than the selection decision 
+  Up to two speakers will be selected 
+    
+ Publication   
+ Non-archival, ideas presented as a UIST vision can be resubmitted as a full paper in subsequent years 
+  Vision abstracts (the 1-pager) will be included in the ACM digital library as adjunct proceedings and distributed in digital form to conference attendees, the slides will not be included in the ACM digital library 
+    
+ Presentation Format   
+ Talk at the conference 
+  15 minute presentation + 15 minute Q&A 
+  Two 30-minute sessions scheduled during the conference 
+  Accepted speakers will be required to sign the approval form to record and publish the talk 
+  Slides will be reviewed ahead of the conference to ensure a great, engaging presentation 
+
+ Visions Chairs   
+ visions2024@uist.org   
+  Alex Olwal   
+ Google   
+   
+   Mira Dontcheva   
+ Adobe   
+
+  Doctoral Symposium  
+ The UIST Doctoral Symposium provides a unique opportunity for Ph.D. students to interact with established academic and industry researchers in the UIST community. Students can receive both feedback on technical aspects of their research as well as mentoring about different career options. The range of topics appropriate for the Doctoral Symposium is the same as the topics covered in the UIST Technical Papers program. Participants will be selected based on their anticipated contributions to the breadth and depth of the intellectual discussions at the Symposium. The Doctoral Symposium will be held in-person on Sunday, October 13, 2024 at the conference venue. There will also be a dinner for all panelists and student attendees of the Symposium on Saturday, October 12.  
+ For questions, please email the Doctoral Symposium chairs at doctoralsymposium2024@uist.org  .  
+  
+ Submission deadline | Friday, July 19, 2024, 5pm PT 
+ Acceptance notification | Friday, August 2, 2024, 5pm PT 
+ Camera-ready versions due | Friday, August 9, 2024, 5pm PT 
+ Doctoral Symposium date | Sunday, October 13, 2024 (plus dinner the evening of Saturday, October 12) 
+  
+ Submission Information  
+ Eligibility   
+ Current Ph.D. student studying within the full range of disciplines and approaches that contribute to the UIST community. 
+  It is strongly recommended that students be at least entering the third year of the doctoral program, i.e., at the stage of having a concrete dissertation proposal to discuss. 
+  Single-author. 
+    
+ Submission Platform   
+ All submission materials must be submitted electronically to PCS 2.0 before the submission deadline 
+  In PCS 2.0, first click "Submissions" at the top of the page, from the dropdown menus for society, conference, and track select "SIGCHI," "UIST 2024," and "UIST 2024 Doctoral Symposium", respectively, and press "Go." 
+    
+ Submission Format and Length   
+ We will adopt the | ACM TAPS Workflow | . 
+  We recommend submitting papers in the 2-column format | , but will accept papers for review as either 1- or 2- column paper format if you are authoring in Word. 
+  For 2-column submissions: 4 pages maximum + references. 
+  For 1-column submissions: 6 pages maximum + references (equivalent of the 2-column limit). 
+    
+ Accompanying Video   
+ Optional, but highly encouraged. 
+  Resolution of 1080p (1920 x 1080) or 4k (3840 x 2160 px), encoded as MP4 using the H.264 codec. 
+  Size: under 150 MB. 
+  No more than 3 minutes long. 
+  Subtitles are required using a separate .srt or .sbv file. 
+    
+ Maximum File Size   
+ Maximum total size for all files must be under 150 MB. 
+    
+ Anonymity   
+ Not anonymous, | include the single author's name and institution(s) on the submission. 
+    
+ Selection Process   
+ Juried by the UIST Doctoral Symposium chairs and invited panelists. 
+  Maximum 8 students will be selected. 
+  Criteria: anticipated contributions to the breadth and depth of the intellectual discussions of the symposium. 
+  Preference will be given to applicants beyond the proposal stage and well into their dissertation research. 
+  Does not include an author’s response or conditional acceptance, i.e. authors will only receive feedback along with the final decision. 
+    
+ Publication   
+ Non-archival. Ideas presented at the UIST Doctoral Symposium can be resubmitted. 
+  Doctoral Symposium abstracts (max 4 pager + references in 2-column format) will be included in the ACM digital library as adjunct proceedings and distributed in digital form to conference attendees. 
+    
+ Presentation Format   
+ Talk at the Doctoral Symposium event, followed by extensive discussion with the panel and the other student participants. 
+  The student author is requested to attend. 
+  The exact times of sessions will be announced after the acceptance notification date. 
+  Additionally, each student is encouraged to present a poster describing their work to the full conference within the UIST poster sessions. 
+    
+ Novelty of Work   
+ The Doctoral Symposium abstract should describe ongoing work and might summarize the student's full dissertation work, or highlight a particular part in depth. 
+    
+ Posters for Accepted Submissions   
+ Each student is encouraged to present a poster describing their work to the full conference. 
+  Posters will be presented within the UIST poster session. 
+
+ Doctoral Symposium Chairs   
+ doctoralsymposium2024@uist.org   
+  Anhong Guo   
+ University of Michigan   
+   
+   Jeeeun Kim   
+ Texas A&M University   
+
+ Doctoral Symposium Panelists  
+    
+  Andrea Bianchi   
+ KAIST   
+   
+   Wendy Mackay   
+ INRIA   
+   
+   Xing-Dong Yang   
+ Simon Fraser University   
+
+  Student Innovation Contest  
+ In the UIST Student Innovation Contest (aka the “SIC”), we explore how novel input, interaction, actuation, and output technologies can augment interactive experiences! This year, in partnership with Seeed Studio   , we seek students who will push the boundaries of prototyping intelligent and interactive systems for wearables, smart environments, and more. This year’s theme is Gen-M: Makers of Future Interactive Devices  . Join the UIST SIC and turn your ideas into reality! Meet amazing people! Win fabulous prizes!  
+  
+ CFP Release | Friday, July 5, 2024 
+ Submission Deadline | Friday, July 26, 2024 11:59 pm AoE 
+ Announcing selected teams | Friday, August 2, 2024 11:59 pm AoE 
+ Camera-ready versions | Friday, August 9, 2024 11:59 pm AoE 
+ Submission of project video | Monday, September 2, 2024 11:59 pm AoE 
+ Presentation of the final demo | At the in-person UIST conference in Pittsburgh, October 13-16, 2024 
+  
+ Submission Information  
+ Eligibility   
+ Current undergraduate and/or graduate students (MS or PhD) 
+  Team size: the minimum team size is 2, and the maximum is 5 
+    
+ Submission Platform   
+ All submission materials must be submitted electronically to PCS 2.0 before the submission deadline 
+  All required materials must be submitted electronically to PCS by the deadline. In PCS, first click “Submissions” at the top of the page, from the dropdown menus for society, conference, and track select “SIGCHI”, “UIST 2024” and “UIST 2024 SIC”, respectively, and press “Go.” This track will be opened a few weeks before the submission deadline. 
+    
+ Submission Format and Length   
+ Double-column two pages maximum without references 
+  For LaTeX authors, submissions should be made using the double-column format of the | Overleaf template | (example PDF) | using | \documentclass[sigconf]{acmart} | . 
+  For Word authors, submissions should be made using the double-column format of the | Word template | (example PDF) | . 
+  The accepted abstract will be included in the adjunct proceedings and published in the ACM Digital Library 
+    
+ Anonymity   
+ Not anonymous, include the author’s name and institution(s) on the submission 
+    
+ Selection Process   
+ Juried by the UIST Student Innovation Contest chairs and invited panelists. 
+  Maximum 10 teams will be selected. 
+    
+ Presentation Format   
+ At least one author is requested to present their demo during SIC sessions and to speak with conference attendees. 
+
+ UIST 2024 SIC Challenge: Makers of Future Interactive Devices  
+   
+ The UIST SIC is your opportunity to shine and impress the world with your creative ideas! Participants will demo their work during the conference program, and contest winners will be announced during the conference. A jury composed of senior UIST community members will select one team to receive the SIC jury award. On top of that, conference attendees will get a chance to vote for their favorite teams in the People’s Choice category. All categories receive prizes.  
+ This year, we are calling and assembling makers who desire to create the next generation of interactive devices with intelligent and programmable modules provided by Seeed Studio   –one of the leading AI hardware partners in China. We are eager to see the creative solutions you bring to address pressing societal problems, enhance existing user experience with technologies, or invent new ways to facilitate human interaction with devices. We will give away the hardware to all selected teams! This is made possible through our generous sponsor—Seeed Studio! Thank you!  
+ Want to transfer your SIC ideas into real products and receive royalties? No problem. Seeed Studio kindly offers Fusion   Co-Create Program that helps the team license the product and make a bigger impact on the community, as well as build profitable success. We highly encourage each selected team to consider this exciting opportunity. For more information, please visit the Co-Create website   . If you want to apply now, please fill out this form   .  
+  Your browser does not support the video tag.    
+ About the Gen-M Kit  
+ The hardware kit for this SIC is named Gen-M Kit  . It is for the generation of makers who define and invent future interactive devices. This kit comprises selective programmable modules from Seeed Grove and XIAO series. They include  
+ Microcontrollers  
+ XIAO ESP32C3 (2.4GHz WiFi, BLE 5.0) | : The board deservedly maintains the classic | thumb-sized form-factor | design and elegant productization of | single-sided components mounting | . Meanwhile, it is equipped with a battery charge chip and integrated circuit to enhance its ability to carry. This board comes with an external antenna to increase the signal strength for wireless | (Wi-Fi and Bluetooth) | applications. There are 11 digital I/O that can be used as PWM pins and 4 analog i/o that can be used as ADC pins. It supports UART, IIC, and SPI serial communication ports. Utilizing its small and exquisite hardware design and the powerful onboard chip, programming by Arduino, it will offer more ability to wearable and portable devices or other applications. 
+  Seeed Studio XIAO SAMD21 | : The board has 14 PINs, which can be used for 11 digital interfaces, 11 mock interfaces, 10 PWM interfaces (d1-d10), 1 DAC output pin D0, 1 SWD pad interface, 1 I2C interface, 1 SPI interface, 1 UART interface, Serial communication indicator (T/R), Blink light (L) through pin multiplexing. The colors of LEDs(Power, L, RX, TX) are green, yellow, blue, and blue. Moreover, Seeed Studio XIAO SAMD21 has a Type-C interface that can supply power and download code. There are two reset buttons, you can short-connect them to reset the board. 
+  Featured Seeed Sensing and Output Modules  
+ Grove Vision AI Module V2 + OV5647-62 FOV Camera Module | : The Grove - Vision AI V2 is a highly efficient MCU-based smart vision module driven by the Himax WiseEye2 HX6538 processor, featuring a dual-core Arm Cortex-M55 and integrated Arm Ethos-U55 neural network component. It integrates Arm Helium technology, which is finely optimized for vector data processing, enabling a significant uplift in DSP and ML capabilities without compromising on power consumption, which is ideal for battery-powered applications. Grove Vision AI V2 is not only designed for vision applications but also features an onboard PDM microphone for sound applications. It comes with an SD card slot that allows for convenient storage of images, videos, and identification results using an SD card. 
+  24GHz mmWave Sensor for XIAO- Human Static Presence | : This module serves as a highly advanced human body sensing module that utilizes FMCW (Frequency-Modulated Continuous Wave) technology to detect human targets within a designated space (up to 5 meters and an expansive detection angle of ±60 degrees). Powered by sophisticated radar signal processing and precise human body sensing algorithms, this module achieves exceptional sensitivity in detecting human presence, accurately identifying both moving and stationary states, such as sitting and lying human bodies. It also provides auxiliary information such as target distance calculation. Primarily deployed in indoor environments, this product offers real-time detection of moving or micro-moving human bodies. Additionally, it supports Bluetooth functionality, allowing direct radar parameter debugging via a dedicated app, eliminating the requirement for a serial port connection. 
+  6x10 RGB MATRIX for XIAO | : This remarkable matrix is designed to bring a vibrant spectrum of colors to your projects. We packed 60 LEDs in a compact size, each one 1*1mm WS2812B LED. It goes beyond mere aesthetics, empowering you to breathe life into your creative visions. Whether you’re working on an interactive art piece, developing a dynamic notification system, or simply looking to add a dazzling touch to your creations, this matrix serves as your ultimate canvas. Seamlessly integrated with the XIAO main controller and QT Py for Adafruit, featuring VCC, GND, and DIN solder pads, it offers unparalleled adaptability for a wide range of scenarios. 
+  Expansion Board Base for XIAO with Grove OLED | : This is a powerful functional expansion board for Seeed Studio XIAO that is only half Raspberry Pi 4 size. It enables building prototypes and projects in an easy and quick way. With its rich peripherals, including OLED, RTC, expandable memory, passive buzzer, RESET/User button, 5V servo connector, multiple data interfaces… you could explore the infinite possibilities of Seeed Studio XIAO. | Circuitpython | is also well supported by this board. | Seeed Studio XIAO SAMD21 is compatible with the expansion board base | . 
+  Basic Module Kit and Accessories  
+ Grove Creator Kit - γ | : The kit contains | 40 different functional Grove modules | (5 actuators, 2 wireless modules, 9 analog inputs, 2 displays, 7 LEDs, and 15 sensors), all of which are supported by both Arduino and Raspberry Pi controllers. With the full tutorials and all kinds of modules like analog inputs, displays, sensors, displays, etc, you will not only learn electronics but also be able to create multiple practical projects of your own. The complete list of parts with links to each individual module product page can be found in | this Google Sheet | . 
+  USB 3.1 Type C to A Cable 1 Meter - 3.1A | : This is a high-speed, cost-effective USB Type C to A cable. It supports USB 3.1 speeds and charging up to 3.1A. 
+  Additional Materials, Hardware, and Tools  
+ Besides the above hardware, you are encouraged to use any materials, hardware, and objects created with fabrication techniques, such as 3D printing, laser cutting, CNC milling, casting, etc. The materials and hardware are not limited to off-the-shelf products, such as fabric and machinery parts, but could be extended to novel components from research, such as environmentally responsive materials and 3D-printed capacitive sensors. While the electronics and computing modules are constructing the input and output functionalities, making a user-friendly, reasonable interface for the audience to interact with your devices is essential to create a cohesive, engaging, and playful user experience. You are also welcome to include other modules and combine them with the provided kit to realize your idea. We look forward to seeing creative, functional, usable mechanical designs for your device.  
+ Seeed Studio Wiki & SenseCraft AI  
+ Seeed Studio Wiki   focuses on detailed documentation of Seeed Stuio’s products for practical usage and troubleshooting, industrial IoT scenarios, and guides on open development tools to help you get started on your own projects. It provides methods of connection and program code snippets that can help you quickly start with each module. Seeed also provides some interesting projects to show what you are capable of creating with these modules.  SenseCraft AI   is a platform that enables easy AI model training and deployment with no-code/low-code. It supports Seeed products natively, ensuring complete adaptability of the trained models to Seeed products. Moreover, deploying models through this platform offers immediate visualization of identification results on the website, enabling prompt assessment of model performance. Ideal for tinyML applications, adding vision AI to your smart sensor with Grove Vision AI V2 is made easy with the SenseCraft AI. Effortlessly deploy off-the-shelf or custom AI models by connecting the device, selecting a model, and viewing identification results.   
+ Application Areas and Design Space  
+ You can build and design your device in many configurations, which affords the exploration of numerous functions, interactions, and even aesthetics. The primary requirements are to utilize the provided hardware kit and to ensure that users can interact with your device in a meaningful way. With these requirements in mind, you may focus on one or more application areas. Below, we list some example application areas and corresponding existing works for inspiration.  (From top-left: Mimosa, E-Orthosis, Robots, ESPressoscope, Parametric Haptics, IoT AI-Driven Yogurt Processing)  
+ Gen-M for Shape-Changing Interfaces (e.g., | Mimosa | ) 
+  Gen-M for Wearable Medical Devices (e.g., | E-Orthosis | ) 
+  Gen-M for Wearable Haptic Devices (e.g., | Parametric Haptics | ) 
+  Gen-M for Robotics 
+  Gen-M for Optics 
+  Gen-M for IoT Devices 
+  Gen-M for AI-Driven Devices 
+  Gen-M for Accessibility 
+  Gen-M for Fabrication 
+  Gen-M for Food Making 
+  Gen-M for Physiology Sensing 
+  Gen-M for Education Many more intelligent and interactive devices… 
+  Logistics  
+ Team members from selected proposals will be given a Gen-M kit that allows access to example code to help you get started with the hardware. Each module product page contains documentation and examples that could be useful for development. The tutorials provided about hardware and programming in Seeed Studio Wiki will help you kickstart and ensure you have everything you need to make your vision a reality! You may also get help from Seeed’s community and technical experts at the Seeed Studio Discord channel   . Teams are encouraged to open source their efforts and even build on each other’s work. Beyond SIC, teams are free to contact Seeed to convert ideas into real products via the Fusion   and Co-Creat Program   .  
+ Registration  
+ To participate, please submit your proposal through PCS   .  
+ To complete your submission, you’ll need:  
+ A description of your idea. 
+  The team members with names and affiliations (the authors need PCS accounts for the submission) 
+  The PDF document needs to be | ACM Template with Double-Column Paper Format | — the same as the full paper publication, but two pages max without references. You can use the double-column format of the | Overleaf template | using | \documentclass[sigconf]{acmart} | , or the | Word template | . 
+  A PDF document that lists the modules needed for the project. The list will be used to customize and ship the toolkit. 
+  An optional video that shows your idea and the concept 
+  Any additional supporting materials (sketches, images, etc.) that help the submission are optional 
+  For accepted teams, one of your team members MUST  register for the UIST conference and pay the registration fee. If you’ve been accepted as a student volunteer, you can let us know as well.  
+ Contest Rules, Details, and Suggestions  
+ Pre-Selection Criteria: organizers will select up to 10 teams, judged based on usefulness, creativity, complexity, feasibility, and time/resource constraints. 
+  Maximum team size is 5, and you can’t be part of multiple teams! 
+  Eligibility: you MUST be a student to participate in this contest. Students of all levels (high school, bachelor’s, master’s, PhD) are encouraged to participate. 
+  Registration Requirement: If your team is accepted, at least one of your team members MUST register for the conference (or be accepted as a student volunteer). This is for three reasons: 1) you have to demo your idea at the in-person UIST event, 2) you have to claim your prizes, and 3) UIST is an awesome conference! 
+  Demo Ideas: during the contest voting period, teams will be allowed to demo one idea. Different demos of the same idea are permitted. 
+  Demo Safety: Safety is our utmost priority. Make sure your demos follow reasonable safety guidelines (i.e., don’t light anything on fire!) 
+  Awards  
+ Innovation comes in many forms. At UIST, we provide Student Innovation Contest awards for the following categories: Jury Awards (Most Useful Award and Most Creative Award) and People’s Choice (Attendee Votes)  . All teams get to keep the hardware kits. Winners will win prizes and a UIST SIC certificate. Note that we reserve the right to change the awards structure during the contest.  
+
+ Student Innovation Contest Chairs   
+ sic2024@uist.org   
+  Liang He   
+ Purdue University   
+   
+   Xing-dong Yang   
+ Simon Fraser University   
+
+  Student Volunteers  
+ Apply Here     
+ To apply to be an SV go to this page  and submit the questionnaire. The deadline and notification dates are listed below.  
+  
+ Lottery application due | Friday, August 23, 2024 
+ Acceptance notification | Monday, September 2, 2024 
+  
+ Benefits  
+ Being an SV will give you a chance to attend the premier forum for innovations in human-computer interfaces and network with the leaders in the field! At its core, the student volunteer experience is about making connections, both with your fellow volunteers and with more senior researchers. Whether it’s helping out with Q&A after a talk for a researcher you look up to, working on a task directly with members of the organizing committee, or even helping someone check-in while working at the registration desk, there are so many opportunities to make connections that can have a true impact on your career. Not to mention the free conference registration and SV T-shirt! We are happy to report that we plan on continuing the “rockstar” Q&A sessions with senior researchers; these will most likely be held virtually the week following the conference.  
+ If you are a UIST Student Volunteer, you get:  
+ Free conference registration 
+  Exclusive SV “rockstar” Q&A sessions with senior faculty and researchers 
+  Access to a tight SV community 
+  A free UIST 2024 SV T-shirt 
+  The chance to closely work together with both presenters and the conference organizing committee 
+  Logistics and Duties  
+ Our goal is to make sure SVs can attend the sessions that they are interested in. In 2024, we expect to have around 35 SVs who will work approximately 15 hours before or during the conference.  
+ SVs will do a mix of tasks before and during the conference. Any hours spent doing pre-conference tasks will count towards your total SV hours. Some pre-conference tasks may need to be done several weeks before the conference begins; please indicate your availability to do pre-conference tasks on the lottery questionnaire and we will try to accommodate everyone’s preferences as best as possible.  
+ UIST 2024 is intended to be a fully in-person conference (see Attending  ). Most SV tasks will be in person and we expect all SVs to attend the conference in person.  
+ Thanks so much for applying! We look forward to seeing you at UIST 2024!!  
+
+ Student Volunteer Chairs   
+ sv2024@uist.org   
+  Mina Huh   
+ UT Austin   
+   
+   Danli Luo   
+ University of Washington   
+
+  Lasting Impact  
+  
+ Award nomination deadline | Monday, August 19, 2024, 11:59 PM AoE 
+  
+ The UIST Lasting Impact Award was established in 2003 to recognize UIST papers that have had a long-lasting influence on the field of user interface software and technology. The impact can be in terms of new research directions, wide acceptance in industry, or large societal impact. The list of previous recipients is available at this link   .  
+ This year, for the first time, we are issuing an open call to the community for nominations to this award. To nominate a paper, send an email to lastingimpact2024@uist.org  with:  
+ The name, email address and position of the nominator 
+  The reference of the nominated paper (with the link to the ACM Digital Library) 
+  One sentence that describes the paper’s lasting impact (15 words max) 
+  A nomination letter explaining why this paper should receive the award (250 words max) 
+  Nominated papers must have been published at UIST 2014 or earlier. A person can nominate at most one paper per year. Authors cannot nominate their own papers. The committee will consider nominated papers along with other eligible papers identified by the committee.  
+ The deadline for nomination is Monday, August 19 at midnight Anywhere-on-Earth (AOE) time.  
+ The winning paper will be announced at the UIST 2024 conference in Pittsburgh this fall.  
+ Lasting Impact Chair   
+ lastingimpact2024@uist.org   
+  Patrick Baudisch   
+ Hasso Plattner Institute   
+
+ © Copyright 2024 ACM SIGCHI    
+  

@@ -1,0 +1,589 @@
+               
+
+ Conference Paper  Hierarchically Structured Recommender System for Improving NPS of a Company  
+ July 2014 
+  Lecture Notes in Computer Science | 8536:347-357 
+    
+ DOI: 10.1007/978-3-319-08644-6_36    
+ Conference: International Conference on Rough Sets and Current Trends in Computing 
+
+ Authors:   
+      
+ Jieyan Kuang    
+
+ Jieyan Kuang    
+   
+ This person is not on ResearchGate, or hasn't claimed this research yet. 
+
+ Albert Daniel    
+
+ Albert Daniel    
+   
+ This person is not on ResearchGate, or hasn't claimed this research yet. 
+
+ Jill Johnston    
+
+ Jill Johnston    
+   
+ This person is not on ResearchGate, or hasn't claimed this research yet. 
+
+ Zbigniew W Ras    
+ University of North Carolina at Charlotte 
+
+   Request full-text PDF   To read the full-text of this research, you can request a copy directly from the authors.  
+
+   Request full-text     
+   Download citation     
+   Copy link  Link copied      
+         
+      Request full-text   
+      Download citation   
+     Copy link  Link copied    
+
+ To read the full-text of this research, you can request a copy directly from the authors.   
+
+ Citations (17)   
+   
+  References (13)   
+
+ Abstract  
+   
+ The paper presents a description of a hierarchically structured recommender system for improving the efficiency of a company’s growth engine. Our dataset (NPS dataset) contains answers to a set of queries (called questionnaire) sent to a randomly chosen groups of customers. It covers 34 companies called clients. The purpose of the questionnaire is to check customer satisfaction in using services of these companies which have repair shops all involved in a similar type of business (fixing heavy equipment). These shops are located in 29 states in the US and Canada. Some of the companies have their shops located in more than one state. They can compete with each other only if they target the same group of customers. The performance of a company is evaluated using the Net Promoter System (NPS). For that purpose, the data from the completed questionnaires are stored in NPS datasets. We have 34 such datasets, one for each company. Knowledge extracted from them, especially action rules and their triggers, can be used to build recommender systems giving hints to companies how to improve their NPS ratings. Larger the datasets, our believe in the knowledge extracted from them is higher. We introduce the concept of semantic similarity between companies. More semantically similar the companies are, the knowledge extracted from their joined NPS datasets has higher accuracy and coverage. Our hierarchically structured recommender system is a collection of recommender systems organized as a tree. Lower the nodes in the tree, more specialized the recommender systems are and the same the classifiers and action rules used to build their recommendation engines have higher precision and accuracy.   
+
+    Discover the world's research   
+ 25+ million members 
+  160+ million publication pages 
+  2.3+ billion citations 
+  Join for free     
+
+ No full-text available  
+
+ To read the full-text of this research,  
+  you can request a copy directly from the authors.  
+   
+   Request full-text PDF     
+
+ Citations (17)  
+
+  References (13)  
+
+ ... The confusion matrix updates for a chosen year after placing a mouse over the corresponding bar on the first chart. Following the classification experiments, the notion of semantic similarity was defined ( [1]  ). Assuming that RC [1] and RC [2] are the sets of classification rules extracted from the single-client datasets (of clients C1 and C2 ), and also: [1,Detractor], where the above three sets are collections of classification rules defining correspondingly: "Promoter", "Passive" and "Detractor": RC [1, P romoter The metric is used to find clients similar to a current client in semantic terms. ...   
+
+ ... Following the classification experiments, the notion of semantic similarity was defined ( [1]). Assuming that RC [1]  and RC [2] are the sets of classification rules extracted from the single-client datasets (of clients C1 and C2 ), and also: [1,Detractor], where the above three sets are collections of classification rules defining correspondingly: "Promoter", "Passive" and "Detractor": RC [1, P romoter The metric is used to find clients similar to a current client in semantic terms. It calculates the distance between each pair of clients-the smaller the distance is, the more similar the clients are. ...   
+
+ ... Following the classification experiments, the notion of semantic similarity was defined ( [1]). Assuming that RC [1] and RC [2] are the sets of classification rules extracted from the single-client datasets (of clients C1 and C2 ), and also: [1,  Detractor], where the above three sets are collections of classification rules defining correspondingly: "Promoter", "Passive" and "Detractor": RC [1, P romoter The metric is used to find clients similar to a current client in semantic terms. It calculates the distance between each pair of clients-the smaller the distance is, the more similar the clients are. ...   
+
+ User Friendly NPS-Based Recommender System for Driving Business Revenue    
+   
+ Conference Paper    
+ Full-text available    
+ Jul 2017 
+  Lect Notes Comput Sci 
+
+ Zbigniew W Ras 
+  Katarzyna A. Tarnowska 
+  Jieyan Kuang 
+  Doug Fowler 
+    
+ This paper provides an overview of a user-friendly NPS-based Recommender System for driving business revenue. This hierarchically designed recommender system for improving NPS of clients is driven mainly by action rules and meta-actions. The paper presents main techniques used to build the data-driven system, including data mining and machine learning techniques, such as hierarchical clustering, action rules and meta actions, as well as visualization design. The system implements domain-specific sentiment analysis performed on comments collected within telephone surveys with end customers. Advanced natural language processing techniques are used including text parsing, dependency analysis, aspect-based sentiment analysis, text summarization and visualization.    
+
+ View     
+ Show abstract      
+
+ ... For example, one would want to find actionable patterns in the data to improve his/her salary. Some of the applications for Action Rules are: improving customer satisfaction in business [15]  and reducing hospital readmission in the medical field [4]. Action Rules are extracted from Decision table [25]. ...   
+
+ Discovery of Actionable Patterns Through Scalable Vertical Data Split Method with Meta Actions and Information Granules    
+   
+ Article    
+ Mar 2024 
+
+ Angelina Tzacheva 
+  Sanchari Chatterjee 
+  Zbigniew W. Ras 
+    
+ Action Rules are rule based systems that extract actionable patterns which are hidden in big volumes of data. Users need recommendations on actions they can undertake to increase their profit or accomplish their goals, this recommendations are provided by Actionable patterns. In the technological world of big data, massive amounts of data are collected by organizations, including in major domains like financial, medical, social media and Internet of Things(IoT). To analyze and store such a massive amount of data, distributed computing frameworks like Hadoop and Spark are introduced to store the big data in a distributed fashion which manage and analyze them in parallel. The traditional Action Rules extraction models, which analyze the data in a nondistributed fashion, do not perform well when dealing larger datasets. Serious complications of discovering Action Rules with such distributed environments are - data distribution among computing nodes and calculation of major parameters including : support, confidence, utility, and coverage, that represent the whole data. Information granules form basic entities in the world of Granular Computing(GrC), which represents meaningful smaller units derived from a larger complex information system. In this research, we focus on the data distribution phase of the distributed Actionable Pattern Mining problem. To handle the data distribution task by splitting the big data in both horizontal and vertical fashions - we propose partition threshold rho. In this work, we concentrate on using information granules to implement a vertical data splitting strategy with Meta Actions. Hence our results discover valuable Actionable Knowledge with application in Business and Education domains.    
+
+ View     
+ Show abstract      
+
+ ... Action rule is also a knowledge extraction technique developed in the context to recommend possible transitions for a person to move from one state to another. For example, recommending the business to improve customer satisfaction [5]  and sentiment analysis on Twitter [6]. Action rules follow the representation, similar to Equation 1, as given in Equation 2, where Ψ represents a conjunction of stable features, (α → β) represents a conjunction of changes in values of flexible features and (θ → φ) represents desired decision action. ...   
+
+ Scalable Action Mining for Recommendations to Reduce Hospital Readmission    
+   
+ Conference Paper    
+ Full-text available    
+ Jul 2019 
+
+ Arunkumar Bagavathi 
+  Angelina Tzacheva 
+
+ View     
+
+ ... Action Rule is a rule based data mining technique that recommend possible transitions of data from one state to another, which the user can use to their advantage. For example, improving customer satisfaction in business [4]  and reducing hospital readmission in the medical domain [5]. Action Rules are extracted from Decision table [6]. ...   
+
+ Actionable Pattern Mining - A Scalable Data Distribution Method Based on Information Granules    
+   
+ Conference Paper    
+ Full-text available    
+ Dec 2018 
+
+ Arunkumar Bagavathi 
+  Abhishek Tripathi 
+  Angelina Tzacheva 
+  Zbigniew W Ras 
+
+ View     
+
+ ... Out of all algorithms, only Association Action Rules [14] extracts all possible Action Rules from the given decision table but it is inefficient in terms of time to extract rules. These algorithms have been widely used in various domains like: in business to improve customer satisfaction [9]  [20] [15] and in medical to reduce patient re-admission [3] [4]. ...   
+
+ Data distribution method for scalable actionable pattern mining    
+   
+ Conference Paper    
+ Oct 2018 
+
+ Arunkumar Bagavathi 
+  Varun Rao 
+  Angelina Tzacheva 
+    
+ Action Rules are rule based systems for discovering actionable patterns hidden in a large dataset. Action Rules recommend actions that a user or a system can undertake to their advantage, or to accomplish their goal. Current Action Rules extraction methods are unable to process huge volumes of data in a reasonable time and it requires a distributed and parallel extraction methods. Limited research has been done on extracting Action Rules using a distributed scenario. Major complications of discovering Action Rules with such distributed systems are data distribution among computing nodes and calculation of major parameters of action rules. In this work, we propose few methods to handle the big data distribution among computation nodes using the Spark framework. With enhanced experiments made on datasets in transportation, medical, and business domains, we show our methods achieve almost equal valid results compared to results from classical non-distributed Action Rule discovery methods with improved run time.    
+
+ View     
+ Show abstract      
+
+ ... The concept of semantic similarity between clients was introduced in [1]  . Each client was represented by a tree classifier extracted from its extended dataset. ...   
+
+ Hierarchical Agglomerative Method for Improving NPS    
+   
+ Conference Paper    
+ Jun 2015 
+  Lect Notes Comput Sci 
+
+ Jieyan Kuang 
+  Zbigniew W Ras 
+  Albert Daniel 
+    
+ The paper proposes a new strategy called HAMIS to improve NPS (Net Promoter Score) of certain companies involved in heavy equipment repair in the US and Canada - we call them clients. HAMIS is based on the semantic dendrogram built by using agglomerative clustering strategy and semantic distance between clients. More similar is the knowledge extracted from two clients, more close these clients semantically are to each other. Each company is represented by a dataset which is built from answers to the questionnaire sent to a number of randomly chosen customers using services offered by this company. Before knowledge is extracted from these datasets, each one is extended by merging it with datasets which are close to it in the semantic dendrogram, have higher NPS, and if classifiers extracted from them have higher FS-score. Action rules are extracted from these extended datasets and used for providing recommendations to clients of how to improve their businesses.    
+
+ View     
+ Show abstract      
+
+ ... To achieve this goal, we intend to build a hierarchically structured recommender system driven by action rules and meta-actions. We already built a hierarchical dendrogram by applying agglomerative clustering algorithm to the semantic distance matrix covering 34 clients [6]  . Based on the dendrogram, we also proposed a strategy called Hierarchically Agglomerative Method for Improving NPS (HAMIS) to extend every client's dataset by merging it with other clients' datasets which are relatively close in the dendrogram, have better NPS, and classifiers extracted from them have higher precision and recall [7]. ...   
+
+ Personalized Meta-Action Mining for NPS Improvement    
+   
+ Conference Paper    
+ Oct 2015 
+  Lect Notes Comput Sci 
+
+ Jieyan Kuang 
+  Zbigniew W Ras 
+  Albert Daniel 
+    
+ The paper presents one of the main modules of HAMIS recommender system built for 34 business companies (clients) involved in heavy equipment repair in the US and Canada. This module is responsible for meta-actions discovery from a large collection of comments, written as text, collected from customers about their satisfaction with services provided by each client. Meta-actions, when executed, trigger action rules discovered from customers data which are in a table format. We specifically focus on the process of mining meta-actions, which consists of four representative and characteristic steps involving sentiment analysis and text summarization. Arranging these four steps in proposed order distinguishes our work from others and better serves our purpose. Compared to procedures presented in other works, each step in our procedure is adapted accordingly with respect to our own observations and knowledge of the domain. Results obtained from the experiments prove the high effectiveness of the proposed approach for mining meta-actions.    
+
+ View     
+ Show abstract      
+
+ Distributed Action-Rule Discovery Based on Attribute Correlation and Vertical Data Partitioning    
+   
+ Article    
+ Full-text available    
+ Feb 2024 
+
+ Aileen Benedict 
+  Zbigniew W Ras 
+    
+ The paper concerns the problem of action-rule extraction when datasets are large. Such rules can be used to construct a knowledge base in a recommendation system. One of the popular approaches to construct action rules in such cases is to partition the dataset horizontally (personalization) and vertically. Different clustering strategies can be used for this purpose. Action rules extracted from vertical clusters can be combined and used as knowledge discovered from the horizontal clusters of the initial dataset. The number of extracted rules strongly depends on the methods used to complete that task. In this study, we chose a software package called SCARI recently developed by Sikora and his colleagues. It follows a rule-based strategy for action-rule extraction that requires prior extraction of classification rules and generates a relatively small number of rules in comparison to object-based strategies, which discover action rules directly from datasets. Correlation between attributes was used to cluster them. We used an agglomerative strategy to cluster attributes of a dataset and present the results by using a dendrogram. Each level of the dendrogram shows a vertical partition schema for the initial dataset. From all partitions, for each level, action rules are extracted and then concatenated. Their precision, the lightness, and the number of rules are presented and compared. Lightness shows how many action rules can be applied on average for each tuple in a dataset.    
+
+ View     
+ Show abstract      
+
+ Customer Churn Reduction Based on Action Rules and Collaboration    
+   
+ Chapter    
+ Oct 2022 
+
+ Yuehua Duan 
+  Zbigniew W Ras 
+    
+ Action rule mining is an important technology that can be applied to build recommender systems for reducing customer churn. Confidence, support, and coverage are used to measure the quality of action rules. In practice, action rules with higher confidence and support are more useful to users. However, there is little research work focused on improving the quality of the discovered action rules. To improve the quality of action rules extracted from a given client, this article proposes a guided (by threshold) agglomerative clustering algorithm by utilizing the knowledge extracted from semantically similar clients. The idea is to pick up only such clients that are doing better in business than the given client and are semantically similar with the given client. By doing that, the given client can follow business recommendations from the better-performing clients. The algorithm is guided by the threshold value checking how large the improvement of action rules discovered so far in their confidence is. If the improvement is lower than this threshold, the algorithm stops.    
+
+ View     
+ Show abstract      
+
+ Dubai-UAE-Jan-28-29,-2021,-Part-X    
+   
+ Conference Paper    
+ Full-text available    
+ Mar 2022 
+
+ Seemab Zehra 
+  Ramzy A. Yousif 
+    
+ This study was conducted to determine the dietary phenylalanine for fingerling Oreochromis niloticus by conducting an 8 weeks experiment in a flow-through system (1-1.5L/min) at 28°C water temperature. Phenylalanine requirement was determined by feeding six casein-gelatin based amino acid test diets (350 g kg– 1 CP; 16.72 kJ g–1 GE) with graded levels of phenylalanine (4, 6.5 9, 11.5, 14 and 16.5 g kg–1 dry diet) at a constant level (10 g kg–1) of dietary tyrosine to triplicate groups of fish (1.65±0.09 g) near to satiation. Absolute weight gain (AWG g fish-1), feed conversion ratio (FCR), protein deposition (PD%), phenylalanine retention efficiency (PRE%) and RNA/DNA ratio was found to improve with the increasing concentrations of phenylalanine and peaked at 11.5 g kg–1 of dry diet. Quadratic regression analysis of AWG, PD and PRE against varying levels of dietary phenylalanine indicated the requirement at 12.1, 11.6, and 12.7 g kg–1 dry diet, respectively and the inclusion of phenylalanine at 12.1 g kg–1 of dry diet corresponding to 34.6 g kg–1 dietary protein is optimum for this fish. Based on above data, total aromatic amino acid requirement of fingerling O. niloticus was found to be 20.6 g kg–1 (12.1 g kg–1 phenylalanine+8.5 g kg–1 tyrosine) of dry diet, corresponding to 58.8 g kg–1 of dietary protein.    
+
+ View     
+ Show abstract      
+
+ Background    
+   
+ Chapter    
+ Jan 2020 
+
+ Katarzyna A. Tarnowska 
+  Zbigniew W Ras 
+  Lynn Daniel 
+    
+ This chapter presents theoretical background of the proposed approach: Knowledge Discovery and Decision Reduct techniques, Text Mining for Sentiment Analysis and Visualiztaion techniques for Data Analytics.    
+
+ View     
+ Show abstract      
+
+ Customer Attrition Problem    
+   
+ Chapter    
+ Jan 2020 
+
+ Katarzyna A. Tarnowska 
+  Zbigniew W Ras 
+  Lynn Daniel 
+    
+ Customer attrition is an important problem in many industries: banking, mobile service providers, insurance companies, financial service companies etc. One company from the heavy equipment repair industry within this research project expressed interest in the insight of the problem, already having their own active CRM program implemented. The goal and motivation within this topic is to determine whether there are markers in the sales trends that might suggest a customer is getting ready to defect. Observing the behavior of customers who left a company, one might be able to identify customers who might leave as well.    
+
+ View     
+ Show abstract      
+
+ Overview of Recommender System Engine    
+   
+ Chapter    
+ Jan 2020 
+
+ Katarzyna A. Tarnowska 
+  Zbigniew W Ras 
+  Lynn Daniel 
+    
+ This chapter presents the architecture and mechanism (“engine”) of the proposed Recommender System built from structured and unstructured customer data.    
+
+ View     
+ Show abstract      
+
+ Recommender System Based on Unstructured Data    
+   
+ Chapter    
+ Jan 2020 
+
+ Katarzyna A. Tarnowska 
+  Zbigniew W Ras 
+  Lynn Daniel 
+    
+ As the time constraints for completing customer satisfaction surveys are becoming tighter, there emerges a need for developing a new format of surveying customers. The idea is to limit the number of score benchmark questions, and let customers express their opinions in a free format. As a result the collected data will mainly contain open-ended text comments. This chapter presents a strategy to modify the existing recommender system built based on both numerical (structured) and text data (unstructured) to work on unstructured data only to make it work with the new survey format.    
+
+ View     
+ Show abstract      
+
+ Visual Data Analysis    
+   
+ Chapter    
+ Jan 2020 
+
+ Katarzyna A. Tarnowska 
+  Zbigniew W Ras 
+  Lynn Daniel 
+    
+ Visual techniques were used to support complex customer data analytics and illustrate concepts and data mining algorithms behind the built Recommender System. The implemented web-based visual system supports a feature analysis of 38 client companies for each year between 2011–2016 in the area of customer service (divided into shop service/field service) and parts. It serves as a visualization for the feature selection method showing the relative importance of each feature in terms of its relevance to the decision attribute—Promoter Status, and is based on an algorithm that finds minimal decision reducts. It allows the user to interactively assess the changes and implications onto predictive characteristics of the knowledge-based model. It is supported by visual additions in form of charts showing accuracy, coverage and confusion matrix of the model built on the corresponding, user-chosen dataset.    
+
+ View     
+ Show abstract      
+
+ In Search of Actionable Patterns of Lowest Cost - A Scalable Graph Method    
+   
+ Article    
+ Full-text available    
+ Jun 2018 
+
+ Angelina Tzacheva 
+  Arunkumar Bagavathi 
+  Aabir K. Datta 
+
+ View     
+
+ In Search for Best Meta-Actions to Boost Businesses Revenue    
+   
+ Chapter    
+ Jan 2016 
+
+ Jieyan Kuang 
+  Zbigniew W Ras 
+    
+ The ultimate goal of our research is to build recommender system driven by action rules and meta-actions for providing proper suggestions to improve revenue of a group of clients (companies) involved with similar businesses. Collected data present answers from 25,000 customers concerning their personal information, general information about the service and customers’ feedback to the service. This paper proposes a strategy to classify and organize meta-actions in such a way that they can be applied most efficiently to achieve desired goal. Meta-actions are the triggers that need to be executed for activating action rules. In previous work, the method of mining meta-actions from customers’ reviews in text format has been proposed and implemented. Performed experiments have proven its high effectiveness. However, it turns out that the discovered action rules need more than one meta-action to be triggered. The way and the order of executing triggers causes new problems due to the commonness, differential benefit and applicability among sets of meta-actions. Since the applicability of meta-actions should be judged by professionals in the field, our concentration is put on designing a strategy to hierarchically sort and arrange so called meta-nodes (used to represent action rules and their triggers in a tree structure) as well as to compute the effect of each meta-node. Furthermore, users will have more concrete options to consider by following the path in trees built from these meta-nodes.    
+
+ View     
+ Show abstract      
+
+ Association Action Rules and Action Paths Triggered by Meta-actions    
+   
+ Conference Paper    
+ Full-text available    
+ Aug 2010 
+
+ Angelina Tzacheva 
+  Zbigniew W Ras 
+    
+ Action rules are built from atomic expressions called atomic action terms and they describe possible transitions of objects from one state to another. They involve changes of values within one decision attribute. Association action rule is similar to an action rule but it may refer to changes of values involving several attributes listed in its decision part. Action paths are defined as sequences of association action rules with the assumption that the last rule in a sequence is as action rule. Early research on action rule discovery usually required the extraction of classification rules before constructing any action rule. Newest algorithms discover action rules and association action rules directly from an information system. This paper presents a strategy for generating association action rules and action paths by incorporating the use of meta-actions and influence matrices. Action paths show the cascading effect of meta-actions leading to a desired goal.    
+
+ View     
+ Show abstract      
+
+ ARAS: Action Rules Discovery Based on Agglomerative Strategy    
+   
+ Conference Paper    
+ Full-text available    
+ Sep 2007 
+
+ Zbigniew W Ras 
+  Elzbieta M. Wyrzykowska 
+  Hanna Wasyluk 
+    
+ Action rules can be seen as logical terms describing knowledge about possible actions associated with objects which is hidden in a decision system. Classical strategy for discovering them from a database requires prior extraction of classification rules which next are evaluated pair by pair with a goal to build a strategy of action based on condition features in order to get a desired effect on a decision feature. An actionable strategy is represented as a term r = [(w) Ù(a® b)] Þ [f® y]r = [(\omega) \wedge (\alpha \rightarrow \beta)] \Rightarrow [\phi \rightarrow \psi] , where ω, α, β, φ, and ψ are descriptions of objects or events. The term r states that when the fixed condition ω is satisfied and the changeable behavior (α→β) occurs in objects represented as tuples from a database so does the expectation (φ→ψ). This paper proposes a new strategy, called ARAS, for constructing action rules with the main module resembling LERS [6]. ARAS system is more simple than DEAR and its time complexity is also lower.    
+
+ View     
+ Show abstract      
+
+ Action Reducts    
+   
+ Conference Paper    
+ Full-text available    
+ Jun 2011 
+  Lect Notes Comput Sci 
+
+ Seunghyun Im 
+  Zbigniew W Ras 
+  Li-Shiang Tsay 
+    
+ An action is defined as controlling or changing some of attribute values in an information system to achieve desired result. An action reduct is a minimal set of attribute values distinguishing a favorable object from other objects. We use action reducts to formulate necessary actions. The action suggested by an action reduct induces changes of decision attribute values by changing the condition attribute values to the distinct patterns in action reducts.    
+
+ View     
+ Show abstract      
+
+ Action Rules Discovery Based on Tree Classifiers and Meta-actions    
+   
+ Conference Paper    
+ Full-text available    
+ Sep 2009 
+  Lect Notes Comput Sci 
+
+ Zbigniew W Ras 
+  Agnieszka Dardzińska 
+    
+ Action rules describe possible transitions of objects from one state to another with respect to a distinguished attribute. Early research on action rule discovery usually required the extraction of classification rules before constructing any action rule. Newest algorithms discover action rules directly from a decision system. To our knowledge, all these algorithms assume that all attributes are symbolic or require prior discretization of all numerical attributes. This paper presents a new approach for generating action rules from datasets with numerical attributes by incorporating a tree classifier and a pruning step based on meta-actions. Meta-actions are seen as a higher-level knowledge (provided by experts) about correlations between different attributes.    
+
+ View     
+ Show abstract      
+
+ Action-Rules: How to Increase Profit of a Company    
+   
+ Conference Paper    
+ Full-text available    
+ Sep 2000 
+  Lect Notes Comput Sci 
+
+ Zbigniew W Ras 
+  Alicja Wieczorkowska 
+    
+ Decision tables classifying customers into groups of different profitability are used for mining rules classifying customers. Attributes are divided into two groups: stable and flexible. By stable attributes we mean attributes which values can not be changed by a bank (age, marital status, number of children are the examples). On the other hand attributes (like percentage rate or loan approval to buy a house in certain area) which values can be changed or influenced by a bank are called flexible. Rules are extracted from a decision table given preference to flexible attributes. This new class of rules forms a special repository of rules from which new rules called actionrules are constructed. They show what actions should be taken to improve the profitability of customers.    
+
+ View     
+ Show abstract      
+
+ Mining action rules from scratch    
+   
+ Article    
+ Oct 2005 
+  EXPERT SYST APPL 
+
+ Zengyou He 
+  Xiaofei Xu 
+  Shengchun Deng 
+  Ronghua Ma 
+    
+ Action rules provide hints to a business user what actions (i.e. changes within some values of flexible attributes) should be taken to improve the profitability of customers. That is, taking some actions to re-classify some customers from less desired decision class to the more desired one. However, in previous work, each action rule was constructed from two rules, extracted earlier, defining different profitability classes. In this paper, we make a first step towards formally introducing the problem of mining action rules from scratch and present formal definitions. In contrast to previous work, our formulation provides guarantee on verifying completeness and correctness of discovered action rules. In addition to formulating the problem from an inductive learning viewpoint, we provide theoretical analysis on the complexities of the problem and its variations. Furthermore, we present efficient algorithms for mining action rules from scratch. In an experimental study we demonstrate the usefulness of our techniques.    
+
+ View     
+ Show abstract      
+
+ Information Systems-Theoretical Foundations. Information Systems, 6, pp. 205-218    
+   
+ Article    
+ Jan 1981 
+  INFORM SYST 
+
+ Z. Pawlak 
+    
+ Some basic concepts concerning information systems are defined and investigated. With every information system a query language is associated and its syntax and semantics is formally defined. Some elementary properties of the query language are stated. The presented approach leads to a new information systems organization. The presented idea was implemented and the implementation shows many advantages compared with other methods.    
+
+ View     
+ Show abstract      
+
+ Mining irregular association rules based on action & non-action type data    
+   
+ Conference Paper    
+ Jul 2010 
+
+ Razan Paul 
+  Abu Sayed Latiful Haque 
+    
+ Conventional positive association rules are the patterns that occur frequently together. These patterns represent what decisions are routinely made based on a set of facts. Irregular association rules are the patterns that represent what decisions are rarely made based on the same set of facts. Many domains like Healthcare, Banking etc need the irregular rule to improve their system. In this paper, we propose a level wise search algorithm that works based on action and non-action type data to find irregular association rules. We have observed that irregular association rules can be discovered efficiently based on action type and non-action type data from large database. To the best of our knowledge, there is no algorithm that can determine such type of associations. Its effectiveness has been demonstrated by testing it for a real world patient data set.    
+
+ View     
+ Show abstract      
+
+ Developing event-condition-action rules in real-time active database    
+   
+ Conference Paper    
+ Mar 2007 
+
+ Ying Qiao 
+  Kang Zhong 
+  Hongan Wang 
+  Xiang Li 
+    
+ Traditional event-condition-action (ECA) rules in real-time active database (RTADB) lack the capabilities to express complicated quantitative temporal information in the system. To solve this problem, in this paper, we present graphical ECA rules with a set of novel temporal events to specify real-time constraints. Smart home applications are used to validate the proposed rules.    
+
+ View     
+ Show abstract      
+
+ Action Rules and the GUHA Method: Preliminary Considerations and Results    
+   
+ Conference Paper    
+ Sep 2009 
+  Lect Notes Comput Sci 
+
+ Jan Rauch 
+  Milan Šimůnek 
+    
+ The paper presents an alternative approach to action rules. The presented approach is based on experience with the GUHA method and the LISp-Miner system. G-action rules are introduced. First experience with new GUHA procedure Ac4ft-Miner that mines for G-action rules is described.    
+
+ View     
+ Show abstract      
+
+ From Data to Classification Rules and Actions    
+   
+ Article    
+ Jun 2011 
+  INT J INTELL SYST 
+
+ Zbigniew W Ras 
+  Agnieszka Dardzińska 
+    
+ Action rules (or actionable patterns) describe possible transitions of objects from one state to another with respect to a distinguished attribute. Strategies for discovering them can be divided into two types: rule based and object based. Rule-based actionable patterns are built on the foundations of preexisting rules. This approach consists of two main steps: (1) a standard learning method is used to detect interesting patterns in the form of classification rules, association rules, or clusters; (2) the second step is to use an automatic or semiautomatic strategy to inspect such results and derive possible action strategies. These strategies provide an insight of how values of some attributes need to be changed so the desirable objects can be shifted to a desirable group. Object-based approach assumes that actionable patterns are extracted directly from a database. System DEAR, presented in this paper, is an example of a rule-based approach. System ARD and system for association rules mining are examples of an object-based approach. Music Information Retrieval (MIR) is taken as an application domain. We show how to manipulate the music score using action rules. © 2011 Wiley Periodicals, Inc. © 2011 Wiley Periodicals, Inc.    
+
+ View     
+ Show abstract      
+
+ The One Number you Need to Grow    
+   
+ Article    
+ Jun 2004 
+  HARVARD BUS REV 
+
+ Frederick F Reichheld 
+    
+ Companies spend lots of time and money on complex tools to assess customer satisfaction. But they're measuring the wrong thing. The best predictor of top-line growth can usually be captured in a single survey question: Would you recommend this company to a friend? This finding is based on two years of research in which a variety of survey questions were tested by linking the responses with actual customer behavior--purchasing patterns and referrals--and ultimately with company growth. Surprisingly, the most effective question wasn't about customer satisfaction or even loyalty per se. In most of the industries studied, the percentage of customers enthusiastic enough about a company to refer it to a friend or colleague directly correlated with growth rates among competitors. Willingness to talk up a company or product to friends, family, and colleagues is one of the best indicators of loyalty because of the customer's sacrifice in making the recommendation. When customers act as references, they do more than indicate they've received good economic value from a company; they put their own reputations on the line. And they will risk their reputations only if they feel intense loyalty. The findings point to a new, simpler approach to customer research, one directly linked to a company's results. By substituting a single question--blunt tool though it may appear to be--for the complex black box of the customer satisfaction survey, companies can actually put consumer survey results to use and focus employees on the task of stimulating growth.    
+
+ View     
+ Show abstract      
+
+ Improving your net promoter scores through strategic account management   
+
+ Satmetrix 
+
+ Recommended publications  
+   
+ Discover more    
+
+ Article    
+   
+ LACIE area, yield, and production estimate characteristics: Canada   
+ August 1979    
+ D. Conte 
+  A. G. Houston 
+  L. O. Lovfald 
+  Sampling segment allocation for Canada placed 283 segments within three provinces: Saskatchewan (170), Alberta (75), and Manitoba (38). The data base was comprised of five data sets: allocation, historical, ratio, LANDSAT, and yield. In-season area, yield, and production estimates were generated only during phase 2. These data are presented and analyzed.   
+ Read more    
+
+ Article    
+ Full-text available    
+   
+ Towards Sustainable Offshore Outsourcing: A Case Study of Quebec Manufacturing Firms Outsourcing to...   
+ March 2010  · Journal of CENTRUM Cathedra (JCC) The Business and Economics Research Journal    
+ Muhammad Mohiuddin 
+  Zhan Su 
+  Albert Su 
+  The offshore-outsourcing choice is viewed as a source of factory closures and job losses in many developed countries including Canada. The current exploratory paper using qualitative case study methods presents experiences from four Canadian companies based in the province of Quebec. It shows that offshore outsourcing is an important business strategy that can create overall firm-level ... [Show full abstract]  competitiveness through the generation of more revenues, higher profits, better customer satisfaction, and increased investments in R&D and core competency development.    
+ View full-text    
+
+ Presentation    
+ Full-text available    
+   
+ Analyse des pratiques de la reconnaissance des acquis extrascolaires des étudiants en enseignement s...   
+ March 2017    
+ Julner Sanon 
+  La reconnaissance des expériences et des compétences dans le domaine de la formation est devenue un droit individuel et un facteur de régulation socioéconomique dans plusieurs pays comme la France, le Canada, la Belgique, etc. Dans cette optique, tous les individus, quelle que soit leur origine sociale, ont l’opportunité de faire valoriser leurs savoirs et connaissances afin d’obtenir soit un ... [Show full abstract]  diplôme soit des acquis crédités, par voie de reconnaissance des acquis et des compétences, à la suite des preuves justificatives de leurs expériences. C’est en ce sens que le gouvernement du Québec s’attèle à donner à chaque individu la chance de se faire connaitre, de faire valoir leurs compétences sans tenir compte de leurs caractéristiques ascriptives et adopter des dispositions légales pour faciliter des pratiques institutionnelles de reconnaissance juste et équitable. Se faire valoriser réclame la motivation et la détermination de l’individu dans la poursuite des démarches de reconnaissance : demande de justification, écriture de documents, prestation orale ; pour construire des connaissances, pour démontrer les compétences, pour obtenir des crédits, communiquer une image de soi et légitimer les expériences. Cette recherche documentaire porte sur les pratiques de reconnaissance des acquis extrascolaires des étudiants en enseignement supérieur au Québec et se déroule sur une période datant de 1986 à 2016. Elle cherche à comprendre et analyser les pratiques de reconnaissance mises en œuvre par les universités québécoises dans une perspective de justice sociale. Aussi, l’analyse englobe les politiques institutionnelles et gouvernementales, les méthodes d’évaluation ainsi que les enjeux socioculturels et sociopolitiques. Comprendre les grands enjeux sociaux de l’implantation de la reconnaissance des acquis nous semble impératif dans un contexte de mondialisation et de marchandisation de la formation. Il semble important de nous interroger sur les pratiques des établissements d’enseignement supérieur ayant pour responsabilité de former des individus pour pérenniser la société, de promouvoir la culture, encourager la tolérance et le respect d’autrui dans cette complexité sociale. Il faut se demander si les pratiques institutionnelles en matière de reconnaissance des acquis sont justes, accessibles et équitables. La mise en place de la politique de reconnaissance dans les établissements d’enseignement supérieur ne cache-t-elle pas implicitement des inégalités et de l’injustice ? La manière dont les établissements d’enseignement supérieur traitent les demandes de reconnaissance n’abrite-t-elle pas des écueils explicites ou implicites renforçant les difficultés de la plupart des étudiants ?    
+ View full-text    
+
+ Article    
+ Full-text available    
+   
+ On the Diffusion of Shopping Centre Construction in Canada   
+ June 2008  · Canadian Geographer / Le Géographe canadien    
+ Eric Sheppard 
+  View full-text    
+
+ Last Updated: 21 Nov 2024    
+
+ Looking for the full-text?  
+ You can request the full-text of this conference paper directly from the authors on ResearchGate.  
+ Request full-text     
+   
+ Already a member? Log in    
+
+ ResearchGate iOS App    
+   
+ Get it from the App Store now.   
+
+ Install     
+
+ Keep up with your stats and more   
+
+ Access scientific knowledge from anywhere   
+
+ or   
+   
+ Discover by subject area     
+
+ Recruit researchers 
+  Join for free 
+  Login      Email   Tip:  Most researchers use their institutional email address as their ResearchGate login         Password  Forgot password?      Keep me logged in   Log in    or    Continue with Google                
+ Welcome back! Please log in.        Email · Hint  Tip:  Most researchers use their institutional email address as their ResearchGate login          Password   Forgot password?       Keep me logged in    Log in    or    Continue with Google       No account? Sign up 
+
+ Company   
+ About us    
+ News    
+ Careers    
+
+ Support   
+ Help Center    
+
+ Business solutions   
+ Advertising    
+ Recruiting    
+
+ © 2008-2024 ResearchGate GmbH. All rights reserved.   
+   
+ Terms 
+  Privacy 
+  Copyright 
+  Imprint 
+  Consent preferences 
+
+      

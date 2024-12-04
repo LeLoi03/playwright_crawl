@@ -1,0 +1,265 @@
+SIGIR   
+ Special Interest Group on  
+  Information Retrieval   
+  Find my information...        
+   
+ www.acm.org   Menu  
+ Skip to content  General Information | About 
+  ACM SIGIR Artifact Badging 
+  Fact sheet 
+  Membership 
+  Officers and Volunteers 
+  Services 
+  Travel Grants 
+  In-cooperation events 
+  List of SIGIR Locations and History 
+  Hosting SIGIR 
+  Hosting CHIIR 
+  Funding for SIGIR-Related Events 
+  Reports 
+  Conferences | Other IR Conferences 
+  Conference Code of Conduct 
+  Diversity, Equity and Inclusivity (DEI) Initiative 
+  Sponsored Conferences 
+  TOIS Presentation 
+  International Conference on the Theory of Information Retrieval (ICTIR) 
+  Events | Upcoming events 
+  Past Events 
+  Awards | Gerard Salton Awards 
+  Best Paper Awards 
+  Best Student Paper Awards 
+  Best Short Paper Awards 
+  Doctoral Consortium Awards 
+  Vannevar Bush Best Paper Awards 
+  SIGIR Test of Time Award 
+  SIGIR Academy 
+  SIGIR Early Career Researcher Awards 
+  Resources | Museum 
+  SIGIR Forum | Editorial Policy and Forum Editors 
+  Issues 
+  SIG-IRList 
+
+ Best Paper Awards  
+  
+ The Best Paper Award is presented to the individual(s) judged by an awards committee to have written the best paper appearing in the annual conference proceedings.  
+  
+ Year | Authors | Citation 
+ 2024 | Yan Fang  
+  Jingtao Zhan  
+  Qingyao Ai  
+  Jiaxin Mao  
+  Weihang Su  
+  Jia Chen  
+  Yiqun Liu | Scaling Laws For Dense Retrieval 
+ 2024 | Laura Dietz | A Workbench for Autograding Retrieve/Generate Systems 
+ 2023 | Maik Fröbe  
+  Jan Heinrich Reimer  
+  Sean MacAvaney  
+  Niklas Deckers  
+  Simon Reich  
+  Janek Bevendorff  
+  Benno Stein  
+  Matthias Hagen  
+  Martin Potthast | The Information Retrieval Experiment Platform 
+ 2022 | Valeriia Bolotova  
+  Vladislav Blinov  
+  Falk Scholer  
+  Bruce Croft  
+  Mark Sanderson | A Non-Factoid Question-Answering Taxonomy 
+ 2021 | Harrie Oosterhuis | Computationally Efficient Optimization of Plackett-Luce Ranking Models for Relevance and Fairness 
+ 2020 | Marco Morik  
+  Ashudeep Singh  
+  Jessica Hong  
+  Thorsten Joachims | Controlling Fairness and Bias in Dynamic Learning-to-Rank 
+ 2019 | Huazheng Wang  
+  Sonwoo Kim  
+  Eric McCord-Snook  
+  Qingyun Wu  
+  Hongning Wang | Variance Reduction in Gradient Exploration for Online Learning to Rank 
+ 2018 | Rocío Cañamares  
+  Pablo Castells | Should I Follow the Crowd? A Probabilistic Analysis of the Effectiveness of Popularity in Recommender Systems 
+ 2017 | Bob Goodwin  
+  Michael Hopcroft  
+  Dan Luu  
+  Alex Clemmer  
+  Mihaela Curmei  
+  Sameh Elnikety  
+  Yuxiong He | BitFunnel: Revisiting Signatures for Search 
+ 2016 | Yashar Moshfeghi  
+  Peter Triantafillou  
+  Frank E. Pollick | Understanding Information Need: an fMRI Study 
+ 2015 | Claudio Lucchese  
+  Franco Maria Nardini  
+  Salvatore Orlando  
+  Raffaele Perego  
+  Nicola Tonellotto  
+  Rossano Venturini | QuickScorer: A Fast Algorithm to Rank Documents with Additive Ensembles of Regression Trees   
+  For a paper that develops a novel representation of binary regression trees based on bitvectors and an algorithm to perform a fast interleaved traversal of the trees in a cache-aware fashion, and demonstrates significant efficiency gains on publically available learning-to-rank data sets with various models that use ensembles of regression trees. 
+ 2014 | Giuseppe Ottaviano  
+  Rossano Venturini | Partitioned Elias-Fano indexes   
+  For a paper that significantly improves on an already excellent compression technique, while preserving query time efficiency, as well as exhibiting the best compression ratio/processing speed trade-off. 
+ 2013 | Ryen W. White | Beliefs and Biases in Web Search   
+  For a paper which explores the impact of pre-conceived biases when searching in the health domain using a combination of surveys, human labeling of search results, and large scale search log analysis. 
+ 2012 | Mark Smucker  
+  Charles Clarke | Time-based calibration of effectiveness measures   
+  Selected for proposing a novel evaluation framework for IR where cumulative gain is computed with consideration of the time spent by users on examining search results, which enables better modeling of user effort in quantitative IR evaluation. 
+ 2011 | Mikhail Ageev  
+  Qi Guo  
+  Dmitry Lagun  
+  Eugene Agichtein | Find It If You Can: A Game for Modeling Different Types of Web Search Success Using Interaction Data 
+ 2010 | Ryen W. White  
+  Jeff Huang | Assessing the Scenic Route: Measuring the Value of Search Trails in Web Logs 
+ 2009 | Jaime Arguello  
+  Fernando Diaz  
+  Jamie Callan  
+  Jean-Francois Crespo | Sources of evidence for vertical selection 
+ 2008 | Jeremy Pickens  
+  Gene Golovchinsky  
+  Chirag Shah  
+  Pernilla Qvarfordt  
+  Maribeth Back | Algorithmic Mediation for Collaborative Exploratory Search 
+ 2007 | Ryen White  
+  Mikhail Bilenko  
+  Silviu Cucerzan | Studying the Use of Popular Destinations to Enhance Web Search Interaction 
+ 2006 | Ben Carterette  
+  James Allan  
+  Ramesh Sitaraman | Minimal Test Collections for Retrieval Evaluation 
+ 2005 | Elad Yom-Tov  
+  Shai Fine  
+  David Carmel  
+  Adam Darlow | Learning to Estimate Query Difficulty (Including Applications to Missing Content Detection and Distributed Information Retrieval) 
+ 2004 | Hui Fang  
+  Tao Tao  
+  ChengXiang Zhai | A Formal Study of Information Retrieval Heuristics 
+ 2003 | Ian Ruthven | Re-examining the potential effectiveness of interactive query expansion 
+ 2002 | Yi Zhang  
+  Jamie Callan  
+  Thomas Minka | Novelty and redundancy detection in adaptive filtering 
+ 2001 | James Allan  
+  Rahul Gupta  
+  Vikas Khandelwal | Temporal Summaries of News Topics 
+ 2000 | Kalervo Järvelin  
+  Jaana Kekäläinen | IR evaluation methods for retrieving highly relevant documents. 
+ 1999 | Jian-Yun Nie  
+  Michel Simard  
+  Pierre Isabelle  
+  Richard Durand | Cross-language information retrieval based on automatic mining of parallel texts from the web 
+ 1998 | Warren Greiff | A theory of term weighting based on exploratory data analysis 
+ 1997 | H.T. Ng  
+  W.B. Goh  
+  K.L. Low | Feature selection, perceptron learning, and a usability case study for text categorization 
+ 1996 | G.J.F. Jones  
+  J.T. Foote  
+  Karen Spärck Jones  
+  S.J. Young | Retrieving spoken documents by combining multiple index sources 
+  
+ Honorable Mentions  
+  
+ Year | Authors | Citation 
+ 2022 | Harrisen Scells  
+  Shengyao Zhuang  
+  Guido Zuccon | Reduce, Reuse, Recycle: Green Information Retrieval Research 
+ 2021 | Yang Zhang  
+  Fuli Feng  
+  Xiangnan He  
+  Tianxin Wei  
+  Chonggang Song  
+  Guohui Ling  
+  Yongdong Zhang | Causal Intervention for Leveraging Popularity Bias in Recommendation 
+ 2020 | Fan Zhang  
+  Jiaxin Mao  
+  Yiqun Liu  
+  Xiaohui Xie  
+  Weizhi Ma  
+  Min Zhang  
+  Shaoping Ma | Models Versus Satisfaction: Towards a Better Understanding of Evaluation Metrics 
+ 2019 | Xu Lu  
+  Lei Zhu  
+  Zhiyong Cheng  
+  Liqiang Nie  
+  Huaxiang Zhang | Online Multi-modal Hashing with Dynamic Query-adaption 
+ 2017 | Jun Wang  
+  Lantao Yu  
+  Weinan Zhang  
+  Yu Gong  
+  Yinghui Xu  
+  Benyou Wang  
+  Peng Zhang  
+  Dell Zhang | IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models 
+ 2017 | Fumin Shen  
+  Yadong Mu  
+  Yang Yang  
+  Wei Liu  
+  Li Liu  
+  Jingkuan Song  
+  Heng Tao Shen | Classification by Retrieval: Binarizing Data and Classifiers 
+ 2016 | Ido Guy | Searching by Talking: Analysis of Voice Queries on Mobile Web Search 
+ 2016 | Hanwang Zhang  
+  Fumin Shen  
+  Wei Liu  
+  Xiangnan He  
+  Huanbo Luan  
+  Chua Tat-Seng | Discrete Collaborative Filtering 
+ 2015 | Eddy Maddalena  
+  Stefano Mizzaro  
+  Falk Scholer  
+  Andrew Turpin | The Benefits of Magnitude Estimation for Relevance Assessment 
+ 2015 | Carsten Eickhoff  
+  Sebastian Dungs  
+  Vu Tran | An Eye-Tracking Study of Query Reformulation 
+ 2015 | Chao Wang  
+  Yiqun Liu  
+  Meng Wang  
+  Ke Zhou  
+  Jian-Yun Nie  
+  Shaoping Ma | Incorporating Non-sequential Behavior into Click Models 
+ 2014 | Leif Azzopardi | Modelling interaction with economic models of search 
+
+ Find my information...       
+ Recent Posts  
+ Call for Nominations for the ACM SIGIR Academy 
+  Announcing the SIGIR Early Career Researcher Awards 
+  SIGIR Forum June 2020 
+  SIGIR Forum June 2018 
+  Introducing New SIGIR Chapter: Tokyo 
+   
+ Recent Comments  
+
+ Archives  
+ November 2022 
+  June 2020 
+  July 2018 
+  March 2018 
+  June 2017 
+  April 2017 
+  March 2017 
+  January 2017 
+  December 2016 
+  July 2016 
+  June 2016 
+  January 2016 
+  December 2015 
+  June 2015 
+  January 2015 
+  December 2014 
+  November 2014 
+  August 2014 
+  July 2014 
+  April 2014 
+  February 2014 
+  August 2013 
+  July 2013 
+   
+ Categories  
+ News 
+   
+ Meta  
+ Log in 
+  Entries feed 
+  Comments feed 
+  WordPress.org 
+
+ Acm.org 
+  SIGs 
+
+  

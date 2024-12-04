@@ -1,0 +1,135 @@
+ JavaScript seems to be Disabled!  Some of the website features are unavailable unless JavaScript is enabled.   
+
+ Home 
+  RecSys 2025 
+  Past Conferences | RecSys 2024 (Bari) 
+  RecSys 2023 (Singapore) 
+  RecSys 2022 (Seattle) 
+  RecSys 2021 (Amsterdam) 
+  RecSys 2020 (Online) 
+  RecSys 2019 (Copenhagen) 
+  RecSys 2018 (Vancouver) 
+  RecSys 2017 (Como) 
+  RecSys 2016 (Boston) 
+  RecSys 2015 (Vienna) 
+  RecSys 2014 (Silicon Valley) 
+  RecSys 2013 (Hong Kong) 
+  RecSys 2012 (Dublin) 
+  RecSys 2011 (Chicago) 
+  RecSys 2010 (Barcelona) 
+  RecSys 2009 (New York) 
+  RecSys 2008 (Lausanne) 
+  RecSys 2007 (Minnesota) 
+  Workshops 
+  Submission Statistics 
+  Honors 
+  Blog 
+  Contact 
+    
+ Search:        
+
+ RecSys Best Paper Awards  
+ Since 2009, the best contributions to the annual ACM RecSys Conference were honored with awards.  
+ 2024  
+ Towards Empathetic Conversational Recommender Systems | by Xiaoyu Zhang, Ruobing Xie, Yougang Lyu, Xin Xin, Pengjie Ren, Mingfei Liang, Bo Zhang, Zhanhui Kang, Maarten de Rijke and Zhaochun Ren (Best Full Paper) 
+  The MovieLens Beliefs Dataset: Collecting Pre-Choice Data for Online Recommender Systems | by Guy Aridor, Duarte Goncalves, Ruoyan Kong, Daniel Kluver and Joseph Konstan (Best Short Paper) 
+  Unlocking the Hidden Treasures: Enhancing Recommendations with Unlabeled Data | by Yuhan Zhao, Rui Chen, Qilong Han, Hongtao Song and Li Chen (Best Student Paper) 
+  2023  
+ gSASRec: Reducing Overconfidence in Sequential Recommendation Trained with Negative Sampling | by Aleksandr V. Petrov and Craig Macdonald | (Best Full Paper) 
+  Going Beyond Local: Global Graph-Enhanced Personalized News Recommendations | by Boming Yang, Dairui Liu, Toyotaro Suzumura, Ruihai Dong and Irene Li | (Best Full Paper Runner-Up) 
+  Pairwise Intent Graph Embedding Learning for Context-Aware Recommendation | by Dugang Liu, Yuhao Wu, Weixin Li, Xiaolian Zhang, Hao Wang, Qinjuan Yang and Zhong Ming | (Best Full Paper Runner-Up) 
+  Interpretable User Retention Modeling in Recommendation | by Rui Ding, Ruobing Xie, Xiaobo Hao, Xiaochun Yang, Kaikai Ge, Xu Zhang, Jie Zhou and Leyu Lin | (Best Short Paper) 
+  Scalable Approximate NonSymmetric Autoencoder for Collaborative Filtering | by Martin Spišák, Radek Bartyzal, Antonín Hoskovec, Ladislav Peška and Miroslav Tůma | (Best Short Paper Runner-Up) 
+  Of Spiky SVDs and Music Recommendation | by Darius Afchar, Romain Hennequin and Vincent Guigue | (Best Short Paper Runner-Up) 
+  2022  
+ Exploring the longitudinal effects of nudging on users’ music genre exploration behavior and listening preferences | by Yu Liang and Martijn C. Willemsen | (Best Student Paper) 
+  Modelling Two-Way Selection Preference for Person-Job Fit | by Chen Yang, Yupeng Hou, Yang Song, Tao Zhang, Ji-Rong Wen and Wayne Xin Zhao | (Best Student Paper Runner-up) 
+  Denoising Self-Attentive Sequential Recommendation | by Huiyuan Chen, Yusan Lin, Menghai Pan, Lan Wang, Chin-Chia Michael Yeh, Xiaoting Li, Yan Zheng, Fei Wang and Hao Yang | (Best Paper) 
+  RADio – Rank-Aware Divergence Metrics to Measure Normative Diversity in News Recommendations | by Sanne Vrijenhoek, Gabriel Bénédict, Mateo Gutierrez, Daan Odijk and Maarten de Rijke | (Best Paper Runner-up) 
+  RecPack: An(other) Experimentation Toolkit for Top-N Recommendation using Implicit Feedback Data | by Lien Michiels, Robin Verachtert and Bart Goethals | (Best Demo) 
+  2021  
+ An Audit of Misinformation Filter Bubbles on YouTube: Bubble Bursting and Recent Behavior Changes | by Matus Tomlein, Branislav Pecher, Jakub Simko, Ivan Srba, Robert Moro, Elena Stefancova, Michal Kompan, Andrea Hrckova, Juraj Podrouzek, and Maria Bielikova | (Best Paper) 
+  Pessimistic Reward Models for Off-Policy Learning in Recommendation | by Olivier Jeunen and Bart Goethals | (Best Student paper) 
+  Connecting Students with Research Advisors Through User-Controlled Recommendation | by Behnam Rahdari, Peter Brusilovsky, and Alireza Javadian Sabet | (Best Demo) 
+  2020  
+ Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations | by H. Tang, J. Liu, M. Zhao, X. Gong | (Best Long Paper) 
+  Exploiting Performance Estimates for Augmenting Recommendation Ensembles | by G. Penha, R. L. T. Santos | (Best Long Paper Runner-up) 
+  ADER: Adaptively Distilled Exemplar Replay Towards Continual Learning for Session-based Recommendation | by F. Mi, X. Lin, B. Faltings | (Best Short Paper) 
+  2019  
+ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches | by M. Ferrari Dacrema, P. Cremonesi, D. Jannach | (Best Long Paper) 
+  Pace My Race: Recommendations for Marathon Running | by J. Berndsen, B. Smyth, A. Lawlor | (Best Short Paper) 
+  Quick and Accurate Attack Detection in Recommender Systems through User Attributes | by M. Aktukmak, Y. Yilmaz, I. Uysal | (Honorable Mention Short Paper) 
+  2018  
+ Causal Embeddings for Recommendation | by S. Bonner, F. Vasile | (Best Long Paper) 
+  Generation Meets Recommendation: Proposing Novel Items for Groups of Users | by T. V. Vo, H. Soh | (Best Long Paper Runner-up) 
+  Impact of Item Consumption on Assessment of Recommendations in User Studies | by B. Loepp, T. Donkers, T. Kleemann, J. Ziegler | (Best Short Paper) 
+  HOP-rec: High-order Proximity for Implicit Recommendation | by J.-H. Yang, C.-M. Chen, C.-J. Wang, M.-F. Tsai | (Best Short Paper Runner-up) 
+  2017  
+ Modeling the Assimilation-Contrast Effects in Online Product Rating Systems: Debiasing and Recommendations | by X. Zhang, J. Zhao, J.C.S. Lui | (Best Paper) 
+  Translation-based Recommendation | by R. He, W.-C. Kang, J. McAuley | (Best Paper Runner-up) 
+  2016  
+ Local Item-Item Models for Top-N Recommendation | by E. Christakopoulou and G. Karypis | (Best Paper) 
+  Adaptive, Personalized Diversity for Visual Discovery | by C. H. Teo, H. Nassif, D. Hill, S. Srinivasan, M. Goodman, V. Mohan and S. V. N. Vishwanathan | (Best Short Paper) 
+  2015  
+ Context-Aware Event Recommendation in Event-based Social Networks | by A. Macedo, L. Marinho and R. Santos | (Best Paper) 
+  Crowd Sourcing, with a Few Answers: Recommending Commuters for Traffic Updates | by E. Daly, M. Berlingerio and F. Schnitzler | (Best Short Paper) 
+  2014  
+ Beyond Clicks: Dwell Time for Personalization | by X. Yi, L. Hong, E. Zhong, N. Nan Liu and S. Rajan | (Best Paper) 
+  2013  
+ A Fast Parallel SGD for Matrix Factorization in Shared Memory Systems | by Y. Zhuang, W. Chin, Y. Juan and C. Lin | (Best Paper) 
+  2012  
+ CLiMF: Learning to Maximize Reciprocal Rank with Collaborative Less-is-More Filtering | by Y. Shi, A. Karatzoglou, L. Baltrunas, M. Larson, N. Oliver and A. Hanjalic | (Best Paper) 
+  Using Graph Partitioning Techniques for Neighbour Selection in User-Based Collaborative Filtering | by A. Bellogin and J. Parapar | (Best Short Paper) 
+  Alternating Least Squares for Personalized Ranking | by G. Takács and D. Tikk | (Honorable Mention) 
+  Ranking With Non-Random Missing Ratings: Influence Of Popularity And Positivity on Evaluation Metrics | by B. Pradel, N. Usunier and P. Gallinari | (Honorable Mention) 
+  2011  
+ OrdRec: An Ordinal Model for Predicting Personalized Item Rating Distributions | by Y. Koren and J. Sill | (Best Paper) 
+  Utilizing Related Product for Post-Purchase Recommendation in E-commerce | by J. Wang, B. Sarwar and N. Sundaresan | (Best Short Paper) 
+  2010  
+ A Matrix Factorization Technique with Trust Propagation for Recommendation in Social Networks | by M. Jamali and M. Ester | (Best Paper) 
+  Merging Multiple Criteria to Identify Suspicious Reviews | by G. Wu, D. Greene and P. Cunningham | (Best Short Paper) 
+  The Network Effects of Recommending Social Connections | by E. Daly, W. Geyer and D. Millen | (Best Short Paper) 
+  2009  
+ Collaborative Prediction and Ranking with Non-Random Missing Data | by B. Marlin and R. Zemel | (Best Paper) 
+  Understanding the Effect of Adaptive Preference Elicitation Methods on User Satisfaction of a Recommender System | by B. Knijnenburg and M. Willemsen | (Best Short Paper) 
+    
+ Honors & Awards  
+ Best Papers 
+  Best Reviewers 
+  RecSys Challenge Winners 
+  Women in RecSys 
+
+ About this site  
+ This site contains information about the ACM Recommender Systems community, the annual ACM RecSys conferences, and more.  
+
+ RecSys 2025  
+ About the Conference 
+
+ Shortcuts to Conferences RecSys 2025 (Prague) 
+  RecSys 2024 (Bari) 
+  RecSys 2023 (Singapore) 
+  RecSys 2022 (Seattle) 
+  RecSys 2021 (Amsterdam) 
+  RecSys 2020 (Online) 
+  RecSys 2019 (Copenhagen) 
+  RecSys 2018 (Vancouver) 
+  RecSys 2017 (Como) 
+  RecSys 2016 (Boston) 
+  RecSys 2015 (Vienna) 
+  RecSys 2014 (Silicon Valley) 
+  RecSys 2013 (Hong Kong) 
+  RecSys 2012 (Dublin) 
+  RecSys 2011 (Chicago) 
+  RecSys 2010 (Barcelona) 
+  RecSys 2009 (New York) 
+  RecSys 2008 (Lausanne) 
+  RecSys 2007 (Minnesota) 
+  Workshops 
+  Submission Statistics 
+
+ © 2012- 2024  
+  RecSys Community. All rights are reserved.  
+
+ We are social:  
+
+  

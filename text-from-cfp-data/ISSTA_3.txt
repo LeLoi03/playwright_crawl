@@ -1,0 +1,595 @@
+ISSTA 2025   Wed 25 - Sat 28 June 2025 Trondheim, Norway    
+
+ Toggle navigation        
+ Attending | Venue: Trondheim, Norway 
+  Sponsorship 
+  Tracks | ISSTA 2025 
+  Research Papers 
+  Tool Demonstrations 
+  Workshops 
+  Doctoral Symposium 
+  Sponsorship 
+  Organization | ISSTA 2025 Committees 
+  Organizing Committee 
+  Track Committees 
+  Research Papers 
+  Tool Demonstrations 
+  Workshops 
+  Doctoral Symposium 
+  Sponsorship 
+  Contributors 
+  People Index 
+  Search 
+  Series | Series 
+   ISSTA 2025 
+  ISSTA 2024 
+  ISSTA 2023 
+  ISSTA 2022 
+  ISSTA 2021 
+  ISSTA 2020 
+  ISSTA 2019 
+  ISSTA 2018 
+  ISSTA 2017 
+  Sign in 
+  Sign up 
+
+  ISSTA 2025  ( series  ) /  Research Papers ISSTA 2025   
+   
+ About 
+  Call for Papers 
+  About   
+ The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) is the leading research symposium on software testing and analysis, bringing together academics, industrial researchers, and practitioners to exchange new ideas, problems, and experience on how to analyze and test software systems.  
+   
+ Call for Papers  
+  
+ We invite high-quality submissions, from both industry and academia, describing original and unpublished results of theoretical, empirical, conceptual, and experimental research on software testing and analysis.  
+ ISSTA invites three kinds of submissions. The majority of submissions are expected to be “Research Papers”, but submissions that best fit the description of “Experience Papers” or “Replicability Studies” should be submitted as such. A good Experience Paper will include lessons learned or other wisdom synthesised for the community from the reported experience. Replicability Studies shall clearly describe their purpose and value beyond the original result.  
+ NEW THIS YEAR  : The conference proceedings will be published in the Proceedings of the ACM on Software Engineering (PACMSE), Issue: ISSTA 2025.  
+ Research Papers   
+ Authors are invited to submit research papers describing original contributions in testing or analysis of computer software. Papers describing original theoretical or empirical research, new techniques, methods for emerging systems, in-depth case studies, infrastructures of testing and analysis, or tools are welcome.  
+ Experience Papers   
+ Authors are invited to submit experience papers describing a significant experience in applying software testing and analysis methods or tools and should carefully identify and discuss important lessons learned so that other researchers and/or practitioners can benefit from the experience.  
+ Replicability Studies   
+ ISSTA would like to encourage researchers to replicate results from previous papers. A replicability study must go beyond simply re-implementing an algorithm and/or re-running the artefacts provided by the original paper. It should at the very least apply the approach to new, significantly broadened inputs. Particularly, replicability studies are encouraged to target techniques that previously were evaluated only on proprietary subject programs or inputs. A replicability study should clearly report on results that the authors were able to replicate as well as on aspects of the work that were not replicable. In the latter case, authors are encouraged to make an effort to communicate or collaborate with the original paper’s authors to determine the cause for any observed discrepancies and, if possible, address them (e.g., through minor implementation changes). We explicitly encourage authors to not focus on a single paper/artefact only, but instead to perform a comparative experiment of multiple related approaches.  
+ Replicability studies should follow the ACM guidelines on replicability (different team, different experimental setup): the measurement can be obtained with stated precision by a different team, a different measuring system, in a different location on multiple trials. For computational experiments, this means that an independent group can obtain the same result using artefacts which they develop completely independently. Moreover, it is generally also insufficient to focus on reproducibility (i.e., different team, same experimental setup) alone. Replicability Studies will be evaluated according to the following standards:  
+ Depth and breadth of experiments 
+  Clarity of writing 
+  Appropriateness of conclusions 
+  Amount of useful, actionable insights 
+  Availability of artefacts 
+  We expect replicability studies to clearly point out the artefacts the study is built on, and to submit those artefacts to the artefact evaluation. Artefacts evaluated positively will be eligible to obtain the prestigious Results Reproduced badge.  
+ Major Revisions   
+ Papers submitted to the initial deadline may be accepted, rejected or may receive a chance to submit a major revision of the initial submission to the major revision deadline.  
+ Submission Guidelines   
+ Submissions must be original and should not have been published previously or be under consideration for publication while being evaluated for ISSTA. Authors are required to adhere to the ACM Policy  and Procedures on Plagiarism and the ACM Policy on Prior Publication and Simultaneous Submissions.  
+ At the time of submission, each paper should have no more than 18 pages for all text and figures, plus 4 pages for references, using the following templates: Latex  or Word (Mac)  or Word (Windows)  . Authors using LaTeX should use the sample-acmsmall-conf.tex file (found in the samples folder of the acmart package) with the acmsmall option. We also strongly encourage the use of the review, screen, and anonymous options as well. In sum, you want to use:  
+ \documentclass[acmsmall,screen,review,anonymous]{acmart}   
+ Papers may be submitted using numeric citations, but final versions of accepted papers must use the author-year format for citations. It is a single-column page layout. Submissions that do not comply with the above instructions will be desk rejected without review.  
+ The page limit is strict, i.e., papers that take more than 18 pages for anything apart from references (including any section, figure, text, or appendix), will be desk-rejected. Experience papers and replicability studies should clearly specify their category in the paper title upon submission: “[TITLE](Experience Paper)”, “[TITLE](Replicability Study)”. Papers must be submitted electronically through the ISSTA 2025 submission site  .  
+ Each submission will be reviewed by at least three members of the program committee. Submissions will be evaluated on the basis of originality, importance of contribution, soundness, evaluation, quality of presentation, appropriate comparison to related work, and verifiability/transparency of the work. Some papers may have more than three reviews, as the PC chairs may solicit additional reviews based on factors such as reviewer expertise and strong disagreement between reviewers. The program committee as a whole will make final decisions about which submissions to accept for presentation at the conference.  
+ Double-anonymous Reviewing   
+ ISSTA 2025 will conduct double-anonymous reviewing. Submissions should not reveal the identity of the authors in any way. Authors should leave out author names and affiliations from the body of their submission and may want to confirm that their generated PDF does not contain any meta-data with their names. They should also ensure that any citations to related work by themselves are written in third person, that is, “the prior work of XYZ” as opposed to “our prior work”.  
+ Authors with further questions on double-blind reviewing are encouraged to contact the Program Chair by email.  
+ Open Science Policy and “Data Availability” Section   
+ ISSTA has adopted an open science policy. Openness in science is key to fostering scientific progress via transparency, reproducibility, and replicability. The steering principle is that all research results should be accessible to the public, if possible, and that empirical studies should be reproducible. In particular, we actively support the adoption of open data and open source principles and encourage all contributing authors to disclose (anonymized and curated) data to increase reproducibility and replicability.  
+ Upon submission, authors are asked to make their code, data, etc. available to the program committee (via upload of anonymized supplemental material or a link to an anonymized private or public repository) or to comment on why this is not possible or desirable. At least one of the reviewers will check the provided data. While sharing the data is not mandatory for submission or acceptance, it will inform the program committee’s decision. Furthermore, we ask authors to provide a supporting statement on the data availability (or lack thereof) in their submitted papers in a section named “Data Availability” after the Conclusion section.  
+ Important Dates   
+ All dates are 23:59:59 AoE (UTC-12h):  
+ Full paper submission: 31 October, 2024 
+  Initial notification: 19 December, 2024 
+  Revised manuscript submissions (major revisions only): 27 February, 2025 
+  Final notification for major revisions: 31 March, 2025 
+  Camera ready: 24 April, 2025 
+  Publication Date   
+ The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to two weeks prior to the first day of the ISSTA conference. The official publication date affects the deadline for any patent filings related to published work.  
+
+ Important Dates   AoE (UTC-12h)     
+
+ Thu 19 Dec 2024  
+  Initial Notification 
+ Thu 27 Feb 2025  
+  Revised Manuscript Submissions (Major Revisions Only) 
+ Mon 31 Mar 2025  
+  Final Notification for Major Revisions 
+ Thu 24 Apr 2025  
+  Camera Ready 
+ Thu 31 Oct 2024  
+  Full Paper Submission 
+ Tue 20 Feb 2024   
+  Self-nominations for the ISSTA PC 
+
+ Program Committee    
+   
+ Myra Cohen Program Co-Chair    
+ Iowa State University   
+ United States 
+  Paolo Tonella Program Co-Chair    
+ USI Lugano   
+ Switzerland 
+  Guido Salvaneschi    
+ University of St. Gallen   
+ Switzerland 
+  Donghwan Shin    
+ University of Sheffield   
+ United Kingdom 
+  Dongjie He    
+ Chongqing University, China   
+ China 
+  Guixin Ye    
+ Northwest University   
+ China 
+  Gunel Jahangirova    
+ King's College London   
+ United Kingdom 
+  Dongsun Kim    
+ Korea University   
+ South Korea 
+  Elena Sherman    
+ Boise State University   
+ United States 
+  Guowei Yang    
+ University of Queensland   
+ Australia 
+  Emilio Coppa    
+ LUISS University   
+ Italy 
+  Hai Jin    
+ Huazhong University of Science and Technology   
+ China 
+  Haipeng Cai    
+ University at Buffalo, SUNY   
+ United States 
+  Ezekiel Soremekun    
+ Royal Holloway, University of London   
+ United Kingdom 
+  Hamid Bagheri    
+ University of Nebraska-Lincoln   
+ United States 
+  Flavio Toffalini    
+ EPFL 
+  Germán Regis    
+ University of Rio Cuarto and CONICET   
+ Argentina 
+  Hao Zhou    
+ Hong Kong Polytechnic University, China 
+  Gregory J. Duck    
+ National University of Singapore   
+ Singapore 
+  Haoyu Wang    
+ Huazhong University of Science and Technology   
+ China 
+  Guangdong Bai    
+ University of Queensland   
+ Australia 
+  Heqing Huang    
+ City University of Hong Kong 
+  Hong Mei    
+ Shanghai Jiao Tong University   
+ China 
+  Hongyu Zhang    
+ Chongqing University   
+ China 
+  Hui Liu    
+ Beijing Institute of Technology   
+ China 
+  Jacques Klein    
+ University of Luxembourg   
+ Luxembourg 
+  James Jones    
+ University of California at Irvine   
+ United States 
+  James C. Davis    
+ Purdue University   
+ United States 
+  Ji Wang    
+ National University of Defense Technology   
+ China 
+  Jiachi Chen    
+ Sun Yat-sen University   
+ China 
+  Jiajun Jiang    
+ Tianjin University   
+ China 
+  Jian Zhang    
+ Institute of Software at Chinese Academy of Sciences; University of Chinese Academy of Sciences   
+ China 
+  Jian-Guang Lou    
+ Microsoft Research   
+ China 
+  Jianjun Zhao    
+ Kyushu University   
+ Japan 
+  Jie M. Zhang    
+ King's College London   
+ United Kingdom 
+  Jin Song Dong    
+ National University of Singapore   
+ Singapore 
+  Jingbo Wang    
+ Purdue University 
+  Jingling Xue    
+ UNSW Sydney   
+ Australia 
+  Jingyi Wang    
+ Zhejiang University   
+ China 
+  Jinhan Kim    
+ Università della Svizzera italiana (USI)   
+ Switzerland 
+  Jinqiu Yang    
+ Concordia University   
+ Canada 
+  Jiwei Yan    
+ Institute of Software at Chinese Academy of Sciences   
+ China 
+  Jooyong Yi    
+ UNIST   
+ South Korea 
+  Juan Zhai    
+ University of Massachusetts at Amherst   
+ United States 
+  Julian Dolby    
+ IBM Research   
+ United States 
+  Jun Sun    
+ Singapore Management University   
+ Singapore 
+  Junjie Chen    
+ Tianjin University   
+ China 
+  Karine Even-Mendoza    
+ King’s College London   
+ United Kingdom 
+  Kui Liu    
+ Huawei   
+ China 
+  Lei Ma    
+ The University of Tokyo & University of Alberta   
+ Japan 
+  Leonardo Mariani    
+ University of Milano-Bicocca   
+ Italy 
+  Li Li    
+ Beihang University   
+ China 
+  Lili Wei    
+ McGill University   
+ Canada 
+  Lingming Zhang    
+ University of Illinois at Urbana-Champaign   
+ United States 
+  Man Zhang    
+ Beihang University, China 
+  Manish Motwani    
+ Oregon State University   
+ United States 
+  Marcelo d'Amorim    
+ North Carolina State University   
+ United States 
+  Maria Kechagia    
+ University College London   
+ United Kingdom 
+  Mariano Ceccato    
+ University of Verona   
+ Italy 
+  Mark Harman    
+ Meta Platforms, Inc. and UCL   
+ United Kingdom 
+  Martin Kellogg    
+ New Jersey Institute of Technology   
+ United States 
+  Mattia Fazzini    
+ University of Minnesota   
+ United States 
+  Meng Yan    
+ Chongqing University   
+ China 
+  Michael Lyu    
+ Chinese University of Hong Kong 
+  Michele Pasqua    
+ University of Verona   
+ Italy 
+  Nazareno Aguirre    
+ University of Rio Cuarto and CONICET   
+ Argentina 
+  Oliviero Riganelli    
+ University of Milano - Bicocca   
+ Italy 
+  Omer Tripp    
+ Amazon Web Services 
+  Paolo Arcaini    
+ National Institute of Informatics   
+ Japan 
+  Paul Gazzillo    
+ University of Central Florida   
+ United States 
+  Peisen Yao    
+ Zhejiang University   
+ China 
+  Pengyu Nie    
+ University of Waterloo   
+ Canada 
+  Pinjia He    
+ Chinese University of Hong Kong, Shenzhen   
+ China 
+  Qi Xin    
+ Wuhan University   
+ China 
+  Qian Zhang    
+ University of California at Riverside   
+ United States 
+  Qingkai Shi    
+ Nanjing University   
+ China 
+  Rongxin Wu    
+ Xiamen University   
+ China 
+  Saba Alimadadi    
+ Simon Fraser University   
+ Canada 
+  Saeid Tizpaz-Niari    
+ University of Texas at El Paso   
+ United States 
+  Saikat Dutta    
+ Cornell University   
+ United States 
+  Sang Kil Cha    
+ KAIST   
+ South Korea 
+  Sebastian Elbaum    
+ University of Virginia   
+ United States 
+  Sen Chen    
+ Tianjin University   
+ China 
+  Sergey Mechtaev    
+ Peking University   
+ China 
+  Shanshan Li    
+ National University of Defense Technology   
+ China 
+  Shaohua Wang    
+ Central University of Finance and Economics   
+ China 
+  Shaukat Ali    
+ Simula Research Laboratory and Oslo Metropolitan University   
+ Norway 
+  Shilin He    
+ Microsoft Research   
+ n.n. 
+  Shing-Chi Cheung    
+ Hong Kong University of Science and Technology   
+ China 
+  Shiva Nejati    
+ University of Ottawa   
+ Canada 
+  Shiyi Wei    
+ University of Texas at Dallas   
+ United States 
+  Song Wang    
+ York University   
+ Canada 
+  Steven Arzt    
+ Fraunhofer SIT; ATHENE   
+ Germany 
+  Sunbeom So    
+ GIST (Gwangju Institute of Science and Technology) 
+  Sungho Lee    
+ Chungnam National University, Korea   
+ South Korea 
+  Tao Chen    
+ University of Birmingham   
+ United Kingdom 
+  Tao Xie    
+ Peking University   
+ China 
+  Tao Yue    
+ Beihang University   
+ China 
+  Tao Zhang    
+ Macau University of Science and Technology   
+ China 
+  Tegawendé F. Bissyandé    
+ University of Luxembourg   
+ Luxembourg 
+  Thibaud Lutellier    
+ University of Alberta   
+ Canada 
+  Ting Liu    
+ Xi'an Jiaotong University 
+  Tingting Yu    
+ University of Connecticut   
+ United States 
+  Valerio Terragni    
+ University of Auckland   
+ New Zealand 
+  Thuan Pham    
+ University of Melbourne   
+ Australia 
+  Vincenzo Riccio    
+ University of Udine   
+ Italy 
+  Wei Song    
+ Nanjing University of Science and Technology   
+ China 
+  Wei Yang    
+ University of Texas at Dallas   
+ United States 
+  Wensheng Dou    
+ Institute of Software Chinese Academy of Sciences   
+ China 
+  Xiang Gao    
+ Beihang University   
+ China 
+  Xiaoning Du    
+ Monash University   
+ Australia 
+  Xiaoyu Sun    
+ Australian National University, Australia   
+ Australia 
+  Xiaoyuan Xie    
+ Wuhan University   
+ China 
+  Xiapu Luo    
+ Hong Kong Polytechnic University   
+ China 
+  Xiaofei Xie    
+ Singapore Management University   
+ Singapore 
+  Xin Peng    
+ Fudan University   
+ China 
+  Xin Xia    
+ Huawei   
+ China 
+  Xing Hu    
+ Zhejiang University   
+ China 
+  Xusheng Xiao    
+ Arizona State University   
+ United States 
+  Yang Liu    
+ Nanyang Technological University   
+ Singapore 
+  Yanjie Zhao    
+ Huazhong University of Science and Technology   
+ China 
+  Yanlin Wang    
+ Sun Yat-sen University   
+ China 
+  Yao Wan    
+ Huazhong University of Science and Technology   
+ China 
+  Yiling Lou    
+ Fudan University   
+ China 
+  Yiming Tang    
+ Rochester Institute of Technology   
+ United States 
+  Yongqiang Tian    
+ Hong Kong University of Science and Technology   
+ China 
+  Youcheng Sun    
+ University of Manchester   
+ United Kingdom 
+  Yu Huang    
+ Vanderbilt University   
+ United States 
+  Yu Jiang    
+ Tsinghua University   
+ China 
+  Yuekang Li    
+ UNSW   
+ Australia 
+  Yueming Wu    
+ Nanyang Technological University 
+  Yulei Sui    
+ UNSW   
+ Australia 
+  Yuqi Chen    
+ ShanghaiTech University   
+ China 
+  Yuqun Zhang    
+ Southern University of Science and Technology   
+ China 
+  Yuxin Su    
+ Sun Yat-sen University   
+ China 
+  Zhenbang Chen    
+ College of Computer, National University of Defense Technology   
+ China 
+  Zhenyu Chen    
+ Nanjing University   
+ China 
+  Zhuo Zhang    
+ Purdue University   
+ United States 
+  Aitor Arrieta    
+ Mondragon University   
+ Spain 
+  Bihuan Chen    
+ Fudan University   
+ China 
+  Chunrong Fang    
+ Nanjing University   
+ China 
+  Bernd Fischer    
+ Stellenbosch University   
+ South Africa 
+  Alessio Gambi    
+ Austrian Institute of Technology (AIT)   
+ Austria 
+  Cuiyun Gao    
+ Harbin Institute of Technology   
+ China 
+  Ali Ghanbari    
+ Auburn University   
+ United States 
+  Dominik Helm    
+ University of Duisburg-Essen; TU Darmstadt; National Research Center for Applied Cybersecurity ATHENE   
+ Germany 
+  Anil Koyuncu    
+ Bilkent University   
+ Turkey 
+  Darko Marinov    
+ University of Illinois at Urbana-Champaign   
+ United States 
+  Dimitris Mitropoulos    
+ University of Athens   
+ Greece 
+  Alessandro Orso    
+ Georgia Institute of Technology   
+ United States 
+  Chris Poskitt    
+ Singapore Management University   
+ Singapore 
+  Alexander Pretschner    
+ Technical University of Munich   
+ Germany 
+  Ajitha Rajan    
+ University of Edinburgh   
+ United Kingdom 
+  August Shi    
+ The University of Texas at Austin   
+ United States 
+  Clay Stevens    
+ Iowa State University 
+  Andrea Stocco    
+ Technical University of Munich, fortiss   
+ Germany 
+  Chengnian Sun    
+ University of Waterloo   
+ Canada 
+  Chungha Sung    
+ Amazon Web Services, USA   
+ United States 
+  Alexi Turcotte    
+ Northeastern University   
+ United States 
+  Chengpeng Wang    
+ Purdue University   
+ United States 
+  Daoyuan Wu    
+ The Hong Kong University of Science and Technology   
+ Hong Kong SAR China 
+  Chao Zhang    
+ Tsinghua University   
+ China 
+
+ x  Wed 4 Dec 13:25    
+
+  ISSTA 2025   
+  using conf.researchr.org  ( v1.67.1  )  
+   Support page    
+     
+ Tracks  
+ Research Papers   
+  Tool Demonstrations   
+  Workshops   
+  Doctoral Symposium   
+  Sponsorship    
+
+ Attending  
+ Venue: Trondheim, Norway   
+
+  

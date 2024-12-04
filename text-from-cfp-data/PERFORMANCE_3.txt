@@ -1,0 +1,140 @@
+   
+  
+ Login    Lost password ?  Create account 
+
+ Main menu   
+ Home     
+ Technical Program     
+ Program at a glance     
+ Keynotes and Tutorials     
+ Workshops ▼      
+ DeNetS     
+ iEdge     
+ RLMAS     
+ QTECQS     
+   
+ Organization     
+ Venue and Hotel     
+ Student grants     
+ Call for papers     
+ .     
+
+ HELP   
+ @ Contact | Call for papers  
+ OVERVIEW   
+      
+  The IFIP Performance conference aims to bring together researchers interested in understanding and improving the performance of computing and communication systems by means of state-of-the-art quantitative models and solution techniques. Research papers on the design of algorithms, mathematical analysis and modelling, simulation and measurement techniques for computer systems or communication networks are solicited. Of particular interest is work that presents new performance evaluation methods, or that creatively applies previously developed methods to make predictions about or gain insights into key design trade-offs in a variety of computing, networked, and cyber-physical systems, ranging from mobile devices and Internet-of-Things (IoT) applications to large-scale cloud computing systems. We specifically also invite papers reproducing prior results in these areas, when adding to the reproducibility or applicability of the result.   
+ IMPORTANT DATES    
+ Submission site opens: May 1, 2023 
+  Abstract submission: | May 21, 2023, | May 28, 2023, 23:59:59 EDT 
+  Full paper submission: | May 28, 2023, | June 4, 2023, 23:59:59 EDT 
+  Notification to authors: July 30, 2023 
+  TOPICS    
+ We solicit papers describing original and previously unpublished research. Specific topics of interest include, but are not limited to, the following.  
+ Performance-oriented methodologies including:   
+ Analytical modelling techniques and model validation 
+  Anomaly detection, problem diagnosis and troubleshooting 
+  Capacity planning, resource allocation, routing, scheduling and quality of service 
+  Experimental design, statistical analysis, simulation 
+  Game theory, network economics, and platform design 
+  Machine learning, data mining, graph analysis, optimization 
+  Performance, scalability, power and reliability analysis 
+  Stochastic modelling, statistical analysis and simulation 
+  Sustainability analysis and power management 
+  Complex networks, sorting and ranking 
+  System measurement, performance monitoring and forecasting 
+  Workload characterization and benchmarking 
+  Evaluation techniques, and algorithms for:   
+ Artificial intelligence and machine learning platforms 
+  Blockchains and crypto-currency 
+  Computer architectures and operating systems 
+  Cyber-physical systems, internet of things, and smart grids 
+  Data centres, content delivery, cloud computing and virtualization 
+  High performance computing 
+  Internet and web services 
+  Mobile and personal computing systems 
+  Network architectures, protocols and congestion control 
+  Network economics and platform design 
+  Privacy and algorithmic fairness 
+  Security systems 
+  Storage systems and data centres 
+  Social networks, multimedia systems and smart grid 
+  Virtualization, data centres, distributed and cloud computing, fog and edge computing 
+  Quantum computing and quantum communication 
+  Wireless, ad-hoc and cellular networks 
+  CONFERENCE FORMAT    
+ The conference will be fully on-site.  
+ PAPER SUBMISSION    
+ Performance 2023 accepts submissions in two categories:  
+ Regular papers: 20 pages 
+  Short papers: 10 pages 
+  Format of Regular Paper Submissions:    
+  Regular papers should not exceed 20 pages (not including references) for technical content (including all tables and figures). You are recommended to use the Elsevier article class elsarticle.cls ( with the 3p document class option  ) to prepare your manuscript and BibTeX to generate your bibliography  . See also the guide for authors here    .  
+ Authors may supplement their paper with an appendix, the length of which is not constrained. However, the appendix may only be used for the purpose of justifying the technical correctness of their claims stated in the body of the paper, e.g., a subset of the proofs or additional experimental validation. Note that the novelty of the submission will be judged based on the technical content of the paper and the reviewers are not obliged to read the appendix.  
+ Accepted regular papers will be published in a special of Performance Evaluation (PEVA)  . Additionally, an extended abstract will be published in a special issue of the ACM Performance Evaluation Review (PER)  .  
+ Authors may opt-out of publication in PEVA in favour of submission to other special issues in journals related to Performance Evaluation and Operations Research. See the “Special Issues” section below for details.  
+ Format of Short Paper Submissions:    
+  Short papers are limited to 10 pages (not including references for technical content (including all tables and figures). Authors may supplement their paper with an appendix, the length of which is not constrained. However, the appendix may only be used for the purpose of justifying the technical correctness of their claims stated in the body of the paper, e.g., a subset of the proofs or additional experimental validation. Note that the novelty of the submission will be judged based on the technical content of the paper and the reviewers are not obliged to read the appendix.  
+ Accepted short papers will be published in a special issue of the ACM Performance Evaluation Review (PER)  . Please find the style files here    .  
+ Instructions for all Submissions:    
+ Papers must be submitted through | hotCRP | in printable pdf form. No changes to margins, spacing or font sizes are allowed from those specified by the style files. Papers violating the formatting guidelines will be returned without review. 
+  All submissions will be reviewed using a double-blind review process. The identity of authors and referees will not be revealed to each other. To ensure double-blind reviewing, authors’ names and affiliations should not appear in the paper and bibliographic references should be made in such a way as to preserve author anonymity. Please refer to the anonymity guidelines below in the “Polices” section for more information. 
+  Authors must declare conflicts with TPC members truthfully on the submission page. If a paper is found to have undeclared conflicts or has listed false conflicts, the paper may be rejected. When you declare your conflict of interest with the TPC members, consider as a conflict: | Colleagues of your same institutions (and this is automatically tracked by the submission system); 
+  Advisor-advisee; 
+  Your co-authors in last three years; 
+  Other relationships, such as close personal friendship, that you think might tend to affect your judgment or be seen as doing so by a reasonable person familiar with the relationship. 
+  Performance welcomes manuscripts that are new versions of earlier submissions. Authors of papers previously submitted to Sigmetrics 2023 are required to declare this information during paper registration and are allowed to include a response to the Sigmetrics reviews in a clearly-marked appendix that will not count against the page limit. The paper will then be reviewed again as a new submission by at least one of its Sigmetrics reviewers to aid consistency. 
+  Special Issues    
+  By default accepted regular papers will be published in a special issue of the Performance Evaluation (PEVA)  journal. Additionally, an extended abstract will be published in a special issue of the ACM Performance Evaluation Review (PER)  . However, authors may opt -out of publication in PEVA in favour of an expedited review process in journals related to Performance Evaluation and Operations Research.  
+ An expedited review process of accepted papers will be provided by the following journals:  
+ ACM Transactions on Modeling and Performance Evaluation of Computer Systems (ToMPECS) | , 
+  Queueing Systems: Theory and Application (QUESTA) | , 
+  Stochastic Models | , and 
+  Stochastic Systems | . 
+  In each case, after you have notified the TPC Chairs of your decision, you should prepare your manuscript using the same preparation guidelines as standard papers for the journals but also notify the Editor-in-Chief and submit the paper with an author’s response to the IFIP Performance reviews. Authors need to make sure that their work falls within the scope of the respective journal and can seek assistance from the TPC chairs with this determination. All papers will be reviewed according to the standards of the journal. Eligible papers are:  
+ extensions of short-papers and 
+  long papers that opt-out of publication in PEVA. 
+  POLICIES    
+ Soft tracking    
+  IFIP Performance uses “soft” tracking to better match reviewers with submitted papers and to more clearly define the scope of submissions. All submissions, regardless of the selected track, will be treated equally in terms of acceptance criteria and review guidelines. Authors must select a track from among the four listed on the submission website when submitting their paper. Optionally, a second track may be selected only for papers with a strong inter-disciplinary element. For authors who have difficulty selecting a track, the PC chairs will be available to provide advice. The four tracks are:  
+ Learning. | Papers in this track make progress on either (i) the design and analysis of machine learning and AI algorithms, broadly defined, or (ii) the application of tools from machine learning and AI, broadly defined, to the design, control, and optimization of computing, networked, social, or cyber-physical systems. The areas of interest include, but are not limited to, learning theory, online learning, reinforcement learning, deep learning, trustworthy learning (causality, fairness, privacy), distributed learning, as well as their applications to systems. 
+  Measurement & Applied Modelling. | Papers in this track make an empirical or applied contribution. They often either (i) draw significant insights from real or synthetic data through access to new data sources or experiments, or through novel analysis of existing data sources; and/or (ii) propose and apply a new model or simulation tool to capture real-world phenomena. Papers in this track may present general-purpose measurement or simulation methodologies, or may focus on a specific application domain, or a particular technology, and explain data obtained from measurements of that domain or technology. 
+  Systems. | Papers in this track make a contribution to the design, implementation, and/or practical evaluation of computing, networked, social, or cyber-physical systems. The areas of interest include, but are not limited to networking, distributed systems, computer architecture, wireless networks, edge/IoT applications, high performance computing, cloud computing, energy efficiency, real-time and fault-tolerant computing, security and privacy, social networks, and cyber-physical systems, including the smart grid. System papers with a strong machine learning and AI focus are encouraged to apply to the Learning track. 
+  Theory. | Papers in this track make progress on existing theoretical problems, propose new ones, or introduce significant new analysis techniques. The areas of interest include, but are not limited to, stochastic processes & applied probability, graph theory, scheduling & resource allocation, queueing theory, caching theory, algorithms, mathematical optimization, control theory, market design & game theory, privacy & security, network science, and algorithmic fairness. 
+  Anonymity guidelines    
+  IFIP Performance is double-blind, meaning that authors should make a good faith effort to anonymize papers. As an author, you should not identify yourself in the paper either explicitly or by implication (e.g., through the references or acknowledgments). However, only non-destructive anonymization is required. For example, system names may be left un-anonymized, if the system name is important for a reviewer to be able to evaluate the work. Specifically, please take the following steps when preparing your submission:  
+ Remove authors’ names and affiliations from the title page. 
+  Remove acknowledgment of identifying names and funding sources. 
+  Use care in naming your files. Source file names, e.g., Joe.Smith.dvi, are often embedded in the final output as readily accessible comments. 
+  Use care in referring to related work, particularly your own. Do not omit references to provide anonymity, as this leaves the reviewer unable to grasp the context. Instead, a good solution is to reference your past work in the third person, just as you would any other piece of related work. 
+  If you need to reference another submission at IFIP Performance on a related topic, reference it as follows: “A related paper describes the design and implementation of our compiler [Anonymous 2023].” with the corresponding citation: “[Anonymous 2023] Under submission. Details omitted for double-blind reviewing.” 
+  If you cite anonymous work, you should also send the deanonymized reference(s) to the PC chairs in a separate email. 
+  Publication of a pre-submission version of the submission on your personal website, institutional archive, or the arXiv is allowed. We strongly encourage the authors to do so as far away as possible from the submission deadline, as potential reviewers may be automatically notified (e.g., if subscribed to receive updates on recently posted papers). In addition, authors should take care not to widely broadcast information about their arXiv submission, for example, on social media forums or a general press release or large mailing lists where PC members in the recipient list or audience can easily identify the authors. 
+  PC members and other reviewers are expected to not actively attempt to deanonymize papers. In either case, if there is a breach of double-blind reviewing, the author and the reviewer should report it to the PC chairs.  
+ Further considerations    
+  For accepted papers, it is expected that the list of authors will not change between the submission stage and the final camera-ready stage. The PC Chairs must be notified in the event such a change is desired.  
+ The paper must have a substantive title and abstract. Placeholders are not allowed after the registration deadline. Any submission that does not have a substantive title and abstract by the registration deadline will be rejected without further notice.  
+ Submissions must present original research. However, previous publication of preliminary work as an extended abstract at a workshop is acceptable as long as the submission includes substantial new material. Further, in such cases, authors should (i) acknowledge their own previous workshop publications with an anonymous citation, and (ii) explain the differences between the submission and the prior workshop paper. A rule of thumb is that a prior workshop publication should be at most 6 pages long, not including references.  
+ Simultaneous submissions are not allowed, i.e., the same paper cannot be concurrently submitted to more than one conference/journal. Any simultaneous submissions detected will be immediately rejected from all conferences/journals involved, and the authors may be blacklisted if multiple such violations are detected, including across conference editions. This applies to all papers, i.e., even authors who wish to opt out of publication of the full paper can only submit to a journal after they have received a decision from Performance.  
+ Papers accompanied by nondisclosure agreement forms will not be considered. All submissions will be treated as confidential prior to publication. Rejected submissions will be permanently treated as confidential, unless otherwise permitted by the authors (for example, if considering a resubmission to ACM Sigmetrics).  
+ ETHICAL CONSIDERATIONS    
+  Papers describing experiments with users or user data (e.g., network traffic, passwords, social network information), should follow the basic principles of ethical research, e.g., beneficence (maximizing the benefits to an individual or to society while minimizing harm to the individual), minimal risk (appropriateness of the risk versus benefit ratio), voluntary consent, respect for privacy, and limited deception. When appropriate, authors are encouraged to include a subsection describing these issues. Authors may want to consult the Menlo Report    for further information on ethical principles, or the Allman/Paxson IMC ’07 paper    for guidance on ethical data sharing.  
+ Authors must, as part of the submission process, attest that their work complies with all applicable ethical standards of their home institution(s), including but not limited to privacy policies and policies on experiments involving humans. Note that submitting research for approval by one’s institution’s ethics review body is necessary, but not sufficient—in cases where the PC has concerns about the ethics of the work in a submission, the PC will have its own discussion of the ethics of that work. The PC’s review process may examine the ethical soundness of the paper just as it examines the technical soundness.  
+ DIVERSITY & INCLUSIVENESS    
+  As part of our efforts at fostering diversity and inclusiveness, we provide the following guidelines to assist you when preparing your paper submission and/or your conference presentation.  
+ Inclusivity Guidelines    
+  Good technical writing often requires pedagogical examples to explain complex ideas. These provide an opportunity to promote inclusiveness by challenging implicit biases and assumptions.  
+ Avoid gender-specific pronouns if possible. Where required, consider interspersing a balance of male (“he”, “his”), female (“she”, “her”), and gender-neutral (“they”, “their”) ones. 
+  Use gender-neutral names in examples. Instead of Alice and Bob, try Alex and Jun. Consider names that reflect a variety of cultural backgrounds: Esteban, Naveena, Sasha, Sergey, Tuan, Xin, and so on. 
+  Refrain from assuming binary gender. For instance, the “gender” column in a table of data should have more than just “male” and “female” values. 
+  Be mindful of people’s diverse backgrounds. Not everyone has two parents. Not every marriage involves “husband” and “wife”. Not everyone lives in a house or has a car. 
+  Accessibility Guidelines    
+  Colour and hearing perception varies from person to person depending on age, colour blindness, distance, visual acuity, etc. Make sure that the contents of your paper are accessible to all, by considering the following:  
+ Use patterns, symbols, and textures to emphasize and contrast visual elements in graphs and figures, rather than using colours alone. Graphs should be readable either in monochrome or colour versions. 
+  Use a colour palette that is designed for visually-impaired or colour-blind people. Avoid poor colour combinations such as green/red or blue/purple. 
+
+ Online user: 3 | Privacy |  
+
+   Loading...   
+
+  

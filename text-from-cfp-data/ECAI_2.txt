@@ -1,0 +1,688 @@
+   
+
+ 27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE  
+ 19-24 OCTOBER 2024  
+  Santiago de Compostela  
+
+ NEWS 
+  REGISTRATION 
+  SPONSORSHIPS | CONFERENCE SPONSORS   SPONSORSHIP OPPORTUNITIES 
+  PROGRAMME | SCHEDULE AT A GLANCE   DETAILED SCHEDULE   KEYNOTE SPEAKERS   DISSERTATION AWARD TALK   PAIS INVITED SPEAKER   FRONTIERS IN AI   PANELS AND SPECIAL SESSIONS   DEMOS AND OUTREACH ACTIVITIES   BIRDS OF A FEATHER SESSIONS   WORLD COMPUTER CHESS CHAMPIONSHIPS   WORKSHOPS   TUTORIALS   DOCTORAL CONSORTIUM   ACCEPTED PAPERS   SOCIAL PROGRAMME 
+  CALLS | CALL FOR MAIN-TRACK PAPERS   CALL FOR PAIS PAPERS   CALL FOR DEMOS   CALL FOR WORKSHOPS   CALL FOR TUTORIALS   DOCTORAL CONSORTIUM   LUNCH WITH A EURAI FELLOW   JOURNAL TRACK   Call for Birds-of-a-Feather (BoF) Sessions 
+  COMMITTEES | CHAIRS   ORGANIZING COMMITTEE   AREA CHAIRS   SENIOR PROGRAMME COMMITTEE   PROGRAMME COMMITTEE   PAIS COMMITTEE   DEMO TRACK COMMITTEE   DOCTORAL CONSORTIUM COMMITTEE   ADDITIONAL REVIEWERS 
+  AWARDS | DISTINGUISHED SERVICE AWARD   DISSERTATION AWARD   OUTSTANDING PAPER AWARDS   OUTSTANDING DEMO AWARD   OUTSTANDING PC MEMBER AWARDS   OUTSTANDING SPC MEMBER AWARDS 
+  ATTENDING | SANTIAGO DE COMPOSTELA   VENUES   ATTENDANCE POLICY   ACCOMMODATION   TRAVEL GRANTS   POSTER PRINTING AND ASSISTANCE   CONFERENCE APP   TRANSPORT   CODE OF CONDUCT   MULTIMEDIA REPOSITORY 
+  CONTACT 
+   
+ We are social:         
+
+ ACCEPTED PAPERS  
+
+ Main track 
+  Journal track 
+  Demo track 
+  PAIS 
+    
+ Main Track  
+
+ ID | Title | Authors 
+ M11 | Artwork Protection Against Neural Style Transfer Using Locally Adaptive Adversarial Color Attack | Zhongliang Guo, Junhao Dong, Yifei Qian, Kaixuan Wang, Weiye Li, Ziheng Guo, Yuheng Wang, Yanli Li, Ognjen Arandjelović and Lei Fang 
+ M21 | TSFool: Crafting Highly-Imperceptible Adversarial Time Series through Multi-Objective Attack | Yanyun Wang, Dehui Du, Haibo Hu, Zi Liang and Yuanhao Liu 
+ M31 | Axiomatic Characterisations of Sample-based Explanations | Leila Amgoud, Martin Cooper and Salim Debbaoui 
+ M53 | Breaking the Weak Semantics Bottleneck of Transformers in Time Series Forecasting | Ziang Yang, Biyu Zhou, Xuehai Tang, Ruixuan Li and Songlin Hu 
+ M54 | Covered for Life: Lifelong Area Coverage under Spatiotemporal Uncertainty | Charlie Street and Masoumeh Mansouri 
+ M69 | I-adapt: Using IoU Adapter to improve pseudo labels in cross-domain object detection | Qifeng Zhang, Changjian Chen, Zhizhong Liu and Zhuo Tang 
+ M87 | Efficient Model-Stealing Attacks Against Inductive Graph Neural Networks | Marcin Podhajski, Jan Dubiński, Franziska Boenisch, Adam Dziedzic, Agnieszka Pregowska and Tomasz Michalak 
+ M98 | Detect Closer Surfaces that can be Seen: New Modeling and Evaluation in Cross-domain 3D Object Detection | Ruixiao Zhang, Yihong Wu, Juheon Lee, Xiaohao Cai and Adam Prugel-Bennett 
+ M102 | FlowLearn: Evaluating Large Vision-Language Models on Flowchart Understanding | Huitong Pan, Qi Zhang, Cornelia Caragea, Eduard Dragut and Longin Jan Latecki 
+ M103 | TopFormer: Topology-Aware Authorship Attribution of Deepfake Texts with Diverse Writing Styles | Adaku Uchendu, Thai Le and Dongwon Lee 
+ M108 | Learning A Closed-Loop Bidirectional Scale-Recurrent Network for Image Deraining | Peizhou Huang, Zixuan Zhong, Pengjie Wang, Xiangyu Wang and Xiang Chen 
+ M109 | Rejection in Abstract Argumentation: Harder Than Acceptance? | Johannes K. Fichte, Markus Hecher, Yasir Mahmood and Arne Meier 
+ M121 | Comateformer : Combined Attention Transformer for Semantic Sentence Matching [not presented] | Bo Li, Di Liang and Zixin Zhang 
+ M122 | Matching Gains with Pays: Effective and Fair Learning in Multi-Agent Public Goods Dilemmas | Yitian Chen, Xuan Liu, Shigeng Zhang, Xinning Chen and Song Guo 
+ M125 | FlexSSL : A Generic and Efficient Framework for Semi-Supervised Learning | Qin Huiling, Xianyuan Zhan, Yuanxun Li and Yu Zheng 
+ M129 | Sanitizing Hidden Information with Diffusion Models | Preston K. Robinette, Daniel Moyer and Taylor T. Johnson 
+ M130 | Search, Examine and Early-Termination: Fake News Detection with Annotation-Free Evidences | Yuzhou Yang, Yangming Zhou, Qichao Ying, Zhenxing Qian and Xinpeng Zhang 
+ M134 | Towards Human-like Trajectory Prediction for Autonomous Driving: A Cognitive-inspired Lightweight Model | Haicheng Liao, Yongkang Li, Zhenning Li, Chengyue Wang, Guofa Li, Chunlin Tian, Zilin Bian, Kaiqun Zhu, Zhiyong Cui and Jia Hu 
+ M154 | Adapt PointFormer: 3D Point Cloud Analysis via Adapting 2D Visual Transformers | Mengke Li, Da Li, Guoqing Yang, Yiu-Ming Cheung and Hui Huang 
+ M159 | Empowering Biomedical Named Entity Recognition through Multi-Tagger Collaboration | Jin Zhao, Jian Xie, Tinghui Zhu, Qian Guo, Yanghua Xiao and Zhixu Li 
+ M199 | FMViT: A multiple-frequency mixing Vision Transformer | Wei Tan, Yifeng Geng and Xuansong Xie 
+ M205 | TrustMIS: Trust-Enhanced Inference Framework for Medical Imaging Segmentation | Fuyi Wang, Jinzhi Ouyang, Lei Pan, Leo Yu Zhang, Xiaoning Liu, Yanping Wang and Robin Doss 
+ M206 | An Animation-based Augmentation Approach for Action Recognition from Discontinuous Video | Xingyu Song, Zhan Li, Shi Chen, Xin-Qiang Cai and Kazuyuki Demachi 
+ M207 | Revocable Backdoor for Deep Model Trading | Yiran Xu, Nan Zhong, Zhenxing Qian and Xinpeng Zhang 
+ M209 | SUBLLM: A Novel Efficient Architecture with Token Sequence Subsampling for LLM | Quandong Wang, Yuxuan Yuan, Xiaoyu Yang, Ruike Zhang, Kang Zhao, Wei Liu, Jian Luan, Daniel Povey and Bin Wang 
+ M211 | Quater-GCN: Enhancing 3D Human Pose Estimation with Orientation and Semi-supervised Training | Xingyu Song, Zhan Li, Shi Chen and Kazuyuki Demachi 
+ M215 | TEOcc: Radar-camera Multi-modal Occupancy Prediction via Temporal Enhancement | Zhiwei Lin, Hongbo Jin, Yongtao Wang, Yufei Wei and Nan Dong 
+ M233 | Extending Context Window of Attention based Knowledge Tracing Models via Length Extrapolation | Xueyi Li, Youheng Bai, Teng Guo, Ying Zheng, Mingliang Hou, Bojun Zhan, Yaying Huang, Zitao Liu, Boyu Gao and Weiqi Luo 
+ M234 | Enhancing Node Representations for Real-World Complex Networks with Topological Augmentation | Xiangyu Zhao, Zehui Li, Mingzhu Shen, Guy-Bart Stan, Pietro Liò and Yiren Zhao 
+ M248 | Backward explanations via redefinition of predicates | Léo Saulières, Martin C. Cooper and Florence Dupin de Saint-Cyr 
+ M249 | HAIformer: Human-AI Collaboration Framework for Disease Diagnosis via Doctor-Enhanced Transformer | Xuehan Zhao, Jiaqi Liu, Yao Zhang, Zhiwen Yu and Bin Guo 
+ M252 | Cautious Calibration in Binary Classification | Mari-Liis Allikivi, Joonas Järve and Meelis Kull 
+ M255 | Enhancing Fairness through Reweighting: A Path to Attain the Sufficiency Rule | Xuan Zhao, Klaus Broelemann, Salvatore Ruggieri and Gjergji Kasneci 
+ M263 | Resistance Against Manipulative AI: key factors and possible actions | Piotr Wilczyński, Wiktoria Mieleszczenko-Kowszewicz and Przemysław Biecek 
+ M264 | Connecting Permutation Equivariant Neural Networks and Partition Diagrams | Edward Pearce-Crump 
+ M265 | Interactive and Iterative Peer Assessment | Lihi Dery 
+ M267 | Deep Learning for in vivo Bronchial Carinae Detection in Flexible Bronchoscopy | Robin Ghyselinck, Valentin Delchevalerie, Pierre Poitier, Benoît Frénay and Bruno Dumas 
+ M268 | Improving Calibration by Relating Focal Loss, Temperature Scaling, and Properness | Viacheslav Komisarenko and Meelis Kull 
+ M269 | Rethinking Domain Generalization from Perspective of Gradient Granularity [not presented] | Yujie Zhou, Haigen Hu, Qianwei Zhou, Qiu Guan and Mingfeng Jiang 
+ M271 | Artificial Agents Facilitate Human Cooperation through Indirect Reciprocity | Alexandre S. Pires and Fernando P. Santos 
+ M278 | Explorative Imitation Learning: A Path Signature Approach for Continuous Environments | Nathan Gavenski, Juarez Monteiro Dos Santos Júnior, Felipe Meneguzzi, Michael Luck and Odinaldo Rodrigues 
+ M283 | SinLane: Siamese Visual Transformer via Pyramid Feature Integration for Lane Detection | Zinan Lv, Dong Han, Wenzhe Wang and Danny Chen 
+ M295 | RADAr: A Transformer-based Autoregressive Decoder Architecture for Hierarchical Text Classification | Yousef Younes, Lukas Galke and Ansgar Scherp 
+ M305 | Multiwinner Temporal Voting with Aversion to Change | Valentin Zech, Niclas Boehmer, Edith Elkind and Nicholas Teh 
+ M314 | TransFeat-TPP: An Interpretable Deep Covariate Temporal Point Processes | Zizhuo Meng, Boyu Li, Xuhui Fan, Zhidong Li, Yang Wang, Fang Chen and Feng Zhou 
+ M321 | WPN: An Unlearning Method Based on N-pair Contrastive Learning in Language Models | Chen Guitao, Wang Yunshen, Sun Hongye and Chen Guang 
+ M328 | Planning with Logical Graph-based Language Model for Instruction Generation | Fan Zhang, Kebing Jin and Hankz Hankui Zhuo 
+ M330 | Meta-mechanisms for Combinatorial Auctions over Social Networks | Yuan Fang, Mengxiao Zhang, Jiamou Liu and Bakh Khoussainov 
+ M331 | Balancing Efficiency with Equality: Auction Design with Group Fairness Concerns | Fengjuan Jia, Mengxiao Zhang, Jiamou Liu and Bakh Khoussainov 
+ M335 | SaccadeMOT: Enhancing Object Detection and Tracking in Gigapixel Images via Scale-Aware Density Estimation | Wenxi Li, Ruxin Zhang, Haozhe Lin, Yuchen Guo, Chao Ma and Xiaokang Yang 
+ M346 | Molecular Topological Profile (MOLTOP) - Simple and Strong Baseline for Molecular Graph Classification | Jakub Adamczyk and Wojciech Czech 
+ M348 | VANER: Leveraging Large Language Model for Versatile and Adaptive Biomedical Entity Recognition | Junyi Bian, Weiqi Zhai, Xiaodi Huang, Jiaxuan Zheng and Shanfeng Zhu 
+ M351 | CPNet: 3D Semantic Relation and Geometry Context Prior Network for Multi-organ Segmentation | Yuzhu Ji, Mingshan Sun, Yiqun Zhang and Haijun Zhang 
+ M352 | Hard to Explain: On the Computational Hardness of In-Distribution Model Interpretation | Guy Amir, Shahaf Bassan and Guy Katz 
+ M355 | Video2Reward: Generating Reward Function from Videos for Legged Robot Behavior Learning | Runhao Zeng, Dingjie Zhou, Qiwei Liang, Junlin Liu, Hui Li, Changxin Huang, Jianqiang Li, Xiping Hu and Fuchun Sun 
+ M360 | Task-Aware Dynamic Transformer for Efficient Arbitrary-Scale Image Super-Resolution | Tianyi Xu, Yijie Zhou, Xiaotao Hu, Kai Zhang, Anran Zhang, Xingye Qiu and Jun Xu 
+ M361 | Aligning XAI with EU Regulations for Smart Biomedical Devices: A Methodology for Compliance Analysis | Francesco Sovrano, Michaël Lognoul and Giulia Vilone 
+ M364 | General Lipschitz: Certified Robustness Against Resolvable Semantic Transformations via Transformation-Dependent Randomized Smoothing | Dmitrii Korzh, Mikhail Pautov, Olga Tsymboi and Ivan Oseledets 
+ M367 | What model does MuZero learn? | Jinke He, Thomas Moerland, Joery de Vries and Frans Oliehoek 
+ M368 | Resilient Graph Neural Networks: A Coupled Dynamical Systems Approach | Moshe Eliasof, Davide Murari, Ferdia Sherry and Carola-Bibiane Schönlieb 
+ M371 | LoginMEA: Local-to-Global Interaction Network for Multi-modal Entity Alignment | Taoyu Su, Xinghua Zhang, Jiawei Sheng, Zhenyu Zhang and Tingwen Liu 
+ M372 | Fully Hyperbolic Rotation for Knowledge Graph Embedding | Qiuyu Liang, Weihua Wang, Feilong Bao and Guanglai Gao 
+ M379 | Escape Sensing Games: Detection-vs-Evasion in Security Applications | Niclas Boehmer, Minbiao Han, Haifeng Xu and Milind Tambe 
+ M403 | DrDiff: Drug Response Prediction Through Controllable Diffusion-GE and Graph Attention Network | Seungyeon Choi, Sangmin Seo, Jonghwan Choi, Chihyun Park and Sanghyun Park 
+ M404 | SPIN: SE(3)-Invariant Physics Informed Network for Binding Affinity Prediction | Seungyeon Choi, Sangmin Seo and Sanghyun Park 
+ M414 | Maximally Permissive Reward Machines | Giovanni Varricchione, Natasha Alechina, Mehdi Dastani and Brian Logan 
+ M422 | CSAdv: Class-Specific Adversarial Patches for DETR-style Object Detection | Yue Xu, Chuanming Wang, Xiaolong Zheng, Yi Huang, Peilun Du, Zeyuan Zhou, Liang Liu and Huadong Ma 
+ M424 | Decision-Focused Learning to Predict Action Costs for Planning | Jayanta Mandi, Marco Foschini, Daniel Höller, Sylvie Thiebaux, Joerg Hoffmann and Tias Guns 
+ M428 | PUFFLE: Balancing Privacy, Utility, and Fairness in Federated Learning | Luca Corbucci, Mikko A. Heikkilä, David Solans Noguero, Anna Monreale and Nicolas Kourtellis 
+ M432 | Interpretation of the Intent Detection Problem as Dynamics in a Low-dimensional Space | Eduardo Sanchez-Karhunen, Jose F. Quesada-Moreno and Miguel A. Gutiérrez-Naranjo 
+ M441 | On the Discovery of Conceptual Clustering Models through Pattern Mining | Motaz Ben Hassine, Said Jabbour, Mourad Kmimech, Badran Raddaoui and Mohamed Graiet 
+ M443 | Hyperbolic Contrastive Learning for Document Representations - A Multi-View Approach with Paragraph-level Similarities | Jaeeun Nam, Ilias Chalkidis and Mina Rezaei 
+ M445 | TabMedBERT: a Tabular Knowledge Enhanced Biomedical Pretrained Language Model | Xu Yan, Lei Geng, Ziqiang Cao, Juntao Li, Wenjie Li, Sujian Li, Xinjie Zhou, Yang Yang and Jun Zhang 
+ M449 | SF-SER: An efficient speech-only model with semantic funnel for speech emotion recognition | Xiaoke Li and Zufan Zhang 
+ M450 | Verifying the Selected Completely at Random Assumption in Positive-Unlabeled Learning | Paweł Teisseyre, Konrad Furmańczyk and Jan Mielniczuk 
+ M451 | GLIMMER: Incorporating Graph and Lexical Features in Unsupervised Multi-Document Summarization | Ran Liu, Ming Liu, Min Yu, Jianguo Jiang, Gang Li, Dan Zhang, Jingyuan Li, Xiang Meng and Weiqing Huang 
+ M452 | SAIE Framework: Support Alone Isn't Enough - Advancing LLM Training with Adversarial Remarks | Mengsay Loem, Masahiro Kaneko and Naoaki Okazaki 
+ M457 | Semantic-level augmented unsupervised representation action learning based on motion manifold | Haichuan Zhao, Peng Du, Xudong Ru, Zhongke Wu and Xingce Wang 
+ M458 | Multi-Agent Reinforcement Learning for Alternating-Time Logic | Ernst Moritz Hahn, Mateo Perez, Sven Schewe, Fabio Somenzi, Ashutosh Trivedi and Dominik Wojtczak 
+ M464 | TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting | Md Atik Ahamed and Qiang Cheng 
+ M468 | Survival of the Fittest: Evolutionary Adaptation of Policies for Environmental Shifts | Sheryl Paul and Jyotirmoy Deshmukh 
+ M470 | A Comprehensive Sustainable Framework for Machine Learning and Artificial Intelligence | Roberto Pagliari, Peter Hill, Po-Yu Chen, Maciej Dabrowny, Tingsheng Tan and Francois Buet-Golfouse 
+ M471 | Enabling MCTS Explainability for Sequential Planning Through Computation Tree Logic | Ziyan An, Hendrik Baier, Abhishek Dubey, Ayan Mukhopadhyay and Meiyi Ma 
+ M472 | Post-hoc Explanation of Extension Semantics | Leila Amgoud 
+ M484 | Making Fair Classification via Correlation Alignment | Jingran Yang, Lingfeng Zhang and Min Zhang 
+ M485 | Global Structural-Temporal Graph Network with Public Opinion for Online Rumor Detection | Tiening Sun, Zhong Qian, Peifeng Li and Qiaoming Zhu 
+ M495 | JOSAL: Joint Learning Framework for Open-Set Active Learning | Jun Xie, Xiaohui Song, Yangjie Cao, Zhi Liu, Weiping Wang and Hongli Xu 
+ M496 | Towards the New XAI: A Hypothesis-Driven Approach to Decision Support Using Evidence | Thao Le, Tim Miller, Liz Sonenberg and Ronal Singh 
+ M497 | Individual Fairness with Group Constraints in Graph Neural Networks | Zichong Wang, David Ulloa, Tongjia Yu, Raju Rangaswami, Roland Yap and Wenbin Zhang 
+ M500 | A Full DAG Score-Based Algorithm for Learning Causal Bayesian Networks with Latent Confounders | Christophe Gonzales and Amir-Hosein Valizadeh 
+ M508 | Complex-Valued Gabor-Attention Residual Fusion Network for Iris Recognition | Zhuoru Li, Jian Xiao, Xiaowei Bai, Xiaodong Wang, Yingxi Li, Zhenyu Fang, Liang Xie, Ye Yan and Erwei Yin 
+ M511 | TIGER: Temporally Improved Graph Entity Linker | Pengyu Zhang, Congfeng Cao and Paul Groth 
+ M513 | Segmentation-Driven Image Enhancement Based on Deep Reinforcement Learning | Yihong Liu, Zishang Chen, Yukang Cui and Piji Li 
+ M515 | PAGE: Parametric Generative Explainer for Graph Neural Network | Yang Qiu, Wei Liu, Jun Wang and Ruixuan Li 
+ M516 | Weight Scope Alignment: A Frustratingly Easy Method for Model Merging | Yichu Xu, Xin-Chun Li, Le Gan and De-Chuan Zhan 
+ M517 | Revisiting Under-represented Knowledge of Latin American Literature in Large Language Models | Jinsung Kim, Seonmin Koo and Heuiseok Lim 
+ M526 | Convolutional Bypasses Are Better Vision Transformer Adapters | Shibo Jie, Zhi-Hong Deng, Shixuan Chen and Zhijuan Jin 
+ M531 | A Meta-Engine Framework for Interleaved Task and Motion Planning using Topological Refinements | Elisa Tosello, Alessandro Valentini and Andrea Micheli 
+ M534 | BOB-YOLO: Balancing Optimization Binarized YOLO via Module-Wise Latency | Xinyu Liu, Wenqiang Zhou, Zhendong Yu, Jiaming Yang, Tao Wang, Chenwei Tang and Jiancheng Lv 
+ M542 | Generating fair solutions of minimal cost | Thibaut Lust, Mohammed Bachir Bederina and Djamal Chaabane 
+ M543 | LightFF: Lightweight Inference for Forward-Forward Algorithm | Amin Aminifar, Baichuan Huang, Azra Abtahi and Amir Aminifar 
+ M547 | Error-Driven Uncertainty Aware Training | Pedro Mendes, Paolo Romano and David Garlan 
+ M552 | NeSIG: A Neuro-Symbolic Method for Learning to Generate Planning Problems | Carlos Núñez-Molina, Pablo Mesejo and Juan Fernández-Olivares 
+ M556 | Sampling-based Teacher Guided Method to Boost Transferable Attack on SAR Image Classification | Aoyang Zhou, Yasmeen M. Khedr, Xin Liu and Kun He 
+ M560 | Semantic Similarity Driven Multi-modal Model for Rumor Detection | Chenyang Li, Bo Xu, Meng Wang and Kun He 
+ M561 | FsPONER: Few-shot Prompt Optimization for Named Entity Recognition in Domain-specific Scenarios | Yongjian Tang, Rakebul Hasan and Thomas Runkler 
+ M565 | Iterative Oversubscription Planning with Goal-Conflict Explanations: Scaling Up Through Policy-Guidance Approximation | Rebecca Eifler, Daniel Fišer, Aleena Siji and Joerg Hoffmann 
+ M566 | Target-driven Attack for Large Language Models | Chong Zhang, Mingyu Jin, Dong Shu, Taowen Wang, Dongfang Liu and Xiaobo Jin 
+ M567 | Pixel-wise Reclassification with Prototypes for Enhancing Weakly Supervised Semantic Segmentation | Xuewei Li, Yujie Diao, Yilong Fan, Zhiqiang Liu, Mei Yu, Chenhan Wang, Jie Gao and Ruiguo Yu 
+ M571 | Sentinel: An Aggregation Function to Secure Decentralized Federated Learning | Chao Feng, Alberto Huertas Celdrán, Janosch Baltensperger, Enrique Tomás Martínez Beltrán, Pedro Miguel Sánchez Sánchez, Gérôme Bovet and Burkhard Stiller 
+ M577 | Safety Verification of Tree-Ensemble Policies via Predicate Abstraction | Chaahat Jain, Lorenzo Cascioli, Laurens Devos, Marcel Vinzent, Marcel Steinmetz, Jesse Davis and Joerg Hoffmann 
+ M586 | Bridging the Gap: Generating a Comprehensive Biomedical Knowledge Graph Question Answering Dataset | Xi Yan, Patrick Westphal, Jan Seliger and Ricardo Usbeck 
+ M596 | FL-GNN: Efficient Fusion of Fuzzy Neural Network and Graph Neural Network | Boyu Du, Jingya Zhou, Ling Liu and Xiaolong She 
+ M597 | Learning Uncertainty Tubes via Recurrent Neural Networks for Planning Robust Robot Motions | Simon Wasiela, Smail Ait Bouhsain, Marco Cognetti, Juan Cortés and Thierry Siméon 
+ M598 | Learning Confidence Bounds for Classification with Imbalanced Data | Matt Clifford, Jonathan Erskine, Alexander Hepburn, Raul Santos-Rodriguez and Dario Garcia-Garcia 
+ M616 | Computational Complexity of Standpoint LTL | Stephane Demri and Przemysław Andrzej Wałęga 
+ M619 | A Parallel Gumbel-Softmax VAE Framework with Performance-Based Tuning | Fangshi Zhou, Tianming Zhao, Luan Nguyen and Zhongmei Yao 
+ M621 | Combining Diverse Information for Coordinated Action: Stochastic Bandit Algorithms for Heterogeneous Agents | Lucia Gordon, Esther Rolf and Milind Tambe 
+ M623 | Hierarchical Planning for Resource-Constrained Long-Term Monitoring Missions in Time-Varying Environments | Alex Stephens, Bruno Lacerda and Nick Hawes 
+ M627 | Cube-based Isomorph-free Finite Model Finding | Choiwah Chow, Mikoláš Janota and João Araújo 
+ M629 | Temporal Elections: Welfare, Strategyproofness, and Proportionality | Edith Elkind, Tzeh Yuan Neoh and Nicholas Teh 
+ M631 | Modelling brain connectomes networks: Solv is a worthy competitor to hyperbolic geometry! | Dorota Celińska-Kopczyńska and Eryk Kopczynski 
+ M634 | GRIF-DM: Generation of Rich Impression Fonts using Diffusion Models | Lei Kang, Fei Yang, Kai Wang, Mohamed Ali Souibgui, Lluis Gomez, Alicia Fornés, Ernest Valveny and Dimosthenis Karatzas 
+ M640 | MIM-HD: Making Smaller Masked Autoencoder Better with Efficient Distillation | Zherui Zhang, Changwei Wang, Rongtao Xu, Wenhao Xu, Shibiao Xu, Li Guo, Jiguang Zhang, Xiaoqiang Teng and Wenbo Xu 
+ M641 | CLCE: An Approach to Refining Cross-Entropy and Contrastive Learning for Optimized Learning Fusion | Zijun Long, Lipeng Zhuang, George Killick, Zaiqiao Meng, Richard Mccreadie and Gerardo Aragon-Camarasa 
+ M642 | Evolutionary Reinforcement Learning via Cooperative Coevolution | Chengpeng Hu, Jialin Liu and Xin Yao 
+ M645 | Graph Continual Learning with Debiased Lossless Memory Replay | Chaoxi Niu, Guansong Pang and Ling Chen 
+ M648 | DiverTEAM: An Effective Evolutionary Algorithm for Diversified Top-k (Weight) Clique Search Problems | Jinghui Xue, Jiongzhi Zheng, Kun He, Chu-Min Li and Yanli Liu 
+ M651 | MultiCounter: Multiple Action Agnostic Repetition Counting in Untrimmed Videos | Yin Tang, Wei Luo, Jinrui Zhang, Wei Huang, Ruihai Jing and Deyu Zhang 
+ M665 | Improving Non-autoregressive Sign Language Translation with Random Ordering Progressive Prediction Pre-training | Pei Yu, Changhao Lai, Cong Hu, Shan Liu, Liang Zhang, Biao Fu and Yidong Chen 
+ M667 | Comparing lossless compression methods for Chess endgame data | Dave Gomboc, Christian Shelton, Andrew Miner and Gianfranco Ciardo 
+ M669 | A Multi-Agent Reinforcement Learning Algorithm Embedded with Opponent Modeling | Shun Li, Xiao Su and Bing Shi 
+ M673 | MakeupAttack: Feature Space Black-box Backdoor Attack on Face Recognition via Makeup Transfer | Ming Sun, Rui Wang, Zixuan Zhu and Lihua Jing 
+ M695 | Enhancing Discourse Coherence to Improve Cross-Document Event Coreference Resolution | Xinyu Chen, Sheng Xu, Peifeng Li and Qiaoming Zhu 
+ M698 | Mind the Model, Not the Agent: The Primacy Bias in Model-based RL | Zhongjian Qiao, Jiafei Lyu and Xiu Li 
+ M699 | MAMO:Deep Multi-task Architecture Learning via Multi-objective Optimization with Gradients Mediative Kernel | Yuzheng Tan, Guangneng Hu and Shuxin Zhang 
+ M700 | Generalized Face Anti-spoofing via Finer Domain Partition and Disentangling Liveness-irrelevant Factors | Jingyi Yang, Zitong Yu, Xiuming Ni, Jia He and Hui Li 
+ M702 | Heuristics for Partially Observable Stochastic Contingent Planning | Guy Shani 
+ M704 | Omniclip: Adapting CLIP for Video Recognition with Spatial-Temporal Omni-Scale Feature Learning | Mushui Liu, Bozheng Li and Yunlong Yu 
+ M712 | Defending Our Privacy With Backdoors | Dominik Hintersdorf, Lukas Struppek, Daniel Neider and Kristian Kersting 
+ M719 | Enhancing Reinforcement Learning Through Guided Search | Jérôme Arjonilla, Abdallah Saffidine and Tristan Cazenave 
+ M722 | Open-GMOT: Open-Vocabulary Generic Multiple Object Tracking with Motion-Appearance Cost (MAC) SORT | Anh Duy Le Dinh, Kim Tran Hoang and Ngan Le Thi Hoang 
+ M732 | Interpretable Graph Neural Networks for Tabular Data | Amr Alkhatib, Sofiane Ennadir, Henrik Boström and Michalis Vazirgiannis 
+ M734 | Generalizing Visual Question Answering from Synthetic to Human-Written Questions via a Chain of QA with a Large Language Model | Taehee Kim, Yeongjae Cho, Heejun Shin, Yohan Jo and Dongmyung Shin 
+ M738 | Domain Adaptational Steganographic Text Detection Using Few-shot Adversary-Refinement Framework | Ziwei Zhang, Juan Wen, Yinghan Zhou, Liting Gao and Yiming Xue 
+ M739 | Modality-Aware and Shift Mixer for Multi-modal Brain Tumor Segmentation | Zhongzhen Huang, Linda Wei, Shaoting Zhang and Xiaofan Zhang 
+ M748 | Relation Time-aware Heterogeneous Dynamic Graph Neural Networks | Yili Wang, Jiamin Chen, Qiutong Li, Changlong He and Jianliang Gao 
+ M749 | A Faster Branching Algorithm for the Maximum k-Defective Clique Problem | Chunyu Luo, Yi Zhou, Zhengren Wang and Mingyu Xiao 
+ M752 | Large Language Models Understand Layout | Weiming Li, Manni Duan, Dong An and Yan Shao 
+ M759 | MindScope: Exploring cognitive biases in large language models through Multi-Agent Systems | Zhentao Xie, Jiabao Zhao, Yilei Wang, Jinxin Shi, Yanhong Bai, Xingjiao Wu and Liang He 
+ M762 | Translation and Transliteration Based DataAugmentation for Multilingual Semantic Parsing | Sarthak Jauhari, Massimo Nicosia, Ankush Chatterjee and Rahul Goel 
+ M763 | Interpretable image classification through an argumentative dialog between encoders | Dao Thauvin, Stéphane Herbin, Wassila Ouerdane and Céline Hudelot 
+ M764 | CBM: Curriculum by Masking | Andrei Jarca, Alin Croitoru and Radu Tudor Ionescu 
+ M765 | Capacitated Online Clustering Algorithm | Shivam Gupta, Shweta Jain, Narayanan C Krishnan, Ganesh Ghalme and Nandyala Hemachandra 
+ M769 | Text-based Geolocation with a Byte-level Language Model | Mikhail Orzhenovskii, Alina Pak, Roman Kane and Arina Razmyslovich 
+ M782 | Tackling Selfish Clients in Federated Learning | Andrea Augello, Ashish Gupta, Giuseppe Lo Re and Sajal K. Das 
+ M783 | Complexity and Approximation Schemes for Social Welfare Maximization in the High-Multiplicity Setting | Trung Thanh Nguyen, Khaled Elbassioni and Jörg Rothe 
+ M793 | Pessimistic Off-Policy Optimization for Learning to Rank | Matej Čief, Branislav Kveton and Michal Kompan 
+ M799 | Memory adaptive and spatially specialized model ensembles for industrial anomaly detection | Marco Wagenstetter, Niklas Landerer, Johannes Thyroff, Thomas Aicher, Arvid Hellmich and Steffen Ihlenfeldt 
+ M815 | Online Friends Partitioning under Uncertainty | Saar Cohen and Noa Agmon 
+ M816 | Optimizing Multi-Robot Task Allocation in Dynamic Environments via Heuristic-Guided Reinforcement Learning | Aritra Pal, Anandsingh Chauhan, Mayank Baranwal and Ankush Ojha 
+ M831 | Merge-and-Shrink Heuristics for SSPs with Prune Transformations | Thorsten Klößner, Álvaro Torralba, Marcel Steinmetz and Silvan Sievers 
+ M834 | PromptCD: Coupled and Decoupled Prompt Learning for Vision-Language Models | Junjie Wu, Mingjie Sun, Chen Gong, Nan Yu and Guohong Fu 
+ M835 | On the Improvement of Generalization and Stability of Forward-Only Learning via Neural Polarization | Erik Bernardo Terres Escudero, Javier Del Ser and Pablo García Bringas 
+ M836 | Dual Attention Encoder with Joint Preservation for Medical Image Segmentation | Shijie Li, Yunbin Tu, Yu Gong, Bowen Zhong and Zheng Li 
+ M838 | RFDFM: A Deep Factorization Machine Network Model for Invasive Lung Adenocarcinoma Screening in CT Images | Jing Zhou, Chengcheng Guo and Ying Ji 
+ M840 | Explicit Modelling of Theory of Mind for Belief Prediction in Nonverbal Social Interactions | Matteo Bortoletto, Constantin Ruhdorfer, Lei Shi and Andreas Bulling 
+ M841 | Take a Step and Reconsider: Sequence Decoding for Self-Improved Neural Combinatorial Optimization | Jonathan Pirnay and Dominik G. Grimm 
+ M843 | First Creating Backgrounds Then Rendering Texts: A New Paradigm for Visual Text Blending | Zhenhang Li, Yan Shu, Weichao Zeng, Dongbao Yang and Yu Zhou 
+ M848 | Empirical Evaluation of Concept Probing for Game-Playing Agents | Aðalsteinn Pálsson and Yngvi Bjornsson 
+ M849 | Characterising Serialisation Equivalence for Abstract Argumentation | Lars Bengel, Julian Sander and Matthias Thimm 
+ M850 | Scale-Invariant Variations of Max Regret | Nic Wilson 
+ M853 | Talos: A More Effective and Efficient Adversarial Defense for GNN Models Based on the Global Homophily of Graphs | Duanyu Li, Huijun Wu, Min Xie, Xugang Wu, Zhenwei Wu and Wenzhe Zhang 
+ M856 | Domain Generalised Cell Nuclei Segmentation in Histopathology Images Using Domain-aware Curriculum Learning and Colour-Perceived Meta Learning | Kunzi Xie, Ruoyu Guo, Cong Cong, Maurice Pagnucco and Yang Song 
+ M863 | Learning Order Forest for Qualitative-Attribute Data Clustering | Mingjie Zhao, Sen Feng, Yiqun Zhang, Mengke Li, Yang Lu and Yiu-Ming Cheung 
+ M867 | On Connected Strongly-Proportional Cake-Cutting | Zsuzsanna Jankó, Attila Joó, Erel Segal-Halevi and Sheung Man Yuen 
+ M871 | Cross-stage Transfer in Multi-stage Cascade Ranking and Filtering Systems | Yifan Pan, Guibo Luo and Yuesheng Zhu 
+ M873 | Adversarially Robust Neural Lyapunov Control | Li Wei, Yuankun Jiang, Chenglin Li, Wenrui Dai, Junni Zou and Hongkai Xiong 
+ M884 | An Efficient Modular Algorithm for Connected Multi-Agent Path Finding | Victorien Desbois, Ocan Sankur and François Schwarzentruber 
+ M892 | Decoupled Competitive Framework for Semi-supervised Medical Image Segmentation | Jiahe Chen, Jianwei Zheng, Shen Wang and Jiahe Ying 
+ M903 | Adversarial Erasing Transformer for Weakly Supervised Semantic Segmentation | Bingfeng Zhang, Siyue Yu, Xuru Gao, Mingjie Sun, Eng Gee Lim and Jimin Xiao 
+ M906 | (Un)certainty of (Un)fairness: Preference-Based Selection of Certainly Fair Decision-Makers | Manh Khoi Duong and Stefan Conrad 
+ M907 | Explaining Text Classifiers with Counterfactual Representations | Pirmin Lemberger and Antoine Saillenfest 
+ M911 | Anti-Matthew FL: Bridging the Performance Gap in Federated Learning to Counteract the Matthew Effect | Jiashi Gao, Xin Yao and Xuetao Wei 
+ M914 | Big-thick data generation via reference and personal context unification | Fausto Giunchiglia and Xiaoyue Li 
+ M915 | CLLMFS: A Contrastive Learning enhanced Large Language Model Framework for Few-Shot Named Entity Recognition | Yafeng Zhang, Zilan Yu, Yu Ang Huang and Jing Tang 
+ M918 | Learning Interpretable Classifiers for PDDL Planning | Arnaud Lequen 
+ M924 | Learning and Optimizing with an SSB Representation of Intransitive Preferences on Sets | Hugo Gilbert, Mohamed Ouaguenouni and Olivier Spanjaard 
+ M927 | Generative LLMs for Multilingual Temporal Expression Normalization | Alejandro Sánchez de Castro Fernández, Lourdes Araujo Serna and Juan Martínez Romo 
+ M928 | Sinogram-Image Dual-Domain Network for Robust Metal Artifact Reduction in CT Image | Chong Liu, Yuhan Huang, Bo Li and Hui Ding 
+ M932 | Assessing Privacy Risks of Attribute Inference Attacks against Speech-based Depression Detection System | Basmah Alsenani, Anna Esposito, Alessandro Vinciarelli and Tanaya Guha 
+ M936 | Belief Erasure in Propositional Logic | Nadia Creignou, Raïda Ktari and Odile Papini 
+ M939 | Leveraging Foundation Models for Zero-Shot IoT Sensing | Dinghao Xue, Xiaoran Fan, Tao Chen, Guohao Lan and Qun Song 
+ M942 | Synthetically Augmented Self-Supervised Fine-Tuning for Diverse Text OCR Correction | Shuhao Guan and Derek Greene 
+ M944 | FedMTL: Privacy-Preserving Federated Multi-Task Learning | Pritam Sen and Cristian Borcea 
+ M945 | Group Fairness with Individual and Censorship Constraints | Zichong Wang and Wenbin Zhang 
+ M946 | Open-Set Multivariate Time-Series Anomaly Detection | Thomas Lai, Thi Kieu Khanh Ho and Narges Armanfard 
+ M948 | Cluster Exploration using Informative Manifold Projections | Stavros Gerolymatos, Xenophon Evangelopoulos, Vladimir V. Gusev and John Y. Goulermas 
+ M957 | TwinDiffusion: Enhancing Coherence and Efficiency in Panoramic Image Generation with Diffusion Models | Teng Zhou and Yongchuan Tang 
+ M966 | Transparent Explainable Logic Layers | Alessio Ragno, Marc Plantevit, Celine Robardet and Roberto Capobianco 
+ M968 | A Neuro-symbolic Approach for Faceted Search in Digital Libraries | Mutahira Khalid, Sören Auer and Markus Stocker 
+ M969 | Analyzing Incentives and Fairness in Ordered Weighted Average for Facility Location Games | Kento Yoshida, Kei Kimura, Taiki Todo and Makoto Yokoo 
+ M977 | LEarning After Learning: Positive Backward Transfer in Continual Learning | Wern Sen Wong, Yun Sing Koh and Gillian Dobbie 
+ M982 | Solving PDEs on Point Clouds by Physics-informed Learning with Graph Neural Networks | Rakhoon Hwang, Junseung Ryu, Seungtae Park and Hyung Ju Hwang 
+ M985 | MLGAT: Multi-Scale Line Graph Attention Network for Emotion Recognition in Conversation | Xiujuan Xu, Xiaoxiao Shi, Zhehuan Zhao and Yu Liu 
+ M992 | Finding Optimal Deterministic Policies for Constrained Stochastic Shortest Path Problems | Johannes Schmalz and Felipe Trevizan 
+ M993 | Dirichlet Logistic Gaussian Processes for Evaluation of Black-Box Stochastic Systems under Complex Requirements | Ryohei Oura and Yuji Ito 
+ M996 | SubSA: Strengthen In-context Learning via Submodular Selective Annotation [not presented] | Jian Qian, Miao Sun, Sifan Zhou, Ziyu Zhao, Ruizhi Hun and Patrick Chiang 
+ M1012 | The Role of Depth, Width, and Tree Size in Expressiveness of Deep Forest | Shen-Huan Lyu, Jin-Hui Wu, Qin-Cheng Zheng and Baoliu Ye 
+ M1021 | Federation-Paced Learning: Towards Efficient Federated Learning with Synchronized Pace | Tingting Zhang, Mei Cao, Zhenge Jia, Jianbo Lu, Zhaoyan Shen, Dongxiao Yu and Mengying Zhao 
+ M1023 | LGAD: Local and Global Attention Distillation for Efficient Semantic Segmentation | Chen Wang, Yafei Qi, Qi Li and Huawen Liu 
+ M1024 | Merit-based Fair Combinatorial Semi-Bandit with Unrestricted Feedback Delays | Ziqun Chen, Kechao Cai, Zhuoyue Chen, Jinbei Zhang and John C.S. Lui 
+ M1028 | MPT4LM: Multi-modal Prompt Tuning Makes Pre-trained Large Language Models better Vision-Language Learners | Yongzhu Miao, Jintao Tang, Shasha Li and Ting Wang 
+ M1031 | Perturb-and-Compare Approach for Detecting Out-of-Distribution Samples in Constrained Access Environments | Heeyoung Lee, Hoyoon Byun, Changdae Oh, Jinyeong Bak and Kyungwoo Song 
+ M1051 | Time Series Imputation with Multivariate Radial Basis Function Neural Network | Chanyoung Jung and Yun Jang 
+ M1058 | Mutual Local Consistency Learning for Face Forgery Detection | Bosheng Yan and Chang-Tsun Li 
+ M1066 | A Language Model as a Design Assistant for UI Design Recommendation and Evaluation | Lin Sheng, Cheng Deng, Junjie Zhang, Fangyuan Chang, Qinghua Sun, Hongyu Liu and Zhenyu Gu 
+ M1069 | Graph Classification with GNNs : Optimisation, Representation and Inductive Bias | P Krishna Kumar and Harish G Ramaswamy 
+ M1078 | Exemplar-Free Incremental Deepfake Detection | Wuti Xiong, Guoying Zhao and Xiaobai Li 
+ M1079 | FedReMa: Improving Personalized Federated Learning via Leveraging the Most Relevant Clients | Han Liang, Ziwei Zhan, Weijie Liu, Xiaoxi Zhang, Chee Wei Tan and Xu Chen 
+ M1082 | DCTAN: Densely Convolved Transformer Aggregation Networks for Monocular Dense Depth Prediction in Robotic Endoscopy | Wenkang Fan, Wenjing Jiang, Hao Fang, Hong Shi, Jianhua Chen and Xiongbiao Luo 
+ M1086 | Context Enhancement with Reconstruction as Sequence for Unified Unsupervised Anomaly Detection | Hui-Yue Yang, Hui Chen, Lihao Liu, Zijia Lin, Kai Chen, Liejun Wang, Jungong Han and Guiguang Ding 
+ M1094 | Harnessing Orthogonality to Train Low-Rank Neural Networks | Daniel Coquelin, Katharina Fluegel, Marie Weiel, Nicholas Kiefer, Charlotte Debus, Achim Streit and Markus Goetz 
+ M1096 | Advancing ConvNet Architectures: A Novel XGB-based Pruning Algorithm for Transfer Learning Efficiency | Igor Ratajczyk and Adrian Horzyk 
+ M1101 | EdgeNAT: Transformer for Efficient Edge Detection | Jinghuai Jie, Yan Guo, Guixing Wu, Junmin Wu and Baojian Hua 
+ M1102 | FedSeProto: Learning Semantic Prototype in Federated Learning | Yanyi Lai, Lele Fu, Tianchi Liao, Chuan Chen and Zibin Zheng 
+ M1106 | Hidden States in LLMs Improve EEG Representation Learning and Visual Decoding | Aoyang Liu, Haodong Jing, Yulong Liu, Yongqiang Ma and Nanning Zheng 
+ M1112 | A Coin Has Two Sides: A Novel Detector-Corrector Framework for Chinese Spelling Correction | Xiangke Zeng, Zuchao Li, Lefei Zhang, Ping Wang, Hongqiu Wu and Hai Zhao 
+ M1115 | From document to program embeddings: can distributional hypothesis really be used on programming languages? | Thibaut Martinet, Guillaume Cleuziou, Matthieu Exbrayat and Frédéric Flouvat 
+ M1119 | On the Cultural Gap in Text-to-Image Generation | Bingshuai Liu, Longyue Wang, Chenyang Lyu, Yong Zhang, Jinsong Su, Shuming Shi and Zhaopeng Tu 
+ M1122 | Preserving the Privacy of Reward Functions in MDPs through Deception | Shashank Reddy Chirra, Pradeep Varakantham and Praveen Paruchuri 
+ M1125 | Identifying the Best Arm in the Presence of Global Environment Shifts | Phurinut Srisawad, Juergen Branke and Long Tran-Thanh 
+ M1131 | TDCL: Dense Semantic Contrastive Learning for Vision-Language Tracking | Zheng Wang, Xiankang He, Kaiyang Lan, Ying Cui and Dongyan Guo 
+ M1134 | A Data-Driven Defense against Edge-case Model Poisoning Attacks on Federated Learning | Kiran Purohit, Soumi Das, Sourangshu Bhattacharya and Santu Rana 
+ M1135 | Analogical Classifier as a Surrogate for Explanations | Suryani Lim, Henri Prade and Gilles Richard 
+ M1138 | Partial Label Learning via Cost-Guided Retraining | Zhaoyuan Zhang, Zhenbing Liu and Haoxiang Lu 
+ M1139 | Zero-shot relabeling of weak labels for fine-grained semantic indexing of biomedical literature | Anastasios Nentidis, Anastasia Krithara, Grigorios Tsoumakas and Georgios Paliouras 
+ M1148 | Context Matters: Leveraging Spatiotemporal Metadata for Semi-Supervised Learning on Remote Sensing Images | Maximilian Bernhard, Tanveer Hannan, Matthias Schubert and Niklas Strauß 
+ M1149 | The Complexity of Manipulation of k-Coalitional Games on Graphs | Hodaya Barr, Yohai Trabelsi, Sarit Kraus, Liam Roditty and Noam Hazon 
+ M1153 | Theoretical Proportion Label Perturbation for Learning from Label Proportions in Large Bags | Shunsuke Kubo, Shinnosuke Matsuo, Daiki Suehiro, Kazuhiro Terada, Hiroaki Ito, Akihiko Yoshizawa and Ryoma Bise 
+ M1160 | SibylSat: Using SAT as an oracle to perform a greedy search on TOHTN Planning | Gaspard Quenard, Damien Pellier and Humbert Fiorino 
+ M1169 | Noise-free Explanation for Driving Action Prediction | Hongbo Zhu, Theodor Wulff, Rahul Singh Maharjan, Jinpei Han and Angelo Cangelosi 
+ M1172 | Exploiting Hierarchical Symmetry in Multi-Agent Reinforcement Learning | Yongkai Tian, Xin Yu, Yirong Qi, Li Wang, Pu Feng, Wenjun Wu, Rongye Shi and Jie Luo 
+ M1197 | PLACO: A Multi-Stage Framework for Cost-Effective Performance in Human-AI Teams | Pranavkumar Mallela, Vinay Kumar, Shashi Shekhar Jha and Shweta Jain 
+ M1200 | SUBER: An RL Environment with Simulated Human Behavior for Recommender Systems | Nathan Corecco, Giorgio Piatti, Luca Lanzendoerfer, Flint Xiaofeng Fan and Roger Wattenhofer 
+ M1201 | Selfishly Cancelling Debts Can Reduce Systemic Risk | Jinyun Tong, Bart De Keijzer and Carmine Ventre 
+ M1203 | Reducing Systemic Risk in Financial Networks through Donations | Jinyun Tong, Bart De Keijzer and Carmine Ventre 
+ M1206 | Planning with OWL-DL Ontologies | Tobias John and Patrick Koopmann 
+ M1208 | Reassessing Non-autoregressive Neural Machine Translation with a Fine-grained Error Taxonomy | Yan Liu, Longyue Wang, Zhaopeng Tu and Deyi Xiong 
+ M1214 | Probabilistically Plausible Counterfactual Explanations with Normalizing Flows | Patryk Wielopolski, Oleksii Furman, Jerzy Stefanowski and Maciej Zięba 
+ M1225 | Real-Time Indoor Object Detection based on hybrid CNN-Transformer Approach | Salah-Eddine Laidoudi, Madjid Maidi and Samir Otmane 
+ M1227 | Parameterized Algorithms for Optimal Refugee Resettlement | Jiehua Chen, Ildikó Schlotter and Sofia Simola 
+ M1228 | Anatomical Consistency Distillation and Inconsistency Synthesis for Brain Tumor Segmentation with Missing Modalities | Zheyu Zhang, Xinzhao Liu, Zheng Chen, Yueyi Zhang, Huanjing Yue, Yunwei Ou and Xiaoyan Sun 
+ M1229 | Tailored-LLaMA: Optimizing Few-Shot Learning in Pruned LLAMA Models with Task-Specific Prompts | Danyal Aftab and Steven Davy 
+ M1232 | Bottlenecked Backpropagation to Train Differentially Private Deep Neural Networks | Arghyadeep Ghosh and Mrinal Das 
+ M1245 | Using Backdoors to Generate Learnt Information in SAT Solving | Alexander Andreev, Konstantin Chukharev, Stepan Kochemazov and Alexander Semenov 
+ M1247 | Structure and Reduction of MCTS for Explainable-AI | Ronit Bustin and Claudia V. Goldman 
+ M1250 | Phy-CoCo: Physical Constraint-based Correlation Learning for Tropical Cyclone Intensity and Size Estimation | Hanting Yan, Pan Mu, Cheng Huang, Jinglin Zhang and Cong Bai 
+ M1253 | Count-based Novelty Exploration in Classical Planning | Giacomo Rosa and Nir Lipovetzky 
+ M1256 | A Unified Automata-Theoretic Approach to LTL_f Modulo Theories | Marco Faella and Gennaro Parlato 
+ M1260 | Classifier Guidance Enhances Diffusion-based Adversarial Purification by Preserving Predictive Information | Mingkun Zhang, Jianing Li, Wei Chen, Jiafeng Guo and Xueqi Cheng 
+ M1265 | FairUS - UpSampling Optimized Method for Boosting Fairness | Nurit Cohen Inger, Guy Rozenblatt, Seffi Cohen, Lior Rokach and Bracha Shapira 
+ M1268 | TabCGOK: Intra-Class Groups Retrieval and Inter-Class Ordinal Knowledge Augmented Network for Ordinal Tabular Data Prediction | Zhengdong Luo, Abibulla Atawulla, Fengyi Yang, Yongqing Zhu, Yixiao Ren, Yunfei Han and Xi Zhou 
+ M1284 | Shielded FOND: Planning With Safety Constraints in Pure-Past Linear Temporal Logic | Luigi Bonassi, Giuseppe De Giacomo, Alfonso Emilio Gerevini and Enrico Scala 
+ M1286 | Differentiable Neural Network for Assembling Blocks | Zhiwei Liu, Qiang Lu, Yibo Zhao, Yanhong Zhao and Jake Luo 
+ M1296 | MFF-YOLO: Multi-scale Feature Fusion Network for Small Ship Detection in Night Scenes | Guangyu Li, Jun Li, Hai Cao, Houjun Wang, Weili Guo and Chen Gong 
+ M1303 | Audience Persona Knowledge-Aligned Prompt Tuning Method for Online Debate | Chunkit Chan, Jiayang Cheng, Xin Liu, Yauwai Yim, Yuxin Jiang, Zheye Deng, Haoran Li, Yangqiu Song, Ginny Y. Wong and Simon See 
+ M1304 | Enhancing Retrieval and Managing Retrieval: A Four-Module Synergy for Improved Quality and Efficiency in RAG Systems | Yunxiao Shi, Xing Zi, Zijing Shi, Haimin Zhang, Qiang Wu and Min Xu 
+ M1310 | The Distributional Uncertainty of the SHAP score in Explainable Machine Learning | Santiago Cifuentes, Leopoldo Bertossi, Nina Pardal, Sergio Abriola, Maria Vanina Martinez and Miguel Romero 
+ M1311 | SFDFusion: An Efficient Spatial-Frequency Domain Fusion Network For Infrared and Visible Image Fusion [not presented] | Kun Hu, Qingle Zhang, Maoxun Yuan and Yitian Zhang 
+ M1328 | A novel view of analogical proportion between formulas | Andreas Herzig, Emiliano Lorini and Henri Prade 
+ M1329 | Unidirectional Cross-modal Fusion for RGB-T Tracking | Xiao Guo, Hangfei Li, Yufei Zha and Peng Zhang 
+ M1331 | On Parallel External-Memory Bidirectional Search | Lior Siag, Shahaf Shperberg, Ariel Felner and Nathan Sturtevant 
+ M1338 | United We Stand: Decentralized Multi-Agent Planning With Attrition | Nhat Nguyen, Duong Nguyen, Gianluca Rizzo and Hung Nguyen 
+ M1344 | Combining Active Learning and Learning to Reject for Anomaly Detection | Luca Stradiotti, Lorenzo Perini and Jesse Davis 
+ M1346 | Link prediction without learning | Simon Delarue, Thomas Bonald and Tiphaine Viard 
+ M1366 | Learning Reward Structure with Subtasks in Reinforcement Learning | Shuai Han, Mehdi Dastani and Shihan Wang 
+ M1367 | Principled Explanations for Robust Redistributive Decisions | Hénoïk Willot, Khaled Belahcene and Sébastien Destercke 
+ M1369 | Understanding XAI Through the Philosopher's Lens: A Historical Perspective | Martina Mattioli, Antonio Emanuele Cinà and Marcello Pelillo 
+ M1372 | Mitigating Bias: Model Pruning for Enhanced Model Fairness and Efficiency | Harsh Kasyap, Ugur Atmaca, Michela Iezzi, Toby Walsh and Carsten Maple 
+ M1376 | Crafting Lifelike Avatars: Model Compression and Advanced Rendering Techniques | Shengjia Zhang 
+ M1390 | Adversarial Attack for Explanation Robustness of Rationalization Models | Yuankai Zhang, Lingxiao Kong, Haozhao Wang, Ruixuan Li, Jun Wang, Yuhua Li and Wei Liu 
+ M1395 | Distilling the Effects of Language Model Contamination | Behzad Mehrbakhsh, Fernando Martínez-Plumed and Jose Hernandez-Orallo 
+ M1405 | SelfBC: Self Behavior Cloning for Offline Reinforcement Learning | Shirong Liu, Chenjia Bai, Zixian Guo, Hao Zhang, Gaurav Sharma and Yang Liu 
+ M1407 | Accelerating Machine Learning for Trading Using Programmable Switches | Xinpeng Hong, Changgang Zheng, Stefan Zohren and Noa Zilberman 
+ M1417 | Enhancing Text-to-SQL Capabilities of Large Language Models via Domain Database Knowledge Injection | Xingyu Ma, Xin Tian, Lingxiang Wu, Xuepeng Wang, Xueming Tang and Jinqiao Wang 
+ M1418 | R4: Reinforced Retriever-Reorder-Responder for Retrieval-Augmented Large Language Models [not presented] | Taolin Zhang, Dongyang Li, Qizhou Chen, Chengyu Wang, Longtao Huang, Hui Xue, Xiaofeng He and Jun Huang 
+ M1420 | Fair-OBNC: Correcting Label Noise for Fairer Datasets | Inês Oliveira E Silva, Sérgio Jesus, Hugo Ferreira, Pedro Saleiro, Inês Sousa, Pedro Bizarro and Carlos Soares 
+ M1421 | Multi-Agent Path Finding with Real Robot Dynamics and Interdependent Tasks for Automated Warehouses | Vassilissa Lehoux-Lebacque, Tomi Silander, Christelle Loiodice, Seungjoon Lee, Albert Wang and Sofia Michel 
+ M1428 | Compromises in Dialogical Argumentation: Aggregated Policies for Biparty Decision Theory | Ivan Donadello, Renan Lirio de Souza, Anthony Hunter and Mauro Dragoni 
+ M1431 | Bipartite Time Series Network for Data Imputation | Ilaria Amerise, Valeria Fionda and Giuseppe Pirrò 
+ M1433 | Uncertainty-guided Dual Task Framework for Semi-supervised Segmentation of Thyroid Nodules | Xiang Ying, Jizhe Zhang, Jie Gao, Mei Yu, Ruixuan Zhang, Jialin Zhu, Xuewei Li and Ruiguo Yu 
+ M1437 | IPA-NeRF: Illusory Poisoning Attack Against Neural Radiance Fields | Wenxiang Jiang, Hanwei Zhang, Shuo Zhao, Zhongwen Guo and Hao Wang 
+ M1441 | Winning the 2023 CityLearn Challenge: a Community-based Hierarchical Energy Systems Coordination Algorithm | Andoni Irazusta Garmendia, Francesco Morri, Quentin Cappart and Hélène Le Cadre 
+ M1442 | Node Classification via Adaptive Spectral-Heterophily | Giuseppe Pirrò 
+ M1445 | Hop-based Heterogeneous Graph Transformer | Zixuan Yang, Xiao Wang, Yanhua Yu, Yuling Wang, Kangkang Lu, Zirui Guo, Xiting Qin, Yunshan Ma and Tat-Seng Chua 
+ M1452 | Modelling Diffusion of Dependent and Conflicting Behaviours with Dynamic Logic | Gabriel Amorim, Marlo Souza and Alvaro Moreira 
+ M1456 | Building and Assessing a Named Entity Recognition Resource for Ancient Pharmacopeias | Karim El Haff, Wissam Antoun, Agnès Braud, Florence Le Ber and Veronique Pitchon 
+ M1457 | Detecting Patterns of Attacks to Network Security in Urban Air Mobility with Answer Set Programming | Gioacchino Sterlicchio and Francesca Alessandra Lisi 
+ M1462 | Verification of Geometric Robustness of Neural Networks via Piecewise Linear Approximation and Lipschitz Optimisation | Ben Batten, Yang Zheng, Alessandro De Palma, Panagiotis Kouvaros and Alessio Lomuscio 
+ M1464 | TrustFed: Navigating Trade-offs Between Performance, Fairness, and Privacy in Federated Learning | Maryam Badar, Sandipan Sikdar, Wolfgang Nejdl and Marco Fisichella 
+ M1484 | Barely Decidable Fragments of Planning | Maurice Dekker and Gregor Behnke 
+ M1486 | HyenaPixel: Global Image Context with Convolutions | Julian Spravil, Sebastian Houben and Sven Behnke 
+ M1487 | Representation Matters for Mastering Chess: Improved Feature Representation in AlphaZero Outperforms Switching to Transformers | Johannes Czech, Jannis Blüml, Kristian Kersting and Hedinn Steingrimsson 
+ M1488 | Learning Brave Assumption-Based Argumentation Frameworks via ASP | Emanuele De Angelis, Maurizio Proietti and Francesca Toni 
+ M1506 | A Simple Yet Effective Interpretable Bayesian Personalized Ranking for Cognitive Diagnosis | Arthur Batel, Idir Benouaret, Joan Fruitet, Marc Plantevit and Celine Robardet 
+ M1510 | Mechanism Design for Extending the Accessibility of Facilities | Hau Chan, Jianan Lin, Chenhao Wang and Yanxi Xie 
+ M1524 | Optimal Layout-Aware CNOT Circuit Synthesis with Qubit Permutation | Irfansha Shaik and Jaco van de Pol 
+ M1527 | Global Optimisation of Black-Box Functions with Generative Models in the Wasserstein Space | Tigran Ramazyan, Mikhail Hushchyn and Denis Derkach 
+ M1531 | A Methodology Establishing Linear Convergence of Adaptive Gradient Methods under PL Inequality | Kushal Chakrabarti and Mayank Baranwal 
+ M1532 | LoCa: Logit Calibration for Knowledge Distillation | Runming Yang, Taiqiang Wu and Yujiu Yang 
+ M1535 | Learning Backdoors for Mixed Integer Linear Programs with Contrastive Learning | Junyang Cai, Taoan Huang and Bistra Dilkina 
+ M1546 | Sparse Convolutional Neural Network for Localization and Orientation Prediction and Application to Drone Control | Jan Rodziewicz-Bielewicz and Marcin Korzeń 
+ M1547 | Transfer Learning Can Introduce Bias | Parisa Salmani and Peter Lewis 
+ M1554 | Scale-Adaptive Balancing of Exploration and Exploitation in Classical Planning | Stephen Wissow and Masataro Asai 
+ M1562 | Cost Partitioning For Multiple Sequence Alignment | Mika Skjelnes, Daniel Gnad and Jendrik Seipp 
+ M1566 | Language Task Difficulty Prediction through LLM-Annotated Meta-Features | Yael Moros-Daval, Fernando Martínez-Plumed and José Hernández-Orallo 
+ M1574 | Embedding Knowledge Graphs in Degenerate Clifford Algebras | Louis Mozart Kamdem Teyou, Caglar Demir and Axel Cyrille Ngonga Ngomo 
+ M1575 | How to guide a present-biased agent through prescribed tasks? | Tatiana Belova, Yuriy Dementiev, Fedor Fomin, Petr Golovach and Artur Ignatiev 
+ M1579 | DataDetective: Dataset Watermarking for Leakers Identification in ML Training | Noa Wegerhoff, Avishag Shapira, Yuval Elovici and Asaf Shabtai 
+ M1581 | A Federated Large Language Model for Long-Term Time Series Forecasting | Raed Abdel Sater and Abdessamad Ben Hamza 
+ M1584 | Worst- and Average-Case Robustness of Stable Matchings: (Counting) Complexity and Experiments | Kimon Boehmer and Niclas Boehmer 
+ M1589 | MoSt-DSA: Modeling Motion and Structural Interactions for Direct Multi-Frame Interpolation in DSA Images | Ziyang Xu, Huangxuan Zhao, Ziwei Cui, Wenyu Liu, Chuansheng Zheng and Xinggang Wang 
+ M1591 | FilFL: Client Filtering for Optimized Client Participation in Federated Learning | Fares Fourati, Salma Kharrat, Vaneet Aggarwal, Mohamed-Slim Alouini and Marco Canini 
+ M1593 | Differentiable Logic Programming for Distant Supervision | Akihiro Takemura and Katsumi Inoue 
+ M1594 | Explaining the Lack of Locally Envy-Free Allocations | Aurélie Beynier, Jean-Guy Mailly, Nicolas Maudet and Anaëlle Wilczynski 
+ M1596 | ChatZero: Zero-shot Cross-Lingual Dialogue Generation via Pseudo-Target Language [not presented] | Yongkang Liu, Shi Feng, Daling Wang, Yifei Zhang and Hinrich Schütze 
+ M1597 | Benchmarking Adversarial Robustness in Speech Emotion Recognition: Insights into Low-Resource Romanian and German Languages | Sebastian-Vasile Echim, Răzvan-Alexandru Smădu and Dumitru-Clementin Cercel 
+ M1601 | Distribution of Chores with Information Asymmetry | Hadi Hosseini, Joshua Kavner, Tomasz Wąs and Lirong Xia 
+ M1602 | Counterfactual Thinking in Stochastic Dynamics of Cooperation | António M. Fernandes, Francisco C. Santos and Ana Paiva 
+ M1604 | QFMTS: Generating Query-Focused Summaries over Multi-Table Inputs | Weijia Zhang, Vaishali Pal, Jia-Hong Huang, Evangelos Kanoulas and Maarten de Rijke 
+ M1615 | Learning Joint Models of Prediction and Optimization | James Kotary, Vincenzo Di Vito Francesco, Jacob Cristopher, Pascal Van Hentenryck and Ferdinando Fioretto 
+ M1618 | Coopetition in Heterogeneous Cross-Silo Federated Learning | Chao Huang, Justin Dachille and Xin Liu 
+ M1624 | Adjacent Leader Decentralized Stochastic Gradient Descent | Haoze He, Jing Wang and Anna Choromanska 
+ M1627 | ANSPRE: Improving Question-Answering in Large Language Models with Answer-Prefix Generation | Nguyen-Khang Le, Dieu-Hien Nguyen and Nguyen Le Minh 
+ M1632 | Every Node Counts: Improving the Training of Graph Neural Networks on Node Classification | Moshe Eliasof, Eldad Haber and Eran Treister 
+ M1635 | Causal Diffusion Autoencoders: Toward Counterfactual Generation via Diffusion Probabilistic Models | Aneesh Komanduri, Chen Zhao, Feng Chen and Xintao Wu 
+ M1645 | Planning to be Healthy: Towards Personalized Medication Planning | Lee-Or Alon, Hana Weitman, Alexander Shleyfman and Gal Kaminka 
+ M1646 | Estimating Causal Effects from Learned Causal Networks | Anna Raichev, Jin Tian, Alex Ihler and Rina Dechter 
+ M1649 | CorrAdaptor: Adaptive Local Context Learning for Correspondence Pruning | Wei Zhu, Yicheng Liu, Yuping He, Tangfei Liao, Kang Zheng, Xiaoqiu Xu, Tao Wang and Tong Lu 
+ M1670 | Domain Feature Perturbation for Domain Generalization | Chenguang Wang, Zijun Zhang and Zhidan Zhou 
+ M1673 | A Hybrid Approach towards Chinese Spelling and Splitting Error Correction | Junhong Liang, Junnan Zhu, Yu Zhou, Feifei Zhai, Nanchang Chen and Chengqing Zong 
+ M1675 | Be Persistent: Towards a Unified Solution for Mitigating Shortcuts in Deep Learning | Hadi Mohaghegh Dolatabadi, Sarah Erfani and Christopher Leckie 
+ M1677 | Parameter Estimation of Long Memory Stochastic Processes with Deep Neural Networks | Bálint Csanády, Lóránt Nagy, Dániel Boros, Iván Ivkovic, Dávid Kovács, Dalma Tóth-Lakits, László Márkus and András Lukács 
+ M1678 | Backward Compatibility in Attributive Explanation and Enhanced Model Training Method | Ryuta Matsuno 
+ M1683 | FairCognizer: A Model for Accurate Predictions with Inherent Fairness Evaluation | Adda Akram Bendoukha, Nesrine Kaaniche, Aymen Boudguiga and Renaud Sirdey 
+ M1684 | MEFusion: Unsupervised Mutual Enhancement for Multimodal Image Fusion | Yushe Cao, Siwen Jiao, Penghao Sun, Baoyun Peng, Dianxi Shi and Yuanchun Shi 
+ M1685 | CODD: A Decision Diagram-based Solver for Combinatorial Optimization | Laurent Michel and Willem-Jan van Hoeve 
+ M1687 | Optimal Diffusion Auctions | Yao Zhang, Zheng Shanshan and Dengji Zhao 
+ M1694 | MixCon: A Hybrid Architecture for Efficient and Adaptive Sequence Modeling | Xin Xu and Zhouchen Lin 
+ M1695 | Counseling Responses for Mental Health Forum Questions with Early Maladaptive Schema Prediction | Sujatha Das Gollapalli, Beng Heng Ang, Mingzhe Du and See-Kiong Ng 
+ M1699 | UDUC: An Uncertainty-driven Approach for Learning-based Robust Control | Yuan Zhang, Jasper Hoffmann and Joschka Boedecker 
+ M1706 | High-Quality Human Motion Prediction using Size Invariant Motion Space | Haichuan Zhao, Xudong Ru, Peng Du, Shaolong Liu, Na Liu, Xingce Wang and Zhongke Wu 
+ M1715 | Class-Aware Sample Weight Learning for Cross-Modal Unsupervised Domain Adaptation in Cross-User Wearable Human Activity Recognition | Tong Wu, Yanbin Liu and Sira Yongchareon 
+ M1717 | Grouped Logit Distillation Enhanced with Superclass Awareness for Efficient Knowledge Transfer | Shuoxi Zhang, Hanpeng Liu, Yuyi Wang and Kun He 
+ M1719 | Large Language Model Agentic Approach to Fact Checking and Fake News Detection | Xinyi Li, Yongfeng Zhang and Edward Malthouse 
+ M1722 | Large Language Model Prompting With Episodic Memory | Van Dai Do, Quan Tran, Svetha Venkatesh and Hung Le 
+ M1730 | Adaptive Fraud Detection on e-Commerce Platforms | Shaowen Tang and Raymond Wong 
+ M1732 | Differentiating Choices via Commonality for Multiple-Choice Question Answering | Wenqing Deng, Zhe Wang, Kewen Wang, Shirui Pan, Xiaowang Zhang and Zhiyong Feng 
+ M1759 | STPDN: Spatio-Temporal Pattern Decomposition Network with Fluctuation Awareness for Robust Traffic Flow Forecasting | Xudong Zhang, Peng Peng, Xuewen Chen, Yulei Wu, Lingdong Shen and Haina Tang 
+ M1762 | SETTP: Style Extraction and Tunable Inference via Dual-level Transferable Prompt Learning | Chunzhen Jin, Yongfeng Huang, Yaqi Wang, Peng Cao and Osmar Zaiane 
+ M1765 | One-shot Collaborative Data Distillation | Rayne Holland, Chandra Thapa, Wei Shao, Seyit Camtepe and Sarah Ali Siddiqui 
+ M1766 | Learning Compact Neural Networks via Generalized Structured Sparsity | Ke Bian, Lu Sun and Dengji Zhao 
+ M1780 | Detecting Objects as Cascade Corners | Chenglong Liu, Jintao Liu, Haoran Wei, Jinze Yang, Liangyu Xu, Yuchen Guo and Lu Fang 
+ M1806 | Estimating the Robustness Radius for Randomized Smoothing with 100x Sample Efficiency | Emmanouil Seferis, Stefanos Kollias and Chih-Hong Cheng 
+ M1809 | A First-Order Multi-Gradient Algorithm for Multi-Objective Bi-Level Optimization | Feiyang Ye, Baijiong Lin, Xiaofeng Cao, Yu Zhang and Ivor Tsang 
+ M1817 | Lightweight Transformer for sEMG Gesture Recognition with Feature Distilled Variational Information Bottleneck | Zefeng Wang, Bingbing Hu, Junfeng Yao and Jinsong Su 
+ M1821 | DSPrompt: Prompt Learning with Relation Abstraction and Context Injection for Distant Supervised Relation Extraction | Zechen Meng, Wenbin Zhang, Mankun Zhao, Tianyi Xu, Jian Yu, Ruiguo Yu and Mei Yu 
+ M1827 | Limited Voting for Better Representation? | Maaike Venema-Los, Zoé Christoff and Davide Grossi 
+ M1839 | Model Priming with Triplet Loss for Few-Shot Emotion Classification in Text | Jens Lemmens and Walter Daelemans 
+ M1850 | ReactAIvate: A Deep Learning Approach to Predicting Reaction Mechanisms and Unmasking Reactivity Hotspots | Ajnabiul Hoque, Manajit Das, Mayank Baranwal and Raghavan B Sunoj 
+ M1852 | Reduce, Reuse, Recycle: Categories for Compositional Reinforcement Learning | Georgios Bakirtzis, Michail Savvas, Ruihan Zhao, Sandeep Chinchali and Ufuk Topcu 
+ M1854 | Enabling Causal Discovery in Post-Nonlinear Models with Normalizing Flows | Nu Hoang, Bao Duong and Thin Nguyen 
+ M1855 | Revisiting Vacuous Reduct Semantics for Abstract Argumentation | Lydia Blümel and Matthias Thimm 
+ M1856 | Unveiling the Power of Sparse Neural Networks for Feature Selection | Zahra Atashgahi, Tennison Liu, Mykola Pechenizkiy, Raymond Veldhuis, Decebal Constantin Mocanu and Mihaela van der Schaar 
+ M1860 | Efficient Initial Data Selection and Labeling for Multi-Class Classification Using Topological Analysis | Lies Hadjadj, Emilie Devijver, Rémi Molinier and Massih-Reza Amini 
+ M1867 | Scalable Variational Causal Discovery Unconstrained by Acyclicity | Nu Hoang, Bao Duong and Thin Nguyen 
+ M1869 | Control by Adding Players to Change or Maintain the Shapley–Shubik or the Penrose–Banzhaf Power Index in Weighted Voting Games Is Complete for NP^PP | Joanna Kaczmarek and Jörg Rothe 
+ M1892 | Multi-View Prompt for Fine-Grained Multimodal NER and Grounding [not presented] | Jintao Liu, Chenglong Liu and Kaiwen Wei 
+ M1893 | Deep Mapper: Efficient Visualization of Plausible Conformational Pathways | Ziyad Oulhaj, Yoshiyuki Ishii, Kento Ohga, Kimihiro Yamazaki, Mutsuyo Wada, Yuhei Umeda, Takashi Katoh, Yuichiro Wada and Hiroaki Kurihara 
+ M1904 | On explaining with attention matrices | Omar Naim and Nicholas Asher 
+ M1911 | Boundary-Enhanced Instance Segmentation | Fangyuan Zhang, Tianxiang Pan, Yu-Wing Tai and Bin Wang 
+ M1912 | Enhancing Hate Speech Annotations with Background Semantics | Paula Reyero Lobo, Enrico Daga, Harith Alani and Miriam Fernandez 
+ M1913 | Symmetry-Breaking Constraints for Directed Graphs | Jussi Rintanen and Masood Feyzbakhsh Rankooh 
+ M1917 | Fact Probability Vector Based Goal Recognition | Nils Wilken, Lea Cohausz, Christian Bartelt and Heiner Stuckenschmidt 
+ M1923 | Reasonable Gradients for Online Training Algorithms in Spiking Neural Networks | Lang Xue, Hanwen Liu, Jing Wang and Hong Qu 
+ M1929 | A Lazy Approach to Neural Numerical Planning with Control Parameters | René Heesch, Alessandro Cimatti, Jonas Ehrhardt, Alexander Diedrich and Oliver Niggemann 
+ M1974 | Prompt Based Data Augmentation Using Contrastive Learning Under Scarcity of Annotated Data | Muhammad Uzair Ul Haq, Davide Rigoni and Alessandro Sperduti 
+ M1980 | Augmented prediction of a true class for Positive Unlabeled data under selection bias | Jan Mielniczuk and Adam Wawrzeńczyk 
+ M1981 | Synthesis of Reward Machines for Multi-Agent Equilibrium Design | Muhammad Najib and Giuseppe Perelli 
+ M1982 | Spatial and Frequency-based Feature Reconstruction for Cross-Database Micro-Expression Recognition | Zhi Feng, C. L. Philip Chen, Shiting Xu and Tong Zhang 
+ M1985 | Offline Model-Based Reinforcement Learning with Anti-Exploration | Padmanaba Srinivasan and William J. Knottenbelt 
+ M1987 | Learning in Multi-Objective Public Goods Games with Non-Linear Utilities | Nicole Orzan, Erman Acar, Davide Grossi, Patrick Mannion and Roxana Radulescu 
+ M1991 | DecorTAD: Diffusion Based Conditional Representation Learning for Online Trajectory Anomaly Detection | Chen Wang, Sarah Erfani, Tansu Alpcan and Christopher Leckie 
+ M1993 | Robust Monocular Depth Estimation in Adverse Weather Conditions by Unsupervised Domain Adaptation | Jihui Lee, Quoc-Vinh Lai-Dang, Neha Sengar and Dongsoo Har 
+ M2000 | SecPE: Secure Prompt Ensembling for Private and Robust Large Language Models | Jiawen Zhang, Kejia Chen, Zunlei Feng, Jian Lou and Mingli Song 
+ M2002 | Model Provenance via Model DNA | Xin Mu, Yu Wang, Yehong Zhang, Jiaqi Zhang, Hui Wang, Yang Xiang and Yue Yu 
+ M2003 | DeepDFA: Automata Learning through Neural Probabilistic Relaxations | Elena Umili and Roberto Capobianco 
+ M2013 | Approximate Mechanism Design for Facility Location with Multiple Objectives | Toby Walsh 
+ M2020 | The Form and the Content: Non-monotonic Reasoning with Syntactic Contextual Filtering | Florence Dupin de Saint-Cyr and Pierre Bisquert 
+ M2022 | Reducing Texture Bias of Deep Neural Networks via Edge Enhancing Diffusion | Edgar Heinert, Matthias Rottmann, Kira Maag and Karsten Kahl 
+ M2025 | SAT-Based Approaches to Reasoning in Choice Logics | Tuomo Lehtonen, Andreas Niskanen and Matti Järvisalo 
+ M2026 | Iteratively Calibrating Prompts for Unsupervised Diverse Opinion Summarization | Jian Wang, Yuqing Sun, Yanjie Liang, Xin Li and Bin Gong 
+ M2033 | An Online Incremental Learning Approach for Configuring Multi-arm Bandits Algorithms | Mohammad Essa Alsomali, Roberto Rodrigues Filho, Leandro Soriano Marcolino and Barry Porter 
+ M2035 | u-LLaVA: Unifying Multi-Modal Tasks via Large Language Model | Jinjin Xu, Liwu Xu, Yuzhe Yang, Xiang Li, Fanyi Wang, Yanchun Xie, Yi-Jie Huang and Yaqian Li 
+ M2036 | Generating SROI− Ontologies via Knowledge Graph Query Embedding Learning | Yunjie He, Daniel Hernandez, Mojtaba Nayyeri, Bo Xiong, Yuqicheng Zhu, Evgeny Kharlamov and Steffen Staab 
+ M2042 | CAMAOT: Channel-Aware Multi-Camera Active Object Tracking System | Maolong Yin, Bin Guo, Zhuo Sun, Lei Wu, Zhaotie Hao and Zhiwen Yu 
+ M2044 | Night-to-Day: Unpaired Image-to-Image Translation for Nighttime Pedestrian Detection | Afnan Althoupety, Li-Yun Wang, Wu-Chi Feng and Banafsheh Rekabdar 
+ M2045 | Bridging Continual Learning of Motion and Self-Supervised Representations | Matteo Tiezzi, Simone Marullo, Alessandro Betti, Michele Casoni and Stefano Melacci 
+ M2049 | Inside the Black Box: Detecting Data Leakage in Pre-trained Language Encoders | Yuan Xin, Zheng Li, Ning Yu, Dingfan Chen, Mario Fritz, Michael Backes and Yang Zhang 
+ M2052 | Gotta Catch 'Em All! Sequence Flaws in CEGAR for Classical Planning | Martín Pozo, Álvaro Torralba and Carlos Linares López 
+ M2054 | Do we Care about Poll Manipulation in Political Elections? | Vincent Mousseau, Henri Surugue and Anaëlle Wilczynski 
+ M2055 | Spatially Constrained Transformer with Efficient Global Relation Modelling for Spatio-Temporal Prediction | Ashutosh Sao and Simon Gottschalk 
+ M2064 | Learning logic programs by finding minimal unsatisfiable subprograms | Andrew Cropper and Céline Hocquette 
+ M2069 | Rigorous Probabilistic Guarantees for Robust Counterfactual Explanations | Luca Marzari, Francesco Leofante, Ferdinando Cicalese and Alessandro Farinelli 
+ M2074 | Fairness in Repeated House Allocation | Karl Jochen Micheel and Anaëlle Wilczynski 
+ M2075 | Hierarchical Average-Reward Linearly-solvable Markov Decision Processes | Guillermo Infante, Anders Jonsson and Vicenç Gómez 
+ M2088 | Explaining an Agent’s Future Beliefs through Temporally Decomposing Future Reward Estimators | Mark Towers, Yali Du, Christopher Freeman and Timothy Norman 
+ M2093 | A Heuristic for Optimal Total-Order HTN Planning Based on Integer Linear Programming | Conny Olz, Alexander Lodemann and Pascal Bercher 
+ M2106 | MC-SORT: A Motion Correction-based Framework for Long-Term Multiple Object Tracking | Xiangyu Li, Yunchuan Qin, Ruihui Li, Guanghua Tan, Zhuo Tang and Kenli Li 
+ M2110 | DINEX: Interpretable NLP via Diversified Natural Language Explanations [not presented] | Xugang Zhou, Jindian Su and Weizheng Gu 
+ M2121 | Mask-Encoded Sparsification: Mitigating Biased Gradients in Communication-Efficient Split Learning | Wenxuan Zhou, Zhihao Qu, Shen-Huan Lyu, Miao Cai and Baoliu Ye 
+ M2123 | A Meta-Learning Approach for Multi-Objective Reinforcement Learning in Sustainable Home Energy Management | Junlin Lu, Patrick Mannion and Karl Mason 
+ M2124 | Understanding the Impact of Human Oversight on Discriminatory Outcomes in AI-Supported Decision Making | Alexia Gaudeul, Ottla Arrigoni, Vasiliki Charisi, Marina Escobar-Planas and Isabelle Hupont-Torres 
+ M2129 | Cliff: Leveraging Ambiguous Samples for Enhanced Test-Time Adaptation [not presented] | Xiao Chen, Qihui Zhang and Yan Wang 
+ M2138 | On the Effects of Irrelevant Variables in Treatment Effect Estimation with Deep Disentanglement | Ahmad Saeed Khan, Erik Schaffernicht and Johannes Andreas Stork 
+ M2139 | Advancing Topic Segmentation of Broadcasted Speech with Multilingual Semantic Embeddings | Sakshi Deo Shukla, Pavel Denisov and Tugtekin Turan 
+ M2145 | The Propensity for Density in Feed-forward Models | Nandi Schoots, Alex Jackson, Ali Kholmovaia, Peter McBurney and Murray Shanahan 
+ M2149 | Laner-GNN: Adapting to Long-Tail Degree Distribution with Latent Neighborhood Restorers | Lingjun Xu, Haowen Li, Guojie Song, Liang Wang and Bo Zheng 
+ M2162 | Complex multi-ontology alignment through geometric operations on language embeddings | Marta Contreiras Silva, Daniel Faria and Catia Pesquita 
+ M2164 | Instruction following with goal-conditioned reinforcement learning in virtual environments | Zoya Volovikova, Alexey Skrynnik, Petr Kuderov and Aleksandr I. Panov 
+ M2167 | Contribution of V1 receptive field properties to corruption robustness in CNNs | Ruxandra Barbulescu, Tiago Marques and Arlindo Oliveira 
+ M2169 | Diversity-enhanced Learning for Unsupervised Syntactically Controlled Paraphrase Generation | Shaojuan Wu, Jitong Li, Yue Sun, Xiaowang Zhang and Zhiyong Feng 
+ M2170 | A study of prototypical network techniques for cross-subject EEG analysis | Wenchao Liu, Guangyu Wang, Yuhong He, Hongjian Bo, Lin Ma and Haifeng Li 
+ M2184 | Cascade Memory for Unsupervised Anomaly Detection | Jiahao Li, Yiqiang Chen, Yunbing Xing, Yang Gu and Xiangyuan Lan 
+ M2197 | TED: Accelerate Model Training by Internal Generalization | Jinying Xiao, Ping Li and Jie Nie 
+ M2198 | Improving Aspect-Based Sentiment Analysis via Tuple-Order Learning | Gongzhen Hu, Yuanjun Liu, Xiabing Zhou and Min Zhang 
+ M2202 | Robust Deep Hawkes Process under Label Noise of Both Event and Occurrence | Xiaoyu Tan, Bin Li, Xihe Qiu, Jingjing Huang, Yinghui Xu and Wei Chu 
+ M2203 | Federated Learning with Hybrid Knowledge Distillations on Long-Tailed Heterogeneous Client Data | Senbin Liu, Yuanting Zhang, Kunhua Zhang and Yi Wang 
+ M2207 | Natural Mitigation of Catastrophic Interference: Continual Learning in Power-Law Learning Environments [not presented] | Atith Gandhi, Raj Shah, Vijay Marupudi and Sashank Varma 
+ M2208 | Designing an XAI Interface for Tree-Based ML Models | Gilles Audemard, Sylvie Coste-Marquis, Pierre Marquis, Mehdi Sabiri and Nicolas Szczepanski 
+ M2210 | ALOE: Boosting Large Language Model Fine-Tuning with Aggressive Loss-based Elimination of Samples | Alexander Demidovskij, Aleksei Trutnev, Artyom Tugaryov and Igor Salnikov 
+ M2213 | On the Computation of Contrastive Explanations for Boosted Regression Trees | Gilles Audemard, Jean Marie Lagniez and Pierre Marquis 
+ M2222 | Uncertainty in real-world vehicle routing | Václav Sobotka and Hana Rudová 
+ M2233 | Locally-Minimal Probabilistic Explanations | Yacine Izza, Kuldeep Meel and Joao Marques-Silva 
+ M2238 | Canonical Decision Diagrams Modulo Theories | Massimo Michelutti, Gabriele Masina, Giuseppe Spallitta and Roberto Sebastiani 
+ M2239 | Hyperparameter Importance Analysis for Multi-Objective AutoML | Daphne Theodorakopoulos, Frederic Stahl and Marius Lindauer 
+ M2242 | A Single Online Agent Can Efficiently Learn Mean Field Games | Chenyu Zhang, Xu Chen and Xuan Di 
+ M2248 | Abductive and Contrastive Explanations for Scoring Rules in Voting | Clément Contet, Umberto Grandi and Jérôme Mengin 
+ M2252 | Planning for Human-Robot Collaboration Scenarios with Heterogeneous Costs and Durations | Silvia Izquierdo-Badiola, Gerard Canal, Guillem Alenyà, Carlos Rizzo and Andrew Coles 
+ M2258 | MCAHNN: Multi-channel EEG emotion recognition using Attention mechanism based on Householder Reflection | Qinglong Liu, Wenhao Jiang, Shihang Ding, Kaixuan Wang, Hongjian Bo, Cong Xu, Lin Ma and Haifeng Li 
+ M2266 | Prompt-based Domain Incremental Learning with Modular Classification Layer | Boyu Wang, Yue Ma and Qinru Qiu 
+ M2268 | Existence of MMS Allocations of Mixed Manna | Kevin Hsu 
+ M2275 | IndMask: Inductive Explanation for Multivariate Time Series Black-box Models | Seham Nasr and Sandipan Sikdar 
+ M2286 | Unified Video and Image Representation for Boosted Video Face Forgery Detection | Haotian Liu, Chenhui Pan, Yang Liu, Guoying Zhao and Xiaobai Li 
+ M2287 | Fairness Auditing with Multi-Agent Collaboration | Martijn de Vos, Akash Dhasade, Jade Garcia Bourrée, Anne-Marie Kermarrec, Erwan Le Merrer, Benoît Rottembourg and Gilles Tredan 
+ M2291 | In-Network Machine Learning for Real-Time Transaction Fraud Detection | Xinpeng Hong, Changgang Zheng and Noa Zilberman 
+ M2297 | Annot-Mix: Learning with Noisy Class Labels from Multiple Annotators via a Mixup Extension | Marek Herde, Lukas Lührs, Denis Huseljic and Bernhard Sick 
+ M2298 | Multi-Agent Path Finding with Task Assignment and Supporting Constraints | Caroline Bonhomme, Christophe Grand, Charles Lesire, Jean-Louis Dufour and Christophe Guettier 
+ M2301 | Navigating Trade-offs: Policy Summarization in Multi-Objective Reinforcement Learning | Zuzanna Osika, Jazmin Zatarain-Salazar, Frans Oliehoek and Pradeep Kumar Murukannaiah 
+ M2305 | FenGe--An Interactive Framework for Improving the Utility of Deep Dune Segmentation in Geographical Tasks | Zheng Jiang, Anqi Lu, Zifeng Wu, Wei Wang, Gaowei Zhang, Eerdun Hasi and Yi Wang 
+ M2307 | GraphFSA: A Finite State Automaton Framework for Algorithmic Learning on Graphs | Florian Grötschla, Joel Mathys, Christoffer Raun and Roger Wattenhofer 
+ M2309 | Good Things Come to Those Who Wait: The Power of Sensing in Social Laws | Alexander Tuisov, Alexander Shleyfman and Erez Karpas 
+ M2310 | Development of an Interpretable Uni-Null Neuron-Based Evolving Fuzzy Neural Network for Age Group Identification in Respondents with Diabetes | Paulo Vitor de Campos Souza and Mauro Dragoni 
+ M2311 | Automated Synthesis of Certified Neural Networks | Matteo Zavatteri, Davide Bresolin and Nicolò Navarin 
+ M2315 | EXPLAIN, AGREE, LEARN: Scaling Learning for Neural Probabilistic Logic | Victor Verreet, Lennert De Smet, Luc De Raedt and Emanuele Sansone 
+ M2316 | Real-time goal recognition using approximations in Euclidean space | Douglas Tesch, Leonardo Amado and Felipe Meneguzzi 
+ M2320 | Complexity Results and Algorithms for Manipulation and Bribery in Judgment Aggregation | Ari Conati, Andreas Niskanen, Ronald de Haan and Matti Järvisalo 
+ M2329 | SaGess: A Sampling Graph Denoising Diffusion Model for Scalable Graph Generation | Stratis Limnios, Praveen Selvaraj, Mihai Cucuringu, Carsten Maple, Gesine Reinert and Andrew Elliott 
+ M2332 | RTSR: A Real-Time Table Structure Recognition Approach | Nam Quan Nguyen, Xuan Phong Pham and Tuan Anh Tran 
+ M2336 | VMFTransformer: An Angle-Preserving and Auto-Scaling Machine for Multi-horizon Probabilistic Forecasting | Yunyi Zhou, Ruohan Gao, Xinping Zheng, Yuchen Huang and Zhixuan Chu 
+ M2337 | Multi-agent Planning using Visual Language Models | Michele Brienza, Francesco Argenziano, Vincenzo Suriani, Domenico Daniele Bloisi and Daniele Nardi 
+ M2349 | Value-Based Rationales Improve Social Experience: A Multiagent Simulation Study | Sz-Ting Tzeng, Nirav Ajmeri and Munindar P. Singh 
+ M2370 | Placement Aware Grasp Planning for Efficient Sequential Manipulation | Juhan Park, Daejong Jin and Kyungjae Lee 
+ M2373 | Recurrent Task Specialization Network for Segmentation-aided Vascular Landmarks Detection in Retinal Images | Álvaro S. Hervella, José Rouco, Jorge Novo, Clara I. Sánchez and Marcos Ortega 
+ M2374 | Diversifying the Mixture-of-Experts Representation for Language Models with Orthogonal Optimizer | Boan Liu, Liang Ding, Li Shen, Keqin Peng, Yu Cao, Dazhao Cheng and Dacheng Tao 
+ M2377 | Detecting Hidden Triggers: Mapping Non-Markov Reward Functions to Markov | Gregory Hyde and Eugene Santos, Jr. 
+ M2387 | A Practical Operational Semantics for Classical Planning in BDI Agents | Mengwei Xu, Tom Lumley, Ramon Fraga Pereira and Felipe Meneguzzi 
+ M2389 | Monte Carlo tree search with state merging for reinforcement learning in Regular Decision Processes | Gabriel Paludo Licks, Fabio Patrizi and Giuseppe De Giacomo 
+ M2390 | FltLM: An Intergrated Long-Context Large Language Model for Effective Context Filtering and Understanding | Jingyang Deng, Zhengyang Shen, Boyang Wang, Lixin Su, Suqi Cheng, Ying Nie, Junfeng Wang, Dawei Yin and Jinwen Ma 
+ M2396 | Unveiling Learner Dynamics: The ECLIPSE Dataset and NeuralGaze Framework for Prolonged Engagement Assessment in Online Learning | Avinash Anand, Avni Mittal, Laavanaya Dhawan, Mahisha Ramesh, Juhi Krishnamurthy, Naman Lal, Raj Jaiswal, Pijush Bhuyan, Himani, Astha Verma, Rajiv Ratn Shah, Roger Zimmermann and Shin'Ichi Satoh 
+ M2402 | RETRO-LI: Small-Scale Retrieval Augmented Generation Supporting Noisy Similarity Searches and Domain Shift Generalization | Gentiana Rashiti, Geethan Karunaratne, Mrinmaya Sachan, Abu Sebastian and Abbas Rahimi 
+ M2403 | Taylor expansion in neural networks: How higher orders yield better predictions | Pavel Zwerschke, Arvid Weyrauch, Markus Götz and Charlotte Debus 
+ M2407 | High-Dimensional Causal Bayesian Optimization | Yupeng Wu, Weiye Wang, Yangwenhui Zhang, Mingjia Li, Yuanhao Liu, Hong Qian and Aimin Zhou 
+ M2412 | Reset It and Forget It: Relearning Last-Layer Weights Improves Continual and Transfer Learning | Lapo Frati, Neil Traft, Jeff Clune and Nick Cheney 
+ M2415 | CLIP-based Cross-Level Semantic Interaction and Recombination Network for Composed Image Retrieval | Zhihang Liu, Qiang Huang and Yingying Zhu 
+ M2418 | Thresholded Lexicographic Ordered Multiobjective Reinforcement Learning | Alperen Tercan and Vinayak Prabhu 
+ M2421 | Machine Learning for Quantifier Selection in cvc5 | Jan Jakubuv, Mikolas Janota, Jelle Piepenbrock and Josef Urban 
+ M2424 | Learning a Mini-batch Graph Transformer via Two-stage Interaction Augmentation | Wenda Li, Kaixuan Chen, Shunyu Liu, Tongya Zheng, Wenjie Huang and Mingli Song 
+ M2436 | Channel Randomisation Methods for Zero-Shot Communication | Dylan Cope and Nandi Schoots 
+ M2439 | Informed Spectral Normalized Gaussian Processes for Trajectory Prediction | Christian Schlauch, Christian Wirth and Nadja Klein 
+ M2445 | ActivityGen: Extracting Enabled Activities from Screenshots | Harry H. Beyel, Sovin Manuel and Wil M. P. van der Aalst 
+ M2447 | StyleMamba: State Space Model for Efficient Text-driven Image Style Transfer | Zijia Wang and Zhi-Song Liu 
+ M2452 | Subsystem Discovery in High-Dimensional Time-Series Using Masked Autoencoders | Teemu Sarapisto, Haoyu Wei, Keijo Heljanko, Arto Klami and Laura Ruotsalainen 
+ M2477 | IFH: a Diffusion Framework for Flexible Design of Graph Generative Models | Samuel Cognolato, Alessandro Sperduti and Luciano Serafini 
+ M2479 | Discovering Bayesian Networks when Few Variables Matter | Madhumita Kundu, Pekka Parviainen and Saket Saurabh 
+ M2482 | BRECS: Enhanced Binary Representation of Word Embeddings via Cosine Similarity | Rajdeep Sarkar, Sourav Dutta and John P. McCrae 
+ M2485 | Neural Reward Machines | Elena Umili, Francesco Argenziano and Roberto Capobianco 
+ M2487 | An Empirical Study of Grounding PPDDL plans for AI-Driven Robots in Social Environment | Gloria Beraldo, Angelo Oddi and Riccardo Rasconi 
+ M2490 | stl2vec: Semantic and Interpretable Vector Representation of Temporal Logic | Gaia Saveri, Laura Nenzi, Luca Bortolussi and Jan Křetínský 
+ M2508 | Explaining a probabilistic prediction on the simplex with Shapley compositions | Paul-Gauthier Noé, Miquel Perello-Nieto, Jean-Francois Bonastre and Peter Flach 
+ M2539 | EthiX: A Dataset for Argument Scheme Classification in Ethical Debates | Elfia Bezou Vrakatseli, Oana Cocarascu and Sanjay Modgil 
+ M2559 | B2MAPO: A Batch-by-Batch Multi-Agent Policy Optimization to Balance Performance and Efficiency | Wenjing Zhang, Wei Zhang, Wenqing Hu and Yifan Wang 
+ M2563 | Domain-specific long text classification from sparse relevant information | Célia D'Cruz, Jean-Marc Bereder, Frédéric Precioso and Michel Riveill 
+ M2565 | The Degree of Fairness in Efficient House Allocation | Hadi Hosseini, Medha Kumar and Sanjukta Roy 
+ M2573 | CoTran: An LLM-based Code Translator using Reinforcement Learning with Feedback from Compiler and Symbolic Execution | Prithwish Jana, Piyush Jha, Haoyang Ju, Gautham Kishore, Aryan Mahajan and Vijay Ganesh 
+ M2580 | Decentralized Unlabeled Multi-agent Pathfinding Via Target And Priority Swapping | Stepan Dergachev and Konstantin Yakovlev 
+ M2590 | FedStale: leveraging stale updates in federated learning | Angelo Rodio and Giovanni Neglia 
+ M2597 | Evolving A∗ to Efficiently Solve the k Shortest-Path Problem | Carlos Linares Lopez and Ian Herman 
+ M2610 | NeurCAM: Interpretable Neural Clustering via Additive Models | Nakul Upadhya and Eldan Cohen 
+ M2613 | Reaching New Heights in Multi-Agent Collective Construction | Martin Rameš and Pavel Surynek 
+ M2624 | Ontology Text Alignment: Aligning Textual Content with Domain Terminology | Jieying Chen, Hang Dong, Jiaoyan Chen and Ian Horrocks 
+ M2626 | HBIC: A Biclustering Algorithm for Heterogeneous Datasets | Adán José-García, Julie Jacques, Clement Chauvet, Vincent Sobanski and Clarisse Dhaenens 
+ M2627 | Does Serendipity Enhance Recommendation Quality? Measuring Accuracy and Beyond-Accuracy Objectives of Serendipitous POI Suggestions | Imen Ben Sassi, Priit Järv and Sadok Ben Yahia 
+ M2629 | A Gale-Shapley View of Unique Stable Marriages | Kartik Gokhale, Amit Kumar Mallik, Ankit Kumar Misra and Swaprava Nath 
+ M2648 | Temporal Fairness in Decision Making Problems | Manuel Torres, Parisa Zehtabi, Michael Cashmore, Daniele Magazzeni and Manuela Veloso 
+ M2671 | An Axiomatic Perspective on Anomaly Detection | Chester Wyke and Ruth Urner 
+ M2672 | A Neural Rewriting System to Solve Algorithmic Problems | Flavio Petruzzellis, Alberto Testolin and Alessandro Sperduti 
+ M2676 | GABInsight: Exploring Gender-Activity Binding Bias in Vision-Language Models [not presented] | Ali Abdollahi, Mahdi Ghaznavi, Mohammad Reza Karimi Nejad, Arash Mari Oriyad, Reza Abbasi, Ali Salesi, Melika Behjati, Mohammad Hossein Rohban and Mahdieh Soleymani Baghshah 
+ M2683 | Revisiting the Dataset Bias Problem from a Statistical Perspective | Kien Do, Dung Nguyen, Hung Le, Thao Le, Dang Nguyen, Haripriya Harikumar, Truyen Tran, Santu Rana and Svetha Venkatesh 
+ M2686 | Learning Compositional, Time-Varying Neural Barrier Contracts | Matthew Low, Timothy E. Wang and Pierluigi Nuzzo 
+ M2693 | Deep Generative Models for Subgraph Prediction | Erfaneh Mahmoudzadeh, Parmis Naddaf, Kiarash Zahirnia and Oliver Schulte 
+ M2697 | Approximate Estimation of High-dimension Execution Skill for Dynamic Agents in Continuous Domains | Delma Nieves-Rivera and Christopher Archibald 
+ M2711 | Enhancing Stance Detection on Social Media via Core Views Discovery | Yu Yan, Yinghan Shen, Teli Liu, Xuhui Jiang and Dechun Yin 
+ M2719 | A More Practical Algorithm for Weighted First-Order Model Counting with Linear Order Axiom | Qiaolan Meng, Jan Tóth, Yuanhong Wang, Yuyi Wang and Ondřej Kuželka 
+ M2738 | Recovering implicit physics model under real world constraints | Ayan Banerjee and Sandeep Gupta 
+ M2744 | Progressive Artistic Aesthetic Enhancement For Chinese Ink Painting Style Transfer | Chihan Huang 
+ M2745 | Towards Unsupervised Model Validation | Lihi Idan 
+ M2804 | Mixup Your Own Latent: Efficient and Robust Self-Supervised Learning on Small Images | Eugene Yang, Hao Chen and Seokho Kang 
+ M2807 | Vanilla Gradient Descent for Oblique Decision Trees | Subrat Panda, Blaise Genest, Arvind Easwaran and Ponnuthurai Suganthan 
+ M2810 | Objective-Informed Diversity for Multi-Objective Multiagent Coordination | Gaurav Dixit and Kagan Tumer 
+ M2817 | REFINE-LM: Mitigating Language Model Stereotypes via Reinforcement Learning | Rameez Qureshi, Es-Sebbani Naïm, Luis Galárraga, Yvette Graham, Miguel Couceiro and Zied Bouraoui 
+ M2843 | A Logic for Policy Based Resource Exchanges in Multiagent Systems | Lorenzo Ceragioli, Pierpaolo Degano, Letterio Galletta and Luca Viganò 
+ M2850 | Contextually Adaptive Algorithms for Gaussian Process Bandit Optimization under Heavy-tailed Noise | Hyeonjun Park and Kyungjae Lee 
+ M2856 | No Transaction Fees? No Problem! Achieving Fairness in Transaction Fee Mechanism Design | Sankarshan Damle, Varul Srivastava and Sujit Gujar 
+ M2867 | Measuring User Understanding in Dialogue-based XAI Systems | Dimitry Mindlin, Amelie Robrecht, Michael Morasch and Philipp Cimiano 
+ M2887 | Is Contrasting All You Need? Contrastive Learning for the Detection and Attribution of AI-generated Text | Lucio La Cava, Davide Costa and Andrea Tagarelli 
+ M2894 | Few-Shot Object Detection with Instance Feature Generation and Hybrid Contrastive Learning | Yuhui Wang, Bo Peng, Tianyi Qin, Jiahui Song and Xu Zhang 
+ M2901 | CAGDR: Confidence-based Acceleration of Generative Document Retrieval | Rui Fang, Chin-Yuan Yeh, Hsi-Wen Chen and Ming-Syan Chen 
+ M2906 | Quantifying a Causal Effect from a CPDAG with Targeted Exogenous Causal Knowledge | Mahdi Hadj Ali, Yann Le Biannic and Pierre-Henri Wuillemin 
+ M2909 | Unlocking Efficiency: Adaptive Masking for Gene Transformer Models | Soumyadeep Roy, Shamik Sural and Niloy Ganguly 
+ M2915 | Exploring Large Language Models Text Style Transfer Capabilities | Weijie Li, Zhentao Gu, Xiaochao Fan, Wenjun Deng, Yong Yang, Xinyuan Zhao, Yufeng Diao and Liang Yang 
+ M2932 | Dynamic Multimodal Prompt Tuning: Boost Few-shot Learning with VLM-Guided Point Cloud Models | Xiang Gu, Shuchao Pang, Anan Du, Yifei Wang, Jixiang Miao and Jorge Díez 
+ M2939 | Improving The Performance of Transformer-based Models Over Classical Baselines in Multiple Transliterated Languages | Fahim Ahmed, Md Fahim, Md Ashraful Amin, Amin Ahsan Ali and Akm Mahbubur Rahman 
+
+ Journal Track  
+
+ ID | Title | Authors 
+ J1 | Levi and Harper Identities for Non-prioritized Belief Base Change | Marco Garapa, Eduardo Fermé and Maurício Reis 
+ J2 | DeepSym: Deep Symbol Generation and Rule Learning for Planning from Unsupervised Robot Interaction | Alper Ahmetoglu, M. Yunus Seker, Justus Piater, Erhan Oztop and Emre Ugur 
+ J3 | Object-agnostic Affordance Categorization via Unsupervised Learning of Graph Embeddings | Alexia Toumpa and Anthony G. Cohn 
+ J4 | A k-additive Choquet Integral-based Approach to Approximate the SHAP Values for Local Interpretability in Machine Learning | Guilherme Pelegrina, Leonardo Duarte and Michel Grabisch 
+ J5 | Lifted Reasoning for Combinatorial Counting | Pietro Totis, Jesse Davis, Luc de Raedt and Angelika Kimmig 
+ J6 | An Attention Model for the Formation of Collectives in Real-World Domains | Adrià Fenoy, Filippo Bistaffa and Alessandro Farinelli 
+ J7 | Undesirable Biases in NLP: Addressing Challenges of Measurement | Oskar van der Wal, Dominik Bachmann, Alina Leidinger, Leendert van Maanen, Willem Zuidema and Katrin Schulz 
+ J8 | Dealing with Expert Bias in Collective Decision-making | Axel Abels, Tom Lenaerts, Vito Trianni and Ann Nowé 
+ J9 | Polarized Message-Passing in Graph Neural Networks | Tiantian He, Yang Liu, Yew-Soon Ong, Xiaohu Wu and Xin Luo 
+ J10 | Multi-Objective Reinforcement Learning Based on Decomposition: A Taxonomy and Framework | Florian Felten, El-Ghazali Talbi and Grégoire Danoy 
+ J11 | Iterative Train Scheduling under Disruption with Maximum Satisfiability | Alexandre Lemos, Filipe Gouveia, Pedro T. Monteiro and Inês Lynce 
+ J12 | Right Place, Right Time: Proactive Multi-Robot Task Allocation Under Spatiotemporal Uncertainty | Charlie Street, Bruno Lacerda, Manuel Mühlig, Nick Hawes 
+ J13 | Functional Relation Field: A Model-Agnostic Framework for Multivariate Time Series Forecasting | Ting Li, Bing Yu, Jianguo Li, Guoli Yang and Zhanxing Zhu 
+ J14 | Dynamic Controllability of Temporal Plans in Uncertain and Partially Observable Environments | Arthur Bit-Monnot and Paul Morris 
+
+ Demo Track  
+
+ ID | Title | Authors 
+ D1 | EVIDENT: Enhanced Visualization and Design Integration from Textual Edits and Prompts | Miguel Escarda Fernández, Xin Lin, Iñigo López-Riobóo Botana and Sonia González Vázquez 
+ D7 | Device-Specific Facial Descriptors: Winning a Lottery with a SuperNet | Andrey Savchenko, Dmitry Maslov and Ilya Makarov 
+ D11 | Gas Grid Copilot: Can a MORL agent assist a dispatcher in managing a gas grid? | Alexander Schiendorfer, Gheorghe Lisca, Karima Outafraout, Lilia Michailov, Pascal Kätzel and Rudolf Felix 
+ D13 | Assisted Debate Builder with Large Language Models | Elliot Faugier, Frédéric Armetta, Angela Bonifati and Bruno Yun 
+ D15 | Answerable Sociotechnical Systems | Dilara Keküllüoğlu, Michael Rovatsos and Nadin Kokciyan 
+ D16 | ANTIDOTE: ArgumeNtaTIon-Driven explainable artificial intelligence fOr digiTal mEdicine | Cristian Cardellino, Theo Collias, Benjamin Molinet, Erwan Hain, Wei Sun, Rodrigo Agerri, Serena Villata and Elena Cabrio 
+ D21 | PEACE: Providing Explanations and Analysis for Combating Hate Expressions | Greta Damo, Nicolás Benjamín Ocampo, Elena Cabrio and Serena Villata 
+ D24 | EEG-based fMRI digital twin: towards a cheap and ecological approach to measure subcortical brain activity | Nikolay Dagaev, Ilia Semenkov and Alexei Ossadtchi 
+ D31 | AI-powered virtual reality system for training wrist amputees to use advanced prosthetic solutions | Vladislav Aksiotis, Oleg Sazonov, Kamila Nasrulina, Daria Medvedeva, Uliya Nekrasova and Alexei Ossadtchi 
+ D36 | Nissist: An Incident Mitigation Copilot based on Troubleshooting Guides | Kaikai An, Fangkai Yang, Junting Lu, Liqun Li, Zhixing Ren, Hao Huang, Lu Wang, Pu Zhao, Yu Kang, Hua Ding, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang and Qi Zhang 
+ D40 | A SAM based Tool for Semi-Automatic Food Annotation | Lubnaa Abdur Rahman, Ioannis Papathanail, Lorenzo Brigato and Stavroula Mougiakakou 
+ D43 | CA-SER: Cross-Attention Feature Fusion for Speech Emotion Recognition | Bashar M. Deeb, Andrey Savchenko and Ilya Makarov 
+ D44 | STV+FLY: On-the-Fly Model Checking of Strategic Ability in Multi-Agent Systems | Mateusz Kamiński, Damian Kurpiewski and Wojtek Jamroga 
+ D46 | A Demonstration of AI Personalized Interactive Fiction for Young Children | Jasmine Lesner, Luke Murayama, Tony Guizar, Poom Phunjamaneechot and Daniel Shapiro 
+ D47 | AI-Powered Immersive Assistance for Interactive Task Execution in Industrial Environments | Tomislav Duricic, Peter Müllner, Nicole Weidinger, Neven Elsayed, Dominik Kowald and Eduardo Veas 
+ D48 | KGPrune: a Web Application to Extract Subgraphs of Interest from Wikidata with Analogical Pruning | Pierre Monnin, Cherif-Hassan Nousradine, Lucas Jarnac, Laurel Zuckerman and Miguel Couceiro 
+ D50 | InsideOut: Unifying Emotional LLMs to Foster Empathy | Mikhail Mozikov, Nikita Severin, Maria Glushanina, Mikhail Baklashkin, Andrey Savchenko and Ilya Makarov 
+ D53 | UCCIX: Irish-eXcellence Large Language Model | Khanh-Tung Tran, Barry O'Sullivan and Hoang D. Nguyen 
+
+ PAIS  
+
+ ID | Title | Authors 
+ P2 | Equipment Condition-Integrated Predictive Modeling for Optimized Scheduling of Ion Implantation in Semiconductor Manufacturing | Andreas Laber, Martin Gebser and Konstantin Schekotihin 
+ P6 | A Robust and Scalable Approach to Meet User Preferences in Research Project Planning | Roger Lera-Leri and Filippo Bistaffa 
+ P18 | Interactive Example-based Explanations to Improve Health Professionals' Onboarding with AI for Human-AI Collaborative Decision Making | Min Hun Lee, Renee Bao Xuan Ng, Silvana Xinyi Choo and Shamala Do Thilarajah 
+ P21 | A predictive model for risk management of the hospitalised patient as a clinical decision support system | Isabel Benlloch-Blasco, Stella Heras, Javier Palanca, Vicent Botti, Antonio Ruiz, Isabel Miguel and Mª Isabel Marmol Lopez 
+ P22 | An Intelligent Pipeline for Localization of Industrial Components in Robotic Manufacturing Applications | Parth Rawal, Daniel Valencia and Wolfgang Hintze 
+ P25 | More (enough) is Better: Towards Few-Shot Illegal Landfill Waste Segmentation | Matias Molina, Carlos Ferreira, Bruno Veloso, Rita P. Ribeiro and João Gama 
+ P30 | Automatic Motor Imagery classification by CNN-Transformer-LSTM using multi-channel EEG signals | Duc Thien Pham and Roman Mouček 
+ P35 | Large Language Models for Question Answering over Proprietary Data | Dario Garigliotti, Bjarte Johansen, Jakob Vigerust Kallestad, Seong-Eun Cho and Cesar Ferri 
+ P36 | Enhancing Decision-Making in Energy Management Systems through Action-Independent Dynamics Learning | Théo Zangato, Aomar Osmani and Pegah Alizadeh 
+ P37 | Predicting Solar Heat Production to Optimize Renewable Energy Usage | Tatiana Boura, Natalia Koliou, George Meramveliotakis, Stasinos Konstantopoulos and George Kosmadakis 
+ P43 | Constrained LLM-based Query Generation for Question Answering on Official Statistics | Jonas Kouwenhoven, Lucas Lageweg and Benno Kruit 
+ P45 | License plate images generation with diffusion models | Mariia Shpir, Nadiya Shvai and Amir Nakib 
+ P46 | Entity Matching Across Small Networks Using Node Attributes | Zahra Ahmadi, Zijian Zhang, Hoang H. Nguyen, Sergio Burdisso, Srikanth Madikeri, Petr Motlicek, Erinc Dikici, Gerhard Backfried, Marek Kovac, Kvetoslav Maly and Daniel Kudenko 
+ P47 | Novelty Accommodating Multi-Agent Planning in High Fidelity Simulated Open World | James Chao, Wiktor Piotrowski, Roni Stern, Héctor Ortiz-Peña, Mitch Manzanares, Shiwali Mohan and Douglas Lange 
+ P48 | A Data-Driven Approach Supporting Location Decisions for Docking Stations in Bike-Sharing Systems | Blerina Spahiu, Daniela Briola, Riccardo Sartori and Giuseppe Vizzari 
+ P49 | iSee: Advancing Multi-Shot Explainable AI Using Case-based Recommendations | Anjana Wijekoon, Nirmalie Wiratunga, David Corsar, Kyle Martin, Ikechukwu Nkisi-Orji, Chamath Palihawadana, Marta Caro-Martínez, Belen Díaz-Agudo, Derek Bridge and Anne Liret 
+ P52 | Automated Impact Echo Spectrum Classification using U-Net Autoencoder | Artur Liebert, Fabian Dethof, Sylvia Keßler and Oliver Niggemann 
+ P53 | GIF: An Automated Genomic Information Finder to Extract Data from Reports | Pavithra Rajendran, Alexandros Zenonos, Sebin Sabu, Anastasia Spiridou, Helena Spiridou Goncalves, Nastazja Laskowski, Daniel Key, Shiren Patel, Rebecca Pope and Neil Sebire 
+ P54 | ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model | Zhiwei Liu, Boyang Liu, Paul Thompson, Kailai Yang and Sophia Ananiadou 
+ P57 | Graphite: A Graph-based Extreme Multi-Label Short Text Classifier for Keyphrase Recommendation | Ashirbad Mishra, Soumik Dey, Jinyu Zhao, Hansi Wu, Binbin Li and Kamesh Madduri 
+ P60 | Enhancing Manufacturing Knowledge Access with LLMs and Context-aware Prompting | Sebastian Monka, Stefan Schmid, Irlan Grangel-Gonzalez, Lavdim Halilaj, Marc Rickart, Oliver Rudolph and Rui Dias 
+ P62 | Improving Process Yield through Manufacturing Digital Twin using Conditional Synthetic Data Engine (COSYNE) | Shantanu Chandra, Matthieu Duvinage, Pks Prakash, Patrick Davis and Sander Timmer 
+ P64 | Estimating the Time of Arrival of a Shipment with Machine Learning | Francesco Gibellini, Bart van Gool, Murat Firat and Stefano Bromuri 
+ P68 | Federated Online Learning for Heavy Hitter Detection | Paula Silva, João Vinagre and Joao Gama 
+ P70 | Frisbees and Dogs: Domain Adaptation For Object Detection with Limited Labels in Rugby Data | Will Connors, Ellen Rushe and Anthony Ventresque 
+ P73 | Match'In - Pilot project of an algorithm-based decision support system for individualized recommendations of municipalities for the integration of refugees | Christian Sauer, Carsten Wenzel, Katharina Euler, Sonja Reinhold, Frank Wuttke and Björn Oitmann 
+ P76 | Reverse engineering of vinyl acetate polymerizations by genetic algorithm-based multi-objective optimization | Jelena Fiosina, Philipp Sievers, Marco Drache and Sabine Beuermann 
+ P80 | X-Vent: ICU Ventilation with Explainable Model-Based Reinforcement Learning | Farhad Safaei, Miloš Nenadović, Roman Liessner, Raphael Theilen, Jakob Wittenstein, Jens Lehmann and Sahar Vahdati 
+ P85 | Adaptive Context Embedding for Temperature Prediction in Residential Buildings | Sai Sushanth Varma Kalidindi, Hadi Banaee, Hans Karlsson and Amy Loutfi 
+ P86 | Leveraging User-Generated Reviews for Recommender Systems with Dynamic Headers | Shanu Vashishtha, Abhay Kumar, Lalitesh Morishetti, Kaushiki Nag and Kannan Achan 
+ P87 | Fuzzy Ensemble Learning and Lightweight CNN for stress classification | Katarzyna Baran 
+ P88 | Physics-Assisted Explainable Anomaly Detection in Power Systems | Matthew Lau, Fahad Alsaeed, Kayla Thames, Nano Suresettakul, Saman Zonouz, Wenke Lee and Athanasios P Meliopoulos 
+ P90 | AI Personalized Interactive Fiction for Young Children | Jasmine Lesner, Luke Murayama, Tony Guizar, Poom Phunjamaneechot and Daniel Shapiro 
+ P93 | Generative Pretrained Embedding and Hierarchical Irregular Time Series Representation for Daily Living Activity Recognition | Damien Bouchabou and Sao Mai Nguyen 
+ P101 | Label Attention Network for Temporal Sets Prediction: You Were Looking at a Wrong Self-Attention | Elizaveta Kovtun, Galina Boeva, Andrey Shulga and Alexey Zaytsev 
+
+ SPONSORSHIP  
+   
+ THANK YOU TO OUR SPONSORS!  
+ Thanks to the sponsors who are already supporting ECAI2024. Together we are making Santiago de Compostela the world capital of AI during 19-24 October 2024.  
+ Main Partners  
+
+ Platinum Sponsors  
+
+ Gold Sponsors  
+
+ Silver Sponsors  
+
+ Bronze Sponsors  
+
+ Institutional Sponsorships  
+
+ Organised by  
+
+ Hosted by  
+
+ Media accreditation & Press Inquiries  
+ If you are a journalist interested in covering the ECAI 2024 conference, please contact our press office for media relations. We will assist you with any inquiries and guide you through the accreditation process to obtain your press pass for the event.  
+ Contact us at   
+     press@ecai2024.eu     +34 881 81 64 11    
+   
+ we are listening  
+        I have read and agree to the PRIVACY POLICY   Send    
+
+ Contact  e-mail: technicalsecretariat@ecai2024.eu    
+  Follow us    
+   
+ Pictures courtesy of Fundación Cidade da Cultura and Santiagoturismo    
+   
+ 2023 © 27th European Conference on Artificial Intelligence ECAI 2024  Privacy policy & Cookie policy    
+
+  

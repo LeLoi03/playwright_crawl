@@ -1,0 +1,316 @@
+CGO 2025   Sat 1 - Wed 5 March 2025 Las Vegas, Nevada, United States    
+
+ Toggle navigation        
+ Attending | Code of Conduct 
+  Venue 
+  Calls | CGO 2025 
+  Artifact Evaluation 
+  Main Conference 
+  Student Research Competition 
+  Workshops and Tutorials 
+  Organization | CGO 2025 Committees 
+  Organizing Committee 
+  Steering Committee 
+  Track Committees 
+  Artifact Evaluation 
+  Main Conference 
+  Student Research Competition 
+  Workshops and Tutorials 
+  Contributors 
+  People Index 
+  Search 
+  Series | Series 
+   CGO 2025 
+  CGO 2024 
+  CGO 2023 
+  CGO 2022 
+  CGO 2021 
+   CGO 2020 
+  CGO 2019 
+  CGO 2018 
+  CGO 2017 
+  CGO 2016 
+  CGO 2015 
+  CGO 2014 
+  CGO 2013 
+  CGO 2012 
+  CGO 2011 
+  CGO 2010 
+  CGO 2009 
+  CGO 2008 
+  CGO 2007 
+  CGO 2006 
+  CGO 2005 
+  CGO 2004 
+  CGO 2003 
+  Sign in 
+  Sign up 
+
+  CGO 2025  ( series  ) /  Main Conference CGO 2025   
+   
+ Call for Papers 
+  Submission Information 
+  Call for Papers  
+  
+ IEEE/ACM International Symposium on Code Generation and Optimization (CGO)   
+ Co-located with PPoPP, HPCA and CC   
+ Las Vegas, USA   
+ The International Symposium on Code Generation and Optimization (CGO’25) will be held in Las Vegas, USA. CGO is the premier venue to bring together researchers and practitioners working at the interface of hardware and software on a wide range of optimization and code generation techniques and related issues. The conference spans the spectrum from purely static to fully dynamic approaches, and from pure software-based methods to specific architectural features and support for code generation and optimization.  
+  CGO now uses two submissions per year.   
+  This follows the model established by other conferences in our field in recent years, such as ASPLOS and OOPSLA. Papers submitted to the first round can either be directly accepted, rejected, or invited to submit a revised version of the paper to the second round. Papers rejected in the first round may not be submitted to the second round. For papers invited to submit a revised version, authors will be given a list of revisions that should be acted on to improve the paper. We will make every effort to ensure that the revised paper is reviewed by the same reviewers (and possibly additional reviewers), who will assess whether the revisions are satisfactory. If so, the paper will be accepted. If the revised paper is rejected, the authors may submit a further revised version in a subsequent round, which will be treated as a new submission.  
+  First Submission Deadline   
+ Paper Submission: May 30, 2024 
+  Author Rebuttal Period: July 9-11, 2024 
+  Paper Notification: July 22, 2024 
+  Second Submission Deadline   
+ Paper Submission: September 12, 2024 
+  Author Rebuttal Period: October 22 - 24, 2024 
+  Paper Notification: November 4, 2024 
+  Contacts:   
+ Hugh Leather - Meta – | hleather@meta.com 
+  P. (Saday) Sadayappan – University of Utah – | saday@cs.utah.edu 
+   Topics   
+ Original contributions are solicited on, but not limited to, the following topics:  
+ Code Generation, Translation, Transformation, and Optimization for performance, energy, virtualization, portability, security, or reliability concerns, and architectural support 
+  Efficient execution of dynamically typed and higher-level languages 
+  Optimization and code generation for emerging programming models, platforms, domain-specific languages 
+  Dynamic/static, profile-guided, feedback-directed, and machine learning-based optimization 
+  Static, Dynamic, and Hybrid Analysis for performance, energy, memory locality, throughput or latency, security, reliability, or functional debugging 
+  Program characterization methods 
+  Profiling and instrumentation techniques; architectural support 
+  Novel and efficient tools 
+  Compiler design, practice and experience 
+  Compiler abstraction and intermediate representations 
+  Vertical integration of language features, representations, optimizations, and runtime support for parallelism 
+  Solutions that involve cross-layer (HW/OS/VM/SW) design and integration 
+  Deployed dynamic/static compiler and runtime systems for general purpose, embedded system and Cloud/HPC platforms 
+  Parallelism, heterogeneity, and reconfigurable architectures 
+  Optimizations for heterogeneous or specialized targets, GPUs, SoCs, CGRA and Quantum Computers 
+  Compiler support for vectorization, thread extraction, task scheduling, speculation, transaction, memory management, data distribution and synchronization 
+  Standard research papers must be written in the ACM format  (use the sample-sigplan.tex template), and may have up to 11 pages, references excluded. Supplementary materials may be included as an Appendix at the end of the submitted paper. The Appendix has no page limit, but the text of the full paper excluding the Appendix must fit within 11 pages. Reviewers are not required to read the Appendix and may do so at their discretion. So papers must be self-contained without needing to read any material in the Appendix.  
+ Please ensure that you and your co-authors obtain an ORCID ID, so you can complete the publishing process for your accepted paper. ACM has been involved in ORCID from the start and we have recently made a commitment to collect ORCID IDs from all of our published authors  . We are committed to improve author discoverability, ensure proper attribution and contribute to ongoing community efforts around name normalization; your ORCID ID will help in these efforts.  
+ By submitting your article to an ACM Publication, you are hereby acknowledging that you and your co-authors are subject to all ACM Publications Policies  , including ACM’s new Publications Policy on Research Involving Human Participants and Subjects  . Alleged violations of this policy or any ACM Publications Policy will be investigated by ACM and may result in a full retraction of your paper, in addition to other potential penalties, as per ACM Publications Policy.  
+  Call for Tool and Practical Experience Papers   
+ CGO has a second category of papers called “Tools and Practical Experience”. Papers in this category must either give a clear account of a tool’s functionality or summarize a practical experience with realistic case studies.  
+ The successful evaluation of an artifact is mandatory for a Tool Paper.   
+  Therefore, authors of work conditionally accepted as Tool Papers must submit an artifact to the Artifact Evaluation Committee. The successful evaluation of the artifact is a requirement for final acceptance.  
+ Practical experience papers are encouraged, but not required, to submit an artifact to the Artifact Evaluation process.   
+ The selection criteria for papers in this category are:  
+ Originality: Papers should present CGO-related technologies applied to real-world problems with scope or characteristics that set them apart from previous solutions. 
+  Usability: The presented Tools or compilers should have broad usage or applicability. They are expected to assist in CGO-related research, or could be extended to investigate or demonstrate new technologies. If significant components are not yet implemented, the paper will not be considered. 
+  Documentation: The tool or compiler should be presented on a web-site giving documentation and further information about the tool. 
+  Benchmark Repository: A suite of benchmarks for testing should be provided. 
+  Availability: The tool or compiler should be available for public use. 
+  Foundations: Papers should incorporate the principles underpinning Code Generation and Optimization (CGO). However, a thorough discussion of theoretical foundations is not required; a summary of such should suffice. 
+  Artifact Evaluation: The submitted artifact must be functional and support the claims made in the paper. Submission of an artifact is mandatory for papers presenting a tool. 
+  Tool and Practical Experience papers abide by the same limit of 11 pages in the ACM format  , references excluded, and are not distinguished in the final proceedings. We encourage shorter submissions that give account of how scientific ideas have been incorporated and used in practice.  
+  Geographic Diversity and Inclusion   
+ Authors of papers accepted for CGO 2025 are encouraged to present their work in person. However, to foster the participation of students and professionals from everywhere, CGO 2025 will allow the remote presentation of papers, if their authors are unable to travel to the conference venue for reasons beyond their control (e.g. visa issues). Additionally, the conference organization will try to make attendance of CGO 2025 affordable for as many people as possible, with a specific focus on students from universities located in under-represented countries who are paper authors.  
+  Artifact Evaluation   
+ The Artifact Evaluation process is run by a separate committee whose task is to assess how the artifacts support the work described in the papers. This process contributes to improved reproducibility in research that should be a great concern to all of us. There is also some evidence that papers with a supporting artifact receive higher citations than papers without artifact evaluation. Authors of accepted papers at CGO have the option of submitting their artifacts for evaluation within two weeks of paper acceptance. To ease the organization of the AE committee, we kindly ask authors to indicate at the time they submit the paper, whether they are interested in submitting an artifact. Papers that go through the Artifact Evaluation process successfully will receive a seal of approval printed on the papers themselves. Additional information is available on the CGO AE web page. Authors of accepted papers are encouraged, but not required, to make these materials publicly available upon publication of the proceedings.  
+  AUTHORS TAKE NOTE: The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to two weeks prior to the first day of your conference. The official publication date affects the deadline for any patent filings related to published work.  
+  Distinguished Paper Awards   
+ Up to 10% of papers accepted at CGO 2025 will be designated as Distinguished Papers, following the ACM policy. This award is open to both regular and tool papers.  
+
+ Submission Information  
+   
+ Submission Site   
+ Papers can be submitted at https://cgo25-second-round.hotcrp.com/  .  
+ Submission Guidelines   
+ Please make sure that your paper satisfies ALL of the following requirements before it is submitted:  
+ The paper must be original material  that has not been previously published in another conference or journal, nor is currently under review by another conference or journal. Note that you may submit material presented previously at a workshop without copyrighted proceedings. 
+  Your submission is limited to eleven (11) letter-size (8.5"x11"), single-spaced, double-column pages  , using 10pt or larger font  , not including references. There is no page limit for references  . We strongly encourage the use of the ACM Conference Template  (use the sample-sigplan.tex template). Submissions not adhering to these submission guidelines may be outright rejected at the discretion of the program chairs. (Please make sure your paper prints satisfactorily on letter-size (8.5"x11") paper: this is especially important for submissions from countries where A4 paper is standard.) 
+  Supplementary materials may be included as an Appendix at the end of the submitted paper. The Appendix has no page limit, but the text of the full paper excluding the Appendix must fit within 11 pages. Reviewers are not required to read the Appendix and may do so at their discretion. So papers must be self-contained without needing to read any material in the Appendix. 
+  Papers are to be submitted for double-blind review  . Blind reviewing of papers will be done by the program committee, assisted by outside referees. Author names as well as hints of identity are to be removed from the submitted paper. Use care in naming your files. Source file names, e.g., Joe.Smith.dvi, are often embedded in the final output as readily accessible comments. In addition, do not omit references to provide anonymity, as this leaves the reviewer unable to grasp the context. Instead, if you are extending your own work, you need to reference and discuss the past work in third person, as if you were extending someone else’s research. We realize in doing this that for some papers it will still be obvious who the authors are. In this case, the submission will not be penalized as long a concerted effort was made to reference and describe the relationship to the prior work as if you were extending someone else’s research. For example, if your name is Joe Smith: | In previous work [1,2], Smith presented a new branch predictor for …. In this paper, we extend their work by …  
+ Bibliography  
+ [1] Joe Smith, “A Simple Branch Predictor for …,” Proceedings of CGO 2019.  
+ [2] Joe Smith, “A More Complicated Branch Predictor for…,” Proceedings of CGO 2019. 
+  Your submission must be formatted for black-and-white printers and not color printers. This is especially true for plots and graphs in the paper. 
+  Please make sure that the labels on your graphs are readable without the aid of a magnifying glass. Typically the default font sizes on the graph axes in a program like Microsoft Excel are too small. 
+  Please number the pages. 
+  The paper must be written in English. 
+  The paper must be submitted in PDF. We cannot accept any other format, and we must be able to print the document just as we receive it. We strongly suggest that you use only the four widely-used printer fonts: Times, Helvetica, Courier and Symbol. Please make sure that the output has been formatted for printing on LETTER size paper. If generating the paper using “dvips”, use the option “-P cmz -t letter”, and if that is not supported, use “-t letter”. 
+  The Artifact Evaluation process is run by a separate committee whose task is to assess how the artifacts support the work described in the papers. Authors of accepted papers have the option of submitting their artifacts for evaluation within one week of paper acceptance. To ease the organization of the AE committee, we kindly ask authors to indicate at the time they submit the paper, whether they are interested in submitting an artifact. Papers that go through the Artifact Evaluation process successfully will receive a seal of approval printed on the papers themselves. Additional information is available on the CGO AE web page. Authors of accepted papers are encouraged, but not required, to make these materials publicly available upon publication of the proceedings. 
+  Authors must register all their conflicts on the paper submission site  . Conflicts are needed to ensure appropriate assignment of reviewers. If a paper is found to have an undeclared conflict that causes a problem OR if a paper is found to declare false conflicts in order to abuse or “game” the review system, the paper may be rejected. 
+  Please declare a conflict of interest with the following people for any author of your paper: | Your Ph.D. advisor(s), post-doctoral advisor(s), Ph.D. students, and post-doctoral advisees, forever. 
+  Family relations by blood or marriage, or their equivalent, forever (if they might be potential reviewers). 
+  People with whom you have collaborated in the last FIVE years, including: 
+  Co-authors of accepted/rejected/pending papers. 
+  Co-PIs on accepted/rejected/pending grant proposals. 
+  Funders (decision-makers) of your research grants, and researchers whom you fund. 
+  People (including students) who shared your primary institution(s) in the last FIVE years. 
+  Other relationships, such as close personal friendship, that you think might tend to affect your judgment or be seen as doing so by a reasonable person familiar with the relationship. 
+  “Service” collaborations such as co-authoring a report for a professional organization, serving on a program committee, or co-presenting tutorials, do not themselves create a conflict of interest. Co-authoring a paper that is a compendium of various projects with no true collaboration among the projects does not constitute a conflict among the authors of the different projects. 
+  On the other hand, there may be others not covered by the above with whom you believe a COI exists, for example, an ongoing collaboration that has not yet resulted in the creation of a paper or proposal. Please report such COIs; however, you may be asked to justify them. Please be reasonable. For example, you cannot declare a COI with a reviewer just because that reviewer works on topics similar to or related to those in your paper. The PC Chair may contact co-authors to explain a COI whose origin is unclear. 
+
+ Important Dates   AoE (UTC-12h)     
+
+ Mon 4 Nov 2024  
+  R2: Author Notification 
+ Tue 22 - Thu 24 Oct 2024  
+  R2: Author Rebuttal 
+ Thu 12 Sep 2024   
+  R2: Submission Deadline 
+ Mon 22 Jul 2024  
+  R1: Author Notification 
+ Tue 9 - Thu 11 Jul 2024  
+  R1: Author Rebuttal 
+ Thu 30 May 2024   
+  R1: Submission Deadline 
+
+ Submission Link   
+   
+   https://cgo25-second-round.hotcrp.com/     
+   
+ Program Committee    
+   
+ Hugh Leather Co-chair    
+ Facebook 
+  Saday Sadayappan Co-chair    
+ University of Utah, USA 
+  Andrew Adams    
+ Adobe Research 
+  Saman Amarasinghe    
+ Massachusetts Institute of Technology   
+ United States 
+  Tal Ben-Nun    
+ Lawrence Livermore National Laboratory   
+ United States 
+  Milind Chabbi    
+ Uber Technologies   
+ United States 
+  Albert Cohen    
+ Google DeepMind   
+ France 
+  Huimin Cui    
+ Institute of Computing Technology, Chinese Academy of Sciences   
+ China 
+  Maryam Mehri Dehnavi    
+ University of Toronto   
+ Canada 
+  Christophe Dubach    
+ McGill University   
+ Canada 
+  Anderson Faustino da Silva    
+ State University of Maringá   
+ Brazil 
+  Björn Franke    
+ University of Edinburgh   
+ United Kingdom 
+  Laure Gonnord    
+ Université Grenoble-Alpes - Grenoble INP - LCIS   
+ France 
+  R. Govindarajan    
+ IISC 
+  Rajiv Gupta    
+ University of California at Riverside (UCR)   
+ United States 
+  Sebastian Hack    
+ Saarland University, Saarland Informatics Campus   
+ Germany 
+  Bastian Hagedorn    
+ NVIDIA   
+ Germany 
+  Wei-Chung Hsu    
+ Intel, USA 
+  Abhinav Jangda    
+ Microsoft Research   
+ United States 
+  Shoaib Kamil    
+ Adobe Research 
+  Mahmut Taylan Kandemir    
+ Pennsylvania State University   
+ United States 
+  Fredrik Kjolstad    
+ Stanford University   
+ United States 
+  Martin Kong    
+ Ohio State University   
+ United States 
+  Milind Kulkarni    
+ Purdue University   
+ United States 
+  Lian Li    
+ Institute of Computing Technology at Chinese Academy of Sciences; University of Chinese Academy of Sciences   
+ China 
+  Xu Liu    
+ North Carolina State University   
+ United States 
+  Scott Mahlke    
+ University of Michigan 
+  Vanderson Martins do Rosario    
+ Cadence Design Systems 
+  Stephen McCamant    
+ University of Minnesota, USA 
+  Santosh Nagarakatte    
+ Rutgers University   
+ United States 
+  Yongjun Park    
+ Yonsei University 
+  Pavlos Petoumenos    
+ University of Manchester   
+ United Kingdom 
+  Louis-Noël Pouchet    
+ Colorado State University, USA 
+  Isabelle Puaut    
+ Université de Rennes - Inria - CNRS - IRISA   
+ France 
+  Bin Ren    
+ William & Mary   
+ United States 
+  Atanas Rountev    
+ Ohio State University 
+  Volker Seeker    
+ Meta AI Research   
+ United States 
+  Xipeng Shen    
+ North Carolina State University   
+ United States 
+  Tatiana Shpeisman    
+ Modular 
+  Aravind Sukumaran-Rajam    
+ Meta 
+  Kirshanthan Sundararajah    
+ Virginia Tech   
+ United States 
+  Antonino Tumeo    
+ Pacific Northwest National Laboratory   
+ United States 
+  Ramakrishna Upadrasta 
+  Wenwen Wang    
+ University of Georgia   
+ United States 
+  Zheng Wang    
+ University of Leeds, UK 
+  Yufan Xu    
+ Uber Technologies 
+  Jingling Xue    
+ UNSW Sydney   
+ Australia 
+  Jidong Zhai    
+ Tsinghua University 
+  Keren Zhou    
+ George Mason University 
+  Oleksandr Zinenko    
+ Google DeepMind   
+ France 
+
+ x  Wed 4 Dec 12:50    
+
+  CGO 2025   
+  contact form    
+  using conf.researchr.org  ( v1.67.1  )  
+   Support page    
+     
+ CGO 2025  
+ Artifact Evaluation   
+  Main Conference   
+  Student Research Competition   
+  Workshops and Tutorials    
+
+ Attending  
+ Code of Conduct   
+  Venue    
+ Sign Up    
+
+  

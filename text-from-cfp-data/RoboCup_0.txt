@@ -1,0 +1,288 @@
+Skip to content  RoboCup Humanoid League   
+
+ Menu   
+ The League | Achievements 
+  Events 
+  History 
+  Materials | Rules 
+  Media 
+  Downloads 
+  Open Source | ￼Open Source Repositories 
+  Virtual Humanoid Soccer Competition 
+  Publications 
+  RoboCup 2025 | Committees 
+  Special Offers 
+  Call for Participation 
+  Events | RoboCup 2024 | Committees 
+  Special Offers 
+  Call for Participation RC 2024 
+  Qualified Teams for RC 2024 
+  Schedule and Results RC-HL 2024 | Drop-In Games 
+  Kid and Adult Sizes Games 
+  Technical and Software Challenges 
+  RoboCup 2023 | Committees 
+  Call for Participation 
+  Teams 
+  Results –2023 | Drop-In Games 
+  Technical and Software Challenges 
+  Kid and Adult Sizes Games 
+  Special Offers 
+  Virtual Season 2022/23 | Call For Participation 
+  Schedule for the Humanoid League Virtual Season 2022/23 
+  HLVS Workshops | Call For Participation 
+  HLVS Program 
+  RoboCup 2022 | Committees 
+  Call For Participation 
+  Teams 
+  Results 
+  Satellite Event 
+  Special Offers 
+  Additional Materials 
+  Virtual Season 21/22 | Call for Participation 
+  Teams 
+  Schedule & Results 
+  Workshops | Call for Workshop Proposals 
+  Workshops Program 
+  RoboCup 2021 | Committees 
+  Call for Participation 
+  Virtual Humanoid Soccer Competition 
+  Time Schedule 
+  Teams 
+  Mock-Comp 
+  Schedule and Results for RoboCup 2021 
+  Virtual RoHOW 2020 | Call for Activities 
+  CfP Humanoid Open Soccer Competition 
+  Program of the Virtual RoboCup Humanoid Open Workshops 
+  Registration 
+  RoboCup 2020 | Committees 
+  Humanoid Soccer Competition | Call for Participation 
+  Teams 
+  Humanoid Research Demonstration | Call for Participation 
+  Teams 
+  RoboCup 2019 | Call for Participation 
+  Committees 
+  Teams 
+  Drop-In Teams 
+  Results 
+  Livestream 
+  RoboCup 2018 | Call for Participation 
+  Committees 
+  Teams 
+  Drop-In Teams 
+  Results 
+  RoboCup 2017 | Call for Participation 
+  Committees 
+  Teams 
+  Results 
+  RoboCup 2016 | Call for Participation 
+  Committees 
+  Results 
+  Teams 
+  RoboCup 2015 | Call for Participation 
+  Committees 
+  Results 
+  Teams 
+  RoboCup 2014 | Call for Participation 
+  Committees 
+  Results 
+  Teams 
+  RoboCup 2013 | Call for Participation 
+  Committees 
+  Results 
+  Teams 
+  RoboCup 2012 | Call for Participation 
+  Committees 
+  Results 
+  Teams 
+  RoboCup 2011 | Call for Participation 
+  Committees 
+  Results 
+  Teams 
+  RoboCup 2010 | Call for Participation 
+  Committees 
+  Results 
+  Teams 
+  RoboCup 2009 | Call for Participation 
+  Committees 
+  Results 
+  Teams 
+  RoboCup 2008 | Call for Participation 
+  Committees 
+  Results 
+  Teams 
+  RoboCup 2007 | Call for Participation 
+  Results 
+  RoboCup 2006 | Results 
+  Teams 
+  RoboCup 2005 | Results 
+  Teams 
+  RoboCup 2004 
+  RoboCup 2003 
+  RoboCup 2002 
+  Contact 
+
+ Call For Participation  
+  
+ RoboCup Humanoid League Virtual Season (HLVS)  
+   
+  https://humanoid.robocup.org/hlvs2023/   
+   
+  December 18th 2022 to May 7th, 2023  
+   
+  ===========================================================  
+   
+  The RoboCup Humanoid League is inviting interested teams to apply for participation in the Humanoid League Virtual Season (HLVS).  
+   
+  The Humanoid League will host a competition in the simulated KidSize League (40 – 100cm robot height (FIFA size 1 ball))  
+
+  1. Humanoid League Virtual Season  
+  =================================  
+   
+  As in the previous HLVS a simulated soccer competition will take over several months with matches every other week.  
+   
+  Since the Virtual Humanoid Soccer Competition will be held entirely online, all teams registering for the competition will be admitted. The exact tournament format will be announced once the number of participating teams is known.  
+   
+  Details on the setup and implementation will be published and continuously updated on the RoboCup Humanoid League website: https://humanoid.robocup.org/hl-vs2023/   
+
+  1.1. Simulator & Game Rules  
+  —————————  
+   
+  As in the previous HLVS, Webots with the Humanoid League simulation world, the automatic refereeing system, and the simulation interface will be used.  
+  However, Webots version 2022b will be used instead of 2021b. This requires changes to the team’s robot models!  
+   
+  We keep the specifications of the simulation interface and the server up to date on this link: https://humanoid.robocup.org/hl-vs2023/   
+   
+  The automatic refereeing system and the simulation world are continously being worked on. Most significantly, further domain randomization will be introduced. This includes but is not limited to reasonably uneven ground, randomized reset positions of the robot’s starting poses. As with any major change during the competition, these will be announced and finalized 3 weeks before the next game. Bug Fixes are not subject to this deadline.  
+   
+  Robot models must be submitted 2 weeks before the start of the competition to be verified. If you would like to update your robot model during the season it must be submitted by Monday 6:00am UTC before a competition day.  
+   
+  The rules of the virtual game will initially be the ones used for HLVS 2022 but will be updated during the competition. The 3 week notice period also applies here to allow teams to adapt their software.  
+
+  1.2. Competition Schedule  
+  ————————-  
+   
+  Matches will be streamed approximately every other week on Sundays (see preliminary schedule).  
+   
+  A workshop is planned (see dates below) to conclude the competition. More information on this will follow.  
+   
+  Matchday 1: Dec 18th  
+  Matchday 2: Jan 8th  
+  Matchday 3: Jan 22th  
+  Matchday 4: Feb 5th  
+  Matchday 5: Feb 19th  
+  Matchday 6: Mar 5th  
+  Matchday 7: Mar 19th  
+  Matchday 8: Apr 2nd  
+  Matchday 9: Apr 16th  
+  Matchday 10 Apr 30th (may be postponed due to RoboCup GermanOpen)  
+  Workshop: May 5th, 6th, and 7th  
+   
+  Please note that the exact dates of the games are subject to change in case of significant bugs in the simulation or automatic refereeing software or an overlap with regional RoboCup tournaments. In these cases, the teams will be notified as early as possible about a shift in the game schedule.  
+
+  1.3. Competition Setup  
+  ———————-  
+   
+  The competition will be performed entirely in the cloud. Each team is guaranteed to play a minimum of 8 games. The exact tournament format will be announced once the number of participating teams in each size class has been determined.  
+   
+  Details of the server specification are the same as in the HLVS 2022 and can be found here https://humanoid.robocup.org/hlvs2023/   
+   
+  The deadline for teams uploading their software on the Friday before a matchday at 6:00 am UTC. The simulation will then be run in the cloud and a recording of the match streamed online on the match days. Access to log files will be provided to teams after the match has been streamed.  
+   
+  Teams will be given possibilities to test the setup of the competition. Several test scenarios will be offered to teams in early December. These scenarios will be similar to the ones offered during the mock competition. Teams must pass the tests in the order presented if they have not already proven so during previous virtual competition that they pass these tests.  
+   
+  *Robot model inspection*  : A manual inspection is carried out by members of the TC, making sure that the model does not crash or significantly slows down the simulator. The TC also checks that the team.json is in the proper format and all fields are set.  
+   
+  *Connection test*  : We launch a simulator with one robot instance, and we start a game to verify whether Webots accepts the connection.  
+   
+  *Walking test*  : We launch a simulator with one robot instance, and we start a game with a cap of 5 minutes real time. We inspect the recording for evidence of the robot being able to walk in the ready or play state.  
+   
+  *Penalty shoot-out*  : We launch a simulator and one robot instance with the teams being paired (if possible). Teams need to be able to move the ball to pass.  
+   
+  *Short game*  : We launch a simulator and 4 robot instances with the teams being paired (when it is possible). The game time is capped to 2.5 minutes per half time, RR style. Teams need to be able at least to touch the ball to pass.  
+   
+  If custom test scenarios are required by teams to test specific components of the cloud infrastructure together with the team’s software, please let us know.  
+
+  1.3. Registration  
+  —————–  
+   
+  The registration process for the Humanoid League Virtual Season is done in two steps. First, you need to submit general data about your team via the submission system of the Humanoid League: http://submission.robocuphumanoid.com/  . All teams that fulfill the formal requirements are automatically qualified to participate.  
+   
+  The following data is required:  
+   
+  * Team name  
+  * URL of the team’s home page  
+  * Name of team leader or team contact person  
+  * E-mail address of team leader or contact person  
+  * Postal address of the team, team leader or contact person  
+  * Letter of Commitment  
+   
+  Please note that teams applying for participation in several classes must register individually for each class and pay the appropriate registration fee.  
+   
+  The registration form must be filled out online at http://submission.robocuphumanoid.org/   
+   
+  In the second step, the teams must pay a fee of $340 for the entire tournament season (including a minimum of 8 games plus tests). Payment needs to be made to the Federation via Wire Transfer or PayPal. Detailed instructions are sent to teams after registration. Please note that teams need to cover the respective transfer and conversion fees that apply for your country when transferring money to the US. For PayPal, US-based teams need to pay 2% of processing fees (around 7 USD), for international teams a 4% processing fee applies (around 14 USD). The fees for wire transfer depend on the country and specific bank.  
+   
+  The amount is calculated by using the experience from the HLVS 2022.  
+  Any extra funds will be used for future HLVS as a buffer.  
+
+  1.4. Submission of Robot Model File  
+  ———————————–  
+   
+  Robot models used in the competition must comply with the specifications published here: https://humanoid.robocup.org/hl-vs2023/   
+  These have been updated from the last HLVS.  
+   
+  They must be submitted by December 2nd, 2021.  
+   
+  Teams are highly encouraged to make their robot model available to the research community with an open-source license. This is, however, not a requirement for participation. In order for the Technical Committee to ensure the robot models comply with the laws of the game, the full robot file needs to be made available to the Technical Committee during the qualification process.  
+  The submission will be done via Pull Requests on GitHub. If your team does not want your robot model publicly available, please contact the TC.  
+
+  2. Submission System  
+  =====================  
+   
+  The submission system will be opened November 16th and all application material must be submitted online at http://submission.robocuphumanoid.com/  .  
+
+  3. Deadlines  
+  =============  
+   
+  Registration system open: November 16th, 2022  
+   
+  Deadline for submission: November 26th, 2022  
+   
+  Deadline for payment of registration fee: December 10th, 2022  
+   
+  Submission of robot model file: December 2nd, 2022  
+
+  With best regards,  
+  Technical Committee of RoboCup Humanoid League 2022/23  
+
+ HL-VS: Call for workshop proposals 
+  2022 HL: Competing teams published 
+  2022 Rule book: First draft 
+  Call for Participation for RoboCup Humanoid League 2021 
+  2021 Rule Book: First Draft 
+
+ Admin  
+  
+   Username     
+ Password     
+
+ RoboCup SSO Login   
+ Recent Posts  
+ HL-VS: Call for workshop proposals | March 16, 2022 
+  2022 HL: Competing teams published | March 16, 2022 
+  2022 Rule book: First draft | March 16, 2022 
+  Call for Participation for RoboCup Humanoid League 2021 | February 15, 2021 
+  2021 Rule Book: First Draft | February 15, 2021 
+   
+ Search for:       
+ Login  
+ [quick-login style="link" separator="bottom" ]   Username     
+ Password     
+
+ RoboCup Federation 
+  Contact 
+  Imprint 
+
+ Powered by WordPress  |  Theme by Themehaus    
+
+  

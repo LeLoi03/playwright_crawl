@@ -1,0 +1,554 @@
+  
+ Home  | Contact  | About MOS  | Membership  | Publications  | Prizes  | Meetings  | IPCO  | ISMP  | Links  | Album  | Jobs 
+ News  
+ Inaugural International MIP Workshop to be held at ITT Mumbai, India  (02/2024)   
+ ICCOPT 2025 will be held at USC  (01/2024)   
+ Call for nominations: Fulkerson Prize 2024  (11/2023)   
+ Call for site preproposals ISMP 2027  (11/2023)   
+ More News | History of IPCO 
+ Information collected by Gerhard Woeginger  .  
+ Contents  
+ The Origins of IPCO 
+  A Concise History of IPCO 
+  List of Papers at IPCO 
+  List of all Program Commitees 
+  Return to the IPCO main page   
+  
+   The Origins of IPCO  
+ The idea of organizing a conference on integer programming and combinatorial optimization which consists of papers selected by a program committee and presented in a single stream had its origin in 1987. Inspired by the FOCS (= Foundations Of Computer Science) and STOC (= Symposium on the Theory Of Computation) meetings in the theoretical computer science community, Ravi Kannan and Bill Pulleyblank got the idea to propose a conference with a similar format for the mathematical programming community. They discussed the idea with the Executive Committee of the what is today the Mathematical Optimization Society (MOS)  and received strong encouragement. The Society responded positively and agreed to be an official sponsor. The Department of Combinatorics and Optimization of the University of Waterloo agreed to be the host for the first meeting.  
+ In 1988, the first IPCO program committee was formed. It consisted of Vasek Chvatal William Cunningham, Ravi Kannan, Richard Karp, George Nemhauser, William Pulleyblank, and Paul Seymour. The meeting was formally announced at the MPS meeting in Tokyo, at the end of August 1988. The submission deadline of the first IPCO was November 15, 1989. The program committee met in early January 1990 in Oberwolfach, Germany, and in mid January 1990 at Carnegie Mellon University, USA. Finally IPCO I took place in Waterloo, May 28-30, 1990.  
+ Since then, IPCO has become one of the main events in mathematical programming. It has a high level of quality and an excellent visibility within the community. The general issues of IPCO are now handled by the IPCO steering commitee  . By all conceivable measures, the IPCO conference series is a success.  
+  
+   A Concise History of IPCO  
+ IPCO I was held at the University of Waterloo, Canada, May 28-30, 1990. It was organized by Ravi Kannan and William R. Pulleyblank. There were 76 papers submitted and 36 papers accepted. The | proceedings | (ISBN 0-88898-099-X) were published by University of Waterloo Press. 
+  IPCO II was held at Carnegie Mellon University, Pittsburgh, USA, May 25-27, 1992. It was organized by Egon Balas, Gerard Cornuejols, and William R. Pulleyblank. There were 74 papers submitted and 33 papers accepted. The proceedings were published by University Printing and Publications, Carnegie Mellon University. 
+  IPCO III was held at Centro Ettore Majorana, Erice, Italy, April 29 - May 1, 1993. It was organized by Giovanni Rinaldi and Laurence A. Wolsey. There were 83 papers submitted and 35 papers accepted. The proceedings were published by CIACO, Louvain-la-Neuve. 
+  IPCO IV was held in Copenhagen, Denmark, May 29-31, 1995. It was organized by Egon Balas and Jens Clausen. There were 105 papers submitted and 36 papers accepted. The proceedings (ISBN 3-540-59408-6) were published as Volume 920 in Springer Lecture Notes in Computer Science. 
+  IPCO V was held at the University of British Columbia, Vancouver, Canada,June 3-5, 1996. It was organized by William H. Cunningham, S. Thomas McCormick, and Maurice Queyranne. There were 99 papers submitted and 36 papers accepted. The proceedings (ISBN 3-540-61310-2) were published as Volume 1084 in Springer Lecture Notes in Computer Science. 
+  IPCO VI was held at Rice University, Houston, USA, June 22-24, 1998. It was organized by Robert Bixby, Andrew Boyd, and Roger Z. Rios. There were 77 papers submitted and 32 papers accepted. The proceedings (ISBN 3-540-64590-X) were published as Volume 1412 in Springer Lecture Notes in Computer Science. 
+  IPCO VII was held in Graz, Austria, June 9-11, 1999. It was organized by Gerard Cornuejols, Rainer E. Burkard, and Gerhard J. Woeginger. There were 99 papers submitted and 33 papers accepted. The proceedings (ISBN 3-540-66019-4) were published as Volume 1610 in Springer Lecture Notes in Computer Science. 
+  IPCO VIII was held in Utrecht, The Netherlands, June 13-15, 2001. It was organized by Karen Aardal and Bert Gerards. There were 108 papers submitted and 32 papers accepted. The proceedings (ISBN 3-540-42225-0) were published as Volume 2081 in Springer Lecture Notes in Computer Science. 
+  IPCO IX was held at MIT, Boston, USA, May 27-29, 2002. It was organized by Bill Cook and Andreas Schulz. There were 110 papers submitted and 33 papers accepted. The proceedings (ISBN 3-540-43676-6) were published as Volume 2337 in Springer Lecture Notes in Computer Science. 
+  IPCO X was held at Columbia University, New York, USA, June 9-11, 2004. It was organized by Dan Bienstock and George Nemhauser. There were 109 papers submitted and 32 papers accepted. The proceedings (ISBN 3-540-22113-1) were published as Volume 3064 in Springer Lecture Notes in Computer Science. 
+  IPCO XI was held at the TU Berlin, Germany, June 8-10, 2005. It was organized by Michael Juenger and Volker Kaibel. There were 119 papers submitted and 34 papers accepted. The proceedings (ISBN 3-540-26199-0) were published as Volume 3509 in Springer Lecture Notes in Computer Science. 
+  IPCO XII was held at Cornell University, USA, June 25-27, 2007. It was organized by Matteo Fischetti and David Williamson. There were 120 papers submitted and 36 papers accepted. The proceedings (ISBN 978-3-540-72791-0) were published as Volume 4513 in Springer Lecture Notes in Computer Science. 
+  IPCO XIII was held at Bertinoro, Italy, May 26-28, 2008. It was organized by Andrea Lodi Alessandro Panconesi, and Giovanni Rinaldi. There were 95 papers submitted and 32 papers accepted. The proceedings (ISBN 978-3-540-68886-0) were published as Volume 5035 in Springer Lecture Notes in Computer Science. 
+  IPCO XIV was held at Lausanne, Switzerland, June 9-11, 2010. It was organized by Fritz Eisenbrand and F. Bruce Shepherd. The proceedings (ISBN 978-3-642-13035-9) were published as Volume 6080 in Springer Lecture Notes in Computer Science. 
+  IPCO XV was held at the IBM Learning Center in Armonk, New York, USA, June 15-17, 2011. It was organized by Sanjeeb Dash, Oktay Gunluk, Jon Lee and Maxim Sviridenko. The proceedings (ISBN 978-3-642-20806-5) were published as Volume 6655 in Springer Lecture Notes in Computer Science. 
+  IPCO XVI was held in Valparaíso, Chile, March 18-20, 2013. It was organized by José Correa (chair), Daniel Espinoza, Marcos Goycoolea, Juan Peypouquet José Soto, and José Verschae. The proceedings (ISBN: 978-3-642-36693-2) were published as Volume 7801 in in Springer Lecture Notes in Computer Science. 
+  IPCO XVII was held in Bonn, Germany, June 23-25, 2014. It was organized by Jens Vygen (chair), Stephan Held (co-chair), Stefan Hougardy, Bernhard Korte. The proceedings (ISBN: 978-3-319-07557-0) were published as Volume 8494 in Springer Lecture Notes in Computer Science. 
+  IPCO XVIII was held in Liège, Belgium, June 1-3, 2016. It was organized by Quentin Louveaux and Martin Skutella. The proceedings (ISBN: 978-3-319-33460-8, edited by Quentin Louveaux and Martin Skutella) were published as Volume 9682 in Springer Lecture Notes in Computer Science. 
+  IPCO XIX was held in Waterloo, Canada, June 26-28, 2017. It was organized by Fritz Eisenbrand, Jochen Koenemann (chairs), Joseph Cheriyan, Ricardo Fukasawa, Laura Sanità, and Chaitanya Swamy. The proceedings (ISBN: 978-3-319-59249-7, edited by Friedrich Eisenbrand and Jochen Koenemann) were published as Volume 10328 in Springer Lecture Notes in Computer Science. 
+  IPCO XX was held in Ann Arbor, Michigan, USA, May 22-24 , 2019. It was organized by Andrea Lodi, and Viswanath Nagarajan (chairs), Alexander Barvinok, Seth Pettie, Siqian Shen, Dan Steffy. The proceedings (ISBN: 978-3-030-17952-6) were published as Volume 11480 in Springer Lecture Notes in Computer Science. 
+  IPCO XXI was held online (planned in London, UK), June 8-10, 2020. It was organized by Daniel Bienstock and Giacomo Zambelli (chairs), Ahmad Abdi, Neil Olver, and László Végh. The proceedings (ISBN: 978-3-030-45770-9) were published as Volume 12125 in Springer Lecture Notes in Computer Science. 
+  IPCO XXII was held online (planned in Atlanta, USA), May 19-21, 2021. It was organized by David P. Williamson and Mohit Singh (chairs), Santanu S. Dey, Swati Gupta, Alejandro Toriello. The proceedings (ISBN: 978-3-030-73878-5) were published as Volume 12707 in Springer Lecture Notes in Computer Science. 
+  IPCO XXIII was held in Eindhoven, the Netherlands, June 27-29, 2022. It was organized by Karen Aardal and Laura Sanita. The proceedings (ISBN: 978-3-031-06901-7) were published as Volume 13265 in Springer Lecture Notes in Computer Science. 
+  IPCO XXIV was held in Madison, USA, June 21-23, 2023. It was organized by Styliana Avraamidou, Alberto Del Pia (chair), Jeff Linderoth, Jim Luedtke and Carla Michini. The proceedings (ISBN: 978-3-031-32726-1) were published as Volume 13904 in Springer Lecture Notes in Computer Science. 
+   List of Papers at IPCO  
+ The papers presented at | IPCO I | (1990) at Waterloo, Canada 
+  The papers presented at | IPCO II | (1992) in Pittsburgh, USA 
+  The papers presented at | IPCO III | (1993) in Erice, Italy 
+  The papers presented at | IPCO IV | (1995) in Copenhagen, Denmark 
+  The papers presented at | IPCO V | (1996) in Vancouver, Canada 
+  The papers presented at | IPCO VI | (1998) in Houston, USA 
+  The papers presented at | IPCO VII | (1999) in Graz, Austria 
+  The papers presented at | IPCO VIII | (2001) in Utrecht, The Netherlands 
+  The papers presented at | IPCO IX | (2002) in Boston, USA 
+  The papers presented at | IPCO X | (2004) in New York, USA 
+  The papers presented at | IPCO XI | (2005) in Berlin, Germany 
+  The papers presented at | IPCO XII | (2007) in Ithaca, USA 
+  The papers presented at | IPCO XIII | (2008) in Bertinoro, Italy 
+  The papers presented at | IPCO XIV | (2010) in Lausanne, Switzerland 
+  The papers presented at | IPCO XV | (2011) in Armonk, USA 
+  The papers presented at | IPCO XVI | (2013) in Valparaiso, Chile 
+  The papers presented at | IPCO XVII | (2014) in Bonn, Germany 
+  The papers presented at | IPCO XVIII | (2016) in Liège, Belgium 
+  The papers presented at | IPCO XIX | (2017) in Waterloo, Canada 
+  The papers presented at | IPCO XX | (2019) in Ann Arbor, USA 
+  The papers presented at | IPCO XXI | (2020) in London, UK 
+  The papers presented at | IPCO XXII | (2021) in Atlanta, USA 
+  The papers presented at | IPCO XXIII | (2022) in Eindhoven, the Netherlands 
+  The papers presented at | IPCO XXII | (2023) in Madison, USA 
+
+   List of all Program Commitees  
+ List of all Program Commitees. 
+ top of page | History of IPCO | Information collected by Gerhard Woeginger  .  
+ Contents  
+ The Origins of IPCO 
+  A Concise History of IPCO 
+  List of Papers at IPCO 
+  List of all Program Commitees 
+  Return to the IPCO main page   
+  
+   The Origins of IPCO  
+ The idea of organizing a conference on integer programming and combinatorial optimization which consists of papers selected by a program committee and presented in a single stream had its origin in 1987. Inspired by the FOCS (= Foundations Of Computer Science) and STOC (= Symposium on the Theory Of Computation) meetings in the theoretical computer science community, Ravi Kannan and Bill Pulleyblank got the idea to propose a conference with a similar format for the mathematical programming community. They discussed the idea with the Executive Committee of the what is today the Mathematical Optimization Society (MOS)  and received strong encouragement. The Society responded positively and agreed to be an official sponsor. The Department of Combinatorics and Optimization of the University of Waterloo agreed to be the host for the first meeting.  
+ In 1988, the first IPCO program committee was formed. It consisted of Vasek Chvatal William Cunningham, Ravi Kannan, Richard Karp, George Nemhauser, William Pulleyblank, and Paul Seymour. The meeting was formally announced at the MPS meeting in Tokyo, at the end of August 1988. The submission deadline of the first IPCO was November 15, 1989. The program committee met in early January 1990 in Oberwolfach, Germany, and in mid January 1990 at Carnegie Mellon University, USA. Finally IPCO I took place in Waterloo, May 28-30, 1990.  
+ Since then, IPCO has become one of the main events in mathematical programming. It has a high level of quality and an excellent visibility within the community. The general issues of IPCO are now handled by the IPCO steering commitee  . By all conceivable measures, the IPCO conference series is a success.  
+  
+   A Concise History of IPCO  
+ IPCO I was held at the University of Waterloo, Canada, May 28-30, 1990. It was organized by Ravi Kannan and William R. Pulleyblank. There were 76 papers submitted and 36 papers accepted. The | proceedings | (ISBN 0-88898-099-X) were published by University of Waterloo Press. 
+  IPCO II was held at Carnegie Mellon University, Pittsburgh, USA, May 25-27, 1992. It was organized by Egon Balas, Gerard Cornuejols, and William R. Pulleyblank. There were 74 papers submitted and 33 papers accepted. The proceedings were published by University Printing and Publications, Carnegie Mellon University. 
+  IPCO III was held at Centro Ettore Majorana, Erice, Italy, April 29 - May 1, 1993. It was organized by Giovanni Rinaldi and Laurence A. Wolsey. There were 83 papers submitted and 35 papers accepted. The proceedings were published by CIACO, Louvain-la-Neuve. 
+  IPCO IV was held in Copenhagen, Denmark, May 29-31, 1995. It was organized by Egon Balas and Jens Clausen. There were 105 papers submitted and 36 papers accepted. The proceedings (ISBN 3-540-59408-6) were published as Volume 920 in Springer Lecture Notes in Computer Science. 
+  IPCO V was held at the University of British Columbia, Vancouver, Canada,June 3-5, 1996. It was organized by William H. Cunningham, S. Thomas McCormick, and Maurice Queyranne. There were 99 papers submitted and 36 papers accepted. The proceedings (ISBN 3-540-61310-2) were published as Volume 1084 in Springer Lecture Notes in Computer Science. 
+  IPCO VI was held at Rice University, Houston, USA, June 22-24, 1998. It was organized by Robert Bixby, Andrew Boyd, and Roger Z. Rios. There were 77 papers submitted and 32 papers accepted. The proceedings (ISBN 3-540-64590-X) were published as Volume 1412 in Springer Lecture Notes in Computer Science. 
+  IPCO VII was held in Graz, Austria, June 9-11, 1999. It was organized by Gerard Cornuejols, Rainer E. Burkard, and Gerhard J. Woeginger. There were 99 papers submitted and 33 papers accepted. The proceedings (ISBN 3-540-66019-4) were published as Volume 1610 in Springer Lecture Notes in Computer Science. 
+  IPCO VIII was held in Utrecht, The Netherlands, June 13-15, 2001. It was organized by Karen Aardal and Bert Gerards. There were 108 papers submitted and 32 papers accepted. The proceedings (ISBN 3-540-42225-0) were published as Volume 2081 in Springer Lecture Notes in Computer Science. 
+  IPCO IX was held at MIT, Boston, USA, May 27-29, 2002. It was organized by Bill Cook and Andreas Schulz. There were 110 papers submitted and 33 papers accepted. The proceedings (ISBN 3-540-43676-6) were published as Volume 2337 in Springer Lecture Notes in Computer Science. 
+  IPCO X was held at Columbia University, New York, USA, June 9-11, 2004. It was organized by Dan Bienstock and George Nemhauser. There were 109 papers submitted and 32 papers accepted. The proceedings (ISBN 3-540-22113-1) were published as Volume 3064 in Springer Lecture Notes in Computer Science. 
+  IPCO XI was held at the TU Berlin, Germany, June 8-10, 2005. It was organized by Michael Juenger and Volker Kaibel. There were 119 papers submitted and 34 papers accepted. The proceedings (ISBN 3-540-26199-0) were published as Volume 3509 in Springer Lecture Notes in Computer Science. 
+  IPCO XII was held at Cornell University, USA, June 25-27, 2007. It was organized by Matteo Fischetti and David Williamson. There were 120 papers submitted and 36 papers accepted. The proceedings (ISBN 978-3-540-72791-0) were published as Volume 4513 in Springer Lecture Notes in Computer Science. 
+  IPCO XIII was held at Bertinoro, Italy, May 26-28, 2008. It was organized by Andrea Lodi Alessandro Panconesi, and Giovanni Rinaldi. There were 95 papers submitted and 32 papers accepted. The proceedings (ISBN 978-3-540-68886-0) were published as Volume 5035 in Springer Lecture Notes in Computer Science. 
+  IPCO XIV was held at Lausanne, Switzerland, June 9-11, 2010. It was organized by Fritz Eisenbrand and F. Bruce Shepherd. The proceedings (ISBN 978-3-642-13035-9) were published as Volume 6080 in Springer Lecture Notes in Computer Science. 
+  IPCO XV was held at the IBM Learning Center in Armonk, New York, USA, June 15-17, 2011. It was organized by Sanjeeb Dash, Oktay Gunluk, Jon Lee and Maxim Sviridenko. The proceedings (ISBN 978-3-642-20806-5) were published as Volume 6655 in Springer Lecture Notes in Computer Science. 
+  IPCO XVI was held in Valparaíso, Chile, March 18-20, 2013. It was organized by José Correa (chair), Daniel Espinoza, Marcos Goycoolea, Juan Peypouquet José Soto, and José Verschae. The proceedings (ISBN: 978-3-642-36693-2) were published as Volume 7801 in in Springer Lecture Notes in Computer Science. 
+  IPCO XVII was held in Bonn, Germany, June 23-25, 2014. It was organized by Jens Vygen (chair), Stephan Held (co-chair), Stefan Hougardy, Bernhard Korte. The proceedings (ISBN: 978-3-319-07557-0) were published as Volume 8494 in Springer Lecture Notes in Computer Science. 
+  IPCO XVIII was held in Liège, Belgium, June 1-3, 2016. It was organized by Quentin Louveaux and Martin Skutella. The proceedings (ISBN: 978-3-319-33460-8, edited by Quentin Louveaux and Martin Skutella) were published as Volume 9682 in Springer Lecture Notes in Computer Science. 
+  IPCO XIX was held in Waterloo, Canada, June 26-28, 2017. It was organized by Fritz Eisenbrand, Jochen Koenemann (chairs), Joseph Cheriyan, Ricardo Fukasawa, Laura Sanità, and Chaitanya Swamy. The proceedings (ISBN: 978-3-319-59249-7, edited by Friedrich Eisenbrand and Jochen Koenemann) were published as Volume 10328 in Springer Lecture Notes in Computer Science. 
+  IPCO XX was held in Ann Arbor, Michigan, USA, May 22-24 , 2019. It was organized by Andrea Lodi, and Viswanath Nagarajan (chairs), Alexander Barvinok, Seth Pettie, Siqian Shen, Dan Steffy. The proceedings (ISBN: 978-3-030-17952-6) were published as Volume 11480 in Springer Lecture Notes in Computer Science. 
+  IPCO XXI was held online (planned in London, UK), June 8-10, 2020. It was organized by Daniel Bienstock and Giacomo Zambelli (chairs), Ahmad Abdi, Neil Olver, and László Végh. The proceedings (ISBN: 978-3-030-45770-9) were published as Volume 12125 in Springer Lecture Notes in Computer Science. 
+  IPCO XXII was held online (planned in Atlanta, USA), May 19-21, 2021. It was organized by David P. Williamson and Mohit Singh (chairs), Santanu S. Dey, Swati Gupta, Alejandro Toriello. The proceedings (ISBN: 978-3-030-73878-5) were published as Volume 12707 in Springer Lecture Notes in Computer Science. 
+  IPCO XXIII was held in Eindhoven, the Netherlands, June 27-29, 2022. It was organized by Karen Aardal and Laura Sanita. The proceedings (ISBN: 978-3-031-06901-7) were published as Volume 13265 in Springer Lecture Notes in Computer Science. 
+  IPCO XXIV was held in Madison, USA, June 21-23, 2023. It was organized by Styliana Avraamidou, Alberto Del Pia (chair), Jeff Linderoth, Jim Luedtke and Carla Michini. The proceedings (ISBN: 978-3-031-32726-1) were published as Volume 13904 in Springer Lecture Notes in Computer Science. 
+   List of Papers at IPCO  
+ The papers presented at | IPCO I | (1990) at Waterloo, Canada 
+  The papers presented at | IPCO II | (1992) in Pittsburgh, USA 
+  The papers presented at | IPCO III | (1993) in Erice, Italy 
+  The papers presented at | IPCO IV | (1995) in Copenhagen, Denmark 
+  The papers presented at | IPCO V | (1996) in Vancouver, Canada 
+  The papers presented at | IPCO VI | (1998) in Houston, USA 
+  The papers presented at | IPCO VII | (1999) in Graz, Austria 
+  The papers presented at | IPCO VIII | (2001) in Utrecht, The Netherlands 
+  The papers presented at | IPCO IX | (2002) in Boston, USA 
+  The papers presented at | IPCO X | (2004) in New York, USA 
+  The papers presented at | IPCO XI | (2005) in Berlin, Germany 
+  The papers presented at | IPCO XII | (2007) in Ithaca, USA 
+  The papers presented at | IPCO XIII | (2008) in Bertinoro, Italy 
+  The papers presented at | IPCO XIV | (2010) in Lausanne, Switzerland 
+  The papers presented at | IPCO XV | (2011) in Armonk, USA 
+  The papers presented at | IPCO XVI | (2013) in Valparaiso, Chile 
+  The papers presented at | IPCO XVII | (2014) in Bonn, Germany 
+  The papers presented at | IPCO XVIII | (2016) in Liège, Belgium 
+  The papers presented at | IPCO XIX | (2017) in Waterloo, Canada 
+  The papers presented at | IPCO XX | (2019) in Ann Arbor, USA 
+  The papers presented at | IPCO XXI | (2020) in London, UK 
+  The papers presented at | IPCO XXII | (2021) in Atlanta, USA 
+  The papers presented at | IPCO XXIII | (2022) in Eindhoven, the Netherlands 
+  The papers presented at | IPCO XXII | (2023) in Madison, USA 
+
+   List of all Program Commitees  
+ List of all Program Commitees. | top of page 
+ History of IPCO 
+ Information collected by Gerhard Woeginger  .  
+ Contents  
+ The Origins of IPCO 
+  A Concise History of IPCO 
+  List of Papers at IPCO 
+  List of all Program Commitees 
+  Return to the IPCO main page   
+  
+   The Origins of IPCO  
+ The idea of organizing a conference on integer programming and combinatorial optimization which consists of papers selected by a program committee and presented in a single stream had its origin in 1987. Inspired by the FOCS (= Foundations Of Computer Science) and STOC (= Symposium on the Theory Of Computation) meetings in the theoretical computer science community, Ravi Kannan and Bill Pulleyblank got the idea to propose a conference with a similar format for the mathematical programming community. They discussed the idea with the Executive Committee of the what is today the Mathematical Optimization Society (MOS)  and received strong encouragement. The Society responded positively and agreed to be an official sponsor. The Department of Combinatorics and Optimization of the University of Waterloo agreed to be the host for the first meeting.  
+ In 1988, the first IPCO program committee was formed. It consisted of Vasek Chvatal William Cunningham, Ravi Kannan, Richard Karp, George Nemhauser, William Pulleyblank, and Paul Seymour. The meeting was formally announced at the MPS meeting in Tokyo, at the end of August 1988. The submission deadline of the first IPCO was November 15, 1989. The program committee met in early January 1990 in Oberwolfach, Germany, and in mid January 1990 at Carnegie Mellon University, USA. Finally IPCO I took place in Waterloo, May 28-30, 1990.  
+ Since then, IPCO has become one of the main events in mathematical programming. It has a high level of quality and an excellent visibility within the community. The general issues of IPCO are now handled by the IPCO steering commitee  . By all conceivable measures, the IPCO conference series is a success.  
+  
+   A Concise History of IPCO  
+ IPCO I was held at the University of Waterloo, Canada, May 28-30, 1990. It was organized by Ravi Kannan and William R. Pulleyblank. There were 76 papers submitted and 36 papers accepted. The | proceedings | (ISBN 0-88898-099-X) were published by University of Waterloo Press. 
+  IPCO II was held at Carnegie Mellon University, Pittsburgh, USA, May 25-27, 1992. It was organized by Egon Balas, Gerard Cornuejols, and William R. Pulleyblank. There were 74 papers submitted and 33 papers accepted. The proceedings were published by University Printing and Publications, Carnegie Mellon University. 
+  IPCO III was held at Centro Ettore Majorana, Erice, Italy, April 29 - May 1, 1993. It was organized by Giovanni Rinaldi and Laurence A. Wolsey. There were 83 papers submitted and 35 papers accepted. The proceedings were published by CIACO, Louvain-la-Neuve. 
+  IPCO IV was held in Copenhagen, Denmark, May 29-31, 1995. It was organized by Egon Balas and Jens Clausen. There were 105 papers submitted and 36 papers accepted. The proceedings (ISBN 3-540-59408-6) were published as Volume 920 in Springer Lecture Notes in Computer Science. 
+  IPCO V was held at the University of British Columbia, Vancouver, Canada,June 3-5, 1996. It was organized by William H. Cunningham, S. Thomas McCormick, and Maurice Queyranne. There were 99 papers submitted and 36 papers accepted. The proceedings (ISBN 3-540-61310-2) were published as Volume 1084 in Springer Lecture Notes in Computer Science. 
+  IPCO VI was held at Rice University, Houston, USA, June 22-24, 1998. It was organized by Robert Bixby, Andrew Boyd, and Roger Z. Rios. There were 77 papers submitted and 32 papers accepted. The proceedings (ISBN 3-540-64590-X) were published as Volume 1412 in Springer Lecture Notes in Computer Science. 
+  IPCO VII was held in Graz, Austria, June 9-11, 1999. It was organized by Gerard Cornuejols, Rainer E. Burkard, and Gerhard J. Woeginger. There were 99 papers submitted and 33 papers accepted. The proceedings (ISBN 3-540-66019-4) were published as Volume 1610 in Springer Lecture Notes in Computer Science. 
+  IPCO VIII was held in Utrecht, The Netherlands, June 13-15, 2001. It was organized by Karen Aardal and Bert Gerards. There were 108 papers submitted and 32 papers accepted. The proceedings (ISBN 3-540-42225-0) were published as Volume 2081 in Springer Lecture Notes in Computer Science. 
+  IPCO IX was held at MIT, Boston, USA, May 27-29, 2002. It was organized by Bill Cook and Andreas Schulz. There were 110 papers submitted and 33 papers accepted. The proceedings (ISBN 3-540-43676-6) were published as Volume 2337 in Springer Lecture Notes in Computer Science. 
+  IPCO X was held at Columbia University, New York, USA, June 9-11, 2004. It was organized by Dan Bienstock and George Nemhauser. There were 109 papers submitted and 32 papers accepted. The proceedings (ISBN 3-540-22113-1) were published as Volume 3064 in Springer Lecture Notes in Computer Science. 
+  IPCO XI was held at the TU Berlin, Germany, June 8-10, 2005. It was organized by Michael Juenger and Volker Kaibel. There were 119 papers submitted and 34 papers accepted. The proceedings (ISBN 3-540-26199-0) were published as Volume 3509 in Springer Lecture Notes in Computer Science. 
+  IPCO XII was held at Cornell University, USA, June 25-27, 2007. It was organized by Matteo Fischetti and David Williamson. There were 120 papers submitted and 36 papers accepted. The proceedings (ISBN 978-3-540-72791-0) were published as Volume 4513 in Springer Lecture Notes in Computer Science. 
+  IPCO XIII was held at Bertinoro, Italy, May 26-28, 2008. It was organized by Andrea Lodi Alessandro Panconesi, and Giovanni Rinaldi. There were 95 papers submitted and 32 papers accepted. The proceedings (ISBN 978-3-540-68886-0) were published as Volume 5035 in Springer Lecture Notes in Computer Science. 
+  IPCO XIV was held at Lausanne, Switzerland, June 9-11, 2010. It was organized by Fritz Eisenbrand and F. Bruce Shepherd. The proceedings (ISBN 978-3-642-13035-9) were published as Volume 6080 in Springer Lecture Notes in Computer Science. 
+  IPCO XV was held at the IBM Learning Center in Armonk, New York, USA, June 15-17, 2011. It was organized by Sanjeeb Dash, Oktay Gunluk, Jon Lee and Maxim Sviridenko. The proceedings (ISBN 978-3-642-20806-5) were published as Volume 6655 in Springer Lecture Notes in Computer Science. 
+  IPCO XVI was held in Valparaíso, Chile, March 18-20, 2013. It was organized by José Correa (chair), Daniel Espinoza, Marcos Goycoolea, Juan Peypouquet José Soto, and José Verschae. The proceedings (ISBN: 978-3-642-36693-2) were published as Volume 7801 in in Springer Lecture Notes in Computer Science. 
+  IPCO XVII was held in Bonn, Germany, June 23-25, 2014. It was organized by Jens Vygen (chair), Stephan Held (co-chair), Stefan Hougardy, Bernhard Korte. The proceedings (ISBN: 978-3-319-07557-0) were published as Volume 8494 in Springer Lecture Notes in Computer Science. 
+  IPCO XVIII was held in Liège, Belgium, June 1-3, 2016. It was organized by Quentin Louveaux and Martin Skutella. The proceedings (ISBN: 978-3-319-33460-8, edited by Quentin Louveaux and Martin Skutella) were published as Volume 9682 in Springer Lecture Notes in Computer Science. 
+  IPCO XIX was held in Waterloo, Canada, June 26-28, 2017. It was organized by Fritz Eisenbrand, Jochen Koenemann (chairs), Joseph Cheriyan, Ricardo Fukasawa, Laura Sanità, and Chaitanya Swamy. The proceedings (ISBN: 978-3-319-59249-7, edited by Friedrich Eisenbrand and Jochen Koenemann) were published as Volume 10328 in Springer Lecture Notes in Computer Science. 
+  IPCO XX was held in Ann Arbor, Michigan, USA, May 22-24 , 2019. It was organized by Andrea Lodi, and Viswanath Nagarajan (chairs), Alexander Barvinok, Seth Pettie, Siqian Shen, Dan Steffy. The proceedings (ISBN: 978-3-030-17952-6) were published as Volume 11480 in Springer Lecture Notes in Computer Science. 
+  IPCO XXI was held online (planned in London, UK), June 8-10, 2020. It was organized by Daniel Bienstock and Giacomo Zambelli (chairs), Ahmad Abdi, Neil Olver, and László Végh. The proceedings (ISBN: 978-3-030-45770-9) were published as Volume 12125 in Springer Lecture Notes in Computer Science. 
+  IPCO XXII was held online (planned in Atlanta, USA), May 19-21, 2021. It was organized by David P. Williamson and Mohit Singh (chairs), Santanu S. Dey, Swati Gupta, Alejandro Toriello. The proceedings (ISBN: 978-3-030-73878-5) were published as Volume 12707 in Springer Lecture Notes in Computer Science. 
+  IPCO XXIII was held in Eindhoven, the Netherlands, June 27-29, 2022. It was organized by Karen Aardal and Laura Sanita. The proceedings (ISBN: 978-3-031-06901-7) were published as Volume 13265 in Springer Lecture Notes in Computer Science. 
+  IPCO XXIV was held in Madison, USA, June 21-23, 2023. It was organized by Styliana Avraamidou, Alberto Del Pia (chair), Jeff Linderoth, Jim Luedtke and Carla Michini. The proceedings (ISBN: 978-3-031-32726-1) were published as Volume 13904 in Springer Lecture Notes in Computer Science. 
+   List of Papers at IPCO  
+ The papers presented at | IPCO I | (1990) at Waterloo, Canada 
+  The papers presented at | IPCO II | (1992) in Pittsburgh, USA 
+  The papers presented at | IPCO III | (1993) in Erice, Italy 
+  The papers presented at | IPCO IV | (1995) in Copenhagen, Denmark 
+  The papers presented at | IPCO V | (1996) in Vancouver, Canada 
+  The papers presented at | IPCO VI | (1998) in Houston, USA 
+  The papers presented at | IPCO VII | (1999) in Graz, Austria 
+  The papers presented at | IPCO VIII | (2001) in Utrecht, The Netherlands 
+  The papers presented at | IPCO IX | (2002) in Boston, USA 
+  The papers presented at | IPCO X | (2004) in New York, USA 
+  The papers presented at | IPCO XI | (2005) in Berlin, Germany 
+  The papers presented at | IPCO XII | (2007) in Ithaca, USA 
+  The papers presented at | IPCO XIII | (2008) in Bertinoro, Italy 
+  The papers presented at | IPCO XIV | (2010) in Lausanne, Switzerland 
+  The papers presented at | IPCO XV | (2011) in Armonk, USA 
+  The papers presented at | IPCO XVI | (2013) in Valparaiso, Chile 
+  The papers presented at | IPCO XVII | (2014) in Bonn, Germany 
+  The papers presented at | IPCO XVIII | (2016) in Liège, Belgium 
+  The papers presented at | IPCO XIX | (2017) in Waterloo, Canada 
+  The papers presented at | IPCO XX | (2019) in Ann Arbor, USA 
+  The papers presented at | IPCO XXI | (2020) in London, UK 
+  The papers presented at | IPCO XXII | (2021) in Atlanta, USA 
+  The papers presented at | IPCO XXIII | (2022) in Eindhoven, the Netherlands 
+  The papers presented at | IPCO XXII | (2023) in Madison, USA 
+
+   List of all Program Commitees  
+ List of all Program Commitees. 
+ top of page | News  
+ Inaugural International MIP Workshop to be held at ITT Mumbai, India  (02/2024)   
+ ICCOPT 2025 will be held at USC  (01/2024)   
+ Call for nominations: Fulkerson Prize 2024  (11/2023)   
+ Call for site preproposals ISMP 2027  (11/2023)   
+ More News | History of IPCO 
+ Information collected by Gerhard Woeginger  .  
+ Contents  
+ The Origins of IPCO 
+  A Concise History of IPCO 
+  List of Papers at IPCO 
+  List of all Program Commitees 
+  Return to the IPCO main page   
+  
+   The Origins of IPCO  
+ The idea of organizing a conference on integer programming and combinatorial optimization which consists of papers selected by a program committee and presented in a single stream had its origin in 1987. Inspired by the FOCS (= Foundations Of Computer Science) and STOC (= Symposium on the Theory Of Computation) meetings in the theoretical computer science community, Ravi Kannan and Bill Pulleyblank got the idea to propose a conference with a similar format for the mathematical programming community. They discussed the idea with the Executive Committee of the what is today the Mathematical Optimization Society (MOS)  and received strong encouragement. The Society responded positively and agreed to be an official sponsor. The Department of Combinatorics and Optimization of the University of Waterloo agreed to be the host for the first meeting.  
+ In 1988, the first IPCO program committee was formed. It consisted of Vasek Chvatal William Cunningham, Ravi Kannan, Richard Karp, George Nemhauser, William Pulleyblank, and Paul Seymour. The meeting was formally announced at the MPS meeting in Tokyo, at the end of August 1988. The submission deadline of the first IPCO was November 15, 1989. The program committee met in early January 1990 in Oberwolfach, Germany, and in mid January 1990 at Carnegie Mellon University, USA. Finally IPCO I took place in Waterloo, May 28-30, 1990.  
+ Since then, IPCO has become one of the main events in mathematical programming. It has a high level of quality and an excellent visibility within the community. The general issues of IPCO are now handled by the IPCO steering commitee  . By all conceivable measures, the IPCO conference series is a success.  
+  
+   A Concise History of IPCO  
+ IPCO I was held at the University of Waterloo, Canada, May 28-30, 1990. It was organized by Ravi Kannan and William R. Pulleyblank. There were 76 papers submitted and 36 papers accepted. The | proceedings | (ISBN 0-88898-099-X) were published by University of Waterloo Press. 
+  IPCO II was held at Carnegie Mellon University, Pittsburgh, USA, May 25-27, 1992. It was organized by Egon Balas, Gerard Cornuejols, and William R. Pulleyblank. There were 74 papers submitted and 33 papers accepted. The proceedings were published by University Printing and Publications, Carnegie Mellon University. 
+  IPCO III was held at Centro Ettore Majorana, Erice, Italy, April 29 - May 1, 1993. It was organized by Giovanni Rinaldi and Laurence A. Wolsey. There were 83 papers submitted and 35 papers accepted. The proceedings were published by CIACO, Louvain-la-Neuve. 
+  IPCO IV was held in Copenhagen, Denmark, May 29-31, 1995. It was organized by Egon Balas and Jens Clausen. There were 105 papers submitted and 36 papers accepted. The proceedings (ISBN 3-540-59408-6) were published as Volume 920 in Springer Lecture Notes in Computer Science. 
+  IPCO V was held at the University of British Columbia, Vancouver, Canada,June 3-5, 1996. It was organized by William H. Cunningham, S. Thomas McCormick, and Maurice Queyranne. There were 99 papers submitted and 36 papers accepted. The proceedings (ISBN 3-540-61310-2) were published as Volume 1084 in Springer Lecture Notes in Computer Science. 
+  IPCO VI was held at Rice University, Houston, USA, June 22-24, 1998. It was organized by Robert Bixby, Andrew Boyd, and Roger Z. Rios. There were 77 papers submitted and 32 papers accepted. The proceedings (ISBN 3-540-64590-X) were published as Volume 1412 in Springer Lecture Notes in Computer Science. 
+  IPCO VII was held in Graz, Austria, June 9-11, 1999. It was organized by Gerard Cornuejols, Rainer E. Burkard, and Gerhard J. Woeginger. There were 99 papers submitted and 33 papers accepted. The proceedings (ISBN 3-540-66019-4) were published as Volume 1610 in Springer Lecture Notes in Computer Science. 
+  IPCO VIII was held in Utrecht, The Netherlands, June 13-15, 2001. It was organized by Karen Aardal and Bert Gerards. There were 108 papers submitted and 32 papers accepted. The proceedings (ISBN 3-540-42225-0) were published as Volume 2081 in Springer Lecture Notes in Computer Science. 
+  IPCO IX was held at MIT, Boston, USA, May 27-29, 2002. It was organized by Bill Cook and Andreas Schulz. There were 110 papers submitted and 33 papers accepted. The proceedings (ISBN 3-540-43676-6) were published as Volume 2337 in Springer Lecture Notes in Computer Science. 
+  IPCO X was held at Columbia University, New York, USA, June 9-11, 2004. It was organized by Dan Bienstock and George Nemhauser. There were 109 papers submitted and 32 papers accepted. The proceedings (ISBN 3-540-22113-1) were published as Volume 3064 in Springer Lecture Notes in Computer Science. 
+  IPCO XI was held at the TU Berlin, Germany, June 8-10, 2005. It was organized by Michael Juenger and Volker Kaibel. There were 119 papers submitted and 34 papers accepted. The proceedings (ISBN 3-540-26199-0) were published as Volume 3509 in Springer Lecture Notes in Computer Science. 
+  IPCO XII was held at Cornell University, USA, June 25-27, 2007. It was organized by Matteo Fischetti and David Williamson. There were 120 papers submitted and 36 papers accepted. The proceedings (ISBN 978-3-540-72791-0) were published as Volume 4513 in Springer Lecture Notes in Computer Science. 
+  IPCO XIII was held at Bertinoro, Italy, May 26-28, 2008. It was organized by Andrea Lodi Alessandro Panconesi, and Giovanni Rinaldi. There were 95 papers submitted and 32 papers accepted. The proceedings (ISBN 978-3-540-68886-0) were published as Volume 5035 in Springer Lecture Notes in Computer Science. 
+  IPCO XIV was held at Lausanne, Switzerland, June 9-11, 2010. It was organized by Fritz Eisenbrand and F. Bruce Shepherd. The proceedings (ISBN 978-3-642-13035-9) were published as Volume 6080 in Springer Lecture Notes in Computer Science. 
+  IPCO XV was held at the IBM Learning Center in Armonk, New York, USA, June 15-17, 2011. It was organized by Sanjeeb Dash, Oktay Gunluk, Jon Lee and Maxim Sviridenko. The proceedings (ISBN 978-3-642-20806-5) were published as Volume 6655 in Springer Lecture Notes in Computer Science. 
+  IPCO XVI was held in Valparaíso, Chile, March 18-20, 2013. It was organized by José Correa (chair), Daniel Espinoza, Marcos Goycoolea, Juan Peypouquet José Soto, and José Verschae. The proceedings (ISBN: 978-3-642-36693-2) were published as Volume 7801 in in Springer Lecture Notes in Computer Science. 
+  IPCO XVII was held in Bonn, Germany, June 23-25, 2014. It was organized by Jens Vygen (chair), Stephan Held (co-chair), Stefan Hougardy, Bernhard Korte. The proceedings (ISBN: 978-3-319-07557-0) were published as Volume 8494 in Springer Lecture Notes in Computer Science. 
+  IPCO XVIII was held in Liège, Belgium, June 1-3, 2016. It was organized by Quentin Louveaux and Martin Skutella. The proceedings (ISBN: 978-3-319-33460-8, edited by Quentin Louveaux and Martin Skutella) were published as Volume 9682 in Springer Lecture Notes in Computer Science. 
+  IPCO XIX was held in Waterloo, Canada, June 26-28, 2017. It was organized by Fritz Eisenbrand, Jochen Koenemann (chairs), Joseph Cheriyan, Ricardo Fukasawa, Laura Sanità, and Chaitanya Swamy. The proceedings (ISBN: 978-3-319-59249-7, edited by Friedrich Eisenbrand and Jochen Koenemann) were published as Volume 10328 in Springer Lecture Notes in Computer Science. 
+  IPCO XX was held in Ann Arbor, Michigan, USA, May 22-24 , 2019. It was organized by Andrea Lodi, and Viswanath Nagarajan (chairs), Alexander Barvinok, Seth Pettie, Siqian Shen, Dan Steffy. The proceedings (ISBN: 978-3-030-17952-6) were published as Volume 11480 in Springer Lecture Notes in Computer Science. 
+  IPCO XXI was held online (planned in London, UK), June 8-10, 2020. It was organized by Daniel Bienstock and Giacomo Zambelli (chairs), Ahmad Abdi, Neil Olver, and László Végh. The proceedings (ISBN: 978-3-030-45770-9) were published as Volume 12125 in Springer Lecture Notes in Computer Science. 
+  IPCO XXII was held online (planned in Atlanta, USA), May 19-21, 2021. It was organized by David P. Williamson and Mohit Singh (chairs), Santanu S. Dey, Swati Gupta, Alejandro Toriello. The proceedings (ISBN: 978-3-030-73878-5) were published as Volume 12707 in Springer Lecture Notes in Computer Science. 
+  IPCO XXIII was held in Eindhoven, the Netherlands, June 27-29, 2022. It was organized by Karen Aardal and Laura Sanita. The proceedings (ISBN: 978-3-031-06901-7) were published as Volume 13265 in Springer Lecture Notes in Computer Science. 
+  IPCO XXIV was held in Madison, USA, June 21-23, 2023. It was organized by Styliana Avraamidou, Alberto Del Pia (chair), Jeff Linderoth, Jim Luedtke and Carla Michini. The proceedings (ISBN: 978-3-031-32726-1) were published as Volume 13904 in Springer Lecture Notes in Computer Science. 
+   List of Papers at IPCO  
+ The papers presented at | IPCO I | (1990) at Waterloo, Canada 
+  The papers presented at | IPCO II | (1992) in Pittsburgh, USA 
+  The papers presented at | IPCO III | (1993) in Erice, Italy 
+  The papers presented at | IPCO IV | (1995) in Copenhagen, Denmark 
+  The papers presented at | IPCO V | (1996) in Vancouver, Canada 
+  The papers presented at | IPCO VI | (1998) in Houston, USA 
+  The papers presented at | IPCO VII | (1999) in Graz, Austria 
+  The papers presented at | IPCO VIII | (2001) in Utrecht, The Netherlands 
+  The papers presented at | IPCO IX | (2002) in Boston, USA 
+  The papers presented at | IPCO X | (2004) in New York, USA 
+  The papers presented at | IPCO XI | (2005) in Berlin, Germany 
+  The papers presented at | IPCO XII | (2007) in Ithaca, USA 
+  The papers presented at | IPCO XIII | (2008) in Bertinoro, Italy 
+  The papers presented at | IPCO XIV | (2010) in Lausanne, Switzerland 
+  The papers presented at | IPCO XV | (2011) in Armonk, USA 
+  The papers presented at | IPCO XVI | (2013) in Valparaiso, Chile 
+  The papers presented at | IPCO XVII | (2014) in Bonn, Germany 
+  The papers presented at | IPCO XVIII | (2016) in Liège, Belgium 
+  The papers presented at | IPCO XIX | (2017) in Waterloo, Canada 
+  The papers presented at | IPCO XX | (2019) in Ann Arbor, USA 
+  The papers presented at | IPCO XXI | (2020) in London, UK 
+  The papers presented at | IPCO XXII | (2021) in Atlanta, USA 
+  The papers presented at | IPCO XXIII | (2022) in Eindhoven, the Netherlands 
+  The papers presented at | IPCO XXII | (2023) in Madison, USA 
+
+   List of all Program Commitees  
+ List of all Program Commitees. 
+ top of page | History of IPCO | Information collected by Gerhard Woeginger  .  
+ Contents  
+ The Origins of IPCO 
+  A Concise History of IPCO 
+  List of Papers at IPCO 
+  List of all Program Commitees 
+  Return to the IPCO main page   
+  
+   The Origins of IPCO  
+ The idea of organizing a conference on integer programming and combinatorial optimization which consists of papers selected by a program committee and presented in a single stream had its origin in 1987. Inspired by the FOCS (= Foundations Of Computer Science) and STOC (= Symposium on the Theory Of Computation) meetings in the theoretical computer science community, Ravi Kannan and Bill Pulleyblank got the idea to propose a conference with a similar format for the mathematical programming community. They discussed the idea with the Executive Committee of the what is today the Mathematical Optimization Society (MOS)  and received strong encouragement. The Society responded positively and agreed to be an official sponsor. The Department of Combinatorics and Optimization of the University of Waterloo agreed to be the host for the first meeting.  
+ In 1988, the first IPCO program committee was formed. It consisted of Vasek Chvatal William Cunningham, Ravi Kannan, Richard Karp, George Nemhauser, William Pulleyblank, and Paul Seymour. The meeting was formally announced at the MPS meeting in Tokyo, at the end of August 1988. The submission deadline of the first IPCO was November 15, 1989. The program committee met in early January 1990 in Oberwolfach, Germany, and in mid January 1990 at Carnegie Mellon University, USA. Finally IPCO I took place in Waterloo, May 28-30, 1990.  
+ Since then, IPCO has become one of the main events in mathematical programming. It has a high level of quality and an excellent visibility within the community. The general issues of IPCO are now handled by the IPCO steering commitee  . By all conceivable measures, the IPCO conference series is a success.  
+  
+   A Concise History of IPCO  
+ IPCO I was held at the University of Waterloo, Canada, May 28-30, 1990. It was organized by Ravi Kannan and William R. Pulleyblank. There were 76 papers submitted and 36 papers accepted. The | proceedings | (ISBN 0-88898-099-X) were published by University of Waterloo Press. 
+  IPCO II was held at Carnegie Mellon University, Pittsburgh, USA, May 25-27, 1992. It was organized by Egon Balas, Gerard Cornuejols, and William R. Pulleyblank. There were 74 papers submitted and 33 papers accepted. The proceedings were published by University Printing and Publications, Carnegie Mellon University. 
+  IPCO III was held at Centro Ettore Majorana, Erice, Italy, April 29 - May 1, 1993. It was organized by Giovanni Rinaldi and Laurence A. Wolsey. There were 83 papers submitted and 35 papers accepted. The proceedings were published by CIACO, Louvain-la-Neuve. 
+  IPCO IV was held in Copenhagen, Denmark, May 29-31, 1995. It was organized by Egon Balas and Jens Clausen. There were 105 papers submitted and 36 papers accepted. The proceedings (ISBN 3-540-59408-6) were published as Volume 920 in Springer Lecture Notes in Computer Science. 
+  IPCO V was held at the University of British Columbia, Vancouver, Canada,June 3-5, 1996. It was organized by William H. Cunningham, S. Thomas McCormick, and Maurice Queyranne. There were 99 papers submitted and 36 papers accepted. The proceedings (ISBN 3-540-61310-2) were published as Volume 1084 in Springer Lecture Notes in Computer Science. 
+  IPCO VI was held at Rice University, Houston, USA, June 22-24, 1998. It was organized by Robert Bixby, Andrew Boyd, and Roger Z. Rios. There were 77 papers submitted and 32 papers accepted. The proceedings (ISBN 3-540-64590-X) were published as Volume 1412 in Springer Lecture Notes in Computer Science. 
+  IPCO VII was held in Graz, Austria, June 9-11, 1999. It was organized by Gerard Cornuejols, Rainer E. Burkard, and Gerhard J. Woeginger. There were 99 papers submitted and 33 papers accepted. The proceedings (ISBN 3-540-66019-4) were published as Volume 1610 in Springer Lecture Notes in Computer Science. 
+  IPCO VIII was held in Utrecht, The Netherlands, June 13-15, 2001. It was organized by Karen Aardal and Bert Gerards. There were 108 papers submitted and 32 papers accepted. The proceedings (ISBN 3-540-42225-0) were published as Volume 2081 in Springer Lecture Notes in Computer Science. 
+  IPCO IX was held at MIT, Boston, USA, May 27-29, 2002. It was organized by Bill Cook and Andreas Schulz. There were 110 papers submitted and 33 papers accepted. The proceedings (ISBN 3-540-43676-6) were published as Volume 2337 in Springer Lecture Notes in Computer Science. 
+  IPCO X was held at Columbia University, New York, USA, June 9-11, 2004. It was organized by Dan Bienstock and George Nemhauser. There were 109 papers submitted and 32 papers accepted. The proceedings (ISBN 3-540-22113-1) were published as Volume 3064 in Springer Lecture Notes in Computer Science. 
+  IPCO XI was held at the TU Berlin, Germany, June 8-10, 2005. It was organized by Michael Juenger and Volker Kaibel. There were 119 papers submitted and 34 papers accepted. The proceedings (ISBN 3-540-26199-0) were published as Volume 3509 in Springer Lecture Notes in Computer Science. 
+  IPCO XII was held at Cornell University, USA, June 25-27, 2007. It was organized by Matteo Fischetti and David Williamson. There were 120 papers submitted and 36 papers accepted. The proceedings (ISBN 978-3-540-72791-0) were published as Volume 4513 in Springer Lecture Notes in Computer Science. 
+  IPCO XIII was held at Bertinoro, Italy, May 26-28, 2008. It was organized by Andrea Lodi Alessandro Panconesi, and Giovanni Rinaldi. There were 95 papers submitted and 32 papers accepted. The proceedings (ISBN 978-3-540-68886-0) were published as Volume 5035 in Springer Lecture Notes in Computer Science. 
+  IPCO XIV was held at Lausanne, Switzerland, June 9-11, 2010. It was organized by Fritz Eisenbrand and F. Bruce Shepherd. The proceedings (ISBN 978-3-642-13035-9) were published as Volume 6080 in Springer Lecture Notes in Computer Science. 
+  IPCO XV was held at the IBM Learning Center in Armonk, New York, USA, June 15-17, 2011. It was organized by Sanjeeb Dash, Oktay Gunluk, Jon Lee and Maxim Sviridenko. The proceedings (ISBN 978-3-642-20806-5) were published as Volume 6655 in Springer Lecture Notes in Computer Science. 
+  IPCO XVI was held in Valparaíso, Chile, March 18-20, 2013. It was organized by José Correa (chair), Daniel Espinoza, Marcos Goycoolea, Juan Peypouquet José Soto, and José Verschae. The proceedings (ISBN: 978-3-642-36693-2) were published as Volume 7801 in in Springer Lecture Notes in Computer Science. 
+  IPCO XVII was held in Bonn, Germany, June 23-25, 2014. It was organized by Jens Vygen (chair), Stephan Held (co-chair), Stefan Hougardy, Bernhard Korte. The proceedings (ISBN: 978-3-319-07557-0) were published as Volume 8494 in Springer Lecture Notes in Computer Science. 
+  IPCO XVIII was held in Liège, Belgium, June 1-3, 2016. It was organized by Quentin Louveaux and Martin Skutella. The proceedings (ISBN: 978-3-319-33460-8, edited by Quentin Louveaux and Martin Skutella) were published as Volume 9682 in Springer Lecture Notes in Computer Science. 
+  IPCO XIX was held in Waterloo, Canada, June 26-28, 2017. It was organized by Fritz Eisenbrand, Jochen Koenemann (chairs), Joseph Cheriyan, Ricardo Fukasawa, Laura Sanità, and Chaitanya Swamy. The proceedings (ISBN: 978-3-319-59249-7, edited by Friedrich Eisenbrand and Jochen Koenemann) were published as Volume 10328 in Springer Lecture Notes in Computer Science. 
+  IPCO XX was held in Ann Arbor, Michigan, USA, May 22-24 , 2019. It was organized by Andrea Lodi, and Viswanath Nagarajan (chairs), Alexander Barvinok, Seth Pettie, Siqian Shen, Dan Steffy. The proceedings (ISBN: 978-3-030-17952-6) were published as Volume 11480 in Springer Lecture Notes in Computer Science. 
+  IPCO XXI was held online (planned in London, UK), June 8-10, 2020. It was organized by Daniel Bienstock and Giacomo Zambelli (chairs), Ahmad Abdi, Neil Olver, and László Végh. The proceedings (ISBN: 978-3-030-45770-9) were published as Volume 12125 in Springer Lecture Notes in Computer Science. 
+  IPCO XXII was held online (planned in Atlanta, USA), May 19-21, 2021. It was organized by David P. Williamson and Mohit Singh (chairs), Santanu S. Dey, Swati Gupta, Alejandro Toriello. The proceedings (ISBN: 978-3-030-73878-5) were published as Volume 12707 in Springer Lecture Notes in Computer Science. 
+  IPCO XXIII was held in Eindhoven, the Netherlands, June 27-29, 2022. It was organized by Karen Aardal and Laura Sanita. The proceedings (ISBN: 978-3-031-06901-7) were published as Volume 13265 in Springer Lecture Notes in Computer Science. 
+  IPCO XXIV was held in Madison, USA, June 21-23, 2023. It was organized by Styliana Avraamidou, Alberto Del Pia (chair), Jeff Linderoth, Jim Luedtke and Carla Michini. The proceedings (ISBN: 978-3-031-32726-1) were published as Volume 13904 in Springer Lecture Notes in Computer Science. 
+   List of Papers at IPCO  
+ The papers presented at | IPCO I | (1990) at Waterloo, Canada 
+  The papers presented at | IPCO II | (1992) in Pittsburgh, USA 
+  The papers presented at | IPCO III | (1993) in Erice, Italy 
+  The papers presented at | IPCO IV | (1995) in Copenhagen, Denmark 
+  The papers presented at | IPCO V | (1996) in Vancouver, Canada 
+  The papers presented at | IPCO VI | (1998) in Houston, USA 
+  The papers presented at | IPCO VII | (1999) in Graz, Austria 
+  The papers presented at | IPCO VIII | (2001) in Utrecht, The Netherlands 
+  The papers presented at | IPCO IX | (2002) in Boston, USA 
+  The papers presented at | IPCO X | (2004) in New York, USA 
+  The papers presented at | IPCO XI | (2005) in Berlin, Germany 
+  The papers presented at | IPCO XII | (2007) in Ithaca, USA 
+  The papers presented at | IPCO XIII | (2008) in Bertinoro, Italy 
+  The papers presented at | IPCO XIV | (2010) in Lausanne, Switzerland 
+  The papers presented at | IPCO XV | (2011) in Armonk, USA 
+  The papers presented at | IPCO XVI | (2013) in Valparaiso, Chile 
+  The papers presented at | IPCO XVII | (2014) in Bonn, Germany 
+  The papers presented at | IPCO XVIII | (2016) in Liège, Belgium 
+  The papers presented at | IPCO XIX | (2017) in Waterloo, Canada 
+  The papers presented at | IPCO XX | (2019) in Ann Arbor, USA 
+  The papers presented at | IPCO XXI | (2020) in London, UK 
+  The papers presented at | IPCO XXII | (2021) in Atlanta, USA 
+  The papers presented at | IPCO XXIII | (2022) in Eindhoven, the Netherlands 
+  The papers presented at | IPCO XXII | (2023) in Madison, USA 
+
+   List of all Program Commitees  
+ List of all Program Commitees. | top of page 
+ News  
+ Inaugural International MIP Workshop to be held at ITT Mumbai, India  (02/2024)   
+ ICCOPT 2025 will be held at USC  (01/2024)   
+ Call for nominations: Fulkerson Prize 2024  (11/2023)   
+ Call for site preproposals ISMP 2027  (11/2023)   
+ More News | History of IPCO 
+ Information collected by Gerhard Woeginger  .  
+ Contents  
+ The Origins of IPCO 
+  A Concise History of IPCO 
+  List of Papers at IPCO 
+  List of all Program Commitees 
+  Return to the IPCO main page   
+  
+   The Origins of IPCO  
+ The idea of organizing a conference on integer programming and combinatorial optimization which consists of papers selected by a program committee and presented in a single stream had its origin in 1987. Inspired by the FOCS (= Foundations Of Computer Science) and STOC (= Symposium on the Theory Of Computation) meetings in the theoretical computer science community, Ravi Kannan and Bill Pulleyblank got the idea to propose a conference with a similar format for the mathematical programming community. They discussed the idea with the Executive Committee of the what is today the Mathematical Optimization Society (MOS)  and received strong encouragement. The Society responded positively and agreed to be an official sponsor. The Department of Combinatorics and Optimization of the University of Waterloo agreed to be the host for the first meeting.  
+ In 1988, the first IPCO program committee was formed. It consisted of Vasek Chvatal William Cunningham, Ravi Kannan, Richard Karp, George Nemhauser, William Pulleyblank, and Paul Seymour. The meeting was formally announced at the MPS meeting in Tokyo, at the end of August 1988. The submission deadline of the first IPCO was November 15, 1989. The program committee met in early January 1990 in Oberwolfach, Germany, and in mid January 1990 at Carnegie Mellon University, USA. Finally IPCO I took place in Waterloo, May 28-30, 1990.  
+ Since then, IPCO has become one of the main events in mathematical programming. It has a high level of quality and an excellent visibility within the community. The general issues of IPCO are now handled by the IPCO steering commitee  . By all conceivable measures, the IPCO conference series is a success.  
+  
+   A Concise History of IPCO  
+ IPCO I was held at the University of Waterloo, Canada, May 28-30, 1990. It was organized by Ravi Kannan and William R. Pulleyblank. There were 76 papers submitted and 36 papers accepted. The | proceedings | (ISBN 0-88898-099-X) were published by University of Waterloo Press. 
+  IPCO II was held at Carnegie Mellon University, Pittsburgh, USA, May 25-27, 1992. It was organized by Egon Balas, Gerard Cornuejols, and William R. Pulleyblank. There were 74 papers submitted and 33 papers accepted. The proceedings were published by University Printing and Publications, Carnegie Mellon University. 
+  IPCO III was held at Centro Ettore Majorana, Erice, Italy, April 29 - May 1, 1993. It was organized by Giovanni Rinaldi and Laurence A. Wolsey. There were 83 papers submitted and 35 papers accepted. The proceedings were published by CIACO, Louvain-la-Neuve. 
+  IPCO IV was held in Copenhagen, Denmark, May 29-31, 1995. It was organized by Egon Balas and Jens Clausen. There were 105 papers submitted and 36 papers accepted. The proceedings (ISBN 3-540-59408-6) were published as Volume 920 in Springer Lecture Notes in Computer Science. 
+  IPCO V was held at the University of British Columbia, Vancouver, Canada,June 3-5, 1996. It was organized by William H. Cunningham, S. Thomas McCormick, and Maurice Queyranne. There were 99 papers submitted and 36 papers accepted. The proceedings (ISBN 3-540-61310-2) were published as Volume 1084 in Springer Lecture Notes in Computer Science. 
+  IPCO VI was held at Rice University, Houston, USA, June 22-24, 1998. It was organized by Robert Bixby, Andrew Boyd, and Roger Z. Rios. There were 77 papers submitted and 32 papers accepted. The proceedings (ISBN 3-540-64590-X) were published as Volume 1412 in Springer Lecture Notes in Computer Science. 
+  IPCO VII was held in Graz, Austria, June 9-11, 1999. It was organized by Gerard Cornuejols, Rainer E. Burkard, and Gerhard J. Woeginger. There were 99 papers submitted and 33 papers accepted. The proceedings (ISBN 3-540-66019-4) were published as Volume 1610 in Springer Lecture Notes in Computer Science. 
+  IPCO VIII was held in Utrecht, The Netherlands, June 13-15, 2001. It was organized by Karen Aardal and Bert Gerards. There were 108 papers submitted and 32 papers accepted. The proceedings (ISBN 3-540-42225-0) were published as Volume 2081 in Springer Lecture Notes in Computer Science. 
+  IPCO IX was held at MIT, Boston, USA, May 27-29, 2002. It was organized by Bill Cook and Andreas Schulz. There were 110 papers submitted and 33 papers accepted. The proceedings (ISBN 3-540-43676-6) were published as Volume 2337 in Springer Lecture Notes in Computer Science. 
+  IPCO X was held at Columbia University, New York, USA, June 9-11, 2004. It was organized by Dan Bienstock and George Nemhauser. There were 109 papers submitted and 32 papers accepted. The proceedings (ISBN 3-540-22113-1) were published as Volume 3064 in Springer Lecture Notes in Computer Science. 
+  IPCO XI was held at the TU Berlin, Germany, June 8-10, 2005. It was organized by Michael Juenger and Volker Kaibel. There were 119 papers submitted and 34 papers accepted. The proceedings (ISBN 3-540-26199-0) were published as Volume 3509 in Springer Lecture Notes in Computer Science. 
+  IPCO XII was held at Cornell University, USA, June 25-27, 2007. It was organized by Matteo Fischetti and David Williamson. There were 120 papers submitted and 36 papers accepted. The proceedings (ISBN 978-3-540-72791-0) were published as Volume 4513 in Springer Lecture Notes in Computer Science. 
+  IPCO XIII was held at Bertinoro, Italy, May 26-28, 2008. It was organized by Andrea Lodi Alessandro Panconesi, and Giovanni Rinaldi. There were 95 papers submitted and 32 papers accepted. The proceedings (ISBN 978-3-540-68886-0) were published as Volume 5035 in Springer Lecture Notes in Computer Science. 
+  IPCO XIV was held at Lausanne, Switzerland, June 9-11, 2010. It was organized by Fritz Eisenbrand and F. Bruce Shepherd. The proceedings (ISBN 978-3-642-13035-9) were published as Volume 6080 in Springer Lecture Notes in Computer Science. 
+  IPCO XV was held at the IBM Learning Center in Armonk, New York, USA, June 15-17, 2011. It was organized by Sanjeeb Dash, Oktay Gunluk, Jon Lee and Maxim Sviridenko. The proceedings (ISBN 978-3-642-20806-5) were published as Volume 6655 in Springer Lecture Notes in Computer Science. 
+  IPCO XVI was held in Valparaíso, Chile, March 18-20, 2013. It was organized by José Correa (chair), Daniel Espinoza, Marcos Goycoolea, Juan Peypouquet José Soto, and José Verschae. The proceedings (ISBN: 978-3-642-36693-2) were published as Volume 7801 in in Springer Lecture Notes in Computer Science. 
+  IPCO XVII was held in Bonn, Germany, June 23-25, 2014. It was organized by Jens Vygen (chair), Stephan Held (co-chair), Stefan Hougardy, Bernhard Korte. The proceedings (ISBN: 978-3-319-07557-0) were published as Volume 8494 in Springer Lecture Notes in Computer Science. 
+  IPCO XVIII was held in Liège, Belgium, June 1-3, 2016. It was organized by Quentin Louveaux and Martin Skutella. The proceedings (ISBN: 978-3-319-33460-8, edited by Quentin Louveaux and Martin Skutella) were published as Volume 9682 in Springer Lecture Notes in Computer Science. 
+  IPCO XIX was held in Waterloo, Canada, June 26-28, 2017. It was organized by Fritz Eisenbrand, Jochen Koenemann (chairs), Joseph Cheriyan, Ricardo Fukasawa, Laura Sanità, and Chaitanya Swamy. The proceedings (ISBN: 978-3-319-59249-7, edited by Friedrich Eisenbrand and Jochen Koenemann) were published as Volume 10328 in Springer Lecture Notes in Computer Science. 
+  IPCO XX was held in Ann Arbor, Michigan, USA, May 22-24 , 2019. It was organized by Andrea Lodi, and Viswanath Nagarajan (chairs), Alexander Barvinok, Seth Pettie, Siqian Shen, Dan Steffy. The proceedings (ISBN: 978-3-030-17952-6) were published as Volume 11480 in Springer Lecture Notes in Computer Science. 
+  IPCO XXI was held online (planned in London, UK), June 8-10, 2020. It was organized by Daniel Bienstock and Giacomo Zambelli (chairs), Ahmad Abdi, Neil Olver, and László Végh. The proceedings (ISBN: 978-3-030-45770-9) were published as Volume 12125 in Springer Lecture Notes in Computer Science. 
+  IPCO XXII was held online (planned in Atlanta, USA), May 19-21, 2021. It was organized by David P. Williamson and Mohit Singh (chairs), Santanu S. Dey, Swati Gupta, Alejandro Toriello. The proceedings (ISBN: 978-3-030-73878-5) were published as Volume 12707 in Springer Lecture Notes in Computer Science. 
+  IPCO XXIII was held in Eindhoven, the Netherlands, June 27-29, 2022. It was organized by Karen Aardal and Laura Sanita. The proceedings (ISBN: 978-3-031-06901-7) were published as Volume 13265 in Springer Lecture Notes in Computer Science. 
+  IPCO XXIV was held in Madison, USA, June 21-23, 2023. It was organized by Styliana Avraamidou, Alberto Del Pia (chair), Jeff Linderoth, Jim Luedtke and Carla Michini. The proceedings (ISBN: 978-3-031-32726-1) were published as Volume 13904 in Springer Lecture Notes in Computer Science. 
+   List of Papers at IPCO  
+ The papers presented at | IPCO I | (1990) at Waterloo, Canada 
+  The papers presented at | IPCO II | (1992) in Pittsburgh, USA 
+  The papers presented at | IPCO III | (1993) in Erice, Italy 
+  The papers presented at | IPCO IV | (1995) in Copenhagen, Denmark 
+  The papers presented at | IPCO V | (1996) in Vancouver, Canada 
+  The papers presented at | IPCO VI | (1998) in Houston, USA 
+  The papers presented at | IPCO VII | (1999) in Graz, Austria 
+  The papers presented at | IPCO VIII | (2001) in Utrecht, The Netherlands 
+  The papers presented at | IPCO IX | (2002) in Boston, USA 
+  The papers presented at | IPCO X | (2004) in New York, USA 
+  The papers presented at | IPCO XI | (2005) in Berlin, Germany 
+  The papers presented at | IPCO XII | (2007) in Ithaca, USA 
+  The papers presented at | IPCO XIII | (2008) in Bertinoro, Italy 
+  The papers presented at | IPCO XIV | (2010) in Lausanne, Switzerland 
+  The papers presented at | IPCO XV | (2011) in Armonk, USA 
+  The papers presented at | IPCO XVI | (2013) in Valparaiso, Chile 
+  The papers presented at | IPCO XVII | (2014) in Bonn, Germany 
+  The papers presented at | IPCO XVIII | (2016) in Liège, Belgium 
+  The papers presented at | IPCO XIX | (2017) in Waterloo, Canada 
+  The papers presented at | IPCO XX | (2019) in Ann Arbor, USA 
+  The papers presented at | IPCO XXI | (2020) in London, UK 
+  The papers presented at | IPCO XXII | (2021) in Atlanta, USA 
+  The papers presented at | IPCO XXIII | (2022) in Eindhoven, the Netherlands 
+  The papers presented at | IPCO XXII | (2023) in Madison, USA 
+
+   List of all Program Commitees  
+ List of all Program Commitees. 
+ top of page | History of IPCO | Information collected by Gerhard Woeginger  .  
+ Contents  
+ The Origins of IPCO 
+  A Concise History of IPCO 
+  List of Papers at IPCO 
+  List of all Program Commitees 
+  Return to the IPCO main page   
+  
+   The Origins of IPCO  
+ The idea of organizing a conference on integer programming and combinatorial optimization which consists of papers selected by a program committee and presented in a single stream had its origin in 1987. Inspired by the FOCS (= Foundations Of Computer Science) and STOC (= Symposium on the Theory Of Computation) meetings in the theoretical computer science community, Ravi Kannan and Bill Pulleyblank got the idea to propose a conference with a similar format for the mathematical programming community. They discussed the idea with the Executive Committee of the what is today the Mathematical Optimization Society (MOS)  and received strong encouragement. The Society responded positively and agreed to be an official sponsor. The Department of Combinatorics and Optimization of the University of Waterloo agreed to be the host for the first meeting.  
+ In 1988, the first IPCO program committee was formed. It consisted of Vasek Chvatal William Cunningham, Ravi Kannan, Richard Karp, George Nemhauser, William Pulleyblank, and Paul Seymour. The meeting was formally announced at the MPS meeting in Tokyo, at the end of August 1988. The submission deadline of the first IPCO was November 15, 1989. The program committee met in early January 1990 in Oberwolfach, Germany, and in mid January 1990 at Carnegie Mellon University, USA. Finally IPCO I took place in Waterloo, May 28-30, 1990.  
+ Since then, IPCO has become one of the main events in mathematical programming. It has a high level of quality and an excellent visibility within the community. The general issues of IPCO are now handled by the IPCO steering commitee  . By all conceivable measures, the IPCO conference series is a success.  
+  
+   A Concise History of IPCO  
+ IPCO I was held at the University of Waterloo, Canada, May 28-30, 1990. It was organized by Ravi Kannan and William R. Pulleyblank. There were 76 papers submitted and 36 papers accepted. The | proceedings | (ISBN 0-88898-099-X) were published by University of Waterloo Press. 
+  IPCO II was held at Carnegie Mellon University, Pittsburgh, USA, May 25-27, 1992. It was organized by Egon Balas, Gerard Cornuejols, and William R. Pulleyblank. There were 74 papers submitted and 33 papers accepted. The proceedings were published by University Printing and Publications, Carnegie Mellon University. 
+  IPCO III was held at Centro Ettore Majorana, Erice, Italy, April 29 - May 1, 1993. It was organized by Giovanni Rinaldi and Laurence A. Wolsey. There were 83 papers submitted and 35 papers accepted. The proceedings were published by CIACO, Louvain-la-Neuve. 
+  IPCO IV was held in Copenhagen, Denmark, May 29-31, 1995. It was organized by Egon Balas and Jens Clausen. There were 105 papers submitted and 36 papers accepted. The proceedings (ISBN 3-540-59408-6) were published as Volume 920 in Springer Lecture Notes in Computer Science. 
+  IPCO V was held at the University of British Columbia, Vancouver, Canada,June 3-5, 1996. It was organized by William H. Cunningham, S. Thomas McCormick, and Maurice Queyranne. There were 99 papers submitted and 36 papers accepted. The proceedings (ISBN 3-540-61310-2) were published as Volume 1084 in Springer Lecture Notes in Computer Science. 
+  IPCO VI was held at Rice University, Houston, USA, June 22-24, 1998. It was organized by Robert Bixby, Andrew Boyd, and Roger Z. Rios. There were 77 papers submitted and 32 papers accepted. The proceedings (ISBN 3-540-64590-X) were published as Volume 1412 in Springer Lecture Notes in Computer Science. 
+  IPCO VII was held in Graz, Austria, June 9-11, 1999. It was organized by Gerard Cornuejols, Rainer E. Burkard, and Gerhard J. Woeginger. There were 99 papers submitted and 33 papers accepted. The proceedings (ISBN 3-540-66019-4) were published as Volume 1610 in Springer Lecture Notes in Computer Science. 
+  IPCO VIII was held in Utrecht, The Netherlands, June 13-15, 2001. It was organized by Karen Aardal and Bert Gerards. There were 108 papers submitted and 32 papers accepted. The proceedings (ISBN 3-540-42225-0) were published as Volume 2081 in Springer Lecture Notes in Computer Science. 
+  IPCO IX was held at MIT, Boston, USA, May 27-29, 2002. It was organized by Bill Cook and Andreas Schulz. There were 110 papers submitted and 33 papers accepted. The proceedings (ISBN 3-540-43676-6) were published as Volume 2337 in Springer Lecture Notes in Computer Science. 
+  IPCO X was held at Columbia University, New York, USA, June 9-11, 2004. It was organized by Dan Bienstock and George Nemhauser. There were 109 papers submitted and 32 papers accepted. The proceedings (ISBN 3-540-22113-1) were published as Volume 3064 in Springer Lecture Notes in Computer Science. 
+  IPCO XI was held at the TU Berlin, Germany, June 8-10, 2005. It was organized by Michael Juenger and Volker Kaibel. There were 119 papers submitted and 34 papers accepted. The proceedings (ISBN 3-540-26199-0) were published as Volume 3509 in Springer Lecture Notes in Computer Science. 
+  IPCO XII was held at Cornell University, USA, June 25-27, 2007. It was organized by Matteo Fischetti and David Williamson. There were 120 papers submitted and 36 papers accepted. The proceedings (ISBN 978-3-540-72791-0) were published as Volume 4513 in Springer Lecture Notes in Computer Science. 
+  IPCO XIII was held at Bertinoro, Italy, May 26-28, 2008. It was organized by Andrea Lodi Alessandro Panconesi, and Giovanni Rinaldi. There were 95 papers submitted and 32 papers accepted. The proceedings (ISBN 978-3-540-68886-0) were published as Volume 5035 in Springer Lecture Notes in Computer Science. 
+  IPCO XIV was held at Lausanne, Switzerland, June 9-11, 2010. It was organized by Fritz Eisenbrand and F. Bruce Shepherd. The proceedings (ISBN 978-3-642-13035-9) were published as Volume 6080 in Springer Lecture Notes in Computer Science. 
+  IPCO XV was held at the IBM Learning Center in Armonk, New York, USA, June 15-17, 2011. It was organized by Sanjeeb Dash, Oktay Gunluk, Jon Lee and Maxim Sviridenko. The proceedings (ISBN 978-3-642-20806-5) were published as Volume 6655 in Springer Lecture Notes in Computer Science. 
+  IPCO XVI was held in Valparaíso, Chile, March 18-20, 2013. It was organized by José Correa (chair), Daniel Espinoza, Marcos Goycoolea, Juan Peypouquet José Soto, and José Verschae. The proceedings (ISBN: 978-3-642-36693-2) were published as Volume 7801 in in Springer Lecture Notes in Computer Science. 
+  IPCO XVII was held in Bonn, Germany, June 23-25, 2014. It was organized by Jens Vygen (chair), Stephan Held (co-chair), Stefan Hougardy, Bernhard Korte. The proceedings (ISBN: 978-3-319-07557-0) were published as Volume 8494 in Springer Lecture Notes in Computer Science. 
+  IPCO XVIII was held in Liège, Belgium, June 1-3, 2016. It was organized by Quentin Louveaux and Martin Skutella. The proceedings (ISBN: 978-3-319-33460-8, edited by Quentin Louveaux and Martin Skutella) were published as Volume 9682 in Springer Lecture Notes in Computer Science. 
+  IPCO XIX was held in Waterloo, Canada, June 26-28, 2017. It was organized by Fritz Eisenbrand, Jochen Koenemann (chairs), Joseph Cheriyan, Ricardo Fukasawa, Laura Sanità, and Chaitanya Swamy. The proceedings (ISBN: 978-3-319-59249-7, edited by Friedrich Eisenbrand and Jochen Koenemann) were published as Volume 10328 in Springer Lecture Notes in Computer Science. 
+  IPCO XX was held in Ann Arbor, Michigan, USA, May 22-24 , 2019. It was organized by Andrea Lodi, and Viswanath Nagarajan (chairs), Alexander Barvinok, Seth Pettie, Siqian Shen, Dan Steffy. The proceedings (ISBN: 978-3-030-17952-6) were published as Volume 11480 in Springer Lecture Notes in Computer Science. 
+  IPCO XXI was held online (planned in London, UK), June 8-10, 2020. It was organized by Daniel Bienstock and Giacomo Zambelli (chairs), Ahmad Abdi, Neil Olver, and László Végh. The proceedings (ISBN: 978-3-030-45770-9) were published as Volume 12125 in Springer Lecture Notes in Computer Science. 
+  IPCO XXII was held online (planned in Atlanta, USA), May 19-21, 2021. It was organized by David P. Williamson and Mohit Singh (chairs), Santanu S. Dey, Swati Gupta, Alejandro Toriello. The proceedings (ISBN: 978-3-030-73878-5) were published as Volume 12707 in Springer Lecture Notes in Computer Science. 
+  IPCO XXIII was held in Eindhoven, the Netherlands, June 27-29, 2022. It was organized by Karen Aardal and Laura Sanita. The proceedings (ISBN: 978-3-031-06901-7) were published as Volume 13265 in Springer Lecture Notes in Computer Science. 
+  IPCO XXIV was held in Madison, USA, June 21-23, 2023. It was organized by Styliana Avraamidou, Alberto Del Pia (chair), Jeff Linderoth, Jim Luedtke and Carla Michini. The proceedings (ISBN: 978-3-031-32726-1) were published as Volume 13904 in Springer Lecture Notes in Computer Science. 
+   List of Papers at IPCO  
+ The papers presented at | IPCO I | (1990) at Waterloo, Canada 
+  The papers presented at | IPCO II | (1992) in Pittsburgh, USA 
+  The papers presented at | IPCO III | (1993) in Erice, Italy 
+  The papers presented at | IPCO IV | (1995) in Copenhagen, Denmark 
+  The papers presented at | IPCO V | (1996) in Vancouver, Canada 
+  The papers presented at | IPCO VI | (1998) in Houston, USA 
+  The papers presented at | IPCO VII | (1999) in Graz, Austria 
+  The papers presented at | IPCO VIII | (2001) in Utrecht, The Netherlands 
+  The papers presented at | IPCO IX | (2002) in Boston, USA 
+  The papers presented at | IPCO X | (2004) in New York, USA 
+  The papers presented at | IPCO XI | (2005) in Berlin, Germany 
+  The papers presented at | IPCO XII | (2007) in Ithaca, USA 
+  The papers presented at | IPCO XIII | (2008) in Bertinoro, Italy 
+  The papers presented at | IPCO XIV | (2010) in Lausanne, Switzerland 
+  The papers presented at | IPCO XV | (2011) in Armonk, USA 
+  The papers presented at | IPCO XVI | (2013) in Valparaiso, Chile 
+  The papers presented at | IPCO XVII | (2014) in Bonn, Germany 
+  The papers presented at | IPCO XVIII | (2016) in Liège, Belgium 
+  The papers presented at | IPCO XIX | (2017) in Waterloo, Canada 
+  The papers presented at | IPCO XX | (2019) in Ann Arbor, USA 
+  The papers presented at | IPCO XXI | (2020) in London, UK 
+  The papers presented at | IPCO XXII | (2021) in Atlanta, USA 
+  The papers presented at | IPCO XXIII | (2022) in Eindhoven, the Netherlands 
+  The papers presented at | IPCO XXII | (2023) in Madison, USA 
+
+   List of all Program Commitees  
+ List of all Program Commitees. | top of page 
+ History of IPCO 
+ Information collected by Gerhard Woeginger  .  
+ Contents  
+ The Origins of IPCO 
+  A Concise History of IPCO 
+  List of Papers at IPCO 
+  List of all Program Commitees 
+  Return to the IPCO main page   
+  
+   The Origins of IPCO  
+ The idea of organizing a conference on integer programming and combinatorial optimization which consists of papers selected by a program committee and presented in a single stream had its origin in 1987. Inspired by the FOCS (= Foundations Of Computer Science) and STOC (= Symposium on the Theory Of Computation) meetings in the theoretical computer science community, Ravi Kannan and Bill Pulleyblank got the idea to propose a conference with a similar format for the mathematical programming community. They discussed the idea with the Executive Committee of the what is today the Mathematical Optimization Society (MOS)  and received strong encouragement. The Society responded positively and agreed to be an official sponsor. The Department of Combinatorics and Optimization of the University of Waterloo agreed to be the host for the first meeting.  
+ In 1988, the first IPCO program committee was formed. It consisted of Vasek Chvatal William Cunningham, Ravi Kannan, Richard Karp, George Nemhauser, William Pulleyblank, and Paul Seymour. The meeting was formally announced at the MPS meeting in Tokyo, at the end of August 1988. The submission deadline of the first IPCO was November 15, 1989. The program committee met in early January 1990 in Oberwolfach, Germany, and in mid January 1990 at Carnegie Mellon University, USA. Finally IPCO I took place in Waterloo, May 28-30, 1990.  
+ Since then, IPCO has become one of the main events in mathematical programming. It has a high level of quality and an excellent visibility within the community. The general issues of IPCO are now handled by the IPCO steering commitee  . By all conceivable measures, the IPCO conference series is a success.  
+  
+   A Concise History of IPCO  
+ IPCO I was held at the University of Waterloo, Canada, May 28-30, 1990. It was organized by Ravi Kannan and William R. Pulleyblank. There were 76 papers submitted and 36 papers accepted. The | proceedings | (ISBN 0-88898-099-X) were published by University of Waterloo Press. 
+  IPCO II was held at Carnegie Mellon University, Pittsburgh, USA, May 25-27, 1992. It was organized by Egon Balas, Gerard Cornuejols, and William R. Pulleyblank. There were 74 papers submitted and 33 papers accepted. The proceedings were published by University Printing and Publications, Carnegie Mellon University. 
+  IPCO III was held at Centro Ettore Majorana, Erice, Italy, April 29 - May 1, 1993. It was organized by Giovanni Rinaldi and Laurence A. Wolsey. There were 83 papers submitted and 35 papers accepted. The proceedings were published by CIACO, Louvain-la-Neuve. 
+  IPCO IV was held in Copenhagen, Denmark, May 29-31, 1995. It was organized by Egon Balas and Jens Clausen. There were 105 papers submitted and 36 papers accepted. The proceedings (ISBN 3-540-59408-6) were published as Volume 920 in Springer Lecture Notes in Computer Science. 
+  IPCO V was held at the University of British Columbia, Vancouver, Canada,June 3-5, 1996. It was organized by William H. Cunningham, S. Thomas McCormick, and Maurice Queyranne. There were 99 papers submitted and 36 papers accepted. The proceedings (ISBN 3-540-61310-2) were published as Volume 1084 in Springer Lecture Notes in Computer Science. 
+  IPCO VI was held at Rice University, Houston, USA, June 22-24, 1998. It was organized by Robert Bixby, Andrew Boyd, and Roger Z. Rios. There were 77 papers submitted and 32 papers accepted. The proceedings (ISBN 3-540-64590-X) were published as Volume 1412 in Springer Lecture Notes in Computer Science. 
+  IPCO VII was held in Graz, Austria, June 9-11, 1999. It was organized by Gerard Cornuejols, Rainer E. Burkard, and Gerhard J. Woeginger. There were 99 papers submitted and 33 papers accepted. The proceedings (ISBN 3-540-66019-4) were published as Volume 1610 in Springer Lecture Notes in Computer Science. 
+  IPCO VIII was held in Utrecht, The Netherlands, June 13-15, 2001. It was organized by Karen Aardal and Bert Gerards. There were 108 papers submitted and 32 papers accepted. The proceedings (ISBN 3-540-42225-0) were published as Volume 2081 in Springer Lecture Notes in Computer Science. 
+  IPCO IX was held at MIT, Boston, USA, May 27-29, 2002. It was organized by Bill Cook and Andreas Schulz. There were 110 papers submitted and 33 papers accepted. The proceedings (ISBN 3-540-43676-6) were published as Volume 2337 in Springer Lecture Notes in Computer Science. 
+  IPCO X was held at Columbia University, New York, USA, June 9-11, 2004. It was organized by Dan Bienstock and George Nemhauser. There were 109 papers submitted and 32 papers accepted. The proceedings (ISBN 3-540-22113-1) were published as Volume 3064 in Springer Lecture Notes in Computer Science. 
+  IPCO XI was held at the TU Berlin, Germany, June 8-10, 2005. It was organized by Michael Juenger and Volker Kaibel. There were 119 papers submitted and 34 papers accepted. The proceedings (ISBN 3-540-26199-0) were published as Volume 3509 in Springer Lecture Notes in Computer Science. 
+  IPCO XII was held at Cornell University, USA, June 25-27, 2007. It was organized by Matteo Fischetti and David Williamson. There were 120 papers submitted and 36 papers accepted. The proceedings (ISBN 978-3-540-72791-0) were published as Volume 4513 in Springer Lecture Notes in Computer Science. 
+  IPCO XIII was held at Bertinoro, Italy, May 26-28, 2008. It was organized by Andrea Lodi Alessandro Panconesi, and Giovanni Rinaldi. There were 95 papers submitted and 32 papers accepted. The proceedings (ISBN 978-3-540-68886-0) were published as Volume 5035 in Springer Lecture Notes in Computer Science. 
+  IPCO XIV was held at Lausanne, Switzerland, June 9-11, 2010. It was organized by Fritz Eisenbrand and F. Bruce Shepherd. The proceedings (ISBN 978-3-642-13035-9) were published as Volume 6080 in Springer Lecture Notes in Computer Science. 
+  IPCO XV was held at the IBM Learning Center in Armonk, New York, USA, June 15-17, 2011. It was organized by Sanjeeb Dash, Oktay Gunluk, Jon Lee and Maxim Sviridenko. The proceedings (ISBN 978-3-642-20806-5) were published as Volume 6655 in Springer Lecture Notes in Computer Science. 
+  IPCO XVI was held in Valparaíso, Chile, March 18-20, 2013. It was organized by José Correa (chair), Daniel Espinoza, Marcos Goycoolea, Juan Peypouquet José Soto, and José Verschae. The proceedings (ISBN: 978-3-642-36693-2) were published as Volume 7801 in in Springer Lecture Notes in Computer Science. 
+  IPCO XVII was held in Bonn, Germany, June 23-25, 2014. It was organized by Jens Vygen (chair), Stephan Held (co-chair), Stefan Hougardy, Bernhard Korte. The proceedings (ISBN: 978-3-319-07557-0) were published as Volume 8494 in Springer Lecture Notes in Computer Science. 
+  IPCO XVIII was held in Liège, Belgium, June 1-3, 2016. It was organized by Quentin Louveaux and Martin Skutella. The proceedings (ISBN: 978-3-319-33460-8, edited by Quentin Louveaux and Martin Skutella) were published as Volume 9682 in Springer Lecture Notes in Computer Science. 
+  IPCO XIX was held in Waterloo, Canada, June 26-28, 2017. It was organized by Fritz Eisenbrand, Jochen Koenemann (chairs), Joseph Cheriyan, Ricardo Fukasawa, Laura Sanità, and Chaitanya Swamy. The proceedings (ISBN: 978-3-319-59249-7, edited by Friedrich Eisenbrand and Jochen Koenemann) were published as Volume 10328 in Springer Lecture Notes in Computer Science. 
+  IPCO XX was held in Ann Arbor, Michigan, USA, May 22-24 , 2019. It was organized by Andrea Lodi, and Viswanath Nagarajan (chairs), Alexander Barvinok, Seth Pettie, Siqian Shen, Dan Steffy. The proceedings (ISBN: 978-3-030-17952-6) were published as Volume 11480 in Springer Lecture Notes in Computer Science. 
+  IPCO XXI was held online (planned in London, UK), June 8-10, 2020. It was organized by Daniel Bienstock and Giacomo Zambelli (chairs), Ahmad Abdi, Neil Olver, and László Végh. The proceedings (ISBN: 978-3-030-45770-9) were published as Volume 12125 in Springer Lecture Notes in Computer Science. 
+  IPCO XXII was held online (planned in Atlanta, USA), May 19-21, 2021. It was organized by David P. Williamson and Mohit Singh (chairs), Santanu S. Dey, Swati Gupta, Alejandro Toriello. The proceedings (ISBN: 978-3-030-73878-5) were published as Volume 12707 in Springer Lecture Notes in Computer Science. 
+  IPCO XXIII was held in Eindhoven, the Netherlands, June 27-29, 2022. It was organized by Karen Aardal and Laura Sanita. The proceedings (ISBN: 978-3-031-06901-7) were published as Volume 13265 in Springer Lecture Notes in Computer Science. 
+  IPCO XXIV was held in Madison, USA, June 21-23, 2023. It was organized by Styliana Avraamidou, Alberto Del Pia (chair), Jeff Linderoth, Jim Luedtke and Carla Michini. The proceedings (ISBN: 978-3-031-32726-1) were published as Volume 13904 in Springer Lecture Notes in Computer Science. 
+   List of Papers at IPCO  
+ The papers presented at | IPCO I | (1990) at Waterloo, Canada 
+  The papers presented at | IPCO II | (1992) in Pittsburgh, USA 
+  The papers presented at | IPCO III | (1993) in Erice, Italy 
+  The papers presented at | IPCO IV | (1995) in Copenhagen, Denmark 
+  The papers presented at | IPCO V | (1996) in Vancouver, Canada 
+  The papers presented at | IPCO VI | (1998) in Houston, USA 
+  The papers presented at | IPCO VII | (1999) in Graz, Austria 
+  The papers presented at | IPCO VIII | (2001) in Utrecht, The Netherlands 
+  The papers presented at | IPCO IX | (2002) in Boston, USA 
+  The papers presented at | IPCO X | (2004) in New York, USA 
+  The papers presented at | IPCO XI | (2005) in Berlin, Germany 
+  The papers presented at | IPCO XII | (2007) in Ithaca, USA 
+  The papers presented at | IPCO XIII | (2008) in Bertinoro, Italy 
+  The papers presented at | IPCO XIV | (2010) in Lausanne, Switzerland 
+  The papers presented at | IPCO XV | (2011) in Armonk, USA 
+  The papers presented at | IPCO XVI | (2013) in Valparaiso, Chile 
+  The papers presented at | IPCO XVII | (2014) in Bonn, Germany 
+  The papers presented at | IPCO XVIII | (2016) in Liège, Belgium 
+  The papers presented at | IPCO XIX | (2017) in Waterloo, Canada 
+  The papers presented at | IPCO XX | (2019) in Ann Arbor, USA 
+  The papers presented at | IPCO XXI | (2020) in London, UK 
+  The papers presented at | IPCO XXII | (2021) in Atlanta, USA 
+  The papers presented at | IPCO XXIII | (2022) in Eindhoven, the Netherlands 
+  The papers presented at | IPCO XXII | (2023) in Madison, USA 
+
+   List of all Program Commitees  
+ List of all Program Commitees. 
+ top of page 
+ Home  | Contact  | About MOS  | Membership  | Publications  | Prizes  | Meetings  | IPCO  | ISMP  | Links  | Album  | Jobs  © 2009-2022 Mathematical Optimization Society. All Rights Reserved. 
+  
+    

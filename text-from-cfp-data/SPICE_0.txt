@@ -1,0 +1,193 @@
+      
+
+                     Search  Software  Quality      Search the TechTarget Network      Login   Register     
+ Explore the Network  TechTarget Network 
+  Cloud Computing 
+  App Architecture 
+  IT Operations 
+  TheServerSide 
+  AWS 
+    
+ Search  Software  Quality 
+  SDLC 
+  Software Design & Development 
+  Software Development Methodologies 
+  Team Structure & Skills 
+  Test Types 
+  More Topics | Testing Tools & Techniques | Other Content  News 
+  Features 
+  Tips 
+  Webinars 
+  2024 IT Salary Survey Results 
+  Sponsored Sites 
+  More | Answers 
+  Conference Guides 
+  Definitions 
+  Opinions 
+  Podcasts 
+  Quizzes 
+  Tech Accelerators 
+  Tutorials 
+  Videos 
+  Follow: 
+
+ Home 
+  Software design and development 
+
+  Sergey Nivens - Fotolia  
+
+ Tip    
+   
+ 23 software development metrics to track today  
+
+ High-performance, engaging, secure apps don't happen by accident. Measure these KPIs to improve the software development process and software quality.  
+  
+ Share this item with your network: 
+
+ By  Ryan Black, | Assistant Site Editor 
+  Published: 18 Aug 2020    
+
+ Software development metrics can reveal how an application is performing and how effective the development team is in its work.  
+ IT organizations rely on a range of these KPIs to fully understand software engineers' progress, as well as software quality, such as performance and user satisfaction. The gamut of possible measurements spans four key categories:  
+
+ developer productivity 
+  software performance 
+  defects and security 
+  user experience (UX) 
+  While an IT organization doesn't need to tabulate every software metric, it should prioritize and track the ones that matter most to its requirements and goals. Scan these 23 software development metrics, and build a set of KPIs for software quality.  
+  Developer productivity metrics  
+ Many ways exist to discuss or evaluate team efficiency and completed work. Productivity metrics enable development managers to run projects better. Tabulate a mix of these software metrics to gauge how far along a project is, levels of developer productivity, the amount of additional dev time necessary and more.  
+ Lead time. | Lead time is how long something takes from start to finish. In software development, for example, a project's lead time starts with the proposal and ends with delivery. 
+  Amount of code. | Development teams can look at this software metric, also called | thousands of lines of code | ( | KLOC | ), to determine the size of an application. If this KPI is high, it might indicate that developers were productive in their programming efforts. Although, this metric is not useful when a development team tries to compare two projects written in different programming languages. Also, keep in mind that more code doesn't always make for efficient or effective code, which can make for more refactoring work later. 
+  Work in progress (WIP). | In a software engineering context, | WIP | is development work that the team has begun to work on and that's no longer in the backlog. A team can express WIP in a burn down chart. A common tool for Agile and Scrum sprints, these charts display how much work the team has finished and the amount of work left to do. 
+  Agile velocity. | To calculate velocity, an Agile software development team looks at previous sprints and counts the number of user stories or story points completed over time. Agile velocity is an estimate of how productive the team will be within a single sprint. 
+  Sprint goal success rate. | This software metric calculates the percentage of items the development team completed in the sprint backlog. A team might not finish 100% of the work during any given sprint. However, the team's progress might still meet its | definition of done | -- the threshold a project must meet for an organization to consider it finished. If the iteration meets the definition of done, it is a success. 
+  Number of software releases. | Agile and DevOps teams prioritize frequent, continual software releases. With this KPI, teams can track how frequently they release software, whether monthly, weekly, daily, hourly or any other time frame -- and whether that cadence ultimately delivers enough business value. 
+   
+  Software performance metrics   
+ Software performance refers to quantitative measures of a software system's behavior. Performance metrics gauge nonfunctional attributes -- i.e., how  an application performs, not what  it performs.  
+ Aspects of software performance. | Performance testing might assess the following characteristics of an application: 
+  scalability 
+  stability 
+  responsiveness 
+  speed 
+  availability 
+  Other important expressions of software performance metrics include the following.  
+ Throughput. | Throughput | is the number of units of data a system processes in a certain amount of time. 
+  Response time. | response time measures how much time it takes for a system to respond to an inquiry or demand. 
+  Reliability, availability and serviceability (RAS). | RAS | refers to software's ability to persistently meet its specifications; how long it functions relative to the amount expected; and how easily it can be repaired or maintained. 
+   
+  Defect metrics   
+ Development teams must understand  how applications fail in order to build them better. These software development metrics assess defects  and vulnerabilities.  
+ Defect density. | At the code level, developers can tabulate the number of defects per KLOC to assess the frequency of defects. 
+  Code coverage. | This is the proportion of source code that automated tests cover. The software metric enables testers to pinpoint what areas of the code they have yet to properly test. 
+  Defect detection percentage. | This metric is a ratio of the | amount of defects | found prior to software releases compared to the number found post-release. To calculate the percentage, take the number of defects found pre-release (x) and the amount users encountered after release (y), and then calculate x/(x + y). A high percentage is preferable, as that means a larger proportion of the defects was found before customers used the software. 
+  Technical debt. | Technical debt is a | metaphor that reflects the long-term effort, as well as temporal and financial costs, of developers not addressing a development problem when it first arises. 
+  15. Morale as a metric  
+ Treat employee or team happiness as another useful indicator  of team productivity and success. It just might be as important as any technical metric or software quality KPI.  
+ Stressed or unsatisfied team members can erode work productivity and, ultimately, software performance. Keep stock of numbers like team member turnover, also called employee churn  ; a lower number likely means employees are satisfied within the organization.  
+
+ 16. Security vulnerabilities.  Vulnerability scans identify security weaknesses in an application. The lower the number of vulnerabilities found, the more secure the software will be.  
+ 17. Actual security incidents.  This KPI counts the number of times a hacker exploits a vulnerability in the software. Track how often these breaches occur, the severity of the attack -- for example, what data was stolen -- and the amount of time the incident lasted.  
+ IT organizations use various averages to calculate the occurrence of software failures or defects.  
+ Mean time to detect | . | Mean time to detect | is an average that indicates | how long it takes | for a team to notice an issue or bug. 
+  Mean time between failures | . | This | metric is a calculation of how common it is for a program to fail. 
+  Mean time to repair | . | Mean time to repair | is the average that represents how quickly a team addresses failures. 
+   
+  Usability and UX metrics   
+ Users experience and interact with software in different ways. Just as it's difficult to classify people's emotions, it's also challenging to assess their reaction to software. While no single software metric can communicate the entirety of UX, there are a few helpful ones.  
+ UX metrics. | Measurements of UX | are often qualitative and might include users' emotional or bodily responses, such as how much they trust the software and how their eyes move across a UI. 
+  Usability metrics. | usability measures how well the software enables customers to achieve their goals. Usability can be broken down into smaller components, such as the following: 
+  discoverability 
+  efficiency 
+  memorability 
+  learnability 
+  satisfaction 
+  accessibility, particularly | digital accessibility 
+  Net Promoter Score (NPS). | This software metric reflects customers' willingness to recommend an application to others. | Net Promoter Score | is presented as a number range from 0-10. Customers with a score from 0 to 6 are | Detractors | ; 7 and 8 scores are | Passives | ; and 9 and 10 are | Promoters | . 
+
+  Next Steps  
+ Climb the five steps of a continuous delivery maturity model   
+ Project management tools and strategies: Gantt charts, PERT charts and PM planning tools   
+ Tech news this week: AI software engineer vs. human engineer   
+
+  Dig Deeper on Software design and development  
+ Speed vs. quality in software testing: Can you have both?  
+   By: Amy Reichert 
+  5 essential best practices for QA teams to adopt  
+   By: Gerie Owen 
+  Carefully weigh these DevOps pros and cons  
+   By: Stephen Bigelow 
+  Scrum vs. Kanban: What's the difference?  
+ By: Darcy DeClute 
+
+  Sponsored News   
+ Understanding Revenue Cycle Metrics for Healthcare Financial Success | –Greenway Health 
+  Implementing interventional analytics at a Medicare ACO | –Real Time Medical Systems 
+  Improving LTPAC Management Interventions Using Real-Time Analytics | –Real Time Medical Systems 
+  See More 
+   
+  Related Content   
+ Explore common types of Agile teams | – Search Software Quality 
+  Condensed Agile sprint timeline pros and cons | – Search Software Quality 
+  How to hold effective Agile sprint planning meetings | – Search Software Quality 
+
+ Latest TechTarget resources   Cloud Computing 
+  Application Architecture 
+  IT Operations 
+  Java 
+  AWS 
+   
+   Cloud  Computing    11 cloud migration benefits to know before making the move | The cloud's benefits are well established, but it's still useful to keep the biggest ones in mind before going through the ... 
+  Best practices for rightsizing EC2 instances | EC2 instances that are improperly sized drain money and restrict performance on workloads. Learn how rightsizing EC2 instances ... 
+  A preview of the AWS re:Invent 2024 agenda | With AWS re:Invent 2024 offering in-person and virtual options this year, attendees can choose from a range of interactive ... 
+    
+ Search  App  Architecture    Webhook vs. API: Which mechanism is better? | Moving data in one direction? Choose a webhook. Need applications to communicate with each other? Use an API. But first, compare ... 
+  What's next for APIs? 4 API trends for 2025 and beyond | As businesses navigate tightening budgets and resources, the API marketplace will continue to play a vital role in integrating ... 
+  13 application performance metrics and how to measure them | You've deployed your application, now what? Keep your application performing well by tracking metrics. Take a look at these 13 ... 
+    
+ Search  IT  Operations    WasmCloud makes strides with Wasm component model | After a stall in 2023, this year's WASI Preview 2 pushed server-side WebAssembly forward, turning heads at companies such as ... 
+  Rethinking 'secure by design' amid slippery SecOps shifts | An expert discusses the fallout from a CISA report that raised doubts about the last decade's DevSecOps trend, and where the ... 
+  IT pros revise pipelines for software supply chain security | Software supply chain security has reached an awkward stage for enterprise IT, as platform and security pros grapple with adding ... 
+    
+ The  Server  Side  .com    Understanding the 7 principles of functional programming | Java and C++ ushered in object-oriented programming, but now Python and JavaScript popularize functional programming. These seven... 
+  Agile estimation: Predicting the unpredictable | Agile teams' overreliance on estimates detracts from the overall goal to deliver value to the customer. Avoid these agile ... 
+  Know these top 5 Scrum antipatterns | Embrace sprints, set clear goals, engage with customers -- these behaviors and others will help your teams avoid common Scrum ... 
+    
+ Search  AWS    Compare Datadog vs. New Relic for IT monitoring in 2024 | Compare Datadog vs. New Relic capabilities including alerts, log management, incident management and more. Learn which tool is ... 
+  AWS Control Tower aims to simplify multi-account management | Many organizations struggle to manage their vast collection of AWS accounts, but Control Tower can help. The service automates ... 
+  Break down the Amazon EKS pricing model | There are several important variables within the Amazon EKS pricing model. Dig into the numbers to ensure you deploy the service ... 
+
+ About Us 
+  Editorial Ethics Policy 
+  Meet The Editors 
+  Contact Us 
+  Advertisers 
+  Partner with Us 
+  Media Kit 
+  Corporate Site 
+  Contributors 
+  Reprints 
+  Answers 
+  Definitions 
+  E-Products 
+  Events 
+  Features 
+  Guides 
+  Opinions 
+  Photo Stories 
+  Quizzes 
+  Tips 
+  Tutorials 
+  Videos 
+    
+ All Rights Reserved, Copyright 2006 - 2024  , TechTarget   
+   
+  Privacy Policy    
+  Cookie Preferences   
+   Cookie Preferences   
+   Do Not Sell or Share My Personal Information    
+
+ Close   
+   
+   

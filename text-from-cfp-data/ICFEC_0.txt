@@ -1,0 +1,141 @@
+   
+ Software — Stack — for Massively Geo-Distributed Infrastructures   
+           News 
+  Jobs 
+  Members 
+  Seminars 
+  Publications 
+  Projects 
+  Platforms 
+  Contact 
+
+ Who am I? 
+  Contact 
+   Resarch Interest 
+  Publications 
+  Projects 
+  Scientific animations 
+    
+  Adrien Lebre  
+  
+ Who am I (short bio)   
+ I received my Ph.D. from Grenoble Institute of Technologies in September 2006 and my M.S. degree from the University of Grenoble in 2003. During my PhD, I suggested a new way to handle I/O requests in multi-application clusters. This proposal led to the aIOLi project, an I/O scheduler framework for HPC file systems. In the meantime, I worked on the NFSp project, a non intrusive implementation of a parallel NFS server. Until these websites will be shutdown, you should find further details (PhD thesis, publications, code documentations) on the aIOLi  's and NFSp  's sites.  
+  Between 2006 and 2008, I held a postdoc position at Inria in the framework of the XtreemOS project  EU IP project. During this position, I had been in charge of designing and developing kDFS  (a kernel Distributed File System).  
+  I joined the "ASCOLA Research Group  at the Ecole des Mines de Nantes on September 2008 where I worked on distributed cloud computing challenges (see Beyond the Clouds  initiative as well as the FEMDC Working Group  of the OpenStack community). These activities led in part to the creation of the STACK Research Group that I have been leading since November 2017.  
+ Contact/postal address   
+ IMT Atlantique/DAPI/B216 | 4, rue Alfred Kastler, BP 20722 | 44307 Nantes Cedex 3, France | adrien . lebre at inria . fr | Phone: +33 (0)2 51 85 82 43 
+   
+ Research Interest   
+ Distributed Computing (Cloud/Fog/Edge) 
+  Resource management systems 
+  (Distributed) Operating Systems 
+  Distributed File Systems/Key Value Stores 
+  Virtualizations 
+  More precisely I investigate the interest of recent programming models (such as event or component programming) in the design of new systems to help administrators and DevOps manage large-scale geo-distributed infrastructures/applications. I'm currently working on two particular challenges leveraging locality as a key point of the design:  
+ Proposing new storage layers to reduce the impact of the network at WAN level. 
+  Investigating new approaches to deal with geo-distribution aspects without increasing the complexity of the business logic of an application. 
+  Publications   
+ You can find an up-to-date list of my publications since Oct 2008 here  !  
+  
+ Projects   
+ On going  
+ Grid'5000  - Member of the Executive committee and Responsible of the Nantes site for Grid'5000 testbed (formerly Chair of the Hemera virtualisation working group). Note: In 2018, Grid'5000 and FIT members joined their effort to develop the french node of SLICES  research infrastrucrture.  
+   
+ Past  
+ GRECO  - Resource management system for Object Clouds OB  
+  Beyond the Clouds  - Revise OpenStack to satisfy Fog/Edge computing requirements  
+  RSD Research Group  - Member of the executive committee of the GDR CNRS RSD (Reseau et Système distribué). Co-chair of the transversal action Virtualization and Clouds of this GDR between 2015 and 2020.  
+  BigStorage  Marie Sklodowska Curie European Training Network (successor of The SCALUS ITN)  
+  SONGS  - Leveraging SimGrid  to simulate next generation systems (such as clouds  ;) )  
+  SCALUS  Marie Curie Initial Training Network with a strong focus on storage concerns  
+   
+ Scientific Animations   
+ IC2E 2024  - PC Member  
+  UCC 2023  - PC Member  
+  CloudCom 2023  - PC Member  
+  IC2E 2023  - PC Member  
+  ICFEC 2023  - PC Member  
+  UCC 2022  - PC Member  
+  CloudCom 2022  - PC Member  
+  CloudNet 2022  - PC Member  
+  ICFEC 2022  - PC Member  
+  UCC 2021  - PC Member  
+  CCGRID 2021  - PC Member (Internet Computing Frontiers: Edge, Fog, Serverless, Lambda, Streaming Track)  
+  ICFEC 2021  - PC Member  
+  UCC 2020  - PC Member  
+  CloudCom 2020  - PC Member (Edge Computing, IoT and Distributed Cloud)  
+  ICDCS 2020  - PC Member (Industry and Experimentation track)  
+  IC2E 2020  - PC Member  
+  Euro-Par 2020  - Publicity chair (France)  
+  ICC 2020  - PC Member ((Next Generation Networking and Internet Symposium)  
+  CloudCom 2019  - PC Member (Edge and Distributed Cloud Computing Track)  
+  Cluster 2019  - PC Member  
+  CCGRID 2019  - PC Member (Cloud Computing Track)  
+  IC2E 2019  - PC Member  
+  ICC 2019  - PC Member (Next Generation Networking and Internet Symposium)  
+  SILECS (Grid'5000/FIT) Spring School  - Co-organizer  
+  CloudCom 2018  - PC Member (Edge Computing Track)  
+  SBAC-PAD 2018  - PC member (Track Chair - System Software)  
+  OpenStack Summit  - PC Member (Edge Computing Track)  
+  ICFEC 2018  - PC Member  
+  CCGRID 2018  - PC Member  
+  IC2E 2018  - PC Member  
+  Network of the Future (Nof 2017)  - PC Member  
+  CloudCom 2017  - PC member (Track Chair - Distributed Cloud / Cloud Brokering / Edge Computing)  
+  ResCom Spring School 2017  - Organization Committee Member  
+  BGP 2017  - Publicity Chair  
+  SC 2017  - PC member (Data Analytics, Visualization & Storage track)  
+  ICFEC 2017  - co-PC Chair  
+  HPDC 2017  - PC member  
+  CCGRID 2017  - PC member  
+  CloudCom 2016  - PC member (Co-track Chair - Distributed Cloud / Cloud Brokering / Edge Computing)  
+  SSS 2016  - PC Member (Self-* and Autonomic Computing track)  
+  OPTIM'16  - PC Member  
+  SC 2016  - PC Member  
+  Europar 2016  - PC Member (Local Chair for the Cluster/Grid and Cloud Computing track)  
+  CCGRID 2016  - PC Member  
+  Journee SUCCES 2015  - Invited Talk  
+  CloudDay@LIP6  - Organizer  
+  DSDIS (Data Science and Data Intensive Systems) 2015  - PC Member  
+  CloudCom 2015  - PC Member  
+  IEEE Transactions on Big Data  - Associate Editor  
+  Europar 2015  - PC Member  
+  WS SCRAMBL 2015  - PC Member  
+  IC2E 2015  - PC Member  
+  CCGRID 2015  - PC Member  
+  ISC Cloud 2014  - Invited Talk  
+  CloudDays@Nantes  - Co-organizer (French event)  
+  BDCloud 2014  - PC Member  
+  CloudCom 2014  - PC Member  
+  BigData 2014  - PC Member  
+  SimGrid User Days 2014  - Local Chair  
+  Cluster 2014  - Publicity Chair  
+  WS SCRAMBL 2014  - PC Member  
+  IC2E 2014  - Tutorials Chair  
+  Cloud Computing Summer School 2013  - Invited Talk on the Beyond the Cloud initiative  
+  3PGCIC 2013  - PC Member  
+  BigData 2013  - PC Member  
+  Europar 2013  - PC Member  
+  NPC 2013  - Publicity Chair  
+  CGC 2013  - PC Member  
+  WS VTDC 2013  - General Chair  
+  SC 2013  - PC Member  
+  CCGRID 2013  - PC Member  
+  Grid'5000 2012 Winter School  - General Chair  
+  WS VTDC 2012  - PC Chair  
+  CGC 2012  - PC Member  
+  Contrail Cloud Computing summer school 2011  - Lecturer  
+  PDP 2011  (special session on Cloud Computing) - PC Member  
+  WS RTSOAA 2011  (Real-Time Cloud Computing and Virtualization) - PC Member  
+  WS VTDC 2011  - General Chair  
+  ScalCom 2011  - PC Member  
+  CGC 2011  - PC Member  
+  WS HPCVirt 2011  - PC Member  
+  WS VTDC 2010  - Invited Speaker  
+  WS HPCVirt 2010  - PC Member  
+  NAS 2010  - PC Member  
+  Grid'5000/Virtualization WG day 2010  - Organizer  
+  …  
+ Grid'5000/Aladdin  - Committee Member  
+
+  

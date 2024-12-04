@@ -1,0 +1,76 @@
+PQCrypto 2025  
+
+ 8-10 April 2025  
+ Taipei, Taiwan  
+
+     Home 
+  Technical Program | Call for Papers  Paper Submission 
+  Sponsors 
+  Contact 
+
+ This site is designed for browsers with javascript.  
+ The dates, name, and location for the conference are in a json file.   
+   
+  Call for Papers  
+ The aim of PQCrypto is to serve as a forum for researchers to present results and exchange ideas on cryptography in an era with large-scale quantum computers. Original research papers on all technical aspects of cryptographic research related to post-quantum cryptography are solicited. Topics of interest include (but are not restricted to):  
+ Cryptanalysis of post-quantum systems, and quantum cryptanalysis. 
+  Cryptosystems that have the potential to be safe against quantum computers such as: | code-based, 
+  hash-based, 
+  isogeny-based, 
+  lattice-based, and 
+  multivariate constructions. 
+  Implementations of, and side-channel attacks on, post-quantum cryptosystems. 
+  Integration of and migration to post-quantum cryptography. 
+  Security models for the post-quantum era. 
+  The Call for Papers is available as PDF here  .  
+   
+ Important dates (AoE):  
+ 25 Oct 2024  
+ Initial submission deadline  
+   
+ 1 Nov 2024  
+ Final submission deadline  
+   
+ 6 Jan 2025  
+ Notification of acceptance  
+   
+ 20 Jan 2025  
+ Final version due  
+   
+  Further details are available on the paper submission page  .   
+
+ Paper Submission  
+ Submission Server  Instructions to authors  
+ Accepted papers are planned to be published in Springer’s LNCS series. Submissions must not exceed 30 pages, excluding  appendices and references, and must be in a single column format in 10pt fonts using the default llncs class without adjustments. Additional material (datasets, code, long machine proofs, etc.) can be submitted as separate file. Reviewers are not required to read appendices and additional material, and submissions are expected to be intelligible and complete without them.  
+ If the submission is accepted, the length of the final version is at most 35 pages including  references and appendices, in the llncs class format. The additional material will not be part of the conference proceedings. Submissions must not substantially duplicate work that any of the authors has published in a journal or a conference/workshop with proceedings, or has submitted/is planning to submit before the author notification deadline to a journal or other conferences/ workshops that have proceedings.  
+ The review process is single-blinded.  The submission should begin with a title, the authors' names and affiliations  , a short abstract, and a list of key words. Its introduction should summarize the contributions of the paper at a level appropriate for a non-specialist reader. Submissions ignoring these guidelines may be rejected without further consideration.  
+ All papers must be submitted with a meaningful abstract by the initial submission deadline. This is a firm deadline. Papers not registered by this deadline will not be considered. Authors may update or withdraw their submission at any time between the initial and final submission deadline.  
+  Submissions not meeting these guidelines risk rejection without consideration of their merits.  
+   
+ Program Committee  
+
+ Program Co-Chairs  
+ Ruben Niederhagen  
+ Academia Sinica and University of Southern Denmark  
+  
+ Markku-Juhani O. Saarinen  
+ Tampere University  
+
+   pqcrypto2025pcs@iis.sinica.edu.tw    
+   
+ General Co-Chairs  
+ Kai-Min Chung  
+ Academia Sinica  
+  
+ Matthias Kannwischer  
+ Chelpis Quantum Corp.  
+  
+ Bo-Yin Yang  
+ Academia Sinica  
+
+   pqcrypto2025@iis.sinica.edu.tw    
+
+ PQCrypto 2025  
+  Copyright © 2024  by the  IACR  International Association for Cryptologic Research    
+  Banner image by Chensiyuan, edit by DXR  , under CC BY-SA 4.0.   
+  

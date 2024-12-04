@@ -1,0 +1,146 @@
+  
+
+ Menu      Home 
+  About | About SIGMOD 
+  Awards | Best Demonstration 
+  Best Paper 
+  Contributions 
+  Dissertation 
+  Distinguished AEs & PCs 
+  Innovations 
+  Reproducibility 
+  Research Highlights 
+  Special Service 
+  Student Res. Comp. 
+  Systems 
+  Test of Time 
+  Undergraduate 
+  Chapters 
+  Conferences 
+  Policies 
+  Membership | Membership 
+  Students 
+  PODS | About 
+  PODS Hall of Fame 
+  Organization 
+  Best Paper Awards 
+  Test-of-Time Award 
+  Keynote Speakers 
+  Tutorials 
+  Gems of PODS 
+  30th Anniversary 
+  Corrigenda 
+  OpenTOC 
+  Publications | All Publications 
+  Anthology 
+  DiSC 
+  Distinguished Profiles 
+  Publications 
+  SIGMOD Record 
+  SIGMOD/PODS Video Series 
+  History | History 
+  Logo History 
+  Mission 
+  SIGMOD Conference Program Chairs 
+  SIGMOD Online 
+
+ close  ×         
+
+ Home 
+  SIGMOD Awards 
+  SIGMOD Best Paper Award 
+
+ SIGMOD Best Paper Award  
+
+ Recipients of the award are the following:  
+  
+ 2024 | Research: Best Papers   
+  Implementation Strategies for Views over Property Graphs  
+  Soonbo Han and Zack Ives  
+   
+  Honorable Mentions   
+  Reservoir Sampling over Joins  
+  Binyang DAI, Xiao Hu, and Ke Yi  
+   
+  On The Reasonable Effectiveness of Relational Diagrams: Explaining Relational Query Patterns and the Pattern Expressiveness of Relational Languages  
+  Wolfgang Gatterbauer and Cody Dunne  
+   
+  SAGA: A Scalable Framework for Optimizing Data Cleaning Pipelines for Machine Learning Applications  
+  Shafaq Siddiqi, Roman Kern, and Matthias Boehm  
+   
+  Industry: Best Paper   
+  PolarDB-MP: A Multi-Primary Cloud-Native Database via Disaggregated Shared Memory  
+  Xinjun Yang, Yingqiang Zhang, Hao Chen, Feifei Li, Bo Wang, Jing Fang, Chuan Sun, and Yuhui Wang 
+ 2023 | Research: Best Papers   
+  Predicate Pushdown for Data Science Pipelines  
+  Cong Yan, Yin Lin, Yeye He  
+   
+  Detecting Logic Bugs of Join Optimizations in DBMS  
+  Xiu Tang, Sai Wu, Dongxiang Zhang, Feifei Li, Gang Chen  
+   
+  Industry: Best Paper   
+  PG-Schema: Schemas for Property Graphs  
+  Renzo Angles, Angela Bonifati, Stefania Dumbrava, George Fletcher, Alastair Green, Jan Hidders, Bei Li, Leonid Libkin, Victor Marsault, Wim Martens, Filip Murlak, Stefan Plantikow, Ognjen Savkovic, Michael Schmidt, Juan Sequeda, Sławek Staworko, Dominik Tomaszuk, Hannes Voigt, Domagoj Vrgoc, Mingxi Wu, Dušan Živković 
+ 2022 | Data Management: Best Paper   
+  R2T: Instance-optimal Truncation for Differentially Private Query Evaluation with Foreign Keys  
+  Wei DONG, Juanru FANG, Ke Yi, Yuchao Tao, Ashwin Machanavajjhala  
+   
+  Data Management: Honorable Mention   
+  Conjunctive Queries with Comparisons  
+  Qichen Wang, Ke Yi  
+   
+  Ad Hoc Transactions in Web Applications: The Good, the Bad, and the Ugly  
+  Chuzhe Tang, Zhaoguo Wang, Xiaodong Zhang, Qianmian Yu, Binyu Zang, Haibing Guan, Haibo Chen  
+   
+  Industry: Best Paper   
+  Photon: A Fast Query Engine for Lakehouse Systems  
+  Authors: Alexander Behm, Shoumik Palkar, Utkarsh Agarwal, Tim Armstrong, David Cashman, Ankur Dave, Todd Greenstein, Shant Hovsepian, Ryan Johnson, Arvind Sai Krishnan, Paul Leventis, Ala Luszczak, Prashanth Menon, Mostafa Mokhtar, Gene Pang, Sameer Paranjpye, Greg Rahn, Bart Samwel, Tom van Bussel, Herman van Hovell, Maryann Xue, Reynold Xin, Matei Zaharia 
+ 2021 | Data Management: Best Papers   
+  Bao: Making Learned Query Optimization Practical.  
+  Ryan Marcus, Parimarjan, Hongzi Mao, Nesime Tatbul, Mohammad Alizadeh, Tim Kraska DFI – The Data Flow Interface for High-Speed Networks. Lasse Thostrup, Jan Skrzypczak, Matthias Jasny, Tobias Ziegler, Carsten Binnig   
+ Data Science: Best Paper   
+  SliceLine: Fast, Linear-Algebra-based Slice Finding for ML Model Debugging. Svetlana Sagadeeva, Matthias Boehm  
+ Industry: Best Paper   
+  FoundationDB: A Distributed Unbundled Transactional KeyValue Store. Jingyu Zhou, Meng Xu, Alexander Shraer, Alex Miller, Bala Namasivayam, Evan Tschannen, Rusty Sears, John Leach, Dave Rosenthal, Will Wilson, Ben Collins, David Scherer, Steve Atherton, Andrew Beamon, Xin Dong, Alec Grieser, Young Liu, Alvin Moore, Bhaskar Muppana, Xiaoge Su, Vishesh Yadav 
+ 2020 (co-winners) | ShapeSearch: A Flexible and Efficient System for Shape-based Exploration of Trendlines. Tarique Siddiqui, Paul Luh, Zesheng Wang, Karrie Karahalios, Aditya Parameswaran Pump Up the Volume: Processing Large Data on GPUs with Fast Interconnects. Clemens Lutz, Sebastian Breß, Steffen Zeuch, Tilmann Rabl, Volker Markl 
+ 2019 | Interventional Fairness : Causal Database Repair for Algorithmic Fairness  . Babak Salimi, Luke Rodriguez, Bill Howe, and Dan Suciu 
+ 2018 | SuRF: Practical Range Query Filtering with Fast Succinct Tries  . Huanchen Zhang, Hyeontaek Lim, Viktor Leis, David Andersen, Michael Kaminsky, Kimberly Keeton, and Andrew Pavlo 
+ 2017 | Parallelizing Sequential Graph Computations  . Wenfei Fan, Jingbo Xu , Yinghui Wu, Wenyuan Yu, Jiaxin Jiang, Zeyu Zheng, Bohan Zhang, Yang Cao, and Chao Tian 
+ 2016 | Wander Join: Online Aggregation via Random Walks  . Feifei Li, Bin Wu, Ke Yi, Zhuoyue Zhao 
+ 2015 | DBSCAN Revisited: Mis-Claim, Un-Fixability, and Approximation  . Yufei Tao, Junhao Gan 
+ 2014 | Materialization Optimizations for Feature Selection Workloads  . Ce Zhang, Arun Kumar, Christopher Ré 
+ 2013 | Massive Graph Triangulation  . Xiaocheng Hu, Yufei Tao, Chin-Wan Chung 
+ 2012 | High-Performance Complex Event Processing over XML Streams  . Barzan Mozafari, Kai Zeng, Carlo Zaniolo 
+ 2011 | Entangled Queries: Enabling Declarative Data-Driven Coordination  . Nitin Gupta, Lucja Kot, Sudip Roy, Gabriel Bender, Johannes Gehrke, Christoph Koch 
+ 2010 | FAST: Fast Architecture Sensitive Tree Search on Modern CPUs and GPUs  . Changkyu Kim, Jatin Chhugani, Nadathur Satish, Eric Sedlar, Anthony Nguyen, Tim Kaldewey, Victor Lee, Scott Brandt, and Pradeep Dubey 
+ 2009 | Generating Example Data for Dataflow Programs   . Christopher Olston, Shubham  
+  Chopra, and Utkarsh Srivastava  
+  Runner-up  : An Architecture for Recycling Intermediates in a Column-Store   . Milena G. Ivanova,  
+  Martin L. Kersten, Niels J. Nes, and Romulo A.P. Goncalves 
+ 2008 | Serializable Isolation for Snapshot Databases   . Michael Cahill, Uwe Roehm, and Alan Fekete  
+  Scalable Network Distance Browsing in Spatial Databases   . Hanan Samet, Jagan Sankaranarayanan, and Houman Alborzi 
+ 2007 | Compiling Mappings to Bridge Applications and Databases   . Sergey Melnik, Atul Adya, and Philip Bernstein  
+  Scalable Approximate Query Processing with the DBO Engine   . Christopher Jermaine, Subramanian Arumugam, Abhijit Pol, and Alin Dobra 
+ 2006 | To Search or to Crawl? Towards a Query Optimizer for Text-Centric Tasks   . Panagiotis Ipeirotis, Eugene Agichtein, Pranay Jain, and Luis Gravano 
+ 2004 | Indexing Spatio-Temporal Trajectories with Chebyshev Polynomials   . Raymond Ng and Yuhan Cai 
+ 2003 | Spreadsheets in RDBMS for OLAP   . Abhinav Gupta, Andy Witkowski, Gregory Dorman, Srikanth Bellamkonda, Tolga Bozkaya, Nathan Folkert, and Lei Sheng 
+ 2001 | Locally Adaptive Dimensionality Deduction for Indexing Large Time Series Databases   . Eamonn Keogh, Kaushik Chakrabarti, Sharad Mehrotra, and Michael Pazzani 
+ 2000 | XMill: An Efficient Compressor for XML data   . Hartmut Liefke and Dan Suciu 
+ 1999 | DynaMat: A Dynamic View Management System for Data Warehouses   . Yannis Kotidis and Nick Roussopoulos 
+ 1998 | Efficient Transparent Application Recovery in Client Server Information Systems   . David Lomet and Gerhard Weikum  
+  Integrating Association Rule Mining with Relational Database Systems: Alternatives and Implications   . Sunita Sarawagi, Shiby Thomas, and Rakesh Agrawal 
+ 1997 | Fast Parallel Similarity Search in Multimedia Databases   . Stefan Berchtold, Christian Bohm, Bernhard Braunmuller, Daniel Keim, and Hans Peter Kriegel 
+ 1996 | Implementing Data Cubes Efficiently   . Venky Harinarayan, Anand Rajaraman, and Jeffrey Ullman 
+ 1994 | Fast Subsequence Matching in Time-Series Databases   . Christos Faloutsos, M. Ranganathan, and Yannis Manolopoulos  
+  AlphaSort: A RISC Machine Sort   . Chris Nyberg, Tom Barclay, Zarka Cvetanovic, Jim Gray, and David Lomet 
+
+ ABOUT THE SITE  
+ This site is maintained by volunteers for ACM SIGMOD. We thank you for visiting! If you have questions about the site, please send a note to our content manager.   
+
+ Join SIGMOD  
+ The SIGMOD Online Membership Application  can be found here.   
+
+ About SIGMOD  
+ The ACM Special Interest Group on Management of Data is concerned with the principles, techniques and applications of database management systems and data management technology. Our members include software developers, academic and industrial researchers, practitioners, users, and students. SIGMOD sponsors the annual SIGMOD/PODS conference, one of the most important and selective in the field.   
+
+  

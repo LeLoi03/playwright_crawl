@@ -1,0 +1,130 @@
+  Home 
+  Organization | Organizing Committee  Program Committee  Steering Committee 
+  Call for Papers | Submission and Author Guidelines  Ph.D. Forum Extended Abstracts 
+  Important Deadlines 
+  Program | Technical Program  Keynotes  Special Session and Tutorial  Social Program  Ph.D. Forum 
+    Registration 
+  Venue | Conference location  Transportation  Hotels 
+  Summer School | School Details  School Program  School Venue 
+  Previous FDLs 
+  Contacts 
+
+ FDL 2024   
+ Forum on specification   
+  & Design Languages   
+ @Stockholm, Sweden   
+ September 4-6, 2024   
+
+ © Photo by Henrik Trygg  
+
+  Call for Papers  
+  
+  The 27th Forum on specification and Design Languages (FDL) is an international event where academics and industrials exchange their results, experiences, advances, and new trends related to languages, tools, and techniques for developing software and hardware systems. Targeted systems encompass cyber-physical systems, distributed systems, real-time systems, embedded systems mechatronics, IoT, and reactive systems. FDL is based on the four following non-limiting scientific areas:  
+  
+  Languages | : Domain-specific languages for software, execution platforms, allocations environment, contracts, abstractions, and refinements are of interest, together with the associated design methods, frameworks, and tools. 
+  Semantics | : formal definitions, compilers, interpreters, typing, abstraction/refinement, are of interest, together with the underlying specification frameworks or new approaches for their specification, modeling, and model transformation. 
+  Verification and Analysis | : innovative static analysis, testing, debugging, model checking machine learning-based analysis, or design space exploration are of interest, together with the underlying models, tools and frameworks. 
+  Simulation | : innovative simulation techniques, virtual prototypes, digital twins collaborative simulation, hybrid simulations, or runtime abstraction/refinement are of interest with special attention on the efficiency and correctness of simulations and their underlying tools and frameworks. 
+   
+  Cross-fertilization between the above areas, in particular in the context of system engineering, is of great interest. Therefore, we welcome authors to submit manuscripts on topics including, but not limited to:  
+   
+  languages and formalisms in model-based system design for modeling, testing, verification, and simulation; 
+  languages for knowledge representation about system designs; 
+  models of computations considering concurrency and time like dataflow computing, synchronous and functional languages, event-based languages, etc; 
+  modeling languages and tools for modelling (cyber-)physical environments or networks; 
+  formal methods and languages for modeling, specification, and verification; 
+  system design for modern hardware architectures like multi/manycore processors, and heterogeneous platforms, accelerators including GPUs and FPGAs; 
+  high-level hardware and software synthesis, virtual prototyping, and design space exploration; 
+  modeling and programming languages for smart contracts and distributed ledger technologies; 
+  case studies from typical application areas like healthcare, automotive, Industry 4.0, etc. 
+   
+  FDL stimulates scientific and controversial discussions within and between scientific topics at different maturity levels. The following categories of papers are presented orally at the conference and will be submitted for inclusion into IEEE Xplore subject to meeting IEEE Xplore's scope and quality requirements:  
+   
+  Research Papers | : original papers with clear research contributions and evaluation (8 pages plus references). 
+  Special Session Papers | : call for organizing special sessions on a specific topic (2-page session proposals). Papers within the special session follow the same peer reviewing and publishing process as for research papers (8 pages plus references). 
+  Wild-and-Crazy-Idea Papers | : papers with well-explained fundamentally new ideas without rigorous evaluation (4 pages plus references). 
+  Tool Papers | : papers about new tools, their methods and successful case studies (6 pages plus references). In contrast to research papers, tool papers may not describe new research ideas, and rather present on a solid implementation of existing methods that are made publically available to the community. 
+   
+  In addition to the above categories of papers, there will be the following further categories of papers which are not published with IEEE and are instead presented orally and distributed informally at the conference:  
+   
+  Work-in-progress Extended Abstracts | : submission of 2-page papers (extended abstracts) describing ongoing work where final results are not yet available but where potential solutions are already mature enough to be discussed at the conference. 
+  Ph.D. Forum Extended Abstracts | : submission of 2-page papers (extended abstracts, single blind) about planned and ongoing work on Ph.D. thesis that can be discussed at the conference. 
+
+  CFP Flyer  Please view or download the call for papers (CFP) flyer here.    
+
+  Formatting and Submission Guidelines   
+   
+  Authors should submit papers in double columns, IEEE format as PDF through the submission system (see IEEE templates website https://www.ieee.org/conferences/publishing/templates.html  for required templates). All submitted papers must describe original, unpublished work, and must not be under consideration for publication elsewhere.  
+  Initial submissions are double-blind (to avoid initial bias), but author names become available to reviewers during discussion and before the final decision. Hence, note that you must not disclose your identity in the submitted paper. References to your own papers should still be included but referred to in the third person.  
+  Submissions must be clearly tagged to determine the submission category by using the \IEEEspecialpapernotice keyword:  
+   
+  \IEEEspecialpapernotice{REGULAR PAPER SUBMISSION} 
+  \IEEEspecialpapernotice{SPECIAL SESSION SUBMISSION} 
+  \IEEEspecialpapernotice{WILD-AND-CRAZY-IDEA SUBMISSION} 
+  \IEEEspecialpapernotice{TOOL PAPER SUBMISSION} 
+  \IEEEspecialpapernotice{WORK-IN-PROGRESS SUBMISSION} 
+  \IEEEspecialpapernotice{PHD FORUM SUBMISSION} 
+   
+  Please submit your paper via EasyChair using the following link: https://easychair.org/conferences/?conf=fdl24   
+   
+  Shepherding process   
+   
+  We will make use of a shepherding process if needed, where papers may first be conditionally accepted with specific guidelines on what needs be addressed to be accepted. An anonymous shepherd will be introduced for each conditionally accepted paper, who will guide and help the authors improve the paper for final acceptance. The aim is that all conditionally accepted papers should be finally accepted, so that the shepherding process is meant to improve the papers accordingly.  
+
+ Camera Ready for IEEE Xplore Proceedings   
+   
+  The deadline for the submission of the final version of the paper is July 12, 2024  . Final version manuscripts must satisfy the following requirements:  
+   
+  papers must be written in English using the available LaTeX or Microsoft Word templates for A4 format. Formatting may not be altered; 
+  for full research papers, 8 pages plus references; 
+  for wild-and-crazy-idea papers, 4 pages plus references; 
+  for tool papers, 6 pages plus references; 
+  for wild-and-crazy-idea papers and tool papers, an | italic 11pt paper type | must be included right below the paper title: | Wild-and-Crazy-Idea | or | Tool Paper | . If you are using Latex, you can simply use the Latex syntax like this: 
+  \IEEEspecialpapernotice{Wild-and-Crazy-Idea Paper} 
+  \IEEEspecialpapernotice{Tool Paper} 
+  confirmed IEEE Xplore compatibility by using IEEE PDF eXpress; 
+  included Copyright Information; 
+  final paper submitted via the "proceedings author (IEEE Proceedings)" menu on EasyChair ( | https://easychair.org/conferences/?conf=fdl24 | ). 
+   
+  Document Formatting   
+   
+  The paper should adopt the two-column IEEE format. Templates are provided for Microsoft Word and LaTeX; 
+  For more information, see: | link | ; 
+  Each paper should contain an abstract of 100 to 150 words and up to 5 keywords, which you may select from the IEEE keyword list; 
+  Do not put page numbers on your document, and make sure that all fonts are embedded. 
+   
+  Copyright Information   
+   
+  Please note that the camera-ready version of your paper must also include the correct copyright information which must be added before PDF eXpress validation. The appropriate copyright clearance code notice is to appear on the bottom of the first page of each paper according to the guidelines set forth in the Cataloging/Copyright Instructions for an IEEE Conference Proceeding. Detailed instructions can be found at: link  . Detailed instructions for the copyright information are below:  
+   
+  For papers in which all authors are employed by the US government, the copyright notice is: | U.S. Government work not protected by U.S. copyright 
+  For papers in which all authors are employed by a Crown government (UK, Canada, and Australia), the copyright notice is: | 979-8-3315-0457-1/24/$31.00 ©2024 Crown 
+  For papers in which all authors are employed by the European Union, the copyright notice is: | 979-8-3315-0457-1/24/$31.00 ©2024 European Union 
+  For all other papers the copyright notice is: | 979-8-3315-0457-1/24/$31.00 ©2024 IEEE 
+   
+  If you are using Latex, you can add the copyright information simply using \IEEEoverridecommandlockouts like this:  
+  \IEEEoverridecommandlockouts \IEEEpubid{\makebox[\columnwidth]{ 979-8-3315-0457-1/24/\$31.00~\copyright2024 IEEE \hfill} \hspace{\columnsep}\makebox[\columnwidth]{ }}  
+   
+  Validation with PDF Express   
+   
+  The paper must be validated with IEEE PDF eXpress  , by entering 63219X  CODE for the Conference ID. New users can create a new PDF eXpress account by selecting Create account. Previous users of PDF eXpress or IEEE PDF eXpress Plus should enter the same password that was used for previous conferences. In case of issues with PDF eXpress, please contact the Publications Support Center for IEEE PDF eXpress. The approved PDF must then be uploaded to EasyChair via the "proceedings author (IEEE Proceedings)" menu.  
+   
+  Electronic Copyright Form Submission   
+   
+  IEEE policy requires that prior to publication, all authors or their employers must transfer to the IEEE in writing any copyright they hold for their individual papers. ONE OF THE AUTHORS MUST NEED TO COMPLETE eCopyright. The corresponding authors of accepted papers will receive  an email from IEEE with a link and login credentials to log in to eCF and submit copyright forms for their papers. For any questions, please contact the Publication Chair, Dr. Hokeun Kim  .  
+
+  FDL  is in  ,    
+   
+  Previous    Next     
+  
+  © Photo by Henrik Trygg  
+
+  FDL TBA  - TBA  , TBA   
+   
+ Contact: General chair  
+   
+ Contact: Program chair  
+
+  © FDL TBA  | All Right Reserved  
+
+  

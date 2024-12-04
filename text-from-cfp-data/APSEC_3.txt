@@ -1,0 +1,54 @@
+Skip to main content  Link      Menu       Expand     (external link)      Document      Search      Copy      Copied       About ASE Journal       
+ Call for papers 
+  Home 
+  CFP: Future's Track 
+  CFP: Literature Reviews 
+  CFP: Less is More 
+  CFP: Special Issues 
+  CFP: Advances in Mobile App Analysis and Systems 
+  CFP: Extended Papers from APSEC 2024 
+  CFP: NIER@ASE Track in the ASE Journal 
+  CFP: Automated and verifiable Software sYstem DEvelopment 
+  CFP: Foundation Models for SE 
+  CFP: Genetic Improvement 
+  CFP: Replications and Negative Results in SE 
+  CFP: Special issue on virtual and augmented reality software engineering 
+  CFP: Automated Program Repair 
+  CFP: Effective Program Analysis and Testing for Modern Software Development 
+  Chieftains 
+   
+ This site uses Just the Docs  , a documentation theme for Jekyll.  
+
+ home  :: code  :: license  :: contact    
+    Call for papers  
+   
+ Standard journal papers include motivation  , method  , and results  .  
+ AUSE journal papers are usually the same but, as shown below, can contain zero or more motivation  , methods  , and results  sections.  
+ For example:  
+ a | standard technical paper | contains | motivation | and | method | and | results | ; 
+  a | vision statement | may contain only | motivation | statements; 
+  a | registered report | contains just | motivation | and | method | ; 
+  a | tools paper | may be just | method | (without, say, | results | ); 
+  etc 
+  So check the list below– maybe you can find the kind of paper you always wanted to write!  
+  If you are not  submitting a standard technical paper  (as defined below), it is strongly recommeded you add the name of the paper type to the front  of your title within your paper; e.g. “ Industrial Paper  : Insights from Three Years of Static Code Analysis  ” (otherwise, we may accidently apply the wrong review criteria).  
+
+ Type | Length | Content | Notes 
+ Technical paper | 10+ pages (usually less than 50) | Motivation + methods + new results | Archival records of completed research, usually with an evidence-based evaluation of hypotheses (e.g experiments on some SE-related data with a statistical analysis). 
+ Industrial paper | 3+ pages (usually less than 50) | E.g. reports an early prototype or deployed version of an automated software engineering task, or experiences/challenges during the deployment of such automation. 
+ Literature review | 10+ pages (usually less than 50) | Motivation + methods + summary of old results | Merely describing prior work is not enough. Literature reviews should identify gaps in prior work and propose ways to address that gap. Exceptional literature reviews actually perform some of those experiments.. 
+ Vision statement | 3-8 pages | Motivation | A carefully stated opinion, perhaps yet without supporting experimentation. For example, see Edgar Dijkstra: Go To Statement Considered Harmful  . For more details, see the futures  page. 
+ Futures paper | 3+ pages | These are particular kinds of invited vision statements (see Future's page  ) 
+ Registered report (initial) | 3+ pages (usually less than 50) | Motivation + method | Documenting formative research ideas and a hypothesis, perhaps without a longer investigation - these should include motivation and a proposed analysis method. Ideally, registered reports are followed up by a registered results paper. For more on registered reports, see About registered reports 
+ Registered results  
+  (followup) | 10+ pages (usually less than 50) | Short summary of (Motivation + method) then new results | This is the second part of a “registered report” paper. Registered reports can be explorative (of new ground) or confirmative (i.e. checking a prior result). IMPORTANT POINT:  For exploratory RR studies at this journal, updating the hypothesis after seeing new results is allowed, providing that update is made in a principled manner (i.e. where that update method is pre-specified in the initial report). 
+ Tutorial | 3+ pages (usually less than 50) | Method (not new results) | Tutorials (a) need to be based on “available” material (as defined in the “Open Science” section, above). Such papers need to (b) review the research area addressed by some tool/ algorithm/ technique/ data set and (c) suggest a list of significant open issues that could be addressed with the tool or data set. Tutorials are evaluated according to their potential to enable future work. 
+ Tool (or data set) report | 3-8 pages | Method (not new results) | Short report offer some notes on a reusable tool/ artifact/ data set describing , along with open issues with that tool or data set that could be explored further. Tool reports are evaluated according to their potential to enable future work. 
+ Ruese report | 3-8 pages | Summary of motivation + method + results | Report of a: repeated | study (original team, orginal set-up); or 
+  reproduced | study (different team, original set-up); or 
+  replicated | study (different team, different set up). 
+ Errata | 3-8 pages | Text | Fixing some misstatements in a prior publication. 
+
+  Edit this page on GitHub.   
+
+  

@@ -1,0 +1,309 @@
+VEE 2022   Tue 1 Mar 2022    
+
+ Toggle navigation        
+ Attending | Venue: Online 
+  Program | VEE Program 
+  Your Program 
+   Tue 1 Mar 
+  Track/Call 
+  Organization | VEE 2022 Committees 
+  Track Committees 
+  Program Committee 
+  Steering Committee 
+  Contributors 
+  People Index 
+  Search 
+  Series | Series 
+   VEE 2022 
+  VEE 2021 
+  VEE 2020 
+  VEE 2019 
+  VEE 2018 
+  VEE 2017 
+  VEE 2016 
+  VEE 2014 
+  VEE 2015 
+  VEE 2013 
+  VEE 2011 
+  VEE 2010 
+  Sign in 
+  Sign up 
+
+ VEE 2022 ( series  ) /  Research Papers VEE 2022   
+   
+ About 
+  Program 
+  VEE will be held with ASPLOS 2022.  
+ More information of the papers can be accessed here: https://www.sigops.org/s/conferences/vee/2022/toc.html   
+ Supporters   
+
+ Accepted Papers  
+  
+ Title 
+ Capability Boehm: Challenges and Opportunities for Garbage Collection with Capability Hardware  Research Papers   
+ Dejice Jacob  , Jeremy Singer    
+  Link to publication   DOI   Pre-print 
+ ClusterRR: A Record and Replay Framework for Virtual Machine Cluster  Research Papers   
+ Wei Wang  , Zhiyu Hao  , Lei Cui 
+ Container-aware I/O Stack: Bridging the Gap between Container Storage Drivers and Solid State Devices  Research Papers   
+ Song Wu  , Zhuo Huang  , Pengfei Chen  , Hao Fan  , Shadi Ibrahim  , Hai Jin 
+ Enabling Pipeline Parallelism in Heterogeneous Managed Runtime Environments via Batch Processing  Research Papers   
+ Florin Blanaru  , Athanasios Stratikopoulos  , Juan Fumero  , Christos Kotselidis    
+  DOI   Pre-print 
+ EOP: Efficient Operator Partition for Deep Learning Inference Over Edge Servers  Research Papers   
+ Yuanjia XU  , Heng WU  , Wenbo ZHANG  , Yi HU 
+ Portkey: Hypervisor-assisted container migration in nested cloud environments  Research Papers   
+ Chandra Prakash  , Debadatta Mishra  , Purushottam Kulkarni  , Umesh Bellur 
+ Transparent and Lightweight Object Placement for Managed Workloads atop Hybrid Memories  Research Papers   
+ Zhe Li  , Mingyu Wu 
+  
+ Call for Papers  
+  
+ The 18th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments (VEE’22) brings together researchers in the broad area of virtualization. This area includes topics such as compiler-based virtual machines (JVM, CLR, LLVM, etc.), operating system abstractions for virtualization (processes, containers), hardware accelerated system virtual machines (paravirtualization, hypervisors), translators, machine emulators, and simulators. Although these layers have different design and implementation techniques, the fundamental challenges and insights tend to be similar.  
+ We invite authors to submit original papers related to virtualization across all layers of the software stack down to the microarchitectural level. Topics of interest include (but are not limited to):  
+ architecture support for virtualization; 
+  compiler and programming language support for virtualization; 
+  managed runtimes and virtual machines; 
+  management technologies for virtual environments; 
+  memory management; 
+  operating system support for virtualization; 
+  performance analysis and debugging for virtual environments; 
+  runtime system support for virtualization; 
+  security and virtual environments, including TEE-based VMs; 
+  virtual and kernel-bypass I/O, storage, and networking; 
+  virtualization and runtime systems for mobile devices and smart devices 
+  virtualization in cloud computing, including containers or serverless; 
+  virtualization reliability; 
+  virtualization support for programs and programmers; 
+  virtualization technologies applied to specific problem domains such as HPC, realtime, and power management. 
+  Submission Guidelines   
+ Please submit your paper through https://vee22.hotcrp.com/  after reading the following submission instructions.  
+ VEE’22 accepts both full-length and short papers. Both types of submissions are reviewed to the same standards and differ primarily in the scope of the ideas expressed. The program committee will not accept a full paper on the condition that it is cut down to fit in a short paper slot, nor will it invite short papers to be extended to full length. Submissions will be considered only in the category in which they are submitted.  
+ An ideal short paper would express an idea that doesn’t require as many pages to describe or evaluate. The ideas should be well formed and complete just like those in a full-length paper. A short paper should not be a HotOS / HotStorage-style workshop paper with an interesting idea that isn’t yet fully developed. Short papers will be held to the same standard as full-length papers in terms of clarity of presentation and evaluation, however, the scope of the work as well as the breadth of the evaluation is expected to be smaller.  
+ Submissions must attack an interesting problem and clearly articulate their contribution relative to previous work. Submissions must be in ACM SIGPLAN proceedings format, 10-point type on 11-point leading, 7x9 inch text block, and two columns with .33 inch column separation, and submissions may not exceed 12 pages for full papers and 6 pages for short papers, excluding references. LaTeX templates for this format are available at https://www.sigplan.org/Resources/Author/  (but please note that 10-point is not the default).  
+ Note that ACM’s new camera-ready system only supports a subset of LaTeX packages. The approved list is at https://www.acm.org/publications/taps/accepted-latex-packages  . Pages must be numbered, and submissions must be in PDF, legible when printed black and white on US Letter and A4 paper. All fonts must be embedded in the submitted PDF. Submissions violating the formatting guidelines may be rejected without review.  
+ Reviewing will be double blind, therefore submissions must be anonymous. Author names, affiliations, acknowledgments, and any other hints of identity must not be included in the submission. You should not anonymize your bibliographic references; instead, cite your work in the third person so that your submission is self-contained. Make a good-faith effort to conceal any authorship connection between prior work and yours.  
+ Submissions must describe unpublished work that is not currently submitted for publication elsewhere as discussed at https://www.sigplan.org/Resources/Policies/Republication  . Authors of accepted papers will be required to sign an ACM copyright release. The proceedings will be published by ACM.  
+ AUTHORS TAKE NOTE  : The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to two weeks prior to the first day of your conference. The official publication date affects the deadline for any patent filings related to published work. (For those rare conferences whose proceedings are published in the ACM Digital Library after the conference is over, the official publication date remains the first day of the conference.)  
+ Please ensure that your paper satisfies all the above requirements for content and formatting before submission; if you have a question about any of these issues, please send email to the program chairs.  
+
+   Program Display Configuration  
+   
+   Time Zone   
+   
+ The program is currently displayed in (GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna  .   Use conference time zone: (GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna    Select other time zone   (GMT-12:00) AoE (Anywhere On Earth)  (GMT-11:00) Midway Island, Samoa  (GMT-10:00) Hawaii-Aleutian  (GMT-10:00) Hawaii  (GMT-09:30) Marquesas Islands  (GMT-09:00) Gambier Islands  (GMT-09:00) Alaska  (GMT-08:00) Tijuana, Baja California  (GMT-08:00) Pitcairn Islands  (GMT-08:00) Pacific Time (US & Canada)  (GMT-07:00) Mountain Time (US & Canada)  (GMT-07:00) Chihuahua, La Paz, Mazatlan  (GMT-07:00) Arizona  (GMT-06:00) Saskatchewan, Central America  (GMT-05:00) Guadalajara, Mexico City, Monterrey  (GMT-05:00) Easter Island  (GMT-06:00) Central Time (US & Canada)  (GMT-05:00) Eastern Time (US & Canada)  (GMT-05:00) Cuba  (GMT-05:00) Bogota, Lima, Quito, Rio Branco  (GMT-04:00) Caracas  (GMT-03:00) Santiago  (GMT-04:00) La Paz  (GMT-03:00) Faukland Islands  (GMT-04:00) Manaus, Amazonas, Brazil  (GMT-04:00) Atlantic Time (Goose Bay)  (GMT-04:00) Atlantic Time (Canada)  (GMT-03:30) Newfoundland  (GMT-03:00) UTC-3  (GMT-03:00) Montevideo  (GMT-03:00) Miquelon, St. Pierre  (GMT-03:00) Greenland  (GMT-03:00) Buenos Aires  (GMT-03:00) Brasilia, Distrito Federal, Brazil  (GMT-02:00) Mid-Atlantic  (GMT-01:00) Cape Verde Is.  (GMT-01:00) Azores  (UTC) Coordinated Universal Time  (GMT) Belfast  (GMT) Dublin  (GMT) Lisbon  (GMT) London  (GMT) Monrovia, Reykjavik  (GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna  (GMT+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague  (GMT+01:00) Brussels, Copenhagen, Madrid, Paris  (GMT+01:00) West Central Africa  (GMT+02:00) Windhoek  (GMT+02:00) Athens  (GMT+02:00) Beirut  (GMT+02:00) Cairo  (GMT+02:00) Gaza  (GMT+02:00) Harare, Pretoria  (GMT+02:00) Jerusalem  (GMT+03:00) Minsk  (GMT+02:00) Syria  (GMT+03:00) Moscow, St. Petersburg, Volgograd  (GMT+03:00) Nairobi  (GMT+03:30) Tehran  (GMT+04:00) Abu Dhabi, Muscat  (GMT+04:00) Yerevan  (GMT+04:30) Kabul  (GMT+05:00) Ekaterinburg  (GMT+05:00) Tashkent  (GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi  (GMT+05:45) Kathmandu  (GMT+06:00) Astana, Dhaka  (GMT+07:00) Novosibirsk  (GMT+06:30) Yangon (Rangoon)  (GMT+07:00) Bangkok, Hanoi, Jakarta  (GMT+07:00) Krasnoyarsk  (GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi  (GMT+08:00) Irkutsk, Ulaan Bataar  (GMT+08:00) Perth  (GMT+08:45) Eucla  (GMT+09:00) Osaka, Sapporo, Tokyo  (GMT+09:00) Seoul  (GMT+09:00) Yakutsk  (GMT+10:30) Adelaide  (GMT+09:30) Darwin  (GMT+10:00) Brisbane  (GMT+11:00) Hobart  (GMT+10:00) Vladivostok  (GMT+11:00) Lord Howe Island  (GMT+11:00) Solomon Is., New Caledonia  (GMT+11:00) Magadan  (GMT+12:00) Norfolk Island  (GMT+12:00) Anadyr, Kamchatka  (GMT+13:00) Auckland, Wellington  (GMT+12:00) Fiji, Kamchatka, Marshall Is.  (GMT+13:45) Chatham Islands  (GMT+13:00) Nuku'alofa  (GMT+14:00) Kiritimati     
+
+   The GMT offsets shown reflect the offsets at the moment of the conference  .     
+   
+ Time Band   
+   
+ By setting a time band, the program will dim events that are outside this time window. This is useful for (virtual) conferences with a continuous program (with repeated sessions).  
+  The time band will also limit the events that are included in the personal iCalendar subscription service.   Display full program    Specify a time band   -      
+
+  Save    
+
+  Close    
+
+ ×    You're viewing the program in a time zone which is different from your device's time zone change time zone     
+
+ Tue 1 Mar   
+  
+ Displayed time zone: Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna  change      
+
+ 08:30 - 08:45 | Opening Research Papers   at Online 
+
+ 08:45 - 10:00 | Keynote-1 Research Papers   at Online 
+ 08:45   
+ 75m    
+ Talk | Keynote-1: In Pursuit of a Trusted Computing Base: The Journey Through Virtualization   Research Papers   
+ Haibo Chen  Shanghai Jiao Tong University 
+
+ 10:15 - 11:35 | Session-1: System Virtualization Research Papers   at Online      
+  Chair(s): Antonio Barbalace  The University of Edinburgh 
+ 10:15   
+ 20m    
+ Talk | Portkey: Hypervisor-assisted container migration in nested cloud environments   Research Papers   
+ Chandra Prakash  Indian Institute of Technology Bombay  , Debadatta Mishra   , Purushottam Kulkarni  Indian Institute of Technology, Bombay  , Umesh Bellur  IIT Bombay 
+ 10:35   
+ 20m    
+ Talk | Container-aware I/O Stack: Bridging the Gap between Container Storage Drivers and Solid State Devices   Research Papers   
+ Song Wu  Huazhong University of Science and Technology, China  , Zhuo Huang  Huazhong University of Science and Technology  , Pengfei Chen  Huazhong University of Science and Technology  , Hao Fan  Huazhong University of Science and Technology  , Shadi Ibrahim  Inria  , Hai Jin  Huazhong University of Science and Technology 
+ 10:55   
+ 20m    
+ Talk | ClusterRR: A Record and Replay Framework for Virtual Machine Cluster   Research Papers   
+ Wei Wang  Institute of Information Engineering, School of Cyber Security, University of Chinese Academy of Sciences  , Zhiyu Hao  Institute of Information Engineering, Chinese Academy of Sciences  , Lei Cui  Institute of Information Engineering，Chinese Academy of Sciences 
+ 11:15   
+ 20m    
+ Talk | EOP: Efficient Operator Partition for Deep Learning Inference Over Edge Servers   Research Papers   
+ Yuanjia XU  University of Chinese Academy of Sciences; Institute of Software, Chinese Academy of Sciences  , Heng WU  Institute of Software, Chinese Academy of Sciences  , Wenbo ZHANG  Institute of Software, Chinese Academy of Sciences; State Key Laboratory of Computer Sciences, Institute of Software, Chinese Academy of Sciences  , Yi HU  University of Chinese Academy of Sciences; Institute of Software, Chinese Academy of Sciences 
+
+ 14:00 - 15:15 | Keynote-2 Research Papers   at Online 
+ 14:00   
+ 75m    
+ Talk | Keynote-2: Virtual Programming Environments: Programming the Cloud   Research Papers   
+ David Grove  IBM Research 
+
+ 15:30 - 16:30 | Session-2: Runtime Virtualization Research Papers   at Online      
+  Chair(s): Mingyu Wu  Shanghai Jiao Tong University 
+ 15:30   
+ 20m    
+ Talk | Enabling Pipeline Parallelism in Heterogeneous Managed Runtime Environments via Batch Processing   Research Papers   
+ Florin Blanaru  The University of Manchester  , Athanasios Stratikopoulos  The University of Manchester  , Juan Fumero  University of Manchester, UK  , Christos Kotselidis  KTM Innovation / The University of Manchester    
+  DOI   Pre-print 
+ 15:50   
+ 20m    
+ Talk | Transparent and Lightweight Object Placement for Managed Workloads atop Hybrid Memories   Research Papers   
+ Zhe Li  Shanghai Jiao Tong University  , Mingyu Wu  Shanghai Jiao Tong University 
+ 16:10   
+ 20m    
+ Talk | Capability Boehm: Challenges and Opportunities for Garbage Collection with Capability Hardware   Research Papers   
+ Dejice Jacob  University of Glasgow, UK  , Jeremy Singer  University of Glasgow    
+  Link to publication   DOI   Pre-print 
+
+   Information for Participants  
+   
+ Tue 1 Mar 2022 08:30 - 08:45 at Online   - Opening  Info for session   
+ The Opening and Keynote session will be at the following link:  
+ https://rochester.zoom.us/j/92680143800?pwd=TEg2TVBZZjdxMkY3ZVNjeTFLbmZxQT09   
+
+  Close    
+
+   Information for Participants  
+   
+ Tue 1 Mar 2022 08:45 - 10:00 at Online   - Keynote-1  Info for session   
+ The Opening and Keynote session will be at the following link:  
+ https://rochester.zoom.us/j/92680143800?pwd=TEg2TVBZZjdxMkY3ZVNjeTFLbmZxQT09   
+
+  Close    
+
+   Information for Participants  
+   
+ Tue 1 Mar 2022 10:15 - 11:35 at Online   - Session-1: System Virtualization  Chair(s): Antonio Barbalace   Info for session   
+ The Zoom room for Session 1 is at https://rochester.zoom.us/j/98375917164?pwd=ZHRvcy85elRVUWtDaGRZQkl6dENTQT09  .  
+
+  Close    
+
+   Information for Participants  
+   
+ Tue 1 Mar 2022 14:00 - 15:15 at Online   - Keynote-2  Info for session   
+ The Zoom room for the second keynote is at https://rochester.zoom.us/j/94062625117?pwd=SXUyajFoNU5laHo0SkNlZHEyS0ErZz09  .  
+
+  Close    
+
+   Information for Participants  
+   
+ Tue 1 Mar 2022 15:30 - 16:30 at Online   - Session-2: Runtime Virtualization  Chair(s): Mingyu Wu   Info for session   
+ The Zoom room for Session 2 is at https://rochester.zoom.us/j/95639573724?pwd=Q3Fscitpd3VIcnVTaEMwRTFUS2hRdz09  .  
+
+  Close    
+
+ Important Dates   AoE (UTC-12h)     
+
+ Fri 4 Feb 2022  
+  Camera-ready 
+ Sat 15 Jan 2022  
+  Notification 
+ Tue 11 - Thu 13 Jan 2022  
+  Rebuttal period 
+ Fri 3 Dec 2021   
+  Submission deadline 
+
+ Submission Link   
+   
+   https://vee22.hotcrp.com/     
+   
+ Program Committee    
+   
+ Dan Williams Program Co-Chair    
+ Virginia Tech 
+  Yubin Xia Program Co-Chair    
+ Shanghai Jiao Tong University, China 
+  Nadav Amit Programme Committee 
+  Antonio Barbalace Programme Committee    
+ The University of Edinburgh 
+  Ting Cao Programme Committee    
+ Microsoft Research   
+ China 
+  Yaozu Dong Programme Committee    
+ Intel, China 
+  Evelyn Duesterwald Programme Committee    
+ IBM Research 
+  Juan Fumero Programme Committee    
+ University of Manchester, UK   
+ United Kingdom 
+  Kartik Gopalan Programme Committee    
+ Binghamton University   
+ United States 
+  David Grove Programme Committee    
+ IBM Research   
+ United States 
+  Liting Hu Programme Committee    
+ Virginia Tech 
+  Ricardo Koller Programme Committee    
+ Google 
+  Chandra Krintz Programme Committee    
+ UCSB 
+  Kevin Pedretti Programme Committee    
+ Sandia National Laboratories 
+  Mary Lou Soffa Programme Committee    
+ University of Virginia 
+  Cheng Tan Programme Committee    
+ Northeastern University 
+  Lluís Vilanova Programme Committee    
+ Imperial College London 
+  Chenxi Wang Programme Committee    
+ UCLA   
+ United States 
+  Zhenlin Wang Programme Committee    
+ Michigan Technological University 
+  Mingyu Wu Programme Committee    
+ Shanghai Jiao Tong University 
+  Antonia Zhai Programme Committee    
+ University of Minnesota 
+  Ming Zhao Programme Committee    
+ Arizona State University 
+    
+ Steering Committee    
+   
+ Andrew Baumann    
+ Microsoft Research 
+  John Criswell General Chair    
+ University of Rochester, USA   
+ United States 
+  Baris Kasikci    
+ University of Michigan, USA 
+  Santosh Nagarakatte    
+ Rutgers University   
+ United States 
+  Chris Rossbach    
+ University of Texas at Austin; Katana Graph   
+ United States 
+  Jennifer B. Sartor    
+ Ghent University, Belgium   
+ Belgium 
+  Ben L. Titzer    
+ Carnegie Mellon University   
+ United States 
+  Carl Waldspurger 
+  Robert Wisniewski    
+ Intel Corporation   
+ United States 
+  Harry Xu    
+ University of California, Los Angeles (UCLA)   
+ United States 
+
+ x  Wed 4 Dec 13:56    
+
+  VEE 2022   
+  using conf.researchr.org  ( v1.67.1  )  
+   Support page    
+     
+ Tracks  
+ Research Papers    
+
+ Attending  
+ Venue: Online   
+    
+ Sign Up    
+
+  

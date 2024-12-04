@@ -1,0 +1,190 @@
+  Alexander Nadel's Page          
+     
+ Contents       
+ Alexander Nadel's Page   .   1        
+ General     1        
+ Contact and Other Information   .   1        
+ Student Opportunities   .   1        
+ Publications   .   1        
+ Talks   .   1        
+ Students   .   1        
+ PC Membership and Other Professional Services   .   1        
+ Publicly Available Software   .   1        
+
+ General      
+ I am a research scientist and engineer . My expertise lies in  developing industrial-strength SAT and SAT-based solvers (such as SMT and model checkers) and deploying them across diverse  industrial applications in various domains (  including formal verification, physical design scheduling, and test generation )  .     
+ I have been at Intel Haifa  since 2003 and joined the Technion’s Faculty of Data and Decision Sciences  as a part-time research fellow in 2023. My professional interests include:    
+ Propositional Satisfiability (SAT) 
+  Satisfiability Modulo Theories (SMT) 
+  MaxSAT and Optimization in SAT and SMT 
+  Model Checking 
+  Formal Methods for Physical Design 
+  Formal Verification of Hardware and Software 
+  Contact and Other Information      
+ My email: alexander DOT nadel AT cs DOT tau DOT ac DOT il    
+ My ORCID ID:  https://orcid.org/0000-0003-4679-892X     
+   
+ Student Opportunities      
+ I am looking for prospective Master's and PhD students to work on developing leading-edge SAT and SAT-based algorithms ,  solvers and technologies  . There are also opportunities for undergraduate projects.    
+ Publications      
+ 2024    
+ [1]     Dror Fried, Alexander Nadel, Roberto Sebastiani and Yogev Shalmon, “ Entailing Generalization Boosts Enumeration  ” [presentation: pptx  , pdf  ].  SAT’24   .  
+
+ [2]     Alexander Nadel, “   TT-Open-WBO-Inc: an Efficient Anytime MaxSAT Solver    ”.   Journal on Satisfiability, Boolean Modeling and Computation  (JSAT)     , 15(1): 1-7 (2024).      
+ 2023    
+ [3]     Dror Fried, Alexander Nadel and Yogev Shalmon, “   AllSAT for Combinational Circuits     ”, [   SAT’23 Presentation     ].   SAT’23     .    
+
+ [4]     Alexander Nadel, “   Solving Huge Instances with Intel® SAT Solver     ” [   SAT’23 Presentation with Narration     ].   SAT’23     .      
+ 2022    
+ [5]     Alexander Nadel, “   Introducing Intel® SAT Solver     ” [   repository     ,   SAT’22 presentation     ,   long presentation     (presented at   MIAO Seminar     on Feb. 28, 2023),   MIAO Seminar video     ].   SAT’22     .      
+ 2021    
+ [6]     Aviad Cohen, Alexander Nadel and Vadim Ryvchin, “ Local Search with a SAT Oracle for Combinatorial Optimization  ” [presentation: pptx (with narration)  , pdf  ]. TACAS’21  .  
+
+ [7]     Alexander Nadel, “   TT-Open-WBO-Inc-21: an Anytime MaxSAT Solver Entering MSE’21     ”      
+ o     A description of my solver TT-Open-WBO-Inc-21  , which came in 2 nd  in both the Weighted, Incomplete categories and the 60-sec. Unweighted, Incomplete and 3 d    in the 300-sec. Unweighted, Incomplete category at  MaxSAT Evaluation 2021  .    
+ 2020    
+ [8]     Alexander Nadel, “   On Optimizing a Generic Function in SAT     ” [   presentation     ].   FMCAD’20     .    
+
+ [9]     Alexander Nadel, “   TT-Open-WBO-Inc-20: an Anytime MaxSAT Solver Entering MSE’20     ”      
+ o     A description of my solver TT-Open-WBO-Inc-20  , which won both of the Weighted, Incomplete categories at  MaxSAT Evaluation 2020   and came in 2 nd  in both the Unweighted, Incomplete categories.    
+ o     The major algorithmic improvement as compared to the 2019 version of the solver is the Polosat algorithm, detailed in  ‎[8]  .    
+ o     TT-Open-WBO-Inc-20  was also part of the 2021 version of the solver  SATLike-c which won 3 out of 4 Incomplete categories at MaxSAT Evaluation 2021  .  
+
+ [10]     Alexander Nadel, “   Polarity and Variable Selection Heuristics for SAT-based Anytime MaxSAT     ”,   JSAT     , 12:17-22, 2020.      
+ o     A detailed description of the 2019 version of TT-Open-WBO-Inc.    
+ 2019    
+  [11]     Alexander Nadel, “    Anytime Weighted MaxSAT with Improved Polarity Selection and Bit-Vector Optimization       ” [    presentation       ].    FMCAD’19       .     
+
+ [12]     Alexander Nadel, “    TT-Open-WBO-Inc: Tuning Polarity and Variable Selection for Anytime SAT-based Optimization       ”       
+ o     A description of my anytime MaxSAT solver TT-Open-WBO-Inc  , which won both of the Weighted, Incomplete categories at MaxSAT Evaluation 2019   .    
+ o     The solver was created by implementing some of the ideas from  ‎[8]  ‎[11]  in Open-WBO-Inc  .    
+ o     A more thorough description is available in  ‎[10]  .  
+
+ [13]     Alexander Nadel and Vadim Ryvchin, “ Flipped Recording  ” [ presentation  ]. POS’19  .  
+
+ 2018    
+ [14]     Alexander Nadel, “   Solving MaxSAT with Bit-Vector Optimization     ” [   presentation     ].   SAT’18     .      
+ o     Supplementary material is available here  .  
+
+ [15]     Alexander Nadel and Vadim Ryvchin, “   Chronological Backtracking     ” [   presentation     ].   SAT’18     .      
+ o     Maple_LCM_Dist_ChronoBT    – our  Maple_LCM_Dist    -based SAT solver featuring chronological backtracking – won the main and the satisfiable tracks of SAT Competition 2018   .    
+ o     We also enabled chronological backtracking in the MaxSAT Evaluation 2017  winner in multiple categories OpenWBO   . The updated OpenWBO version is available for download  .  
+
+ [16]     Saurabh Joshi, Prateek Kumar, Vasco Manquinho  ,  Ruben Martins, Alexander Nadel and Sukrut Rao, “ Open-WBO-Inc in MaxSAT Evaluation 2018  ”    
+ o      The solver won the “Weighted Incomplete 60s” track of MaxSAT Evaluation 2018      
+ 2017    
+ [17]      Yakir Vizel, Alexander Nadel and Sharad Malik, “ Solving Linear Arithmetic with SAT-based Model Checking  ” [ presentation  ]. FMCAD’17  .  
+
+ [18]      Alexander Nadel, “ A Correct-by-Decision Solution for Simultaneous Place and Route  ” [ presentation  ]. CAV’17  .  
+
+ [19]      Yakir Vizel, Alexander Nadel and Sharad Malik, “ Solving Constraints over Bit-Vectors with SAT-based Model Checking  ” [ presentation  ]. SMT’17  .  
+
+ 2016    
+ [20]      Alexander Nadel, “ Routing under Constraints  ” [presentation: pptx  , pdf  ]. FMCAD’16  .  
+
+ [21]      Alexander Nadel and Vadim Ryvchin, “ Bit-Vector Optimization  ” [ presentation  ]. TACAS’16  .  
+
+ 2015    
+ [22]      Amit Erez and Alexander Nadel, “ Finding Bounded Path in Graph using SMT for Automatic Clock Routing  ” [ presentation  ]. CAV’15  .  
+
+ [23]      Nachum Dershowitz and Alexander Nadel, “ Is Bit-Vector Reasoning as Hard as NExpTime in Practice?  ” [ presentation  ]. SMT’15  .  
+
+ [24]      Yakir Vizel Vadim Ryvchin and Alexander Nadel  , “ Efficient Generation of Small Interpolants in CNF  ”. Formal Methods in System Design (2015), pages 1-24.    
+ 2014    
+ [25]      Alexander Nadel, Vadim Ryvchin, and Ofer Strichman, “ Accelerated Deletion-based Extraction of Minimal Unsatisfiable Cores  ”. Journal on Satisfiability, Boolean Modeling and Computation (JSAT) 9 (2014), pages 27-51.  
+
+ [26]      Alexander Nadel, “ Bit-Vector Rewriting with Automatic Rule Generation  ” [ presentation  ]. CAV’14  .  
+
+ [27]      Alexander Nadel, Vadim Ryvchin, and Ofer Strichman, “ Ultimately Incremental SAT  ” [ presentation  ]. SAT’14  .     
+ 2013    
+ [28]      Alexander Nadel, Vadim Ryvchin, and Ofer Strichman, “ Efficient MUS Extraction with Resolution  ” [ presentation  ]. FMCAD’13  .   
+
+ [29]      Alexander Nadel, “ Handling Bit-Propagating Operations in Bit-Vector Reasoning  ” [ presentation  ]. SMT’13  .  
+
+ [30]      Yakir Vizel, Vadim Ryvchin and Alexander Nadel  ,  “ Efficient Generation of Small Interpolants in CNF   ” [ CAV’13 presentation  ; Interpolation’13 presentation with additional details  ]. CAV’13  .    
+ 2012    
+ [31]      Alexander Nadel, and Vadim Ryvchin, “ Efficient SAT Solving under Assumptions  ” [ presentation  ]. SAT’12  .    
+ o     We found two typos in the paper: the subscript for the conjunction should be “j=1” instead of “j=i” at p.9, last paragraph and p. 10, Alg.2, line 3.  
+
+ [32]      Alexander Nadel, Vadim Ryvchin, and Ofer Strichman, “ Preprocessing in Incremental SAT  ” [ presentation  ]. SAT’12  .    
+ o     A technical report  containing a proof supplement is available.    
+ 2011    
+ [33]      Zurab Khasidashvili, and Alexander Nadel, “ Implicative Simultaneous Satisfiability and Applications  ” [ presentation  ]. HVC’11  .  
+
+ [34]      Alexander Nadel, “ Generating Diverse Solutions in SAT  ” [ presentation  ]. SAT’11     
+ o     An addendum to the paper  is available.    
+ o     The benchmarks  are available.    
+ 2010    
+ [35]      Alexander Nadel, “   Boosting Minimal Unsatisfiable Core Extraction     ” [   presentation     ].   FMCAD’10     .      
+ o     An addendum to the paper  containing complementary experimental results is available.    
+ o     Benchmarks for high-level minimal unsatisfiable core extraction  , which were generated by Intel’s abstraction refinement flow and used in my paper, are available at the above link. Thanks to satcompetition.org  site organizers for hosting them.  
+
+ [36]      Sabih Agbaria, Dan Carmi, Orly Cohen, Dmitry Korchemny, Michael Lifshits and Alexander Nadel, “   SAT-Based Semiformal Verification of Hardware     ”.   FMCAD’10     .    
+
+ [37]      Anders Franzén  , Alessandro Cimatti, Alexander Nadel, Roberto Sebastiani and Jonathan Shalev, “   Applying SMT in Symbolic Execution of Microcode     ”.   FMCAD’10     .   Received the FMCAD’10    best paper award    .    
+
+ [38]      Alexander Nadel, Vadim Ryvchin, “   Assignment Stack Shrinking     ” [   presentation     ].   SAT 2010     : 375-381.      
+ o     Detailed experimental results  are available.    
+ o     Minisat 2 with shrinking and advanced restart strategies  is available. Vadim Ryvchin implemented shrinking and the restart strategies on top of Minisat 2  . UPDATE  (December 2010): Now the code matches exactly the Minisat version we had used for the paper. Unfortunately, an incorrect version appeared before.  
+
+ [39]      Sabih Agbaria, Dan Carmi, Orly Cohen, Dmitry Korchemny, Michael Lifshits, Alexander Nadel, “   An Experience of Complex Design Validation: How to Make Semiformal Verification Work     ” [   presentation     ]. Proceedings of the Design and Verification Conference and Exhibition (DVCon '10).    
+
+ [40]      Orly Cohen, Moran Gordon, Michael Lifshits Alexander Nadel, Vadim Ryvchin, “   Designers Work Less with Quality Formal Equivalence Checking     ” [   presentation     ]. Proceedings of the Design and Verification Conference and Exhibition (DVCon '10).      
+ 2009    
+ [41]      Alexander Nadel, August 2009, “   Understanding and Improving a Modern SAT Solver     ”. PhD thesis, Tel Aviv University.      
+ 2007    
+ [42]      Roberto Bruttomesso, Alessandro Cimatti, Anders Franzén  , Alberto Griggio, Ziyad Hanna Alexander Nadel, Amit Palti, Roberto Sebastiani, "   A Lazy and Layered SMT(BV) Solver for Hard Industrial Verification Problems     ".   CAV 2007     : 547-560.    
+
+ [43]      Nachum Dershowitz, Ziyad Hanna, Alexander Nadel, "   Towards a Better Understanding of the Functionality of a Conflict-Driven SAT Solver     " [   presentation     ].   SAT 2007     : 287-293.      
+ 2006    
+ [44]      Nachum Dershowitz, Ziyad Hanna, Alexander Nadel, "   A Scalable Algorithm for Minimal Unsatisfiable Core Extraction     " [   presentation     ].   SAT 2006     : 36-41      
+ 2005    
+ [45]      Zurab Khasidashvili, Alexander Nadel, Amit Palti, Ziyad Hanna, "   Simultaneous SAT-Based Model Checking of Safety Properties     " [   presentation     ].   Haifa Verification Conference 2005     : 56-75    
+
+ [46]      Nachum Dershowitz, Ziyad Hanna, Alexander Nadel, "   A Clause-Based Heuristic for SAT Solvers     " [   presentation     ].   SAT 2005     : 46-60      
+ 2002    
+  [47]      Alexander Nadel, November 2002, "    Backtrack Search Algorithms for Propositional Logic Satisfiability : Review and Innovations       ". Master Thesis, the Hebrew University.       
+  Talks       
+ 2024  “ Introduction to SAT  ”, Indian SAT + SMT School  , Pune, India    
+ 2024  “ CDCL SAT Solving and Applications to Optimization Problems  ”, Data and Decision Sciences Faculty Seminar, Technion, Haifa, Israel ( given on  February 18: an updated version of the 2023 Berkeley talk  )  
+    
+  2023  “ CDCL SAT Solving and Applications to Optimization Problems  ”, [ video  ], Satisfiability: Theory, Practice, and Beyond Workshop  , Simons Institute, UC Berkeley, USA     
+ 2023  “ Introducing Intel® SAT Solver  ” [ video  ], MIAO Seminars      
+ 2022  “ Introduction to SAT  ”, SAT/SMT/AR/CP Summer School 2022  , Haifa, Israel.    
+ 2022  “ Conflict-driven SAT Solving  ”, Invited talk at the “25 Years of SAT“ Session @ SAT’22  .    
+ 2020  “ Anytime Algorithms for MaxSAT and Beyond  ”, [ video  ], FMCAD’20  Tutorial.    
+ 2019  “ Correct-by-Decision Solving and Applications  ”, Deduction Beyond Satisfiability Dagstuhl Seminar (19371)     
+ 2013  Alexander Nadel, Vadim Ryvchin and Yakir Vizel, “ Generating Tiny Interpolants and Near-interpolants from a Resolution Refutation  ”, Interpolation’13 workshop  .    
+ 2012  “ SAT Genealogy  ”, the Technion, Israel.    
+ 2011  “ SAT Technology at Intel  ”, Invited talk, POS’11 workshop  .    
+    
+ Students      
+ Present    
+ Ron Wettenstein, Master’s student (with Gil Kalai)    
+ Yogev Shalmon, Ph.D. student (with Ofer Strichman)     
+    
+ Graduated    
+ 2024   Yogev Shalmon, M.Sc. (with Dror Fried), “ AllSAT for Combinational Circuits  ”     
+ PC Membership and Other Professional Services      
+ 2025   AAAI CAV     
+ 2024   AAAI CAV, FMCAD, IJCAI, POS, SAT, SMT     
+ 2023   FMCAD Co-chair   ; PC: AAAI, CAV, IJCAI, SAT    
+ 2022   Workshop Chair at SAT   ; PC: AAAI, CAV, DATE, FMCAD, IJCAI-ECAI, SAT    
+ 2021   SMT Workshop Co-chair   ; PC: AAAI, ATVA, IJCAI    
+ 2020   AAAI, FMCAD IJCAI, SAT, VLSI-SoC    
+ 2019   DATE FMCAD, IJCAI, SAT    
+ 2018   CAV FMCAD, IJCAI-ECAI, SAT, SMT    
+ 2017   CAV SMT    
+ 2016   SAT SMT    
+ 2012-2015   SAT    
+ 2011   SAT Competition: Judge    
+ 2010   SAT    
+    
+ Publicly Available Software      
+ 2019-2024  TT-Open-WBO-Inc    ‎[10]  ‎[2]  (also see  ‎[14]  ‎[11]  ‎[8]  ): my anytime MaxSAT solver, spawned from Open-WBO-Inc. The solver has been developed since 2019, when it won both of the weighted incomplete categories at MaxSAT Evaluation 2019  . Since then, different versions of TT-Open-WBO-Inc has been part of various award-winning solvers, including the winners of MaxSAT Evaluation 2023  and MaxSAT Evaluation 2024  in all four anytime categories (NuWLS-c-2023 and  SPB-MaxSAT-c  , respectively).     
+ 2022-2023  Intel(R) SAT Solver (IntelSAT)    ‎  [5]  ‎   : my new SAT solver, released under the MIT license by Intel.    
+ 2018  Maple_LCM_Dist_ChronoBT    ‎   [15]   : our Maple_LCM_Dist  -based SAT solver featuring chronological backtracking, which won the main and the satisfiable tracks of SAT Competition 2018  .    
+ 2018  OpenWBO with chronological backtracking    ‎[15]  : the MaxSAT solver OpenWBO   (the version which won multiple categories at MaxSAT Evaluation 2017  ) enhanced by chronological backtracking  ‎[15]  .     
+ 2001-2004  Jerusat SAT solver (ver. 1.3)   ‎[47]  : Jerusat won multiple medals at the international SAT competitions, including winning the Industrial, Satisfiable category at the  SAT’04 competition  .    
+
+  

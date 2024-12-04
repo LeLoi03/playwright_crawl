@@ -1,0 +1,456 @@
+Skip to main content  Dates & Deadlines 
+  Volunteer 
+  Contact Us 
+
+ Toggle navigation    Toggle navigation   Program | Dropdown menu toggle | Program  Keynote 
+  HPC Ignites Plenary 
+  Invited Talks 
+  Panels 
+  Tutorials 
+  Workshops 
+  Birds of a Feather 
+  Papers 
+  Reproducibility Initiative 
+  AD/AE Process & Badges 
+  AD/AE Appendices 
+  Early Career 
+  Exhibitor Forum 
+  Awards 
+  Posters 
+  ACM SRC 
+  Doctoral Showcase 
+  Research Posters 
+  Job Fair 
+  Receptions 
+  Proceedings & Archives 
+  Exhibits | Dropdown menu toggle | Exhibits  Exhibitor Prospectus 
+  Exhibitor Application 
+  Exhibitor List & Floorplan 
+  Exhibitor Forum 
+  Exhibitor Housing 
+  Exhibitor Function Space 
+  Quantum Locality 
+  Recruit at the Job Fair 
+  Students | Dropdown menu toggle | Students@SC  Lead Student Volunteers 
+  Student Volunteers 
+  Student Cluster Competition 
+  IndySCC 
+  Mentor–Protégé Matching 
+  HPC Immersion 
+  Alumni Reception 
+  Speed Mentoring Event 
+  Job Fair 
+  SCinet | Dropdown menu toggle | SCinet  SCinet Technology 
+  SCinet Teams 
+  Participate in SCinet 
+  WINS 
+  SCinet History 
+  Media | Dropdown menu toggle | Media  Media Registration 
+  Media Partners 
+  Blog 
+  Newsletter 
+  Photos & Logos 
+  Attend | Dropdown menu toggle | Attend  St. Louis 
+  Convention Center 
+  Housing 
+  Registration 
+  Visa Applications 
+  Family Resources 
+  Inclusivity 
+  Code of Conduct 
+  Volunteer 
+  Search    Search      
+
+  Home     Program    Papers     
+ Papers  
+  
+   The SC Papers program is the leading venue for presenting high-quality original research, groundbreaking ideas, and compelling insights on current and future trends in high performance computing, networking, storage, and analysis. Attend presentations of peer-reviewed technical papers on a wide range of topics over three inspiring days.  
+   
+ FOUNDATIONS TO NEW FRONTIERS  
+   
+ Papers Schedule  
+   Tuesday–Thursday, November 18–20, 2025  
+
+ Technical Papers Chair   
+  Jeffrey A. F. Hittinger, Lawrence LIvermore National Laboratory, USA  
+ Technical Papers Vice Chair   
+  Koji Inoue, Kyushu University, Japan  
+
+ Paper Submissions Open March 3, 2025  
+
+ New This Year  
+   
+ As a paper submitter, please review revised information for AD/AE Process & Badges and the new AD/AE Appendices page.  
+ For an accepted paper to be included in the proceedings, the paper has to be presented at the conference in person.  
+ If submitting for both a technical paper and the ACM Gordon Bell Award, please note that only one paper can be included in the proceedings unless a substantial difference between the two papers can be demonstrated.  
+
+ Paper Submissions  
+ 7 APR 2025   
+ Abstract Submissions Close  
+   
+ 14 APR 2025   
+ Full Paper Submissions Close  
+ (No Extensions)   
+   
+ 28 APR 2025   
+ AD (Mandatory)/AE (Optional) Due  
+   
+ 3–6 JUN 2025   
+ Review/Rebuttal Period  
+   
+ 27 JUN 2025   
+ Notifications Sent  
+   
+ 14 JUL 2025   
+ Revised AD/AE, Badge Application  
+ (Optional)   
+   
+ 25 AUG 2025   
+ Final Paper Due  
+
+ How to submit  
+   
+ What is A Paper?  
+   
+ The SC Papers program is the leading venue for presenting high-quality original research, groundbreaking ideas, and compelling insights on current and future trends in high performance computing, networking, storage, and analysis. Technical papers are peer-reviewed and an Artifact Description is mandatory for all papers submitted to SC.  
+   
+ Areas/tracks  
+   
+ Submissions will be considered on any topic related to high performance computing within the areas below. Authors must indicate a primary area from the choices on the submissions form and are strongly encouraged to indicate a secondary area.  
+   
+ preparing your submission  
+   
+ A paper submission has three components: the paper itself, an Artifact Description Appendix (AD), and an Artifact Evaluation Appendix (AE). The Artifact Description Appendix, or explanation of why there is no artifact description, is mandatory. The Artifact Evaluation Appendix is optional.  
+   
+ Eligibility   
+ Papers that have not previously been published in peer-reviewed venues are eligible for submission to SC. For example, papers pre-posted to arXiv, institutional repositories, and personal websites (but no other peer-reviewed venues) remain eligible for SC submission.  
+ Papers that were published in a workshop are eligible if they have been substantially enhanced (i.e., 30% new material).  
+   
+ Paper Format   
+ Submissions are limited to 10 2-column pages (U.S. letter – 8.5″x11″), excluding the bibliography, using the ACM proceedings template. Latex users, please use the “sigconf” option (use of the “review” option is recommended but not required). Word authors can use the “Interim Layout”. | See the templates here | . 
+  AD and AE appendices do not | count against the 10 pages. 
+  Authors of accepted papers may provide supplemental material with their final version of the paper (e.g., additional proofs, videos, or images). 
+    
+ reproducibility initiative  
+   
+ Reproducible science is essential, and SC continues to innovate in this area. AD/AE Appendices will be integrated into the review process, with AD/AE Appendices considered at every stage of paper review. While the Artifact Description Appendix, or explanation of why there is no Artifact Description Appendix, is mandatory, the Artifact Evaluation Appendix is optional  .  
+ Learn more about the Reproducibility Initiative  .  
+   
+ paper review process  
+   
+ Papers are peer-reviewed by a committee of experts. Each paper will have three to four reviews. The peer review process is double-anonymous for the paper and double-open for the Appendices. Appendices reviewers and authors will know each other’s names. Learn more about the SC double-anonymous review policy  .  
+ Papers not respecting the submission guidelines will be subject to immediate rejection without review. Examples include papers not respecting the double-blind submission, papers exceeding the page limit, and papers not submitting the AD artifacts.  
+ From an author’s perspective, the following are the key steps:  
+ Authors submit a title, abstract, and other metadata. 
+  Authors submit their full paper. 
+  After submission of their paper, authors have two weeks to complete an AD/AE form describing their computational artifacts (or lack of computational artifacts) and, optionally, how they evaluated their computational results. The paper is reviewed, and reviews are distributed to authors. 
+  Authors prepare a rebuttal. 
+  Reviewers consider the rebuttal. 
+  Paper decisions are made in late-June. Some papers may be shepherded for further changes. Authors of accepted papers prepare the final version of their paper. 
+
+ areas/Tracks  
+   
+ Submissions will be considered on any topic related to high performance computing within the areas below. Authors must indicate a primary area from the choices on the submissions form and are strongly encouraged to indicate a secondary area.  
+ Small-scale studies – including single-node studies – are welcome as long as the paper clearly conveys the work’s contribution to high performance computing.  
+   
+ algorithms  
+   
+ The development, evaluation, and optimization of scalable, general-purpose, high performance algorithms.  
+ Topics include:   
+ Algorithms for discrete and combinatorial optimization 
+  Algorithms for hybrid and heterogeneous systems with accelerators 
+  Algorithms for numerical methods and algebraic systems 
+  Data-intensive parallel algorithms 
+  Energy- and power-efficient algorithms 
+  Fault-tolerant algorithms 
+  Graph and network algorithms 
+  Load balancing and scheduling algorithms 
+  Machine learning algorithms 
+  Uncertainty quantification methods 
+  Other high performance computing algorithms 
+
+ applications  
+   
+ The development and enhancement of algorithms, parallel implementations, models, software and problem solving environments for specific applications that require high performance resources.  
+ Topics include:   
+ Bioinformatics and computational biology 
+  Computational earth and atmospheric sciences 
+  Computational materials science and engineering 
+  Computational astrophysics/astronomy, chemistry, and physics 
+  Computational fluid dynamics and mechanics 
+  Computation and data enabled social science 
+  Computational design optimization for aerospace, energy, manufacturing, and industrial applications 
+  Computational medicine and bioengineering 
+  Irregular applications including graphs, network science, and text/pattern matching 
+  Improved models, algorithms, performance or scalability of specific applications and respective software 
+  Use of uncertainty quantification, statistical, and machine-learning techniques to improve a specific HPC application 
+  Other high performance applications 
+
+ Architecture & Networks  
+   
+ All aspects of high performance hardware including the optimization and evaluation of processors and networks.  
+ Topics include:   
+ Hardware/software co-design for HPC 
+  Hardware support for programming languages or software development 
+  Architectures for extreme heterogeneity or HPC/Quantum hybrids 
+  HPC interconnects: topology, switch architecture, optical networks, software-defined networks 
+  Network protocols, quality of service, congestion control, collective communication, offloading 
+  I/O architecture/hardware and emerging storage technologies 
+  Memory Systems & Architectures: caches, memory technology, non-volatile memory, coherence, translation 
+  Multi-processor architecture and micro-architecture (e.g., reconfigurable, vector, stream, dataflow, GPUs, and custom/novel architecture) 
+  Design-space exploration / performance projection for future systems 
+  Evaluation and measurement on testbed or production hardware systems 
+  Power-efficient design and power-management strategies 
+  Resilience, error correction,high availability architectures 
+  Secure architectures, side-channel attacks and mitigations for HPC 
+
+ Data Analytics, Visualization, & Storage  
+   
+ All aspects of data analytics, visualization, storage, and storage I/O related to HPC systems, Submissions on work done at scale are highly favored. Further, submissions having a component focusing on the “Art of HPC” are appreciated.  
+ Topics include:   
+ Data analytics, visualization, and storage for HPC systems 
+  Cloud-based analytics and scalable databases 
+  Data mining, analysis, and visualization 
+  Data reduction/compression for simulation data 
+  Data integration workflows and design and performance of data-centric workflows 
+  I/O performance tuning and middleware 
+  In situ data processing and visualization 
+  Next-generation storage systems 
+  Parallel storage systems (file, object, key-value, etc.) 
+  Provenance, metadata, and data management 
+  Reliability and fault tolerance in HPC storage 
+  Storage tiering (on-premise and cloud) 
+  Storage innovations using machine learning 
+  Storage networks and scalable cloud solutions 
+  Visual analytics for supercomputing systems, application monitoring, and machine learning model interpretation and tuning at scale 
+
+ HPC for Machine Learning  
+   
+ The development and enhancement of algorithms, systems, and software for scalable machine learning utilizing high performance computing technology. This area is primarily addressing the use of HPC to improve ML rather than the use of ML to improve any technology covered by other areas. It is particularly designed for papers that have a strong ML component and that need to be evaluated by ML experts. Papers addressing the latter should be submitted to the respective areas.  
+ Topics include:   
+ HPC for ML 
+  Parallel and distributed learning algorithms 
+  Hardware-efficient training and inference 
+  Model, pipeline, and data parallelism 
+  Accelerated computing for ML 
+  Large-scale data processing for ML 
+  Performance modeling and analysis of ML applications 
+  Scalable optimization methods for ML 
+  Scalable hyperparameter tuning and optimization 
+  Scalable neural architecture search 
+  Model deployment and inference at scale 
+  Systems, compilers, and languages for ML at scale 
+
+ Performance Measurement, Modeling, & Tools  
+   
+ Novel methods and tools for measuring, evaluating, and/or analyzing performance for large-scale systems.  
+ Topics include:   
+ Analysis, modeling, or simulation methods for performance 
+  Methodologies, metrics, and formalisms for performance analysis and tools 
+  Novel and broadly applicable performance optimization techniques 
+  Performance studies of HPC hardware and software subsystems such as processor, network, memory, accelerators, and storage 
+  Scalable tools and instrumentation infrastructure for measurement, monitoring, and/or visualization of performance 
+  System-design tradeoffs between performance and other metrics (e.g., performance and resilience, performance and security) 
+  Workload characterization and benchmarking techniques 
+
+ post-Moore Computing  
+   
+ Technologies that continue the scaling of supercomputing performance beyond the limits of Moore’s law, including system architecture, programming frameworks, system software, and applications.  
+ Topics include:   
+ Hardware specialization and taming extreme heterogeneity 
+  Beyond von-Neumann computer architectures 
+  Special purpose computing (e.g., Anton or GRAPE) 
+  Quantum computing, especially focusing on hybrid HPC/QC 
+  Neuromorphic and brain-inspired computing 
+  Probabilistic, stochastic computing, and approximate computing 
+  Novel post-CMOS device technologies and advanced packaging technologies for heterogeneous integration (evaluated in a supercomputing systems or application context) 
+  Superconducting electronics for supercomputing 
+  Programming models and programming paradigms for post-Moore systems 
+  Tools for modeling, simulating, emulating, or benchmarking post-Moore and post-CMOS devices and systems 
+
+ Programming Frameworks  
+   
+ Compilers, programming languages, libraries, programming models, and runtime systems that enable management of hardware resources and support parallel programming for large-scale systems.  
+ Topics include:   
+ Compiler analysis, optimization and code generation 
+  Program verification, program transformation and synthesis 
+  Parallel programming languages, libraries, models, and application frameworks 
+  Execution models and runtime systems 
+  Communication libraries 
+  Programming language and compilation techniques for reducing energy and data movement 
+  Solutions for parallel-programming challenges (e.g., interoperability, memory consistency, determinism, reproducibility, race detection) 
+  Tools and frameworks for fault tolerance and resilience 
+  Tools and frameworks for parallel program development (e.g., debuggers and integrated development environments) 
+  Programming models and framework for heterogeneous systems 
+  Programming models and runtime for future novel systems 
+
+ State of the practice  
+   
+ All aspects of the pragmatic practices of HPC, including operational IT infrastructure, services, facilities, large-scale application executions and benchmarks. Papers are expected to capture experiences and ongoing practice relating to modern computing centers or HPC-related software. Papers do not need to cover novel research or developments, but they are expected to offer novel insights and lessons for HPC architects, developers, administrators, or users.  
+ Topics include:   
+ Bridging of cloud data centers and supercomputing centers 
+  Energy efficiency and carbon emission of HPC and data centers 
+  Comparative system benchmarking over a wide spectrum of workloads 
+  Deployment experiences of large-scale hardware and software infrastructures and facilities 
+  Facilitation of “big data” associated with supercomputing 
+  Infrastructural policy issues and management experiences, especially international experiences 
+  Pragmatic resource management strategies and experiences 
+  Monitoring and operational data analytics 
+  Procurement, technology investment and acquisition best practices 
+  Quantitative results of education, training, and dissemination activities 
+  Software engineering best practices for HPC 
+  User support experiences with large-scale and novel machines 
+  Provenance, logistic concerns and reproducibility of data 
+  Adoption and use of infrastructure as code paradigm 
+  Management, support and impact of large workflows 
+  Workload analysis, accounting and group users interactions 
+
+ System Software & Cloud Computing  
+   
+ Cloud and system software architecture, configuration, optimization and evaluation, support for parallel programming on large-scale systems or building blocks for next-generation HPC architectures.  
+ Topics include:   
+ Convergence of HPC, cloud, edge, and other distributed computing resources 
+  Analysis of cost, performance, and reliability of HPC, cloud, and edge facilities 
+  Systems that facilitate distributed applications, such as workflow systems, task-oriented systems, functions-as-a-service, and service-oriented computing 
+  Integration and management of HPC hardware in clouds and distributed systems 
+  Scheduling, load balancing, resource provisioning, resource management, cost efficiency, fault tolerance, and reliability for large-scale systems and clouds 
+  Green clouds, energy efficiency, power management, carbon awareness 
+  Approaches for enabling adaptive and elastic system software 
+  Parallel/networked file system integration with the OS and runtime 
+  OS and runtime system enhancements for accelerators 
+  Runtime and OS management of complex memory hierarchies 
+  Interactions among the OS, middleware and tools 
+  System software for reducing energy and data movement 
+  Self-configuration, monitoring, and introspection 
+  Security, sharing, auditing, and identity management 
+  Virtualization, containerization, and other technologies for isolation and portability 
+  Case studies of scalable distributed applications that span facilities 
+
+ conflict of interest, Plagiarism, & AI-Generated Text  
+   
+ conflict of interest  
+   
+ Please be aware of, and adhere to, these SC Conference guidelines regarding potential conflicts of interest and disclosure.  
+ A potential conflict of interest occurs when a person is involved in making a decision that:  
+ Could result in that person, a close associate of that person, or that person’s company or institution receiving significant financial gain, such as a contract or grant, or 
+  Could result in that person, or a close associate of that person, receiving significant professional recognition, such as an award or the selection of a paper, work, exhibit, or other type of submitted presentation. 
+  Program Committee members will be given the opportunity to list potential conflicts of interest during each program’s review process. Program Committee chairs and area chairs will make every effort to avoid assignments that have a potential COI. Further, starting this year, the SC online submission system (Linklings) will include automatic checks taking prior publications of authors and submitters into account.  
+ According to the SC conference you have a conflict of interest with the following:  
+ Your PhD advisors, post-doctoral advisors, PhD students, and post-doctoral advisees; 
+  Family relations by blood or marriage, or equivalent (e.g., a partner); 
+  People with whom you collaborated in the past five years. Collaborators include: co-authors on an accepted/rejected/pending research paper; co-PIs on an accepted/pending grant; those who fund your research; researchers whom you fund; or researchers with whom you are actively collaborating; 
+  Close personal friends or others with whom you believe a conflict of interest exists; 
+  People who were employed by, or a student at, your primary institution(s) in the past five years, or people who are active candidates for employment at your primary institution(s). 
+  Note that “service” collaborations, such as writing a DOE, NSF, or DARPA report, or serving on a program committee, or serving on the editorial board of a journal, do not inherently create a COI.  
+ Other situations can create COIs, and you should contact the Technical Program Chairs for questions or clarification on any of these issues.  
+   
+ Plagiarism  
+   
+ Please review the ACM guidelines on identifying plagiarism  .  
+   
+ AI-generated text  
+   
+ The use of artificial intelligence AI–generated text in an article shall be disclosed in the acknowledgements section of any paper submitted to SC. The sections of the paper that use AI-generated text shall have a citation to the AI system used to generate the text. Utilizing Large Language Models (LLMs) is permissible as a general-purpose writing assistance tool. Authors are expected to acknowledge their complete accountability for the contents of their papers, including content generated by LLMs that could be interpreted as plagiarism or scientific misconduct (e.g., fabrication of facts). LLMs are not eligible for authorship.  
+
+ double-Anonymous review  
+   
+ This document aims to help authors, reviewers, and Papers Chairs understand the double-anonymous review process that the SC Conference Series has adopted. Please contact us  with any questions or comments.  
+   
+ Guidance for authors  
+   
+ If you are an author, you should write your paper so as not to disclose your identity or the identities of your co-authors. The following guidelines are best practices for anonymizing a submission in a way that should not weaken it or the presentation of its ideas. These guidelines are broken up into the major submission and review phases: while writing (before submitting), at submission time, and during the rebuttal process.  
+ These practices were distilled from McKinley (2015) and Snodgrass (2007).  
+ In addition, the paper evaluation draws inspiration from the three principles suggested by Snodgrass (2007):  
+ Authors should not be required to go to great lengths to anonymize their submissions. 
+  Comprehensiveness of the review trumps anonymity efficacy. 
+  Editors and Chairs retain flexibility and authority in managing the reviewing process. 
+    
+ While Writing   
+ Do not use your name or your co-authors’ names, affiliations, funding sources, or acknowledgments in the heading or body of the document. It is absolutely fine and encouraged to use the name of the machine you are working on and describe it. 
+  Do not eliminate self-references to your published work that are relevant and essential to a proper review of your paper solely in an attempt to anonymize your submission. Instead, write self-references in the third person. Recall that the goal and spirit of double-blind review is to create uncertainty about authorship, which is sufficient to realize most of its benefits. 
+  To reference your unpublished work, use anonymous citations. From Snodgrass (2007): “The authors developed … [1]” where the reference [1] appears as, “[1] Anonymous (omitted due to double-anonymous review).” You will have a chance to explain these references to the non-conflicted Papers Chair or their designee(s); see At Submission Time, below. See the FAQ for more examples. 
+    
+ At Submission Time   
+ At submission time, you will be asked to declare conflicts of interest you may have with program committee members. You will also have the option to upload a list of conflicts. Reviewers will be asked separately to verify declared conflicts. 
+  Because of the double-anonymous process, there is no limit on the number of submissions by Program Committee members. However, there is a limit of four accepted papers for Program Committee members. Track Co-Chairs are subject to submission limits. 
+    
+ During the Review Period   
+ You are not forbidden from disseminating your work via talks or technical reports. However, you should not try to directly or otherwise unduly influence program committee members who may be reviewing your paper.  
+   
+ During the Rebuttal Period   
+ During the rebuttal period, authors should still assume double-anonymous review. Therefore, authors should not disclose their identities in their rebuttal to the reviewers. However, as with the original submission, authors will have the option of entering identity-revealing information in a separate part of the rebuttal form that will, by default, be visible only to non-conflicted Chairs, or their designee(s) in the case of conflicts.  
+
+ upon acceptance  
+   
+ REgistration  
+   
+ If your paper is selected, at least one author must register for the Technical Program in order to attend the SC Conference and present the paper. Paper presenters are expected to be in-person at the conference.  
+ For an accepted paper to be included in the proceedings, the author has to present the paper at the conference in person. Otherwise, the paper will be removed from the proceedings.  
+   
+ Proceedings  
+   
+ All accepted papers will be listed in the online SC Schedule.  
+   
+ Papers are archived in the ACM Digital Library  and IEEE Xplore  ; members of SIGHPC or subscribers to the archives may access the full papers without charge. This publication contains the full text of all Papers and their Artifact Description appendices presented at the SC Conference.  
+
+ on-site  
+   
+ schedule & location  
+   
+ Paper presentations will be held Tuesday–Thursday, November 18–20, 2025. Paper sessions are 30 minutes. Day, time, and location for each paper session will be published in the online SC Schedule by September 2025.  
+   
+ infrastructure  
+   
+ Papers are assigned a theater room equipped with standard AV facilities:  
+ Projector 
+  Microphone and podium 
+  Wireless lapel microphone or wireless handheld microphone 
+  Projection screen 
+    
+ Awards  
+   
+ Best Paper (BP), Best Student Paper (BSP), and Best Reproducibility Advancement (BRA) nominations are made during the review process and are highlighted in the online SC schedule. BP, BSP, and BRA winners are selected by a committee who attends the corresponding paper presentations, and winners are announced at the Thursday Awards Ceremony.  
+
+ Reproducibility Initiative  
+ SC has been a leader in tangible progress towards scientific rigor, through its pioneering practice of enhanced reproducibility of accepted papers. This year’s initiative builds on this success by continuing the practice of using appendices to enhance scientific rigor and transparency.  
+   
+ The Reproducibility Initiative impacts technical papers and their submission and peer review. All paper submitters should review the information on the Reproducibility Initiative page, including the guidelines for AD/AE Appendices & Badges.  
+   
+  reproducibility    
+   
+  AD/AE Process & Badges    
+   
+  AD/AE Appendices    
+
+ Ready to Submit?  
+ Create an account in the online submission system and complete the form. A sample form can be viewed before signing in.  
+   
+  submit    
+
+ If you have questions about Paper submissions, please contact the program committee.  
+   
+  contact us    
+
+  dates & deadlines   
+ Submission, application, and nomination deadlines for all programs and awards, the housing open date, the early registration deadline, and more – all in one place.  
+
+ SC25 Planning Committee 
+  SC Steering Committee 
+  SC Conference Series 
+  Dates & Deadlines 
+  Proceedings & Archives 
+  Photos & Logos 
+  Contact Us 
+  Volunteer 
+
+  CODE OF CONDUCT   
+   
+ ACM PRIVACY POLICY   
+   
+ IEEE PRIVACY POLICY   
+
+ The International Conference for High Performance Computing, Networking, Storage, and Analysis  
+   
+ SPONSORED BY:  
+
+  Back To Top Button      

@@ -1,0 +1,62 @@
+Skip to content    ACM Symposium on Parallelism in Algorithms and Architectures   
+ Portland, Oregon, July 28-August 1, 2025  
+   
+     Menu  Organizations 
+  Awards | SPAA Best Paper Award 
+  SPAA Test-of-Time Award 
+  SPAA Parallel Computing Award 
+  Previous SPAAs 
+  SPAA Mailing List 
+  Call For Papers 
+
+ SPAA Best Paper Award  
+  
+ Starting from 2007, the SPAA conference has been awarding annual Best Paper Award. In addition, starting in 2016, the SPAA conference has started awarding Outstanding Paper Award or Best Paper Finalists. The paper selection is done by the program committee. Past awards are:  
+  
+ 2024 | Best Papers: | Jeonghyeon Kim, Jaehwang Jung, and Jeehoon Kang. | Expediting Hazard Pointers with Bounded RCU Critical Sections 
+  Kunal Agrawal, William Kuszmaul, Zhe Wang, and Jinhao Zhao. | Distributed Load Balancing in the Face of Reappearance Dependencies 
+  Outstanding Papers: | Xiangyun Ding, Yan Gu, and Yihan Sun. | Parallel and (Nearly) Work-Efficient Dynamic Programming 
+  Klaus Jansen, Malin Rau, and Malte Tutas. | Hardness and Tight Approximations of Demand Strip Packing 
+  Sungjin Im, Ravi Kumar, Shi Li, Aditya Petety, and Manish Purohit. | Online Load and Graph Balancing for Random Order Inputs 
+  2023 | Best Paper: | Mohsen Ghaffari, Christoph Grunau, and Jiahao Qu. | Nearly Work-Efficient Parallel DFS in Undirected Graphs 
+  Outstanding Papers: | Alireza Haqi and Hamid Zarrabi-Zadeh. | Almost Optimal Massively Parallel Algorithms for k-Center Clustering and Diversity Maximization 
+  Nairen Cao, Shang-En Huang, and Hsin-Hao Su. | Nearly Optimal Parallel Algorithms for Longest Increasing Subsequence 
+  Alexander Fedorov, Diba Hashemi, Giorgi Nadiradze, and Dan Alistarh. | Provably-Efficient and Internally-Deterministic Parallel Union-Find 
+  2022 | Best Paper: | Quanquan C. Liu, Jessica Shi, Shangdi Yu, Laxman Dhulipala, and Julian Shun. | Parallel Batch-Dynamic Algorithms for k-Core Decomposition and Related Graph Problems 
+  Outstanding Papers  : | Nairen Cao, Jeremy T. Fineman, and Katina Russell. | Parallel Shortest Paths with Negative Edge Weights 
+  Gaetano C. Coccimiglio, Trevor A. Brown, and Srivatsan Ravi. | PREP-UC: A Practical Replicated Persistent Universal Construction 
+  Kunal Agrawal, Michael A. Bender, Rathish Das, William Kuszmaul, Enoch Peserico, and Michele Scquizzato. | Online Parallel Paging with Optimal Makespan 
+  2021 | Best Paper: | Daniel Anderson and Guy Blelloch. | Parallel Minimum Cuts in O(m log^2(n)) Work and Low Depth 
+  Outstanding Papers  : | Zafar Ahmad, Rezaul Chowdhury, Rathish Das, Pramod Ganapathi, Aaron Gregory and Yimin Zhu. | Fast Stencil | Computations using Fast Fourier Transforms 
+  Susanne Albers and Jens Quedenfeld. | Algorithms for Right-Sizing Heterogeneous Data Centers 
+  Sungjin Im, Ravi Kumar, Mahshid Montazer Qaem and Manish Purohit. | Non-Clairvoyant Scheduling with Predictions 
+  Zafar Ahmad, Rezaul Chowdhury, Rathish Das, Pramod Ganapathi, Aaron Gregory and Mohammad Javanmard. | Low-Span Parallel Algorithms for the Binary-Forking Model 
+  2020 | Best Paper: | Irvan Jahja and Haifeng Yu. | Sublinear Algorithms in T-interval Dynamic Networks 
+  Outstanding Papers  : | Guy Blelloch, Jeremy Fineman, Yan Gu and Yihan Sun. | Optimal Parallel Algorithms in the Binary-Forking Model 
+  Lazar Milenkovic and Shay Solomon. | A Unified Sparsification Approach for Matching Problems in Graphs of Bounded Neighborhood Independence 
+  Lukas Gianinazzi and Torsten Hoefler. | Parallel Planar Subgraph Isomorphism and Vertex Connectivity 
+  Udit Agarwal and Vijaya Ramachandran. | Faster Deterministic All Pairs Shortest Paths in Congest Model 
+  2019 | Best Paper: | Faith Ellen, Barun Gorain, Avery Miller and Andrej Pelc. | Constant-Length Labeling Schemes for Deterministic Radio Broadcast 
+  2018 | Best Papers: | Barbara Geissmann and Lukas Gianinazzi. | Parallel Minimum Cuts in Near-linear Work and Low Depth 
+  Laxman Dhulipala, Guy E. Blelloch, and Julian Shun. | Theoretically Efficient Parallel Graph Algorithms Can be Fast and Scalable 
+  2017 | Best Papers: | Sepehr Assadi and Sanjeev Khanna. | Randomized Composable Coresets for Matching and Vertex Cover 
+  Sudipto Guha, Yi Li and Qin Zhang. | Distributed Partial Clustering 
+  2016 | Best Paper: | Tim Roughgarden, Sergei Vassilvitskii and Joshua Wang. | On Lower Bounds for Modern Parallel Computation 
+  Outstanding Papers: | Mingmou Liu, Xiaoyin Pan and Yitong Yin. | Randomized Approximate Nearest Neighbor Search with Limited Adaptivity 
+  Madhukar Korupolu and Rajmohan Rajaraman. | Robust and Probabilistic Failure-Aware Placement 
+  Deli Zhang and Damian Dechev. | Lock-free Transactions without Aborts for Linked Data Structures 
+  2015 | Best Paper: | Yossi Azar, Nikhil Devanur, Zhiyi Huang and Debmalya Panigrahi. | Speed Scaling in the Non-clairvoyant Model 
+  2014 | Best Paper: | Justin Thaler, Michael Mitzenmacher, and Jiayang Jiang. | Parallel Peeling Algorithms 
+  2013 | Best Papers: | Ravi Kumar, Benjamin Moseley, Sergei Vassilvitskii and Andrea Vattani. | Fast Greedy Algorithms in MapReduce and Streaming 
+  Martina Eikel and Christian Scheideler. | IRIS: A Robust Information System Against Insider DoS-Attacks 
+  2012 | Best Paper: | I-Ting Lee, Aamir Shafi, and Charles Leiserson. | Memory-Mapping Support for Reducer Hyperobjects 
+  2011: | Best Paper: | Grey Ballard, James Demmel, Olga Holtz, and Oded Schwartz. | Graph Expansion and Communication Costs of Fast Matrix Multiplication 
+  2010: | Best Paper: | Noga Alon, Erik D. Demaine, MohammadTaghi Hajiaghayi and Tom Leighton. | Basic Network Creation Games 
+  2009: | Best Paper: | Matteo Frigo, Pablo Halpern, Charles E. Leiserson, and Stephen Lewin-Berlin. | Reducers and Other Cilk++ Hyperobjects 
+  2008: | Best Paper: | Zvika Guz, Idit Keidar, Avinoam Kolodny and Uri C. Weiser. | Utilizing Shared Data in Chip Multiprocessors with the Nahalal Architecture 
+  2007: | Best Papers: | Pierre Fraigniaud, Cyril Gavoille, Emmanuelle Lebhar, Zvi Lotker and Adrian Kosowski. | Universal Augmentation Schemes for Network Navigability: Overcoming the √n-Barrier 
+  Fabian Kuhn, Thomas Locher and Roger Wattenhofer. | Tight Bounds for Distributed Selection 
+
+ Proudly powered by WordPress  ~  Theme: Penscratch 2 by WordPress.com  .   
+
+  

@@ -1,0 +1,332 @@
+Write a Blog >>  LCTES 2020   Mon 15 - Fri 19 June 2020    
+ co-located with PLDI 2020    
+
+ Toggle navigation        
+ Attending | Venue: Online! 
+  PLDI 2020 
+  Statement on Current Events 
+  Registration 
+  Code of Conduct 
+  Sponsorship 
+  Student participation and support 
+  Video recording 
+  Program | LCTES Program 
+  Your Program 
+   Mon 15 Jun 
+  Tue 16 Jun 
+  Wed 17 Jun 
+  Thu 18 Jun 
+  Fri 19 Jun 
+  Track/Call 
+  Organization | LCTES 2020 Committees 
+  Track Committees 
+  Organizing Committee 
+  Program Committee 
+  Contributors 
+  People Index 
+  Search 
+  Series | Series 
+   LCTES 2024 
+  LCTES 2023 
+  LCTES 2022 
+  LCTES 2021 
+  LCTES 2020 
+  LCTES 2019 
+  LCTES 2018 
+  LCTES 2017 
+  LCTES 2016 
+  Sign in 
+  Sign up 
+
+  PLDI 2020  ( series  ) /  LCTES 2020 ( series  ) /  LCTES 2020  
+   
+ About 
+  Accepted Papers 
+  YouTube Talk Videos 
+  Call for Papers 
+  Registration 
+  Submission 
+  LCTES 2020 is going virtual due to COVID-19 pandemic   
+ LCTES decided not to have real-time Q&A Zoom/Slack communication. Instead, all LCTES talk videos are now available on SIGPLAN’s YouTube channel. Please click the YouTube Talk Videos  tab to watch the videos.  
+ This year’s LCTES program consists of one keynote presentation on “Compiler 2.0: Using Machine Learning to Modernize Compiler Technology” by Prof. Saman Amarasinghe, MIT, eleven full paper presentations, and five work-in-progress (WIP) paper presentations. Please check out the keynote video below.  
+    
+  Welcome to the 21 st  ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES 2020)  
+ LCTES provides a link between the programming languages and embedded systems engineering communities. Researchers and developers in these areas are addressing many similar problems, but with different backgrounds and approaches. LCTES is intended to expose researchers and developers from either area to relevant work and interesting problems in the other area and provide a forum where they can interact.  
+   
+ Accepted Papers  
+  
+ Title 
+ A Collaborative Filtering Approach for the Automatic Tuning of Compiler Optimisations  LCTES 2020   
+ Stefano Cereda  , Gianluca Palermo  , Paolo Cremonesi  , Stefano Doni 
+ ApproxRefresh: Enabling Uncorrectable Data Reuse on Flash Memory with Approximate Read Awareness  LCTES 2020   
+ Jinhua Cui  , Junwei Liu  , Jianhang Huang  , Haoran Zhu  , Laurence T. Yang 
+ A Synergistic Approach to Predictable Compilation and Scheduling on Commodity Multi-Cores  LCTES 2020   
+ Björn Forsberg  , Maxim Mattheeuws  , Andreas Kurth  , Andrea Marongiu  , Luca Benini 
+ CITTA: Cache Interference-aware Task Partitioning for Real-time Multi-core Systems  LCTES 2020   
+ Jun Xiao  , Andy Pimentel 
+ Compiler 2.0: Using Machine Learning to Modernize Compiler Technology  LCTES 2020   
+ Saman Amarasinghe 
+ Compiling Spiking Neural Networks to Neuromorphic Hardware  LCTES 2020   
+ Shihao Song  , Adarsha Balaji  , Anup Das  , Nagarajan Kandasamy  , James Shackleford 
+ Exploiting the Trust Between Boundaries: Discovering Memory Corruptions in Printers via Driver Assisted Testing  LCTES 2020   
+ Xiaoyu He  , Erick Bauman  , Feng Li  , Yu Lei  , Linyu Li  , Bingchang Liu  , Aihua Piao  , Kevin Hamlen  , Wei Huo  , Wei Zou 
+ Improving the performance of WCET analysis in the presence of variable latencies  LCTES 2020   
+ Hugues Cassé  , Zhenyu Bai  , Thomas Carle  , Marianne De Michiel  , Christine Rochange 
+ Intermittent Computing with Peripherals, Formally Verified  LCTES 2020   
+ Gautier Berthou  , Pierre-Evariste Dagand  , Delphine Demange  , Rémi Oudin  , Tanguy Risset 
+ PAQSIM: Fast Performance Model for Graphics Workload on Mobile GPUs  LCTES 2020   
+ Xiang Gong  , Chunling Hu  , Chu-Cheow Lim 
+ Path Sensitive Signatures for Control Flow Error Detection  LCTES 2020   
+ Ze Zhang  , Sunghyun Park  , Scott Mahlke 
+ Performance Optimization on big.LITTLE Architectures: A Memory-latency Aware Approach  LCTES 2020   
+ Willy Wolff  , Barry Porter 
+ WIP: A Synthesis-aided Compiler for DSP Architectures  LCTES 2020   
+ Alexa VanHattum  , Rachit Nigam  , Vincent T. Lee  , James Bornholt  , Adrian Sampson 
+ WIP: Beyond Base-2 Logarithmic Number Systems  LCTES 2020   
+ Syed Asad Alam  , David Gregg 
+ WIP: FPGA-based Near Data Processing Platform Selection Using Fast Performance Modeling  LCTES 2020   
+ Nazanin Farahpour  , Zhenman Fang  , Glenn Reinman 
+ WIP: Towards Building Better Mobile Web Browsers for Ad-blocking: The Energy Perspective  LCTES 2020   
+ Nadja Heitmann  , Sangyoung Mark  , Samarjit Chakraborty 
+ WIP: Towards Real-time CNN Inference from a Video Stream on a Mobile GPU  LCTES 2020   
+ Chanyoung Oh  , Gunju Park  , Sumin Kim  , Dohee Kim  , Youngmin Yi 
+
+ YouTube Talk Videos  
+  
+ Please click the following link to YouTube to watch the talk video of each paper.  
+ Session 1: Keynote   
+ Using Machine Learning to Modernize Compiler Technology   
+ Session 2: Performance   
+ PAQSIM: Fast Performance Model for Graphics Workload on Mobile GPUs   
+ A Collaborative Filtering Approach for the Automatic Tuning of Compiler Optimisations   
+ ApproxRefresh: Enabling Uncorrectable Data Reuse on Flash Memory with Approximate Read Awareness   
+ Compiling Spiking Neural Networks to Neuromorphic Hardware   
+ Performance Optimization on big.LITTLE Architectures: A Memory-latency Aware Approach   
+ Session 3: Reliability   
+ Path Sensitive Signatures for Control Flow Error Detection   
+ Exploiting the Trust Between Boundaries: Discovering Memory Corruptions in Printers via Driver Assisted Testing   
+ Intermittent Computing with Peripherals, Formally Verified   
+ Session 4: Predictability   
+ CITTA: Cache Interference-aware Task Partitioning for Real-time Multi-core Systems   
+ A Synergistic Approach to Predictable Compilation and Scheduling on Commodity Multi-Cores   
+ Improving the Performance of WCET Analysis in the Presence of Variable Latencies   
+ Session 5: Work-in-progress   
+ A Synthesis-Aided Compiler for DSP Architectures   
+ Towards Real-time CNN Inference from a Video Stream on a Mobile GPU   
+ Beyond Base-2 Logarithmic Number Systems   
+ Towards Building Better Mobile Web Browsers for Ad blocking: The Energy Perspective   
+ FPGA-based Near Data Processing Platform Selection Using Fast Performance Modeling   
+
+ Call for Papers  
+  
+ Embedded system design faces many challenges both with respect to functional requirements and nonfunctional requirements, many of which are conflicting. They are found in areas such as design and developer productivity, verification, validation, maintainability, and meeting performance goals and resource constraints. Novel design-time and run-time approaches are needed to meet the demand of emerging applications and to exploit new hardware paradigms, and in particular to scale up to multicores (including GPUs and FPGAs) and distributed systems built from multicores.  
+ LCTES 2020 solicits papers presenting original work on programming languages, compilers, tools, theory, and architectures that help in overcoming these challenges. Research papers on innovative techniques are welcome, as well as experience papers on insights obtained by experimenting with real-world systems and applications.  
+ Paper Categories:   
+ Full paper: 10 pages presenting original work. 
+  Work-in-progress paper: 4 pages papers presenting original ideas that are likely to trigger interesting discussions. 
+  Accepted papers in both categories will appear in the proceedings published by ACM.  
+ This year LCTES is introducing a journal mode in addition to the usual conference mode. All accepted full papers will be invited to be published in a special issue of ACM Transactions on Embedded Computing Systems (TECS)  .  
+ Original contributions are solicited on the topics of interest including, but not limited to:  
+ Programming language challenges, including: | Domain-specific languages 
+  Features to exploit multicore, reconfigurable, and other emerging architectures 
+  Features for distributed, adaptive, and real-time control embedded systems 
+  Language capabilities for specification, composition, and construction of embedded systems 
+  Language features and techniques to enhance reliability, verifiability, and security 
+  Virtual machines, concurrency, inter-processor synchronization, and memory management 
+  Compiler challenges, including: | Interaction between embedded architectures, operating systems, and compilers 
+  Interpreters, binary translation, just-in-time compilation, and split compilation 
+  Support for enhanced programmer productivity 
+  Support for enhanced debugging, profiling, and exception/interrupt handling 
+  Optimization for low power/energy, code and data size, and best-effort and real-time performance 
+  Parameterized and structural compiler design space exploration and auto-tuning 
+  Tools for analysis, specification, design, and implementation, including: | Hardware, system software, application software, and their interfaces 
+  Distributed real-time control, media players, and reconfigurable architectures 
+  System integration and testing 
+  Performance estimation, monitoring, and tuning 
+  Run-time system support for embedded systems 
+  Design space exploration tools 
+  Support for system security and system-level reliability 
+  Approaches for cross-layer system optimization 
+  Theory and foundations of embedded systems, including: | Predictability of resource behavior: energy, space, time 
+  Validation and verification, in particular of concurrent and distributed systems 
+  Formal foundations of model-based design as the basis for code generation, analysis, and verification 
+  Mathematical foundations for embedded systems 
+  Models of computations for embedded applications 
+  Novel embedded architectures, including: | Design and implementation of novel architectures 
+  Workload analysis and performance evaluation 
+  Architecture support for new language features, virtualization, compiler techniques, debugging tools 
+  Architectural features to improve power/energy, code/data size, and predictability 
+  Mobile systems and IoT, including: | Operating systems for mobile and IoT devices 
+  Compiler and software tools for mobile and IoT systems 
+  Energy management for mobile and IoT devices 
+  Memory and IO techniques for mobile and IoT devices 
+  Empirical studies and their reproduction, and confirmation 
+
+ Submission  
+  
+ Formatting Guidelines:  Submissions must be in ACM SIGPLAN subformat of the acmart format by downloading acmart-sigplanproc.zip  , double-column, 10-point type, and may not exceed 10 pages for full papers and 4 pages for work-in-progress papers (not including references; there is no page limit for references for both categories of papers.). A more detailed explanation about formatting can be found at http://www.sigplan.org/Resources/Author/  . For papers in the work-in-progress categories, please prepend “WIP: **” in front of the title  . To enable double-blind reviewing, submissions must adhere to two rules:  
+ author names and their affiliations must be omitted; and, 
+  references to related work by the authors should be in the third person (e.g., not “We build on our previous work …” but rather “We build on the work of …”). 
+  However, nothing should be done in the name of anonymity that weakens the submission or makes the job of reviewing the paper more difficult (e.g., important background references should not be omitted or anonymized). Papers must describe unpublished work that is not currently submitted for publication elsewhere as discussed here. Authors of accepted papers will be required to sign an ACM copyright release.  
+ The ACM template  can be found at https://www.acm.org/publications/proceedings-template  .  
+ The submission site:  is https://lctes20.hotcrp.com  .  
+
+ Registration  
+  
+ Please click here  to register for LCTES’2020. Note that it is free to register.  
+
+ Questions? Use the LCTES contact form  .    
+    
+ Important Dates   AoE (UTC-12h)     
+
+ Tue 16 Jun 2020  
+  Conference 
+ Sun 26 Apr 2020  
+  Camera-Ready Submission 
+ Mon 6 Apr 2020  
+  Author Notification 
+ Fri 6 Mar 2020  
+  Paper Submission 
+
+ Organizing Committee    
+   
+ Jingling Xue General Chair    
+ UNSW Sydney   
+ Australia 
+  Changhee Jung PC Chair    
+ Purdue University, USA 
+  Dongyoon Lee Publicity Chair    
+ Stony Brook University   
+ United States 
+  Jianping Zeng Web Chair    
+ Purdue University, USA   
+ United States 
+    
+ Program Committee    
+   
+ David B. Whalley    
+ Florida State University 
+  Raj Barik    
+ Uber Technologies Inc. 
+  Guillaume Baudart    
+ IBM Research 
+  Simone Campanoni    
+ Northwestern University, USA 
+  Sang Kil Cha    
+ KAIST   
+ South Korea 
+  Bjorn De Sutter    
+ Ghent University, Belgium   
+ Belgium 
+  Bernhard Egger    
+ Seoul National University   
+ South Korea 
+  Zhenman Fang    
+ Simon Fraser University   
+ Canada 
+  Rajiv Gupta    
+ UC Riverside   
+ United States 
+  Ahmed Helal    
+ Intel 
+  Matthew Hicks    
+ Virginia Tech 
+  Changwan Hong    
+ MIT   
+ United States 
+  Pi-Cheng Hsiu    
+ Academia Sinica 
+  Vijay Janapa Janapa Reddi    
+ Harvard University 
+  Teresa Johnson    
+ Google 
+  Mahmut Taylan Kandemir    
+ Pennsylvania State University, USA   
+ United States 
+  Samira Khan    
+ University of Virginia 
+  Hanjun Kim    
+ Yonsei University 
+  Dongyoon Lee    
+ Stony Brook University   
+ United States 
+  Jaejin Lee    
+ Seoul National University, South Korea 
+  Janghaeng Lee    
+ Intel 
+  Guanpeng Li    
+ University of Illinois 
+  Zhiyuan Li    
+ Purdue University, USA 
+  Eric Liang    
+ Peking University 
+  Qingrui Liu    
+ Virginia Tech, USA 
+  Tongping Liu    
+ University of Massachusetts Amherst 
+  Xu Liu    
+ College of William and Mary 
+  Luca Mottola    
+ Politecnico di Milano, Italy and RI.Se SICS, Sweden 
+  Frank Mueller    
+ North Carolina State University, USA 
+  Hakjoo Oh    
+ Korea University, South Korea 
+  Uday P. Khedker    
+ IIT Bombay 
+  Yongjun Park    
+ Hanyang University 
+  Fernando Magno Quintão Pereira    
+ UFMG   
+ Brazil 
+  Bin Ren    
+ College of William and Mary 
+  Joshua San Miguel    
+ University of Wisconsin 
+  Xipeng Shen    
+ North Carolina State University   
+ United States 
+  Aviral Shrivastava    
+ Arizona State University   
+ United States 
+  Parasara Sridhar Duggirala    
+ The University of North Carolina at Chapel Hill   
+ United States 
+  Yulei Sui    
+ University of Technology Sydney, Australia   
+ Australia 
+  Jean-Pierre Talpin    
+ INRIA, France 
+  Bo Wu    
+ Colorado School of Mines 
+  Pen-Chung Yew    
+ University of Minnesota 
+  Heechul Yun    
+ University of Kansas 
+  Antonia Zhai    
+ University of Minnesota 
+  Tong Zhang    
+ Samsung 
+  Huiyang Zhou    
+ North Carolina State U. 
+
+ x  Wed 4 Dec 13:32    
+
+  LCTES 2020   
+  using conf.researchr.org  ( v1.67.1  )  
+   Support page    
+     
+ Tracks  
+ LCTES 2020    
+
+ Attending  
+ Venue: Online!   
+  Statement on Current Events from the PLDI 2020 General Chair   
+  Registration   
+  Code of Conduct   
+  Sponsorship   
+  Student participation and support   
+  Resources for video recording    
+ Sign Up    
+
+  

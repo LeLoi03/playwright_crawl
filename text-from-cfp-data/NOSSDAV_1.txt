@@ -1,0 +1,109 @@
+NOSSDAV'24    Organization 
+  Call 
+  Program 
+  Attending 
+
+ WELCOME TO ACM NOSSDAV 2024   
+     
+ The 34th edition of the Workshop on Network and Operating System Support for Digital Audio and Video will take place in Bari, Italy in April 2024.  
+
+ Organization  
+  Program Chairs  
+ Amr Rizk (University of Duisburg-Essen, Germany) [amr.rizk AT uni-due.de] 
+  Maria Torres Vega (Katholieke Universiteit Leuven, Belgium) [maria.torresvega AT kuleuven.be] 
+  Program Committee  
+ Abdelhak Bentaleb, Concordia University, Canada 
+  Arvind Narayanan, AT&T Labs - Research United States of America 
+  Baochun Li, University of Toronto, Canada 
+  Bo Han George Mason University United States of America 
+  Carsten Griwodz, University of Oslo, Norway 
+  Cheng-Hsin Hsu, National Tsing Hua University, Taiwan 
+  Christian Timmerer, Alpen-Adria-Universität Klagenfurt, Austria 
+  Débora Muchaluat-Saade, Universidade Federal Fluminense, Brazil 
+  Di Wu, Sun Yat-sen University, China 
+  Gregor Schiele, University of Duisburg-Essen, Germany 
+  Guanyu Gao, Nanjing University of Science and Technology, China 
+  Haihan Duan, The Chinese University of Hong Kong, Shenzhen China 
+  Huaming Wu, Tianjin University, China 
+  Irene Viola, CWI, The Netherlands 
+  Jeroen van der Hooft, Ghent University, Belgium 
+  Jesus Gutierrez, Universidad Politécnica de Madrid, Spain 
+  Mallesham Dasari, Carnegie Mellon University, United States of America 
+  Markus Fiedler, Blekinge Institute of Technology (BTH), Sweden 
+  Mathis Engelbart, TU Munich, Germany 
+  Matti Siekkinen, Aalto University, Finland 
+  Mea Wang, University of Calgary, Canada 
+  Mengbai Xiao, Shandong University, China 
+  Michael Zink, UMass Amherst, US 
+  Michael Seufert, University of Augsburg, Germany 
+  Mohamed Hefeeda, Simon Fraser University, Canada 
+  Nils Aschenbruck, Universität Osnabrück, Germany 
+  Ralf Steinmetz, TU Darmstadt, Germany 
+  Ravi Prakash, University of Texas at Dallas, United States of America 
+  Roberto Azevedo, Disney Research, Switzerland 
+  Silvia Rossi, CWI, The Netherlands 
+  Songqing Chen, George Mason University, United States of America 
+  Stefano Petrangeli, Adobe, United States of America 
+  Takuya Fujihashi, Osaka University, Japan 
+  Tim Wauters, Ghent University, Belgium 
+  Tobias Hossfeld, UWUE Wuerzburg, Germany 
+  Wei Cai, The Chinese University of Hong Kong, Shenzhen China 
+  Wei Tsang Ooi, National University of Singapore, Singapore 
+  Wojciech Mazurczyk, Warsaw University of Technology, Poland 
+  Xinggong Zhang, Peking University, China 
+  Yao Liu, Rutgers University, United States of America 
+  Yi Zhao, Tsinghua University, China 
+  Yong Liu, New York University, United States of America 
+  Zhisheng Yan, George Mason University, United States of America 
+
+ Call  
+  NOSSDAV is a workshop with a long-standing tradition focusing on both emerging and established multimedia systems research topics especially high-risk/high-return ideas. The single-track format brings together academic and industry researchers and practitioners to engage in fruitful and constructive discussions. NOSSDAV encourages papers identifying fundamental open problems in multimedia systems research, advocate new radical ideas or offer counterarguments or critique on the existing state of the art; NOSSDAV prefers exciting-even-if-incomplete papers or reports on promising ideas that may be supported by well-reasoned arguments.  
+ NOSSDAV takes a broad perspective on all areas of multimedia systems. Authors are especially encouraged to submit papers with real-world experimental results and datasets. This includes new ideas relating to (but not limited to):  
+ Virtual reality (VR), augmented reality (AR) and immersive systems 
+  Deep learning approaches to improve multimedia delivery and processing 
+  Cloud architectures for multimedia coding and processing 
+  Wireless, mobile, IoT and embedded systems for multimedia applications 
+  Medical, surveillance and autonomous driving multimedia systems 
+  Network-distributed media processing 
+  Networked GPUs/TPUs, graphics and virtual environments 
+  Audio/Image/Video Analytics Systems 
+  System Support for Multimedia Interaction with humans 
+  Internet-Scale Multimedia Systems 
+
+ Submission Process  
+  Prospective authors are invited to submit an electronic version of full papers, in PDF format, up to six (6) printed pages plus one (1) page solely for references in length (double column ACM style format  ) at the workshop Web site. Authors must prepare their papers in a way that preserves the anonymity of the authors (double blind).  Please do NOT include the author names under the title. The workshop proceedings will be published by ACM Digital Library.  
+ Register by: January 26, 2024 (AoE) 
+  Upload by: February 2nd, 2024 (AoE) 
+  Notifications on: March 8, 2024 
+  Camera ready on: March 15, 2024 
+  Online Submission  
+ https://nossdav2024.hotcrp.com/ 
+
+ Program  
+  Keynote (all MMSys workshops)  (09:00 - 10:00)  
+ Title: Quality Management and Sustainability in Video Streaming 
+  Speaker: Prof. Luigi Atzori (University of Cagliari) 
+  Abstract: The constant increase in the amount of video traffic generated by major streaming platforms and video calling sessions, combined with users' high-quality expectations, places strong demands on proposing procedures for managing resources in the network and on the server side. These procedures should take into account both the quality perceived by the user and the environmental impact. This talk will touch on these two topics, starting by illustrating recent studies regarding the development of models focused on defining personalized quality prediction solutions to consider the individual and personal differences of users. The use of user facial and speech-related features for estimating the QoE (Quality of Experience) of multimedia services is presented, with a particular focus on WebRTC-based video conferencing. The resulting prediction systems can be used to find an appropriate trade-off between quality of experience and sustainability. As a result, it is important to study the impact of different service settings (e.g., video resolution, different luminance types, and different end devices) on both the QoE and the power consumption of video streaming services. 
+  Coffee Break  (10:00 - 10:30)  
+ Opening  (10:30 - 10:40) by NOSSDAV'24 Chairs  
+ Paper Session 1: Multimedia Networking  (10:40 - 12:20)  
+ On the benefits and caveats of exploiting Quality on Demand Network APIs for video streaming | T. Tran, D. Gageot, C. Neumann, G. Bichot, A. Tlili, K. Boutiba, A. Ksentini 
+  JitBright: towards Low-Latency Mobile Cloud Rendering through Jitter Buffer Optimization | Y. Zhao, Q. Wu, G. Lv, F. YANG, J. Zhang, F. Peng, Y. Liu, Z. Li, Y. Chen, H. Guo, G. Xie 
+  MATURE: Multistage Throughput Prediction for Adaptive Video Streaming in Cellular Networks | K. Nolan, D. Raca, G. Provan, A. Zahran 
+  VCApather: A Network as a Service Solution for Video Conference Applications | D. He, C. Lin, X. Yu, C. Westphal, Z. Ming, L. Cui, X. Zhou, J. Garcia-Luna-Aceves 
+  Rethinking Explicit Congestion Notification: A Multilevel Congestion Feedback Perspective | I. Ali, S. Hong, P. Park, T. Kim 
+  Lunch  (12:20 - 13:40)  
+ Paper Session 2: Multimedia Applications  (13:40 - 15:20)  
+ Enabling adaptive and reliable video delivery over hybrid unicast/broadcast networks | C. Haems, J. van der Hooft, H. Mareen, P. Steenkiste, G. Van Wallendael, T. Wauters, F. De Turck 
+  Identifying Video Resolution from Encrypted QUIC Streams in Segment-combined Transmission Scenarios | Y. Zhao, H. Wu, L. Chen, S. Liu, G. Cheng, X. Hu 
+  Towards Full-scene Volumetric Video Streaming via Spatially Layered Representation and NeRF Generation | J. Shi, M. Zhang, L. Shen, J. Liu, Y. Zhang, L. Pu, J. Xu 
+  You Only Look Once in Panorama: Object Detection for 360° Videos with MLaaS | L. Shen, M. Zhang, C. Zhang, J. Liu 
+  VAAC-IM: Viewing Area Adaptive Control in Immersive Media Transmission | H. Xiao, C. Xu, C. Fang, S. Yang, L. Zhong 
+  Closing  (15:20) by NOSSDAV'24 Chairs  
+
+ Attending  
+  NOSSDAV'24 will be co-located with MMSys'24. Venue information will be posted later.  
+
+  Registration is to be completed on MMSys'24 Web site  for both the authors and attendees.  
+
+  

@@ -1,0 +1,384 @@
+ISMM 2024   Tue 25 Jun 2024 Copenhagen, Denmark    
+ co-located with PLDI 2024    
+
+ Toggle navigation        
+ Attending | Venue: Radisson Blu Scandinavia, Copenhagen 
+  PLDI 2024 
+  Sponsorship 
+  Registration 
+  Visa 
+  Live Streams 
+  Presenter Instructions 
+  Program | ISMM Program 
+  Your Program 
+   Tue 25 Jun 
+  Track/Call 
+  Organization | ISMM 2024 Committees 
+  Track Committees 
+  Organizing Committee 
+  Program Committee 
+  Steering Committee 
+  Contributors 
+  People Index 
+  Search 
+  Series | Series 
+    ISMM 2024 
+  ISMM 2023 
+  ISMM 2022 
+  ISMM 2021 
+  ISMM 2020 
+  ISMM 2019 
+  ISMM 2018 
+  ISMM 2017 
+  ISMM 2016 
+  ISMM 2015 
+  Sign in 
+  Sign up 
+
+  PLDI 2024  ( series  ) /  ISMM 2024 ( series  ) /  International Symposium on Memory Management ISMM 2024   
+   
+ About 
+  Program 
+  Accepted Papers 
+  Call for Papers 
+  Welcome to the home page of the 2024 ACM SIGPLAN International Symposium on Memory Management (ISMM 2024)! ISMM is the premier forum dedicated to research in memory management, covering the areas of memory performance, allocator design, garbage collection, architectural support for memory management, persistent memories, emerging memory technologies, and more.  
+ ISMM’24 will held in-person as part of PLDI’24, sharing the venue and activities.  
+ Update!   We’re thrilled to announce two distinguished keynote speakers  for ISMM 2024. Join us for their insightful presentations on the future of memory management and innovation in the field!  
+ Keynote 1  : Memory of Past and Future – Wasm’s Evolving Model of Store   by Dr. Andreas Rossberg  (independent researcher)  
+ Keynote 2  : Enabling the AI Revolution: Next-Generation Memory Solutions for AI Computing System   by Dr. Euicheol Lim  (VP, SK hynix)  
+ Proceedings  : ISMM’24 proceedings on the ACM DL   
+ Code of Conduct   
+ ISMM follows the ACM Policy Against Harassment at ACM Activities   . Please familiarize yourself with the policy  and guide for reporting unacceptable behavior  .  
+   
+ Plenary    
+
+   Program Display Configuration  
+   
+   Time Zone   
+   
+ The program is currently displayed in (GMT+02:00) Windhoek  .   Use conference time zone: (GMT+02:00) Windhoek    Select other time zone   (GMT-12:00) AoE (Anywhere On Earth)  (GMT-11:00) Midway Island, Samoa  (GMT-09:00) Hawaii-Aleutian  (GMT-10:00) Hawaii  (GMT-09:30) Marquesas Islands  (GMT-09:00) Gambier Islands  (GMT-08:00) Alaska  (GMT-07:00) Tijuana, Baja California  (GMT-08:00) Pitcairn Islands  (GMT-07:00) Pacific Time (US & Canada)  (GMT-06:00) Mountain Time (US & Canada)  (GMT-06:00) Chihuahua, La Paz, Mazatlan  (GMT-07:00) Arizona  (GMT-06:00) Saskatchewan, Central America  (GMT-05:00) Guadalajara, Mexico City, Monterrey  (GMT-06:00) Easter Island  (GMT-05:00) Central Time (US & Canada)  (GMT-04:00) Eastern Time (US & Canada)  (GMT-04:00) Cuba  (GMT-05:00) Bogota, Lima, Quito, Rio Branco  (GMT-04:00) Caracas  (GMT-04:00) Santiago  (GMT-04:00) La Paz  (GMT-03:00) Faukland Islands  (GMT-04:00) Manaus, Amazonas, Brazil  (GMT-03:00) Atlantic Time (Goose Bay)  (GMT-03:00) Atlantic Time (Canada)  (GMT-02:30) Newfoundland  (GMT-03:00) UTC-3  (GMT-03:00) Montevideo  (GMT-02:00) Miquelon, St. Pierre  (GMT-02:00) Greenland  (GMT-03:00) Buenos Aires  (GMT-03:00) Brasilia, Distrito Federal, Brazil  (GMT-02:00) Mid-Atlantic  (GMT-01:00) Cape Verde Is.  (GMT) Azores  (UTC) Coordinated Universal Time  (GMT+01:00) Belfast  (GMT+01:00) Dublin  (GMT+01:00) Lisbon  (GMT+01:00) London  (GMT) Monrovia, Reykjavik  (GMT+02:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna  (GMT+02:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague  (GMT+02:00) Brussels, Copenhagen, Madrid, Paris  (GMT+01:00) West Central Africa  (GMT+02:00) Windhoek  (GMT+03:00) Athens  (GMT+03:00) Beirut  (GMT+02:00) Cairo  (GMT+03:00) Gaza  (GMT+02:00) Harare, Pretoria  (GMT+03:00) Jerusalem  (GMT+03:00) Minsk  (GMT+03:00) Syria  (GMT+03:00) Moscow, St. Petersburg, Volgograd  (GMT+03:00) Nairobi  (GMT+03:30) Tehran  (GMT+04:00) Abu Dhabi, Muscat  (GMT+04:00) Yerevan  (GMT+04:30) Kabul  (GMT+05:00) Ekaterinburg  (GMT+05:00) Tashkent  (GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi  (GMT+05:45) Kathmandu  (GMT+06:00) Astana, Dhaka  (GMT+07:00) Novosibirsk  (GMT+06:30) Yangon (Rangoon)  (GMT+07:00) Bangkok, Hanoi, Jakarta  (GMT+07:00) Krasnoyarsk  (GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi  (GMT+08:00) Irkutsk, Ulaan Bataar  (GMT+08:00) Perth  (GMT+08:45) Eucla  (GMT+09:00) Osaka, Sapporo, Tokyo  (GMT+09:00) Seoul  (GMT+09:00) Yakutsk  (GMT+09:30) Adelaide  (GMT+09:30) Darwin  (GMT+10:00) Brisbane  (GMT+10:00) Hobart  (GMT+10:00) Vladivostok  (GMT+10:30) Lord Howe Island  (GMT+11:00) Solomon Is., New Caledonia  (GMT+11:00) Magadan  (GMT+11:00) Norfolk Island  (GMT+12:00) Anadyr, Kamchatka  (GMT+12:00) Auckland, Wellington  (GMT+12:00) Fiji, Kamchatka, Marshall Is.  (GMT+12:45) Chatham Islands  (GMT+13:00) Nuku'alofa  (GMT+14:00) Kiritimati     
+
+   The GMT offsets shown reflect the offsets at the moment of the conference  .     
+   
+ Time Band   
+   
+ By setting a time band, the program will dim events that are outside this time window. This is useful for (virtual) conferences with a continuous program (with repeated sessions).  
+  The time band will also limit the events that are included in the personal iCalendar subscription service.   Display full program    Specify a time band   -      
+
+  Save    
+
+  Close    
+
+ ×    You're viewing the program in a time zone which is different from your device's time zone change time zone     
+
+ Tue 25 Jun   
+  
+ Displayed time zone: Windhoek  change      
+
+ 09:00 - 09:10 | Welcome from the Chairs ISMM 2024   at Iceland   
+  Chair(s): Michael D. Bond  Ohio State University  , Jae W. Lee  Seoul National University  , Hannes Payer  Google 
+ 09:00   
+ 10m    
+ Day opening | Welcome to ISMM   ISMM 2024   
+ Michael D. Bond  Ohio State University  , Jae W. Lee  Seoul National University  , Hannes Payer  Google 
+
+ 09:10 - 10:10 | ISMM: Keynote 1 - Dr. Andreas Rossberg (Independent) ISMM 2024   at Iceland   
+  Chair(s): Hannes Payer  Google 
+ 09:10   
+ 60m    
+ Keynote | Keynote: Memory of Past and Future – Wasm’s Evolving Model of Store   ISMM 2024   
+ Andreas Rossberg  Independent 
+
+ 10:40 - 11:40 | ISMM: Session 1 - Garbage Collection ISMM 2024   at Iceland   
+  Chair(s): Steve Blackburn  Google and Australian National University 
+ 10:40   
+ 20m    
+ Talk | Memory Management on Mobile Devices   ISMM 2024   
+ Kunal Sareen  Australian National University  , Steve Blackburn  Google and Australian National University  , Sara S. Hamouda  Google  , Lokesh Gidra  Google    
+  DOI   Pre-print 
+ 11:00   
+ 20m    
+ Talk | Garbage Collection for Mostly Serialized Heaps   ISMM 2024   
+ Chaitanya S. Koparkar  Indiana University  , Vidush Singhal  Purdue University  , Aditya Gupta  Purdue University  , Mike Rainey  Carnegie Mellon University  , Michael Vollmer  University of Kent  , Artem Pelenitsyn  Purdue University  , Sam Tobin-Hochstadt  Indiana University  , Milind Kulkarni  Purdue University  , Ryan R. Newton  Purdue University    
+  DOI   Pre-print 
+ 11:20   
+ 20m    
+ Talk | Evaluating Finalization-Based Object Lifetime Profiling Remote      ISMM 2024   
+ Sebastian Jordan Montaño  Univ. Lille, Inria, CNRS, Centrale Lille, UMR 9189 CRIStAL F-59000 Lille, France  , Guillermo Polito  Univ. Lille, Inria, CNRS, Centrale Lille, UMR 9189 CRIStAL  , Stéphane Ducasse  Inria; University of Lille; CNRS; Centrale Lille; CRIStAL  , Pablo Tesone  Univ. Lille, Inria, CNRS, Centrale Lille, UMR 9189 CRIStAL, Pharo Consortium    
+  DOI 
+
+ 11:40 - 12:20 | ISMM: Session 2 - Hardware for Memory Management ISMM 2024   at Iceland   
+  Chair(s): Sara S. Hamouda  Google 
+ 11:40   
+ 20m    
+ Talk | Supporting Trusted Virtual Machines with Hardware-Based Secure Remote Memory   ISMM 2024   
+ Taekyung Heo  NVIDIA  , Seunghyo Kang  KAIST  , Sanghyeon Lee  KAIST  , Soojin Hwang  KAIST  , Joongun Park  Georgia Tech  , Jaehyuk Huh  KAIST    
+  DOI 
+ 12:00   
+ 20m    
+ Talk | A Managed Memory System for Micro Controllers with NOR Flash Memory   ISMM 2024   
+ Akira Inoue  University of Tokyo  , Tomoharu Ugawa  University of Tokyo  , Shigeru Chiba  University of Tokyo    
+  DOI 
+
+ 13:40 - 14:40 | ISMM: Keynote 2 - Dr. Euicheol Lim (SK hynix) ISMM 2024   at Iceland   
+  Chair(s): Jae W. Lee  Seoul National University 
+ 13:40   
+ 60m    
+ Keynote | Keynote: Enabling the AI Revolution: Next-Generation Memory Solutions for AI Computing System   ISMM 2024   
+ Euicheol Lim  SK hynix 
+
+ 14:40 - 15:40 | ISMM: Session 3 - Intellectual Abstracts ISMM 2024   at Iceland   
+  Chair(s): Michael D. Bond  Ohio State University 
+ 14:40   
+ 20m    
+ Talk | The One Pass (OP) Compactor: An Intellectual Abstract   ISMM 2024   
+ Tomer Cory  Technion  , Erez Petrank  Technion    
+  DOI 
+ 15:00   
+ 20m    
+ Talk | BatchIt: Optimizing Message-Passing Allocators for Producer-Consumer Workloads: An Intellectual Abstract   ISMM 2024   
+ Nathaniel Wesley Filardo  Microsoft Azure  , Matthew J. Parkinson  Microsoft Azure Research    
+  DOI   Pre-print 
+ 15:20   
+ 20m    
+ Talk | Reference Counting Deeply Immutable Data Structures with Cycles: An Intellectual Abstract   ISMM 2024   
+ Matthew J. Parkinson  Microsoft Azure Research  , Sylvan Clebsch  Microsoft Azure Research  , Tobias Wrigstad  Uppsala University    
+  DOI   Pre-print 
+
+ 16:00 - 17:00 | ISMM: Session 4 - Potpourri ISMM 2024   at Iceland   
+  Chair(s): Tony Hosking  Australian National University 
+ 16:00   
+ 20m    
+ Talk | SSRD: Shapes and Summaries for Race Detection in Concurrent Data Structures Remote      ISMM 2024   
+ Xiaofan Sun  University of California at Riverside  , Rajiv Gupta  University of California at Riverside    
+  DOI 
+ 16:20   
+ 20m    
+ Talk | A Heuristic for Periodic Memory Allocation with Little Fragmentation to Train Neural Networks   ISMM 2024   
+ Akifumi Imanishi  Preferred Networks  , Zijian Xu  Preferred Networks    
+  DOI 
+ 16:40   
+ 20m    
+ Talk | ESPN: Memory-Efficient Multi-vector Information Retrieval   ISMM 2024   
+ Susav Shrestha  Texas A&M University  , Narasimha Reddy  Texas A&M University  , Zongwang Li  Samsung    
+  DOI 
+
+ 18:00 - 20:00 | Welcome Reception (open to attendees of any PLDI-associated event) PLDI Events  / PLDI Catering   at Copenhagen City Hall   
+  Note: this reception is open to attendees of any PLDI-associated event, not just the main PLDI conference. 
+ 18:00   
+ 2h    
+ Other | Reception   PLDI Events   
+ Fritz Henglein  Department of Computer Science, University of Copenhagen (DIKU) and Deon Digital  , Jakob Grue Simonsen  University of Copenhagen  , Milind Kulkarni  Purdue University 
+
+ Accepted Papers  
+  
+ Title 
+ A Heuristic for Periodic Memory Allocation with Little Fragmentation to Train Neural Networks  ISMM 2024   
+ Akifumi Imanishi  , Zijian Xu    
+  DOI 
+ A Managed Memory System for Micro Controllers with NOR Flash Memory  ISMM 2024   
+ Akira Inoue  , Tomoharu Ugawa  , Shigeru Chiba    
+  DOI 
+ BatchIt: Optimizing Message-Passing Allocators for Producer-Consumer Workloads: An Intellectual Abstract  ISMM 2024   
+ Nathaniel Wesley Filardo  , Matthew J. Parkinson    
+  DOI   Pre-print 
+ ESPN: Memory-Efficient Multi-vector Information Retrieval  ISMM 2024   
+ Susav Shrestha  , Narasimha Reddy  , Zongwang Li    
+  DOI 
+ Evaluating Finalization-Based Object Lifetime Profiling Remote     ISMM 2024   
+ Sebastian Jordan Montaño  , Guillermo Polito  , Stéphane Ducasse  , Pablo Tesone    
+  DOI 
+ Garbage Collection for Mostly Serialized Heaps  ISMM 2024   
+ Chaitanya S. Koparkar  , Vidush Singhal  , Aditya Gupta  , Mike Rainey  , Michael Vollmer  , Artem Pelenitsyn  , Sam Tobin-Hochstadt  , Milind Kulkarni  , Ryan R. Newton    
+  DOI   Pre-print 
+ Memory Management on Mobile Devices  ISMM 2024   
+ Kunal Sareen  , Steve Blackburn  , Sara S. Hamouda  , Lokesh Gidra    
+  DOI   Pre-print 
+ Reference Counting Deeply Immutable Data Structures with Cycles: An Intellectual Abstract  ISMM 2024   
+ Matthew J. Parkinson  , Sylvan Clebsch  , Tobias Wrigstad    
+  DOI   Pre-print 
+ SSRD: Shapes and Summaries for Race Detection in Concurrent Data Structures Remote     ISMM 2024   
+ Xiaofan Sun  , Rajiv Gupta    
+  DOI 
+ Supporting Trusted Virtual Machines with Hardware-Based Secure Remote Memory  ISMM 2024   
+ Taekyung Heo  , Seunghyo Kang  , Sanghyeon Lee  , Soojin Hwang  , Joongun Park  , Jaehyuk Huh    
+  DOI 
+ The One Pass (OP) Compactor: An Intellectual Abstract  ISMM 2024   
+ Tomer Cory  , Erez Petrank    
+  DOI 
+
+ Call for Papers  
+  
+ Important changes in 2024.   We are excited to announce an expanded scope of ISMM this year to encourage submissions and participation from related fields such as computer architecture and computer systems in addition to our core PL community!   
+ The 2024 ACM SIGPLAN International Symposium on Memory Management (ISMM 2024) is soliciting full-length submissions covering new work on all memory management related topics in both software and hardware  , as well as papers presenting confirmations or refutations of important prior results. In addition to regular papers, traditionally submitted to ISMM, we also invite submissions of the following kinds:  
+ Surveys and comparative analyses that shed new light on previously published techniques. 
+  Practitioner reports, describing experience with memory management in production. Such papers are not expected to provide novel research contributions, but they should not have been previously published. 
+  Intellectual abstracts, where researchers share designs, algorithms, or theory that may be interesting to the memory management community, but not yet evaluated. 
+  Please indicate whether the paper is a regular paper, a survey, a practitioner report, or an intellectual abstract, by using a subtitle. For example, for a regular paper, include on of the following on the line below the title line: \subtitle{This submission is a regular paper}  , \subtitle{This submission is a survey}  , \subtitle{This submission is a practitioner report}  , or \subtitle{This submission is an intellectual abstract}  .  
+ ISMM 2024 will be colocated with PLDI 2024  .  
+ Areas of interest include but are not limited to:  
+ Garbage collection algorithms and implementations 
+  Memory allocation and de-allocation 
+  Memory system design and analysis 
+  Hardware support for memory management 
+  Memory management for large-scale data-intensive systems 
+  Memory management at datacenter and cloud scales 
+  Formal analysis and verification of memory management algorithms 
+  Compiler analyses to aid memory management 
+  Tools to analyze memory usage of programs 
+  Empirical analysis of memory intensive programs 
+  Formal analysis and verification of memory intensive programs 
+  Memory management for machine learning systems 
+  Programming and management of emerging or persistent memories 
+  Caches 
+  Cache coherence and memory consistency 
+  Processing in memory and near memory processing 
+  Memory device architectures (SRAM, DRAM, flash, NVM) 
+  Security and privacy of memory systems 
+  Reliability of memory systems 
+  The symposium welcomes industry practitioners presenting their recent practice and findings in memory management related to real-world deployments.  
+ Submission Link   
+ https://ismm24.hotcrp.com   
+ Formatting Instructions   
+ All papers must be submitted on-line in Portable Document Format (PDF).  
+ Papers should be formatted according to the two-column ACM proceedings format. Each paper should have no more than 12 pages, excluding bibliography, in 10pt font. There is no limit on the page count for references. Each reference must list all authors of the paper (do not use et al). The citations should be in numeric style, e.g., [52]  . Submissions should be in PDF format and printable on US Letter and A4 sized paper. These requirements are all the same as in the previous years.  
+ Papers that exceed the length requirement or deviate from the expected format will be rejected.  
+ Make sure that figures and tables are legible, even after the paper is printed in gray-scale.  
+ Appendices should not be part of the paper, but should be submitted as supplementary material. Supplementary material should also be anonymized, as described below.  
+ As explained in more detail at http://www.sigplan.org/Resources/Author  , authors should use the sigplan subformat of the acmart format. Please note the following: The first two lines should be:  
+ \documentclass[sigplan,10pt,review,anonymous]{acmart} \settopmatter{printfolios=true,printccs=false,printacmref=false}   The default citation style is numeric. Do not  mess with the class file or settings to try to sneak in additional space. (Conversely, you may toggle the printccs and printacmref flags if you wish, but these changes will consume space.) Do not  use the PACMPL files or format; ISMM is not using them. However, the template files were designed to make migrating a paper from one format to the other as simple as possible.  
+ Double-Blind Reviewing   
+ ISMM uses double-blind reviewing. This means that author names and affiliations must be omitted from the submission. Additionally, if the submission refers to prior work done by the authors, that reference should be made in third person. These are firm submission requirements. Any supplementary material must also be anonymized.  
+ PLDI’s FAQ on Double-Blind Reviewing  clarifies the policy for the most common scenarios. But there are many gray areas and trade-offs. If you have any doubts about how to interpret the double blind rules, please contact the Program Chair. If in any doubt you should contact the Program Chair for complex cases that are not fully covered by the FAQ.  
+ Declaring Conflicts   
+ When submitting the paper, you will need to declare potential conflicts. Conflicts should be declared between an adviser and an advisee (e.g., Ph.D., post-doc). Other conflicts include institutional conflicts, financial conflicts of interest, friends or relatives, or any recent co-authors on papers and proposals (last 2 years).  
+ Please do not declare spurious conflicts: such incorrect conflicts are especially harmful if the aim is to exclude potential reviewers, so spurious conflicts can be grounds for rejection. If you are unsure about a conflict, please consult the Program Chair.  
+ Publication Date   
+ AUTHORS TAKE NOTE:  The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to two weeks prior to the first day of your conference. The official publication date affects the deadline for any patent filings related to published work.  (For those rare conferences whose proceedings are published in the ACM Digital Library after the conference is over, the official publication date remains the first day of the conference.)  
+ Author Response   
+ The author response process will occur in April 2024 (see Important Dates on the main page  ), and will give the authors an opportunity to respond to factual errors in reviews before the Program Committee meets to make its decisions. The committee may, but need not, respond to the author response or revise reviews at or after the committee meeting.  
+ Acknowledgements   
+ This call-for-papers is an adaptation and evolution of content from previous instances of ISMM and PLDI. We are grateful to prior organizers for their work, which is reused here.  
+
+ Important Dates   AoE (UTC-12h)     
+
+ Tue 25 Jun 2024  
+  Conference day 
+ Mon 20 May 2024  
+  Camera-ready paper 
+ Fri 10 May 2024  
+  Author notification 
+ Mon 29 Apr - Tue 30 Apr 2024  
+  Author response period 
+ Mon 25 Mar 2024  
+  Paper submission 
+
+ Submission Link   
+   
+   https://ismm24.hotcrp.com     
+   
+ Organizing Committee    
+   
+ Michael D. Bond General Chair    
+ Ohio State University 
+  Jae W. Lee Program Co-Chair    
+ Seoul National University   
+ South Korea 
+  Hannes Payer Program Co-Chair    
+ Google 
+    
+ Program Committee    
+   
+ Jung Ho Ahn    
+ Seoul National University 
+  Rodrigo Bruno    
+ INESC-ID, Instituto Superior Técnico, Universidade de Lisboa   
+ Portugal 
+  Mattan Erez    
+ The University of Texas at Austin 
+  Sara S. Hamouda    
+ Google   
+ Australia 
+  Wessam Hassanein    
+ Google 
+  Christoph Kirsch    
+ University of Salzburg; Czech Technical University   
+ Austria 
+  Jagadish Kotra    
+ Pennsylvania State University, USA 
+  Yongkee Kwon    
+ Tenstorrent   
+ South Korea 
+  Stefan Marr    
+ University of Kent   
+ United Kingdom 
+  Ashish Panwar    
+ Microsoft Research India   
+ India 
+  Jeremy Singer    
+ University of Glasgow   
+ United Kingdom 
+  Sonali Singh    
+ AMD Research   
+ United States 
+  Dimitrios Skarlatos    
+ Carnegie Mellon University   
+ United States 
+  Maoni Stephens    
+ Microsoft   
+ United States 
+  Ben L. Titzer    
+ Carnegie Mellon University   
+ United States 
+  Christian Wimmer    
+ Oracle Labs   
+ United States 
+  Jie Zhang    
+ Peking University   
+ China 
+    
+ Steering Committee    
+   
+ Steve Blackburn    
+ Google and Australian National University   
+ Australia 
+  Michael D. Bond    
+ Ohio State University 
+  David Chisnall    
+ SCI Semiconductor   
+ United Kingdom 
+  Jae W. Lee    
+ Seoul National University   
+ South Korea 
+  Michael Lippautz    
+ Google 
+  Hannes Payer    
+ Google 
+  Erez Petrank    
+ Technion   
+ Israel 
+  Zhenlin Wang    
+ Michigan Technological University 
+  Tobias Wrigstad    
+ Uppsala University   
+ Sweden 
+
+ x  Wed 4 Dec 13:24    
+
+  ISMM 2024   
+  using conf.researchr.org  ( v1.67.1  )  
+   Support page    
+     
+ Tracks  
+ ISMM 2024    
+
+ Attending  
+ Venue: Radisson Blu Scandinavia, Copenhagen   
+  Sponsorship   
+  Registration   
+  Visa   
+  PLDI and Associated Events Live Streams   
+  Presenter Instructions    
+ Sign Up    
+
+  

@@ -1,0 +1,154 @@
+    Home 
+  Calls 
+  For Participants | Registration  Local Information  Banquet 
+  Organizers 
+  Program | Program  Workshops/Tutorials  Keynotes  Accepted Papers  Awards 
+  FAQ 
+
+ INLG 2024  
+ September 23 - 27, 2024 @ Tokyo, Japan   
+
+ Calls  
+
+ INLG 2024 Call for Papers    
+ First Call For Papers: 17th International Natural Language Generation Conference INLG 2024  
+ We invite the submission of long and short papers, as well as system demonstrations, related to all aspects of Natural Language Generation (NLG), including data-to-text, concept-to-text, text-to-text and vision-to-text approaches. Accepted papers will be presented as oral talks or posters.  
+ The event is organized under the auspices of the Special Interest Group on Natural Language Generation ( SIGGEN  ) of the Association for Computational Linguistics ( ACL  ). The event will be held from 23-27 September in Tokyo, Japan. INLG 2024 will be taking place after SIGDial 2024  (18-20 September) nearby in Kyoto.  
+ Important dates  
+ All deadlines are Anywhere on Earth (UTC-12)  
+ START system regular paper submission deadline: | May 31, 2024 | June 7, 2024  (extended!) 
+  ARR commitment to INLG deadline via START system: June 24, 2024 
+  START system demo paper submission deadline: June 24, 2024 
+  Notification: July 15, 2024 
+  Camera ready: August 16, 2024 
+  Conference: 23-27 September 2024 
+  Topics  
+ INLG 2024 solicits papers on any topic related to NLG. General topics of interest include, but are not limited to:  
+ Affect/emotion generation 
+  Analysis and detection of automatically generated text 
+  Bias and fairness in NLG systems 
+  Cognitive modelling of language production 
+  Computational efficiency of NLG models 
+  Content and text planning 
+  Corpora and resources for NLG 
+  Ethical considerations of NLG 
+  Evaluation and error analysis of NLG systems 
+  Explainability and Trustworthiness of NLG systems 
+  Generalizability of NLG systems 
+  Grounded language generation 
+  Large Language Models for NLG 
+  Lexicalisation 
+  Multimedia and multimodality in generation 
+  Natural language understanding techniques for NLG 
+  NLG and accessibility 
+  NLG in speech synthesis and spoken language models 
+  NLG in dialogue 
+  NLG for human-robot interaction 
+  NLG for low-resourced languages 
+  NLG for real-world applications 
+  Paraphrasing, summarization and translation 
+  Personalisation and variation in text 
+  Referring expression generation 
+  Storytelling and narrative generation 
+  Surface realisation 
+  System architectures 
+  Submissions & Format  
+ Three kinds of papers can be submitted:  
+ Long papers | are most appropriate for presenting substantial research results and must not exceed eight (8) pages of content, plus unlimited pages of ethical considerations, supplementary material statements, and references. The supplementary material statement provides detailed descriptions to support the reproduction of the results presented in the paper (see below for details). The final versions of long papers will be given one additional page of content (up to 9 pages) so that reviewers' comments can be taken into account. 
+  Short papers | are more appropriate for presenting an ongoing research effort and must not exceed four (4) pages, plus unlimited pages of ethical considerations, supplementary material statements, and references. The final versions of short papers will be given one additional page of content (up to 5 pages) so that reviewers' comments can be taken into account. 
+  Demo papers | should be no more than two (2) pages, including references, and should describe implemented systems relevant to the NLG community. It also should include a link to a short screencast of the working software. In addition, authors of demo papers must be willing to present a demo of their system during INLG 2024. 
+  Submissions should follow ACL Author Guidelines  and policies for submission, review and citation, and be anonymised for double blind reviewing. Please use ACL style files; LaTeX style files and Microsoft Word templates are available at https://acl-org.github.io/ACLPUB/formatting.html  .  
+ Authors must honor the ethical code set out in the ACL Code of Ethics  . If your work raises any ethical issues, you should include an explicit discussion of those issues. This will also be taken into account in the review process. You may find this checklist  of use.  
+ Authors are strongly encouraged to ensure that their work is reproducible; see, e.g., the following reproducibility checklist  . Papers involving any kind of experimental results (human judgments, system outputs, etc) should incorporate a data availability statement into their paper. Authors are asked to indicate whether the data is made publicly available. If the data is not made available, authors should provide a brief explanation why. (E.g. because the data contains proprietary information.) A statement guide  is available on the INLG 2024 website.  
+ To submit a long or short paper to INLG 2024, authors can either submit directly or commit a paper previously reviewed by ARR via the same paper submission site  . For direct submissions, the deadline for submitting papers is May 31, 2024, 11:59:59 PM AOE  June 7, 2024, 11:59:59 PM AOE   . If committing an ARR paper to INLG, the submission is also made through the INLG 2024 paper submission site, indicating the link of the paper on OpenReview. The deadline for committing an ARR paper to INLG is June 24, 2024, 11:59:59 PM AOE  , and the last eligible ARR paper submission deadline for INLG 2024 is May 24, 2024  . It is important to note that when committing an ARR paper to INLG, it should be submitted through the INLG 2024 paper submission site, just like a direct submission paper, with the only difference being the need to provide the OpenReview link to the paper and to provide an optional author response to reviews.  
+ Demo papers should be submitted directly through the INLG 2024 paper submission site  by June 24, 2024, 11:59:59 PM AOE  .  
+ All accepted papers will be published in the INLG 2024 proceedings and included in the ACL anthology. A paper accepted for presentation at INLG 2024 must not have been presented at any other meeting with publicly available proceedings. Dual submission to other conferences is permitted, provided that authors clearly indicate this in the submission form. If the paper is accepted at both venues, the authors will need to choose which venue to present at, since they can not present the same paper twice. Submitted papers for review at INLG 2024 must not be published elsewhere until after the notification of acceptance. Finally, at least one of the authors of an accepted paper must register to attend the conference.  
+ Awards  
+ INLG 2024 will present several awards to recognize outstanding achievements in the field. These awards are:  
+ Best Long Paper Award | : This award will be given to the best long paper submission based on its originality, impact, and contribution to the field of NLG. 
+  Best Short Paper Award | : This award will be given to the best short paper submission based on its originality, impact, and contribution to the field of NLG. 
+  Best Demo Paper Award | : This award will recognize the best demo paper submitted to the conference. This award considers not only the paper's quality but also the demonstration given at the conference. The demonstration will play a significant role in the judging process. 
+  Best Evaluation Award | : The award is a new addition to INLG 2024. This award is designed to honour authors who have demonstrated the most comprehensive and insightful analysis in evaluating their results. This award aims to highlight papers where the authors have gone the extra mile in providing a thorough and detailed analysis of their results, offering a nuanced understanding of their findings. 
+  Frequently asked questions about committing a paper from ACL Rolling Review are answered in the FAQ  tab.  
+
+ INLG 2024 Call for Workshop & Tutorial Proposals    
+ INLG 2024: First Call for Workshop & Tutorial Proposals  
+ 17th International Conference on Natural Language Generation Tokyo, Japan, 23-27 September 2024  
+  The 17th International Conference on Natural Language Generation (INLG 2024) (https://inlg2024.github.io/) will be held in Tokyo, Japan, on 23-27 September 2024. Building on the success of previous years, we hope to include a number of independently organised research workshops and tutorials. These workshops and tutorials will take place immediately after or prior to the main conference. The INLG organisers and SIGGEN cordially invite workshop proposals for one-day or half-day workshops at INLG 2024.  
+ Proposals can focus on any topic relevant to the Natural Language Generation community (NLG). We especially invite new and novel proposals in relatively new areas which have recently begun to attract interest in the research community, or topics where greater interaction between the NLG community and another established research community can be beneficial to both fields. Proposals that form part of an existing series, are also welcome.  
+ Workshops and tutorials should provide an informal setting, where participants will have the opportunity to discuss technical topics in an atmosphere that fosters the active exchange of ideas. Proposals should also describe the format of the proposed workshop or tutorial. We encourage formats that will foster discussion and exchange of ideas (talks, posters, panels, invited speakers). Workshops and tutorials at INLG 2024 should be planned as half-day or full one-day events.  
+ Proposals can be submitted via https://forms.gle/ApiTrNbZzFhhMJNd6. Should you have any questions, feel free to contact INLG 2024 Workshop Chair, Jing Li, email: jing-amelia.li@polyu.edu.hk  
+ Format Requirement  
+ Approximately 2 pages long 
+  The names and affiliations of the organizers 
+  The name of the workshop and its duration (half-day or full-day) 
+  A description of the workshop aims 
+  A short description of the format of planned activities 
+  An indication of the research communities that the workshop is expected to target 
+  After a workshop proposal is accepted, the organizers are encouraged to create a website for the workshop. The INLG 2024 main conference website will provide a link to each workshop.  
+ Important dates  
+ Deadline for receipt of workshop proposals: 15th May 2024 
+  Notification of acceptance: 29th May 2024 
+  Workshop date: 23-24 September 2024 
+  Suggested timeline for workshop organization  
+ Call for workshop papers or abstracts: 10th June 2024 
+  Submissions due: 26th July 2024 
+  Notification of acceptance: 26th August 2024 
+  Camera-ready papers due: 9th September 2024 (i.e. two weeks before INLG) 
+  All deadlines are at 11.59 PM, UTC-8.  
+  Program Co-Chairs: Nguyen Le Minh (Japan Advanced Institute of Science and Technology) Daphne Ippolito (Carnegie Mellon University) Saad Mahamood (trivago)  
+ Publications chair: Chung-Chi Chen (AIRC)  
+ Workshop chair: Jing Li (Hong Kong Polytechnic University)  
+ Generation Challenge co-chairs: Simon Mille (ADAPT Centre) Miruna Clinciu (Heriot-Watt University and the University of Edinburgh)  
+ Website: https://inlg2024.github.io/ X: @inlgmeeting  
+
+ INLG 2024 Call for Sponsors    
+ Call for Sponsors  
+ The 17th International Conference on Natural Language Generation (INLG) will be held in Tokyo, Japan from September 23rd to 27th, 2024. We humbly invite sponsors to consider supporting the conference!   
+ About INLG 2024  
+ INLG is the leading specialist conference for natural language generation and has been held regularly since the late 1980s.  
+ Organized by the Special Interest Group in Generation (SIGGEN)  of the Association for Computational Linguistics (ACL)  , it generally attracts around 200 attendees from universities and corporate research labs.  
+ Why Sponsor INLG 2024?  
+ By sponsoring INLG 2024, your organization gains visibility among top professionals and shows commitment to technological advancement in natural language generation. The conference will be an in-person event, ensuring maximum interaction and exposure.  
+ Sponsorship Tiers  
+ For this event, we offer three one sponsor packages:  
+ Applications for Gold and Silver Sponsorships are now closed.     
+ Bronze Sponsorship - $500  
+ Sponsor's logo displayed on INLG website, in the official program, and on slides during the conference ( | small | size) 
+  Featured in emails and social media posts about sponsors 
+  Opportunity to include brochure and novelties in the conference bags 
+  Silver Sponsorship - $1,200   
+ Thank you. Sold out!  
+ All Bronze benefits, with sponsor's logo displayed at medium   size 
+  A complimentary registration for the main conference and workshop, along with invitations to the banquet, reception, and lunch 
+  Opportunity to showcase a poster panel with an optional desk 
+  Gold Sponsorship - $2,500   
+ Thank you. Sold out!  
+ All Silver benefits, with sponsor's logo displayed at large   size 
+  An additional complimentary registration for the main conference and workshop, along with invitations to the banquet, reception, and lunch 
+  Opportunity to showcase additional poster panel (two panels in total) with a bigger (2x) optional desk 
+  Sponsor's logo displayed on the hanging banner 
+  📝 Note: For Silver and Gold sponsorship, we may close the sponsorship recruitment at any time due to limited venue space.   
+  
+  To explore sponsorship opportunities, please contact us directly at M-INLG2024-sponsor-ml@aist.go.jp   .  
+
+ Call for Generation Challenges 2024    
+ Call for Generation Challenges 2024  
+ Submission deadline: June 24th 2024  June 30th, 2024     
+ We invite submissions of papers describing ideas for future shared tasks in the general area of language generation (Generation Challenges 2024). Proposed tasks can be in the area of core NLG, or in other research areas in which language is generated. Examples include, but are not limited to: data-to-text NLG, text-to-text generation (including MT and summarisation), combining core NLG and MT, combining core NLG and text summarisation, NLG quality estimation, NLG evaluation metrics, and/or generating language from heterogeneous data, including image and video.  
+ The Generation Challenges (GenChal) are an umbrella event designed to bring together a variety of shared-task efforts that involve the generation of natural language. This year, Generation Challenges will be held as a workshop at the 17th International Conference on Natural Language Generation (INLG 2024), scheduled on September 23-27 2024. The workshop will follow the format of previous GenChal results sessions, with presentations of results by the organisers of the generation challenges that are currently running, a poster session for task participants to present their submissions, as well as presentations of proposals for new shared tasks in the Task Proposals Track, and discussion sessions. You can see some of the previous GenChal tasks in the past GenChal proceedings on the ACL Anthology (see e.g. 2022 or 2023) or on the dedicated repository.  
+ Submissions should describe possible future tasks in detail, including information regarding organisers, task description, motivating theoretical interest and/or application context, size and state of completion of data to be used, schedule and evaluation plans. Accepted shared tasks will be run in the 2025 iteration of INLG.  
+ Important dates  
+ Submission deadline: | June 24th 2024 | June 30, 2024  (extended!) 
+  Notification: July 15th 2024 
+  Camera-ready submission: August 16th 2024 
+  Workshop at INLG conference: September 23rd-24th 2024 
+  All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").  
+ Submissions and format  
+ Submissions in the Shared Task Proposals track should be no more than 4 (four) pages long excluding citations, and should follow the ACLPUB formatting guidelines (see the main call-for-papers).  
+ Proposals should be uploaded to the SoftConf INLG submission page, using the Submission type New shared task proposal.  
+ Submissions will be peer-reviewed by the program committee. As reviewing will not be blind, there is no need to anonymise papers. This is not intended to be a selective process, since the aim is to discuss new potential shared tasks with INLG delegates. However, the organisers reserve the right to reject proposals which do not fall within the scope of the GenChal initiative, or which do not follow guidelines. Accepted submissions will be published in separate GenChal 2024 proceedings.  
+
+ © INLG 2024 Organizers  
+
+  

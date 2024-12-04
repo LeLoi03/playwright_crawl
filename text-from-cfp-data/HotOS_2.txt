@@ -1,0 +1,120 @@
+             
+ 首页 
+  学术快讯 
+  招生招聘 
+  学术会议 
+  团队协作 
+  课程平台 
+  开放数据 
+  知识图谱 
+  SCHOLAT+ | 学者百科 
+  高校师资栏目 
+  学术会议平台 
+  知识图谱 
+  学者百科 
+  高校师资栏目 
+  学术会议平台 
+    
+ 学者    学讯    
+ 学术    
+ 学者    
+ 团队    
+ 课程    
+
+ 我的空间    
+     
+ 个人主页 
+  设置 
+  帮助 
+  退出登录 
+
+ 登录  注册    
+
+ Take your research further with SCHOLAT data   
+   
+ SROAD (SCHOLAT Research Open-Access Dataset) is designed to help academics and independent researchers advance research objectives on academic social network, SCHOLAT knowledge graph, smart education and other AI related fields.   
+
+ Introduction  
+ SCHOLAT is an emerging vertical social networking system designed and built specifically for scholars, learners and course instructors. The main goal of SCHOLAT is to enhance collaboration and social interactions focused around scholarly and learning discourses among the community of scholars. In addition to social networking capabilities, SCHOLAT incorporates various modules to encourage collaborative and interactive discussions, for example, chat, email, events, news posts, etc.  
+ SCHOLAT Open-Access Dataset  
+  
+ Name | Nodes | Edges | Description 
+ SCHOLAT Social Network | 16,007 | 202,248 | 1 st  ChineseCSCW Cup  in 2020 
+ SCHOLAT Link Prediction | 10,755 | Train: 168,540  
+  Dev: 16,854  
+  Test: 16,854 | 2 nd  ChineseCSCW Cup  in 2021 
+ Anomaly Detection on Attributed Network | 2,022 | 2,500 | View the details in our paper  on TKDE 2021 
+ User-Generated Item Recommendation | 1,991 users | 5,008 items | View the details in our paper  on KBS 2021 
+ SCHOLAT Interactive User Recommendation | 39,805 users | 680,267 interactions | 3 rd  ChineseCSCW Cup  in 2022 
+ SCHOLAT Multiplex Network | 2,302 | Co-friends: 11,393  
+  Co-team: 139,004  
+  Co-class: 70,226 | Attributes: 477, Communities: 11  
+  4 th  ChineseCSCW Cup  in 2023 
+ SCHOLAT ScholarNet | 9,537 | Train: 128,924  
+  Test: 32,231 | 5 th  ChineseCSCW Cup  in 2024 
+  
+ * More SCHOLAT open-access dataset will be released soon.  
+ Download Notice  
+ If you want to acquire any dataset, you should login to SCHOLAT and fill the application form.  
+ Copyright Notice  
+ Respect the privacy of personal information of the original source. 
+  The original copyright of all the dataset belongs to "SCHOLAT Lab". "SCHOLAT Lab" collects, organizes, filters and purifies them. 
+  If you want to use the dataset for depth study, data providers "SCHOLAT Lab" should be identified in your results. 
+  The dataset is only for the specified applicant or study groups for research purposes. Without permission, it may not be used for any commercial purposes. 
+  If the terms changed, the latest online version shall prevail. 
+  1. SCHOLAT Social Network [Download]   
+ Community is the implicit structure in social networks. In academic social networks, the users with similar or same research interests are more likely to be in the same community with close links and similar attributes. Effective community detection results can be further utilized for user analytics and user recommendation.  
+ This dataset aims to fuse user links and attributes for community detection. The dataset mainly consists of three parts where contains 16,007 users and 202,248 links. (1) "attribute" directory contains 16,007 files which are user attributes with the user IDs as file names. (2) "links.txt" contains 202,248 lines and each line means that there exists one link (friendship, team members in the same research teams, or classmates in the same courses) between two users (represented as IDs) which are split by TAB. (3) "lexicons.txt" contains 25,817 words with 15,790 Chinese words and 10,027 English words, which constitutes all the user attributes.  
+ BTW, the last version of this dataset has been successfully applied for the first ChineseCSCW Big Data Analytics Competition (1 st  ChineseCSCW Cup) on the 15 th  Chinese Conference on Computer Supported Cooperative Work and Social Computing (ChineseCSCW 2020). View the details on https://www.scholat.com/confweb/CCSCW2020/big_data_competiton.jsp  . The difference between this version and the last version on ChineseCSCW Cup is that we extend more user links.  
+  
+  How to cite:  
+   
+ Q. Xu, L. Qiu, R. Lin, Y. Tang, C. He and C. Yuan, "An Improved Community Detection Algorithm via Fusing Topology and Attribute Information," 2021 IEEE 24th International Conference on Computer Supported Cooperative Work in Design (CSCWD), 2021, pp. 1069-1074. | [BibTeX] 
+   
+ 2. SCHOLAT Link Prediction [Download]   
+ Link prediction is an important research problem in academic social network analysis. It mines possible relationships among scholars by using existing network structure and external information. An effective link prediction method can support many personalized applications of academic social networks, including recommendation of scholars' friends/followers, completion/prediction of scholars' collaborative relationship, and recommendation of academic resources.  
+ This dataset mainly contains the user attributes and links among 10,755 users from SCHOLAT. The "attribute" directory contains 10,755 files which are user attributes with the user IDs as file names. "train.csv", "dev.csv" and "test.csv" are 168540, 16854 and 16854 undirected edges respectively with the 2-column user nodes.  
+ This dataset will be used for the second ChineseCSCW Big Data Analytics Competition (2 nd  ChineseCSCW Cup) on the 16th Chinese Conference on Computer Supported Cooperative Work and Social Computing (ChineseCSCW 2021).  
+  
+  How to cite:  
+   
+ Ronghua Lin, Yong Tang, Chengzhe Yuan, Chaobo He, Weisheng Li. SCHOLAT Link Prediction: A Link Prediction Dataset Fusing Topology and Attribute Information. In: Y. Sun, T. Lu, B. Cao, H. Fan, D. Liu, B. Du, L. Gao (Eds.), Computer Supported Cooperative Work and Social Computing, Springer Nature Singapore, Singapore, 2022, pp. 340–351. 
+   
+ 3. Anomaly Detection on Attributed Network [Download]   
+ Anomaly detection on attributed networks is an important task in social network analysis. The goal is to find the anomalies that deviate significantly from the majority of the network in terms of some proximities, e.g. topological structure or attribute proximity. An effective anomaly detection can support many applications such as web spam detection, system fraud detection, network intrusion detection and representation learning.  
+ This dataset is adopted for simultaneously detecting structure/attribute-abnormal nodes and motif instances. The nodes represent the scholars and the edges denote the message interactions between the two ending nodes. The breadth first search with random restart is used to craw the nodes. And the nodes of degree no larger than 50 are preserved. The node attribute vectors are extracted by means of applying Principal Components Analysis (PCA) on the brief biographies of the corresponding scholars. After preprocessing and subset selection, the SCHOLAT dataset contains 2,022 nodes, 2,500 edges and 329 triangle motif instances. The dimension of the node attribute vectors is 500. The number of the motif-augmented edges is 8,361.  
+  
+  How to cite:  
+   
+ L. Huang, Y. Zhu, Y. Gao, T. Liu, C. Chang, C. Liu, Y. Tang and C. Wang, "Hybrid-Order Anomaly Detection on Attributed Networks," in IEEE Transactions on Knowledge and Data Engineering, doi: 10.1109/TKDE.2021.3117842. | [BibTeX] 
+   
+ 4. User-Generated Item Recommendation [Download]   
+ Most of the existing recommendation methods assume that all the items are provided by separate producers, which is however not true in some recommendation tasks. That is, it is possible that some of the items are generated by users. Appropriately considering the user-item generation relation may bring benefit to some recommender systems, e.g., implicit recommender systems with only implicit user-item interactions.  
+ In our paper in Knowledge-Based Systems 2022, we have proposed a new method called Deep Interaction-Attribute-Generation (DIAG) model, which integrates the user-item interaction relation, the user-item generation relation and the item attribute information into one deep learning framework. And we have collected two datasets, namely Scholat and Lizhi.  
+ The Scholat dataset is a post recommendation dataset obtained from the scholar social network https://www.scholat.com/  . The scholars are taken as users and the posts are taken as items. Each post is generated by at most one scholar (i.e. user-item generation) and will be read by many scholars (i.e. user-item interaction). The item attribute vector is obtained by applying word2vec to the 0/1-valued word vector representing the absence/presence of each word in the title and content of the post. The dimension of the item attribute vector is 372. Only the users with no less than 2 interactions are preserved. After preprocessing, a subset consisting of 1991 users and 5008 items is obtained. The number of user-item interactions is 13960. The number of user-item generations is 3776.  
+ The Lizhi dataset is an audio recommendation dataset obtained from the online audio platform https://www.lizhi.fm  . The normal users are taken as users and the audios are taken as items. Each audio is generated by at most one user (i.e. user-item generation) and will be listened to by many users (i.e. user-item interaction). The item attribute vector characterizes the key information of the audio, namely the gender and age of the user generating this audio, and the bag of words (BOW) representation of the tags of the audio. The dimension of the item attribute vectors is 514. Only users with at least 10 user-item interactions are preserved. After preprocessing, a subset consisting of 3716 users and 9205 items is obtained. The number of user-item interactions is 858124. The number of user-item generations is 5744.  
+ The source code and data are available at https://www.scholat.com/datasetApplication.html?dataset=diag_recommendation  .  
+  
+  How to cite:  
+   
+ Ling Huang, Bi-Yi Chen, Hai-Yi Ye, Rong-Hua Lin, Yong Tang, Min Fu, Jianyi Huang, and Chang-Dong Wang. DIAG: A Deep Interaction-Attribute-Generation Model for User-Generated Item Recommendation. Knowledge-Based Systems 2022. 
+   
+ 5. SCHOLAT Interactive User Recommendation [Download]   
+ Interactive recommender systems (IRS) have attracted more and more attention in recent years, which can receive user feedbacks on the recommendation list and constantly improve the recommendation results. This dataset contains 39,805 users and 680,267 historical interactions among them from SCHOLAT. The "user_attribute" directory contains 39,805 files which are user attributes with the user IDs (from 0 to 39,804) as file names. The user attributes are extracted from their biography in SCHOLAT and most of them are in Chinese. The file "user_interactions.txt" contains all the user interactions that are in the format as "User1::User2::Reward::Timestamp", where "User1" is the ID of user1, "User2" is the ID of user2, "Reward" represents the feedback or rating on user2 by user1, and "Timestamp" is the time at which this interaction happened. More specifically, if user1 clicks or browses user2's homepage, the reward is set as 1. If user1 follows user2, the reward is set as 3. If user1 unfollows user2, the reward is -1. All the user IDs range between 0 and 39,804.  
+ This dataset will also be used for the third ChineseCSCW Big Data Analytics Competition (3 rd  ChineseCSCW Cup) on the 17th Chinese Conference on Computer Supported Cooperative Work and Social Computing (ChineseCSCW 2022).  
+  
+  How to cite:  
+   
+ Ronghua Lin, Feiyi Tang, Chaobo He, Zhengyang Wu, Chengzhe Yuan, and Yong Tang. DIRS-KG: a KG-enhanced interactive recommender system based on deep reinforcement learning. World Wide Web Journal (2023). | https://doi.org/10.1007/s11280-022-01135-x 
+   
+ 6. SCHOLAT Multiplex Network [Download]   
+ The SCHOLAT Multiplex Network provides a comprehensive list of social information. In this network, we construct a multiplex structure with three layers: (1) The first layer represents connections between users who become friends. (2) The second layer represents connections between users who join the same groups. (3) The third layer represents connections between users who study the same courses. Furthermore, we define an individual ground-truth community based on the affiliation of users. All layers consist of the same 2,302 nodes with the highest quality. Each layer has a specific number of edges: 11,393 for the first layer, 139,004 for the second layer, and 70,226 for the third layer. We have divided these nodes into 11 communities.  
+ This dataset will also be used for the fourth ChineseCSCW Big Data Analytics Competition (4 th  ChineseCSCW Cup) on the 18th Chinese Conference on Computer Supported Cooperative Work and Social Computing (ChineseCSCW 2023).  
+  
+  7. SCHOLAT ScholarNet [Download]   
+ This dataset contains the user attributes and links among 9,537 users from SCHOLAT. The "attributes" directory contains 9,537 user attribute files with the user IDs as file names. The links data is divided into two parts: "train.csv" and "test.csv", which respectively include 128,924 and 32,231 undirected edges.  
+ This dataset will be used for the fifth ChineseCSCW Big Data Analytics Competition (5 th  CCSCW Cup) on the 19th Chinese Conference on Computer Supported Cooperative Work and Social Computing (ChineseCSCW 2024).  
+
+ Copyright ©2009-2024. SCHOLAT.com   
+
+  

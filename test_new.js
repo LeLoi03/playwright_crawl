@@ -735,14 +735,14 @@ const generationConfig = {
 };
 
 const getConferenceList = async (browserContext) => {
-  const baseUrl = `${process.env.PORTAL}?search=&by=${process.env.BY}&source=${process.env.CORE}&sort=${process.env.SORT}&page=`;
+  const baseUrl = `${process.env.PORTAL}?search=&by=${process.env.BY}&source=${process.env.CORE}&sort=aacronym&page=`;
 
   const totalPages = await getTotalPages(browserContext, baseUrl + "1");
   const allConferences = [];
 
   for (let i = 1; i <= totalPages; i++) { 
     const pageUrl = baseUrl + i;
-
+    console.log(`${pageUrl}`);
     // Dùng hàng đợi để giới hạn số tab hoạt động
     await queue.add(async () => {
       try {
@@ -1143,8 +1143,6 @@ const saveHTMLFromCallForPapers = async (page, conference, i) => {
       }));
     });
 
-    
-
     // Tạo mảng để lưu các đường link Call for Papers
     const cfpLinks = [];
     let foundTab = false;
@@ -1160,11 +1158,9 @@ const saveHTMLFromCallForPapers = async (page, conference, i) => {
         // Chuyển hướng tới trang của tab Call for Papers
         await page.goto(fullUrl, { waitUntil: "domcontentloaded", timeout: 30000 });
 
-        
         // Lấy URL của trang hiện tại sau khi nhấp vào tab Call for Papers
         const currentURL = page.url();
-        cfpLinks.push(currentURL);  // Lưu URL vào mảng cfpLinks
-
+        cfpLinks.push(currentURL); // Lưu URL vào mảng cfpLinks
 
         // Lấy nội dung từ tất cả các phần tử có chứa thuộc tính "main"
         let mainContent = await page.$$eval("*", (els) => {
@@ -1175,13 +1171,8 @@ const saveHTMLFromCallForPapers = async (page, conference, i) => {
         });
 
         if (!mainContent) {
-
           mainContent = await page.content();
-          // Xử lý nội dung HTML
-          
-
-          // console.log("\nNo 'main' content found on the Call for Papers page.");
-        } 
+        }
 
         const document = cleanDOM(mainContent);
         let fullText = traverseNodes(document.body);
@@ -1189,33 +1180,47 @@ const saveHTMLFromCallForPapers = async (page, conference, i) => {
 
         // Lưu nội dung vào file .txt trong thư mục text-from-cfp-data
         const outputFilePath = `${conference.Acronym}_${i}`;
-
-
         const txtFilename = `./text-from-cfp-data/${outputFilePath}.txt`;
-        fs.writeFileSync(txtFilename, fullText);  // Lưu nội dung của phần main
-        // console.log(`\nExtracted and saved CFP content successfully: ${outputFilePath}`);
-      
+        fs.writeFileSync(txtFilename, fullText, 'utf8');
 
         // Tạo file json lưu đường link
         const linksFilename = `./cfp-link/${conference.Acronym}_${i}.json`;
         fs.writeFileSync(linksFilename, JSON.stringify(cfpLinks, null, 2));
-        // console.log(`\nSaved CFP links to: ${linksFilename}`);
 
         foundTab = true;
-
         return fullText;
       }
     }
 
     // Nếu không tìm thấy tab nào phù hợp
     if (!foundTab) {
-      // console.log(`\nNo 'Call for Papers' section found for ${conference.Acronym}`);
-      return "";
+      console.log(`\nNo 'Call for Papers' section found for ${conference.Acronym}`);
+      
+      // Lưu thông tin hội nghị không tìm thấy tab
+      const missingTabInfo = {
+        conference: conference.Acronym,
+        url: page.url()
+      };
+
+      const missingTabsFilename = './missing-tabs.json';
+      let missingTabsData = [];
+
+      // Đọc file nếu đã tồn tại
+      if (fs.existsSync(missingTabsFilename)) {
+        missingTabsData = JSON.parse(fs.readFileSync(missingTabsFilename, 'utf8'));
+      }
+
+      // Thêm thông tin hội nghị mới
+      missingTabsData.push(missingTabInfo);
+
+      // Ghi lại file
+      fs.writeFileSync(missingTabsFilename, JSON.stringify(missingTabsData, null, 2));
     }
+
+    return "";
 
   } catch (error) {
     console.log("\nError in saveHTMLFromCallForPapers:", error);
-    
   }
 };
 
@@ -1270,7 +1275,8 @@ const saveHTMLFromImportantDates = async (page, conference, i) => {
         }
 
         const txtFilename = `./text-from-important-dates/${outputFilePath}.txt`;
-        extractTextFromHTML(fullText, txtFilename);
+        fs.writeFileSync(txtFilename,fullText, 'utf8');
+
         // console.log(`\nExtracted and saved Important Dates successfully: ${outputFilePath}`);
 
         if (!fs.existsSync("./important-dates-link")) {
@@ -1286,10 +1292,36 @@ const saveHTMLFromImportantDates = async (page, conference, i) => {
       }
     }
 
+      // Nếu không tìm thấy tab nào phù hợp
     if (!foundTab) {
-      return "";
-      // console.log(`No 'Important Dates' section found for ${conference.Acronym}`);
+      console.log(`\nNo 'Important dates' section found for ${conference.Acronym}`);
+      
+      // Lưu thông tin hội nghị không tìm thấy tab
+      const missingTabInfo = {
+        conference: conference.Acronym,
+        url: page.url()
+      };
+
+      const missingTabsFilename = './missing-important-dates-tabs.json';
+      let missingTabsData = [];
+
+      // Đọc file nếu đã tồn tại
+      if (fs.existsSync(missingTabsFilename)) {
+        missingTabsData = JSON.parse(fs.readFileSync(missingTabsFilename, 'utf8'));
+      }
+
+      // Thêm thông tin hội nghị mới
+      missingTabsData.push(missingTabInfo);
+
+      // Ghi lại file
+      fs.writeFileSync(missingTabsFilename, JSON.stringify(missingTabsData, null, 2));
+
+
     }
+    return "";
+
+      // console.log(`No 'Important Dates' section found for ${conference.Acronym}`);
+    
 
   } catch (error) {
     console.log("Error in saveHTMLFromImportantDates:", error);
@@ -1413,8 +1445,8 @@ const logErrorToFile = async (message) => {
 const callGeminiAPI = async (batch, batchIndex) => {
   let retryCount = 0;
   const maxRetries = 5; // Số lần thử lại tối đa
-  const delayBetweenRetries = 60000; // Thời gian chờ giữa các lần thử (30 giây)
-  const delayFor503 = 60000; // Thời gian chờ lâu hơn cho lỗi 503 (60 giây)
+  const delayBetweenRetries = 65000; // Thời gian chờ giữa các lần thử (30 giây)
+  const delayFor503 = 65000; // Thời gian chờ lâu hơn cho lỗi 503 (60 giây)
   const minDelayBetweenRequests = 65000; // Thời gian tối thiểu giữa các yêu cầu (65 giây)
   const lastRequestTimestampRef = { current: 0 }; // Lưu dấu thời gian yêu cầu cuối cùng
 
@@ -1520,8 +1552,10 @@ async function determineMainLinksWithResponses(allBatches, allResponses) {
     let currentKey = null;
     let currentResponse = [];
 
+    const regex = /^(\d+)\.\s+Information\s+of\s+(.+):/;
+
     responseLines.forEach((line) => {
-      const match = line.match(/^(\d+)\.\s+Information\s+of\s+(\w+_\d+):/);
+      const match = line.match(regex);
       if (match) {
         if (currentKey && currentResponse.length > 0) {
           conferenceMap[currentKey] = {
@@ -1590,12 +1624,31 @@ async function determineMainLinksWithResponses(allBatches, allResponses) {
   }
 }
 
-
-// Hàm đếm số giá trị không null
 function countNonNullFields(responseLines) {
   const nonNullRegex = /^[^:]+:\s+(?!null$).+/; // Dòng không chứa giá trị `null`
-  return responseLines.filter((line) => nonNullRegex.test(line)).length;
+  const dateRegex = /^\w+\s+\d{1,2}(?:-\d{1,2})?,\s+\d{4}$/; // Định dạng ngày tháng (e.g., "May 6-8, 2024" hoặc "May 6, 2024")
+  const fieldsToSkip = ["Conference dates", "Location", "Type", "Topics"]; // Các trường không kiểm tra định dạng ngày tháng
+
+  return responseLines.filter((line) => {
+    if (!nonNullRegex.test(line)) {
+      return false; // Loại bỏ dòng chứa giá trị null
+    }
+
+    const [field, value] = line.split(":").map((s) => s.trim());
+    if (!field || !value) {
+      return false; // Loại bỏ nếu không tách được trường và giá trị
+    }
+
+    // Bỏ qua kiểm tra định dạng ngày tháng cho các trường cần bỏ qua
+    if (fieldsToSkip.includes(field)) {
+      return true;
+    }
+
+    // Kiểm tra định dạng ngày tháng
+    return dateRegex.test(value);
+  }).length;
 }
+
 
 // Định nghĩa các từ khóa cho từng loại cột
 const keywords = {
@@ -1705,7 +1758,7 @@ const writeCSVFile = (filePath, data) => {
 const run = async () => {
   const browser = await playwright.chromium.launch({
     executablePath: EDGE_PATH,
-    headless: false,
+    headless: true,
     args: [
       "--disable-notifications",
       "--disable-geolocation",

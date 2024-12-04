@@ -1,0 +1,269 @@
+  
+    
+  Papers     
+    
+  Search or ask a question   
+
+ Pricing     
+ Login  Sign up      
+
+ Home          
+ Chat with PDF         
+ Literature Review            
+ AI Writer       
+ Find Topics       
+ Paraphraser       
+ Citation Generator       
+ Extract Data           
+ AI Detector       
+ PDF to Video        
+ Affiliate Program       
+ Chrome Extension     
+       
+ Use on ChatGPT     
+       
+ Contact Us     
+
+ Home 
+  Papers 
+  On the Final Exponentiation for Calculating Pairings on Ordinary Elliptic Curves 
+   
+ Book Chapter  DOI     
+   
+ On the Final Exponentiation for Calculating Pairings on Ordinary Elliptic Curves  
+  Michael Scott ,  Naomi Benger ,  Manuel Charlemagne ,  Luis J. Dominguez Perez ,  Ezekiel J. Kachisa  +4 more   Dublin City University   -  31 Jul 2009   
+ -  pp 78-88   
+   
+ Show Less      
+      
+   151    
+   Podcast     Save    
+   Cite         
+
+ TL;DR:  In this article, the authors exploit the structure of pairing-friendly elliptic curves to reduce to a minimum the computation required for the final exponentiation of the Tate pairing, which is a more significant component of the overall calculation.   
+    
+ read more  
+   
+ Abstract :  When performing a Tate pairing (or a derivative thereof) on an ordinary pairing-friendly elliptic curve, the computation can be looked at as having two stages, the Miller loop and the so-called final exponentiation. As a result of good progress being made to reduce the Miller loop component of the algorithm (particularly with the discovery of "truncated loop" pairings like the R-ate pairing [18]), the final exponentiation has become a more significant component of the overall calculation. Here we exploit the structure of pairing-friendly elliptic curves to reduce to a minimum the computation required for the final exponentiation.   
+    
+ read more  
+   
+   Show Related Papers     
+
+   Chat with Paper  
+
+   Citations  
+
+ Sort by : Citation Count        
+   
+   PDF   
+
+    Open Access   
+
+  More filters    
+
+     •  Book Chapter  •  DOI       
+
+ Faster explicit formulas for computing pairings over ordinary curves  
+   Diego F. Aranha ,  Koray Karabina ,  Patrick Longa ,  Catherine H. Gebotys ,  Julio López  +4 more   State University of Campinas ,  University of Waterloo   -  15 May 2011   
+   
+ Show Less      
+      
+  TL;DR:  In this article, the authors describe efficient formulas for computing pairings on ordinary elliptic curves over prime fields, including curve arithmetic, using lazy reduction techniques, previously considered only for arithmetic in quadratic extensions, to the whole pairing computation.   
+   
+ ...read more  read less    
+   
+   173    
+     PDF     Podcast        
+
+     •  Book Chapter  •  DOI       
+
+ Scalable Zero Knowledge Via Cycles of Elliptic Curves  
+   Eli Ben-Sasson ,  Alessandro Chiesa ,  Eran Tromer ,  Madars Virza  +3 more   Technion – Israel Institute of Technology ,  Massachusetts Institute of Technology ,  Tel Aviv University   -  17 Aug 2014   
+   
+ Show Less      
+      
+  TL;DR:  The zero-knowledge succinct non-interactive arguments of knowledge (zk-SNARKs) as mentioned in this paper is a cryptographic primitive for general NP statements, which is a powerful cryptographic primitive both in theory and practical applications.   
+   
+ ...read more  read less    
+   
+   110    
+     PDF     Podcast        
+
+     •  Posted Content    
+
+ New software speed records for cryptographic pairings  
+   Michael Naehrig ,  Ruben Niederhagen ,  Peter Schwabe  +2 more   Microsoft ,  Eindhoven University of Technology   -  01 Jan 2010   -  IACR Cryptology ePrint Archive    
+   
+ Show Less      
+      
+  TL;DR:  An implementation which computes the optimal ate pairing on a 257- bit Barreto-Naehrig curve in only 4,470,408 cycles on one core of an Intel Core 2 Quad Q6600 processor is presented.   
+   
+ ...read more  read less    
+   
+   90    
+     PDF     Podcast        
+
+     •  Journal Article    
+
+ Faster pairing computations on curves with high-degree twists  
+   Craig Costello ,  Tanja Lange ,  Michael Naehrig  +2 more   Queensland University of Technology ,  Eindhoven University of Technology   -  01 Jan 2010   -  Lecture Notes in Computer Science    
+   
+ Show Less      
+      
+  TL;DR:  In this paper, the Tate pairing with degree 2, 3, 4, 4 or 6 twist was shown to have faster doubling and addition steps than the original Tate and ate pairing, and it was shown how these faster formulas can be applied to all practical suggestions for eﬃcient pairing implementations over large prime characteristic.   
+   
+ ...read more  read less    
+   
+   87    
+   Podcast        
+
+     •  Posted Content    
+
+ A Family of Implementation-Friendly BN Elliptic Curves.  
+   C. C. F. Pereira Geovandro ,  Marcos A. Simplicio ,  Michael Naehrig ,  Paulo S. L. M. Barreto  +3 more   University of São Paulo ,  Microsoft   -  01 Jan 2010   -  IACR Cryptology ePrint Archive    
+   
+ Show Less      
+      
+  TL;DR:  Barreto-Naehrig (BN) curves have been used in a wide range of applications, such as bilinear pairings and elliptic curve cryptography as mentioned in this paper, where the authors describe BN curves that are computationally very simple to generate and specially suitable for efficient implementation on a very broad range of scenarios.   
+   
+ ...read more  read less    
+   
+   87    
+     PDF     Podcast        
+
+ 1   2   3   4   5   6   7   8   9   10   11   12   13   14   15   16   17   18   19   20   21   22   23   24   25   26   27   28   29   30   31     
+ ...   
+
+   References  
+
+ Sort by : Citation Count        
+   
+   PDF   
+
+    Open Access   
+
+  More filters    
+
+     •  Book Chapter  •  DOI       
+
+ Efficient Algorithms for Pairing-Based Cryptosystems  
+   Paulo S. L. M. Barreto ,  Hae Yong Kim ,  Ben Lynn ,  Michael Scott  +3 more   University of São Paulo ,  Stanford University ,  Dublin City University   -  18 Aug 2002   
+   
+ Show Less      
+      
+  TL;DR:  In this paper, fast new algorithms to implement recent cryptosystems based on the Tate pairing have been described, which improve pairing evaluation speed by a factor of about 55 compared to previously known methods in characteristic 3 and attain performance comparable to that of RSA in larger characteristics.   
+   
+ ...read more  read less    
+   
+   1K    
+     PDF     Podcast        
+
+     •  Journal Article    
+
+ Pairing-friendly elliptic curves of prime order  
+   Paulo S. L. M. Barreto ,  Michael Naehrig  +1 more    -  01 Jan 2006   -  Lecture Notes in Computer Science    
+   
+ Show Less      
+      
+  TL;DR:  In particular, for embedding degree k = 2q where q is prime, the authors showed that the ability to handle log(D)/log(r) ∼ (q - 3)/(q - 1) enables building elliptic curves with p ∼ q/(q- 1).   
+   
+ ...read more  read less    
+   
+   469    
+   Podcast        
+
+     •  DOI       
+
+ H. Cohen, G. Frey, R. Avanzi, C. Doche, T. Lange, K. Nguyen and F. Vercauteren (eds.): Handbook of Elliptic and Hyperelliptic Curve Cryptography, Discrete Math. Appl. (Boca Raton)., Chapman & Hall/CRC, 2006年，xxxiv + 808ページ．  
+   趙 晋輝 ,  松尾 和人 ,  百瀬 文之  +2 more    -  01 Jan 2009   
+   
+ Show Less      
+      
+   249    
+
+     •  Journal Article  •  DOI       
+
+ Efficient and Generalized Pairing Computation on Abelian Varieties  
+   Eunjeong Lee ,  Hyang-Sook Lee ,  Cheol-Min Park  +2 more   North Carolina State University ,  Ewha Womans University   -  01 Apr 2009   -  IEEE Transactions on Information Theory    
+   
+ Show Less      
+      
+  TL;DR:  The R-ate pairing as mentioned in this paper is a generalization of the Ate and Atei pairing, and can be computed more efficiently than the traditional Ate-Ate pairing.   
+   
+ ...read more  read less    
+   
+   219    
+     PDF     Podcast        
+
+     •  Journal Article    
+
+ Constructing elliptic curves with prescribed embedding degrees  
+   Paulo S. L. M. Barreto ,  Ben Lynn ,  Michael Scott  +2 more    -  01 Jan 2003   -  Lecture Notes in Computer Science    
+   
+ Show Less      
+      
+  TL;DR:  Criteria for curves with larger k that generalize prior work by Miyaji et al. based on the properties of cyclotomic polynomials are examined, and efficient representations for the underlying algebraic structures are proposed.   
+   
+ ...read more  read less    
+   
+   208    
+   Podcast        
+
+ 1   2   3   4   5   6     
+ ...   
+
+   Related Papers (5)  
+   
+ The Eta Pairing Revisited  
+     
+ [...]  
+   
+ Florian Hess ,  Nigel P. Smart ,  Frederik Vercauteren  +2 more   -  01 Oct 2006   -  IEEE Transactions on Information Theory    
+   
+ Show Less      
+
+ Efficient Algorithms for Pairing-Based Cryptosystems  
+     
+ [...]  
+   
+ Paulo S. L. M. Barreto ,  Hae Yong Kim ,  Ben Lynn ,  Michael Scott  +3 more   -  18 Aug 2002   
+   
+ Show Less      
+
+ Pairing-friendly elliptic curves of prime order  
+     
+ [...]  
+   
+ Paulo S. L. M. Barreto ,  Michael Naehrig  +1 more   -  01 Jan 2006   -  Lecture Notes in Computer Science    
+   
+ Show Less      
+
+ Faster explicit formulas for computing pairings over ordinary curves  
+     
+ [...]  
+   
+ Diego F. Aranha ,  Koray Karabina ,  Patrick Longa ,  Catherine H. Gebotys ,  Julio López  +4 more   -  15 May 2011   
+   
+ Show Less      
+
+ Efficient pairing computation on supersingular Abelian varieties  
+     
+ [...]  
+   
+ Paulo S. L. M. Barreto ,  Steven D. Galbraith ,  Colm Ó' Héigeartaigh ,  Michael Scott  +3 more   -  01 Mar 2007   -  Designs, Codes and Cryptography    
+   
+ Show Less      
+
+ Tools    Chat with PDF  Literature Review  AI Writer  Find Topics  Paraphraser  Citation Generator  Extract Data  AI Detector  Citation Booster    
+ Extensions    SciSpace Chrome Extension    
+   
+ SciSpace    About  Careers  Resources  Support  Browse Papers  Pricing  SciSpace Affiliate Program  Cancellation & Refund Policy  Terms  Privacy  Data Sources    
+   
+ Directories    Papers  Topics  Journals  Authors  Conferences  Institutions  Questions  Citation Styles    
+   
+ Contact  support@typeset.io    +1 (760) 284-7800    +91 9916292973             
+
+ © 2024 | PubGenius Inc. | Suite # 217 691 S Milpitas Blvd Milpitas CA 95035, USA    
+
+  

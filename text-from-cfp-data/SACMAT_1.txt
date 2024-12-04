@@ -1,0 +1,150 @@
+ 
+ About 
+ Call for Papers 
+ Important Dates 
+ Officers 
+ Proceedings 
+ Program 
+ Program Committee 
+ Venue 
+ Visa Information 
+ Since 1995 | About | Call for Papers | Important Dates | Officers | Proceedings | Program | Program Committee | Venue | Visa Information | Since 1995 | Call for Papers  
+
+ ACM SACMAT 2024: ACM Symposium on Access Control Models and Technologies    
+ San Antonio, TX, United States, May 15-17, 2024 
+
+ Conference website | https://www.sacmat.org/2024/ 
+ Submission link | https://easychair.org/conferences/?conf=acmsacmat2024 
+ Submission deadline | February 5,    February 12,    February 18, 2024 
+  
+ Topics:   access control        authentication        security        privacy       
+ The ACM Symposium on Access Control Models and Technologies (SACMAT) is the premier forum for the presentation of research results and experience reports on leading edge issues of access control including models, systems, applications, and theory. The aims of the symposium are to share novel access control solutions that fulfill the needs of heterogeneous applications and environments, and to identify new directions for future research and development. SACMAT provides researchers and practitioners with a unique opportunity to share their perspectives with others interested in the various aspects of access control.    
+ Call for Research Papers     
+ Papers offering novel research contributions are solicited for submission. Accepted papers will be presented at the symposium and published by the ACM in the symposium proceedings. We also encourage submissions to the "   Work-in-progress Track    " to present ideas that may have not been completely developed and experimentally evaluated. In addition to the regular research track, this year SACMAT will again host the special track – "   Blue Sky/Vision Track    ". Researchers are invited to submit papers describing promising new ideas and challenges of interest to the community as well as access control needs emerging from other fields. We are particularly looking for potentially disruptive and new ideas which can shape the research agenda for the next 10 years.    
+ Submission Cycles     
+ ACM SACMAT 2024 Regular and Work-in-progress Tracks will have   one submission cycle    .    
+ Paper Submission and Format     
+ Regular Track Paper     
+ Papers must be written in   English    . Authors are required to use the ACM format for papers, using the two-column SIG Proceedings Template (the sigconf template for LaTeX) available in the following link:   https://www.acm.org/publications/authors/submissions       
+ The length of the paper in the proceedings format must not exceed twelve US letter pages formatted for 8.5" x 11" paper and be no more than 5MB in size. It is the responsibility of the authors to ensure that their submission will print easily on simple default configurations. The submission   must be anonymous    , so information that might identify the authors - including author names, affiliations, acknowledgements, or obvious self-citations - must be excluded. It is the authors' responsibility to ensure that their anonymity is preserved when citing their own work. Submissions should be made by the paper submission deadline to the EasyChair conference management system (   https://easychair.org/my/conference?conf=acmsacmat2024      ).    
+ All submissions must contain a significant original contribution. That is, submitted papers must not substantially overlap papers that have been published or that are simultaneously submitted to a journal conference, or workshop. In particular, simultaneous submission of the same work is not allowed. Wherever appropriate, relevant related work, including that of the authors, must be cited. Submissions that are not accepted as full papers may be invited to appear as short papers. At least one author from each accepted paper must register (with a full registration) for the conference prior to the camera-ready deadline and is expected to (physically) present it at the conference (remote presentations are possible only as exceptional cases, e.g., last minute positive COVID).    
+ Work-in-progress Track     
+ Authors are invited to submit papers in the newly introduced work-in-progress track. This track is introduced for (junior) authors, ideally Ph.D. and Master's students, to obtain early, constructive feedback on their work. Submissions in this track should follow the same format as for the regular track papers while limiting the total number of pages to six US letter pages. Paper submitted in this track   should be anonymized    and can be submitted by the same deadline as for the regular track to the EasyChair conference management system (   https://easychair.org/my/conference?conf=acmsacmat2024      ).    
+ Blue Sky Track     
+ All submissions to this track should be in the same format as for the regular track, but the length must not exceed ten US letter pages and the submissions are not required to be anonymized (optional). Submissions to this track should be submitted by the same deadlines as the ones for the regular track to the EasyChair conference management system (   https://easychair.org/my/conference?conf=acmsacmat2024      ).    
+ Other Calls     
+ Call for Demos     
+ A demonstration proposal should clearly describe (1) the overall architecture of the system or technology to be demonstrated, and (2) one or more demonstration scenarios that describe how the audience interacting with the demonstration system or the demonstrator, will gain an understanding of the underlying technology. Submissions will be evaluated based on the motivation of the work behind the use of the system or technology to be demonstrated and its novelty.    
+ Demonstration proposals should be in the same format as for the regular track, but the length must not exceed four US letter pages, and the submission should not be anonymized. A two-page description of the demonstration will be included in the conference proceedings. Submissions are expected to be submitted through the EasyChair conference management system (   https://easychair.org/my/conference?conf=acmsacmat2024      ) by the demo submission deadline.    
+ Call for Posters     
+ SACMAT 2024 will include a poster session to promote discussion of ongoing projects among researchers in the field of access control and computer security. Posters can cover preliminary or exploratory work with interesting ideas, or research projects in early stages with promising results in all aspects of access control and computer security. Authors interested in displaying a poster must submit a poster abstract in the same format as for the regular track, but the length must not exceed three US letter pages, and the submission should not be anonymized. Accepted poster abstracts will be included in the conference proceedings.    
+ Submissions are expected to be submitted through the EasyChair conference management system (   https://easychair.org/my/conference?conf=acmsacmat2024      ) by the poster submission deadline.    
+ Call for Lightning Talks     
+ Participants are invited to submit proposals for 5-minute lightning talks describing recently published results, work in progress, wild ideas etc.    
+ Submissions are expected to be submitted through the EasyChair conference management system (   https://easychair.org/my/conference?conf=acmsacmat2024      ) by the lightning talks submission deadline.    
+ Important Dates     
+ Research Papers     
+ Abstract Submission: February 1, 2024 (   recommended    , but not mandatory) 
+  Submission:   February 5,    February 12, 2024   (    11:59 pm AoE) 
+  Rebuttal: March 14-18, 2024 
+  Notification to Authors: March 25, 2024 
+  Camera Ready: April 8, 2024 
+  Demos and Posters     
+ Submission: March 20, 2024 (11:59 pm AoE) 
+  Notification to Authors: April 1, 2024 
+  Camera Ready: April 8, 2024 
+  Lightning Talks     
+ Submission: April 3, 2024 (11:59 pm AoE) 
+  Notification to Authors: April 12, 2024 
+  List of Topics     
+ Submissions covering any relevant area of access control are welcomed. Areas include, but are not limited to, the following:    
+ Authentication: | Biometric-based Authentication 
+  Identity management 
+  Location-based Authentication 
+  Password-based Authentication 
+  Usable authentication 
+  Data Security: | Big data 
+  Data leakage prevention 
+  Data protection on untrusted infrastructure 
+  Databases and data management 
+  Mechanisms: | AI/ML Technologies 
+  Blockchain Technologies 
+  Cryptographic Technologies 
+  Economic models and game theory 
+  Hardware-security Technologies (e.g., Intel SGX, ARM TrustZone) 
+  Programming-language based Technologies 
+  Trust Management 
+  Usable mechanisms 
+  Network: | Corporate and Military-grade Networks 
+  Network systems (e.g., Software-defined network, Network function virtualization) 
+  Opportunistic Network (e.g., delay-tolerant network, P2P) 
+  Overlay Network 
+  Satellite Network 
+  Wireless and Cellular Networks 
+  Policies and Models: | Analysis of Models 
+  Analysis of policy languages 
+  Efficient enforcement of policies 
+  Extension of Models 
+  Extension of policy languages 
+  New Access Control Models 
+  Novel policy language design 
+  Policy engineering and policy mining 
+  Usable access control policy 
+  Verification of policy languages 
+  Privacy and Privacy-enhancing Technologies: | Access control and identity management with privacy 
+  Anonymous communication and censorship resistance 
+  Anonymous protocols (e.g., Tor) 
+  Attacks on Privacy and their defenses 
+  Cryptographic tools for privacy 
+  Data protection technologies 
+  Mixers and Mixnets 
+  Online social networks (OSN) 
+  Systems: | Autonomous systems (e.g., UAV security, autonomous vehicles, etc) 
+  Cloud systems and their security 
+  Cyber-physical and Embedded systems 
+  Design for resiliency 
+  Designing systems with zero-trust architectures 
+  Distributed systems 
+  Fog and Edge-computing systems 
+  IoT systems (e.g., home-automation systems) 
+  Mobile systems 
+  Operating systems 
+  WWW 
+  Venue     
+ The conference will be held in San Antonio, TX (USA), May 15-17, 2024.    
+
+ Definition  
+ For the purposes of this policy, competing interests are defined as financial and non-financial interests that could directly undermine, or be perceived to undermine the objectivity, integrity and value of a publication, through a potential influence on the judgements and actions of authors with regard to objective data presentation, analysis and interpretation.  
+ Financial competing interests include any of the following:  
+ Funding | : Research support (including salaries, equipment, supplies, and other expenses) by organizations that may gain or lose financially through this publication. A specific role for the funding provider in the conceptualization, design, data collection, analysis, decision to publish, or preparation of the manuscript, should be disclosed. 
+  Employment | : Recent (while engaged in the research project), present or anticipated employment by any organization that may gain or lose financially through this publication. 
+  Personal financial interests | : Ownership or contractual interest in stocks or shares of companies that may gain or lose financially through publication; consultation fees or other forms of remuneration (including reimbursements for attending symposia) from organizations that may gain or lose financially; patents or patent applications (awarded or pending) filed by the authors or their institutions whose value may be affected by publication. For patents and patent applications, disclosure of the following information is requested: patent applicant (whether author or institution), name of inventor(s), application number, status of application, specific aspect of manuscript covered in patent application. | It is difficult to specify a threshold at which a financial interest become significant, but note that many US universities require faculty members to disclose interests exceeding $10,000 or 5% equity in a company. Any such figure is necessarily arbitrary, so we offer as one possible practical alternative guideline: "Any undeclared competing financial interests that could embarrass you were they to become publicly known after your work was published." | We do not consider diversified mutual funds or investment trusts to constitute a competing financial interest. Also, for employees in non-executive or leadership positions, we do not consider financial interest related to stocks or shares in their company to constitute a competing financial interest, as long as they are publishing under their company affiliation. 
+  Non-financial competing interests | : Non-financial competing interests can take different forms, including personal or professional relations with organizations and individuals. We would encourage authors and PC members to declare any unpaid roles or relationships that might have a bearing on the publication process. Examples of non-financial competing interests include (but are not limited to): | Unpaid membership in a government or non-governmental organization 
+  Unpaid membership in an advocacy or lobbying organization 
+  Unpaid advisory position in a commercial organization 
+  Writing or consulting for an educational company 
+  Acting as an expert witness 
+  Conference Code of Conduct and Etiquette  
+ ACM SACMAT will follow the ACM Policy Against Harassment at ACM Activities. Please familiarize yourself with the ACM Policy Against Harassment  and guide to Reporting Unacceptable Behavior  .  
+ Notes for Authors  
+ The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to two weeks prior to the first day of your conference. The official publication date affects the deadline for any patent filings related to published work. (For those rare conferences whose proceedings are published in the ACM Digital Library after the conference is over, the official publication date remains the first day of the conference.) | ACM SACMAT 2024: ACM Symposium on Access Control Models and Technologies    
+ San Antonio, TX, United States, May 15-17, 2024 | Conference website | https://www.sacmat.org/2024/ | Submission link | https://easychair.org/conferences/?conf=acmsacmat2024 | Submission deadline | February 5,    February 12,    February 18, 2024 
+ About 
+ Call for Papers 
+ Important Dates 
+ Officers 
+ Proceedings 
+ Program 
+ Program Committee 
+ Venue 
+ Visa Information 
+ Since 1995 
+ ACM SACMAT 2024: ACM Symposium on Access Control Models and Technologies    
+ San Antonio, TX, United States, May 15-17, 2024 
+ Conference website | https://www.sacmat.org/2024/ 
+ Submission link | https://easychair.org/conferences/?conf=acmsacmat2024 
+ Submission deadline | February 5,    February 12,    February 18, 2024 
+ Copyright © 2005-2024 ACM SACMAT All rights reserved.  
+ Privacy policy  • Cookie policy 
+  
+     

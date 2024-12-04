@@ -1,0 +1,305 @@
+Write a Blog >>  SPLASH 2012   Fri 19 - Fri 26 October 2012 Tucson, Arizona, United States    
+
+ Toggle navigation        
+ Attending | Hotel: Loews Ventana Canyon Resort · Tucson 
+  Grants 
+  Registering 
+  SPLASH Shirts 
+  Hotels 
+  Getting to SPLASH 
+  While at SPLASH 
+  Conference Facility Floor Plans 
+  Anti-Harassment Policy 
+  Visa Requirements 
+  Tracks | SPLASH 2012 
+  ACM Student Research Competition 
+  Demos 
+  Doctoral Symposium 
+  Keynotes 
+  OOPSLA Research Papers 
+  Onward! Essays 
+  Onward! Papers 
+  Panels 
+  Posters 
+  RPG 2012 
+  Student Volunteers 
+  Wavefront Experience 
+  Wavefront Papers 
+  Workshops 
+   Workshops 
+  AGERE 
+  DCI 
+  DCP 
+  DSM 
+  FOOL 
+  FREECO 
+  Neo4j 
+  PLATEAU 
+  RACES 
+  VMIL 
+  xDD 
+  Co-hosted Symposia 
+  DLS 
+  Organization | SPLASH 2012 Committees 
+  Organizing Committee 
+  Program Committee 
+  Steering Committee 
+  Track Committees 
+  ACM Student Research Competition 
+  Demos 
+  Doctoral Symposium 
+  Keynotes 
+  OOPSLA Research Papers | Program Committee 
+  External Reviewers 
+  Onward! Essays 
+  Onward! Papers 
+  Panels 
+  Posters 
+  Student Volunteers 
+  Wavefront Experience 
+  Wavefront Papers 
+  Workshops 
+  Contributors 
+  People Index 
+   Workshops 
+  AGERE | Organizers 
+  Program Committee 
+  DCI | Hosts 
+  DCP | Organizers 
+  Program Committee 
+  DSM | Organizing Committee 
+  Program committee 
+  FOOL | Organizers 
+  Program Committee 
+  Steering Committee 
+  FREECO | Program Committee 
+  Workshop organizers 
+  Neo4j | Organizers 
+  PLATEAU | Organizers 
+  Program Committee 
+  RACES | Assistants 
+  Organizers 
+  Program Committee 
+  VMIL | Organizers 
+  Program Committee 
+  xDD | Workshop Committee 
+  Co-hosted Symposia 
+  DLS | Program Committee 
+  Search 
+  Series | Series 
+   SPLASH 2025 
+  SPLASH 2024 
+  SPLASH 2023 
+  SPLASH 2022 
+  SPLASH 2021 
+  SPLASH 2020 
+  SPLASH 2019 
+  SPLASH 2018 
+  SPLASH 2017 
+  SPLASH 2016 
+  SPLASH 2015 
+  SPLASH 2014 
+  SPLASH 2013 
+  SPLASH 2012 
+  SPLASH 2011 
+   SPLASH 2010 
+   OOPSLA 2009 
+  OOPSLA 2008 
+  OOPSLA 2007 
+  OOPSLA 2006 
+  OOPSLA 2005 
+  OOPSLA 2004 
+  OOPSLA 2003 
+  OOPSLA 2002 
+  OOPSLA 2001 
+  OOPSLA 2000 
+  Sign in 
+  Sign up 
+
+  SPLASH 2012  ( series  ) /  DSM 2012 ( series  ) /  DSM 2012  
+   
+ About 
+  Accepted Papers 
+  Call for Submissions 
+  The 12th Workshop on Domain-Specific Modeling   
+  
+ 22nd October, 8:30 AM - 5:00 PM - Salon I (GB)   
+ Loew's Ventana Canyon Resort  - Tucson Arizona, USA   
+ Workshop has now finished. You can view the papers, presentations and group work results. 
+  
+ Domain-specific modeling (DSM) provides a modern solution to demands for higher productivity by constricting the gap between problem and solution modeling. In the past, productivity gains have been sought through new programming languages. Today, domain-specific modeling languages provide a viable solution for continuing to raise the level of abstraction beyond coding, making development faster and easier.  
+ In DSM the models are constructed using concepts that represent things in the problem domain, not concepts of a given programming language. The modeling language follows the domain abstractions and semantics, allowing developers to perceive themselves as working directly with domain concepts. The models represent simultaneously the design, implementation and documentation of the system, which can be generated directly from them. In a number of cases the final products can be automatically generated from these high-level specifications with domain-specific code generators. This automation is possible because of domain-specificity: both the modeling language and code generators fit the requirements of a narrowly-defined domain, usually inside a single organization.  
+   
+ Workshop format and schedule   
+ The workshop format is a combination of presentations, discussion sessions, and group work on selected topics. This structure was found effective during the past workshops  .  
+ Proceedings   
+ The accepted papers will be published both on the workshop website  and proceedings in ACM DL.  
+   
+ Accepted Papers  
+  
+ Title 
+ Design considerations for a cyber-physical testing language on the example of autonomous driving  DSM   
+ Christian Berger    
+  DOI 
+ Domain-specific languages for composing signature discovery workflows  DSM   
+ Ferosh Jacob  , Jeff Gray  , Adam Wynne  , Yan Liu  , Nathan Baker    
+  DOI 
+ Domain specific modeling for operations research simulation in a large industrial context  DSM   
+ David Lugato  , Marc Palyart  , Christophe Engelvin    
+  DOI 
+ DSMLs for enterprise architecture management: review of selected approaches  DSM   
+ Heiko Kattenstroth    
+  DOI 
+ EA anamnesis: towards an approach for enterprise architecture rationalization  DSM   
+ Georgios Plataniotis  , Sybren de Kinderen  , Henderik A. Proper    
+  DOI 
+ ESEML: empirical software engineering modeling language  DSM   
+ Bruno Cartaxo  , Italo Costa  , Dhiego Abrantes  , Andre Santos  , Sergio Soares  , Vinicius Cardoso Garcia    
+  DOI 
+ Heterogeneous multi-core systems: UML profiles vs. DSM approaches  DSM   
+ David McKean  , Jonathan Sprinkle    
+  DOI 
+ Proactive modeling: auto-generating models from their semantics and constraints  DSM   
+ Tanumoy Pati  , Dennis C. Feiock  , James H. Hill    
+  DOI 
+ The RPG DSL: a case study of language engineering using MDD for generating RPG games for mobile phones  DSM   
+ Eduardo Marques  , Valter Balegas  , Bruno F. Barroca  , Ankica Barisic  , Vasco Amaral    
+  DOI 
+ The United States of a meta-model build with MyDraft: an agile model-driven cloud-based platform for data-oriented rich web applications  DSM   
+ Michel Zam  , Gilles Dodinet  , Genevieve Jomier    
+  DOI 
+ Towards xMOF: executable DSMLs based on fUML  DSM   
+ Tanja Mayerhofer  , Philip Langer  , Manuel Wimmer    
+  DOI 
+ UML4COP: UML-based DSML for context-aware systems  DSM   
+ Naoyasu Ubayashi  , Yasutaka Kamei    
+  DOI 
+
+ Call for Submissions  
+  
+ Some possible topics for submission to the workshop include:  
+ Industry/academic experience reports 
+  Creation of metamodel-based languages 
+  Empirical studies or assessments that suggest best practices for language design 
+  Novel approaches for code generation from domain-specific models 
+  Evolution of languages 
+  Metamodeling frameworks and languages 
+  Tools for supporting DSMs 
+
+ Important Dates   AoE (UTC-12h)     
+
+ Mon 22 Oct 2012  
+  Workshop 
+ Fri 10 Aug 2012  
+  Submissions deadline 
+
+ Organizing Committee    
+   
+ Jeff Gray    
+ University of Alabama 
+  Matti Rossi    
+ Aalto University School of Business 
+  Jonathan Sprinkle    
+ University of Arizona   
+ United States 
+  Juha-Pekka Tolvanen    
+ MetaCase, Finland 
+    
+ Program committee    
+   
+ Pierre America    
+ Philips 
+  Robert Baillargeon    
+ Sodius 
+  Peter Bell    
+ General Assembly 
+  Peter Clarke    
+ Florida International University 
+  Davide Di Ruscio 
+  Scott Douglas    
+ Air Force Research Laboratory 
+  Abhishek Dubey    
+ Vanderbilt University 
+  Brandon Eames    
+ Sandia National Laboratories 
+  James Hill    
+ IUPUI   
+ United States 
+  Ethan Jackson    
+ Microsoft Research 
+  Jurgen Jung    
+ DHL 
+  Steven Kelly    
+ MetaCase   
+ United Kingdom 
+  Heiko Kern    
+ University of Leipzig 
+  Philip Langer 
+  Shih-Hsi Liu    
+ California State University Fresno 
+  Pedro J. Molina 
+  Louis Rose    
+ University of York 
+  Bernhard Rumpe    
+ RWTH Aachen University   
+ Germany 
+  Keng Siau    
+ Missouri University of Science and Technology 
+  Massimo Tisi 
+  Tuure Tuunanen    
+ University of Jyväskylä 
+  Markus Völter    
+ itemis/independent 
+  Alan Wegmann    
+ EPFL 
+
+ x  Wed 4 Dec 12:58    
+
+  SPLASH 2012   
+  using conf.researchr.org  ( v1.67.1  )  
+   Support page    
+     
+ Tracks  
+ ACM Student Research Competition   
+  Demos   
+  Doctoral Symposium   
+  Keynotes   
+  OOPSLA Research Papers   
+  Onward! Essays   
+  Onward! Papers   
+  Panels   
+  Posters   
+  RPG 2012   
+  Student Volunteers   
+  Wavefront Experience   
+  Wavefront Papers   
+  Workshops    
+ Workshops  
+ AGERE 2012   
+  DCI 2012   
+  DCP 2012   
+  DSM 2012   
+  FOOL 2012   
+  FREECO 2012   
+  Neo4j 2012   
+  PLATEAU 2012   
+  RACES 2012   
+  VMIL 2012   
+  xDD 2012   
+  Co-hosted Symposia  
+ DLS 2012    
+
+ Attending  
+ Hotel: Loews Ventana Canyon Resort · Tucson   
+  Grants   
+  Registering   
+  SPLASH Shirts   
+  Hotels   
+  Getting to SPLASH   
+  While at SPLASH   
+  Conference Facility Floor Plans   
+  Anti-Harassment Policy   
+  Visa Requirements    
+ Sign Up    
+
+  

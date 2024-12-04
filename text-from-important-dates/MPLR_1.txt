@@ -1,0 +1,559 @@
+ISSTA/ECOOP 2024   Mon 16 - Fri 20 September 2024 Vienna, Austria    
+
+ Toggle navigation        
+ Attending | Venue: Vienna University of Technology (TU Wien) - Campus Gusshaus 
+  Reception: Vienna University of Technology (TU Wien) - Campus Karlsplatz 
+  Banquet: Fuhrgassl-Huber 
+  Equity, Diversity and Inclusion 
+  Code of Conduct 
+  Visa Support Letters 
+  Accomodation 
+  Registration 
+  Program | ISSTA/ECOOP Program 
+  Your Program 
+  Schedule Overview 
+   Mon 16 Sep 
+  Tue 17 Sep 
+  Wed 18 Sep 
+  Thu 19 Sep 
+  Fri 20 Sep 
+  Tracks | ISSTA/ECOOP 2024 
+  Diversity 
+  Doctoral Symposium 
+  Sponsorship 
+  Student Volunteers 
+  Tool Demonstrations 
+  Workshops 
+   Co-hosted Conferences 
+  ECOOP | ECOOP 
+  ECOOP  Technical Papers 
+  ECOOP  Artifact Evaluation 
+  ISSTA | ISSTA 
+  ISSTA  Technical Papers 
+  ISSTA  Artifact Evaluation 
+  ISSTA  Keynotes 
+  MPLR 
+  Workshops 
+  A-TEST 
+  DEBT 
+  FTfJP 
+  FUZZING 
+  Gamify 
+  ICOOOLPS 
+  MET 
+  PLAID 
+  PLF  Programming Local-first Software 
+  VORTEX 
+  Tutorials 
+  CAKC  Concurrent Algorithms in Kotlin Coroutines Tutorial 
+  Organization | ISSTA/ECOOP 2024 Committees 
+  Track Committees 
+  Doctoral Symposium 
+  Sponsorship 
+  Student Volunteers 
+  Tool Demonstrations 
+  Workshops 
+  Contributors 
+  People Index 
+   Co-hosted Conferences 
+  ECOOP | Organizing Committee 
+  Technical Papers  Program Committee 
+  Technical Papers  Extended Review Committee and External Reviewers 
+  Artifact Evaluation 
+  ISSTA | Organizing Committee 
+  Technical Papers 
+  Artifact Evaluation 
+  MPLR | Organizing Committee 
+  Program Committee 
+  Workshops 
+  A-TEST | Organizing Committee 
+  Programme Committee 
+  DEBT | Organizing Committee 
+  Program Committee 
+  FTfJP | Organizing Committee 
+  Program Committee 
+  FUZZING | Organizing Committee 
+  Program Committee 
+  Gamify | N/A - check homepage 
+  ICOOOLPS | Organizing Committee 
+  Program Committee 
+  MET | Organizing Committee 
+  Programme Committee 
+  PLAID | Organizing Committee 
+  Program Committee 
+  PLF | Organizing Committee 
+  Program Committee 
+  VORTEX | Organizing Committee 
+  Program Committee 
+  Tutorials 
+  CAKC | Organizing Committee 
+  Search 
+  Series | Series 
+   ISSTA/ECOOP 2024 
+  ECOOP and ISSTA 2023 
+  ECOOP and ISSTA 2021 
+  ECOOP and ISSTA 2018 
+  Sign in 
+  Sign up 
+
+  ISSTA/ECOOP 2024  ( series  ) /  MPLR 2024 ( series  ) /  MPLR 2024  
+   
+ About 
+  Program 
+  Accepted Papers 
+  Call for Papers 
+  Call for Posters and Demos 
+  The 21st International Conference on Managed Programming Languages and Runtimes (MPLR 2024, formerly ManLang, originally PPPJ) is a premier forum for presenting and discussing novel results in all aspects of managed programming languages and runtime systems, which serve as building blocks for some of the most important computing systems around, ranging from small-scale (embedded and real-time systems) to large-scale (cloud-computing and big-data platforms) and anything in between (mobile, IoT, and wearable applications).  
+ Papers accepted by MPLR 2024 describe original research results and have not been published anywhere else. Each submitted paper has received a minimum of three reviews by members of the program committee. Papers have been selected based on their originality, relevance, technical clarity, and quality of presentation. At least one author of each accepted paper must register for the MPLR 2024 symposium and present the paper.  
+ We are thrilled to announce our distinguished keynote speaker  for MPLR 2024:  
+ Dr. Ben Titzer  from Carnegie Mellon University will be talking about:  
+ Can WebAssembly Be Software’s Final Substrate?  
+ Since the dawn of computing, many formats for executable programs have come and gone. The design of an executable format encounters design choices and tradeoffs such as expressiveness, ease of parsing/decoding/execution, the level of abstraction, and performance. With the advent of WebAssembly, a portable low-level compilation target for many languages, an intriguing question arises: can we finally standardize a universal binary format and software virtual machine? After many years, I believe that we finally can. Unlike language-specific bytecode formats whose abstraction level serves only one language family well, or machine-code formats that serve specific ISAs and operating systems well, WebAssembly sits between these levels of abstraction. In this talk I will share my vision for a future where all software sits on a standardized, well-specified, formally-verified substrate that allows innovation above and below, and unlocks high performance and portability for all programming languages.  
+ MPLR Keynote  
+   Can WebAssembly Be Software’s Final Substrate? (Keynote)  
+ Ben L. Titzer   
+
+ Plenary    
+
+   Program Display Configuration  
+   
+   Time Zone   
+   
+ The program is currently displayed in (GMT+02:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna  .   Use conference time zone: (GMT+02:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna    Select other time zone   (GMT-12:00) AoE (Anywhere On Earth)  (GMT-11:00) Midway Island, Samoa  (GMT-09:00) Hawaii-Aleutian  (GMT-10:00) Hawaii  (GMT-09:30) Marquesas Islands  (GMT-09:00) Gambier Islands  (GMT-08:00) Alaska  (GMT-07:00) Tijuana, Baja California  (GMT-08:00) Pitcairn Islands  (GMT-07:00) Pacific Time (US & Canada)  (GMT-06:00) Mountain Time (US & Canada)  (GMT-06:00) Chihuahua, La Paz, Mazatlan  (GMT-07:00) Arizona  (GMT-06:00) Saskatchewan, Central America  (GMT-05:00) Guadalajara, Mexico City, Monterrey  (GMT-05:00) Easter Island  (GMT-05:00) Central Time (US & Canada)  (GMT-04:00) Eastern Time (US & Canada)  (GMT-04:00) Cuba  (GMT-05:00) Bogota, Lima, Quito, Rio Branco  (GMT-04:00) Caracas  (GMT-03:00) Santiago  (GMT-04:00) La Paz  (GMT-03:00) Faukland Islands  (GMT-04:00) Manaus, Amazonas, Brazil  (GMT-03:00) Atlantic Time (Goose Bay)  (GMT-03:00) Atlantic Time (Canada)  (GMT-02:30) Newfoundland  (GMT-03:00) UTC-3  (GMT-03:00) Montevideo  (GMT-02:00) Miquelon, St. Pierre  (GMT-02:00) Greenland  (GMT-03:00) Buenos Aires  (GMT-03:00) Brasilia, Distrito Federal, Brazil  (GMT-02:00) Mid-Atlantic  (GMT-01:00) Cape Verde Is.  (GMT) Azores  (UTC) Coordinated Universal Time  (GMT+01:00) Belfast  (GMT+01:00) Dublin  (GMT+01:00) Lisbon  (GMT+01:00) London  (GMT) Monrovia, Reykjavik  (GMT+02:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna  (GMT+02:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague  (GMT+02:00) Brussels, Copenhagen, Madrid, Paris  (GMT+01:00) West Central Africa  (GMT+02:00) Windhoek  (GMT+03:00) Athens  (GMT+03:00) Beirut  (GMT+02:00) Cairo  (GMT+03:00) Gaza  (GMT+02:00) Harare, Pretoria  (GMT+03:00) Jerusalem  (GMT+03:00) Minsk  (GMT+03:00) Syria  (GMT+03:00) Moscow, St. Petersburg, Volgograd  (GMT+03:00) Nairobi  (GMT+03:30) Tehran  (GMT+04:00) Abu Dhabi, Muscat  (GMT+04:00) Yerevan  (GMT+04:30) Kabul  (GMT+05:00) Ekaterinburg  (GMT+05:00) Tashkent  (GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi  (GMT+05:45) Kathmandu  (GMT+06:00) Astana, Dhaka  (GMT+07:00) Novosibirsk  (GMT+06:30) Yangon (Rangoon)  (GMT+07:00) Bangkok, Hanoi, Jakarta  (GMT+07:00) Krasnoyarsk  (GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi  (GMT+08:00) Irkutsk, Ulaan Bataar  (GMT+08:00) Perth  (GMT+08:45) Eucla  (GMT+09:00) Osaka, Sapporo, Tokyo  (GMT+09:00) Seoul  (GMT+09:00) Yakutsk  (GMT+09:30) Adelaide  (GMT+09:30) Darwin  (GMT+10:00) Brisbane  (GMT+10:00) Hobart  (GMT+10:00) Vladivostok  (GMT+10:30) Lord Howe Island  (GMT+11:00) Solomon Is., New Caledonia  (GMT+11:00) Magadan  (GMT+11:00) Norfolk Island  (GMT+12:00) Anadyr, Kamchatka  (GMT+12:00) Auckland, Wellington  (GMT+12:00) Fiji, Kamchatka, Marshall Is.  (GMT+12:45) Chatham Islands  (GMT+13:00) Nuku'alofa  (GMT+14:00) Kiritimati     
+
+   The GMT offsets shown reflect the offsets at the moment of the conference  .     
+   
+ Time Band   
+   
+ By setting a time band, the program will dim events that are outside this time window. This is useful for (virtual) conferences with a continuous program (with repeated sessions).  
+  The time band will also limit the events that are included in the personal iCalendar subscription service.   Display full program    Specify a time band   -      
+
+  Save    
+
+  Close    
+
+ ×    You're viewing the program in a time zone which is different from your device's time zone change time zone     
+
+ Thu 19 Sep   
+  
+ Displayed time zone: Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna  change      
+
+ 08:30 - 09:00 | Coffee Social Events   at Aula 
+
+ 09:00 - 10:00 | MPLR Keynote MPLR   at EI 2 Pichelmayer 
+ 09:00   
+ 5m    
+ Day opening | Welcome from the Chairs   MPLR   
+ G:  M. Anton Ertl  TU Wien  , P:  Christoph Kirsch  University of Salzburg; Czech Technical University 
+ 09:05   
+ 55m    
+ Keynote | Can WebAssembly Be Software’s Final Substrate? (Keynote)   MPLR   
+ K:  Ben L. Titzer  Carnegie Mellon University    
+  DOI 
+
+ 10:00 - 10:30 | Break Social Events   at Aula 
+
+ 10:30 - 11:50 | MPLR "Optimization" Session MPLR   at EI 2 Pichelmayer      
+  Chair(s): Hila Peleg  Technion 
+ 10:30   
+ 25m    
+ Paper | Lazy Sparse Conditional Constant Propagation in the Sea of Nodes   MPLR   
+ A:  Christoph Aigner  JKU Linz  , A:  Gergö Barany  Oracle Labs  , A:  Hanspeter Mössenböck  JKU Linz    
+  DOI 
+ 10:55   
+ 25m    
+ Paper | Mutator-Driven Object Placement using Load Barriers   MPLR   
+ A:  Jonas Norlinder  Uppsala University  , A:  Albert Mingkun Yang  Oracle  , A:  David Black-Schaffer  Uppsala University  , A:  Tobias Wrigstad  Uppsala University    
+  DOI 
+ 11:20   
+ 25m    
+ Paper | Interactive Programming for Microcontrollers by Offloading Dynamic Incremental Compilation   MPLR   
+ A:  Fumika Mochizuki  University of Tokyo  , A:  Tetsuro Yamazaki  University of Tokyo  , A:  Shigeru Chiba  University of Tokyo    
+  DOI 
+
+ 12:00 - 13:30 | Lunch Social Events   at Aula 
+
+ 13:30 - 14:50 | MPLR "Programming" Session MPLR   at EI 2 Pichelmayer      
+  Chair(s): Stefan Marr  University of Kent 
+ 13:30   
+ 15m    
+ Short-paper | mruby on Resource-Constrained Low-Power Coprocessors of Embedded Devices   MPLR   
+ A:  Go Suzuki  Tokyo Institute of Technology  , A:  Takuo Watanabe  Tokyo Institute of Technology  , A:  Sosuke Moriguchi  Tokyo Institute of Technology    
+  DOI   Pre-print   Media Attached   File Attached 
+ 13:45   
+ 15m    
+ Short-paper | Imagine There’s No Source Code: Replay Diagnostic Location Information in Dynamic EDSL Meta-programming   MPLR   
+ A:  Baltasar Trancón y Widemann  TH Brandenburg  , A:  Markus Lepper  semantics    
+  DOI 
+ 14:00   
+ 25m    
+ Paper | Existential Containers in Scala   MPLR   
+ A:  Dimitri Racordon  EPFL  , A:  Eugene Flesselle  EPFL  , A:  Matt Bovel  EPFL    
+  DOI 
+ 14:25   
+ 25m    
+ Paper | Quff: A Dynamically Typed Hybrid Quantum-Classical Programming Language   MPLR   
+ A:  Christopher John Wright  University of Manchester  , A:  Mikel Luján  University of Manchester  , A:  Pavlos Petoumenos  University of Manchester  , A:  John Goodacre  University of Manchester    
+  DOI 
+
+ 15:00 - 15:30 | Break Social Events   at Aula 
+
+ 15:30 - 16:50 | MPLR "Analysis" Session MPLR   at EI 2 Pichelmayer      
+  Chair(s): M. Anton Ertl  TU Wien 
+ 15:30   
+ 15m    
+ Short-paper | Towards Realistic Results for Instrumentation-Based Profilers for JIT-Compiled Systems   MPLR   
+ A:  Humphrey Burchell  University of Kent  , A:  Octave Larose  University of Kent  , A:  Stefan Marr  University of Kent    
+  DOI   Pre-print 
+ 15:45   
+ 15m    
+ Short-paper | Toward Declarative Auditing of Java Software for Graceful Exception Handling   MPLR   
+ A:  Leo St. Amour  Virginia Tech  , A:  Eli Tilevich  Virginia Tech    
+  DOI 
+ 16:00   
+ 25m    
+ Paper | Dynamic Possible Source Count Analysis for Data Leakage Prevention   MPLR   
+ A:  Eri Ogawa  University of Tokyo; IBM Research  , A:  Tetsuro Yamazaki  University of Tokyo  , A:  Ryota Shioya  University of Tokyo    
+  DOI 
+ 16:25   
+ 25m    
+ Paper | The Cost of Profiling in the HotSpot Virtual Machine   MPLR   
+ A:  Rene Mueller  Huawei Zurich Research Center  , A:  Maria Carpen-Amarie  Huawei Zurich Research Center  , A:  Matvii Aslandukov  Kharkiv National University of Radio Electronics  , A:  Konstantinos Tovletoglou  Independent Researcher    
+  DOI 
+ 16:50   
+ 5m    
+ Day closing | Closing Session   MPLR   
+ Stefan Marr  University of Kent 
+
+ 17:00 - 18:00 | MPLR Poster Session MPLR   at EI 2 Pichelmayer 
+ 17:00   
+ 60m    
+ Poster | Toward Declarative Auditing of Java Software for Graceful Exception Handling (Poster)   MPLR   
+ A:  Leo St. Amour  Virginia Tech  , A:  Eli Tilevich  Virginia Tech 
+ 17:00   
+ 60m    
+ Poster | Accurate Compilation Replay via Remote JIT Compilation (Poster)   MPLR   
+ A:  Andrej Pečimúth  Oracle Labs; Charles University  , A:  David Leopoldseder  Oracle Labs  , A:  Petr Tuma  Charles University 
+
+ 18:00 - 20:00 | Reception Social Events   at Kuppelsaal 
+
+   Information for Participants  
+   
+ Thu 19 Sep 2024 08:30 - 09:00 at Aula   - Coffee  Info for room Aula  :   
+ https://tuw-maps.tuwien.ac.at/?q=CDEG09   
+
+  Close    
+
+   Information for Participants  
+   
+ Thu 19 Sep 2024 09:00 - 10:00 at EI 2 Pichelmayer   - MPLR Keynote  Info for room EI 2 Pichelmayer  :   
+ Map: https://tuw-maps.tuwien.ac.at/?q=CF0235   
+ Room tech: https://raumkatalog.tiss.tuwien.ac.at/room/15717   
+
+  Close    
+
+   Information for Participants  
+   
+ Thu 19 Sep 2024 10:00 - 10:30 at Aula   - Break  Info for room Aula  :   
+ https://tuw-maps.tuwien.ac.at/?q=CDEG09   
+
+  Close    
+
+   Information for Participants  
+   
+ Thu 19 Sep 2024 10:30 - 11:50 at EI 2 Pichelmayer   - MPLR "Optimization" Session  Chair(s): Hila Peleg   Info for room EI 2 Pichelmayer  :   
+ Map: https://tuw-maps.tuwien.ac.at/?q=CF0235   
+ Room tech: https://raumkatalog.tiss.tuwien.ac.at/room/15717   
+
+  Close    
+
+   Information for Participants  
+   
+ Thu 19 Sep 2024 12:00 - 13:30 at Aula   - Lunch  Info for room Aula  :   
+ https://tuw-maps.tuwien.ac.at/?q=CDEG09   
+
+  Close    
+
+   Information for Participants  
+   
+ Thu 19 Sep 2024 13:30 - 14:50 at EI 2 Pichelmayer   - MPLR "Programming" Session  Chair(s): Stefan Marr   Info for room EI 2 Pichelmayer  :   
+ Map: https://tuw-maps.tuwien.ac.at/?q=CF0235   
+ Room tech: https://raumkatalog.tiss.tuwien.ac.at/room/15717   
+
+  Close    
+
+   Information for Participants  
+   
+ Thu 19 Sep 2024 15:00 - 15:30 at Aula   - Break  Info for room Aula  :   
+ https://tuw-maps.tuwien.ac.at/?q=CDEG09   
+
+  Close    
+
+   Information for Participants  
+   
+ Thu 19 Sep 2024 15:30 - 16:50 at EI 2 Pichelmayer   - MPLR "Analysis" Session  Chair(s): M. Anton Ertl   Info for room EI 2 Pichelmayer  :   
+ Map: https://tuw-maps.tuwien.ac.at/?q=CF0235   
+ Room tech: https://raumkatalog.tiss.tuwien.ac.at/room/15717   
+
+  Close    
+
+   Information for Participants  
+   
+ Thu 19 Sep 2024 17:00 - 18:00 at EI 2 Pichelmayer   - MPLR Poster Session  Info for room EI 2 Pichelmayer  :   
+ Map: https://tuw-maps.tuwien.ac.at/?q=CF0235   
+ Room tech: https://raumkatalog.tiss.tuwien.ac.at/room/15717   
+
+  Close    
+
+   Information for Participants  
+   
+ Thu 19 Sep 2024 18:00 - 20:00 at Kuppelsaal   - Reception  Info for room Kuppelsaal  :   
+ https://tuw-maps.tuwien.ac.at/?q=Kuppelsaal   
+
+  Close    
+
+ Accepted Papers  
+  
+ Title 
+ Closing Session  MPLR   
+ Stefan Marr 
+ Dynamic Possible Source Count Analysis for Data Leakage Prevention  MPLR   
+ A:  Eri Ogawa  , A:  Tetsuro Yamazaki  , A:  Ryota Shioya    
+  DOI 
+ Existential Containers in Scala  MPLR   
+ A:  Dimitri Racordon  , A:  Eugene Flesselle  , A:  Matt Bovel    
+  DOI 
+ Imagine There’s No Source Code: Replay Diagnostic Location Information in Dynamic EDSL Meta-programming  MPLR   
+ A:  Baltasar Trancón y Widemann  , A:  Markus Lepper    
+  DOI 
+ Interactive Programming for Microcontrollers by Offloading Dynamic Incremental Compilation  MPLR   
+ A:  Fumika Mochizuki  , A:  Tetsuro Yamazaki  , A:  Shigeru Chiba    
+  DOI 
+ Lazy Sparse Conditional Constant Propagation in the Sea of Nodes  MPLR   
+ A:  Christoph Aigner  , A:  Gergö Barany  , A:  Hanspeter Mössenböck    
+  DOI 
+ mruby on Resource-Constrained Low-Power Coprocessors of Embedded Devices  MPLR   
+ A:  Go Suzuki  , A:  Takuo Watanabe  , A:  Sosuke Moriguchi    
+  DOI   Pre-print   Media Attached   File Attached 
+ Mutator-Driven Object Placement using Load Barriers  MPLR   
+ A:  Jonas Norlinder  , A:  Albert Mingkun Yang  , A:  David Black-Schaffer  , A:  Tobias Wrigstad    
+  DOI 
+ Quff: A Dynamically Typed Hybrid Quantum-Classical Programming Language  MPLR   
+ A:  Christopher John Wright  , A:  Mikel Luján  , A:  Pavlos Petoumenos  , A:  John Goodacre    
+  DOI 
+ The Cost of Profiling in the HotSpot Virtual Machine  MPLR   
+ A:  Rene Mueller  , A:  Maria Carpen-Amarie  , A:  Matvii Aslandukov  , A:  Konstantinos Tovletoglou    
+  DOI 
+ Toward Declarative Auditing of Java Software for Graceful Exception Handling  MPLR   
+ A:  Leo St. Amour  , A:  Eli Tilevich    
+  DOI 
+ Towards Realistic Results for Instrumentation-Based Profilers for JIT-Compiled Systems  MPLR   
+ A:  Humphrey Burchell  , A:  Octave Larose  , A:  Stefan Marr    
+  DOI   Pre-print 
+
+ Call for Papers  
+  
+ The 21st International Conference on Managed Programming Languages & Runtimes (MPLR, formerly ManLang, originally PPPJ) is a premier forum for presenting and discussing novel results in all aspects of managed programming languages and runtime systems, which serve as building blocks for some of the most important computing systems in use, ranging from small-scale (embedded and real-time systems) to large-scale (cloud-computing and big-data platforms) and anything in between (desktop, mobile, IoT, and wearable applications).  
+ Topics   
+ The areas of interest include but are not limited to:  
+ Languages and Compilers | Managed languages (e.g., Java, Scala, JavaScript, Python, Ruby, C#, F#, Clojure, Groovy, Kotlin, R, Smalltalk, Racket, Rust, Go, Lua, MATLAB, Raku, Pony, …) 
+  Domain-specific languages 
+  Language design 
+  Compilers and interpreters 
+  Type systems and program logics 
+  Language interoperability 
+  Parallelism, distribution, and concurrency 
+  Virtual Machines | Portable intermediate representations (e.g., JVM, WebAssembly, RPython, …) 
+  Managed runtime systems (e.g., GraalVM, Android Runtime (ART), V8, JavaScriptCore, .NET, …) 
+  VM design and optimization 
+  VMs for mobile and embedded devices 
+  VMs for real-time applications 
+  Memory management and garbage collection 
+  Hardware/software co-design 
+  Persistence 
+  Techniques, Tools, and Applications | Static and dynamic program analysis 
+  Testing and debugging 
+  Refactoring 
+  Program understanding 
+  Program synthesis 
+  Security and privacy 
+  Performance analysis and monitoring 
+  Compiler and program verification and model checking 
+  If you are unsure whether a particular topic falls within the scope of MPLR’24 or if you have any other questions, please do not hesitate to contact the Program Chair Christoph Kirsch at ck@cs.uni-salzburg.at   
+ Submission Categories   
+ MPLR accepts four types of submissions:  
+ Regular research papers | , describing novel contributions involving managed language platforms. Research papers will be evaluated based on their relevance, novelty, technical rigor, and contribution to the state-of-the-art. (Format: up to 12 pages, excluding bibliography and appendix); 
+  Work-in-progress research papers | , describing hot topics or promising new ideas, with perhaps less maturity than full papers. Work-in-progress papers will be evaluated with an emphasis on novelty and the potential of the new ideas instead of technical rigor and experimental results. (Format: up to 6 pages, excluding bibliography and appendix); 
+  Industry and tool papers | , presenting technical challenges and solutions for managed language platforms in the context of deployed applications and systems. Industry and tool papers will be evaluated on their relevance, usefulness, and results. Suitability for demonstration and availability will also be considered for tool papers. (Format: up to 6 pages, excluding bibliography and appendix; up to 12 pages allowed if justified by the content); 
+  Posters and demonstrations | , which will be evaluated similarly to work-in-progress papers. (Format: poster pdf and 1-page abstract). 
+  Accepted submissions will be published in the ACM Digital Library, except if the authors prefer not to be included.  
+ MPLR 2024 submissions must conform to the ACM Policy on Prior Publication and Simultaneous Submissions and to the SIGPLAN Republication Policy. See http://www.sigplan.org/Resources/Policies/Republication   
+ Author Instructions   
+ Submissions need to use the ACM SIGPLAN format with the sigplan  style.  
+ If you are using LaTeX, submissions need to use the acmart  document class with the sigplan  option ( not  the sigconf  option). In the acmart-primary.zip  file that downloads from the LaTeX (Version 1.90) link on the https://www.acm.org/publications/proceedings-template  page, look for samples/sample-sigplan.tex  as a guide. If you use Overleaf, be sure to change the documentclass  option manuscript  to sigplan  . For ease of reviewing, please include page numbers in your submission using the LaTeX command \settopmatter{printfolios=true}  . Please use the standard setting, e.g., the default font size for the SIGPLAN style is 10 point and the format uses two columns for the test.  
+ All submissions need to be in PDF format. MPLR now uses double-blind reviewing  . Authors should not show their names on a submission and should refer to their own work in third person.  We further recommend that they avoid publicizing the work, at least under the same or similar title, while it is under review.  
+ Please also ensure that your submission is legible when printed on a black and white printer. In particular, please check that colors remain distinct and font sizes are legible.  
+ Submission Site: https://mplr24.hotcrp.com   
+ Important Dates   
+ Paper Submission Deadline: May 25, 2024 
+  Paper Author Notification: June 24, 2024 
+  Camera Ready for Papers: July 31, 2024 
+  Posters and Demos Submission Deadline: August 5, 2024 
+  Posters and Demos Notification: August 12, 2024 
+  Conference Date: September 19, 2024 
+  All deadlines are 23:59 AoE (UTC-12h).  
+ AUTHORS TAKE NOTE: The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to two weeks prior to the first day of your conference. The official publication date affects the deadline for any patent filings related to published work.  
+
+ Call for Posters and Demos  
+  
+ Posters  are an excellent opportunity for researchers to submit novel ideas with preliminary results within the topics of the conference. Posters can also accompany a paper submission as a way to provide additional demonstration and discussion opportunities. They will be evaluated similarly to work-in-progress papers. The text should contain sufficient technical details of the work such that the committee can assess its relevance.  
+ Submission format  : one-page poster draft accompanied by an abstract of maximum two pages (excluding references).  
+ Demonstrations  allow authors to showcase their work in an interactive way. Demo submissions may include (but are not limited to) demonstrations of research prototypes, tool tutorials, live coding sessions, and demonstrations of (industrial or academic) applications. Authors of demos should submit a one-page abstract describing the tool/technology they have created and why it is relevant for the conference. In an additional page, the authors should indicated the intended duration of the demo and describe what participants of the demonstration will be able to see or do with the prototype. During the demonstration authors are expected to discuss scientific and technical aspects of the prototype and should not push any commercial agenda.  
+ Submission format  : abstract and additional information of maximum one page each (excluding references). Optionally, a link to a video/media file can be submitted to support the submission.  
+ The abstracts will not appear as part of the conference proceedings (because the camera-ready deadline is too early for that), but if at submission time you mark whether you would like to have the abstract appear online, we will put it online. You may want to use the ACM SIGPLAN format like the regular submissions.  
+
+ Questions? Use the MPLR contact form  .    
+    
+ Important Dates   AoE (UTC-12h)     
+
+ Thu 19 Sep 2024  
+  Conference 
+ Mon 12 Aug 2024  
+  poster and demo notification 
+ Mon 5 Aug 2024  
+  poster and demo submission deadline 
+ Wed 31 Jul 2024  
+  camera ready deadline 
+ Mon 24 Jun 2024  
+  author notification 
+ Sat 25 May 2024   
+  extended paper submission deadline 
+
+ Submission Link   
+   
+   https://mplr24.hotcrp.com     
+   
+ Organizing Committee    
+   
+ M. Anton Ertl General Chair    
+ TU Wien   
+ Austria 
+  Christoph Kirsch PC Chair    
+ University of Salzburg; Czech Technical University   
+ Austria 
+    
+ Program Committee    
+   
+ Christoph Kirsch PC Chair    
+ University of Salzburg; Czech Technical University   
+ Austria 
+  Shoaib Akram Committee Member    
+ Australian National University   
+ Australia 
+  Steve Blackburn Committee Member    
+ Google and Australian National University   
+ Australia 
+  Daniele Bonetta Committee Member    
+ VU Amsterdam   
+ Netherlands 
+  Maxime Chevalier-Boisvert Committee Member    
+ Shopify   
+ Canada 
+  Benjamin Chung Committee Member    
+ JuliaHub 
+  David F Bacon Committee Member 
+  Olivier Flückiger Committee Member    
+ Google   
+ Switzerland 
+  Michael Homer Committee Member    
+ Victoria University of Wellington   
+ New Zealand 
+  Tony Hosking Committee Member    
+ Australian National University   
+ Australia 
+  Yusuke Izawa Committee Member    
+ Tokyo Metropolitan University   
+ Japan 
+  Ranjit Jhala Committee Member    
+ University of California at San Diego   
+ United States 
+  Jeehoon Kang Committee Member    
+ KAIST   
+ South Korea 
+  Doug Lea Committee Member    
+ State University of New York (SUNY) Oswego   
+ United States 
+  Ana Milanova Committee Member    
+ Rensselaer Polytechnic Institute 
+  Fabian Muehlboeck Committee Member    
+ Australian National University   
+ Australia 
+  Tomoki Nakamaru Committee Member    
+ The University of Tokyo   
+ Japan 
+  Hila Peleg Committee Member    
+ Technion   
+ Israel 
+  Maoni Stephens Committee Member    
+ Microsoft   
+ United States 
+  Ben L. Titzer Committee Member    
+ Carnegie Mellon University   
+ United States 
+  Tomoharu Ugawa Committee Member    
+ University of Tokyo   
+ Japan 
+  Christian Wimmer Committee Member    
+ Oracle Labs   
+ United States 
+  Tobias Wrigstad Committee Member    
+ Uppsala University   
+ Sweden 
+  YungYu Zhuang Committee Member    
+ National Central University   
+ Taiwan 
+
+ x  Wed 4 Dec 13:36    
+
+  ISSTA/ECOOP 2024   
+  contact form    
+  using conf.researchr.org  ( v1.67.1  )  
+   Support page    
+     
+ Tracks  
+ Diversity   
+  Doctoral Symposium   
+  Sponsorship   
+  Student Volunteers   
+  Tool Demonstrations   
+  Workshops    
+ Co-hosted Conferences  
+ ECOOP 2024   
+  ISSTA 2024   
+  MPLR 2024   
+  Workshops  
+ A-TEST 2024   
+  DEBT 2024   
+  FTfJP 2024   
+  FUZZING 2024   
+  Gamify 2024   
+  ICOOOLPS 2024   
+  MET 2024   
+  PLAID 2024   
+  PLF 2024   
+  VORTEX 2024   
+  Tutorials  
+ CAKC 2024    
+
+ Attending  
+ Venue: Vienna University of Technology (TU Wien) - Campus Gusshaus   
+  Reception: Vienna University of Technology (TU Wien) - Campus Karlsplatz   
+  Banquet: Fuhrgassl-Huber   
+  Equity, Diversity and Inclusion   
+  Code of Conduct   
+  Visa Support Letters   
+  Accomodation   
+  Registration    
+ Sign Up    
+
+  

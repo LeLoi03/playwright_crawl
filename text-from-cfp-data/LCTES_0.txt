@@ -1,0 +1,1537 @@
+PLDI 2024   Mon 24 - Fri 28 June 2024 Copenhagen, Denmark    
+
+ Toggle navigation        
+ Attending | Venue: Radisson Blu Scandinavia, Copenhagen 
+  Sponsorship 
+  Registration 
+  Visa 
+  Live Streams 
+  Presenter Instructions 
+  Program | PLDI Program 
+  Your Program 
+   Mon 24 Jun 
+  Tue 25 Jun 
+  Wed 26 Jun 
+  Thu 27 Jun 
+  Fri 28 Jun 
+  Tracks | PLDI 2024 
+  PLDI Events 
+  Research Artifacts 
+  PLDI Research Papers 
+  Workshops and Tutorials 
+  SRC 
+  Tutorials 
+  - Algorithms and Applications for Provable Repair of Deep Neural Networks 
+  - Concurrent Algorithms in Kotlin Coroutines 
+  - Democratizing DSL development with the BuildIt Framework 
+  - Quick and dirty development of static analyses with LiSA 
+  - Static Code Analysis with SootUp 
+  Volunteering 
+  Diversity, Equity and Inclusion 
+   Co-hosted Conferences 
+  ISMM 
+  LCTES 
+  Workshops 
+  ARRAY 
+  CP  Choreographic Programming 
+  EGRAPHS 
+  Infer 
+  PLMW@PLDI 
+  PODELSKI  PLDI Workshop Honoring Andreas Podelski 
+  RTFM  : Red-Hot Topics in Faculty Mentoring 
+  SOAP 
+  Sparse 
+  WQS 
+  Organization | PLDI 2024 Committees 
+  AV Committee 
+  Organizing Committee 
+  Track Committees 
+  Research Artifacts 
+  PLDI Research Papers 
+  SRC 
+  Contributors 
+  People Index 
+   Co-hosted Conferences 
+  ISMM | Organizing Committee 
+  Program Committee 
+  Steering Committee 
+  LCTES | Organizing Committee 
+  Program Committee 
+  Steering Committee 
+  Workshops 
+  ARRAY | Organizing Committee 
+  Program Committee 
+  CP | Organizing Committee 
+  Program Committee 
+  EGRAPHS | Organizing Committee 
+  Program Committee 
+  Infer | Organizing Committee 
+  PLMW@PLDI | Organizing Committee 
+  PODELSKI | Program Committee 
+  RTFM | Organizing Committee 
+  Speakers and Panelists 
+  SOAP | Organizing Committee 
+  Program Committee 
+  Sparse | Organizing Committee 
+  Program Committee 
+  WQS | Organizing Committee 
+  Program Committee 
+  Search 
+  Series | Series 
+   PLDI 2025 
+  PLDI 2024 
+  PLDI 2023 
+  PLDI 2022 
+  PLDI 2021 
+  PLDI 2020 
+  PLDI 2019 
+  PLDI 2018 
+  PLDI 2017 
+  PLDI 2016 
+  PLDI 2015 
+  Sign in 
+  Sign up 
+
+  PLDI 2024  ( series  ) /  PLDI Research Papers  
+   
+ Program 
+  Accepted Papers 
+  Attending 
+  Live Streaming 
+  Call for Papers 
+  Dates    
+
+ Plenary    
+
+   Program Display Configuration  
+   
+   Time Zone   
+   
+ The program is currently displayed in (GMT+02:00) Windhoek  .   Use conference time zone: (GMT+02:00) Windhoek    Select other time zone   (GMT-12:00) AoE (Anywhere On Earth)  (GMT-11:00) Midway Island, Samoa  (GMT-09:00) Hawaii-Aleutian  (GMT-10:00) Hawaii  (GMT-09:30) Marquesas Islands  (GMT-09:00) Gambier Islands  (GMT-08:00) Alaska  (GMT-07:00) Tijuana, Baja California  (GMT-08:00) Pitcairn Islands  (GMT-07:00) Pacific Time (US & Canada)  (GMT-06:00) Mountain Time (US & Canada)  (GMT-06:00) Chihuahua, La Paz, Mazatlan  (GMT-07:00) Arizona  (GMT-06:00) Saskatchewan, Central America  (GMT-05:00) Guadalajara, Mexico City, Monterrey  (GMT-06:00) Easter Island  (GMT-05:00) Central Time (US & Canada)  (GMT-04:00) Eastern Time (US & Canada)  (GMT-04:00) Cuba  (GMT-05:00) Bogota, Lima, Quito, Rio Branco  (GMT-04:00) Caracas  (GMT-04:00) Santiago  (GMT-04:00) La Paz  (GMT-03:00) Faukland Islands  (GMT-04:00) Manaus, Amazonas, Brazil  (GMT-03:00) Atlantic Time (Goose Bay)  (GMT-03:00) Atlantic Time (Canada)  (GMT-02:30) Newfoundland  (GMT-03:00) UTC-3  (GMT-03:00) Montevideo  (GMT-02:00) Miquelon, St. Pierre  (GMT-02:00) Greenland  (GMT-03:00) Buenos Aires  (GMT-03:00) Brasilia, Distrito Federal, Brazil  (GMT-02:00) Mid-Atlantic  (GMT-01:00) Cape Verde Is.  (GMT) Azores  (UTC) Coordinated Universal Time  (GMT+01:00) Belfast  (GMT+01:00) Dublin  (GMT+01:00) Lisbon  (GMT+01:00) London  (GMT) Monrovia, Reykjavik  (GMT+02:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna  (GMT+02:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague  (GMT+02:00) Brussels, Copenhagen, Madrid, Paris  (GMT+01:00) West Central Africa  (GMT+02:00) Windhoek  (GMT+03:00) Athens  (GMT+03:00) Beirut  (GMT+02:00) Cairo  (GMT+03:00) Gaza  (GMT+02:00) Harare, Pretoria  (GMT+03:00) Jerusalem  (GMT+03:00) Minsk  (GMT+03:00) Syria  (GMT+03:00) Moscow, St. Petersburg, Volgograd  (GMT+03:00) Nairobi  (GMT+03:30) Tehran  (GMT+04:00) Abu Dhabi, Muscat  (GMT+04:00) Yerevan  (GMT+04:30) Kabul  (GMT+05:00) Ekaterinburg  (GMT+05:00) Tashkent  (GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi  (GMT+05:45) Kathmandu  (GMT+06:00) Astana, Dhaka  (GMT+07:00) Novosibirsk  (GMT+06:30) Yangon (Rangoon)  (GMT+07:00) Bangkok, Hanoi, Jakarta  (GMT+07:00) Krasnoyarsk  (GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi  (GMT+08:00) Irkutsk, Ulaan Bataar  (GMT+08:00) Perth  (GMT+08:45) Eucla  (GMT+09:00) Osaka, Sapporo, Tokyo  (GMT+09:00) Seoul  (GMT+09:00) Yakutsk  (GMT+09:30) Adelaide  (GMT+09:30) Darwin  (GMT+10:00) Brisbane  (GMT+10:00) Hobart  (GMT+10:00) Vladivostok  (GMT+10:30) Lord Howe Island  (GMT+11:00) Solomon Is., New Caledonia  (GMT+11:00) Magadan  (GMT+11:00) Norfolk Island  (GMT+12:00) Anadyr, Kamchatka  (GMT+12:00) Auckland, Wellington  (GMT+12:00) Fiji, Kamchatka, Marshall Is.  (GMT+12:45) Chatham Islands  (GMT+13:00) Nuku'alofa  (GMT+14:00) Kiritimati     
+
+   The GMT offsets shown reflect the offsets at the moment of the conference  .     
+   
+ Time Band   
+   
+ By setting a time band, the program will dim events that are outside this time window. This is useful for (virtual) conferences with a continuous program (with repeated sessions).  
+  The time band will also limit the events that are included in the personal iCalendar subscription service.   Display full program    Specify a time band   -      
+
+  Save    
+
+  Close    
+
+ ×    You're viewing the program in a time zone which is different from your device's time zone change time zone     
+
+ Wed 26 Jun   
+  
+ Displayed time zone: Windhoek  change      
+
+ 09:00 - 10:10 | Keynote PLDI Research Papers   at Norway / Finland / Sweden 
+ 09:00   
+ 70m    
+ Keynote | The Future of Fast Code: Giving Hardware What It Wants   PLDI Research Papers   
+ Jonathan Ragan-Kelley  Massachusetts Institute of Technology 
+
+ 10:40 - 12:20 | Probabilistic Programming PLDI Research Papers   at Finland / Norway   
+  Chair(s): Jeremy G. Siek  Indiana University, USA 
+ 10:40   
+ 20m    
+ Talk | Bit Blasting Probabilistic Programs   PLDI Research Papers   
+ Poorva Garg  University of California, Los Angeles  , Steven Holtzen  Northeastern University  , Guy Van den Broeck  University of California at Los Angeles  , Todd Millstein  University of California at Los Angeles    
+  DOI 
+ 11:00   
+ 20m    
+ Talk | Compiling Probabilistic Programs for Variable Elimination with Information Flow   PLDI Research Papers   
+ Jianlin Li  University of Waterloo  , Eric Wang  University of Waterloo  , Yizhou Zhang  University of Waterloo    
+  DOI 
+ 11:20   
+ 20m    
+ Talk | Equivalence and Similarity Refutation for Probabilistic Programs   PLDI Research Papers   
+ Krishnendu Chatterjee  IST Austria  , Ehsan Kafshdar Goharshady  IST Austria  , Petr Novotný  Masaryk University  , Đorđe Žikelić  Singapore Management University, Singapore    
+  DOI 
+ 11:40   
+ 20m    
+ Talk | GenSQL: A Probabilistic Programming System for Querying Generative Models of Database Tables   PLDI Research Papers   
+ Mathieu Huot  MIT  , Matin Ghavami  Massachusetts Institute of Technology  , Alexander K. Lew  Massachusetts Institute of Technology  , Ulrich Schaechtle  Digital Garage  , Cameron Freer  Massachusetts Institute of Technology  , Zane Shelby  Digital Garage  , Martin Rinard  MIT  , Feras Saad  Carnegie Mellon University  , Vikash K. Mansinghka  Massachusetts Institute of Technology    
+  DOI 
+ 12:00   
+ 20m    
+ Talk | Probabilistic Programming with Programmable Variational Inference   PLDI Research Papers   
+ McCoy Reynolds Becker  MIT  , Alexander K. Lew  Massachusetts Institute of Technology  , Xiaoyan Wang  Massachusetts Institute of Technology  , Matin Ghavami  Massachusetts Institute of Technology  , Mathieu Huot  MIT  , Martin Rinard  MIT  , Vikash K. Mansinghka  Massachusetts Institute of Technology    
+  DOI 
+
+ 10:40 - 12:20 | Quantum PLDI Research Papers   at Iceland / Denmark   
+  Chair(s): Robert Rand  University of Chicago 
+ 10:40   
+ 20m    
+ Talk | Compilation of Qubit Circuits to Optimized Qutrit Circuits   PLDI Research Papers   
+ Ritvik Sharma  Stanford University  , Sara Achour  Stanford University    
+  DOI 
+ 11:00   
+ 20m    
+ Talk | Qubit Recycling Revisited   PLDI Research Papers   
+ Hanru Jiang  Beijing Institute of Mathematical Sciences and Applications    
+  DOI 
+ 11:20   
+ 20m    
+ Talk | The T-Complexity Costs of Error Correction for Control Flow in Quantum Computation   PLDI Research Papers   
+ Charles Yuan  Massachusetts Institute of Technology  , Michael Carbin  Massachusetts Institute of Technology    
+  DOI 
+ 11:40   
+ 20m    
+ Talk | Compiling Conditional Quantum Gates without Using Helper Qubits   PLDI Research Papers   
+ Keli Huang  University of California at Los Angeles  , Jens Palsberg  University of California, Los Angeles (UCLA)    
+  DOI 
+ 12:00   
+ 20m    
+ Talk | An Algebraic Language for Specifying Quantum Networks   PLDI Research Papers   
+ Anita Buckley  USI Lugano  , Pavel Chuprikov  USI Lugano  , Rodrigo Otoni  USI Lugano  , Robert Soulé  Yale University  , Robert Rand  University of Chicago  , Patrick Eugster  USI Lugano; Purdue University    
+  DOI 
+
+ 10:40 - 12:20 | Parsing and Compiling and Transforming PLDI Research Papers   at Sweden   
+  Chair(s): Stephen Kell  University of Kent 
+ 10:40   
+ 20m    
+ Talk | Daedalus: Safer Document Parsing   PLDI Research Papers   
+ Iavor Diatchki  Galois, Inc.  , Mike Dodds  Galois, Inc.  , Harrison Goldstein  University of Pennsylvania  , Bill Harris  Galois  , David Holland  Galois  , Benoit Razet  Galois, Inc  , Cole Schlesinger  Galois  , Simon Winwood  Galois    
+  DOI 
+ 11:00   
+ 20m    
+ Talk | SpEQ: Translation of Sparse Codes using Equivalences   PLDI Research Papers   
+ Avery Laird  University of Toronto  , Bangtian Liu  University of Toronto  , Nikolaj Bjørner  Microsoft Research  , Maryam Mehri Dehnavi  University of Toronto    
+  DOI   Pre-print 
+ 11:20   
+ 20m    
+ Talk | [TOPLAS] Choral: Object-Oriented Choreographic Programming   PLDI Research Papers   
+ Saverio Giallorenzo  Alma Mater Studiorum - Università di Bologna / INRIA  , Fabrizio Montesi  University of Southern Denmark  , Marco Peressotti  University of Southern Denmark    
+  Link to publication   DOI 
+ 11:40   
+ 20m    
+ Talk | Compiling with Abstract Interpretation   PLDI Research Papers   
+ Dorian Lesbre  CEA List  , Matthieu Lemerre  Université Paris-Saclay - CEA LIST    
+  DOI 
+ 12:00   
+ 20m    
+ Talk | Don’t Write, but Return: Replacing Output Parameters with Algebraic Data Types in C-to-Rust Translation   PLDI Research Papers   
+ Jaemin Hong  KAIST  , Sukyoung Ryu  KAIST    
+  DOI 
+
+ 12:20 - 13:40 | SIGPLAN Mentoring Catering  / Diversity, Equity and Inclusion  / PLDI Events   at Capital Ballroom 
+ 12:20   
+ 80m    
+ Lunch | SIGPLAN-M Lunch   PLDI Events   
+ Nadia Polikarpova  University of California at San Diego 
+
+ 13:40 - 15:20 | Pot Pourri 1 PLDI Research Papers   at Finland / Norway   
+  Chair(s): Steve Blackburn  Google and Australian National University 
+ 13:40   
+ 20m    
+ Talk | Static Posterior Inference of Bayesian Probabilistic Programming via Polynomial Solving   PLDI Research Papers   
+ Peixin Wang  University of Oxford  , Tengshun Yang  SKLCS, Institute of Software, Chinese Academy of Sciences & University of Chinese Academy of Sciences  , Hongfei Fu  Shanghai Jiao Tong University  , Guanyan Li  University of Oxford  , C.-H. Luke Ong  NTU    
+  DOI 
+ 14:00   
+ 20m    
+ Talk | Consolidating Smart Contracts with Behavioral Contracts   PLDI Research Papers   
+ Guannan Wei  Purdue University  , Danning Xie  Purdue University  , Wuqi Zhang  The Hong Kong University of Science and Technology  , Yongwei Yuan  Purdue University  , Zhuo Zhang  Purdue University    
+  DOI 
+ 14:20   
+ 20m    
+ Talk | NetBlocks: Staging Layouts for High-Performance Custom Host Network Stacks   PLDI Research Papers   
+ Ajay Brahmakshatriya  Massachusetts Institute of Technology  , Christopher Rinard  Massachusetts Institute of Technology  , Manya Ghobadi  Massachusetts Institute of Technology  , Saman Amarasinghe  Massachusetts Institute of Technology    
+  DOI 
+ 14:40   
+ 20m    
+ Talk | KATch: A Fast Symbolic Verifier for NetKAT   PLDI Research Papers   
+ Mark Moeller  Cornell University  , Jules Jacobs  Cornell University  , Olivier Savary Bélanger  Galois, Inc.  , David Darais  Galois  , Cole Schlesinger  Galois  , Steffen Smolka  Google  , Nate Foster  Cornell University and Jane Street  , Alexandra Silva  Cornell University    
+  DOI 
+
+ 13:40 - 15:20 | Formal Verification 1 PLDI Research Papers   at Iceland / Denmark   
+  Chair(s): Jeehoon Kang  KAIST 
+ 13:40   
+ 20m    
+ Talk | Towards Trustworthy Automated Program Verifiers: Formally Validating Translations into an Intermediate Verification Language   PLDI Research Papers   
+ Gaurav Parthasarathy  ETH Zurich  , Thibault Dardinier  ETH Zurich  , Benjamin Bonneau  Verimag  , Peter Müller  ETH Zurich  , Alexander J. Summers  University of British Columbia    
+  DOI 
+ 14:00   
+ 20m    
+ Talk | Verified Extraction from Coq to OCaml   PLDI Research Papers   
+ Yannick Forster  Inria  , Matthieu Sozeau  Inria  , Nicolas Tabareau  Inria    
+  DOI 
+ 14:20   
+ 20m    
+ Talk | Verification under Intel-x86 with Persistency   PLDI Research Papers   
+ Parosh Aziz Abdulla  Uppsala University, Sweden  , Mohamed Faouzi Atig  Uppsala University, Sweden  , Ahmed Bouajjani  IRIF, Université Paris Diderot  , K Narayan Kumar  Chennai Mathematical Institute  , Prakash Saivasan  The Institute of Mathematical Sciences, India    
+  DOI 
+ 14:40   
+ 20m    
+ Talk | RefinedRust: A Type System for High-Assurance Verification of Rust Programs   PLDI Research Papers   
+ Lennard Gäher  MPI-SWS  , Michael Sammler  MPI-SWS  , Ralf Jung  ETH Zurich  , Robbert Krebbers  Radboud University Nijmegen  , Derek Dreyer  MPI-SWS    
+  DOI 
+ 15:00   
+ 20m    
+ Talk | Hyperblock Scheduling for Verified High-Level Synthesis   PLDI Research Papers   
+ Yann Herklotz  Imperial College London  , John Wickerson  Imperial College London    
+  DOI   Pre-print   File Attached 
+
+ 13:40 - 15:20 | Types and Effects PLDI Research Papers   at Sweden   
+  Chair(s): Yizhou Zhang  University of Waterloo 
+ 13:40   
+ 20m    
+ Talk | Space-Efficient Polymorphic Gradual Typing, Mostly Parametric   PLDI Research Papers   
+ Atsushi Igarashi  Kyoto University  , Shota Ozaki  Kyoto University  , Taro Sekiyama  National Institute of Informatics  , Yudai Tanabe  Tokyo Institute of Technology    
+  DOI 
+ 14:00   
+ 20m    
+ Talk | Associated Effects   PLDI Research Papers   
+ Matthew Lutze  Aarhus University  , Magnus Madsen  Aarhus University    
+  DOI 
+ 14:20   
+ 20m    
+ Talk | Decidable Subtyping of Existential Types for Julia   PLDI Research Papers   
+ Julia Belyakova  Purdue University  , Benjamin Chung  JuliaHub  , Ross Tate  Independent Consultant  , Jan Vitek  Northeastern University    
+  DOI 
+ 14:40   
+ 20m    
+ Talk | Numerical Fuzz: A Type System for Rounding Error Analysis   PLDI Research Papers   
+ Ariel E. Kellison  Cornell University  , Justin Hsu  Cornell University    
+  DOI 
+ 15:00   
+ 20m    
+ Talk | Stream Types   PLDI Research Papers   
+ Joseph W. Cutler  University of Pennsylvania  , Chris Watson  University of Pennsylvania  , Emeka Nkurumeh  California Institute of Technology  , Phillip Hilliard  University of Pennsylvania  , Harrison Goldstein  University of Pennsylvania  , Caleb Stanford  University of California, Davis  , Benjamin C. Pierce  University of Pennsylvania    
+  DOI 
+
+ 16:00 - 17:20 | Security and Cryptography PLDI Research Papers   at Finland / Norway   
+  Chair(s): Klaus v. Gleissenthall  Vrije Universiteit Amsterdam, Netherlands 
+ 16:00   
+ 20m    
+ Talk | A Tensor Compiler with Automatic Data Packing for Simple and Efficient Fully Homomorphic Encryption   PLDI Research Papers   
+ Nikola Samardzic  Massachusetts Institute of Technology  , Aleksandar Krastev  Massachusetts Institute of Technology  , Simon Langowski  Massachusetts Institute of Technology  , Srinivas Devadas  Massachusetts Institute of Technology  , Daniel Sanchez  MIT    
+  DOI 
+ 16:20   
+ 20m    
+ Talk | Quantitative Robustness for Vulnerability Assessment   PLDI Research Papers   
+ Guillaume Girol  CEA, List, Université Paris Saclay  , Guilhem Lacombe  CEA LIST and Université Paris-Saclay  , Sébastien Bardin  CEA LIST, University Paris-Saclay    
+  DOI 
+ 16:40   
+ 20m    
+ Talk | Quest Complete: The Holy Grail of Gradual Security   PLDI Research Papers   
+ Tianyu Chen  Indiana University  , Jeremy G. Siek  Indiana University, USA    
+  DOI   Pre-print 
+ 17:00   
+ 20m    
+ Talk | Foundational Integration Verification of a Cryptographic Server   PLDI Research Papers   
+ Andres Erbsen  Google  , Jade Philipoom  Google, Germany  , Dustin Jamner  MIT CSAIL  , Ashley Lin  Massachusetts Institute of Technology  , Samuel Gruetter  Massachusetts Institute of Technology  , Clément Pit-Claudel  EPFL  , Adam Chlipala  Massachusetts Institute of Technology    
+  DOI 
+
+ 16:00 - 17:20 | Bugs PLDI Research Papers   at Iceland / Denmark   
+  Chair(s): V Krishna Nandivada  IIT Madras 
+ 16:00   
+ 20m    
+ Talk | Refined Input, Degraded Output: The Counterintuitive World of Compiler Behavior   PLDI Research Papers   
+ Theodoros Theodoridis  ETH Zurich  , Zhendong Su  ETH Zurich    
+  DOI 
+ 16:20   
+ 20m    
+ Talk | Compatible Branch Coverage Driven Symbolic Execution for Efficient Bug Finding Remote      PLDI Research Papers   
+ Qiuping Yi  Beijing University of Posts and Telecommunications  , Yifan Yu  Beijing University of Posts and Telecommunications  , Guowei Yang  University of Queensland    
+  DOI 
+ 16:40   
+ 20m    
+ Talk | Diffy: Data-Driven Bug Finding for Configurations   PLDI Research Papers   
+ Siva Kesava Reddy Kakarla  Microsoft Research  , Francis Y. Yan  Microsoft Research  , Ryan Beckett  Microsoft Research, USA    
+  DOI 
+ 17:00   
+ 20m    
+ Talk | Boosting Compiler Testing by Injecting Real-World Code   PLDI Research Papers   
+ Shaohua Li  ETH Zurich  , Theodoros Theodoridis  ETH Zurich  , Zhendong Su  ETH Zurich    
+  DOI 
+
+ 16:00 - 17:20 | Fast Linear Algebra PLDI Research Papers   at Sweden   
+  Chair(s): Zachary Tatlock  University of Washington 
+ 16:00   
+ 20m    
+ Talk | A Verified Compiler for a Functional Tensor Language   PLDI Research Papers   
+ Amanda Liu  Massachusetts Institute of Technology  , Gilbert Bernstein  University of Washington, Seattle  , Adam Chlipala  Massachusetts Institute of Technology  , Jonathan Ragan-Kelley  Massachusetts Institute of Technology    
+  DOI 
+ 16:20   
+ 20m    
+ Talk | [TOPLAS] (De/Re)-Composition of Data-Parallel Computations via Multi-Dimensional Homomorphism   PLDI Research Papers   
+ Ari Rasch  University of Muenster    
+  Link to publication   DOI   Pre-print   Media Attached 
+ 16:40   
+ 20m    
+ Talk | Compilation of Modular and General Sparse Workspaces   PLDI Research Papers   
+ Genghan Zhang  Stanford University  , Olivia Hsu  Stanford University  , Fredrik Kjolstad  Stanford University    
+  DOI 
+ 17:00   
+ 20m    
+ Talk | Descend: A Safe GPU Systems Programming Language   PLDI Research Papers   
+ Bastian Köpcke  University of Münster  , Sergei Gorlatch  University of Muenster  , Michel Steuwer  Technische Universität Berlin    
+  DOI   Pre-print 
+
+ Thu 27 Jun   
+  
+ Displayed time zone: Windhoek  change      
+
+ 09:00 - 10:10 | Keynote PLDI Research Papers   at Norway / Finland / Sweden 
+ 09:00   
+ 70m    
+ Keynote | AI-Assisted Programming Today and Tomorrow   PLDI Research Papers   
+ Nadia Polikarpova  University of California at San Diego 
+
+ 10:40 - 12:20 | Formally Verified PLDI Research Papers   at Finland / Norway   
+  Chair(s): Peter Müller  ETH Zurich 
+ 10:40   
+ 20m    
+ Talk | The Functional Essence of Imperative Binary Search Trees   PLDI Research Papers   
+ Anton Lorenzen  University of Edinburgh  , Daan Leijen  Microsoft Research  , Wouter Swierstra  Utrecht University, Netherlands  , Sam Lindley  University of Edinburgh    
+  DOI   Pre-print 
+ 11:00   
+ 20m    
+ Talk | Quiver: Guided Abductive Inference of Separation Logic Specifications in Coq   PLDI Research Papers   
+ Simon Spies  MPI-SWS  , Lennard Gäher  MPI-SWS  , Michael Sammler  MPI-SWS  , Derek Dreyer  MPI-SWS    
+  DOI   Pre-print 
+ 11:20   
+ 20m    
+ Talk | Maximum Consensus Floating Point Solutions for Infeasible Low-Dimensional Linear Programs with Convex Hull as the Intermediate Representation   PLDI Research Papers   
+ Mridul Aanjaneya  Rutgers University  , Santosh Nagarakatte  Rutgers University    
+  DOI   Pre-print 
+ 11:40   
+ 20m    
+ Talk | Live Verification in an Interactive Proof Assistant   PLDI Research Papers   
+ Samuel Gruetter  Massachusetts Institute of Technology  , Viktor Fukala  Massachusetts Institute of Technology  , Adam Chlipala  Massachusetts Institute of Technology    
+  DOI 
+ 12:00   
+ 20m    
+ Talk | Predictable Verification using Intrinsic Definitions   PLDI Research Papers   
+ Adithya Murali  University of Illinois at Urbana-Champaign  , Cody Rivera  University of Illinois at Urbana-Champaign  , P. Madhusudan  University of Illinois at Urbana-Champaign    
+  DOI 
+
+ 10:40 - 12:20 | Managed Languages PLDI Research Papers   at Iceland / Denmark 
+ 10:40   
+ 20m    
+ Talk | Linear Matching of JavaScript Regular Expressions   PLDI Research Papers   
+ Aurèle Barrière  EPFL  , Clément Pit-Claudel  EPFL    
+  DOI   Pre-print 
+ 11:00   
+ 20m    
+ Talk | RichWasm: Bringing Safe, Fine-Grained, Shared-Memory Interoperability Down to WebAssembly   PLDI Research Papers   
+ Michael Fitzgibbons  Northeastern University  , Zoe Paraskevopoulou  Ethereum Foundation  , Noble Mushtak  Northeastern University  , Michelle Thalakottur  Northeastern University  , Jose Sulaiman Manzur  Northeastern University  , Amal Ahmed  Northeastern University, USA    
+  DOI 
+ 11:20   
+ 20m    
+ Talk | Bringing the WebAssembly Standard up to Speed with SpecTec   PLDI Research Papers   
+ Dongjun Youn  KAIST  , Shin Wonho  KAIST  , Jaehyun Lee  KAIST  , Sukyoung Ryu  KAIST  , Joachim Breitner  unaffiliated  , Philippa Gardner  Imperial College London  , Sam Lindley  University of Edinburgh  , Matija Pretnar  University of Ljubljana  , Xiaojia Rao  Imperial College  , Conrad Watt  Nanyang Technological University  , Andreas Rossberg  Independent    
+  DOI 
+ 11:40   
+ 20m    
+ Talk | Optimistic Stack Allocation and Dynamic Heapification for Managed Runtimes   PLDI Research Papers   
+ Aditya Anand  Indian Institute of Technology Bombay  , Solai Adithya  IIT Mandi  , Swapnil Rustagi  IIT Mandi  , Priyam Seth  IIT Mandi  , Vijay Sundaresan  IBM Canada  , Daryl Maier  IBM Canada  , V Krishna Nandivada  IIT Madras  , Manas Thakur  Indian Institute of Technology Bombay    
+  DOI   Pre-print 
+ 12:00   
+ 20m    
+ Talk | Concurrent Immediate Reference Counting   PLDI Research Papers   
+ Jaehwang Jung  KAIST  , Jeonghyeon Kim  KAIST  , Matthew J. Parkinson  Microsoft Azure Research  , Jeehoon Kang  KAIST    
+  DOI 
+
+ 10:40 - 12:20 | Grammars and Code and Formalisms PLDI Research Papers   at Sweden   
+  Chair(s): Nadia Polikarpova  University of California at San Diego 
+ 10:40   
+ 20m    
+ Talk | Equivalence by Canonicalization for Synthesis-Backed Refactoring   PLDI Research Papers   
+ Justin Lubin  University of California at Berkeley  , Jeremy Ferguson  University of California-Berkeley  , Kevin Ye  University of California at Berkeley  , Jacob Yim  UC Berkeley  , Sarah E. Chasins  University of California at Berkeley    
+  DOI 
+ 11:00   
+ 20m    
+ Talk | PL4XGL: A Programming Language Approach to Explainable Graph Learning   PLDI Research Papers   
+ Minseok Jeon  Korea University  , Jihyeok Park  Korea University  , Hakjoo Oh  Korea University    
+  DOI 
+ 11:20   
+ 20m    
+ Talk | Syntactic Code Search with Sequence-to-Tree Matching   PLDI Research Papers   
+ Gabriel Matute  UC Berkeley  , Wode Ni  Columbia University  , Titus Barik  Apple  , Alvin Cheung  University of California at Berkeley  , Sarah E. Chasins  University of California at Berkeley    
+  DOI 
+ 11:40   
+ 20m    
+ Talk | V-Star: Learning Visibly Pushdown Grammars from Program Inputs   PLDI Research Papers   
+ Xiaodong Jia  Pennsylvania State University  , Gang (Gary) Tan  Pennsylvania State University    
+  DOI 
+ 12:00   
+ 20m    
+ Talk | Hashing Modulo Context-Sensitive Alpha-Equivalence   PLDI Research Papers   
+ Lasse Blaauwbroek  Czech Institute for Informatics Robotics and Cybernetics  , Miroslav Olšák  Institut des Hautes Études Scientifiques  , Herman Geuvers  Radboud University Nijmegen, Netherlands    
+  DOI   Pre-print 
+
+ 12:20 - 13:40 | DEI Thursday Catering  / Diversity, Equity and Inclusion  / PLDI Events   at Oslo 
+ 12:20   
+ 80m    
+ Lunch | LGBTQIA+ lunch   Diversity, Equity and Inclusion   
+ Mae Milano  Princeton University 
+
+ 13:40 - 14:40 | Formal Verification 2 PLDI Research Papers   at Finland / Norway   
+  Chair(s): Clément Pit-Claudel  EPFL 
+ 13:40   
+ 20m    
+ Talk | Mechanised Hypersafety Proofs about Structured Data   PLDI Research Papers   
+ Vladimir Gladshtein  National University of Singapore  , Qiyuan Zhao  National University of Singapore  , Willow Ahrens  Massachusetts Institute of Technology  , Saman Amarasinghe  Massachusetts Institute of Technology  , Ilya Sergey  National University of Singapore    
+  DOI   Pre-print 
+ 14:00   
+ 20m    
+ Talk | Hyper Hoare Logic: (Dis-)Proving Program Hyperproperties   PLDI Research Papers   
+ Thibault Dardinier  ETH Zurich  , Peter Müller  ETH Zurich    
+  DOI 
+ 14:20   
+ 20m    
+ Talk | A HAT Trick: Automatically Verifying Representation Invariants using Symbolic Finite Automata   PLDI Research Papers   
+ Zhe Zhou  Purdue University  , Qianchuan Ye  Purdue University  , Benjamin Delaware  Purdue University  , Suresh Jagannathan  Purdue University    
+  DOI 
+
+ 13:40 - 14:40 | SIGPLAN + TOPLAS PLDI Research Papers   at Iceland / Denmark   
+  Chair(s): Qirun Zhang  Georgia Institute of Technology 
+ 13:40   
+ 20m    
+ Talk | [PLDI 2023] CQS: A Formally-Verified Framework for Fair and Abortable Synchronization   PLDI Research Papers   
+ Nikita Koval  JetBrains  , Dmitry Khalanskiy  JetBrains  , Dan Alistarh  IST Austria    
+  DOI 
+ 14:00   
+ 20m    
+ Talk | [PLDI 2023] Program Reconditioning: Avoiding Undefined Behaviour When Finding and Reducing Compiler Bugs   PLDI Research Papers   
+ Bastien Lecoeur  Imperial College London  , Hasan Mohsin  Imperial College London  , Alastair F. Donaldson  Imperial College London    
+  DOI 
+ 14:20   
+ 20m    
+ Talk | [TOPLAS] CFLOBDDs: Context-Free-Language Ordered Binary Decision Diagrams   PLDI Research Papers   
+ Meghana Aparna Sistla  The University of Texas at Austin  , Swarat Chaudhuri  University of Texas at Austin  , Thomas Reps  University of Wisconsin-Madison 
+
+ 13:40 - 14:40 | Solvers for Fun and Profit PLDI Research Papers   at Sweden   
+  Chair(s): Santosh Nagarakatte  Rutgers University 
+ 13:40   
+ 20m    
+ Talk | SuperStack: Superoptimization of Stack-Bytecode via Greedy, Constraint-Based, and SAT Techniques   PLDI Research Papers   
+ Elvira Albert  Complutense University of Madrid  , Maria Garcia de la Banda  Monash University  , Alejandro Hernández-Cerezo  Complutense University of Madrid  , Alexey Ignatiev  Monash University  , Albert Rubio  Complutense University of Madrid  , Peter J. Stuckey  Monash University    
+  DOI 
+ 14:00   
+ 20m    
+ Talk | Inductive Approach to Spacer   PLDI Research Papers   
+ Takeshi Tsukada  Chiba University  , Hiroshi Unno  Tohoku University    
+  DOI 
+ 14:20   
+ 20m    
+ Talk | SMT Theory Arbitrage: Approximating Unbounded Constraints using Bounded Theories   PLDI Research Papers   
+ Benjamin Mikek  Georgia Institute of Technology  , Qirun Zhang  Georgia Institute of Technology    
+  DOI 
+
+ Fri 28 Jun   
+  
+ Displayed time zone: Windhoek  change      
+
+ 09:00 - 10:10 | Keynote PLDI Research Papers   at Norway / Finland / Sweden 
+ 09:00   
+ 70m    
+ Keynote | Much Still to Do in Compiler Verification (A Perspective from the CakeML Project)   PLDI Research Papers   
+ Magnus O. Myreen  Chalmers University of Technology 
+
+ 10:40 - 12:20 | Synthesis PLDI Research Papers   at Finland / Norway 
+ 10:40   
+ 20m    
+ Talk | From Batch to Stream: Automatic Generation of Online Algorithms   PLDI Research Papers   
+ Ziteng Wang  University of Texas at Austin  , Shankara Pailoor  University of Texas at Austin  , Aaryan Prakash  University of Texas at Austin  , Yuepeng Wang  Simon Fraser University  , Işıl Dillig  University of Texas at Austin    
+  DOI 
+ 11:00   
+ 20m    
+ Talk | [TOPLAS] Decomposition-Based Synthesis for Applying D&C-Like Algorithmic Paradigms   PLDI Research Papers   
+ Ruyi Ji  Peking University  , Yuwei Zhao  Peking University  , Yingfei Xiong  Peking University  , Di Wang  Peking University  , Lu Zhang  Peking University  , Zhenjiang Hu  Peking University 
+ 11:20   
+ 20m    
+ Talk | Superfusion: Eliminating Intermediate Data Structures via Inductive Synthesis   PLDI Research Papers   
+ Ruyi Ji  Peking University  , Yuwei Zhao  Peking University  , Nadia Polikarpova  University of California at San Diego  , Yingfei Xiong  Peking University  , Zhenjiang Hu  Peking University    
+  DOI 
+ 11:40   
+ 20m    
+ Talk | Recursive Program Synthesis using Paramorphisms Remote      PLDI Research Papers   
+ Qiantan Hong  Stanford University  , Alex Aiken  Stanford University    
+  DOI 
+ 12:00   
+ 20m    
+ Talk | Reward-Guided Synthesis of Intelligent Agents with Control Structures Remote      PLDI Research Papers   
+ Guofeng Cui  Rutgers University  , Yuning Wang  Rutgers University  , Wenjie Qiu  Rutgers University  , He Zhu  Rutgers University, USA    
+  DOI 
+
+ 10:40 - 12:20 | Concurrent and Distributed PLDI Research Papers   at Iceland / Denmark   
+  Chair(s): Suresh Jagannathan  Purdue University 
+ 10:40   
+ 20m    
+ Talk | A Lightweight Polyglot Code Transformation Language   PLDI Research Papers   
+ Ameya Ketkar  Gitar  , Daniel Ramos  Carnegie Mellon University, and INESC-ID  , Lazaro Clapp  Gitar  , Raj Barik  Gitar Co.  , Murali Krishna Ramanathan  AWS AI Labs    
+  DOI   Pre-print 
+ 11:00   
+ 20m    
+ Talk | SPORE: Combining Symmetry and Partial Order Reduction   PLDI Research Papers   
+ Michalis Kokologiannakis  MPI-SWS  , Iason Marmanis  MPI-SWS  , Viktor Vafeiadis  MPI-SWS    
+  DOI 
+ 11:20   
+ 20m    
+ Talk | IsoPredict: Dynamic Predictive Analysis for Detecting Unserializable Behaviors in Weakly Isolated Data Store Applications   PLDI Research Papers   
+ Chujun Geng  The Ohio State University, USA  , Spyros Blanas  Ohio State University  , Michael D. Bond  Ohio State University  , Yang Wang  The Ohio State University    
+  DOI 
+ 11:40   
+ 20m    
+ Talk | LiDO: Linearizable Byzantine Distributed Objects with Refinement-Based Liveness Proofs Remote      PLDI Research Papers   
+ Longfei Qiu  Yale University  , Yoonseung Kim  Yale University  , Ji-Yong Shin  Northeastern University  , Jieung Kim  Inha University  , Wolf Honore  Yale University  , Zhong Shao  Yale University    
+  DOI 
+ 12:00   
+ 20m    
+ Talk | A Family of Fast and Memory Efficient Lock- and Wait-Free Reclamation   PLDI Research Papers   
+ Ruslan Nikolaev  The Pennsylvania State University  , Binoy Ravindran  Virginia Tech    
+  DOI 
+
+ 10:40 - 12:20 | Program Analysis 1 PLDI Research Papers   at Sweden   
+  Chair(s): Jens Palsberg  University of California, Los Angeles (UCLA) 
+ 10:40   
+ 20m    
+ Talk | [TOPLAS] Interactive Abstract Interpretation with Demanded Summarization   PLDI Research Papers   
+ Benno Stein  SkipLabs  , Bor-Yuh Evan Chang  University of Colorado Boulder & Amazon  , Manu Sridharan  University of California at Riverside    
+  DOI 
+ 11:00   
+ 20m    
+ Talk | Efficient Static Vulnerability Analysis for JavaScript with Multiversion Dependency Graphs   PLDI Research Papers   
+ Mafalda Ferreira  INESC-ID / Instituto Superior Técnico, Universidade de Lisboa  , Miguel Monteiro  INESC-ID and Universidade de Lisboa  , Tiago Brito  INESC-ID and Universidade de Lisboa  , Miguel E. Coimbra  INESC-ID and Universidade de Lisboa  , Nuno Santos  INESC-ID / Instituto Superior Tecnico, University of Lisbon  , Limin Jia   , José Fragoso Santos  INESC-ID/Instituto Superior Técnico, Portugal    
+  DOI   Pre-print 
+ 11:20   
+ 20m    
+ Talk | Floating-Point TVPI Abstract Domain Remote      PLDI Research Papers   
+ Joao Rivera  ETH Zurich  , Franz Franchetti  Carnegie Mellon University, USA  , Markus Püschel  ETH Zurich    
+  DOI 
+ 11:40   
+ 20m    
+ Talk | Reducing Static Analysis Unsoundness with Approximate Interpretation   PLDI Research Papers   
+ Mathias Rud Laursen  Aarhus University  , Wenyuan Xu  Aarhus University  , Anders Møller  Aarhus University    
+  DOI 
+ 12:00   
+ 20m    
+ Talk | Falcon: A Scalable Analytical Cache Model   PLDI Research Papers   
+ Arjun Pitchanathan  University of Edinburgh  , Kunwar Grover  AMD  , Tobias Grosser  University of Cambridge, UK    
+  DOI 
+
+ 12:20 - 13:40 | DEI Friday Catering  / Diversity, Equity and Inclusion  / PLDI Events   at Oslo 
+ 12:20   
+ 80m    
+ Lunch | URM Lunch   Diversity, Equity and Inclusion   
+ Andrés Goens  University of Amsterdam 
+
+ 13:40 - 15:20 | Pot Pourri 2 PLDI Research Papers   at Finland / Norway   
+  Chair(s): Caleb Stanford  University of California, Davis 
+ 13:40   
+ 20m    
+ Talk | Falcon: A Fused Approach to Path-Sensitive Sparse Data Dependence Analysis   PLDI Research Papers   
+ Peisen Yao  Zhejiang University  , Jinguo Zhou  Ant Group  , Xiao Xiao  Ant Group  , Qingkai Shi  Nanjing University  , Rongxin Wu  School of Informatics, Xiamen University  , Charles Zhang  The Hong Kong University of Science and Technology    
+  DOI 
+ 14:00   
+ 20m    
+ Talk | A Proof Recipe for Linearizability in Relaxed Memory Separation Logic   PLDI Research Papers   
+ Sunho Park  KAIST  , Jaewoo Kim  KAIST  , Ike Mulder  Radboud University Nijmegen  , Jaehwang Jung  KAIST  , Janggun Lee  KAIST  , Robbert Krebbers  Radboud University Nijmegen  , Jeehoon Kang  KAIST    
+  DOI 
+ 14:20   
+ 20m    
+ Talk | Compositional Semantics for Shared-Variable Concurrency   PLDI Research Papers   
+ Mikhail Svyatlovskiy  Tel Aviv University  , Shai Mermelstein  Tel Aviv University  , Ori Lahav  Tel Aviv University    
+  DOI 
+ 14:40   
+ 20m    
+ Talk | Input-Relational Verification of Deep Neural Networks   PLDI Research Papers   
+ Debangshu Banerjee  University of Illinois at Urbana-Champaign  , Changming Xu  University of Illinois at Urbana-Champaign  , Gagandeep Singh  University of Illinois at Urbana-Champaign    
+  DOI 
+ 15:00   
+ 20m    
+ Talk | Automated Verification of Fundamental Algebraic Laws   PLDI Research Papers   
+ George Zakhour  University of St. Gallen  , Pascal Weisenburger  University of St. Gallen  , Guido Salvaneschi  University of St. Gallen    
+  DOI 
+
+ 13:40 - 15:20 | Close to the Hardware PLDI Research Papers   at Iceland / Denmark   
+  Chair(s): Steve Blackburn  Google and Australian National University 
+ 13:40   
+ 20m    
+ Talk | Allo: A Programming Model for Composable Accelerator Design   PLDI Research Papers   
+ Hongzheng Chen  Cornell University  , Niansong Zhang  Cornell University  , Shaojie Xiang  Cornell University  , Zhichen Zeng  University of Science and Technology of China  , Mengjia Dai  University of Science and Technology of China  , Zhiru Zhang  Cornell University, USA    
+  DOI 
+ 14:00   
+ 20m    
+ Talk | VESTA: Power Modeling with Language Runtime Events   PLDI Research Papers   
+ Joseph Raskind  SUNY Binghamton  , Timur Babakol  SUNY Binghamton, USA  , Khaled Mahmoud  SUNY Binghamton, USA  , Yu David Liu  SUNY Binghamton    
+  DOI 
+ 14:20   
+ 20m    
+ Talk | Modular Hardware Design of Pipelined Circuits with Hazards   PLDI Research Papers   
+ Minseong Jang  KAIST  , Jungin Rhee  KAIST  , Woojin Lee  KAIST  , Shuangshuang Zhao  KAIST  , Jeehoon Kang  KAIST    
+  DOI 
+ 14:40   
+ 20m    
+ Talk | Jacdac: Service-Based Prototyping of Embedded Systems   PLDI Research Papers   
+ Thomas Ball  Microsoft Research  , Peli de Halleux  Microsoft Research  , James Devine  Microsoft  , Steve Hodges  Lancaster University  , Michał Moskal  Microsoft Research    
+  DOI 
+ 15:00   
+ 20m    
+ Talk | Wavefront Threading Enables Effective High-Level Synthesis   PLDI Research Papers   
+ Blake Pelton  Microsoft  , Adam Sapek  Microsoft  , Ken Eguro  Microsoft  , Daniel Lo  Microsoft  , Alessandro Forin  Microsoft  , Matt Humphrey  Microsoft  , Jinwen Xi  Microsoft  , David Cox  Microsoft  , Rajas Karandikar  Microsoft  , Johannes de Fine Licht  NextSilicon  , Evgeny Babin  Microsoft  , Adrian Caulfield  Microsoft  , Doug Burger  Microsoft    
+  DOI   Pre-print 
+
+ 13:40 - 15:20 | Program Analysis 2 PLDI Research Papers   at Sweden   
+  Chair(s): Anders Møller  Aarhus University 
+ 13:40   
+ 20m    
+ Talk | Scaling Type-Based Points-to Analysis with Saturation   PLDI Research Papers   
+ Christian Wimmer  Oracle Labs  , Codrut Stancu  Oracle Labs  , David Kozak  Brno University of Technology & Oracle Labs  , Thomas Wuerthinger  Oracle Labs    
+  DOI   Pre-print 
+ 14:00   
+ 20m    
+ Talk | Program Analysis for Adaptive Data Analysis   PLDI Research Papers   
+ Jiawen Liu   , Weihao Qu  Monmouth University  , Marco Gaboardi  Boston University  , Deepak Garg  MPI-SWS  , Jonathan Ullman  Northeastern University    
+  DOI 
+ 14:20   
+ 20m    
+ Talk | Robust Resource Bounds with Static Analysis and Bayesian Inference   PLDI Research Papers   
+ Long Pham  Carnegie Mellon University  , Feras Saad  Carnegie Mellon University  , Jan Hoffmann  Carnegie Mellon University    
+  DOI 
+ 14:40   
+ 20m    
+ Talk | Context-Free Language Reachability via Skewed Tabulation   PLDI Research Papers   
+ Yuxiang Lei  UNSW Sydney  , Camille Bossut  Georgia Institute of Technology  , Yulei Sui  UNSW Sydney  , Qirun Zhang  Georgia Institute of Technology    
+  DOI 
+ 15:00   
+ 20m    
+ Talk | Static Analysis for Checking the Disambiguation Robustness of Regular Expressions   PLDI Research Papers   
+ Konstantinos Mamouras  Rice University  , Alexis Le Glaunec  Rice University  , Wu Angela Li  Rice University  , Agnishom Chattopadhyay  Rice University    
+  DOI 
+
+ Unscheduled Events  
+  
+ Not scheduled   
+  Talk | [OOPSLA 2023] Two Birds with One Stone: Boosting Code Generation and Code Search via a Generative Adversarial Network   PLDI Research Papers   
+ Shangwen Wang  National University of Defense Technology  , Bo Lin   , Zhensu Sun  Singapore Management University  , Ming Wen  Huazhong University of Science and Technology  , Yepang Liu  Southern University of Science and Technology  , Yan Lei  Chongqing University  , Xiaoguang Mao  National University of Defense Technology    
+  DOI 
+ Not scheduled   
+  Talk | Symbolic Execution for Quantum Error Correction Programs   PLDI Research Papers   
+ Wang Fang  Institute of Software at Chinese Academy of Sciences and University of Chinese Academy of Sciences  , Mingsheng Ying  Institute of Software at Chinese Academy of Sciences; Tsinghua University    
+  DOI 
+
+ Accepted Papers  
+  
+ Title 
+ A Family of Fast and Memory Efficient Lock- and Wait-Free Reclamation  PLDI Research Papers   
+ Ruslan Nikolaev  , Binoy Ravindran    
+  DOI 
+ A HAT Trick: Automatically Verifying Representation Invariants using Symbolic Finite Automata  PLDI Research Papers   
+ Zhe Zhou  , Qianchuan Ye  , Benjamin Delaware  , Suresh Jagannathan    
+  DOI 
+ A Lightweight Polyglot Code Transformation Language  PLDI Research Papers   
+ Ameya Ketkar  , Daniel Ramos  , Lazaro Clapp  , Raj Barik  , Murali Krishna Ramanathan    
+  DOI   Pre-print 
+ Allo: A Programming Model for Composable Accelerator Design  PLDI Research Papers   
+ Hongzheng Chen  , Niansong Zhang  , Shaojie Xiang  , Zhichen Zeng  , Mengjia Dai  , Zhiru Zhang    
+  DOI 
+ An Algebraic Language for Specifying Quantum Networks  PLDI Research Papers   
+ Anita Buckley  , Pavel Chuprikov  , Rodrigo Otoni  , Robert Soulé  , Robert Rand  , Patrick Eugster    
+  DOI 
+ A Proof Recipe for Linearizability in Relaxed Memory Separation Logic  PLDI Research Papers   
+ Sunho Park  , Jaewoo Kim  , Ike Mulder  , Jaehwang Jung  , Janggun Lee  , Robbert Krebbers  , Jeehoon Kang    
+  DOI 
+ Associated Effects  PLDI Research Papers   
+ Matthew Lutze  , Magnus Madsen    
+  DOI 
+ A Tensor Compiler with Automatic Data Packing for Simple and Efficient Fully Homomorphic Encryption  PLDI Research Papers   
+ Nikola Samardzic  , Aleksandar Krastev  , Simon Langowski  , Srinivas Devadas  , Daniel Sanchez    
+  DOI 
+ Automated Verification of Fundamental Algebraic Laws  PLDI Research Papers   
+ George Zakhour  , Pascal Weisenburger  , Guido Salvaneschi    
+  DOI 
+ A Verified Compiler for a Functional Tensor Language  PLDI Research Papers   
+ Amanda Liu  , Gilbert Bernstein  , Adam Chlipala  , Jonathan Ragan-Kelley    
+  DOI 
+ Bit Blasting Probabilistic Programs  PLDI Research Papers   
+ Poorva Garg  , Steven Holtzen  , Guy Van den Broeck  , Todd Millstein    
+  DOI 
+ Boosting Compiler Testing by Injecting Real-World Code  PLDI Research Papers   
+ Shaohua Li  , Theodoros Theodoridis  , Zhendong Su    
+  DOI 
+ Bringing the WebAssembly Standard up to Speed with SpecTec  PLDI Research Papers   
+ Dongjun Youn  , Shin Wonho  , Jaehyun Lee  , Sukyoung Ryu  , Joachim Breitner  , Philippa Gardner  , Sam Lindley  , Matija Pretnar  , Xiaojia Rao  , Conrad Watt  , Andreas Rossberg    
+  DOI 
+ Compatible Branch Coverage Driven Symbolic Execution for Efficient Bug Finding Remote     PLDI Research Papers   
+ Qiuping Yi  , Yifan Yu  , Guowei Yang    
+  DOI 
+ Compilation of Modular and General Sparse Workspaces  PLDI Research Papers   
+ Genghan Zhang  , Olivia Hsu  , Fredrik Kjolstad    
+  DOI 
+ Compilation of Qubit Circuits to Optimized Qutrit Circuits  PLDI Research Papers   
+ Ritvik Sharma  , Sara Achour    
+  DOI 
+ Compiling Conditional Quantum Gates without Using Helper Qubits  PLDI Research Papers   
+ Keli Huang  , Jens Palsberg    
+  DOI 
+ Compiling Probabilistic Programs for Variable Elimination with Information Flow  PLDI Research Papers   
+ Jianlin Li  , Eric Wang  , Yizhou Zhang    
+  DOI 
+ Compiling with Abstract Interpretation  PLDI Research Papers   
+ Dorian Lesbre  , Matthieu Lemerre    
+  DOI 
+ Compositional Semantics for Shared-Variable Concurrency  PLDI Research Papers   
+ Mikhail Svyatlovskiy  , Shai Mermelstein  , Ori Lahav    
+  DOI 
+ Concurrent Immediate Reference Counting  PLDI Research Papers   
+ Jaehwang Jung  , Jeonghyeon Kim  , Matthew J. Parkinson  , Jeehoon Kang    
+  DOI 
+ Consolidating Smart Contracts with Behavioral Contracts  PLDI Research Papers   
+ Guannan Wei  , Danning Xie  , Wuqi Zhang  , Yongwei Yuan  , Zhuo Zhang    
+  DOI 
+ Context-Free Language Reachability via Skewed Tabulation  PLDI Research Papers   
+ Yuxiang Lei  , Camille Bossut  , Yulei Sui  , Qirun Zhang    
+  DOI 
+ Daedalus: Safer Document Parsing  PLDI Research Papers   
+ Iavor Diatchki  , Mike Dodds  , Harrison Goldstein  , Bill Harris  , David Holland  , Benoit Razet  , Cole Schlesinger  , Simon Winwood    
+  DOI 
+ Decidable Subtyping of Existential Types for Julia  PLDI Research Papers   
+ Julia Belyakova  , Benjamin Chung  , Ross Tate  , Jan Vitek    
+  DOI 
+ Descend: A Safe GPU Systems Programming Language  PLDI Research Papers   
+ Bastian Köpcke  , Sergei Gorlatch  , Michel Steuwer    
+  DOI   Pre-print 
+ Diffy: Data-Driven Bug Finding for Configurations  PLDI Research Papers   
+ Siva Kesava Reddy Kakarla  , Francis Y. Yan  , Ryan Beckett    
+  DOI 
+ Don’t Write, but Return: Replacing Output Parameters with Algebraic Data Types in C-to-Rust Translation  PLDI Research Papers   
+ Jaemin Hong  , Sukyoung Ryu    
+  DOI 
+ Efficient Static Vulnerability Analysis for JavaScript with Multiversion Dependency Graphs  PLDI Research Papers   
+ Mafalda Ferreira  , Miguel Monteiro  , Tiago Brito  , Miguel E. Coimbra  , Nuno Santos  , Limin Jia  , José Fragoso Santos    
+  DOI   Pre-print 
+ Equivalence and Similarity Refutation for Probabilistic Programs  PLDI Research Papers   
+ Krishnendu Chatterjee  , Ehsan Kafshdar Goharshady  , Petr Novotný  , Đorđe Žikelić    
+  DOI 
+ Equivalence by Canonicalization for Synthesis-Backed Refactoring  PLDI Research Papers   
+ Justin Lubin  , Jeremy Ferguson  , Kevin Ye  , Jacob Yim  , Sarah E. Chasins    
+  DOI 
+ Falcon: A Fused Approach to Path-Sensitive Sparse Data Dependence Analysis  PLDI Research Papers   
+ Peisen Yao  , Jinguo Zhou  , Xiao Xiao  , Qingkai Shi  , Rongxin Wu  , Charles Zhang    
+  DOI 
+ Falcon: A Scalable Analytical Cache Model  PLDI Research Papers   
+ Arjun Pitchanathan  , Kunwar Grover  , Tobias Grosser    
+  DOI 
+ Floating-Point TVPI Abstract Domain Remote     PLDI Research Papers   
+ Joao Rivera  , Franz Franchetti  , Markus Püschel    
+  DOI 
+ Foundational Integration Verification of a Cryptographic Server  PLDI Research Papers   
+ Andres Erbsen  , Jade Philipoom  , Dustin Jamner  , Ashley Lin  , Samuel Gruetter  , Clément Pit-Claudel  , Adam Chlipala    
+  DOI 
+ From Batch to Stream: Automatic Generation of Online Algorithms  PLDI Research Papers   
+ Ziteng Wang  , Shankara Pailoor  , Aaryan Prakash  , Yuepeng Wang  , Işıl Dillig    
+  DOI 
+ GenSQL: A Probabilistic Programming System for Querying Generative Models of Database Tables  PLDI Research Papers   
+ Mathieu Huot  , Matin Ghavami  , Alexander K. Lew  , Ulrich Schaechtle  , Cameron Freer  , Zane Shelby  , Martin Rinard  , Feras Saad  , Vikash K. Mansinghka    
+  DOI 
+ Hashing Modulo Context-Sensitive Alpha-Equivalence  PLDI Research Papers   
+ Lasse Blaauwbroek  , Miroslav Olšák  , Herman Geuvers    
+  DOI   Pre-print 
+ Hyperblock Scheduling for Verified High-Level Synthesis  PLDI Research Papers   
+ Yann Herklotz  , John Wickerson    
+  DOI   Pre-print   File Attached 
+ Hyper Hoare Logic: (Dis-)Proving Program Hyperproperties  PLDI Research Papers   
+ Thibault Dardinier  , Peter Müller    
+  DOI 
+ Inductive Approach to Spacer  PLDI Research Papers   
+ Takeshi Tsukada  , Hiroshi Unno    
+  DOI 
+ Input-Relational Verification of Deep Neural Networks  PLDI Research Papers   
+ Debangshu Banerjee  , Changming Xu  , Gagandeep Singh    
+  DOI 
+ IsoPredict: Dynamic Predictive Analysis for Detecting Unserializable Behaviors in Weakly Isolated Data Store Applications  PLDI Research Papers   
+ Chujun Geng  , Spyros Blanas  , Michael D. Bond  , Yang Wang    
+  DOI 
+ Jacdac: Service-Based Prototyping of Embedded Systems  PLDI Research Papers   
+ Thomas Ball  , Peli de Halleux  , James Devine  , Steve Hodges  , Michał Moskal    
+  DOI 
+ KATch: A Fast Symbolic Verifier for NetKAT  PLDI Research Papers   
+ Mark Moeller  , Jules Jacobs  , Olivier Savary Bélanger  , David Darais  , Cole Schlesinger  , Steffen Smolka  , Nate Foster  , Alexandra Silva    
+  DOI 
+ LiDO: Linearizable Byzantine Distributed Objects with Refinement-Based Liveness Proofs Remote     PLDI Research Papers   
+ Longfei Qiu  , Yoonseung Kim  , Ji-Yong Shin  , Jieung Kim  , Wolf Honore  , Zhong Shao    
+  DOI 
+ Linear Matching of JavaScript Regular Expressions  PLDI Research Papers   
+ Aurèle Barrière  , Clément Pit-Claudel    
+  DOI   Pre-print 
+ Live Verification in an Interactive Proof Assistant  PLDI Research Papers   
+ Samuel Gruetter  , Viktor Fukala  , Adam Chlipala    
+  DOI 
+ Maximum Consensus Floating Point Solutions for Infeasible Low-Dimensional Linear Programs with Convex Hull as the Intermediate Representation  PLDI Research Papers   
+ Mridul Aanjaneya  , Santosh Nagarakatte    
+  DOI   Pre-print 
+ Mechanised Hypersafety Proofs about Structured Data  PLDI Research Papers   
+ Vladimir Gladshtein  , Qiyuan Zhao  , Willow Ahrens  , Saman Amarasinghe  , Ilya Sergey    
+  DOI   Pre-print 
+ Modular Hardware Design of Pipelined Circuits with Hazards  PLDI Research Papers   
+ Minseong Jang  , Jungin Rhee  , Woojin Lee  , Shuangshuang Zhao  , Jeehoon Kang    
+  DOI 
+ NetBlocks: Staging Layouts for High-Performance Custom Host Network Stacks  PLDI Research Papers   
+ Ajay Brahmakshatriya  , Christopher Rinard  , Manya Ghobadi  , Saman Amarasinghe    
+  DOI 
+ Numerical Fuzz: A Type System for Rounding Error Analysis  PLDI Research Papers   
+ Ariel E. Kellison  , Justin Hsu    
+  DOI 
+ Optimistic Stack Allocation and Dynamic Heapification for Managed Runtimes  PLDI Research Papers   
+ Aditya Anand  , Solai Adithya  , Swapnil Rustagi  , Priyam Seth  , Vijay Sundaresan  , Daryl Maier  , V Krishna Nandivada  , Manas Thakur    
+  DOI   Pre-print 
+ PL4XGL: A Programming Language Approach to Explainable Graph Learning  PLDI Research Papers   
+ Minseok Jeon  , Jihyeok Park  , Hakjoo Oh    
+  DOI 
+ [PLDI 2023] CQS: A Formally-Verified Framework for Fair and Abortable Synchronization  PLDI Research Papers   
+ Nikita Koval  , Dmitry Khalanskiy  , Dan Alistarh    
+  DOI 
+ Predictable Verification using Intrinsic Definitions  PLDI Research Papers   
+ Adithya Murali  , Cody Rivera  , P. Madhusudan    
+  DOI 
+ Probabilistic Programming with Programmable Variational Inference  PLDI Research Papers   
+ McCoy Reynolds Becker  , Alexander K. Lew  , Xiaoyan Wang  , Matin Ghavami  , Mathieu Huot  , Martin Rinard  , Vikash K. Mansinghka    
+  DOI 
+ Program Analysis for Adaptive Data Analysis  PLDI Research Papers   
+ Jiawen Liu  , Weihao Qu  , Marco Gaboardi  , Deepak Garg  , Jonathan Ullman    
+  DOI 
+ Quantitative Robustness for Vulnerability Assessment  PLDI Research Papers   
+ Guillaume Girol  , Guilhem Lacombe  , Sébastien Bardin    
+  DOI 
+ Qubit Recycling Revisited  PLDI Research Papers   
+ Hanru Jiang    
+  DOI 
+ Quest Complete: The Holy Grail of Gradual Security  PLDI Research Papers   
+ Tianyu Chen  , Jeremy G. Siek    
+  DOI   Pre-print 
+ Quiver: Guided Abductive Inference of Separation Logic Specifications in Coq  PLDI Research Papers   
+ Simon Spies  , Lennard Gäher  , Michael Sammler  , Derek Dreyer    
+  DOI   Pre-print 
+ Recursive Program Synthesis using Paramorphisms Remote     PLDI Research Papers   
+ Qiantan Hong  , Alex Aiken    
+  DOI 
+ Reducing Static Analysis Unsoundness with Approximate Interpretation  PLDI Research Papers   
+ Mathias Rud Laursen  , Wenyuan Xu  , Anders Møller    
+  DOI 
+ Refined Input, Degraded Output: The Counterintuitive World of Compiler Behavior  PLDI Research Papers   
+ Theodoros Theodoridis  , Zhendong Su    
+  DOI 
+ RefinedRust: A Type System for High-Assurance Verification of Rust Programs  PLDI Research Papers   
+ Lennard Gäher  , Michael Sammler  , Ralf Jung  , Robbert Krebbers  , Derek Dreyer    
+  DOI 
+ Reward-Guided Synthesis of Intelligent Agents with Control Structures Remote     PLDI Research Papers   
+ Guofeng Cui  , Yuning Wang  , Wenjie Qiu  , He Zhu    
+  DOI 
+ RichWasm: Bringing Safe, Fine-Grained, Shared-Memory Interoperability Down to WebAssembly  PLDI Research Papers   
+ Michael Fitzgibbons  , Zoe Paraskevopoulou  , Noble Mushtak  , Michelle Thalakottur  , Jose Sulaiman Manzur  , Amal Ahmed    
+  DOI 
+ Robust Resource Bounds with Static Analysis and Bayesian Inference  PLDI Research Papers   
+ Long Pham  , Feras Saad  , Jan Hoffmann    
+  DOI 
+ Scaling Type-Based Points-to Analysis with Saturation  PLDI Research Papers   
+ Christian Wimmer  , Codrut Stancu  , David Kozak  , Thomas Wuerthinger    
+  DOI   Pre-print 
+ SMT Theory Arbitrage: Approximating Unbounded Constraints using Bounded Theories  PLDI Research Papers   
+ Benjamin Mikek  , Qirun Zhang    
+  DOI 
+ Space-Efficient Polymorphic Gradual Typing, Mostly Parametric  PLDI Research Papers   
+ Atsushi Igarashi  , Shota Ozaki  , Taro Sekiyama  , Yudai Tanabe    
+  DOI 
+ SpEQ: Translation of Sparse Codes using Equivalences  PLDI Research Papers   
+ Avery Laird  , Bangtian Liu  , Nikolaj Bjørner  , Maryam Mehri Dehnavi    
+  DOI   Pre-print 
+ SPORE: Combining Symmetry and Partial Order Reduction  PLDI Research Papers   
+ Michalis Kokologiannakis  , Iason Marmanis  , Viktor Vafeiadis    
+  DOI 
+ Static Analysis for Checking the Disambiguation Robustness of Regular Expressions  PLDI Research Papers   
+ Konstantinos Mamouras  , Alexis Le Glaunec  , Wu Angela Li  , Agnishom Chattopadhyay    
+  DOI 
+ Static Posterior Inference of Bayesian Probabilistic Programming via Polynomial Solving  PLDI Research Papers   
+ Peixin Wang  , Tengshun Yang  , Hongfei Fu  , Guanyan Li  , C.-H. Luke Ong    
+  DOI 
+ Stream Types  PLDI Research Papers   
+ Joseph W. Cutler  , Chris Watson  , Emeka Nkurumeh  , Phillip Hilliard  , Harrison Goldstein  , Caleb Stanford  , Benjamin C. Pierce    
+  DOI 
+ Superfusion: Eliminating Intermediate Data Structures via Inductive Synthesis  PLDI Research Papers   
+ Ruyi Ji  , Yuwei Zhao  , Nadia Polikarpova  , Yingfei Xiong  , Zhenjiang Hu    
+  DOI 
+ SuperStack: Superoptimization of Stack-Bytecode via Greedy, Constraint-Based, and SAT Techniques  PLDI Research Papers   
+ Elvira Albert  , Maria Garcia de la Banda  , Alejandro Hernández-Cerezo  , Alexey Ignatiev  , Albert Rubio  , Peter J. Stuckey    
+  DOI 
+ Symbolic Execution for Quantum Error Correction Programs  PLDI Research Papers   
+ Wang Fang  , Mingsheng Ying    
+  DOI 
+ Syntactic Code Search with Sequence-to-Tree Matching  PLDI Research Papers   
+ Gabriel Matute  , Wode Ni  , Titus Barik  , Alvin Cheung  , Sarah E. Chasins    
+  DOI 
+ The Functional Essence of Imperative Binary Search Trees  PLDI Research Papers   
+ Anton Lorenzen  , Daan Leijen  , Wouter Swierstra  , Sam Lindley    
+  DOI   Pre-print 
+ The T-Complexity Costs of Error Correction for Control Flow in Quantum Computation  PLDI Research Papers   
+ Charles Yuan  , Michael Carbin    
+  DOI 
+ Towards Trustworthy Automated Program Verifiers: Formally Validating Translations into an Intermediate Verification Language  PLDI Research Papers   
+ Gaurav Parthasarathy  , Thibault Dardinier  , Benjamin Bonneau  , Peter Müller  , Alexander J. Summers    
+  DOI 
+ Verification under Intel-x86 with Persistency  PLDI Research Papers   
+ Parosh Aziz Abdulla  , Mohamed Faouzi Atig  , Ahmed Bouajjani  , K Narayan Kumar  , Prakash Saivasan    
+  DOI 
+ Verified Extraction from Coq to OCaml  PLDI Research Papers   
+ Yannick Forster  , Matthieu Sozeau  , Nicolas Tabareau    
+  DOI 
+ VESTA: Power Modeling with Language Runtime Events  PLDI Research Papers   
+ Joseph Raskind  , Timur Babakol  , Khaled Mahmoud  , Yu David Liu    
+  DOI 
+ V-Star: Learning Visibly Pushdown Grammars from Program Inputs  PLDI Research Papers   
+ Xiaodong Jia  , Gang (Gary) Tan    
+  DOI 
+ Wavefront Threading Enables Effective High-Level Synthesis  PLDI Research Papers   
+ Blake Pelton  , Adam Sapek  , Ken Eguro  , Daniel Lo  , Alessandro Forin  , Matt Humphrey  , Jinwen Xi  , David Cox  , Rajas Karandikar  , Johannes de Fine Licht  , Evgeny Babin  , Adrian Caulfield  , Doug Burger    
+  DOI   Pre-print 
+
+ Call for Papers  
+
+ Please note that the “Artifact Evaluation for Accepted Papers” section has been modified a bit from previous years’.   
+
+ PACMPL Issue PLDI 2024 seeks contributions on all aspects of programming languages research, broadly construed, including design, implementation, theory, applications, and performance. Authors of papers published in PACMPL Issue PLDI 2024 will be invited – but not required – to present their work in the PLDI conference in June 2024, which is sponsored by ACM SIGPLAN.  
+ Scope   
+ PLDI is a premier forum for programming language research, broadly construed. Outstanding research that extends and/or applies programming-language concepts to advance the field of computing is welcome. Novel system designs, thorough empirical work, well-motivated theoretical results, and new application areas are all in scope for PLDI.  
+ Evaluation Criteria and Process   
+ Reviewers will evaluate submissions for accuracy, significance, originality, and clarity. Submissions should be organized to communicate clearly to a broad programming-language audience as well as experts on the paper’s topics. Papers should identify what has been accomplished and how it relates to previous work. Authors of empirical papers are encouraged to consider the seven categories of the SIGPLAN Empirical Evaluation Guidelines when preparing submissions.  
+ The selection of papers will be made in two rounds of reviewing. In the first round, reviewers will assesses the papers according to the quality criteria listed above. Authors will be given several days to compose a written response to the reviews received in the first round – e.g., to correct errors and clarify technical concerns. At the end of the first round, the Review Committee will conditionally accept a subset of the submissions and all other submissions will be rejected. In the second round, authors of conditionally-accepted papers will be given an opportunity to improve specific aspects of the research and the paper, as identified by the reviewers. Authors will have sufficient time to perform the required revisions and re-submit the paper. The same reviewers as in the first round will then assess how the revision requests have been acted upon by the authors. Revisions that fail to adequately address the reviewers’ original concerns will result in rejection.  
+ The Review Committee will make final decisions regarding (conditional) acceptance and rejection, although reviews for a given paper will typically be performed by a subset of the committee. During the review period, authors must not contact Review Committee members – all questions must be addressed to the Associate Editor (who is doing the job that we would have called “Program Chair” before PLDI joined PACMPL). Contacting Review Committee members about submitted paper(s) is an ethical violation and may be grounds for summary rejection.  
+ Deadlines and formatting requirements, detailed below, will be strictly enforced, with extremely rare extenuating circumstances considered at the discretion of the Associate Editor.  
+ Double-Blind Reviewing   
+ Author names and affiliations must be omitted from submissions. If a submission refers to prior work done by the authors, that reference should be made in third person. Any supplementary material must also be anonymized. These are firm submission requirements. The Review Committee will only learn the identities of authors of accepted papers following the second round of reviewing.  
+ The FAQ on Double-Blind Reviewing clarifies the policy for the most common scenarios. But there are many gray areas and trade-offs. If you have any doubts about how to interpret the double-blind rules, or any cases that are not fully covered by the FAQ, please contact the Associate Editor. In complex cases, it is better to get guidance from the Associate Editor than to risk summary rejection.  
+ Submission Site Information   
+ The submission site is https://pldi2024.hotcrp.com  .  
+ Authors can submit multiple times prior to the (firm!) deadline. Only the last submission will be reviewed. There is no deadline for submitting abstracts. The submission site requires entering author names and affiliations, relevant topics, and potential conflicts. Addition or removal of authors after the submission deadline will need to be approved by the Associate Editor (as this kind of change potentially undermines the goal of eliminating conflicts during paper assignment).  
+ The submission deadline is 11:59PM on Thursday November 16, 2023 anywhere on earth: https://en.wikipedia.org/wiki/Anywhere_on_Earth   
+ Declaring Conflicts   
+ When submitting a paper, you will need to declare potential conflicts. Conflicts should be declared between an adviser and an advisee (e.g., Ph.D., post-doc). Other conflicts include institutional conflicts, financial conflicts of interest, friends or relatives, or any recent co-authors on papers and proposals (last 2 years).  
+ Please do not declare spurious conflicts: such incorrect conflicts are especially harmful if the aim is to subvert the normal peer-review process by excluding potential reviewers. Listing spurious conflicts can be grounds for rejection. If you are unsure about whether or not a given relationship constitutes a conflict, please consult the Associate Editor.  
+ Formatting Requirements   
+ Each paper should have no more than 20 pages of text, excluding bibliography, using the ACM Proceedings format. This format is chosen for compatibility with PACMPL. It is a single-column page layout with a 10 pt font, 12 pt line spacing, and wider margins than recent PLDI page layouts. In this format, the main text block is 5.478 in (13.91 cm) wide and 7.884 in (20.03 cm) tall. Use of a different format (e.g., smaller fonts or a larger text block) is grounds for summary rejection. PACMPL templates for Microsoft Word and LaTeX can be found at the SIGPLAN author information page. Authors using LaTeX should use the sample-acmsmall-conf.tex  file (found in the samples folder of the acmart package) with the acmsmall  option. We also strongly encourage use of the review  and screen  options as well, e.g.:  
+ \documentclass[acmsmall,screen,review,anonymous,nonacm]{acmart}   Papers may be submmitted using numeric citations, but final versions of accepted papers must use author-year format for citations. Submissions should be in PDF and printable on both US Letter and A4 paper. Please take care to ensure that figures and tables are legible, even when the paper is printed in gray-scale. Papers that exceed the length requirement, deviate from the expected format, or are submitted late will be rejected.  
+ Supplementary Material   
+ Authors are welcome to provide supplementary material if that material supports the claims in the paper. Such material may include proofs, experimental results, and/or data sets. This material should be uploaded at the same time as the submission. Reviewers are not required to examine the supplementary material but may refer to it if they would like to find further evidence supporting the claims in the paper.  
+ Plagiarism and Concurrent Work   
+ Papers must describe unpublished work that is not currently submitted for publication elsewhere, as described by the SIGPLAN Republication Policy and ACM Policy on Plagiarism. Concurrent submissions to other conferences, workshops, journals, or similar venues of publication are disallowed. Prior work must, as always, be cited and referred to in the third person even if it is the authors’ own work, so as to preserve author anonymity. If you have further questions, please contact the Associate Editor.  
+ Artifact Evaluation for Accepted Papers   
+ Authors of accepted papers will be invited to submit supporting materials to the Artifact Evaluation process. Artifact Evaluation is run by a separate committee whose task is to assess how well the artifacts support the work described in the papers. At artifact submission time, authors will be asked to provide an artifact availability statement that details the expected behavior of the artifact, and how it pertains to the results of the paper. Artifact submission is voluntary but encouraged and will not influence the final decision regarding the papers.  
+ Papers that go through the Artifact Evaluation process successfully will receive a badge printed on the papers themselves, and include the artifact availability statement (which will not count agains the page limit). Authors of accepted papers are encouraged to make their artifacts publicly available upon publication of the proceedings, by including them as “source materials” in the ACM Digital Library.  
+ Open Access and Copyright   
+ As a Gold Open Access journal, PACMPL is committed to making peer-reviewed scientific research free of restrictions on both access and (re-)use. Authors are strongly encouraged to support liberal open access by licensing their work with the Creative Commons Attribution 4.0 International (CC BY) license, which grants readers (re-)use rights.  
+ Authors of accepted papers will be required to provide an ORCID for each co-author and choose one of the following publication rights:  
+ Author licenses the work with a Creative Commons license, retains copyright, and (implicitly) grants ACM non-exclusive permission to publish (suggested choice). 
+  Author retains copyright of the work and grants ACM a non-exclusive permission to publish license. 
+  Author retains copyright of the work and grants ACM an exclusive permission to publish license. 
+  Author transfers copyright of the work to ACM. 
+  These choices follow from ACM Copyright Policy and ACM Author Rights, corresponding to ACM’s “author pays” option. While PACMPL may ask authors who have funding for open-access fees to voluntarily cover the article processing charge (currently, US$400), payment is not required for publication. PACMPL and SIGPLAN continue to explore the best models for funding open access, focusing on approaches that are sustainable in the long-term while reducing short-term risk.  
+ Publication Date   
+ All papers will be archived by the ACM Digital Library. Authors will have the option of including supplementary material with their paper. The official publication date is the date the proceedings are made available in the ACM Digital Library or the first day of the conference, which ever is sooner. Note that the date may be up to two weeks prior to the first day of the conference. The official publication date affects the deadline for any patent filings related to published work.  
+ Presentations   
+ Authors of accepted papers will be invited to present their work at PLDI. Authors who need financial assistance for travel to the conferences should apply for a grant from the SIGPLAN Professional Activities Committee (PAC) program. We welcome all authors, regardless of nationality. If authors are not able to obtain visas to travel to the conference despite making reasonable effort, we will make arrangements to facilitate remote participation or presentation by another attendee on behalf of the authors.  
+ Distinguished Paper Awards   
+ Up to 10% of the accepted papers may be designated as Distinguished Papers. This award highlights papers that the Review Committee believes should be read by a broad audience due to their relevance, originality, significance, and clarity. The set of distinguished papers will be chosen through a rigorous review process of the final papers, carried out by a subset of the Review Committee.  
+ Acknowledgments   
+ This call-for-papers is an adaptation and evolution of content from previous SIGPLAN conferences. We are grateful to prior organizers for their work, which is reused here.  
+ Code of Conduct   
+ PLDI follows the ACM Policy Against Harassment at ACM Activities. Please familiarize yourself with the policy  and guide for reporting unacceptable behavior  .  
+
+ Attending  
+   
+ Presenter Instructions   
+ In-Person Presenters   
+ You should have received a Google Form entitled “PLDI’24 Presenter Questionnaire”.  
+ If not, the URL is https://forms.gle/WCRJqQhEFNSybdrS8  .  
+ Please fill in the questionnaire once for each talk you will give.  
+ If you are presenting in-person, here are some things to keep in mind:  
+ Your conference registration is mandatory  . 
+  You should bring your own device  to present your slides. Please ensure your slides are available offline / accessible from a different device in case of any technical issues. 
+  Your presentation device should support HDMI output  . If it does not, you are responsible for bringing the appropriate adapter. 
+  You are free to choose between 4:3 aspect ratio  and 16:9 aspect ratio  , whichever makes more sense for the content of your slides. We will adapt the streaming/recording layout to your choice. Please indicate your choice in the questionnaire  . 
+  Ensure your device is working and your slides are accessible during the break before your session starts  , to avoid last minute difficulties. 
+  You should disable any kind of color adjustment on your computer while presenting (e.g., night shift, redshift, f.lux). If you are using a Macbook, please make sure to disable TrueTone in System Settings -> Displays. 
+  Arrive at your session at least 10 minutes before it starts  . Take time to familiarize yourself with the room setup, make your presence known to the session chair, test out slides and audio, and address all issues with the student volunteer in the room. 
+  You should pace your talk  carefully; time is of the essence and the program schedule will be strictly enforced. 
+  You can find the length of your talk in the program  . 
+  Subtract at least 5 minutes  from the allotted time to account for questions and set-up. 
+  Talk slots for the main PLDI program are 20 minutes  , so presenters should aim to give a 15 minute talk  . 
+  Talk slot lengths for workshops can be found on the respective workshop information pages. 
+  If you do not want your talk to be either recorded or streamed, please indicate it in the questionnaire  . 
+  Remote Presenters   
+ Remote presentations are a little more complicated. You should double-check with your conference/workshop organizers that they are allowed in your track.  
+ Please read the following instructions as they are crucial  for making sure your presentation goes as smoothly as possible!  
+ Setting up Discord   
+ Make sure you have a Discord account that is older than 5 minutes, with a | verified email address 
+  Join the PLDI 2024 Discord server (check your email for the invite link) After joining the server, you should be prompted with a | Customisation Question | prompt. Please do the following: 
+  Select the Presenter  role.    
+ Go to Channels and Roles  .   
+ Follow the Pre-Talk Sessions category.    
+ Discord is now setup! If you have any technical issues or questions, please make sure to ask any questions in the #troubleshooting-chat  channel.   
+ Pre-Session   
+ On the day of your presentation, our remote volunteers will be performing several tests to make sure your presentation goes as smoothly as possible. Please join the Pre-Talk VC  channel up until 30 minutes before your scheduled presentation. There will be volunteers waiting in this channel 2 hours before the next scheduled remote presentation  . This means that if your talk is at 9 AM (Copenhagen time), there will be a volunteer in the channel from 7 AM.  
+   
+ If you are only joining Discord for the Q&A portion of your talk  (pre-recorded talks fall under this category), please join the Discord voice channel within the same timeline for the same tests.  
+ Your Talk   
+ Please join the Waiting Queue voice channel 30 minutes before your presentation.  A volunteer will promptly let you know 5 minutes before it is your time to present through the Waiting Queue chat:  
+   
+ When it is your time to present, the volunteer will move you to another voice channel. Here, you should be able to hear the session chair through Discord, from which you should follow their instructions for when to start presenting. When you are moved to this LIVE voice channel, please make sure to turn on your camera and screen-share  .  
+ You can follow the livestream of current talks on the ACMSIGPLAN YouTube channel: https://youtube.com/@acmsigplan  .  
+ If you have a pre-recorded talk  , you will still be moved to the voice channel during your talk (while your recording is playing). When your pre-recorded talk is done, you can conduct the Q&A segment by following your session chair’s instructions.  
+ Troubleshooting   
+ If at any point of the process there are technical issues (whether it is while presenting or during the pre-sessions) please join the Troubleshooting VC  channel under the Pre-Talk Sessions category. A volunteer will be there to assist you. If the volunteer assesses that the problem will take a considerable amount of time to solve, we will communicate with the session chair to move your talk to the next time-slot.  
+ The communication between Speakers and Session Chairs will take place in the Troubleshooting VC  channel via the volunteers when technical difficulties occur.  
+ Remote Presentations Summary   
+ Please join the Discord voice channel titled Pre-Talk VC  within 2 hours before your talk. 
+  30 minutes before your talk, join the Waiting Queue  voice channel and wait for your time-slot to commence. A volunteer will let you know 5 minutes before it is your time to present. 
+  If there are any troubleshooting issues, join the Troubleshooting VC  channel and a volunteer will assist you. 
+    
+ Live Streaming  
+   
+ Please find all the live streams in this YouTube playlist:   
+ https://www.youtube.com/playlist?list=PLyrlk8Xaylp6XYPbTIscsn49yFEFlxUp-   
+  
+  Below are embedded players for today’s event.  
+ June 24   
+
+ Important Dates   AoE (UTC-12h)     
+
+ Sat 6 Apr 2024  
+  Camera-Ready Deadline 
+ Mon 26 Feb 2024  
+  Notification to Authors 
+ Tue 6 - Thu 8 Feb 2024  
+  Author Response 
+ Thu 16 Nov 2023  
+  Submission Deadline 
+
+ Submission Link   
+   
+   https://pldi2024.hotcrp.com/     
+   
+ PLDI Review Committee    
+   
+ John Regehr Chair    
+ University of Utah   
+ United States 
+  Zachary Tatlock Area Chair    
+ University of Washington   
+ United States 
+  Anders Møller Area Chair    
+ Aarhus University   
+ Denmark 
+  Peter Müller Area Chair    
+ ETH Zurich   
+ Switzerland 
+  Ronald Garcia Area Chair    
+ University of British Columbia   
+ Canada 
+  Matthew Flatt Area Chair    
+ University of Utah   
+ United States 
+  Sophia Drossopoulou Area Chair    
+ Imperial College London   
+ United Kingdom 
+  Emina Torlak Area Chair    
+ Amazon Web Services, USA   
+ United States 
+  Umut A. Acar    
+ Carnegie Mellon University   
+ United States 
+  Aws Albarghouthi    
+ University of Wisconsin-Madison   
+ United States 
+  Nada Amin    
+ Harvard University   
+ United States 
+  Owen Arden    
+ UC Santa Cruz   
+ United States 
+  Jonathan Balkind    
+ UC Santa Barbara   
+ United States 
+  Mark Batty    
+ University of Kent   
+ United Kingdom 
+  Walter Binder    
+ USI Lugano   
+ Switzerland 
+  Swarnendu Biswas    
+ IIT Kanpur   
+ India 
+  Steve Blackburn    
+ Google and Australian National University   
+ Australia 
+  James Bornholt    
+ University of Texas at Austin   
+ United States 
+  Thomas Bourgeat    
+ EPFL   
+ Switzerland 
+  Marc Brockschmidt    
+ Microsoft Research   
+ United Kingdom 
+  Tej Chajed    
+ UW-Madison   
+ United States 
+  Stephen Chang    
+ University of Massachusetts Boston   
+ United States 
+  Sarah E. Chasins    
+ University of California at Berkeley   
+ United States 
+  Joonwon Choi    
+ Apple   
+ United States 
+  David Darais    
+ Galois   
+ United States 
+  Chen Ding    
+ University of Rochester 
+  Michael Emmi    
+ Amazon Web Services   
+ United States 
+  Constantin Enea    
+ Ecole Polytechnique / LIX / CNRS   
+ France 
+  Andres Erbsen    
+ Google 
+  José Fragoso Santos    
+ INESC-ID/Instituto Superior Técnico, Portugal 
+  Vijay Ganesh    
+ Georgia Tech   
+ United States 
+  Timon Gehr    
+ ETH Zurich   
+ Switzerland 
+  Klaus v. Gleissenthall    
+ Vrije Universiteit Amsterdam, Netherlands 
+  Colin Gordon    
+ Drexel University   
+ United States 
+  Justin Gottschlich    
+ Merly & Stanford   
+ United States 
+  Neville Grech    
+ Dedaub Limited   
+ Malta 
+  Michael Greenberg    
+ Stevens Institute of Technology   
+ United States 
+  Ronghui Gu    
+ Columbia University, USA 
+  Arjun Guha    
+ Northeastern University; Roblox   
+ United States 
+  Ben Hardekopf    
+ University of California at Santa Barbara   
+ United States 
+  Matthias Hauswirth    
+ USI Lugano   
+ Switzerland 
+  Martin Hirzel    
+ IBM Research   
+ United States 
+  Jeff Huang    
+ Texas A&M University   
+ United States 
+  Suresh Jagannathan    
+ Purdue University   
+ United States 
+  Limin Jia    
+ Carnegie Mellon University 
+  Gail Kaiser    
+ Columbia University   
+ United States 
+  Shoaib Kamil    
+ Adobe Research 
+  Jeehoon Kang    
+ KAIST   
+ South Korea 
+  Stephen Kell    
+ King's College London   
+ United Kingdom 
+  Eric Koskinen    
+ Stevens Institute of Technology   
+ United States 
+  V Krishna Nandivada    
+ IIT Madras 
+  Murali Krishna Ramanathan    
+ AWS AI Labs   
+ United States 
+  Neel Krishnaswami    
+ University of Cambridge   
+ United Kingdom 
+  Shuvendu K. Lahiri    
+ Microsoft Research   
+ United States 
+  Patrick Lam    
+ University of Waterloo 
+  Jaejin Lee    
+ Seoul National University, South Korea 
+  Woosuk Lee    
+ Hanyang University   
+ South Korea 
+  Yao Li    
+ Portland State University   
+ United States 
+  Hongjin Liang    
+ Nanjing University   
+ China 
+  Jay Ligatti    
+ University of South Florida 
+  Tongping Liu    
+ University of Massachusetts at Amherst   
+ United States 
+  Benjamin Livshits    
+ Imperial College London, UK 
+  P. Madhusudan    
+ University of Illinois at Urbana-Champaign   
+ United States 
+  Magnus Madsen    
+ Aarhus University   
+ Denmark 
+  Yatin Manerkar    
+ University of Michigan and UC Berkeley   
+ United States 
+  Michaël Marcozzi    
+ CEA, LIST, Université Paris Saclay   
+ France 
+  Ruben Martins    
+ Carnegie Mellon University   
+ United States 
+  Erik Meijer    
+ Facebook   
+ United States 
+  Anders Miltner    
+ Simon Fraser University   
+ Canada 
+  Sasa Misailovic    
+ University of Illinois at Urbana-Champaign   
+ United States 
+  Magnus O. Myreen    
+ Chalmers University of Technology 
+  Vijay Nagarajan    
+ The University of Utah 
+  Santosh Nagarakatte    
+ Rutgers University   
+ United States 
+  Chandrakana Nandi    
+ Certora   
+ United States 
+  Jorge A. Navas    
+ Certora   
+ United States 
+  Iulian Neamtiu    
+ New Jersey Institute of Technology   
+ United States 
+  ThanhVu Nguyen    
+ George Mason University   
+ United States 
+  Hakjoo Oh    
+ Korea University   
+ South Korea 
+  Peter Ohmann    
+ College of St. Benedict / St. John's University   
+ United States 
+  Peter-Michael Osera    
+ Grinnell College   
+ United States 
+  Guilherme Ottoni    
+ Meta   
+ United States 
+  Sreepathi Pai    
+ University of Rochester   
+ United States 
+  Jens Palsberg    
+ University of California, Los Angeles (UCLA)   
+ United States 
+  Corina Pasareanu    
+ CMU, NASA, KBR 
+  Gustavo Petri    
+ Amazon Web Services   
+ United Kingdom 
+  Luís Pina    
+ University of Illinois at Chicago   
+ United States 
+  Clément Pit-Claudel    
+ EPFL   
+ Switzerland 
+  Nadia Polikarpova    
+ University of California at San Diego   
+ United States 
+  Louis-Noël Pouchet    
+ Colorado State University, USA 
+  Shaz Qadeer    
+ Meta, Inc.   
+ United States 
+  Xiaokang Qiu    
+ Purdue University   
+ United States 
+  Arjun Radhakrishna    
+ Microsoft   
+ United States 
+  Mukund Raghothaman    
+ University of Southern California 
+  Tahina Ramananandro    
+ Microsoft Research   
+ United States 
+  Robert Rand    
+ University of Chicago   
+ United States 
+  Aseem Rastogi    
+ Microsoft Research   
+ India 
+  Alastair Reid    
+ Intel/Intel Labs   
+ United Kingdom 
+  Xavier Rival    
+ Inria; ENS; CNRS; PSL University   
+ France 
+  Grigore Roşu    
+ University of Illinois at Urbana-Champaign   
+ United States 
+  Cindy Rubio-González    
+ University of California at Davis   
+ United States 
+  Sukyoung Ryu    
+ KAIST   
+ South Korea 
+  Malavika Samak    
+ Apple Inc   
+ United States 
+  Alex Sanchez-Stern    
+ University of Massachusetts   
+ United States 
+  John Sarracino    
+ Lawrence Livermore National Laboratory 
+  Koushik Sen    
+ University of California at Berkeley   
+ United States 
+  Xipeng Shen    
+ North Carolina State University   
+ United States 
+  Xujie Si    
+ University of Toronto 
+  Jeremy G. Siek    
+ Indiana University, USA   
+ United States 
+  Rob Sison    
+ UNSW Sydney   
+ Australia 
+  Tyler Sorensen    
+ University of California at Santa Cruz   
+ United States 
+  Thodoris Sotiropoulos    
+ ETH Zurich   
+ Switzerland 
+  Caleb Stanford    
+ University of California, Davis   
+ United States 
+  Deian Stefan    
+ University of California at San Diego   
+ United States 
+  Nikhil Swamy    
+ Microsoft Research   
+ United States 
+  Tachio Terauchi    
+ Waseda University   
+ Japan 
+  Aditya V. Thakur    
+ University of California at Davis   
+ United States 
+  Jean-Baptiste Tristan    
+ Amazon Web Services   
+ United States 
+  Kapil Vaswani    
+ Microsoft Research 
+  Niki Vazou    
+ IMDEA Software Institute 
+  Muralidaran Vijayaraghavan    
+ Google Research   
+ United States 
+  David Walker    
+ Princeton University   
+ United States 
+  Chenglong Wang    
+ University of Washington, USA 
+  Di Wang    
+ Peking University   
+ China 
+  Yuepeng Wang    
+ Simon Fraser University   
+ Canada 
+  John Wickerson    
+ Imperial College London   
+ United Kingdom 
+  Christian Wimmer    
+ Oracle Labs   
+ United States 
+  Xiaodi Wu    
+ University of Maryland   
+ United States 
+  Jingling Xue    
+ UNSW Sydney   
+ Australia 
+  Kwangkeun Yi    
+ Seoul National University 
+  Nobuko Yoshida    
+ University of Oxford   
+ United Kingdom 
+  Drew Zagieboylo    
+ Northeastern University 
+  Qirun Zhang    
+ Georgia Institute of Technology   
+ United States 
+  Yizhou Zhang    
+ University of Waterloo   
+ Canada 
+  Zheng Zhang    
+ Rutgers University 
+  Zhiqiang Zuo    
+ Nanjing University   
+ China 
+
+ x  Wed 4 Dec 13:32    
+
+  PLDI 2024   
+  using conf.researchr.org  ( v1.67.1  )  
+   Support page    
+     
+ Tracks  
+ PLDI Events   
+  Research Artifacts   
+  PLDI Research Papers   
+  Workshops and Tutorials   
+  SRC   
+  Tutorials   
+  Volunteering   
+  Diversity, Equity and Inclusion    
+ Co-hosted Conferences  
+ ISMM 2024   
+  LCTES 2024   
+  Workshops  
+ ARRAY 2024   
+  CP 2024   
+  EGRAPHS 2024   
+  Infer 2024   
+  PLMW@PLDI 2024   
+  PODELSKI   
+  RTFM 2024   
+  SOAP 2024   
+  Sparse 2024   
+  WQS 2024    
+
+ Attending  
+ Venue: Radisson Blu Scandinavia, Copenhagen   
+  Sponsorship   
+  Registration   
+  Visa   
+  PLDI and Associated Events Live Streams   
+  Presenter Instructions    
+ Sign Up    
+
+  

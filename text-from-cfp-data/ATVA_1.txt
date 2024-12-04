@@ -1,0 +1,88 @@
+ATVA 2024, Kyoto, Japan   
+ 22nd International Symposium on Automated Technology for Verification and Analysis  
+
+ Menu  
+ Skip to content  Home 
+  Organization 
+  Keynotes 
+  Program 
+  Social Events 
+  Calls | Important Dates 
+  Call for Papers 
+  Artifact Evaluation 
+  Registration 
+  Accepted Papers 
+  Tutorials 
+  Workshops 
+  Venue 
+  Sponsors 
+
+ Call for Papers  
+  
+ Scope   
+ ATVA 2024 is the 22nd in a series of symposia aimed at bringing together academics, industrial researchers, and practitioners in the area of theoretical and practical aspects of automated analysis, synthesis, and verification of hardware and software systems. ATVA solicits high quality submissions in the following suggestive list of topics:  
+ Formalisms for modeling hardware, software, and embedded systems 
+  Specification and verification of finite-state, infinite-state, and parameterized system 
+  Program analysis and software verification 
+  Analysis and verification of hardware circuits, systems-on-chip, and embedded systems 
+  Analysis of real-time, hybrid, priced, weighted, and probabilistic systems 
+  Deductive, algorithmic, compositional, and abstraction/refinement techniques for analysis and verification 
+  Analytical techniques for safety, security, and dependability 
+  Testing and runtime analysis based on verification technology 
+  Analysis and verification of parallel and concurrent systems 
+  Verification in industrial practice 
+  Synthesis for hardware and software systems 
+  Applications and case studies 
+  Automated tool support 
+  Paper submission   
+ Submissions will be accepted in two categories:  
+ Regular Research Papers (18 pages max, excl. references, must be anonymized) 
+  Tool Papers (10 pages max, excl. references, not anonymized). 
+  Submissions in both categories should be in Springer’s Lecture Notes in Computer Science ( LNCS  ) format. Please note that, for the first time at ATVA, the submission process for regular research papers will be double-blind  and will include a rebuttal/author response period  . An artifact evaluation  will be undertaken, which will be optional for regular papers and mandatory for tool papers. Submissions authored or co-authored by members of the program committee are allowed and encouraged.  
+ Accepted papers in both categories will be published in Springer’s LNCS series. At least one author of each accepted paper is expected to register and present the paper at the conference.  
+ A few outstanding papers will be selected for a  distinguished paper award.  
+ Submission site   
+ All papers must be submitted through EasyChair: https://easychair.org/conferences?conf=atva2024  .  
+ REGULAR PAPERS   
+ Regular papers should not exceed 18 pages in Springer’s LNCS format, not counting references and appendices. Additional material may be placed in an appendix, to be read at the discretion of the reviewers, and to be omitted in the final version. Formatting style files and further guidelines for formatting can be found on the Springer website. Adding line numbers (LaTeX package lineno  ) is highly recommended.  
+ For the first time, regular papers at ATVA 2024 will follow a full double-blind review process, which means that author names and affiliations must be omitted from the submission. Additionally, if a submission refers to prior work done by the authors, the reference should be made in the third person. These are firm submission requirements, and any regular paper that does not conform to these requirements will be rejected without review. We strongly encourage authors to not put the work on arXiv around (within 1 week) or shortly after (within 1 month) the submission deadline, because potential reviewers may be subscribed to receive updates on recently posted papers.  
+ Authors of accepted regular papers will be invited (but are not required) to submit a relevant artifact for evaluation by the artifact evaluation committee.  
+ TOOL PAPERS   
+ Tool papers should not exceed 10 pages in Springer’s LNCS format, not counting references. Tool papers will follow a single-blind review process. They do NOT need to be anonymized.  
+ However, they should include information about a URL from where the tool can be downloaded or accessed online for evaluation. The URL must also contain a set of examples, and a user manual that describes usage of the tool through examples. If the tool needs to be downloaded and installed, the URL must contain instructions for installing the tool on Linux/Windows/MacOS.  
+ Authors of tool papers must submit an artifact for evaluation  by the artifact evaluation committee. Acceptance of tool papers is contingent on successful artifact evaluation at the “functional” level. In special cases, where an artifact cannot be submitted, the authors should contact the Artifact Evaluation chairs to find alternate modes of artifact evaluation. More artifact evaluation details can be found on the AE page  .  
+ Contact   
+ For any questions, please contact the PC chairs:  
+ S Akshay | , IIT Bombay, | akshayss@cse.iitb.ac.in 
+  Aina Niemetz | , Stanford University, | niemetz@cs.stanford.edu 
+  Sriram Sankaranarayanan | , University of Colorado Boulder, | srirams@colorado.edu 
+
+    Sponsors   
+ Silver Sponsors   
+
+ Organizational Sponsors   
+
+ Award Sponsor   
+
+  Important Dates   
+ AoE (Anywhere on Earth)  
+ Paper submission  :  
+  April 19, 2024  Extended until April 25 (papers can be updated till April 28 AoE)    
+  AE submission for tool papers  :  
+  May 2  May 9, 2024  
+  Author response/rebuttal period  :  
+  June 4 - 7  June 11-14, 2024  
+  Author notification  :  
+  June 19  June 26, 2024  
+  AE submission for regular papers  :  
+  July 2  July 7, 2024  
+  AE notification  :  
+  August 10  August 17, 2024  
+  Final version due  :  
+  August 15  August 22, 2024  
+  Conference  :  
+  October 21 - 24, 2024  
+
+ Proudly powered by WordPress  |  Theme: Expound by Konstantin Kovshenin    
+
+  

@@ -1,0 +1,489 @@
+             
+
+ Home 
+  Business Models 
+  Econ 
+  Business Management 
+  Strategic Management 
+  Business Administration 
+  Enterprise Modeling 
+    
+ Book  PDF Available  Proceedings of Short and Doctoral Consortium Papersat PoEM 2015, 8th IFIP WG 8.1 Working Conference on the Practice of Enterprise Modelling, Valencia, Spain, November 10-12, 2015  
+ November 2015 
+    
+ Publisher: CEUR-WS.org Vol-1497 
+
+ Authors:   
+      
+ Sergio España    
+ Utrecht University 
+
+ Jolita Ralyte    
+ University of Geneva 
+
+ Pnina Soffer    
+ University of Haifa 
+
+ Jelena Zdravkovic    
+ Stockholm University 
+
+ Show all 5 authors   Hide     
+
+   Download full-text PDF     Read full-text     
+
+   Download full-text PDF     
+   Read full-text     
+   Download citation     
+   Copy link  Link copied      
+         
+      Read full-text   
+      Download citation   
+     Copy link  Link copied    
+
+    Discover the world's research   
+ 25+ million members 
+  160+ million publication pages 
+  2.3+ billion citations 
+  Join for free     
+
+     Public Full-text 1    
+
+ Content uploaded by Jolita Ralyte    
+   
+ Author content    
+   
+ All content in this area was uploaded by Jolita Ralyte on Dec 29, 2015   
+
+ Content may be subject to copyright.   
+
+ The Practice of Enterprise Modelling    
+ 8th IFIP WG 8.1 Working Conference PoEM 2015      
+ Valencia, Spain, November 10 - 12, 2015       
+
+ Proceedings of   
+ Short and Doctoral Consortium Papers    
+   
+ Edited by   
+
+ Sergio España   
+ Utrecht University, The Netherlands    
+   
+ Jolita Ralyté   
+ University of Geneva, Switzerland   
+
+ Pnina Soffer   
+ University of Haifa, Israel    
+   
+ Jelena Zdravkovic   
+ Stockholm University, Sweden   
+
+ Óscar Pastor   
+ Universitat Politècnica de València, Spain    
+
+ PoEM%2015 %    
+ !   
+ November(10- 12,(2015  (   
+ Valencia,(Spain(   
+ http://www.pros.upv.es/poem2015 ((    
+
+ PoEM 2015    
+ Short and Doctoral Consortium Papers    
+   
+ Proceedings   
+
+ This  volume  of  CEUR - WS    Proceedings  contains     9  short  and  5  d  octoral  c  onsortium    
+ papers  presented  at  the  8 th  IFIP   WG  8.1  worki  ng  c onference  on  the  Practice  of       
+ Enterprise  Model ling  ( PoEM  2015 ).     The  conference  was  held  in  Valencia  ,  Spain  ,        
+ November 10 -  12, 2015 .        
+
+ Copyright © 2015 for the individual papers by the papers’ authors.     Copying permitted   
+ only for private and academic purposes.  This volume is published and copyrighted by   
+ its editors.    
+
+ CEUR -   WS.org, ISSN  1613 - 0073       
+
+ PoEM 2015 Short Papers Foreword       
+ The  8 th  IFIP  WG  8.1  working  c onference  on  the  Practice  of  Enterprise  Model l    ing     
+ ( PoEM  2015 ) was  held in  Valencia ,    Spain,  from  10 to  12  November  2015 . Since  its     
+ foundation in 2008, the PoEM  conference series aims at understanding and imp  roving      
+ the  practice  of  Enterprise  Modelling  (EM)  by  offering   a  forum  for  sharing   
+ experiences and knowledge  between the  academic community  and practitioners  from     
+ industry  and  the  public  sector. It  has  traditionally  covered    topics   such  as  EM   and   
+ information  system  development,  enterprise  arch  itecture,  business  and  IT  alignment,   
+ EM  and business  process  improvement,  Enterprise  modelling  too  ls an  d f  rameworks,    
+ quality  issues  in  EM,  change  management  and  organizational  transformation   
+ underpinned by information technology approaches.    
+ This edition, PoEM received  72 submissions covering a large variety of EM topics.      
+ All  submissions  were  subject  to  peer  review  and  were  assessed  by  at  least  3   
+ Programme  Commit  tee  members,   who  provided  constructive  recommendations  for    
+ further  improvement .  This  CEUR  Proceedings  volume  contains  the  accepted  9  short    
+ papers.  Full  papers  are  available  in  the  PoEM  201 5   Proceedings,  published      by   
+ Springer on  the  volume  235  of  their  Lecture  Notes  in  Business  Information      
+ Processing series  .  The  authors  of  the se  short  papers represent      8  countries:  Brazil,       
+ Germany,  Israel  ,  Italy  ,  Luxembourg  ,    Norway  ,  Sweden  and  Swit  zerland .  T he  papers         
+ were  presented  in  two  sessions:  Reflecting  on  Practice  and  Experiences ,  and       
+ Approaching Enter  prise Modelling  from New Angles .    
+ We owe special  thanks  to  the  authors  who  submitted papers,  for  their  trust  in the      
+ relev ance  and  rigour  of  this  conference,  and  to  the  members  of  the  i nternational       
+ Program Com  mittee and  additional  reviewers,  for prom  oting the  conference,  as  well     
+ as for providing valuable reviews for the submitted papers. We are  also grateful to the    
+ PoEM  Steer  ing  Committee  Chairs  for  their  continuous  assistanc  e and    to  the  local    
+ organising team at the Universi tat Polit è   cnica de Val è    ncia  for their hospitality and the   
+ organisation of  the  so cial  events  of  the  conference. Furthermore,  we   appreciate    how   
+ the Session C hairs and audience contributed to experience     lively Short Paper sessions.     
+   
+ October 201  5     
+ Sergio España    
+ Jolita Ralyté    
+ Ó scar  Pastor     
+
+ PoEM 2015 Doctoral Consortium Foreword    
+ PoEM 2015  has  organised  and  held  a  Doctoral  Consortium  for the  first  time  in  this     
+ series of conferences. The ambition behind  was to enrich the PoEM conference with  a   
+ forum  intended  to  bring  together  PhD   students  working  on  foundations,  methods,   
+ tools and appli cations of Enterprise Modelling, and provide them w  ith the opportunity    
+ to present and discuss their research  with other academics.    
+ In  p  articular,  the  goals  of  the  Doctoral  Consortium   were  to  provide  fruitful   
+ feedback  and  advice  to  the  selected PhD  students  on  their  research  studies,  to  meet     
+ senior  academics  do  ing  research  on  topics  related  to  the  Enterprise  Modelling   
+ discipline,  as  well  as  to  interact w  ith other  PhD   students and  stimulate  exchange  of   
+ ideas and suggestions among p  articipants.    
+ The  PoEM  2015  D octoral  Consortium  received  8  submissions  from  Belgium,    
+ Canada,  France, Germany,  Italy,  Sweden, Tunisia  and  United  Kingdom,  5  of  which   
+ were accepted. Eac  h paper was reviewed by t  wo members of the Progra  m Committee,   
+ and also assessed by the Doctoral Consort ium Chairs.     
+ The  Doctoral  Consortium  included  a  tuto  rial  by  Prof.  Paul  Johannesson  from   
+ Stockholm University, “Design Science - a Ritual  for Legitimating Weak Research or     
+ a  Tool  for  Making  Research  Relevant?”  In  addition  the  five  accepted  papers  w  ere   
+ presented and discussed.    
+ We would like to express our  gratitude to the mento  rs of the Doctoral Consor  tium,   
+ as  well  as  to  the mem  bers  of  the  Program  Committee for  their   efforts  in  providing   
+ very thorough evaluations of the  submitted doctoral papers. We also wish  to thank all     
+ PhD  students  who  submitted  papers  for  having  shared  their  work  with  us.  We  owe   
+ special  thanks  to  the  Programme  Chairs  and  the  Local  Organisation  Committee  of   
+ PoEM 2015 for their support.    
+
+ October 201  5     
+ Pnina Soffer    
+ Jelena Zdravkovic    
+
+ Confere nce Organization     
+ Steering Committee   
+ Anne Persson    University of  Sk ö vde, Sweden      
+ Janis Stirna   Stockholm University, Sweden     
+ Kurt Sandkuhl   The University of Rostock  , Germany      
+ General Chair   
+ Ó scar Pastor   Universitat Pol  it è cnica de Val  è ncia, Spain         
+ Program Committee Chairs   
+ Jolita Ralyt é   University of Geneva, Swit  zerland       
+ Sergio Espa ñ a   Utrecht Universi  ty, The Netherl  ands        
+ Organising Chairs   
+ Tanja Vos   Universitat Pol  it è cnica de Val  è  ncia, Spain        
+ Marcela Rui  z   Universitat Pol  it è cnica de Val  è ncia, Spain        
+ Doctoral Consortium Chairs   
+ Pnina Soffer   University of Haifa,  Israel      
+ Jelena Zdravkovic Stockholm University, Sweden      
+ Workshops Chairs   
+ Charlotte Hug   Universit  é Paris 1 Panth é on -    Sorbonne,  France       
+ Francisco Valverde Univers  itat Polit è cnica de Val  è ncia, Spai  n        
+ Pub licity Chair    
+ Fáber Giraldo   Universit  y of Quindío, Col  ombia      
+
+ Program Committee   
+ Raian Ali    Bournemouth University  , UK    
+ Dimosthenis Anagnostopoulos  Haroko  pio University o  f Athens, Greece       
+ Hernán Astudillo   Universidad Técn  ica Federico Sa  nta María, Chile    
+ Mar ko Bajec   University of  Ljubljana, Slove  nia       
+ Judith Barrios   Albor  noz University of  Los Andes, Colomb  ia      
+ Giuseppe Berio    Université de Bretagne Sud, France     
+ Robert Andrei Buchmann Uni  versity of Vie  nna, Austria      
+ Rimantas Butleris Ka  unas University  of Technology, Lithuania       
+ Albertas Caplin  skas Institute of Mathematics and Informatics, Lithuania      
+ Juan Pablo Carvallo Universidad del  Azuay, Equator      
+ Jaelson Castro   Universida  de Federal de Pe  rnambuco, Brazil      
+ Tony Clark   Middlesex Unive  rsity, UK      
+ Jose Luis d e La Vara Carlos III Univers  ity of Madrid, Spai  n      
+ Wolfgang De  iters Fraunhofer  Institute for Software and Syst  ems      
+    Engineering, Germany    
+ Dulce Domingos   FCUL, Portugal     
+ Sergio España   Utrecht Univer  sity, The Nether  lands      
+ Xavier Franch    Universi  tat Politèc nica de  Catalunya, Spain     
+ Ulrich Frank    Universität of Dui  sburg Essen, Ger  many    
+ Giovanni Giachet  ti  Universidad  Andres Bello, Fac  ultad de Ingeni  erí a, Chile    
+ J ē  nis Grabis   Riga Technical University,  Latvia        
+ Stijn Hoppenbrouwers HAN Univer  sity of Applied  Sc iences, The Netherlands       
+ Paul Johannesson Royal Inst  itute of Technolog  y, Sweden      
+ Juergen Jung   DHL Global Mai  l, Germany      
+ Hå vard Jø rgens  en Commitment AS, Norway      
+ Monika Kacz  marek Universit  y Duisburg Essen,  Germany      
+ Ron Kenett   KPA Ltd. and Universi  ty of T orino, Italy       
+ Lutz Kirchner   Scape Consulting GmbH, Germany     
+ Marite Kir  ikova  Riga Technical University, Latvia     
+ John Krogstie   IDI, NTNU, Norway     
+ Birger Lantow   University of Rost  ock, Germany      
+ Ulrike Lechner    Universität der Bundeswehr  München, Germany      
+ Pericles Loucopoulos Univer  sity of Manchest  er, UK      
+ Beatriz Marín   Universidad Diego Portal  es, Chile      
+ Florian Matthes   Techni  sche Universität München,  Germany      
+ Raimundas Matulev  i č  ius Universit  y of Tartu, Est  onia       
+ Graham Mcleod  Inspired.org, South Africa     
+ J an Mendling   Wirts  chaftsuni  versität  Wien, Austr  ia       
+ Christer Nellborn  Nellborn Management  Consulting AB, Swe  den      
+ Andreas L Opdahl  University of Be  rgen, Norway      
+ Óscar Pastor    Universitat Politècnica de  València, Spain    
+ Anne Persson    University of  Skövde, Sw eden     
+ Michael Pet  it   University of Namur, Bel  gium      
+ Ilias Petrounias   University of Manches  ter, UK      
+
+ Henderik Proper    Luxembourg Institute of Science and Technolog  y,     
+ Luxembourg    
+ Jolita Ralyté   Uni  versity of Genev  a, Switzerland      
+ Colette Rolland   Universit  é Paris 1 Panthé on -  Sorbonne, France         
+ Daniel Romero    Universidad Nacio  nal de Asunción,  Paraguay    
+ Francisco Ruiz   University of Castilla la  Mancha, Spain      
+ Irina Rychkova   Université Paris 1 Panthé on -  Sorbonn  e, France       
+ Kurt Sandkuhl    University of  Rostock, Germany    
+ Ulf Seigerroth    Jönköping University, Sweden     
+ Khurram Shahzad Roya  l Institute of  Technology, Sweden      
+ Nikolay Shilov  S  PIIRAS, Russia  n Federation      
+ Pnina Soffer   University of Haifa,  Israel      
+ Janis Stirna   Stockholm University, Sweden     
+ Darijus Strasunskas   DS  Applied Science,  Norway    
+ Stefan Strecker   University of Hagen,  Germany      
+ Victoria Torres     Universitat Politècnica d  e València, Spai  n    
+ Francisco Valverde Univers  itat Politècni  ca de València,  Spain      
+ Olegas Vasilecas Vilnius Gedimina  s Technical  Univer  sity, Lithuani  a      
+ Pablo Villarreal   Uni  versidad Tecnoló  gica Nacional - Facultad  Regional        
+ Santa Fe, Argentina    
+ Frank Wolff   DHBW -   Mannheim, Ge  rmany      
+ Eric Yu    Universit  y of Toronto,  Canada      
+ Jelena Zdravkovic Stockholm University, Sweden      
+ Additional Revi ewers    
+ Nadia Abdu    Universit ä   t der Bundeswehr M ü  nchen, Germany      
+ Nathalie Aquino   Univer  sidad Nacional d  e Asunci ó n, Paraguay        
+ Marija Bje  kovi ć   Public Research Centre Henri Tudor, Luxembourg      
+ Alexander Bock   Universit ä   t of Duisburg Essen, Germany     
+ Anis Bouba ker     University of Quebec at  Montreal, Canada    
+ Paulius Danenas   Kaunas Universi  ty of Technology,  Lithuania      
+ Mohammad Hoss  ein Danesh  Universi  ty of Toronto,  Canada       
+ Sybren De Kinderen Luxembourg Insti  tute of Science and Tech  nology,      
+ Luxembourg    
+ Khaled Gaaloul   Luxembourg Insti  tute of Science and Tech  nology,      
+ Luxembourg    
+ Fá ber Giraldo   University of Qu  ind í o, Colombia         
+ Jens Gulden   Technische Universit ä t M ü  nchen, Germany        
+ Matheus Hau  der   Technische Universit ä t M ü  nchen, Germany        
+ Elena Kushnareva Univers  it é Paris  1 Panth é  on -   Sorbonne, France          
+ Alexei Lapouchni  an  University of  Toronto, Canada    
+ Karolyne Oliveir  a  Universidade F  ederal de Pernamb  uco, Brazil    
+ Audrius Rima    Vilnius Gedi  minas Technical  University, Lith  uania    
+ Marcela Rui  z   Universitat Pol  it è cnica de Val  è ncia  , Spain        
+ Alexander W. Schn  eider Technische Univers  it ä t M ü  nchen, Germany         
+
+ Tomas Skersys   Kaunas University  of Technology, Li  thuania      
+ Dirk van der Li  nden Luxembourg Institute  of Science and Technology,      
+ Luxembourg    
+ J é  ssyka Vilela   Universidade Federal  de Per nambuco, Brazil        
+   
+ Doctoral Consortium Mentors   
+ Paul Johannesson  Stockholm Universit  y, Sweden    
+ Jelena Zdravkovic Stockholm University, Sweden      
+ Raimundas Matulevi č  ius  Un  iversity of Tar  tu, Estonia      
+ Anne Persson    University of  Skövde, Sweden    
+ Geert Poels    Ghent University  , Belgium    
+ Doctoral Consortium Program Committee   
+ Paul Johannesson  Stockholm Universit  y, Sweden    
+ John Krogstie   IDI, NTNU, Norway     
+ Raimundas Matulevi č  ius  Un  iversity of Tar  tu, Estonia      
+ Anne Persson    University of  Skövde, Sweden    
+ Geert Poels    Ghent Uni versity, Belgium     
+ Irina Rychkova   Université Paris 1 Pa  nthé on - Sorbonne, France        
+ Kurt Sandkuhl    University of  Rostock, Germany    
+ Ulf Seigerroth    Jönköping University, Sweden     
+ Janis Stirna   Stockholm University, Sweden     
+
+ Table of Contents    
+ Short Papers 1: Reflecting on  Practice and Experiences    
+   
+ Participative Design of a Sec  urity Risk Reference Model: an Exper  ience in the   
+ Healthcare Sect  or  Application     
+ Lou Schwartz, Eric Gr andry, Jocelyn Aubert,  Marie - Laure Watrinet and      
+ Hervé Cholez    
+   
+ 1   
+   
+ Modeling As - is, Ought  - to  - be and To -  be – Experienc  es from a Case study in t  he       
+ Health Sector    
+ Snorre Fossland and John Krogstie    
+   
+ 11    
+   
+ Insights from a Study on Decision Making in Ent  erprise Archite  cture     
+ Dirk van der Li  nden and Marc van  Zee    
+   
+ 21    
+   
+ Initial  Ex  periences  in  Developing  a  Reference  Enterprise  Architecture  for   
+ Small and Medium - Sized Utilities      
+ Felix Timm, Christina Köpp,  Kurt Sandkuhl and Matthias  Wißotzki    
+   
+ 31    
+   
+ Short Papers 2: Approaching Enterpris  e Modelling from New Angles    
+   
+ Adapting an Ente  rprise Architec  ture for Busines  s Intelligence    
+ Pascal von Bergen, Knut Hi  nkelmann and Hans Friedrich Wit  schel    
+   
+ 41    
+   
+ From Visual Language to Ontology Repres  entation: Using OWL for    
+ Transitivity Analysis  in 4EM    
+ Birger Lantow and Kurt Sandk  uhl    
+   
+ 51   
+   
+ Ontology - based Modeling of Cloud Services:  Challenges and Perspectives      
+ Barbara Livieri, Nicola  Guarino, Marco Zappatore, Gia  ncarlo Guizzardi,   
+ Mario Bochic  chio, Antone  lla Longo, Julio Cesar Nardi, Gl  aice Kelly     
+ Quirino, Monaless  a Barcellos and  Ricardo A. Falbo    
+   
+ 61    
+   
+ Agile Design of  Sustainable Net  worked Enterprise  s    
+ Frank Lillehagen and John  Krogstie    
+   
+ 71    
+   
+ Modeling Au  thorizatio  n in Enter  prise - wide Conte  xts      
+ Matus Korman,  Robert Lagerström and Mathias  Ekstedt      
+   
+ 81    
+   
+ Doctoral Consort  ium Papers    
+   
+ A Context Modelli  ng Method to Enha  nce Business Serv  ice Flexibilit  y in   
+ Organisations    
+ Hasan Koç    
+   
+ 91    
+   
+ Towards an Ontology of Economi  c Value    
+ Barbara Livieri    
+   
+ 99    
+
+ Enterprise Architecture  Modeling for Business and IT Alignment      
+ Julia Kaidalova    
+   
+ 108    
+   
+ Modelling  and Facili  tating User  - Generated Feedback  for Enterprise      
+ Information Systems Evaluation    
+ Nada Sherief    
+   
+ 117    
+   
+ Modeling So  ftware Proc  ess Config  urations f  or Enterpr  ise Adaptab  ility    
+ Zia Babar    
+   
+ 125    
+
+ Citations (0)  
+
+  References (0)  
+
+ ResearchGate has not been able to resolve any citations for this publication.   
+
+ ResearchGate has not been able to resolve any references for this publication.   
+
+ Recommended publications  
+   
+ Discover more about: Enterprise Modeling    
+
+ Book    
+ Full-text available    
+   
+ The Practice of Enterprise Modeling 8th IFIP WG 8.1. Working Conference, PoEM 2015, Valencia, Spain,...   
+ November 2015  · Lecture Notes in Business Information Processing    
+ Jolita Ralyte 
+  Sergio España 
+  Oscar Pastor 
+  View full-text    
+
+ Conference Paper    
+ Full-text available    
+   
+ Panel Discussion: Enterprise Modeling in the Digital Age   
+ November 2020    
+ Jolita Ralyte 
+  Jelena Zdravkovic 
+  Dirk van der Linden 
+  Kurt Sandkuhl 
+  This paper reports the discussion of the "Enterprise Modelling in Digital Age" plenary panel held at the PoEM2020 conference. The panel was concerned with the interplay between emergent digitalization, big data, high complexity, needs for competencies and collaboration, in the scope of enterprise modelling methods and enterprise architecture frameworks. Both in terms how these global ... [Show full abstract]  organisations related phenomena provide new challenges to be included in enterprise modelling, as well as of how they can benefit from the modeling.    
+ View full-text    
+
+ Book    
+ Full-text available    
+   
+ IEEE 10th International Conference on Research Challenges in Information Science, RCIS 2016, Proceed...   
+ July 2017    
+ Sergio España 
+  Jolita Ralyte 
+  Carine Souveyet 
+  View full-text    
+
+ Book    
+   
+ Short Paper Proceedings of the 6th IFIP WG 8.1 Working Conference on the Practice of Enterprise Mode...   
+ January 2013    
+ Jelena Zdravkovic 
+  Janis Grabis 
+  Marite Kirikova 
+  Janis Stirna 
+  Read more    
+
+ Interested in research on Enterprise Modeling?   
+ Join ResearchGate to discover and stay up-to-date with the latest research from leading experts in Enterprise Modeling  and many other scientific topics.   
+
+ Join for free     
+
+ ResearchGate iOS App    
+   
+ Get it from the App Store now.   
+
+ Install     
+
+ Keep up with your stats and more   
+
+ Access scientific knowledge from anywhere   
+
+ or   
+   
+ Discover by subject area     
+
+ Recruit researchers 
+  Join for free 
+  Login      Email   Tip:  Most researchers use their institutional email address as their ResearchGate login         Password  Forgot password?      Keep me logged in   Log in    or    Continue with Google                 
+ Welcome back! Please log in.        Email · Hint  Tip:  Most researchers use their institutional email address as their ResearchGate login          Password   Forgot password?       Keep me logged in    Log in    or    Continue with Google       No account? Sign up 
+
+ Company   
+ About us    
+ News    
+ Careers    
+
+ Support   
+ Help Center    
+
+ Business solutions   
+ Advertising    
+ Recruiting    
+
+ © 2008-2024 ResearchGate GmbH. All rights reserved.   
+   
+ Terms 
+  Privacy 
+  Copyright 
+  Imprint 
+  Consent preferences 
+
+      

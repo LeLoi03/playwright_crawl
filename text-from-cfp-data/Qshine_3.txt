@@ -1,0 +1,571 @@
+               
+
+ Home 
+  Computer Networks 
+  Ad Hoc Networks 
+  Computer Science and Engineering 
+  Computer Communications (Networks) 
+  Mobile Ad Hoc Networks 
+    
+ Conference Paper  Evaluation of a QoS-Aware Protocol with Adaptive Feedback Scheme for Mobile Ad Hoc Networks (Short Paper)  
+ January 2009 
+  Lecture Notes of the Institute for Computer Sciences 
+    
+ DOI: 10.1007/978-3-642-10625-5_8    
+ Source 
+  DBLP 
+    
+ Conference: Quality of Service in Heterogeneous Networks, 6th International ICST Conference on Heterogeneous Networking for Quality, Reliability, Security and Robustness, QShine 2009 and 3rd International Workshop on Advanced Architectures and Algorithms for Internet Delivery and Applications, AAA-IDEA 2009, Las Palmas, Gran Canaria, Spain, November 23-25, 2009, Proceedings 
+
+ Authors:   
+      
+ W. Eduardo Castellanos    
+ Pontificia Universidad Javeriana 
+
+ Patricia Acelas    
+ Universitat Politècnica de València 
+
+ Pau Arce    
+ Universitat Politècnica de València 
+
+ Juan Carlos Guerri    
+ Universitat Politècnica de València 
+
+   Request full-text PDF   To read the full-text of this research, you can request a copy directly from the authors.  
+
+   Request full-text     
+   Download citation     
+   Copy link  Link copied      
+         
+      Request full-text   
+      Download citation   
+     Copy link  Link copied    
+
+ To read the full-text of this research, you can request a copy directly from the authors.   
+
+ Citations (10)   
+   
+  References (13)   
+
+ Abstract  
+   
+ Due to bandwidth constraint and highly dynamic topology in ad hoc network systems, one of the major challenges is the deployment of end-to-end quality-of service support mechanisms. Time-sensitive communications like video applications may be seriously disrupted if these QoS support mechanisms don’t exist. In this paper we propose a QoS routing protocol based on AODV (AQA-AODV), which creates routes according to application QoS requirements. We have introduced link and path available bandwidth estimation mechanisms and an adaptive scheme that can provide feedback to the source node about the current network state, to allow the application to appropriately adjust the transmission rate. The simulation results reveal the performance improvements in terms of packet loss and delay while the end-to-end throughput is not affected compared with the throughput achieved by other protocols like AODV.   
+
+    Discover the world's research   
+ 25+ million members 
+  160+ million publication pages 
+  2.3+ billion citations 
+  Join for free     
+
+ No full-text available  
+
+ To read the full-text of this research,  
+  you can request a copy directly from the authors.  
+   
+   Request full-text PDF     
+
+ Citations (10)  
+
+  References (13)  
+
+ ... Furthermore, the end-user devices [3] [17] are highly heterogeneous, ranging from high-end mobile nodes to low-end PDAs and mobile phones. Traditionally, middleware [6]  [10] is used to abstract from this heterogeneity and to enable the application programmer to focus on application issues. The research work proposes to develop scheduler supported services approach which can provide quality services for information sharing in MANETs, due to the possibility that sharing information is mission critical for critical network applications. ...   
+
+ ... Either an admission control scheme is used during route discovery, or adaptive feedback is embedded in the route reply packets. This procedure is an extension to AODV [6]  , a standard MANET routing protocol, since it can be easily implemented in an adaptive MANET setup. I-LABS scheme adopts similar route information where the best neighbor is identified based on the energy of a neighbor. ...   
+
+ ... The end to end delay has decreased by 20% in I-LABS. The delay curve for protocol AODV [6]  with WFQ, RED [21] is shown in Figure 4. I-LABS show an improvement of minimal delay over WFQ approach. This scheme is preferred since it is commonly adopted for Best Effort Services in a wireless scenario. ...   
+
+ An improved load balancing adaptive QoS buffer scheduler (I-LABS) for steaming services over MANET    
+   
+ Article    
+ Full-text available    
+ Mar 2014 
+
+ Dr. Ayyasamy A 
+  K. Venkatachalapathy 
+
+ View     
+
+ ... Furthermore, the end-user devices [3] [17] are highly heterogeneous, ranging from high-end mobile nodes to low-end PDAs and mobile phones. Traditionally, middleware [6]  [10] is used to abstract from this heterogeneity and to enable the application programmer to focus on application issues. The research work proposes to develop scheduler supported services approach which can provide quality services for information sharing in MANETs, due to the possibility that sharing information is mission critical for critical network applications. ...   
+
+ ... Either an admission control scheme is used during route discovery, or adaptive feedback is embedded in the route reply packets. This procedure is an extension to AODV [6]  , a standard MANET routing protocol, since it can be easily implemented in an adaptive MANET setup. I-LABS scheme adopts similar route information where the best neighbor is identified based on the energy of a neighbor. ...   
+
+ ... The end to end delay has decreased by 20% in I-LABS. The delay curve for protocol AODV [6]  with WFQ, RED [21] is shown in Figure 4. I-LABS show an improvement of minimal delay over WFQ approach. This scheme is preferred since it is commonly adopted for Best Effort Services in a wireless scenario. ...   
+
+ An improved load balancing adaptive QoS buffer scheduler (I-LABS) for steaming services over MANET    
+   
+ Article    
+ Full-text available    
+ Mar 2014 
+
+ Dr. Ayyasamy A 
+  K. Venkatachalapathy 
+    
+ Large variations in network Quality of Service (QoS) in terms of bandwidth, latency, jitter may occur during media transfer over Mobile Ad-hoc Networks (MANETs). Researchers have identified that complex computing applications experience “bursty” QoS behavior during their execution. Applications have to adapt their functions to any change in network status. Moreover, on enhanced software platform is necessary to provide adaptive network management services to upper software components. I-LABS, middleware architecture for service adaptation, are based on ad hoc network and service awareness. I-LABS is structured in such a way as to provide both QoS awareness to streaming applications and manage dynamic ad hoc network resources in an adaptive scheduler fashion. The overall architecture of I-LABS framework includes core components to connection establishment, connection monitor, policy manager and connection controller. Adaptive scheduler mechanisms are introduced as object based components such that I-LABS has been implemented using ns2 simulator toolkit to demonstrate the performance of mobile setup as a conference application.    
+
+ View     
+ Show abstract      
+
+ ... Therefore, in order to dynamically adapt the video stream, it is necessary to have a mechanism to estimate the available bandwidth and report to the source video. This article proposes the use of AQA-AODV protocol (Adaptive QoS-Aware Ad-hoc On-demand Distance Vector) [37]  for this purpose. AQA-AODV is an interlayers (cross-layer) solution that enables: estimating the available bandwidth, information exchange between layers (network, transport and application) and the establishment of routes within the MANET. ...   
+
+ ... The third module is the route recovery module, which is responsible for detecting connectivity faults and re-establish routes to the destination, taking into account the conditions of QoS previously established. A preliminary performance evaluation of AQA-AODV during the transmission of data flows over MANETs was presented in [37]  . ...   
+
+ Simulation and Experimental Testbed for Adaptive Video Streaming in Ad hoc Networks    
+   
+ Article    
+ Jul 2016 
+  AD HOC NETW 
+
+ Santiago Gonzalez Martinez 
+  W. Eduardo Castellanos 
+  Paola Guzman 
+  Juan Carlos Guerri 
+    
+ This paper presents a performance evaluation of the scalable video streaming over mobile ad hoc networks. In particular, we focus on the rate-adaptive method for streaming scalable video (H.264/SVC). For effective adaptation a new cross-layer routing protocol is introduced. This protocol provides an efficient algorithm for available bandwidth estimation. With this information, the video source adjusts its bit rate during the video transmission according to the network state. We also propose a free simulation framework that supports evaluation studies for scalable video streaming. The simulation experiments performed in this study involve the transmission of SVC streams with Medium Grain Scalability (MGS) as well as temporal scalability over different network scenarios. The results reveal that the rate-adaptive strategy helps avoid or reduce the congestion in MANETs obtaining a better quality in the received videos. Additionally, an actual ad hoc network was implemented using embedded devices (Raspberry Pi) in order to assess the performance of the proposed adaptive transmission mechanism in a real environment. Additional experiments were carried out prior to the implementation with the aim of characterizing the wireless medium and packet loss profile. Finally, the proposed approach shows an important reduction in energy consumption, as the study revealed.    
+
+ View     
+ Show abstract      
+
+ ... Therefore, in order to dynamically adapt the video stream, it is necessary to have a mechanism to estimate the available bandwidth and report to the source video. This article proposes the use of AQA-AODV protocol (Adaptive QoS-Aware Ad-hoc On-demand Distance Vector) [37]  for this purpose. AQA-AODV is an interlayers (cross-layer) solution that enables: estimating the available bandwidth, information exchange between layers (network, transport and application) and the establishment of routes within the MANET. ...   
+
+ ... The third module is the route recovery module, which is responsible for detecting connectivity faults and re-establish routes to the destination, taking into account the conditions of QoS previously established. A preliminary performance evaluation of AQA-AODV during the transmission of data flows over MANETs was presented in [37]  . ...   
+
+ Performance Evaluation of Scalable Video Streaming in Mobile Ad hoc Networks    
+   
+ Article    
+ Jan 2016 
+  Lat Am Trans IEEE 
+
+ W. Eduardo Castellanos 
+  Juan Carlos Guerri 
+  Pau Arce 
+    
+ The development of video streaming services on wireless ad hoc networks is a challenge task as a consequence of different limitations such as bandwidth-constrained, variable capacity links and energy-constrained operation. Moreover, the dynamic topology of nodes causes frequent link failures and high error rates. We propose in this paper a performance evaluation of the scalable video streaming over mobile ad hoc networks. In particular, we focus on the rate-adaptive strategy for streaming scalable video (H.264/SVC). In order to provide QoS mechanisms in the routing process, a new routing protocol is introduced. This protocol estimates the available bandwidth value, which is sent to video source in order to adapt the bit rate during the video transmission. We also propose a simulation framework that supports evaluation studies for scalable video streaming. In the simulation experiments, SVC streams with combined scalability (quality and temporal scalability) were used. As quality scalability method, we used Medium Grain Scalability (MGS). The results reveal that the rate-adaptive method helps avoid or reduce the congestion in MANETs obtaining a better quality in the received videos.    
+
+ View     
+ Show abstract      
+
+ ... Once source node receives the QRREP packet, it adjusts its transmission rate according to the value of the field minbandwidth in QRREP and then the transmission of the data packets is started. A more detailed information of AQA-AODV can be consulted in the references [18,  19] ...   
+
+ A hybrid gateway discovery algorithm for supporting QoS communications in heterogeneous networks    
+   
+ Article    
+ Full-text available    
+ Mar 2016 
+
+ W. Eduardo Castellanos 
+  Juan Carlos Guerri 
+  Mónica Edith Chacón Osorio 
+    
+ In most practical applications, ad hoc mobile devices demand the access to wired hosts located beyond the limits of the mobile ad hoc network, forming a heterogeneous wired-cum-wireless network. This interconnection requires a network device known as gateway. The gateway functions as a bridge between the ad hoc environment and infrastructure-based networks, as Internet. We propose in this paper an algorithm for the discovery and selection of gateways and its integration in a routing protocol for mobile ad hoc networks. Our proposed algorithm is based on an adaptive hybrid strategy where the proactive and reactive methods are combined. Consequently, gateways maintain routing information sending advertisement messages to mobile nodes inside a limited range (proactive area). Those nodes located outside that area must execute a reactive gateway discovery process. The size of the proactive area and the frequency of the control messages are dynamically adapted. The simulation results show that our approach achieves better results in terms of packet loss and delay without increasing the routing overhead.    
+
+ View     
+ Show abstract      
+
+ ... This value of α allows the algorithm a fast reaction to changes of the network condition. A more detailed analysis of the algorithm for estimating the available bandwidth as well as details about its implementation, can be found in [24]  . ...   
+
+ AQA-AODV: Protocolo de encaminamiento con QoS para redes inalámbricas ad hoc    
+   
+ Thesis    
+ Sep 2009 
+
+ W. Eduardo Castellanos 
+    
+ Debido a las limitaciones de ancho de banda y a la topología dinámica de las redes móviles ad hoc, uno de los mayores desafíos es el desarrollo de mecanismos de calidad de servicio que permitan que comunicaciones sensibles al retardo (por ejemplo videostreaming), no se vean seriamente afectadas. En esta tesina se propone un protocolo de encaminamiento basado en AODV (AQA-AODV), el cual establece rutas de acuerdo a los requerimientos de la capa de aplicación y el estado de la red. El protocolo propuesto incorpora un esquema de realimentación que permite estimar el máximo ancho de banda que puede soportar una ruta de n saltos e informar al nodo fuente para que éste ajuste apropiadamente su tasa de transmisión. Este es un atributo deseable sobre todo en aplicaciones donde es posible adaptar algunos parámetros en la codificación de fuente para reducir la tasa de envío. Los resultados de las simulaciones muestran mejoras importantes en términos de pérdidas de paquetes y el retardo, mientras que el throughput no se ve afectado en comparación con el throughput alcanzado con otros protocolos como AODV.    
+
+ View     
+ Show abstract      
+
+ redin No. 78, March 2016    
+   
+ Book    
+ Mar 2016 
+
+ Revista Facultad de Ingeniería 
+
+ View     
+
+ Mechanisms for Improving the Scalable Video Streaming in Mobile Ad Hoc Networks    
+   
+ Conference Paper    
+ Nov 2015 
+
+ W. Eduardo Castellanos 
+  Paola Guzman 
+  Pau Arce 
+  Juan Carlos Guerri 
+    
+ This paper presents a performance evaluation of the scalable video streaming over mobile ad hoc networks. In particular, we focus on the rate-adaptive method for streaming scalable video (H.264/SVC). For effective adaptation a new cross-layer routing protocol is introduced. This protocol provides an efficient algorithm for available bandwidth estimation. With this information, the video source adjusts its bit rate during the video transmission according to the network state. We also propose a free simulation framework that supports evaluation studies for scalable video streaming. The simulation experiments performed in this study involve the transmission of SVC streams with Medium Grain Scalability (MGS) as well as temporal scalability over different network scenarios. The results reveal that the rate-adaptive strategy helps avoid or reduce the congestion in MANETs obtaining a better quality in the received videos.    
+
+ View     
+ Show abstract      
+
+ A QoS-aware routing protocol with adaptive feedback scheme for video streaming for mobile networks    
+   
+ Article    
+ Aug 2015 
+  COMPUT COMMUN 
+
+ W. Eduardo Castellanos 
+  Juan Carlos Guerri 
+  Pau Arce 
+    
+ One of the major challenges for the transmission of time-sensitive data like video over mobile ad-hoc networks (MANETs) is the deployment of an end-to-end QoS support mechanism. Therefore, several approaches and enhancements have been proposed concerning the routing protocols. In this paper we propose a new QoS routing protocol based on AODV (named AQA-AODV), which creates routes according to application QoS requirements. We have introduced link and path available bandwidth estimation mechanisms and an adaptive scheme that can provide feedback to the source node about the current network state, to allow the application to appropriately adjust the transmission rate. In the same way, we propose a route recovery approach into the AQA-AODV protocol, which provides a mechanism to detect the link failures in a route and re-establish the connections taking into account the conditions of QoS that have been established during the previous route discovery phase. The simulation results reveal performance improvements in terms of packet delay, number of link failures and connection setup latency while we make more efficient use of the available bandwidth than other protocols like AODV and QAODV. In terms of video transmission, the obtained results prove that the combined use of AQA-AODV and the scalable video coding provides an efficient platform for supporting rate-adaptive video streaming.    
+
+ View     
+ Show abstract      
+
+ Route recovery algorithm for QoS-aware routing in MANETs    
+   
+ Conference Paper    
+ May 2011 
+
+ W. Eduardo Castellanos 
+  Pau Arce 
+  Patricia Acelas 
+  Juan Carlos Guerri 
+    
+ The communications inside MANETs usually show frequent disruptions due to changes in topology and the condition of having a shared physical channel. It is necessary to implement a mechanism to maintain connectivity and ensure Quality of Service (QoS). In this paper we introduce a route recovery mechanism for a QoS routing protocol called AQA-AODV (Adaptive QoS-Aware AODV) which is an extension of the AODV protocol. Our proposal provides a mechanism to detect the link failures in a route and reestablish the connections taking into account the conditions of QoS that have been established during the route discovery phase. The simulation results reveal performance improvements in terms of packet delay, number of link failures and connection setup latency while the end-to-end throughput is not affected compared with the throughput achieved by other protocols like AODV.    
+
+ View     
+ Show abstract      
+
+ Determining Intra-Flow Contention along Multihop Paths in Wireless Networks.    
+   
+ Conference Paper    
+ Full-text available    
+ Jan 2004 
+
+ Kimaya Sanzgiri 
+  Ian D. Chakeres 
+  Elizabeth M. Belding 
+    
+ Admission control of flows is essential for providing quality of service in multihop wireless networks. In order to make an admission decision for a new flow, the expected bandwidth consumption of the flow must be correctly determined. Due to the shared nature of the wireless medium, nodes along a multihop path contend among themselves for access to the medium. This leads to intra-flow contention; contention between packets of the same flow being forwarded at different hops along a multihop path causing the actual bandwidth consumption of the flow to become a multiple of its single hop bandwidth requirement. Determining the amount of intra-flow contention is non-trivial since interfering nodes may not be able to communicate directly if they are outside each other's transmission range. In this paper, we propose two methods to determine the extent of intra-flow contention along multihop paths. The highlight of the proposed solutions is that carrier-sensing data is used to deduce information about carrier-sensing neighbors, and no high power transmissions are necessary. Analytical and simulation results show that our methods estimate intra-flow contention with low error, while significantly reducing overhead, energy consumption and latency as compared to previous approaches.    
+
+ View     
+ Show abstract      
+
+ Ad hoc on demand distance-vector routing scalability    
+   
+ Article    
+ Full-text available    
+ Jun 2002 
+
+ Sung-Ju Lee 
+  Elizabeth M. Belding 
+  Charles Edward Perkins 
+    
+ As mobile networking continues to experience increasing popularity, the need to connect large num- bers of wireless devices will become more prevalent. Many recent proposals for ad hoc routing have certain characteristics which may limit their scalability to large networks. This paper examines five different combinations of modifications which may be incorporated into virtually any on-demand protocol in order to improve its scalability. The scalability of current on-demand routing protocols is evaluated through the selection of a representative from this class of protocols. The performance of the un-modified on-demand protocol is compared against that of it combined with each of the scalability modifications. Each scheme's behavior is analyzed in networks as large as 10,000 nodes through detailed simulation. Based on the observations, conclusions are drawn as to the expected scalability improvement which can be achieved by each modification.    
+
+ View     
+ Show abstract      
+
+ Ad-hoc on-demand distance vector (AODV) routing    
+   
+ Article    
+ Jan 2003 
+
+ Charles Edward Perkins 
+  Elizabeth M. Belding 
+  S. Das 
+
+ View     
+
+ Ad hoc on-demand distance vector (AODV) routing    
+   
+ Article    
+ Jan 2002 
+
+ Charles Edward Perkins 
+  Elizabeth M. Belding 
+  Das SR 
+
+ View     
+
+ Chapter Ad hoc On-Demand Distance Vector Routing    
+   
+ Article    
+ Jan 2000 
+
+ Charles Edward Perkins 
+  Elizabeth M. Royer 
+  Ad Hoc Networking 
+
+ View     
+
+ Towards Providing Adaptive Quality of Service in Mobile Ad-Hoc Networks    
+   
+ Conference Paper    
+ Jun 2006 
+
+ R. de Renesse 
+  Vasilis Friderikos 
+  A. Hamid Aghvami 
+    
+ Due to the unreliable nature of the wireless medium as well as risks of route failure (mobility), supporting quality of service (QoS) in ad hoc networks is a rather challenging task. In this paper, we propose AQuoS, an exclusive framework which provides and ensures QoS in mobile ad hoc networks (MANETs). Compared to existing work, to our knowledge, AQuoS is the only framework which assume different node capacity limits along with considering multi-hopping and carrier sensing interferences for admission control. To extend our contribution, we also developed a new approach which deals with unexpected lost of QoS guarantees. The low complexity of our scheme along with its flexibility makes it highly scalable for MANETs. Through simulations, we show that AQuoS outperforms SWAN protocol, especially when congestion arises    
+
+ View     
+ Show abstract      
+
+ Ad hoc QoS on-demand routing (AQOR) in mobile ad hoc networks    
+   
+ Article    
+ Feb 2003 
+
+ Qi Xue 
+  Aura Ganz 
+    
+ We introduce a resource reservation-based routing and signaling algorithm, Ad hoc Qos on-demand routing (AQOR), that provides end-to-end quality of service (QoS) support, in terms of bandwidth and end-to-end delay, in mobile ad hoc networks (MANETs). The increasing use of MANETs for transferring multimedia applications such as voice, video and data, leads to the need to provide QoS support. To perform accurate admission control and resource reservation in AQOR, we have developed detailed computations that allow us to estimate the available bandwidth and end-to-end delay in unsynchronized wireless environment. AQOR also includes efficient mechanisms for QoS maintenance, including temporary reservation and destination-initiated recovery processes. The performance of AQOR is studied in detail by simulation using OPNET Modeler. The results validate that AQOR provides QoS support in ad hoc wireless networks with high reliability and low overhead.    
+
+ View     
+ Show abstract      
+
+ Preemptive Routing in Ad Hoc Networks    
+   
+ Conference Paper    
+ Jul 2001 
+
+ Tom Goff 
+  Nael Abu-Ghazaleh 
+  Dhananjay Phatak 
+  Ridvan Kahvecioglu 
+    
+ Existing on-demand ad-hoc routing algorithms initiate route discovery only after a path breaks, incurring a significant cost in detecting the disconnection and establishing a new route. In this work, we investigate adding proactive route selection and maintenance to on-demand ad-hoc routing algorithms. More specifically, when a path is likely to be broken, a warning is sent to the source indicating the likelihood of a disconnection. The source can then initiate path discovery early, potentially avoiding the disconnection altogether. A path is considered likely to break when the received packet power becomes close to the minimum detectable power (other approaches are possible). Care must be taken to avoid initiating false route warnings due to fluctuations in received power caused by fading, multipath effects and similar random transient phenomena. Experiments demonstrate that adding proactive route selection and maintenance to DSR and AODV (on-demand ad hoc routing protocols) significantly reduces the number of broken paths, with a small increase in protocol overhead. Packet latency and jitter also goes down in most cases. We also show some experimental results obtained by running TCP on top of the proactive routing schemes proposed. Several improvements and extensions are also discussed. Pro-active route selection and maintenance is general and can be used with other routing algorithms and optimizations to them. 1.    
+
+ View     
+ Show abstract      
+
+ Bandwidth-Reservation Mechanism for On-Demand Ad hoc Path Findin.    
+   
+ Conference Paper    
+ May 2002 
+
+ Irina V. Gerasimov 
+  Robert Simon 
+    
+ One of the major challenges faced by designers of ad hoc network systems is the deployment of end-to-end quality-of-service support mechanisms. This paper describes QoS-AODV, an integrated route discovery and bandwidth reservation protocol. QoS-AODV is designed to operate within a TDMA network. Unlike other path finding and route discovery protocols that ignore the impact of the data link layer, QoS-AODV incorporates slot scheduling information to ensure that end-to-end bandwidth is actually reserved. Further, QoS-AODV is an enhanced version of the Ad hoc On-demand Distance Vector routing protocol, and is therefore compatible with proposed route discovery and maintenance techniques. In order to test the effectiveness of our protocol we implemented a version of QoS-AODV, along with two similar protocols, in the ns-2 simulator. Our experiments showed the QoS-AODV significantly improved the probability of being able to find an end-to-end QoS path.    
+
+ View     
+ Show abstract      
+
+ On end-to-end architecture for transporting MPEG-4 video over the Internet    
+   
+ Article    
+ Oct 2000 
+
+ Dapeng Wu 
+  Yiwei Thomas Hou 
+  Wenwu Zhu 
+  H. Jonathan Chao 
+    
+ With the success of the Internet and flexibility of MPEG-4 transporting MPEG-4 video over the Internet is expected to be an important component of many multimedia applications in the near future. Video applications typically have delay and loss requirements, which cannot be adequately supported by the current Internet. Thus, it is a challenging problem to design an efficient MPEG-4 video delivery system that can maximize the perceptual quality while achieving high resource utilization. This paper addresses this problem by presenting an end-to-end architecture for transporting MPEG-4 video over the Internet. We present a framework for transporting MPEG-4 video, which includes source rate adaptation, packetization, feedback control, and error control. The main contributions of this paper are: (1) a feedback control algorithm based on the Real Time Protocol (RTP) and the Real Time Control Protocol (RTCP); (2) an adaptive source-encoding algorithm for MPEG-4 video which is able to adjust the output rate of MPEG-4 video to the desired rate; and (3) an efficient and robust packetization algorithm for MPEG video bit-streams at the sync layer for Internet transport. Simulation results show that our end-to-end transport architecture achieves good perceptual picture quality for MPEG-4 video under low bit-rate and varying network conditions and efficiently utilizes network resources    
+
+ View     
+ Show abstract      
+
+ QoS-Aware Routing Based on Bandwidth Estimation for Mobile Ad Hoc Networks    
+   
+ Article    
+ Apr 2005 
+
+ Lei Chen 
+  Wendi Heinzelman 
+    
+ Routing protocols for mobile ad hoc networks (MANETs) have been explored extensively in recent years. Much of this work is targeted at finding a feasible route from a source to a destination without considering current network traffic or application requirements. Therefore, the network may easily become overloaded with too much traffic and the application has no way to improve its performance under a given network traffic condition. While this may be acceptable for data transfer, many real-time applications require quality-of-service (QoS) support from the network. We believe that such QoS support can be achieved by either finding a route to satisfy the application requirements or offering network feedback to the application when the requirements cannot be met. We propose a QoS-aware routing protocol that incorporates an admission control scheme and a feedback scheme to meet the QoS requirements of real-time applications. The novel part of this QoS-aware routing protocol is the use of the approximate bandwidth estimation to react to network traffic. Our approach implements these schemes by using two bandwidth estimation methods to find the residual bandwidth available at each node to support new streams. We simulate our QoS-aware routing protocol for nodes running the IEEE 802.11 medium access control. Results of our experiments show that the packet delivery ratio increases greatly, and packet delay and energy dissipation decrease significantly, while the overall end-to-end throughput is not impacted, compared with routing protocols that do not provide QoS support.    
+
+ View     
+ Show abstract      
+
+ Quality of Service Routing for Supporting Multimedia Applications    
+   
+ Article    
+ Oct 1996 
+
+ Zheng Wang 
+  Jon Crowcroft 
+    
+ Several new architectures have been developed for supporting multimedia applications such as digital video and audio. However quality-of-service (QoS) routing is an important element that is still missing from these architectures. In this paper, we consider a number of issues in QoS routing. We first examine the basic problem of QoS routing, namely, finding a path that satisfies multiple constraints, and its implications on routing metric selection, and then present three path computation algorithms for source routing and for hop-by-hop routing    
+
+ View     
+ Show abstract      
+
+ Capacity of Ad Hoc Wireless Networks    
+   
+ Article    
+ Jun 2001 
+
+ Jinyang Li 
+  Charles Blake 
+  Douglas S. J. De 
+  Robert Morris 
+    
+ Early simulation experience with wireless ad hoc networks suggests that their capacity can be surprisingly low, due to the requirement that nodes forward each others' packets. The achievable capacity depends on network size, traffic patterns, and detailed local radio interactions. This paper examines these factors alone and in combination, using simulation and analysis from first principles. Our results include both specific constants and general scaling relationships helpful in understanding the limitations of wireless ad hoc networks.    
+
+ View     
+ Show abstract      
+
+ Recommended publications  
+   
+ Discover more about: Mobile Ad Hoc Networks    
+
+ Conference Paper    
+   
+ Routing Based Feedback Towards Applications in Mobile Ad Hoc Networks.   
+ January 2005    
+ Djamal-Eddine Meddour 
+  Yvon Gourhant 
+  Within ad hoc networks, applications in general, and more specifically those with real-time constraints need to react to rapid variations in network resource availability. Hence, in order to operate correctly at application level, an accurate view on available network resources along computed paths is required. In this paper, we present a new mechanism that notifies instantly to the applications ... [Show full abstract]  about changes occurring on network paths and their QoS characteristics. Our approach is based on an extension of a proactive ad hoc routing protocol that sends detected changes to a configurable "event channel". Then, this channel forwards them selectively to applications using filtering rules. Performed tests show that our mechanism has low impact on the performance of the routing protocol and a real improvement on applications behaviour.    
+ Read more    
+
+ Conference Paper    
+   
+ Power and Delay-Aware Routing Protocol for Ad Hoc Networks   
+ July 2014    
+ Salwa Othmen 
+  Aymen Belghith 
+  Faouzi Zarai 
+  [...] 
+  Lotfi Kamoun 
+  Mobile Ad Hoc Networks (MANETs) also called mesh networks, consist of a large number of mobile nodes that communicate with each other in the absence of any fixed infrastructure or centralized administration. The principle characteristics of MANET are the dynamic topology and the limited battery power of mobile nodes. The discharge of the battery causes many problems such as the loss of the ... [Show full abstract]  packets and the re-initialization of route discovery which leads to lot of bandwidth consumption, increase in the delay and decrease in the throughput. In this paper, we propose a new power and delay aware routing protocol for wireless Ad Hoc networks. The goal of our proposed routing protocol is not only to find more stable paths from a source to a destination node in terms of remaining life time of battery, but also to find multi-paths that satisfy Quality of Service (QoS) requirements, given in terms of delay and bandwidth. To evaluate our proposed routing protocol (PDMRP), an extensive simulation study is performed using the NS-2 simulator. We show through simulation that our proposed routing protocol called Power and Delay aware Multi-path Routing Protocol (PDMRP) outperforms the Stable Path Routing Protocol based on Power Awareness (SPR) and the Modified Adhoc On-Demand Distance Vector (MAODV) routing protocols in terms of throughput, end-to-end delay, and loss rate. We modify the AODV protocol in NS-2 simulator so that it supports the energy module. We add the energy class to the relay and destination nodes. Therefore, the life time of each node in this protocol decreases when it sends or receives a packet. This modification is made on the AODV protocol to become similar to the two other routing protocols (The three protocols support the energy module).    
+ Read more    
+
+ Article    
+ Full-text available    
+   
+ Simulation and Analysis of Routing Protocols in MANETS for Different Network Sizes   
+ June 2020  · International Journal of Advanced Research in Computer Science    
+ Palak -- 
+  Nasib Singh Gill 
+  Efficient deployment of MANET (Mobile Ad hoc Networks) requires high engineering research to overcome many challenges. Routing in MANET is one of the challenging tasks due to its dynamic topology and lack of centralized infrastructure. The communication in ad hoc network is uncertain because established route could be broken anytime. In recent years, several routing protocols have been proposed ... [Show full abstract]  for mobile ad hoc networks and prominent among them are DSDV, DSR and AODV. This paper is a comparative study of these routing protocols under different network size showing the simulation results using NS2. We have chosen four performance criteria i.e. average energy consumed, end to end delay, and throughput and packet delivery fraction to compare these protocols.    
+ View full-text    
+
+ Article    
+   
+ An Analysis of Network Survivability with Variable Transmission Range and Mobility on AODV over MANE...   
+ January 2013    
+ Rajneesh Kumar Gujral 
+  Jitender Grover 
+  Anjali 
+  In Mobile Ad-Hoc Networks (MANETs), mobile devices are equipped with power (energy). In order to utilize this energy equipped devices efficiently for transmission of data packets, many energy aware routing strategies are followed. Effective transmission power control is a critical issue in the design and performance of wireless ad hoc networks. Transmission Power affects the Survivability of the ... [Show full abstract]  Network. Today, the design of packet radios and protocols for wireless ad hoc networks are primarily based on common-range transmission control. Mobility speed of the nodes and extension of ad hoc network affects the performance of the network as well. This paper is analysing one of the widely used routing protocol AODV with varying transmission range, mobility speeds and number of nodes. Data transmitted by a node is received by all the nodes within its communication range. This paper is focused on the analysis of varying the range of the transmission in terms of distance, mobility speed of the nodes and number of nodes in the network. The proposed work has been simulated using NS-2.34. The performance metrics comprises of Network Survivability and QoS parameters such as packet delivery ratio, end to end delay, routing overhead and throughput has been analysed in this paper.    
+ Read more    
+
+ Article    
+   
+ Mobility Management in Bluetooth ad hoc networks   
+ January 2004    
+ Osok Song 
+  Chaegwon Lim 
+  Chong-Ho Choi 
+  Samsung Electronics 
+  Bluetooth is a cutting-edge technology used for implementing wireless ad hoc networks. In order to provide an overall scheme for mobility management in Bluetooth ad hoc networks, this paper deals with scatternet topology management and packet routing. Scatternet topology management starts by forming a robust scatternet, which is less susceptible to the problems posed by node mobility. Topology ... [Show full abstract]  maintenance relies on the presence of free nodes that create multiple connections with the network and on their subsequently rejoining the network. For packet routing, the Bluetooth Master-Managed Routing (BMR) scheme is proposed. BMR is a proactive routing protocol, which is tailor made for the Bluetooth ad hoc network.    
+ Read more    
+
+ Article    
+ Full-text available    
+   
+ Performance Comparison of DSDV, OLSR, AODV, and DSR for Mobile Ad hoc Networks   
+ January 2018    
+ Lavanya Poluboyina 
+  Wireless ad hoc network is a continuously and dynamically self-configuring network, without any pre-existing routing infrastructure. Mobile ad hoc network (MANET) is one kind of wireless ad hoc network where the nodes forming a network are mobile in nature. Routing of data packets is a core problem in such networks with time-to-time varying topology. In MANETs, routing techniques are broadly ... [Show full abstract]  categorized into proactive, reactive, and hybrid. This paper presents the simulation and QoS (Quality of Service) metrics comparison of two basic and most popular routing protocols of each category, that is, DSDV and AODV.    
+ View full-text    
+
+ Conference Paper    
+   
+ NLAR: Node lifetime aware routing for mobile ad hoc networks   
+ December 2007    
+ Ash Mohammad Abbas 
+  In case of an ad hoc network, due to dynamically varying topology, a routing protocol should be aware of the lifetime of participating mobile devices. In this paper, we have proposed a routing protocol which is based on the awareness of lifetimes of the participating nodes. Further, we analyze the impact of node lifetime on multipath routing. In our analysis, we focus on the effects of the ... [Show full abstract]  parameters such as number of hops in the primary path, average hop difference between multiple node-disjoint paths and the probability of survival of nodes.    
+ Read more    
+
+ Conference Paper    
+   
+ Experimentations for QoS Evaluation of Publish/Subscribe Systems Deployed on Ad-hoc Network   
+ March 2011    
+ Imene Lahyani 
+  Mohamed Jmaiel 
+  Publish/subscribe (P/S) systems have been widely studied and applied in wired networks. However, their deployment on mobile ad hoc networks still presents a lot of challenges especially when there are quality of service (QoS) requirements. In this paper, we approach these challenges by looking first at network routing protocols. We present experimentations that allow to study the reaction of ... [Show full abstract]  these protocols against QoS degradation that occur at the middleware layer. Based on an empirical study, we show that the routing layer is generally not aware about QoS degradations and so it does not react when they occur. Thus, a reaction in the middleware layer have to be developed in order to achieve a reasonable performance.    
+ Read more    
+
+ Article    
+   
+ Analysis of variable mobility rate, nodes and transmission range on ad hoc routing protocols   
+ January 2013    
+ Rajneesh Kumar Gujral 
+  Sandhya Umrao 
+  Mobile Ad hoc Networks (MANETs) consists of mobile devices that are equipped with battery power and most of the power consumed in a node is due to transmission. In order to utilize this energy equipped devices efficiently for transmission of data packets, many energy aware routing strategies are suggested and implemented. Effective transmission power control is a critical issue in the design and ... [Show full abstract]  performance of wireless ad hoc networks. Today, the design of packet radios and protocols for wireless ad hoc networks are primarily based on common-range transmission control. Mobility speed of the nodes and extension of ad hoc network largely affects the performance. In this paper, the performance of Proactive (DSDV), Reactive (DSR, AODV) and Hybrid routing protocol (ZRP) with varying transmission range, mobility rate and number of nodes is analyzed. The performance metrics considered in the study are packet delivery ratio, end to end delay, routing overhead and average throughput.    
+ Read more    
+
+ Article    
+ Full-text available    
+   
+ Investigating the impact of Node Traversal Time on the Performance of DYMO in MANETs   
+ March 2014    
+ Venkataramana Attada 
+  s.Pallam Setty 
+  Mobile Ad hoc Network is an emerging area in the present mobile world. Its standards are defined by IETF. MANETs presents several desirable properties like dynamic topology Easy of deployment and robustness, are qualify them as an attractive topic for the research community finding feasible QoS routes is a challenging issue in MANETs. The choice of the stable values in protocol configuration ... [Show full abstract]  will affect correctness of protocol. In Mobile ad hoc networks DYMO protocol suggests that the Node Traversal Time (NTT) should be a constant value, but does not refer to how this value to be adjusted with network size. This paper investigates the impact of NTT value on the performance of DYMO routing protocol. Experimental results suggest that impact of NTT shows significant progress on the performance of DYMO. This paper demonstrates that in a dynamic environment we are not supposed to use constant values like NTT in protocol configuration and suggests that the Node Traversal Time should be a suitable value with the network size.    
+ View full-text    
+
+ Article    
+   
+ CAQS: A contention aware quality of service routing for TDMA-based ad hoc networks   
+ November 2010    
+ Khaled Abdullah Al Soufy 
+  Ash Mohammad Abbas 
+  The design of a routing protocol for the provision of quality of service (QoS) in a mobile ad hoc network is a challenging task. In this paper, we propose a routing protocol that tries to satisfy QoS requirements in terms of bandwidth and end-to-end delays of a flow of packets in a time division multiple access (TDMA) based ad hoc network. Our protocol tries to identify a path that avoids hidden ... [Show full abstract]  terminal and exposed terminal problems. In addition to that, our protocol tries to maximize the throughput of the network by minimizing the contention delays. We have carried out simulations to study the performance of our protocol. The proposed protocol performs better in terms of QoS satisfaction ratio and throughput as compared to the existing protocols.    
+ Read more    
+
+ Article    
+   
+ REAQ-AODV: Route stability and energy aware QoS routing in mobile Ad Hoc networks   
+ December 2014  · International Journal of Computers, Communications & Control (IJCCC)    
+ Srini Vasan 
+  Providing quality-of-service (QoS) support for Ad Hoc networks is a challenging task due to dynamicity, lack of centralized control, constrained resources and unreliable nature of radio channels and in Mobile Ad hoc networks. Finding a path that remains valid for sufficiently longer period is also a critical task in MANET. In this paper, we propose a novel, stability and energy based QoS ... [Show full abstract]  routing protocol which is an extension of our route stability and energy based routing (RSEA), to support applications with throughput and delay constraints. In this model, we compute the reliability factor based on the route stability and the residual energy of the intermediate nodes satisfying the admission control. The route with the highest reliability factor is selected for data transfer from source to destination among all the feasible routes. The proposed model has shown better results in terms of packet delivery ratio …    
+ Read more    
+
+ Last Updated: 21 Nov 2024    
+
+ Looking for the full-text?  
+ You can request the full-text of this conference paper directly from the authors on ResearchGate.  
+ Request full-text     
+   
+ Already a member? Log in    
+
+ ResearchGate iOS App    
+   
+ Get it from the App Store now.   
+
+ Install     
+
+ Keep up with your stats and more   
+
+ Access scientific knowledge from anywhere   
+
+ or   
+   
+ Discover by subject area     
+
+ Recruit researchers 
+  Join for free 
+  Login      Email   Tip:  Most researchers use their institutional email address as their ResearchGate login         Password  Forgot password?      Keep me logged in   Log in    or    Continue with Google                
+ Welcome back! Please log in.        Email · Hint  Tip:  Most researchers use their institutional email address as their ResearchGate login          Password   Forgot password?       Keep me logged in    Log in    or    Continue with Google       No account? Sign up 
+
+ Company   
+ About us    
+ News    
+ Careers    
+
+ Support   
+ Help Center    
+
+ Business solutions   
+ Advertising    
+ Recruiting    
+
+ © 2008-2024 ResearchGate GmbH. All rights reserved.   
+   
+ Terms 
+  Privacy 
+  Copyright 
+  Imprint 
+  Consent preferences 
+
+      
