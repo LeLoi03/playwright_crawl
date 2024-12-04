@@ -472,8 +472,8 @@ const saveHTMLContent = async (browser, conference, links, allBatches, batch, ba
         const imp = await saveHTMLFromImportantDates(page, conference, i);
 
         let finalContent = "";
-        finalContent = fullText + 'Call for papers data:' + cfp 
-        + 'Important dates data' + imp;
+        finalContent = fullText + '\nCall for papers data: \n' + cfp 
+        + 'Important dates data: \n' + imp;
 
         batch.push({
           conferenceName: conference.Title,

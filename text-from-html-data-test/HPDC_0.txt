@@ -1,6 +1,0 @@
-404: Page not found   
-  This error is generated when there was no web page with the name you specified at the web site.  
- Troubleshooting suggestions:   
- Ensure the page you are linking to exists in the correct folder.  
- Check your file name for case sensitivity . Index.htm is not the same as index.htm!  
- Temporarily disable any rewrite rules by renaming your .htaccess file if it exists.
