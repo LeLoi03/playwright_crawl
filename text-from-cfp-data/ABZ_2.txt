@@ -1,0 +1,368 @@
+Skip to search form  Skip to main content  Skip to account menu  Semantic Scholar  Semantic Scholar's Logo                         Search 222,645,544 papers from all fields of science   Search      
+
+  Sign In   Create Free Account     
+
+ DOI:  10.1007/978-3-319-91271-4 
+  Corpus ID: 21680394 
+  Abstract State Machines, Alloy, B, TLA, VDM, and Z  
+ @article{Butler2020AbstractSM title={Abstract State Machines, Alloy, B, TLA, VDM, and Z}, author={Michael J. Butler and Alexander Raschke and Son Hoang and Klaus Reichl}, journal={Sci. Comput. Program.}, year={2020}, volume={197}, pages={102514}, url={https://api.semanticscholar.org/CorpusID:21680394} }  Michael J. Butler     ,  Alexander Raschke     ,  +1 author    Klaus Reichl 
+  Published in Lecture Notes in Computer…      1 October 2020 
+  Computer Science, Engineering 
+  State Machines, Alloy, B, TLA, VDM, and Z 6th International Conference, ABZ 2018 Southampton, UK, June 5–8, 2018 Proceedings    
+   
+   View on Springer      
+   doi.org      
+
+   Save to Library  Save      
+   Create Alert  Alert      
+   Cite      
+
+    Share   12 Citations   Background Citations   
+     
+ 1   
+
+ View All      
+
+ Topics  
+   
+    AI-Generated     
+
+ Temporal Logic Of Actions (opens in a new tab)   Vienna Development Method (opens in a new tab)   Alloy (opens in a new tab)   State Machines (opens in a new tab)   Abstract State Machines (opens in a new tab)     
+
+ 12 Citations  
+
+  Citation Type        
+
+ Has PDF    
+ Author        
+
+ More Filters     
+ More Filters     
+ Filters     
+   
+ Sort by Relevance  Sort by Most Influenced Papers  Sort by Citation Count  Sort by Recency       
+
+ Property-Based Modelling and Validation of a CBTC Zone Controller in Event-B  
+  Mathieu Comptier     M. Leuschel     Luis-Fernando Mejia     J. M. Perez     Mareike Mutz      Computer Science, Engineering    
+ International Conference on Reliability, Safety…    
+ 2019 
+  This paper describes a formal analysis method applied at the software design level. The objective is to prove that a software specification and its implementation satisfy the expected system  …  Expand      
+ 16 
+    
+    Save     
+
+ Incremental Development of a Safety Critical System Combining formal Methods and DSMLs - - Application to a Railway System -  
+  Akram Idani     Y. Ledru     Abderrahim Ait Wakrime     R. Ayed     S. C. Dutilleul      Engineering, Computer Science    
+ International Workshop on Formal Methods for…    
+ 2019 
+  TLDR     
+
+ This work starts from an intuitive description of the system’s operational semantics thanks to high-level Petri-nets which abstract away structural constraints and focus on safety-critical behaviours, and takes benefit of the B method in order to refine and prove these operational semantics.   Expand     
+ 6 
+  PDF 
+    
+    Save     
+
+ Modeling the hybrid ERTMS/ETCS level 3 standard using a formal requirements engineering approach  
+  Steve Jeffrey Tueno Fotso     M. Frappier     Régine Laleau     A. Mammar      Computer Science, Engineering    
+ International Journal on Software Tools for…    
+ 2019 
+  This paper presents a specification of the hybrid ERTMS/ETCS level 3 standard in the framework of the case study proposed for ABZ2018. The specification is based on methods and tools, developed in  …  Expand      
+ 26 
+  PDF 
+    
+    Save     
+
+ Reasoning About Identifier Spaces: How to Make Chord Correct  
+  P. Zave      Computer Science    
+ IEEE Transactions on Software Engineering    
+ 2017 
+  TLDR     
+
+ The contribution of this paper is to provide the first specification of correct operations and initialization for Chord, an inductive invariant that is necessary and sufficient to support a proof of correctness, and two independent proofs of correctness.   Expand     
+ 30 
+     [PDF]      
+    Save     
+
+ log: Set Formulas as Programs  
+  Maximiliano Cristi'a     G. Rossi      Computer Science, Mathematics    
+ arXiv.org    
+ 2021 
+  TLDR     
+
+ This paper shows the development methodology ofLog, a programming language at the intersection of Constraint Logic Programming, set programming and declarative programming, and how it can be used to automatically prove non trivial properties of programs.   Expand     
+ 5 
+     [PDF]      
+    Save     
+
+ Validating Mathematical Theorems and Algorithms with RISCAL  
+  W. Schreiner      Mathematics, Computer Science    
+ International Conference on Intelligent Computer…    
+ 2018 
+  TLDR     
+
+ This work aims to quickly detect errors respectively inadequacies in the formalization by falsification in small model instances before attempting actual correctness proofs for the whole model class.   Expand     
+ 12 
+  PDF 
+    
+ 1 Excerpt 
+
+    Save     
+
+ A Separation of Concerns Approach for the Verified Modelling of Railway Signalling Rules  
+  Y. Ledru     Akram Idani     R. Ayed     Abderrahim Ait Wakrime     P. Bon      Computer Science, Engineering    
+ International Conference on Reliability, Safety…    
+ 2019 
+  TLDR     
+
+ This paper proposes a modelling approach for railway signalling rules that adopts a separation of concerns approach similar to the one used in information systems security, by introducing human errors, checking their consequences, and deploying counter-measures.   Expand     
+ 1 
+    
+    Save     
+
+ Merging Railway Standard Notations in a Formal DSL-Based Framework  
+  Asfand Yar     Akram Idani     S. C. Dutilleul      Engineering, Computer Science    
+ ECSA Companion    
+ 2020 
+  TLDR     
+
+ A railway DSL framework whose static semantics are built on top of RailTopoModel and the underlying dynamic semantics conform to ERTMS/ETCS is proposed, which allows to define, prove and animate safety-critical behaviors given domain-centric models.   Expand     
+ 1 
+    
+    Save     
+
+ Assessment of a Formal Requirements Modeling Approach on a Transportation System  
+  Steve Jeffrey Tueno Fotso     Régine Laleau     M. Frappier     A. Mammar     Francois Thibodeau     M. Mouchili      Engineering, Computer Science    
+ IEEE International Conference on Formal…    
+ 2019 
+  TLDR     
+
+ Improvements identified to enhance the expressiveness of SysML/KAOS goal modeling languages during validation sessions with VdM stakeholders are reported, including the introduction of a non-functional goal refinement strategy based on logical formulas and of an obstacle modeling language.   Expand     
+ PDF 
+    
+    Save     
+
+ A systematic literature review of the use of formal methods in medical software systems  
+  S. Bonfanti     A. Gargantini     A. Mashkoor      Medicine, Computer Science    
+ J. Softw. Evol. Process.    
+ 2018 
+  TLDR     
+
+ A systematic literature review on the available state of the art on the use of formal methods for modeling, design, development, verification, and validation of software‐intensive medical systems.   Expand     
+ 25 
+  PDF 
+    
+ 1 Excerpt 
+
+    Save     
+
+  ...   
+   
+ 1   
+  2   
+  ...   
+
+ 43 References  
+
+  Citation Type        
+
+ Has PDF    
+ Author        
+
+ More Filters     
+ More Filters     
+ Filters     
+   
+ Sort by Relevance  Sort by Most Influenced Papers  Sort by Citation Count  Sort by Recency       
+
+ Alchemy: transmuting base alloy specifications into implementations  
+  S. Krishnamurthi     Kathi Fisler     Daniel J. Dougherty     Daniel Yoo      Computer Science    
+ SIGSOFT '08/FSE-16    
+ 2008 
+  TLDR     
+
+ Al Alchemy translates a subset of Alloy predicates into imperative update operations, and it converts facts into database integrity constraints that it maintains automatically in the face of these imperative actions.   Expand     
+ 28 
+  Highly Influential 
+  PDF 
+    
+ 12 Excerpts 
+
+    Save     
+
+ Oracle-guided component-based program synthesis  
+  Susmit Jha     Sumit Gulwani     S. Seshia     A. Tiwari      Computer Science    
+ 2010 ACM/IEEE 32nd International Conference on…    
+ 2010 
+  TLDR     
+
+ A novel approach to automatic synthesis of loop-free programs based on a combination of oracle-guided learning from examples, and constraint-based synthesis from components using satisfiability modulo theories (SMT) solvers is presented.   Expand     
+ 534 
+  Highly Influential 
+  PDF 
+    
+ 10 Excerpts 
+
+    Save     
+
+ Aluminum: Principled scenario exploration through minimality  
+  Tim Nelson     Salman Saghafi     Daniel J. Dougherty     Kathi Fisler     S. Krishnamurthi      Computer Science    
+ International Conference on Software Engineering    
+ 2013 
+  TLDR     
+
+ Aluminum is presented, a modification of Alloy that presents only minimal scenarios: those that contain no more than is necessary, and the semantic basis of Aluminum is described in terms of minimal models of first-order logic formulas.   Expand     
+ 72 
+  Highly Influential 
+  PDF 
+    
+ 8 Excerpts 
+
+    Save     
+
+ Finding Minimal Unsatisfiable Cores of Declarative Specifications  
+  Emina Torlak     F. Chang     D. Jackson      Computer Science    
+ World Congress on Formal Methods    
+ 2008 
+  TLDR     
+
+ Recycling core extraction is a new coverage analysis that pinpoints an irreducible unsatisfiable core of a declarative specification.   Expand     
+ 93 
+  PDF 
+    
+ 3 Excerpts 
+
+    Save     
+
+ Alloy: a lightweight object modelling notation  
+  D. Jackson      Computer Science    
+ TSEM    
+ 2002 
+  TLDR     
+
+ This paper presents the Alloy language in its entirety, and explains its motivation, contributions and deficiencies.   Expand     
+ 1,387 
+  Highly Influential 
+  PDF 
+    
+ 11 Excerpts 
+
+    Save     
+
+ An Automated Approach for Writing Alloy Specifications Using Instances  
+  S. Khurshid     Muhammad Zubair Malik     E. Uzuncaova      Computer Science    
+ Leveraging Applications of Formal Methods    
+ 2006 
+  TLDR     
+
+ ADeryaft assists Alloy users in writing their specifications by providing a novel specification-writing approach, which is particularly tailored to users, such as engineers or practitioners in industry, who may not have much prior experience or proficiency in Alloy or similar logics.   Expand     
+ 5 
+  Highly Influential 
+  PDF 
+    
+ 7 Excerpts 
+
+    Save     
+
+ TACO: Efficient SAT-Based Bounded Verification Using Symmetry Breaking and Tight Bounds  
+  Juan P. Galeotti     Nicolás Rosner     C. L. Pombo     M. Frias      Computer Science    
+ IEEE Transactions on Software Engineering    
+ 2013 
+  TLDR     
+
+ This paper presents Translation of Annotated COde (TACO), a prototype tool which implements a novel, general, and fully automated technique for the SAT-based analysis of JML-annotated Java sequential programs dealing with complex linked data structures and instrument code analysis with a symmetry-breaking predicate.   Expand     
+ 58 
+  Highly Influential 
+  PDF 
+    
+ 10 Excerpts 
+
+    Save     
+
+ Evaluating State Modeling Techniques in Alloy  
+  Allison Sullivan     Kaiyuan Wang     S. Khurshid     D. Marinov      Computer Science    
+ SQAMIA    
+ 2017 
+  TLDR     
+
+ Consider next using the analyzer to check whether RemoveFirst has a specific property, i.e., PartialCorrectnessOnce, and how the predicate Acyclic can be written in the presence of state.   Expand     
+ 17 
+  Highly Influential 
+  PDF 
+    
+ 4 Excerpts 
+
+    Save     
+
+ Alloy*: a general-purpose higher-order relational constraint solver  
+  Aleksandar Milicevic     Joseph P. Near     Eunsuk Kang     D. Jackson      Computer Science    
+ Formal methods in system design    
+ 2017 
+  TLDR     
+
+ This work shows how to extend a first-order solver (in this case Kodkod, a model finder for relational logic used as the engine of the Alloy Analyzer) so that it can handle quantifications over higher-order structures.   Expand     
+ 83 
+  Highly Influential 
+  PDF 
+    
+ 7 Excerpts 
+
+    Save     
+
+ Towards a test automation framework for alloy  
+  Allison Sullivan     Razieh Nokhbeh Zaeem     S. Khurshid     D. Marinov      Computer Science, Engineering    
+ SPIN    
+ 2014 
+  TLDR     
+
+ The foundations of a novel test automation framework, AUnit, are introduced, which is envision for testing declarative models written in Alloy -- a first-order, relational language that is supported by its SAT-based analyzer.   Expand     
+ 21 
+  PDF 
+    
+ 2 Excerpts 
+
+    Save     
+
+  ...   
+   
+ 1   
+  2   
+  3   
+  4   
+  5   
+  ...   
+
+ Related Papers  
+ Showing 1 through 3 of 0 Related Papers  
+
+ Topics 
+  12 Citations 
+  43 References 
+  Related Papers 
+
+ Stay Connected With Semantic Scholar   
+  Sign Up     
+
+ What Is Semantic Scholar?  
+ Semantic Scholar is a free, AI-powered research tool for scientific literature, based at Ai2.  
+ Learn More    
+ About  
+ About Us  Meet the Team  Publishers  Blog (opens in a new tab)   Ai2 Careers (opens in a new tab)     
+ Product  
+ Product Overview  Semantic Reader  Scholar's Hub  Beta Program  Release Notes    
+ API  
+ API Overview  API Tutorials  API Documentation (opens in a new tab)   API Gallery    
+ Research  
+ Publications  Researchers  Research Careers  Prototypes  Resources    
+ Help  
+ FAQ  Librarians  Tutorials  Contact    
+
+ Proudly built by Ai2 (opens in a new tab)     
+ Collaborators & Attributions   • Terms of Service (opens in a new tab)   • Privacy Policy (opens in a new tab)   • API License Agreement    
+   
+ The Allen Institute for AI (opens in a new tab)     
+
+ By clicking accept or continuing to use the site, you agree to the terms outlined in our Privacy Policy (opens in a new tab)   , Terms of Service (opens in a new tab)   , and Dataset License (opens in a new tab)      
+ ACCEPT & CONTINUE    
+
+    
