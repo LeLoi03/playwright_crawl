@@ -783,16 +783,25 @@ const logErrorToFile = async (message) => {
   await fs.promises.appendFile(logFilePath, logMessage, "utf8"); // Ghi thêm vào file
 };
 
+const lastRequestTimestampRef = { current: 0 };
+const requestLock = { current: false };
+
 const callGeminiAPI = async (batch, batchIndex) => {
   let retryCount = 0;
   const maxRetries = 5; // Số lần thử lại tối đa
-  const delayBetweenRetries = 65000; // Thời gian chờ giữa các lần thử (30 giây)
-  const delayFor503 = 65000; // Thời gian chờ lâu hơn cho lỗi 503 (60 giây)
+  const delayBetweenRetries = 65000; // Thời gian chờ giữa các lần thử (65 giây)
+  const delayFor503 = 65000; // Thời gian chờ lâu hơn cho lỗi 503 (65 giây)
   const minDelayBetweenRequests = 65000; // Thời gian tối thiểu giữa các yêu cầu (65 giây)
-  const lastRequestTimestampRef = { current: 0 }; // Lưu dấu thời gian yêu cầu cuối cùng
 
   while (retryCount < maxRetries) {
     try {
+      // Sử dụng lock để đảm bảo luồng chờ đúng thứ tự
+      while (requestLock.current) {
+        console.log("Waiting for request lock...");
+        await new Promise((resolve) => setTimeout(resolve, 1000));
+      }
+      requestLock.current = true; // Khóa khi đang xử lý
+
       const currentTimestamp = Date.now();
       const timeSinceLastRequest = currentTimestamp - lastRequestTimestampRef.current;
 
@@ -816,7 +825,6 @@ const callGeminiAPI = async (batch, batchIndex) => {
         outputPart4,
       } = await readPromptCSV(csvPath);
 
-      // Tạo nội dung gửi đi
       const parts = [
         { text: `${inputPart1}` },
         { text: `${outputPart1}` },
@@ -836,27 +844,16 @@ const callGeminiAPI = async (batch, batchIndex) => {
       });
 
       const responseText = response.response.text();
-      // const usageMetaData = response.response.usageMetadata;
+      lastRequestTimestampRef.current = Date.now(); // Cập nhật dấu thời gian gần nhất
 
-      lastRequestTimestampRef.current = Date.now(); // Cập nhật dấu thời gian
+      requestLock.current = false; // Mở khóa sau khi xử lý xong
 
-
-
-      // // Kiểm tra kết quả trả về
-      // const isValid = validateResponse(responseText, batch);
-      // if (isValid) {
-        // Lưu kết quả API
       const response_outputPath = `./responses_50/result_${batchIndex}.txt`;
       await fs.promises.writeFile(response_outputPath, responseText, "utf8");
 
-      return responseText //, usageMetaData;
-
-      // } else {
-      //   console.log("Invalid API response: Mismatch in conference details.");
-      //   throw new Error("Invalid API response: Mismatch in conference details.");
-      // }
-
+      return responseText;
     } catch (error) {
+      requestLock.current = false; // Mở khóa trong trường hợp lỗi
       let logMessage = `Error in batch #${batchIndex}: ${error.message}`;
       if (error.message.includes("429")) {
         console.warn(`429 Error: Too Many Requests. Retrying batch #${batchIndex} in ${delayBetweenRetries / 1000}s...`);
@@ -864,27 +861,24 @@ const callGeminiAPI = async (batch, batchIndex) => {
       } else if (error.message.includes("503")) {
         console.warn(`503 Error: Service Unavailable. Retrying batch #${batchIndex} in ${delayFor503 / 1000}s...`);
         logMessage += ` - Retrying in ${delayFor503 / 1000}s.`;
-      } else if (error.message.includes("Invalid API response")) {
-        console.warn(`Invalid API response for batch #${batchIndex}. Retrying...`);
       } else {
         console.error(`Error in callGeminiAPI for batch #${batchIndex}:`, error.message);
       }
-    
-      // Ghi lỗi vào file
+
       await logErrorToFile(logMessage);
-    
       retryCount++;
       if (retryCount < maxRetries) {
         await new Promise((resolve) => setTimeout(resolve, delayBetweenRetries));
       } else {
         const finalErrorMessage = `Failed to process batch #${batchIndex} after ${maxRetries} retries.`;
         console.error(finalErrorMessage);
-        await logErrorToFile(finalErrorMessage); // Ghi lỗi cuối cùng
+        await logErrorToFile(finalErrorMessage);
         return 0;
       }
-    }    
+    }
   }
 };
+
 
 async function determineMainLinksWithResponses(allBatches, allResponses) {
   try {
@@ -1228,8 +1222,3 @@ const run = async () => {
   console.log(`Time: ${runTime} ms`);
   fs.writeFileSync('crawl_and_callAPI_runtime.txt', `Execution time: ${runTime} ms`);
 })();
-
-
-
-
-
