@@ -1,10 +1,3 @@
-// require("dotenv").config();
-// const {JSDOM} = require("jsdom");
-// const playwright = require("playwright");
-// const fs = require("fs");
-// const PQueue = require('p-queue');
-// const queue = new PQueue({ concurrency: 5 }); // Giới hạn 3 tác vụ đồng thời
-
 import dotenv from "dotenv";
 import { JSDOM } from "jsdom";
 import playwright from "playwright";
@@ -323,74 +316,48 @@ const saveHTMLContent = async (browser, conference, links) => {
       links: links,
     };
 
-    // Kiểm tra file JSON trong thư mục "link-data-19-10"
-    const linksFilename = `./link-data/${conference.Acronym}_links.json`;
-    const newLinksFilename = `./link-data-test/${conference.Acronym}_links.json`;
+    // Lưu file JSON vào "link-data-test"
+    fs.writeFileSync(newLinksFilename, JSON.stringify(linksData, null, 2));
+    console.log(`\nSaved links to: ${newLinksFilename}`);
 
-    // Nếu file chưa tồn tại trong "link-data"
-    // if (!fs.existsSync(linksFilename)) {
-      if (!fs.existsSync("./link-data-test")) {
-        fs.mkdirSync("./link-data-test");
-      }
-
-      // Lưu file JSON vào "link-data-test"
-      fs.writeFileSync(newLinksFilename, JSON.stringify(linksData, null, 2));
-      console.log(`\nSaved links to: ${newLinksFilename}`);
-
-      for (let i = 0; i < links.length; i++) {
-        const page = await browser.newPage();
-        // Tắt tài nguyên không cần thiết
-        await page.route("**/*", (route) => {
-          const request = route.request();
-          const resourceType = request.resourceType();
-
-          // Lọc bỏ các loại tài nguyên và URL không cần thiết
-          if (
-            ['image', 'media', 'font', 'stylesheet', 'script'].includes(resourceType) ||
-            request.url().includes("google-analytics") ||
-            request.url().includes("ads") ||
-            request.url().includes("tracking")
-          ) {
-            route.abort(); // Bỏ qua yêu cầu
-          } else {
-            route.continue(); // Tiếp tục yêu cầu
-          }
-        });
-        
-        const timeout = setTimeout(() => {
-          console.warn(`Page ${links[i]} is taking too long. Skipping.`);
-          page.close();
-        }, 60000); // 60 giây
-
-        try {
-          await page.goto(links[i], { waitUntil: "domcontentloaded" });
-          clearTimeout(timeout);
+    for (let i = 0; i < links.length; i++) {
+      const page = await browser.newPage();
+      // Tắt tài nguyên không cần thiết
       
-          // Lấy nội dung HTML của trang
-          const htmlContent = await page.content();
+      const timeout = setTimeout(() => {
+        console.warn(`Page ${links[i]} is taking too long. Skipping.`);
+        page.close();
+      }, 60000); // 60 giây
 
-          // Kiểm tra và tạo thư mục "text-from-html-data-test" nếu chưa tồn tại
-          if (!fs.existsSync("./text-from-html-data-test")) {
-            fs.mkdirSync("./text-from-html-data-test");
-          }
+      try {
+        await page.goto(links[i], { waitUntil: "domcontentloaded" });
+        clearTimeout(timeout);
+    
+        // Lấy nội dung HTML của trang
+        const htmlContent = await page.content();
 
-          // Lưu file txt vào thư mục "text-from-html-data-test"
-          const outputFilePath = `./text-from-html-data-test/${conference.Acronym}_${i}.txt`;
-          extractTextFromHTML(htmlContent, outputFilePath);
-          console.log(`\nSaved text to: ${outputFilePath}`);
-
-          // Lấy thông tin từ các tab "Call for Paper"
-          await saveHTMLFromCallForPapers(page, conference, i);
-          await saveHTMLFromImportantDates(page, conference, i);
-
-
-          await page.close();
-        } catch (error) {
-          console.error(`Error loading page ${links[i]}: ${error.message}`);
-        } finally {
-          await page.close();
+        // Kiểm tra và tạo thư mục "text-from-html-data-test" nếu chưa tồn tại
+        if (!fs.existsSync("./text-from-html-data-test")) {
+          fs.mkdirSync("./text-from-html-data-test");
         }
+
+        // Lưu file txt vào thư mục "text-from-html-data-test"
+        const outputFilePath = `./text-from-html-data-test/${conference.Acronym}_${i}.txt`;
+        extractTextFromHTML(htmlContent, outputFilePath);
+        console.log(`\nSaved text to: ${outputFilePath}`);
+
+        // // Lấy thông tin từ các tab "Call for Paper"
+        // await saveHTMLFromCallForPapers(page, conference, i);
+        // await saveHTMLFromImportantDates(page, conference, i);
+
+
+        await page.close();
+      } catch (error) {
+        console.error(`Error loading page ${links[i]}: ${error.message}`);
+      } finally {
+        await page.close();
       }
+    }
     // } else {
     //   console.log(`File ${linksFilename} already exists. Skipping text extraction.`);
     // }
@@ -616,6 +583,24 @@ const main = async () => {
     ignoreHTTPSErrors: true,
     userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
   });
+
+  // Tắt các tài nguyên không cần thiết tại cấp độ context
+  await browserContext.route("**/*", (route) => {
+    const request = route.request();
+    const resourceType = request.resourceType();
+
+    if (
+      ["image", "media", "font", "stylesheet", "script"].includes(resourceType) ||
+      request.url().includes("google-analytics") ||
+      request.url().includes("ads") ||
+      request.url().includes("tracking")
+    ) {
+      route.abort();
+    } else {
+      route.continue();
+    }
+  });
+
   
   try {
     console.log("Starting crawler...");
